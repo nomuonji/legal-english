@@ -6,7 +6,6 @@ export const lawEnglishSchema = z.object({
     category: z.string(),
     titleText: z.string(),
     word: z.string(),
-    pronunciation: z.string(),
     definition: z.string(),
     japaneseDefinition: z.string(),
     japaneseWordTranslation: z.string(),
@@ -156,8 +155,8 @@ const ContextScene: React.FC<{ context: string; japaneseContext: string; duratio
         <AbsoluteFill className="container" style={{ opacity: containerOpacity }}>
             <Background />
             <div className="content-wrapper">
-                <div className="card" style={{ opacity, transform: `translateY(${slide}px)`, borderLeftColor: '#c0392b' }}>
-                    <div className="card-label" style={{ backgroundColor: '#c0392b', color: '#fff' }}>Legal Context</div>
+                <div className="card" style={{ opacity, transform: `translateY(${slide}px)`, borderLeftColor: 'var(--primary-color)' }}>
+                    <div className="card-label" style={{ backgroundColor: 'var(--primary-color)', color: '#fff' }}>Legal Context</div>
                     <div className="context-text">{context}</div>
                     <div className="context-jp">{japaneseContext}</div>
                 </div>
@@ -182,8 +181,8 @@ const ExampleScene: React.FC<{ sentence: string; translation: string; durationIn
         <AbsoluteFill className="container" style={{ opacity: containerOpacity }}>
             <Background />
             <div className="content-wrapper">
-                <div className="card" style={{ opacity, borderLeftColor: '#d4af37' }}>
-                    <div className="card-label" style={{ backgroundColor: '#d4af37', color: '#2c3e50' }}>Example</div>
+                <div className="card" style={{ opacity, borderLeftColor: 'var(--accent-color)' }}>
+                    <div className="card-label" style={{ backgroundColor: 'var(--accent-color)', color: 'var(--text-dark)' }}>Example</div>
                     <div className="example-en">{sentence}</div>
                     <div className="example-jp">{translation}</div>
                 </div>
@@ -204,9 +203,47 @@ const ProgressBar: React.FC = () => {
     );
 }
 
+const getThemeStyle = (category: string) => {
+    if (category.includes("Civil Code") || category.includes("民法")) {
+        return {
+            "--primary-color": "#c0392b", // Red
+            "--accent-color": "#d4af37", // Gold
+            "--bg-start": "#2c3e50",
+            "--bg-end": "#000000",
+            "--text-dark": "#2c3e50",
+        } as React.CSSProperties;
+    } else if (category.includes("Companies Act") || category.includes("会社法")) {
+        return {
+            "--primary-color": "#2980b9", // Blue
+            "--accent-color": "#f1c40f", // Yellow
+            "--bg-start": "#34495e",
+            "--bg-end": "#1a252f",
+            "--text-dark": "#2c3e50",
+        } as React.CSSProperties;
+    } else if (category.includes("Criminal") || category.includes("刑法")) {
+        return {
+            "--primary-color": "#8e44ad", // Purple
+            "--accent-color": "#bdc3c7", // Silver
+            "--bg-start": "#2c3e50",
+            "--bg-end": "#000000",
+            "--text-dark": "#2c3e50",
+        } as React.CSSProperties;
+    }
+    // Default
+    return {
+        "--primary-color": "#c0392b",
+        "--accent-color": "#d4af37",
+        "--bg-start": "#2c3e50",
+        "--bg-end": "#000000",
+        "--text-dark": "#2c3e50",
+    } as React.CSSProperties;
+};
+
 export const LawEnglishVideo: React.FC<z.infer<typeof lawEnglishSchema>> = (props) => {
+    const themeStyle = getThemeStyle(props.category);
+
     return (
-        <AbsoluteFill>
+        <AbsoluteFill style={themeStyle}>
             <Sequence durationInFrames={90}>
                 <TitleScene title={props.titleText} category={props.category} durationInFrames={90} />
             </Sequence>

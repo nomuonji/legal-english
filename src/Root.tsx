@@ -1,6 +1,8 @@
 import "./index.css";
 import { Composition } from "remotion";
 import { LawEnglishVideo, lawEnglishSchema } from "./LawEnglish";
+import { z } from "zod";
+import data from "./data/law-english-data.json";
 
 // Each <Composition> is an entry in the sidebar!
 
@@ -15,31 +17,7 @@ export const RemotionRoot: React.FC = () => {
         width={1080}
         height={1920}
         schema={lawEnglishSchema}
-        defaultProps={{
-          category: "Civil Code (民法)",
-          titleText: "Mastering\nJapanese Legal English",
-          word: "Statute of Limitations",
-          pronunciation: "/ˌstætʃ.uːt əv ˌlɪm.ɪˈteɪ.ʃənz/",
-          definition: "A law setting the maximum time after an event within which legal proceedings may be initiated.",
-          japaneseDefinition: "ある出来事の後、法的手続きを開始できる最大期間を定めた法律。",
-          japaneseWordTranslation: "消滅時効 (しょうめつじこう)",
-          legalContext: "Civil Code Art. 166: Claims are extinguished if not exercised within 5 years of knowing, or 10 years of the right arising.",
-          japaneseLegalContext: "民法166条：債権は、権利を行使できることを知った時から5年間、または権利を行使できる時から10年間行使しないときは、時効によって消滅する。",
-          exampleSentence: "The statute of limitations has expired, so the claim is barred.",
-          exampleTranslation: "消滅時効が完成したため、その請求は阻却される。",
-          vocabularyList: [
-            { word: "Statute of Limitations", translation: "消滅時効" },
-            { word: "Legal Proceedings", translation: "法的手続き" },
-            { word: "Initiate", translation: "提起する" },
-            { word: "Civil Code", translation: "民法" },
-            { word: "Claim", translation: "債権/請求権" },
-            { word: "Extinguish", translation: "消滅する" },
-            { word: "Exercise", translation: "行使する" },
-            { word: "Arise", translation: "発生する" },
-            { word: "Expire", translation: "満了する" },
-            { word: "Bar", translation: "阻却する" },
-          ],
-        }}
+        defaultProps={data as z.infer<typeof lawEnglishSchema>}
       />
     </>
   );

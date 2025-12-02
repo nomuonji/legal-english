@@ -10,3 +10,5 @@ Config.setVideoImageFormat("jpeg");
 Config.setOverwriteOutput(true);
 Config.overrideWebpackConfig(enableTailwind);
 Config.setChromiumOpenGlRenderer('swangle');
+Config.setTimeoutInMilliseconds(60000);
+Config.setConcurrency(1);

@@ -21,12 +21,14 @@
   align-items: center;
   background: radial-gradient(circle at center, var(--bg-start) 0%, var(--bg-end) 100%);
   background-size: 200% 200%;
-  animation: gradientMove 15s ease infinite;
+  animation: gradientMove 60s ease infinite;
   color: var(--text-main);
   font-family: 'Playfair Display', 'Noto Serif JP', serif;
   width: 100%;
   height: 100%;
-  position: relative;
+  position: absolute;
+  top: 0;
+  left: 0;
   overflow: hidden;
 }
 

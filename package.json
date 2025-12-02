@@ -6,14 +6,19 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
+    "@google-cloud/text-to-speech": "^6.4.0",
     "@remotion/cli": "4.0.379",
+    "@remotion/tailwind-v4": "4.0.379",
     "@remotion/zod-types": "4.0.379",
+    "axios": "^1.13.2",
+    "dotenv": "^17.2.3",
+    "fs-extra": "^11.3.2",
+    "mp3-duration": "^1.1.0",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "remotion": "4.0.379",
-    "zod": "3.22.3",
-    "@remotion/tailwind-v4": "4.0.379",
-    "tailwindcss": "4.0.0"
+    "tailwindcss": "4.0.0",
+    "zod": "3.22.3"
   },
   "devDependencies": {
     "@remotion/eslint-config-flat": "4.0.379",
@@ -27,7 +32,8 @@
     "dev": "remotion studio",
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
-    "lint": "eslint src && tsc"
+    "lint": "eslint src && tsc",
+    "build-video": "npx ts-node scripts/generate-audio.ts && npx remotion render src/index.ts LawEnglish out/video.mp4 && npx ts-node scripts/cleanup-audio.ts"
   },
   "sideEffects": [
     "*.css"

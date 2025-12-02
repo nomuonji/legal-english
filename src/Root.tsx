@@ -1,7 +1,6 @@
 import "./index.css";
 import { Composition } from "remotion";
-import { HelloWorld, myCompSchema } from "./HelloWorld";
-import { Logo, myCompSchema2 } from "./HelloWorld/Logo";
+import { LawEnglishVideo, lawEnglishSchema } from "./LawEnglish";
 
 // Each <Composition> is an entry in the sidebar!
 
@@ -9,37 +8,37 @@ export const RemotionRoot: React.FC = () => {
   return (
     <>
       <Composition
-        // You can take the "id" to render a video:
-        // npx remotion render HelloWorld
-        id="HelloWorld"
-        component={HelloWorld}
-        durationInFrames={150}
+        id="LawEnglish"
+        component={LawEnglishVideo}
+        durationInFrames={930}
         fps={30}
-        width={1920}
-        height={1080}
-        // You can override these props for each render:
-        // https://www.remotion.dev/docs/parametrized-rendering
-        schema={myCompSchema}
+        width={1080}
+        height={1920}
+        schema={lawEnglishSchema}
         defaultProps={{
-          titleText: "Welcome to Remotion",
-          titleColor: "#000000",
-          logoColor1: "#91EAE4",
-          logoColor2: "#86A8E7",
-        }}
-      />
-
-      {/* Mount any React component to make it show up in the sidebar and work on it individually! */}
-      <Composition
-        id="OnlyLogo"
-        component={Logo}
-        durationInFrames={150}
-        fps={30}
-        width={1920}
-        height={1080}
-        schema={myCompSchema2}
-        defaultProps={{
-          logoColor1: "#91dAE2" as const,
-          logoColor2: "#86A8E7" as const,
+          category: "Civil Code (民法)",
+          titleText: "Mastering\nJapanese Legal English",
+          word: "Statute of Limitations",
+          pronunciation: "/ˌstætʃ.uːt əv ˌlɪm.ɪˈteɪ.ʃənz/",
+          definition: "A law setting the maximum time after an event within which legal proceedings may be initiated.",
+          japaneseDefinition: "ある出来事の後、法的手続きを開始できる最大期間を定めた法律。",
+          japaneseWordTranslation: "消滅時効 (しょうめつじこう)",
+          legalContext: "Civil Code Art. 166: Claims are extinguished if not exercised within 5 years of knowing, or 10 years of the right arising.",
+          japaneseLegalContext: "民法166条：債権は、権利を行使できることを知った時から5年間、または権利を行使できる時から10年間行使しないときは、時効によって消滅する。",
+          exampleSentence: "The statute of limitations has expired, so the claim is barred.",
+          exampleTranslation: "消滅時効が完成したため、その請求は阻却される。",
+          vocabularyList: [
+            { word: "Statute of Limitations", translation: "消滅時効" },
+            { word: "Legal Proceedings", translation: "法的手続き" },
+            { word: "Initiate", translation: "提起する" },
+            { word: "Civil Code", translation: "民法" },
+            { word: "Claim", translation: "債権/請求権" },
+            { word: "Extinguish", translation: "消滅する" },
+            { word: "Exercise", translation: "行使する" },
+            { word: "Arise", translation: "発生する" },
+            { word: "Expire", translation: "満了する" },
+            { word: "Bar", translation: "阻却する" },
+          ],
         }}
       />
     </>

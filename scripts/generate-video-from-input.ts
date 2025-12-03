@@ -14,7 +14,7 @@ async function main() {
         process.exit(1);
     }
 
-    const files = fs.readdirSync(INPUT_DIR).filter(f => f.endsWith('.json'));
+    const files = fs.readdirSync(INPUT_DIR).filter((f: string) => f.endsWith('.json'));
 
     if (files.length === 0) {
         console.error('No JSON files found in input directory.');
@@ -38,7 +38,7 @@ async function main() {
                 break;
             }
         } catch (e) {
-            console.warn(`Error reading ${file}:`, e.message);
+            console.warn(`Error reading ${file}:`, (e as Error).message);
         }
     }
 
@@ -64,7 +64,9 @@ async function main() {
         execSync('npx ts-node scripts/generate-audio.ts', { stdio: 'inherit', cwd: path.join(__dirname, '..') });
 
         console.log('Rendering video...');
-        const outputVideo = `out/video_${Date.now()}.mp4`;
+        const category = selectedData.category.replace(/[^a-z0-9]/gi, '_').toLowerCase();
+        const word = selectedData.word.replace(/[^a-z0-9]/gi, '_').toLowerCase();
+        const outputVideo = `out/${category}_${word}.mp4`;
         execSync(`npx remotion render src/index.ts LawEnglish ${outputVideo}`, { stdio: 'inherit', cwd: path.join(__dirname, '..') });
 
         console.log('Cleaning up audio...');
@@ -72,7 +74,7 @@ async function main() {
 
         console.log(`\nSuccess! Video generated at: ${outputVideo}`);
     } catch (e) {
-        console.error('Error during video generation process:', e.message);
+        console.error('Error during video generation process:', (e as Error).message);
         process.exit(1);
     }
 }

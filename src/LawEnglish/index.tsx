@@ -358,11 +358,7 @@ export const LawEnglishVideo: React.FC<z.infer<typeof lawEnglishSchema>> = (prop
     // Calculate audio intervals for lip-sync
     const audioIntervals: { start: number; end: number }[] = [];
     if (audioDurations) {
-        // Title Scene
-        audioIntervals.push({
-            start: 0,
-            end: Math.ceil(audioDurations.title * fps)
-        });
+        // Title Scene - Skipped (English only)
 
         // Word Scene
         const wordBase = scene1End;
@@ -375,9 +371,8 @@ export const LawEnglishVideo: React.FC<z.infer<typeof lawEnglishSchema>> = (prop
         const defEnStart = wordJpStart + wordJpDur + 15;
         const defJpStart = defEnStart + defEnDur + 10;
 
-        audioIntervals.push({ start: wordBase, end: wordBase + wordEnDur });
+        // Only Japanese parts
         audioIntervals.push({ start: wordBase + wordJpStart, end: wordBase + wordJpStart + wordJpDur });
-        audioIntervals.push({ start: wordBase + defEnStart, end: wordBase + defEnStart + defEnDur });
         audioIntervals.push({ start: wordBase + defJpStart, end: wordBase + defJpStart + defJpDur });
 
         // Context Scene
@@ -386,7 +381,7 @@ export const LawEnglishVideo: React.FC<z.infer<typeof lawEnglishSchema>> = (prop
         const ctxJpDur = Math.ceil(audioDurations.context_jp * fps);
         const ctxJpStart = ctxEnDur + 15;
 
-        audioIntervals.push({ start: contextBase, end: contextBase + ctxEnDur });
+        // Only Japanese part
         audioIntervals.push({ start: contextBase + ctxJpStart, end: contextBase + ctxJpStart + ctxJpDur });
 
         // Example Scene
@@ -395,27 +390,15 @@ export const LawEnglishVideo: React.FC<z.infer<typeof lawEnglishSchema>> = (prop
         const exJpDur = Math.ceil(audioDurations.example_jp * fps);
         const exJpStart = exEnDur + 15;
 
-        audioIntervals.push({ start: exampleBase, end: exampleBase + exEnDur });
+        // Only Japanese part
         audioIntervals.push({ start: exampleBase + exJpStart, end: exampleBase + exJpStart + exJpDur });
 
-        // Vocab Scene
-        const vocabBase = scene4End;
-        let currentVocabStart = 0;
-        if (audioDurations.vocab) {
-            audioDurations.vocab.forEach((dur) => {
-                const durFrames = Math.ceil(dur * fps);
-                audioIntervals.push({
-                    start: vocabBase + currentVocabStart,
-                    end: vocabBase + currentVocabStart + durFrames
-                });
-                currentVocabStart += durFrames + 15;
-            });
-        }
+        // Vocab Scene - Skipped (Mixed/English)
     }
 
     return (
         <AbsoluteFill style={themeStyle}>
-            <Audio src={staticFile("bgm/bgm.mp3")} loop volume={0.3} />
+            <Audio src={staticFile("bgm/caravan.mp3")} loop volume={0.3} />
             <Sequence durationInFrames={titleDuration}>
                 <TitleScene title={props.titleText} category={props.category} durationInFrames={titleDuration} hasAudio={!!audioDurations} />
             </Sequence>

@@ -13,37 +13,23 @@
   --item-bg: rgba(255, 255, 255, 0.1);
 }
 
-.container {
-  flex: 1;
+.scene-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: var(--bg-start);
   background: radial-gradient(circle at center, var(--bg-start) 0%, var(--bg-end) 100%);
-  background-size: 200% 200%;
-  animation: gradientMove 60s ease infinite;
   color: var(--text-main);
   font-family: 'Playfair Display', 'Noto Serif JP', serif;
   position: absolute;
   top: 0;
   left: 0;
-  right: 0;
-  bottom: 0;
+  width: 100%;
+  height: 100%;
   overflow: hidden;
-}
-
-@keyframes gradientMove {
-  0% {
-    background-position: 50% 50%;
-  }
-
-  50% {
-    background-position: 100% 100%;
-  }
-
-  100% {
-    background-position: 50% 50%;
-  }
+  margin: 0;
+  padding: 0;
 }
 
 .bg-overlay {

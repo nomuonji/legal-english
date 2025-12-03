@@ -64,8 +64,8 @@ async function main() {
         execSync('npx ts-node scripts/generate-audio.ts', { stdio: 'inherit', cwd: path.join(__dirname, '..') });
 
         console.log('Rendering video...');
-        const category = selectedData.category.replace(/[^a-z0-9]/gi, '_').toLowerCase();
-        const word = selectedData.word.replace(/[^a-z0-9]/gi, '_').toLowerCase();
+        const category = selectedData.category.replace(/[^a-z0-9]+/gi, '_').toLowerCase().replace(/^_+|_+$/g, '');
+        const word = selectedData.word.replace(/[^a-z0-9]+/gi, '_').toLowerCase().replace(/^_+|_+$/g, '');
         const outputVideo = `out/${category}_${word}.mp4`;
         execSync(`npx remotion render src/index.ts LawEnglish ${outputVideo}`, { stdio: 'inherit', cwd: path.join(__dirname, '..') });
 

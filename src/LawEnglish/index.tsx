@@ -76,7 +76,7 @@ const TitleScene: React.FC<{ title: string; category: string; word: string; dura
     );
 
     return (
-        <AbsoluteFill className="container">
+        <AbsoluteFill className="scene-container">
             {hasAudio && <Audio src={staticFile("audio/title.mp3")} />}
             <Background />
             <div className="content-wrapper">
@@ -144,7 +144,7 @@ const VocabularyListScene: React.FC<{ vocabularyList: { word: string; translatio
     );
 
     return (
-        <AbsoluteFill className="container" style={{ opacity: containerOpacity }}>
+        <AbsoluteFill className="scene-container" style={{ opacity: containerOpacity }}>
             <Background />
             <div className="content-wrapper">
                 <div className="vocab-list-container">
@@ -191,6 +191,72 @@ const VocabularyListScene: React.FC<{ vocabularyList: { word: string; translatio
     );
 };
 
+const EndCardScene: React.FC<{ durationInFrames: number }> = ({ durationInFrames }) => {
+    const frame = useCurrentFrame();
+    const { fps } = useVideoConfig();
+
+    const opacity = interpolate(
+        frame,
+        [0, 20, durationInFrames - 20, durationInFrames],
+        [0, 1, 1, 0]
+    );
+
+    const scale = spring({
+        frame,
+        fps,
+        config: { damping: 200 },
+    });
+
+    return (
+        <AbsoluteFill className="scene-container" style={{ opacity }}>
+            <Background />
+            <div className="content-wrapper">
+                <div style={{
+                    display: 'flex',
+                    flexDirection: 'column',
+                    alignItems: 'center',
+                    transform: `scale(${scale})`,
+                    background: 'rgba(0,0,0,0.6)',
+                    padding: '60px',
+                    borderRadius: '20px',
+                    border: '2px solid var(--accent-color)',
+                    boxShadow: '0 10px 30px rgba(0,0,0,0.5)',
+                    width: '90%',
+                    maxWidth: '90%'
+                }}>
+                    <h1 style={{
+                        fontSize: '70px',
+                        color: '#fff',
+                        marginBottom: '30px',
+                        textTransform: 'uppercase',
+                        letterSpacing: '0.1em',
+                        textAlign: 'center'
+                    }}>
+                        Thanks for Watching!
+                    </h1>
+                    <div style={{
+                        fontSize: '45px',
+                        color: 'var(--accent-color)',
+                        marginBottom: '20px',
+                        fontWeight: 'bold',
+                        textAlign: 'center'
+                    }}>
+                        役に立ったら保存・フォロー！
+                    </div>
+                    <div style={{
+                        fontSize: '30px',
+                        color: '#ddd',
+                        marginTop: '20px',
+                        fontFamily: 'sans-serif'
+                    }}>
+                        Mastering Japanese Legal English
+                    </div>
+                </div>
+            </div>
+        </AbsoluteFill>
+    );
+};
+
 const DefinitionCard: React.FC<{ definition: string; japaneseDefinition: string; delay: number }> = ({ definition, japaneseDefinition, delay }) => {
     const frame = useCurrentFrame();
     const { fps } = useVideoConfig();
@@ -230,7 +296,7 @@ const WordScene: React.FC<{ word: string; japaneseWordTranslation: string; defin
     const definitionDelay = definitionEnStart;
 
     return (
-        <AbsoluteFill className="container" style={{ opacity: containerOpacity }}>
+        <AbsoluteFill className="scene-container" style={{ opacity: containerOpacity }}>
             <Sequence from={0}>
                 <Audio src={staticFile("se/click.mp3")} volume={0.5} />
             </Sequence>
@@ -281,7 +347,7 @@ const ContextScene: React.FC<{ context: string; japaneseContext: string; duratio
     const jpAudioStart = audioDurations ? Math.ceil(audioDurations.en * fps) + 15 : 150;
 
     return (
-        <AbsoluteFill className="container" style={{ opacity: containerOpacity }}>
+        <AbsoluteFill className="scene-container" style={{ opacity: containerOpacity }}>
             <Sequence from={0}>
                 <Audio src={staticFile("se/paper.mp3")} volume={0.5} />
             </Sequence>
@@ -320,7 +386,7 @@ const ExampleScene: React.FC<{ sentence: string; translation: string; durationIn
     const jpAudioStart = audioDurations ? Math.ceil(audioDurations.en * fps) + 15 : 150;
 
     return (
-        <AbsoluteFill className="container" style={{ opacity: containerOpacity }}>
+        <AbsoluteFill className="scene-container" style={{ opacity: containerOpacity }}>
             <Sequence from={0}>
                 <Audio src={staticFile("se/paper.mp3")} volume={0.5} />
             </Sequence>
@@ -398,7 +464,9 @@ export const LawEnglishVideo: React.FC<z.infer<typeof lawEnglishSchema>> = (prop
     const scene2End = scene1End + wordDuration;
     const scene3End = scene2End + contextDuration;
     const scene4End = scene3End + exampleDuration;
-    const totalDuration = scene4End + vocabDuration;
+    const scene5End = scene4End + vocabDuration;
+    const endCardDuration = 90; // 3 seconds
+    const totalDuration = scene5End + endCardDuration;
 
     // Calculate audio intervals for lip-sync
     const audioIntervals: { start: number; end: number }[] = [];
@@ -443,7 +511,7 @@ export const LawEnglishVideo: React.FC<z.infer<typeof lawEnglishSchema>> = (prop
 
     return (
         <AbsoluteFill style={themeStyle}>
-            <Audio src={staticFile("bgm/caravan.mp3")} loop volume={0.3} />
+            <Audio src={staticFile("bgm/caravan.mp3")} loop volume={0.2} />
             <Sequence durationInFrames={titleDuration}>
                 <TitleScene
                     title={props.titleText}
@@ -471,6 +539,9 @@ export const LawEnglishVideo: React.FC<z.infer<typeof lawEnglishSchema>> = (prop
             </Sequence>
             <Sequence from={scene4End} durationInFrames={vocabDuration}>
                 <VocabularyListScene vocabularyList={props.vocabularyList} durationInFrames={vocabDuration} audioDurations={audioDurations?.vocab} />
+            </Sequence>
+            <Sequence from={scene5End} durationInFrames={endCardDuration}>
+                <EndCardScene durationInFrames={endCardDuration} />
             </Sequence>
             <Character audioIntervals={audioIntervals} visibleFrom={scene1End} />
             <ProgressBar />

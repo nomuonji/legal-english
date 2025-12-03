@@ -37,7 +37,7 @@ export const RemotionRoot: React.FC = () => {
     }
     vocabDuration += BUFFER;
 
-    totalDuration = titleDuration + wordDuration + contextDuration + exampleDuration + vocabDuration;
+    totalDuration = titleDuration + wordDuration + contextDuration + exampleDuration + vocabDuration + 90; // +90 for EndCardScene
 
     audioDurations = {
       title: audioMetadata.title,

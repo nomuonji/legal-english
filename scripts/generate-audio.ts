@@ -24,11 +24,34 @@ async function generateAudio(text, filename, lang = 'en-US') {
         console.error('GOOGLE_TTS_API_KEY is not set in .env');
         return 0;
     }
+    const escapeXml = (unsafe: string) => {
+        return unsafe.replace(/[<>&'"]/g, (c) => {
+            switch (c) {
+                case '<': return '&lt;';
+                case '>': return '&gt;';
+                case '&': return '&amp;';
+                case '\'': return '&apos;';
+                case '"': return '&quot;';
+            }
+        });
+    };
+
+    let requestInput = {};
+
+    if (lang === 'ja-JP') {
+        const escapedText = escapeXml(text);
+        // Emotional/Cute: Slower rate, higher pitch
+        const ssml = `<speak><prosody rate="0.9" pitch="+2st">${escapedText}</prosody></speak>`;
+        requestInput = { ssml: ssml };
+    } else {
+        // English: Use standard text input for Journey voice to avoid INVALID_ARGUMENT
+        requestInput = { text: text };
+    }
 
     const voiceName = lang === 'ja-JP' ? 'ja-JP-Neural2-B' : 'en-US-Journey-F';
 
     const requestBody = {
-        input: { text: text },
+        input: requestInput,
         voice: { languageCode: lang, name: voiceName, ssmlGender: 'FEMALE' },
         audioConfig: { audioEncoding: 'MP3' },
     };

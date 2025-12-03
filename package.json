@@ -33,7 +33,8 @@
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
     "lint": "eslint src && tsc",
-    "build-video": "npx ts-node scripts/generate-audio.ts && npx remotion render src/index.ts LawEnglish out/video.mp4 && npx ts-node scripts/cleanup-audio.ts"
+    "build-video": "npx ts-node scripts/generate-audio.ts && npx remotion render src/index.ts LawEnglish out/video.mp4 && npx ts-node scripts/cleanup-audio.ts",
+    "generate-video": "npx ts-node scripts/generate-video-from-input.ts"
   },
   "sideEffects": [
     "*.css"

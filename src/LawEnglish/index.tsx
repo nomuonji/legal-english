@@ -35,8 +35,12 @@ const Background: React.FC = () => {
     return <div className="bg-overlay" />;
 };
 
-const Character: React.FC<{ audioIntervals: { start: number; end: number }[] }> = ({ audioIntervals }) => {
+const Character: React.FC<{ audioIntervals: { start: number; end: number }[]; visibleFrom: number }> = ({ audioIntervals, visibleFrom }) => {
     const frame = useCurrentFrame();
+
+    if (frame < visibleFrom) {
+        return null;
+    }
 
     // Check if current frame is within any talking interval
     const isTalking = audioIntervals.some(interval => frame >= interval.start && frame < interval.end);
@@ -60,28 +64,69 @@ const Character: React.FC<{ audioIntervals: { start: number; end: number }[] }> 
     );
 };
 
-const TitleScene: React.FC<{ title: string; category: string; durationInFrames: number; hasAudio: boolean }> = ({ title, category, durationInFrames, hasAudio }) => {
+const TitleScene: React.FC<{ title: string; category: string; word: string; durationInFrames: number; hasAudio: boolean }> = ({ title, category, word, durationInFrames, hasAudio }) => {
     const frame = useCurrentFrame();
 
+    // Itatsuki: Start visible, fade out at the end
     const opacity = interpolate(
         frame,
-        [0, 20, durationInFrames - 20, durationInFrames],
-        [0, 1, 1, 0]
+        [durationInFrames - 20, durationInFrames],
+        [1, 0],
+        { extrapolateLeft: "clamp" }
     );
-
-    const scale = interpolate(frame, [0, 100], [0.95, 1], { extrapolateRight: "clamp" });
 
     return (
         <AbsoluteFill className="container">
             {hasAudio && <Audio src={staticFile("audio/title.mp3")} />}
             <Background />
             <div className="content-wrapper">
-                <div className="title-frame" style={{ opacity, transform: `scale(${scale})` }}>
-                    <div className="category-badge">{category}</div>
-                    <h1 className="title">
+                <div className="title-panel" style={{
+                    position: 'absolute',
+                    top: '60px',
+                    left: '50%',
+                    transform: 'translateX(-50%)',
+                    opacity,
+                    backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                    padding: '20px 100px',
+                    borderRadius: '50px',
+                    border: '1px solid var(--accent-color)',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    zIndex: 20,
+                    width: 'auto',
+                    minWidth: '80%',
+                    maxWidth: '95%',
+                    boxShadow: '0 8px 25px rgba(0,0,0,0.6)'
+                }}>
+                    <h1 className="title" style={{ fontSize: '45px', margin: 0, color: '#fff', letterSpacing: '0.1em', textTransform: 'uppercase', fontWeight: 700 }}>
                         {title}
                     </h1>
-                    <div className="subtitle">Essential Legal Terminology</div>
+                </div>
+
+                <div className="title-frame" style={{ opacity, padding: '60px 40px', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+                    <div className="category-badge" style={{
+                        fontSize: '50px',
+                        padding: '15px 50px',
+                        boxShadow: '0 0 20px var(--primary-color)',
+                        border: '3px solid #fff',
+                        marginBottom: '40px'
+                    }}>{category}</div>
+
+                    <div className="target-word" style={{
+                        fontSize: '140px',
+                        marginTop: '10px',
+                        color: '#fff',
+                        fontWeight: '800',
+                        textShadow: '0 0 40px var(--accent-color), 5px 5px 0px #000',
+                        lineHeight: '1.1',
+                        borderBottom: '8px solid var(--accent-color)',
+                        display: 'inline-block',
+                        paddingBottom: '15px'
+                    }}>
+                        {word}
+                    </div>
+                    <div className="subtitle" style={{ marginTop: '50px', fontSize: '30px', color: '#ccc' }}>Essential Legal Terminology</div>
                 </div>
             </div>
         </AbsoluteFill>
@@ -400,7 +445,13 @@ export const LawEnglishVideo: React.FC<z.infer<typeof lawEnglishSchema>> = (prop
         <AbsoluteFill style={themeStyle}>
             <Audio src={staticFile("bgm/caravan.mp3")} loop volume={0.3} />
             <Sequence durationInFrames={titleDuration}>
-                <TitleScene title={props.titleText} category={props.category} durationInFrames={titleDuration} hasAudio={!!audioDurations} />
+                <TitleScene
+                    title={props.titleText}
+                    category={props.category}
+                    word={props.word}
+                    durationInFrames={titleDuration}
+                    hasAudio={!!audioDurations}
+                />
             </Sequence>
             <Sequence from={scene1End} durationInFrames={wordDuration}>
                 <WordScene
@@ -421,7 +472,7 @@ export const LawEnglishVideo: React.FC<z.infer<typeof lawEnglishSchema>> = (prop
             <Sequence from={scene4End} durationInFrames={vocabDuration}>
                 <VocabularyListScene vocabularyList={props.vocabularyList} durationInFrames={vocabDuration} audioDurations={audioDurations?.vocab} />
             </Sequence>
-            <Character audioIntervals={audioIntervals} />
+            <Character audioIntervals={audioIntervals} visibleFrom={scene1End} />
             <ProgressBar />
         </AbsoluteFill>
     );

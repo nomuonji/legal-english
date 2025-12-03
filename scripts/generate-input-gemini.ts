@@ -36,23 +36,42 @@ interface LawData {
     vocabularyList: VocabularyItem[];
 }
 
+const HISTORY_FILE = path.join(__dirname, '../src/data/history.json');
+
 async function getExistingWords(): Promise<Set<string>> {
     const existingWords = new Set<string>();
-    if (!fs.existsSync(INPUT_DIR)) return existingWords;
 
-    const files = fs.readdirSync(INPUT_DIR).filter(f => f.endsWith('.json'));
-    for (const file of files) {
+    // 1. Scan current input files
+    if (fs.existsSync(INPUT_DIR)) {
+        const files = fs.readdirSync(INPUT_DIR).filter(f => f.endsWith('.json'));
+        for (const file of files) {
+            try {
+                const content = await fs.readJson(path.join(INPUT_DIR, file));
+                if (Array.isArray(content)) {
+                    content.forEach((item: any) => {
+                        if (item.word) existingWords.add(item.word.toLowerCase());
+                    });
+                }
+            } catch (e) {
+                // Ignore errors reading individual files
+            }
+        }
+    }
+
+    // 2. Scan history file
+    if (fs.existsSync(HISTORY_FILE)) {
         try {
-            const content = await fs.readJson(path.join(INPUT_DIR, file));
-            if (Array.isArray(content)) {
-                content.forEach((item: any) => {
+            const history = await fs.readJson(HISTORY_FILE);
+            if (Array.isArray(history)) {
+                history.forEach((item: any) => {
                     if (item.word) existingWords.add(item.word.toLowerCase());
                 });
             }
         } catch (e) {
-            // Ignore errors reading individual files
+            console.warn('Could not read history file.');
         }
     }
+
     return existingWords;
 }
 
@@ -69,18 +88,56 @@ function getCategoryFilename(category: string): string {
 
 async function main() {
     const existingWords = await getExistingWords();
-    console.log(`Found ${existingWords.size} existing words. Generating new data...`);
+
+    // Count total items in input directory
+    let totalInputItems = 0;
+    if (fs.existsSync(INPUT_DIR)) {
+        const files = fs.readdirSync(INPUT_DIR).filter(f => f.endsWith('.json'));
+        for (const file of files) {
+            try {
+                const content = await fs.readJson(path.join(INPUT_DIR, file));
+                if (Array.isArray(content)) {
+                    totalInputItems += content.length;
+                }
+            } catch (e) {
+                // ignore
+            }
+        }
+    }
+
+    const MAX_QUEUE_SIZE = 30;
+    if (totalInputItems >= MAX_QUEUE_SIZE) {
+        console.log(`Queue size is sufficient (${totalInputItems} items). Skipping generation.`);
+        return;
+    }
+
+    console.log(`Found ${existingWords.size} existing words. Queue size: ${totalInputItems}. Generating new data...`);
+
+    const CATEGORIES = [
+        "Civil Code (民法)",
+        "Criminal Code (刑法)",
+        "Civil Procedure (民事訴訟法)",
+        "Criminal Procedure (刑事訴訟法)",
+        "Companies Act (会社法)",
+        "Constitution (憲法)",
+        "Administrative Law (行政法)",
+        "Labor Law (労働法)",
+        "Intellectual Property Law (知的財産法)"
+    ];
+
+    const targetCategory = CATEGORIES[Math.floor(Math.random() * CATEGORIES.length)];
+    console.log(`Targeting category: ${targetCategory}`);
 
     const prompt = `
     You are an expert in Japanese Law and Legal English.
     Generate 3 NEW entries for a video series "Mastering Japanese Legal English".
     
-    The entries should be about important Japanese legal terms (Civil Code, Criminal Code, Civil Procedure, Companies Act, etc.).
+    The entries should be about important Japanese legal terms specifically in the field of: **${targetCategory}**.
     Do NOT use these words: ${Array.from(existingWords).join(', ')}.
 
     Output strictly a JSON array of objects. Each object must follow this schema:
     {
-        "category": "String (e.g., 'Civil Code (民法)', 'Companies Act (会社法)')",
+        "category": "${targetCategory}",
         "titleText": "Mastering\\nJapanese Legal English",
         "word": "English Term",
         "definition": "English definition",

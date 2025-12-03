@@ -5,6 +5,7 @@ import { execSync } from 'child_process';
 
 const INPUT_DIR = path.join(__dirname, '../input');
 const DATA_FILE = path.join(__dirname, '../src/data/law-english-data.json');
+const HISTORY_FILE = path.join(__dirname, '../src/data/history.json');
 
 async function main() {
     console.log('Scanning input directory:', INPUT_DIR);
@@ -25,9 +26,10 @@ async function main() {
     let selectedData = null;
     let remainingData = [];
 
-    // Shuffle files to pick a random category? Or just iterate?
-    // Let's iterate and find the first file with data.
-    for (const file of files) {
+    // Shuffle files to pick a random category
+    const shuffledFiles = files.sort(() => 0.5 - Math.random());
+
+    for (const file of shuffledFiles) {
         const filePath = path.join(INPUT_DIR, file);
         try {
             const content = await fs.readJson(filePath);
@@ -57,6 +59,23 @@ async function main() {
     // Write to src/data/law-english-data.json
     await fs.writeJson(DATA_FILE, selectedData, { spaces: 2 });
     console.log(`Updated ${DATA_FILE}`);
+
+    // Update history
+    let history = [];
+    try {
+        history = await fs.readJson(HISTORY_FILE);
+    } catch (e) {
+        // ignore if file doesn't exist or is empty
+    }
+    if (!Array.isArray(history)) history = [];
+
+    history.push({
+        word: selectedData.word,
+        category: selectedData.category,
+        date: new Date().toISOString()
+    });
+    await fs.writeJson(HISTORY_FILE, history, { spaces: 2 });
+    console.log(`Added "${selectedData.word}" to history.`);
 
     // Run generation commands
     try {

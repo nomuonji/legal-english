@@ -101,6 +101,9 @@ const VocabularyListScene: React.FC<{ vocabularyList: { word: string; translatio
 
                             return (
                                 <div key={index} className="vocab-item" style={{ opacity, transform: `translateX(${translateX}px)` }}>
+                                    <Sequence from={delay}>
+                                        <Audio src={staticFile("se/graph.mp3")} volume={0.5} />
+                                    </Sequence>
                                     {audioDurations && (
                                         <Sequence from={audioStartFrame}>
                                             <Audio src={staticFile(`audio/vocab_${index}.mp3`)} />
@@ -126,6 +129,9 @@ const DefinitionCard: React.FC<{ definition: string; japaneseDefinition: string;
 
     return (
         <div className="card" style={{ opacity, transform: `translateY(${slide}px)` }}>
+            <Sequence from={delay}>
+                <Audio src={staticFile("se/paper.mp3")} volume={0.5} />
+            </Sequence>
             <div className="card-label">Definition</div>
             <div className="definition-en">{definition}</div>
             <div className="definition-jp">{japaneseDefinition}</div>
@@ -155,6 +161,9 @@ const WordScene: React.FC<{ word: string; japaneseWordTranslation: string; defin
 
     return (
         <AbsoluteFill className="container" style={{ opacity: containerOpacity }}>
+            <Sequence from={0}>
+                <Audio src={staticFile("se/click.mp3")} volume={0.5} />
+            </Sequence>
             {audioDurations && (
                 <>
                     <Audio src={staticFile("audio/word_en.mp3")} />
@@ -203,6 +212,9 @@ const ContextScene: React.FC<{ context: string; japaneseContext: string; duratio
 
     return (
         <AbsoluteFill className="container" style={{ opacity: containerOpacity }}>
+            <Sequence from={0}>
+                <Audio src={staticFile("se/paper.mp3")} volume={0.5} />
+            </Sequence>
             {audioDurations && (
                 <>
                     <Audio src={staticFile("audio/context_en.mp3")} />
@@ -239,6 +251,9 @@ const ExampleScene: React.FC<{ sentence: string; translation: string; durationIn
 
     return (
         <AbsoluteFill className="container" style={{ opacity: containerOpacity }}>
+            <Sequence from={0}>
+                <Audio src={staticFile("se/paper.mp3")} volume={0.5} />
+            </Sequence>
             {audioDurations && (
                 <>
                     <Audio src={staticFile("audio/example_en.mp3")} />
@@ -317,6 +332,7 @@ export const LawEnglishVideo: React.FC<z.infer<typeof lawEnglishSchema>> = (prop
 
     return (
         <AbsoluteFill style={themeStyle}>
+            <Audio src={staticFile("bgm/bgm.mp3")} loop volume={0.3} />
             <Sequence durationInFrames={titleDuration}>
                 <TitleScene title={props.titleText} category={props.category} durationInFrames={titleDuration} hasAudio={!!audioDurations} />
             </Sequence>

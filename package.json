@@ -7,12 +7,14 @@
   "private": true,
   "dependencies": {
     "@google-cloud/text-to-speech": "^6.4.0",
+    "@google/generative-ai": "^0.24.1",
     "@remotion/cli": "4.0.379",
     "@remotion/tailwind-v4": "4.0.379",
     "@remotion/zod-types": "4.0.379",
     "axios": "^1.13.2",
     "dotenv": "^17.2.3",
     "fs-extra": "^11.3.2",
+    "googleapis": "^166.0.0",
     "mp3-duration": "^1.1.0",
     "react": "19.0.0",
     "react-dom": "19.0.0",
@@ -23,6 +25,7 @@
   "devDependencies": {
     "@remotion/eslint-config-flat": "4.0.379",
     "@types/fs-extra": "^11.0.4",
+    "@types/node": "^24.10.1",
     "@types/react": "19.0.0",
     "@types/web": "0.0.166",
     "eslint": "9.19.0",
@@ -35,7 +38,8 @@
     "upgrade": "remotion upgrade",
     "lint": "eslint src && tsc",
     "build-video": "npx ts-node scripts/generate-audio.ts && npx remotion render src/index.ts LawEnglish out/video.mp4 && npx ts-node scripts/cleanup-audio.ts",
-    "generate-video": "npx ts-node scripts/generate-video-from-input.ts"
+    "generate-video": "npx ts-node scripts/generate-video-from-input.ts",
+    "generate-input": "npx ts-node scripts/generate-input-gemini.ts"
   },
   "sideEffects": [
     "*.css"

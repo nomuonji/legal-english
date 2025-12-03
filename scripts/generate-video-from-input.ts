@@ -72,6 +72,19 @@ async function main() {
         console.log('Cleaning up audio...');
         execSync('npx ts-node scripts/cleanup-audio.ts', { stdio: 'inherit', cwd: path.join(__dirname, '..') });
 
+        console.log('Preparing YouTube upload...');
+        const metadata = {
+            title: `Legal English: ${selectedData.word} (${selectedData.japaneseWordTranslation})`,
+            description: `Mastering Japanese Legal English\n\nWord: ${selectedData.word}\nMeaning: ${selectedData.definition}\nJapanese Meaning: ${selectedData.japaneseDefinition}\n\nLegal Context:\n${selectedData.legalContext}\n${selectedData.japaneseLegalContext}\n\nExample:\n${selectedData.exampleSentence}\n${selectedData.exampleTranslation}\n\n#LegalEnglish #Law #EnglishLearning #JapaneseLaw`,
+            tags: ['Legal English', 'Law', 'English Learning', 'Japanese Law', selectedData.word]
+        };
+        const metadataPath = path.join(__dirname, '../out/metadata.json');
+        await fs.writeJson(metadataPath, metadata, { spaces: 2 });
+
+        console.log('Uploading to YouTube...');
+        execSync(`npx ts-node scripts/upload-youtube.ts "${outputVideo}" "${metadataPath}"`, { stdio: 'inherit', cwd: path.join(__dirname, '..') });
+
+
         console.log(`\nSuccess! Video generated at: ${outputVideo}`);
     } catch (e) {
         console.error('Error during video generation process:', (e as Error).message);

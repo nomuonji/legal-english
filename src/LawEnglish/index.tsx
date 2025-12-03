@@ -1,4 +1,4 @@
-import { AbsoluteFill, Sequence, useCurrentFrame, useVideoConfig, interpolate, spring, Audio, staticFile } from "remotion";
+import { AbsoluteFill, Sequence, useCurrentFrame, useVideoConfig, interpolate, spring, Audio, staticFile, Img } from "remotion";
 import { z } from "zod";
 import "./style.css";
 
@@ -33,6 +33,31 @@ export const lawEnglishSchema = z.object({
 
 const Background: React.FC = () => {
     return <div className="bg-overlay" />;
+};
+
+const Character: React.FC<{ audioIntervals: { start: number; end: number }[] }> = ({ audioIntervals }) => {
+    const frame = useCurrentFrame();
+
+    // Check if current frame is within any talking interval
+    const isTalking = audioIntervals.some(interval => frame >= interval.start && frame < interval.end);
+
+    // Toggle mouth every 4 frames (approx 7.5 times per second at 30fps) for "paku paku" effect
+    const mouthOpen = isTalking && (Math.floor(frame / 4) % 2 === 0);
+
+    const imageSrc = mouthOpen ? staticFile("images/mouth-open.png") : staticFile("images/mouth-closed.png");
+
+    return (
+        <div style={{
+            position: 'absolute',
+            bottom: 0,
+            right: 0,
+            width: '540px',
+            zIndex: 100,
+            pointerEvents: 'none', // Ensure it doesn't block interactions if any
+        }}>
+            <Img src={imageSrc} style={{ width: '100%', display: 'block' }} />
+        </div>
+    );
 };
 
 const TitleScene: React.FC<{ title: string; category: string; durationInFrames: number; hasAudio: boolean }> = ({ title, category, durationInFrames, hasAudio }) => {
@@ -225,7 +250,7 @@ const ContextScene: React.FC<{ context: string; japaneseContext: string; duratio
             )}
             <Background />
             <div className="content-wrapper">
-                <div className="card" style={{ opacity, transform: `translateY(${slide}px)`, borderLeftColor: 'var(--primary-color)' }}>
+                <div className="card context-card" style={{ opacity, transform: `translateY(${slide}px)`, borderLeftColor: 'var(--primary-color)' }}>
                     <div className="card-label" style={{ backgroundColor: 'var(--primary-color)', color: '#fff' }}>Legal Context</div>
                     <div className="context-text">{context}</div>
                     <div className="context-jp">{japaneseContext}</div>
@@ -330,6 +355,64 @@ export const LawEnglishVideo: React.FC<z.infer<typeof lawEnglishSchema>> = (prop
     const scene4End = scene3End + exampleDuration;
     const totalDuration = scene4End + vocabDuration;
 
+    // Calculate audio intervals for lip-sync
+    const audioIntervals: { start: number; end: number }[] = [];
+    if (audioDurations) {
+        // Title Scene
+        audioIntervals.push({
+            start: 0,
+            end: Math.ceil(audioDurations.title * fps)
+        });
+
+        // Word Scene
+        const wordBase = scene1End;
+        const wordEnDur = Math.ceil(audioDurations.word_en * fps);
+        const wordJpDur = Math.ceil(audioDurations.word_jp * fps);
+        const defEnDur = Math.ceil(audioDurations.definition_en * fps);
+        const defJpDur = Math.ceil(audioDurations.definition_jp * fps);
+
+        const wordJpStart = wordEnDur + 10;
+        const defEnStart = wordJpStart + wordJpDur + 15;
+        const defJpStart = defEnStart + defEnDur + 10;
+
+        audioIntervals.push({ start: wordBase, end: wordBase + wordEnDur });
+        audioIntervals.push({ start: wordBase + wordJpStart, end: wordBase + wordJpStart + wordJpDur });
+        audioIntervals.push({ start: wordBase + defEnStart, end: wordBase + defEnStart + defEnDur });
+        audioIntervals.push({ start: wordBase + defJpStart, end: wordBase + defJpStart + defJpDur });
+
+        // Context Scene
+        const contextBase = scene2End;
+        const ctxEnDur = Math.ceil(audioDurations.context_en * fps);
+        const ctxJpDur = Math.ceil(audioDurations.context_jp * fps);
+        const ctxJpStart = ctxEnDur + 15;
+
+        audioIntervals.push({ start: contextBase, end: contextBase + ctxEnDur });
+        audioIntervals.push({ start: contextBase + ctxJpStart, end: contextBase + ctxJpStart + ctxJpDur });
+
+        // Example Scene
+        const exampleBase = scene3End;
+        const exEnDur = Math.ceil(audioDurations.example_en * fps);
+        const exJpDur = Math.ceil(audioDurations.example_jp * fps);
+        const exJpStart = exEnDur + 15;
+
+        audioIntervals.push({ start: exampleBase, end: exampleBase + exEnDur });
+        audioIntervals.push({ start: exampleBase + exJpStart, end: exampleBase + exJpStart + exJpDur });
+
+        // Vocab Scene
+        const vocabBase = scene4End;
+        let currentVocabStart = 0;
+        if (audioDurations.vocab) {
+            audioDurations.vocab.forEach((dur) => {
+                const durFrames = Math.ceil(dur * fps);
+                audioIntervals.push({
+                    start: vocabBase + currentVocabStart,
+                    end: vocabBase + currentVocabStart + durFrames
+                });
+                currentVocabStart += durFrames + 15;
+            });
+        }
+    }
+
     return (
         <AbsoluteFill style={themeStyle}>
             <Audio src={staticFile("bgm/bgm.mp3")} loop volume={0.3} />
@@ -355,6 +438,7 @@ export const LawEnglishVideo: React.FC<z.infer<typeof lawEnglishSchema>> = (prop
             <Sequence from={scene4End} durationInFrames={vocabDuration}>
                 <VocabularyListScene vocabularyList={props.vocabularyList} durationInFrames={vocabDuration} audioDurations={audioDurations?.vocab} />
             </Sequence>
+            <Character audioIntervals={audioIntervals} />
             <ProgressBar />
         </AbsoluteFill>
     );

@@ -1,104 +1,218 @@
 [
-    {
-        "category": "Criminal Code (刑法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Homicide",
-        "definition": "The act of killing another person, punishable by death or imprisonment.",
-        "japaneseDefinition": "人を殺す行為であり、死刑または懲役に処される。",
-        "japaneseWordTranslation": "殺人 (さつじん)",
-        "legalContext": "Penal Code Art. 199: A person who kills another person is punished by the death penalty or imprisonment for life or for a definite term of not less than 5 years.",
-        "japaneseLegalContext": "刑法第199条：人を殺した者は、死刑又は無期若しくは五年以上の懲役に処する。",
-        "exampleSentence": "The suspect was arrested on suspicion of homicide.",
-        "exampleTranslation": "容疑者は殺人の疑いで逮捕された。",
-        "vocabularyList": [
-            {
-                "word": "Punishable",
-                "translation": "処罰されるべき"
-            },
-            {
-                "word": "Imprisonment",
-                "translation": "懲役/拘禁"
-            },
-            {
-                "word": "Death penalty",
-                "translation": "死刑"
-            },
-            {
-                "word": "Suspect",
-                "translation": "容疑者"
-            },
-            {
-                "word": "Suspicion",
-                "translation": "容疑/疑い"
-            }
-        ]
-    },
-    {
-        "category": "Criminal Code (刑法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Theft",
-        "definition": "The act of stealing another person's property.",
-        "japaneseDefinition": "他人の財物を窃取する行為。",
-        "japaneseWordTranslation": "窃盗 (せっとう)",
-        "legalContext": "Penal Code Art. 235: A person who steals the property of another person commits the crime of theft.",
-        "japaneseLegalContext": "刑法第235条：他人の財物を窃取した者は、窃盗の罪とし、十年以下の懲役又は五十万円以下の罰金に処する。",
-        "exampleSentence": "Shoplifting is a form of theft punishable under the Penal Code.",
-        "exampleTranslation": "万引きは刑法の下で処罰される窃盗の一形態である。",
-        "vocabularyList": [
-            {
-                "word": "Steal",
-                "translation": "盗む"
-            },
-            {
-                "word": "Property",
-                "translation": "財物"
-            },
-            {
-                "word": "Commit",
-                "translation": "犯す"
-            },
-            {
-                "word": "Fine",
-                "translation": "罰金"
-            },
-            {
-                "word": "Shoplifting",
-                "translation": "万引き"
-            }
-        ]
-    },
-    {
-        "category": "Criminal Code (刑法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Self-Defense",
-        "definition": "An act performed unavoidably to protect oneself or another from imminent unlawful infringement, which is not punishable.",
-        "japaneseDefinition": "急迫不正の侵害に対して、自己または他人の権利を防衛するためにやむを得ずした行為であり、処罰されない。",
-        "japaneseWordTranslation": "正当防衛 (せいとうぼうえい)",
-        "legalContext": "Penal Code Art. 36: An act performed unavoidably to protect the rights of oneself or any other person against imminent and unlawful infringement is not punishable.",
-        "japaneseLegalContext": "刑法第36条：急迫不正の侵害に対して、自己又は他人の権利を防衛するため、やむを得ずにした行為は、罰しない。",
-        "exampleSentence": "The court recognized his actions as self-defense and acquitted him.",
-        "exampleTranslation": "裁判所は彼の行為を正当防衛と認定し、無罪とした。",
-        "vocabularyList": [
-            {
-                "word": "Unavoidably",
-                "translation": "やむを得ず"
-            },
-            {
-                "word": "Imminent",
-                "translation": "急迫の"
-            },
-            {
-                "word": "Infringement",
-                "translation": "侵害"
-            },
-            {
-                "word": "Acquit",
-                "translation": "無罪にする"
-            },
-            {
-                "word": "Unlawful",
-                "translation": "不正の/違法の"
-            }
-        ]
-    }
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Homicide",
+    "definition": "The act of killing another person, punishable by death or imprisonment.",
+    "japaneseDefinition": "人を殺す行為であり、死刑または懲役に処される。",
+    "japaneseWordTranslation": "殺人 (さつじん)",
+    "legalContext": "Penal Code Art. 199: A person who kills another person is punished by the death penalty or imprisonment for life or for a definite term of not less than 5 years.",
+    "japaneseLegalContext": "刑法第199条：人を殺した者は、死刑又は無期若しくは五年以上の懲役に処する。",
+    "exampleSentence": "The suspect was arrested on suspicion of homicide.",
+    "exampleTranslation": "容疑者は殺人の疑いで逮捕された。",
+    "vocabularyList": [
+      {
+        "word": "Punishable",
+        "translation": "処罰されるべき"
+      },
+      {
+        "word": "Imprisonment",
+        "translation": "懲役/拘禁"
+      },
+      {
+        "word": "Death penalty",
+        "translation": "死刑"
+      },
+      {
+        "word": "Suspect",
+        "translation": "容疑者"
+      },
+      {
+        "word": "Suspicion",
+        "translation": "容疑/疑い"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Theft",
+    "definition": "The act of stealing another person's property.",
+    "japaneseDefinition": "他人の財物を窃取する行為。",
+    "japaneseWordTranslation": "窃盗 (せっとう)",
+    "legalContext": "Penal Code Art. 235: A person who steals the property of another person commits the crime of theft.",
+    "japaneseLegalContext": "刑法第235条：他人の財物を窃取した者は、窃盗の罪とし、十年以下の懲役又は五十万円以下の罰金に処する。",
+    "exampleSentence": "Shoplifting is a form of theft punishable under the Penal Code.",
+    "exampleTranslation": "万引きは刑法の下で処罰される窃盗の一形態である。",
+    "vocabularyList": [
+      {
+        "word": "Steal",
+        "translation": "盗む"
+      },
+      {
+        "word": "Property",
+        "translation": "財物"
+      },
+      {
+        "word": "Commit",
+        "translation": "犯す"
+      },
+      {
+        "word": "Fine",
+        "translation": "罰金"
+      },
+      {
+        "word": "Shoplifting",
+        "translation": "万引き"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Self-Defense",
+    "definition": "An act performed unavoidably to protect oneself or another from imminent unlawful infringement, which is not punishable.",
+    "japaneseDefinition": "急迫不正の侵害に対して、自己または他人の権利を防衛するためにやむを得ずした行為であり、処罰されない。",
+    "japaneseWordTranslation": "正当防衛 (せいとうぼうえい)",
+    "legalContext": "Penal Code Art. 36: An act performed unavoidably to protect the rights of oneself or any other person against imminent and unlawful infringement is not punishable.",
+    "japaneseLegalContext": "刑法第36条：急迫不正の侵害に対して、自己又は他人の権利を防衛するため、やむを得ずにした行為は、罰しない。",
+    "exampleSentence": "The court recognized his actions as self-defense and acquitted him.",
+    "exampleTranslation": "裁判所は彼の行為を正当防衛と認定し、無罪とした。",
+    "vocabularyList": [
+      {
+        "word": "Unavoidably",
+        "translation": "やむを得ず"
+      },
+      {
+        "word": "Imminent",
+        "translation": "急迫の"
+      },
+      {
+        "word": "Infringement",
+        "translation": "侵害"
+      },
+      {
+        "word": "Acquit",
+        "translation": "無罪にする"
+      },
+      {
+        "word": "Unlawful",
+        "translation": "不正の/違法の"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Voluntary Desistance",
+    "definition": "The legal concept under criminal law where an offender voluntarily abandons the completion of an attempted crime or takes active steps to prevent the harmful result, leading to potential mitigation or remission of punishment.",
+    "japaneseDefinition": "犯罪の実行に着手した後、行為者が自己の意思により、実行を中止するか、または結果の発生を防止する積極的な行為をとった場合に、刑が減軽または免除される制度。",
+    "japaneseWordTranslation": "中止犯 (ちゅうしはん)",
+    "legalContext": "Penal Code, Art. 43 (Attempted Crime): If a person voluntarily desists from the execution of the crime, the punishment shall be mitigated or remitted.",
+    "japaneseLegalContext": "刑法第43条（未遂罪）：自己の意思により犯罪の実行を中止したときは、その刑を減軽し、又は免除する。",
+    "exampleSentence": "The defense attorney argued that the suspect qualified for voluntary desistance because he called emergency services immediately after inflicting the injury.",
+    "exampleTranslation": "弁護人は、被疑者が傷害を与えた直後に緊急通報を行ったため、中止犯に該当すると主張した。",
+    "vocabularyList": [
+      {
+        "word": "desistance",
+        "translation": "中止"
+      },
+      {
+        "word": "attempted crime",
+        "translation": "未遂罪"
+      },
+      {
+        "word": "mitigated",
+        "translation": "減軽された"
+      },
+      {
+        "word": "remitted",
+        "translation": "免除された"
+      },
+      {
+        "word": "execution of the crime",
+        "translation": "犯罪の実行"
+      },
+      {
+        "word": "inflicting injury",
+        "translation": "傷害を与えること"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Concurrent Offenses",
+    "definition": "A legal situation where a person has committed two or more separate offenses for which a judgment has not yet become final, requiring the court to determine the appropriate method for combining the punishments.",
+    "japaneseDefinition": "確定裁判を経ていない二個以上の罪を犯した者がいる場合に、それらの罪に対する刑罰をどのように合算・調整して科すかを定める制度。",
+    "japaneseWordTranslation": "併合罪 (へいごうざい)",
+    "legalContext": "Penal Code, Art. 45 (Concurrent Offenses): When a person commits two or more offenses before the judgment for one of them has become final, these shall be deemed concurrent offenses.",
+    "japaneseLegalContext": "刑法第45条（併合罪）：確定裁判を経ていない二個以上の罪を犯したときは、これを併合罪とする。",
+    "exampleSentence": "The prosecutor sought the application of the provisions on concurrent offenses, as the defendant had committed both fraud and embezzlement prior to the final sentencing for either crime.",
+    "exampleTranslation": "被告人がいずれの罪についても確定判決を受ける前に詐欺と横領の両方を犯していたため、検察官は併合罪の規定の適用を求めた。",
+    "vocabularyList": [
+      {
+        "word": "separate offenses",
+        "translation": "別個の罪"
+      },
+      {
+        "word": "judgment",
+        "translation": "裁判"
+      },
+      {
+        "word": "become final",
+        "translation": "確定する"
+      },
+      {
+        "word": "sentencing",
+        "translation": "判決"
+      },
+      {
+        "word": "embezzlement",
+        "translation": "横領"
+      },
+      {
+        "word": "provisions",
+        "translation": "規定"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obstruction of Execution of Duties",
+    "definition": "The crime committed by using violence or threat against a public official who is engaged in the execution of their official duties, thereby obstructing the performance of those duties.",
+    "japaneseDefinition": "公務員が職務を執行するにあたり、暴行または脅迫を加えることで、その職務の遂行を妨害する行為。公共の信頼保護を目的とする。",
+    "japaneseWordTranslation": "公務執行妨害 (こうむしっこうぼうがい)",
+    "legalContext": "Penal Code, Art. 95 (Crimes of Obstructing the Execution of Official Duties): A person who uses violence or threats against a public official engaged in the execution of their duties shall be punished.",
+    "japaneseLegalContext": "刑法第95条（公務執行妨害及び職務強要）：公務員が職務を執行するに当たり、これに対して暴行又は脅迫を加えた者は、罰せられる。",
+    "exampleSentence": "The defendant was arrested and charged with obstruction of execution of duties after physically resisting officers during a regulatory inspection.",
+    "exampleTranslation": "被告人は、立入検査中に警察官に物理的に抵抗したため、公務執行妨害の容疑で逮捕・起訴された。",
+    "vocabularyList": [
+      {
+        "word": "public official",
+        "translation": "公務員"
+      },
+      {
+        "word": "violence",
+        "translation": "暴行"
+      },
+      {
+        "word": "threat",
+        "translation": "脅迫"
+      },
+      {
+        "word": "execution of duties",
+        "translation": "職務の執行"
+      },
+      {
+        "word": "regulatory inspection",
+        "translation": "立入検査"
+      },
+      {
+        "word": "resisting officers",
+        "translation": "警察官に抵抗する"
+      }
+    ]
+  }
 ]

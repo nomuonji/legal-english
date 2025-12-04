@@ -1,104 +1,218 @@
 [
-    {
-        "category": "Judicial Scrivener Act (司法書士法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Judicial Scrivener",
-        "definition": "A legal professional qualified to represent clients in registration procedures and prepare legal documents for courts.",
-        "japaneseDefinition": "登記手続の代理や裁判所提出書類の作成などを業とする法律専門職。",
-        "japaneseWordTranslation": "司法書士 (しほうしょし)",
-        "legalContext": "Judicial Scrivener Act Art. 3: A judicial scrivener shall engage in the business of representing others in registration procedures.",
-        "japaneseLegalContext": "司法書士法第3条：司法書士は、他人の依頼を受けて、登記に関する手続について代理すること...を業とする。",
-        "exampleSentence": "We hired a judicial scrivener to handle the real estate registration for the new house.",
-        "exampleTranslation": "新居の不動産登記を行うために司法書士を雇った。",
-        "vocabularyList": [
-            {
-                "word": "Legal professional",
-                "translation": "法律専門職"
-            },
-            {
-                "word": "Represent",
-                "translation": "代理する"
-            },
-            {
-                "word": "Registration procedure",
-                "translation": "登記手続"
-            },
-            {
-                "word": "Handle",
-                "translation": "処理する/行う"
-            },
-            {
-                "word": "Real estate",
-                "translation": "不動産"
-            }
-        ]
-    },
-    {
-        "category": "Judicial Scrivener Act (司法書士法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Representation",
-        "definition": "The act of performing legal acts, such as applying for registration, on behalf of another person.",
-        "japaneseDefinition": "他人に代わって登記申請などの法律行為を行うこと。",
-        "japaneseWordTranslation": "代理 (だいり)",
-        "legalContext": "Judicial Scrivener Act Art. 3: Representing others in procedures concerning registration, deposit, etc.",
-        "japaneseLegalContext": "司法書士法第3条：登記又は供託に関する手続について代理すること。",
-        "exampleSentence": "The judicial scrivener has the authority of representation for the registration application.",
-        "exampleTranslation": "その司法書士は登記申請の代理権を持っている。",
-        "vocabularyList": [
-            {
-                "word": "On behalf of",
-                "translation": "～に代わって"
-            },
-            {
-                "word": "Apply",
-                "translation": "申請する"
-            },
-            {
-                "word": "Authority",
-                "translation": "権限"
-            },
-            {
-                "word": "Deposit",
-                "translation": "供託"
-            },
-            {
-                "word": "Procedure",
-                "translation": "手続"
-            }
-        ]
-    },
-    {
-        "category": "Judicial Scrivener Act (司法書士法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Preparation of Documents",
-        "definition": "The duty of creating documents to be submitted to courts, the Legal Affairs Bureau, or public prosecutor's offices.",
-        "japaneseDefinition": "裁判所、法務局、検察庁などに提出する書類を作成する業務。",
-        "japaneseWordTranslation": "書類作成 (しょるいさくせい)",
-        "legalContext": "Judicial Scrivener Act Art. 3: Preparing documents to be submitted to a court, public prosecutor's office, or Legal Affairs Bureau.",
-        "japaneseLegalContext": "司法書士法第3条：裁判所若しくは検察庁に提出する書類...又は法務局...に提出する書類を作成すること。",
-        "exampleSentence": "Preparation of documents for the lawsuit was entrusted to the judicial scrivener.",
-        "exampleTranslation": "訴訟のための書類作成が司法書士に委任された。",
-        "vocabularyList": [
-            {
-                "word": "Submit",
-                "translation": "提出する"
-            },
-            {
-                "word": "Public prosecutor's office",
-                "translation": "検察庁"
-            },
-            {
-                "word": "Entrust",
-                "translation": "委任する/任せる"
-            },
-            {
-                "word": "Lawsuit",
-                "translation": "訴訟"
-            },
-            {
-                "word": "Legal Affairs Bureau",
-                "translation": "法務局"
-            }
-        ]
-    }
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Scrivener",
+    "definition": "A legal professional qualified to represent clients in registration procedures and prepare legal documents for courts.",
+    "japaneseDefinition": "登記手続の代理や裁判所提出書類の作成などを業とする法律専門職。",
+    "japaneseWordTranslation": "司法書士 (しほうしょし)",
+    "legalContext": "Judicial Scrivener Act Art. 3: A judicial scrivener shall engage in the business of representing others in registration procedures.",
+    "japaneseLegalContext": "司法書士法第3条：司法書士は、他人の依頼を受けて、登記に関する手続について代理すること...を業とする。",
+    "exampleSentence": "We hired a judicial scrivener to handle the real estate registration for the new house.",
+    "exampleTranslation": "新居の不動産登記を行うために司法書士を雇った。",
+    "vocabularyList": [
+      {
+        "word": "Legal professional",
+        "translation": "法律専門職"
+      },
+      {
+        "word": "Represent",
+        "translation": "代理する"
+      },
+      {
+        "word": "Registration procedure",
+        "translation": "登記手続"
+      },
+      {
+        "word": "Handle",
+        "translation": "処理する/行う"
+      },
+      {
+        "word": "Real estate",
+        "translation": "不動産"
+      }
+    ]
+  },
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Representation",
+    "definition": "The act of performing legal acts, such as applying for registration, on behalf of another person.",
+    "japaneseDefinition": "他人に代わって登記申請などの法律行為を行うこと。",
+    "japaneseWordTranslation": "代理 (だいり)",
+    "legalContext": "Judicial Scrivener Act Art. 3: Representing others in procedures concerning registration, deposit, etc.",
+    "japaneseLegalContext": "司法書士法第3条：登記又は供託に関する手続について代理すること。",
+    "exampleSentence": "The judicial scrivener has the authority of representation for the registration application.",
+    "exampleTranslation": "その司法書士は登記申請の代理権を持っている。",
+    "vocabularyList": [
+      {
+        "word": "On behalf of",
+        "translation": "～に代わって"
+      },
+      {
+        "word": "Apply",
+        "translation": "申請する"
+      },
+      {
+        "word": "Authority",
+        "translation": "権限"
+      },
+      {
+        "word": "Deposit",
+        "translation": "供託"
+      },
+      {
+        "word": "Procedure",
+        "translation": "手続"
+      }
+    ]
+  },
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preparation of Documents",
+    "definition": "The duty of creating documents to be submitted to courts, the Legal Affairs Bureau, or public prosecutor's offices.",
+    "japaneseDefinition": "裁判所、法務局、検察庁などに提出する書類を作成する業務。",
+    "japaneseWordTranslation": "書類作成 (しょるいさくせい)",
+    "legalContext": "Judicial Scrivener Act Art. 3: Preparing documents to be submitted to a court, public prosecutor's office, or Legal Affairs Bureau.",
+    "japaneseLegalContext": "司法書士法第3条：裁判所若しくは検察庁に提出する書類...又は法務局...に提出する書類を作成すること。",
+    "exampleSentence": "Preparation of documents for the lawsuit was entrusted to the judicial scrivener.",
+    "exampleTranslation": "訴訟のための書類作成が司法書士に委任された。",
+    "vocabularyList": [
+      {
+        "word": "Submit",
+        "translation": "提出する"
+      },
+      {
+        "word": "Public prosecutor's office",
+        "translation": "検察庁"
+      },
+      {
+        "word": "Entrust",
+        "translation": "委任する/任せる"
+      },
+      {
+        "word": "Lawsuit",
+        "translation": "訴訟"
+      },
+      {
+        "word": "Legal Affairs Bureau",
+        "translation": "法務局"
+      }
+    ]
+  },
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Authorization to Handle Adjudication Cases",
+    "definition": "The specialized authorization granted to legal professionals who have passed an examination and received certification from the Minister of Justice, allowing them to engage in specific legal procedures, primarily related to summary court proceedings and alternative dispute resolution (ADR) involving disputes below 1.4 million yen.",
+    "japaneseDefinition": "法務大臣の認定を受けた者が、簡易裁判所の訴訟事件や特定な裁判外紛争解決手続（ADR）において、請求額が140万円を超えない範囲で関与することが許される専門的な権限。",
+    "japaneseWordTranslation": "認定業務 (にんていぎょうむ)",
+    "legalContext": "Judicial Scrivener Act, Article 3, Paragraph 2: 'In addition to the matters set forth in the preceding paragraph, a certified... may, as an agent, perform the procedures for Summary Court Adjudication Cases, etc.'",
+    "japaneseLegalContext": "司法書士法第3条第2項：「前項に定めるもののほか、認定を受けた者は、簡易裁判所における訴訟事件等につき、代理人として、法務省令で定める手続を行うことができる。」",
+    "exampleSentence": "The scope of the Authorization to Handle Adjudication Cases limits the financial value of disputes that the professional may handle.",
+    "exampleTranslation": "認定業務の範囲は、その専門家が取り扱うことのできる紛争の経済的価値を制限している。",
+    "vocabularyList": [
+      {
+        "word": "certified",
+        "translation": "認定された"
+      },
+      {
+        "word": "Summary Court Adjudication Cases",
+        "translation": "簡易裁判所における訴訟事件"
+      },
+      {
+        "word": "agent",
+        "translation": "代理人"
+      },
+      {
+        "word": "legal procedures",
+        "translation": "法的手続"
+      },
+      {
+        "word": "disputes",
+        "translation": "紛争"
+      },
+      {
+        "word": "financial value",
+        "translation": "経済的価値"
+      }
+    ]
+  },
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Duty of Confidentiality",
+    "definition": "The professional obligation requiring legal practitioners to keep secret any information obtained in the course of their duties concerning their clients or affairs, which persists even after their professional status is retired or revoked.",
+    "japaneseDefinition": "業務に関して知り得た依頼者その他の関係者の秘密を漏らしてはならないという職業上の義務。この義務は、業務を退いた後も存続する。",
+    "japaneseWordTranslation": "守秘義務 (しゅひぎむ)",
+    "legalContext": "Judicial Scrivener Act, Article 23: 'A practitioner shall not, without justifiable grounds, divulge any secrets concerning a person that came to his or her knowledge in the course of his or her duties.'",
+    "japaneseLegalContext": "司法書士法第23条：「業務上知り得た他人の秘密を正当な理由がなく漏らしてはならない。業務を退いた後も同様とする。」",
+    "exampleSentence": "Violation of the Duty of Confidentiality is grounds for serious disciplinary action under the governing Act.",
+    "exampleTranslation": "守秘義務の違反は、根拠法に基づき重大な懲戒処分の対象となる。",
+    "vocabularyList": [
+      {
+        "word": "divulge",
+        "translation": "漏らす"
+      },
+      {
+        "word": "justifiable grounds",
+        "translation": "正当な理由"
+      },
+      {
+        "word": "in the course of his or her duties",
+        "translation": "業務上"
+      },
+      {
+        "word": "violation",
+        "translation": "違反"
+      },
+      {
+        "word": "governing Act",
+        "translation": "根拠法"
+      },
+      {
+        "word": "persists",
+        "translation": "存続する"
+      }
+    ]
+  },
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Disciplinary Action",
+    "definition": "Measures taken against a professional who has violated the governing Act, the rules of their professional association, or committed an act damaging the dignity of their profession. These measures typically include reprimand, suspension of practice, or dismissal.",
+    "japaneseDefinition": "法令や所属する会則に違反し、またはその品位を損なう行為をした専門家に対して課される制裁。通常、戒告、業務の停止、または業務の禁止が含まれる。",
+    "japaneseWordTranslation": "懲戒 (ちょうかい)",
+    "legalContext": "Judicial Scrivener Act, Article 47: 'The Minister of Justice may take disciplinary action against a practitioner in any of the following cases: 1. When the professional has violated this Act or orders issued thereunder; ...'",
+    "japaneseLegalContext": "司法書士法第47条：「法務大臣は、次の各号のいずれかに該当する者に対し、懲戒処分をすることができる。一、この法律又はこの法律に基づく命令に違反したとき。」",
+    "exampleSentence": "The Minister of Justice imposed Disciplinary Action upon the practitioner after concluding the investigation into unauthorized legal consultation.",
+    "exampleTranslation": "法務大臣は、無許可の法律相談に関する調査を終えた後、その専門家に対して懲戒処分を科した。",
+    "vocabularyList": [
+      {
+        "word": "reprimand",
+        "translation": "戒告"
+      },
+      {
+        "word": "suspension of practice",
+        "translation": "業務の停止"
+      },
+      {
+        "word": "dismissal",
+        "translation": "業務の禁止"
+      },
+      {
+        "word": "dignity",
+        "translation": "品位"
+      },
+      {
+        "word": "unauthorized legal consultation",
+        "translation": "無許可の法律相談"
+      },
+      {
+        "word": "imposed",
+        "translation": "科した"
+      }
+    ]
+  }
 ]

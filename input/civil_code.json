@@ -214,5 +214,119 @@
         "translation": "期間"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legal Capacity",
+    "definition": "The ability of a person, recognized by law, to validly perform juristic acts independently and assume legal rights and obligations.",
+    "japaneseDefinition": "法律上、単独で有効に法律行為を行い、権利義務の主体となることができる能力。",
+    "japaneseWordTranslation": "行為能力 (こういのうりょく)",
+    "legalContext": "Civil Code Art. 4: A person who has attained eighteen years of age shall be of full legal capacity.",
+    "japaneseLegalContext": "民法第4条：年齢十八歳をもって、行為能力を有する。",
+    "exampleSentence": "A minor lacking legal capacity generally requires the consent of a legal representative for property transactions.",
+    "exampleTranslation": "行為能力を欠く未成年者は、通常、財産取引について法定代理人の同意を必要とする。",
+    "vocabularyList": [
+      {
+        "word": "minor",
+        "translation": "未成年者"
+      },
+      {
+        "word": "legal representative",
+        "translation": "法定代理人"
+      },
+      {
+        "word": "full legal capacity",
+        "translation": "完全な行為能力"
+      },
+      {
+        "word": "juristic act",
+        "translation": "法律行為"
+      },
+      {
+        "word": "consent",
+        "translation": "同意"
+      },
+      {
+        "word": "property transaction",
+        "translation": "財産取引"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Possession",
+    "definition": "The de facto control over a thing (corpus) combined with the intent to hold the thing for oneself (animus), which is protected by specific legal remedies.",
+    "japaneseDefinition": "物に対する事実上の支配状態をいい、占有権として法的に保護される。",
+    "japaneseWordTranslation": "占有 (せんゆう)",
+    "legalContext": "Civil Code Art. 180: A person who has de facto control over a thing acquires possession of it.",
+    "japaneseLegalContext": "民法第180条：物を所持する意思をもって、物を事実上支配する者は、これを占有者とする。",
+    "exampleSentence": "If a trespasser disrupts the peaceful state of possession, the original possessor may bring an action for the maintenance of possession.",
+    "exampleTranslation": "侵入者が平穏な占有状態を乱した場合、元の占有者は占有保持の訴えを提起することができる。",
+    "vocabularyList": [
+      {
+        "word": "de facto control",
+        "translation": "事実上の支配"
+      },
+      {
+        "word": "trespasser",
+        "translation": "侵入者"
+      },
+      {
+        "word": "possessor",
+        "translation": "占有者"
+      },
+      {
+        "word": "maintenance of possession",
+        "translation": "占有保持"
+      },
+      {
+        "word": "disrupt",
+        "translation": "乱す"
+      },
+      {
+        "word": "legal remedies",
+        "translation": "法的救済"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Inheritance Waiver",
+    "definition": "A unilateral declaration by an heir, typically filed with the Family Court, to renounce all rights and obligations related to the inheritance of the decedent's assets and liabilities.",
+    "japaneseDefinition": "相続人が、被相続人の残した財産及び債務に関する一切の権利義務を放棄する旨の意思表示（家庭裁判所への申述）。",
+    "japaneseWordTranslation": "相続の放棄 (そうぞくのほうき)",
+    "legalContext": "Civil Code Art. 939: An heir who waives inheritance is deemed not to have been an heir from the beginning.",
+    "japaneseLegalContext": "民法第939条：相続の放棄をした者は、その相続に関しては、初めから相続人とならなかったものとみなす。",
+    "exampleSentence": "The surviving spouse considered filing an inheritance waiver because the decedent's liabilities significantly exceeded their assets.",
+    "exampleTranslation": "被相続人の負債が資産を大幅に上回っていたため、生存配偶者は相続の放棄を申し立てることを検討した。",
+    "vocabularyList": [
+      {
+        "word": "decedent",
+        "translation": "被相続人"
+      },
+      {
+        "word": "surviving spouse",
+        "translation": "生存配偶者"
+      },
+      {
+        "word": "liabilities",
+        "translation": "負債（債務）"
+      },
+      {
+        "word": "assets",
+        "translation": "資産"
+      },
+      {
+        "word": "Family Court",
+        "translation": "家庭裁判所"
+      },
+      {
+        "word": "unilateral declaration",
+        "translation": "一方的な意思表示"
+      }
+    ]
   }
 ]

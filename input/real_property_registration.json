@@ -1,104 +1,218 @@
 [
-    {
-        "category": "Real Property Registration (不動産登記法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Real Property Registration",
-        "definition": "A system to publicly disclose rights relationships concerning real property (land and buildings) to ensure transaction safety.",
-        "japaneseDefinition": "不動産（土地・建物）に関する権利関係を公示し、取引の安全を図るための制度。",
-        "japaneseWordTranslation": "不動産登記 (ふどうさんとうき)",
-        "legalContext": "Real Property Registration Act Art. 1: This Act governs the registration of real property to clarify rights and boundaries.",
-        "japaneseLegalContext": "不動産登記法第1条：この法律は、不動産の表示及び不動産に関する権利を公示するための登記について定める。",
-        "exampleSentence": "Real property registration is essential for asserting ownership against third parties.",
-        "exampleTranslation": "不動産登記は、第三者に対して所有権を主張するために不可欠である。",
-        "vocabularyList": [
-            {
-                "word": "Assert",
-                "translation": "主張する"
-            },
-            {
-                "word": "Third party",
-                "translation": "第三者"
-            },
-            {
-                "word": "Clarify",
-                "translation": "明らかにする"
-            },
-            {
-                "word": "Boundary",
-                "translation": "境界"
-            },
-            {
-                "word": "Transaction safety",
-                "translation": "取引の安全"
-            }
-        ]
-    },
-    {
-        "category": "Real Property Registration (不動産登記法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Registration of Ownership Transfer",
-        "definition": "Registration made when the ownership of real property is transferred due to sale, inheritance, or other causes.",
-        "japaneseDefinition": "売買や相続などにより不動産の所有権が移転した際に行う登記。",
-        "japaneseWordTranslation": "所有権移転登記 (しょゆうけんいてんとうき)",
-        "legalContext": "Real Property Registration Act Art. 3: Registration of rights shall be made for the preservation, establishment, transfer... of rights.",
-        "japaneseLegalContext": "不動産登記法第3条：登記は、不動産の権利の...保存、設定、移転...についてする。",
-        "exampleSentence": "The registration of ownership transfer was completed immediately after the payment was made.",
-        "exampleTranslation": "支払いがなされた直後に所有権移転登記が完了した。",
-        "vocabularyList": [
-            {
-                "word": "Transfer",
-                "translation": "移転"
-            },
-            {
-                "word": "Sale",
-                "translation": "売買"
-            },
-            {
-                "word": "Inheritance",
-                "translation": "相続"
-            },
-            {
-                "word": "Preservation",
-                "translation": "保存"
-            },
-            {
-                "word": "Establishment",
-                "translation": "設定"
-            }
-        ]
-    },
-    {
-        "category": "Real Property Registration (不動産登記法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Building",
-        "definition": "A structure fixed to land, having a roof and walls, and capable of being used for its intended purpose.",
-        "japaneseDefinition": "土地に定着し、屋根及び周壁を有し、その目的とする用途に供し得る建造物。",
-        "japaneseWordTranslation": "建物 (たてもの)",
-        "legalContext": "Real Property Registration Act Art. 2: 'Real Property' means land or buildings.",
-        "japaneseLegalContext": "不動産登記法第2条：「不動産」とは、土地又は建物をいう。",
-        "exampleSentence": "The newly constructed house was registered as a building at the Legal Affairs Bureau.",
-        "exampleTranslation": "新築された家屋は、法務局で建物として登記された。",
-        "vocabularyList": [
-            {
-                "word": "Structure",
-                "translation": "建造物"
-            },
-            {
-                "word": "Fixed",
-                "translation": "定着した"
-            },
-            {
-                "word": "Roof",
-                "translation": "屋根"
-            },
-            {
-                "word": "Wall",
-                "translation": "壁"
-            },
-            {
-                "word": "Intended purpose",
-                "translation": "目的とする用途"
-            }
-        ]
-    }
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Real Property Registration",
+    "definition": "A system to publicly disclose rights relationships concerning real property (land and buildings) to ensure transaction safety.",
+    "japaneseDefinition": "不動産（土地・建物）に関する権利関係を公示し、取引の安全を図るための制度。",
+    "japaneseWordTranslation": "不動産登記 (ふどうさんとうき)",
+    "legalContext": "Real Property Registration Act Art. 1: This Act governs the registration of real property to clarify rights and boundaries.",
+    "japaneseLegalContext": "不動産登記法第1条：この法律は、不動産の表示及び不動産に関する権利を公示するための登記について定める。",
+    "exampleSentence": "Real property registration is essential for asserting ownership against third parties.",
+    "exampleTranslation": "不動産登記は、第三者に対して所有権を主張するために不可欠である。",
+    "vocabularyList": [
+      {
+        "word": "Assert",
+        "translation": "主張する"
+      },
+      {
+        "word": "Third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "Clarify",
+        "translation": "明らかにする"
+      },
+      {
+        "word": "Boundary",
+        "translation": "境界"
+      },
+      {
+        "word": "Transaction safety",
+        "translation": "取引の安全"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Ownership Transfer",
+    "definition": "Registration made when the ownership of real property is transferred due to sale, inheritance, or other causes.",
+    "japaneseDefinition": "売買や相続などにより不動産の所有権が移転した際に行う登記。",
+    "japaneseWordTranslation": "所有権移転登記 (しょゆうけんいてんとうき)",
+    "legalContext": "Real Property Registration Act Art. 3: Registration of rights shall be made for the preservation, establishment, transfer... of rights.",
+    "japaneseLegalContext": "不動産登記法第3条：登記は、不動産の権利の...保存、設定、移転...についてする。",
+    "exampleSentence": "The registration of ownership transfer was completed immediately after the payment was made.",
+    "exampleTranslation": "支払いがなされた直後に所有権移転登記が完了した。",
+    "vocabularyList": [
+      {
+        "word": "Transfer",
+        "translation": "移転"
+      },
+      {
+        "word": "Sale",
+        "translation": "売買"
+      },
+      {
+        "word": "Inheritance",
+        "translation": "相続"
+      },
+      {
+        "word": "Preservation",
+        "translation": "保存"
+      },
+      {
+        "word": "Establishment",
+        "translation": "設定"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Building",
+    "definition": "A structure fixed to land, having a roof and walls, and capable of being used for its intended purpose.",
+    "japaneseDefinition": "土地に定着し、屋根及び周壁を有し、その目的とする用途に供し得る建造物。",
+    "japaneseWordTranslation": "建物 (たてもの)",
+    "legalContext": "Real Property Registration Act Art. 2: 'Real Property' means land or buildings.",
+    "japaneseLegalContext": "不動産登記法第2条：「不動産」とは、土地又は建物をいう。",
+    "exampleSentence": "The newly constructed house was registered as a building at the Legal Affairs Bureau.",
+    "exampleTranslation": "新築された家屋は、法務局で建物として登記された。",
+    "vocabularyList": [
+      {
+        "word": "Structure",
+        "translation": "建造物"
+      },
+      {
+        "word": "Fixed",
+        "translation": "定着した"
+      },
+      {
+        "word": "Roof",
+        "translation": "屋根"
+      },
+      {
+        "word": "Wall",
+        "translation": "壁"
+      },
+      {
+        "word": "Intended purpose",
+        "translation": "目的とする用途"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Hypothecation",
+    "definition": "A security interest in real property granted to a creditor (mortgagee) as collateral for a debt, which allows the creditor to satisfy the debt out of the property's value if the debtor defaults, without transferring possession.",
+    "japaneseDefinition": "債務の担保として債権者（抵当権者）に設定される不動産上の担保物権であり、債務者が債務不履行に陥った場合に、占有を移さずに不動産の価額から債権を弁済させることを可能とする権利。",
+    "japaneseWordTranslation": "抵当権 (ていとうけん)",
+    "legalContext": "Civil Code Art. 369: A hypothecation holder shall have the right to obtain performance of his/her claim in preference to other creditors out of the property serving as security.",
+    "japaneseLegalContext": "民法第369条: 抵当権者は、債務者又は第三者が占有を移転しないで債務の担保に供した不動産について、他の債権者に先立って自己の債権の弁済を受ける権利を有する。",
+    "exampleSentence": "The borrower executed a deed of hypothecation over the land parcel as security for the commercial loan.",
+    "exampleTranslation": "借主は商業ローンの担保として、その土地区画上に抵当権設定証書を執行した。",
+    "vocabularyList": [
+      {
+        "word": "Creditor",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "Collateral",
+        "translation": "担保 (たんぽ)"
+      },
+      {
+        "word": "Deed",
+        "translation": "証書 (しょうしょ)"
+      },
+      {
+        "word": "Performance of claim",
+        "translation": "債権の弁済 (さいけんのべんさい)"
+      },
+      {
+        "word": "Security interest",
+        "translation": "担保物権 (たんぽぶっけん)"
+      },
+      {
+        "word": "Land parcel",
+        "translation": "土地区画 (とちくかく)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Perfection",
+    "definition": "A legal requirement, typically formal registration, necessary for a real property interest holder to assert that right against third parties, even if the interest is already valid between the immediate parties.",
+    "japaneseDefinition": "不動産上の権利の保有者が、当該権利を当事者間で有効であるだけでなく、第三者に対しても主張するために必要とされる、通常は正式な登記による法律上の要件。",
+    "japaneseWordTranslation": "対抗要件 (たいこうようけん)",
+    "legalContext": "Act concerning Immovable Property Entry Art. 3: Unless otherwise provided in other laws, the disposition of, and any change to, rights in immovable property cannot be asserted against a third party until it is duly entered.",
+    "japaneseLegalContext": "不動産に関する記録に関する法律第3条: 不動産に関する権利の得喪及び変更は、他の法律に別段の定めがある場合を除き、その記録を完了した後でなければ、第三者に対抗することができない。",
+    "exampleSentence": "The transferee failed to achieve perfection of the leasehold, preventing them from asserting their interest against a subsequent purchaser of the estate.",
+    "exampleTranslation": "譲受人は賃借権の対抗要件を具備できなかったため、その不動産の後の買主に対して自己の権利を主張することができなかった。",
+    "vocabularyList": [
+      {
+        "word": "Interest holder",
+        "translation": "権利保有者 (けんりほゆうしゃ)"
+      },
+      {
+        "word": "Assert (a right)",
+        "translation": "主張する (しゅちょうする)"
+      },
+      {
+        "word": "Third party",
+        "translation": "第三者 (だいさんしゃ)"
+      },
+      {
+        "word": "Transferee",
+        "translation": "譲受人 (ゆずりうけにん)"
+      },
+      {
+        "word": "Leasehold",
+        "translation": "賃借権 (ちんしゃくけん)"
+      },
+      {
+        "word": "Subsequent purchaser",
+        "translation": "後順位の買主 (こうじゅんいのかいぬし)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Record of Rights Section",
+    "definition": "The distinct portion of the official property record that specifies the rights relating to the land or structure (such as security interests, easements, or leaseholds), as opposed to the section detailing the property's physical description.",
+    "japaneseDefinition": "土地又は工作物に関する権利（担保物権、地役権、賃借権など）を特定して記録する、公的な不動産記録簿の区分。物件の物理的明細を詳述する区分とは区別される。",
+    "japaneseWordTranslation": "権利部 (けんりぶ)",
+    "legalContext": "Act concerning Immovable Property Entry Art. 20: The property record for land or a structure shall be comprised of a Record of Description Section and a Record of Rights Section.",
+    "japaneseLegalContext": "不動産に関する記録に関する法律第20条: 土地又は工作物の記録は、表題部及び権利部をもって編成する。",
+    "exampleSentence": "The lawyer examined the Record of Rights Section to confirm the prioritization of the existing mortgage and any secondary security interests.",
+    "exampleTranslation": "弁護士は、既存の抵当権と二次的な担保物権の優先順位を確認するために、権利部を調査した。",
+    "vocabularyList": [
+      {
+        "word": "Official property record",
+        "translation": "公的不動産記録簿 (こうてきふどうさんきろくぼ)"
+      },
+      {
+        "word": "Easement",
+        "translation": "地役権 (ちえきけん)"
+      },
+      {
+        "word": "Security interests",
+        "translation": "担保物権 (たんぽぶっけん)"
+      },
+      {
+        "word": "Physical description",
+        "translation": "物理的明細 (ぶつりてきめいさい)"
+      },
+      {
+        "word": "Prioritization",
+        "translation": "優先順位 (ゆうせんじゅんい)"
+      },
+      {
+        "word": "Secondary",
+        "translation": "二次的な (にじてきな)"
+      }
+    ]
+  }
 ]

@@ -1,104 +1,214 @@
 [
-    {
-        "category": "Deposit Act (供託法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Deposit",
-        "definition": "The act of placing money or securities with a Deposit Office to satisfy an obligation, guarantee a right, or for other legal purposes.",
-        "japaneseDefinition": "債務の弁済、権利の担保、その他法律上の目的のために、金銭や有価証券を供託所に預けること。",
-        "japaneseWordTranslation": "供託 (きょうたく)",
-        "legalContext": "Deposit Act Art. 1: Deposits shall be handled by the Legal Affairs Bureau or District Legal Affairs Bureau.",
-        "japaneseLegalContext": "供託法第1条：供託事務は、法務局若しくは地方法務局...が、供託所としてこれを取り扱う。",
-        "exampleSentence": "The tenant made a deposit of the rent with the Legal Affairs Bureau because the landlord refused to accept it.",
-        "exampleTranslation": "家主が受領を拒否したため、借家人は家賃を法務局に供託した。",
-        "vocabularyList": [
-            {
-                "word": "Obligation",
-                "translation": "債務"
-            },
-            {
-                "word": "Guarantee",
-                "translation": "担保する"
-            },
-            {
-                "word": "Refuse",
-                "translation": "拒否する"
-            },
-            {
-                "word": "Accept",
-                "translation": "受領する"
-            },
-            {
-                "word": "Tenant",
-                "translation": "借家人"
-            }
-        ]
-    },
-    {
-        "category": "Deposit Act (供託法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Deposit Office",
-        "definition": "The government agency (typically the Legal Affairs Bureau) where deposits are handled.",
-        "japaneseDefinition": "供託事務を取り扱う国の機関（通常は法務局または地方法務局）。",
-        "japaneseWordTranslation": "供託所 (きょうたくしょ)",
-        "legalContext": "Deposit Act Art. 1: Deposit business is handled by the Legal Affairs Bureau as the Deposit Office.",
-        "japaneseLegalContext": "供託法第1条：供託事務は...法務局...が、供託所としてこれを取り扱う。",
-        "exampleSentence": "You must submit the deposit application form to the competent Deposit Office.",
-        "exampleTranslation": "供託書は管轄の供託所に提出しなければならない。",
-        "vocabularyList": [
-            {
-                "word": "Competent",
-                "translation": "管轄の"
-            },
-            {
-                "word": "Application form",
-                "translation": "申請書/供託書"
-            },
-            {
-                "word": "Submit",
-                "translation": "提出する"
-            },
-            {
-                "word": "Handle",
-                "translation": "取り扱う"
-            },
-            {
-                "word": "Agency",
-                "translation": "機関"
-            }
-        ]
-    },
-    {
-        "category": "Deposit Act (供託法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Recovery of Deposit",
-        "definition": "The right of the depositor to retrieve the deposited money or securities when the cause for deposit ceases to exist.",
-        "japaneseDefinition": "供託の原因が消滅したときなどに、供託者が供託した金銭や有価証券を取り戻す権利。",
-        "japaneseWordTranslation": "供託金の取戻し (きょうたくきんのとりもどし)",
-        "legalContext": "Deposit Act Art. 8: The depositor may request the recovery of the deposit.",
-        "japaneseLegalContext": "供託法第8条：供託者は、...供託物の取戻しを請求することができる。",
-        "exampleSentence": "The depositor filed a request for the recovery of the deposit after the lawsuit was settled.",
-        "exampleTranslation": "訴訟が和解した後、供託者は供託金の取戻し請求を行った。",
-        "vocabularyList": [
-            {
-                "word": "Retrieve",
-                "translation": "取り戻す"
-            },
-            {
-                "word": "Cease",
-                "translation": "消滅する/止む"
-            },
-            {
-                "word": "Request",
-                "translation": "請求する"
-            },
-            {
-                "word": "Settle",
-                "translation": "解決する/和解する"
-            },
-            {
-                "word": "Depositor",
-                "translation": "供託者"
-            }
-        ]
-    }
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit",
+    "definition": "The act of placing money or securities with a Deposit Office to satisfy an obligation, guarantee a right, or for other legal purposes.",
+    "japaneseDefinition": "債務の弁済、権利の担保、その他法律上の目的のために、金銭や有価証券を供託所に預けること。",
+    "japaneseWordTranslation": "供託 (きょうたく)",
+    "legalContext": "Deposit Act Art. 1: Deposits shall be handled by the Legal Affairs Bureau or District Legal Affairs Bureau.",
+    "japaneseLegalContext": "供託法第1条：供託事務は、法務局若しくは地方法務局...が、供託所としてこれを取り扱う。",
+    "exampleSentence": "The tenant made a deposit of the rent with the Legal Affairs Bureau because the landlord refused to accept it.",
+    "exampleTranslation": "家主が受領を拒否したため、借家人は家賃を法務局に供託した。",
+    "vocabularyList": [
+      {
+        "word": "Obligation",
+        "translation": "債務"
+      },
+      {
+        "word": "Guarantee",
+        "translation": "担保する"
+      },
+      {
+        "word": "Refuse",
+        "translation": "拒否する"
+      },
+      {
+        "word": "Accept",
+        "translation": "受領する"
+      },
+      {
+        "word": "Tenant",
+        "translation": "借家人"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Office",
+    "definition": "The government agency (typically the Legal Affairs Bureau) where deposits are handled.",
+    "japaneseDefinition": "供託事務を取り扱う国の機関（通常は法務局または地方法務局）。",
+    "japaneseWordTranslation": "供託所 (きょうたくしょ)",
+    "legalContext": "Deposit Act Art. 1: Deposit business is handled by the Legal Affairs Bureau as the Deposit Office.",
+    "japaneseLegalContext": "供託法第1条：供託事務は...法務局...が、供託所としてこれを取り扱う。",
+    "exampleSentence": "You must submit the deposit application form to the competent Deposit Office.",
+    "exampleTranslation": "供託書は管轄の供託所に提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Competent",
+        "translation": "管轄の"
+      },
+      {
+        "word": "Application form",
+        "translation": "申請書/供託書"
+      },
+      {
+        "word": "Submit",
+        "translation": "提出する"
+      },
+      {
+        "word": "Handle",
+        "translation": "取り扱う"
+      },
+      {
+        "word": "Agency",
+        "translation": "機関"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Recovery of Deposit",
+    "definition": "The right of the depositor to retrieve the deposited money or securities when the cause for deposit ceases to exist.",
+    "japaneseDefinition": "供託の原因が消滅したときなどに、供託者が供託した金銭や有価証券を取り戻す権利。",
+    "japaneseWordTranslation": "供託金の取戻し (きょうたくきんのとりもどし)",
+    "legalContext": "Deposit Act Art. 8: The depositor may request the recovery of the deposit.",
+    "japaneseLegalContext": "供託法第8条：供託者は、...供託物の取戻しを請求することができる。",
+    "exampleSentence": "The depositor filed a request for the recovery of the deposit after the lawsuit was settled.",
+    "exampleTranslation": "訴訟が和解した後、供託者は供託金の取戻し請求を行った。",
+    "vocabularyList": [
+      {
+        "word": "Retrieve",
+        "translation": "取り戻す"
+      },
+      {
+        "word": "Cease",
+        "translation": "消滅する/止む"
+      },
+      {
+        "word": "Request",
+        "translation": "請求する"
+      },
+      {
+        "word": "Settle",
+        "translation": "解決する/和解する"
+      },
+      {
+        "word": "Depositor",
+        "translation": "供託者"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligee's Refusal to Accept Performance",
+    "definition": "The situation where the creditor refuses, without justifiable cause, to accept the performance tendered by the obligor. This refusal triggers the obligor's statutory right to discharge the obligation through consignment.",
+    "japaneseDefinition": "債権者が正当な理由なく、債務者が提供した履行の受領を拒否する状況。この拒否は、債務者が供託によって債務を消滅させる法定の権利を行使する原因となる。",
+    "japaneseWordTranslation": "受領拒否 (じゅりょうきょひ)",
+    "legalContext": "Civil Code Art. 494: ... If the obligee refuses to accept the performance, or is unable to accept it, the obligor may be released from the obligation by consigning the subject matter of the performance.",
+    "japaneseLegalContext": "民法第494条: 債権者が弁済の受領を拒み、又はこれを受領することができないときは、弁済をすべき者は、債権者のためにその弁済の目的物を供託することができる。",
+    "exampleSentence": "The obligor initiated consignment proceedings immediately following the obligee's refusal to accept performance of the final outstanding payment.",
+    "exampleTranslation": "債務者は、最終的な未払い金の弁済に対する債権者の受領拒否を受け、直ちに供託手続を開始した。",
+    "vocabularyList": [
+      {
+        "word": "tenders performance",
+        "translation": "履行を提供する"
+      },
+      {
+        "word": "justifiable cause",
+        "translation": "正当な理由"
+      },
+      {
+        "word": "discharge the obligation",
+        "translation": "債務を消滅させる"
+      },
+      {
+        "word": "consigning",
+        "translation": "供託する (こと)"
+      },
+      {
+        "word": "outstanding payment",
+        "translation": "未払い金"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consigned Property",
+    "definition": "The money, negotiable instruments, or other movable goods that the obligor entrusts to a governmental facility in order to release themselves from their obligation, typically due to issues such as the obligee’s refusal or unknown whereabouts.",
+    "japaneseDefinition": "債務者が、債権者の受領拒否や所在不明などの理由により、自己の債務を免れるために国の機関に委託する金銭、有価証券その他の動産。",
+    "japaneseWordTranslation": "供託物 (きょうたくぶつ)",
+    "legalContext": "Deposit Act Art. 8: Money or negotiable instruments shall be the Consigned Property in the case of judicial security or performance discharge consignment, except as otherwise provided by law.",
+    "japaneseLegalContext": "供託法第8条: 法令に別段の定めがある場合を除くほか、司法上の保証又は弁済による供託は、金銭又は有価証券をもって供託物とする。",
+    "exampleSentence": "A detailed inventory must be submitted outlining the quantity and nature of the Consigned Property before the consignment is accepted by the authorities.",
+    "exampleTranslation": "当局により供託が受理される前に、供託物の数量と性質を詳述した詳細な目録が提出されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "negotiable instruments",
+        "translation": "有価証券"
+      },
+      {
+        "word": "movable goods",
+        "translation": "動産"
+      },
+      {
+        "word": "release themselves",
+        "translation": "（義務を）免れる"
+      },
+      {
+        "word": "judicial security",
+        "translation": "司法上の保証"
+      },
+      {
+        "word": "detailed inventory",
+        "translation": "詳細な目録"
+      },
+      {
+        "word": "nature",
+        "translation": "性質"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Recipient of Consignment",
+    "definition": "The designated party for whose benefit the consignment is made and who has the legal authority to receive the Consigned Property from the managing facility.",
+    "japaneseDefinition": "供託がその者の利益のために行われる、指定された当事者であり、管理施設から供託物を受領する法的な権限を有する者。",
+    "japaneseWordTranslation": "被供託者 (ひきょうたくしゃ)",
+    "legalContext": "Deposit Act Enforcement Rules Art. 24: In cases where the Recipient of Consignment is an unknown person, the grounds for being unknown must be specified in the application.",
+    "japaneseLegalContext": "供託法施行規則第24条: 被供託者が不確知である場合には、その不確知の事由を申請書に記載しなければならない。",
+    "exampleSentence": "To claim the funds, the Recipient of Consignment must provide proof of identification and demonstrate their legal entitlement to the Consigned Property.",
+    "exampleTranslation": "資金を請求するためには、被供託者は身分証明書を提出し、供託物に対する法的資格を証明しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "designated party",
+        "translation": "指定された当事者"
+      },
+      {
+        "word": "legal authority",
+        "translation": "法的権限"
+      },
+      {
+        "word": "managing facility",
+        "translation": "管理施設"
+      },
+      {
+        "word": "unknown person",
+        "translation": "不確知の者"
+      },
+      {
+        "word": "application",
+        "translation": "申請書"
+      },
+      {
+        "word": "legal entitlement",
+        "translation": "法的資格"
+      }
+    ]
+  }
 ]

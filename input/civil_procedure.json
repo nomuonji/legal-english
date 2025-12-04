@@ -154,5 +154,123 @@
         "translation": "拘束力のある"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Burden of Proof",
+    "definition": "The obligation of a party in litigation to produce evidence sufficient to establish the truth of a fact essential to that party's claim or defense.",
+    "japaneseDefinition": "訴訟において、自己に有利な法律効果の発生を基礎づける主要事実について、裁判官に真偽不明とならない程度の確信を抱かせるために証拠を提出すべき当事者の責任。",
+    "japaneseWordTranslation": "立証責任 (りっしょうせきにん)",
+    "legalContext": "Generally established judicial principle (often associated with the principle of free evaluation of evidence): The facts on which a party bases their claim or defense must be proved by that party.",
+    "japaneseLegalContext": "民事訴訟法第247条（自由心証主義）に基づく原則：当事者は、自己に有利な法律効果を発生させる主要事実について、立証責任を負う。",
+    "exampleSentence": "If the plaintiff alleges unjust enrichment, they typically bear the burden of proof regarding the defendant's reception of the profit without legal grounds.",
+    "exampleTranslation": "原告が不当利得を主張する場合、通常、被告の法律上の原因のない利得の受領について立証責任を負う。",
+    "vocabularyList": [
+      {
+        "word": "alleges",
+        "translation": "主張する"
+      },
+      {
+        "word": "unjust enrichment",
+        "translation": "不当利得"
+      },
+      {
+        "word": "litigation",
+        "translation": "訴訟"
+      },
+      {
+        "word": "defense",
+        "translation": "抗弁"
+      },
+      {
+        "word": "establish the truth",
+        "translation": "真実を確定する"
+      },
+      {
+        "word": "legal grounds",
+        "translation": "法律上の原因"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preparation Proceedings",
+    "definition": "A specific procedural stage used by the court to organize the issues and evidence, and to streamline the process for subsequent hearings, often involving focused meetings between the judge and parties' attorneys.",
+    "japaneseDefinition": "裁判所が、争点及び証拠の整理を目的として、当事者双方の主張や証拠調べの計画を集中して行う手続。口頭弁論期日に代えて利用される。",
+    "japaneseWordTranslation": "弁論準備手続 (べんろんじゅんびてつづき)",
+    "legalContext": "Code of Civil Procedure Art. 168 (The court may, if it deems it necessary, order that the preparation proceedings be held to organize the issues and evidence.)",
+    "japaneseLegalContext": "民事訴訟法第168条 (裁判所は、事件が弁論準備手続に付された場合において、争点及び証拠の整理を目的とするときは、弁論準備手続を行うことができる。)",
+    "exampleSentence": "The parties were ordered to utilize the preparation proceedings to identify the disputed points of fact before the formal presentation of evidence.",
+    "exampleTranslation": "当事者は、正式な証拠調べに先立ち、事実の争点を特定するために弁論準備手続を利用するよう命じられた。",
+    "vocabularyList": [
+      {
+        "word": "streamline",
+        "translation": "合理化する"
+      },
+      {
+        "word": "procedural stage",
+        "translation": "手続段階"
+      },
+      {
+        "word": "organize the issues",
+        "translation": "争点を整理する"
+      },
+      {
+        "word": "subsequent hearings",
+        "translation": "その後の審理"
+      },
+      {
+        "word": "disputed points",
+        "translation": "争点"
+      },
+      {
+        "word": "presentation of evidence",
+        "translation": "証拠の提出"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Intervention",
+    "definition": "The formal act by which a third party joins an ongoing lawsuit between others, either to assist one of the existing parties (participatory intervention) or to assert an independent claim related to the subject matter (interpleader intervention).",
+    "japaneseDefinition": "訴訟係属中の他人の訴訟に、第三者が当事者として、または当事者の一方を補助する目的で加わること。大きく分けて参加的訴訟参加と独立当事者参加がある。",
+    "japaneseWordTranslation": "訴訟参加 (そしょうさんか)",
+    "legalContext": "Code of Civil Procedure Art. 42 (A person who has a legal interest in the result of a suit may, in order to assist one of the parties, intervene in the suit.)",
+    "japaneseLegalContext": "民事訴訟法第42条 (訴訟の結果について利害関係を有する第三者は、当事者の一方を補助するため、その訴訟に参加することができる。)",
+    "exampleSentence": "The guarantor filed a petition for participatory intervention in the principal debtor’s lawsuit, fearing that an adverse judgment would detrimentally affect his own liability.",
+    "exampleTranslation": "保証人は、不利な判決が自己の責任に不利益な影響を及ぼすことを恐れ、主債務者の訴訟への参加的訴訟参加の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "participatory intervention",
+        "translation": "参加的訴訟参加"
+      },
+      {
+        "word": "principal debtor",
+        "translation": "主債務者"
+      },
+      {
+        "word": "guarantor",
+        "translation": "保証人"
+      },
+      {
+        "word": "adverse judgment",
+        "translation": "不利な判決"
+      },
+      {
+        "word": "liability",
+        "translation": "責任"
+      },
+      {
+        "word": "legal interest",
+        "translation": "利害関係"
+      }
+    ]
   }
 ]

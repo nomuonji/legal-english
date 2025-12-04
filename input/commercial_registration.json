@@ -1,104 +1,214 @@
 [
-    {
-        "category": "Commercial Registration (商業登記法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Commercial Registration",
-        "definition": "A system to publicly disclose information about companies to ensure safe business transactions.",
-        "japaneseDefinition": "商号、会社等に関する事項を公にし、取引の安全を保護するための制度。",
-        "japaneseWordTranslation": "商業登記 (しょうぎょうとうき)",
-        "legalContext": "Commercial Registration Act Art. 1: The purpose of this Act is to ensure the safety of commerce by establishing a system for registration.",
-        "japaneseLegalContext": "商業登記法第1条：この法律は、商号、未成年者後見人...に関する登記について定め、もって商取引の安全に寄与することを目的とする。",
-        "exampleSentence": "The company completed its commercial registration immediately after incorporation.",
-        "exampleTranslation": "その会社は設立後直ちに商業登記を完了した。",
-        "vocabularyList": [
-            {
-                "word": "Commerce",
-                "translation": "商取引"
-            },
-            {
-                "word": "Disclose",
-                "translation": "公開する"
-            },
-            {
-                "word": "Incorporation",
-                "translation": "設立"
-            },
-            {
-                "word": "Safety",
-                "translation": "安全"
-            },
-            {
-                "word": "System",
-                "translation": "制度"
-            }
-        ]
-    },
-    {
-        "category": "Commercial Registration (商業登記法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Trade Name",
-        "definition": "The name under which a merchant conducts business and which is registered to identify the business entity.",
-        "japaneseDefinition": "商人が営業を行う際に使用する名称であり、事業主体を識別するために登記されるもの。",
-        "japaneseWordTranslation": "商号 (しょうごう)",
-        "legalContext": "Commercial Registration Act Art. 27: No trade name identical to another trade name registered at the same location shall be registered.",
-        "japaneseLegalContext": "商業登記法第27条：同一の所在場所においては、他人が登記した商号と同一の商号は、登記することができない。",
-        "exampleSentence": "The company decided to change its trade name to reflect its new business strategy.",
-        "exampleTranslation": "その会社は新しい事業戦略を反映させるために商号を変更することを決定した。",
-        "vocabularyList": [
-            {
-                "word": "Merchant",
-                "translation": "商人"
-            },
-            {
-                "word": "Identify",
-                "translation": "識別する"
-            },
-            {
-                "word": "Entity",
-                "translation": "主体"
-            },
-            {
-                "word": "Location",
-                "translation": "所在場所"
-            },
-            {
-                "word": "Identical",
-                "translation": "同一の"
-            }
-        ]
-    },
-    {
-        "category": "Commercial Registration (商業登記法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Registry Office",
-        "definition": "The government office (Legal Affairs Bureau) responsible for handling registration affairs.",
-        "japaneseDefinition": "登記事務をつかさどる役所（法務局、地方法務局など）。",
-        "japaneseWordTranslation": "登記所 (とうきしょ)",
-        "legalContext": "Commercial Registration Act Art. 1-3: Registration affairs shall be handled by the Legal Affairs Bureau having jurisdiction over the location of the business office.",
-        "japaneseLegalContext": "商業登記法第1条の3：登記に関する事務は、営業所の所在地を管轄する法務局...が、登記所としてつかさどる。",
-        "exampleSentence": "You must submit the application form to the competent registry office.",
-        "exampleTranslation": "申請書は管轄の登記所に提出しなければならない。",
-        "vocabularyList": [
-            {
-                "word": "Legal Affairs Bureau",
-                "translation": "法務局"
-            },
-            {
-                "word": "Handle",
-                "translation": "取り扱う"
-            },
-            {
-                "word": "Competent",
-                "translation": "管轄権のある"
-            },
-            {
-                "word": "Submit",
-                "translation": "提出する"
-            },
-            {
-                "word": "Application form",
-                "translation": "申請書"
-            }
-        ]
-    }
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Commercial Registration",
+    "definition": "A system to publicly disclose information about companies to ensure safe business transactions.",
+    "japaneseDefinition": "商号、会社等に関する事項を公にし、取引の安全を保護するための制度。",
+    "japaneseWordTranslation": "商業登記 (しょうぎょうとうき)",
+    "legalContext": "Commercial Registration Act Art. 1: The purpose of this Act is to ensure the safety of commerce by establishing a system for registration.",
+    "japaneseLegalContext": "商業登記法第1条：この法律は、商号、未成年者後見人...に関する登記について定め、もって商取引の安全に寄与することを目的とする。",
+    "exampleSentence": "The company completed its commercial registration immediately after incorporation.",
+    "exampleTranslation": "その会社は設立後直ちに商業登記を完了した。",
+    "vocabularyList": [
+      {
+        "word": "Commerce",
+        "translation": "商取引"
+      },
+      {
+        "word": "Disclose",
+        "translation": "公開する"
+      },
+      {
+        "word": "Incorporation",
+        "translation": "設立"
+      },
+      {
+        "word": "Safety",
+        "translation": "安全"
+      },
+      {
+        "word": "System",
+        "translation": "制度"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Trade Name",
+    "definition": "The name under which a merchant conducts business and which is registered to identify the business entity.",
+    "japaneseDefinition": "商人が営業を行う際に使用する名称であり、事業主体を識別するために登記されるもの。",
+    "japaneseWordTranslation": "商号 (しょうごう)",
+    "legalContext": "Commercial Registration Act Art. 27: No trade name identical to another trade name registered at the same location shall be registered.",
+    "japaneseLegalContext": "商業登記法第27条：同一の所在場所においては、他人が登記した商号と同一の商号は、登記することができない。",
+    "exampleSentence": "The company decided to change its trade name to reflect its new business strategy.",
+    "exampleTranslation": "その会社は新しい事業戦略を反映させるために商号を変更することを決定した。",
+    "vocabularyList": [
+      {
+        "word": "Merchant",
+        "translation": "商人"
+      },
+      {
+        "word": "Identify",
+        "translation": "識別する"
+      },
+      {
+        "word": "Entity",
+        "translation": "主体"
+      },
+      {
+        "word": "Location",
+        "translation": "所在場所"
+      },
+      {
+        "word": "Identical",
+        "translation": "同一の"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registry Office",
+    "definition": "The government office (Legal Affairs Bureau) responsible for handling registration affairs.",
+    "japaneseDefinition": "登記事務をつかさどる役所（法務局、地方法務局など）。",
+    "japaneseWordTranslation": "登記所 (とうきしょ)",
+    "legalContext": "Commercial Registration Act Art. 1-3: Registration affairs shall be handled by the Legal Affairs Bureau having jurisdiction over the location of the business office.",
+    "japaneseLegalContext": "商業登記法第1条の3：登記に関する事務は、営業所の所在地を管轄する法務局...が、登記所としてつかさどる。",
+    "exampleSentence": "You must submit the application form to the competent registry office.",
+    "exampleTranslation": "申請書は管轄の登記所に提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Legal Affairs Bureau",
+        "translation": "法務局"
+      },
+      {
+        "word": "Handle",
+        "translation": "取り扱う"
+      },
+      {
+        "word": "Competent",
+        "translation": "管轄権のある"
+      },
+      {
+        "word": "Submit",
+        "translation": "提出する"
+      },
+      {
+        "word": "Application form",
+        "translation": "申請書"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Matters Subject to Public Disclosure",
+    "definition": "Information concerning the organization, existence, or internal structure of a company that must be recorded in the commercial record and made available for public inspection, ensuring the principle of publicity (公示力).",
+    "japaneseDefinition": "会社の組織、存続、又は内部構造に関する情報のうち、商業登記簿に記録され、一般に公開されるべき事項。これにより、商業取引の安全を図る公示力の原則が担保される。",
+    "japaneseWordTranslation": "公告すべき事項 (こうこくすべきじこう)",
+    "legalContext": "Commercial Registration Act Art. 9 (Effect of Registration): 'Matters subject to registration cannot be asserted against a third party acting in good faith unless and until they are registered.'",
+    "japaneseLegalContext": "商業登記法 第9条 (登記の効力): 「登記すべき事項は、登記の後でなければ、これをもって善意の第三者に対抗することができない。」",
+    "exampleSentence": "Failure to properly register the new location of the principal office means that change is not considered one of the matters subject to public disclosure against unsuspecting third parties.",
+    "exampleTranslation": "本店の所在地変更を適切に登記しなかった場合、その変更は、知らない第三者に対しては公告すべき事項として対抗できないことになる。",
+    "vocabularyList": [
+      {
+        "word": "Principal Office",
+        "translation": "本店 (ほんてん)"
+      },
+      {
+        "word": "Good Faith",
+        "translation": "善意 (ぜんい)"
+      },
+      {
+        "word": "Assertion/Assert",
+        "translation": "対抗 (たいこう)"
+      },
+      {
+        "word": "Publicity Principle",
+        "translation": "公示の原則 (こうしのげんそく)"
+      },
+      {
+        "word": "Unsuspecting third parties",
+        "translation": "知らない第三者 (しらないだいさんしゃ)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Neglect of Registration Duty",
+    "definition": "The legal failure by an officer or representative of a company to apply for necessary corporate registrations (e.g., changes in officers, capital amendments, establishment) within the statutory period, usually two weeks from the change date.",
+    "japaneseDefinition": "会社の役員または代表者が、法律で定められた期間内（通常、変更日から2週間以内）に、必要な会社登記（役員の変更、資本の修正、設立など）を申請しなかった法的懈怠。",
+    "japaneseWordTranslation": "登記懈怠 (とうきけたい)",
+    "legalContext": "Commercial Registration Act Art. 107 (Duty to Register): Establishes the obligation of the representative to apply for registration without delay. Violation is subject to a non-penal fine (過料).",
+    "japaneseLegalContext": "商業登記法 第107条 (登記の義務等): 代表者が遅滞なく登記を申請する義務を定める。違反した場合には過料に処される。",
+    "exampleSentence": "The former representative director faced a non-penal fine due to prolonged neglect of registration duty regarding the resignation of several managing officers.",
+    "exampleTranslation": "元代表取締役は、数名の業務執行役員の辞任に関する長期にわたる登記懈怠により、過料に処された。",
+    "vocabularyList": [
+      {
+        "word": "Statutory Period",
+        "translation": "法定期間 (ほうていきかん)"
+      },
+      {
+        "word": "Non-penal Fine",
+        "translation": "過料 (かりょう)"
+      },
+      {
+        "word": "Officer",
+        "translation": "役員 (やくいん)"
+      },
+      {
+        "word": "Representative Director",
+        "translation": "代表取締役 (だいひょうとりしまりやく)"
+      },
+      {
+        "word": "Resignation",
+        "translation": "辞任 (じにん)"
+      },
+      {
+        "word": "Prolonged",
+        "translation": "長期にわたる (ちょうきにわたる)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reduction of Stated Capital",
+    "definition": "A corporate action decreasing the formal amount of the company's stated capital (資本金) registered in the commercial records, often requiring special procedures for creditor protection prior to registration.",
+    "japaneseDefinition": "会社の商業登記簿に記録された正式な資本金の額を減少させる会社法上の行為。登記に先立って、債権者保護手続などの特別な手続を要する場合が多い。",
+    "japaneseWordTranslation": "資本金の額の減少 (しほんきんのがくのげんしょう)",
+    "legalContext": "Corporate Act Art. 447 (Resolution on Reduction of Stated Capital) and Commercial Registration Act Art. 45 (Matters to be Registered for Stock Companies): Mandates the registration of the amended capital amount.",
+    "japaneseLegalContext": "会社法 第447条 (資本金の額の減少に関する決定) および商業登記法 第45条 (株式会社の登記すべき事項): 修正された資本金の額の登記を義務付ける。",
+    "exampleSentence": "The application for the reduction of stated capital was rejected because the necessary procedures for creditor protection had not been properly documented.",
+    "exampleTranslation": "債権者保護のための必要手続が適切に文書化されていなかったため、資本金の額の減少の申請は却下された。",
+    "vocabularyList": [
+      {
+        "word": "Stated Capital",
+        "translation": "資本金 (しほんきん)"
+      },
+      {
+        "word": "Creditor Protection Procedure",
+        "translation": "債権者保護手続 (さいけんしゃほごてつづき)"
+      },
+      {
+        "word": "Corporate Action",
+        "translation": "会社法上の行為 (かいしゃほうじょうのこうい)"
+      },
+      {
+        "word": "Application",
+        "translation": "申請 (しんせい)"
+      },
+      {
+        "word": "Rejected",
+        "translation": "却下された (きゃっかされた)"
+      },
+      {
+        "word": "Documented",
+        "translation": "文書化された (ぶんしょかされた)"
+      }
+    ]
+  }
 ]

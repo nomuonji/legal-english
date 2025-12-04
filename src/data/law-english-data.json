@@ -1,54 +1,34 @@
 {
-  "category": "Companies Act (会社法)",
+  "category": "Civil Preservation (民事保全法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Articles of Incorporation",
-  "definition": "The fundamental document of a company that establishes its name, purpose, and internal rules.",
-  "japaneseDefinition": "会社の名称、目的、内部規則を定める会社の根本規則。",
-  "japaneseWordTranslation": "定款 (ていかん)",
-  "legalContext": "Companies Act Art. 26: Incorporators must prepare articles of incorporation and sign or seal them.",
-  "japaneseLegalContext": "会社法26条：発起人は、定款を作成し、これに署名し、又は記名押印しなければならない。",
-  "exampleSentence": "The articles of incorporation must be certified by a notary public.",
-  "exampleTranslation": "定款は公証人の認証を受けなければならない。",
+  "word": "Provisional Seizure",
+  "definition": "A temporary measure to preserve the debtor's assets to ensure future execution of a monetary claim.",
+  "japaneseDefinition": "金銭債権の執行を保全するために、債務者の財産を仮に差し押さえる手続。",
+  "japaneseWordTranslation": "仮差押え (かりさしおさえ)",
+  "legalContext": "Civil Preservation Act Art. 20: An order for provisional seizure may be issued when there is a likelihood that compulsory execution will be impossible.",
+  "japaneseLegalContext": "民事保全法第20条：仮差押命令は、強制執行をすることができなくなるおそれがあるときに発することができる。",
+  "exampleSentence": "The plaintiff obtained an order of provisional seizure on the defendant's bank account.",
+  "exampleTranslation": "原告は被告の銀行口座に対する仮差押命令を取得した。",
   "vocabularyList": [
     {
-      "word": "Articles of Incorporation",
-      "translation": "定款"
+      "word": "Monetary claim",
+      "translation": "金銭債権"
     },
     {
-      "word": "Fundamental",
-      "translation": "根本的な"
+      "word": "Preserve",
+      "translation": "保全する"
     },
     {
-      "word": "Document",
-      "translation": "文書"
+      "word": "Likelihood",
+      "translation": "おそれ"
     },
     {
-      "word": "Establish",
-      "translation": "定める/設立する"
+      "word": "Bank account",
+      "translation": "銀行口座"
     },
     {
-      "word": "Purpose",
-      "translation": "目的"
-    },
-    {
-      "word": "Internal Rules",
-      "translation": "内部規則"
-    },
-    {
-      "word": "Incorporator",
-      "translation": "発起人"
-    },
-    {
-      "word": "Sign",
-      "translation": "署名する"
-    },
-    {
-      "word": "Seal",
-      "translation": "押印する"
-    },
-    {
-      "word": "Notary Public",
-      "translation": "公証人"
+      "word": "Plaintiff",
+      "translation": "原告"
     }
   ]
 }

@@ -1,104 +1,234 @@
 [
-    {
-        "category": "Civil Execution (民事執行法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Civil Execution",
-        "definition": "Procedures for enforcing civil judgments and other claims through state power.",
-        "japaneseDefinition": "私法上の請求権を国家権力によって強制的に実現する手続。",
-        "japaneseWordTranslation": "民事執行 (みんじしっこう)",
-        "legalContext": "Civil Execution Act Art. 1: This Act governs the procedure for compulsory execution, execution against assets, etc.",
-        "japaneseLegalContext": "民事執行法第1条：この法律は、強制執行、担保権の実行としての競売等について規定する。",
-        "exampleSentence": "The creditor filed a petition for civil execution to recover the unpaid debt.",
-        "exampleTranslation": "債権者は未払いの債務を回収するために民事執行の申立てを行った。",
-        "vocabularyList": [
-            {
-                "word": "Creditor",
-                "translation": "債権者"
-            },
-            {
-                "word": "Petition",
-                "translation": "申立て"
-            },
-            {
-                "word": "Recover",
-                "translation": "回収する"
-            },
-            {
-                "word": "Unpaid debt",
-                "translation": "未払債務"
-            },
-            {
-                "word": "State power",
-                "translation": "国家権力"
-            }
-        ]
-    },
-    {
-        "category": "Civil Execution (民事執行法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Compulsory Execution",
-        "definition": "Enforcement of a claim by state power against the will of the obligor based on a title of obligation.",
-        "japaneseDefinition": "債務名義に基づき、債務者の意思に反して、国家権力により強制的に債権の内容を実現すること。",
-        "japaneseWordTranslation": "強制執行 (きょうせいしっこう)",
-        "legalContext": "Civil Execution Act Art. 22: Compulsory execution shall be carried out based on a title of obligation.",
-        "japaneseLegalContext": "民事執行法第22条：強制執行は、債務名義により行う。",
-        "exampleSentence": "Compulsory execution was carried out against the debtor's real estate.",
-        "exampleTranslation": "債務者の不動産に対して強制執行が行われた。",
-        "vocabularyList": [
-            {
-                "word": "Title of obligation",
-                "translation": "債務名義"
-            },
-            {
-                "word": "Obligor",
-                "translation": "債務者"
-            },
-            {
-                "word": "Real estate",
-                "translation": "不動産"
-            },
-            {
-                "word": "Enforcement",
-                "translation": "執行/強制"
-            },
-            {
-                "word": "Will",
-                "translation": "意思"
-            }
-        ]
-    },
-    {
-        "category": "Civil Execution (民事執行法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Execution Court",
-        "definition": "The court responsible for carrying out civil execution procedures.",
-        "japaneseDefinition": "民事執行の手続を行う裁判所。",
-        "japaneseWordTranslation": "執行裁判所 (しっこうさいばんしょ)",
-        "legalContext": "Civil Execution Act Art. 3: The court of execution shall be the district court having jurisdiction over the location of the subject matter.",
-        "japaneseLegalContext": "民事執行法第3条：執行裁判所は、目的物の所在地を管轄する地方裁判所とする。",
-        "exampleSentence": "The execution court issued an order for the commencement of an auction.",
-        "exampleTranslation": "執行裁判所は競売開始決定を出した。",
-        "vocabularyList": [
-            {
-                "word": "District court",
-                "translation": "地方裁判所"
-            },
-            {
-                "word": "Jurisdiction",
-                "translation": "管轄"
-            },
-            {
-                "word": "Subject matter",
-                "translation": "目的物"
-            },
-            {
-                "word": "Auction",
-                "translation": "競売"
-            },
-            {
-                "word": "Commencement",
-                "translation": "開始"
-            }
-        ]
-    }
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Civil Execution",
+    "definition": "Procedures for enforcing civil judgments and other claims through state power.",
+    "japaneseDefinition": "私法上の請求権を国家権力によって強制的に実現する手続。",
+    "japaneseWordTranslation": "民事執行 (みんじしっこう)",
+    "legalContext": "Civil Execution Act Art. 1: This Act governs the procedure for compulsory execution, execution against assets, etc.",
+    "japaneseLegalContext": "民事執行法第1条：この法律は、強制執行、担保権の実行としての競売等について規定する。",
+    "exampleSentence": "The creditor filed a petition for civil execution to recover the unpaid debt.",
+    "exampleTranslation": "債権者は未払いの債務を回収するために民事執行の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "Creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "Petition",
+        "translation": "申立て"
+      },
+      {
+        "word": "Recover",
+        "translation": "回収する"
+      },
+      {
+        "word": "Unpaid debt",
+        "translation": "未払債務"
+      },
+      {
+        "word": "State power",
+        "translation": "国家権力"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Compulsory Execution",
+    "definition": "Enforcement of a claim by state power against the will of the obligor based on a title of obligation.",
+    "japaneseDefinition": "債務名義に基づき、債務者の意思に反して、国家権力により強制的に債権の内容を実現すること。",
+    "japaneseWordTranslation": "強制執行 (きょうせいしっこう)",
+    "legalContext": "Civil Execution Act Art. 22: Compulsory execution shall be carried out based on a title of obligation.",
+    "japaneseLegalContext": "民事執行法第22条：強制執行は、債務名義により行う。",
+    "exampleSentence": "Compulsory execution was carried out against the debtor's real estate.",
+    "exampleTranslation": "債務者の不動産に対して強制執行が行われた。",
+    "vocabularyList": [
+      {
+        "word": "Title of obligation",
+        "translation": "債務名義"
+      },
+      {
+        "word": "Obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Real estate",
+        "translation": "不動産"
+      },
+      {
+        "word": "Enforcement",
+        "translation": "執行/強制"
+      },
+      {
+        "word": "Will",
+        "translation": "意思"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Court",
+    "definition": "The court responsible for carrying out civil execution procedures.",
+    "japaneseDefinition": "民事執行の手続を行う裁判所。",
+    "japaneseWordTranslation": "執行裁判所 (しっこうさいばんしょ)",
+    "legalContext": "Civil Execution Act Art. 3: The court of execution shall be the district court having jurisdiction over the location of the subject matter.",
+    "japaneseLegalContext": "民事執行法第3条：執行裁判所は、目的物の所在地を管轄する地方裁判所とする。",
+    "exampleSentence": "The execution court issued an order for the commencement of an auction.",
+    "exampleTranslation": "執行裁判所は競売開始決定を出した。",
+    "vocabularyList": [
+      {
+        "word": "District court",
+        "translation": "地方裁判所"
+      },
+      {
+        "word": "Jurisdiction",
+        "translation": "管轄"
+      },
+      {
+        "word": "Subject matter",
+        "translation": "目的物"
+      },
+      {
+        "word": "Auction",
+        "translation": "競売"
+      },
+      {
+        "word": "Commencement",
+        "translation": "開始"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Title",
+    "definition": "The authentic legal document (such as a final and binding judgment, a notarized document granting an execution clause, or a settlement record) that proves the existence and scope of the claim for which compulsory enforcement is sought.",
+    "japaneseDefinition": "強制執行を申し立てる債権の存在と範囲を証明する公的な文書（確定判決、執行証書、和解調書など）。",
+    "japaneseWordTranslation": "執行名義 (しっこうめいぎ)",
+    "legalContext": "Code of Civil Execution (Minji Shikkō Hō) Art. 22: The execution title shall be limited to those specified in the items of this article.",
+    "japaneseLegalContext": "民事執行法第22条: 執行証書は、この条に掲げるものに限定される。",
+    "exampleSentence": "The obligee must obtain a certified copy of the judgment bearing an **execution title** clause before filing a petition for attachment.",
+    "exampleTranslation": "債権者は、差押えの申立てを行う前に、執行文が付与された判決の謄本を取得しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "certified copy",
+        "translation": "謄本"
+      },
+      {
+        "word": "judgment",
+        "translation": "判決"
+      },
+      {
+        "word": "clause",
+        "translation": "文言"
+      },
+      {
+        "word": "filing a petition",
+        "translation": "申立てを行う"
+      },
+      {
+        "word": "attachment",
+        "translation": "差押え"
+      },
+      {
+        "word": "existence",
+        "translation": "存在"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Demand for Inclusion in Distribution",
+    "definition": "A formal procedure whereby a creditor who does not have an attachment order on the property but possesses an execution title or other statutory grounds requests the execution officer to include their claim in the proceeds distribution.",
+    "japaneseDefinition": "差押えをしていないが執行名義などの法定の根拠を持つ債権者が、執行官に対し、売却代金の配当手続きに自己の債権を含めるよう要求する手続き。",
+    "japaneseWordTranslation": "配当要求 (はいとうようきゅう)",
+    "legalContext": "Civil Execution Act Art. 87 (1): A creditor who has a right to demand distribution may make a demand for inclusion in distribution by the deadline set forth in the following paragraph.",
+    "japaneseLegalContext": "民事執行法第87条第1項: 配当を請求する権利を有する債権者は、次項に定める期限までに、配当要求をすることができる。",
+    "exampleSentence": "Failure by the junior creditor to submit a **demand for inclusion in distribution** by the deadline meant they forfeited their right to the surplus funds.",
+    "exampleTranslation": "期限までに後順位の債権者が配当要求を提出しなかったことは、彼らが剰余金に対する権利を喪失したことを意味した。",
+    "vocabularyList": [
+      {
+        "word": "creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "attachment order",
+        "translation": "差押命令"
+      },
+      {
+        "word": "statutory grounds",
+        "translation": "法定の根拠"
+      },
+      {
+        "word": "execution officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "proceeds distribution",
+        "translation": "売却代金の配当"
+      },
+      {
+        "word": "surplus funds",
+        "translation": "剰余金"
+      },
+      {
+        "word": "junior creditor",
+        "translation": "後順位の債権者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Obligor",
+    "definition": "The person against whom the compulsory execution procedure is commenced, defined as the party obliged to perform the duty specified in the execution title.",
+    "japaneseDefinition": "強制執行手続が開始される相手方であり、執行名義に記載された義務を履行すべき当事者。",
+    "japaneseWordTranslation": "執行債務者 (しっこうさいむしゃ)",
+    "legalContext": "Civil Execution Act Art. 2: The procedures for compulsory execution shall be commenced upon application by the obligee against the execution obligor.",
+    "japaneseLegalContext": "民事執行法第2条: 強制執行の手続は、債権者の申立てにより、執行債務者に対して開始される。",
+    "exampleSentence": "When immovable property is subject to a judicial auction, the **execution obligor** retains possession until the delivery order is issued to the successful bidder.",
+    "exampleTranslation": "不動産が競売に付された場合、引渡命令が落札者に発せられるまで、執行債務者は占有を維持する。",
+    "vocabularyList": [
+      {
+        "word": "immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "judicial auction",
+        "translation": "競売"
+      },
+      {
+        "word": "possession",
+        "translation": "占有"
+      },
+      {
+        "word": "delivery order",
+        "translation": "引渡命令"
+      },
+      {
+        "word": "successful bidder",
+        "translation": "落札者"
+      },
+      {
+        "word": "commence",
+        "translation": "開始する"
+      },
+      {
+        "word": "duty",
+        "translation": "義務"
+      },
+      {
+        "word": "application",
+        "translation": "申立て"
+      }
+    ]
+  }
 ]

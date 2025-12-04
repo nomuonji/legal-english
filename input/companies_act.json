@@ -1,110 +1,56 @@
 [
-    {
-        "category": "Companies Act (会社法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Articles of Incorporation",
-        "definition": "The fundamental document of a company that establishes its name, purpose, and internal rules.",
-        "japaneseDefinition": "会社の名称、目的、内部規則を定める会社の根本規則。",
-        "japaneseWordTranslation": "定款 (ていかん)",
-        "legalContext": "Companies Act Art. 26: Incorporators must prepare articles of incorporation and sign or seal them.",
-        "japaneseLegalContext": "会社法26条：発起人は、定款を作成し、これに署名し、又は記名押印しなければならない。",
-        "exampleSentence": "The articles of incorporation must be certified by a notary public.",
-        "exampleTranslation": "定款は公証人の認証を受けなければならない。",
-        "vocabularyList": [
-            {
-                "word": "Articles of Incorporation",
-                "translation": "定款"
-            },
-            {
-                "word": "Fundamental",
-                "translation": "根本的な"
-            },
-            {
-                "word": "Document",
-                "translation": "文書"
-            },
-            {
-                "word": "Establish",
-                "translation": "定める/設立する"
-            },
-            {
-                "word": "Purpose",
-                "translation": "目的"
-            },
-            {
-                "word": "Internal Rules",
-                "translation": "内部規則"
-            },
-            {
-                "word": "Incorporator",
-                "translation": "発起人"
-            },
-            {
-                "word": "Sign",
-                "translation": "署名する"
-            },
-            {
-                "word": "Seal",
-                "translation": "押印する"
-            },
-            {
-                "word": "Notary Public",
-                "translation": "公証人"
-            }
-        ]
-    },
-    {
-        "category": "Companies Act (会社法)",
-        "titleText": "Mastering\nJapanese Legal English",
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Representative Director",
+    "definition": "A director who has the authority to represent the company and execute its business.",
+    "japaneseDefinition": "会社を代表し、その業務を執行する権限を有する取締役。",
+    "japaneseWordTranslation": "代表取締役 (だいひょうとりしまりやく)",
+    "legalContext": "Companies Act Art. 349: A Representative Director represents the Stock Company.",
+    "japaneseLegalContext": "会社法349条：代表取締役は、株式会社を代表する。",
+    "exampleSentence": "The Representative Director signed the contract on behalf of the company.",
+    "exampleTranslation": "代表取締役は会社を代表して契約書に署名した。",
+    "vocabularyList": [
+      {
         "word": "Representative Director",
-        "definition": "A director who has the authority to represent the company and execute its business.",
-        "japaneseDefinition": "会社を代表し、その業務を執行する権限を有する取締役。",
-        "japaneseWordTranslation": "代表取締役 (だいひょうとりしまりやく)",
-        "legalContext": "Companies Act Art. 349: A Representative Director represents the Stock Company.",
-        "japaneseLegalContext": "会社法349条：代表取締役は、株式会社を代表する。",
-        "exampleSentence": "The Representative Director signed the contract on behalf of the company.",
-        "exampleTranslation": "代表取締役は会社を代表して契約書に署名した。",
-        "vocabularyList": [
-            {
-                "word": "Representative Director",
-                "translation": "代表取締役"
-            },
-            {
-                "word": "Authority",
-                "translation": "権限"
-            },
-            {
-                "word": "Represent",
-                "translation": "代表する"
-            },
-            {
-                "word": "Execute",
-                "translation": "執行する"
-            },
-            {
-                "word": "Business",
-                "translation": "業務"
-            },
-            {
-                "word": "Stock Company",
-                "translation": "株式会社"
-            },
-            {
-                "word": "Sign",
-                "translation": "署名する"
-            },
-            {
-                "word": "Contract",
-                "translation": "契約書"
-            },
-            {
-                "word": "On behalf of",
-                "translation": "〜を代表して"
-            },
-            {
-                "word": "Director",
-                "translation": "取締役"
-            }
-        ]
-    }
+        "translation": "代表取締役"
+      },
+      {
+        "word": "Authority",
+        "translation": "権限"
+      },
+      {
+        "word": "Represent",
+        "translation": "代表する"
+      },
+      {
+        "word": "Execute",
+        "translation": "執行する"
+      },
+      {
+        "word": "Business",
+        "translation": "業務"
+      },
+      {
+        "word": "Stock Company",
+        "translation": "株式会社"
+      },
+      {
+        "word": "Sign",
+        "translation": "署名する"
+      },
+      {
+        "word": "Contract",
+        "translation": "契約書"
+      },
+      {
+        "word": "On behalf of",
+        "translation": "〜を代表して"
+      },
+      {
+        "word": "Director",
+        "translation": "取締役"
+      }
+    ]
+  }
 ]

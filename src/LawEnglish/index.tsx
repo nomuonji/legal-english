@@ -511,7 +511,7 @@ export const LawEnglishVideo: React.FC<z.infer<typeof lawEnglishSchema>> = (prop
 
     return (
         <AbsoluteFill style={themeStyle}>
-            <Audio src={staticFile("bgm/caravan.mp3")} loop volume={0.2} />
+            <Audio src={staticFile("bgm/caravan.mp3")} loop volume={0.1} />
             <Sequence durationInFrames={titleDuration}>
                 <TitleScene
                     title={props.titleText}

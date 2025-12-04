@@ -30,3 +30,5 @@ description: Replenish input data using the agent and web search
    - Read the existing file (if it exists).
    - Append the new item to the array (create a new array if file doesn't exist).
    - Write the updated array back to the file using `write_to_file` or `replace_file_content`.
+
+caution: npm run generate-inputは使わずに、直接補充して下さい

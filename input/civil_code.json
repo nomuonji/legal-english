@@ -112,5 +112,107 @@
         "translation": "所有 (しょゆう)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Tort",
+    "definition": "An unlawful act that causes damage to another person, creating an obligation to compensate for the damages.",
+    "japaneseDefinition": "故意または過失によって他人の権利または法律上保護される利益を侵害し、損害を生じさせる行為。",
+    "japaneseWordTranslation": "不法行為 (ふほうこうい)",
+    "legalContext": "Civil Code Art. 709: A person who has intentionally or negligently infringed any right of others... shall be liable to compensate for any damages resulting therefrom.",
+    "japaneseLegalContext": "民法第709条：故意又は過失によって他人の権利又は法律上保護される利益を侵害した者は、これによって生じた損害を賠償する責任を負う。",
+    "exampleSentence": "The victim sued the driver for damages based on tort.",
+    "exampleTranslation": "被害者は不法行為に基づき、運転手に対して損害賠償を求めて訴えた。",
+    "vocabularyList": [
+      {
+        "word": "Compensate",
+        "translation": "賠償する"
+      },
+      {
+        "word": "Damages",
+        "translation": "損害"
+      },
+      {
+        "word": "Intentionally",
+        "translation": "故意に"
+      },
+      {
+        "word": "Negligently",
+        "translation": "過失により"
+      },
+      {
+        "word": "Infringe",
+        "translation": "侵害する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Contract",
+    "definition": "A legally binding agreement between parties that creates mutual obligations.",
+    "japaneseDefinition": "当事者の合意によって成立し、法的拘束力を生じさせる約束。",
+    "japaneseWordTranslation": "契約 (けいやく)",
+    "legalContext": "Civil Code Art. 521: A contract is formed when an offer is accepted.",
+    "japaneseLegalContext": "民法第521条：契約は、申込みに対して承諾がなされることによって成立する。",
+    "exampleSentence": "The parties entered into a sales contract for the real estate.",
+    "exampleTranslation": "当事者はその不動産について売買契約を締結した。",
+    "vocabularyList": [
+      {
+        "word": "Agreement",
+        "translation": "合意"
+      },
+      {
+        "word": "Obligation",
+        "translation": "義務/債務"
+      },
+      {
+        "word": "Offer",
+        "translation": "申込み"
+      },
+      {
+        "word": "Acceptance",
+        "translation": "承諾"
+      },
+      {
+        "word": "Binding",
+        "translation": "拘束力のある"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statute of Limitations",
+    "definition": "A law that sets the maximum time period during which legal proceedings may be initiated or rights may be enforced.",
+    "japaneseDefinition": "一定期間権利を行使しない状態が続いた場合に、その権利を消滅させる制度。",
+    "japaneseWordTranslation": "時効 (じこう)",
+    "legalContext": "Civil Code Art. 166: A claim shall be extinguished by prescription if the creditor does not exercise the right for a certain period.",
+    "japaneseLegalContext": "民法第166条：債権は、...権利を行使することができる時から十年間行使しないときは、時効によって消滅する。",
+    "exampleSentence": "The claim was extinguished by the statute of limitations because the creditor failed to take action.",
+    "exampleTranslation": "債権者が行動を起こさなかったため、その債権は時効により消滅した。",
+    "vocabularyList": [
+      {
+        "word": "Extinguish",
+        "translation": "消滅させる"
+      },
+      {
+        "word": "Prescription",
+        "translation": "時効"
+      },
+      {
+        "word": "Creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "Enforce",
+        "translation": "行使する/強制する"
+      },
+      {
+        "word": "Period",
+        "translation": "期間"
+      }
+    ]
   }
 ]

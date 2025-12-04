@@ -1,109 +1,103 @@
 [
     {
-        "category": "Real Property Registration Act (不動産登記法)",
+        "category": "Real Property Registration (不動産登記法)",
         "titleText": "Mastering\nJapanese Legal English",
-        "word": "Provisional Registration",
-        "definition": "A registration made to preserve priority when the requirements for the main registration are not yet met.",
-        "japaneseDefinition": "本登記の要件がまだ満たされていない場合に、順位を保全するために行われる登記。",
-        "japaneseWordTranslation": "仮登記 (かりとうき)",
-        "legalContext": "Real Property Registration Act Art. 105: Provisional registration may be made to preserve the priority of a claim.",
-        "japaneseLegalContext": "不動産登記法105条：仮登記は、請求権の順位を保全するためにすることができる。",
-        "exampleSentence": "They applied for provisional registration to secure their claim to the land.",
-        "exampleTranslation": "彼らはその土地への請求権を確保するために仮登記を申請した。",
+        "word": "Real Property Registration",
+        "definition": "A system to publicly disclose rights relationships concerning real property (land and buildings) to ensure transaction safety.",
+        "japaneseDefinition": "不動産（土地・建物）に関する権利関係を公示し、取引の安全を図るための制度。",
+        "japaneseWordTranslation": "不動産登記 (ふどうさんとうき)",
+        "legalContext": "Real Property Registration Act Art. 1: This Act governs the registration of real property to clarify rights and boundaries.",
+        "japaneseLegalContext": "不動産登記法第1条：この法律は、不動産の表示及び不動産に関する権利を公示するための登記について定める。",
+        "exampleSentence": "Real property registration is essential for asserting ownership against third parties.",
+        "exampleTranslation": "不動産登記は、第三者に対して所有権を主張するために不可欠である。",
         "vocabularyList": [
             {
-                "word": "Provisional Registration",
-                "translation": "仮登記"
+                "word": "Assert",
+                "translation": "主張する"
             },
             {
-                "word": "Preserve",
-                "translation": "保全する"
+                "word": "Third party",
+                "translation": "第三者"
             },
             {
-                "word": "Priority",
-                "translation": "順位/優先権"
+                "word": "Clarify",
+                "translation": "明らかにする"
             },
             {
-                "word": "Requirement",
-                "translation": "要件"
+                "word": "Boundary",
+                "translation": "境界"
             },
             {
-                "word": "Main Registration",
-                "translation": "本登記"
-            },
-            {
-                "word": "Claim",
-                "translation": "請求権"
-            },
-            {
-                "word": "Apply",
-                "translation": "申請する"
-            },
-            {
-                "word": "Secure",
-                "translation": "確保する"
-            },
-            {
-                "word": "Land",
-                "translation": "土地"
-            },
-            {
-                "word": "Meet",
-                "translation": "満たす"
+                "word": "Transaction safety",
+                "translation": "取引の安全"
             }
         ]
     },
     {
-        "category": "Real Property Registration Act (不動産登記法)",
+        "category": "Real Property Registration (不動産登記法)",
         "titleText": "Mastering\nJapanese Legal English",
-        "word": "Joint Application",
-        "definition": "The principle that registration must be applied for jointly by the person entitled to register and the person obligated to register.",
-        "japaneseDefinition": "登記は、登記権利者と登記義務者が共同して申請しなければならないという原則。",
-        "japaneseWordTranslation": "共同申請 (きょうどうしんせい)",
-        "legalContext": "Real Property Registration Act Art. 60: Registrations must be applied for jointly by the entitled and obligated parties.",
-        "japaneseLegalContext": "不動産登記法60条：登記は、権利者と義務者が共同して申請しなければならない。",
-        "exampleSentence": "The transfer of ownership requires a joint application by the seller and buyer.",
-        "exampleTranslation": "所有権の移転には、売主と買主による共同申請が必要である。",
+        "word": "Registration of Ownership Transfer",
+        "definition": "Registration made when the ownership of real property is transferred due to sale, inheritance, or other causes.",
+        "japaneseDefinition": "売買や相続などにより不動産の所有権が移転した際に行う登記。",
+        "japaneseWordTranslation": "所有権移転登記 (しょゆうけんいてんとうき)",
+        "legalContext": "Real Property Registration Act Art. 3: Registration of rights shall be made for the preservation, establishment, transfer... of rights.",
+        "japaneseLegalContext": "不動産登記法第3条：登記は、不動産の権利の...保存、設定、移転...についてする。",
+        "exampleSentence": "The registration of ownership transfer was completed immediately after the payment was made.",
+        "exampleTranslation": "支払いがなされた直後に所有権移転登記が完了した。",
         "vocabularyList": [
-            {
-                "word": "Joint Application",
-                "translation": "共同申請"
-            },
-            {
-                "word": "Principle",
-                "translation": "原則"
-            },
-            {
-                "word": "Entitled",
-                "translation": "権利がある"
-            },
-            {
-                "word": "Obligated",
-                "translation": "義務がある"
-            },
-            {
-                "word": "Party",
-                "translation": "当事者"
-            },
             {
                 "word": "Transfer",
                 "translation": "移転"
             },
             {
-                "word": "Ownership",
-                "translation": "所有権"
+                "word": "Sale",
+                "translation": "売買"
             },
             {
-                "word": "Seller",
-                "translation": "売主"
+                "word": "Inheritance",
+                "translation": "相続"
             },
             {
-                "word": "Buyer",
-                "translation": "買主"
+                "word": "Preservation",
+                "translation": "保存"
             },
             {
-                "word": "Require",
-                "translation": "必要とする"
+                "word": "Establishment",
+                "translation": "設定"
+            }
+        ]
+    },
+    {
+        "category": "Real Property Registration (不動産登記法)",
+        "titleText": "Mastering\nJapanese Legal English",
+        "word": "Building",
+        "definition": "A structure fixed to land, having a roof and walls, and capable of being used for its intended purpose.",
+        "japaneseDefinition": "土地に定着し、屋根及び周壁を有し、その目的とする用途に供し得る建造物。",
+        "japaneseWordTranslation": "建物 (たてもの)",
+        "legalContext": "Real Property Registration Act Art. 2: 'Real Property' means land or buildings.",
+        "japaneseLegalContext": "不動産登記法第2条：「不動産」とは、土地又は建物をいう。",
+        "exampleSentence": "The newly constructed house was registered as a building at the Legal Affairs Bureau.",
+        "exampleTranslation": "新築された家屋は、法務局で建物として登記された。",
+        "vocabularyList": [
+            {
+                "word": "Structure",
+                "translation": "建造物"
+            },
+            {
+                "word": "Fixed",
+                "translation": "定着した"
+            },
+            {
+                "word": "Roof",
+                "translation": "屋根"
+            },
+            {
+                "word": "Wall",
+                "translation": "壁"
+            },
+            {
+                "word": "Intended purpose",
+                "translation": "目的とする用途"
             }
         ]
     }

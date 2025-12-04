@@ -2,54 +2,102 @@
   {
     "category": "Companies Act (会社法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Representative Director",
-    "definition": "A director who has the authority to represent the company and execute its business.",
-    "japaneseDefinition": "会社を代表し、その業務を執行する権限を有する取締役。",
-    "japaneseWordTranslation": "代表取締役 (だいひょうとりしまりやく)",
-    "legalContext": "Companies Act Art. 349: A Representative Director represents the Stock Company.",
-    "japaneseLegalContext": "会社法349条：代表取締役は、株式会社を代表する。",
-    "exampleSentence": "The Representative Director signed the contract on behalf of the company.",
-    "exampleTranslation": "代表取締役は会社を代表して契約書に署名した。",
+    "word": "Shareholder Meeting",
+    "definition": "The highest decision-making body of a joint-stock company, composed of shareholders.",
+    "japaneseDefinition": "株主によって構成される株式会社の最高意思決定機関。",
+    "japaneseWordTranslation": "株主総会 (かぶぬしそうかい)",
+    "legalContext": "Companies Act Art. 295: The shareholders meeting may pass resolutions on any matter concerning the Stock Company.",
+    "japaneseLegalContext": "会社法第295条：株主総会は、この法律に規定する事項及び株式会社の組織、運営、管理その他株式会社に関する一切の事項について決議をすることができる。",
+    "exampleSentence": "The annual shareholder meeting approved the financial statements for the fiscal year.",
+    "exampleTranslation": "定時株主総会は、その年度の計算書類を承認した。",
     "vocabularyList": [
+      {
+        "word": "Decision-making body",
+        "translation": "意思決定機関"
+      },
+      {
+        "word": "Resolution",
+        "translation": "決議"
+      },
+      {
+        "word": "Financial statements",
+        "translation": "計算書類"
+      },
+      {
+        "word": "Fiscal year",
+        "translation": "事業年度"
+      },
+      {
+        "word": "Approve",
+        "translation": "承認する"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Board of Directors",
+    "definition": "An executive body responsible for the management and oversight of a company's business execution.",
+    "japaneseDefinition": "会社の業務執行の決定および取締役の職務執行の監督を行う機関。",
+    "japaneseWordTranslation": "取締役会 (とりしまりやくかい)",
+    "legalContext": "Companies Act Art. 362: The board of directors shall decide the execution of the operations of the Stock Company.",
+    "japaneseLegalContext": "会社法第362条：取締役会は、次に掲げる職務を行う。一 取締役会設置会社の業務執行の決定...",
+    "exampleSentence": "The board of directors resolved to appoint a new representative director.",
+    "exampleTranslation": "取締役会は新しい代表取締役を選定することを決議した。",
+    "vocabularyList": [
+      {
+        "word": "Executive body",
+        "translation": "執行機関"
+      },
+      {
+        "word": "Oversight",
+        "translation": "監督"
+      },
       {
         "word": "Representative Director",
         "translation": "代表取締役"
       },
       {
-        "word": "Authority",
-        "translation": "権限"
+        "word": "Appoint",
+        "translation": "選定する/任命する"
       },
       {
-        "word": "Represent",
-        "translation": "代表する"
+        "word": "Business execution",
+        "translation": "業務執行"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Corporate Auditor",
+    "definition": "An independent officer who audits the execution of duties by directors and accounting.",
+    "japaneseDefinition": "取締役の職務執行および会計を監査する機関。",
+    "japaneseWordTranslation": "監査役 (かんさやく)",
+    "legalContext": "Companies Act Art. 381: Corporate auditors shall audit the execution of duties by directors.",
+    "japaneseLegalContext": "会社法第381条：監査役は、取締役の職務の執行を監査する。",
+    "exampleSentence": "The corporate auditor examined the business report submitted by the directors.",
+    "exampleTranslation": "監査役は取締役が提出した事業報告を調査した。",
+    "vocabularyList": [
+      {
+        "word": "Audit",
+        "translation": "監査する"
       },
       {
-        "word": "Execute",
-        "translation": "執行する"
+        "word": "Officer",
+        "translation": "役員"
       },
       {
-        "word": "Business",
-        "translation": "業務"
+        "word": "Business report",
+        "translation": "事業報告"
       },
       {
-        "word": "Stock Company",
-        "translation": "株式会社"
+        "word": "Execution of duties",
+        "translation": "職務執行"
       },
       {
-        "word": "Sign",
-        "translation": "署名する"
-      },
-      {
-        "word": "Contract",
-        "translation": "契約書"
-      },
-      {
-        "word": "On behalf of",
-        "translation": "〜を代表して"
-      },
-      {
-        "word": "Director",
-        "translation": "取締役"
+        "word": "Submit",
+        "translation": "提出する"
       }
     ]
   }

@@ -105,30 +105,28 @@ async function main() {
         }
     }
 
-    const MAX_QUEUE_SIZE = 30;
-    if (totalInputItems >= MAX_QUEUE_SIZE) {
-        console.log(`Queue size is sufficient (${totalInputItems} items). Skipping generation.`);
-        return;
-    }
-
-    console.log(`Found ${existingWords.size} existing words. Queue size: ${totalInputItems}. Generating new data...`);
-
     const CATEGORIES = [
         "Civil Code (民法)",
-        "Criminal Code (刑法)",
+        "Civil Execution (民事執行法)",
+        "Civil Preservation (民事保全法)",
         "Civil Procedure (民事訴訟法)",
-        "Criminal Procedure (刑事訴訟法)",
+        "Commercial Registration (商業登記法)",
         "Companies Act (会社法)",
         "Constitution (憲法)",
-        "Administrative Law (行政法)",
-        "Labor Law (労働法)",
-        "Intellectual Property Law (知的財産法)"
+        "Criminal Code (刑法)",
+        "Deposit Act (供託法)",
+
+        "Judicial Scrivener Act (司法書士法)",
+        "Real Property Registration (不動産登記法)"
     ];
 
-    const targetCategory = CATEGORIES[Math.floor(Math.random() * CATEGORIES.length)];
-    console.log(`Targeting category: ${targetCategory}`);
+    console.log(`Starting generation for ${CATEGORIES.length} categories...`);
 
-    const prompt = `
+    for (const targetCategory of CATEGORIES) {
+        console.log(`\nProcessing category: ${targetCategory}`);
+
+
+        const prompt = `
     You are an expert in Japanese Law and Legal English.
     Generate 3 NEW entries for a video series "Mastering Japanese Legal English".
     
@@ -154,52 +152,54 @@ async function main() {
     }
     `;
 
-    try {
-        const result = await model.generateContent(prompt);
-        const response = result.response;
-        let text = response.text();
+        try {
+            const result = await model.generateContent(prompt);
+            const response = result.response;
+            let text = response.text();
 
-        // Cleanup markdown code blocks if present
-        text = text.replace(/^```json\s*/, '').replace(/\s*```$/, '');
+            // Cleanup markdown code blocks if present
+            text = text.replace(/^```json\s*/, '').replace(/\s*```$/, '');
 
-        const data: LawData[] = JSON.parse(text);
+            const data: LawData[] = JSON.parse(text);
 
-        if (!Array.isArray(data)) {
-            throw new Error('Generated data is not an array');
-        }
+            if (!Array.isArray(data)) {
+                throw new Error('Generated data is not an array');
+            }
 
-        console.log(`Generated ${data.length} new entries.`);
+            console.log(`Generated ${data.length} new entries.`);
 
-        for (const item of data) {
-            const filename = getCategoryFilename(item.category);
-            const filePath = path.join(INPUT_DIR, filename);
+            for (const item of data) {
+                const filename = getCategoryFilename(item.category);
+                const filePath = path.join(INPUT_DIR, filename);
 
-            let fileContent: LawData[] = [];
-            if (fs.existsSync(filePath)) {
-                try {
-                    fileContent = await fs.readJson(filePath);
-                } catch (e) {
-                    console.warn(`Could not read ${filename}, starting fresh.`);
+                let fileContent: LawData[] = [];
+                if (fs.existsSync(filePath)) {
+                    try {
+                        fileContent = await fs.readJson(filePath);
+                    } catch (e) {
+                        console.warn(`Could not read ${filename}, starting fresh.`);
+                    }
+                } else {
+                    // If file doesn't exist, check if we should create it or append to a 'misc.json'
+                    // For now, let's create it.
                 }
-            } else {
-                // If file doesn't exist, check if we should create it or append to a 'misc.json'
-                // For now, let's create it.
+
+
+                // Check for duplicates again just in case
+                if (!fileContent.some(existing => existing.word.toLowerCase() === item.word.toLowerCase())) {
+                    fileContent.push(item);
+                    await fs.writeJson(filePath, fileContent, { spaces: 2 });
+                    console.log(`Added "${item.word}" to ${filename}`);
+                } else {
+                    console.log(`Skipped duplicate "${item.word}"`);
+                }
             }
 
-            // Check for duplicates again just in case
-            if (!fileContent.some(existing => existing.word.toLowerCase() === item.word.toLowerCase())) {
-                fileContent.push(item);
-                await fs.writeJson(filePath, fileContent, { spaces: 2 });
-                console.log(`Added "${item.word}" to ${filename}`);
-            } else {
-                console.log(`Skipped duplicate "${item.word}"`);
-            }
+        } catch (error) {
+            console.error('Error generating data:', error);
+            // Continue to next category instead of exiting
         }
-
-    } catch (error) {
-        console.error('Error generating data:', error);
-        process.exit(1);
-    }
+    } // End of for loop
 }
 
 main();

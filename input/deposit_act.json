@@ -2,34 +2,22 @@
     {
         "category": "Deposit Act (供託法)",
         "titleText": "Mastering\nJapanese Legal English",
-        "word": "Deposit for Performance",
-        "definition": "Depositing money or property with an official office to discharge an obligation when the creditor refuses to accept it.",
-        "japaneseDefinition": "債権者が受領を拒否した場合などに、義務を免れるために金銭や財産を公的な所に預けること。",
-        "japaneseWordTranslation": "弁済供託 (べんさいきょうたく)",
-        "legalContext": "Civil Code Art. 494: If the creditor refuses to accept performance, the performer may deposit the subject matter.",
-        "japaneseLegalContext": "民法494条：債権者が弁済の受領を拒んだときは、弁済者は、弁済の目的物を供託することができる。",
-        "exampleSentence": "Since the landlord refused the rent, the tenant made a deposit for performance.",
-        "exampleTranslation": "家主が家賃の受け取りを拒否したため、借主は弁済供託を行った。",
+        "word": "Deposit",
+        "definition": "The act of placing money or securities with a Deposit Office to satisfy an obligation, guarantee a right, or for other legal purposes.",
+        "japaneseDefinition": "債務の弁済、権利の担保、その他法律上の目的のために、金銭や有価証券を供託所に預けること。",
+        "japaneseWordTranslation": "供託 (きょうたく)",
+        "legalContext": "Deposit Act Art. 1: Deposits shall be handled by the Legal Affairs Bureau or District Legal Affairs Bureau.",
+        "japaneseLegalContext": "供託法第1条：供託事務は、法務局若しくは地方法務局...が、供託所としてこれを取り扱う。",
+        "exampleSentence": "The tenant made a deposit of the rent with the Legal Affairs Bureau because the landlord refused to accept it.",
+        "exampleTranslation": "家主が受領を拒否したため、借家人は家賃を法務局に供託した。",
         "vocabularyList": [
             {
-                "word": "Deposit",
-                "translation": "供託/預金"
-            },
-            {
-                "word": "Performance",
-                "translation": "弁済/履行"
-            },
-            {
-                "word": "Discharge",
-                "translation": "免れる/消滅させる"
-            },
-            {
                 "word": "Obligation",
-                "translation": "義務"
+                "translation": "債務"
             },
             {
-                "word": "Creditor",
-                "translation": "債権者"
+                "word": "Guarantee",
+                "translation": "担保する"
             },
             {
                 "word": "Refuse",
@@ -40,16 +28,42 @@
                 "translation": "受領する"
             },
             {
-                "word": "Subject Matter",
-                "translation": "目的物"
-            },
-            {
-                "word": "Landlord",
-                "translation": "家主"
-            },
-            {
                 "word": "Tenant",
-                "translation": "借主"
+                "translation": "借家人"
+            }
+        ]
+    },
+    {
+        "category": "Deposit Act (供託法)",
+        "titleText": "Mastering\nJapanese Legal English",
+        "word": "Deposit Office",
+        "definition": "The government agency (typically the Legal Affairs Bureau) where deposits are handled.",
+        "japaneseDefinition": "供託事務を取り扱う国の機関（通常は法務局または地方法務局）。",
+        "japaneseWordTranslation": "供託所 (きょうたくしょ)",
+        "legalContext": "Deposit Act Art. 1: Deposit business is handled by the Legal Affairs Bureau as the Deposit Office.",
+        "japaneseLegalContext": "供託法第1条：供託事務は...法務局...が、供託所としてこれを取り扱う。",
+        "exampleSentence": "You must submit the deposit application form to the competent Deposit Office.",
+        "exampleTranslation": "供託書は管轄の供託所に提出しなければならない。",
+        "vocabularyList": [
+            {
+                "word": "Competent",
+                "translation": "管轄の"
+            },
+            {
+                "word": "Application form",
+                "translation": "申請書/供託書"
+            },
+            {
+                "word": "Submit",
+                "translation": "提出する"
+            },
+            {
+                "word": "Handle",
+                "translation": "取り扱う"
+            },
+            {
+                "word": "Agency",
+                "translation": "機関"
             }
         ]
     },
@@ -57,53 +71,33 @@
         "category": "Deposit Act (供託法)",
         "titleText": "Mastering\nJapanese Legal English",
         "word": "Recovery of Deposit",
-        "definition": "The procedure to retrieve the deposited money or securities.",
-        "japaneseDefinition": "供託された金銭や有価証券を取り戻す手続き。",
+        "definition": "The right of the depositor to retrieve the deposited money or securities when the cause for deposit ceases to exist.",
+        "japaneseDefinition": "供託の原因が消滅したときなどに、供託者が供託した金銭や有価証券を取り戻す権利。",
         "japaneseWordTranslation": "供託金の取戻し (きょうたくきんのとりもどし)",
-        "legalContext": "Deposit Act Art. 8: The depositor may recover the deposit if the cause for deposit ceases to exist.",
-        "japaneseLegalContext": "供託法8条：供託者は、供託の原因が消滅したときは、供託物を取り戻すことができる。",
-        "exampleSentence": "He applied for the recovery of deposit after the lawsuit was settled.",
-        "exampleTranslation": "訴訟が解決した後、彼は供託金の取戻しを申請した。",
+        "legalContext": "Deposit Act Art. 8: The depositor may request the recovery of the deposit.",
+        "japaneseLegalContext": "供託法第8条：供託者は、...供託物の取戻しを請求することができる。",
+        "exampleSentence": "The depositor filed a request for the recovery of the deposit after the lawsuit was settled.",
+        "exampleTranslation": "訴訟が和解した後、供託者は供託金の取戻し請求を行った。",
         "vocabularyList": [
-            {
-                "word": "Recovery",
-                "translation": "取戻し/回復"
-            },
             {
                 "word": "Retrieve",
                 "translation": "取り戻す"
             },
             {
-                "word": "Securities",
-                "translation": "有価証券"
+                "word": "Cease",
+                "translation": "消滅する/止む"
             },
             {
-                "word": "Procedure",
-                "translation": "手続き"
+                "word": "Request",
+                "translation": "請求する"
+            },
+            {
+                "word": "Settle",
+                "translation": "解決する/和解する"
             },
             {
                 "word": "Depositor",
                 "translation": "供託者"
-            },
-            {
-                "word": "Cease",
-                "translation": "止む/なくなる"
-            },
-            {
-                "word": "Exist",
-                "translation": "存在する"
-            },
-            {
-                "word": "Settle",
-                "translation": "解決する"
-            },
-            {
-                "word": "Apply",
-                "translation": "申請する"
-            },
-            {
-                "word": "Cause",
-                "translation": "原因"
             }
         ]
     }

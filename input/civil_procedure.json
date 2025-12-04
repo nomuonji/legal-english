@@ -52,5 +52,107 @@
         "translation": "指定する/定める"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Jurisdiction",
+    "definition": "The authority of a court to hear and decide a specific legal case.",
+    "japaneseDefinition": "特定の裁判所が特定の事件を審理・裁判する権限。",
+    "japaneseWordTranslation": "管轄 (かんかつ)",
+    "legalContext": "Code of Civil Procedure Art. 4: A general forum exists at the domicile of the defendant.",
+    "japaneseLegalContext": "民事訴訟法第4条：訴えは、被告の普通裁判籍の所在地を管轄する裁判所の管轄に属する。",
+    "exampleSentence": "The Tokyo District Court has jurisdiction over this case because the defendant's head office is located in Tokyo.",
+    "exampleTranslation": "被告の本店が東京にあるため、東京地方裁判所が本件の管轄権を有する。",
+    "vocabularyList": [
+      {
+        "word": "Court",
+        "translation": "裁判所"
+      },
+      {
+        "word": "Defendant",
+        "translation": "被告"
+      },
+      {
+        "word": "Domicile",
+        "translation": "住所/普通裁判籍"
+      },
+      {
+        "word": "Authority",
+        "translation": "権限"
+      },
+      {
+        "word": "Hear",
+        "translation": "審理する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Service of Process",
+    "definition": "The formal delivery of legal documents, such as a complaint or summons, to the opposing party in a lawsuit.",
+    "japaneseDefinition": "訴状や呼出状などの訴訟書類を、法定の方式に従って相手方に交付する手続。",
+    "japaneseWordTranslation": "送達 (そうたつ)",
+    "legalContext": "Code of Civil Procedure Art. 98: Service is effected by authority of the court clerk.",
+    "japaneseLegalContext": "民事訴訟法第98条：送達は、職権でする。",
+    "exampleSentence": "The plaintiff must ensure proper service of process to notify the defendant of the lawsuit.",
+    "exampleTranslation": "原告は、被告に訴訟を通知するために、適切な送達が行われるようにしなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Legal documents",
+        "translation": "訴訟書類"
+      },
+      {
+        "word": "Complaint",
+        "translation": "訴状"
+      },
+      {
+        "word": "Summons",
+        "translation": "呼出状"
+      },
+      {
+        "word": "Court clerk",
+        "translation": "裁判所書記官"
+      },
+      {
+        "word": "Notify",
+        "translation": "通知する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Res Judicata",
+    "definition": "The principle that a final judgment on the merits is conclusive as to the rights of the parties and constitutes an absolute bar to a subsequent action involving the same claim.",
+    "japaneseDefinition": "確定した判決が持つ、後訴の裁判所や当事者を拘束する効力。同一の事項について蒸し返しを許さない効力。",
+    "japaneseWordTranslation": "既判力 (きはんりょく)",
+    "legalContext": "Code of Civil Procedure Art. 114: A judgment that has become final and binding shall have res judicata only regarding the subject matter included in the main text.",
+    "japaneseLegalContext": "民事訴訟法第114条：確定判決は、主文に包含するものに限り、既判力を有する。",
+    "exampleSentence": "The court dismissed the new lawsuit based on res judicata, as the issue had already been decided in a previous trial.",
+    "exampleTranslation": "その争点は以前の裁判ですでに決定されていたため、裁判所は既判力に基づき新たな訴訟を却下した。",
+    "vocabularyList": [
+      {
+        "word": "Final judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "Conclusive",
+        "translation": "決定的な"
+      },
+      {
+        "word": "Subsequent action",
+        "translation": "後訴"
+      },
+      {
+        "word": "Dismiss",
+        "translation": "却下する"
+      },
+      {
+        "word": "Binding",
+        "translation": "拘束力のある"
+      }
+    ]
   }
 ]

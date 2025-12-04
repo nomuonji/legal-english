@@ -115,7 +115,6 @@ async function main() {
         "Constitution (憲法)",
         "Criminal Code (刑法)",
         "Deposit Act (供託法)",
-
         "Judicial Scrivener Act (司法書士法)",
         "Real Property Registration (不動産登記法)"
     ];

@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Apparent Agency",
-    "definition": "A legal doctrine that validates an act conducted by a person purporting to be an agent, even though they lacked actual authority, where circumstances led a third party in good faith to reasonably believe such authority existed.",
-    "japaneseDefinition": "代理権がないにもかかわらず、その行為が有効な代理行為とみなされ、本人に効果が帰属する制度。",
-    "japaneseWordTranslation": "表見代理 (ひょうけんだいり)",
-    "legalContext": "Civil Code Art. 109: If a third party, without negligence, believes that another person has been appointed as an agent, the principal is liable for the acts of the purported agent.",
-    "japaneseLegalContext": "民法第109条: 第三者に対し他人に代理権を与えた旨を表示した者は、その代理権の範囲内においてその他人が第三者との間で行為をしたときは、その責任を負う。",
-    "exampleSentence": "The company was bound by the unauthorized contract because the court applied the rules of apparent agency, finding reliance by the third party to be reasonable.",
-    "exampleTranslation": "裁判所が表見代理の原則を適用し、第三者の信頼が合理的であると判断したため、会社はその無権限の契約に拘束された。",
-    "vocabularyList": [
-      {
-        "word": "Principal",
-        "translation": "本人 (ほんにん)"
-      },
-      {
-        "word": "Unauthorized contract",
-        "translation": "無権限の契約 (むけんげんのけいやく)"
-      },
-      {
-        "word": "Liability",
-        "translation": "責任 (せきにん)"
-      },
-      {
-        "word": "Good faith",
-        "translation": "善意 (ぜんい)"
-      },
-      {
-        "word": "Reliance",
-        "translation": "信頼 (しんらい)"
-      },
-      {
-        "word": "Purported agent",
-        "translation": "表見代理人 (ひょうけんだいりにん)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Avoidance",
     "definition": "The power held by a person (or their legal representative) to nullify a juristic act retroactively due to a defect present at the time the act was formed, such as mistake, duress, or incapacity.",
     "japaneseDefinition": "錯誤、詐欺、強迫、または制限行為能力などの理由により有効に成立した法律行為を、後から遡及的に無効とする権利または行為。",
@@ -444,6 +406,132 @@
       {
         "word": "Gift (lifetime)",
         "translation": "生前贈与"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Duty of Due Care of a Prudent Manager",
+    "definition": "The standard of care required of an obligor (particularly an agent or bailee) who manages another person's property or affairs, demanding the diligence and prudence that an ordinary, reasonable person would exercise in managing their own affairs.",
+    "japaneseDefinition": "受任者や受寄者など、他人の事務を処理する者が負う、善良な管理者としての注意をもってその事務を処理すべき義務のこと。",
+    "japaneseWordTranslation": "善管注意義務 (ぜんかんちゅういぎむ)",
+    "legalContext": "Civil Code Art. 644 (Duty of Due Care of a Prudent Manager): 'A Mandatary must manage the entrusted affairs with the duty of due care of a prudent manager.'",
+    "japaneseLegalContext": "民法第644条（受任者の注意義務）：『受任者は、委任の本旨に従い、善良な管理者としての注意をもって、委任事務を処理する義務を負う。』",
+    "exampleSentence": "The court found the corporate director liable for breach of the duty of due care of a prudent manager after he failed to conduct adequate risk assessments.",
+    "exampleTranslation": "裁判所は、当該取締役が適切なリスク評価を実施しなかったため、善管注意義務違反の責任があると判断した。",
+    "vocabularyList": [
+      {
+        "word": "Mandatary",
+        "translation": "受任者"
+      },
+      {
+        "word": "breach",
+        "translation": "違反"
+      },
+      {
+        "word": "liable",
+        "translation": "責任がある"
+      },
+      {
+        "word": "risk assessment",
+        "translation": "リスク評価"
+      },
+      {
+        "word": "entrusted affairs",
+        "translation": "委任事務"
+      },
+      {
+        "word": "diligence",
+        "translation": "注意（努力）"
+      },
+      {
+        "word": "standard of care",
+        "translation": "注意義務の基準"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Default",
+    "definition": "A failure by the obligor to perform an obligation fully or timely in accordance with its tenor and purpose, giving rise to the obligee's right to claim damages.",
+    "japaneseDefinition": "債務者が、債務の本旨に従った履行をしないこと。これにより、債権者は損害賠償を請求する権利を得る。",
+    "japaneseWordTranslation": "債務不履行 (さいむふりこう)",
+    "legalContext": "Civil Code Art. 415 (Effect of Default): 'If an obligor fails to perform an obligation in accordance with its tenor and purpose, the obligee may demand damages arising from such failure.'",
+    "japaneseLegalContext": "民法第415条（債務不履行による損害賠償）：『債務者がその債務の本旨に従った履行をしないときは、債権者は、これによって生じた損害の賠償を請求することができる。』",
+    "exampleSentence": "Because the seller failed to deliver the goods by the agreed-upon date, the buyer claimed damages resulting from the seller's default.",
+    "exampleTranslation": "売主が合意された期日までに商品を納入しなかったため、買主は売主の債務不履行によって生じた損害賠償を請求した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "tenor",
+        "translation": "本旨"
+      },
+      {
+        "word": "non-performance",
+        "translation": "不履行"
+      },
+      {
+        "word": "damages",
+        "translation": "損害賠償"
+      },
+      {
+        "word": "foreseeability",
+        "translation": "予見可能性"
+      },
+      {
+        "word": "timely",
+        "translation": "期限通りに"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Offset",
+    "definition": "The extinguishment of obligations, where two parties owe mutual debts that are due and performable, and one party expresses an intention to settle the claims against the other up to the amount of the lesser obligation.",
+    "japaneseDefinition": "両当事者が互いに同種の債務を負っている場合において、一方の債務と他方の債務を対当額で消滅させること。一方的な意思表示によって行われる。",
+    "japaneseWordTranslation": "相殺 (そうさい)",
+    "legalContext": "Civil Code Art. 505 (Requirements for Offset): 'If two parties owe mutual obligations where both obligations have become due and performable, either party may effect offset with respect to his/her obligation by declaring his/her intention to the other party.'",
+    "japaneseLegalContext": "民法第505条（相殺の要件等）：『二人が互いに同種の目的を有する債務を負担する場合において、双方の債務が弁済期にあるときは、各債務者は、その対当額について相殺によってその債務を免れることができる。』",
+    "exampleSentence": "The defendant sought to offset the debt owed to the plaintiff against a counterclaim for unpaid services.",
+    "exampleTranslation": "被告は、原告に対して負っている債務を、未払い役務に関する反訴請求と相殺することを求めた。",
+    "vocabularyList": [
+      {
+        "word": "mutual obligations",
+        "translation": "互いの債務"
+      },
+      {
+        "word": "extinguishment",
+        "translation": "消滅"
+      },
+      {
+        "word": "performable",
+        "translation": "履行可能な"
+      },
+      {
+        "word": "declaration of intention",
+        "translation": "意思表示"
+      },
+      {
+        "word": "due (adj.)",
+        "translation": "弁済期が到来した"
+      },
+      {
+        "word": "counterclaim",
+        "translation": "反訴請求"
+      },
+      {
+        "word": "settle the claims",
+        "translation": "債権を清算する"
       }
     ]
   }

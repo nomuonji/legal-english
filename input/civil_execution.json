@@ -344,5 +344,119 @@
         "translation": "期限"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Seizure of Claims",
+    "definition": "The legal procedure under Civil Execution Law where a creditor obtains a court order to seize intangible monetary claims held by the debtor against a third party.",
+    "japaneseDefinition": "債務者の第三者に対する金銭債権を、裁判所を通じて差押える手続き。給与や預金債権などがこれにあたる。",
+    "japaneseWordTranslation": "債権差押え (さいけんさしおさえ)",
+    "legalContext": "Civil Execution Act Art. 143: When executing a claim, the court shall issue an order of seizure.",
+    "japaneseLegalContext": "民事執行法第143条: 債権の執行は、執行裁判所の差押命令により開始する。",
+    "exampleSentence": "The creditor initiated the Seizure of Claims against the company's bank accounts to recover the outstanding debt.",
+    "exampleTranslation": "債権者は、未払いの債務を回収するため、その会社の銀行口座に対する債権差押えを申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "intangible",
+        "translation": "無形の"
+      },
+      {
+        "word": "monetary claims",
+        "translation": "金銭債権"
+      },
+      {
+        "word": "outstanding debt",
+        "translation": "未払いの債務"
+      },
+      {
+        "word": "recover",
+        "translation": "回収する"
+      },
+      {
+        "word": "bank account",
+        "translation": "銀行口座"
+      },
+      {
+        "word": "order of seizure",
+        "translation": "差押命令"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order of Delivery Execution",
+    "definition": "The judicial process for forcing a party to surrender or deliver specific movable or immovable property as dictated by a final judgment.",
+    "japaneseDefinition": "確定判決などに基づき、特定の動産または不動産を債務者から債権者へ強制的に引き渡させる手続き。",
+    "japaneseWordTranslation": "引渡しの執行命令 (ひきわたし の しっこうめいれい)",
+    "legalContext": "Civil Execution Act Art. 168: Execution pertaining to the delivery of real property or ships shall be carried out by a court enforcement officer.",
+    "japaneseLegalContext": "民事執行法第168条: 不動産等の引渡し又は明渡しの執行は、執行官が行う。",
+    "exampleSentence": "The court issued an Order of Delivery Execution, enabling the landlord to lawfully regain possession of the apartment from the defaulting tenant.",
+    "exampleTranslation": "裁判所は引渡しの執行命令を発し、これにより家主は債務不履行の賃借人から適法にアパートの占有を取り戻すことができた。",
+    "vocabularyList": [
+      {
+        "word": "surrender",
+        "translation": "明け渡す"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "final judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "landlord",
+        "translation": "家主"
+      },
+      {
+        "word": "defaulting tenant",
+        "translation": "債務不履行の賃借人"
+      },
+      {
+        "word": "court enforcement officer",
+        "translation": "執行官"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Disclosure Procedure",
+    "definition": "A supplementary legal procedure allowing a creditor holding a valid title to compel a non-performing debtor to appear before the court and provide a comprehensive disclosure of their financial assets and liabilities.",
+    "japaneseDefinition": "債務名義を持つ債権者が、債務者に裁判所へ出頭させ、その財産状況について陳述させることを目的とする、民事執行法の定める手続き。",
+    "japaneseWordTranslation": "財産開示手続 (ざいさんかいじてつづき)",
+    "legalContext": "Civil Execution Act Art. 197: An obligee may file a petition for the initiation of the Property Disclosure Procedure with the district court having jurisdiction over the debtor's domicile.",
+    "japaneseLegalContext": "民事執行法第197条: 債権者は、執行裁判所に対し、財産開示手続の実施を申し立てることができる。",
+    "exampleSentence": "Since all attempts at asset seizure failed, the financial institution filed a petition for the Property Disclosure Procedure to ascertain the debtor's true financial standing.",
+    "exampleTranslation": "全ての財産差押えの試みが失敗したため、その金融機関は債務者の真の財務状況を確かめるために財産開示手続の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "supplementary procedure",
+        "translation": "補完的手続き"
+      },
+      {
+        "word": "valid title",
+        "translation": "有効な権原"
+      },
+      {
+        "word": "comprehensive disclosure",
+        "translation": "包括的な開示"
+      },
+      {
+        "word": "liabilities",
+        "translation": "負債"
+      },
+      {
+        "word": "domicile",
+        "translation": "住所"
+      },
+      {
+        "word": "ascertain",
+        "translation": "確かめる"
+      }
+    ]
   }
 ]

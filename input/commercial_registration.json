@@ -324,5 +324,123 @@
         "translation": "管轄当局"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principal Office",
+    "definition": "The official location of the company's main operations and administration, which is a fundamental matter required to be recorded in the commercial register pursuant to the Company Act.",
+    "japaneseDefinition": "会社運営の主たる場所として、定款に定められ、会社法に基づき商業登記簿に記載することが義務付けられている場所。",
+    "japaneseWordTranslation": "本店 (Honten)",
+    "legalContext": "Company Act, Art. 911 (3): The location of the principal office shall be registered.",
+    "japaneseLegalContext": "会社法第911条第3項: 会社の登記には、本店の所在地を登記しなければならない。",
+    "exampleSentence": "Any change to the location of the Principal Office necessitates a registration amendment within two weeks of the change.",
+    "exampleTranslation": "本店の所在地にいかなる変更があった場合も、その変更から二週間以内に登記の変更を要する。",
+    "vocabularyList": [
+      {
+        "word": "location",
+        "translation": "所在地 (shozaichi)"
+      },
+      {
+        "word": "operations",
+        "translation": "運営 (un'ei)"
+      },
+      {
+        "word": "administration",
+        "translation": "管理 (kanri)"
+      },
+      {
+        "word": "fundamental matter",
+        "translation": "基本的事項 (kihonteki jikō)"
+      },
+      {
+        "word": "necessitates",
+        "translation": "必要とする (hitsuyō to suru)"
+      },
+      {
+        "word": "registration amendment",
+        "translation": "登記の変更 (tōki no henkō)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of a Foreign Company's Office",
+    "definition": "The compulsory registration procedure under the Commercial Registration Law that a foreign company must undertake upon establishing a continuous business base (office) in Japan, listing specific items such as the representative in Japan and the governing law.",
+    "japaneseDefinition": "外国会社が日本国内に継続的な営業拠点（営業所）を設けた際に、日本の代表者や準拠法など特定の事項を登録することが商業登記法上義務付けられている手続。",
+    "japaneseWordTranslation": "外国会社の営業所の登記 (Gaikoku Kaisha no Eigyōsho no Tōki)",
+    "legalContext": "Commercial Registration Law, Art. 129: A foreign company that establishes an office in Japan shall register matters prescribed by the Company Act.",
+    "japaneseLegalContext": "商業登記法第129条: 外国会社が日本に営業所を設けたときは、会社法に定める事項を登記しなければならない。",
+    "exampleSentence": "The Registration of a Foreign Company's Office must be completed promptly after the establishment of its business base.",
+    "exampleTranslation": "外国会社の営業所の登記は、その営業拠点の設置後、速やかに完了しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "compulsory procedure",
+        "translation": "義務的な手続 (gimuteki na tetsuzuki)"
+      },
+      {
+        "word": "continuous business base",
+        "translation": "継続的営業拠点 (keizokuteki eigyō kyoten)"
+      },
+      {
+        "word": "governing law",
+        "translation": "準拠法 (junkyohō)"
+      },
+      {
+        "word": "prescribed by",
+        "translation": "定められた (sadameta)"
+      },
+      {
+        "word": "establish",
+        "translation": "設ける (mōkeru)"
+      },
+      {
+        "word": "promptly",
+        "translation": "速やかに (sumiyaka ni)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Appointed Representative",
+    "definition": "A person appointed by a court order, usually through a preservation measure, to temporarily execute the duties of a corporate functionary (such as a representative) in cases where a dispute or vacancy threatens the smooth operation of the company, and whose appointment must be recorded.",
+    "japaneseDefinition": "争議や欠員により会社の円滑な運営が脅かされる場合に、裁判所の命令により、一時的に法人役員（代表者など）の職務を遂行するために選任され、登記されなければならない者。",
+    "japaneseWordTranslation": "職務代行者 (Shokumu Daikōsha)",
+    "legalContext": "Commercial Registration Law, Art. 930: When an Appointed Representative for a Kabushiki Kaisha (KK) has been appointed, that fact and his/her name and address must be registered.",
+    "japaneseLegalContext": "商業登記法第930条: 株式会社の職務代行者が選任されたときは、その事実並びにその氏名及び住所を登記しなければならない。",
+    "exampleSentence": "The appointment of an Appointed Representative is necessary to prevent corporate paralysis during litigation over management control.",
+    "exampleTranslation": "経営支配権に関する訴訟の間、会社の麻痺を防ぐために職務代行者の選任が必要とされる。",
+    "vocabularyList": [
+      {
+        "word": "court order",
+        "translation": "裁判所の命令 (saibansho no meirei)"
+      },
+      {
+        "word": "execute the duties",
+        "translation": "職務を遂行する (shokumu o suikō suru)"
+      },
+      {
+        "word": "vacancy",
+        "translation": "欠員 (ketsuin)"
+      },
+      {
+        "word": "smooth operation",
+        "translation": "円滑な運営 (enkatsu na un'ei)"
+      },
+      {
+        "word": "corporate paralysis",
+        "translation": "会社活動の麻痺 (kaisha katsudō no mahi)"
+      },
+      {
+        "word": "litigation",
+        "translation": "訴訟 (soshō)"
+      },
+      {
+        "word": "management control",
+        "translation": "経営支配権 (keiei shihaiken)"
+      }
+    ]
   }
 ]

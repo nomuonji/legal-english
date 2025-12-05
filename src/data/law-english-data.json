@@ -1,34 +1,38 @@
 {
-  "category": "Companies Act (会社法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Shareholder Meeting",
-  "definition": "The highest decision-making body of a joint-stock company, composed of shareholders.",
-  "japaneseDefinition": "株主によって構成される株式会社の最高意思決定機関。",
-  "japaneseWordTranslation": "株主総会 (かぶぬしそうかい)",
-  "legalContext": "Companies Act Art. 295: The shareholders meeting may pass resolutions on any matter concerning the Stock Company.",
-  "japaneseLegalContext": "会社法第295条：株主総会は、この法律に規定する事項及び株式会社の組織、運営、管理その他株式会社に関する一切の事項について決議をすることができる。",
-  "exampleSentence": "The annual shareholder meeting approved the financial statements for the fiscal year.",
-  "exampleTranslation": "定時株主総会は、その年度の計算書類を承認した。",
+  "word": "Apparent Agency",
+  "definition": "A legal doctrine that validates an act conducted by a person purporting to be an agent, even though they lacked actual authority, where circumstances led a third party in good faith to reasonably believe such authority existed.",
+  "japaneseDefinition": "代理権がないにもかかわらず、その行為が有効な代理行為とみなされ、本人に効果が帰属する制度。",
+  "japaneseWordTranslation": "表見代理 (ひょうけんだいり)",
+  "legalContext": "Civil Code Art. 109: If a third party, without negligence, believes that another person has been appointed as an agent, the principal is liable for the acts of the purported agent.",
+  "japaneseLegalContext": "民法第109条: 第三者に対し他人に代理権を与えた旨を表示した者は、その代理権の範囲内においてその他人が第三者との間で行為をしたときは、その責任を負う。",
+  "exampleSentence": "The company was bound by the unauthorized contract because the court applied the rules of apparent agency, finding reliance by the third party to be reasonable.",
+  "exampleTranslation": "裁判所が表見代理の原則を適用し、第三者の信頼が合理的であると判断したため、会社はその無権限の契約に拘束された。",
   "vocabularyList": [
     {
-      "word": "Decision-making body",
-      "translation": "意思決定機関"
+      "word": "Principal",
+      "translation": "本人 (ほんにん)"
     },
     {
-      "word": "Resolution",
-      "translation": "決議"
+      "word": "Unauthorized contract",
+      "translation": "無権限の契約 (むけんげんのけいやく)"
     },
     {
-      "word": "Financial statements",
-      "translation": "計算書類"
+      "word": "Liability",
+      "translation": "責任 (せきにん)"
     },
     {
-      "word": "Fiscal year",
-      "translation": "事業年度"
+      "word": "Good faith",
+      "translation": "善意 (ぜんい)"
     },
     {
-      "word": "Approve",
-      "translation": "承認する"
+      "word": "Reliance",
+      "translation": "信頼 (しんらい)"
+    },
+    {
+      "word": "Purported agent",
+      "translation": "表見代理人 (ひょうけんだいりにん)"
     }
   ]
 }

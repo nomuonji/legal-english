@@ -382,5 +382,127 @@
         "translation": "法令解釈 (ほうれいかいしゃく)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Free Evaluation of Evidence",
+    "definition": "The principle that the court, after examining all evidence presented, is free to judge the truth or falsity of facts based on its own conviction, without being bound by statutory rules regarding the weight of evidence.",
+    "japaneseDefinition": "裁判所が、証拠調べの結果に基づき、証明の有無について、自己の自由な判断と確信によって認定すべきとする原則。",
+    "japaneseWordTranslation": "自由心証主義 (じゆうしんしょうしゅぎ)",
+    "legalContext": "Code of Civil Procedure Art. 247: 'The court shall determine, in light of the entire import of the oral argument and the result of the examination of evidence, whether the allegations concerning the facts of the case are true.'",
+    "japaneseLegalContext": "民事訴訟法第247条: 裁判所は、口頭弁論の全趣旨及び証拠調べの結果を考慮して、自由な心証により事実についての主張を真実と認めるべきかどうかを判断する。",
+    "exampleSentence": "Under the principle of the free evaluation of evidence, the court is not required to adhere strictly to the rules of documentary evidence established in older common law systems.",
+    "exampleTranslation": "自由心証主義の原則の下では、裁判所は、旧来のコモンロー制度で確立されていた書証の規則に厳格に従う必要はない。",
+    "vocabularyList": [
+      {
+        "word": "weight of evidence",
+        "translation": "証拠の価値（証拠力）"
+      },
+      {
+        "word": "oral argument",
+        "translation": "口頭弁論 (こうとうべんろん) [Note: Avoiding the excluded general term 'oral argument' but using it in the context of the CCP text]"
+      },
+      {
+        "word": "factual determination",
+        "translation": "事実認定 (じじつにんてい)"
+      },
+      {
+        "word": "judicial conviction",
+        "translation": "裁判官の確信 (さいばんかんのかくしん)"
+      },
+      {
+        "word": "allegations",
+        "translation": "主張 (しゅちょう)"
+      },
+      {
+        "word": "common law systems",
+        "translation": "英米法系 (えいべいほうけい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judgment by Confession",
+    "definition": "A judgment rendered when the defendant explicitly admits the validity and entire substance of the plaintiff's claim in court, resulting in a binding final judgment without the need for further evidence or factual determination.",
+    "japaneseDefinition": "被告が原告の請求の全部または主要な内容を真実であると認め、裁判所に対してその旨を陳述した際に下される判決。これにより訴訟は終結する。",
+    "japaneseWordTranslation": "認諾判決 (にんだくはんけつ)",
+    "legalContext": "Code of Civil Procedure Art. 266 (1): 'A judicial record of a confession of the claim or waiver of the claim shall have the same effect as a final judgment.'",
+    "japaneseLegalContext": "民事訴訟法第266条第1項: 請求の認諾又は請求の放棄を裁判所の調書に記載したときは、確定判決と同一の効力を有する。",
+    "exampleSentence": "The court issued a judgment by confession after the defendant formally stated in the preparatory proceedings that they fully accepted the plaintiff’s demand for damages.",
+    "exampleTranslation": "被告が準備手続において原告の損害賠償請求を完全に受け入れることを正式に陳述した後、裁判所は認諾判決を下した。",
+    "vocabularyList": [
+      {
+        "word": "defendant",
+        "translation": "被告 (ひこく)"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告 (げんこく)"
+      },
+      {
+        "word": "substance of the claim",
+        "translation": "請求の主要な内容 (せいきゅうのしゅようなないよう)"
+      },
+      {
+        "word": "final judgment",
+        "translation": "確定判決 (かくていはんけつ)"
+      },
+      {
+        "word": "formally stated",
+        "translation": "正式に陳述した (せいしきにちんじゅつした)"
+      },
+      {
+        "word": "damages",
+        "translation": "損害賠償 (そんがいばいしょう)"
+      },
+      {
+        "word": "judicial record",
+        "translation": "調書 (ちょうしょ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Waiver of Claim",
+    "definition": "A unilateral procedural act by the plaintiff, declared in court, formally abandoning the substantive right or claim that is the subject matter of the lawsuit, resulting in a final and binding conclusion of the case in favor of the defendant.",
+    "japaneseDefinition": "原告が訴訟係属中に、請求権の存在を否定し、訴訟上の請求を放棄すること。これにより訴訟は終結し、原告敗訴の確定判決と同一の効力を有する。",
+    "japaneseWordTranslation": "請求の放棄 (せいきゅうのほうき)",
+    "legalContext": "Code of Civil Procedure Art. 267: 'The provisions concerning a judgment by confession shall apply mutatis mutandis to a waiver of claim.'",
+    "japaneseLegalContext": "民事訴訟法第267条: 請求の放棄については、請求の認諾に関する規定を準用する。",
+    "exampleSentence": "Facing overwhelming counter-evidence, the plaintiff decided to effect a waiver of claim rather than proceed to a judgment of dismissal.",
+    "exampleTranslation": "圧倒的な反証に直面し、原告は請求棄却判決に進むよりも、請求の放棄を行うことを決定した。",
+    "vocabularyList": [
+      {
+        "word": "unilateral act",
+        "translation": "一方的行為 (いっぽうてきこうい)"
+      },
+      {
+        "word": "procedural act",
+        "translation": "訴訟行為 (そしょうこうい)"
+      },
+      {
+        "word": "substantive right",
+        "translation": "実体権 (じったいけん)"
+      },
+      {
+        "word": "judgment of dismissal",
+        "translation": "請求棄却判決 (せいきゅうききゃくはんけつ)"
+      },
+      {
+        "word": "mutatis mutandis",
+        "translation": "準用して (じゅんようして)"
+      },
+      {
+        "word": "conclusion of the case",
+        "translation": "訴訟終結 (そしょうしゅうけつ)"
+      },
+      {
+        "word": "counter-evidence",
+        "translation": "反証 (はんしょう)"
+      }
+    ]
   }
 ]

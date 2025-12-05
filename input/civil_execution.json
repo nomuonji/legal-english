@@ -230,5 +230,119 @@
         "translation": "申立て"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Third Party Debtor",
+    "definition": "In the execution of a monetary claim (such as wages or bank deposits), this refers to the natural or legal person who owes the money directly to the judgment debtor. They are obligated to make payment to the execution obligee upon receipt of a seizure order (garnishment).",
+    "japaneseDefinition": "債権執行において、債務者に対して金銭債務を負う者（例：銀行、雇用主）を指す。差押命令を受けると、執行債権者に対して弁済する義務を負う。",
+    "japaneseWordTranslation": "第三債務者 (だいさんさいむしゃ)",
+    "legalContext": "Civil Execution Act Art. 145 (1): Where a monetary claim is seized, the court shall issue an order prohibiting the judgment debtor from performing collection and disposition of the claim and prohibiting the third party debtor from performing performance to the judgment debtor.",
+    "japaneseLegalContext": "民事執行法第145条第1項：金銭の支払を目的とする債権を差し押さえる場合においては、執行裁判所は、差押命令において、債務者に対しその債権の取立てその他の処分を、第三債務者に対し債務者への弁済を、それぞれ禁止しなければならない。",
+    "exampleSentence": "The bank, acting as the Third Party Debtor, was served with a seizure order concerning the obligor's checking account balance.",
+    "exampleTranslation": "銀行は第三債務者として、債務者の当座預金残高に関する差押命令を送達された。",
+    "vocabularyList": [
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権"
+      },
+      {
+        "word": "judgment debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "seizure order",
+        "translation": "差押命令"
+      },
+      {
+        "word": "garnishment",
+        "translation": "差押え"
+      },
+      {
+        "word": "checking account balance",
+        "translation": "当座預金残高"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liquidation",
+    "definition": "The procedural step in execution law where the seized assets—such as real property, movable assets, or ships—are converted into cash (sale proceeds) to satisfy the claims of the execution obligee. This usually involves an auction or public tender.",
+    "japaneseDefinition": "差し押さえた財産（不動産、動産、船舶等）を金銭（売却代金）に換えて、執行債権者の債権を充足するために充てる手続き上の行為。通常、競売または入札によって行われる。",
+    "japaneseWordTranslation": "換価 (かんか)",
+    "legalContext": "Civil Execution Act Part III, Chapter I, Section 2: Liquidation of Seized Real Property. The Act stipulates detailed methods for valuation and sale.",
+    "japaneseLegalContext": "民事執行法第3編第1章第2節：差し押さえられた不動産の換価。本法は評価や売却に関する詳細な手法を定めている。",
+    "exampleSentence": "Following the unsuccessful private sale attempts, the execution court moved forward with the public auction for the liquidation of the seized vessel.",
+    "exampleTranslation": "私的売却の試みが不調に終わったため、執行裁判所は、差し押さえた船舶の換価のための公売手続きを進めた。",
+    "vocabularyList": [
+      {
+        "word": "sale proceeds",
+        "translation": "売却代金"
+      },
+      {
+        "word": "seized assets",
+        "translation": "差押財産"
+      },
+      {
+        "word": "public auction",
+        "translation": "公売"
+      },
+      {
+        "word": "valuation",
+        "translation": "評価"
+      },
+      {
+        "word": "vessel",
+        "translation": "船舶"
+      },
+      {
+        "word": "private sale",
+        "translation": "私的売却"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Successful Bidder",
+    "definition": "The person who is declared the buyer of property (typically real estate or movables) at a compulsory sale conducted by the execution court, usually because they submitted the highest bid. Upon payment of the purchase price, they acquire ownership of the property.",
+    "japaneseDefinition": "執行裁判所が行う強制的な売却手続き（通常は競売）において、最も高い入札額を提示した結果、財産（主に不動産や動産）の買い手として決定された者。代金を納付することにより、その財産の所有権を取得する。",
+    "japaneseWordTranslation": "買受人 (かいうけにん)",
+    "legalContext": "Civil Execution Act Art. 78 (1): Upon the successful bidder paying the price, the obligor’s right in the real property is extinguished, and the successful bidder acquires the ownership of the real property.",
+    "japaneseLegalContext": "民事執行法第78条第1項：買受人が代金を納付したときは、不動産の上に存する債務者の権利は消滅し、買受人はその不動産の所有権を取得する。",
+    "exampleSentence": "The court issued an order declaring the highest bidder as the Successful Bidder, conditional upon the full payment of the purchase price by the deadline.",
+    "exampleTranslation": "裁判所は、最高の入札者を期限までに売却代金の全額を支払うことを条件として、買受人とする決定を出した。",
+    "vocabularyList": [
+      {
+        "word": "highest bid",
+        "translation": "最高価額の入札"
+      },
+      {
+        "word": "compulsory sale",
+        "translation": "強制売却"
+      },
+      {
+        "word": "purchase price",
+        "translation": "売却代金"
+      },
+      {
+        "word": "acquire ownership",
+        "translation": "所有権を取得する"
+      },
+      {
+        "word": "extinguished",
+        "translation": "消滅する"
+      },
+      {
+        "word": "deadline",
+        "translation": "期限"
+      }
+    ]
   }
 ]

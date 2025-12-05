@@ -272,5 +272,115 @@
         "translation": "利害関係"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Default Judgment",
+    "definition": "A binding judgment entered by the court in favor of the plaintiff when the defendant fails to appear in court or fails to submit a defense (answer or preparatory document) within the prescribed time limit.",
+    "japaneseDefinition": "被告が裁判所に出頭しなかったり、定められた期間内に答弁書や準備書面を提出しなかったりした場合に、原告の主張に基づいて下される拘束力のある判決。",
+    "japaneseWordTranslation": "欠席判決 (けっせきはんけつ)",
+    "legalContext": "Code of Civil Procedure Art. 251: Treatment of a Plaintiff or Defendant who failed to appear.",
+    "japaneseLegalContext": "民事訴訟法第251条 (出頭しなかった原告等の取扱)",
+    "exampleSentence": "Since the defendant failed to file an answer and was absent from the first hearing date without justifiable reason, the court entered a default judgment against him.",
+    "exampleTranslation": "被告が答弁書の提出を怠り、正当な理由なく第一回期日に欠席したため、裁判所は彼に対して欠席判決を下した。",
+    "vocabularyList": [
+      {
+        "word": "absent",
+        "translation": "欠席した (けっせきした)"
+      },
+      {
+        "word": "justifiable reason",
+        "translation": "正当な理由 (せいとうなりゆう)"
+      },
+      {
+        "word": "first hearing date",
+        "translation": "第一回期日 (だいいっかいきじつ)"
+      },
+      {
+        "word": "submit a defense",
+        "translation": "防御を提出する (ぼうぎょをていしゅつする)"
+      },
+      {
+        "word": "entered a judgment",
+        "translation": "判決を下した (はんけつをくだした)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Admission",
+    "definition": "A formal acknowledgement made by a party during litigation proceedings concerning the truth of a fact asserted by the opposing party; such admission generally has a binding effect on the court.",
+    "japaneseDefinition": "訴訟手続において、相手方当事者が主張する事実の真実性を自己の陳述として認める行為。これは通常、裁判所に対する拘束力を有する。",
+    "japaneseWordTranslation": "自白 (じはく)",
+    "legalContext": "Code of Civil Procedure Art. 179: Effect of Admission. Facts admitted by the parties shall be binding on the court.",
+    "japaneseLegalContext": "民事訴訟法第179条 (自白の拘束力)",
+    "exampleSentence": "Due to the defendant's judicial admission regarding the authenticity of the debt instrument, the plaintiff was exempted from the need to present expert testimony.",
+    "exampleTranslation": "債務証書の真正性に関する被告の**自白**があったため、原告は専門家の証言を提出する必要性を免除された。",
+    "vocabularyList": [
+      {
+        "word": "authenticity",
+        "translation": "真正性 (しんせいせい)"
+      },
+      {
+        "word": "debt instrument",
+        "translation": "債務証書 (さいむしょうしょ)"
+      },
+      {
+        "word": "litigation proceedings",
+        "translation": "訴訟手続 (そしょうてつづき)"
+      },
+      {
+        "word": "binding effect",
+        "translation": "拘束力 (こうそくりょく)"
+      },
+      {
+        "word": "expert testimony",
+        "translation": "専門家の証言 (せんもんかのしょうげん)"
+      },
+      {
+        "word": "exempted",
+        "translation": "免除された (めんじょされた)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Final Appeal (Jōkoku)",
+    "definition": "The final stage of appeal in the Japanese court system, directed toward the Supreme Court, primarily limited to claims of constitutional violations or major errors in the interpretation of laws and ordinances made by the High Court.",
+    "japaneseDefinition": "日本の裁判制度における最終的な上訴段階。主に高等裁判所の判決における憲法違反または法令解釈の重大な誤りを理由として最高裁判所に対して申し立てる手続き。",
+    "japaneseWordTranslation": "上告 (じょうこく)",
+    "legalContext": "Code of Civil Procedure Art. 312: Grounds for Final Appeal. The appeal is limited by specified legal errors.",
+    "japaneseLegalContext": "民事訴訟法第312条 (上告の理由)",
+    "exampleSentence": "Following the dismissal by the High Court, the defendant decided to file a **final appeal** (Jōkoku), asserting that the lower court misinterpreted governing law.",
+    "exampleTranslation": "高等裁判所による棄却を受けて、被告は下級裁判所が適用法を誤って解釈したと主張し、**上告**を提起することを決定した。",
+    "vocabularyList": [
+      {
+        "word": "dismissal",
+        "translation": "棄却 (ききゃく)"
+      },
+      {
+        "word": "High Court",
+        "translation": "高等裁判所 (こうとうさいばんしょ)"
+      },
+      {
+        "word": "Supreme Court",
+        "translation": "最高裁判所 (さいこうさいばんしょ)"
+      },
+      {
+        "word": "governing law",
+        "translation": "適用法 (てきようほう)"
+      },
+      {
+        "word": "file an appeal",
+        "translation": "上告を提起する (じょうこくをていきする)"
+      },
+      {
+        "word": "interpretation of laws",
+        "translation": "法令解釈 (ほうれいかいしゃく)"
+      }
+    ]
   }
 ]

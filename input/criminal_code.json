@@ -214,5 +214,131 @@
         "translation": "警察官に抵抗する"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mistake of Fact",
+    "definition": "An error regarding the factual circumstances surrounding the commission of a crime, which can negate criminal intent (mens rea) or lead to the application of a less severe punishment, depending on whether the mistake was unavoidable.",
+    "japaneseDefinition": "犯罪の実行行為を取り巻く事実的状況についての錯誤。故意を阻却したり、錯誤が不可避的であったかどうかに応じて刑の減軽が適用されたりする。",
+    "japaneseWordTranslation": "事実の錯誤 (じじつのさくご)",
+    "legalContext": "Criminal Code, Art. 38 (1) (Principle of Intent): 'An act performed unintentionally is not punishable. The same shall apply to an act performed under a mistake of law that is not based on special provisions in laws and regulations.'",
+    "japaneseLegalContext": "刑法 第38条 第1項 (故意): 「罪を犯す意思がない行為は、罰しない。ただし、法律に特別の規定がある場合は、この限りでない。」",
+    "exampleSentence": "If the defendant operated under an unavoidable **mistake of fact** regarding the nature of the property, the criminal intent required for larceny may be deemed lacking.",
+    "exampleTranslation": "被告人が当該財産の性質に関する不可避の**事実の錯誤**のもとで行為した場合、窃盗に必要な故意は欠如していると見なされ得る。",
+    "vocabularyList": [
+      {
+        "word": "defendant",
+        "translation": "被告人"
+      },
+      {
+        "word": "unavoidable",
+        "translation": "不可避の"
+      },
+      {
+        "word": "nature of the property",
+        "translation": "財産の性質"
+      },
+      {
+        "word": "larceny",
+        "translation": "窃盗罪"
+      },
+      {
+        "word": "criminal intent",
+        "translation": "故意 (犯罪意思)"
+      },
+      {
+        "word": "lacking",
+        "translation": "欠如している"
+      },
+      {
+        "word": "mens rea",
+        "translation": "犯罪意思"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Necessity",
+    "definition": "An act conducted to avert an imminent peril threatening the life, body, liberty, or property of oneself or another, where the harm caused by the act is judged not to be disproportionate to the harm sought to be averted (Justification Ground).",
+    "japaneseDefinition": "自己または他人の生命、身体、自由、または財産に対する現在の危難を避けるために行われた行為であって、それによって生じた害が避けようとした害に対して釣り合いを失わない場合、違法性が阻却される根拠。",
+    "japaneseWordTranslation": "緊急避難 (きんきゅうひなん)",
+    "legalContext": "Criminal Code, Art. 37 (1): 'An act unavoidable for the purpose of averting an imminent peril threatening the life, body, liberty, or property of oneself or another is not punishable if the harm caused does not exceed the harm sought to be averted...' ",
+    "japaneseLegalContext": "刑法 第37条 第1項: 「自己又は他人の生命、身体、自由又は財産に対する現在の危難を避けるため、やむを得ずにした行為は、これによって生じた害が避けようとした害の程度を超えなかった場合に限り、罰しない。」",
+    "exampleSentence": "The defense successfully argued that breaking the safety barrier to provide emergency aid constituted an act of **necessity** rather than simple destruction of property.",
+    "exampleTranslation": "弁護側は、緊急援助を提供するために安全柵を破壊した行為は、単なる器物損壊ではなく、**緊急避難**に該当すると主張し、認められた。",
+    "vocabularyList": [
+      {
+        "word": "avert",
+        "translation": "回避する"
+      },
+      {
+        "word": "imminent peril",
+        "translation": "現在の危難"
+      },
+      {
+        "word": "liberty",
+        "translation": "自由"
+      },
+      {
+        "word": "disproportionate",
+        "translation": "不均衡な"
+      },
+      {
+        "word": "defense",
+        "translation": "弁護"
+      },
+      {
+        "word": "safety barrier",
+        "translation": "安全柵"
+      },
+      {
+        "word": "destruction of property",
+        "translation": "器物損壊"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preparatory Act",
+    "definition": "Actions taken towards the commission of a crime that precede the attempt phase (the commencement of the execution of the crime); these acts are sometimes specifically criminalized for very serious offenses such as arson, kidnapping, or insurrection.",
+    "japaneseDefinition": "犯罪の実行に着手する前の段階において、その実行を容易にするために行われる行為。放火罪や誘拐罪など、重大な犯罪について特に処罰規定が設けられている場合がある。",
+    "japaneseWordTranslation": "予備 (よび)",
+    "legalContext": "Criminal Code, Art. 201 (Preparatory Act for Arson in Public Places): 'A person who commits a preparatory act for a crime prescribed in the preceding Article shall be punished...' (Specific punishment for preparatory acts of serious crimes).",
+    "japaneseLegalContext": "刑法 第201条 (現住建造物等放火の予備): 「前条の罪の予備をした者は、罰する。」",
+    "exampleSentence": "Although the planned bombing was never executed, the acquisition of explosives and detonators resulted in the charging of the defendant solely for the **preparatory act**.",
+    "exampleTranslation": "計画された爆破は実行されなかったが、爆発物と起爆装置の入手により、被告人は**予備**行為のみで起訴された。",
+    "vocabularyList": [
+      {
+        "word": "acquisition",
+        "translation": "取得"
+      },
+      {
+        "word": "explosives",
+        "translation": "爆発物"
+      },
+      {
+        "word": "detonators",
+        "translation": "起爆装置"
+      },
+      {
+        "word": "executed",
+        "translation": "実行された"
+      },
+      {
+        "word": "charging",
+        "translation": "起訴"
+      },
+      {
+        "word": "solely",
+        "translation": "もっぱら／のみ"
+      },
+      {
+        "word": "insurrection",
+        "translation": "内乱"
+      }
+    ]
   }
 ]

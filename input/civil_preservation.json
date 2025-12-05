@@ -176,5 +176,119 @@
         "translation": "保全裁判所"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action on the Merits",
+    "definition": "The principal lawsuit filed to obtain a final, substantive judgment confirming the existence and scope of the preserved claim or right, distinct from the preliminary preservation procedure itself.",
+    "japaneseDefinition": "保全命令が確保しようとしている請求権について、最終的な権利の存否を確定させるために提起される主要な訴訟（本訴）。",
+    "japaneseWordTranslation": "本案の訴え (ほんなんのうったえ)",
+    "legalContext": "Civil Preservation Law Art. 37(1): If the preservation obligee does not bring an action on the merits within the time period specified by the preservation order, the court shall, upon petition of the preservation debtor, revoke the preservation order.",
+    "japaneseLegalContext": "民事保全法第37条第1項：保全債権者が保全命令において定められた期間内に本案の訴えを提起しなかったときは、裁判所は、保全債務者の申立てにより、保全命令を取り消さなければならない。",
+    "exampleSentence": "The preservation court set a deadline requiring the claimant to file the **action on the merits** within thirty days.",
+    "exampleTranslation": "保全裁判所は、申立人が30日以内に本案の訴えを提起するよう期限を設定した。",
+    "vocabularyList": [
+      {
+        "word": "Claimant",
+        "translation": "申立人"
+      },
+      {
+        "word": "Principal lawsuit",
+        "translation": "本訴"
+      },
+      {
+        "word": "Time period specified",
+        "translation": "定められた期間"
+      },
+      {
+        "word": "Final judgment",
+        "translation": "終局判決"
+      },
+      {
+        "word": "Substantive right",
+        "translation": "実体的な権利"
+      },
+      {
+        "word": "Petition of the debtor",
+        "translation": "債務者の申立て"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Examination of the Debtor",
+    "definition": "A procedural step, typically discretionary, where the preservation court questions the preservation debtor to gather facts and arguments relevant to the necessity and propriety of issuing a preservation order, especially concerning the grounds for preservation.",
+    "japaneseDefinition": "裁判所が保全命令の発令の可否を判断するにあたり、保全債務者に対し、保全の必要性や事実関係について質問し、意見を聴取する手続き。",
+    "japaneseWordTranslation": "債務者審尋 (さいむしゃしんじん)",
+    "legalContext": "Civil Preservation Law Art. 23(2): The court may issue a preservation order without hearing the preservation debtor; however, it may also question the preservation debtor if necessary.",
+    "japaneseLegalContext": "民事保全法第23条第2項：保全命令は、保全債務者を審尋しないで発することもできる。ただし、必要と認めるときは、保全債務者を審尋することができる。",
+    "exampleSentence": "The court decided against holding the **examination of the debtor** since the immediate risk of asset dissipation required swift action.",
+    "exampleTranslation": "裁判所は、資産散逸の差し迫った危険性から迅速な対応が必要であるため、債務者審尋を行わないことを決定した。",
+    "vocabularyList": [
+      {
+        "word": "Asset dissipation",
+        "translation": "資産の散逸"
+      },
+      {
+        "word": "Propriety",
+        "translation": "正当性"
+      },
+      {
+        "word": "Grounds for preservation",
+        "translation": "保全の理由"
+      },
+      {
+        "word": "Swift action",
+        "translation": "迅速な対応"
+      },
+      {
+        "word": "Discretionary",
+        "translation": "裁量的"
+      },
+      {
+        "word": "Hearing",
+        "translation": "聴取"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Revocation of the Preservation Order",
+    "definition": "The formal termination and nullification of an issued preservation order, typically triggered by the preservation debtor based on statutorily defined grounds, such as failure to file the principal lawsuit or a change in the circumstances justifying the preservation.",
+    "japaneseDefinition": "既に出された保全命令の効力を法的に失わせる手続き。本案の不提起、事情の変更、または債務者による取り消しのための担保提供などの法定事由に基づいて行われる。",
+    "japaneseWordTranslation": "保全命令の取消し (ほぜんめいれいのとりけし)",
+    "legalContext": "Civil Preservation Law Art. 42(1): When the grounds for the preservation order cease to exist or circumstances change, the court that issued the preservation order shall, upon petition of the preservation debtor, revoke the preservation order.",
+    "japaneseLegalContext": "民事保全法第42条第1項：保全命令の理由が消滅したとき、又は事情が変更したときは、保全命令を発した裁判所は、保全債務者の申立てにより、その保全命令を取り消すことができる。",
+    "exampleSentence": "The debtor petitioned for the **revocation of the preservation order** arguing that the alleged financial distress had been remedied.",
+    "exampleTranslation": "債務者は、申立てられた財政難が既に是正されたと主張し、保全命令の取消しを申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Termination",
+        "translation": "終了"
+      },
+      {
+        "word": "Nullification",
+        "translation": "無効化"
+      },
+      {
+        "word": "Statutorily defined grounds",
+        "translation": "法定の事由"
+      },
+      {
+        "word": "Cease to exist",
+        "translation": "消滅する"
+      },
+      {
+        "word": "Change in circumstances",
+        "translation": "事情の変更"
+      },
+      {
+        "word": "Alleged distress",
+        "translation": "申立てられた窮状"
+      }
+    ]
   }
 ]

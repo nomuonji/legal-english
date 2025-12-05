@@ -328,5 +328,123 @@
         "translation": "一方的な意思表示"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Manager of Co-owned Property",
+    "definition": "A person, typically one of the co-owners or a third party, appointed either by agreement among the co-owners or by court order, responsible for the general management, preservation, and improvement of jointly held assets.",
+    "japaneseDefinition": "共有者間の合意または裁判所の命令により選任され、共有財産の管理、保存、および改良を職務とする者。",
+    "japaneseWordTranslation": "共有物の管理人 (きょうゆうぶつの かんりにん)",
+    "legalContext": "Civil Code Art. 252 (Management of Co-owned Property): Decisions concerning the management of co-owned property are made by a majority of the co-owners' shares...",
+    "japaneseLegalContext": "民法第252条（共有物の管理）：共有物の管理に関する事項は、各共有者の持分の価格に従い、その過半数で決する。",
+    "exampleSentence": "Due to persistent disputes, the co-owners petitioned the local district court to appoint a neutral third party as the Manager of Co-owned Property.",
+    "exampleTranslation": "紛争が続くため、共有者たちは中立的な第三者を共有物の管理人として選任するよう地方裁判所に申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Co-owner",
+        "translation": "共有者"
+      },
+      {
+        "word": "Jointly held assets",
+        "translation": "共有財産"
+      },
+      {
+        "word": "Court order",
+        "translation": "裁判所の命令"
+      },
+      {
+        "word": "Preservation",
+        "translation": "保存"
+      },
+      {
+        "word": "Petition",
+        "translation": "申し立てる"
+      },
+      {
+        "word": "Majority of shares",
+        "translation": "持分の過半数"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Joint and Several Guarantee",
+    "definition": "A form of suretyship where the guarantor assumes liability jointly and severally with the principal obligor, thereby waiving the rights of search and defense of demand provided under the Civil Code.",
+    "japaneseDefinition": "保証人が主たる債務者と連帯して債務を負担する保証形態。この場合、保証人は民法に定められた催告の抗弁権及び検索の抗弁権を有しない。",
+    "japaneseWordTranslation": "連帯保証 (れんたい ほしょう)",
+    "legalContext": "Civil Code Art. 446 (Suretyship): A suretyship shall be effective when the surety assumes liability for performance in the event the principal obligor defaults.",
+    "japaneseLegalContext": "民法第446条（保証債務）：保証人は、主たる債務者がその債務を履行しない場合に、その履行をする責任を負う。",
+    "exampleSentence": "The bank required a Joint and Several Guarantee from the borrower's spouse to mitigate the risk of non-performance on the loan.",
+    "exampleTranslation": "銀行は、融資の不履行リスクを軽減するため、借主の配偶者に対し連帯保証を求めた。",
+    "vocabularyList": [
+      {
+        "word": "Principal obligor",
+        "translation": "主たる債務者"
+      },
+      {
+        "word": "Guarantor / Surety",
+        "translation": "保証人"
+      },
+      {
+        "word": "Defense of demand",
+        "translation": "催告の抗弁権"
+      },
+      {
+        "word": "Assume liability",
+        "translation": "責任を負う"
+      },
+      {
+        "word": "Mitigate risk",
+        "translation": "リスクを軽減する"
+      },
+      {
+        "word": "Performance",
+        "translation": "履行"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Collation",
+    "definition": "In succession law, the requirement that an heir who received special benefits (gifts or legacies) from the decedent must include the value of those benefits in the estate calculation to ensure fair distribution among the legal heirs.",
+    "japaneseDefinition": "相続法において、共同相続人のうち、被相続人から生前贈与等の特別受益を受けた者が、遺産の公平な分割のため、その受益額を相続財産に算入すること。",
+    "japaneseWordTranslation": "持戻し (もちもどし)",
+    "legalContext": "Civil Code Art. 903 (Collation of Benefits Received from Decedent): If one of the co-heirs received a gift or legacy from the decedent, the value of that gift or legacy shall be included in the calculation of the estate.",
+    "japaneseLegalContext": "民法第903条（特別受益者の相続分）：共同相続人中に、被相続人から遺贈を受け、又は生計の資本として贈与を受けた者があるときは、その受けたものの価額を相続財産に算入する。",
+    "exampleSentence": "The court ordered the eldest son to perform Collation, as he had received a large gift of land for his business startup ten years prior to the decedent's death.",
+    "exampleTranslation": "長男は、被相続人の死亡の10年前に事業開始資金として多額の土地の贈与を受けていたため、裁判所は持戻しを行うよう命じた。",
+    "vocabularyList": [
+      {
+        "word": "Decedent",
+        "translation": "被相続人"
+      },
+      {
+        "word": "Heir",
+        "translation": "相続人"
+      },
+      {
+        "word": "Special benefits",
+        "translation": "特別受益"
+      },
+      {
+        "word": "Estate calculation",
+        "translation": "遺産算入"
+      },
+      {
+        "word": "Co-heirs",
+        "translation": "共同相続人"
+      },
+      {
+        "word": "Distributable share",
+        "translation": "相続分"
+      },
+      {
+        "word": "Gift (lifetime)",
+        "translation": "生前贈与"
+      }
+    ]
   }
 ]

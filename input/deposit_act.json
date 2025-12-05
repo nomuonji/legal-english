@@ -210,5 +210,123 @@
         "translation": "法的資格"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Cause for Consignment",
+    "definition": "The specific legal ground or prerequisite, stipulated usually under the Civil Code, that authorizes a debtor to extinguish their obligation by placing the subject matter of performance with the administrative authority.",
+    "japaneseDefinition": "債務者がその債務の履行の目的物を行政機関に寄託し、債務を消滅させることを正当化する、民法その他の法令に定められた特定の法的根拠または要件。",
+    "japaneseWordTranslation": "供託原因 (きょうたくげんいん)",
+    "legalContext": "Civil Code Art. 494 (Conditions for Consignment): If the obligee refuses to accept performance, or is unable to accept performance, or if the obligor cannot determine who the obligee is without fault, the obligor may be relieved of their obligation by consigning the subject matter of the performance.",
+    "japaneseLegalContext": "民法第494条（供託）：債権者が弁済の受領を拒み、又はこれを受領することができないとき、弁済者が過失なく債権者を確知することができないときも、同様とする。",
+    "exampleSentence": "The consignor must clearly state the Statutory Cause for Consignment, such as uncertainty of the obligee, in the required documentation.",
+    "exampleTranslation": "供託者は、債権者不確知などの供託原因を、必要書類に明確に記載しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "prerequisite",
+        "translation": "要件"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "extinguish the obligation",
+        "translation": "債務を消滅させる"
+      },
+      {
+        "word": "subject matter of performance",
+        "translation": "履行の目的物"
+      },
+      {
+        "word": "uncertainty of the obligee",
+        "translation": "債権者不確知"
+      },
+      {
+        "word": "consignor",
+        "translation": "供託者"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Ledger",
+    "definition": "The official registry or record book maintained by the designated administrative office detailing the particulars of all legal consignments made, including the identities of the parties, the grounds for consignment, and the type of consigned property.",
+    "japaneseDefinition": "指定された行政機関が維持する公式の台帳または記録簿であり、なされた全ての法的寄託の詳細（当事者の身元、寄託の根拠、寄託物の種類など）を詳述するもの。",
+    "japaneseWordTranslation": "供託簿 (きょうたくぼ)",
+    "legalContext": "Deposit Act Art. 4 (Maintenance of Records and Ledgers): The administrative office shall prepare and maintain ledgers and other records necessary for handling consignments, as specified by ministerial ordinance.",
+    "japaneseLegalContext": "供託法第4条（簿冊の調製）：供託所には、供託事務を処理するため、法務省令で定めるところにより、供託簿その他の帳簿を備える。",
+    "exampleSentence": "A certified copy of the entry in the Deposit Ledger is often required when submitting a Claim for Delivery of Consigned Property.",
+    "exampleTranslation": "供託物払渡請求を提出する際には、供託簿の記載事項の証明書が必要となることが多い。",
+    "vocabularyList": [
+      {
+        "word": "registry",
+        "translation": "台帳"
+      },
+      {
+        "word": "administrative office",
+        "translation": "行政機関"
+      },
+      {
+        "word": "identity of the parties",
+        "translation": "当事者の身元"
+      },
+      {
+        "word": "ministerial ordinance",
+        "translation": "法務省令"
+      },
+      {
+        "word": "certified copy",
+        "translation": "証明書"
+      },
+      {
+        "word": "handling consignments",
+        "translation": "供託事務の処理"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Claim for Delivery of Consigned Property",
+    "definition": "A formal administrative petition submitted to the administrative authority requesting the release and transfer of the funds or goods held under consignment, filed by the party entitled to receive the property.",
+    "japaneseDefinition": "寄託されている金銭または物品の解放および移転を、当該財産を受け取る権利を有する当事者によって提出される、行政機関に対する正式な行政上の申請。",
+    "japaneseWordTranslation": "供託物払渡請求 (きょうたくぶつ はらいわたし せいきゅう)",
+    "legalContext": "Deposit Act Art. 9 (Procedure for Delivery): A person seeking the delivery of the consigned property must submit a written claim to the administrative office.",
+    "japaneseLegalContext": "供託法第9条（払渡しの手続）：供託物の払渡しを受けようとする者は、供託所に書面で請求しなければならない。",
+    "exampleSentence": "Following a court judgment confirming their status as the rightful obligee, the plaintiff submitted a Claim for Delivery of Consigned Property to the administrative office.",
+    "exampleTranslation": "原告は、正当な債権者としての地位を確定する判決後、行政機関に供託物払渡請求を提出した。",
+    "vocabularyList": [
+      {
+        "word": "administrative petition",
+        "translation": "行政上の申請"
+      },
+      {
+        "word": "release and transfer",
+        "translation": "解放および移転"
+      },
+      {
+        "word": "party entitled",
+        "translation": "権利を有する当事者"
+      },
+      {
+        "word": "written claim",
+        "translation": "書面で請求"
+      },
+      {
+        "word": "court judgment",
+        "translation": "裁判の判決"
+      },
+      {
+        "word": "rightful obligee",
+        "translation": "正当な債権者"
+      },
+      {
+        "word": "submitted",
+        "translation": "提出した"
+      }
+    ]
   }
 ]

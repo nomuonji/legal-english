@@ -214,5 +214,115 @@
         "translation": "二次的な (にじてきな)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Record of Description Section",
+    "definition": "The section of the real property register (Tōkibo) that records the physical facts of the property, such as the location, area, type of land, or structure details, distinguishing it from the sections dedicated to rights.",
+    "japaneseDefinition": "不動産登記簿のうち、権利関係ではなく、土地の所在、地積、地目または建物の構造などの不動産の物理的な現況を記録する部分。",
+    "japaneseWordTranslation": "表題部 (ひょうだいぶ)",
+    "legalContext": "Real Property Registration Act, Chapter 2, Section 2 (Registration of Land)",
+    "japaneseLegalContext": "不動産登記法 第2章 第2節 (土地の登記)",
+    "exampleSentence": "Any application to register a change in the physical area of a parcel of land must be processed in the **Record of Description Section** before updating the record of rights.",
+    "exampleTranslation": "土地の区画の物理的面積の変更を登記する申請は、権利の記録を更新する前に、必ず表題部で処理されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "physical area",
+        "translation": "物理的面積"
+      },
+      {
+        "word": "parcel of land",
+        "translation": "一区画の土地"
+      },
+      {
+        "word": "processed",
+        "translation": "処理される"
+      },
+      {
+        "word": "record of rights",
+        "translation": "権利の記録"
+      },
+      {
+        "word": "distinguishing",
+        "translation": "区別する"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Change",
+    "definition": "A registration procedure used to record alterations to the description of a piece of real property (e.g., change in land use or address) or minor modifications to a registered right (e.g., change of the obligor's name or address).",
+    "japaneseDefinition": "不動産の表示（地目や所在など）の変更、または登記された権利の軽微な変更（債務者の氏名または住所の変更など）を記録するために行われる登記手続。",
+    "japaneseWordTranslation": "変更登記 (へんこうとうき)",
+    "legalContext": "Real Property Registration Act Art. 37 (Regarding the registration of changes to the description of real property)",
+    "japaneseLegalContext": "不動産登記法 第37条 (不動産の表示に関する変更の登記等)",
+    "exampleSentence": "The developer submitted an application for the **Registration of Change** after converting the land from agricultural use to residential use, altering the official land category.",
+    "exampleTranslation": "開発業者は、土地を農地利用から住宅利用に変更し、公的な地目を変更した後、変更登記の申請を提出した。",
+    "vocabularyList": [
+      {
+        "word": "developer",
+        "translation": "開発業者"
+      },
+      {
+        "word": "submitted an application",
+        "translation": "申請を提出した"
+      },
+      {
+        "word": "converting",
+        "translation": "変更する"
+      },
+      {
+        "word": "agricultural use",
+        "translation": "農地利用"
+      },
+      {
+        "word": "residential use",
+        "translation": "住宅利用"
+      },
+      {
+        "word": "land category",
+        "translation": "地目"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Joint Security Register",
+    "definition": "An auxiliary document (Mokuroku) maintained by the registrar, which comprehensively lists multiple distinct parcels of real property that are pledged as security for a single underlying claim or debt.",
+    "japaneseDefinition": "単一の債権または債務に対して担保として差し出されている、複数の個別の不動産を包括的に一覧化した、登記官によって作成・管理される付属文書（目録）。",
+    "japaneseWordTranslation": "共同担保目録 (きょうどうたんぽもくろく)",
+    "legalContext": "Real Property Registration Act Art. 73, Par. 1 (Requirement for preparation of the register)",
+    "japaneseLegalContext": "不動産登記法 第73条 第1項 (目録作成の要件)",
+    "exampleSentence": "Because the borrower used three houses and two separate plots of land as collateral for the business loan, the registrar attached a **Joint Security Register** to the main hypothecation entry.",
+    "exampleTranslation": "借主が事業融資の担保として3棟の家屋と2区画の土地を使用したため、登記官は主たる抵当権設定登記に共同担保目録を添付した。",
+    "vocabularyList": [
+      {
+        "word": "auxiliary document",
+        "translation": "付属文書"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "comprehensively lists",
+        "translation": "包括的に一覧化する"
+      },
+      {
+        "word": "pledged as security",
+        "translation": "担保として差し出された"
+      },
+      {
+        "word": "collateral",
+        "translation": "担保"
+      },
+      {
+        "word": "plots of land",
+        "translation": "土地の区画"
+      }
+    ]
   }
 ]

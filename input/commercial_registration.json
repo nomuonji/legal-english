@@ -210,5 +210,119 @@
         "translation": "文書化された (ぶんしょかされた)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Attestation of signature",
+    "definition": "The official certification or authentication by a notary public or administrative body confirming that a signature on a document is genuinely that of the person named.",
+    "japaneseDefinition": "公証人または在外公館などにより、署名が確かにその本人によってなされたものであることを証明する行為。",
+    "japaneseWordTranslation": "署名証明 (しょめいしょうめい)",
+    "legalContext": "Commercial Registration Act (Ordinances and Practice): When applying for registration of changes concerning directors or corporate structure, foreign residents or overseas companies often utilize an attestation of signature in lieu of the traditional seal certificate (Inkan Shōmei).",
+    "japaneseLegalContext": "商業登記法（関連する省令・実務）：取締役等の変更に関する登記申請を行う際、外国在住者や海外法人は、従来の印鑑証明書に代えて署名証明書を利用することが多い。",
+    "exampleSentence": "The applicant must submit an attestation of signature from the relevant authenticating body to validate the execution of the necessary application documents.",
+    "exampleTranslation": "申請者は、必要な申請書類の執行を有効にするため、関連する認証機関からの署名証明書を提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Authenticating body",
+        "translation": "認証機関"
+      },
+      {
+        "word": "Applicant",
+        "translation": "申請者"
+      },
+      {
+        "word": "Execution",
+        "translation": "執行（ここでは署名・押印の意）"
+      },
+      {
+        "word": "In lieu of",
+        "translation": "～に代わって"
+      },
+      {
+        "word": "Validate",
+        "translation": "有効にする"
+      },
+      {
+        "word": "Representative Director",
+        "translation": "代表取締役"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Transfer of business",
+    "definition": "The act by which a company transfers all or a significant part of its business assets, operational structure, goodwill, and obligations to another entity.",
+    "japaneseDefinition": "会社がその事業の全部または重要な一部を、営業資産、営業組織、のれん、および債務とともに他の法人に移転させる行為。",
+    "japaneseWordTranslation": "事業譲渡 (じぎょうじょうと)",
+    "legalContext": "Commercial Registration Act Art. 77: Registration is required when a company undergoes a corporate change such as the transfer of its business, affecting the recorded scope and nature of its operations.",
+    "japaneseLegalContext": "商業登記法第77条：会社が事業譲渡のような企業組織の変更を行う場合、登記された事業の範囲と性質に影響を与えるため、その登記が義務付けられている。",
+    "exampleSentence": "The transfer of business requires entry in the register to establish its effectuation against third parties regarding the assumption of obligations and transfer of assets.",
+    "exampleTranslation": "事業譲渡は、債務の引き受けと資産の移転に関して、第三者に対する効力発生を確立するために登記簿への記載が必要である。",
+    "vocabularyList": [
+      {
+        "word": "Transferor",
+        "translation": "譲渡会社"
+      },
+      {
+        "word": "Transferee",
+        "translation": "譲受会社"
+      },
+      {
+        "word": "Assumption of obligations",
+        "translation": "債務の引受け"
+      },
+      {
+        "word": "Goodwill",
+        "translation": "のれん（営業上の信用）"
+      },
+      {
+        "word": "Effectuation",
+        "translation": "効力の発生"
+      },
+      {
+        "word": "Corporate reorganization",
+        "translation": "企業組織の再編"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deemed dissolution",
+    "definition": "A legal fiction under which a company that has failed to file any mandatory registration for a specified long period (usually 12 consecutive years) is presumed to be dormant and administratively dissolved by the registrar.",
+    "japaneseDefinition": "長期間（通常12年間）にわたり義務付けられた登記を一度も行わなかった会社が、休眠状態にあると推定され、登記官によって職権で解散させられる法的な擬制。",
+    "japaneseWordTranslation": "みなし解散 (みなしかいさん)",
+    "legalContext": "Commercial Registration Act Art. 47: If a stock company fails to register any changes for a period of twelve years, the supervising authority may issue a final warning notice, and if no application is subsequently filed, the company is deemed dissolved.",
+    "japaneseLegalContext": "商業登記法第47条：株式会社が12年間登記を行わない場合、管轄当局が催告を行い、その後も申請がないときは、その会社は解散したものとみなされる。",
+    "exampleSentence": "Before issuing a notice of deemed dissolution, the registrar must confirm that the dormant entity has not conducted any relevant corporate activity requiring an entry in the public records.",
+    "exampleTranslation": "登記官は、みなし解散の催告を発する前に、その休眠状態の法人が公的記録への記載を要する関連する企業活動を行っていないことを確認しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Legal fiction",
+        "translation": "法的擬制"
+      },
+      {
+        "word": "Dormant entity",
+        "translation": "休眠会社"
+      },
+      {
+        "word": "Final warning notice",
+        "translation": "最終の催告"
+      },
+      {
+        "word": "Liquidation",
+        "translation": "清算"
+      },
+      {
+        "word": "Reinstatement",
+        "translation": "復活（清算結了前の場合）"
+      },
+      {
+        "word": "Supervising authority",
+        "translation": "管轄当局"
+      }
+    ]
   }
 ]

@@ -458,5 +458,123 @@
         "translation": "確かめる"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action to Object by a Third Party",
+    "definition": "A lawsuit filed by a person (a third party) claiming full or partial ownership of property currently subject to enforcement procedures, demanding the cessation or withdrawal of those procedures against that specific property.",
+    "japaneseDefinition": "第三者として、強制執行の対象となっている財産の全部または一部が自己に属すると主張し、その財産に対する執行の排除または取消しを求める訴訟。",
+    "japaneseWordTranslation": "第三者異議の訴え (だいさんしゃいぎのうったえ)",
+    "legalContext": "Civil Execution Act Art. 38 (Action to Object by a Third Party): If a third party has ownership or other rights preventing the transfer or delivery of the object, that party may file an action against the execution obligee.",
+    "japaneseLegalContext": "民事執行法 第38条 (第三者異議の訴え): 第三者が執行の目的物について所有権その他目的物の譲渡又は引渡しを妨げる権利を有することを主張するときは、執行債権者に対し、その執行に対する異議の訴えを提起することができる。",
+    "exampleSentence": "The company filed an Action to Object by a Third Party after its machinery was seized under enforcement procedures targeting a subsidiary.",
+    "exampleTranslation": "その会社は、子会社を対象とする執行手続で機械が差し押さえられた後、第三者異議の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "cessation",
+        "translation": "停止"
+      },
+      {
+        "word": "withdrawal",
+        "translation": "取り下げ"
+      },
+      {
+        "word": "enforcement procedures",
+        "translation": "執行手続"
+      },
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "claim ownership",
+        "translation": "所有権を主張する"
+      },
+      {
+        "word": "subsidiary",
+        "translation": "子会社"
+      },
+      {
+        "word": "seized",
+        "translation": "差し押さえられた"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Indirect Compulsion",
+    "definition": "A method used to enforce non-monetary claims (typically for actions that require the cooperation of the party being enforced against, such as delivering an item or making a specific statement) by imposing a fine or indemnity order for each period of non-compliance.",
+    "japaneseDefinition": "債務者（執行をされる者）が金銭債務以外の給付義務（物の引渡しや特定の意思表示など）を履行しない場合に、その不履行期間に応じて損害賠償金や罰金を課すことにより、心理的な圧力をかけて履行を強制する執行方法。",
+    "japaneseWordTranslation": "間接強制 (かんせつきょうせい)",
+    "legalContext": "Civil Execution Act Art. 172 (Order for Indirect Compulsion): The court may, upon petition, issue an order that the person against whom execution is sought shall pay a certain amount of money to the judgment creditor if they fail to perform their obligations within a specific period.",
+    "japaneseLegalContext": "民事執行法 第172条 (間接強制の決定): 裁判所は、申立てにより、その義務を一定の期間内に履行しないときは、債権者に対し、間接強制を受ける者が定められた金銭を支払うべき旨を命ずる決定をすることができる。",
+    "exampleSentence": "Since the specific performance could not be directly executed, the court issued an order for Indirect Compulsion imposing a daily penalty of 100,000 yen until compliance.",
+    "exampleTranslation": "特定給付が直接執行できなかったため、裁判所は、履行するまで1日あたり10万円の罰金を課す間接強制の決定を出した。",
+    "vocabularyList": [
+      {
+        "word": "non-monetary claim",
+        "translation": "非金銭債権"
+      },
+      {
+        "word": "specific performance",
+        "translation": "特定給付"
+      },
+      {
+        "word": "indemnity order",
+        "translation": "損害賠償命令"
+      },
+      {
+        "word": "non-compliance",
+        "translation": "不履行"
+      },
+      {
+        "word": "daily penalty",
+        "translation": "日ごとの罰金"
+      },
+      {
+        "word": "cooperation",
+        "translation": "協力"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Stay of Execution",
+    "definition": "A judicial order temporarily suspending the ongoing execution procedures, typically granted based on the submission of security by the party being enforced against, or due to a separate court order finding grounds for dispute regarding the validity of the execution claim.",
+    "japaneseDefinition": "進行中の執行手続を一時的に停止する裁判所の命令。通常、執行の対象となっている者が担保を提供した場合、または執行権原の有効性に関する紛争を理由とする別の裁判所の命令に基づいて発せられる。",
+    "japaneseWordTranslation": "執行停止 (しっこうていし)",
+    "legalContext": "Civil Execution Act Art. 39 (Grounds for Stay of Execution): Execution procedures shall be stayed upon the submission of a document issued by the court stating that an order has been issued to provisionally stay the execution or that a final judgment has been reached revoking the grounds for execution.",
+    "japaneseLegalContext": "民事執行法 第39条 (執行停止の事由): 執行を一時停止する旨を命ずる裁判があったこと、又は執行権原の成立に関する裁判を取り消す終局判決があったことを証する文書が提出されたときは、執行手続は停止される。",
+    "exampleSentence": "The debtor filed a motion seeking a Stay of Execution, furnishing security of 5 million yen pending the outcome of the appeal.",
+    "exampleTranslation": "債務者は、控訴の結果が出るまで500万円の担保を提供し、執行停止を求める申し立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "judicial order",
+        "translation": "裁判所の命令"
+      },
+      {
+        "word": "suspending",
+        "translation": "停止する"
+      },
+      {
+        "word": "furnishing security",
+        "translation": "担保を提供すること"
+      },
+      {
+        "word": "validity",
+        "translation": "有効性"
+      },
+      {
+        "word": "motion seeking",
+        "translation": "求める申し立て"
+      },
+      {
+        "word": "pending the outcome",
+        "translation": "結果が出るまで"
+      }
+    ]
   }
 ]

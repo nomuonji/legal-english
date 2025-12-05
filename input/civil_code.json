@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Avoidance",
-    "definition": "The power held by a person (or their legal representative) to nullify a juristic act retroactively due to a defect present at the time the act was formed, such as mistake, duress, or incapacity.",
-    "japaneseDefinition": "錯誤、詐欺、強迫、または制限行為能力などの理由により有効に成立した法律行為を、後から遡及的に無効とする権利または行為。",
-    "japaneseWordTranslation": "取消し (とりけし)",
-    "legalContext": "Civil Code Art. 120: A voidable juristic act may be avoided by the person with limited capacity, the person who made the declaration of intention based on mistake, fraud, or duress, or any successor to such a person.",
-    "japaneseLegalContext": "民法第120条: 行為能力の制限によって取り消すことができる行為は、制限行為能力者又はその代理人、承継人若しくは同意を得た者に取り消させることができる。",
-    "exampleSentence": "The injured party exercised the right of avoidance because the contract had been executed under the threat of physical harm (duress).",
-    "exampleTranslation": "契約が身体的危害の脅迫（強迫）のもとで締結されたため、被害当事者は取消権を行使した。",
-    "vocabularyList": [
-      {
-        "word": "Juristic act",
-        "translation": "法律行為 (ほうりつこうい)"
-      },
-      {
-        "word": "Duress",
-        "translation": "強迫 (きょうはく)"
-      },
-      {
-        "word": "Retroactively",
-        "translation": "遡及的に (そきゅうてきに)"
-      },
-      {
-        "word": "Incapacity",
-        "translation": "行為能力の制限 (こういのうりょくのせいげん)"
-      },
-      {
-        "word": "Ratification",
-        "translation": "追認 (ついにん)"
-      },
-      {
-        "word": "Mistake",
-        "translation": "錯誤 (さくご)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Right of Superficies",
     "definition": "A real right (物権) by which the holder is entitled to use another person’s land for the purpose of owning structures, bamboo, or trees located thereon.",
     "japaneseDefinition": "他人の土地において工作物又は竹木を所有するため、その土地を使用する権利である物権の一種。",
@@ -532,6 +494,132 @@
       {
         "word": "settle the claims",
         "translation": "債権を清算する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ratification",
+    "definition": "The subsequent approval by a party (or its legal successor) of a juridical act that was initially voidable or performed by a non-representative, thereby validating the act from its inception.",
+    "japaneseDefinition": "無権代理人の行為や取消し得る行為などについて、後からその行為を有効なものとして認める意思表示。",
+    "japaneseWordTranslation": "追認 (ついにん)",
+    "legalContext": "Civil Code Art. 113: If a person who performs a juridical act on behalf of another person without representative authority (non-agent) does so, the act shall be effective only if ratified by the principal.",
+    "japaneseLegalContext": "民法第113条: 代理権を有しない者が他人の代理人としてした行為は、本人がこれを追認しなければ、その本人に対して効力を生じない。",
+    "exampleSentence": "The principal may exercise the right of ratification against the third party concerning the contract performed without power of representation.",
+    "exampleTranslation": "本人は、無権代理人による契約について、第三者に対して追認の権利を行使できる。",
+    "vocabularyList": [
+      {
+        "word": "principal",
+        "translation": "本人 (ほんにん)"
+      },
+      {
+        "word": "representative authority",
+        "translation": "代理権 (だいりけん)"
+      },
+      {
+        "word": "non-agent",
+        "translation": "無権代理人 (むけんだいりにん)"
+      },
+      {
+        "word": "juridical act",
+        "translation": "法律行為 (ほうりつこうい)"
+      },
+      {
+        "word": "voidable",
+        "translation": "取り消し得る (とりけしうる)"
+      },
+      {
+        "word": "exercise the right",
+        "translation": "権利を行使する (けんりをこうしする)"
+      },
+      {
+        "word": "effective",
+        "translation": "効力を生じる (こうりょくをしょうじる)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legally Reserved Share (Forced Share)",
+    "definition": "The minimum portion of the deceased's estate that must be reserved for certain statutory heirs (excluding siblings) and cannot be unilaterally alienated through a will or pre-death gifts.",
+    "japaneseDefinition": "兄弟姉妹以外の相続人に対し、被相続人の財産のうち、法律上必ず留保されるべき最低限の割合。",
+    "japaneseWordTranslation": "遺留分 (いりゅうぶん)",
+    "legalContext": "Civil Code Art. 1042: The legally reserved share shall be calculated based on the value of the property constituting the inheritance.",
+    "japaneseLegalContext": "民法第1042条: 遺留分は、被相続人が相続開始の時において有した財産の価額に、その贈与した財産の価額を加え、債務の全額を控除して、これを算定する。",
+    "exampleSentence": "If the testator's testamentary disposition infringes upon a statutory heir's legally reserved share, the heir may claim restitution.",
+    "exampleTranslation": "遺言者の遺贈が法定相続人の遺留分を侵害する場合、その相続人は減殺請求をすることができる。",
+    "vocabularyList": [
+      {
+        "word": "testator",
+        "translation": "遺言者 (いごんしゃ)"
+      },
+      {
+        "word": "statutory heir",
+        "translation": "法定相続人 (ほうていそうぞくにん)"
+      },
+      {
+        "word": "infringe upon",
+        "translation": "侵害する (しんがいする)"
+      },
+      {
+        "word": "testamentary disposition",
+        "translation": "遺贈 (いぞう)"
+      },
+      {
+        "word": "deceased's estate",
+        "translation": "被相続人の財産 (ひそうぞくにんのざいさん)"
+      },
+      {
+        "word": "claim restitution",
+        "translation": "減殺請求をする (げんさいせいきゅうをする)"
+      },
+      {
+        "word": "property constituting the inheritance",
+        "translation": "相続財産 (そうぞくざいさん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Easement (Servitude)",
+    "definition": "A real right established for the purpose of increasing the convenience of one piece of land (dominant land) by utilizing another piece of land (servient land).",
+    "japaneseDefinition": "自己の土地（要役地）の利用の便益のために、他人の土地（承役地）を利用することができる物権。",
+    "japaneseWordTranslation": "地役権 (ちえきけん)",
+    "legalContext": "Civil Code Art. 280: An obligee may establish an easement in order to use the land of another person for the purpose of increasing the convenience of his/her own land.",
+    "japaneseLegalContext": "民法第280条: 地役権者は、設定行為で定めた目的に従い、他人の土地を自己の土地の便益に供する権利を有する。",
+    "exampleSentence": "The property owner established an easement for the right to drain wastewater across the adjacent servient land.",
+    "exampleTranslation": "その土地所有者は、隣接する承役地を横断して汚水を排出する権利のための地役権を設定した。",
+    "vocabularyList": [
+      {
+        "word": "dominant land",
+        "translation": "要役地 (ようえきち)"
+      },
+      {
+        "word": "servient land",
+        "translation": "承役地 (しょうえきち)"
+      },
+      {
+        "word": "real right",
+        "translation": "物権 (ぶっけん)"
+      },
+      {
+        "word": "right to drain",
+        "translation": "排水権 (はいすいけん)"
+      },
+      {
+        "word": "convenience",
+        "translation": "便益 (べんえき)"
+      },
+      {
+        "word": "adjacent",
+        "translation": "隣接する (りんせつする)"
+      },
+      {
+        "word": "establish",
+        "translation": "設定する (せっていする)"
       }
     ]
   }

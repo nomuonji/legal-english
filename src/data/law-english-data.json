@@ -1,38 +1,34 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Real Property Registration (不動産登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Avoidance",
-  "definition": "The power held by a person (or their legal representative) to nullify a juristic act retroactively due to a defect present at the time the act was formed, such as mistake, duress, or incapacity.",
-  "japaneseDefinition": "錯誤、詐欺、強迫、または制限行為能力などの理由により有効に成立した法律行為を、後から遡及的に無効とする権利または行為。",
-  "japaneseWordTranslation": "取消し (とりけし)",
-  "legalContext": "Civil Code Art. 120: A voidable juristic act may be avoided by the person with limited capacity, the person who made the declaration of intention based on mistake, fraud, or duress, or any successor to such a person.",
-  "japaneseLegalContext": "民法第120条: 行為能力の制限によって取り消すことができる行為は、制限行為能力者又はその代理人、承継人若しくは同意を得た者に取り消させることができる。",
-  "exampleSentence": "The injured party exercised the right of avoidance because the contract had been executed under the threat of physical harm (duress).",
-  "exampleTranslation": "契約が身体的危害の脅迫（強迫）のもとで締結されたため、被害当事者は取消権を行使した。",
+  "word": "Real Property Registration",
+  "definition": "A system to publicly disclose rights relationships concerning real property (land and buildings) to ensure transaction safety.",
+  "japaneseDefinition": "不動産（土地・建物）に関する権利関係を公示し、取引の安全を図るための制度。",
+  "japaneseWordTranslation": "不動産登記 (ふどうさんとうき)",
+  "legalContext": "Real Property Registration Act Art. 1: This Act governs the registration of real property to clarify rights and boundaries.",
+  "japaneseLegalContext": "不動産登記法第1条：この法律は、不動産の表示及び不動産に関する権利を公示するための登記について定める。",
+  "exampleSentence": "Real property registration is essential for asserting ownership against third parties.",
+  "exampleTranslation": "不動産登記は、第三者に対して所有権を主張するために不可欠である。",
   "vocabularyList": [
     {
-      "word": "Juristic act",
-      "translation": "法律行為 (ほうりつこうい)"
+      "word": "Assert",
+      "translation": "主張する"
     },
     {
-      "word": "Duress",
-      "translation": "強迫 (きょうはく)"
+      "word": "Third party",
+      "translation": "第三者"
     },
     {
-      "word": "Retroactively",
-      "translation": "遡及的に (そきゅうてきに)"
+      "word": "Clarify",
+      "translation": "明らかにする"
     },
     {
-      "word": "Incapacity",
-      "translation": "行為能力の制限 (こういのうりょくのせいげん)"
+      "word": "Boundary",
+      "translation": "境界"
     },
     {
-      "word": "Ratification",
-      "translation": "追認 (ついにん)"
-    },
-    {
-      "word": "Mistake",
-      "translation": "錯誤 (さくご)"
+      "word": "Transaction safety",
+      "translation": "取引の安全"
     }
   ]
 }

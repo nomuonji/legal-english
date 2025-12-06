@@ -522,5 +522,119 @@
         "translation": "準用する"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Claim Secured by Preservation",
+    "definition": "The substantive claim (usually a monetary claim or a claim for specific performance) which the obligee seeks to protect and ensure the future execution of, by obtaining a provisional measure.",
+    "japaneseDefinition": "保全命令によって将来的な強制執行の実現を担保しようとする、本案訴訟の対象となる債権。金銭債権を被保全債権とするのが仮差押え、非金銭債権を被保全債権とするのが仮処分である。",
+    "japaneseWordTranslation": "被保全債権 (ひほぜんさいけん)",
+    "legalContext": "Civil Preservation Act Art. 13 (Requirement for Preservation Order): A provisional attachment order shall be issued for the preservation of a claim which can be executed through compulsory execution; a provisional disposition order shall be issued for the preservation of a claim other than those mentioned above.",
+    "japaneseLegalContext": "民事保全法第13条 (保全命令の要件): 仮差押命令は金銭の給付を目的とする債権について、仮処分命令はその他の債権について、それぞれこれを強制執行することができるようにするため、発することができる。",
+    "exampleSentence": "The existence and validity of the claim secured by preservation must be shown to the court through a prima facie showing (疎明).",
+    "exampleTranslation": "被保全債権の存在及び有効性は、疎明によって裁判所に示されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "existence",
+        "translation": "存在 (そんざい)"
+      },
+      {
+        "word": "validity",
+        "translation": "有効性 (ゆうこうせい)"
+      },
+      {
+        "word": "prima facie showing",
+        "translation": "疎明 (そめい)"
+      },
+      {
+        "word": "court",
+        "translation": "裁判所 (さいばんしょ)"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え (かりさしおさえ)"
+      },
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分 (かりしょぶん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cancellation upon Change of Circumstances",
+    "definition": "A procedure specified in the Civil Preservation Act allowing the preservation obligor to petition the preservation court for the revocation of the preservation order, on the grounds that the circumstances justifying the preservation have significantly changed since the order was issued.",
+    "japaneseDefinition": "保全命令が発令された後に、保全の理由又は保全の必要性の根拠となっていた事情が変化し、保全命令を維持することが不当となった場合に、保全債務者の申立てにより保全命令を取り消す手続。",
+    "japaneseWordTranslation": "事情変更による保全取消し (じじょうへんこうによるほぜんとりけし)",
+    "legalContext": "Civil Preservation Act Art. 42: If the circumstances that constituted the grounds for the preservation have changed, the preservation court may, upon the motion of the obligor, revoke the preservation order.",
+    "japaneseLegalContext": "民事保全法第42条: 保全の理由又は保全の必要性を生じさせた事情が変更したときは、保全裁判所は、債務者の申立てにより、保全命令を取り消すことができる。",
+    "exampleSentence": "The preservation obligor filed a motion for cancellation upon change of circumstances after securing the original debt through a separate collateral arrangement.",
+    "exampleTranslation": "保全債務者は、別の担保の取決めにより元の債務を確保した後、事情変更による保全取消しの申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "preservation obligor",
+        "translation": "保全債務者 (ほぜんさいむしゃ)"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て (もうしたて)"
+      },
+      {
+        "word": "revoke",
+        "translation": "取り消す (とりけす)"
+      },
+      {
+        "word": "collateral arrangement",
+        "translation": "担保の取決め (たんぽのとりきめ)"
+      },
+      {
+        "word": "grounds for preservation",
+        "translation": "保全の理由 (ほぜんのりゆう)"
+      },
+      {
+        "word": "significantly changed",
+        "translation": "変更した (へんこうした)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Injunction to Establish Temporary Status Quo",
+    "definition": "A type of provisional disposition (injunction) intended not merely to preserve existing assets, but to temporarily regulate a legal relationship or establish a provisional position for the obligee, pending a final judgment on the merits (e.g., injunctions against dismissal or infringement).",
+    "japaneseDefinition": "継続的な法律関係を規律し、本案の判決確定までの間、債権者に暫定的な地位を与えることを目的とする仮処分。例えば、地位保全の仮処分や、特定行為の停止を命じる仮処分など。",
+    "japaneseWordTranslation": "仮の地位を定める仮処分 (かりのちいをさだめるかりしょぶん)",
+    "legalContext": "Civil Preservation Act Art. 23(2): A provisional disposition may be issued to establish a temporary status quo concerning the disputed relationship if such measures are necessary to avoid significant harm to the obligee or to prevent imminent danger.",
+    "japaneseLegalContext": "民事保全法第23条第2項: 争いがある権利関係について、債権者に生ずる著しい損害又は急迫の危険を避けるため、仮の地位を定める必要があるときも、仮処分を命ずることができる。",
+    "exampleSentence": "The employee sought a provisional injunction to establish temporary status quo, demanding the company maintain his employment relationship pending the outcome of the wrongful dismissal lawsuit.",
+    "exampleTranslation": "その従業員は、不当解雇訴訟の結果が出るまで会社に雇用関係を維持させるよう、仮の地位を定める仮処分を求めた。",
+    "vocabularyList": [
+      {
+        "word": "disputed relationship",
+        "translation": "争いがある権利関係 (あらそいがあるけんりかんけい)"
+      },
+      {
+        "word": "imminent danger",
+        "translation": "急迫の危険 (きゅうはくのきけん)"
+      },
+      {
+        "word": "wrongful dismissal lawsuit",
+        "translation": "不当解雇訴訟 (ふとうかいこそしょう)"
+      },
+      {
+        "word": "final judgment",
+        "translation": "最終判決 (さいしゅうはんけつ)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "pending",
+        "translation": "係属中 (けいぞくちゅう)"
+      }
+    ]
   }
 ]

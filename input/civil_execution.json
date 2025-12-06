@@ -576,5 +576,135 @@
         "translation": "結果が出るまで"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Possessor's Claim of Non-execution",
+    "definition": "An assertion made by a third party, who possesses real property subject to an execution procedure (such as delivery or eviction), arguing that the execution cannot proceed against them due to a valid legal basis for their possession (e.g., a perfected lease).",
+    "japaneseDefinition": "執行目的物である不動産を占有する第三者が、自己の占有権原を主張し、その不動産の引渡執行または明渡執行を拒否すること。",
+    "japaneseWordTranslation": "占有者の非執行主張 (せんゆうしゃのひしっこうしゅちょう)",
+    "legalContext": "Civil Execution Act, related to the execution procedures for the delivery or eviction of real property.",
+    "japaneseLegalContext": "民事執行法における、不動産の引渡しまたは明渡しの執行手続に関する規定。",
+    "exampleSentence": "The execution officer must examine the Possessor's Claim of Non-execution carefully before proceeding with the eviction from the subject real property.",
+    "exampleTranslation": "執行官は、目的不動産からの明渡しを続行する前に、占有者の非執行主張を慎重に調査しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "execution officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      },
+      {
+        "word": "eviction",
+        "translation": "明渡し"
+      },
+      {
+        "word": "subject property",
+        "translation": "目的物 (もくてきぶつ)"
+      },
+      {
+        "word": "legal basis",
+        "translation": "権原 (けんげん)"
+      },
+      {
+        "word": "proceed with",
+        "translation": "続行する"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Withdrawal of Bidding",
+    "definition": "The act of a prospective purchaser in a real property auction cancelling or retracting their bid before the specified bidding period expires or before the opening of the bids and subsequent determination of the successful bidder.",
+    "japaneseDefinition": "不動産競売手続において、入札者が自己の提出した入札を、定められた入札期間満了前または開札・最高価買受人の決定前に行う撤回行為。",
+    "japaneseWordTranslation": "入札の撤回 (にゅうさつのてっかい)",
+    "legalContext": "Civil Execution Act Art. 67, which restricts the withdrawal of bidding after the bidding period has elapsed.",
+    "japaneseLegalContext": "民事執行法第67条。入札期間の満了後の入札の撤回を制限する規定。",
+    "exampleSentence": "Once the bidding term has closed, the bidder is generally prohibited from exercising the Withdrawal of Bidding, even if they discover new information about the property.",
+    "exampleTranslation": "入札期間が終了した後、たとえその物件について新たな情報を発見したとしても、入札者は原則として入札の撤回を行うことは禁止されている。",
+    "vocabularyList": [
+      {
+        "word": "bidder",
+        "translation": "入札者"
+      },
+      {
+        "word": "auction",
+        "translation": "競売 (けいばい)"
+      },
+      {
+        "word": "bidding period",
+        "translation": "入札期間"
+      },
+      {
+        "word": "prospective purchaser",
+        "translation": "買受希望者 (かいうけきぼうしゃ)"
+      },
+      {
+        "word": "prohibited",
+        "translation": "禁止されている"
+      },
+      {
+        "word": "closed",
+        "translation": "終了した"
+      },
+      {
+        "word": "highest bid",
+        "translation": "最高価 (さいこうか)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sale by Private Contract",
+    "definition": "A disposition method utilized primarily for movable property or claims, where the execution officer sells the seized asset directly to a third party at a pre-agreed price, rather than conducting a formal auction or tender process.",
+    "japaneseDefinition": "執行官が、競売または入札以外の方法によって、差押財産（主として動産）を第三者との個別の契約により売却する執行方法。",
+    "japaneseWordTranslation": "相対売却 (あいたいばいきゃく)",
+    "legalContext": "Civil Execution Act Art. 132 (Sale of seized movable property), allowing this method when an auction is inappropriate or too costly.",
+    "japaneseLegalContext": "民事執行法第132条（差押えられた動産の売却）。競売または入札が不適当な場合等にこの方法が認められている。",
+    "exampleSentence": "Due to the specialized nature of the equipment, the execution officer decided that Sale by Private Contract was the most effective way to maximize the recovery amount for the obligee.",
+    "exampleTranslation": "その機器の専門的な性質により、執行官は、相対売却が債権者にとっての回収額を最大化するための最も有効な方法であると判断した。",
+    "vocabularyList": [
+      {
+        "word": "movable property",
+        "translation": "動産 (どうさん)"
+      },
+      {
+        "word": "disposition method",
+        "translation": "処分方法"
+      },
+      {
+        "word": "seized asset",
+        "translation": "差押財産 (さしおさえざいさん)"
+      },
+      {
+        "word": "pre-agreed price",
+        "translation": "合意された価格"
+      },
+      {
+        "word": "execution officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "maximize",
+        "translation": "最大化する"
+      },
+      {
+        "word": "recovery amount",
+        "translation": "回収額"
+      }
+    ]
   }
 ]

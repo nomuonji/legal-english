@@ -544,5 +544,119 @@
         "translation": "登記の変更"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Rectification Registration",
+    "definition": "A registration procedure undertaken to correct a discrepancy, error, or omission found in an existing registration entry, ensuring the accuracy of the public record regarding a company's status or details.",
+    "japaneseDefinition": "既存の登記簿の記載に発見された不一致、誤り、または脱漏を是正するために行われる登記手続。会社の状況や詳細に関する公の記録の正確性を担保する。",
+    "japaneseWordTranslation": "更正登記 (こうせいとうき)",
+    "legalContext": "Commercial Registration Act (CRA) Art. 24: Rectification procedures may be implemented by the registrar ex officio when a registration contains a patent error.",
+    "japaneseLegalContext": "商業登記法第24条: 登記官は、登記に明白な錯誤があるときは、職権により更正の手続きを実施することができる。",
+    "exampleSentence": "The company filed a motion requesting Rectification Registration because the stated date of its incorporation recorded in the commercial register was incorrect.",
+    "exampleTranslation": "会社は、商業登記簿に記載されている設立の日付が誤っていたため、更正登記を求める申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "discrepancy",
+        "translation": "不一致"
+      },
+      {
+        "word": "omission",
+        "translation": "脱漏"
+      },
+      {
+        "word": "ex officio",
+        "translation": "職権により"
+      },
+      {
+        "word": "patent error",
+        "translation": "明白な錯誤"
+      },
+      {
+        "word": "incorporation",
+        "translation": "設立"
+      },
+      {
+        "word": "motion requesting",
+        "translation": "申立てを行う"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Branch Office Registration",
+    "definition": "The mandatory registration required under the Commercial Registration Act when a domestic company establishes, relocates, or abolishes a business location separate from its head office.",
+    "japaneseDefinition": "国内会社が本店とは別の事業所を設置、移転、または廃止する際に、商業登記法に基づき義務付けられる登記手続き。",
+    "japaneseWordTranslation": "支店登記 (してんとうき)",
+    "legalContext": "Companies Act Art. 930 (1): A company must register the establishment of a branch office within two weeks at the location of the head office, and within three weeks at the location of the branch office.",
+    "japaneseLegalContext": "会社法第930条第1項: 会社は、支店の設置をしたときは、本店の所在地においては二週間以内に、支店の所在地においては三週間以内に、その登記をしなければならない。",
+    "exampleSentence": "Failure to perform the mandatory Branch Office Registration following the relocation of the Kansai branch exposed the company to a non-penal fine.",
+    "exampleTranslation": "関西支店の移転後に義務付けられた支店登記を怠ったため、その会社は過料に処せられることとなった。",
+    "vocabularyList": [
+      {
+        "word": "mandatory registration",
+        "translation": "義務付けられた登記"
+      },
+      {
+        "word": "head office",
+        "translation": "本店"
+      },
+      {
+        "word": "relocation",
+        "translation": "移転"
+      },
+      {
+        "word": "abolishes",
+        "translation": "廃止する"
+      },
+      {
+        "word": "non-penal fine",
+        "translation": "過料"
+      },
+      {
+        "word": "exposed to",
+        "translation": "〜に処せられる"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Revocation",
+    "definition": "The procedural action of entirely removing an existing entry from the commercial register when the registration is subsequently determined to be void ab initio or has lost its legal basis or effect.",
+    "japaneseDefinition": "既存の登記が当初から無効である、またはその後の状況により法的根拠や効力を失ったと判断された場合に、商業登記簿から当該記載を完全に抹消する手続上の行為。",
+    "japaneseWordTranslation": "抹消登記 (まっしょうとうき)",
+    "legalContext": "CRA Art. 25: If a registered matter is determined to be void or grounds for revocation have occurred, the registrar may effect the Registration of Revocation upon application or by official authority.",
+    "japaneseLegalContext": "商業登記法第25条: 登記された事項が無効であると確定した場合又は抹消の事由が生じた場合、登記官は申請又は職権に基づき抹消登記を実行することができる。",
+    "exampleSentence": "Following the court's judgment nullifying the merger, the parties swiftly applied for the Registration of Revocation of the prior merger entry.",
+    "exampleTranslation": "裁判所が合併を無効とする判決を下した後、当事者らは以前の合併の記載に関する抹消登記を迅速に申請した。",
+    "vocabularyList": [
+      {
+        "word": "void ab initio",
+        "translation": "当初から無効"
+      },
+      {
+        "word": "legal basis",
+        "translation": "法的根拠"
+      },
+      {
+        "word": "nullifying the merger",
+        "translation": "合併を無効とすること"
+      },
+      {
+        "word": "upon application",
+        "translation": "申請に基づき"
+      },
+      {
+        "word": "official authority",
+        "translation": "職権"
+      },
+      {
+        "word": "prior entry",
+        "translation": "以前の記載"
+      }
+    ]
   }
 ]

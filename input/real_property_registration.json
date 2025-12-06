@@ -2,40 +2,6 @@
   {
     "category": "Real Property Registration (不動産登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Real Property Registration",
-    "definition": "A system to publicly disclose rights relationships concerning real property (land and buildings) to ensure transaction safety.",
-    "japaneseDefinition": "不動産（土地・建物）に関する権利関係を公示し、取引の安全を図るための制度。",
-    "japaneseWordTranslation": "不動産登記 (ふどうさんとうき)",
-    "legalContext": "Real Property Registration Act Art. 1: This Act governs the registration of real property to clarify rights and boundaries.",
-    "japaneseLegalContext": "不動産登記法第1条：この法律は、不動産の表示及び不動産に関する権利を公示するための登記について定める。",
-    "exampleSentence": "Real property registration is essential for asserting ownership against third parties.",
-    "exampleTranslation": "不動産登記は、第三者に対して所有権を主張するために不可欠である。",
-    "vocabularyList": [
-      {
-        "word": "Assert",
-        "translation": "主張する"
-      },
-      {
-        "word": "Third party",
-        "translation": "第三者"
-      },
-      {
-        "word": "Clarify",
-        "translation": "明らかにする"
-      },
-      {
-        "word": "Boundary",
-        "translation": "境界"
-      },
-      {
-        "word": "Transaction safety",
-        "translation": "取引の安全"
-      }
-    ]
-  },
-  {
-    "category": "Real Property Registration (不動産登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Registration of Ownership Transfer",
     "definition": "Registration made when the ownership of real property is transferred due to sale, inheritance, or other causes.",
     "japaneseDefinition": "売買や相続などにより不動産の所有権が移転した際に行う登記。",
@@ -550,6 +516,120 @@
       {
         "word": "finalize the registration",
         "translation": "登記を完了させる"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Joint Application",
+    "definition": "A foundational principle in Japanese real property registration requiring the applicant whose registered interest will be gained (Registration Obligee) and the applicant whose registered interest will be lost or diminished (Registration Obligor) to file the registration motion together.",
+    "japaneseDefinition": "登記によって利益を受ける登記権利者と、不利益を受ける登記義務者が、共同で登記申請を行う原則。これは、登記の真実性を確保するための重要な手続き的要件である。",
+    "japaneseWordTranslation": "共同申請 (きょうどうしんせい)",
+    "legalContext": "Real Property Registration Act Art. 60: ... Unless otherwise provided by law, an application for a registration of rights shall be filed jointly by the registration obligee and the registration obligor.",
+    "japaneseLegalContext": "不動産登記法第60条：権利に関する登記の申請は、法令に別段の定めがある場合を除き、登記権利者及び登記義務者が共同してしなければならない。",
+    "exampleSentence": "In the absence of a vested court ruling, the transfer of ownership requires a meticulous preparation of documents and submission via Joint Application.",
+    "exampleTranslation": "確定した判決がない限り、所有権移転には、綿密な書類準備と共同申請による提出が求められる。",
+    "vocabularyList": [
+      {
+        "word": "foundational principle",
+        "translation": "基本原則"
+      },
+      {
+        "word": "registration motion",
+        "translation": "登記申請"
+      },
+      {
+        "word": "meticulous preparation",
+        "translation": "綿密な準備"
+      },
+      {
+        "word": "Registration Obligee",
+        "translation": "登記権利者"
+      },
+      {
+        "word": "Registration Obligor",
+        "translation": "登記義務者"
+      },
+      {
+        "word": "unless otherwise provided",
+        "translation": "別段の定めがある場合を除き"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Record of Description",
+    "definition": "The section of the real property registry dedicated to recording the physical status and identifying features of the land or building, such as location, lot number, land category, structure, and floor area.",
+    "japaneseDefinition": "不動産の物理的な状況や特定情報を記録するための登記簿の箇所。土地であれば所在、地番、地目、地積を、建物であれば所在、家屋番号、種類、構造、床面積などを記載する。",
+    "japaneseWordTranslation": "表題部 (ひょうだいぶ)",
+    "legalContext": "Real Property Registration Act Art. 27: ... The Record of Description shall record the matters concerning the location and physical status of the real property.",
+    "japaneseLegalContext": "不動産登記法第27条：表題部には、不動産の所在及び物理的な状況に関する事項を記録するものとする。",
+    "exampleSentence": "A surveyor must submit detailed diagrams and measurements to update the land area recorded in the Record of Description following a partition.",
+    "exampleTranslation": "分筆後に表題部に記録された地積を更新するためには、土地家屋調査士が詳細な図面と測量結果を提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "physical status",
+        "translation": "物理的な状況"
+      },
+      {
+        "word": "identifying features",
+        "translation": "特定情報"
+      },
+      {
+        "word": "land category (chimoku)",
+        "translation": "地目"
+      },
+      {
+        "word": "land area (chiseki)",
+        "translation": "地積"
+      },
+      {
+        "word": "surveyor",
+        "translation": "土地家屋調査士"
+      },
+      {
+        "word": "partition",
+        "translation": "分筆"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Preservation of Ownership",
+    "definition": "The initial registration in the Record of Rights section (A) for a building that perfects the owner's title, particularly necessary for unregistered buildings or those newly constructed, thereby allowing subsequent registrations of rights to be recorded.",
+    "japaneseDefinition": "未登記の建物や新築の建物について、初めて権利部の甲区になされる登記。この登記を行うことで、所有権の存在を公示し、以降の権利に関する登記を可能にする。",
+    "japaneseWordTranslation": "所有権保存の登記 (しょゆうけんほぞんのとうき)",
+    "legalContext": "Real Property Registration Act Art. 74: ... An application for a Registration of Preservation of Ownership may be filed by the person who has recorded the property in the Record of Description, or by a person who affirms ownership through certain specified means.",
+    "japaneseLegalContext": "不動産登記法第74条：所有権の保存の登記は、表題部所有者として記録されている者、または特定の方法により所有権を証する者が申請することができる。",
+    "exampleSentence": "Before the mortgage could be established, the builder had to apply for the Registration of Preservation of Ownership for the newly completed residential complex.",
+    "exampleTranslation": "担保権を設定する前に、建設業者は新しく完成した住居団地について所有権保存の登記を申請する必要があった。",
+    "vocabularyList": [
+      {
+        "word": "Record of Rights section (A)",
+        "translation": "権利部（甲区）"
+      },
+      {
+        "word": "perfects the owner's title",
+        "translation": "所有権を完成させる"
+      },
+      {
+        "word": "unregistered building",
+        "translation": "未登記の建物"
+      },
+      {
+        "word": "subsequent registrations",
+        "translation": "以降の登記"
+      },
+      {
+        "word": "affirms ownership",
+        "translation": "所有権を証する"
+      },
+      {
+        "word": "residential complex",
+        "translation": "住居団地"
       }
     ]
   }

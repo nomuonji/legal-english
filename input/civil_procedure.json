@@ -618,5 +618,115 @@
         "translation": "変更 (へんこう)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Succession of Litigation",
+    "definition": "The transfer of the position of a party in a pending lawsuit to a third party or a successor (such as an heir, or an assignee of the subject matter of the dispute).",
+    "japaneseDefinition": "訴訟が係属している間に、当事者の地位が、当事者の死亡や訴訟の目的物の譲渡などによって第三者または承継人に移転すること。",
+    "japaneseWordTranslation": "訴訟承継 (そしょうしょうけい)",
+    "legalContext": "Code of Civil Procedure Art. 124 (Assumption of Litigation by the Successor): 'If a party to a lawsuit dies, the litigation shall be assumed by the heir, administrator of the estate, or other person who is required to assume the litigation....'",
+    "japaneseLegalContext": "民事訴訟法第124条（承継人による訴訟の受継）：当事者が死亡したときは、訴訟手続は、相続人、相続財産管理人その他法令により訴訟を承継すべき者がこれを受け継がなければならない。",
+    "exampleSentence": "Upon the death of the plaintiff, the court issued an order for the heir to assume the **succession of litigation** according to the statutory provisions.",
+    "exampleTranslation": "原告の死亡を受け、裁判所は法令の規定に従い、相続人に対し**訴訟承継**を命じる決定を出した。",
+    "vocabularyList": [
+      {
+        "word": "heir",
+        "translation": "相続人"
+      },
+      {
+        "word": "assume the litigation",
+        "translation": "訴訟を受け継ぐ"
+      },
+      {
+        "word": "administrator of the estate",
+        "translation": "相続財産管理人"
+      },
+      {
+        "word": "statutory provisions",
+        "translation": "法令の規定"
+      },
+      {
+        "word": "pending lawsuit",
+        "translation": "係属中の訴訟"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Withdrawal of Suit",
+    "definition": "A unilateral declaration by the plaintiff to abandon the pending litigation, which, if finalized, results in the lawsuit being deemed never to have been pending.",
+    "japaneseDefinition": "原告が係属中の訴訟を終了させるために一方的に行う行為。これにより訴訟は係属しなかったものとみなされる。",
+    "japaneseWordTranslation": "訴えの取下げ (うったえのとりさげ)",
+    "legalContext": "Code of Civil Procedure Art. 261 (Effect of Withdrawal): 'The litigation shall be deemed never to have been pending when a withdrawal of suit is made....'",
+    "japaneseLegalContext": "民事訴訟法第261条（訴えの取下げの効力）：訴えの取下げがあったときは、訴訟は、初めから係属していなかったものとみなされる。",
+    "exampleSentence": "The defendant consented to the **withdrawal of suit** after the parties successfully negotiated a confidential settlement agreement outside of court.",
+    "exampleTranslation": "当事者が裁判外で秘密裏の和解契約を締結した後、被告は**訴えの取下げ**に同意した。",
+    "vocabularyList": [
+      {
+        "word": "unilateral declaration",
+        "translation": "一方的な意思表示"
+      },
+      {
+        "word": "confidential settlement",
+        "translation": "秘密裏の和解"
+      },
+      {
+        "word": "deemed",
+        "translation": "みなされる"
+      },
+      {
+        "word": "consent",
+        "translation": "同意する"
+      },
+      {
+        "word": "pending",
+        "translation": "係属している"
+      },
+      {
+        "word": "negotiated",
+        "translation": "交渉した"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Necessary Co-litigation",
+    "definition": "A form of co-litigation where the judgment must be rendered uniformly for all joint parties because the subject matter concerns a unified legal relationship, requiring all essential parties to participate.",
+    "japaneseDefinition": "訴訟の目的である権利関係が共同当事者の全員について合一に確定されなければならないため、全員を当事者として訴訟追行することが要求される共同訴訟。",
+    "japaneseWordTranslation": "必要的共同訴訟 (ひつようてききょうどうそしょう)",
+    "legalContext": "Code of Civil Procedure Art. 38 (Procedural Acts of Necessary Co-litigation): 'If the procedural act of one co-litigant is disadvantageous to the others, such act shall have no effect for the others.'",
+    "japaneseLegalContext": "民事訴訟法第38条（必要的共同訴訟における手続行為）：共同訴訟人の一人の行為が他の共同訴訟人にとって不利益であるときは、その効力を生じない。",
+    "exampleSentence": "The action to nullify a resolution passed by the corporate shareholders required the inclusion of all relevant parties, falling under the rules of **necessary co-litigation**.",
+    "exampleTranslation": "株主によって可決された決議の無効を主張する訴えは、全ての関係当事者を含める必要があり、**必要的共同訴訟**の規定が適用される。",
+    "vocabularyList": [
+      {
+        "word": "joint parties",
+        "translation": "共同当事者"
+      },
+      {
+        "word": "uniform judgment",
+        "translation": "合一の判決"
+      },
+      {
+        "word": "nullify a resolution",
+        "translation": "決議を無効にする"
+      },
+      {
+        "word": "procedural act",
+        "translation": "手続行為"
+      },
+      {
+        "word": "disadvantageous",
+        "translation": "不利益な"
+      },
+      {
+        "word": "legal relationship",
+        "translation": "権利関係"
+      }
+    ]
   }
 ]

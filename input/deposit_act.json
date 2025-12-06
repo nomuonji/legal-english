@@ -568,5 +568,119 @@
         "translation": "担保目的"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consignment Note",
+    "definition": "The formal document filed by the consigner (depositor) with the competent authorities, detailing the grounds for consignment, the nature and amount of the consigned property, and the specific recipient (obligee) intended to receive the funds or goods.",
+    "japaneseDefinition": "供託をする者が、供託の理由、供託物の内容、受領者等、法定の事項を記載して供託所に提出する書類。",
+    "japaneseWordTranslation": "供託書 (きょうたくしょ)",
+    "legalContext": "Deposit Act Art. 4: 'A person making a consignment shall submit a consignment note containing the matters specified by Ministry of Justice Ordinance to the deposit office.'",
+    "japaneseLegalContext": "供託法第4条：「供託をしようとする者は、法務省令で定める事項を記載した供託書を供託所に提出しなければならない。」",
+    "exampleSentence": "The deposit office verified the particulars listed on the Consignment Note before officially accepting the legal tender provided for the release of debt.",
+    "exampleTranslation": "供託所は、債務の免責のために提供された法定通貨を正式に受理する前に、供託書に記載された詳細事項を確認した。",
+    "vocabularyList": [
+      {
+        "word": "consigner (depositor)",
+        "translation": "供託者"
+      },
+      {
+        "word": "competent authorities",
+        "translation": "権限ある当局"
+      },
+      {
+        "word": "legal tender",
+        "translation": "法定通貨"
+      },
+      {
+        "word": "release of debt",
+        "translation": "債務の免責"
+      },
+      {
+        "word": "particulars",
+        "translation": "詳細事項"
+      },
+      {
+        "word": "Ministry of Justice Ordinance",
+        "translation": "法務省令"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit for Damages Security",
+    "definition": "A type of legal consignment required, typically by court order, to secure compensation for any potential damages or losses that a respondent may incur as a result of a claimant seeking or enforcing provisional remedies.",
+    "japaneseDefinition": "民事保全手続などにおいて、債権者が行った保全処分により債務者に損害が生じた場合に備え、その損害賠償を担保するために積み立てる供託。",
+    "japaneseWordTranslation": "損害担保供託 (そんがいたんぽきょうたく)",
+    "legalContext": "Civil Provisional Remedies Act Art. 14: 'The court may order the obligee to provide security for the execution of the provisional attachment.' (This security often takes the form of a Deposit for Damages Security)",
+    "japaneseLegalContext": "民事保全法第14条：「裁判所は、仮差押えの執行により債務者が受けるべき損害を担保させるため、債権者に担保を立てるべきことを命ずることができる。」",
+    "exampleSentence": "The claimant was mandated to make a Deposit for Damages Security to cover potential economic harm caused by the expedited provisional disposition requested.",
+    "exampleTranslation": "申立人は、要求された迅速な仮処分によって生じる可能性のある経済的損害を補償するため、損害担保供託を行うよう命じられた。",
+    "vocabularyList": [
+      {
+        "word": "provisional remedies",
+        "translation": "保全処分"
+      },
+      {
+        "word": "claimant",
+        "translation": "債権者"
+      },
+      {
+        "word": "respondent",
+        "translation": "債務者"
+      },
+      {
+        "word": "expedited",
+        "translation": "迅速な"
+      },
+      {
+        "word": "court order",
+        "translation": "裁判所の命令"
+      },
+      {
+        "word": "compensation",
+        "translation": "賠償"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Claim for Reimbursement of Consigned Property",
+    "definition": "The legal right held by the original consigner (depositor) to demand the return of the consigned property from the deposit office, applicable when the conditions for consignment are no longer valid, or if the obligee loses their right to receive the property.",
+    "japaneseDefinition": "供託をした者が、供託の原因が消滅した場合、または供託された財産を受領すべき者がその権利を失った場合に、供託所に対し供託物の返還を求める権利。",
+    "japaneseWordTranslation": "供託物取戻請求権 (きょうたくぶつとりもどしせいきゅうけん)",
+    "legalContext": "Deposit Act Art. 38: 'A person who has made a consignment may claim the reimbursement of the consigned property only in the cases specified in the Civil Code or other laws.'",
+    "japaneseLegalContext": "供託法第38条：「供託をした者は、民法その他の法律に定める場合を除いては、供託物を取り戻すことができない。」",
+    "exampleSentence": "After the underlying dispute was settled out of court, the consigner filed a Claim for Reimbursement of Consigned Property on the grounds that the reason for the original consignment had ceased to exist.",
+    "exampleTranslation": "原告は、根底にある紛争が裁判外で和解されたため、当初の供託理由が消滅したことを根拠に、供託物取戻請求権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "reimbursement",
+        "translation": "取り戻し／返還"
+      },
+      {
+        "word": "underlying dispute",
+        "translation": "根底にある紛争"
+      },
+      {
+        "word": "settled out of court",
+        "translation": "裁判外で和解された"
+      },
+      {
+        "word": "ceased to exist",
+        "translation": "消滅した"
+      },
+      {
+        "word": "obligee",
+        "translation": "供託受領者／債権者"
+      },
+      {
+        "word": "grounds",
+        "translation": "根拠"
+      }
+    ]
   }
 ]

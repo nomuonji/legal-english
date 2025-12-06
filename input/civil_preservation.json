@@ -750,5 +750,111 @@
         "translation": "効力を失う (こうりょくをうしなう)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Immediate Appeal",
+    "definition": "A special, rapid form of appeal permitted under the Civil Preservation Act against specific judicial rulings, such as the denial or issuance of a preservation order, which must typically be filed within a non-extendable period.",
+    "japaneseDefinition": "保全命令の申立て却下や、保全命令自体に対する異議申立ての決定など、民事保全手続において定められた特定の裁判に対して許される、迅速な上訴手段。",
+    "japaneseWordTranslation": "即時抗告 (そくじこうこく)",
+    "legalContext": "Civil Preservation Act Art. 10: An immediate appeal may be filed against a judicial ruling dismissing a motion for a preservation order.",
+    "japaneseLegalContext": "民事保全法第10条: 保全命令の申立てを却下する決定に対しては、即時抗告をすることができる。",
+    "exampleSentence": "The preservation obligee filed an Immediate Appeal against the court's rejection of their motion for provisional relief within the prescribed one-week period.",
+    "exampleTranslation": "保全債権者は、定められた1週間以内に、仮の救済の申し立てを裁判所に却下されたことに対して即時抗告を行った。",
+    "vocabularyList": [
+      {
+        "word": "judicial ruling",
+        "translation": "裁判"
+      },
+      {
+        "word": "dismissing",
+        "translation": "却下する"
+      },
+      {
+        "word": "motion for provisional relief",
+        "translation": "仮の救済の申し立て"
+      },
+      {
+        "word": "prescribed period",
+        "translation": "定められた期間"
+      },
+      {
+        "word": "preservation obligee",
+        "translation": "保全債権者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibition of Altering the Status Quo",
+    "definition": "The legal principle that defines the effect of certain preservation measures, specifically those aimed at securing non-monetary claims, by preventing the debtor from changing the physical or legal condition of the relevant property or relationship.",
+    "japaneseDefinition": "非金銭債権の保全を目的とする保全処分（係争物に関するもの）の効力として、債務者が当該財産や権利関係の現状を勝手に変更することを禁止する原則。",
+    "japaneseWordTranslation": "現状変更の禁止 (げんじょうへんこうのきんし)",
+    "legalContext": "Civil Preservation Act Art. 53: The scope and effect of a preservation measure generally extend to securing the preservation goal by maintaining the status quo.",
+    "japaneseLegalContext": "民事保全法第53条: 保全処分の効力は、原則として、現状維持により保全の目的を達することにある。",
+    "exampleSentence": "The court order stipulated the Prohibition of Altering the Status Quo regarding the disputed structure until the outcome of the main action was determined.",
+    "exampleTranslation": "本案訴訟の結果が確定するまで、裁判所命令は係争中の構造物に対する現状変更の禁止を規定した。",
+    "vocabularyList": [
+      {
+        "word": "disputed structure",
+        "translation": "係争中の構造物"
+      },
+      {
+        "word": "non-monetary claims",
+        "translation": "非金銭債権"
+      },
+      {
+        "word": "main action",
+        "translation": "本案訴訟"
+      },
+      {
+        "word": "outcome",
+        "translation": "結果"
+      },
+      {
+        "word": "stipulated",
+        "translation": "規定した"
+      },
+      {
+        "word": "preservation measure",
+        "translation": "保全処分"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ex Parte Hearing (Preservation)",
+    "definition": "A procedural process in preservation proceedings where the court reviews the motion and evidence submitted by the obligee without giving the debtor prior notice or an opportunity to argue their position, justified by the urgent nature and necessity of preventing asset flight or immediate harm.",
+    "japaneseDefinition": "保全手続において、保全の必要性の緊急性から、裁判所が債務者に事前に通知したり、債務者の言い分を聞いたりせずに、債権者の提出した資料のみに基づいて審理を行う方式。",
+    "japaneseWordTranslation": "一方的審理 (いっぽうてきしんり)",
+    "legalContext": "Civil Preservation Act Art. 40: The court may issue a preservation order without examining the debtor when it is deemed particularly urgent.",
+    "japaneseLegalContext": "民事保全法第40条: 裁判所は、特に緊急の必要があると認めるときは、債務者を審尋しないで保全命令を発することができる。",
+    "exampleSentence": "Due to the high risk of the debtor liquidating assets, the court decided to conduct an Ex Parte Hearing and immediately issue the necessary preservation order.",
+    "exampleTranslation": "債務者が財産を流動化させるリスクが高かったため、裁判所は一方的審理を行うことを決定し、直ちに必要な保全命令を発した。",
+    "vocabularyList": [
+      {
+        "word": "liquidating assets",
+        "translation": "財産を流動化させる"
+      },
+      {
+        "word": "urgency",
+        "translation": "緊急性"
+      },
+      {
+        "word": "issue an order",
+        "translation": "命令を発する"
+      },
+      {
+        "word": "procedural process",
+        "translation": "手続方式"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      }
+    ]
   }
 ]

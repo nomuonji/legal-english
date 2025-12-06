@@ -786,5 +786,119 @@
         "translation": "権限の範囲"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Company with Nominating, etc., Committees",
+    "definition": "A type of Japanese stock company (Kabushiki Kaisha) that adopts a governance structure featuring three statutory committees (Nominating, Audit, and Compensation), where directors are responsible for management oversight and executive officers handle daily business execution.",
+    "japaneseDefinition": "取締役会の下に指名委員会、監査委員会及び報酬委員会を設置し、取締役が業務執行の監督を行い、執行役が業務を執行する形態の株式会社。",
+    "japaneseWordTranslation": "指名委員会等設置会社 (しめいいいんかいとうせっちがいしゃ)",
+    "legalContext": "Companies Act (Kaisha Hō) Art. 2 (xvi): Defines a Company with Nominating, etc., Committees as a stock company that has established the three required committees.",
+    "japaneseLegalContext": "会社法第2条第16号：指名委員会、監査委員会及び報酬委員会を置く株式会社として定義される。",
+    "exampleSentence": "The primary advantage of converting to a **Company with Nominating, etc., Committees** is the enhanced separation of management supervision from business execution.",
+    "exampleTranslation": "指名委員会等設置会社に移行する主な利点は、経営監督と業務執行の分離が強化されることである。",
+    "vocabularyList": [
+      {
+        "word": "Nominating Committee",
+        "translation": "指名委員会"
+      },
+      {
+        "word": "Audit Committee",
+        "translation": "監査委員会"
+      },
+      {
+        "word": "Compensation Committee",
+        "translation": "報酬委員会"
+      },
+      {
+        "word": "Executive Officer",
+        "translation": "執行役"
+      },
+      {
+        "word": "Management Supervision",
+        "translation": "経営監督"
+      },
+      {
+        "word": "Business Execution",
+        "translation": "業務執行"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Allotment of Shares for Contribution in Kind",
+    "definition": "The issuance of new shares to a subscriber in exchange for non-monetary assets (such as real property or intellectual property) contributed to the company's capital, rather than cash payment.",
+    "japaneseDefinition": "金銭以外の財産（不動産や知的財産など）を会社の資本に払い込むことと引き換えに、引受人に対して新株を発行すること。",
+    "japaneseWordTranslation": "現物出資による株式の割当て (げんぶつしゅっしによるかぶしきのわりあて)",
+    "legalContext": "Companies Act Art. 207: Governs the necessity of an appraisal (by a court-appointed inspector or attorney) for contributions in kind, ensuring the value is appropriate.",
+    "japaneseLegalContext": "会社法第207条：現物出資の価額の相当性確保のため、検査役または弁護士による評価が必要である旨を定める。",
+    "exampleSentence": "Because the subscriber elected for **allotment of shares for contribution in kind** using proprietary software, a court-appointed inspector was required to verify the valuation.",
+    "exampleTranslation": "引受人が独自開発ソフトウェアを用いた現物出資による株式の割当てを選択したため、その評価額を検証するために裁判所選任の検査役が必要とされた。",
+    "vocabularyList": [
+      {
+        "word": "Contribution in Kind",
+        "translation": "現物出資"
+      },
+      {
+        "word": "Subscriber",
+        "translation": "引受人"
+      },
+      {
+        "word": "Issuance of New Shares",
+        "translation": "新株発行"
+      },
+      {
+        "word": "Proprietary Software",
+        "translation": "独自開発ソフトウェア"
+      },
+      {
+        "word": "Court-appointed Inspector",
+        "translation": "裁判所選任の検査役"
+      },
+      {
+        "word": "Valuation",
+        "translation": "評価額"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Retractable Shares",
+    "definition": "Shares that grant the shareholder the right to demand the company acquire (repurchase) those shares in exchange for consideration specified in the Articles of Incorporation.",
+    "japaneseDefinition": "株主が会社に対し、定款に定められた対価と引き換えに、自己の保有する株式を取得（買取り）するよう請求できる権利が付与された株式。",
+    "japaneseWordTranslation": "取得請求権付株式 (しゅとくせいきゅうけんつきかぶしき)",
+    "legalContext": "Companies Act Art. 166: Defines retractable shares and requires the terms of the acquisition demand (consideration, acquisition date, etc.) to be specified in the Articles of Incorporation.",
+    "japaneseLegalContext": "会社法第166条：取得請求権付株式を定義し、取得の請求に関する事項（対価、取得日等）を定款に定める必要がある。",
+    "exampleSentence": "Issuing **retractable shares** allows the company to manage capital structure by providing shareholders a controlled mechanism for exiting their investment under predefined conditions.",
+    "exampleTranslation": "取得請求権付株式を発行することで、会社は株主に対して予め定められた条件で投資を解消する統制された仕組みを提供し、資本構成を管理することができる。",
+    "vocabularyList": [
+      {
+        "word": "Articles of Incorporation",
+        "translation": "定款"
+      },
+      {
+        "word": "Acquire (shares)",
+        "translation": "株式を取得する"
+      },
+      {
+        "word": "Consideration",
+        "translation": "対価"
+      },
+      {
+        "word": "Capital Structure",
+        "translation": "資本構成"
+      },
+      {
+        "word": "Predefined Conditions",
+        "translation": "予め定められた条件"
+      },
+      {
+        "word": "Exiting Investment",
+        "translation": "投資の解消"
+      }
+    ]
   }
 ]

@@ -772,5 +772,123 @@
         "translation": "履歴事項 (りれきじこう)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Change of Organization",
+    "definition": "The legal procedure by which a company alters its corporate form (e.g., from a limited liability company to a joint stock company), requiring specific resolutions and registration under the Commercial Registration Act.",
+    "japaneseDefinition": "会社がその組織の種類を変更する法的手続き（例：合同会社から株式会社への移行）。この変更は会社法に基づき、商業登記法に従って登記される必要がある。",
+    "japaneseWordTranslation": "組織変更 (そしきへんこう)",
+    "legalContext": "Companies Act Art. 743: A change of organization shall become effective upon the registration of the change of organization at the location of the head office of the company that has conducted the change of organization.",
+    "japaneseLegalContext": "会社法第743条：組織変更は、組織変更をした会社の本店の所在地において組織変更の登記をすることによって、その効力を生ずる。",
+    "exampleSentence": "The application for the Change of Organization registration must be filed within two weeks of the day the change became effective.",
+    "exampleTranslation": "組織変更の登記の申請は、変更の効力発生日から二週間以内に提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "corporate form",
+        "translation": "会社の形態"
+      },
+      {
+        "word": "limited liability company",
+        "translation": "合同会社"
+      },
+      {
+        "word": "joint stock company",
+        "translation": "株式会社"
+      },
+      {
+        "word": "become effective",
+        "translation": "効力を生ずる"
+      },
+      {
+        "word": "head office",
+        "translation": "本店"
+      },
+      {
+        "word": "file an application",
+        "translation": "申請を提出する"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Representative Member",
+    "definition": "An executive selected from among the members of a Membership Company (Gomei Kaisha or Godo Kaisha) who is authorized to represent the company in all matters, and whose name and domicile must be registered.",
+    "japaneseDefinition": "持分会社（合名会社または合同会社）の社員の中から選任され、会社の業務執行および対外的な代表権限を有する者。その氏名及び住所は登記簿に記録されなければならない。",
+    "japaneseWordTranslation": "代表社員 (だいひょうしゃいん)",
+    "legalContext": "Commercial Registration Act Art. 46: The registration of a Membership Company shall include the names and domiciles of the representative members and the method by which the company is represented, if representation is restricted.",
+    "japaneseLegalContext": "商業登記法第46条：持分会社の登記においては、代表社員の氏名及び住所、並びに会社を代表する方法について制限があるときは、その制限を登記事項とする。",
+    "exampleSentence": "The change of the Representative Member requires the submission of a document proving the selection or resignation of the new representative to the registry office.",
+    "exampleTranslation": "代表社員の変更には、新たな代表者の選任または辞任を証明する書面を登記所に提出する必要がある。",
+    "vocabularyList": [
+      {
+        "word": "Membership Company",
+        "translation": "持分会社"
+      },
+      {
+        "word": "domicile",
+        "translation": "住所"
+      },
+      {
+        "word": "method of representation",
+        "translation": "代表する方法"
+      },
+      {
+        "word": "resignation",
+        "translation": "辞任"
+      },
+      {
+        "word": "authorized to represent",
+        "translation": "代表権限を有する"
+      },
+      {
+        "word": "registry office",
+        "translation": "登記所"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Minutes of Meeting",
+    "definition": "The formal written record of proceedings, votes, and resolutions of a corporate meeting (such as a general meeting of shareholders or partners), which is required as an evidentiary document for most registrations involving corporate structure changes.",
+    "japaneseDefinition": "株主総会や社員総会などの企業体の会議における議事の経過、採決、決定事項を正式に記載した書面。企業の構造変更を伴うほとんどの登記において、証拠書類として提出が義務付けられている。",
+    "japaneseWordTranslation": "議事録 (ぎじろく)",
+    "legalContext": "Commercial Registration Act Art. 47(3): Where the grounds for registration require the resolution of a Shareholders Meeting or a Board of Directors Meeting, the Minutes of the Meeting must be attached to the application.",
+    "japaneseLegalContext": "商業登記法第47条第3項：登記の事由が株主総会又は取締役会の決議を要するときは、その議事録を申請書に添付しなければならない。",
+    "exampleSentence": "The registrar refused the registration application because the Minutes of Meeting lacked the mandatory signatures of the Chairman and attending directors.",
+    "exampleTranslation": "議事録に議長および出席取締役の必須の署名がなかったため、登記官は当該登記申請を却下した。",
+    "vocabularyList": [
+      {
+        "word": "resolution",
+        "translation": "決議"
+      },
+      {
+        "word": "evidentiary document",
+        "translation": "証拠書類"
+      },
+      {
+        "word": "grounds for registration",
+        "translation": "登記の事由"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
+      },
+      {
+        "word": "mandatory signatures",
+        "translation": "必須の署名"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "refuse",
+        "translation": "却下する"
+      }
+    ]
   }
 ]

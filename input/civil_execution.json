@@ -820,5 +820,119 @@
         "translation": "法定の (ほうていの)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Officer",
+    "definition": "A public official charged with carrying out specific enforcement procedures, particularly the physical acts related to the seizure and auction of movable property, the delivery of property, and substitute execution, under the supervision of the execution court.",
+    "japaneseDefinition": "執行裁判所の指揮監督の下に、特に動産の差押えや不動産・動産の引渡し、代替執行など、強制執行の手続に関する行為を行う国家公務員。",
+    "japaneseWordTranslation": "執行官 (しっこうかん)",
+    "legalContext": "Civil Execution Act, Chapter 2, Section 2 (Execution by Execution Officer)",
+    "japaneseLegalContext": "民事執行法 第2章 第2節 (執行官による執行)",
+    "exampleSentence": "The Execution Officer posted the seizure notice on the premises after confirming the location of the assets subject to execution.",
+    "exampleTranslation": "執行官は、執行の対象となる財産の所在地を確認した後、当該物件に差押えの告知書を掲示した。",
+    "vocabularyList": [
+      {
+        "word": "public official",
+        "translation": "国家公務員"
+      },
+      {
+        "word": "supervision",
+        "translation": "指揮監督"
+      },
+      {
+        "word": "seizure notice",
+        "translation": "差押えの告知書"
+      },
+      {
+        "word": "premises",
+        "translation": "敷地／物件"
+      },
+      {
+        "word": "subject to execution",
+        "translation": "執行の対象となる"
+      },
+      {
+        "word": "movable property",
+        "translation": "動産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Substitute Execution",
+    "definition": "A method of non-monetary execution employed when the obligor fails to perform an action which is fungible (can be performed by a third party), allowing the obligee to have a third party perform the action and recover the cost from the obligor.",
+    "japaneseDefinition": "債務者が、第三者の行為によって代替可能な行為をすべき債務を履行しない場合に、債権者が裁判所の許可を得て第三者に行為をさせ、その費用を債務者から徴収する執行方法。",
+    "japaneseWordTranslation": "代替執行 (だいたいしっこう)",
+    "legalContext": "Civil Execution Act Art. 41(2): Where the obligor's obligation is to perform an act that is fungible, the court shall, upon motion by the obligee, order that a third party be caused to perform the act at the obligor's expense.",
+    "japaneseLegalContext": "民事執行法 第41条第2項: 債務者のなすべき行為が、性質上代替可能なものであるときは、裁判所は、債権者の申立てにより、その行為を債務者の費用で第三者にさせてよい旨の決定をしなければならない。",
+    "exampleSentence": "The court granted the motion for substitute execution, allowing the obligee to hire a demolition company to dismantle the illegally constructed wall at the obligor's expense.",
+    "exampleTranslation": "裁判所は代替執行の申立てを認め、債権者が債務者の費用で違法に建設された壁を解体するために解体業者を雇うことを許可した。",
+    "vocabularyList": [
+      {
+        "word": "fungible",
+        "translation": "代替可能な"
+      },
+      {
+        "word": "non-monetary execution",
+        "translation": "非金銭執行"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "dismantle",
+        "translation": "解体する"
+      },
+      {
+        "word": "recover the cost",
+        "translation": "費用を徴収する"
+      },
+      {
+        "word": "illegally constructed",
+        "translation": "違法に建設された"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution against Vessels",
+    "definition": "A specialized category of execution targeting ships and other vessels. Because vessels possess characteristics similar to immovable property (requiring registration), their enforcement procedures differ significantly from those for general movable property, often involving securing the ship's port of presence.",
+    "japaneseDefinition": "船舶を目的物とする専門的な執行手続。船舶は登記・登録を要するなど不動産に類似した性質を持つため、一般の動産執行とは異なる手続きが適用され、通常、船舶の所在地を管轄する裁判所が執行を取り扱う。",
+    "japaneseWordTranslation": "船舶執行 (せんぱくしっこう)",
+    "legalContext": "Civil Execution Act, Chapter 4 (Provisions on Execution against Vessels)",
+    "japaneseLegalContext": "民事執行法 第4章 (船舶に対する執行の規定)",
+    "exampleSentence": "Due to the outstanding maritime lien, the obligee initiated execution against vessels, resulting in the temporary immobilization of the freighter at port.",
+    "exampleTranslation": "未払いの船舶先取特権があるため、債権者は船舶執行を開始し、その結果、当該貨物船は港で一時的に動けなくなった。",
+    "vocabularyList": [
+      {
+        "word": "specialized category",
+        "translation": "専門的な区分"
+      },
+      {
+        "word": "maritime lien",
+        "translation": "船舶先取特権"
+      },
+      {
+        "word": "freighter",
+        "translation": "貨物船"
+      },
+      {
+        "word": "immobilization",
+        "translation": "動けなくすること／係留"
+      },
+      {
+        "word": "port of presence",
+        "translation": "所在地／現に存在する港"
+      },
+      {
+        "word": "registration",
+        "translation": "登記／登録"
+      }
+    ]
   }
 ]

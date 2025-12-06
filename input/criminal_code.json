@@ -2,40 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Homicide",
-    "definition": "The act of killing another person, punishable by death or imprisonment.",
-    "japaneseDefinition": "人を殺す行為であり、死刑または懲役に処される。",
-    "japaneseWordTranslation": "殺人 (さつじん)",
-    "legalContext": "Penal Code Art. 199: A person who kills another person is punished by the death penalty or imprisonment for life or for a definite term of not less than 5 years.",
-    "japaneseLegalContext": "刑法第199条：人を殺した者は、死刑又は無期若しくは五年以上の懲役に処する。",
-    "exampleSentence": "The suspect was arrested on suspicion of homicide.",
-    "exampleTranslation": "容疑者は殺人の疑いで逮捕された。",
-    "vocabularyList": [
-      {
-        "word": "Punishable",
-        "translation": "処罰されるべき"
-      },
-      {
-        "word": "Imprisonment",
-        "translation": "懲役/拘禁"
-      },
-      {
-        "word": "Death penalty",
-        "translation": "死刑"
-      },
-      {
-        "word": "Suspect",
-        "translation": "容疑者"
-      },
-      {
-        "word": "Suspicion",
-        "translation": "容疑/疑い"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Theft",
     "definition": "The act of stealing another person's property.",
     "japaneseDefinition": "他人の財物を窃取する行為。",
@@ -806,6 +772,124 @@
       {
         "word": "defense attorney",
         "translation": "弁護人"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Conditional Suspension of Execution of Sentence",
+    "definition": "A judicial decision allowing the convicted person to remain free without serving the imposed sentence, provided they do not commit another crime during a specified suspension period (usually 1 to 5 years).",
+    "japaneseDefinition": "刑の言渡しを受けた者に対し、一定期間（1年以上5年以下）、その刑の執行を猶予し、その期間を無事に経過したときは、刑の言渡しの効力を消滅させる制度。",
+    "japaneseWordTranslation": "執行猶予 (shikkō yūyo)",
+    "legalContext": "Criminal Code (刑法) Art. 25 (Requirements and Effect of Conditional Suspension of Execution of Sentence).",
+    "japaneseLegalContext": "刑法第25条（執行猶予の要件及び効力）。",
+    "exampleSentence": "The court imposed a three-year sentence but granted a five-year conditional suspension of execution of the sentence, noting the defendant's genuine remorse and first-time offense status.",
+    "exampleTranslation": "裁判所は懲役三年の判決を下したが、被告人の真摯な反省と初犯であるという理由から、五年間の執行猶予を付した。",
+    "vocabularyList": [
+      {
+        "word": "imposed sentence",
+        "translation": "下された刑"
+      },
+      {
+        "word": "convicted person",
+        "translation": "有罪の言渡しを受けた者"
+      },
+      {
+        "word": "suspension period",
+        "translation": "猶予期間"
+      },
+      {
+        "word": "genuine remorse",
+        "translation": "真摯な反省"
+      },
+      {
+        "word": "first-time offense status",
+        "translation": "初犯であること"
+      },
+      {
+        "word": "grant a suspension",
+        "translation": "猶予を付す"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Elements Constituting a Crime",
+    "definition": "The specific set of objective and subjective elements defined by law that must be proven to establish the legality, culpability, and punishability of an action as a particular crime.",
+    "japaneseDefinition": "犯罪が成立するための、刑罰法規に規定された客観的及び主観的な要件の総体。特に、刑罰法規の文言に具体的に該当する事実。",
+    "japaneseWordTranslation": "構成要件 (kōsei yōken)",
+    "legalContext": "General Principle based on the Principle of Legality (Nulla poena sine lege), fundamental to the interpretation of the Criminal Code.",
+    "japaneseLegalContext": "罪刑法定主義に基づく一般原則（刑法の解釈の基礎）。",
+    "exampleSentence": "For a conviction of fraud, the prosecution must prove beyond a reasonable doubt that all the elements constituting the crime, including the deceptive act and the resulting pecuniary harm, were present.",
+    "exampleTranslation": "詐欺罪で有罪判決を得るためには、検察官は、欺罔行為や結果としての財産上の損害など、構成要件の全てが満たされていることを合理的な疑いを超えて立証しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "objective elements",
+        "translation": "客観的構成要件"
+      },
+      {
+        "word": "subjective elements",
+        "translation": "主観的構成要件"
+      },
+      {
+        "word": "prosecution",
+        "translation": "検察官、訴追側"
+      },
+      {
+        "word": "pecuniary harm",
+        "translation": "財産上の損害"
+      },
+      {
+        "word": "culpability",
+        "translation": "有責性"
+      },
+      {
+        "word": "deceptive act",
+        "translation": "欺罔行為（ぎもうこうい）"
+      },
+      {
+        "word": "beyond a reasonable doubt",
+        "translation": "合理的な疑いを超えて"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Joint Principal",
+    "definition": "A legal concept stipulated in Japanese criminal law where multiple individuals collaborate with a shared criminal intent to execute a crime, resulting in each participant being held liable as a principal for the entirety of the offense.",
+    "japaneseDefinition": "二人以上の者が共同して犯罪を実行した場合に、各自を正犯として処罰する法理。行為の分担にかかわらず、全員が全体の実行行為について責任を負う。",
+    "japaneseWordTranslation": "共同正犯 (kyōdō seihan)",
+    "legalContext": "Criminal Code (刑法) Art. 60 (Joint Principal).",
+    "japaneseLegalContext": "刑法第60条（共同正犯）。",
+    "exampleSentence": "Although only one defendant brandished the weapon, both defendants were charged as joint principals because they had previously agreed on the plan and executed the robbery in concert.",
+    "exampleTranslation": "一人の被告人だけが凶器を振りかざしたが、両被告人は事前に計画に合意し、共同して強盗を実行したため、共同正犯として起訴された。",
+    "vocabularyList": [
+      {
+        "word": "collaborate",
+        "translation": "共同する"
+      },
+      {
+        "word": "shared criminal intent",
+        "translation": "共謀（きょうぼう）、共同の意思"
+      },
+      {
+        "word": "held liable",
+        "translation": "責任を負わされる"
+      },
+      {
+        "word": "brandish the weapon",
+        "translation": "凶器を振りかざす"
+      },
+      {
+        "word": "execute the robbery",
+        "translation": "強盗を実行する"
+      },
+      {
+        "word": "in concert",
+        "translation": "共同して"
       }
     ]
   }

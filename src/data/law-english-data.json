@@ -1,38 +1,34 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Right of Superficies",
-  "definition": "A real right (物権) by which the holder is entitled to use another person’s land for the purpose of owning structures, bamboo, or trees located thereon.",
-  "japaneseDefinition": "他人の土地において工作物又は竹木を所有するため、その土地を使用する権利である物権の一種。",
-  "japaneseWordTranslation": "地上権 (ちじょうけん)",
-  "legalContext": "Civil Code Art. 265: A person who has a right of superficies shall have the right to use the land of another person for the purpose of owning structures or bamboo or trees.",
-  "japaneseLegalContext": "民法第265条: 地上権者は、他人の土地において工作物又は竹木を所有するため、その土地を使用する権利を有する。",
-  "exampleSentence": "The developer registered the right of superficies on the property, granting them long-term use of the underlying land for the purpose of constructing apartment buildings.",
-  "exampleTranslation": "開発業者はその不動産に地上権を登記し、アパートの建設を目的として基礎となる土地の長期使用権を獲得した。",
+  "word": "Homicide",
+  "definition": "The act of killing another person, punishable by death or imprisonment.",
+  "japaneseDefinition": "人を殺す行為であり、死刑または懲役に処される。",
+  "japaneseWordTranslation": "殺人 (さつじん)",
+  "legalContext": "Penal Code Art. 199: A person who kills another person is punished by the death penalty or imprisonment for life or for a definite term of not less than 5 years.",
+  "japaneseLegalContext": "刑法第199条：人を殺した者は、死刑又は無期若しくは五年以上の懲役に処する。",
+  "exampleSentence": "The suspect was arrested on suspicion of homicide.",
+  "exampleTranslation": "容疑者は殺人の疑いで逮捕された。",
   "vocabularyList": [
     {
-      "word": "Real right",
-      "translation": "物権 (ぶっけん)"
+      "word": "Punishable",
+      "translation": "処罰されるべき"
     },
     {
-      "word": "Structures",
-      "translation": "工作物 (こうさくぶつ)"
+      "word": "Imprisonment",
+      "translation": "懲役/拘禁"
     },
     {
-      "word": "Underlying land",
-      "translation": "基礎となる土地 (きそとなるどち)"
+      "word": "Death penalty",
+      "translation": "死刑"
     },
     {
-      "word": "Fixed term",
-      "translation": "存続期間 (そんぞくきかん)"
+      "word": "Suspect",
+      "translation": "容疑者"
     },
     {
-      "word": "Registration",
-      "translation": "登記 (とうき)"
-    },
-    {
-      "word": "Ownership",
-      "translation": "所有 (しょゆう)"
+      "word": "Suspicion",
+      "translation": "容疑/疑い"
     }
   ]
 }

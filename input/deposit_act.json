@@ -796,5 +796,119 @@
         "translation": "提出された書類"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Vesting of Deposit Funds",
+    "definition": "The legal moment or condition under which the ownership or control of the consigned assets definitively transfers from the initial consignor (depositor) to the recipient (obligee), thereby fully discharging the consignor's obligation.",
+    "japaneseDefinition": "供託された財産の所有権が、供託者から被供託者へ確定的に移転し、これによって債務が消滅する法律上の時点または条件。",
+    "japaneseWordTranslation": "供託金の帰属 (きょうたくきんのきぞく)",
+    "legalContext": "Civil Code Art. 494: If a performance is deposited, the claim shall be extinguished to the extent of the deposited performance.",
+    "japaneseLegalContext": "民法第494条: 供託は、債権者がこれを受諾し、又は供託を有効とする判決が確定した時に、その債権及び債務は、その供託の限度において消滅する。",
+    "exampleSentence": "The dispute over the title to the land purchase was resolved once the court confirmed the vesting of deposit funds, discharging the buyer's payment obligation.",
+    "exampleTranslation": "その土地購入権に関する紛争は、裁判所が供託金の帰属を確定し、買主の支払義務が解除された時点で解決した。",
+    "vocabularyList": [
+      {
+        "word": "consignor",
+        "translation": "供託者"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "ownership",
+        "translation": "所有権"
+      },
+      {
+        "word": "dispute over the title",
+        "translation": "権原をめぐる紛争"
+      },
+      {
+        "word": "discharging",
+        "translation": "解除する"
+      },
+      {
+        "word": "payment obligation",
+        "translation": "支払義務"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Extinction Period for Reclaimable Assets",
+    "definition": "The legally stipulated timeframe (typically 10 years in procedural rules) after which the depositor loses the right to reclaim the consigned assets due to the non-fulfillment of the legal condition that originally allowed for their recovery.",
+    "japaneseDefinition": "供託者が、供託の取戻し事由の不成就によって供託した財産を取り戻す権利を失う、法令で定められた期間。通常は取戻し得る時から10年間とされる。",
+    "japaneseWordTranslation": "供託物取戻請求権の消滅期間 (きょうたくぶつとりもどしせいきゅうけんのしょうめつきかん)",
+    "legalContext": "Deposit Rules Art. 28 (Rule on the Prescription Period): A claim for the return of consigned assets shall be extinguished by prescription when 10 years have elapsed since the time the right to claim the return arose.",
+    "japaneseLegalContext": "供託規則第28条（消滅期間に関する規定）：供託物払渡請求権は、その請求をすることができる時から10年を経過したときは、時効によって消滅する。",
+    "exampleSentence": "If the original statutory cause remains unfulfilled, the consignor must exercise the right to reclaim the assets before the expiration of the extinction period for reclaimable assets.",
+    "exampleTranslation": "元の法定原因が満たされないままであれば、供託者は供託物取戻請求権の消滅期間が満了する前にその権利を行使しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "reclaim",
+        "translation": "取戻す"
+      },
+      {
+        "word": "stipulated timeframe",
+        "translation": "定められた期間"
+      },
+      {
+        "word": "non-fulfillment",
+        "translation": "不成就"
+      },
+      {
+        "word": "statutory cause",
+        "translation": "法定原因"
+      },
+      {
+        "word": "exercise the right",
+        "translation": "権利を行使する"
+      },
+      {
+        "word": "extinguished by prescription",
+        "translation": "時効によって消滅する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provision of Deposit for Guarantee",
+    "definition": "The act of formally setting aside assets (money or securities) at a deposit office to satisfy a requirement for a guarantee or security obligation imposed by law, often associated with litigation or administrative licensing procedures.",
+    "japaneseDefinition": "法令または裁判所の命令により義務付けられた保証または担保の義務を履行するために、金銭または有価証券を供託所に預け入れる行為。",
+    "japaneseWordTranslation": "担保供託の提供 (たんぽきょうたくのていきょう)",
+    "legalContext": "Deposit Act Art. 1: This Act governs the procedures for depositing assets required by law or judicial orders and matters incidental thereto.",
+    "japaneseLegalContext": "供託法第1条: この法律は、法令又は裁判所の命令により供託すべき金銭その他の物品の供託の手続及びこれに伴う事務を定めるものとする。",
+    "exampleSentence": "The applicant was required to make the provision of deposit for guarantee before receiving the administrative license, securing potential future liabilities.",
+    "exampleTranslation": "申請者は、将来の潜在的な責任を担保するため、行政許認可を受ける前に担保供託の提供を行うよう要求された。",
+    "vocabularyList": [
+      {
+        "word": "assets",
+        "translation": "財産 (資産)"
+      },
+      {
+        "word": "securities",
+        "translation": "有価証券"
+      },
+      {
+        "word": "guarantee obligation",
+        "translation": "保証義務"
+      },
+      {
+        "word": "administrative license",
+        "translation": "行政許認可"
+      },
+      {
+        "word": "potential liabilities",
+        "translation": "潜在的な責任"
+      },
+      {
+        "word": "incidental thereto",
+        "translation": "これに伴う"
+      }
+    ]
   }
 ]

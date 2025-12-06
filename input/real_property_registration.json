@@ -742,5 +742,127 @@
         "translation": "申請"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Amendment",
+    "definition": "A type of registration executed to correct a discrepancy (error or omission) that existed between the content of a previous registration and the substantive right at the time the original registration was made.",
+    "japaneseDefinition": "既にされた登記に錯誤又は遺漏があった場合に、その不実を是正するためにする登記。登記権利者と登記義務者が共同で申請する。",
+    "japaneseWordTranslation": "更正登記 (こうせいとうき)",
+    "legalContext": "Real Property Registration Act Art. 67: When there is an error or omission in the registration, a registration of amendment shall be conducted.",
+    "japaneseLegalContext": "不動産登記法第67条: 登記に錯誤又は遺漏があったときは、更正の登記をするものとする。",
+    "exampleSentence": "The parties filed a motion for **Registration of Amendment** after discovering that the description of the area of the land parcel in the original deed was inaccurate.",
+    "exampleTranslation": "当事者は、原本の権利証における土地の区画の表示に誤りがあることを発見した後、更正登記の申し立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "discrepancy",
+        "translation": "不一致, 錯誤"
+      },
+      {
+        "word": "omission",
+        "translation": "遺漏"
+      },
+      {
+        "word": "substantive right",
+        "translation": "実体上の権利"
+      },
+      {
+        "word": "inaccurate",
+        "translation": "不正確な"
+      },
+      {
+        "word": "land parcel",
+        "translation": "土地の区画"
+      },
+      {
+        "word": "motion",
+        "translation": "申し立て"
+      },
+      {
+        "word": "conducted",
+        "translation": "なされる, 行われる"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Record",
+    "definition": "The official electronic file maintained by the registrar, which contains all descriptive details concerning the real property and the recorded rights related thereto.",
+    "japaneseDefinition": "不動産の表示及び権利に関する事項を記録するため、登記官が作成し、管理する電磁的記録。",
+    "japaneseWordTranslation": "登記記録 (とうききろく)",
+    "legalContext": "Real Property Registration Act Art. 2, item 2: Defines 'Registration Record' as an electromagnetic record concerning real property.",
+    "japaneseLegalContext": "不動産登記法第2条第2号: この法律において「登記記録」とは、不動産の表示及び権利に関する事項を記録する電磁的記録をいう。",
+    "exampleSentence": "The description of the property is contained in the **Registration Record**, specifically in the part dedicated to descriptive matters, which precedes the record of rights.",
+    "exampleTranslation": "当該不動産の表示は登記記録に含まれており、特に権利の記録に先行する表示に関する事項が記録される部分に記載されている。",
+    "vocabularyList": [
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "electromagnetic record",
+        "translation": "電磁的記録"
+      },
+      {
+        "word": "descriptive matters",
+        "translation": "表示に関する事項"
+      },
+      {
+        "word": "precedes",
+        "translation": "先行する"
+      },
+      {
+        "word": "contained in",
+        "translation": "〜に含まれている"
+      },
+      {
+        "word": "dedicated to",
+        "translation": "〜に特化した"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cause of Registration",
+    "definition": "The specific legal basis or event (such as a sale, gift, or judicial ruling) that legally necessitates the creation, alteration, or cancellation of a registered right.",
+    "japaneseDefinition": "不動産の権利の変動をもたらす法律行為又は法律事実。登記の申請書に必ず記載する必要がある事項。",
+    "japaneseWordTranslation": "登記原因 (とうきげんいん)",
+    "legalContext": "Real Property Registration Act Art. 61: An application for registration must include the cause of registration and the date thereof.",
+    "japaneseLegalContext": "不動産登記法第61条: 申請情報と併せて登記原因及びその日付を提供しなければならない。",
+    "exampleSentence": "To prove the validity of the application for transfer of ownership, the applicant submitted a document confirming the **Cause of Registration** was 'sale and purchase'.",
+    "exampleTranslation": "所有権移転の申請の正当性を証明するため、申請者は「売買」が登記原因であることを確認する書面を提出した。",
+    "vocabularyList": [
+      {
+        "word": "legal basis",
+        "translation": "法律上の根拠"
+      },
+      {
+        "word": "alteration",
+        "translation": "変更"
+      },
+      {
+        "word": "judicial ruling",
+        "translation": "判決"
+      },
+      {
+        "word": "validity",
+        "translation": "正当性, 有効性"
+      },
+      {
+        "word": "sale and purchase",
+        "translation": "売買"
+      },
+      {
+        "word": "submitted",
+        "translation": "提出した"
+      },
+      {
+        "word": "cancellation",
+        "translation": "抹消"
+      }
+    ]
   }
 ]

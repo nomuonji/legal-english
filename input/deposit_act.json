@@ -682,5 +682,119 @@
         "translation": "根拠"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Depositor (Consignor)",
+    "definition": "The person, whether an obligor or a third party, who makes a legal deposit of money, securities, or property at a Deposit Office in accordance with the provisions of the Deposit Act or other relevant laws.",
+    "japaneseDefinition": "法令の規定に基づき、金銭、有価証券その他の物件を供託所に供託する行為を行う者（債務者であるか否かを問わない）。",
+    "japaneseWordTranslation": "供託者 (きょうたくしゃ)",
+    "legalContext": "Civil Code Art. 494: ...if the obligee refuses to accept performance or cannot accept it, the obligor may be discharged from the obligation by depositing the subject matter of the performance.",
+    "japaneseLegalContext": "民法第494条: 債権者が弁済の受領を拒み、又はこれを受領することができないときは、弁済をすることができる者は、債権者のためにその弁済の目的物を供託して、その債務を免れることができる。",
+    "exampleSentence": "The obligor acted as the depositor to make a deposit for release, thereby discharging their financial obligation.",
+    "exampleTranslation": "債務者は、弁済供託を行う供託者として行動し、それによって金銭的義務を免れた。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "financial obligation",
+        "translation": "金銭的義務"
+      },
+      {
+        "word": "deposit for release",
+        "translation": "弁済供託"
+      },
+      {
+        "word": "discharge an obligation",
+        "translation": "義務を免れる"
+      },
+      {
+        "word": "subject matter",
+        "translation": "目的物"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Grounds for Recovery of Consigned Property",
+    "definition": "The statutory conditions under which the depositor is permitted to recover the deposited property (money or assets) from the Deposit Office, typically involving the annulment of the cause for the original deposit or the lapse of the period for the recipient to claim the property.",
+    "japaneseDefinition": "供託の目的である金銭または物件を供託者が供託所から取り戻すことが法的に許容される事由。通常、供託原因の消滅や受領者の請求権の失効などが該当する。",
+    "japaneseWordTranslation": "供託物取戻事由 (きょうたくぶつ とりもどし じゆう)",
+    "legalContext": "Deposit Act Art. 8, Paragraph 2: If the cause of the deposit has ceased to exist, the depositor may recover the consigned property.",
+    "japaneseLegalContext": "供託法第8条第2項: 供託の原因が消滅したときは、供託者は、供託物を取り戻すことができる。",
+    "exampleSentence": "In order to successfully petition for the recovery of the deposit, the claimant must demonstrate the existence of valid grounds for recovery of consigned property.",
+    "exampleTranslation": "供託金の取戻しを求める請願を成功させるためには、請求者は有効な供託物取戻事由の存在を立証しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "claimant",
+        "translation": "請求者"
+      },
+      {
+        "word": "petition",
+        "translation": "請願（申し立て）"
+      },
+      {
+        "word": "annulment",
+        "translation": "消滅"
+      },
+      {
+        "word": "statutory conditions",
+        "translation": "法令上の要件"
+      },
+      {
+        "word": "lapse of period",
+        "translation": "期間の失効"
+      },
+      {
+        "word": "demonstrate",
+        "translation": "立証する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Registrar",
+    "definition": "A public official within the Ministry of Justice designated to oversee the administration of a Deposit Office, including the acceptance of deposits, maintenance of records, and issuance of formal decisions regarding the receipt and delivery of consigned property.",
+    "japaneseDefinition": "法務省に所属し、供託所の事務を司る公務員。供託の受理、記録の管理、供託物の払渡し等に関する正式な決定を行う。",
+    "japaneseWordTranslation": "供託官 (きょうたくかん)",
+    "legalContext": "Deposit Act Art. 4: The deposit administration shall be carried out by a Deposit Registrar appointed by the Minister of Justice.",
+    "japaneseLegalContext": "供託法第4条: 供託の事務は、法務大臣の任命した供託官が取り扱う。",
+    "exampleSentence": "The Deposit Registrar rejected the application because the submitted documents did not sufficiently demonstrate the statutory cause for consignment.",
+    "exampleTranslation": "提出された書類が法定の供託原因を十分に立証していなかったため、供託官はその申請を却下した。",
+    "vocabularyList": [
+      {
+        "word": "rejected the application",
+        "translation": "申請を却下した"
+      },
+      {
+        "word": "Ministry of Justice",
+        "translation": "法務省"
+      },
+      {
+        "word": "administration",
+        "translation": "事務"
+      },
+      {
+        "word": "acceptance of deposits",
+        "translation": "供託の受理"
+      },
+      {
+        "word": "formal decisions",
+        "translation": "正式な決定"
+      },
+      {
+        "word": "submitted documents",
+        "translation": "提出された書類"
+      }
+    ]
   }
 ]

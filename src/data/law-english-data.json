@@ -1,34 +1,38 @@
 {
-  "category": "Real Property Registration (不動産登記法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Real Property Registration",
-  "definition": "A system to publicly disclose rights relationships concerning real property (land and buildings) to ensure transaction safety.",
-  "japaneseDefinition": "不動産（土地・建物）に関する権利関係を公示し、取引の安全を図るための制度。",
-  "japaneseWordTranslation": "不動産登記 (ふどうさんとうき)",
-  "legalContext": "Real Property Registration Act Art. 1: This Act governs the registration of real property to clarify rights and boundaries.",
-  "japaneseLegalContext": "不動産登記法第1条：この法律は、不動産の表示及び不動産に関する権利を公示するための登記について定める。",
-  "exampleSentence": "Real property registration is essential for asserting ownership against third parties.",
-  "exampleTranslation": "不動産登記は、第三者に対して所有権を主張するために不可欠である。",
+  "word": "Right of Superficies",
+  "definition": "A real right (物権) by which the holder is entitled to use another person’s land for the purpose of owning structures, bamboo, or trees located thereon.",
+  "japaneseDefinition": "他人の土地において工作物又は竹木を所有するため、その土地を使用する権利である物権の一種。",
+  "japaneseWordTranslation": "地上権 (ちじょうけん)",
+  "legalContext": "Civil Code Art. 265: A person who has a right of superficies shall have the right to use the land of another person for the purpose of owning structures or bamboo or trees.",
+  "japaneseLegalContext": "民法第265条: 地上権者は、他人の土地において工作物又は竹木を所有するため、その土地を使用する権利を有する。",
+  "exampleSentence": "The developer registered the right of superficies on the property, granting them long-term use of the underlying land for the purpose of constructing apartment buildings.",
+  "exampleTranslation": "開発業者はその不動産に地上権を登記し、アパートの建設を目的として基礎となる土地の長期使用権を獲得した。",
   "vocabularyList": [
     {
-      "word": "Assert",
-      "translation": "主張する"
+      "word": "Real right",
+      "translation": "物権 (ぶっけん)"
     },
     {
-      "word": "Third party",
-      "translation": "第三者"
+      "word": "Structures",
+      "translation": "工作物 (こうさくぶつ)"
     },
     {
-      "word": "Clarify",
-      "translation": "明らかにする"
+      "word": "Underlying land",
+      "translation": "基礎となる土地 (きそとなるどち)"
     },
     {
-      "word": "Boundary",
-      "translation": "境界"
+      "word": "Fixed term",
+      "translation": "存続期間 (そんぞくきかん)"
     },
     {
-      "word": "Transaction safety",
-      "translation": "取引の安全"
+      "word": "Registration",
+      "translation": "登記 (とうき)"
+    },
+    {
+      "word": "Ownership",
+      "translation": "所有 (しょゆう)"
     }
   ]
 }

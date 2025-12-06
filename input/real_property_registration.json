@@ -632,5 +632,115 @@
         "translation": "住居団地"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Identification Information",
+    "definition": "A 12-digit sequence of alphanumeric characters provided by the registrar to the registration obligee to confirm their identity and intent when applying for subsequent rights-related registration. This system replaced the traditional paper title deed (権利証).",
+    "japaneseDefinition": "登記権利者の申請意思を確認するため、登記官が登記権利者に通知する12桁の符号（英数字）。権利に関する登記を申請する際に、原則として添付が義務付けられている。",
+    "japaneseWordTranslation": "登記識別情報 (とうきしきべつじょうほう)",
+    "legalContext": "Real Property Registration Act Art. 21 (Notification, etc. of Identification Information)",
+    "japaneseLegalContext": "不動産登記法 第21条（登記識別情報の通知等）",
+    "exampleSentence": "The registered owner, having lost their original **Identification Information**, must undergo the mandatory pre-application confirmation procedure before the registrar accepts the application.",
+    "exampleTranslation": "登記名義人は、元の登記識別情報を紛失したため、登記官が申請を受理する前に、義務付けられた事前確認手続を経なければならない。",
+    "vocabularyList": [
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "registration obligee",
+        "translation": "登記権利者"
+      },
+      {
+        "word": "subsequent registration",
+        "translation": "後の登記"
+      },
+      {
+        "word": "confirmation procedure",
+        "translation": "確認手続"
+      },
+      {
+        "word": "accept the application",
+        "translation": "申請を受理する"
+      },
+      {
+        "word": "title deed",
+        "translation": "権利証"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Consolidation of Parcels",
+    "definition": "A type of registration conducted in the description section of the registry where two or more adjacent parcels of land are merged into a single parcel, provided they satisfy specific legal requirements such as identical parcel classification, owner, and registration status.",
+    "japaneseDefinition": "隣接する二つ以上の土地を一つの土地に合体させる登記。所有者が同一であること、地目が同一であることなど、特定の法的要件を満たす場合にのみ申請が可能となる。",
+    "japaneseWordTranslation": "合筆の登記 (がっぴつのとうき)",
+    "legalContext": "Real Property Registration Act Art. 41 (Registration of Consolidation of Parcels)",
+    "japaneseLegalContext": "不動産登記法 第41条（合筆の登記）",
+    "exampleSentence": "The developer applied for the **Registration of Consolidation of Parcels** for lots A, B, and C in order to simplify the administrative procedures for their planned large-scale housing project.",
+    "exampleTranslation": "その開発業者は、計画された大規模住宅事業の行政手続きを簡素化するため、A区画、B区画、C区画の合筆の登記を申請した。",
+    "vocabularyList": [
+      {
+        "word": "adjacent parcels",
+        "translation": "隣接する土地"
+      },
+      {
+        "word": "description section",
+        "translation": "表題部"
+      },
+      {
+        "word": "parcel classification",
+        "translation": "地目"
+      },
+      {
+        "word": "legal requirements",
+        "translation": "法的要件"
+      },
+      {
+        "word": "owner",
+        "translation": "所有者"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Area Correction",
+    "definition": "A registration procedure to formally update the registered area (地積) of a parcel of land when discrepancies are found between the official record and the actual area determined by a certified land survey.",
+    "japaneseDefinition": "土地の登記簿上の地積と、測量によって判明した現実の土地の面積との間に相違がある場合に、登記記録を正確なものに更正するための登記手続。",
+    "japaneseWordTranslation": "地積更正の登記 (ちせきこうせいのとうき)",
+    "legalContext": "Real Property Registration Act Art. 40 (Application for Registration of Area Correction)",
+    "japaneseLegalContext": "不動産登記法 第40条（地積更正の登記の申請）",
+    "exampleSentence": "The application for the **Registration of Area Correction** must include a survey map proving the newly determined boundaries and dimensions of the parcel.",
+    "exampleTranslation": "地積更正の登記の申請には、新たに確定された区画の境界線と寸法を証明する測量図を添付しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "discrepancies",
+        "translation": "相違"
+      },
+      {
+        "word": "certified land survey",
+        "translation": "公認の土地測量"
+      },
+      {
+        "word": "official record",
+        "translation": "公式記録"
+      },
+      {
+        "word": "survey map",
+        "translation": "測量図"
+      },
+      {
+        "word": "boundaries and dimensions",
+        "translation": "境界線と寸法"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
+      }
+    ]
   }
 ]

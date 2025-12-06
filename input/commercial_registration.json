@@ -658,5 +658,119 @@
         "translation": "以前の記載"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Submission of Seal Impression",
+    "definition": "The mandatory legal procedure requiring a company's representative director (or other designated representatives) to deposit their registered personal seal (inkan) with the competent registry office for verification purposes.",
+    "japaneseDefinition": "会社の代表者が、その印鑑を法務局に届け出る手続。商業登記規則により、登記の申請と同時に行うことが義務付けられている。",
+    "japaneseWordTranslation": "印鑑の届出 (いんかんの とどけで)",
+    "legalContext": "Commercial Registration Act Regulation 9: The application for registration of the appointment of a representative director or a person who represents the company shall be accompanied by the submission of the seal impression used by that person.",
+    "japaneseLegalContext": "商業登記規則 第9条: 代表取締役又は会社を代表すべき者の就任による登記の申請をするときは、その印鑑を提出しなければならない。",
+    "exampleSentence": "The new representative director must complete the submission of seal impression concurrently with the application for registration of their assumption of office.",
+    "exampleTranslation": "新任の代表取締役は、就任登記の申請と同時に、印鑑の届出を完了しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "concurrently with",
+        "translation": "同時に"
+      },
+      {
+        "word": "representative director",
+        "translation": "代表取締役"
+      },
+      {
+        "word": "registered personal seal",
+        "translation": "実印 (じついん)"
+      },
+      {
+        "word": "assumption of office",
+        "translation": "就任 (しゅうにん)"
+      },
+      {
+        "word": "competent registry office",
+        "translation": "管轄登記所 (かんかつとうきじょ)"
+      },
+      {
+        "word": "verification purposes",
+        "translation": "確認の目的"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Relocation of the Head Office",
+    "definition": "The mandatory registration procedure required when a company moves its main administrative center (head office) to a new physical location. If the move crosses the jurisdictional boundary of the current registry office, dual applications must be filed.",
+    "japaneseDefinition": "会社がその本店を他の場所に移転した際に行う登記手続。管轄区域外に移転する場合は、旧所在地と新所在地で登記を申請する必要がある。",
+    "japaneseWordTranslation": "本店移転の登記 (ほんてん いてんの とうき)",
+    "legalContext": "Commercial Registration Act Art. 48: When a change occurs to any of the registered matters, the registration thereof must be applied for within two weeks from the date the change occurred.",
+    "japaneseLegalContext": "商業登記法 第48条: 登記すべき事項に変更が生じたときは、二週間以内に、その登記を申請しなければならない。",
+    "exampleSentence": "Because the company's move constituted a relocation registration across jurisdictional boundaries, we filed concurrent applications with both the old and new registry offices.",
+    "exampleTranslation": "当社の移転は管轄区域を跨ぐ本店移転の登記に該当したため、旧登記所と新登記所の両方に同時申請を行った。",
+    "vocabularyList": [
+      {
+        "word": "head office",
+        "translation": "本店 (ほんてん)"
+      },
+      {
+        "word": "jurisdictional boundary",
+        "translation": "管轄区域 (かんかつくいき)"
+      },
+      {
+        "word": "dual applications",
+        "translation": "二重の申請 (にじゅうのしんせい)"
+      },
+      {
+        "word": "old registry office",
+        "translation": "旧登記所 (きゅうとうきじょ)"
+      },
+      {
+        "word": "time limit",
+        "translation": "期限 (きげん)"
+      },
+      {
+        "word": "constituted a relocation",
+        "translation": "移転に該当した"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certificate of Registered Matters",
+    "definition": "An official, certified document issued by the registry office detailing all current, and sometimes historical, matters legally registered concerning a specific company, serving as public proof of the company's legal status.",
+    "japaneseDefinition": "登記所に記録されている会社の現在の情報や履歴事項を公的に証明するために、登記官が発行する書面。",
+    "japaneseWordTranslation": "登記事項証明書 (とうき じこう しょうめいしょ)",
+    "legalContext": "Commercial Registration Act Art. 10(1): Any person may demand delivery of a certificate stating the registered matters or a copy of the documents attached to the registration application, upon payment of a fee.",
+    "japaneseLegalContext": "商業登記法 第10条第1項: 何人も、手数料を納付して、登記官に対し、登記簿に記録されている事項を証明した書面又は登記の申請書に添付した書類の謄本の交付を請求することができる。",
+    "exampleSentence": "Lenders typically require a recent Certificate of Registered Matters to verify the authorized representatives and capital structure before granting loans.",
+    "exampleTranslation": "通常、貸し手は、融資を実行する前に、権限のある代表者と資本構成を確認するため、最新の登記事項証明書を要求する。",
+    "vocabularyList": [
+      {
+        "word": "official document",
+        "translation": "公的文書 (こうてきぶんしょ)"
+      },
+      {
+        "word": "capital structure",
+        "translation": "資本構成 (しほんこうせい)"
+      },
+      {
+        "word": "verify",
+        "translation": "確認する (かくにんする)"
+      },
+      {
+        "word": "authorized representative",
+        "translation": "権限のある代表者 (けんげんのある だいひょうしゃ)"
+      },
+      {
+        "word": "delivery of a certificate",
+        "translation": "証明書の交付 (しょうめいしょのこうふ)"
+      },
+      {
+        "word": "historical entries",
+        "translation": "履歴事項 (りれきじこう)"
+      }
+    ]
   }
 ]

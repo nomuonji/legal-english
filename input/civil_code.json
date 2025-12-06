@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Right of Superficies",
-    "definition": "A real right (物権) by which the holder is entitled to use another person’s land for the purpose of owning structures, bamboo, or trees located thereon.",
-    "japaneseDefinition": "他人の土地において工作物又は竹木を所有するため、その土地を使用する権利である物権の一種。",
-    "japaneseWordTranslation": "地上権 (ちじょうけん)",
-    "legalContext": "Civil Code Art. 265: A person who has a right of superficies shall have the right to use the land of another person for the purpose of owning structures or bamboo or trees.",
-    "japaneseLegalContext": "民法第265条: 地上権者は、他人の土地において工作物又は竹木を所有するため、その土地を使用する権利を有する。",
-    "exampleSentence": "The developer registered the right of superficies on the property, granting them long-term use of the underlying land for the purpose of constructing apartment buildings.",
-    "exampleTranslation": "開発業者はその不動産に地上権を登記し、アパートの建設を目的として基礎となる土地の長期使用権を獲得した。",
-    "vocabularyList": [
-      {
-        "word": "Real right",
-        "translation": "物権 (ぶっけん)"
-      },
-      {
-        "word": "Structures",
-        "translation": "工作物 (こうさくぶつ)"
-      },
-      {
-        "word": "Underlying land",
-        "translation": "基礎となる土地 (きそとなるどち)"
-      },
-      {
-        "word": "Fixed term",
-        "translation": "存続期間 (そんぞくきかん)"
-      },
-      {
-        "word": "Registration",
-        "translation": "登記 (とうき)"
-      },
-      {
-        "word": "Ownership",
-        "translation": "所有 (しょゆう)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Tort",
     "definition": "An unlawful act that causes damage to another person, creating an obligation to compensate for the damages.",
     "japaneseDefinition": "故意または過失によって他人の権利または法律上保護される利益を侵害し、損害を生じさせる行為。",
@@ -754,6 +716,120 @@
       {
         "word": "juridical act",
         "translation": "法律行為"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Impossibility of Performance",
+    "definition": "A state where the fulfillment of an obligation has become impossible due to circumstances attributable to the obligor or events for which neither party is responsible, thereby releasing the obligor from the duty of performance, though potentially incurring liability for damages or resulting in termination.",
+    "japaneseDefinition": "債務者または当事者のいずれの責にも帰すことができない事由により、債務の本旨に従った履行が客観的かつ永久的にできなくなった状態。これにより債務は消滅するが、債務者の帰責事由がある場合は損害賠償義務が発生する。",
+    "japaneseWordTranslation": "履行不能 (りこうふのう)",
+    "legalContext": "Civil Code Art. 412-2 (1): If an obligation becomes impossible to perform, the obligee may immediately terminate the obligation.",
+    "japaneseLegalContext": "民法第412条の2第1項: 債務の履行が不能となったときは、債権者は、催告をすることなく、直ちに契約の解除をすることができる。",
+    "exampleSentence": "Because the specific item that was the subject of the sale was destroyed by fire, the seller faced the legal consequence of impossibility of performance.",
+    "exampleTranslation": "売買の目的物であった特定物が火災で滅失したため、売主は履行不能という法的結果に直面した。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "fulfillment",
+        "translation": "履行"
+      },
+      {
+        "word": "attributable to",
+        "translation": "〜に帰責すべき"
+      },
+      {
+        "word": "termination",
+        "translation": "解除"
+      },
+      {
+        "word": "liability for damages",
+        "translation": "損害賠償責任"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Division of Co-owned Property",
+    "definition": "The act of partitioning jointly held assets among the co-owners, which can be accomplished either through mutual agreement (division by agreement) or, if agreement fails, through a judicial action seeking a court partition order.",
+    "japaneseDefinition": "複数の共有者が共同で所有する財産（共有物）を、各共有者の持分に応じて現物で分割するか、または競売による換価を行い金銭で分配する手続き。協議による分割が原則だが、協議が調わない場合は裁判による分割が行われる。",
+    "japaneseWordTranslation": "共有物の分割 (きょうゆうぶつのぶんかつ)",
+    "legalContext": "Civil Code Art. 256 (1): Each co-owner may demand the division of the co-owned property at any time.",
+    "japaneseLegalContext": "民法第256条第1項: 各共有者は、いつでも共有物の分割を請求することができる。",
+    "exampleSentence": "Following years of dispute, the co-owners filed a judicial action seeking the division of the co-owned property, a large tract of real property.",
+    "exampleTranslation": "長年にわたる紛争の後、共有者たちは、広大な不動産である共有物の分割を求める訴訟を提起した。",
+    "vocabularyList": [
+      {
+        "word": "partition",
+        "translation": "分割"
+      },
+      {
+        "word": "co-owner",
+        "translation": "共有者"
+      },
+      {
+        "word": "jointly held assets",
+        "translation": "共有財産"
+      },
+      {
+        "word": "judicial action",
+        "translation": "裁判上の訴訟"
+      },
+      {
+        "word": "court partition order",
+        "translation": "裁判による分割命令"
+      },
+      {
+        "word": "by agreement",
+        "translation": "協議により"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Separate Property",
+    "definition": "Under the statutory marital property system in Japan, property that belongs exclusively to one spouse, acquired either before marriage or during marriage in the name of that spouse, which is kept distinct from property jointly managed by the couple.",
+    "japaneseDefinition": "日本の法定財産制において、夫婦の一方にのみ帰属する財産であり、婚姻前から有していた財産、または婚姻中自己の名で取得した財産を指す。夫婦共同財産とは区別され、その配偶者が単独で管理する。",
+    "japaneseWordTranslation": "特有財産 (とくゆうざいさん)",
+    "legalContext": "Civil Code Art. 762 (1): Any property owned by either husband or wife from before the marriage or acquired during the marriage in his or her own name shall be his or her separate property.",
+    "japaneseLegalContext": "民法第762条第1項: 夫婦の一方が婚姻前から有する財産及び婚姻中自己の名で取得した財産は、その特有財産とする。",
+    "exampleSentence": "The investment assets inherited by the wife are legally deemed her separate property and are not subject to division upon divorce unless specifically commingled.",
+    "exampleTranslation": "妻が相続した投資資産は、法的に彼女の特有財産とみなされ、特に混同されていない限り、離婚時の分割の対象とはならない。",
+    "vocabularyList": [
+      {
+        "word": "spouse",
+        "translation": "配偶者"
+      },
+      {
+        "word": "statutory marital property system",
+        "translation": "法定財産制"
+      },
+      {
+        "word": "acquired",
+        "translation": "取得した"
+      },
+      {
+        "word": "commingled",
+        "translation": "混同された"
+      },
+      {
+        "word": "division upon divorce",
+        "translation": "離婚時の財産分与"
+      },
+      {
+        "word": "in his or her own name",
+        "translation": "自己の名義で"
       }
     ]
   }

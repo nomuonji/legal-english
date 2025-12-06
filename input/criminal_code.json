@@ -694,5 +694,119 @@
         "translation": "恩赦法 (おんしゃほう)"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Omission Crime",
+    "definition": "A crime established by the failure to perform a legally required action, thereby resulting in the prohibited outcome, provided the individual had a legal duty and the physical ability to act (Fusaķuhan).",
+    "japaneseDefinition": "行為者が法的な作為義務と行為能力を有していながら、その作為を行わなかったことにより、結果として犯罪が成立すること。",
+    "japaneseWordTranslation": "不作為犯 (ふさくい はん)",
+    "legalContext": "Criminal Code: While the Code does not explicitly define 'omission crime,' the concept is derived through judicial interpretation relating to duties arising from law, contract, or prior conduct.",
+    "japaneseLegalContext": "刑法：不作為犯の規定は明文化されていないが、法令、契約、または先行行為に基づく作為義務が判例を通じて確立されている。",
+    "exampleSentence": "The caretaker was charged with an omission crime, specifically abandonment causing death, due to her deliberate failure to provide necessary medical care.",
+    "exampleTranslation": "その介護人は、意図的に必要な医療ケアを提供しなかったため、不作為犯、具体的には保護責任者遺棄致死罪で起訴された。",
+    "vocabularyList": [
+      {
+        "word": "legally required action",
+        "translation": "法的に要求される行為"
+      },
+      {
+        "word": "prohibited outcome",
+        "translation": "禁止された結果"
+      },
+      {
+        "word": "legal duty",
+        "translation": "作為義務"
+      },
+      {
+        "word": "caretaker",
+        "translation": "介護人"
+      },
+      {
+        "word": "abandonment causing death",
+        "translation": "保護責任者遺棄致死罪"
+      },
+      {
+        "word": "judicial interpretation",
+        "translation": "判例による解釈"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Destruction of Evidence",
+    "definition": "The crime committed by a person who destroys, damages, conceals, or falsifies evidence related to the criminal case of another person, with the intent to hamper judicial proceedings or investigation.",
+    "japaneseDefinition": "他人の刑事事件に関する証拠を、捜査や司法手続を妨害する目的で、隠滅、損壊、変造、または偽造する罪。",
+    "japaneseWordTranslation": "証拠隠滅罪 (しょうこ いんめつ ざい)",
+    "legalContext": "Penal Code Art. 104 (Concealment of Evidence): A person who conceals, destroys, falsifies or fabricates evidence relating to the criminal case of another person shall be punished by imprisonment...",
+    "japaneseLegalContext": "刑法第104条（証拠隠滅等）：他人の刑事事件に関する証拠を隠滅し、偽造し、若しくは変造し、又は偽造若しくは変造の証拠を使用した者は、〜懲役に処する。",
+    "exampleSentence": "The defendant’s accomplice was arrested for destruction of evidence after attempting to erase security footage crucial to the ongoing robbery investigation.",
+    "exampleTranslation": "進行中の強盗捜査に不可欠な監視カメラの映像を消去しようとした後、被告人の共犯者が証拠隠滅罪で逮捕された。",
+    "vocabularyList": [
+      {
+        "word": "hamper judicial proceedings",
+        "translation": "司法手続を妨害する"
+      },
+      {
+        "word": "falsifies or fabricates",
+        "translation": "偽造し、若しくは変造する"
+      },
+      {
+        "word": "criminal case of another person",
+        "translation": "他人の刑事事件"
+      },
+      {
+        "word": "accomplice",
+        "translation": "共犯者"
+      },
+      {
+        "word": "security footage",
+        "translation": "監視カメラの映像"
+      },
+      {
+        "word": "imprisonment",
+        "translation": "懲役"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Diminished Capacity",
+    "definition": "A state where a person's mental capacity to discern right from wrong (cognitive ability) or to act according to that discernment (volitional ability) is significantly impaired, leading to a mandatory mitigation of punishment.",
+    "japaneseDefinition": "是非を弁別する能力（認識能力）またはそれに従って行動する能力（意思能力）が著しく減退している状態を指し、刑の必要的減軽事由となる。",
+    "japaneseWordTranslation": "心神耗弱 (しんしん こうじゃく)",
+    "legalContext": "Penal Code Art. 39, Para. 2: The punishment shall be mitigated for an act committed by a person who is in a state of diminished capacity.",
+    "japaneseLegalContext": "刑法第39条第2項：心神耗弱者の行為は、その刑を軽減する。",
+    "exampleSentence": "The defense attorney argued that the defendant was suffering from temporary diminished capacity due to severe prescribed medication when the crime was committed.",
+    "exampleTranslation": "弁護人は、犯行時、被告人が重度の処方薬の影響による一時的な心神耗弱の状態にあったと主張した。",
+    "vocabularyList": [
+      {
+        "word": "cognitive ability",
+        "translation": "認識能力"
+      },
+      {
+        "word": "volitional ability",
+        "translation": "意思能力"
+      },
+      {
+        "word": "mitigation of punishment",
+        "translation": "刑の軽減"
+      },
+      {
+        "word": "mandatory mitigation",
+        "translation": "必要的減軽"
+      },
+      {
+        "word": "prescribed medication",
+        "translation": "処方薬"
+      },
+      {
+        "word": "defense attorney",
+        "translation": "弁護人"
+      }
+    ]
   }
 ]

@@ -706,5 +706,119 @@
         "translation": "回収額"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Distribution Schedule",
+    "definition": "The formal schedule or list prepared by the execution court detailing how the proceeds obtained from the compulsory sale of the execution obligor's property (e.g., through auction) will be allocated among the creditors who possess execution titles or have successfully made demands for distribution.",
+    "japaneseDefinition": "執行裁判所が、競売等により得られた執行債務者の財産の売却代金を、執行権原を有する債権者や配当要求を適法に行った債権者に対し、どのように分配するかを定める一覧表。",
+    "japaneseWordTranslation": "配当表 (はいとうひょう)",
+    "legalContext": "MSL (Minji Shikkō Hō) Art. 84: Procedures for Distribution (The court prepares a distribution schedule unless the funds are distributed only to the execution obligee).",
+    "japaneseLegalContext": "民事執行法 第84条: 配当等の実施の手続 (裁判所は、売却代金が執行債権者のみに交付される場合を除き、配当表を作成しなければならない。)",
+    "exampleSentence": "After the real property auction was finalized, the execution court convened a hearing to confirm the **Distribution Schedule** before disbursing the funds to the multiple secured creditors.",
+    "exampleTranslation": "不動産競売が確定した後、執行裁判所は、複数の担保債権者に資金を払い渡す前に、配当表を確定するための期日を招集した。",
+    "vocabularyList": [
+      {
+        "word": "auction",
+        "translation": "競売 (きょうばい)"
+      },
+      {
+        "word": "proceeds",
+        "translation": "売却代金 (ばいきゃくだいきん)"
+      },
+      {
+        "word": "disbursing the funds",
+        "translation": "資金を払い渡す (しきんをはらいわたす)"
+      },
+      {
+        "word": "secured creditors",
+        "translation": "担保債権者 (たんぽさいけんしゃ)"
+      },
+      {
+        "word": "execution title",
+        "translation": "執行権原 (しっこうけんげん)"
+      },
+      {
+        "word": "proportional allocation",
+        "translation": "按分 (あんぶん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Against Immovable Property",
+    "definition": "A category of compulsory execution aimed at liquidating the obligor's real property (land and buildings) to satisfy a monetary claim, typically resulting in a public auction (compulsory auction) or compulsory administration (compulsory management).",
+    "japaneseDefinition": "金銭債権の満足を得る目的で、債務者の不動産（土地や建物）を対象に行われる強制執行の手続きであり、通常、強制競売または強制管理の手法が用いられる。",
+    "japaneseWordTranslation": "不動産執行 (ふどうさんしっこう)",
+    "legalContext": "MSL (Minji Shikkō Hō) Chapter 1 of Part III: Execution Against Immovable Property (Sets out the specific procedures for compulsory auction and administration).",
+    "japaneseLegalContext": "民事執行法 第3編第1章: 不動産に対する強制執行 (強制競売及び強制管理に関する特定の手続きを規定する。)",
+    "exampleSentence": "The bank, holding a hypothec on the debtor’s factory, initiated **Execution Against Immovable Property** after the repayment period elapsed.",
+    "exampleTranslation": "債務者の工場に抵当権を設定していた銀行は、返済期間が経過した後、不動産執行を開始した。",
+    "vocabularyList": [
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売 (きょうせいけいばい)"
+      },
+      {
+        "word": "compulsory administration",
+        "translation": "強制管理 (きょうせいかんり)"
+      },
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権 (きんせんさいけん)"
+      },
+      {
+        "word": "hypothec",
+        "translation": "抵当権 (ていとうけん)"
+      },
+      {
+        "word": "liquidation",
+        "translation": "換価 (かんか)"
+      },
+      {
+        "word": "repayment period",
+        "translation": "弁済期 (べんさいき)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Minimum Sale Price",
+    "definition": "The lowest legally permissible price at which immovable property subject to compulsory auction can be sold. This price is determined by the execution court based on the property appraisal conducted by a court-appointed appraiser.",
+    "japaneseDefinition": "強制競売にかけられた不動産を売却できる法定の最低価格。この価格は、執行裁判所が選任した評価人による鑑定に基づき決定される。",
+    "japaneseWordTranslation": "買受可能価額 (かいうけかのうかがく)",
+    "legalContext": "MSL (Minji Shikkō Hō) Art. 60: Decision on the Minimum Sale Price (The execution court shall set the minimum sale price based on the appraisal value of the immovable property).",
+    "japaneseLegalContext": "民事執行法 第60条: 最低売却価額の決定 (執行裁判所は、不動産の評価額に基づいて最低売却価額を定めなければならない。)",
+    "exampleSentence": "The prospective buyer’s bid was rejected because it failed to meet the statutory **Minimum Sale Price** set by the execution court for the land and building.",
+    "exampleTranslation": "その将来の買受希望者の入札は、土地及び建物に対し執行裁判所が定めた法定の買受可能価額に達しなかったため、却下された。",
+    "vocabularyList": [
+      {
+        "word": "appraisal value",
+        "translation": "評価額 (ひょうかがく)"
+      },
+      {
+        "word": "prospective buyer",
+        "translation": "買受希望者 (かいうけきぼうしゃ)"
+      },
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売 (きょうせいけいばい)"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所 (しっこうさいばんしょ)"
+      },
+      {
+        "word": "bid",
+        "translation": "入札 (にゅうさつ)"
+      },
+      {
+        "word": "statutory",
+        "translation": "法定の (ほうていの)"
+      }
+    ]
   }
 ]

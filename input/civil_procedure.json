@@ -728,5 +728,131 @@
         "translation": "権利関係"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Declaratory Judgment",
+    "definition": "A lawsuit seeking a judicial declaration as to the existence or non-existence of a specific legal relationship or legal fact.",
+    "japaneseDefinition": "特定の法律関係または法律事実の存否について、裁判所にその確認を求める訴訟。",
+    "japaneseWordTranslation": "確認の訴え (かくにんのうったえ)",
+    "legalContext": "Japanese Code of Civil Procedure (Minji Soshō Hō) implicitly governs these actions, requiring the necessity for confirmation (確認の利益) for the suit to be admissible.",
+    "japaneseLegalContext": "民事訴訟法: 訴えの利益（確認の利益）",
+    "exampleSentence": "The plaintiff filed a declaratory judgment action to confirm the non-existence of a debt obligation alleged by the defendant.",
+    "exampleTranslation": "原告は、被告が主張する債務の不存在を確認するための確認の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "non-existence",
+        "translation": "不存在 (ふそんざい)"
+      },
+      {
+        "word": "legal relationship",
+        "translation": "法律関係 (ほうりつかんけい)"
+      },
+      {
+        "word": "admissible",
+        "translation": "適法である (てきほうである)"
+      },
+      {
+        "word": "debt obligation",
+        "translation": "債務 (さいむ)"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告 (げんこく)"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告 (ひこく)"
+      },
+      {
+        "word": "necessity for confirmation",
+        "translation": "確認の利益 (かくにんのりえき)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Document Production Order",
+    "definition": "A binding court order compelling a party to the suit or a third party to submit specific documents essential for the examination of evidence.",
+    "japaneseDefinition": "訴訟の当事者または第三者に対し、証拠調べのために必要な特定の文書の提出を命じる裁判所の決定。",
+    "japaneseWordTranslation": "文書提出命令 (ぶんしょていしゅつめいれい)",
+    "legalContext": "Code of Civil Procedure Art. 220: Obligations of Document Holder (文書提出義務). The court may impose fines if the order is disregarded.",
+    "japaneseLegalContext": "民事訴訟法第220条: 文書提出義務。命令に従わない場合、過料の制裁がある。",
+    "exampleSentence": "The court issued a document production order against the opposing party regarding the minutes of the board meeting relevant to the contractual formation.",
+    "exampleTranslation": "裁判所は、契約成立に関連する取締役会の議事録に関して、相手方当事者に対し文書提出命令を発した。",
+    "vocabularyList": [
+      {
+        "word": "binding court order",
+        "translation": "拘束力のある裁判所命令 (こうそくりょくのあるさいばんしょめいれい)"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者 (だいさんしゃ)"
+      },
+      {
+        "word": "opposing party",
+        "translation": "相手方当事者 (あいてがたとうじしゃ)"
+      },
+      {
+        "word": "minutes",
+        "translation": "議事録 (ぎじろく)"
+      },
+      {
+        "word": "contractual formation",
+        "translation": "契約の成立 (けいやくのせいりつ)"
+      },
+      {
+        "word": "disregarded",
+        "translation": "無視された (むしされた)"
+      },
+      {
+        "word": "obligation",
+        "translation": "義務 (ぎむ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Retrial",
+    "definition": "An extraordinary remedy challenging a final and conclusive judgment on narrowly defined statutory grounds, such as evidence fabrication or gross error in fact-finding.",
+    "japaneseDefinition": "確定した終局判決に対し、証拠の偽造や重大な事実誤認など、法律で定められた限定的な事由に基づいてその取消しを求める訴訟。",
+    "japaneseWordTranslation": "再審の訴え (さいしんのうったえ)",
+    "legalContext": "Code of Civil Procedure Art. 338: Grounds for Retrial (再審の事由). These grounds include perjury and judicial corruption.",
+    "japaneseLegalContext": "民事訴訟法第338条: 再審の事由。これには、偽証や裁判官の職務に関する罪などが含まれる。",
+    "exampleSentence": "The losing party initiated an action for retrial after it was proven that the primary evidence used against them had been fabricated by the key witness.",
+    "exampleTranslation": "敗訴した当事者は、自身に不利な主要な証拠が重要証人によって偽造されていたことが証明された後、再審の訴えを起こした。",
+    "vocabularyList": [
+      {
+        "word": "extraordinary remedy",
+        "translation": "非常手段 (ひじょうしゅだん)"
+      },
+      {
+        "word": "conclusive judgment",
+        "translation": "終局判決 (しゅうきょくはんけつ)"
+      },
+      {
+        "word": "statutory grounds",
+        "translation": "法律上の事由 (ほうりつじょうのじゆう)"
+      },
+      {
+        "word": "evidence fabrication",
+        "translation": "証拠の偽造 (しょうこのぎぞう)"
+      },
+      {
+        "word": "perjury",
+        "translation": "偽証 (ぎしょう)"
+      },
+      {
+        "word": "losing party",
+        "translation": "敗訴した当事者 (はいそしたとうじしゃ)"
+      },
+      {
+        "word": "key witness",
+        "translation": "重要証人 (じゅうようしょうにん)"
+      }
+    ]
   }
 ]

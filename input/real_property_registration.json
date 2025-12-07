@@ -864,5 +864,119 @@
         "translation": "抹消"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Obligee",
+    "definition": "The person who acquires a right, increases their existing right, or otherwise benefits from the execution of the real property registration. This party generally cooperates with the Registration Obligor to file the application.",
+    "japaneseDefinition": "不動産登記の実行により、権利を取得し、又は既存の権利が有利になるなど、登記上利益を受ける者。",
+    "japaneseWordTranslation": "登記権利者 (とうきけんりしゃ)",
+    "legalContext": "Real Property Registration Act Art. 60 (Application by Both Parties): Registration based on the creation, transfer, or modification of a right shall be applied for jointly by the registration obligee and the registration obligor.",
+    "japaneseLegalContext": "不動産登記法第60条（共同申請）：権利の得喪及び変更に関する登記は、登記権利者及び登記義務者が共同して申請しなければならない。",
+    "exampleSentence": "When applying for the registration of a mortgage establishment, the creditor acts as the Registration Obligee, and the property owner acts as the Registration Obligor.",
+    "exampleTranslation": "抵当権設定の登記を申請する場合、債権者が登記権利者として、不動産の所有者が登記義務者として行動する。",
+    "vocabularyList": [
+      {
+        "word": "registration obligor",
+        "translation": "登記義務者"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "mortgage establishment",
+        "translation": "抵当権設定"
+      },
+      {
+        "word": "creation of a right",
+        "translation": "権利の創設"
+      },
+      {
+        "word": "modification of a right",
+        "translation": "権利の変更"
+      },
+      {
+        "word": "jointly applied for",
+        "translation": "共同申請"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certificate of Cause of Registration",
+    "definition": "A document or electronic record submitted to the Registry Office to prove the legal basis (the cause) for the creation, transfer, modification, or extinction of a registered real property right.",
+    "japaneseDefinition": "登記の原因となった事実又は行為（売買、贈与、設定契約等）を証明するために申請書に添付する情報。",
+    "japaneseWordTranslation": "登記原因証明情報 (とうきげんいんしょうめいじょうほう)",
+    "legalContext": "Real Property Registration Act Art. 61: An application for registration shall be accompanied by a certificate of the cause of registration.",
+    "japaneseLegalContext": "不動産登記法第61条：登記を申請するときは、申請情報と併せて登記原因証明情報を提供しなければならない。",
+    "exampleSentence": "The Certificate of Cause of Registration for a sale of land is typically the sales agreement or the judicial scrivener’s deed preparation confirming the transaction.",
+    "exampleTranslation": "土地の売買に関する登記原因証明情報は、通常、売買契約書または司法書士が作成した取引を確認する書面である。",
+    "vocabularyList": [
+      {
+        "word": "Registry Office",
+        "translation": "登記所"
+      },
+      {
+        "word": "legal basis",
+        "translation": "法的根拠"
+      },
+      {
+        "word": "sales agreement",
+        "translation": "売買契約書"
+      },
+      {
+        "word": "extinction of a right",
+        "translation": "権利の消滅"
+      },
+      {
+        "word": "deed preparation",
+        "translation": "書面作成"
+      },
+      {
+        "word": "application information",
+        "translation": "申請情報"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preliminary Registration",
+    "definition": "A type of registration executed temporarily to reserve the priority of a future full registration, especially when not all procedural conditions for the full registration (e.g., necessary permits, consent of the obligor) have been met.",
+    "japaneseDefinition": "将来行うべき本登記の順位を保全するため、あらかじめ暫定的に行われる登記。本登記が実行されれば、本登記の順位は遡及して予備登記の順位となる。",
+    "japaneseWordTranslation": "予備登記 (よびとうき)",
+    "legalContext": "Real Property Registration Act Art. 103: A preliminary registration may be filed when the necessary documents for registration are insufficient, or when the consent or permission of a third party is required.",
+    "japaneseLegalContext": "不動産登記法第103条：登記に必要な情報が不足しているとき、または第三者の承諾・許可を要するときは、予備登記をすることができる。",
+    "exampleSentence": "Since the necessary administrative permit had not yet been issued, the applicant filed a Preliminary Registration to secure their priority for the subsequent full registration of the ownership transfer.",
+    "exampleTranslation": "必要な行政許可がまだ下りていなかったので、申請者は、その後の所有権移転の本登記の順位を確保するために予備登記を申請した。",
+    "vocabularyList": [
+      {
+        "word": "full registration",
+        "translation": "本登記"
+      },
+      {
+        "word": "reserve priority",
+        "translation": "順位を保全する"
+      },
+      {
+        "word": "procedural conditions",
+        "translation": "手続要件"
+      },
+      {
+        "word": "consent",
+        "translation": "承諾"
+      },
+      {
+        "word": "subsequent",
+        "translation": "その後の"
+      },
+      {
+        "word": "administrative permit",
+        "translation": "行政許可"
+      }
+    ]
   }
 ]

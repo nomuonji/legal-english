@@ -910,5 +910,107 @@
         "translation": "これに伴う"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consignor of Performance",
+    "definition": "The party who deposits the subject matter of an obligation with a Deposit Office in order to discharge a debt, typically because the obligee refuses acceptance or cannot accept performance.",
+    "japaneseDefinition": "債務者が、債権者の受領拒否その他の事由により、債務を免れるために供託を行う者。",
+    "japaneseWordTranslation": "弁済供託者 (べんさいきょうたくしゃ)",
+    "legalContext": "Civil Code Art. 494 (Effect of Consignment: The obligor shall be relieved of his/her obligation by Consignment.)",
+    "japaneseLegalContext": "民法第494条（供託の効果：債権者不確知）",
+    "exampleSentence": "The **Consignor of Performance** is relieved of their obligation upon valid completion of the deposit procedure.",
+    "exampleTranslation": "弁済供託者は、供託手続が有効に完了した時点で、その債務を免れる。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "relieved of obligation",
+        "translation": "債務を免れる"
+      },
+      {
+        "word": "Deposit Office",
+        "translation": "供託所"
+      },
+      {
+        "word": "subject matter",
+        "translation": "目的物"
+      },
+      {
+        "word": "deposit procedure",
+        "translation": "供託手続"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit based on Uncertainty of Creditor",
+    "definition": "A specific type of deposit made when the obligor cannot identify, without negligence, the person who is the rightful obligee (e.g., due to disputes over competing claims to a receivable).",
+    "japaneseDefinition": "債務者が過失なく債権者を確知できない場合に、債務を免れるために行う供託。",
+    "japaneseWordTranslation": "債権者不確知による供託 (さいけんしゃふかくちにょるきょうたく)",
+    "legalContext": "Civil Code Art. 494, para. 1, Item 2 (The case where the obligor cannot identify the obligee, without negligence)",
+    "japaneseLegalContext": "民法第494条第1項第2号（債務者が過失なく債権者を確知することができない場合）",
+    "exampleSentence": "The company executed a **Deposit based on Uncertainty of Creditor** because two parties claimed to be the rightful assignee of the receivable.",
+    "exampleTranslation": "二当事者が売掛債権の正当な譲受人であると主張したため、会社は債権者不確知による供託を行った。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "competing claims",
+        "translation": "競合する請求"
+      },
+      {
+        "word": "rightful assignee",
+        "translation": "正当な譲受人"
+      },
+      {
+        "word": "receivable",
+        "translation": "売掛債権"
+      },
+      {
+        "word": "without negligence",
+        "translation": "過失なく"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Discharge by Consignment",
+    "definition": "The legal consequence whereby an obligor's debt is extinguished upon the proper consignment of the subject matter of performance to a Deposit Office, replacing the necessity of direct performance to the obligee.",
+    "japaneseDefinition": "債務者が給付の目的物を供託所に供託することにより、その債務が消滅する法的効果。",
+    "japaneseWordTranslation": "供託による債務消滅 (きょうたくによるさいむしょうめつ)",
+    "legalContext": "Civil Code Art. 494 (Effect of Consignment: The obligor shall be relieved of his/her obligation by Consignment.)",
+    "japaneseLegalContext": "民法第494条（供託の効果：債務者がその債務を免れる）",
+    "exampleSentence": "If the funds are properly consigned and the deposit is valid, the immediate result is **Discharge by Consignment**, releasing the obligor from further liability.",
+    "exampleTranslation": "資金が適正に供託され、その供託が有効であれば、直ちに供託による債務消滅の効果が生じ、債務者はそれ以上の責任を免れる。",
+    "vocabularyList": [
+      {
+        "word": "extinguished",
+        "translation": "消滅した"
+      },
+      {
+        "word": "liability",
+        "translation": "責任"
+      },
+      {
+        "word": "properly consigned",
+        "translation": "適正に供託された"
+      },
+      {
+        "word": "necessity of direct performance",
+        "translation": "直接給付の必要性"
+      },
+      {
+        "word": "further liability",
+        "translation": "それ以上の責任"
+      }
+    ]
   }
 ]

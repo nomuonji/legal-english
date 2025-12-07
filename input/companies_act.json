@@ -2,40 +2,6 @@
   {
     "category": "Companies Act (会社法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Board of Directors",
-    "definition": "An executive body responsible for the management and oversight of a company's business execution.",
-    "japaneseDefinition": "会社の業務執行の決定および取締役の職務執行の監督を行う機関。",
-    "japaneseWordTranslation": "取締役会 (とりしまりやくかい)",
-    "legalContext": "Companies Act Art. 362: The board of directors shall decide the execution of the operations of the Stock Company.",
-    "japaneseLegalContext": "会社法第362条：取締役会は、次に掲げる職務を行う。一 取締役会設置会社の業務執行の決定...",
-    "exampleSentence": "The board of directors resolved to appoint a new representative director.",
-    "exampleTranslation": "取締役会は新しい代表取締役を選定することを決議した。",
-    "vocabularyList": [
-      {
-        "word": "Executive body",
-        "translation": "執行機関"
-      },
-      {
-        "word": "Oversight",
-        "translation": "監督"
-      },
-      {
-        "word": "Representative Director",
-        "translation": "代表取締役"
-      },
-      {
-        "word": "Appoint",
-        "translation": "選定する/任命する"
-      },
-      {
-        "word": "Business execution",
-        "translation": "業務執行"
-      }
-    ]
-  },
-  {
-    "category": "Companies Act (会社法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Corporate Auditor",
     "definition": "An independent officer who audits the execution of duties by directors and accounting.",
     "japaneseDefinition": "取締役の職務執行および会計を監査する機関。",
@@ -898,6 +864,120 @@
       {
         "word": "Exiting Investment",
         "translation": "投資の解消"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Share Class",
+    "definition": "Shares that grant rights to shareholders different from Ordinary Shares regarding dividends, residual assets, or voting rights, often detailed in the Articles of Incorporation.",
+    "japaneseDefinition": "株主に対し、配当、残余財産、議決権などについて普通株式とは異なる権利を与える株式。",
+    "japaneseWordTranslation": "種類株式 (しゅるいかぶしき)",
+    "legalContext": "Companies Act Art. 108: Provisions for Issuance of Class Shares (種類株式の発行の規定)",
+    "japaneseLegalContext": "会社法第108条：種類株式の発行の規定",
+    "exampleSentence": "The company’s articles of incorporation permit the issuance of multiple share classes, including non-voting shares and shares with priority rights to dividends.",
+    "exampleTranslation": "当社の定款は、議決権のない株式や配当の優先権を有する株式を含む複数の種類株式の発行を認めている。",
+    "vocabularyList": [
+      {
+        "word": "Articles of Incorporation",
+        "translation": "定款"
+      },
+      {
+        "word": "Non-voting shares",
+        "translation": "議決権のない株式"
+      },
+      {
+        "word": "Priority rights",
+        "translation": "優先権"
+      },
+      {
+        "word": "Issuance",
+        "translation": "発行"
+      },
+      {
+        "word": "Dividends",
+        "translation": "配当"
+      },
+      {
+        "word": "Residual assets",
+        "translation": "残余財産"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Distributable Amount",
+    "definition": "The maximum legal amount that a company may distribute to its shareholders (e.g., as dividends) under the Companies Act, calculated primarily based on the latest balance sheet and statutory reserves.",
+    "japaneseDefinition": "会社が株主に対して剰余金分配などにより分配できる、会社法上の上限額。直近の貸借対照表と法定準備金に基づいて算出される。",
+    "japaneseWordTranslation": "分配可能額 (ぶんぱいかのうがく)",
+    "legalContext": "Companies Act Art. 461: Restrictions on Distributions of Surplus (剰余金の配当等の制限)",
+    "japaneseLegalContext": "会社法第461条：剰余金の配当等の制限",
+    "exampleSentence": "The directors must ensure that any resolution for the distribution of surplus does not exceed the calculated distributable amount, pursuant to the provisions for creditor protection.",
+    "exampleTranslation": "取締役は、債権者保護の規定に従い、剰余金分配の決議が算出された分配可能額を超えないことを確認しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Distribution of surplus",
+        "translation": "剰余金の分配"
+      },
+      {
+        "word": "Creditor protection",
+        "translation": "債権者保護"
+      },
+      {
+        "word": "Balance sheet",
+        "translation": "貸借対照表"
+      },
+      {
+        "word": "Statutory reserves",
+        "translation": "法定準備金"
+      },
+      {
+        "word": "Directors",
+        "translation": "取締役"
+      },
+      {
+        "word": "Resolution",
+        "translation": "決議"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Company that is a Public Company",
+    "definition": "A company whose Articles of Incorporation do not stipulate any restriction on the transfer of all shares issued by it, meaning its shares are freely transferable.",
+    "japaneseDefinition": "発行する全ての株式の譲渡について定款に制限を設けていない会社。株式の譲渡自由が保障される。",
+    "japaneseWordTranslation": "公開会社 (こうかいがいしゃ)",
+    "legalContext": "Companies Act Art. 2, Para. 5: Definition of a Public Company (公開会社の定義)",
+    "japaneseLegalContext": "会社法第2条第5項：公開会社の定義",
+    "exampleSentence": "A Company that is a Public Company is subject to stricter regulatory requirements, especially concerning procedures for issuing new shares and mandatory public disclosure.",
+    "exampleTranslation": "公開会社は、新株発行の手続きや義務的な公開義務に関して、より厳格な規制要件の対象となる。",
+    "vocabularyList": [
+      {
+        "word": "Restriction on the transfer of shares",
+        "translation": "株式の譲渡制限"
+      },
+      {
+        "word": "Regulatory requirements",
+        "translation": "規制要件"
+      },
+      {
+        "word": "Articles of Incorporation",
+        "translation": "定款"
+      },
+      {
+        "word": "Issuing new shares",
+        "translation": "新株発行"
+      },
+      {
+        "word": "Mandatory public disclosure",
+        "translation": "義務的な公開義務"
+      },
+      {
+        "word": "Freely transferable",
+        "translation": "自由に譲渡可能"
       }
     ]
   }

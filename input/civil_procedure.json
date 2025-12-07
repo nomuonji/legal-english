@@ -972,5 +972,119 @@
         "translation": "判決言渡し"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Party Presentation",
+    "definition": "A fundamental principle in civil procedure (弁論主義) dictating that the collection and introduction of factual materials (facts and evidence) are primarily the responsibility of the parties, not the court. The court must generally base its judgment only on facts alleged and materials submitted by the parties.",
+    "japaneseDefinition": "民事訴訟における基本原則の一つで、裁判所は当事者が主張し提出した事実及び証拠のみを裁判の基礎としなければならないとするもの。",
+    "japaneseWordTranslation": "弁論主義 (べんろんしゅぎ)",
+    "legalContext": "Derived from core concepts of the Japanese Civil Procedure Code, often interpreted in conjunction with provisions concerning evidence submission (e.g., CPC Art. 156).",
+    "japaneseLegalContext": "民事訴訟法の基本理念から導かれ、証拠提出に関する規定（例：民事訴訟法第156条）と密接に関連付けられる。",
+    "exampleSentence": "The judge dismissed the plaintiff's argument because the factual basis, though known to the judge privately, had not been formally introduced under the Principle of Party Presentation.",
+    "exampleTranslation": "裁判官が個人的に知っていた事実的根拠であっても、弁論主義に基づき正式に提出されていなかったため、裁判官は原告の主張を棄却した。",
+    "vocabularyList": [
+      {
+        "word": "factual basis",
+        "translation": "事実的根拠"
+      },
+      {
+        "word": "collection and introduction",
+        "translation": "収集及び提出"
+      },
+      {
+        "word": "dismissed the argument",
+        "translation": "主張を棄却した"
+      },
+      {
+        "word": "formally introduced",
+        "translation": "正式に提出された"
+      },
+      {
+        "word": "judgement",
+        "translation": "判決（裁判）"
+      },
+      {
+        "word": "alleged facts",
+        "translation": "主張された事実"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Settlement Procedure",
+    "definition": "The procedural mechanism regulated by the Civil Procedure Code through which a court actively facilitates negotiations between the parties, either during a pending action (訴訟上の和解) or before an action is formally commenced (訴え提起前の和解), aiming to resolve the dispute through mutual agreement. Settlements achieved via this method have the same binding force as a final judgment.",
+    "japaneseDefinition": "裁判所が積極的に関与し、当事者間の交渉を促進して相互の合意による紛争解決を図る手続。成立した和解は確定判決と同一の効力を有する。",
+    "japaneseWordTranslation": "裁判上の和解手続 (さいばんじょうのわかいてつづき)",
+    "legalContext": "Civil Procedure Code Art. 89 (Settlement during trial) and Art. 275 (Settlement before commencement of action).",
+    "japaneseLegalContext": "民事訴訟法第89条（訴訟中の和解）及び第275条（訴え提起前の和解）",
+    "exampleSentence": "The defendant requested the court to move into the Judicial Settlement Procedure in hopes of avoiding a protracted trial and securing a swift resolution.",
+    "exampleTranslation": "被告は、長期にわたる裁判を避け、迅速な解決を図るため、裁判所に対し裁判上の和解手続へ移行するよう要請した。",
+    "vocabularyList": [
+      {
+        "word": "pending action",
+        "translation": "係属中の訴訟"
+      },
+      {
+        "word": "binding force",
+        "translation": "拘束力"
+      },
+      {
+        "word": "protracted trial",
+        "translation": "長期化した裁判"
+      },
+      {
+        "word": "mutual agreement",
+        "translation": "相互の合意"
+      },
+      {
+        "word": "final judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "securing a swift resolution",
+        "translation": "迅速な解決を確保する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designation of Party",
+    "definition": "A special procedural mechanism under Japanese Civil Procedure allowing the court to designate a specific person to act as the plaintiff or defendant in litigation when the claimant’s target is an entity that lacks full legal personality, such as an unincorporated association, but where the lawsuit must nonetheless proceed.",
+    "japaneseDefinition": "法人格を有しない社団等（権利能力なき社団）に対し訴訟を提起する場合などに、訴訟を追行させる目的で、裁判所が特定の者を当事者として指定する手続。",
+    "japaneseWordTranslation": "当事者の指定 (とうじしゃのしてい)",
+    "legalContext": "Civil Procedure Code Art. 29 (Designation of a Party in the case of an unincorporated association, etc.).",
+    "japaneseLegalContext": "民事訴訟法第29条（権利能力なき社団等の場合の当事者の指定）",
+    "exampleSentence": "Since the residents' group was an unincorporated association without a formal representative, the claimant filed a motion for Designation of Party before commencing the lawsuit.",
+    "exampleTranslation": "その住民団体は正式な代表者のいない権利能力なき社団であったため、請求者は訴訟提起前に当事者の指定の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "legal personality",
+        "translation": "法人格"
+      },
+      {
+        "word": "unincorporated association",
+        "translation": "権利能力なき社団"
+      },
+      {
+        "word": "lacked a representative",
+        "translation": "代表者を欠いた"
+      },
+      {
+        "word": "motion for designation",
+        "translation": "指定の申立て"
+      },
+      {
+        "word": "commencing the lawsuit",
+        "translation": "訴訟を提起すること"
+      },
+      {
+        "word": "claimant",
+        "translation": "請求者（原告）"
+      }
+    ]
   }
 ]

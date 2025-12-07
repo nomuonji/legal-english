@@ -856,5 +856,119 @@
         "translation": "債権者"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Claim",
+    "definition": "The underlying substantive right or claim (such as a claim for monetary payment or property transfer) that the applicant seeks to protect by means of a preservation measure, ensuring that subsequent enforcement will be possible or effective.",
+    "japaneseDefinition": "保全命令の申立てにより、その保全の対象とされる、金銭債権その他の権利。",
+    "japaneseWordTranslation": "保全債権 (ほぜんさいけん)",
+    "legalContext": "Civil Preservation Act Art. 13: A preservation measure may be issued only when the claim to be preserved (Preservation Claim) and the necessity of preservation are demonstrated.",
+    "japaneseLegalContext": "民事保全法 第13条: 保全命令は、保全すべき権利（保全債権）及び保全の必要性の疎明があった場合に限り、発することができる。",
+    "exampleSentence": "The court requires the applicant to establish a prima facie showing of both the existence of the Preservation Claim and the need for urgency.",
+    "exampleTranslation": "裁判所は、申立人に保全債権の存在と緊急性の必要性の両方について疎明を要求する。",
+    "vocabularyList": [
+      {
+        "word": "substantive right",
+        "translation": "実体的な権利"
+      },
+      {
+        "word": "preservation measure",
+        "translation": "保全措置"
+      },
+      {
+        "word": "applicant",
+        "translation": "申立人"
+      },
+      {
+        "word": "urgency",
+        "translation": "緊急性"
+      },
+      {
+        "word": "subsequent enforcement",
+        "translation": "後の執行"
+      },
+      {
+        "word": "establish",
+        "translation": "立証する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Commencement of Action on the Merits",
+    "definition": "The initiation of the principal lawsuit intended to resolve the underlying dispute, which must be filed by the preservation applicant within the period specified by the court, often following the issuance of a preservation order.",
+    "japaneseDefinition": "保全命令が出された後、保全債権の存否を確定させるために提起される、本案の訴訟手続きの開始。",
+    "japaneseWordTranslation": "本案の訴えの提起 (ほんあんのうったえのていき)",
+    "legalContext": "Civil Preservation Act Art. 37: If the preservation obligor files a petition, the court shall issue an order setting a period of time for the obligee to commence an action on the merits.",
+    "japaneseLegalContext": "民事保全法 第37条: 保全債務者が申し立てた場合、裁判所は、債権者に対し、本案の訴えを提起すべき期間を定める命令を発しなければならない。",
+    "exampleSentence": "Failure by the obligee to complete the Commencement of Action on the Merits within the stipulated timeframe may lead to the revocation of the provisional order.",
+    "exampleTranslation": "債権者が定められた期間内に本案の訴えの提起を完了しなかった場合、仮の命令の取り消しにつながる可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "principal lawsuit",
+        "translation": "本訴訟"
+      },
+      {
+        "word": "preservation applicant",
+        "translation": "保全申立人"
+      },
+      {
+        "word": "stipulated timeframe",
+        "translation": "規定された期間"
+      },
+      {
+        "word": "revocation",
+        "translation": "取り消し"
+      },
+      {
+        "word": "underlying dispute",
+        "translation": "根底にある紛争"
+      },
+      {
+        "word": "provisional order",
+        "translation": "仮の命令"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restriction on Disposition",
+    "definition": "The legal effect of a preservation order which limits the ability of the debtor (or obligor) to sell, transfer, mortgage, or otherwise alter the legal status of the preserved property, ensuring that the property remains available for future execution.",
+    "japaneseDefinition": "保全命令の効力として、債務者による保全物件の譲渡、売却、担保設定その他の法律的状態の変更を制限すること。",
+    "japaneseWordTranslation": "処分制限 (しょぶんせいげん)",
+    "legalContext": "Civil Preservation Act Art. 52: Upon execution of a provisional seizure, the debtor is legally restricted from disposing of the seized property.",
+    "japaneseLegalContext": "民事保全法 第52条: 仮差押えの執行がされたときは、債務者は、差し押さえられた物の処分を制限される。",
+    "exampleSentence": "The Preservation Court recorded the order against the real property, thereby effectuating a Restriction on Disposition against the Preservation Obligor.",
+    "exampleTranslation": "保全裁判所は不動産に対する命令を登記し、それによって保全債務者に対する処分制限を効力発生させた。",
+    "vocabularyList": [
+      {
+        "word": "mortgage",
+        "translation": "抵当に入れる"
+      },
+      {
+        "word": "legal status",
+        "translation": "法律的状態"
+      },
+      {
+        "word": "preserved property",
+        "translation": "保全物件"
+      },
+      {
+        "word": "future execution",
+        "translation": "将来の執行"
+      },
+      {
+        "word": "effectuating",
+        "translation": "効力発生させる"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      }
+    ]
   }
 ]

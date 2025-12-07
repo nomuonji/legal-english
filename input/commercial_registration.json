@@ -890,5 +890,119 @@
         "translation": "却下する"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Grounds for Dismissal",
+    "definition": "The specific statutory reasons, typically listed in Article 25 of the Commercial Registration Act, which mandate that the Registrar must reject or deny an application for registration (e.g., lack of jurisdiction, non-payment of fees, or required supplementary documents missing).",
+    "japaneseDefinition": "登記の申請が、管轄違い、登録免許税の不納付、添付書類の不備など、商業登記法第25条に定められた法定の要件を満たさない場合に、登記官がこれを拒否しなければならない事由。",
+    "japaneseWordTranslation": "却下の事由 (きゃっかのじゆう)",
+    "legalContext": "Commercial Registration Act Art. 25: Grounds for Dismissal (Sets forth 14 specific reasons why an application must be dismissed by the registrar).",
+    "japaneseLegalContext": "商業登記法第25条：却下の事由（申請の却下を要する14項目の事由を規定する。）",
+    "exampleSentence": "The application for registration was rejected based on Grounds for Dismissal pursuant to Article 25, item 2, due to non-payment of the required registration license tax.",
+    "exampleTranslation": "登録免許税の未納付があったため、商業登記法第25条第2号の却下の事由に基づき、登記申請は却下された。",
+    "vocabularyList": [
+      {
+        "word": "reject/deny",
+        "translation": "却下する (きゃっかする)"
+      },
+      {
+        "word": "application",
+        "translation": "申請 (しんせい)"
+      },
+      {
+        "word": "pursuant to",
+        "translation": "に基づき (にもとづき)"
+      },
+      {
+        "word": "non-payment",
+        "translation": "不納付 (ふのうふ)"
+      },
+      {
+        "word": "registration license tax",
+        "translation": "登録免許税 (とうろくめんきょぜい)"
+      },
+      {
+        "word": "statutory reasons",
+        "translation": "法定の事由 (ほうていのじゆう)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Supplementary Documents",
+    "definition": "Documents required to be attached to the application for registration to prove the legality or existence of the facts to be registered, such as resolutions, certifications, or instruments establishing the registration cause.",
+    "japaneseDefinition": "登記すべき事項の適法性や事実の存在を証明するために、登記申請書に添付することが商業登記法または他の法令により義務付けられている書面。原因証書や議事録などが含まれる。",
+    "japaneseWordTranslation": "添付書面 (てんぷしょめん)",
+    "legalContext": "Commercial Registration Act Art. 46: Documents proving the cause of registration (Requires the submission of documentation necessary to verify the facts requested for registration).",
+    "japaneseLegalContext": "商業登記法第46条：登記の原因を証する書面（登記の申請をする場合、申請に係る登記すべき事項を証する書面を提出しなければならないと規定する。）",
+    "exampleSentence": "The Registrar requested clarification regarding the discrepancy between the submitted Supplementary Documents and the details stated in the Application for Registration.",
+    "exampleTranslation": "登記官は、提出された添付書面と登記申請書に記載された事項との間の相違点について釈明を求めた。",
+    "vocabularyList": [
+      {
+        "word": "discrepancy",
+        "translation": "相違点 (そういてん)"
+      },
+      {
+        "word": "application form",
+        "translation": "申請書 (しんせいしょ)"
+      },
+      {
+        "word": "cause of registration",
+        "translation": "登記の原因 (とうきのげんいん)"
+      },
+      {
+        "word": "to verify",
+        "translation": "証する (しょうする)"
+      },
+      {
+        "word": "legality",
+        "translation": "適法性 (てきほうせい)"
+      },
+      {
+        "word": "to request clarification",
+        "translation": "釈明を求める (しゃくめいをもとめる)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Opposing Effect",
+    "definition": "The legal consequence whereby matters required to be registered under law cannot be legally asserted or enforced against a third party acting in good faith until those matters are officially registered and made public.",
+    "japaneseDefinition": "登記をしなければ第三者に対抗できないという法律上の効力。商業登記は、公示主義に基づき、第三者への対抗要件として機能する。",
+    "japaneseWordTranslation": "対抗力 (たいこうりょく)",
+    "legalContext": "Commercial Registration Act Art. 9: Effect of Registration (Unless registered, matters required to be registered cannot be asserted against a third party who has acted in good faith).",
+    "japaneseLegalContext": "商業登記法第9条：登記の効力（登記をしなければ、善意の第三者に対抗することができない。）",
+    "exampleSentence": "Because the change in the company's organizational structure lacked Opposing Effect, the company could not assert the change against the creditor acting in good faith.",
+    "exampleTranslation": "会社の組織変更は対抗力を欠いていたため、会社は善意の債権者に対してその変更を主張することができなかった。",
+    "vocabularyList": [
+      {
+        "word": "perfection",
+        "translation": "対抗要件の具備 (たいこうようけんのぐび)"
+      },
+      {
+        "word": "assert/enforce",
+        "translation": "主張する (しゅちょうする)"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者 (だいさんしゃ)"
+      },
+      {
+        "word": "acting in good faith",
+        "translation": "善意 (ぜんい)"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "organizational structure",
+        "translation": "組織 (そしき)"
+      }
+    ]
   }
 ]

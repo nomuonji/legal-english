@@ -946,5 +946,119 @@
         "translation": "塀を建設した"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right of Retention",
+    "definition": "A statutory security right allowing a lawful possessor of a movable or immovable property belonging to an obligor to retain that object until the obligor's claim arising out of the object is satisfied.",
+    "japaneseDefinition": "他人の物を占有している者が、その物に関して生じた債権を有している場合に、債権の弁済を受けるまでその物を留置できる権利。",
+    "japaneseWordTranslation": "留置権 (りゅうちけん)",
+    "legalContext": "Civil Code Art. 295, Para. 1: 'Where a person is in possession of an object belonging to another person and has a claim which arose with respect to that object, that person may retain the object until the claim has been satisfied...'",
+    "japaneseLegalContext": "民法第295条第1項: 「他人の物を占有している者は、その物に関して生じた債権を有するときは、その債権の弁済を受けるまで、その物を留置することができる。」",
+    "exampleSentence": "The contractor exercised its right of retention over the constructed warehouse until the final payment for materials and labor was made by the client.",
+    "exampleTranslation": "請負人は、資材と労務に対する最終支払いが依頼人によってなされるまで、建設した倉庫に対する留置権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "statutory security right",
+        "translation": "法定担保物権"
+      },
+      {
+        "word": "lawful possessor",
+        "translation": "適法な占有者"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "satisfied",
+        "translation": "弁済される"
+      },
+      {
+        "word": "contractor",
+        "translation": "請負人"
+      },
+      {
+        "word": "final payment",
+        "translation": "最終支払い"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Avoidance based on Fraud",
+    "definition": "The ability of a party to annul a juristic act (such as a sale or gift) if their declaration of intent was induced by the opposing party’s intentional deception (fraudulent misrepresentation).",
+    "japaneseDefinition": "意思表示が、相手方の欺罔行為（詐欺）によってなされた場合に、その意思表示を取り消すことができる権利。",
+    "japaneseWordTranslation": "詐欺による取消し (さぎによるとりけし)",
+    "legalContext": "Civil Code Art. 96, Para. 1: 'A juristic act induced by fraud or duress may be rescinded (avoided).' ",
+    "japaneseLegalContext": "民法第96条第1項: 「詐欺又は強迫による意思表示は、取り消すことができる。」",
+    "exampleSentence": "The plaintiff sought avoidance based on fraud, alleging that the defendant misrepresented the financial condition of the company during the merger negotiation.",
+    "exampleTranslation": "原告は、合併交渉中に被告が会社の財務状況について虚偽の表示をしたと主張し、詐欺による取消しを求めた。",
+    "vocabularyList": [
+      {
+        "word": "annul",
+        "translation": "無効にする／取り消す"
+      },
+      {
+        "word": "juristic act",
+        "translation": "法律行為"
+      },
+      {
+        "word": "declaration of intent",
+        "translation": "意思表示"
+      },
+      {
+        "word": "intentional deception",
+        "translation": "故意の欺罔行為"
+      },
+      {
+        "word": "misrepresented",
+        "translation": "虚偽の表示をした"
+      },
+      {
+        "word": "duress",
+        "translation": "強迫"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Rights of Demand and Search",
+    "definition": "Defenses available only to an ordinary surety (not a joint and several guarantor) which allow the surety to resist the obligee’s demand for performance until the obligee has first pressed the principal obligor (Demand) or sought execution against the principal obligor’s property (Search).",
+    "japaneseDefinition": "通常の保証人が債権者からの履行請求に対し、主たる債務者への催告（催告の抗弁権）や主たる債務者の財産への強制執行（検索の抗弁権）を先に求めることができる権利。",
+    "japaneseWordTranslation": "催告・検索の抗弁権 (さいこく・けんさくのこうべんけん)",
+    "legalContext": "Civil Code Art. 452 (Right of Demand); Art. 453 (Right of Search). These rights are extinguished if the surety assumes the status of a joint and several guarantor.",
+    "japaneseLegalContext": "民法第452条（催告の抗弁）、第453条（検索の抗弁）。これらの権利は連帯保証人には認められない。",
+    "exampleSentence": "The surety successfully invoked the rights of demand and search, compelling the creditor to confirm that the principal obligor lacked sufficient attachable assets before proceeding against the surety’s own collateral.",
+    "exampleTranslation": "保証人は、催告・検索の抗弁権を行使し、債権者が保証人自身の担保に対して手続きを進める前に、主たる債務者に十分な差押可能な財産がないことを確認するよう強制した。",
+    "vocabularyList": [
+      {
+        "word": "ordinary surety",
+        "translation": "通常の保証人"
+      },
+      {
+        "word": "principal obligor",
+        "translation": "主たる債務者"
+      },
+      {
+        "word": "compelling",
+        "translation": "強制する"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "demand for performance",
+        "translation": "履行の請求"
+      },
+      {
+        "word": "collateral",
+        "translation": "担保"
+      }
+    ]
   }
 ]

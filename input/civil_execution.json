@@ -934,5 +934,107 @@
         "translation": "登記／登録"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order of Granting Sale",
+    "definition": "A judicial order issued by the execution court that formally approves the transfer of executed property (typically immovable property) to the successful bidder after the bidding process is completed and objections, if any, have been resolved.",
+    "japaneseDefinition": "執行裁判所が、開札期日の後に、買受申出人による代金の納付を許可し、不動産の所有権をその買受人に移転させることを決定する裁判。",
+    "japaneseWordTranslation": "売却許可決定 (ばいきゃくきょか けってい)",
+    "legalContext": "Civil Execution Act, Art. 69: The execution court shall, upon petition of the execution obligee, conduct the procedure for the sale of the real property by way of auction, except where the execution objection has been filed...",
+    "japaneseLegalContext": "民事執行法 第69条: 執行裁判所は、差押債権者の申立てにより、競売の方法により不動産の売却の手続を行うものとする。",
+    "exampleSentence": "The execution court issued the Order of Granting Sale immediately following the successful bidder's full payment of the purchase price.",
+    "exampleTranslation": "執行裁判所は、最高価買受申出人が購入代金の全額を支払った直後に、売却許可決定を出した。",
+    "vocabularyList": [
+      {
+        "word": "immovable property",
+        "translation": "不動産 (ふどうさん)"
+      },
+      {
+        "word": "successful bidder",
+        "translation": "最高価買受申出人 (さいこうかかいうけもうしでにん)"
+      },
+      {
+        "word": "purchase price",
+        "translation": "購入代金 (こうにゅうだいきん)"
+      },
+      {
+        "word": "execution obligee",
+        "translation": "差押債権者 (さしおさえさいけんしゃ)"
+      },
+      {
+        "word": "bidding process",
+        "translation": "入札手続 (にゅうさつてつづき)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Objection",
+    "definition": "A procedural motion filed by a party to the execution process, seeking the execution court's ruling on alleged defects or illegalities concerning the procedural steps taken by the court or the execution officer.",
+    "japaneseDefinition": "民事執行手続における裁判所の処分または執行官の処分について、当事者が執行裁判所に申し立てる不服申立ての一種。",
+    "japaneseWordTranslation": "執行異議 (しっこう いぎ)",
+    "legalContext": "Civil Execution Act, Art. 10(1): A party or successor may, if there is an objection to the procedure of compulsory execution as implemented by an execution officer, make an execution objection to the execution court.",
+    "japaneseLegalContext": "民事執行法 第10条第1項: 執行官の執行に関する処分について不服がある当事者又は承継人は、執行裁判所に対し、執行異議の申立てをすることができる。",
+    "exampleSentence": "The obligor filed an Execution Objection alleging that the execution officer failed to follow proper notification procedures before seizing the assets.",
+    "exampleTranslation": "債務者は、執行官が財産の差押えの前に適切な通知手続を怠ったとして、執行異議を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "procedural motion",
+        "translation": "手続上の申立て (てつづきじょうのもうしたて)"
+      },
+      {
+        "word": "execution officer",
+        "translation": "執行官 (しっこうかん)"
+      },
+      {
+        "word": "seizing the assets",
+        "translation": "財産の差押え (ざいさんのさしおさえ)"
+      },
+      {
+        "word": "successor",
+        "translation": "承継人 (しょうけいにん)"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行 (きょうせいしっこう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Assessment Value",
+    "definition": "The monetary value officially assigned to property (especially immovable property) subject to execution, determined by the execution court based on an expert appraisal report, which forms the basis for setting the conditions of the judicial sale.",
+    "japaneseDefinition": "不動産執行において、執行裁判所が選任した評価人による鑑定に基づいて定める、当該不動産の適正な市場価値。",
+    "japaneseWordTranslation": "評価額 (ひょうか がく)",
+    "legalContext": "Civil Execution Act, Art. 60(2): The execution court shall have the valuation person appointed by the execution court assess the current value of the real property subject to execution.",
+    "japaneseLegalContext": "民事執行法 第60条第2項: 執行裁判所は、執行裁判所が選任した評価人に、執行不動産の現況及び評価額を定めさせる。",
+    "exampleSentence": "The bank objected that the Assessment Value determined by the court-appointed appraiser was significantly lower than the current market rate for the area.",
+    "exampleTranslation": "銀行は、裁判所が選任した鑑定人によって決定された評価額が、当該地域の現在の市場価格よりも大幅に低いとして異議を唱えた。",
+    "vocabularyList": [
+      {
+        "word": "appraiser",
+        "translation": "評価人 (ひょうかにん)"
+      },
+      {
+        "word": "expert appraisal report",
+        "translation": "鑑定報告書 (かんていほうこくしょ)"
+      },
+      {
+        "word": "market rate",
+        "translation": "市場価格 (しじょうかかく)"
+      },
+      {
+        "word": "judicial sale",
+        "translation": "競売 (けいばい)"
+      },
+      {
+        "word": "current value",
+        "translation": "現況及び評価額 (げんきょうおよびひょうかがく)"
+      }
+    ]
   }
 ]

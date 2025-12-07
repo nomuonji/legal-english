@@ -1084,5 +1084,115 @@
         "translation": "現状"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Debtor",
+    "definition": "The party against whom a motion for civil preservation has been filed, and whose assets or legal status are subject to restrictions imposed by a court order.",
+    "japaneseDefinition": "民事保全の申立てがなされた相手方であり、裁判所の命令により財産や法的地位の制限を受ける者を指す。",
+    "japaneseWordTranslation": "保全債務者 (ほぜんさいむしゃ)",
+    "legalContext": "Civil Preservation Act establishes the procedures whereby the court may issue a preservation measure against the Preservation Debtor to secure the efficacy of a future final judgment.",
+    "japaneseLegalContext": "民事保全法は、将来の確定判決の実効性を確保するため、裁判所が保全債務者に対し保全処分を発する手続きを定める。",
+    "exampleSentence": "The Preservation Debtor submitted documents proving that the property subject to the motion was not owned solely by them.",
+    "exampleTranslation": "保全債務者は、申立ての対象となっている財産が自己単独の所有ではないことを証明する書類を提出した。",
+    "vocabularyList": [
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "court order",
+        "translation": "裁判所命令"
+      },
+      {
+        "word": "final judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "efficacy",
+        "translation": "実効性"
+      },
+      {
+        "word": "subject to",
+        "translation": "対象となる"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Measure",
+    "definition": "A court action taken pursuant to the Civil Preservation Act, encompassing general restrictive actions aimed at preventing changes to assets or legal relationships until the main litigation is concluded.",
+    "japaneseDefinition": "民事保全法に基づき裁判所が行う行為の総称であり、本案訴訟が終結するまでの間、財産や法律関係の変更を防ぐことを目的とする一般的な制限的措置。",
+    "japaneseWordTranslation": "保全処分 (ほぜんしょぶん)",
+    "legalContext": "Civil Preservation Act, Art. 1: The purpose of the Act is to provide Preservation Measures to secure execution or to establish a temporary legal status.",
+    "japaneseLegalContext": "民事保全法第1条: この法律は、強制執行を保全し、又は争いのある権利関係につき仮の地位を定めるための保全処分に関し、その手続きを定める。",
+    "exampleSentence": "The company immediately sought a Preservation Measure after discovering evidence that its former executive was attempting to liquidate sensitive corporate assets.",
+    "exampleTranslation": "その企業は、元役員が機密性の高い会社資産を清算しようとしている証拠を発見した後、直ちに保全処分を求めた。",
+    "vocabularyList": [
+      {
+        "word": "pursuant to",
+        "translation": "〜に基づき"
+      },
+      {
+        "word": "restrictive actions",
+        "translation": "制限的措置"
+      },
+      {
+        "word": "main litigation",
+        "translation": "本案訴訟"
+      },
+      {
+        "word": "liquidate",
+        "translation": "清算する"
+      },
+      {
+        "word": "legal status",
+        "translation": "法的地位"
+      },
+      {
+        "word": "executive",
+        "translation": "役員"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Scrutiny of Preservation Necessity",
+    "definition": "The formal process by which the court examines the urgency and need for the requested preservation measure, ensuring that the measure is essential to prevent substantial difficulty in obtaining satisfaction through future execution.",
+    "japaneseDefinition": "申立てられた保全処分の緊急性や必要性を裁判所が審査する正式な手続き。将来の執行において著しい困難を避けるために当該措置が不可欠であることを確認する。",
+    "japaneseWordTranslation": "保全の必要性の審査 (ほぜんのひつようせいのしんさ)",
+    "legalContext": "Civil Preservation Act requires that the court undertake a Judicial Scrutiny of Preservation Necessity before issuing any preservation decision, balancing the applicant's rights against the debtor's interests.",
+    "japaneseLegalContext": "民事保全法は、裁判所が保全決定を下す前に保全の必要性の審査を行うこと、および申立人の権利と債務者の利益を比較衡量することを要求している。",
+    "exampleSentence": "The court's decision hinged on the Judicial Scrutiny of Preservation Necessity, ultimately finding that the delay in filing the motion undermined the claim of urgency.",
+    "exampleTranslation": "裁判所の決定は保全の必要性の審査にかかっており、最終的に申立ての遅れが緊急性の主張を損なうと判断された。",
+    "vocabularyList": [
+      {
+        "word": "urgency",
+        "translation": "緊急性"
+      },
+      {
+        "word": "substantial difficulty",
+        "translation": "著しい困難"
+      },
+      {
+        "word": "obtaining satisfaction",
+        "translation": "満足を得ること（債権の回収）"
+      },
+      {
+        "word": "balancing interests",
+        "translation": "利益の比較衡量"
+      },
+      {
+        "word": "undermined",
+        "translation": "損なう"
+      },
+      {
+        "word": "delay in filing",
+        "translation": "申立ての遅れ"
+      }
+    ]
   }
 ]

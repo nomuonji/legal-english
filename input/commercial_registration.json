@@ -1122,5 +1122,107 @@
         "translation": "発生した"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Commercial Register",
+    "definition": "The official public record maintained by the Registry Office (Legal Affairs Bureau) where matters concerning commercial entities, such as corporations and sole proprietors, are recorded pursuant to the Commercial Registration Act and related laws.",
+    "japaneseDefinition": "法務局（登記所）が商業登記法および関連法令に基づき、会社その他の商人の設立や重要事項を公に記録・管理する帳簿。",
+    "japaneseWordTranslation": "商業登記簿 (しょうぎょうとうきぼ)",
+    "legalContext": "Commercial Registration Act (商業登記法) Art. 10: The commercial register shall be maintained by dividing it into the register of trade names, the register of domestic companies, the register of foreign companies, and the register of other matters.",
+    "japaneseLegalContext": "商業登記法 第10条: 商業登記簿は、商号登記簿、内国会社登記簿、外国会社登記簿及びその他の登記簿に区分して調製する。",
+    "exampleSentence": "The purpose of the commercial register is to provide certainty in commercial transactions by making essential information about business entities publicly accessible.",
+    "exampleTranslation": "商業登記簿の目的は、事業体に関する重要な情報を一般公開することで、商取引の確実性を提供することにある。",
+    "vocabularyList": [
+      {
+        "word": "Registry Office",
+        "translation": "登記所 (とうきしょ)"
+      },
+      {
+        "word": "sole proprietor",
+        "translation": "個人事業主 (こじんじぎょうぬし)"
+      },
+      {
+        "word": "legal affairs bureau",
+        "translation": "法務局 (ほうむきょく)"
+      },
+      {
+        "word": "publicly accessible",
+        "translation": "公にアクセス可能 (おおやけにアクセスかのう)"
+      },
+      {
+        "word": "essential information",
+        "translation": "重要な情報 (じゅうようなじょうほう)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Change",
+    "definition": "The procedure required to update the Commercial Register when a registered matter has undergone alteration. This applies to fundamental changes such as a change in the trade name, relocation of the principal office, or change in the representative director.",
+    "japaneseDefinition": "登記されている事項に変更が生じた際に、商業登記簿を更新するために義務付けられる手続。商号変更、本店移転、代表取締役の変更など、基本的な変更に適用される。",
+    "japaneseWordTranslation": "変更の登記 (へんこうのとうき)",
+    "legalContext": "Commercial Registration Act Art. 48: When any change occurs in the matters registered by a company, the registration of the change shall be applied for within two weeks from the day on which the change occurred.",
+    "japaneseLegalContext": "商業登記法 第48条: 会社において登記した事項に変更が生じたときは、変更が生じた日から二週間以内に、変更の登記をしなければならない。",
+    "exampleSentence": "Failure to file the registration of change within the statutory period may result in an administrative penalty (karyo) imposed on the representative director.",
+    "exampleTranslation": "法定期間内に変更の登記を申請しなかった場合、代表取締役に対して行政罰（過料）が科される可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "statutory period",
+        "translation": "法定期間 (ほうていきかん)"
+      },
+      {
+        "word": "alteration",
+        "translation": "変更 (へんこう)"
+      },
+      {
+        "word": "representative director",
+        "translation": "代表取締役 (だいひょうとりしまりやく)"
+      },
+      {
+        "word": "administrative penalty (karyo)",
+        "translation": "過料 (かりょう)"
+      },
+      {
+        "word": "principal office",
+        "translation": "本店 (ほんてん)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Matters Required to be Registered",
+    "definition": "Specific facts, conditions, or actions stipulated by the Companies Act and Commercial Registration Act that must be recorded in the Commercial Register to ensure public knowledge, often related to the establishment, governance, and capital structure of a company.",
+    "japaneseDefinition": "会社の設立、ガバナンス、資本構成などに関して、公衆に周知させるために、会社法および商業登記法によって商業登記簿に記録することが義務付けられている特定の事実、条件、または行為。",
+    "japaneseWordTranslation": "登記すべき事項 (とうきすべきじこう)",
+    "legalContext": "Companies Act (会社法) Art. 911 (3): The matters required to be registered for a Stock Company (Kabushiki Kaisha) include its trade name, the location of its principal office, the amount of stated capital, and the names of its representative directors.",
+    "japaneseLegalContext": "会社法 第911条第3項: 株式会社において登記すべき事項には、その商号、本店の所在地、資本金の額、及び代表取締役の氏名が含まれる。",
+    "exampleSentence": "Unless the matters required to be registered have been duly recorded in the Commercial Register, such changes generally cannot be asserted against a third party acting in good faith.",
+    "exampleTranslation": "登記すべき事項が商業登記簿に正式に記録されていない限り、原則として、その変更を善意の第三者に対抗することはできない。",
+    "vocabularyList": [
+      {
+        "word": "assert against a third party",
+        "translation": "第三者に対抗する (だいさんしゃにたいこうする)"
+      },
+      {
+        "word": "governance",
+        "translation": "統治 (とうち)"
+      },
+      {
+        "word": "stipulated",
+        "translation": "規定された (きていされた)"
+      },
+      {
+        "word": "capital structure",
+        "translation": "資本構成 (しほんこうせい)"
+      },
+      {
+        "word": "acting in good faith",
+        "translation": "善意で行動する (ぜんいでこうどうする)"
+      }
+    ]
   }
 ]

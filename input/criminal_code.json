@@ -1140,5 +1140,127 @@
         "translation": "元警察署長"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Criminal Intent",
+    "definition": "The mental element of an accused person's guilt (mens rea), referring to the knowledge and volition required for the commission of a crime, meaning the perpetrator acted knowingly and willingly regarding the constitutive elements of the crime.",
+    "japaneseDefinition": "犯罪を構成する事実を認識し、かつ、それを実現しようとする意思のこと。刑法上の責任要素の一つであり、故意犯の成立に不可欠である。",
+    "japaneseWordTranslation": "故意 (こい)",
+    "legalContext": "Criminal Code Art. 38, Paragraph 1: A person who commits an act unintentionally shall not be punished; provided, however, that the person shall be punished if otherwise specifically provided by law.",
+    "japaneseLegalContext": "刑法第38条第1項: 罪を犯す意思がない行為は、罰しない。ただし、法律に特別の規定がある場合は、この限りでない。",
+    "exampleSentence": "Japanese law generally requires Criminal Intent (mens rea) for the imposition of criminal liability, differentiating intentional crimes from crimes committed by negligence.",
+    "exampleTranslation": "日本法は、一般的に刑罰責任の賦課には故意（責任魚素）を要求し、これにより故意犯を過失犯と区別している。",
+    "vocabularyList": [
+      {
+        "word": "mens rea",
+        "translation": "犯罪の意思（故意）"
+      },
+      {
+        "word": "volition",
+        "translation": "意思; 意欲"
+      },
+      {
+        "word": "imposition",
+        "translation": "賦課; 課すこと"
+      },
+      {
+        "word": "criminal liability",
+        "translation": "刑事責任"
+      },
+      {
+        "word": "differentiating",
+        "translation": "区別する"
+      },
+      {
+        "word": "perpetrator",
+        "translation": "犯人; 行為者"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Impossibility of Crime",
+    "definition": "A doctrine concerning an attempt where the execution fails because the means employed or the object targeted makes the completion of the constituent elements fundamentally impossible, raising the question of whether punishment is justified.",
+    "japaneseDefinition": "実行行為が行われたものの、用いられた手段や対象の性質上、構成要件の実現が客観的に不可能な場合を指す。可罰性の有無が問題となる。",
+    "japaneseWordTranslation": "不能犯 (ふのうはん)",
+    "legalContext": "The interpretation of Impossibility of Crime relates to Criminal Code Article 43 (Attempted Crime), distinguishing it from mere unsuccessful attempts.",
+    "japaneseLegalContext": "刑法第43条（未遂罪）の解釈論として、不能犯は通常の未遂とは区別される。",
+    "exampleSentence": "The defense successfully argued for the Impossibility of Crime, asserting that the substance used to harm the victim was medically harmless and thus completion was objectively unattainable.",
+    "exampleTranslation": "弁護側は不能犯を主張し、被害者に危害を加えるために用いられた物質は医学的に無害であり、したがって犯罪の完成は客観的に達成不可能であったと訴えた。",
+    "vocabularyList": [
+      {
+        "word": "doctrine",
+        "translation": "法理; 学説"
+      },
+      {
+        "word": "constituent elements",
+        "translation": "構成要件"
+      },
+      {
+        "word": "justified",
+        "translation": "正当化された"
+      },
+      {
+        "word": "objectively unattainable",
+        "translation": "客観的に達成不可能な"
+      },
+      {
+        "word": "substance",
+        "translation": "物質"
+      },
+      {
+        "word": "unsuccessful attempt",
+        "translation": "未遂（結果不発生）"
+      },
+      {
+        "word": "asserting",
+        "translation": "主張する"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Arson",
+    "definition": "The crime of willfully setting fire to a structure, vessel, or other object, typically categorized in Japanese law based on whether the burned object is an inhabited dwelling, an uninhabited structure, or property belonging to the offender.",
+    "japaneseDefinition": "故意に火をつけて建造物、船舶、またはその他の物を焼損する罪。公共の安全を侵害する罪として刑法に定められている。",
+    "japaneseWordTranslation": "放火罪 (ほうかざい)",
+    "legalContext": "Criminal Code Art. 108: A person who sets fire to a structure, vessel, or mine currently inhabited by or present with a person shall be punished by imprisonment with labor for life or for not less than three years.",
+    "japaneseLegalContext": "刑法第108条: 現に人が住居に使用し、又は現に人がいる建造物、汽車、電車、船舶又は鉱坑を焼損した者は、無期又は三年以上の懲役に処する。",
+    "exampleSentence": "The defendant was indicted on multiple counts of Arson, specifically targeting uninhabited buildings owned by competitors in retaliation for a business dispute.",
+    "exampleTranslation": "被告人は、事業上の紛争への報復として、競合他社が所有する非現住建造物を標的とした複数の放火罪で起訴された。",
+    "vocabularyList": [
+      {
+        "word": "indicted",
+        "translation": "起訴された"
+      },
+      {
+        "word": "counts of",
+        "translation": "罪状（件）"
+      },
+      {
+        "word": "inhabited structure",
+        "translation": "現住建造物"
+      },
+      {
+        "word": "retaliation",
+        "translation": "報復"
+      },
+      {
+        "word": "vessel",
+        "translation": "船舶"
+      },
+      {
+        "word": "imprisonment with labor",
+        "translation": "懲役"
+      },
+      {
+        "word": "specifically targeting",
+        "translation": "特に標的として"
+      }
+    ]
   }
 ]

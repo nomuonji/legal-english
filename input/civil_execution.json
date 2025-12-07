@@ -1150,5 +1150,119 @@
         "translation": "買受代金"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Acceptable Notarized Deed",
+    "definition": "A notarial deed (Kōsei Shōsho) which contains a statement by the obligor that they immediately accept compulsory execution concerning a monetary claim (such as rent or a loan repayment), thereby serving as an execution title without the need for a prior court judgment.",
+    "japaneseDefinition": "債務者が直ちに強制執行に服する旨の陳述が記載された公正証書。金銭債権について、裁判の確定を待たずに執行に着手できる執行権原となる。",
+    "japaneseWordTranslation": "執行受諾文言付公正証書 (しっこうじゅだくもんごんつきこうせいしょうしょ)",
+    "legalContext": "Civil Execution Act Art. 22(5): Execution titles shall be... notarial deeds which contain a clause concerning payment of a certain amount of money or other fungible things or securities, and which include a statement by the obligor that they immediately accept compulsory execution.",
+    "japaneseLegalContext": "民事執行法第22条第5号: 執行証書は...一定の金額の支払又はその他の代替物若しくは有価証券の給付を目的とする請求について、債務者が直ちに強制執行に服する旨の陳述が記載されている公正証書とする。",
+    "exampleSentence": "The execution obligee sought enforcement based on the Execution Acceptable Notarized Deed recorded by the public notary, bypassing the need for litigation.",
+    "exampleTranslation": "債権者は、公証人によって作成された執行受諾文言付公正証書に基づき、訴訟の必要を回避して強制執行を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "public notary",
+        "translation": "公証人"
+      },
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権"
+      },
+      {
+        "word": "fungible things",
+        "translation": "代替物"
+      },
+      {
+        "word": "execution title",
+        "translation": "執行権原（執行証書）"
+      },
+      {
+        "word": "bypassing",
+        "translation": "回避する"
+      },
+      {
+        "word": "enforcement",
+        "translation": "執行"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Compulsory Administration",
+    "definition": "A method of execution against immovable property where the execution court appoints an administrator to manage the property and collect its income (e.g., rent or fruits), using those proceeds to satisfy the execution claim, instead of selling the property.",
+    "japaneseDefinition": "不動産に対する執行方法の一つであり、不動産の売却によらず、執行裁判所が管理人を選任して、その不動産から生じる収益（賃料等）を回収し、それを債権者に弁済に充てる手続。",
+    "japaneseWordTranslation": "強制管理 (きょうせいかんり)",
+    "legalContext": "Civil Execution Act Art. 93: If a petition for compulsory administration is filed, the execution court shall commence compulsory administration and order the execution officer to record the commencement in the registration record.",
+    "japaneseLegalContext": "民事執行法第93条: 強制管理の申立てがあったときは、執行裁判所は、強制管理の開始決定をし、執行官に対し、その開始決定の登記を嘱託しなければならない。",
+    "exampleSentence": "Because the rental income from the apartment building was sufficient to cover the debt over time, the obligee opted for compulsory administration rather than a forced auction.",
+    "exampleTranslation": "そのアパートからの賃料収入が時間をかけて債務を弁済するのに十分であったため、債権者は強制競売ではなく強制管理を選択した。",
+    "vocabularyList": [
+      {
+        "word": "immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "administrator",
+        "translation": "管理人"
+      },
+      {
+        "word": "proceeds",
+        "translation": "収益（金）"
+      },
+      {
+        "word": "forced auction",
+        "translation": "強制競売"
+      },
+      {
+        "word": "execution claim",
+        "translation": "執行債権"
+      },
+      {
+        "word": "record the commencement",
+        "translation": "開始決定の登記を嘱託する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Realization",
+    "definition": "In the context of execution, the procedural step of converting the seized property (movable, immovable, or claims) into cash through sale or collection, allowing the proceeds to be distributed among the obligors.",
+    "japaneseDefinition": "差押えられた財産（動産、不動産、または債権）を売却または取立てにより金銭に換える手続であり、その売却金や取立金を債権者へ配当するために必須となる段階。",
+    "japaneseWordTranslation": "換価 (かんか)",
+    "legalContext": "Civil Execution Act Part II, Chapter 1, Section 5: Procedures for realization of assets are fundamentally different depending on the type of property seized, such as auction for immovable property or private sale for movable property.",
+    "japaneseLegalContext": "民事執行法第2編第1章第5節: 換価手続は、差押えられた財産の種類によって根本的に異なり、不動産は競売、動産は売却などによって行われる。",
+    "exampleSentence": "After the seizure of the debtor's commercial machinery, the execution officer proceeded to the realization phase by conducting a public auction.",
+    "exampleTranslation": "債務者の業務用機械が差し押さえられた後、執行官は公売を実施することにより換価の段階に移行した。",
+    "vocabularyList": [
+      {
+        "word": "seized property",
+        "translation": "差押えられた財産"
+      },
+      {
+        "word": "conversion into cash",
+        "translation": "金銭への換価"
+      },
+      {
+        "word": "distribution",
+        "translation": "配当"
+      },
+      {
+        "word": "commercial machinery",
+        "translation": "業務用機械"
+      },
+      {
+        "word": "public auction",
+        "translation": "公売"
+      },
+      {
+        "word": "procedural step",
+        "translation": "手続段階"
+      }
+    ]
   }
 ]

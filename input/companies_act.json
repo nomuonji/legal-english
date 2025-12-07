@@ -1060,5 +1060,119 @@
         "translation": "発行価額"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Share Register",
+    "definition": "A ledger or record maintained by a company listing the names, addresses, number of shares, and acquisition dates of all shareholders. It establishes the prerequisite for exercising shareholder rights against the company.",
+    "japaneseDefinition": "会社が株主の氏名、住所、保有株式数、株式取得日等を記載または記録した帳簿。会社に対する株主権の行使要件となる。",
+    "japaneseWordTranslation": "株主名簿 (かぶぬしめいぼ)",
+    "legalContext": "Companies Act Art. 121: Preparation and keeping of a Share Register.",
+    "japaneseLegalContext": "会社法第121条：株主名簿の作成及び備置き",
+    "exampleSentence": "A shareholder must be recorded in the Share Register to assert their rights against the company regarding dividend distribution.",
+    "exampleTranslation": "株主が会社に対し配当金の分配に関する権利を主張するためには、株主名簿に記載されている必要がある。",
+    "vocabularyList": [
+      {
+        "word": "Shareholder",
+        "translation": "株主"
+      },
+      {
+        "word": "Exercise rights",
+        "translation": "権利を行使する"
+      },
+      {
+        "word": "Distribution",
+        "translation": "分配"
+      },
+      {
+        "word": "Acquisition date",
+        "translation": "取得日"
+      },
+      {
+        "word": "Keeping (of records)",
+        "translation": "備置き"
+      },
+      {
+        "word": "Ledger/Record",
+        "translation": "帳簿"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Capital Reserve",
+    "definition": "An amount of money derived from capital transactions, such as the premium exceeding the par value upon the issuance of shares, which must be set aside to maintain the company's financial stability.",
+    "japaneseDefinition": "株式発行時の額面超過額など、資本取引から生じた金額で、会社の財産的基礎維持のために積み立てなければならない準備金。",
+    "japaneseWordTranslation": "資本準備金 (しほんじゅんびきん)",
+    "legalContext": "Companies Act Art. 445: Amount of Capital Reserve.",
+    "japaneseLegalContext": "会社法第445条：資本準備金の額",
+    "exampleSentence": "Japanese law mandates that a company set aside at least half of the amount exceeding the par value of newly issued shares as Capital Reserve.",
+    "exampleTranslation": "日本の法律では、会社が新たに発行した株式の額面超過額の少なくとも半分を資本準備金として積み立てることが義務付けられている。",
+    "vocabularyList": [
+      {
+        "word": "Capital transaction",
+        "translation": "資本取引"
+      },
+      {
+        "word": "Par value",
+        "translation": "額面"
+      },
+      {
+        "word": "Issuance of shares",
+        "translation": "株式の発行"
+      },
+      {
+        "word": "Set aside (reserve)",
+        "translation": "積み立てる"
+      },
+      {
+        "word": "Financial stability",
+        "translation": "財産的基礎"
+      },
+      {
+        "word": "Mandate/Obligation",
+        "translation": "義務付ける"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Dissolution",
+    "definition": "The formal legal act by which a company ceases to exist as a going concern, typically followed by liquidation proceedings, marking the end of its legal personality except for winding-up purposes.",
+    "japaneseDefinition": "会社が事業活動を停止し、清算手続きへ移行する法的な行為。清算の目的の範囲内で法人格が存続する。",
+    "japaneseWordTranslation": "解散 (かいさん)",
+    "legalContext": "Companies Act Art. 471: Grounds for Dissolution.",
+    "japaneseLegalContext": "会社法第471条：解散の事由",
+    "exampleSentence": "A company may proceed to Dissolution either voluntarily by shareholder vote or involuntarily upon judicial order or certain statutory events.",
+    "exampleTranslation": "会社は、株主による議決による任意解散、または裁判所の命令や特定の法定事由に基づく非任意解散のいずれかの方法で解散手続きに進むことができる。",
+    "vocabularyList": [
+      {
+        "word": "Liquidation",
+        "translation": "清算"
+      },
+      {
+        "word": "Going concern",
+        "translation": "継続企業"
+      },
+      {
+        "word": "Legal personality",
+        "translation": "法人格"
+      },
+      {
+        "word": "Winding-up purposes",
+        "translation": "清算の目的"
+      },
+      {
+        "word": "Judicial order",
+        "translation": "裁判所の命令"
+      },
+      {
+        "word": "Involuntarily",
+        "translation": "非任意に"
+      }
+    ]
   }
 ]

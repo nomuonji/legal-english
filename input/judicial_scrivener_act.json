@@ -2,40 +2,6 @@
   {
     "category": "Judicial Scrivener Act (司法書士法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Judicial Scrivener",
-    "definition": "A legal professional qualified to represent clients in registration procedures and prepare legal documents for courts.",
-    "japaneseDefinition": "登記手続の代理や裁判所提出書類の作成などを業とする法律専門職。",
-    "japaneseWordTranslation": "司法書士 (しほうしょし)",
-    "legalContext": "Judicial Scrivener Act Art. 3: A judicial scrivener shall engage in the business of representing others in registration procedures.",
-    "japaneseLegalContext": "司法書士法第3条：司法書士は、他人の依頼を受けて、登記に関する手続について代理すること...を業とする。",
-    "exampleSentence": "We hired a judicial scrivener to handle the real estate registration for the new house.",
-    "exampleTranslation": "新居の不動産登記を行うために司法書士を雇った。",
-    "vocabularyList": [
-      {
-        "word": "Legal professional",
-        "translation": "法律専門職"
-      },
-      {
-        "word": "Represent",
-        "translation": "代理する"
-      },
-      {
-        "word": "Registration procedure",
-        "translation": "登記手続"
-      },
-      {
-        "word": "Handle",
-        "translation": "処理する/行う"
-      },
-      {
-        "word": "Real estate",
-        "translation": "不動産"
-      }
-    ]
-  },
-  {
-    "category": "Judicial Scrivener Act (司法書士法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Representation",
     "definition": "The act of performing legal acts, such as applying for registration, on behalf of another person.",
     "japaneseDefinition": "他人に代わって登記申請などの法律行為を行うこと。",
@@ -1008,6 +974,82 @@
       {
         "word": "act as an agent",
         "translation": "代理人として活動する"
+      }
+    ]
+  },
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Authority to Represent in Summary Court Proceedings",
+    "definition": "The special authorization granted only to judicial scriveners who have undergone specific training and testing (certified judicial scriveners) to act as legal representatives in civil cases before a Summary Court, provided the value of the claim does not exceed 1,400,000 yen.",
+    "japaneseDefinition": "特別の研修と試験を経た司法書士（認定司法書士）に対して、簡易裁判所における民事訴訟事件において訴訟代理人となることが認められる権限。ただし、訴訟の目的の価額が140万円以下の事件に限られる。",
+    "japaneseWordTranslation": "簡易裁判所における訴訟代理権 (かんいさいばんしょにおけるそしょうだいりけん)",
+    "legalContext": "Judicial Scrivener Act Art. 3, Para. 1, Item 6: 'A Judicial Scrivener who has obtained the certification... may conduct the procedures... for Summary Court proceedings, etc., related to the lawsuit the value of which does not exceed the amount specified by Cabinet Order (1,400,000 yen).'",
+    "japaneseLegalContext": "司法書士法第3条第1項第6号：「法務大臣が定める研修を修了し、かつ、法務大臣が定める試験に合格し、その旨の認定を受けた司法書士（以下「認定司法書士」という。）は、簡易裁判所における訴訟手続等について、訴訟の目的の価額が政令で定める額（140万円）を超えないものについて、代理する。」",
+    "exampleSentence": "The certified judicial scrivener utilized the authority to represent in Summary Court proceedings to file the statement of claim for the small debt collection case.",
+    "exampleTranslation": "認定司法書士は、少額債権回収事件の訴状を提出するため、簡易裁判所における訴訟代理権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "Certified Judicial Scrivener",
+        "translation": "認定司法書士 (にんていしほうしょし)"
+      },
+      {
+        "word": "Summary Court",
+        "translation": "簡易裁判所 (かんいさいばんしょ)"
+      },
+      {
+        "word": "Statement of Claim",
+        "translation": "訴状 (そじょう)"
+      },
+      {
+        "word": "Small Debt Collection Case",
+        "translation": "少額債権回収事件 (しょうがくさいけんかいしゅうじけん)"
+      },
+      {
+        "word": "Legal Representative",
+        "translation": "訴訟代理人 (そしょうだいりにん)"
+      },
+      {
+        "word": "Cabinet Order",
+        "translation": "政令 (せいれい)"
+      }
+    ]
+  },
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Japan Federation of Judicial Scrivener Associations (JFJSA)",
+    "definition": "The national mandatory professional organization for all judicial scriveners, established under the Judicial Scrivener Act, responsible for coordinating activities, providing guidance, and overseeing the professional conduct of its members across Japan.",
+    "japaneseDefinition": "司法書士法に基づき設立された全国的な法人で、すべての司法書士会を会員とする。司法書士の指導、連絡、監督、およびその倫理的行動を統括する役割を担う。",
+    "japaneseWordTranslation": "日本司法書士会連合会 (にほんしほうしょしかいれんごうかい)",
+    "legalContext": "Judicial Scrivener Act Art. 52: 'In order to maintain the dignity of the judicial scriveners, improve the work of the judicial scriveners, and ensure the appropriate operation of the judicial scrivener system, the judicial scrivener associations shall establish the Japan Federation of Judicial Scrivener Associations.'",
+    "japaneseLegalContext": "司法書士法第52条：「司法書士の品位を保持し、司法書士の事務の改善進歩を図るため、日本司法書士会連合会を設立する。」",
+    "exampleSentence": "The JFJSA sets the professional ethics standards and handles serious cases of professional misconduct that require national coordination.",
+    "exampleTranslation": "日本司法書士会連合会は職業倫理基準を定め、全国的な連携が必要な重大な専門職としての不正行為の案件を扱う。",
+    "vocabularyList": [
+      {
+        "word": "Professional Organization",
+        "translation": "職能団体 (しょくのうだんたい)"
+      },
+      {
+        "word": "Dignity",
+        "translation": "品位 (ひんい)"
+      },
+      {
+        "word": "Judicial Scrivener Association",
+        "translation": "司法書士会 (しほうしょしかい)"
+      },
+      {
+        "word": "Professional Conduct",
+        "translation": "職務上の行為 (しょくむじょうのこうい)"
+      },
+      {
+        "word": "Oversight",
+        "translation": "監督 (かんとく)"
+      },
+      {
+        "word": "Coordination",
+        "translation": "連絡調整 (れんらくちょうせい)"
       }
     ]
   }

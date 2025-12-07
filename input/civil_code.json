@@ -1178,5 +1178,119 @@
         "translation": "権利を取得する"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Spousal Right of Habitation",
+    "definition": "A statutory right, established by the 2019 Civil Code amendments, granting the surviving spouse the right to reside in the matrimonial home (owned by the deceased spouse) either for life or a specified period, free of charge or for a reasonable rent, upon the commencement of inheritance.",
+    "japaneseDefinition": "相続開始後、残された配偶者が、原則として終身または一定期間、無償で、被相続人が所有していた建物に居住する権利。",
+    "japaneseWordTranslation": "配偶者居住権 (Haigūsha Kyojūken)",
+    "legalContext": "Civil Code Art. 1028 (Requirements for Establishment)",
+    "japaneseLegalContext": "民法第1028条 (配偶者居住権の成立要件)",
+    "exampleSentence": "The surviving wife elected to exercise the spousal right of habitation to maintain her residence, while allowing the cash value of the property to be included in the division of the remaining inherited assets.",
+    "exampleTranslation": "生存配偶者は、引き続き居宅を維持するために配偶者居住権の行使を選択し、その建物の価格は残りの相続財産の分割に組み込まれた。",
+    "vocabularyList": [
+      {
+        "word": "surviving spouse",
+        "translation": "生存配偶者 (Seizon Haigūsha)"
+      },
+      {
+        "word": "matrimonial home",
+        "translation": "居住建物 (Kyojū Tatemono)"
+      },
+      {
+        "word": "commencement of inheritance",
+        "translation": "相続開始 (Sōzoku Kaishi)"
+      },
+      {
+        "word": "inherited assets",
+        "translation": "相続財産 (Sōzoku Zaisan)"
+      },
+      {
+        "word": "property division",
+        "translation": "財産分割 (Zaisan Bunkatsu)"
+      },
+      {
+        "word": "free of charge",
+        "translation": "無償 (Mushō)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Contributory Negligence",
+    "definition": "The doctrine under which, when determining the amount of compensation for damages arising from non-performance of obligation or tort, the court shall take into account the fault (negligence) of the victim (obligee) and reduce the compensation accordingly.",
+    "japaneseDefinition": "債務不履行または不法行為による損害賠償の額を定める際、被害者側にも過失があった場合に、その過失の程度に応じて賠償額を減額すること。",
+    "japaneseWordTranslation": "過失相殺 (Kashitsu Sōsai)",
+    "legalContext": "Civil Code Art. 420 (Calculation of Damages), applicable mutatis mutandis to tort liability via Art. 722(2).",
+    "japaneseLegalContext": "民法第420条 (損害賠償の額の算定) および第722条第2項 (準用規定)",
+    "exampleSentence": "The court applied the principle of contributory negligence, reducing the claimant's compensation award by 20% due to the victim's failure to wear a safety helmet at the construction site.",
+    "exampleTranslation": "裁判所は過失相殺の原則を適用し、被害者が建設現場で安全ヘルメットを着用しなかったため、請求者の賠償額を20％減額した。",
+    "vocabularyList": [
+      {
+        "word": "damages",
+        "translation": "損害賠償 (Songai Baishō)"
+      },
+      {
+        "word": "tort liability",
+        "translation": "不法行為責任 (Fuhō Kōi Sekinin)"
+      },
+      {
+        "word": "claimant",
+        "translation": "請求者 (Seikyūsha)"
+      },
+      {
+        "word": "non-performance of obligation",
+        "translation": "債務不履行 (Saimu Furikō)"
+      },
+      {
+        "word": "compensation award",
+        "translation": "賠償額 (Baishōgaku)"
+      },
+      {
+        "word": "victim's failure",
+        "translation": "被害者の不作為 (Higaisha no Fusa kui)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Strict Liability (No-Fault Liability)",
+    "definition": "A standard of civil liability where a party is held responsible for damages regardless of intention or negligence, provided a statutorily defined causal link exists between the act/omission and the resulting damage.",
+    "japaneseDefinition": "加害者に故意または過失がなくても、法律が特に定めた場合に、損害賠償責任を負わせる原則。民法の一般原則である過失責任主義の例外。",
+    "japaneseWordTranslation": "無過失責任 (Mukashitsu Sekinin)",
+    "legalContext": "Civil Code Art. 717 (Liability of the Possessor and Owner of a Structure), which holds the owner strictly liable if the possessor is not responsible.",
+    "japaneseLegalContext": "民法第717条 (土地の工作物等の占有者及び所有者の責任)",
+    "exampleSentence": "Although the owner had routinely maintained the building, they were still subject to strict liability under Article 717 when a piece of the exterior fell and injured a passerby due to an inherent defect in the structure.",
+    "exampleTranslation": "所有者は定期的に建物を維持管理していたにもかかわらず、構造の固有の欠陥により外壁の一部が落下し通行人に傷害を負わせたため、第717条に基づく無過失責任を負った。",
+    "vocabularyList": [
+      {
+        "word": "negligence",
+        "translation": "過失 (Kashitsu)"
+      },
+      {
+        "word": "inherent defect",
+        "translation": "固有の欠陥 (Koyū no Kekkan)"
+      },
+      {
+        "word": "owner",
+        "translation": "所有者 (Shoyūsha)"
+      },
+      {
+        "word": "possessor",
+        "translation": "占有者 (Sen'yūsha)"
+      },
+      {
+        "word": "causal link",
+        "translation": "因果関係 (Inga Kankei)"
+      },
+      {
+        "word": "structure",
+        "translation": "工作物 (Kōsakubutsu)"
+      }
+    ]
   }
 ]

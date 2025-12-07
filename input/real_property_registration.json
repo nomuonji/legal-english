@@ -1080,5 +1080,119 @@
         "translation": "建設を開始する"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Subrogation",
+    "definition": "The procedure where an obligee applies for a real property registration on behalf of their obligor (debtor) when the obligor fails to complete a registration necessary for the obligee to exercise their rights.",
+    "japaneseDefinition": "債権者が自己の債権を保全するため、債務者が登記申請をすべき場合に、債務者に代わってその登記を申請すること。",
+    "japaneseWordTranslation": "代位登記 (だい い とうき)",
+    "legalContext": "Real Property Registration Act (Fudōsan Tōkihō) Art. 25(9) specifies the required attachments for registration applications made by an obligee under the right of subrogation.",
+    "japaneseLegalContext": "不動産登記法第25条第9号：債権者代位による登記申請に必要な添付書類に関する規定。",
+    "exampleSentence": "The creditor filed an application for the Registration of Subrogation to compel the debtor to register the transfer of ownership into their name, thereby perfecting the security interest.",
+    "exampleTranslation": "債権者は、担保権を保全するため、債務者に対しその名義への所有権移転登記を義務付けるべく、代位登記の申請を行った。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "transfer of ownership",
+        "translation": "所有権移転 (しょゆうけんいてん)"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権 (たんぽけん)"
+      },
+      {
+        "word": "application",
+        "translation": "申請 (しんせい)"
+      },
+      {
+        "word": "to compel",
+        "translation": "義務付ける (ぎむづける)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registered Title Holder",
+    "definition": "The individual or legal entity officially recorded in the Japanese real property registry as the holder of a specific right (such as ownership or a right other than ownership) over the immovable property.",
+    "japaneseDefinition": "不動産登記簿に、所有権その他の権利の登記名義人として記録されている個人または法人。",
+    "japaneseWordTranslation": "登記名義人 (とうき めいぎにん)",
+    "legalContext": "Fudōsan Tōkihō governs the requirements for applications to change or update rights, which are typically initiated by or affect the Registered Title Holder.",
+    "japaneseLegalContext": "不動産登記法は、一般的に登記名義人が開始または影響を受ける権利の変更または更新の申請の要件を規定する。",
+    "exampleSentence": "Only the Registered Title Holder or their legal representative may apply for the registration of extinguishment of a previously recorded right against the property.",
+    "exampleTranslation": "財産に対して以前に登記された権利の抹消登記を申請できるのは、登記名義人またはその法定代理人に限られる。",
+    "vocabularyList": [
+      {
+        "word": "legal entity",
+        "translation": "法人 (ほうじん)"
+      },
+      {
+        "word": "registry",
+        "translation": "登記簿 (とうきぼ)"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産 (ふどうさん)"
+      },
+      {
+        "word": "legal representative",
+        "translation": "法定代理人 (ほうていだいりにん)"
+      },
+      {
+        "word": "extinguishment",
+        "translation": "抹消 (まっしょう)"
+      },
+      {
+        "word": "previously recorded right",
+        "translation": "以前に登記された権利 (いぜんにとうきされたけんり)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Closed Register",
+    "definition": "A real property registry record that has been officially closed and rendered ineffective due to subsequent administrative actions, such as the parcel being merged into another, or the building being demolished, but is retained for historical administrative access.",
+    "japaneseDefinition": "不動産登記簿のうち、分合筆、滅失等の理由により、その登記記録が閉鎖され、現行の登記簿としては効力を失った記録。過去の経緯を証明するために保存される。",
+    "japaneseWordTranslation": "閉鎖登記簿 (へいさ とうきぼ)",
+    "legalContext": "Fudōsan Tōkihō Art. 23 mandates the closure of the registry record when there are grounds for closure (e.g., merging of parcels, demolition of a building).",
+    "japaneseLegalContext": "不動産登記法第23条：合筆または建物の滅失等の閉鎖事由がある場合、登記記録を閉鎖することを義務付けている。",
+    "exampleSentence": "Attorneys often request copies of the Closed Register when researching the historical chain of title prior to the current property demarcation.",
+    "exampleTranslation": "弁護士は、現在の不動産の区画が決定される前の歴史的な権原の連鎖を調査する際、閉鎖登記簿の写しを請求することが多い。",
+    "vocabularyList": [
+      {
+        "word": "demolition",
+        "translation": "滅失 (めっしつ)"
+      },
+      {
+        "word": "parcel",
+        "translation": "筆 (ひつ)"
+      },
+      {
+        "word": "merging (of parcels)",
+        "translation": "合筆 (ごうぴつ)"
+      },
+      {
+        "word": "demarcation",
+        "translation": "区画 (くかく)"
+      },
+      {
+        "word": "chain of title",
+        "translation": "権原の連鎖 (けんげんのれんさ)"
+      },
+      {
+        "word": "historical",
+        "translation": "歴史的 (れきしてき)"
+      }
+    ]
   }
 ]

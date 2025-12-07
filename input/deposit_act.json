@@ -1114,5 +1114,119 @@
         "translation": "法定期間 (hōtei kikan)"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consignment of Consideration",
+    "definition": "A type of judicial deposit required when an entity (such as the government or a business operating under statutory authority) must pay compensation or the determined consideration for acquired property, but the payment cannot be delivered directly due to reasons such as the recipient's refusal or uncertainty regarding the ownership.",
+    "japaneseDefinition": "土地収用などにおいて、収用する財産の対価として支払うべき金銭の交付が、受取人の拒否や確知不能などの理由によりできない場合に、法務局等にその対価を供託すること。",
+    "japaneseWordTranslation": "対価供託 (たいかきょうたく)",
+    "legalContext": "Governed by the Deposit Act (Kyoutaku-hou), but often mandated by specific statutes like the Land Expropriation Act (Tochi Shūyō-hō), which requires compensation to be paid or deposited before title transfer.",
+    "japaneseLegalContext": "土地収用法第40条（代償の支払又は供託）などに基づき、供託法の手続きに従って行われる。",
+    "exampleSentence": "The acquiring public entity initiated the consignment of consideration after the landowner repeatedly refused to accept the final assessed compensation for the seized land.",
+    "exampleTranslation": "土地収用を行う公共事業体が、地権者が収用された土地の最終査定額の受け取りを再三拒否したため、対価供託を開始した。",
+    "vocabularyList": [
+      {
+        "word": "acquiring public entity",
+        "translation": "公共事業体"
+      },
+      {
+        "word": "assessed compensation",
+        "translation": "査定された補償金"
+      },
+      {
+        "word": "seized land",
+        "translation": "収用された土地"
+      },
+      {
+        "word": "landowner",
+        "translation": "地権者"
+      },
+      {
+        "word": "title transfer",
+        "translation": "所有権移転"
+      },
+      {
+        "word": "expropriation",
+        "translation": "収用"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certificate of Acceptance of Deposit",
+    "definition": "An official legal document issued by the Deposit Office (Kyoutaku-sho) to the depositor, which serves as conclusive proof that the application for deposit has been formally accepted and that the underlying obligation has been legally discharged or secured, as applicable.",
+    "japaneseDefinition": "供託所が供託申請人に対して交付する公文書であり、供託が正式に受理されたこと、およびその供託によって関連する債務が法令上消滅したこと、または担保されたことを証明するもの。",
+    "japaneseWordTranslation": "供託受理証明書 (きょうたくじゅりしょうめいしょ)",
+    "legalContext": "This certificate is crucial evidence required to prove the legal effect of a deposit (such as discharge of an obligation under Civil Code Art. 494) in subsequent legal proceedings or administrative procedures.",
+    "japaneseLegalContext": "供託規則第21条に定められており、民法第494条に基づく債務消滅の効力を証明するために訴訟などで重要な証拠となる。",
+    "exampleSentence": "Upon receiving the Certificate of Acceptance of Deposit, the depositor could successfully argue that its liability for the overdue payment had been extinguished.",
+    "exampleTranslation": "供託受理証明書を受け取ったことにより、供託者は、滞納していた支払いに対する自己の責任が消滅したことを首尾よく主張することができた。",
+    "vocabularyList": [
+      {
+        "word": "conclusive proof",
+        "translation": "確定的な証拠"
+      },
+      {
+        "word": "underlying obligation",
+        "translation": "根底にある債務"
+      },
+      {
+        "word": "discharged",
+        "translation": "（債務が）消滅した"
+      },
+      {
+        "word": "liability",
+        "translation": "責任"
+      },
+      {
+        "word": "overdue payment",
+        "translation": "滞納金"
+      },
+      {
+        "word": "legal proceedings",
+        "translation": "法的手続き"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Office Jurisdiction",
+    "definition": "The statutory rules that determine which specific local Deposit Office (usually a Legal Affairs Bureau or its branch office) is legally competent to accept a particular type of deposit, primarily based on the place of performance of the obligation, or the location of the property related to the deposit.",
+    "japaneseDefinition": "特定の供託（特に弁済供託や保証供託）が、どの法務局またはその支局によって受理されるべきかを定める法令上の規則。通常、債務の履行地または関連する財産の所在地に基づいて決定される。",
+    "japaneseWordTranslation": "供託所の管轄 (きょうたくじょのかんかつ)",
+    "legalContext": "Deposit Act Art. 2 dictates that the Deposit Office Jurisdiction for performance deposits is the location of the performance, while deposits concerning judicial procedures must adhere to the rules governing the relevant court's jurisdiction.",
+    "japaneseLegalContext": "供託法第2条に規定されており、弁済供託の管轄は履行地であるが、訴訟上の手続に関する供託については、当該裁判所の管轄に従う。",
+    "exampleSentence": "Failure to verify the correct Deposit Office Jurisdiction may result in the rejection of the deposit application, thereby preventing the timely discharge of the debt.",
+    "exampleTranslation": "正しい供託所の管轄を確認しなかった場合、供託申請が却下され、その結果、債務の適時な弁済を妨げる可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "statutory rules",
+        "translation": "法令上の規則"
+      },
+      {
+        "word": "competent",
+        "translation": "権限を有する"
+      },
+      {
+        "word": "Legal Affairs Bureau",
+        "translation": "法務局"
+      },
+      {
+        "word": "place of performance",
+        "translation": "履行地"
+      },
+      {
+        "word": "rejection of the application",
+        "translation": "申請の却下"
+      },
+      {
+        "word": "timely discharge",
+        "translation": "適時な弁済（履行）"
+      }
+    ]
   }
 ]

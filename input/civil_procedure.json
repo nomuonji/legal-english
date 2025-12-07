@@ -1200,5 +1200,119 @@
         "translation": "分担、分配"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Litigation Representative",
+    "definition": "A person, typically a lawyer (Bengoshi), appointed by a party to perform all procedural acts in court on their behalf. Their authority generally covers acts related to the conduct of the suit, unless specifically limited.",
+    "japaneseDefinition": "訴訟当事者から委任を受け、その者に代わって訴訟行為を行う者。日本の民事訴訟では、一般に弁護士のみが訴訟代理人となることができる。",
+    "japaneseWordTranslation": "訴訟代理人 (そしょうだいりにん)",
+    "legalContext": "Code of Civil Procedure, Art. 54 (Scope of Authority of Litigation Representative): 'A litigation representative may perform, on behalf of the party, any procedural acts related to the lawsuit...'",
+    "japaneseLegalContext": "民事訴訟法第54条（訴訟代理人の権限）: 「訴訟代理人は、委任を受けた事件について、訴訟行為をすることができる…」",
+    "exampleSentence": "The defendant appointed a new litigation representative prior to the submission of the written answer.",
+    "exampleTranslation": "被告は、答弁書の提出に先立ち、新たな訴訟代理人を選任した。",
+    "vocabularyList": [
+      {
+        "word": "procedural acts",
+        "translation": "訴訟行為 (そしょうこうい)"
+      },
+      {
+        "word": "party",
+        "translation": "当事者 (とうじしゃ)"
+      },
+      {
+        "word": "appointed",
+        "translation": "選任した (せんにんした)"
+      },
+      {
+        "word": "written answer",
+        "translation": "答弁書 (とうべんしょ)"
+      },
+      {
+        "word": "submission",
+        "translation": "提出 (ていしゅつ)"
+      },
+      {
+        "word": "on their behalf",
+        "translation": "その者に代わって (そのものにかわって)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Means of Attack or Defense",
+    "definition": "The procedural materials presented by the parties during the lawsuit, comprising factual allegations, submissions of evidence, and legal arguments, intended to substantiate their claims or rebut those of the opposing party.",
+    "japaneseDefinition": "当事者が自己の請求を裏付けたり、相手方の請求を排斥したりするために裁判所に提出する、事実の主張、証拠の申出、法律上の主張などの総称。",
+    "japaneseWordTranslation": "攻撃防御方法 (こうげきぼうぎょほうほう)",
+    "legalContext": "Code of Civil Procedure, Art. 148 (Submission of Means of Attack or Defense): 'The parties shall prepare written statements in advance for the allegation of facts, submission of evidence, and other means of attack or defense...'",
+    "japaneseLegalContext": "民事訴訟法第148条（攻撃防御方法の提出）: 「当事者は、事実の主張、証拠の申出その他の攻撃防御方法を、準備書面により…」",
+    "exampleSentence": "The court directed the plaintiff to submit all outstanding Means of Attack or Defense by the next scheduled hearing date.",
+    "exampleTranslation": "裁判所は原告に対し、次回の期日までに未提出の全ての攻撃防御方法を提出するよう指示した。",
+    "vocabularyList": [
+      {
+        "word": "allegations",
+        "translation": "主張 (しゅちょう)"
+      },
+      {
+        "word": "substantiate",
+        "translation": "裏付ける (うらづける)"
+      },
+      {
+        "word": "rebut",
+        "translation": "排斥する (はいせきする)"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告 (げんこく)"
+      },
+      {
+        "word": "outstanding",
+        "translation": "未提出の (みていしゅつの)"
+      },
+      {
+        "word": "scheduled hearing date",
+        "translation": "期日 (きじつ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Subject Matter of the Suit",
+    "definition": "The specific legal relationship (right or claim) that the plaintiff seeks to have determined by the court's judgment. It defines the scope of the judicial dispute and is crucial for determining the admissibility of subsequent lawsuits.",
+    "japaneseDefinition": "裁判所に対し判決を求める対象である、特定の権利または法律関係。訴訟の範囲を確定し、二重起訴の禁止などの基準となる。",
+    "japaneseWordTranslation": "訴訟物 (そしょうぶつ)",
+    "legalContext": "Code of Civil Procedure, Art. 142 (Prohibition of Duplicate Actions): 'The parties shall not file a second action on the same subject matter of the suit for which an action is pending in court.'",
+    "japaneseLegalContext": "民事訴訟法第142条（重複起訴の禁止）: 「裁判所に訴訟が係属している間は、当事者は、同一の訴訟物について重ねて訴えを提起することができない。」",
+    "exampleSentence": "Under Japanese civil procedure, the determination of the Subject Matter of the Suit is essential to avoid the prohibition of duplicate actions.",
+    "exampleTranslation": "日本の民事訴訟法では、重複起訴の禁止を避けるために、訴訟物の確定が不可欠である。",
+    "vocabularyList": [
+      {
+        "word": "legal relationship",
+        "translation": "法律関係 (ほうりつかんけい)"
+      },
+      {
+        "word": "determination",
+        "translation": "確定 (かくてい)"
+      },
+      {
+        "word": "admissibility",
+        "translation": "許容性 (きょようせい)"
+      },
+      {
+        "word": "duplicate actions",
+        "translation": "重複起訴 (ちょうふくきそ)"
+      },
+      {
+        "word": "pending in court",
+        "translation": "係属している (けいぞくしている)"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告 (げんこく)"
+      }
+    ]
   }
 ]

@@ -970,5 +970,119 @@
         "translation": "不動産"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Release Deposit for Provisional Seizure",
+    "definition": "A monetary amount, determined by the court, which the preservation obligor (debtor) may deposit with a Deposit Office to request the lifting of a Provisional Seizure order, thereby substituting the seized property with a security amount.",
+    "japaneseDefinition": "保全債務者が、仮差押命令の執行を取り消すため、供託所に供託する金銭。これにより、仮差押の目的物たる財産の代わりに、その供託金が仮差押の対象となる。",
+    "japaneseWordTranslation": "仮差押解放金 (かりさしおさえかいほうきん)",
+    "legalContext": "Civil Preservation Act, Art. 23(2): The court issuing the provisional seizure order shall, upon request of the preservation obligor, specify the amount of the deposit referred to in the preceding paragraph in the provisional seizure order.",
+    "japaneseLegalContext": "民事保全法 第23条第2項: 仮差押命令を発する裁判所は、保全債務者の申立てにより、前項の供託すべき金額を定め、これを仮差押命令中に記載しなければならない。",
+    "exampleSentence": "The defendant provided the court-specified Release Deposit for Provisional Seizure, leading to the immediate cancellation of the seizure on their real property.",
+    "exampleTranslation": "被告は、裁判所が定めた仮差押解放金を供託し、これにより、彼らの不動産に対する仮差押えは直ちに取り消された。",
+    "vocabularyList": [
+      {
+        "word": "preservation obligor",
+        "translation": "保全債務者"
+      },
+      {
+        "word": "Deposit Office",
+        "translation": "供託所"
+      },
+      {
+        "word": "cancellation of the seizure",
+        "translation": "差押えの取消し"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      },
+      {
+        "word": "substituting",
+        "translation": "代替する"
+      },
+      {
+        "word": "specify the amount",
+        "translation": "金額を定める"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order to Commence the Action on the Merits",
+    "definition": "A specific order issued by the preservation court commanding the preservation obligee to commence the main action (the lawsuit concerning the preserved right) within a fixed period, typically after the preservation order has been enforced.",
+    "japaneseDefinition": "保全命令の執行がされた後、保全債権者が未だ本案の訴えを提起していない場合に、裁判所が当該債権者に対し、一定の期間内に本案の訴えを提起すべきことを命じる決定。",
+    "japaneseWordTranslation": "本案提訴命令 (ほんあんていそめいれい)",
+    "legalContext": "Civil Preservation Act, Art. 37(1): If the preservation order has been executed, the court shall, upon motion by the preservation obligor, order the preservation obligee to commence the action on the merits within the period prescribed by the court.",
+    "japaneseLegalContext": "民事保全法 第37条第1項: 保全命令の執行がされた場合において、保全債権者が本案の訴えを提起したことを証する書面を提出しないときは、保全債務者は、保全命令を発した裁判所に対し、本案の訴えの提起を命ずべきことを申し立てることができる。",
+    "exampleSentence": "Upon receiving the Order to Commence the Action on the Merits, the preservation obligee had only two weeks to file the substantive lawsuit against the obligor.",
+    "exampleTranslation": "本案提訴命令を受け、保全債権者は、保全債務者に対する実体的な訴訟を提起するためにわずか2週間の猶予しか与えられなかった。",
+    "vocabularyList": [
+      {
+        "word": "substantive lawsuit",
+        "translation": "実体的な訴訟"
+      },
+      {
+        "word": "fixed period",
+        "translation": "一定の期間"
+      },
+      {
+        "word": "preservation court",
+        "translation": "保全裁判所"
+      },
+      {
+        "word": "preservation obligee",
+        "translation": "保全債権者"
+      },
+      {
+        "word": "commence",
+        "translation": "提起する"
+      },
+      {
+        "word": "file",
+        "translation": "提出する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Payment Order",
+    "definition": "A type of provisional injunction (specifically, a provisional injunction to establish a temporary status quo) issued when the preservation obligee requires urgent performance, typically payment, to prevent significant detriment or danger, pending the final judgment on the merits.",
+    "japaneseDefinition": "紛争性の高い金銭債権について、債権者が本案判決確定までの間、重大な損害や急迫の危険を避けるために、裁判所に対し支払いを命じる仮の地位を定める仮処分を求めること。",
+    "japaneseWordTranslation": "仮払いの仮処分 (かりばらいのかりしょぶん)",
+    "legalContext": "Civil Preservation Act, Art. 23(2): Provisional injunctions may be issued to establish a temporary status quo in relation to a disputed right, including orders for payment or performance.",
+    "japaneseLegalContext": "民事保全法 第23条第2項: 仮の地位を定める仮処分は、争いがある権利関係について、給付を命じ、又は反対給付を停止する等の処分をすることにより、現状を仮に定めることを目的とする。",
+    "exampleSentence": "Given the severity of the financial hardship faced by the claimant, the court issued a Provisional Payment Order to cover necessary medical expenses during the litigation.",
+    "exampleTranslation": "請求人が直面している経済的困窮の深刻さに鑑み、裁判所は訴訟期間中の必要な医療費を賄うため、仮払いの仮処分を発した。",
+    "vocabularyList": [
+      {
+        "word": "claimant",
+        "translation": "請求人 (債権者)"
+      },
+      {
+        "word": "severity",
+        "translation": "深刻さ"
+      },
+      {
+        "word": "financial hardship",
+        "translation": "経済的困窮"
+      },
+      {
+        "word": "urgent performance",
+        "translation": "緊急の給付"
+      },
+      {
+        "word": "pending the final judgment",
+        "translation": "最終判決が確定するまで"
+      },
+      {
+        "word": "status quo",
+        "translation": "現状"
+      }
+    ]
   }
 ]

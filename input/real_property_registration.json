@@ -978,5 +978,107 @@
         "translation": "行政許可"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Extinguishment",
+    "definition": "The registration procedure required to formally cancel or remove an existing real property right (such as a mortgage or superficies) from the registration record when that right has expired or ceased to exist.",
+    "japaneseDefinition": "既存の不動産権利（抵当権や地上権など）が消滅した場合に、登記記録からその権利を正式に抹消するために必要な登記手続き。",
+    "japaneseWordTranslation": "抹消登記 (Masshō Tōki)",
+    "legalContext": "Real Property Registration Act Art. 68: 'When a right that has been registered is extinguished, the registration of extinguishment shall be jointly applied for by the registration obligor and the registration obligee.'",
+    "japaneseLegalContext": "不動産登記法第68条: 「登記された権利が消滅したときは、第六十条の規定にかかわらず、登記権利者及び登記義務者は、共同して当該権利の抹消の登記を申請することができる。」",
+    "exampleSentence": "Upon the full repayment of the loan, the bank and the property owner jointly filed an application for the registration of extinguishment of the hypothecation.",
+    "exampleTranslation": "融資の全額返済に伴い、銀行と不動産所有者は共同で抵当権の抹消登記の申請を行った。",
+    "vocabularyList": [
+      {
+        "word": "registration record",
+        "translation": "登記記録"
+      },
+      {
+        "word": "hypothecation",
+        "translation": "抵当権"
+      },
+      {
+        "word": "full repayment",
+        "translation": "全額返済"
+      },
+      {
+        "word": "jointly filed",
+        "translation": "共同で申請した"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Identification Information",
+    "definition": "A twelve-digit alphanumeric code issued to the registration obligee upon completion of registration, which serves as proof of the registered right holder's identity and is required for subsequent application procedures.",
+    "japaneseDefinition": "登記が完了した際に登記権利者に発行される12桁の英数字の符号であり、権利者の本人確認情報として機能し、その後の登記申請手続きに必要とされる。",
+    "japaneseWordTranslation": "登記識別情報 (Tōki Shikibetsu Jōhō)",
+    "legalContext": "Real Property Registration Act Art. 21 (Notice of Registration Identification Information): The registrar shall issue Registration Identification Information when registration is completed for a person who becomes the new registration obligee.",
+    "japaneseLegalContext": "不動産登記法第21条（登記識別情報の通知）：登記官は、新たに登記権利者となる登記を完了したときは、速やかに、当該登記権利者に対し、登記識別情報を通知しなければならない。",
+    "exampleSentence": "The Registration Identification Information must be submitted in a sealed envelope to maintain security when filing subsequent applications concerning the property.",
+    "exampleTranslation": "不動産に関する後の申請を行う際には、登記識別情報は安全性を維持するため封印された状態で提出されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "alphanumeric code",
+        "translation": "英数字の符号"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "completion of registration",
+        "translation": "登記の完了"
+      },
+      {
+        "word": "subsequent applications",
+        "translation": "後の申請"
+      },
+      {
+        "word": "security",
+        "translation": "安全性"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Creation",
+    "definition": "The procedure for formally recording the establishment of a real property right (other than ownership itself), such as a hypothecation right, a right of superficies, or a leasehold, onto the registration record.",
+    "japaneseDefinition": "不動産登記記録に、所有権以外の不動産権利（抵当権、地上権、賃借権など）の成立を正式に記録する手続き。",
+    "japaneseWordTranslation": "設定登記 (Settei Tōki)",
+    "legalContext": "Real Property Registration Act Art. 3: The creation, preservation, transfer, change, or extinguishment of a real property right shall take effect upon registration.",
+    "japaneseLegalContext": "不動産登記法第3条: 不動産に関する物権の得喪及び変更は、この法律その他の法律に別段の定めがある場合を除き、登記をしなければ、その効力を生じない。",
+    "exampleSentence": "Before commencing construction, the infrastructure company completed the registration of creation for the right of superficies on the designated land parcel.",
+    "exampleTranslation": "建設を開始する前に、そのインフラ企業は指定された土地の区画における地上権の設定登記を完了した。",
+    "vocabularyList": [
+      {
+        "word": "establishment",
+        "translation": "成立（設定）"
+      },
+      {
+        "word": "right of superficies",
+        "translation": "地上権"
+      },
+      {
+        "word": "leasehold",
+        "translation": "賃借権"
+      },
+      {
+        "word": "designated land parcel",
+        "translation": "指定された土地の区画"
+      },
+      {
+        "word": "commencing construction",
+        "translation": "建設を開始する"
+      }
+    ]
   }
 ]

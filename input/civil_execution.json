@@ -1036,5 +1036,119 @@
         "translation": "現況及び評価額 (げんきょうおよびひょうかがく)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Claim Exempt from Seizure",
+    "definition": "A claim or asset, typically wages, pensions, or social welfare benefits, that is protected by law from being seized in compulsory execution to ensure the execution obligor can maintain a minimum standard of living for themselves and their dependents.",
+    "japaneseDefinition": "債務者やその扶養家族が最低限の生活を維持できるように、法律によって差押えが禁止されている債権（例：給与の一部、年金、生活保護費など）。",
+    "japaneseWordTranslation": "差押禁止債権 (さしおさえきんしさいけん)",
+    "legalContext": "Civil Execution Act, Art. 152: Of the claims listed in the following items, a portion calculated pursuant to the provisions of a Cabinet Order shall not be subject to seizure.",
+    "japaneseLegalContext": "民事執行法第152条: 次に掲げる債権については、その額の五分の四に相当する部分又は政令で定める金額に相当する部分を差し押さえることができない。",
+    "exampleSentence": "The obligor successfully argued that 4/5ths of his monthly salary constituted a Claim Exempt from Seizure, preventing full garnishment.",
+    "exampleTranslation": "債務者は、自身の月給の5分の4が差押禁止債権を構成すると首尾よく主張し、全額の差し押さえを防いだ。",
+    "vocabularyList": [
+      {
+        "word": "garnishment",
+        "translation": "差し押さえ"
+      },
+      {
+        "word": "execution obligor",
+        "translation": "執行債務者"
+      },
+      {
+        "word": "dependents",
+        "translation": "扶養家族"
+      },
+      {
+        "word": "minimum standard of living",
+        "translation": "最低生活水準"
+      },
+      {
+        "word": "Cabinet Order",
+        "translation": "政令"
+      },
+      {
+        "word": "pension",
+        "translation": "年金"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Appeal (Kōkoku Appeal)",
+    "definition": "A special type of appeal (kōkoku) against a judicial decision (other than a final judgment) issued by the execution court or execution officer concerning the execution procedure, typically available when the ground for appeal involves an alleged violation of law.",
+    "japaneseDefinition": "執行裁判所または執行官が行った執行手続に関する裁判（判決を除く）に対して、法令違反を理由として申し立てる上訴（不服申立て）の一種。",
+    "japaneseWordTranslation": "執行抗告 (しっこうこうこく)",
+    "legalContext": "Civil Execution Act, Art. 9: An immediate appeal (sokuji-kōkoku) may be filed against the judicial decision specified in this Act regarding compulsory execution.",
+    "japaneseLegalContext": "民事執行法第9条: 強制執行の手続に関する裁判の執行については、この法律に特別の定めがある場合に限り、即時抗告をすることができる。",
+    "exampleSentence": "The execution obligee filed an Execution Appeal against the order dismissing their motion for compulsory management of the real property.",
+    "exampleTranslation": "執行債権者は、不動産の強制管理の申立てを却下する決定に対して執行抗告を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "immediate appeal",
+        "translation": "即時抗告 (そくじこうこく)"
+      },
+      {
+        "word": "judicial decision",
+        "translation": "裁判"
+      },
+      {
+        "word": "violation of law",
+        "translation": "法令違反"
+      },
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "compulsory management",
+        "translation": "強制管理"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order Granting Sale Permission",
+    "definition": "In the context of compulsory auction of immovable property, this is the court order issued after the bidding phase, officially granting permission for the sale of the property to the high bidder (or successful bidder), provided no legal grounds for revocation exist.",
+    "japaneseDefinition": "不動産競売手続において、入札期日後に、裁判所が最高価買受申出人に対して、売却を許可するために発する決定。買受人が代金を納付すれば、権利が移転する。",
+    "japaneseWordTranslation": "売却許可決定 (ばいきゃくきょかけってい)",
+    "legalContext": "Civil Execution Act, Art. 81: Following the sale procedure, the execution court shall render an Order Granting Sale Permission or an order denying sale permission, depending on whether there are any grounds for denying sale prescribed by law.",
+    "japaneseLegalContext": "民事執行法第81条: 執行裁判所は、売却期日が終わった後、売却の不許可事由の有無を調べ、売却許可決定又は売却不許可決定をしなければならない。",
+    "exampleSentence": "The Execution Court issued the Order Granting Sale Permission for the foreclosed condominium, contingent upon the payment of the remaining purchase price.",
+    "exampleTranslation": "執行裁判所は、残りの購入代金の支払いを条件として、差し押さえられたマンションに対し売却許可決定を出した。",
+    "vocabularyList": [
+      {
+        "word": "foreclosed",
+        "translation": "差し押さえられた"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "bidding phase",
+        "translation": "入札期日"
+      },
+      {
+        "word": "high bidder",
+        "translation": "最高価買受申出人"
+      },
+      {
+        "word": "grounds for denying sale",
+        "translation": "売却の不許可事由"
+      },
+      {
+        "word": "purchase price",
+        "translation": "買受代金"
+      }
+    ]
   }
 ]

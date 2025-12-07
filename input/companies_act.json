@@ -2,40 +2,6 @@
   {
     "category": "Companies Act (会社法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Corporate Auditor",
-    "definition": "An independent officer who audits the execution of duties by directors and accounting.",
-    "japaneseDefinition": "取締役の職務執行および会計を監査する機関。",
-    "japaneseWordTranslation": "監査役 (かんさやく)",
-    "legalContext": "Companies Act Art. 381: Corporate auditors shall audit the execution of duties by directors.",
-    "japaneseLegalContext": "会社法第381条：監査役は、取締役の職務の執行を監査する。",
-    "exampleSentence": "The corporate auditor examined the business report submitted by the directors.",
-    "exampleTranslation": "監査役は取締役が提出した事業報告を調査した。",
-    "vocabularyList": [
-      {
-        "word": "Audit",
-        "translation": "監査する"
-      },
-      {
-        "word": "Officer",
-        "translation": "役員"
-      },
-      {
-        "word": "Business report",
-        "translation": "事業報告"
-      },
-      {
-        "word": "Execution of duties",
-        "translation": "職務執行"
-      },
-      {
-        "word": "Submit",
-        "translation": "提出する"
-      }
-    ]
-  },
-  {
-    "category": "Companies Act (会社法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Distribution of Surplus",
     "definition": "The act by a company of allocating and paying out disposable funds (surplus) to its equity holders, typically in the form of dividends, subject to strict procedural and financial limitations.",
     "japaneseDefinition": "会社がその資本と準備金を超える額を、株主に対して配当として払い出す行為。会社法に基づき、分配可能額や手続が厳格に定められている。",
@@ -978,6 +944,120 @@
       {
         "word": "Freely transferable",
         "translation": "自由に譲渡可能"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Absorption-type Merger",
+    "definition": "A corporate restructuring method where one existing company (the absorbing company) continues its existence and takes over all assets, liabilities, and obligations of another company (the absorbed company), which is dissolved without going through a formal liquidation process.",
+    "japaneseDefinition": "既存の会社が、他の消滅会社の権利義務の全部を承継して合併後も存続する形態の合併。",
+    "japaneseWordTranslation": "吸収合併 (きゅうしゅうがっぺい)",
+    "legalContext": "Companies Act Art. 749: Details the requirements for the agreement regarding an Absorption-type Merger (吸収合併契約).",
+    "japaneseLegalContext": "会社法第749条: 吸収合併契約に関する事項を定める。",
+    "exampleSentence": "The acquiring entity completed the transaction via an absorption-type merger, necessitating the notification to creditors and shareholders of the absorbed company prior to the effective date.",
+    "exampleTranslation": "取得する法人は吸収合併により取引を完了し、効力発生日前に消滅会社の債権者及び株主への通知が必須となった。",
+    "vocabularyList": [
+      {
+        "word": "Acquiring entity",
+        "translation": "取得法人"
+      },
+      {
+        "word": "Absorbing company",
+        "translation": "存続会社"
+      },
+      {
+        "word": "Absorbed company",
+        "translation": "消滅会社"
+      },
+      {
+        "word": "Notification to creditors",
+        "translation": "債権者への通知"
+      },
+      {
+        "word": "Effective date",
+        "translation": "効力発生日"
+      },
+      {
+        "word": "Liabilities and obligations",
+        "translation": "負債及び義務"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Company with Accounting Advisors",
+    "definition": "A form of company structure, principally adopted by non-public companies, which requires the appointment of one or more Accounting Advisors (either certified public accountants or certified tax accountants) who jointly prepare certain financial statements with the directors.",
+    "japaneseDefinition": "会計参与を置く会社。会計参与は、取締役と共同で計算書類等を作成する義務を負い、公認会計士又は税理士でなければならない。",
+    "japaneseWordTranslation": "会計参与設置会社 (かいけいさんよせっちかいしゃ)",
+    "legalContext": "Companies Act Art. 326(1): Establishes the types of organizational structures and the necessity of establishing certain organs, including Accounting Advisors.",
+    "japaneseLegalContext": "会社法第326条第1項: 会社の機関設置に関する規定を定める。",
+    "exampleSentence": "A Company with Accounting Advisors must file a certificate demonstrating the professional qualification of the advisor, as a measure of enhanced financial scrutiny.",
+    "exampleTranslation": "会計参与設置会社は、財務監視を強化する措置として、当該会計参与の専門資格を証明する書面を提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Accounting Advisor",
+        "translation": "会計参与"
+      },
+      {
+        "word": "Professional qualification",
+        "translation": "専門資格"
+      },
+      {
+        "word": "Financial scrutiny",
+        "translation": "財務監視"
+      },
+      {
+        "word": "Non-public company",
+        "translation": "非公開会社"
+      },
+      {
+        "word": "Certified tax accountant",
+        "translation": "税理士"
+      },
+      {
+        "word": "Jointly prepare",
+        "translation": "共同作成する"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Capital Surplus",
+    "definition": "The portion of a stock company's surplus that arises from capital transactions, primarily the amount received in excess of the par value or issue price of shares (share premium), distinct from profits generated through operations.",
+    "japaneseDefinition": "株主からの払込みや財産の受入れ等、資本取引によって生じた剰余金の部分。株式の額面超過額などがこれにあたる。",
+    "japaneseWordTranslation": "資本剰余金 (しほんじょうよきん)",
+    "legalContext": "Companies Act Art. 445: Defines the components that form the amount of capital and reserves, including Capital Surplus and Earned Surplus.",
+    "japaneseLegalContext": "会社法第445条: 資本金及び準備金の額の計算に関する規定を定める。",
+    "exampleSentence": "The distribution of profits derived from capital surplus is subject to specific limitations under the Companies Act to ensure the company maintains sufficient financial health.",
+    "exampleTranslation": "資本剰余金から生じる利益の分配は、会社の十分な財務健全性を確保するために、会社法に基づく特定の制限を受ける。",
+    "vocabularyList": [
+      {
+        "word": "Stock company",
+        "translation": "株式会社"
+      },
+      {
+        "word": "Share premium",
+        "translation": "株式払込剰余金"
+      },
+      {
+        "word": "Par value",
+        "translation": "額面"
+      },
+      {
+        "word": "Financial health",
+        "translation": "財務健全性"
+      },
+      {
+        "word": "Earned surplus",
+        "translation": "利益剰余金"
+      },
+      {
+        "word": "Issue price",
+        "translation": "発行価額"
       }
     ]
   }

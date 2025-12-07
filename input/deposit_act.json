@@ -1012,5 +1012,107 @@
         "translation": "それ以上の責任"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Notification of Deposit",
+    "definition": "The official process by which the person who performed the deposit (the debtor) informs the obligee that the subject matter of the performance has been deposited with a designated deposit office, thereby discharging the debt.",
+    "japaneseDefinition": "債務者が供託を行った際に、債権者に対して、履行の目的物が供託所に供託されたことを通知し、それにより債務が消滅したことを知らせる手続き。",
+    "japaneseWordTranslation": "供託通知 (Kyōtaku Tsūchi)",
+    "legalContext": "Deposit Act Art. 49: 'The deposit officer shall notify the obligee of the deposit...' (when the obligee's domicile or residence is known).",
+    "japaneseLegalContext": "供託法第49条: 「供託官ハ債権者ノ住所又ハ居所ヲ知ルトキハ供託ヲ為シタルコトヲ債権者ニ通知スヘシ...」",
+    "exampleSentence": "Failure to send the Notification of Deposit promptly may lead to disputes regarding the effective date of the discharge of the obligation.",
+    "exampleTranslation": "供託通知を速やかに送付しない場合、債務が消滅したとする有効日に関して紛争が生じる可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "debtor",
+        "translation": "債務者 (saimusha)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (saikensha)"
+      },
+      {
+        "word": "deposit officer",
+        "translation": "供託官 (kyōtokukan)"
+      },
+      {
+        "word": "discharge of the obligation",
+        "translation": "債務の消滅 (saimu no shōmetsu)"
+      },
+      {
+        "word": "effective date",
+        "translation": "有効日 (yūkōbi)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Recover Deposited Property",
+    "definition": "The right held by the original depositor (debtor) to retrieve the deposited property when the legal ground for the deposit ceases to exist (e.g., the obligee rejects the deposit, or the legal dispute requiring the deposit is settled without payment to the obligee).",
+    "japaneseDefinition": "供託の根拠となる法律上の原因が消滅した場合に、当初の供託者（債務者）が供託した財産を取り戻すことができる権利。",
+    "japaneseWordTranslation": "供託物の取戻権 (Kyōtakubutsu no Torimodoshiken)",
+    "legalContext": "Deposit Act Art. 32, Paragraph 1: 'The depositor may recover the deposited property in the following cases: 1. If the obligee has consented to the recovery...'",
+    "japaneseLegalContext": "供託法第32条第1項: 「供託者ハ左ノ場合ニ於テハ供託物ヲ取戻スコトヲ得 1. 債権者カ取戻ニ同意シタルトキ...」",
+    "exampleSentence": "The depositor must file a written application demonstrating the legal basis for exercising the Right to Recover Deposited Property.",
+    "exampleTranslation": "供託者が供託物の取戻権を行使するためには、その法的根拠を証明する書面による申請を提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "retrieve",
+        "translation": "取り戻す (torimodosu)"
+      },
+      {
+        "word": "legal ground",
+        "translation": "法律上の原因 (hōritsu-jō no gen'in)"
+      },
+      {
+        "word": "consent",
+        "translation": "同意 (dōi)"
+      },
+      {
+        "word": "written application",
+        "translation": "書面による申請 (shomen ni yoru shinsei)"
+      },
+      {
+        "word": "legal basis",
+        "translation": "法的根拠 (hōteki konkyo)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Vesting in the National Treasury",
+    "definition": "The legal consequence under the Deposit Act where the right of a person entitled to receive deposited property (such as the obligee or the original depositor) is extinguished due to prescription (failure to claim within 20 years), resulting in the funds becoming the property of the national government of Japan.",
+    "japaneseDefinition": "供託法に基づき、供託物の払渡を受ける権利を有する者（債権者または供託者）が、20年の時効期間内にその権利を行使しなかったことにより、当該供託物が国の所有となる法的結果。",
+    "japaneseWordTranslation": "国庫帰属 (Kokko Kizoku)",
+    "legalContext": "Deposit Act Art. 48, Paragraph 1: 'The right to demand the delivery of deposited property shall be extinguished by prescription if not exercised within 20 years from the time the deposit was made. In this case, the deposited property shall vest in the National Treasury.'",
+    "japaneseLegalContext": "供託法第48条第1項: 「供託物ノ払渡ヲ請求スル権利ハ供託ノ日ヨリ二十年ノ間行使セサルトキハ時効ニ因リテ消滅ス。此ノ場合ニ於テハ供託物ハ国庫ニ帰属ス。」",
+    "exampleSentence": "The law provides a strict 20-year period before unclaimed funds undergo Vesting in the National Treasury.",
+    "exampleTranslation": "法律は、請求されない金銭が国庫帰属となる前に厳格な20年間の期間を定めている。",
+    "vocabularyList": [
+      {
+        "word": "extinguished by prescription",
+        "translation": "時効により消滅する (jikō ni yori shōmetsu suru)"
+      },
+      {
+        "word": "unclaimed funds",
+        "translation": "未請求の金銭 (miseikyū no kinsen)"
+      },
+      {
+        "word": "legal consequence",
+        "translation": "法的結果 (hōteki kekka)"
+      },
+      {
+        "word": "right to demand the delivery",
+        "translation": "払渡を請求する権利 (haraiwatashi o seikyū suru kenri)"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間 (hōtei kikan)"
+      }
+    ]
   }
 ]

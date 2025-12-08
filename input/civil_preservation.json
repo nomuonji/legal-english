@@ -1194,5 +1194,123 @@
         "translation": "申立ての遅れ"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Duty to Commence Principal Action",
+    "definition": "The legal obligation imposed upon the preservation obligee, who has obtained a preservation order (provisional seizure or provisional injunction), to file the lawsuit concerning the underlying claim (the action on the merits) within the time frame specified by the court, typically under penalty of revocation of the preservation order.",
+    "japaneseDefinition": "保全命令（仮差押え又は仮処分）を得た保全債権者が、裁判所によって定められた期間内に、その本案たる訴訟を提起しなければならない義務。",
+    "japaneseWordTranslation": "本案訴訟提起の義務 (ほんなんそしょうていきのぎむ)",
+    "legalContext": "Civil Preservation Law (民事保全法) Art. 37(2): If the court specifies a period not exceeding two weeks, the preservation obligee must commence the action on the merits within that period.",
+    "japaneseLegalContext": "民事保全法第37条第2項: 裁判所は、二週間を超えない期間で本案の訴えを提起すべき期間を定めることができる。",
+    "exampleSentence": "The preservation obligee failed to fulfill the duty to commence principal action within the two-week period set by the court, leading to the preservation order's revocation.",
+    "exampleTranslation": "保全債権者は、裁判所によって定められた二週間の期間内に本案訴訟提起の義務を果たさなかったため、保全命令の取消しにつながった。",
+    "vocabularyList": [
+      {
+        "word": "preservation obligee",
+        "translation": "保全債権者 (ほぜんさいけんしゃ)"
+      },
+      {
+        "word": "underlying claim",
+        "translation": "本案の請求 (ほんなんのせいきゅう)"
+      },
+      {
+        "word": "time frame",
+        "translation": "期間 (きかん)"
+      },
+      {
+        "word": "specified",
+        "translation": "定められた (さだめられた)"
+      },
+      {
+        "word": "revocation",
+        "translation": "取消し (とりけし)"
+      },
+      {
+        "word": "period set by the court",
+        "translation": "裁判所が定めた期間 (さいばんしょがさだめたきかん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Dismissal of Motion for Preservation Order",
+    "definition": "The court's judicial decision to reject or refuse an application seeking a preservation measure, occurring when the applicant fails to provide a prima facie showing of the preservation claim or the necessity of preservation, or if the motion suffers from a fatal procedural defect.",
+    "japaneseDefinition": "保全措置を求める申立てを裁判所が却下または拒否する司法判断。通常、申立人が保全の権利または保全の必要性について疎明（一応の証拠）を提出できなかった場合、または重大な手続上の欠陥がある場合に生じる。",
+    "japaneseWordTranslation": "保全命令の申立却下 (ほぜんめいれいのもうしたてきゃっか)",
+    "legalContext": "Civil Preservation Law (民事保全法) Art. 26: The court shall dismiss the motion for a preservation order if the right to be preserved or the necessity of preservation has not been shown prima facie.",
+    "japaneseLegalContext": "民事保全法第26条: 保全すべき権利又は保全の必要性の疎明がないときは、保全命令の申立ては、却下しなければならない。",
+    "exampleSentence": "The court issued a dismissal of motion for preservation order because the preservation obligee’s supporting documents did not provide sufficient prima facie evidence of the debt’s existence.",
+    "exampleTranslation": "保全債権者の提出書類が債務の存在について十分な疎明証拠を提供しなかったため、裁判所は保全命令の申立却下を下した。",
+    "vocabularyList": [
+      {
+        "word": "judicial decision",
+        "translation": "司法判断 (しほうはんだん)"
+      },
+      {
+        "word": "application seeking",
+        "translation": "求める申立て (もとめるもうしたて)"
+      },
+      {
+        "word": "prima facie evidence",
+        "translation": "疎明証拠 (そめいしょうこ)"
+      },
+      {
+        "word": "debt’s existence",
+        "translation": "債務の存在 (さいむのそんざい)"
+      },
+      {
+        "word": "sufficient",
+        "translation": "十分な (じゅうぶんな)"
+      },
+      {
+        "word": "procedural defect",
+        "translation": "手続上の欠陥 (てつづきじょうのけっかん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Lapse of a Preservation Order",
+    "definition": "The automatic cessation of the legal validity or enforceability of a preservation order (provisional seizure or injunction) due to specific statutory conditions being met, such as the failure to commence the principal action within the specified period or the withdrawal of the action on the merits.",
+    "japaneseDefinition": "保全命令（仮差押え又は仮処分）が、定められた期間内に本案の訴えが提起されないことや本案の訴えが取り下げられることなど、特定の法定の条件を満たしたことにより、その法的効力または執行力が自動的に消滅すること。",
+    "japaneseWordTranslation": "保全命令の失効 (ほぜんめいれいのしっこう)",
+    "legalContext": "Civil Preservation Law (民事保全法) Art. 43(1): If the action on the merits is withdrawn, the preservation order shall cease to be effective.",
+    "japaneseLegalContext": "民事保全法第43条第1項: 本案の訴えが取り下げられたときは、保全命令は、その効力を失う。",
+    "exampleSentence": "Following the dismissal of the underlying litigation, the provisional seizure immediately resulted in the lapse of a preservation order.",
+    "exampleTranslation": "本案訴訟の棄却に伴い、当該仮差押えは直ちに保全命令の失効となった。",
+    "vocabularyList": [
+      {
+        "word": "cessation",
+        "translation": "消滅 (しょうめつ)"
+      },
+      {
+        "word": "legal validity",
+        "translation": "法的効力 (ほうてきこうりょく)"
+      },
+      {
+        "word": "statutory conditions",
+        "translation": "法定の条件 (ほうていのじょうけん)"
+      },
+      {
+        "word": "underlying litigation",
+        "translation": "本案訴訟 (ほんなんそしょう)"
+      },
+      {
+        "word": "dismissal",
+        "translation": "棄却 (ききゃく)"
+      },
+      {
+        "word": "immediately",
+        "translation": "直ちに (ただちに)"
+      },
+      {
+        "word": "enforceability",
+        "translation": "執行力 (しっこうりょく)"
+      }
+    ]
   }
 ]

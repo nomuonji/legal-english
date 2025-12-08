@@ -1292,5 +1292,119 @@
         "translation": "工作物 (Kōsakubutsu)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Delegation of Authority",
+    "definition": "The act by which the principal grants specific powers to an agent to perform legal acts on their behalf.",
+    "japaneseDefinition": "本人から代理人に対し、特定の法律行為を行う権限を与える行為。",
+    "japaneseWordTranslation": "代理権の授与 (だいりけんのじゅよ)",
+    "legalContext": "Civil Code Art. 99: A legal act performed by an agent for the principal within the scope of authority shall be effective directly against the principal.",
+    "japaneseLegalContext": "民法第99条：代理人がその権限内の行為を本人にする意思を示してした行為は、本人に対して直接にその効力を生ずる。",
+    "exampleSentence": "The representative director must prove the written delegation of authority to demonstrate the scope of his agency powers.",
+    "exampleTranslation": "代表取締役は、代理権の範囲を証明するために、書面による代理権の授与を立証しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "principal",
+        "translation": "本人 (ほんにん)"
+      },
+      {
+        "word": "agent",
+        "translation": "代理人 (だいりにん)"
+      },
+      {
+        "word": "scope of authority",
+        "translation": "権限の範囲 (けんげんのはんい)"
+      },
+      {
+        "word": "legal act",
+        "translation": "法律行為 (ほうりつこうい)"
+      },
+      {
+        "word": "representative director",
+        "translation": "代表取締役 (だいひょうとりしまりやく)"
+      },
+      {
+        "word": "prove",
+        "translation": "立証する (りっしょうする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Bona Fide Acquisition",
+    "definition": "A principle under property law where a transferee who receives movable property through transfer of possession, acting in good faith and without negligence, immediately acquires ownership, even if the transferor was not the rightful owner.",
+    "japaneseDefinition": "動産を占有している者を真の権利者と信頼し、過失なく取引した者が、たとえ譲渡人が無権利者であっても、直ちにその所有権を取得する制度。",
+    "japaneseWordTranslation": "即時取得 (そくじしゅとく)",
+    "legalContext": "Civil Code Art. 192: A person who commences possession of movable property through a transaction in good faith and without negligence acquires the rights that the transferor was purported to possess.",
+    "japaneseLegalContext": "民法第192条：取引行為によって、平穏に、かつ、公然と動産の占有を始めた者は、善意であり、かつ、過失がないときは、即時にその動産について行使する権利を取得する。",
+    "exampleSentence": "The purchaser invoked the doctrine of bona fide acquisition to defend his ownership of the artwork, as he had no knowledge of the seller's lack of title.",
+    "exampleTranslation": "買主は、売主の権原の欠如を知らなかったため、その美術品の所有権を擁護するために即時取得の法理を援用した。",
+    "vocabularyList": [
+      {
+        "word": "movable property",
+        "translation": "動産 (どうさん)"
+      },
+      {
+        "word": "transferee",
+        "translation": "譲受人 (ゆずりうけにん)"
+      },
+      {
+        "word": "good faith",
+        "translation": "善意 (ぜんい)"
+      },
+      {
+        "word": "negligence",
+        "translation": "過失 (かしつ)"
+      },
+      {
+        "word": "lack of title",
+        "translation": "権原の欠如 (けんげんのけつじょ)"
+      },
+      {
+        "word": "doctrine",
+        "translation": "法理 (ほうり)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Novation",
+    "definition": "The termination of an existing obligation by the creation of a new obligation that differs in its essential elements from the former obligation, usually concerning the subject matter or the parties involved.",
+    "japaneseDefinition": "既存の債務を消滅させ、これに代わる新たな債務を発生させる契約。特に債務の要素（給付の内容や当事者）が変更される場合に用いられる。",
+    "japaneseWordTranslation": "更改 (こうかい)",
+    "legalContext": "Civil Code Art. 513: The parties may extinguish an existing obligation by concluding a contract that creates a new obligation with different essential elements.",
+    "japaneseLegalContext": "民法第513条：当事者が債務の要素を変更する契約をしたときは、その債務は、更改によって消滅する。",
+    "exampleSentence": "The parties executed a novation agreement, substituting the previous monetary obligation with an obligation to provide services.",
+    "exampleTranslation": "当事者は、以前の金銭債務を役務提供債務に置き換える更改契約を締結した。",
+    "vocabularyList": [
+      {
+        "word": "extinguish",
+        "translation": "消滅させる (しょうめつさせる)"
+      },
+      {
+        "word": "obligation",
+        "translation": "債務 (さいむ)"
+      },
+      {
+        "word": "essential elements",
+        "translation": "要素 (ようそ)"
+      },
+      {
+        "word": "substituting",
+        "translation": "置き換える (おきかえる)"
+      },
+      {
+        "word": "monetary obligation",
+        "translation": "金銭債務 (きんせんさいむ)"
+      },
+      {
+        "word": "concluding a contract",
+        "translation": "契約を締結する (けいやくをていけつする)"
+      }
+    ]
   }
 ]

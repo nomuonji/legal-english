@@ -1194,5 +1194,107 @@
         "translation": "歴史的 (れきしてき)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Section A of the Register",
+    "definition": "The division (甲区) within the real property register dedicated exclusively to recording matters related to the ownership of the property, including its creation, preservation, transfer, and any restrictions concerning the disposal of the ownership right.",
+    "japaneseDefinition": "不動産登記記録のうち、所有権に関する登記事項（所有権の保存、移転、処分制限など）を記録するために設けられている欄。",
+    "japaneseWordTranslation": "甲区 (こうく)",
+    "legalContext": "Real Property Registration Act defines the structure of the registry record, dividing the rights section into Section A (Kōku) for ownership and Section B (Otsu-ku) for other rights.",
+    "japaneseLegalContext": "不動産登記法は、権利部の構造を、所有権に関する事項を記録する甲区と、所有権以外の権利に関する事項を記録する乙区に分けて定める。",
+    "exampleSentence": "All matters pertaining to the creation and transfer of ownership of the property, including subsequent changes to the owner's address, must be recorded in Section A of the Register.",
+    "exampleTranslation": "所有権の発生及び移転に関する全ての事項は、所有者の住所のその後の変更を含め、登記の甲区に記録されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "registry record",
+        "translation": "登記記録 (とうききろく)"
+      },
+      {
+        "word": "ownership",
+        "translation": "所有権 (しょゆうけん)"
+      },
+      {
+        "word": "disposal",
+        "translation": "処分 (しょぶん)"
+      },
+      {
+        "word": "creation",
+        "translation": "設定 (せってい)"
+      },
+      {
+        "word": "transfer",
+        "translation": "移転 (いてん)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Section B of the Register",
+    "definition": "The division (乙区) within the real property register dedicated to recording matters concerning real rights other than ownership, primarily limited real rights such as security interests or rights of lease, which encumber the property.",
+    "japaneseDefinition": "不動産登記記録のうち、所有権以外の権利に関する登記事項（例えば、担保権や賃借権など）を記録するために設けられている欄。",
+    "japaneseWordTranslation": "乙区 (おつく)",
+    "legalContext": "Fudōsan Tōki Hō requires that any limited real right established over immovable property must be registered in Section B of the Register to be perfected against third parties.",
+    "japaneseLegalContext": "不動産登記法は、不動産に設定された所有権以外のすべての制限物権は、第三者に対抗するために登記の乙区に記録されることを要求する。",
+    "exampleSentence": "The creation of a security right over the land must be entered in Section B of the Register to achieve perfection against a third party claiming a subsequent interest.",
+    "exampleTranslation": "その土地に対する担保権の設定は、後に権利を主張する第三者への対抗力を得るため、登記の乙区に記入されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "limited real rights",
+        "translation": "制限物権 (せいげんぶっけん)"
+      },
+      {
+        "word": "security right",
+        "translation": "担保権 (たんぽけん)"
+      },
+      {
+        "word": "perfection",
+        "translation": "対抗要件の具備 (たいこうようけんのぐび)"
+      },
+      {
+        "word": "encumber",
+        "translation": "負担をかける (ふたんをかける)"
+      },
+      {
+        "word": "right of lease",
+        "translation": "賃借権 (ちんしゃくけん)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Factual Change",
+    "definition": "Registration specifically related to amendments or corrections concerning the physical description of the land or building (the *hyōdai-bu*), such as changes in the land's category, its total area, or the structural nature of a building.",
+    "japaneseDefinition": "土地や建物の物理的な表示に関する事項（地目、地積、建物の構造など）の変更または訂正を行うための登記。表題部に関する登記とも呼ばれる。",
+    "japaneseWordTranslation": "表示の変更の登記 (ひょうじのへんこうのとうき)",
+    "legalContext": "Real Property Registration Act obligates the owner to apply for a Registration of Factual Change within one month of the factual change occurring, such as alteration of the land category.",
+    "japaneseLegalContext": "不動産登記法は、地目変更などの事実上の変更があった場合、所有者に対し、変更が発生した日から一月以内に表示の変更の登記を申請することを義務付けている。",
+    "exampleSentence": "The developer applied for a **Registration of Factual Change** to reflect the land's conversion from agricultural field to residential lot following the required municipal approval.",
+    "exampleTranslation": "その開発業者は、必要な行政の承認を得た後、土地が農地から宅地に変更されたことを反映させるため、表示の変更の登記を申請した。",
+    "vocabularyList": [
+      {
+        "word": "factual change",
+        "translation": "事実上の変更 (じじつじょうのへんこう)"
+      },
+      {
+        "word": "description section",
+        "translation": "表題部 (ひょうだいぶ)"
+      },
+      {
+        "word": "land category",
+        "translation": "地目 (ちもく)"
+      },
+      {
+        "word": "residential lot",
+        "translation": "宅地 (たくち)"
+      },
+      {
+        "word": "total area",
+        "translation": "地積 (ちせき)"
+      }
+    ]
   }
 ]

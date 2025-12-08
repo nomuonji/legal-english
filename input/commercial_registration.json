@@ -2,40 +2,6 @@
   {
     "category": "Commercial Registration (商業登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Commercial Registration",
-    "definition": "A system to publicly disclose information about companies to ensure safe business transactions.",
-    "japaneseDefinition": "商号、会社等に関する事項を公にし、取引の安全を保護するための制度。",
-    "japaneseWordTranslation": "商業登記 (しょうぎょうとうき)",
-    "legalContext": "Commercial Registration Act Art. 1: The purpose of this Act is to ensure the safety of commerce by establishing a system for registration.",
-    "japaneseLegalContext": "商業登記法第1条：この法律は、商号、未成年者後見人...に関する登記について定め、もって商取引の安全に寄与することを目的とする。",
-    "exampleSentence": "The company completed its commercial registration immediately after incorporation.",
-    "exampleTranslation": "その会社は設立後直ちに商業登記を完了した。",
-    "vocabularyList": [
-      {
-        "word": "Commerce",
-        "translation": "商取引"
-      },
-      {
-        "word": "Disclose",
-        "translation": "公開する"
-      },
-      {
-        "word": "Incorporation",
-        "translation": "設立"
-      },
-      {
-        "word": "Safety",
-        "translation": "安全"
-      },
-      {
-        "word": "System",
-        "translation": "制度"
-      }
-    ]
-  },
-  {
-    "category": "Commercial Registration (商業登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Trade Name",
     "definition": "The name under which a merchant conducts business and which is registered to identify the business entity.",
     "japaneseDefinition": "商人が営業を行う際に使用する名称であり、事業主体を識別するために登記されるもの。",
@@ -1222,6 +1188,120 @@
       {
         "word": "acting in good faith",
         "translation": "善意で行動する (ぜんいでこうどうする)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Effect against Third Parties",
+    "definition": "The legal principle stipulating that matters required to be registered under the Commercial Registration Act must be registered before they can be asserted against or utilized in opposition to a bona fide third party.",
+    "japaneseDefinition": "商業登記された事項は、登記が完了した後でなければ、善意の第三者に対抗することができないという効力。",
+    "japaneseWordTranslation": "対抗力 (たいこうりょく)",
+    "legalContext": "Commercial Registration Act Art. 9: Matters required to be registered shall not be duly asserted against third parties until after registration has been effected.",
+    "japaneseLegalContext": "商業登記法第9条：登記すべき事項は、登記の後でなければ、これをもって善意の第三者に対抗することができない。",
+    "exampleSentence": "Without registration of the company's capital increase, the Effect against Third Parties cannot be asserted, protecting parties unaware of the change.",
+    "exampleTranslation": "会社の増資の登記がなければ、その対抗力を主張することはできず、変更を知らない当事者は保護される。",
+    "vocabularyList": [
+      {
+        "word": "company's capital increase",
+        "translation": "会社の増資"
+      },
+      {
+        "word": "asserted",
+        "translation": "主張された"
+      },
+      {
+        "word": "bona fide",
+        "translation": "善意の"
+      },
+      {
+        "word": "third parties",
+        "translation": "第三者"
+      },
+      {
+        "word": "effected",
+        "translation": "実行された"
+      },
+      {
+        "word": "unaware of the change",
+        "translation": "変更を知らない"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Presumption of Truth (of Registered Matters)",
+    "definition": "The principle, based on the public nature of the commercial register, that a third party who relies on a registered matter in good faith and without negligence is protected, even if the registered matter is factually untrue (though the Commercial Registration Act only explicitly addresses the lack of registration).",
+    "japaneseDefinition": "商業登記簿の公示性を基に、登録された事項が事実と異なっていても、これを信頼した善意かつ無過失の第三者を保護する原則（登記の真実性の推定）。",
+    "japaneseWordTranslation": "登記の真実の推定 (とうきのしんじつのすいてい)",
+    "legalContext": "Commercial Registration Act Art. 12 (Negative effect of non-registration) and general legal interpretation regarding protection of reliance on public records.",
+    "japaneseLegalContext": "商業登記法第12条（未登記の場合の効力）および公示された記録への信頼保護に関する一般的な法解釈。",
+    "exampleSentence": "A lender relying on the corporate register benefits from the Presumption of Truth regarding the representative director’s authority, unless the lender acted in bad faith or with gross negligence.",
+    "exampleTranslation": "会社登記簿に依拠する貸し手は、代表取締役の権限に関する登記の真実の推定から恩恵を受ける。ただし、貸し手が悪意または重過失で行動した場合を除く。",
+    "vocabularyList": [
+      {
+        "word": "corporate register",
+        "translation": "会社登記簿"
+      },
+      {
+        "word": "lender",
+        "translation": "貸し手"
+      },
+      {
+        "word": "authority",
+        "translation": "権限"
+      },
+      {
+        "word": "in good faith",
+        "translation": "善意で"
+      },
+      {
+        "word": "gross negligence",
+        "translation": "重過失"
+      },
+      {
+        "word": "relying on",
+        "translation": "依拠する"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Retirement",
+    "definition": "The mandatory registration required when an officer (such as a Director or Corporate Auditor) resigns, is dismissed, or whose term of office expires, resulting in the cessation of their position within the company.",
+    "japaneseDefinition": "取締役や監査役などの役員が辞任、解任、または任期満了によって会社内の地位を失った際に要求される義務的な登記手続き。",
+    "japaneseWordTranslation": "退任の登記 (たいにんのとうき)",
+    "legalContext": "Companies Act Art. 915 (Registration of Change in Registered Matters) & Commercial Registration Act provisions regarding changes in officer registration.",
+    "japaneseLegalContext": "会社法第915条（変更の登記）及び商業登記法における役員変更に関する規定。",
+    "exampleSentence": "The company must file the Registration of Retirement for the former director within two weeks of their cessation of office, pursuant to the Companies Act.",
+    "exampleTranslation": "会社法に基づき、会社は元取締役の退任から2週間以内に、退任の登記を申請しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "cessation of office",
+        "translation": "地位の喪失"
+      },
+      {
+        "word": "mandatory registration",
+        "translation": "義務的な登記"
+      },
+      {
+        "word": "former director",
+        "translation": "元取締役"
+      },
+      {
+        "word": "term of office",
+        "translation": "任期"
+      },
+      {
+        "word": "pursuant to",
+        "translation": "〜に基づいて"
+      },
+      {
+        "word": "is dismissed",
+        "translation": "解任される"
       }
     ]
   }

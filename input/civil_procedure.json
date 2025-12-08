@@ -1314,5 +1314,115 @@
         "translation": "原告 (げんこく)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Motion for Disqualification (of a Judge)",
+    "definition": "A procedural application made by a party requesting that a specific judge or court clerk be removed from the case due to circumstances that may compromise their impartiality or fairness.",
+    "japaneseDefinition": "裁判官又は裁判所書記官が不公正な裁判をする虞のある場合に、当事者がその職務執行を避けるよう申し立てる手続き。",
+    "japaneseWordTranslation": "忌避 (きひ)",
+    "legalContext": "Code of Civil Procedure Art. 24: Grounds for Disqualification. A party may move for disqualification only if there is a reason specified by law.",
+    "japaneseLegalContext": "民事訴訟法第24条：忌避の理由。当事者は、法律に定める理由がある場合にのみ忌避の申立てをすることができる。",
+    "exampleSentence": "The defendant filed a motion for disqualification, asserting that the judge had previously advised the opposing counsel on matters related to the current litigation.",
+    "exampleTranslation": "被告は、裁判官が以前、現在の訴訟に関連する事項について相手方弁護士に助言していたとして、忌避の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "filed a motion",
+        "translation": "申立てを行った"
+      },
+      {
+        "word": "asserting",
+        "translation": "主張し"
+      },
+      {
+        "word": "impartiality",
+        "translation": "公平性"
+      },
+      {
+        "word": "opposing counsel",
+        "translation": "相手方弁護士"
+      },
+      {
+        "word": "grounds",
+        "translation": "理由"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Formative Judgment (Constitutive Judgment)",
+    "definition": "A judgment that legally creates, alters, or extinguishes a specific legal relationship between the parties upon becoming final, effectively establishing a new legal status without the need for further executive action.",
+    "japaneseDefinition": "判決の確定によって、当事者間の法律関係を創設、変更又は消滅させる効力を有する判決。その後の強制的な給付手続きを要しない。",
+    "japaneseWordTranslation": "形成判決 (けいせい はんけつ)",
+    "legalContext": "Formative Judgments are distinguished from judgments of performance (給付判決) and judgments of declaration (確認判決) by their inherent power to change legal status.",
+    "japaneseLegalContext": "形成判決は、その性質上、法律上の地位を変更する権能を持ち、給付判決及び確認判決とは区別される。",
+    "exampleSentence": "An action seeking the cancellation of a corporate resolution, if successful, results in a formative judgment that invalidates the decision retroactively.",
+    "exampleTranslation": "会社の決議の取消しを求める訴えは、認められれば、その決定を遡及的に無効にする形成判決となる。",
+    "vocabularyList": [
+      {
+        "word": "extinguishes",
+        "translation": "消滅させる"
+      },
+      {
+        "word": "final",
+        "translation": "確定した"
+      },
+      {
+        "word": "performance",
+        "translation": "給付"
+      },
+      {
+        "word": "invalidates",
+        "translation": "無効にする"
+      },
+      {
+        "word": "corporate resolution",
+        "translation": "会社の決議"
+      },
+      {
+        "word": "retroactively",
+        "translation": "遡及的に"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Security for Litigation Costs",
+    "definition": "A procedural requirement where the court orders a plaintiff, usually one who lacks a domicile or sufficient assets in Japan, to deposit money to guarantee the payment of the defendant's litigation expenses should the plaintiff lose the suit.",
+    "japaneseDefinition": "裁判所が、日本に住所又は十分な財産を有しない原告に対し、敗訴した場合に備えて被告の将来の訴訟費用の支払いを担保するために、金銭の供託を命じる手続き。",
+    "japaneseWordTranslation": "訴訟費用担保 (そしょう ひよう たんぽ)",
+    "legalContext": "Code of Civil Procedure Art. 404: Obligation to Furnish Security for Litigation Costs. This mechanism safeguards the defendant's right to reimbursement for expenses.",
+    "japaneseLegalContext": "民事訴訟法第404条：訴訟費用の担保提供義務。この仕組みは、被告の費用償還請求権を保護する。",
+    "exampleSentence": "Since the foreign plaintiff failed to furnish the ordered security for litigation costs within the deadline, the court dismissed the action.",
+    "exampleTranslation": "外国人原告は、期限内に命じられた訴訟費用担保を提供しなかったため、裁判所はその訴えを却下した。",
+    "vocabularyList": [
+      {
+        "word": "plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "domicile",
+        "translation": "住所"
+      },
+      {
+        "word": "deposit money",
+        "translation": "金銭を供託する"
+      },
+      {
+        "word": "furnish",
+        "translation": "提供する"
+      },
+      {
+        "word": "dismissed the action",
+        "translation": "訴えを却下した"
+      },
+      {
+        "word": "reimbursement",
+        "translation": "償還"
+      }
+    ]
   }
 ]

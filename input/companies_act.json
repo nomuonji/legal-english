@@ -1174,5 +1174,107 @@
         "translation": "非任意に"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Stock Class Meeting",
+    "definition": "A meeting required to be held by a company that issues different classes of shares (class shares), whenever a corporate action or resolution would disadvantage or affect the rights of shareholders of a specific class.",
+    "japaneseDefinition": "種類株式発行会社において、ある種類の株主の権利に影響を及ぼす特定の行為や決議を行う際に、当該種類の株主のみで開催される会議。",
+    "japaneseWordTranslation": "種類株主総会 (しゅるいかぶぬしそうかい)",
+    "legalContext": "Companies Act Art. 322: Where a stock company intends to effect any act listed in paragraph (2) of this article, it shall be necessary to obtain a resolution of the Stock Class Meeting of the class shareholders concerned, in addition to a resolution of the General Meeting of Shareholders.",
+    "japaneseLegalContext": "会社法第322条: 株式会社が第2項各号に掲げる行為をしようとするときは、株主総会の決議のほか、当該行為により損害を被るおそれのある種類の株主を構成員とする種類株主総会の決議がなければ、その効力を生じない。",
+    "exampleSentence": "The company’s decision to amend the Articles of Incorporation to remove preferential distribution rights necessitated a separate resolution by the Stock Class Meeting of the Class B shareholders.",
+    "exampleTranslation": "定款を変更して優先的配当権を廃止するという会社の決定は、B種株主の種類株主総会による別途の決議を必要とした。",
+    "vocabularyList": [
+      {
+        "word": "amend the Articles of Incorporation",
+        "translation": "定款を変更する"
+      },
+      {
+        "word": "preferential distribution rights",
+        "translation": "優先的分配権"
+      },
+      {
+        "word": "class shares",
+        "translation": "種類株式"
+      },
+      {
+        "word": "resolution",
+        "translation": "決議"
+      },
+      {
+        "word": "disadvantage",
+        "translation": "不利益を及ぼす"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Shareholder Register Administrator",
+    "definition": "An institution (usually a trust bank) appointed by the company, typically mandated for publicly traded companies, to maintain the Shareholder Register, record changes in share ownership, and handle ancillary tasks such as managing dividends and notifications.",
+    "japaneseDefinition": "会社の委託を受け、株主名簿の作成及び備置き、株式に関する名義書換、配当事務などの管理事務を行う機関（通常は信託銀行）。",
+    "japaneseWordTranslation": "株主名簿管理人 (かぶぬしめいぼかんりにん)",
+    "legalContext": "Companies Act Art. 121: A stock company may, pursuant to the provisions of the Articles of Incorporation, appoint a Shareholder Register Administrator to administer the Shareholder Register and perform other related administrative duties.",
+    "japaneseLegalContext": "会社法第121条: 株式会社は、定款の定めにより、株主名簿の作成及び備置きその他の株主名簿に関する事務を行う者（株主名簿管理人）を置くことができる。",
+    "exampleSentence": "In order to streamline administrative processes and ensure compliance with exchange regulations, the newly listed firm appointed a major trust bank as its Shareholder Register Administrator.",
+    "exampleTranslation": "行政プロセスを合理化し、取引所の規則遵守を確実にするため、新規上場企業は主要な信託銀行を株主名簿管理人として選任した。",
+    "vocabularyList": [
+      {
+        "word": "listed firm",
+        "translation": "上場企業"
+      },
+      {
+        "word": "streamline administrative processes",
+        "translation": "行政プロセスを合理化する"
+      },
+      {
+        "word": "exchange regulations",
+        "translation": "取引所規則"
+      },
+      {
+        "word": "trust bank",
+        "translation": "信託銀行"
+      },
+      {
+        "word": "Shareholder Register",
+        "translation": "株主名簿"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Share Consolidation",
+    "definition": "An organizational action defined in the Companies Act whereby a company combines several existing shares into a smaller number of shares (e.g., ten shares are merged into one), often requiring shareholder approval.",
+    "japaneseDefinition": "会社が、複数の既存株式をより少数の株式にまとめる組織行為（例：10株を1株に併合すること）。株主総会の承認を要することが多い。",
+    "japaneseWordTranslation": "株式併合 (かぶしきへいごう)",
+    "legalContext": "Companies Act Art. 180: A stock company shall prescribe the following matters by a resolution of the General Meeting of Shareholders when carrying out a Share Consolidation: (i) The ratio for the Share Consolidation; (ii) The effective date of the Share Consolidation.",
+    "japaneseLegalContext": "会社法第180条: 株式会社は、株式の併合をしようとするときは、その都度、株主総会の決議によって、次に掲げる事項を定めなければならない。(一) 株式の併合の割合。(二) 株式の併合がその効力を生ずる日。",
+    "exampleSentence": "The Share Consolidation was primarily intended to raise the per-share price to meet the listing standards of the foreign stock exchange and reduce administrative costs.",
+    "exampleTranslation": "当該株式併合は、主に1株当たりの価格を引き上げ、海外の証券取引所の上場基準を満たし、かつ事務費用を削減することを目的としていた。",
+    "vocabularyList": [
+      {
+        "word": "per-share price",
+        "translation": "1株当たりの価格"
+      },
+      {
+        "word": "listing standards",
+        "translation": "上場基準"
+      },
+      {
+        "word": "effective date",
+        "translation": "効力発生日"
+      },
+      {
+        "word": "organizational action",
+        "translation": "組織行為"
+      },
+      {
+        "word": "reduce administrative costs",
+        "translation": "事務費用を削減する"
+      }
+    ]
   }
 ]

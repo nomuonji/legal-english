@@ -1228,5 +1228,119 @@
         "translation": "適時な弁済（履行）"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Acceptance of Deposit",
+    "definition": "The act by which the obligee (the intended recipient of the performance) affirmatively accepts the consigned property, thereby acknowledging the deposit as having the effect of extinguishing the underlying obligation.",
+    "japaneseDefinition": "債権者が供託された財産を受領することを承認し、その供託によって債務が消滅することを認める行為。",
+    "japaneseWordTranslation": "供託の受諾 (きょうたくの じゅのう)",
+    "legalContext": "Civil Code Art. 495 (Effect of Consignment): 'If the obligee accepts the deposit, the effect of consignment extinguishes the obligation.'",
+    "japaneseLegalContext": "民法第495条（供託の効果）：『債権者が供託を受諾したときは、その供託によって債務が消滅する。』",
+    "exampleSentence": "The obligee’s written notification confirming the **acceptance of deposit** was sufficient evidence that the underlying debt had been discharged.",
+    "exampleTranslation": "債権者による供託の受諾を確認する書面通知は、原債務が消滅したことの十分な証拠となった。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "underlying debt",
+        "translation": "原債務"
+      },
+      {
+        "word": "discharged",
+        "translation": "消滅した／免責された"
+      },
+      {
+        "word": "consigning performance",
+        "translation": "履行の供託"
+      },
+      {
+        "word": "extinguishes the obligation",
+        "translation": "債務を消滅させる"
+      },
+      {
+        "word": "written notification",
+        "translation": "書面通知"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit for Compulsory Conversion",
+    "definition": "A specific type of deposit where funds resulting from the mandatory sale or disposition of property are consigned to the deposit office because the rightful distribution of the proceeds is uncertain or requires a public authority's oversight.",
+    "japaneseDefinition": "財産が強制的に売却され金銭化された際、その代金の配当を受けるべき者が不確実である等の理由により、その金銭を供託所に預け入れること。",
+    "japaneseWordTranslation": "強制換価のための供託 (きょうせい かんかのための きょうたく)",
+    "legalContext": "Deposit Act stipulations regarding deposits required when money is converted from property through public auction or similar procedures, often involving tax or administrative liens.",
+    "japaneseLegalContext": "競売等により財産が金銭に換価された場合に、租税債権等の関係で金銭を供託すべきとする供託法の規定。",
+    "exampleSentence": "The funds generated from the forced public sale were treated as a **deposit for compulsory conversion** to allow the court to determine the priority among the multiple secured creditors.",
+    "exampleTranslation": "強制的な公売から生じた資金は、複数の担保債権者間の優先順位を裁判所が決定できるように、強制換価のための供託として扱われた。",
+    "vocabularyList": [
+      {
+        "word": "forced public sale",
+        "translation": "強制的な公売"
+      },
+      {
+        "word": "funds generated",
+        "translation": "生じた資金"
+      },
+      {
+        "word": "priority",
+        "translation": "優先順位"
+      },
+      {
+        "word": "secured creditors",
+        "translation": "担保債権者"
+      },
+      {
+        "word": "disposition of property",
+        "translation": "財産の処分"
+      },
+      {
+        "word": "public authority's oversight",
+        "translation": "公的機関の監督"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Claim for Withdrawal of Deposit",
+    "definition": "The right possessed by the depositor, the obligee, or a successor in interest, to demand the physical delivery or payment of the consigned property or funds from the deposit office, upon satisfying statutory requirements.",
+    "japaneseDefinition": "供託者、債権者、または承継人など、正当な権利を有する者が、供託所に対し、供託された財産または金銭の交付を請求する権利。",
+    "japaneseWordTranslation": "供託物払渡請求権 (きょうたくぶつ はらいわたし せいきゅうけん)",
+    "legalContext": "Deposit Act Art. 32 (Requirement for Delivery of Consigned Property): This provision stipulates who has the right to the delivery of the deposited item and the conditions for withdrawal.",
+    "japaneseLegalContext": "供託法第32条（供託物の払渡しの要件）：供託物の払渡しを受けることができる者及び払渡しの条件を規定する。",
+    "exampleSentence": "To exercise the **claim for withdrawal of deposit**, the successor in interest must present the required documentation proving their status to the deposit office.",
+    "exampleTranslation": "供託物払渡請求権を行使するため、承継人はその地位を証明するために必要な書類を供託所に提示しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "depositor",
+        "translation": "供託者"
+      },
+      {
+        "word": "successor in interest",
+        "translation": "承継人"
+      },
+      {
+        "word": "delivery or payment",
+        "translation": "払渡し"
+      },
+      {
+        "word": "deposit office",
+        "translation": "供託所"
+      },
+      {
+        "word": "consignor of performance",
+        "translation": "履行供託者"
+      },
+      {
+        "word": "statutory requirements",
+        "translation": "法定要件"
+      }
+    ]
   }
 ]

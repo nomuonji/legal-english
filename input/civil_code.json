@@ -1406,5 +1406,115 @@
         "translation": "契約を締結する (けいやくをていけつする)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Undue Enrichment",
+    "definition": "A legal concept whereby a person who has gained a benefit without legal cause, resulting in loss to another, is obligated to return that benefit.",
+    "japaneseDefinition": "法律上の原因がないにもかかわらず、他人の財産または労務によって利益を受け、そのために他人に損失を及ぼした者が、その利益を返還しなければならないとする法制度。",
+    "japaneseWordTranslation": "不当利得 (ふとうりとく)",
+    "legalContext": "Civil Code Art. 703: “A person who has benefited from the property or services of another without legal cause and has thereby inflicted loss on the other shall be obliged to return the benefit received...”",
+    "japaneseLegalContext": "民法第703条: 「法律上の原因なく他人の財産又は労務によって利益を受け、そのために他人に損失を及ぼした者（中略）は、その利益を返還する義務を負う。」",
+    "exampleSentence": "The plaintiff filed an action demanding the return of the funds based on the principle of undue enrichment, as the transfer lacked a valid underlying agreement.",
+    "exampleTranslation": "原告は、その送金に有効な基礎となる合意が欠如していたため、不当利得の原則に基づき資金の返還を求める訴訟を提起した。",
+    "vocabularyList": [
+      {
+        "word": "legal cause",
+        "translation": "法律上の原因 (ほうりつじょうのげんいん)"
+      },
+      {
+        "word": "return the benefit",
+        "translation": "利益を返還する (りえきをへんかんする)"
+      },
+      {
+        "word": "inflicted loss",
+        "translation": "損失を及ぼした (そんしつをおよぼした)"
+      },
+      {
+        "word": "underlying agreement",
+        "translation": "基礎となる合意 (きそとなるごうい)"
+      },
+      {
+        "word": "action demanding return",
+        "translation": "返還請求訴訟 (へんかんせいきゅうそしょう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Rescission (of a Contract)",
+    "definition": "The right of a party to terminate a validly formed contract unilaterally, typically due to a material breach or non-performance by the other party, resulting in the contract being treated as if it had never existed.",
+    "japaneseDefinition": "有効に成立した契約について、一方当事者の債務不履行など重大な理由がある場合に、他方当事者が一方的な意思表示により契約を将来に向かってまたは遡及的に消滅させること。",
+    "japaneseWordTranslation": "解除 (かいじょ)",
+    "legalContext": "Civil Code Art. 540: “Where one of the parties fails to perform his/her obligation, the other party may set a reasonable period and demand performance thereof, and may rescind the contract if performance is not rendered within that period.”",
+    "japaneseLegalContext": "民法第540条: 「当事者の一方がその債務を履行しない場合において、相手方が相当の期間を定めてその履行の催告をし、その期間内に履行がないときは、相手方は、契約の解除をすることができる。」",
+    "exampleSentence": "The buyer exercised the right of rescission following the seller’s failure to deliver the goods by the stipulated deadline, demanding full restitution.",
+    "exampleTranslation": "売主が規定の期限までに商品を納入しなかったため、買主は解除権を行使し、完全な原状回復を求めた。",
+    "vocabularyList": [
+      {
+        "word": "material breach",
+        "translation": "重大な債務不履行 (じゅうだいなさいむふりこう)"
+      },
+      {
+        "word": "non-performance",
+        "translation": "不履行 (ふりこう)"
+      },
+      {
+        "word": "stipulated deadline",
+        "translation": "規定の期限 (きていのきげん)"
+      },
+      {
+        "word": "restitution",
+        "translation": "原状回復 (げんじょうかいふく)"
+      },
+      {
+        "word": "unilaterally",
+        "translation": "一方的に (いっぽうてきに)"
+      },
+      {
+        "word": "demand performance",
+        "translation": "履行の催告 (りこうのさいこく)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Solatium / Compensation for Mental Suffering",
+    "definition": "Monetary damages awarded to compensate an injured party for non-pecuniary harm, such as pain, suffering, grief, or emotional distress, resulting from an unlawful act.",
+    "japaneseDefinition": "不法行為によって生じた精神的な苦痛、悲嘆、その他の非財産的損害を償うために支払われる金銭賠償。",
+    "japaneseWordTranslation": "慰謝料 (いしゃりょう)",
+    "legalContext": "Civil Code Art. 710: “A person liable for damages in accordance with the provisions of the preceding Article shall, whether the injury is to the person, liberty or reputation of another, or to the property rights of another, also make compensation for damages other than pecuniary damages.”",
+    "japaneseLegalContext": "民法第710条: 「前条の規定により損害賠償の責任を負う者は、財産以外の損害についても、その賠償をしなければならない。」",
+    "exampleSentence": "In the defamation suit, the court ordered the defendant to pay a substantial sum as solatium for the plaintiff’s severe emotional distress and reputational damage.",
+    "exampleTranslation": "名誉毀損訴訟において、裁判所は、原告の深刻な精神的苦痛と名誉毀損に対し、被告に相当額の慰謝料の支払いを命じた。",
+    "vocabularyList": [
+      {
+        "word": "defamation suit",
+        "translation": "名誉毀損訴訟 (めいよきそんそしょう)"
+      },
+      {
+        "word": "unlawful act",
+        "translation": "不法行為 (ふほうこうい)"
+      },
+      {
+        "word": "non-pecuniary harm",
+        "translation": "非財産的損害 (ひざいさんてきそんがい)"
+      },
+      {
+        "word": "emotional distress",
+        "translation": "精神的苦痛 (せいしんてきくつう)"
+      },
+      {
+        "word": "reputational damage",
+        "translation": "名誉毀損 (めいよきそん)"
+      },
+      {
+        "word": "substantial sum",
+        "translation": "相当額 (そうとうがく)"
+      }
+    ]
   }
 ]

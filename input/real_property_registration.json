@@ -1296,5 +1296,119 @@
         "translation": "地積 (ちせき)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Time of Reception (of Application)",
+    "definition": "The exact moment the registration application is received by the registry office, which serves as the statutory benchmark for determining the ranking or priority of rights established by the resulting registration.",
+    "japaneseDefinition": "登記の申請が登記所に到達した正確な時点であり、その登記によって設定される権利の順位を決定するための法定の基準となる。",
+    "japaneseWordTranslation": "受付の時 (うけつけのとき)",
+    "legalContext": "Real Property Registration Act Art. 7: The registration shall take effect when it is accepted, regardless of when it is completed.",
+    "japaneseLegalContext": "不動産登記法第7条: 登記は、受付の時にさかのぼってその効力を生ずる。",
+    "exampleSentence": "The order of priority between competing registrations is determined strictly by the Time of Reception, favoring the earlier applicant.",
+    "exampleTranslation": "競合する登記間の優先順位は、より早い申請者を優遇する受付の時によって厳密に決定される。",
+    "vocabularyList": [
+      {
+        "word": "order of priority",
+        "translation": "優先順位 (ゆうせんじゅんい)"
+      },
+      {
+        "word": "competing registrations",
+        "translation": "競合する登記 (きょうごうするとうき)"
+      },
+      {
+        "word": "statutory benchmark",
+        "translation": "法定の基準 (ほうていのきじゅん)"
+      },
+      {
+        "word": "resulting registration",
+        "translation": "結果として生じた登記 (けっかとしてしょうじたちゅうき)"
+      },
+      {
+        "word": "earlier applicant",
+        "translation": "先の申請者 (さきのしんせいしゃ)"
+      },
+      {
+        "word": "strictly determined",
+        "translation": "厳密に決定される (げんみつにけっていされる)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Change Registration",
+    "definition": "A registration procedure performed when there is a factual or legal modification to registered matters concerning a right (e.g., changing the registered address of the title holder, or adjusting the content of a registered right like the duration or amount of a secured debt).",
+    "japaneseDefinition": "権利に関する登記された事項に事実上または法律上の変更が生じた際に行われる登記手続（例：登記名義人の住所変更、または担保債権の期間や金額など、登記された権利内容の調整）。",
+    "japaneseWordTranslation": "変更の登記 (へんこうのとうき)",
+    "legalContext": "Real Property Registration Act Art. 64: An application for a Change Registration shall be filed by the registration obligee and the registration title holder jointly.",
+    "japaneseLegalContext": "不動産登記法第64条: 変更の登記の申請は、登記権利者及び登記義務者が共同してしなければならない。",
+    "exampleSentence": "The financial institution required the obligor to promptly perform a Change Registration following the modification of the repayment terms of the loan.",
+    "exampleTranslation": "その金融機関は、債務者に対し、融資の返済条件の変更に伴い、速やかに変更の登記を行うよう要求した。",
+    "vocabularyList": [
+      {
+        "word": "modification",
+        "translation": "変更 (へんこう)"
+      },
+      {
+        "word": "repayment terms",
+        "translation": "返済条件 (へんさいじょうけん)"
+      },
+      {
+        "word": "secured debt",
+        "translation": "担保債権 (たんぽさいけん)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "promptly perform",
+        "translation": "速やかに実行する (すみやかにじっこうする)"
+      },
+      {
+        "word": "financial institution",
+        "translation": "金融機関 (きんゆうきかん)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designation of Register",
+    "definition": "The formal identification and specification, often by reference to the property number or description, that links a subsequent registration application to the existing registration record pertaining to the real property in question.",
+    "japaneseDefinition": "不動産に関する既存の登記記録に対し、後の登記申請を結びつけるための、正式な特定および明示（多くの場合、不動産番号または表示による）。",
+    "japaneseWordTranslation": "登記記録の指定 (とうききろくのしてい)",
+    "legalContext": "Real Property Registration Act Art. 34: When applying for registration concerning multiple parcels of land or buildings, the applicant must designate the register for each property.",
+    "japaneseLegalContext": "不動産登記法第34条: 数個の土地又は建物についてする登記の申請をする場合においては、申請人は、各不動産について登記記録を指定しなければならない。",
+    "exampleSentence": "Failure to provide the correct Designation of Register when dealing with contiguous parcels will result in the rejection of the application by the registrar.",
+    "exampleTranslation": "隣接する区画を扱う際に正確な登記記録の指定を提供しない場合、登記官による申請の却下という結果を招く。",
+    "vocabularyList": [
+      {
+        "word": "formal identification",
+        "translation": "正式な特定 (せいしきなとくてい)"
+      },
+      {
+        "word": "property number",
+        "translation": "不動産番号 (ふどうさんばんごう)"
+      },
+      {
+        "word": "subsequent registration application",
+        "translation": "後の登記申請 (あとのとうきしんせい)"
+      },
+      {
+        "word": "contiguous parcels",
+        "translation": "隣接する区画 (りんせつするくかく)"
+      },
+      {
+        "word": "rejection of the application",
+        "translation": "申請の却下 (しんせいのきゃっか)"
+      },
+      {
+        "word": "in question",
+        "translation": "問題となっている (もんだいとなっている)"
+      }
+    ]
   }
 ]

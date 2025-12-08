@@ -1312,5 +1312,119 @@
         "translation": "執行力 (しっこうりょく)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Attachment",
+    "definition": "A preservation measure restricting the debtor's ability to dispose of specific property in preparation for future monetary enforcement, ensuring the creditor's claim can be satisfied.",
+    "japaneseDefinition": "金銭債権を保全するため、債務者の特定の財産について、将来の強制執行を確実にする目的で、その処分を制限する裁判所の手続き。",
+    "japaneseWordTranslation": "仮差押え (かりさしおさえ)",
+    "legalContext": "Civil Preservation Act (民事保全法) Art. 20 (1): A Provisional Attachment may be issued in respect of a claim for which a monetary payment is sought.",
+    "japaneseLegalContext": "民事保全法第20条第1項：金銭の支払を目的とする債権について、仮差押えをすることができる。",
+    "exampleSentence": "The creditor filed a motion for Provisional Attachment against the debtor's bank accounts, citing the imminent risk of fund dissipation.",
+    "exampleTranslation": "債権者は、資金散逸の差し迫った危険を理由に、債務者の銀行口座に対する仮差押えの申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "monetary payment",
+        "translation": "金銭の支払 (きんせんのしはらい)"
+      },
+      {
+        "word": "risk of fund dissipation",
+        "translation": "資金散逸の危険 (しきんさんいつのきけん)"
+      },
+      {
+        "word": "bank account",
+        "translation": "銀行口座 (ぎんこうこうざ)"
+      },
+      {
+        "word": "filed a motion",
+        "translation": "申立てを行った (もうしたてをおこなった)"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者 (さいむしゃ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Attachment of Movable Property",
+    "definition": "A preservation measure specifically applied to movable property (tangible items other than real property or claims) to secure a monetary claim, often requiring a court order and subsequent seizure by a bailiff.",
+    "japaneseDefinition": "金銭債権の保全を目的として、不動産や債権以外の動産に対して行われる仮差押えの手続き。",
+    "japaneseWordTranslation": "動産仮差押え (どうさんかりさしおさえ)",
+    "legalContext": "Civil Preservation Act (民事保全法) Art. 50: Regulations concerning Provisional Attachment of Movable Property follow the rules for execution against movable property in the Civil Execution Act.",
+    "japaneseLegalContext": "民事保全法第50条：動産に対する仮差押えの執行については、民事執行法の動産執行に関する規定に従う。",
+    "exampleSentence": "Due to the lack of sufficient real property, the Preservation Court issued a Provisional Attachment of Movable Property order covering the company’s high-value equipment inventory.",
+    "exampleTranslation": "十分な不動産がないため、保全裁判所は、当該会社の高価な設備在庫を対象とする動産仮差押え命令を発した。",
+    "vocabularyList": [
+      {
+        "word": "movable property",
+        "translation": "動産 (どうさん)"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産 (ふどうさん)"
+      },
+      {
+        "word": "Preservation Court",
+        "translation": "保全裁判所 (ほぜんさいばんしょ)"
+      },
+      {
+        "word": "equipment inventory",
+        "translation": "設備在庫 (せつびざいこ)"
+      },
+      {
+        "word": "Civil Execution Act",
+        "translation": "民事執行法 (みんじしっこうほう)"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え (さしおさえ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provision of Security",
+    "definition": "The requirement, typically imposed upon the applicant for a preservation measure, to deposit a sum of money or other valuable assets with the court as collateral for potential damages caused to the debtor by a wrongful preservation order.",
+    "japaneseDefinition": "保全を申し立てる者に対して、保全命令が不当であった場合に債務者に生じる損害を担保するために、裁判所が金銭その他の資産の供託を命じること。",
+    "japaneseWordTranslation": "担保の提供 (たんぽのていきょう)",
+    "legalContext": "Civil Preservation Act (民事保全法) Art. 14 (1): The court shall require the Provision of Security from the applicant when issuing a preservation order.",
+    "japaneseLegalContext": "民事保全法第14条第1項：保全裁判所は、保全命令を発するに当たっては、担保を立てさせなければならない。",
+    "exampleSentence": "The court conditioned the Provisional Attachment on the Provision of Security amounting to ten percent of the preserved claim value, safeguarding the interests of the respondent.",
+    "exampleTranslation": "裁判所は、仮差押えの条件として、被申立人の利益を保護するため、保全請求額の10パーセントに相当する担保の提供を義務付けた。",
+    "vocabularyList": [
+      {
+        "word": "collateral",
+        "translation": "担保 (たんぽ)"
+      },
+      {
+        "word": "preservation measure",
+        "translation": "保全措置 (ほぜんそち)"
+      },
+      {
+        "word": "applicant",
+        "translation": "申立人 (もうしたてにん)"
+      },
+      {
+        "word": "potential damages",
+        "translation": "生じ得る損害 (しょうじうるそんがい)"
+      },
+      {
+        "word": "respondent",
+        "translation": "被申立人 (ひもうしたてにん)"
+      },
+      {
+        "word": "wrongful",
+        "translation": "不当な (ふとうな)"
+      }
+    ]
   }
 ]

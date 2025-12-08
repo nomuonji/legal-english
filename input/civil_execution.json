@@ -1382,5 +1382,119 @@
         "translation": "執行される"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Distribution Proceedings",
+    "definition": "The procedural steps taken by the execution court or officer following the realization of the execution obligor's assets, designed to allocate the obtained monetary proceeds among the obliges entitled to payment based on their respective legal priorities or rankings.",
+    "japaneseDefinition": "執行手続において、目的財産の換価により得られた金銭を、債権者の順位や請求額に応じて、各債権者に分配する手続。",
+    "japaneseWordTranslation": "配当手続 (はいとうてつづき)",
+    "legalContext": "Civil Execution Act Art. 84 (Preparation of Distribution Schedule): 'The execution court shall prepare a distribution schedule for distribution proceedings.'",
+    "japaneseLegalContext": "民事執行法第84条（配当表の作成）：執行裁判所は、配当手続を実施するため、配当表を作成しなければならない。",
+    "exampleSentence": "The execution court initiated Distribution Proceedings after the successful sale of the real property, prioritizing secured creditors over general creditors.",
+    "exampleTranslation": "不動産の売却が成功した後、執行裁判所は配当手続を開始し、一般債権者よりも担保権者を優先した。",
+    "vocabularyList": [
+      {
+        "word": "realization of assets",
+        "translation": "財産の換価"
+      },
+      {
+        "word": "monetary proceeds",
+        "translation": "金銭的な売得金"
+      },
+      {
+        "word": "legal priorities",
+        "translation": "法的な優先順位"
+      },
+      {
+        "word": "secured creditors",
+        "translation": "担保債権者"
+      },
+      {
+        "word": "general creditors",
+        "translation": "一般債権者"
+      },
+      {
+        "word": "allocate",
+        "translation": "分配する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order of Assignment",
+    "definition": "A type of court order used in the execution against monetary claims, whereby the seized claim is formally transferred (assigned) by law to the execution obligee in lieu of payment, simultaneously extinguishing the obligee's original claim to the extent of the assigned amount.",
+    "japaneseDefinition": "金銭債権に対する執行手続において、差押えられた債権を、その支払いに代えて執行債権者に移転させる裁判所の命令。これにより、債権者は、譲り受けた額を限度として、元の債権を失う。",
+    "japaneseWordTranslation": "転付命令 (てんぷめいれい)",
+    "legalContext": "Civil Execution Act Art. 159 (Effect of Order of Assignment): 'If an order of assignment becomes final and binding, the claim subject to the seizure shall be transferred to the execution obligee...' and 'The execution obligee's claim shall be extinguished to the extent that the transferred claim exists.'",
+    "japaneseLegalContext": "民事執行法第159条（転付命令の効力）：転付命令が確定したときは、差押えに係る債権は、支払に代えて、執行債権者に移転する。…執行債権者の債権及びその債権と引換えに第三債務者が負担する債務は、移転した債権が存する限りにおいて、消滅する。",
+    "exampleSentence": "The obligee filed a motion for an Order of Assignment to efficiently satisfy the judgment by acquiring the obligor's bank deposit claim directly.",
+    "exampleTranslation": "債権者は、債務者の銀行預金債権を直接取得することで判決を効率的に満たすため、転付命令の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "monetary claims",
+        "translation": "金銭債権"
+      },
+      {
+        "word": "in lieu of payment",
+        "translation": "支払いに代えて"
+      },
+      {
+        "word": "extinguishing the claim",
+        "translation": "債権の消滅"
+      },
+      {
+        "word": "final and binding",
+        "translation": "確定した"
+      },
+      {
+        "word": "bank deposit claim",
+        "translation": "銀行預金債権"
+      },
+      {
+        "word": "satisfy the judgment",
+        "translation": "判決を充足する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution against Proprietary Interests",
+    "definition": "Execution procedures specifically targeting assets classified as proprietary rights (e.g., intellectual property rights, transferable membership interests, corporate shares, etc.) which are neither immovable nor movable property, requiring realization methods tailored to the specific nature of the right.",
+    "japaneseDefinition": "不動産、動産、及び金銭債権以外の財産権（知的財産権、社団の持分、株式等）を執行の目的とする手続。その権利の性質に応じた差押え及び換価方法が適用される。",
+    "japaneseWordTranslation": "財産権執行 (ざいさんけんしっこう)",
+    "legalContext": "Civil Execution Act Art. 167 (Methods of Execution against Other Proprietary Rights): 'Execution procedures against proprietary rights other than those provided for in the preceding three sections shall be governed by the provisions concerning execution against claims...' unless otherwise stipulated.",
+    "japaneseLegalContext": "民事執行法第167条（その他の財産権に対する執行）：前三節に規定する以外の財産権に対する執行手続については、その権利の性質に応じ、前節の規定を準用するほか、相当な方法による。",
+    "exampleSentence": "The execution obligee sought Execution against Proprietary Interests targeting the valuable trademark rights held by the debtor company.",
+    "exampleTranslation": "執行債権者は、債務者会社が保有する価値ある商標権を対象とした財産権執行を求めた。",
+    "vocabularyList": [
+      {
+        "word": "proprietary rights",
+        "translation": "財産権"
+      },
+      {
+        "word": "intangible assets",
+        "translation": "無形資産"
+      },
+      {
+        "word": "transferable membership interests",
+        "translation": "譲渡可能な持分"
+      },
+      {
+        "word": "methods of realization",
+        "translation": "換価方法"
+      },
+      {
+        "word": "trademark rights",
+        "translation": "商標権"
+      },
+      {
+        "word": "governed by the provisions",
+        "translation": "規定が適用される"
+      }
+    ]
   }
 ]

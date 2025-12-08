@@ -1410,5 +1410,107 @@
         "translation": "問題となっている (もんだいとなっている)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Division of Parcel",
+    "definition": "The registration procedure used to physically divide one registered parcel of land (a single lot number) into two or more new, separate parcels, each receiving a new lot number.",
+    "japaneseDefinition": "一筆の土地を二筆以上の土地に分ける際に、土地の表題登記簿に行う登記手続き。",
+    "japaneseWordTranslation": "分筆登記 (ぶんぴつとうき)",
+    "legalContext": "Real Property Registration Act, Art. 39: Application for Registration of Division of Parcel. This is a factual registration (表題登記) which must be filed by the owner.",
+    "japaneseLegalContext": "不動産登記法第39条：分筆の登記の申請。これは表題登記であり、所有者が申請する義務がある。",
+    "exampleSentence": "The land survey was completed and the owner filed a Registration of Division of Parcel to separate the commercial area from the residential portion.",
+    "exampleTranslation": "測量が完了した後、所有者は商業エリアを住居部分から分けるため、分筆登記を申請した。",
+    "vocabularyList": [
+      {
+        "word": "parcel of land",
+        "translation": "一筆の土地"
+      },
+      {
+        "word": "lot number",
+        "translation": "地番"
+      },
+      {
+        "word": "factual registration",
+        "translation": "表題登記"
+      },
+      {
+        "word": "land survey",
+        "translation": "測量"
+      },
+      {
+        "word": "separate",
+        "translation": "分ける"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Share of Ownership",
+    "definition": "The specific proportional interest held by a co-owner in a jointly owned property, which must be clearly specified in the Record of Rights (Section B) of the register.",
+    "japaneseDefinition": "共同所有権において、各共同所有者が当該不動産に対して持つ割合的な権利。登記の権利部（乙区または甲区）に必ず記録される。",
+    "japaneseWordTranslation": "持分 (もちぶん)",
+    "legalContext": "Real Property Registration Act, Art. 59(4): If the property is owned by multiple persons, the registration record must specify the share of ownership of each owner.",
+    "japaneseLegalContext": "不動産登記法第59条第4号：不動産が数人の共有に属するときは、共有者全員の持分を登記記録に記載しなければならない。",
+    "exampleSentence": "When registering the transfer of property, the application stipulated that the two buyers would each hold an equal Share of Ownership of one-half.",
+    "exampleTranslation": "財産移転を登記する際、申請書には二人の買主がそれぞれ二分の一の均等な持分を保有することが明記されていた。",
+    "vocabularyList": [
+      {
+        "word": "co-owner",
+        "translation": "共同所有者"
+      },
+      {
+        "word": "proportional interest",
+        "translation": "割合的な権利"
+      },
+      {
+        "word": "Record of Rights",
+        "translation": "権利部"
+      },
+      {
+        "word": "transfer of property",
+        "translation": "財産移転"
+      },
+      {
+        "word": "jointly owned property",
+        "translation": "共有不動産"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Change of Name Registration",
+    "definition": "A type of registration required when the registered name or address of the registered title holder changes (e.g., due to marriage or relocation) before that person can register a subsequent transfer or establishment of rights.",
+    "japaneseDefinition": "登記名義人表示変更登記の一つで、登記簿に記載された権利者の氏名または住所が変更された際に行う手続き。権利移転登記等の前提として必要となる。",
+    "japaneseWordTranslation": "氏名変更登記 (しめいへんこうとうき)",
+    "legalContext": "Real Property Registration Act, Art. 64: Change Registration for Registered Title Holder's Description. This application must be filed solely by the registered title holder.",
+    "japaneseLegalContext": "不動産登記法第64条：登記名義人の表示の変更の登記。この申請は、登記名義人が単独で申請しなければならない。",
+    "exampleSentence": "The bank requested that the obligor first complete the Change of Name Registration before proceeding with the hypothecation of the property.",
+    "exampleTranslation": "銀行は、不動産の抵当権設定を進める前に、債務者に対し氏名変更登記を完了するよう要求した。",
+    "vocabularyList": [
+      {
+        "word": "registered title holder",
+        "translation": "登記名義人"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "description",
+        "translation": "表示"
+      },
+      {
+        "word": "subsequent transfer",
+        "translation": "後の移転"
+      },
+      {
+        "word": "solely",
+        "translation": "単独で"
+      }
+    ]
   }
 ]

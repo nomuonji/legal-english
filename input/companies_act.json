@@ -1390,5 +1390,119 @@
         "translation": "長期的利益"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Internal Control System",
+    "definition": "A comprehensive framework of rules, procedures, and governance structures implemented by a company, especially large companies, to ensure the legality and efficiency of business operations, safeguard assets, and ensure the reliability of financial reporting.",
+    "japaneseDefinition": "会社の業務の適正を確保し、財務報告の信頼性を高めるために構築される、組織内の体制および仕組み。大会社などに構築が義務付けられる。",
+    "japaneseWordTranslation": "内部統制システム (ないぶとうせいシステム)",
+    "legalContext": "Companies Act Art. 362 (4) (for large companies): Determination of the basic policy regarding the establishment of the system necessary to ensure that the execution of duties by Directors complies with laws and the Articles of Incorporation.",
+    "japaneseLegalContext": "会社法第362条第4項 (大会社等): 取締役の職務の執行が法令及び定款に適合することを確保するための体制その他株式会社の業務の適正を確保するために必要なものとして法務省令で定める体制の整備。",
+    "exampleSentence": "The Board of Directors must adopt a resolution regarding the establishment of the company's **Internal Control System** to manage risks associated with subsidiary operations.",
+    "exampleTranslation": "取締役会は、子会社の事業に伴うリスクを管理するために、会社の内部統制システムの構築に関する決議を採択しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "subsidiary operations",
+        "translation": "子会社の事業 (こがいしゃのじぎょう)"
+      },
+      {
+        "word": "Board of Directors",
+        "translation": "取締役会 (とりしまりやくかい)"
+      },
+      {
+        "word": "adopt a resolution",
+        "translation": "決議を採択する (けつぎをさいたくする)"
+      },
+      {
+        "word": "manage risks",
+        "translation": "リスクを管理する (リスクをかんりする)"
+      },
+      {
+        "word": "legality",
+        "translation": "適法性 (てきほうせい)"
+      },
+      {
+        "word": "financial reporting",
+        "translation": "財務報告 (ざいむほうこく)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Demand for Convocation",
+    "definition": "The right of a shareholder or a group of shareholders holding a specified percentage of voting rights (typically 3% for six months or more) to request the directors to call a shareholders' meeting for a specific purpose.",
+    "japaneseDefinition": "一定割合以上の議決権を継続して保有する株主が、特定の事項を目的として、取締役に対し株主総会の招集を請求する権利。",
+    "japaneseWordTranslation": "招集請求 (しょうしゅうせいきゅう)",
+    "legalContext": "Companies Act Art. 297 (1): A shareholder who has 3/100 or more of the voting rights of all shareholders may demand the convocation of a shareholders meeting, stating the matters that are the purpose of the meeting.",
+    "japaneseLegalContext": "会社法第297条第1項: 総株主の議決権の百分の一（これを下回る割合を定款で定めた場合にあっては、その割合）以上の議決権を六箇月前から引き続き有する株主は、取締役に対し、株主総会の招集を請求することができる。",
+    "exampleSentence": "Due to the lack of transparency in the recent acquisition process, the activist investors decided to submit a formal **Demand for Convocation** to push for the removal of the CEO.",
+    "exampleTranslation": "最近の買収手続きの透明性の欠如のため、アクティビスト投資家たちは、CEO解任を推し進めるための正式な招集請求を提出することにした。",
+    "vocabularyList": [
+      {
+        "word": "shareholder",
+        "translation": "株主 (かぶぬし)"
+      },
+      {
+        "word": "voting rights",
+        "translation": "議決権 (ぎけつけん)"
+      },
+      {
+        "word": "lack of transparency",
+        "translation": "透明性の欠如 (とうめいせいのけつじょ)"
+      },
+      {
+        "word": "acquisition process",
+        "translation": "買収手続き (ばいしゅうてつづき)"
+      },
+      {
+        "word": "activist investor",
+        "translation": "アクティビスト投資家 (アクティビストとうしか)"
+      },
+      {
+        "word": "removal of the CEO",
+        "translation": "CEOの解任 (シーイーオーのかいにん)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Limited Liability",
+    "definition": "The fundamental characteristic of a stock company (Kabushiki Kaisha) where a shareholder's financial responsibility for the company's debts is limited solely to the amount of their capital contribution (the value of the shares they hold).",
+    "japaneseDefinition": "会社の債務について、株主が出資額を限度としてのみ責任を負う仕組み。株式会社の根幹をなす原則。",
+    "japaneseWordTranslation": "有限責任 (ゆうげんせきにん)",
+    "legalContext": "Companies Act Art. 104: A shareholder is only liable for the amount stipulated in the price for the shares he/she holds; he/she shall not be liable for the company's obligations.",
+    "japaneseLegalContext": "会社法第104条: 株主は、その有する株式の引受価額を限度として、会社の債務について責任を負う。",
+    "exampleSentence": "The principle of **Limited Liability** encourages investment by protecting individual shareholders from having to personally cover corporate debts in the event of insolvency.",
+    "exampleTranslation": "有限責任の原則は、会社が債務超過に陥った場合でも、個々の株主が会社の負債を個人的に負担する必要がないように保護することで、投資を促進する。",
+    "vocabularyList": [
+      {
+        "word": "principle",
+        "translation": "原則 (げんそく)"
+      },
+      {
+        "word": "shareholder",
+        "translation": "株主 (かぶぬし)"
+      },
+      {
+        "word": "corporate debt",
+        "translation": "会社の負債 (かいしゃのふさい)"
+      },
+      {
+        "word": "capital contribution",
+        "translation": "出資額 (しゅっしがく)"
+      },
+      {
+        "word": "insolvency",
+        "translation": "債務超過 (さいむちょうか)"
+      },
+      {
+        "word": "investment",
+        "translation": "投資 (とうし)"
+      }
+    ]
   }
 ]

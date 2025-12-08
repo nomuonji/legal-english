@@ -1538,5 +1538,107 @@
         "translation": "主要な事実"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Affirmation of Facts",
+    "definition": "The formal statement or pleading submitted by a party to the court regarding the factual basis necessary to support their legal claim or defense, forming the core data upon which the court bases its judgment under the principle of party presentation.",
+    "japaneseDefinition": "当事者が自己の主張を裏付けるために裁判所に提出する、訴訟の基礎となる具体的かつ重要な事実の陳述。",
+    "japaneseWordTranslation": "事実の主張 (じじつのしゅちょう)",
+    "legalContext": "CPL Article 161 (Requirements for Preparation Documents): 'In preparatory documents, the following matters shall be stated clearly: (i) claims and defenses; (ii) affirmation of facts; and (iii) proof thereof.'",
+    "japaneseLegalContext": "民事訴訟法第161条（準備書面の記載事項）：『準備書面には、次に掲げる事項を記載しなければならない。一 請求の趣旨及びその原因となる事実並びにこれに対する答弁。二 事実の主張及びこれに関連する証拠。』",
+    "exampleSentence": "The court disregarded the legal theory presented by the defense because it lacked sufficient and specific affirmation of facts in support of the counterclaim.",
+    "exampleTranslation": "裁判所は、反訴を裏付ける具体的かつ十分な事実の主張を欠いていたため、弁護側が提示した法的理論を却下した。",
+    "vocabularyList": [
+      {
+        "word": "counterclaim",
+        "translation": "反訴"
+      },
+      {
+        "word": "defense",
+        "translation": "答弁 (防御方法)"
+      },
+      {
+        "word": "pleading",
+        "translation": "準備書面"
+      },
+      {
+        "word": "legal theory",
+        "translation": "法的理論"
+      },
+      {
+        "word": "disregard",
+        "translation": "却下する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non Ultra Petita Rule",
+    "definition": "The fundamental procedural principle (derived from the Principle of Demanded Relief) that restricts a court from rendering a judgment that grants relief exceeding or fundamentally different from what was specifically sought by the plaintiff.",
+    "japaneseDefinition": "裁判所は当事者によって申し立てられた範囲を超えて判決を下すことができないとする原則。訴訟物の同一性を超える判決の禁止を意味する。",
+    "japaneseWordTranslation": "不告不理の原則 (ふこくふりのげんそく)",
+    "legalContext": "CPL Article 246 (Scope of Judgment): 'A court shall render judgment only with respect to the claim requested by the parties.' This article embodies the Non Ultra Petita Rule and the Principle of Demanded Relief.",
+    "japaneseLegalContext": "民事訴訟法第246条（判決の範囲）：『裁判所は、当事者が申し立てた事項についてのみ判決をすることができる。』",
+    "exampleSentence": "Under the Non Ultra Petita Rule, the trial court could not grant specific performance when the plaintiff had only prayed for monetary damages.",
+    "exampleTranslation": "不告不理の原則に基づき、原告が金銭的損害賠償のみを求めていた場合、裁判所は特定履行を命じることはできなかった。",
+    "vocabularyList": [
+      {
+        "word": "specific performance",
+        "translation": "特定履行"
+      },
+      {
+        "word": "monetary damages",
+        "translation": "金銭的損害賠償"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "trial court",
+        "translation": "第一審裁判所"
+      },
+      {
+        "word": "judgment",
+        "translation": "判決"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cause of Action",
+    "definition": "In the context of civil procedure, the aggregate set of operative facts (legal facts) that constitute the legal requisites for the asserted right and give rise to the judicial claim sought by the plaintiff.",
+    "japaneseDefinition": "原告が裁判上の請求を行うための法的根拠となる、訴訟物である権利の発生に必要な主要事実の集合体。",
+    "japaneseWordTranslation": "請求原因 (せいきゅうげんいん)",
+    "legalContext": "CPL Article 133 (Method of Commencing Suit) requires the complaint to include 'facts necessary to specify the claim,' which necessitates a clear statement of the cause of action.",
+    "japaneseLegalContext": "民事訴訟法第133条（訴えの提起の方式）：『訴状には、請求の趣旨及び請求を特定するのに必要な事実を記載しなければならない。』",
+    "exampleSentence": "The court found that the plaintiff failed to properly specify the Cause of Action because the facts alleged did not meet all the legal requirements for unjust enrichment.",
+    "exampleTranslation": "訴えられた事実に不当利得の法的要件がすべて満たされていなかったため、裁判所は原告が請求原因を適切に特定しなかったと判断した。",
+    "vocabularyList": [
+      {
+        "word": "operative facts",
+        "translation": "主要事実"
+      },
+      {
+        "word": "complaint",
+        "translation": "訴状"
+      },
+      {
+        "word": "specify",
+        "translation": "特定する"
+      },
+      {
+        "word": "asserted right",
+        "translation": "主張された権利"
+      },
+      {
+        "word": "legal requisites",
+        "translation": "法的要件"
+      }
+    ]
   }
 ]

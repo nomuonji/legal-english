@@ -1490,5 +1490,119 @@
         "translation": "無罪"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Non-retroactivity",
+    "definition": "A fundamental legal rule stating that a person cannot be penalized for an act that was not defined as a crime under the law existing at the time the act was committed (Nulla poena sine lege praevia).",
+    "japaneseDefinition": "行為時において犯罪とされていなかった行為について、後から制定された法律により処罰されないという刑法の基本原則。",
+    "japaneseWordTranslation": "遡及処罰の禁止 (そきゅうしょばつのきんし)",
+    "legalContext": "Japanese Constitution Art. 39: \"No person shall be held criminally liable for an act which was lawful at the time it was committed, or for an act concerning which he has been acquitted...\"",
+    "japaneseLegalContext": "日本国憲法第39条：「…行為の時に適法であった行為又は既に無罪とされた行為については、刑事上の責任を問われない。」",
+    "exampleSentence": "The defense counsel argued that applying the new statute to the defendant's past actions would violate the Principle of Non-retroactivity.",
+    "exampleTranslation": "弁護人は、被告人の過去の行為に新たな法規を適用することは、遡及処罰の禁止の原則に反すると主張した。",
+    "vocabularyList": [
+      {
+        "word": "fundamental legal rule",
+        "translation": "基本原則"
+      },
+      {
+        "word": "penalized",
+        "translation": "処罰される"
+      },
+      {
+        "word": "existing law",
+        "translation": "既存の法律"
+      },
+      {
+        "word": "statute",
+        "translation": "法規"
+      },
+      {
+        "word": "violate",
+        "translation": "違反する"
+      },
+      {
+        "word": "past actions",
+        "translation": "過去の行為"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Misdemeanor Imprisonment without Labor",
+    "definition": "A short-term custodial penalty under Japanese criminal law, where the convicted person is confined in a correctional facility for a period of one to 30 days, which does not involve compulsory labor.",
+    "japaneseDefinition": "1日以上30日未満の期間、刑事施設に拘置する刑罰。懲役（Imprisonment with Labor）や禁錮（Imprisonment without Labor）と異なり、労務を課されない。",
+    "japaneseWordTranslation": "拘留 (こうりゅう)",
+    "legalContext": "Penal Code Art. 16: “Misdemeanor Imprisonment without Labor shall be for a period of not less than one day and not more than 30 days, and the person shall be confined in a correctional facility.”",
+    "japaneseLegalContext": "刑法第16条：「拘留は、一日以上三十日未満とし、刑事施設に拘置する。」",
+    "exampleSentence": "The summary court often handles minor regulatory violations by imposing either a fine or Misdemeanor Imprisonment without Labor.",
+    "exampleTranslation": "簡易裁判所は、軽微な法規違反について、科料または拘留のいずれかを科すことで処理することが多い。",
+    "vocabularyList": [
+      {
+        "word": "custodial penalty",
+        "translation": "自由刑"
+      },
+      {
+        "word": "correctional facility",
+        "translation": "刑事施設"
+      },
+      {
+        "word": "confined",
+        "translation": "拘置される"
+      },
+      {
+        "word": "compulsory labor",
+        "translation": "強制労働"
+      },
+      {
+        "word": "summary court",
+        "translation": "簡易裁判所"
+      },
+      {
+        "word": "regulatory violations",
+        "translation": "法規違反"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mitigation of Penalty",
+    "definition": "The reduction of a legally prescribed sentence (penalty) below the minimum standard, usually due to the presence of specific legal grounds or compelling extenuating circumstances (judicial discretion).",
+    "japaneseDefinition": "法律で定められた刑罰の最低限度を超えて、刑の程度を軽くすること。法定の理由に基づく場合と、裁判官の裁量に基づく場合がある。",
+    "japaneseWordTranslation": "減軽 (げんけい)",
+    "legalContext": "Penal Code Art. 68: “If there are circumstances warranting consideration, the court may mitigate the penalty.”",
+    "japaneseLegalContext": "刑法第68条：「酌量すべき情状があるときは、その刑を減軽することができる。」",
+    "exampleSentence": "Based on the defendant's immediate confession and cooperation with the investigation, the court applied Mitigation of Penalty.",
+    "exampleTranslation": "被告人が直ちに自白し捜査に協力したことに基づき、裁判所は刑の減軽を適用した。",
+    "vocabularyList": [
+      {
+        "word": "reduction of sentence",
+        "translation": "刑の減刑"
+      },
+      {
+        "word": "legally prescribed",
+        "translation": "法律で定められた"
+      },
+      {
+        "word": "legal grounds",
+        "translation": "法律上の理由"
+      },
+      {
+        "word": "extenuating circumstances",
+        "translation": "酌量すべき情状"
+      },
+      {
+        "word": "confession",
+        "translation": "自白"
+      },
+      {
+        "word": "cooperation with the investigation",
+        "translation": "捜査への協力"
+      }
+    ]
   }
 ]

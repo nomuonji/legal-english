@@ -1496,5 +1496,119 @@
         "translation": "規定が適用される"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Clause for Successor",
+    "definition": "An endorsement added to an execution title (such as a final judgment) that allows a person who succeeded to the position of the obligee or obligor after the title was issued to enforce the judgment, requiring a prior showing of succession.",
+    "japaneseDefinition": "執行証書が作成された後に、請求債権者または債務者の地位が承継された場合に、その承継人に対し、又は承継人に対する執行を許すために、執行文に付加される文言。",
+    "japaneseWordTranslation": "承継執行文 (しょうけいしっこうぶん)",
+    "legalContext": "Civil Execution Act Art. 27 (Requirement for the issuance of an execution clause for successor)",
+    "japaneseLegalContext": "民事執行法 第27条 (承継執行文の付与の要件)",
+    "exampleSentence": "The plaintiff filed a motion for an Execution Clause for Successor after inheriting the claim from the original judgment obligee.",
+    "exampleTranslation": "原判決債権者から債権を相続した後、原告は承継執行文の付与を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "endorsement",
+        "translation": "裏書き / 付与"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "succession",
+        "translation": "承継"
+      },
+      {
+        "word": "judgment",
+        "translation": "判決"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action to Object to Claim",
+    "definition": "A lawsuit filed by the execution obligor (debtor) seeking to prevent the enforcement of an execution title on the grounds that the underlying claim has been extinguished or limited due to reasons arising after the conclusion of oral arguments in the prior suit (e.g., subsequent payment, release, or prescription).",
+    "japaneseDefinition": "執行債務者が、債権者の請求権の存在自体を否定・制限するために提起する訴え。口頭弁論終結後に生じた事由（弁済、相殺、時効完成等）を主張して、執行の不許を求める。",
+    "japaneseWordTranslation": "請求異議の訴え (せいきゅういぎのうったえ)",
+    "legalContext": "Civil Execution Act Art. 35 (Grounds for Action to Object to Claim)",
+    "japaneseLegalContext": "民事執行法 第35条 (請求異議の訴えの事由)",
+    "exampleSentence": "The obligor initiated an Action to Object to Claim, arguing that the debt had already been satisfied through performance subsequent to the original judgment.",
+    "exampleTranslation": "債務者は、原判決後の履行によって既に債務が消滅していると主張し、請求異議の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "extinguished",
+        "translation": "消滅した"
+      },
+      {
+        "word": "underlying claim",
+        "translation": "根拠となる請求権"
+      },
+      {
+        "word": "oral arguments",
+        "translation": "口頭弁論"
+      },
+      {
+        "word": "prescription",
+        "translation": "時効"
+      },
+      {
+        "word": "satisfy",
+        "translation": "充足する / 弁済する"
+      },
+      {
+        "word": "subsequent performance",
+        "translation": "その後の履行"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property List Submission",
+    "definition": "The act by which an execution obligor is formally ordered by the execution court to prepare and submit a comprehensive written list detailing their assets, liabilities, and income, often as a mandatory prerequisite to the asset disclosure procedure.",
+    "japaneseDefinition": "執行債務者に対し、その財産に関する情報を網羅的に記載した書面（財産目録）を作成し、執行裁判所に提出することを命じる手続き上の行為。",
+    "japaneseWordTranslation": "財産目録の提出 (ざいさんもくろくのていしゅつ)",
+    "legalContext": "Civil Execution Act Art. 197 (Obligation to Submit a Property List)",
+    "japaneseLegalContext": "民事執行法 第197条 (財産目録提出の義務)",
+    "exampleSentence": "Following the debtor's repeated evasion of execution, the court ordered the Property List Submission to assess the feasibility of further enforcement measures.",
+    "exampleTranslation": "債務者が繰り返し執行を回避した後、裁判所は、さらなる執行措置の実行可能性を評価するために財産目録の提出を命じた。",
+    "vocabularyList": [
+      {
+        "word": "comprehensive",
+        "translation": "網羅的な"
+      },
+      {
+        "word": "liabilities",
+        "translation": "負債"
+      },
+      {
+        "word": "feasibility",
+        "translation": "実現可能性"
+      },
+      {
+        "word": "evasion",
+        "translation": "回避"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "prerequisite",
+        "translation": "前提条件"
+      }
+    ]
   }
 ]

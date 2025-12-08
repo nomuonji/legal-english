@@ -1418,5 +1418,111 @@
         "translation": "添付する"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Fictitious Registration",
+    "definition": "A registration containing false information or misleading statements regarding the true legal status or structure of a company or commercial entity, which carries specific penal consequences for those responsible.",
+    "japaneseDefinition": "会社の真の法的状態や構造に関して虚偽の情報や誤解を招く記述を含む登記。これを行った者は罰則の対象となる。",
+    "japaneseWordTranslation": "虚偽の登記 (きょぎのとうき)",
+    "legalContext": "Commercial Registration Act Art. 107 imposes imprisonment or a fine upon any person who makes a fictitious registration, knowing the falsity of the matters registered.",
+    "japaneseLegalContext": "商業登記法第百七条は、登記すべき事項について虚偽の登記をした者に対し、二年以下の懲役又は二百万円以下の罰金を科す。",
+    "exampleSentence": "The former executive was prosecuted for submitting documents containing material misstatements, resulting in a fictitious registration that misled creditors.",
+    "exampleTranslation": "元役員は、債権者を欺く虚偽の登記につながる重要な虚偽記載を含む文書を提出したとして起訴された。",
+    "vocabularyList": [
+      {
+        "word": "misstatements",
+        "translation": "虚偽記載 (きょぎきさい)"
+      },
+      {
+        "word": "prosecuted",
+        "translation": "起訴された (きそされた)"
+      },
+      {
+        "word": "material",
+        "translation": "重要な (じゅうような)"
+      },
+      {
+        "word": "executive",
+        "translation": "役員 (やくいん)"
+      },
+      {
+        "word": "creditors",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "penal consequences",
+        "translation": "罰則 (ばっそく)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Application by the Company",
+    "definition": "The procedural requirement that the company itself, typically represented by its representative director or an authorized agent, must file the application for the registration of changes to its corporate status.",
+    "japaneseDefinition": "会社の代表者またはその代理人が、会社の法的な地位の変更に関する登記を申請しなければならないという手続要件。",
+    "japaneseWordTranslation": "会社による申請 (かいしゃによるしんせい)",
+    "legalContext": "Commercial Registration Act Art. 17 establishes that the registration of a company's establishment or changes to registered matters shall be applied for by the company, except where otherwise provided.",
+    "japaneseLegalContext": "商業登記法第十七条は、会社の設立又は登録事項の変更の登記は、別段の定めがある場合を除き、会社が申請するものと定める。",
+    "exampleSentence": "Since the registration concerned an amendment to the entity’s governing structure, an Application by the Company was required, not merely a filing by the judicial scrivener.",
+    "exampleTranslation": "その登記は法人の統治機構の改正に関わるものであったため、司法書士による提出だけでなく、会社による申請が求められた。",
+    "vocabularyList": [
+      {
+        "word": "governing structure",
+        "translation": "統治機構 (とうちきこう)"
+      },
+      {
+        "word": "amendment",
+        "translation": "改正 (かいせい)"
+      },
+      {
+        "word": "entity",
+        "translation": "法人 (ほうじん)"
+      },
+      {
+        "word": "authorized agent",
+        "translation": "授権代理人 (じゅけんだいりにん)"
+      },
+      {
+        "word": "filing",
+        "translation": "提出 (ていしゅつ)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Liquidation Conclusion",
+    "definition": "The mandatory registration filed after a company's winding-up proceedings are complete, certifying that all assets have been disposed of, debts satisfied, and the corporate existence formally concluded.",
+    "japaneseDefinition": "会社の清算手続きが完了した後に行われる義務的な登記であり、すべての資産処分と債務弁済が完了し、法人としての存在が正式に終了したことを証明するもの。",
+    "japaneseWordTranslation": "清算結了の登記 (せいさんけつりょうのとうき)",
+    "legalContext": "Companies Act Art. 929 mandates that the registration of liquidation conclusion must be filed within two weeks following the approval of the final settlement of accounts at a general meeting of shareholders.",
+    "japaneseLegalContext": "会社法第九百二十九条は、清算結了の登記は、株主総会における決算報告の承認の日から二週間以内にしなければならないと規定する。",
+    "exampleSentence": "The Registration of Liquidation Conclusion was successfully filed, officially terminating the corporate status of the subsidiary entity.",
+    "exampleTranslation": "清算結了の登記が無事に行われ、子会社の法人格が正式に消滅した。",
+    "vocabularyList": [
+      {
+        "word": "winding-up proceedings",
+        "translation": "清算手続 (せいさんてつづき)"
+      },
+      {
+        "word": "formally concluded",
+        "translation": "正式に終了した (せいしきにしゅうりょうした)"
+      },
+      {
+        "word": "debts satisfied",
+        "translation": "債務弁済 (さいむべんさい)"
+      },
+      {
+        "word": "subsidiary entity",
+        "translation": "子会社 (こがいしゃ)"
+      },
+      {
+        "word": "corporate status",
+        "translation": "法人格 (ほうじんかく)"
+      }
+    ]
   }
 ]

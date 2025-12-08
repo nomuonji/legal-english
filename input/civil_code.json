@@ -1516,5 +1516,119 @@
         "translation": "相当額 (そうとうがく)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Adverse Possession",
+    "definition": "The acquisition of ownership or other proprietary rights over property by continuously and peacefully holding possession of it for a prescribed period, with the intention of owning it (animus domini).",
+    "japaneseDefinition": "他人の物を自己の所有物として占有を継続し、一定期間が経過することにより、その物の所有権等の物権を取得すること。",
+    "japaneseWordTranslation": "取得時効 (しゅとくじこう)",
+    "legalContext": "Civil Code Art. 162: “A person who has possessed another's property peacefully and openly for twenty years with the intention of ownership shall acquire the ownership thereof.”",
+    "japaneseLegalContext": "民法第162条: 「二十年間、所有の意思をもって、平穏に、かつ、公然と他人の物を占有した者は、その所有権を取得する。」",
+    "exampleSentence": "The claimant established ownership of the land through adverse possession, having met the statutory requirements for the 10-year period based on good faith acquisition.",
+    "exampleTranslation": "請求者は、善意取得に基づく10年間の時効の法定要件を満たしたため、取得時効によってその土地の所有権を確定させた。",
+    "vocabularyList": [
+      {
+        "word": "proprietary rights",
+        "translation": "物権 (ぶっけん)"
+      },
+      {
+        "word": "animus domini",
+        "translation": "所有の意思 (しょゆうのいし)"
+      },
+      {
+        "word": "peaceful possession",
+        "translation": "平穏な占有 (へいおんなせんゆう)"
+      },
+      {
+        "word": "statutory requirements",
+        "translation": "法定要件 (ほうていようけん)"
+      },
+      {
+        "word": "claimant",
+        "translation": "請求者 (せいきゅうしゃ)"
+      },
+      {
+        "word": "good faith acquisition",
+        "translation": "善意取得 (ぜんいしゅとく)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liquidated Damages / Penalty",
+    "definition": "A monetary sum stipulated in a contract to be paid by one party to the other in the event of a breach of contract. Unless proven otherwise, the stipulated amount is presumed to be the compensation for damages.",
+    "japaneseDefinition": "契約の不履行があった場合に、債務者が債権者に支払うことを契約で定めた金銭。別段の定めのない限り、賠償額の予定と推定される。",
+    "japaneseWordTranslation": "違約金 (いやくきん)",
+    "legalContext": "Civil Code Art. 420(1): “If the parties have stipulated the payment of a penalty for the breach of an obligation, the amount thereof shall be presumed to be the amount of compensation for damages.”",
+    "japaneseLegalContext": "民法第420条第1項: 「当事者は、債務の不履行について、あらかじめ損害賠償の額を予定することができる。」",
+    "exampleSentence": "The contract explicitly set the liquidated damages at 30% of the total price if the obligor failed to deliver the goods by the specified date.",
+    "exampleTranslation": "債務者が指定期日までに商品を納入しなかった場合、契約では、違約金が総額の30％に定められていることが明記されていた。",
+    "vocabularyList": [
+      {
+        "word": "stipulated",
+        "translation": "定めた (さだめた)"
+      },
+      {
+        "word": "breach of contract",
+        "translation": "契約の不履行 (けいやくのふりこう)"
+      },
+      {
+        "word": "compensation for damages",
+        "translation": "損害賠償 (そんがいばいしょう)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "total price",
+        "translation": "総額 (そうがく)"
+      },
+      {
+        "word": "presumption",
+        "translation": "推定 (すいてい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Unilateral Act",
+    "definition": "A juridical act that becomes effective solely by the unilateral declaration of intent of one party, without requiring the consensus of the recipient or the counterparty.",
+    "japaneseDefinition": "一個の意思表示のみによって法律効果を発生させる法律行為。相手方の同意を必要としない。",
+    "japaneseWordTranslation": "単独行為 (たんどくこうい)",
+    "legalContext": "Civil Code (Part I, Chapter 5: Juridical Acts) outlines general principles, differentiating unilateral acts from contractual agreements (two-sided acts) and multilateral acts.",
+    "japaneseLegalContext": "民法（第1編第5章：法律行為）では、単独行為を契約（双方法律行為）や合同行為と区別し、その一般原則を定めている。",
+    "exampleSentence": "A will, being the purest form of a unilateral act, is legally binding once executed, regardless of the beneficiaries’ intent or acceptance.",
+    "exampleTranslation": "遺言は、最も純粋な形式の単独行為であり、受益者の意思や受諾に関係なく、作成された時点で法的に拘束力を持つ。",
+    "vocabularyList": [
+      {
+        "word": "juridical act",
+        "translation": "法律行為 (ほうりつこうい)"
+      },
+      {
+        "word": "declaration of intent",
+        "translation": "意思表示 (いしひょうじ)"
+      },
+      {
+        "word": "legally binding",
+        "translation": "法的拘束力 (ほうてきこうそくりょく)"
+      },
+      {
+        "word": "will (testament)",
+        "translation": "遺言 (いごん)"
+      },
+      {
+        "word": "beneficiary",
+        "translation": "受益者 (じゅえきしゃ)"
+      },
+      {
+        "word": "consensus",
+        "translation": "合意 (ごうい)"
+      }
+    ]
   }
 ]

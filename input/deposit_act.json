@@ -1418,5 +1418,119 @@
         "translation": "関係のある部分"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consignment of Securities",
+    "definition": "The act of depositing negotiable instruments, government bonds, or similar financial assets instead of cash, permissible under specific legal provisions when required to provide security or caution money.",
+    "japaneseDefinition": "金銭に代えて、国債、地方債、社債その他の有価証券を供託すること。特定の法律上の保証金等の提供に際して認められる。",
+    "japaneseWordTranslation": "有価証券の供託 (ゆうかしょうけんのきょうたく)",
+    "legalContext": "Deposit Act Art. 7: A person making a deposit may, under the conditions prescribed by law, use securities in place of currency.",
+    "japaneseLegalContext": "供託法第七条: 供託をする者は、法令の定める所により、金銭に代えて有価証券を供託することができる。",
+    "exampleSentence": "Pursuant to the applicable regulation, the company requested the Consignment of Securities in the form of registered government bonds to fulfill the required business guarantee.",
+    "exampleTranslation": "適用される規制に従い、会社は要求される営業保証を果たすために、登録された国債の形式での有価証券の供託を申請した。",
+    "vocabularyList": [
+      {
+        "word": "negotiable instruments",
+        "translation": "流通証券 (りゅうつうしょうけん)"
+      },
+      {
+        "word": "government bonds",
+        "translation": "国債 (こくさい)"
+      },
+      {
+        "word": "currency",
+        "translation": "金銭 (きんせん)"
+      },
+      {
+        "word": "security",
+        "translation": "保証金 (ほしょうきん)"
+      },
+      {
+        "word": "applicable regulation",
+        "translation": "適用される規制 (てきようされるきせい)"
+      },
+      {
+        "word": "business guarantee",
+        "translation": "営業保証 (えいぎょうほしょう)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Challenge to Administrative Deposit Action",
+    "definition": "A formal procedural mechanism, analogous to an appeal or motion for reconsideration, allowing an applicant or concerned party to contest a decision or action taken by the competent deposit official.",
+    "japaneseDefinition": "供託官がした処分について不服がある者が、その処分をした供託官を経由して、地方裁判所の裁判官に対して不服を申し立てる手続き。",
+    "japaneseWordTranslation": "供託官の処分に対する異議の申立て (きょうたくかんのしょぶんにたいするいぎのもうしたて)",
+    "legalContext": "Deposit Act Art. 8: A person who is dissatisfied with a disposition made by the Deposit Official may file an objection to the presiding judge of the District Court having jurisdiction over the Deposit Office.",
+    "japaneseLegalContext": "供託法第八条: 供託官がした処分に不服がある者は、当該供託官を経由して、その供託所の所在地を管轄する地方裁判所の裁判官に異議の申立てをすることができる。",
+    "exampleSentence": "Following the rejection of his deposit application, the party immediately submitted a Challenge to Administrative Deposit Action to the presiding judge.",
+    "exampleTranslation": "供託申請の却下を受け、当該当事者は直ちに管轄裁判官に対して供託官の処分に対する異議の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "dissatisfied",
+        "translation": "不服がある (ふふくがある)"
+      },
+      {
+        "word": "disposition",
+        "translation": "処分 (しょぶん)"
+      },
+      {
+        "word": "presiding judge",
+        "translation": "裁判官 (さいばんかん)"
+      },
+      {
+        "word": "District Court",
+        "translation": "地方裁判所 (ちほうさいばんしょ)"
+      },
+      {
+        "word": "rejection of application",
+        "translation": "申請の却下 (しんせいのきゃっか)"
+      },
+      {
+        "word": "competent official",
+        "translation": "供託官 (きょうたくかん)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Withdrawal Confirmation",
+    "definition": "The formal administrative authentication provided by the deposit office, verifying that the claimant is legally entitled to recover or receive the deposited assets, necessary before any disbursement can occur.",
+    "japaneseDefinition": "供託物を受け取る権利を有する者（被供託者または供託者）に対し、供託官が行う、供託物の払渡しに関する権限の公的な証明。",
+    "japaneseWordTranslation": "供託物の払渡しの認証 (きょうたくぶつのはらいわたしのにんしょう)",
+    "legalContext": "Deposit Act Art. 10: The Deposit Official shall deliver the deposited property only upon verifying the legitimacy of the claim for withdrawal or recovery.",
+    "japaneseLegalContext": "供託法第十条: 供託官は、払渡しを受けるべき者の請求により、払渡しをする。",
+    "exampleSentence": "The claimant’s lawyer confirmed that all requirements were met to receive the Deposit Withdrawal Confirmation and proceed with the collection of funds.",
+    "exampleTranslation": "請求者の弁護士は、供託物の払渡しの認証を受け、資金の回収を進めるための全ての要件が満たされていることを確認した。",
+    "vocabularyList": [
+      {
+        "word": "authentication",
+        "translation": "認証 (にんしょう)"
+      },
+      {
+        "word": "claimant",
+        "translation": "請求者 (せいきゅうしゃ)"
+      },
+      {
+        "word": "disbursement",
+        "translation": "払渡し (はらいわたし)"
+      },
+      {
+        "word": "legitimacy",
+        "translation": "正当性 (せいとうせい)"
+      },
+      {
+        "word": "deposited assets",
+        "translation": "供託物 (きょうたくぶつ)"
+      },
+      {
+        "word": "collection of funds",
+        "translation": "資金の回収 (しきんのかいしゅう)"
+      }
+    ]
   }
 ]

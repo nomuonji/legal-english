@@ -2,60 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Oral Argument",
-    "definition": "A formal presentation of reasons why a party should prevail, made in open court.",
-    "japaneseDefinition": "公開の法廷で行われる、当事者が勝訴すべき理由の公式な陳述。",
-    "japaneseWordTranslation": "口頭弁論 (こうとうべんろん)",
-    "legalContext": "Code of Civil Procedure Art. 87: Parties must conduct oral arguments regarding the litigation in open court.",
-    "japaneseLegalContext": "民事訴訟法87条：当事者は、訴訟について、裁判所において口頭弁論をしなければならない。",
-    "exampleSentence": "The date for the first oral argument has been set.",
-    "exampleTranslation": "第一回口頭弁論期日が指定された。",
-    "vocabularyList": [
-      {
-        "word": "Oral Argument",
-        "translation": "口頭弁論"
-      },
-      {
-        "word": "Formal",
-        "translation": "公式な"
-      },
-      {
-        "word": "Presentation",
-        "translation": "陳述/提示"
-      },
-      {
-        "word": "Party",
-        "translation": "当事者"
-      },
-      {
-        "word": "Prevail",
-        "translation": "勝つ/優勢である"
-      },
-      {
-        "word": "Open Court",
-        "translation": "公開法廷"
-      },
-      {
-        "word": "Conduct",
-        "translation": "行う"
-      },
-      {
-        "word": "Litigation",
-        "translation": "訴訟"
-      },
-      {
-        "word": "Date",
-        "translation": "期日"
-      },
-      {
-        "word": "Set",
-        "translation": "指定する/定める"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Jurisdiction",
     "definition": "The authority of a court to hear and decide a specific legal case.",
     "japaneseDefinition": "特定の裁判所が特定の事件を審理・裁判する権限。",
@@ -1846,6 +1792,120 @@
       {
         "word": "Undue dismissal",
         "translation": "不当な却下 (ふとうなきゃっか)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preparatory Proceeding by Document",
+    "definition": "A procedural system in Japanese civil litigation, primarily utilizing written submissions and exchanges (without requiring parties to attend court) to clarify the issues and evidence before the main oral arguments commence.",
+    "japaneseDefinition": "裁判所が定める期間内に、当事者双方が書面で訴訟の要点や証拠を提出し合い、争点を整理する手続。期日の出頭を要しないため、遠隔地間の訴訟などで利用される。",
+    "japaneseWordTranslation": "書面による準備手続 (しょめんによるじゅんびてつづき)",
+    "legalContext": "Code of Civil Procedure (Minji Soshō Hō) Art. 175: If the court deems it necessary for conducting preparatory proceedings in writing...",
+    "japaneseLegalContext": "民事訴訟法第175条: 裁判所は、書面による準備手続によることが相当と認めるときは、...",
+    "exampleSentence": "The court utilized the *Preparatory Proceeding by Document* to organize the voluminous financial records and narrow the factual disputes before setting the date for the concentrated oral argument session.",
+    "exampleTranslation": "裁判所は、多量の財務記録を整理し、集中的な口頭弁論期日を設定する前に、書面による準備手続を利用して事実上の争点を絞り込んだ。",
+    "vocabularyList": [
+      {
+        "word": "written submission",
+        "translation": "書面の提出 (しょめんのていしゅつ)"
+      },
+      {
+        "word": "clarify issues",
+        "translation": "争点の整理 (そうてんのせいり)"
+      },
+      {
+        "word": "oral argument session",
+        "translation": "口頭弁論期日 (こうとうべんろんきじつ)"
+      },
+      {
+        "word": "voluminous records",
+        "translation": "多量の記録 (たがくのきろく)"
+      },
+      {
+        "word": "factual disputes",
+        "translation": "事実上の争い (じじつじょうのあらそい)"
+      },
+      {
+        "word": "commence",
+        "translation": "開始する (かいしする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Investigation",
+    "definition": "A method of evidence gathering where the court officially requests governmental agencies, financial institutions, corporations, or other public organizations to provide necessary information or conduct a specific investigation relevant to the facts in dispute.",
+    "japaneseDefinition": "裁判所が、証拠資料の収集のために、官庁、公署、法人、その他の団体に対し、必要な調査を依頼すること。",
+    "japaneseWordTranslation": "調査の嘱託 (ちょうさのしょくたく)",
+    "legalContext": "Code of Civil Procedure (Minji Soshō Hō) Art. 186: The court may commission a governmental agency, public office, or corporation, or any other organization to conduct the necessary investigation.",
+    "japaneseLegalContext": "民事訴訟法第186条: 裁判所は、官庁、公署、法人その他の団体に対し、必要な調査を嘱託することができる。",
+    "exampleSentence": "Seeking to verify the defendant's income history, the plaintiff successfully motioned for an *Order for Investigation* addressed to the National Tax Agency.",
+    "exampleTranslation": "原告は、被告の所得履歴を確認するため、国税庁に対する調査の嘱託の申立てに成功した。",
+    "vocabularyList": [
+      {
+        "word": "evidence gathering",
+        "translation": "証拠収集 (しょうこしゅうしゅう)"
+      },
+      {
+        "word": "governmental agency",
+        "translation": "官庁 (かんちょう)"
+      },
+      {
+        "word": "commission",
+        "translation": "嘱託する (しょくたくする)"
+      },
+      {
+        "word": "motion for",
+        "translation": "～の申立てを行う (～のもうしたてをおこなう)"
+      },
+      {
+        "word": "income history",
+        "translation": "所得履歴 (しょとくりれき)"
+      },
+      {
+        "word": "in dispute",
+        "translation": "係争中の (けいそうちゅうの)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Examination of the Party Himself",
+    "definition": "A specific evidentiary procedure where the court questions the plaintiff or the defendant directly regarding the facts relevant to the litigation, usually conducted after the evidence gathering process involving witnesses and documents is mostly complete.",
+    "japaneseDefinition": "訴訟当事者である原告または被告を、証人とは別に、裁判所が尋問し、訴訟の争点に関する陳述を聴取する証拠調べの方法。",
+    "japaneseWordTranslation": "当事者本人尋問 (とうじしゃほんにんじんもん)",
+    "legalContext": "Code of Civil Procedure (Minji Soshō Hō) Art. 207: The court may, upon a motion of a party or ex officio, examine the parties themselves.",
+    "japaneseLegalContext": "民事訴訟法第207条: 裁判所は、当事者の申立てにより又は職権で、当事者本人を尋問することができる。",
+    "exampleSentence": "Despite the defendant's previous written statement, the judge determined that an *Examination of the Party Himself* was crucial to assess the credibility of his testimony regarding the alleged oral agreement.",
+    "exampleTranslation": "被告の以前の書面による陳述にもかかわらず、裁判官は、その申し立てられた口頭合意に関する証言の信用性を評価するために、当事者本人尋問が不可欠であると判断した。",
+    "vocabularyList": [
+      {
+        "word": "evidentiary procedure",
+        "translation": "証拠調べ手続 (しょうこしらべてつづき)"
+      },
+      {
+        "word": "ex officio",
+        "translation": "職権で (しょっけんで)"
+      },
+      {
+        "word": "testimony",
+        "translation": "証言 (しょうげん)"
+      },
+      {
+        "word": "credibility",
+        "translation": "信用性 (しんようせい)"
+      },
+      {
+        "word": "oral agreement",
+        "translation": "口頭合意 (こうとうごうい)"
+      },
+      {
+        "word": "assess",
+        "translation": "評価する (ひょうかする)"
       }
     ]
   }

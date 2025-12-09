@@ -1856,5 +1856,119 @@
         "translation": "法典化された (ほうてんかされた)"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Legality",
+    "definition": "The fundamental doctrine in criminal law stipulating that no act can be deemed a crime and no punishment can be imposed unless previously established by law (Nullum crimen, nulla poena sine lege).",
+    "japaneseDefinition": "犯罪及び刑罰は、あらかじめ法律によって明確に規定されていなければならないという、近代刑法の基本原則。",
+    "japaneseWordTranslation": "罪刑法定主義 (ざいけいほうていしゅぎ)",
+    "legalContext": "Fundamental Principle of Criminal Law guaranteeing clarity and predictability, ensuring that criminal statutes are strictly construed and prohibiting the retrospective application of penal provisions.",
+    "japaneseLegalContext": "刑法総論における基本原則であり、刑罰法規の明確性と予測可能性を保障し、遡及処罰を禁止する。",
+    "exampleSentence": "The Principle of Legality prevents judges from expanding the scope of criminal liability by analogy or judicial discretion.",
+    "exampleTranslation": "罪刑法定主義は、裁判官が類推または裁量によって刑事責任の範囲を拡大することを防ぐ。",
+    "vocabularyList": [
+      {
+        "word": "statutes",
+        "translation": "法規"
+      },
+      {
+        "word": "retrospective application",
+        "translation": "遡及適用"
+      },
+      {
+        "word": "strictly construed",
+        "translation": "厳格に解釈される"
+      },
+      {
+        "word": "penal provisions",
+        "translation": "刑罰規定"
+      },
+      {
+        "word": "criminal liability",
+        "translation": "刑事責任"
+      },
+      {
+        "word": "judicial discretion",
+        "translation": "司法裁量"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exclusion of Unlawfulness",
+    "definition": "A general defense mechanism where an act that satisfies the objective elements of a crime is nonetheless deemed lawful because it is justified by specific circumstances (e.g., fulfilling a statutory duty).",
+    "japaneseDefinition": "犯罪の構成要件に該当する行為であっても、特定の正当化事由が存在することにより、その行為の違法性が否定され、犯罪が成立しないこと。",
+    "japaneseWordTranslation": "違法性阻却 (いほうせいそきゃく)",
+    "legalContext": "General Principle of Criminal Law concerning the second stage of the tripartite structure of a crime (elements, unlawfulness, culpability); the act is not deemed 'unlawful' (違法).",
+    "japaneseLegalContext": "犯罪の三段階構造（構成要件該当性、違法性、有責性）の第二段階に関する刑法総論上の原則。行為が「違法」ではないとされる。",
+    "exampleSentence": "The defense counsel argued that the action, while harmful, met the criteria for Exclusion of Unlawfulness because the defendant was carrying out a legitimate business task.",
+    "exampleTranslation": "弁護人は、その行為は有害であったものの、被告人が正当な業務行為を遂行していたため、違法性阻却の要件を満たすと主張した。",
+    "vocabularyList": [
+      {
+        "word": "defense counsel",
+        "translation": "弁護人"
+      },
+      {
+        "word": "objective elements",
+        "translation": "客観的構成要件"
+      },
+      {
+        "word": "justified",
+        "translation": "正当化された"
+      },
+      {
+        "word": "statutory duty",
+        "translation": "法令上の義務"
+      },
+      {
+        "word": "unlawful",
+        "translation": "違法な"
+      },
+      {
+        "word": "culpability",
+        "translation": "有責性"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ideal Concurrence (of Crimes)",
+    "definition": "The conceptual situation where a single physical act by an offender satisfies the elements of two or more distinct criminal offenses.",
+    "japaneseDefinition": "一個の行為が、同時に二個以上の異なる罪の構成要件に該当する場合の罪数関係。",
+    "japaneseWordTranslation": "観念的競合 (かんねんてききょうごう)",
+    "legalContext": "Criminal Code Art. 54(1) provides the sentencing rule for Ideal Concurrence, prescribing that the offender shall be punished based on the penalty for the gravest offense.",
+    "japaneseLegalContext": "刑法第54条第1項は観念的競合の処断方法を規定しており、その最も重い刑によって処断する。",
+    "exampleSentence": "The intentional throwing of a rock that simultaneously breaks a window (destruction of property) and injures a person (infliction of injury) constitutes an Ideal Concurrence.",
+    "exampleTranslation": "窓を割る（器物損壊）と同時に人を負傷させる（傷害）意図的な投石行為は、観念的競合を構成する。",
+    "vocabularyList": [
+      {
+        "word": "single physical act",
+        "translation": "一個の物理的行為"
+      },
+      {
+        "word": "criminal offenses",
+        "translation": "犯罪"
+      },
+      {
+        "word": "sentencing rule",
+        "translation": "処罰規定"
+      },
+      {
+        "word": "gravest offense",
+        "translation": "最も重い罪"
+      },
+      {
+        "word": "destruction of property",
+        "translation": "器物損壊"
+      },
+      {
+        "word": "intentional",
+        "translation": "意図的な"
+      }
+    ]
   }
 ]

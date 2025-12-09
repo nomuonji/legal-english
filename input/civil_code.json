@@ -1858,5 +1858,119 @@
         "translation": "存命する家族"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Solidary Obligation",
+    "definition": "An obligation where the performance, due to its nature (indivisibility) or the parties' intent, requires each obligor to perform the entire duty, but once performed by one, the others are discharged.",
+    "japaneseDefinition": "債務の目的がその性質上または当事者の意思によって分割できない場合に、各債務者が債務の全部を履行しなければならない義務。ただし、一人の債務者が履行すれば他の債務者は債務を免れる。",
+    "japaneseWordTranslation": "不可分債務 (ふかぶんさいむ)",
+    "legalContext": "Civil Code Art. 430: If there are multiple obligors regarding an indivisible obligation, the provisions concerning joint and several obligations shall apply mutatis mutandis.",
+    "japaneseLegalContext": "民法第430条：不可分債務の債務者が数人ある場合については、第432条から第440条までの規定を準用する。",
+    "exampleSentence": "The three co-owners faced a solidary obligation to deliver the single, priceless antique vase to the buyer.",
+    "exampleTranslation": "3人の共有者は、その唯一の非常に貴重な骨董品の花瓶を買主に引き渡すという不可分債務を負った。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "performance",
+        "translation": "履行"
+      },
+      {
+        "word": "discharged",
+        "translation": "免れる"
+      },
+      {
+        "word": "indivisible",
+        "translation": "不可分な"
+      },
+      {
+        "word": "co-owners",
+        "translation": "共有者"
+      },
+      {
+        "word": "antique vase",
+        "translation": "骨董品の花瓶"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Security Interest",
+    "definition": "A proprietary right (real right) established by operation of law to secure a claim, independent of any prior contractual agreement between the parties, such as specific types of liens or legal mortgages.",
+    "japaneseDefinition": "当事者間の契約に基づかず、法律の規定によって当然に発生する債権を担保するための物権（例：法定留置権や法定抵当権）。",
+    "japaneseWordTranslation": "法定担保物権 (ほうていたんぽぶっけん)",
+    "legalContext": "Civil Code Art. 342: The provisions of this Section shall apply to legal hypothecs established under other laws.",
+    "japaneseLegalContext": "民法第342条：他の法律の規定により設定される法定抵当権については、この節の規定を準用する。",
+    "exampleSentence": "The builder asserted a statutory security interest over the completed structure to secure the unpaid construction costs from the property owner.",
+    "exampleTranslation": "建設業者は、不動産所有者からの未払いの建設費用を担保するために、完成した構造物に対して法定担保物権を主張した。",
+    "vocabularyList": [
+      {
+        "word": "proprietary right",
+        "translation": "物権"
+      },
+      {
+        "word": "operation of law",
+        "translation": "法律の作用"
+      },
+      {
+        "word": "claim",
+        "translation": "債権"
+      },
+      {
+        "word": "contractual agreement",
+        "translation": "契約上の合意"
+      },
+      {
+        "word": "asserted",
+        "translation": "主張した"
+      },
+      {
+        "word": "unpaid construction costs",
+        "translation": "未払いの建設費用"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Succession by Universal Title",
+    "definition": "The legal mechanism by which one person (the successor) takes over the entirety of another person’s (the predecessor's) legal status, including all rights and obligations, liabilities, and assets, simultaneously.",
+    "japaneseDefinition": "ある者が他の者の有する法律上の地位（債権、債務、権利、義務の全体）を区別なく包括的に承継すること。",
+    "japaneseWordTranslation": "包括承継 (ほうかつしょうけい)",
+    "legalContext": "Civil Code Art. 896: An heir succeeds to the rights and duties pertaining to the property of the decedent from the time of commencement of succession; provided, however, that this shall not apply to rights and duties exclusively held by the decedent.",
+    "japaneseLegalContext": "民法第896条：相続人は、相続開始の時から、被相続人の財産に属した一切の権利義務を承継する。ただし、被相続人の一身に専属するものは、この限りでない。",
+    "exampleSentence": "In an absorption-type merger, the surviving company obtains succession by universal title to all the assets and liabilities of the absorbed company.",
+    "exampleTranslation": "吸収合併において、存続会社は被吸収会社のすべての資産および負債を包括承継により取得する。",
+    "vocabularyList": [
+      {
+        "word": "successor",
+        "translation": "承継人"
+      },
+      {
+        "word": "predecessor",
+        "translation": "被承継人"
+      },
+      {
+        "word": "legal status",
+        "translation": "法律上の地位"
+      },
+      {
+        "word": "liabilities",
+        "translation": "負債"
+      },
+      {
+        "word": "absorption-type merger",
+        "translation": "吸収合併"
+      },
+      {
+        "word": "surviving company",
+        "translation": "存続会社"
+      }
+    ]
   }
 ]

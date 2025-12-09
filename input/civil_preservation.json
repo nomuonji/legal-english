@@ -1734,5 +1734,119 @@
         "translation": "保全債権者 (hozen saikensha)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order of Provisional Execution",
+    "definition": "A declaration attached to a judicial decision (judgment or order) that permits the successful party to execute the decision immediately, even if the decision has not become final and binding (e.g., while a Kōso appeal is pending).",
+    "japaneseDefinition": "判決が確定していない場合でも、勝訴当事者に対し、判決内容に基づく強制執行をすることを許容する旨の裁判所による宣言。",
+    "japaneseWordTranslation": "仮執行の宣言 (かりしっこうのせんげん)",
+    "legalContext": "Code of Civil Procedure Art. 259 (Applied mutatis mutandis to certain preservation proceedings): The court shall, upon motion or ex officio, include a declaration of provisional execution in a judgment relating to claims for property rights.",
+    "japaneseLegalContext": "民事訴訟法第259条: 裁判所は、財産権上の請求に関する判決においては、職権で、又は当事者の申立てにより、仮執行の宣言をすることができる。",
+    "exampleSentence": "The District Court’s judgment included an Order of Provisional Execution, allowing the claimant to proceed with immediate seizure of assets, despite the defendant indicating an intention to file an appeal.",
+    "exampleTranslation": "地方裁判所の判決には仮執行の宣言が含まれていたため、被告が控訴の意思を示したにもかかわらず、申立人は直ちに資産の差し押さえを進めることができた。",
+    "vocabularyList": [
+      {
+        "word": "judicial decision",
+        "translation": "裁判 (さいばん)"
+      },
+      {
+        "word": "final and binding",
+        "translation": "確定 (かくてい)"
+      },
+      {
+        "word": "successful party",
+        "translation": "勝訴当事者 (しょうそとうじしゃ)"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行 (きょうせいしっこう)"
+      },
+      {
+        "word": "seizure of assets",
+        "translation": "資産の差押え (しさんのさしおさえ)"
+      },
+      {
+        "word": "to file an appeal",
+        "translation": "控訴を提起する (こうそをていきする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Claim for Return of Security Deposit",
+    "definition": "The statutory right granted to a party (usually the preservation obligee) who provided a judicial security deposit (e.g., to obtain a provisional measure) to demand the return of those funds after the specific conditions requiring the deposit have been fulfilled or the underlying legal risk has subsided.",
+    "japaneseDefinition": "仮差押え等の保全命令を得るために担保を提供した者が、その保全命令が失効したり、本案で勝訴したりするなど、担保を保持する必要性がなくなった場合に、供託金を取り戻すための請求権。",
+    "japaneseWordTranslation": "担保取戻請求権 (たんぽとりもどしせいきゅうけん)",
+    "legalContext": "Code of Civil Procedure Art. 108: If the reason for requiring security has ceased to exist, the court shall issue a ruling upon motion allowing the person who provided the security to recover it.",
+    "japaneseLegalContext": "民事訴訟法第108条: 担保を立てる理由が消滅したときは、裁判所は、申立てにより、担保の取消しの決定をすることができる。",
+    "exampleSentence": "Following the dismissal of the main action, the preservation obligee filed a motion with the court to exercise his Claim for Return of Security Deposit, having satisfied all statutory prerequisites.",
+    "exampleTranslation": "本案の訴えの棄却後、保全債権者は、すべての法的要件を満たした上で、担保取戻請求権を行使するために裁判所に申し立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "security deposit",
+        "translation": "担保 (たんぽ)"
+      },
+      {
+        "word": "provided security",
+        "translation": "担保を提供した (たんぽをていきょうした)"
+      },
+      {
+        "word": "preservation obligee",
+        "translation": "保全債権者 (ほぜんさいけんしゃ)"
+      },
+      {
+        "word": "dismissal of the action",
+        "translation": "訴えの棄却 (うったえのききゃく)"
+      },
+      {
+        "word": "statutory prerequisites",
+        "translation": "法的要件 (ほうてきようけん)"
+      },
+      {
+        "word": "ruling",
+        "translation": "決定 (けってい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Demonstration of Urgency",
+    "definition": "The essential requirement under Civil Preservation Law that the obligee must prove an immediate and pressing need for judicial intervention (e.g., provisional disposition) to prevent irreparable harm or the dissipation of assets necessary for future execution.",
+    "japaneseDefinition": "債権者が、将来の強制執行の実現が不可能になる、または被保全権利が侵害されるなどの差し迫った損害を避けるために、保全命令の必要性を裁判所に疎明しなければならないという要件。",
+    "japaneseWordTranslation": "保全の緊急性 (ほぜんのきんきゅうせい)",
+    "legalContext": "Civil Preservation Act Art. 13 (Requirement for Provisional Disposition): A provisional disposition may be ordered when there is urgency for the necessity of preservation.",
+    "japaneseLegalContext": "民事保全法第13条 (仮処分の要件): 仮処分は、保全の必要性に緊急性がある場合に、命ずることができる。",
+    "exampleSentence": "The court denied the motion for provisional disposition, stating that the obligee failed to provide sufficient evidence demonstrating the Demonstration of Urgency required by Article 13.",
+    "exampleTranslation": "裁判所は、申立人が第13条で要求される保全の緊急性を証明する十分な証拠を提出しなかったとして、仮処分の申立てを却下した。",
+    "vocabularyList": [
+      {
+        "word": "irreparable harm",
+        "translation": "回復不能な損害 (かいふくふのうなそんがい)"
+      },
+      {
+        "word": "dissipation of assets",
+        "translation": "資産の散逸 (しさんのさんいつ)"
+      },
+      {
+        "word": "sufficient evidence",
+        "translation": "十分な証拠 (じゅうぶんなしょうこ)"
+      },
+      {
+        "word": "judicial intervention",
+        "translation": "司法介入 (しほうかいにゅう)"
+      },
+      {
+        "word": "denied the motion",
+        "translation": "申立てを却下した (もうしたてをきゃっかした)"
+      },
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分 (かりしょぶん)"
+      }
+    ]
   }
 ]

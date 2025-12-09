@@ -1838,5 +1838,119 @@
         "translation": "処分 (しょぶん)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Motion for Grant of Execution Clause",
+    "definition": "A formal request filed by the execution obligee with the court clerk or notary, seeking the necessary official endorsement (the execution clause) to commence execution based on the specific execution title.",
+    "japaneseDefinition": "債務名義の正本に執行文を付与してもらうため、執行債権者が裁判所書記官または公証人に提出する正式な要求。",
+    "japaneseWordTranslation": "執行文付与の申立て (しっこうぶん ふよの もうしたて)",
+    "legalContext": "Civil Execution Act (民事執行法) Art. 26: Application for Grant of Execution Clause.",
+    "japaneseLegalContext": "民事執行法 第26条: 執行文付与の申立て。",
+    "exampleSentence": "The obligee filed a Motion for Grant of Execution Clause after receiving the final judgment, as required to initiate the disposition procedure against the judgment debtor's assets.",
+    "exampleTranslation": "債権者は、確定判決を受け取った後、債務者の財産に対する換価手続きを開始するために必要な執行文付与の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者 (saikensha)"
+      },
+      {
+        "word": "court clerk",
+        "translation": "裁判所書記官 (saibansho shokikan)"
+      },
+      {
+        "word": "final judgment",
+        "translation": "確定判決 (kakutei hanketsu)"
+      },
+      {
+        "word": "judgment debtor",
+        "translation": "債務者 (saimusha)"
+      },
+      {
+        "word": "endorsement",
+        "translation": "裏書 (uragaki)"
+      },
+      {
+        "word": "notary",
+        "translation": "公証人 (kōshōnin)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Grant of Execution Clause",
+    "definition": "A legal action brought by the obligee when the issuance of the execution clause is refused by the court clerk or is conditional upon the obligee proving the fulfillment of a counter-performance or the occurrence of an event.",
+    "japaneseDefinition": "債務名義に執行文を付与することが、裁判所書記官によって拒否された場合や、条件の成就または反対給付の履行を債権者が証明する必要がある場合に提起される訴訟。",
+    "japaneseWordTranslation": "執行文付与の訴え (しっこうぶん ふよの うったえ)",
+    "legalContext": "Civil Execution Act (民事執行法) Art. 28: Action for Grant of Execution Clause.",
+    "japaneseLegalContext": "民事執行法 第28条: 執行文付与の訴え。",
+    "exampleSentence": "When the obligor successfully convinced the clerk that the condition precedent for execution was unfulfilled, the obligee was compelled to file an Action for Grant of Execution Clause.",
+    "exampleTranslation": "債務者が執行の停止条件が未達成であることを書記官に納得させたため、債権者は執行文付与の訴えを提起せざるを得なくなった。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者 (saimusha)"
+      },
+      {
+        "word": "issuance",
+        "translation": "交付 (kōfu)"
+      },
+      {
+        "word": "compelled",
+        "translation": "強制された (kyōsei sareta)"
+      },
+      {
+        "word": "condition precedent",
+        "translation": "停止条件 (teishi jōken)"
+      },
+      {
+        "word": "counter-performance",
+        "translation": "反対給付 (hantai kyūfu)"
+      },
+      {
+        "word": "unfulfilled",
+        "translation": "未達成の (mitassei no)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Enforcement of Security Interest",
+    "definition": "A specific category of non-judgment based execution under the Civil Execution Act, used by creditors holding a legally recognized security interest (such as a mortgage or special statutory lien) to realize the collateral without needing a separate judgment confirming the underlying debt.",
+    "japaneseDefinition": "担保権（抵当権や法定の先取特権など）を持つ債権者が、債権を確定する判決なしに、担保物を換価するために利用する、民事執行法上の非判決に基づく特定の執行手続き。",
+    "japaneseWordTranslation": "担保権の実行 (たんぽけんの じっこう)",
+    "legalContext": "Civil Execution Act (民事執行法) Art. 180: Commencement of Execution based on Security Interest.",
+    "japaneseLegalContext": "民事執行法 第180条: 担保権の実行としての開始。",
+    "exampleSentence": "Because the debtor had defaulted on the loan, the bank initiated the Enforcement of Security Interest against the real property registered under the mortgage.",
+    "exampleTranslation": "債務者が貸付金の債務を履行しなかったため、銀行は抵当権が設定された不動産に対して担保権の実行を開始した。",
+    "vocabularyList": [
+      {
+        "word": "security interest",
+        "translation": "担保権 (tanpōken)"
+      },
+      {
+        "word": "mortgage",
+        "translation": "抵当権 (teitōken)"
+      },
+      {
+        "word": "collateral",
+        "translation": "担保物 (tanpamotsu)"
+      },
+      {
+        "word": "creditors",
+        "translation": "債権者 (saikensha)"
+      },
+      {
+        "word": "statutory lien",
+        "translation": "先取特権 (sakidori tokken)"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産 (fudōsan)"
+      }
+    ]
   }
 ]

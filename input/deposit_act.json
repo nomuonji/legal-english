@@ -1760,5 +1760,107 @@
         "translation": "目的物"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Application Form",
+    "definition": "The formal document required to be submitted to the deposit office by the depositor, detailing the consigned property, the reason for the deposit, and the intended recipient.",
+    "japaneseDefinition": "供託をする者が供託所に提出しなければならない書面であり、供託する財産、供託の原因、および供託物を受け取る者を明記したもの。",
+    "japaneseWordTranslation": "供託書 (きょうたくしょ)",
+    "legalContext": "Deposit Act (供託法) and Deposit Act Enforcement Rules (供託規則) Art. 10 prescribe the mandatory details and format.",
+    "japaneseLegalContext": "供託法および供託規則第10条は、供託書に記載すべき事項および様式を規定する。",
+    "exampleSentence": "The depositor must ensure that the specific grounds for the deposit are accurately recorded on the Deposit Application Form.",
+    "exampleTranslation": "供託者は、供託の具体的な原因が供託書に正確に記載されていることを確認しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "depositor",
+        "translation": "供託者 (きょうたくしゃ)"
+      },
+      {
+        "word": "consigning of funds",
+        "translation": "金銭を供託すること (きんせんをきょうたくすること)"
+      },
+      {
+        "word": "legal basis",
+        "translation": "法的根拠 (ほうてきこんきょ)"
+      },
+      {
+        "word": "submit",
+        "translation": "提出する (ていしゅつする)"
+      },
+      {
+        "word": "intended recipient",
+        "translation": "被供託者 (ひきょうたくしゃ)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Entitled Person for Restoration",
+    "definition": "The person who is legally permitted to recover the deposited property when the grounds necessitating the deposit have been extinguished or the intended purpose of the deposit cannot be achieved.",
+    "japaneseDefinition": "供託を必要とした原因が消滅した場合、または供託の目的が達せられない場合に、供託された財産を取り戻すことができる権限を有する者。",
+    "japaneseWordTranslation": "取戻権者 (とりもどしけんしゃ)",
+    "legalContext": "Deposit Act (供託法) Art. 9 outlines the conditions under which the depositor or their successor becomes the Entitled Person for Restoration.",
+    "japaneseLegalContext": "供託法第9条は、供託者またはその承継人が取戻権者となる条件を概説している。",
+    "exampleSentence": "The obligor became the Entitled Person for Restoration after the creditor definitively rejected the deposited performance.",
+    "exampleTranslation": "債権者が供託された弁済を明確に拒否した後、債務者は取戻権者となった。",
+    "vocabularyList": [
+      {
+        "word": "extinguished",
+        "translation": "消滅した (しょうめつした)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "deposited property",
+        "translation": "供託物 (きょうたくぶつ)"
+      },
+      {
+        "word": "successor",
+        "translation": "承継人 (しょうけいにん)"
+      },
+      {
+        "word": "reject performance",
+        "translation": "弁済を拒否する (べんさいをきょひする)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designation of Property Management Institution",
+    "definition": "The official act by the Minister of Justice to designate a bank or other reliable institution where the deposit office entrusts the safekeeping of deposited money or marketable securities.",
+    "japaneseDefinition": "供託所が、供託された金銭または有価証券の保管を委託するために、法務大臣が銀行等の信頼できる機関を指定する行為。",
+    "japaneseWordTranslation": "供託物保管機関の指定 (きょうたくぶつほかんきかんのしてい)",
+    "legalContext": "Deposit Act (供託法) Art. 3 requires deposited funds and securities to be managed in accordance with the Designation of Property Management Institution.",
+    "japaneseLegalContext": "供託法第3条は、供託された金銭および有価証券は、供託物保管機関の指定に従って管理されなければならないと規定している。",
+    "exampleSentence": "The substantial security deposit required for the appeal was transferred immediately to the Designated Property Management Institution.",
+    "exampleTranslation": "上訴のために要求された多額の保証供託金は、直ちに指定された供託物保管機関に移された。",
+    "vocabularyList": [
+      {
+        "word": "marketable securities",
+        "translation": "有価証券 (ゆうかしょうけん)"
+      },
+      {
+        "word": "Minister of Justice",
+        "translation": "法務大臣 (ほうむだいじん)"
+      },
+      {
+        "word": "safekeeping",
+        "translation": "保管 (ほかん)"
+      },
+      {
+        "word": "transfer",
+        "translation": "移す (うつす)"
+      },
+      {
+        "word": "entrust",
+        "translation": "委託する (いたくする)"
+      }
+    ]
   }
 ]

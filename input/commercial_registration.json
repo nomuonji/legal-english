@@ -1752,5 +1752,119 @@
         "translation": "受理"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Custodian Certificate of Paid-in Capital",
+    "definition": "A document, typically issued by a bank, certifying that the funds corresponding to the share subscription price or capital contributions have been fully paid into a designated account and are held in custody for the newly formed company.",
+    "japaneseDefinition": "会社設立時に、株式の引受けまたは出資の履行として払い込まれた金銭が、適切な金融機関に保管されていることを証明する書面。登記申請の際に添付が義務付けられる。",
+    "japaneseWordTranslation": "払込金等の保管を証明する書面 (はらいこみきんとうのほかんをしょうめいするしょめん)",
+    "legalContext": "Commercial Registration Law and Company Act provisions mandate the submission of this certificate to prove the completion of capital payment necessary for the establishment registration.",
+    "japaneseLegalContext": "商業登記法及び会社法の規定に基づき、設立登記の要件として、資本の払い込み完了を証明するためにこの書面の提出が義務付けられている。",
+    "exampleSentence": "The application for the establishment registration of the joint-stock company was rejected initially due to the lack of the mandatory Custodian Certificate of Paid-in Capital.",
+    "exampleTranslation": "株式会社の設立登記申請は、必須の払込金等の保管を証明する書面が不足していたため、当初は却下された。",
+    "vocabularyList": [
+      {
+        "word": "joint-stock company",
+        "translation": "株式会社 (kabushiki kaisha)"
+      },
+      {
+        "word": "establishment registration",
+        "translation": "設立登記 (setsuritsu tōki)"
+      },
+      {
+        "word": "subscription price",
+        "translation": "引受価額 (hikiuke kagaku)"
+      },
+      {
+        "word": "designated account",
+        "translation": "指定口座 (shitei kōza)"
+      },
+      {
+        "word": "mandatory",
+        "translation": "必須の (hissu no)"
+      },
+      {
+        "word": "rejected",
+        "translation": "却下された (kyakka sareta)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registered Business Scope (Purpose)",
+    "definition": "The specific statement outlining the range of business activities and objectives for which the company is established, forming a fundamental part of the registration record.",
+    "japaneseDefinition": "会社が設立された目的、すなわち、その事業活動の範囲を具体的に定めたものであり、商業登記簿に記録されなければならない基本事項。",
+    "japaneseWordTranslation": "目的 (もくてき)",
+    "legalContext": "Company Act, Art. 27: A company must register its purpose, name, principal office location, capital, and other mandatory items specified by law.",
+    "japaneseLegalContext": "会社法第27条：会社は、その目的、商号、本店所在地、資本金その他の法令で定める事項を登記しなければならない。",
+    "exampleSentence": "The company's engagement in financial lending activities was permissible because it fell within the parameters of its Registered Business Scope.",
+    "exampleTranslation": "その会社による金融貸付活動への従事は、登記された事業目的の範囲内であったため、許容された。",
+    "vocabularyList": [
+      {
+        "word": "engagement",
+        "translation": "従事 (jūji)"
+      },
+      {
+        "word": "financial lending",
+        "translation": "金融貸付 (kin'yū kashitsuke)"
+      },
+      {
+        "word": "permissible",
+        "translation": "許容される (kyoyō sareru)"
+      },
+      {
+        "word": "parameters",
+        "translation": "範囲 (hani)"
+      },
+      {
+        "word": "fundamental part",
+        "translation": "基本的部分 (kihon-teki bubun)"
+      },
+      {
+        "word": "registration record",
+        "translation": "登記記録 (tōki kiroku)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Issuance Details",
+    "definition": "The registration required when a company decides on the particulars (details) of a public offering or private placement of new shares or stock acquisition rights, which must be completed promptly after the decision date.",
+    "japaneseDefinition": "会社が新たに株式または新株予約権を発行するための募集事項を決定した場合に、その内容（募集する株式の種類、数、払込金額など）を登記簿に記録すること。",
+    "japaneseWordTranslation": "募集事項の決定の登記 (ぼしゅうじこうのけっていのとうき)",
+    "legalContext": "Commercial Registration Law mandates that when a company decides on the details of issuance, registration must be completed within two weeks from the effective date of the capital increase.",
+    "japaneseLegalContext": "商業登記法では、会社が募集事項を決定した場合、増資の効力発生日から2週間以内に登記を完了することが義務付けられている。",
+    "exampleSentence": "The delay in the Registration of Issuance Details led to procedural difficulties regarding the vesting of the newly issued stock acquisition rights.",
+    "exampleTranslation": "募集事項の決定の登記の遅延により、新規発行された新株予約権の効力発生に関して手続上の問題が生じた。",
+    "vocabularyList": [
+      {
+        "word": "particulars",
+        "translation": "事項 (jikō)"
+      },
+      {
+        "word": "public offering",
+        "translation": "公募 (kōbo)"
+      },
+      {
+        "word": "private placement",
+        "translation": "私募 (shibo)"
+      },
+      {
+        "word": "stock acquisition rights",
+        "translation": "新株予約権 (shinkabu yoyakuken)"
+      },
+      {
+        "word": "effective date",
+        "translation": "効力発生日 (kōryoku hassei bi)"
+      },
+      {
+        "word": "vesting",
+        "translation": "効力発生 (kōryoku hassei)"
+      }
+    ]
   }
 ]

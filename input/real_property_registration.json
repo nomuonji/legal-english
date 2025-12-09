@@ -1702,5 +1702,119 @@
         "translation": "原債務 (Gen Saimu)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Notification of Completion of Registration",
+    "definition": "A document issued by the registry office to the applicant or their representative upon completion of the registration procedure, confirming the entry has been successfully recorded on the register.",
+    "japaneseDefinition": "登記手続が完了した際、登記官が登記を申請した者（またはその代理人）に対し、登記が完了した旨を通知するために交付する書面。",
+    "japaneseWordTranslation": "登記完了証 (とうきかんりょうしょう)",
+    "legalContext": "Real Property Registration Act Art. 23 (1): The registrar shall notify the applicant that the registration has been completed.",
+    "japaneseLegalContext": "不動産登記法第23条第1項 (登記官は、登記を完了したときは、登記申請人にその旨を通知しなければならない。)",
+    "exampleSentence": "Upon the fulfillment of the application requirements, the registry office issued the Notification of Completion of Registration to the property owner.",
+    "exampleTranslation": "申請要件が満たされた後、登記所は当該不動産所有者に対して登記完了証を交付した。",
+    "vocabularyList": [
+      {
+        "word": "registry office",
+        "translation": "登記所"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "applicant",
+        "translation": "登記申請人"
+      },
+      {
+        "word": "procedure",
+        "translation": "手続"
+      },
+      {
+        "word": "property owner",
+        "translation": "不動産所有者"
+      },
+      {
+        "word": "fulfillment",
+        "translation": "充足"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right of Lease",
+    "definition": "The right granted by a lessor (owner) to a lessee (tenant) to use and generate profits from real property, which can be perfected against third parties by means of registration.",
+    "japaneseDefinition": "賃貸人から賃借人に対し、不動産を使用収益させる権利。これを登記することで第三者に対抗できる効力を持たせることができる。",
+    "japaneseWordTranslation": "賃借権 (ちんしゃくけん)",
+    "legalContext": "Civil Code Art. 601: A lease takes effect when one party promises to allow the other party to use and profit from a thing and the other party promises to pay rent for it.",
+    "japaneseLegalContext": "民法第601条: 当事者の一方がある物を相手方に使用及び収益をさせ、相手方がこれに対してその賃料を支払うことによって、その効力を生ずる。",
+    "exampleSentence": "The registration of the Right of Lease was essential for the tenant to maintain their occupancy against the new purchaser of the land.",
+    "exampleTranslation": "賃借権の登記は、その借主が土地の新しい買主に対して占有を維持するために不可欠であった。",
+    "vocabularyList": [
+      {
+        "word": "lessor",
+        "translation": "賃貸人"
+      },
+      {
+        "word": "lessee",
+        "translation": "賃借人"
+      },
+      {
+        "word": "perfected",
+        "translation": "対抗要件を備える"
+      },
+      {
+        "word": "occupancy",
+        "translation": "占有/居住"
+      },
+      {
+        "word": "maintain",
+        "translation": "維持する"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principal Registration",
+    "definition": "A standalone entry in the register, typically concerning the creation, transfer, or modification of primary real rights (e.g., ownership or hypothecation), which is distinguished from and independent of ancillary registration.",
+    "japaneseDefinition": "所有権や担保権などの主要な物権の設定、移転、変更などを記録する、独立した登記。付記登記（従たる登記）と区別される。",
+    "japaneseWordTranslation": "主登記 (しゅとうき)",
+    "legalContext": "Real Property Registration Regulation Art. 3 (1): The method of registration is determined by whether it is a principal registration or an ancillary registration.",
+    "japaneseLegalContext": "不動産登記規則第3条第1項: 登記は、主登記又は付記登記によってする。",
+    "exampleSentence": "The creation of the hypothecation required a Principal Registration in the relevant section of the registry, establishing its priority ranking.",
+    "exampleTranslation": "当該担保権の設定には、登記記録の該当部分に主登記が必要であり、これによりその順位が確定した。",
+    "vocabularyList": [
+      {
+        "word": "standalone",
+        "translation": "独立した"
+      },
+      {
+        "word": "creation",
+        "translation": "設定"
+      },
+      {
+        "word": "hypothecation",
+        "translation": "抵当権設定"
+      },
+      {
+        "word": "ancillary registration",
+        "translation": "付記登記"
+      },
+      {
+        "word": "priority ranking",
+        "translation": "順位"
+      },
+      {
+        "word": "modification",
+        "translation": "変更"
+      }
+    ]
   }
 ]

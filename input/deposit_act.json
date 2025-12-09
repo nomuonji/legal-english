@@ -1646,5 +1646,119 @@
         "translation": "進めた (すすめた)"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Refusal of Acceptance",
+    "definition": "The administrative decision by the designated deposit office to reject a deposit application because the submitted documentation, procedures, or the alleged cause for deposit fail to satisfy the statutory requirements.",
+    "japaneseDefinition": "供託所が、供託の申請が法令上の要件を満たしていないと判断し、これを受理しない行政処分。",
+    "japaneseWordTranslation": "供託の不受理 (きょうたくのふじゅり)",
+    "legalContext": "Deposit Act Art. 7: If the application for deposit is refused by the deposit registrar, the depositor may petition for administrative review (審査請求) of the decision.",
+    "japaneseLegalContext": "供託法第7条: 供託官が供託の申請を却下した場合には、供託者は、その処分について審査請求をすることができる。",
+    "exampleSentence": "The depositor filed a petition for administrative review following the deposit registrar’s refusal of acceptance based on insufficient specification of the consigned property.",
+    "exampleTranslation": "供託者は、供託物の特定が不十分であることを理由とする供託官の不受理処分に対し、審査請求を行った。",
+    "vocabularyList": [
+      {
+        "word": "deposit registrar",
+        "translation": "供託官"
+      },
+      {
+        "word": "deposit application",
+        "translation": "供託の申請"
+      },
+      {
+        "word": "statutory requirements",
+        "translation": "法令上の要件"
+      },
+      {
+        "word": "insufficient specification",
+        "translation": "特定不十分"
+      },
+      {
+        "word": "administrative review",
+        "translation": "審査請求"
+      },
+      {
+        "word": "consigned property",
+        "translation": "供託物"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certificate of Deposit Fulfillment",
+    "definition": "A formal document issued by the deposit office to the depositor upon request, certifying that the prescribed procedures for the consignment have been properly executed and the deposit has been established.",
+    "japaneseDefinition": "供託手続きが正式に完了したことを証明するため、供託所の請求により供託者に対して交付される公的文書。主に債務の履行提供の証拠となる。",
+    "japaneseWordTranslation": "供託完了証明書 (きょうたくかんりょうしょうめいしょ)",
+    "legalContext": "Deposit Act enforcement regulations govern the format and requirements for issuing a Certificate of Deposit Fulfillment, which serves as crucial evidence of performance.",
+    "japaneseLegalContext": "供託規則は、履行の重要な証拠となる供託完了証明書の交付に関する様式及び要件を規定する。",
+    "exampleSentence": "The obligor presented the Certificate of Deposit Fulfillment to the court as evidence that the monetary obligation had been extinguished.",
+    "exampleTranslation": "債務者は、金銭債務が消滅したことの証拠として、供託完了証明書を裁判所に提出した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "evidence",
+        "translation": "証拠"
+      },
+      {
+        "word": "extinguished",
+        "translation": "消滅した"
+      },
+      {
+        "word": "monetary obligation",
+        "translation": "金銭債務"
+      },
+      {
+        "word": "issuing",
+        "translation": "交付"
+      },
+      {
+        "word": "prescribed procedures",
+        "translation": "所定の手続き"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exoneration of Obligation by Consignment",
+    "definition": "The legal consequence defined in the Civil Code where an obligor is formally released from their duty to perform an obligation by depositing the subject matter with a competent deposit office, typically due to the obligee’s refusal or inability to receive performance.",
+    "japaneseDefinition": "債務者が、債権者の受領拒否や受領不能などの法定の供託原因に基づき、債務の目的物を供託所に寄託することで、当該債務の履行義務から解放されるという法律上の効果。",
+    "japaneseWordTranslation": "供託による債務の免責 (きょうたくによるさいむのめんせき)",
+    "legalContext": "Civil Code Art. 494 provides that consignment (deposit) shall effect the discharge of the obligation.",
+    "japaneseLegalContext": "民法第494条: 供託は、債権者が弁済の受領を拒み、又はこれを受領することができないときに、その債務を消滅させる効力を生ずる。",
+    "exampleSentence": "Upon the successful deposit of the funds, the debtor achieved the exoneration of obligation by consignment, eliminating further interest accrual.",
+    "exampleTranslation": "資金の供託が完了したことにより、債務者は供託による債務の免責を得て、それ以上の利息の発生を免れた。",
+    "vocabularyList": [
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "obligee's refusal",
+        "translation": "債権者の受領拒否"
+      },
+      {
+        "word": "inability to receive performance",
+        "translation": "受領不能"
+      },
+      {
+        "word": "legal consequence",
+        "translation": "法律上の効果"
+      },
+      {
+        "word": "interest accrual",
+        "translation": "利息の発生"
+      },
+      {
+        "word": "subject matter",
+        "translation": "目的物"
+      }
+    ]
   }
 ]

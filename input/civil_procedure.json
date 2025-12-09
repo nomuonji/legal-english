@@ -1746,5 +1746,107 @@
         "translation": "管轄権の境界"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Duty of Clarification",
+    "definition": "The court's duty (or power, 釈明権) to question the parties during litigation regarding unclear factual assertions or legal arguments, ensuring the scope of the dispute and the necessary evidence are properly defined.",
+    "japaneseDefinition": "裁判所が、当事者の提出する事実の主張や法律上の主張が不明確である場合、あるいは矛盾をはらむ場合に、その内容を明確にさせるために行う質問や指示の義務。",
+    "japaneseWordTranslation": "釈明義務 (しゃくめいぎむ)",
+    "legalContext": "Code of Civil Procedure (Minji Soshōhō) Art. 149: The presiding judge may question the parties concerning facts and claims or defenses, and demand that they clarify ambiguities.",
+    "japaneseLegalContext": "民事訴訟法第149条: 裁判長は、事実上及び法律上の事項に関し、当事者に質問を発し、又は立証を促すことができる。",
+    "exampleSentence": "The judge exercised the judicial duty of clarification to press the plaintiff for specifics regarding the causal link between the alleged damages and the defendant's action.",
+    "exampleTranslation": "裁判官は、原告に対し、主張された損害と被告の行為との間の因果関係に関する具体的な説明を促すため、釈明権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "Presiding judge",
+        "translation": "裁判長 (さいばんちょう)"
+      },
+      {
+        "word": "Factual assertions",
+        "translation": "事実の主張 (じじつのしゅちょう)"
+      },
+      {
+        "word": "Causal link",
+        "translation": "因果関係 (いんがかんけい)"
+      },
+      {
+        "word": "Scope of the dispute",
+        "translation": "争点整理 (そうてんせいり)"
+      },
+      {
+        "word": "Clarify ambiguities",
+        "translation": "不明確な点を明確にする (ふめいかくなてんをめいかくにする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Final and Binding Judgment",
+    "definition": "A judgment that has become legally definitive, meaning the period for ordinary appeals (kōso or jōkoku) has expired, or all avenues of appeal have been exhausted, granting it conclusive effect.",
+    "japaneseDefinition": "通常の不服申立て（控訴または上告）期間が経過した、またはそれらの手続が終了したことにより、もはや上級裁判所による審査を受けず、確定的な効力を持つことになった判決。",
+    "japaneseWordTranslation": "確定判決 (かくていはんけつ)",
+    "legalContext": "Code of Civil Procedure (Minji Soshōhō) Art. 114: A judgment becomes final and binding upon the lapse of the period for appeal or when the appeal proceedings are concluded.",
+    "japaneseLegalContext": "民事訴訟法第114条: 判決は、上訴期間の満了又は上訴の手続の終了により確定する。",
+    "exampleSentence": "The court issued a certificate stating that the judgment had become final and binding, thereby enabling the plaintiff to proceed with enforcement.",
+    "exampleTranslation": "裁判所は、当該判決が確定判決となった旨の証明書を発行し、これにより原告は執行手続に進むことが可能となった。",
+    "vocabularyList": [
+      {
+        "word": "Legally definitive",
+        "translation": "法律的に確定的な (ほうりつてきにかくていてきな)"
+      },
+      {
+        "word": "Lapse of the period",
+        "translation": "期間の満了 (きかんのまんりょう)"
+      },
+      {
+        "word": "Conclusive effect",
+        "translation": "終局的な効力 (しゅうきょくてきなこうりょく)"
+      },
+      {
+        "word": "Enforcement",
+        "translation": "執行 (しっこう)"
+      },
+      {
+        "word": "Certificate",
+        "translation": "証明書 (しょうめいしょ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Curing of Procedural Defects",
+    "definition": "The mechanism whereby a litigation act that was initially invalid due to a formal defect (such as improper representation or lack of required documents) is subsequently validated if the defect is corrected retrospectively.",
+    "japaneseDefinition": "当初、方式的な瑕疵（たとえば不適法な代理人または書類の不備）によって無効であった訴訟行為が、その瑕疵が後になって是正されることにより、遡及的に有効なものとして取り扱われること。",
+    "japaneseWordTranslation": "訴訟行為の瑕疵の治癒 (そしょうこういのかしのちゆ)",
+    "legalContext": "Code of Civil Procedure, General principles concerning the validity of litigation acts (often applied specifically in provisions regarding service or submission requirements). The intent is to maintain efficiency and minimize the risk of undue dismissal.",
+    "japaneseLegalContext": "民事訴訟法における訴訟行為の有効性に関する一般原則（特に送達や書面提出要件に関する規定において適用されることが多い）。",
+    "exampleSentence": "Although the initial submission was defective due to a missing affidavit, the court allowed the curing of procedural defects when the required document was submitted before the end of the preparatory period.",
+    "exampleTranslation": "当初の提出書類は、必要な宣誓供述書が不足していたため瑕疵があったものの、裁判所は、準備期間が終了する前に当該書類が提出されたため、訴訟行為の瑕疵の治癒を認めた。",
+    "vocabularyList": [
+      {
+        "word": "Litigation act",
+        "translation": "訴訟行為 (そしょうこうい)"
+      },
+      {
+        "word": "Formal defect",
+        "translation": "方式的な瑕疵 (ほうしきてきなかし)"
+      },
+      {
+        "word": "Retrospectively",
+        "translation": "遡及的に (そきゅうてきに)"
+      },
+      {
+        "word": "Affidavit",
+        "translation": "宣誓供述書 (せんせい きょうじゅつしょ)"
+      },
+      {
+        "word": "Undue dismissal",
+        "translation": "不当な却下 (ふとうなきゃっか)"
+      }
+    ]
   }
 ]

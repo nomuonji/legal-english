@@ -1724,5 +1724,119 @@
         "translation": "請求の執行"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Custodian",
+    "definition": "A person, typically a lawyer, appointed by the execution court or execution officer to manage, secure, and potentially sell seized property (especially movable assets) or manage real property under compulsory administration during the execution process.",
+    "japaneseDefinition": "民事執行の過程で、執行裁判所または執行官により選任され、差押えられた動産または管理命令下の不動産を管理、保管、あるいは換価する責任を負う者。",
+    "japaneseWordTranslation": "保管人 (ほかんにん)",
+    "legalContext": "Civil Execution Act Art. 120 (Appointment of a custodian for seized movable property), Art. 95 (Appointment for compulsory administration).",
+    "japaneseLegalContext": "民事執行法第120条（差押え動産等の保管人）、第95条（強制管理の管理人の選任）。",
+    "exampleSentence": "The Execution Custodian was appointed by the court to maintain the attached machinery until the successful auction sale was finalized.",
+    "exampleTranslation": "執行裁判所は、競売による売却が完了するまでの間、差し押さえられた機械の維持管理のために保管人を選任した。",
+    "vocabularyList": [
+      {
+        "word": "attached machinery",
+        "translation": "差し押さえられた機械 (さしおさえられたきかい)"
+      },
+      {
+        "word": "appointed",
+        "translation": "選任された (せんにんされた)"
+      },
+      {
+        "word": "auction sale",
+        "translation": "競売による売却 (けいばいによるばいきゃく)"
+      },
+      {
+        "word": "compulsory administration",
+        "translation": "強制管理 (きょうせいかんり)"
+      },
+      {
+        "word": "maintain",
+        "translation": "維持管理する (いじかんりする)"
+      },
+      {
+        "word": "seized property",
+        "translation": "差押財産 (さしおさえざいさん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order to Vacate",
+    "definition": "A judicial order issued by the execution court, upon motion by the successful bidder (purchaser) of real property, compelling the execution debtor or the property occupant (who lacks a valid lease or other legal title against the bidder) to surrender possession of the foreclosed premises.",
+    "japaneseDefinition": "不動産の競売により買受人となった者の申立てに基づき、執行裁判所が債務者や占有者に対し、当該不動産を明け渡すよう命じる裁判。",
+    "japaneseWordTranslation": "明渡命令 (あけわたしめいれい)",
+    "legalContext": "Civil Execution Act Art. 83-2 (Delivery of real property to purchaser through order to vacate).",
+    "japaneseLegalContext": "民事執行法第83条の2（不動産の引渡命令による明渡し）。",
+    "exampleSentence": "Following the payment of the sales price, the successful bidder immediately filed a motion for an Order to Vacate against the debtor still residing on the foreclosed premises.",
+    "exampleTranslation": "売却代金の納付後、買受人は、競売された物件に居住し続けている債務者に対し、直ちに明渡命令の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "successful bidder",
+        "translation": "買受人 (かいうけにん)"
+      },
+      {
+        "word": "sales price",
+        "translation": "売却代金 (ばいきゃくだいきん)"
+      },
+      {
+        "word": "foreclosed premises",
+        "translation": "競売物件 (けいばいぶっけん)"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て (もうしたて)"
+      },
+      {
+        "word": "residing",
+        "translation": "居住している (きょじゅうしている)"
+      },
+      {
+        "word": "surrender possession",
+        "translation": "占有を明け渡す (せんゆうをあけわたす)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Quasi-Appeal",
+    "definition": "A specific procedural remedy available under Japanese Civil Execution Law, used to challenge decisions, dispositions, or actions taken by the execution officer or certain specific procedural orders issued by the execution court, distinct from a general execution appeal.",
+    "japaneseDefinition": "執行官の処分または執行裁判所の特定の決定に対し、その是正を求めて申し立てる不服申立ての一種。一般の執行抗告とは区別される。",
+    "japaneseWordTranslation": "準抗告 (じゅんこうこく)",
+    "legalContext": "Civil Execution Act Art. 9 (General rules concerning quasi-appeal against dispositions of execution officers and execution courts).",
+    "japaneseLegalContext": "民事執行法第9条（執行官の処分に対する準抗告及び執行裁判所の決定等に対する準抗告に関する一般規定）。",
+    "exampleSentence": "The execution obligor filed a Quasi-Appeal against the execution officer’s decision regarding the seizure of cash assets, arguing procedural irregularity.",
+    "exampleTranslation": "執行債務者は、執行官による現金の差押えに関する決定について、手続上の瑕疵を主張し、準抗告を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "execution obligor",
+        "translation": "執行債務者 (しっこうさいむしゃ)"
+      },
+      {
+        "word": "procedural remedy",
+        "translation": "手続上の救済 (てつづきじょうのきゅうさい)"
+      },
+      {
+        "word": "execution officer",
+        "translation": "執行官 (しっこうかん)"
+      },
+      {
+        "word": "seizure of cash assets",
+        "translation": "現金の差押え (げんきんのさしおさえ)"
+      },
+      {
+        "word": "procedural irregularity",
+        "translation": "手続上の瑕疵 (てつづきじょうのかし)"
+      },
+      {
+        "word": "disposition",
+        "translation": "処分 (しょぶん)"
+      }
+    ]
   }
 ]

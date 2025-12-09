@@ -1634,5 +1634,123 @@
         "translation": "取締役会の決議 (とりしまりやくかいのけつぎ)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order of Correction",
+    "definition": "An administrative instruction issued by the registrar to the applicant, requiring the rectification of defects, deficiencies, or errors in a registration application within a specified period.",
+    "japaneseDefinition": "登記官が登記の申請人に対し、申請書の不備や添付書類の不足などを定めた期間内に訂正・補充するよう求める行政処分。",
+    "japaneseWordTranslation": "補正命令 (Hosei Meirei)",
+    "legalContext": "Commercial Registration Act Art. 24, Item 9 (Implied, referring to defects in application).",
+    "japaneseLegalContext": "商業登記法第24条第9号（申請の却下事由に関連）",
+    "exampleSentence": "If the application for registration of the representative director contains a missing seal impression, the registrar may issue an Order of Correction.",
+    "exampleTranslation": "代表取締役の登記申請に印鑑の不足がある場合、登記官は補正命令を出すことができる。",
+    "vocabularyList": [
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "rectification",
+        "translation": "訂正"
+      },
+      {
+        "word": "deficiency",
+        "translation": "不足"
+      },
+      {
+        "word": "specified period",
+        "translation": "定めた期間"
+      },
+      {
+        "word": "seal impression",
+        "translation": "印鑑"
+      },
+      {
+        "word": "registration application",
+        "translation": "登記申請"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Rejection Disposition",
+    "definition": "A formal decision by the registrar to refuse acceptance of a registration application, usually occurring when the application is non-compliant with legal formalities or when defects noted in an Order of Correction are not cured.",
+    "japaneseDefinition": "登記官が商業登記の申請に対し、法令上の形式要件を満たさない等の理由により、その申請の受理を拒否する決定。",
+    "japaneseWordTranslation": "却下処分 (Kyakka Shobun)",
+    "legalContext": "Commercial Registration Act Art. 24 (Grounds for Rejection).",
+    "japaneseLegalContext": "商業登記法第24条（却下事由）",
+    "exampleSentence": "The application was subject to a Rejection Disposition because the corporate resolution attached as supplementary evidence was deemed invalid.",
+    "exampleTranslation": "添付された補完証拠としての会社決議が無効と判断されたため、その申請は却下処分となった。",
+    "vocabularyList": [
+      {
+        "word": "refuse acceptance",
+        "translation": "受理を拒否する"
+      },
+      {
+        "word": "non-compliant",
+        "translation": "法令に適合しない"
+      },
+      {
+        "word": "legal formalities",
+        "translation": "形式要件"
+      },
+      {
+        "word": "corporate resolution",
+        "translation": "会社決議"
+      },
+      {
+        "word": "supplementary evidence",
+        "translation": "補完証拠"
+      },
+      {
+        "word": "invalid",
+        "translation": "無効"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Filing Fee (Registration and License Tax)",
+    "definition": "A national tax imposed on the registration of specific legal rights or factual matters in public registers, including the establishment, capital increase, or relocation of a company in the Commercial Register.",
+    "japaneseDefinition": "商業登記簿における会社の設立、増資、移転などの登録事項に対し、その法的効力発生の対価として課せられる国税。",
+    "japaneseWordTranslation": "登録免許税 (Tōroku Menkyo Zei)",
+    "legalContext": "Registration and License Tax Act (登録免許税法), Schedule 1.",
+    "japaneseLegalContext": "登録免許税法別表第一",
+    "exampleSentence": "Payment of the statutory Filing Fee is a prerequisite for the acceptance of any commercial registration application, regardless of the nature of the change.",
+    "exampleTranslation": "法定の登録免許税の納付は、変更の性質に関わらず、商業登記申請の受理の前提条件である。",
+    "vocabularyList": [
+      {
+        "word": "national tax",
+        "translation": "国税"
+      },
+      {
+        "word": "imposed on",
+        "translation": "課せられる"
+      },
+      {
+        "word": "establishment",
+        "translation": "設立"
+      },
+      {
+        "word": "capital increase",
+        "translation": "増資"
+      },
+      {
+        "word": "prerequisite",
+        "translation": "前提条件"
+      },
+      {
+        "word": "statutory",
+        "translation": "法定の"
+      },
+      {
+        "word": "acceptance",
+        "translation": "受理"
+      }
+    ]
   }
 ]

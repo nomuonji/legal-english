@@ -1,110 +1,56 @@
 [
-    {
-        "category": "Criminal Code (刑法)",
-        "titleText": "Mastering\nJapanese Legal English",
-        "word": "Self-Defense",
-        "definition": "The right to use reasonable force to protect oneself or others from immediate harm.",
-        "japaneseDefinition": "急迫不正の侵害から自己または他人の権利を防衛するために、やむを得ずした行為。",
-        "japaneseWordTranslation": "正当防衛 (せいとうぼうえい)",
-        "legalContext": "Criminal Code Art. 36: An act performed under unavoidable necessity to protect rights is not punishable.",
-        "japaneseLegalContext": "刑法36条：急迫不正の侵害に対して、自己又は他人の権利を防衛するため、やむを得ずにした行為は、罰しない。",
-        "exampleSentence": "He claimed he acted in self-defense when he struck the attacker.",
-        "exampleTranslation": "彼は攻撃者を殴ったとき、正当防衛で行動したと主張した。",
-        "vocabularyList": [
-            {
-                "word": "Self-Defense",
-                "translation": "正当防衛"
-            },
-            {
-                "word": "Reasonable",
-                "translation": "合理的な/相当な"
-            },
-            {
-                "word": "Force",
-                "translation": "力/武力"
-            },
-            {
-                "word": "Immediate",
-                "translation": "急迫の/即時の"
-            },
-            {
-                "word": "Harm",
-                "translation": "害/侵害"
-            },
-            {
-                "word": "Unavoidable",
-                "translation": "やむを得ない"
-            },
-            {
-                "word": "Necessity",
-                "translation": "必要性"
-            },
-            {
-                "word": "Punishable",
-                "translation": "罰すべき"
-            },
-            {
-                "word": "Attacker",
-                "translation": "攻撃者"
-            },
-            {
-                "word": "Claim",
-                "translation": "主張する"
-            }
-        ]
-    },
-    {
-        "category": "Criminal Code (刑法)",
-        "titleText": "Mastering\nJapanese Legal English",
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Accomplice",
+    "definition": "A person who helps another commit a crime.",
+    "japaneseDefinition": "正犯と協力して犯罪を実行した者。",
+    "japaneseWordTranslation": "共犯 (きょうはん)",
+    "legalContext": "Criminal Code Art. 60: Two or more persons who commit a crime in joint action are all principals.",
+    "japaneseLegalContext": "刑法60条：二人以上共同して犯罪を実行した者は、すべて正犯とする。",
+    "exampleSentence": "The driver was arrested as an accomplice to the robbery.",
+    "exampleTranslation": "運転手は強盗の共犯として逮捕された。",
+    "vocabularyList": [
+      {
         "word": "Accomplice",
-        "definition": "A person who helps another commit a crime.",
-        "japaneseDefinition": "正犯と協力して犯罪を実行した者。",
-        "japaneseWordTranslation": "共犯 (きょうはん)",
-        "legalContext": "Criminal Code Art. 60: Two or more persons who commit a crime in joint action are all principals.",
-        "japaneseLegalContext": "刑法60条：二人以上共同して犯罪を実行した者は、すべて正犯とする。",
-        "exampleSentence": "The driver was arrested as an accomplice to the robbery.",
-        "exampleTranslation": "運転手は強盗の共犯として逮捕された。",
-        "vocabularyList": [
-            {
-                "word": "Accomplice",
-                "translation": "共犯者"
-            },
-            {
-                "word": "Commit",
-                "translation": "犯す"
-            },
-            {
-                "word": "Crime",
-                "translation": "犯罪"
-            },
-            {
-                "word": "Joint",
-                "translation": "共同の"
-            },
-            {
-                "word": "Action",
-                "translation": "行為/行動"
-            },
-            {
-                "word": "Principal",
-                "translation": "正犯"
-            },
-            {
-                "word": "Arrest",
-                "translation": "逮捕する"
-            },
-            {
-                "word": "Robbery",
-                "translation": "強盗"
-            },
-            {
-                "word": "Driver",
-                "translation": "運転手"
-            },
-            {
-                "word": "Help",
-                "translation": "助ける"
-            }
-        ]
-    }
+        "translation": "共犯者"
+      },
+      {
+        "word": "Commit",
+        "translation": "犯す"
+      },
+      {
+        "word": "Crime",
+        "translation": "犯罪"
+      },
+      {
+        "word": "Joint",
+        "translation": "共同の"
+      },
+      {
+        "word": "Action",
+        "translation": "行為/行動"
+      },
+      {
+        "word": "Principal",
+        "translation": "正犯"
+      },
+      {
+        "word": "Arrest",
+        "translation": "逮捕する"
+      },
+      {
+        "word": "Robbery",
+        "translation": "強盗"
+      },
+      {
+        "word": "Driver",
+        "translation": "運転手"
+      },
+      {
+        "word": "Help",
+        "translation": "助ける"
+      }
+    ]
+  }
 ]

@@ -1620,5 +1620,119 @@
         "translation": "条件"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit for Relief from Provisional Attachment",
+    "definition": "A sum of money (security) deposited by the preservation debtor with the competent court, which, when accepted, serves as a substitute for the property that was provisionally attached, leading to the revocation of the attachment.",
+    "japaneseDefinition": "保全債務者が、仮差押の目的物にかえて、差押えの執行を解くために裁判所に供託する金銭のこと。",
+    "japaneseWordTranslation": "仮差押解放金 (かりさしおさえかいほうきん)",
+    "legalContext": "Civil Preservation Act Art. 23 (2): The court may revoke the provisional attachment upon the debtor's provision of the security sum equivalent to the claim amount.",
+    "japaneseLegalContext": "民事保全法第二十三条第二項：裁判所は、債務者の申立てにより、その申立てに係る金額を供託することを条件として、仮差押の決定を取り消すことができる。",
+    "exampleSentence": "The preservation debtor deposited the Deposit for Relief from Provisional Attachment, thereby securing the immediate revocation of the provisional attachment order on their commercial real estate.",
+    "exampleTranslation": "保全債務者は仮差押解放金を供託し、これにより商業用不動産に対する仮差押命令の即時取消しを確保した。",
+    "vocabularyList": [
+      {
+        "word": "security sum",
+        "translation": "担保金 (tanpakin)"
+      },
+      {
+        "word": "substitute",
+        "translation": "代替物 (daitaibutsu)"
+      },
+      {
+        "word": "revocation",
+        "translation": "取消し (torikeshi)"
+      },
+      {
+        "word": "provisionally attached",
+        "translation": "仮差押された (karisashi'osareta)"
+      },
+      {
+        "word": "commercial real estate",
+        "translation": "商業用不動産 (shōgyōyō fudōsan)"
+      },
+      {
+        "word": "competent court",
+        "translation": "管轄裁判所 (kankatsu saibansho)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Method Designation (of Preservation)",
+    "definition": "The court’s power, primarily relating to provisional disposition, to specify the precise means, procedures, or content by which the preservation order is to be implemented, often used when the enforcement involves complex rights or non-standard property.",
+    "japaneseDefinition": "裁判所が保全命令の執行に際して、その具体的手段、手続き、または内容を定めること。特に仮の地位を定める仮処分において重要となる。",
+    "japaneseWordTranslation": "保全執行の方法指定 (ほぜんしっこうのほうほうしてい)",
+    "legalContext": "Civil Preservation Act Art. 51 (1): The enforcement court shall designate the specific method of execution for a provisional disposition unless otherwise prescribed.",
+    "japaneseLegalContext": "民事保全法第五十一条第一項：仮処分の執行は、裁判所が執行官に対し保全執行の方法を指示すること等による。",
+    "exampleSentence": "Due to the unique nature of the intellectual property right at issue, the preservation court issued an Execution Method Designation detailing specific steps the execution officer must follow.",
+    "exampleTranslation": "係争中の知的財産権の特殊性のため、保全裁判所は執行官が従うべき特定の段階を詳述する保全執行の方法指定を発した。",
+    "vocabularyList": [
+      {
+        "word": "precise means",
+        "translation": "具体的手段 (gutaiteki shudan)"
+      },
+      {
+        "word": "implemented",
+        "translation": "実行される (jikkō sareru)"
+      },
+      {
+        "word": "intellectual property right",
+        "translation": "知的財産権 (chiteki zaisanken)"
+      },
+      {
+        "word": "execution officer",
+        "translation": "執行官 (shikkōkan)"
+      },
+      {
+        "word": "non-standard property",
+        "translation": "非定型財産 (hiteikei zaisan)"
+      },
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分 (karishobun)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action to Contest Preservation Enforcement",
+    "definition": "A lawsuit filed by the preservation debtor against the preservation obligee seeking the cessation or modification of the ongoing preservation enforcement procedures, based on grounds that occurred after the issuance of the preservation order (e.g., satisfaction or extinguishment of the preserved right).",
+    "japaneseDefinition": "保全命令が発令された後に生じた事由（被保全権利の消滅や債務の弁済など）を根拠として、保全執行の排除または変更を求めるために保全債務者が提起する訴訟。",
+    "japaneseWordTranslation": "保全執行に対する異議の訴え (ほぜんしっこうにたいするいぎのうったえ)",
+    "legalContext": "Civil Preservation Act Art. 45 (1): The obligor may file an action against the obligee seeking the rescission of the preservation enforcement, on the grounds that the preserved right has been extinguished or satisfied.",
+    "japaneseLegalContext": "民事保全法第四十五条第一項：債務者は、被保全権利が消滅したことその他保全執行を許すことが不当である事を理由として、保全執行の取消しを求める訴えを提起することができる。",
+    "exampleSentence": "Following the full repayment of the underlying loan, the debtor filed an Action to Contest Preservation Enforcement to immediately lift the provisional disposition that had frozen their company's bank accounts.",
+    "exampleTranslation": "基礎となる融資が完済されたことを受け、債務者は、自社の銀行口座を凍結していた仮処分の即時解除を求めて保全執行に対する異議の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "cessation",
+        "translation": "停止 (teishi)"
+      },
+      {
+        "word": "satisfaction (of obligation)",
+        "translation": "弁済 (bensai)"
+      },
+      {
+        "word": "extinguishment",
+        "translation": "消滅 (shōmetsu)"
+      },
+      {
+        "word": "underlying loan",
+        "translation": "基礎となる融資 (kiso to naru yūshi)"
+      },
+      {
+        "word": "ongoing enforcement",
+        "translation": "進行中の執行 (shinkōchū no shikkō)"
+      },
+      {
+        "word": "preservation obligee",
+        "translation": "保全債権者 (hozen saikensha)"
+      }
+    ]
   }
 ]

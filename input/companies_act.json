@@ -1618,5 +1618,119 @@
         "translation": "払込金額 (はらいこみきんがく)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restriction on Transfer of Shares",
+    "definition": "A provision stipulated in the Articles of Incorporation requiring the company's approval (usually by the Board of Directors or shareholders) for shareholders to transfer their shares to a third party. This provision is characteristic of closely held companies.",
+    "japaneseDefinition": "株主がその保有する株式を第三者に譲渡する際、会社の承認（通常は取締役会または株主総会）を要する旨を定款に定める規定。非公開会社に必須の制度。",
+    "japaneseWordTranslation": "株式譲渡制限 (かぶしきじょうとせいげん)",
+    "legalContext": "Companies Act Art. 2(v): Defines a Company with Restriction on Transfer of Shares (譲渡制限会社).",
+    "japaneseLegalContext": "会社法第2条第5号：譲渡制限会社に関する定義。",
+    "exampleSentence": "The company's status as a closely held company is primarily defined by the Restriction on Transfer of Shares stipulated in its Articles of Incorporation.",
+    "exampleTranslation": "その会社が非公開会社であるという地位は、主に定款に規定された株式譲渡制限によって定義される。",
+    "vocabularyList": [
+      {
+        "word": "closely held company",
+        "translation": "非公開会社"
+      },
+      {
+        "word": "Articles of Incorporation",
+        "translation": "定款"
+      },
+      {
+        "word": "transfer",
+        "translation": "譲渡"
+      },
+      {
+        "word": "stipulated",
+        "translation": "規定された"
+      },
+      {
+        "word": "provision",
+        "translation": "規定"
+      },
+      {
+        "word": "shareholder",
+        "translation": "株主"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Share Unit",
+    "definition": "A number of shares designated in the Articles of Incorporation as a basic trading unit. Shareholders holding less than one unit generally cannot exercise voting rights in relation to the shares that constitute the fractional portion.",
+    "japaneseDefinition": "定款により定められた株式の数で、取引の基本単位となるもの。単元未満株主は原則として議決権を行使できない。",
+    "japaneseWordTranslation": "単元株 (たんげんかぶ)",
+    "legalContext": "Companies Act Art. 188: Determination of Share Unit (単元株式数の決定).",
+    "japaneseLegalContext": "会社法第188条：単元株式数の決定。",
+    "exampleSentence": "The company, which is listed on the stock exchange, must establish a Share Unit in its Articles of Incorporation to manage the effective exercise of voting rights.",
+    "exampleTranslation": "株式市場に上場している当該会社は、議決権の有効な行使を管理するため、定款に単元株を設けなければならない。",
+    "vocabularyList": [
+      {
+        "word": "listed company",
+        "translation": "上場会社"
+      },
+      {
+        "word": "voting rights",
+        "translation": "議決権"
+      },
+      {
+        "word": "designated",
+        "translation": "指定された"
+      },
+      {
+        "word": "fractional portion",
+        "translation": "単元未満部分"
+      },
+      {
+        "word": "establish",
+        "translation": "設ける/定める"
+      },
+      {
+        "word": "exercise (rights)",
+        "translation": "行使する"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Business Report",
+    "definition": "A document prepared by the directors detailing the general status of the company's operations, financial performance, and other significant non-financial matters during a fiscal year, which must be presented at the Annual Shareholders Meeting.",
+    "japaneseDefinition": "取締役が作成する文書で、事業年度における会社の事業の概況、財務成績、その他重要な非財務事項を記載し、定時株主総会に提出される。",
+    "japaneseWordTranslation": "事業報告 (じぎょうほうこく)",
+    "legalContext": "Companies Act Art. 435: Requirement for directors to prepare a Business Report and accompanying documents for the ordinary Shareholders Meeting.",
+    "japaneseLegalContext": "会社法第435条：計算書類等及び事業報告の定時株主総会への提出義務。",
+    "exampleSentence": "In addition to the financial statements, the Business Report must accurately reflect the company’s current operational status and any material changes in its structure.",
+    "exampleTranslation": "計算書類に加え、事業報告は、会社の現在の事業状況及び組織における重要な変更を正確に反映しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "operational status",
+        "translation": "事業状況"
+      },
+      {
+        "word": "fiscal year",
+        "translation": "事業年度"
+      },
+      {
+        "word": "directors",
+        "translation": "取締役"
+      },
+      {
+        "word": "material changes",
+        "translation": "重要な変更"
+      },
+      {
+        "word": "accompanying documents",
+        "translation": "附属明細書"
+      },
+      {
+        "word": "Annual Shareholders Meeting",
+        "translation": "定時株主総会"
+      }
+    ]
   }
 ]

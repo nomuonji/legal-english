@@ -1532,5 +1532,119 @@
         "translation": "資金の回収 (しきんのかいしゅう)"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designated Financial Institution",
+    "definition": "A bank or other financial entity designated by the Minister of Justice, or head of the Deposit Office, responsible for managing and holding cash funds that have been formally deposited (consigned) under the Deposit Act.",
+    "japaneseDefinition": "法務大臣または供託所の長官によって指定され、供託法に基づいて正式に供託された金銭を管理・保管する責任を負う銀行その他の金融機関。",
+    "japaneseWordTranslation": "指定金融機関 (していきんゆうきかん)",
+    "legalContext": "Deposit Act (供託法) regulations regarding the handling and storage of consigned cash assets.",
+    "japaneseLegalContext": "供託法における供託された金銭資産の取り扱い及び保管に関する規定。",
+    "exampleSentence": "The Deposit Office directed the obligor to transfer the consigned cash amount to the account held by the Designated Financial Institution.",
+    "exampleTranslation": "供託所は、債務者に対し、供託された金銭を、指定金融機関が保有する口座へ振り込むよう指示した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "transfer",
+        "translation": "振り込む (ふりこむ)"
+      },
+      {
+        "word": "cash amount",
+        "translation": "金銭の額 (きんせんのがく)"
+      },
+      {
+        "word": "account",
+        "translation": "口座 (こうざ)"
+      },
+      {
+        "word": "directed",
+        "translation": "指示した (しじした)"
+      },
+      {
+        "word": "regulations",
+        "translation": "規定 (きてい)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Recipient Designation",
+    "definition": "The procedural requirement for the depositor to precisely identify and specify the person or entity entitled to receive the deposited property, necessary for the deposit to effectively discharge the underlying obligation.",
+    "japaneseDefinition": "供託者が、供託された財産を受け取る権利を有する人物または団体を正確に特定し指定する手続き上の要件。これは供託が原債務を有効に消滅させるために必要である。",
+    "japaneseWordTranslation": "供託物受領者の指定 (きょうたくぶつじゅりょうしゃのしてい)",
+    "legalContext": "Required procedure under the Deposit Act when making a deposit for performance (弁済供託), particularly when the identity of the recipient is contested or uncertain.",
+    "japaneseLegalContext": "弁済供託を行う際の供託法上の必要な手続き。特に受領者の身元が争われているか不確実な場合。",
+    "exampleSentence": "Accurate deposit recipient designation is critical for the deposited funds to have the effect of discharging the original obligation, thereby avoiding further interest accrual.",
+    "exampleTranslation": "供託物受領者の正確な指定は、供託金が原債務を消滅させる効力を持ち、ひいてはそれ以上の利息発生を回避するために重要である。",
+    "vocabularyList": [
+      {
+        "word": "accurately",
+        "translation": "正確に (せいかくに)"
+      },
+      {
+        "word": "critical",
+        "translation": "重要である (じゅうようである)"
+      },
+      {
+        "word": "discharging",
+        "translation": "消滅させる (しょうめつさせる)"
+      },
+      {
+        "word": "underlying obligation",
+        "translation": "原債務 (げんさいむ)"
+      },
+      {
+        "word": "accrual",
+        "translation": "発生 (はっせい)"
+      },
+      {
+        "word": "contested",
+        "translation": "争われている (あらそわれている)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Public Notice of Deposit",
+    "definition": "The administrative procedure undertaken by the Deposit Office to publicly announce the details of a deposit, often mandated when the obligee’s identity is unknown or their whereabouts are uncertain, ensuring transparency and providing notice to potential claimants.",
+    "japaneseDefinition": "供託所が行う、供託の詳細を公的に告知する行政手続き。債権者の身元が不明な場合や所在が不確実な場合に義務付けられることが多く、透明性を確保し、潜在的な請求権者へ通知を行う。",
+    "japaneseWordTranslation": "供託の公告 (きょうたくのこうこく)",
+    "legalContext": "Deposit Act provisions concerning transparency and notification procedures when the obligee cannot be personally notified of the deposit.",
+    "japaneseLegalContext": "債権者に供託の個人的な通知ができない場合の透明性と通知手続きに関する供託法の規定。",
+    "exampleSentence": "Due to the lack of updated contact information for the claimant, the Deposit Office proceeded with the Public Notice of Deposit as prescribed by the regulations.",
+    "exampleTranslation": "請求権者の連絡先情報が更新されていなかったため、供託所は規定に従って供託の公告手続きを進めた。",
+    "vocabularyList": [
+      {
+        "word": "mandated",
+        "translation": "義務付けられた (ぎむづけられた)"
+      },
+      {
+        "word": "transparency",
+        "translation": "透明性 (とうめいせい)"
+      },
+      {
+        "word": "claimants",
+        "translation": "請求権者 (せいきゅうけんしゃ)"
+      },
+      {
+        "word": "lack of",
+        "translation": "欠如 (けつじょ)"
+      },
+      {
+        "word": "prescribed",
+        "translation": "規定された (きていされた)"
+      },
+      {
+        "word": "proceeded with",
+        "translation": "進めた (すすめた)"
+      }
+    ]
   }
 ]

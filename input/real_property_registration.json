@@ -1512,5 +1512,81 @@
         "translation": "単独で"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Building Type",
+    "definition": "A mandatory item registered in the Record of Description (Hyōdaibu) for a building, indicating its primary structural use or purpose (e.g., dwelling house, store, factory).",
+    "japaneseDefinition": "建物の登記簿の表題部に必ず記載される事項の一つであり、建物の主たる用途や構造上の種類（例：居宅、店舗、工場）を示す。",
+    "japaneseWordTranslation": "建物の種類 (たてもののしゅるい)",
+    "legalContext": "Real Property Registration Act Art. 27 (iii): Matters to be Registered in the Record of Description: 'When a registration is made with regard to a building, the following matters shall be registered... (iii) the building type.'",
+    "japaneseLegalContext": "不動産登記法第27条第3号：表題部に登記すべき事項「建物の登記をする場合には、次に掲げる事項を登記しなければならない...（三）建物の種類」",
+    "exampleSentence": "Due to a change in usage from a dwelling house to a commercial office, the owner must file a registration application for amendment of the Building Type within one month.",
+    "exampleTranslation": "居宅から商業オフィスへの用途変更のため、所有者は建物の種類の変更登記申請を1か月以内に行わなければならない。",
+    "vocabularyList": [
+      {
+        "word": "mandatory item",
+        "translation": "必須事項"
+      },
+      {
+        "word": "Record of Description",
+        "translation": "表題部"
+      },
+      {
+        "word": "structural use",
+        "translation": "構造上の用途"
+      },
+      {
+        "word": "dwelling house",
+        "translation": "居宅"
+      },
+      {
+        "word": "commercial office",
+        "translation": "商業オフィス"
+      },
+      {
+        "word": "registration application for amendment",
+        "translation": "変更登記申請"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Application Information",
+    "definition": "The data or document, often submitted electronically, containing all statutory particulars required for the registrar to execute a registration, including the applicants' details, the property subject to registration, and the cause of registration.",
+    "japaneseDefinition": "登記官が登記を実行するために必要な、申請人の詳細、登記対象不動産、登記原因など、法定の特定事項をすべて含む、電磁的記録等で提供される情報。",
+    "japaneseWordTranslation": "申請情報 (しんせいじょうほう)",
+    "legalContext": "Real Property Registration Act Art. 18: Method of Registration Application: 'Applications for registration shall be filed by providing application information and appended documents to the registry office.'",
+    "japaneseLegalContext": "不動産登記法第18条：登記の申請方法「登記の申請は、申請情報と併せて提供しなければならない添付情報とを登記所に提供してしなければならない。」",
+    "exampleSentence": "Failure to include the correct registration cause in the Application Information will likely result in the rejection of the application by the registry office.",
+    "exampleTranslation": "申請情報に正しい登記原因を含めなかった場合、登記所によって申請が却下される可能性が高い。",
+    "vocabularyList": [
+      {
+        "word": "statutory particulars",
+        "translation": "法定の特定事項"
+      },
+      {
+        "word": "appended documents",
+        "translation": "添付情報（添付書類）"
+      },
+      {
+        "word": "execute a registration",
+        "translation": "登記を実行する"
+      },
+      {
+        "word": "cause of registration",
+        "translation": "登記原因"
+      },
+      {
+        "word": "rejection of the application",
+        "translation": "申請の却下"
+      },
+      {
+        "word": "property subject to registration",
+        "translation": "登記対象不動産"
+      }
+    ]
   }
 ]

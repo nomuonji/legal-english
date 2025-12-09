@@ -2,40 +2,6 @@
   {
     "category": "Civil Preservation (民事保全法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Provisional Disposition",
-    "definition": "A temporary court order to preserve the status quo or establish a temporary legal relationship regarding a disputed right.",
-    "japaneseDefinition": "係争物に関する権利関係の変動を防ぐため、または現在の危険を避けるために、裁判所が命じる暫定的な処置。",
-    "japaneseWordTranslation": "仮処分 (かりしょぶん)",
-    "legalContext": "Civil Preservation Act Art. 23: An order for provisional disposition may be issued to preserve the status quo of the subject matter.",
-    "japaneseLegalContext": "民事保全法第23条：係争物に関する仮処分命令は、その現状の変更により権利を実行することができなくなるおそれがあるときに発することができる。",
-    "exampleSentence": "The court issued a provisional disposition prohibiting the transfer of the property.",
-    "exampleTranslation": "裁判所は不動産の処分禁止の仮処分を発令した。",
-    "vocabularyList": [
-      {
-        "word": "Status quo",
-        "translation": "現状"
-      },
-      {
-        "word": "Disputed right",
-        "translation": "係争権利"
-      },
-      {
-        "word": "Prohibit",
-        "translation": "禁止する"
-      },
-      {
-        "word": "Transfer",
-        "translation": "移転/処分"
-      },
-      {
-        "word": "Property",
-        "translation": "不動産/財産"
-      }
-    ]
-  },
-  {
-    "category": "Civil Preservation (民事保全法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Security Deposit",
     "definition": "Money deposited by a party as a condition for the issuance or stay of a provisional order, to cover potential damages to the other party.",
     "japaneseDefinition": "保全命令の発令や執行停止の条件として、相手方の損害を担保するために提供される金銭。",
@@ -1538,6 +1504,120 @@
       {
         "word": "real estate",
         "translation": "不動産 (fudōsan)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Security",
+    "definition": "The money or securities deposited by the obligee with the court to compensate the debtor for any damage caused by the enforcement of the preservation order, should the obligee subsequently fail to prevail in the principal action.",
+    "japaneseDefinition": "保全命令の執行により債務者が被るかもしれない損害を担保するために、債権者が裁判所に供託する金銭または有価証券。",
+    "japaneseWordTranslation": "保全担保 (ほぜんたんぽ)",
+    "legalContext": "Civil Preservation Law Art. 14: Provision of security (担保の提供) is generally required before a preservation order is issued.",
+    "japaneseLegalContext": "民事保全法第14条: 保全命令の申立てがあった場合において、保全命令を発することによる債務者の損害を償うため裁判所が定める額の担保を立てさせなければならない。",
+    "exampleSentence": "The court ordered the preservation obligee to post adequate Preservation Security before the provisional attachment could be executed against the debtor's assets.",
+    "exampleTranslation": "裁判所は、債務者の財産に対する仮差押えが執行される前に、保全債権者に対し十分な保全担保を立てるよう命じた。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "compensate",
+        "translation": "償う/賠償する"
+      },
+      {
+        "word": "principal action",
+        "translation": "本案の訴訟"
+      },
+      {
+        "word": "post (security)",
+        "translation": "供託する"
+      },
+      {
+        "word": "adequate",
+        "translation": "十分な"
+      },
+      {
+        "word": "assets",
+        "translation": "財産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Risk of Impaired Execution",
+    "definition": "The required factual finding in the preservation process, indicating the risk that if the preservation measure is not immediately granted, the subsequent compulsory execution based on the final judgment will become impossible or significantly difficult.",
+    "japaneseDefinition": "将来の強制執行が不能となるか、又は著しく困難となるおそれがあること。金銭債権を保全するための仮差押え命令を発動するための要件の一つ。",
+    "japaneseWordTranslation": "執行困難のおそれ (しっこうこんなんのおそれ)",
+    "legalContext": "Civil Preservation Law Art. 20 (1): A provisional seizure order shall be issued when there is a risk that execution will become impossible or significantly difficult.",
+    "japaneseLegalContext": "民事保全法第20条第1項: 仮差押えの命令は、金銭債権につき、強制執行をすることが不能又は著しく困難となるおそれがあるときに発することができる。",
+    "exampleSentence": "The petitioner failed to demonstrate a convincing Risk of Impaired Execution, as the debtor's financial health appeared stable and their assets were readily ascertainable.",
+    "exampleTranslation": "債務者の財務状態は安定しており、その資産は容易に確認できたため、申立人は説得力のある執行困難のおそれを立証できなかった。",
+    "vocabularyList": [
+      {
+        "word": "petitioner",
+        "translation": "申立人"
+      },
+      {
+        "word": "demonstrate",
+        "translation": "立証する"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "subsequent",
+        "translation": "将来の"
+      },
+      {
+        "word": "ascertainable",
+        "translation": "確認可能である"
+      },
+      {
+        "word": "financial health",
+        "translation": "財務状態"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Appeal",
+    "definition": "A formal appeal (kōkoku) against a decision issued by the Preservation Court regarding a motion for a preservation order, such as the denial of the motion or the order itself.",
+    "japaneseDefinition": "保全命令の申立てに関する裁判所の決定、例えば申立てを却下する決定や命令を発する決定に対する不服申し立て手続き。",
+    "japaneseWordTranslation": "保全抗告 (ほぜんこうこく)",
+    "legalContext": "Civil Preservation Law Art. 19 (1): An appeal against a ruling concerning a preservation order shall be made by way of Preservation Appeal.",
+    "japaneseLegalContext": "民事保全法第19条第1項: 保全命令に関する決定に対する不服申立ては、保全抗告による。",
+    "exampleSentence": "Dissatisfied with the terms of the provisional injunction, the preservation debtor immediately filed a Preservation Appeal with the higher court.",
+    "exampleTranslation": "仮の差止め命令の条件に不満を持った保全債務者は、直ちに上級裁判所に保全抗告を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "dissatisfied",
+        "translation": "不満な"
+      },
+      {
+        "word": "ruling",
+        "translation": "決定"
+      },
+      {
+        "word": "denial",
+        "translation": "却下"
+      },
+      {
+        "word": "higher court",
+        "translation": "上級裁判所"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "terms",
+        "translation": "条件"
       }
     ]
   }

@@ -1630,5 +1630,119 @@
         "translation": "合意 (ごうい)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Real Right (Proprietary Right)",
+    "definition": "A right held directly over a specific thing (property), enforceable against all others (erga omnes), establishing a direct relationship between the right holder and the thing itself, such as ownership or security interests.",
+    "japaneseDefinition": "特定物に対する直接的な支配権であり、所有権や担保物権などが含まれる。全ての人に対して主張できる効力（絶対性）を持つ。",
+    "japaneseWordTranslation": "ぶっけん (bukken)",
+    "legalContext": "Civil Code, Book II (物権): Real Rights are governed by the principle of numerus clausus (物権法定主義), meaning rights can only be created by law or customary law.",
+    "japaneseLegalContext": "民法第175条（物権法定主義）: 物権は、法律に定めるもののほか、慣習によるものでなければ、創設することができない。",
+    "exampleSentence": "The transferee demanded that the seller perfect the Real Right of ownership through registration immediately following the conclusion of the sales agreement.",
+    "exampleTranslation": "譲受人は、売主に対し、売買契約の締結後直ちに所有権の物権を登記によって対抗要件を備えるよう要求した。",
+    "vocabularyList": [
+      {
+        "word": "transferee",
+        "translation": "譲受人 (jōjunin)"
+      },
+      {
+        "word": "ownership",
+        "translation": "所有権 (shoyūken)"
+      },
+      {
+        "word": "perfection",
+        "translation": "対抗要件を備える (taikō yōken o sonaeru)"
+      },
+      {
+        "word": "registration",
+        "translation": "登記 (tōki)"
+      },
+      {
+        "word": "numerus clausus",
+        "translation": "法定主義 (hōtei shugi)"
+      },
+      {
+        "word": "sales agreement",
+        "translation": "売買契約 (baibai keiyaku)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Juridical Act (Legal Act)",
+    "definition": "An act intending to create, alter, or extinguish legal rights or obligations, where the resulting legal effect (e.g., the formation of a contract or a will) is determined primarily by the content of the actor's declaration of intent.",
+    "japaneseDefinition": "権利義務の発生、変更、消滅を意図する行為であり、その法的な効果が、行為者の意思表示の内容に従って発生するもの（契約や遺言など）。",
+    "japaneseWordTranslation": "ほうりつこうい (hōritsu kōi)",
+    "legalContext": "Civil Code Art. 90: A juridical act that has for its purpose an order which is contrary to public policy or good morals is void.",
+    "japaneseLegalContext": "民法第90条: 公の秩序又は善良の風俗に反する事項を目的とする法律行為は、無効とする。",
+    "exampleSentence": "In Japanese civil law, a contract is categorized as a bilateral juridical act, requiring the declarations of intent of two or more parties.",
+    "exampleTranslation": "日本の民法では、契約は、二人以上の当事者の意思表示を要する双務的法律行為として分類される。",
+    "vocabularyList": [
+      {
+        "word": "bilateral",
+        "translation": "双務的 (sōmuteki)"
+      },
+      {
+        "word": "declaration of intent",
+        "translation": "意思表示 (ishi hyōji)"
+      },
+      {
+        "word": "void",
+        "translation": "無効 (mukō)"
+      },
+      {
+        "word": "public policy",
+        "translation": "公の秩序 (ōyake no chitsujo)"
+      },
+      {
+        "word": "extinguish",
+        "translation": "消滅させる (shōmetsu saseru)"
+      },
+      {
+        "word": "will",
+        "translation": "遺言 (igon)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Fruits (Legal)",
+    "definition": "Periodic monetary or non-monetary yields gained as consideration for the use of a principal thing, such as rent derived from leasing land or interest accrued on deposited funds.",
+    "japaneseDefinition": "物の使用の対価として受けるべき金銭その他の物。土地の賃貸料や金銭の利息など、法律関係に基づいて発生する収益。",
+    "japaneseWordTranslation": "ほうていかじつ (hōtei kajitsu)",
+    "legalContext": "Civil Code Art. 89 (2): Legal fruits shall belong to the person who has the right to use the principal thing for the period in which they accrue.",
+    "japaneseLegalContext": "民法第89条第2項: 法定果実は、これを収取する権利の存続期間に応じて、これを取得する。",
+    "exampleSentence": "The dispute centered on whether the accumulated dividends from the shares constituted Legal Fruits attributable to the registered owner or to the interim beneficiary.",
+    "exampleTranslation": "その紛争は、株式からの累積配当が登記された所有者に帰属する法定果実であるか、それとも暫定的な受益者に帰属するかどうかに集中した。",
+    "vocabularyList": [
+      {
+        "word": "dividends",
+        "translation": "配当 (haitō)"
+      },
+      {
+        "word": "accrue",
+        "translation": "発生する (hassei suru)"
+      },
+      {
+        "word": "principal thing",
+        "translation": "元物 (motomono)"
+      },
+      {
+        "word": "attributable",
+        "translation": "帰属する (kizoku suru)"
+      },
+      {
+        "word": "interim beneficiary",
+        "translation": "暫定的な受益者 (zantei-teki na juyōsha)"
+      },
+      {
+        "word": "rent",
+        "translation": "賃貸料 (chintai-ryō)"
+      }
+    ]
   }
 ]

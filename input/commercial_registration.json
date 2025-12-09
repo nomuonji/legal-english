@@ -1524,5 +1524,115 @@
         "translation": "法人格 (ほうじんかく)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-penal Fine",
+    "definition": "A civil fine (administrative penalty) imposed by the court on directors, executive officers, or liquidators for failing to fulfill mandatory registration obligations within the prescribed period under the Companies Act or Commercial Registration Act.",
+    "japaneseDefinition": "会社法や商業登記法に定められた登記を所定の期間内に行わなかった役員等に対し、裁判所が科す行政上の制裁金。",
+    "japaneseWordTranslation": "過料 (かりょう)",
+    "legalContext": "Commercial Registration Act Art. 138 (Application of Non-penal Fine Provisions), Companies Act Art. 976 (Punishment of Non-penal Fine).",
+    "japaneseLegalContext": "商業登記法第138条（過料の規定の適用）、会社法第976条（過料に処すべき行為）。",
+    "exampleSentence": "The former representative director was subject to a **non-penal fine** for failing to register the relocation of the head office within the required two-week period, constituting a breach of duty.",
+    "exampleTranslation": "前代表取締役は、本店移転の登記を所定の二週間以内に行わなかったため、義務違反として**過料**に処せられた。",
+    "vocabularyList": [
+      {
+        "word": "subject to",
+        "translation": "〜に処せられる"
+      },
+      {
+        "word": "relocation of the head office",
+        "translation": "本店移転 (ほんてんいてん)"
+      },
+      {
+        "word": "prescribed period",
+        "translation": "所定の期間 (しょていのきかん)"
+      },
+      {
+        "word": "breach of duty",
+        "translation": "義務違反 (ぎむいはん)"
+      },
+      {
+        "word": "liquidator",
+        "translation": "清算人 (せいさんにん)"
+      },
+      {
+        "word": "mandatory registration obligations",
+        "translation": "強制的な登記義務 (きょうせいてきなとうきぎむ)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration by Court Order",
+    "definition": "A type of registration executed pursuant to a specific directive or order issued by a court, often used to reflect changes resulting from corporate litigation or to enforce compliance when a company neglects its registration duty.",
+    "japaneseDefinition": "会社の申請ではなく、裁判所からの命令や嘱託（しょくたく）に基づいて行われる登記。会社の代表者選任に関する訴訟の結果等を反映させるために用いられる。",
+    "japaneseWordTranslation": "裁判所の命令による登記 (さいばんしょのめいれいによるとうき)",
+    "legalContext": "Commercial Registration Act Art. 25 (Registration by Virtue of Authority or Requisition), applied when a court orders the registry office to execute the registration.",
+    "japaneseLegalContext": "商業登記法第25条（職権又は嘱託による登記）を根拠として、裁判所が登記所に登記の実行を命じる場合。",
+    "exampleSentence": "Following the ruling in the dispute over management rights, the registry office completed the removal of the former directors through a **registration by court order**.",
+    "exampleTranslation": "経営権に関する紛争の判決を受け、登記所は元取締役の解任を**裁判所の命令による登記**により実行した。",
+    "vocabularyList": [
+      {
+        "word": "dispute over management rights",
+        "translation": "経営権に関する紛争 (けいえいけんにかんするふんそう)"
+      },
+      {
+        "word": "ruling",
+        "translation": "判決 (はんけつ)"
+      },
+      {
+        "word": "removal",
+        "translation": "解任 (かいにん)"
+      },
+      {
+        "word": "execute the registration",
+        "translation": "登記を実行する (とうきをじっこうする)"
+      },
+      {
+        "word": "registry office",
+        "translation": "登記所 (とうきしょ)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certificate of Payment",
+    "definition": "A document certifying that the full amount of money designated for the subscription of shares or contribution to capital has been received by the specified financial institution, required as a mandatory attachment for capital registration applications.",
+    "japaneseDefinition": "株式の引き受けまたは出資に対する払込金全額が指定された金融機関によって受領されたことを証明する書類。資本に関する登記申請に際して義務付けられる添付書面である。",
+    "japaneseWordTranslation": "払込証明書 (はらいこみしょうめいしょ)",
+    "legalContext": "Commercial Registration Act Art. 47 (Registration of Incorporation), Companies Act Art. 93 (Required documents for Registration of Changes).",
+    "japaneseLegalContext": "商業登記法第47条（設立の登記）、会社法第93条（変更の登記に必要な書面）。",
+    "exampleSentence": "To successfully register the capital increase, the company must submit the resolutions of the board and the official **certificate of payment** issued by the receiving bank.",
+    "exampleTranslation": "増資の登記を完了するためには、会社は取締役会の決議と、払込取扱銀行が発行した正式な**払込証明書**を提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "capital increase",
+        "translation": "増資 (ぞうし)"
+      },
+      {
+        "word": "subscription of shares",
+        "translation": "株式の引き受け (かぶしきのひきうけ)"
+      },
+      {
+        "word": "contribution to capital",
+        "translation": "出資 (しゅっし)"
+      },
+      {
+        "word": "receiving bank",
+        "translation": "払込取扱銀行 (はらいこみとりあつかいぎんこう)"
+      },
+      {
+        "word": "mandatory attachment",
+        "translation": "義務付けられた添付書面 (ぎむづけられたてんぷしょめん)"
+      },
+      {
+        "word": "resolutions of the board",
+        "translation": "取締役会の決議 (とりしまりやくかいのけつぎ)"
+      }
+    ]
   }
 ]

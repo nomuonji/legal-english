@@ -1640,5 +1640,111 @@
         "translation": "法的要件"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Litigation Interruption",
+    "definition": "The temporary suspension of a lawsuit's proceedings due to the occurrence of certain events affecting the parties or their representatives, such as the death of a party, loss of capacity, or termination of a representative's authority.",
+    "japaneseDefinition": "当事者の死亡、訴訟能力の喪失、または法定代理人の権限消滅などの事由により、訴訟手続きの進行が一時的に停止すること。",
+    "japaneseWordTranslation": "訴訟手続の中断 (そしょうてつづきのちゅうだん)",
+    "legalContext": "Civil Procedure Code Art. 124: The litigation procedure shall be interrupted upon the death of a party.",
+    "japaneseLegalContext": "民事訴訟法第124条：当事者が死亡したときは、訴訟手続は中断する。",
+    "exampleSentence": "Following the sole plaintiff’s passing, the court ordered a **Litigation Interruption** until the lawful successor formally took over the proceedings.",
+    "exampleTranslation": "唯一の原告が死亡したため、裁判所は、正当な承継人が訴訟手続きを引き継ぐまで、訴訟手続の中断を命じた。",
+    "vocabularyList": [
+      {
+        "word": "sole plaintiff",
+        "translation": "唯一の原告"
+      },
+      {
+        "word": "passing",
+        "translation": "死亡"
+      },
+      {
+        "word": "lawful successor",
+        "translation": "正当な承継人"
+      },
+      {
+        "word": "take over the proceedings",
+        "translation": "手続きを引き継ぐ"
+      },
+      {
+        "word": "suspension",
+        "translation": "停止"
+      },
+      {
+        "word": "loss of capacity",
+        "translation": "能力の喪失"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Confirmation of Nullity of a Judgment",
+    "definition": "A specific type of declaratory action seeking a declaration that a previously rendered final judgment is void and legally non-existent, typically reserved for defects so grave they cannot be cured by ordinary appeals or retrial.",
+    "japaneseDefinition": "既に確定した判決に、通常の不服申立てや再審では救済できない重大かつ根本的な瑕疵が存在する場合に、その判決が無効であることを確認するために提起する訴え。",
+    "japaneseWordTranslation": "判決無効確認の訴え (はんけつむこうかくにんのうったえ)",
+    "legalContext": "This action is permissible under the general principles governing declaratory actions (Civil Procedure Code Art. 134) when the defect is fundamental, such as lack of institutional judicial power.",
+    "japaneseLegalContext": "民事訴訟法第134条（確認の訴え）に基づき、判決に裁判所の制度上の権限の欠如など重大な瑕疵がある場合に認められる。",
+    "exampleSentence": "The company filed an **Action for Confirmation of Nullity of a Judgment** after discovering the original court had lacked constitutional authority to adjudicate the underlying dispute.",
+    "exampleTranslation": "会社は、原裁判所が根本的な紛争を裁定するための憲法上の権限を欠いていたことを発見した後、判決無効確認の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "declaratory action",
+        "translation": "確認の訴え"
+      },
+      {
+        "word": "final judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "grave defect",
+        "translation": "重大な瑕疵"
+      },
+      {
+        "word": "constitutional authority",
+        "translation": "憲法上の権限"
+      },
+      {
+        "word": "adjudicate",
+        "translation": "裁定する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Valuation of the Subject Matter of the Suit",
+    "definition": "The judicial process of calculating the monetary value of the claim asserted in a complaint. This valuation is critical for determining the proper court jurisdiction (e.g., Summary vs. District Court) and calculating the amount of court filing fees (judicial stamps).",
+    "japaneseDefinition": "訴訟において主張されている請求の金銭的価値を算定する手続き。裁判所の管轄（簡易裁判所か地方裁判所か）の決定および訴訟費用（印紙代）の算定のために不可欠である。",
+    "japaneseWordTranslation": "訴額算定 (そがくさんてい)",
+    "legalContext": "Rules regarding the valuation of the subject matter are defined by law to ensure proper jurisdiction, particularly concerning the Summary Court’s competency threshold (Court Organization Act Art. 33).",
+    "japaneseLegalContext": "裁判所法第33条等に基づき、簡易裁判所の管轄範囲（140万円以下）を決定するために訴額算定に関する規定が定められている。",
+    "exampleSentence": "Because the claim included future lost profits, the judge required a specialized assessment to perform the accurate **Valuation of the Subject Matter of the Suit** for jurisdictional purposes.",
+    "exampleTranslation": "その請求には将来の逸失利益が含まれていたため、裁判官は管轄権の目的のために正確な訴額算定を行うための専門的な評価を要求した。",
+    "vocabularyList": [
+      {
+        "word": "monetary value",
+        "translation": "金銭的価値"
+      },
+      {
+        "word": "court filing fees",
+        "translation": "裁判所手数料（印紙代）"
+      },
+      {
+        "word": "jurisdictional purposes",
+        "translation": "管轄権の目的"
+      },
+      {
+        "word": "lost profits",
+        "translation": "逸失利益"
+      },
+      {
+        "word": "competency threshold",
+        "translation": "管轄権の境界"
+      }
+    ]
   }
 ]

@@ -1610,5 +1610,119 @@
         "translation": "前提条件"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Substitute Performance",
+    "definition": "A method of execution where, if the execution debtor fails to perform a non-monetary obligation that can be performed by a third party (e.g., demolition or construction), the creditor is authorized by the court to have a third party perform the obligation, with the cost borne by the debtor.",
+    "japaneseDefinition": "債務者が、他人が行うことのできる非金銭債務（建物の収去や工作物の完成など）を履行しない場合に、債権者が裁判所の許可を得て、第三者にその行為を履行させ、費用を債務者に負担させる執行方法。",
+    "japaneseWordTranslation": "代替執行 (だいたいしっこう)",
+    "legalContext": "Civil Execution Act Art. 41, Paragraph 1: Where the content of the claim is that the debtor should carry out an act, and the act can be carried out by another person, the court shall, upon motion by the creditor, issue an order granting permission for the creditor to have another person carry out the act at the debtor's expense.",
+    "japaneseLegalContext": "民事執行法第41条第1項: 請求の目的が債務者の行為であり、その行為が他の者にこれをさせることができるものであるときは、裁判所は、債権者の申立てにより、その行為を債務者の費用で他の者にさせることを許可する決定をしなければならない。",
+    "exampleSentence": "The execution creditor filed a motion for **substitute performance** to compel the dismantling of the illegally constructed wall.",
+    "exampleTranslation": "債権者は、不法に建てられた壁の解体を強制するために、代替執行の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "compel",
+        "translation": "強制する"
+      },
+      {
+        "word": "dismantling",
+        "translation": "解体（収去）"
+      },
+      {
+        "word": "non-monetary obligation",
+        "translation": "非金銭債務"
+      },
+      {
+        "word": "at the debtor's expense",
+        "translation": "債務者の費用で"
+      },
+      {
+        "word": "carry out an act",
+        "translation": "行為を行う"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Auction Sale",
+    "definition": "The official mechanism within execution against real property or vessels by which seized assets are sold to the highest willing purchaser under the supervision of the court, thereby converting the property into cash for distribution to creditors.",
+    "japaneseDefinition": "不動産または船舶に対する執行手続きにおいて、差し押さえられた財産を、裁判所の監督の下で、現金を支払う意思のある最高額の申出人に売却し、換価した金銭を債権者に配当する公的な方法。",
+    "japaneseWordTranslation": "競売による売却 (けいばいによるばいきゃく)",
+    "legalContext": "Civil Execution Act Art. 64: Execution against real property shall be carried out by means of realization procedures through an auction sale or compulsory administration.",
+    "japaneseLegalContext": "民事執行法第64条: 不動産に対する執行は、競売による売却又は強制管理の方法により行う。",
+    "exampleSentence": "The court announced the schedule for the **auction sale** of the seized commercial building after the assessment procedures were finalized.",
+    "exampleTranslation": "評価手続きが確定した後、裁判所は差し押さえられた商業ビルの競売による売却の日程を告知した。",
+    "vocabularyList": [
+      {
+        "word": "seized assets",
+        "translation": "差し押さえられた財産"
+      },
+      {
+        "word": "highest willing purchaser",
+        "translation": "最高額の申出人"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      },
+      {
+        "word": "assessment procedures",
+        "translation": "評価手続き"
+      },
+      {
+        "word": "commercial building",
+        "translation": "商業ビル"
+      },
+      {
+        "word": "converted into cash",
+        "translation": "金銭に換価された"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Seizure of Movable Property",
+    "definition": "The procedure for execution against the execution debtor's tangible movable property (e.g., machinery, jewelry, inventory) carried out by a ministerial officer, involving the physical removal or sealing of the property for eventual sale.",
+    "japaneseDefinition": "執行債務者の有体動産（機械、宝飾品、在庫など）に対して行われる執行手続。執行官によって実行され、最終的な売却のために財産を物理的に除去または封印することを含む。",
+    "japaneseWordTranslation": "動産執行 (どうさんしっこう)",
+    "legalContext": "Civil Execution Act Art. 122, Paragraph 1: Execution against movable property shall be carried out by an execution officer by means of seizure.",
+    "japaneseLegalContext": "民事執行法第122条第1項: 動産に対する執行は、執行官が差押えにより行う。",
+    "exampleSentence": "Facing difficulties in enforcing the claim through real estate, the obligee shifted strategies and requested **seizure of movable property** held at the obligor’s warehouse.",
+    "exampleTranslation": "不動産を通じて請求を執行することが困難であったため、債権者は戦略を転換し、債務者の倉庫にある動産執行を請求した。",
+    "vocabularyList": [
+      {
+        "word": "ministerial officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "tangible movable property",
+        "translation": "有体動産"
+      },
+      {
+        "word": "shifted strategies",
+        "translation": "戦略を転換した"
+      },
+      {
+        "word": "inventory",
+        "translation": "在庫"
+      },
+      {
+        "word": "physical removal",
+        "translation": "物理的な除去"
+      },
+      {
+        "word": "enforcing the claim",
+        "translation": "請求の執行"
+      }
+    ]
   }
 ]

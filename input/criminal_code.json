@@ -1604,5 +1604,119 @@
         "translation": "捜査への協力"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Criminal Negligence",
+    "definition": "Failure to exercise the required standard of foresight and due care (duty of care), resulting in the commission of a crime, often applied in cases involving professional duties or vehicular accidents.",
+    "japaneseDefinition": "行為者が注意義務を怠り、結果の予見・回避を怠ったことにより、犯罪の結果を発生させてしまうこと。",
+    "japaneseWordTranslation": "過失 (かしつ)",
+    "legalContext": "Criminal Code Art. 38 (1) establishes the general requirement of intent (故意), implying that negligence is punishable only where specifically provided by law (e.g., crimes of negligence causing death or injury).",
+    "japaneseLegalContext": "刑法第38条第1項: 罪を犯す意思がない行為は、罰しない。ただし、法律に特に規定がある場合は、この限りでない。",
+    "exampleSentence": "The medical professional faced charges of criminal negligence resulting in death after failing to follow mandated surgical safety protocols.",
+    "exampleTranslation": "その医療専門家は、義務付けられた手術の安全手順に従わなかった後、業務上過失致死の罪に問われた。",
+    "vocabularyList": [
+      {
+        "word": "foresight",
+        "translation": "予見"
+      },
+      {
+        "word": "due care",
+        "translation": "相当な注意義務"
+      },
+      {
+        "word": "commission of a crime",
+        "translation": "犯罪の実行"
+      },
+      {
+        "word": "mandated safety protocols",
+        "translation": "義務付けられた安全手順"
+      },
+      {
+        "word": "vehicular accidents",
+        "translation": "交通事故"
+      },
+      {
+        "word": "professional duties",
+        "translation": "業務上の義務"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principal Offender",
+    "definition": "The person who directly executes the elements constituting a crime (direct principal) or utilizes another person lacking capacity for responsibility as a tool to commit the crime (indirect principal).",
+    "japaneseDefinition": "自ら構成要件的行為を遂行する者（直接正犯）、あるいは責任無能力者などを道具として利用し、犯罪を実行する者（間接正犯）。",
+    "japaneseWordTranslation": "正犯 (せいはん)",
+    "legalContext": "Criminal Code Art. 60 primarily defines co-principals (joint execution). The concept of the indirect principal (間接正犯) is established through judicial precedent.",
+    "japaneseLegalContext": "刑法第60条: 共同して犯罪を実行した者は、すべて正犯とする。",
+    "exampleSentence": "The defendant, though absent from the scene, was convicted as an indirect principal offender for manipulating a mentally disabled victim into committing fraud.",
+    "exampleTranslation": "その被告は、現場にはいなかったが、精神的な障害を持つ被害者を操作して詐欺を実行させたとして、間接正犯として有罪判決を受けた。",
+    "vocabularyList": [
+      {
+        "word": "executes the elements",
+        "translation": "構成要件を実行する"
+      },
+      {
+        "word": "direct principal",
+        "translation": "直接正犯"
+      },
+      {
+        "word": "indirect principal",
+        "translation": "間接正犯"
+      },
+      {
+        "word": "convicted",
+        "translation": "有罪判決を受けた"
+      },
+      {
+        "word": "judicial precedent",
+        "translation": "判例"
+      },
+      {
+        "word": "manipulating",
+        "translation": "操作する"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Capacity for Responsibility",
+    "definition": "The mental and intellectual ability of an individual to understand the unlawfulness of their actions and to act according to that understanding; a fundamental prerequisite for the imposition of criminal punishment.",
+    "japaneseDefinition": "行為の違法性を理解し、それに基づいて自己の行動を制御・決定する能力。刑罰を科すための前提要件。",
+    "japaneseWordTranslation": "責任能力 (せきにんのうりょく)",
+    "legalContext": "Criminal Code Art. 39 addresses cases where capacity for responsibility is totally absent (心神喪失—insanity) or significantly diminished (心神耗弱—diminished capacity).",
+    "japaneseLegalContext": "刑法第39条第1項: 心神喪失者の行為は、罰しない。",
+    "exampleSentence": "The prosecution requested a psychiatric evaluation to assess the defendant's capacity for responsibility at the time the assault was committed.",
+    "exampleTranslation": "検察は、暴行が犯された時点における被告人の責任能力を評価するため、精神鑑定を請求した。",
+    "vocabularyList": [
+      {
+        "word": "unlawfulness",
+        "translation": "違法性"
+      },
+      {
+        "word": "prerequisite",
+        "translation": "前提条件"
+      },
+      {
+        "word": "imposition of punishment",
+        "translation": "刑罰の科罰"
+      },
+      {
+        "word": "psychiatric evaluation",
+        "translation": "精神鑑定"
+      },
+      {
+        "word": "assault",
+        "translation": "暴行"
+      },
+      {
+        "word": "totally absent",
+        "translation": "完全に欠如している"
+      }
+    ]
   }
 ]

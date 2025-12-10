@@ -2106,5 +2106,115 @@
         "translation": "会社体"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Formal Examination Principle",
+    "definition": "The principle in Japanese registration law, especially commercial registration, where the registrar only examines whether the application documents meet the formal legal requirements and does not investigate the substantive truth of the registered facts.",
+    "japaneseDefinition": "商業登記において、登記官が申請書類が法律上の形式的要件を満たしているかのみを審査し、登録されるべき事実の真実性を実質的に審査しないという原則。",
+    "japaneseWordTranslation": "形式的審査主義 (けいしきてき しんさ しゅぎ)",
+    "legalContext": "Commercial Registration Act sets out the limits of the registrar's review authority, contrasting with substantive review often employed by courts.",
+    "japaneseLegalContext": "商業登記法では、登記官の審査権限の限界が定められており、裁判所の行う実質的審査と対比される。",
+    "exampleSentence": "The Registrar rejected the application based on the Formal Examination Principle, finding a technical discrepancy in the accompanying documents, without investigating the legitimacy of the shareholder resolution.",
+    "exampleTranslation": "登記官は、株主決議の正当性を調査することなく、添付書類に形式的な不一致があったため、形式的審査主義に基づき申請を却下した。",
+    "vocabularyList": [
+      {
+        "word": "Registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "technical discrepancy",
+        "translation": "技術的な不一致"
+      },
+      {
+        "word": "shareholder resolution",
+        "translation": "株主決議"
+      },
+      {
+        "word": "substantive truth",
+        "translation": "実質的な真実性"
+      },
+      {
+        "word": "accompanying documents",
+        "translation": "添付書類"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Representation Authority",
+    "definition": "The mandatory registration concerning the existence and scope of powers held by the company’s representative director or other representative officer, particularly noting any restrictions imposed on such authority.",
+    "japaneseDefinition": "会社の代表取締役またはその他の代表執行役が持つ代表権の存在および範囲に関する義務的な登記であり、特にその権限に加えられた制限を登録すること。",
+    "japaneseWordTranslation": "代表権の登記 (だいひょうけんの とうき)",
+    "legalContext": "Commercial Registration Act and Company Act requirements ensure that the external scope of a representative's power is publicly known.",
+    "japaneseLegalContext": "商業登記法および会社法は、代表者の権限の対外的範囲が公示されることを要求している。",
+    "exampleSentence": "Any restriction placed on the Registration of Representation Authority, such as mandatory joint representation, is crucial, as failing to register such limitations generally renders them ineffective against third parties acting in good faith.",
+    "exampleTranslation": "共同代表制のような代表権の登記に加えられたいかなる制限も極めて重要であり、その制限を登記しなければ、一般的に善意の第三者に対して対抗できなくなる。",
+    "vocabularyList": [
+      {
+        "word": "mandatory",
+        "translation": "義務的"
+      },
+      {
+        "word": "representative director",
+        "translation": "代表取締役"
+      },
+      {
+        "word": "restriction",
+        "translation": "制限"
+      },
+      {
+        "word": "joint representation",
+        "translation": "共同代表"
+      },
+      {
+        "word": "ineffective against third parties",
+        "translation": "第三者に対して無効"
+      },
+      {
+        "word": "acting in good faith",
+        "translation": "善意で行動する"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Merger Registration",
+    "definition": "The required procedural registration completed upon the effectiveness of a corporate merger (either absorption or consolidation type), necessitating the simultaneous closure of the dissolved company's register and the entry of changes in the surviving or newly established company.",
+    "japaneseDefinition": "企業合併（吸収合併または新設合併）の発効時に要求される手続上の登記であり、消滅会社の登記簿の閉鎖と、存続会社または新設会社における変更事項の記載を同時に必要とする。",
+    "japaneseWordTranslation": "合併の登記 (がっぺいの とうき)",
+    "legalContext": "Commercial Registration Act mandates timely registration of corporate organizational changes (e.g., mergers) to achieve legal effect and public notice.",
+    "japaneseLegalContext": "商業登記法は、法的な効力と公示を達成するために、会社組織の変更（合併など）の迅速な登記を義務付けている。",
+    "exampleSentence": "The Merger Registration must be completed within two weeks from the effective date of the merger to ensure the surviving company validly succeeds to the assets and liabilities of the absorbed company.",
+    "exampleTranslation": "存続会社が吸収された会社の資産と負債を有効に承継することを確実にするため、合併の効力発生日から2週間以内に合併の登記を完了しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "effectiveness",
+        "translation": "効力発生"
+      },
+      {
+        "word": "absorption type",
+        "translation": "吸収型"
+      },
+      {
+        "word": "consolidation type",
+        "translation": "新設型"
+      },
+      {
+        "word": "surviving company",
+        "translation": "存続会社"
+      },
+      {
+        "word": "assets and liabilities",
+        "translation": "資産と負債"
+      },
+      {
+        "word": "absorbed company",
+        "translation": "吸収された会社"
+      }
+    ]
   }
 ]

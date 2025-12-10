@@ -2200,5 +2200,123 @@
         "translation": "株式譲渡"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Extinctive Prescription",
+    "definition": "The legal mechanism by which a right (especially a claim) is extinguished if the obligee fails to exercise that right for a specified statutory period.",
+    "japaneseDefinition": "権利を行使しない状態が一定期間継続した場合に、その権利を消滅させる制度。特に債権について用いられる。",
+    "japaneseWordTranslation": "消滅時効 (しょうめつじこう)",
+    "legalContext": "Civil Code Art. 166 (1): A claim shall be extinguished by prescription if it is not exercised for a period of five years from the time the obligee became aware of the fact that the claim can be exercised.",
+    "japaneseLegalContext": "民法第166条第1項: 債権は、債権者が権利を行使することができることを知った時から五年間行使しないときは、時効によって消滅する。",
+    "exampleSentence": "The debtor pleaded the defense of **extinctive prescription**, arguing the claim was time-barred.",
+    "exampleTranslation": "債務者は、その債権が時効により消滅したと主張し、**消滅時効**の抗弁を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "exercise a right",
+        "translation": "権利を行使する"
+      },
+      {
+        "word": "time-barred",
+        "translation": "時効にかかった"
+      },
+      {
+        "word": "defense (legal)",
+        "translation": "抗弁"
+      },
+      {
+        "word": "plead",
+        "translation": "申し立てる／主張する"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Condition Subsequent",
+    "definition": "A condition attached to a legal act (juridical act) such that upon the fulfillment of the condition, the existing effect of the act is terminated or ceases.",
+    "japaneseDefinition": "法律行為の効力の発生を消滅させるために付された条件。その条件が成就した時に効力が失われる。",
+    "japaneseWordTranslation": "解除条件 (かいじょじょうけん)",
+    "legalContext": "Civil Code Art. 127 (2): A juridical act subject to a condition subsequent shall lose its effectiveness upon the fulfillment of the condition.",
+    "japaneseLegalContext": "民法第127条第2項: 解除条件付法律行為は、条件が成就した時から、その効力を失う。",
+    "exampleSentence": "The real estate transfer agreement was subject to a **condition subsequent**: the non-issuance of the necessary development permit by the municipal authority.",
+    "exampleTranslation": "その不動産譲渡契約には、市当局による必要な開発許可が発行されないという**解除条件**が付されていた。",
+    "vocabularyList": [
+      {
+        "word": "juridical act",
+        "translation": "法律行為"
+      },
+      {
+        "word": "effectiveness",
+        "translation": "効力"
+      },
+      {
+        "word": "fulfillment (of a condition)",
+        "translation": "成就"
+      },
+      {
+        "word": "agreement",
+        "translation": "契約／合意"
+      },
+      {
+        "word": "transfer",
+        "translation": "譲渡"
+      },
+      {
+        "word": "municipal authority",
+        "translation": "市当局"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Defects in Goods",
+    "definition": "The statutory responsibility of a seller under the former Civil Code provisions when the object of sale contained latent defects, allowing the buyer to claim damages.",
+    "japaneseDefinition": "売買の目的物に隠れた瑕疵（欠陥）があった場合に売主が負う、買主に対する法定の責任。（※2020年民法改正前の用語。現在は契約不適合責任に含まれる）",
+    "japaneseWordTranslation": "瑕疵担保責任 (かしたんぽせきにん)",
+    "legalContext": "Civil Code Art. 570 (Pre-2020 Revision): When there is a latent defect in the subject matter of a sale, the provisions of Article 566 shall apply mutatis mutandis.",
+    "japaneseLegalContext": "（旧）民法第570条: 売買の目的物に隠れたる瑕疵ありたるときは、第566条の規定を準用す。",
+    "exampleSentence": "Due to the structural flaws discovered post-closing, the buyer asserted the seller's **liability for defects in goods** and claimed compensation.",
+    "exampleTranslation": "クロージング後に発見された構造上の欠陥のため、買主は売主の**瑕疵担保責任**を主張し、損害賠償を請求した。",
+    "vocabularyList": [
+      {
+        "word": "latent defect",
+        "translation": "隠れた瑕疵（欠陥）"
+      },
+      {
+        "word": "seller",
+        "translation": "売主"
+      },
+      {
+        "word": "buyer",
+        "translation": "買主"
+      },
+      {
+        "word": "subject matter of a sale",
+        "translation": "売買の目的物"
+      },
+      {
+        "word": "assert",
+        "translation": "主張する"
+      },
+      {
+        "word": "compensation",
+        "translation": "賠償金"
+      },
+      {
+        "word": "post-closing",
+        "translation": "引渡し後／クロージング後"
+      }
+    ]
   }
 ]

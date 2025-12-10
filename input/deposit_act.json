@@ -2094,5 +2094,119 @@
         "translation": "公的証明"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designated Consignee (of Deposit)",
+    "definition": "The specific person or entity designated as the party entitled to receive the deposited asset or funds upon the satisfaction of legal conditions. This party is usually the creditor whose claims the deposit aims to satisfy or secure.",
+    "japaneseDefinition": "供託された財産または金銭を、法的な引渡し条件が満たされた際に受領する権限を有する特定の者または団体。通常、供託によって債権を満足させることを目的とする債権者のこと。",
+    "japaneseWordTranslation": "被供託者 (ひきょうたくしゃ)",
+    "legalContext": "Deposit Act Art. 3: If the obligor cannot perform due to refusal of the obligee or uncertainty regarding the obligee, the obligor may be discharged from the obligation by depositing the object of the performance...",
+    "japaneseLegalContext": "供託法第3条: 債権者の受領拒否、債権者が誰であるか不明確であること等により、債務者が履行をすることができない場合、その履行の目的物を供託することによって債務を免れることができる...",
+    "exampleSentence": "The obligor filed the deposit naming the secured creditor as the Designated Consignee in order to stop the accrual of interest.",
+    "exampleTranslation": "債務者は、利息の発生を止めるため、担保債権者を被供託者として供託を申請した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "secured creditor",
+        "translation": "担保債権者"
+      },
+      {
+        "word": "accrual",
+        "translation": "発生"
+      },
+      {
+        "word": "discharge",
+        "translation": "免れる（債務からの）"
+      },
+      {
+        "word": "satisfaction",
+        "translation": "満足（させること）"
+      },
+      {
+        "word": "entitled",
+        "translation": "権限を有する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Permission for Deposit Withdrawal",
+    "definition": "The administrative authorization or court order required from the competent administrative body (deposit office or court) allowing either the depositor or the designated consignee to retrieve the deposited assets, necessary when the right to reclaim is not self-evident.",
+    "japaneseDefinition": "供託者または被供託者が供託された財産を引き取ることを認めるために、管轄の行政機関（供託所または裁判所）から必要とされる行政上の許可または裁判所の命令。払戻請求権が自明でない場合に必要とされる。",
+    "japaneseWordTranslation": "供託物払渡しの許可 (きょうたくぶつはらいわたしにょきょか)",
+    "legalContext": "Deposit Act Art. 12: A person seeking the return of the deposited property must submit documents proving the grounds for the recovery and obtain authorization.",
+    "japaneseLegalContext": "供託法第12条: 供託物を取り戻そうとする者は、その取戻しの事由を証する書面を提出し、許可を得なければならない。",
+    "exampleSentence": "Since the initial dispute was resolved by a judicial settlement, the depositor applied to the deposit office for Permission for Deposit Withdrawal.",
+    "exampleTranslation": "当初の紛争は司法上の和解によって解決されたため、供託者は供託所に対し供託物払渡しの許可を申請した。",
+    "vocabularyList": [
+      {
+        "word": "competent administrative body",
+        "translation": "管轄の行政機関"
+      },
+      {
+        "word": "court order",
+        "translation": "裁判所の命令"
+      },
+      {
+        "word": "retrieve",
+        "translation": "引き取る"
+      },
+      {
+        "word": "judicial settlement",
+        "translation": "司法上の和解"
+      },
+      {
+        "word": "grounds for the recovery",
+        "translation": "取戻しの事由"
+      },
+      {
+        "word": "dispute was resolved",
+        "translation": "紛争は解決された"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Review of Deposit Filing",
+    "definition": "The administrative examination conducted by the competent authority (deposit office) to verify that a deposit application strictly complies with all formal and substantive requirements stipulated by the Deposit Act and related regulations.",
+    "japaneseDefinition": "管轄機関（供託所）が実施する行政上の審査であり、供託申請が供託法および関連規則に定められた形式的要件及び実質的要件のすべてに厳密に準拠していることを確認するための手続き。",
+    "japaneseWordTranslation": "供託申請の審査 (きょうたくしんせいのしんさ)",
+    "legalContext": "Deposit Office Rules Art. 2: The administrative staff shall immediately conduct a Review of Deposit Filing to ensure that the application is suitable for acceptance.",
+    "japaneseLegalContext": "供託規則第2条: 供託事務担当者は、供託申請が受理に適格であるかどうかにつき、直ちに供託申請の審査を行わなければならない。",
+    "exampleSentence": "The applicant received a disposition of rejection after the Review of Deposit Filing revealed that the stated grounds for the deposit were legally insufficient.",
+    "exampleTranslation": "供託申請の審査の結果、供託の陳述された事由が法的に不十分であったため、申請者は却下処分を受けた。",
+    "vocabularyList": [
+      {
+        "word": "competent authority",
+        "translation": "管轄当局"
+      },
+      {
+        "word": "substantive requirements",
+        "translation": "実質的要件"
+      },
+      {
+        "word": "formal requirements",
+        "translation": "形式的要件"
+      },
+      {
+        "word": "disposition of rejection",
+        "translation": "却下処分"
+      },
+      {
+        "word": "legally insufficient",
+        "translation": "法的に不十分な"
+      },
+      {
+        "word": "application is suitable",
+        "translation": "申請が適格である"
+      }
+    ]
   }
 ]

@@ -2072,5 +2072,119 @@
         "translation": "生活 (せいかつ)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restitution of Security Deposit",
+    "definition": "The procedure by which a party (either the obligee or the debtor) retrieves the funds or property deposited as security once the preservation order has been discharged, cancelled, or the principal action has been concluded favorably, negating the risk of damage claims.",
+    "japaneseDefinition": "保全命令が解除、取り消しされたり、または本案訴訟が有利に確定した後、損害賠償請求のリスクがなくなった際に、当事者（債権者または債務者）が供託した担保金や供託物を取り戻す手続き。",
+    "japaneseWordTranslation": "担保の取戻し (Tanpo no Torimodoshi)",
+    "legalContext": "CPL Art. 10(4) and CCP Art. 79 (governing general restitution of security): Security must not be recovered until the reason for the security ceases to exist.",
+    "japaneseLegalContext": "民事保全法第10条第4項、民事訴訟法第79条: 担保の事由が消滅した後でなければ、取戻しをすることができない。",
+    "exampleSentence": "The obligee filed a motion for the restitution of the security deposit after obtaining a final and conclusive judgment in his favor in the main action.",
+    "exampleTranslation": "本訴において勝訴した確定判決を得た後、債権者は担保の取戻しの申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "供託",
+        "translation": "Deposit/Consignment"
+      },
+      {
+        "word": "担保",
+        "translation": "Security/Bond"
+      },
+      {
+        "word": "解除",
+        "translation": "Discharge/Release (of an order)"
+      },
+      {
+        "word": "申立て",
+        "translation": "Motion/Petition"
+      },
+      {
+        "word": "確定判決",
+        "translation": "Final and conclusive judgment"
+      },
+      {
+        "word": "取戻し",
+        "translation": "Retrieval/Restitution"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Enforcement Court",
+    "definition": "The judicial body designated under the Civil Preservation Law responsible for overseeing and effectuating the physical execution of provisional measures, such as carrying out the seizure of assets or ordering notification to third parties.",
+    "japaneseDefinition": "民事保全法に基づき、仮の措置の物理的な執行を監督・実行する責任を負う裁判機関。資産の差押えの実施や第三者への通知命令などが含まれる。",
+    "japaneseWordTranslation": "保全執行裁判所 (Hozen Shikkō Saibansho)",
+    "legalContext": "CPL Art. 40 (Jurisdiction over Real Property Preservation Enforcement): The court having jurisdiction over the location of the real property subject to the preservation measure.",
+    "japaneseLegalContext": "民事保全法第40条（不動産保全執行の管轄）: 保全の目的物である不動産の所在地を管轄する裁判所。",
+    "exampleSentence": "The Preservation Enforcement Court instructed the enforcement officer to register the provisional attachment on the land registry based on the issued preservation order.",
+    "exampleTranslation": "保全執行裁判所は、発せられた保全命令に基づき、執行官に対して土地の登記簿に仮差押えを登記するよう指示した。",
+    "vocabularyList": [
+      {
+        "word": "執行",
+        "translation": "Execution/Enforcement"
+      },
+      {
+        "word": "裁判所",
+        "translation": "Court"
+      },
+      {
+        "word": "管轄",
+        "translation": "Jurisdiction"
+      },
+      {
+        "word": "執行官",
+        "translation": "Execution officer"
+      },
+      {
+        "word": "登記簿",
+        "translation": "Registry/Register"
+      },
+      {
+        "word": "所在地",
+        "translation": "Location/Situs"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Claim for Preservation Costs",
+    "definition": "The right held by the preservation obligee to demand reimbursement from the debtor for necessary expenses incurred in applying for and enforcing the preservation order (such as application fees, documentary costs, and enforcement fees).",
+    "japaneseDefinition": "保全債権者が、保全命令の申立ておよび執行に際して生じた必要な費用（申立手数料、書類作成費用、執行費用など）について、債務者に対して償還を求める権利。",
+    "japaneseWordTranslation": "保全費用請求権 (Hozen Hiyō Seikyūken)",
+    "legalContext": "CPL Art. 14: Preservation costs shall be considered litigation costs for the purposes of the application of the Civil Procedure Law concerning costs.",
+    "japaneseLegalContext": "民事保全法第14条: 保全手続の費用は、民事訴訟費用に関する規定の適用については、訴訟費用とみなす。",
+    "exampleSentence": "The obligee, having successfully secured the claim in the principal litigation, included the accumulated Claim for Preservation Costs in the final bill of costs.",
+    "exampleTranslation": "本訴訟で請求を確保することに成功した債権者は、蓄積された保全費用請求権を最終的な訴訟費用計算書に含めた。",
+    "vocabularyList": [
+      {
+        "word": "費用",
+        "translation": "Costs/Expenses"
+      },
+      {
+        "word": "請求権",
+        "translation": "Right to claim/Claim"
+      },
+      {
+        "word": "償還",
+        "translation": "Reimbursement"
+      },
+      {
+        "word": "訴訟費用",
+        "translation": "Litigation costs"
+      },
+      {
+        "word": "蓄積された",
+        "translation": "Accumulated"
+      },
+      {
+        "word": "計算書",
+        "translation": "Calculation statement/Bill"
+      }
+    ]
   }
 ]

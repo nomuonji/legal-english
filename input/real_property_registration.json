@@ -2036,5 +2036,131 @@
         "translation": "企業"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Rank of Right",
+    "definition": "The statutory ordering among multiple competing rights (excluding ownership) registered on the same real property, determined primarily by the temporal order in which their registrations were received and recorded.",
+    "japaneseDefinition": "同一の不動産に設定された複数の権利（所有権を除く）について、その優劣を定める順序。登記の受付及び記録された順序によって決定される。",
+    "japaneseWordTranslation": "権利の順位 (けんりのじゅんい)",
+    "legalContext": "Real Property Registration Act Art. 3: The rank of rights concerning the same real property shall be determined by the order of their registration.",
+    "japaneseLegalContext": "不動産登記法第3条：同一の不動産について登記した権利の順位は、法令に別段の定めがある場合を除き、登記の順序による。",
+    "exampleSentence": "When multiple security interests are established on the same parcel of land, their Rank of Right dictates the distribution of proceeds among creditors in case of a subsequent sale.",
+    "exampleTranslation": "同一の土地に複数の担保権が設定されている場合、その権利の順位が、その後の競売における債権者間の配当を決定する。",
+    "vocabularyList": [
+      {
+        "word": "security interests",
+        "translation": "担保権"
+      },
+      {
+        "word": "established",
+        "translation": "設定される"
+      },
+      {
+        "word": "parcel of land",
+        "translation": "土地の一筆"
+      },
+      {
+        "word": "dictates",
+        "translation": "決定する"
+      },
+      {
+        "word": "distribution of proceeds",
+        "translation": "配当"
+      },
+      {
+        "word": "creditors",
+        "translation": "債権者"
+      },
+      {
+        "word": "subsequent sale",
+        "translation": "競売"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judgment Ordering Registration",
+    "definition": "A final and binding judicial decision that recognizes the legal obligation of the losing party (who holds the registration duty) to cooperate in submitting a registration application, thereby enabling the successful party to apply for the registration unilaterally.",
+    "japaneseDefinition": "共同申請が原則である登記において、相手方（登記義務者）が協力しない場合に、その者に登記手続きへの協力を命じ、勝訴した者が単独で登記申請することを可能にする確定判決。",
+    "japaneseWordTranslation": "登記を命ずる判決 (とうきをめいずるはんけつ)",
+    "legalContext": "Real Property Registration Act Art. 63: A person who has obtained a vested judgment ordering the registration obligor to perform the registration procedure may apply for the registration unilaterally.",
+    "japaneseLegalContext": "不動産登記法第63条：登記義務者の登記手続をすべきことを命ずる確定判決を得た者は、単独で登記を申請することができる。",
+    "exampleSentence": "The buyer obtained a Judgment Ordering Registration after the seller repeatedly refused to submit the necessary documents for the transfer of ownership following the closing.",
+    "exampleTranslation": "売買の決済後、売主が所有権移転に必要な書類提出を再三拒否したため、買主は登記を命ずる判決を取得した。",
+    "vocabularyList": [
+      {
+        "word": "final and binding",
+        "translation": "確定した"
+      },
+      {
+        "word": "registration duty",
+        "translation": "登記義務"
+      },
+      {
+        "word": "cooperate",
+        "translation": "協力する"
+      },
+      {
+        "word": "unilaterally",
+        "translation": "単独で"
+      },
+      {
+        "word": "transfer of ownership",
+        "translation": "所有権移転"
+      },
+      {
+        "word": "necessary documents",
+        "translation": "必要な書類"
+      },
+      {
+        "word": "refused",
+        "translation": "拒否した"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of One Real Estate, One Register",
+    "definition": "The foundational principle mandating that every physical unit of real property recognized under law (one parcel of land or one building) must be recorded in its own separate and distinct registration file.",
+    "japaneseDefinition": "法律上認められる不動産の単位（一筆の土地又は一個の建物）ごとに、一つの登記記録を作成しなければならないという不動産登記制度の基本原則。",
+    "japaneseWordTranslation": "一不動産一登記記録の原則 (いちふどうさんいちとうききろくのげんそく)",
+    "legalContext": "Real Property Registration Act Art. 13 (Organization of the Register): The registrar shall prepare a registration record for each real property.",
+    "japaneseLegalContext": "不動産登記法第13条（登記記録の作成）：登記官は、不動産ごとに、登記記録を作成しなければならない。",
+    "exampleSentence": "The Principle of One Real Estate, One Register ensures clarity and consistency, preventing the same property from being subjected to multiple conflicting registration entries.",
+    "exampleTranslation": "一不動産一登記記録の原則は、同一不動産が複数の矛盾する登記記録に晒されることを防ぎ、明確さと一貫性を確保する。",
+    "vocabularyList": [
+      {
+        "word": "foundational principle",
+        "translation": "基本原則"
+      },
+      {
+        "word": "physical unit",
+        "translation": "物理的な単位"
+      },
+      {
+        "word": "parcel of land",
+        "translation": "土地の一筆"
+      },
+      {
+        "word": "distinct",
+        "translation": "個別の"
+      },
+      {
+        "word": "registration file",
+        "translation": "登記ファイル"
+      },
+      {
+        "word": "consistency",
+        "translation": "一貫性"
+      },
+      {
+        "word": "conflicting entries",
+        "translation": "矛盾する記録"
+      }
+    ]
   }
 ]

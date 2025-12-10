@@ -2,40 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Theft",
-    "definition": "The act of stealing another person's property.",
-    "japaneseDefinition": "他人の財物を窃取する行為。",
-    "japaneseWordTranslation": "窃盗 (せっとう)",
-    "legalContext": "Penal Code Art. 235: A person who steals the property of another person commits the crime of theft.",
-    "japaneseLegalContext": "刑法第235条：他人の財物を窃取した者は、窃盗の罪とし、十年以下の懲役又は五十万円以下の罰金に処する。",
-    "exampleSentence": "Shoplifting is a form of theft punishable under the Penal Code.",
-    "exampleTranslation": "万引きは刑法の下で処罰される窃盗の一形態である。",
-    "vocabularyList": [
-      {
-        "word": "Steal",
-        "translation": "盗む"
-      },
-      {
-        "word": "Property",
-        "translation": "財物"
-      },
-      {
-        "word": "Commit",
-        "translation": "犯す"
-      },
-      {
-        "word": "Fine",
-        "translation": "罰金"
-      },
-      {
-        "word": "Shoplifting",
-        "translation": "万引き"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Self-Defense",
     "definition": "An act performed unavoidably to protect oneself or another from imminent unlawful infringement, which is not punishable.",
     "japaneseDefinition": "急迫不正の侵害に対して、自己または他人の権利を防衛するためにやむを得ずした行為であり、処罰されない。",
@@ -2082,6 +2048,120 @@
       {
         "word": "stipulated period",
         "translation": "規定期間"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legally Protected Interest",
+    "definition": "The legal value, asset, or interest (such as life, liberty, or property) that a specific criminal law provision is designed to protect from infringement; this concept is fundamental to classifying and interpreting criminal offenses.",
+    "japaneseDefinition": "特定の刑罰法規によって保護されている生活利益または価値。刑法における犯罪成立の根拠であり、各犯罪類型の分類や解釈の基礎となる概念。",
+    "japaneseWordTranslation": "法益 (ほうえき)",
+    "legalContext": "Criminal Law Theory: The principle that a criminal offense requires the actual or potential infringement of a legally protected interest (法益侵害の原則).",
+    "japaneseLegalContext": "刑法理論：犯罪は法益を侵害した、または侵害する危険を生じさせた場合に成立するという原則。",
+    "exampleSentence": "The interpretation of whether an act constitutes a crime often relies on determining which legally protected interest the specific Criminal Code article aims to safeguard.",
+    "exampleTranslation": "ある行為が犯罪を構成するかどうかの解釈は、その刑法条文が保護しようとしている法益が何かを決定することに依存する場合が多い。",
+    "vocabularyList": [
+      {
+        "word": "infringement",
+        "translation": "侵害"
+      },
+      {
+        "word": "criminal offense",
+        "translation": "犯罪"
+      },
+      {
+        "word": "classification",
+        "translation": "分類"
+      },
+      {
+        "word": "safeguard",
+        "translation": "保護する"
+      },
+      {
+        "word": "interpretation",
+        "translation": "解釈"
+      },
+      {
+        "word": "criminal provision",
+        "translation": "刑罰法規"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Minor Fine",
+    "definition": "A type of criminal penalty consisting of the forfeiture of a small monetary amount, defined by the Japanese Criminal Code as being between 1,000 yen and less than 10,000 yen. It is the lightest principal penalty.",
+    "japaneseDefinition": "刑罰の一種で、1,000円以上10,000円未満の金銭を強制的に徴収するもの。罰金よりも軽く、主刑の中で最も軽い刑。",
+    "japaneseWordTranslation": "科料 (かりょう)",
+    "legalContext": "Criminal Code Art. 9 (Principal Penalties): The principal penalties are death, imprisonment with labor, imprisonment without labor, fine, minor fine, and penal detention.",
+    "japaneseLegalContext": "刑法第9条（主刑）：主刑は、死刑、懲役、禁錮、罰金、科料及び拘留とする。",
+    "exampleSentence": "The defendant received a judgment imposing a minor fine of 9,000 yen for violating the local ordinance regarding noise pollution.",
+    "exampleTranslation": "被告人は騒音規制に関する地方条例に違反したとして、9,000円の科料を課す判決を受けた。",
+    "vocabularyList": [
+      {
+        "word": "penalty",
+        "translation": "刑罰"
+      },
+      {
+        "word": "forfeiture",
+        "translation": "没収"
+      },
+      {
+        "word": "principal penalties",
+        "translation": "主刑"
+      },
+      {
+        "word": "judgment",
+        "translation": "判決"
+      },
+      {
+        "word": "local ordinance",
+        "translation": "地方条例"
+      },
+      {
+        "word": "noise pollution",
+        "translation": "騒音公害"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Voluntary Surrender",
+    "definition": "The act of an offender voluntarily reporting the crime they committed to investigative authorities (e.g., police or prosecutors) before the crime has been discovered by those authorities. This action serves as a statutory ground for the optional mitigation of punishment.",
+    "japaneseDefinition": "犯罪を行った者が、捜査機関に発覚する前に、自己の犯罪事実を捜査機関に任意に申告すること。刑の軽減事由となる。",
+    "japaneseWordTranslation": "自首 (じしゅ)",
+    "legalContext": "Criminal Code Art. 42 (Voluntary Surrender): The punishment of a person who surrenders voluntarily may be reduced.",
+    "japaneseLegalContext": "刑法第42条（自首）：罪を犯した者が捜査機関に発覚する前に自首したときは、その刑を軽減することができる。",
+    "exampleSentence": "The prosecutor recommended a substantial mitigation of sentence, citing the accused's genuine remorse and prompt voluntary surrender after the commission of the offense.",
+    "exampleTranslation": "検察官は、被告人の真摯な反省と犯行後の速やかな自首を理由に、刑の相当な軽減を勧告した。",
+    "vocabularyList": [
+      {
+        "word": "offender",
+        "translation": "犯罪者"
+      },
+      {
+        "word": "investigative authorities",
+        "translation": "捜査機関"
+      },
+      {
+        "word": "mitigation of punishment",
+        "translation": "刑の軽減"
+      },
+      {
+        "word": "remorse",
+        "translation": "反省"
+      },
+      {
+        "word": "commission of the offense",
+        "translation": "犯行"
+      },
+      {
+        "word": "prosecutor",
+        "translation": "検察官"
       }
     ]
   }

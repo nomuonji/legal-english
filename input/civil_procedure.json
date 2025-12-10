@@ -1908,5 +1908,119 @@
         "translation": "評価する (ひょうかする)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Examination of Witnesses",
+    "definition": "The formal taking of testimony from third parties (witnesses) under oath in open court regarding facts material to the case, subject to cross-examination.",
+    "japaneseDefinition": "訴訟の当事者ではない第三者が、自己の知っている事実について宣誓の上、裁判所の面前で陳述を行う証拠調べの手続。",
+    "japaneseWordTranslation": "証人尋問 (しょうにんじんもん)",
+    "legalContext": "Code of Civil Procedure Art. 187: Witnesses shall testify by stating facts known to them.",
+    "japaneseLegalContext": "民事訴訟法第187条: 証人は、自己の知っている事実を陳述することによって、証言をする。",
+    "exampleSentence": "The opposing counsel requested the Court to conduct the examination of witnesses via videoconference due to geographical constraints.",
+    "exampleTranslation": "相手方弁護士は、地理的制約のため、裁判所に対し証人尋問をテレビ会議によって行うよう要請した。",
+    "vocabularyList": [
+      {
+        "word": "testimony",
+        "translation": "証言"
+      },
+      {
+        "word": "under oath",
+        "translation": "宣誓の上"
+      },
+      {
+        "word": "opposing counsel",
+        "translation": "相手方弁護士"
+      },
+      {
+        "word": "geographical constraints",
+        "translation": "地理的制約"
+      },
+      {
+        "word": "via videoconference",
+        "translation": "テレビ会議によって"
+      },
+      {
+        "word": "material to the case",
+        "translation": "事件に関係のある"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Order",
+    "definition": "A form of binding judicial decision issued by the court on procedural or interlocutory matters that do not involve the final disposition of the case, typically issued without the need for formal oral arguments.",
+    "japaneseDefinition": "訴訟手続上の事項について、裁判所が判決によらずに発する裁判形式の一つ。通常、口頭弁論を経ることなく、当事者の主張や疎明に基づき行われる。",
+    "japaneseWordTranslation": "決定 (けってい)",
+    "legalContext": "Code of Civil Procedure Art. 114: A judicial order (決定) or ruling (命令) becomes effective upon being issued by the court.",
+    "japaneseLegalContext": "民事訴訟法第114条: 決定及び命令は、裁判所がこれを言い渡した時から効力を生ずる。",
+    "exampleSentence": "The plaintiff filed an immediate appeal against the judicial order concerning the adoption of certain documentary evidence.",
+    "exampleTranslation": "原告は、特定の書証の採用に関する裁判所の決定に対して、即時抗告を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "interlocutory matters",
+        "translation": "中間的な事項"
+      },
+      {
+        "word": "final disposition",
+        "translation": "終局的な処分"
+      },
+      {
+        "word": "immediate appeal",
+        "translation": "即時抗告"
+      },
+      {
+        "word": "documentary evidence",
+        "translation": "書証"
+      },
+      {
+        "word": "filed an appeal against",
+        "translation": "抗告を申し立てた"
+      },
+      {
+        "word": "adoption (of evidence)",
+        "translation": "採用"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Court of First Instance",
+    "definition": "The trial court (District Court, Summary Court, etc.) where a lawsuit is initially commenced, facts are primarily determined, and the first judgment on the merits is rendered.",
+    "japaneseDefinition": "民事訴訟において、訴えが最初に提起され、事実審理が行われて、本案判決が下される裁判所（地方裁判所、簡易裁判所など）。",
+    "japaneseWordTranslation": "第一審裁判所 (だいいっしんさいばんしょ)",
+    "legalContext": "The determination of the scope of the case and the examination of evidence are primarily the responsibility of the Court of First Instance.",
+    "japaneseLegalContext": "事件の範囲の確定及び証拠調べの実施は、主として第一審裁判所の職責である。",
+    "exampleSentence": "If the parties are dissatisfied with the ruling of the Court of First Instance, they may generally file a kōso appeal to the High Court.",
+    "exampleTranslation": "当事者が第一審裁判所の判決に不服がある場合、原則として高等裁判所に対し控訴を提起することができる。",
+    "vocabularyList": [
+      {
+        "word": "suit (lawsuit)",
+        "translation": "訴訟"
+      },
+      {
+        "word": "on the merits",
+        "translation": "本案について"
+      },
+      {
+        "word": "rendered (a judgment)",
+        "translation": "下される"
+      },
+      {
+        "word": "determination of the scope",
+        "translation": "範囲の確定"
+      },
+      {
+        "word": "dissatisfied with",
+        "translation": "不服がある"
+      },
+      {
+        "word": "High Court",
+        "translation": "高等裁判所"
+      }
+    ]
   }
 ]

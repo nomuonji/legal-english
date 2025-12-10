@@ -1866,5 +1866,119 @@
         "translation": "効力発生 (kōryoku hassei)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reappointment Registration",
+    "definition": "The mandatory commercial registration required when an officer (such as a director or statutory auditor) is confirmed to continue their term of office immediately upon the expiration of their previous term, requiring documentation proving the renewal resolution.",
+    "japaneseDefinition": "任期満了後、役員が引き続き同職に就任することが決議された場合に行う登記。役員の連続性を維持する場合であっても、任期変更の事実は公にされなければならない。",
+    "japaneseWordTranslation": "重任登記 (じゅうにんとうき)",
+    "legalContext": "Company Act Art. 332 (Term of Office for Directors) requires specific term lengths, necessitating Reappointment Registration even if the personnel remains unchanged upon expiration of the term.",
+    "japaneseLegalContext": "会社法第332条（取締役の任期）は、任期が満了した場合、たとえ同一人物が再任されたとしても、重任の事実を登記することを要求する。",
+    "exampleSentence": "Failure to file the Reappointment Registration within two weeks of the expiration of the director's term constitutes neglect of registration duty, potentially incurring an administrative fine.",
+    "exampleTranslation": "取締役の任期満了から2週間以内に重任登記を申請しなかった場合、登記懈怠となり、過料に処せられる可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "expiration of the term",
+        "translation": "任期満了 (にんきまんりょう)"
+      },
+      {
+        "word": "officer",
+        "translation": "役員 (やくいん)"
+      },
+      {
+        "word": "administrative fine",
+        "translation": "過料 (かりょう)"
+      },
+      {
+        "word": "neglect of registration duty",
+        "translation": "登記懈怠 (とうきけたい)"
+      },
+      {
+        "word": "resolution",
+        "translation": "決議 (けつぎ)"
+      },
+      {
+        "word": "file",
+        "translation": "申請する (しんせいする)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Negative Effect Principle",
+    "definition": "A fundamental principle of commercial registration stipulating that if a company fails to register a matter required to be registered, the company cannot assert that matter against any third party who acts without knowledge of the unregistered fact (in good faith).",
+    "japaneseDefinition": "登記すべき事項が登記されていない場合、その会社はその事項をもって善意の第三者に対抗することができないという原則。登録簿の不備による取引の安全を保護する。",
+    "japaneseWordTranslation": "不登録の不利益 (ふとうろくのふりえき)",
+    "legalContext": "Company Act Art. 908(2): If a matter required to be registered is not registered, it cannot be asserted against a third party who acted without knowledge of such matter.",
+    "japaneseLegalContext": "会社法第908条第2項：登記すべき事項が登記されていないときは、善意の第三者に対抗することができない。",
+    "exampleSentence": "Due to the Negative Effect Principle, the Company could not assert the internal restriction on the Representative Director's authority against the counterparty, as that restriction had not been recorded.",
+    "exampleTranslation": "不登録の不利益の原則により、会社は、その制限が記録されていなかったため、代表取締役の権限に関する内部制限を相手方に対抗できなかった。",
+    "vocabularyList": [
+      {
+        "word": "assert",
+        "translation": "対抗する (たいこうする)"
+      },
+      {
+        "word": "unregistered fact",
+        "translation": "未登録の事実 (みとうろくのじじつ)"
+      },
+      {
+        "word": "counterparty",
+        "translation": "相手方 (あいてかた)"
+      },
+      {
+        "word": "good faith",
+        "translation": "善意 (ぜんい)"
+      },
+      {
+        "word": "restriction on authority",
+        "translation": "権限の制限 (けんげんのせいげん)"
+      },
+      {
+        "word": "doctrine",
+        "translation": "法理 (ほうり)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration by Corporate Resolution",
+    "definition": "A procedure in commercial registration where the application for changes to registered matters must be accompanied by the minutes or certification of the appropriate corporate body (e.g., shareholders' meeting or board of directors) that formally approved the change.",
+    "japaneseDefinition": "登記すべき事項の変更に関して、その変更を承認した取締役会や株主総会などの議事録を添付し、企業体の有効な意思決定に基づいて登記申請を行う手続き。",
+    "japaneseWordTranslation": "決議による登記申請 (けつぎによるとうきしんせい)",
+    "legalContext": "Commercial Registration Act Art. 46 dictates that applications for registration requiring the approval of a corporate body must append the documents verifying that approval (e.g., minutes of the meeting).",
+    "japaneseLegalContext": "商業登記法第46条は、企業体の承認を要する登記申請について、その承認を証明する書面（例：議事録）を添付しなければならないと定める。",
+    "exampleSentence": "The application for registration of the capital increase was rejected because the applicant failed to submit the required minutes confirming the Registration by Corporate Resolution.",
+    "exampleTranslation": "増資の登記申請は、決議による登記申請を裏付ける必要な議事録の提出を怠ったため、却下された。",
+    "vocabularyList": [
+      {
+        "word": "minutes",
+        "translation": "議事録 (ぎじろく)"
+      },
+      {
+        "word": "capital increase",
+        "translation": "増資 (ぞうし)"
+      },
+      {
+        "word": "corporate body",
+        "translation": "企業体 (きぎょうたい)"
+      },
+      {
+        "word": "approval",
+        "translation": "承認 (しょうにん)"
+      },
+      {
+        "word": "application",
+        "translation": "申請 (しんせい)"
+      },
+      {
+        "word": "rejected",
+        "translation": "却下された (きゃっかされた)"
+      }
+    ]
   }
 ]

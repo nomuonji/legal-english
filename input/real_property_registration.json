@@ -1816,5 +1816,111 @@
         "translation": "変更"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Establishment of Mortgage",
+    "definition": "The official recording process that registers the creation of a mortgage (a security interest) over immovable property, typically filed to secure a debt or obligation.",
+    "japaneseDefinition": "債権を担保するために、債務者が所有する不動産に抵当権を設定し、その権利を登記簿に記録すること。",
+    "japaneseWordTranslation": "抵当権設定登記 (ていとうけんせっていとうき)",
+    "legalContext": "Real Property Registration Law Art. 81: Registration concerning the creation, transfer, modification, or extinguishment of a mortgage shall be effected jointly by the registration obligee and the registration obligor.",
+    "japaneseLegalContext": "不動産登記法第81条: 抵当権の保存、設定、移転、変更又は消滅の登記は、登記権利者及び登記義務者が共同して申請しなければならない。",
+    "exampleSentence": "The bank required the immediate filing of the Registration of Establishment of Mortgage upon the closing of the loan agreement to ensure their priority claim.",
+    "exampleTranslation": "銀行は、優先的な債権を確保するため、ローン契約締結後直ちに抵当権設定登記の申請を要求した。",
+    "vocabularyList": [
+      {
+        "word": "security interest",
+        "translation": "担保権 (tanpoken)"
+      },
+      {
+        "word": "priority claim",
+        "translation": "優先的債権 (yūsenteki saiken)"
+      },
+      {
+        "word": "mortgagee",
+        "translation": "抵当権者 (teitōkensha)"
+      },
+      {
+        "word": "loan agreement",
+        "translation": "金銭消費貸借契約 (kinsen shōhidaishaku keiyaku)"
+      },
+      {
+        "word": "obligor",
+        "translation": "義務者 (gimusha)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Application for Registration by a Single Party",
+    "definition": "A procedure where the application for registration is submitted solely by one party, either the registered right holder or the person seeking the registration, rather than the standard requirement for a joint application by both obligee and obligor.",
+    "japaneseDefinition": "登記の申請を、登記権利者と登記義務者の共同ではなく、一方の当事者のみが行うこと。主に、権利の保存や登記名義人の表示の変更などで行われる。",
+    "japaneseWordTranslation": "単独申請 (たんどくしんせい)",
+    "legalContext": "Real Property Registration Law Art. 63: An application for registration may be filed by a single party in cases concerning the preservation of ownership or when otherwise provided for by law.",
+    "japaneseLegalContext": "不動産登記法第63条: 所有権の保存の登記その他の法令に別段の定めがある登記の申請は、単独申請によりすることができる。",
+    "exampleSentence": "The Application for Registration by a Single Party was permitted for the change of address registration, as it concerned only the identity of the registered title holder, not the underlying right.",
+    "exampleTranslation": "住所変更登記については、 underlying right ではなく登記名義人の表示のみに関するため、単独申請が認められた。",
+    "vocabularyList": [
+      {
+        "word": "single party",
+        "translation": "一方当事者 (ippō tōjisha)"
+      },
+      {
+        "word": "registered title holder",
+        "translation": "登記名義人 (tōki meiginin)"
+      },
+      {
+        "word": "joint application",
+        "translation": "共同申請 (kyōdō shinsei)"
+      },
+      {
+        "word": "preservation of ownership",
+        "translation": "所有権の保存 (shoyūken no hozon)"
+      },
+      {
+        "word": "change of address",
+        "translation": "住所の変更 (jūsho no henkō)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Survey Map",
+    "definition": "A legally required drawing showing the location, shape, and area of a parcel of land (chiban), prepared by a licensed land and house investigator, and submitted when registering changes to the land's physical description, such as division or area correction.",
+    "japaneseDefinition": "土地の一筆ごとの形状及び地積を明らかにする図面であり、土地家屋調査士によって作成され、分筆や地積更正などの登記申請の際に添付が義務付けられている図面。",
+    "japaneseWordTranslation": "地積測量図 (ちせきそくりょうず)",
+    "legalContext": "Real Property Registration Law Art. 37: An application for division registration, consolidation registration, or area correction registration of land must be accompanied by a Survey Map.",
+    "japaneseLegalContext": "不動産登記法第37条: 土地の分筆の登記、合筆の登記又は地積に関する更正の登記の申請をするときは、地積測量図を提供しなければならない。",
+    "exampleSentence": "The registrar rejected the application for land division because the submitted Survey Map contained discrepancies in the calculated area and boundary markers.",
+    "exampleTranslation": "提出された地積測量図に計算された面積と境界標の不一致があったため、登記官は土地分筆の申請を却下した。",
+    "vocabularyList": [
+      {
+        "word": "parcel of land",
+        "translation": "一筆の土地 (hippitsu no tochii)"
+      },
+      {
+        "word": "land division",
+        "translation": "分筆 (bunpitsu)"
+      },
+      {
+        "word": "area correction",
+        "translation": "地積更正 (chiseki kōsei)"
+      },
+      {
+        "word": "discrepancies",
+        "translation": "不一致 (fuitchi)"
+      },
+      {
+        "word": "boundary markers",
+        "translation": "境界標 (kyōkaihyō)"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官 (tōkikan)"
+      }
+    ]
   }
 ]

@@ -1854,5 +1854,119 @@
         "translation": "第三者に対抗する"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Creditor Protection Procedures",
+    "definition": "A mandatory legal procedure in corporate actions (such as mergers, company splits, or capital reduction) requiring the company to notify known creditors and give them a specified period to raise objections concerning the change in the company's financial structure.",
+    "japaneseDefinition": "会社が合併、会社分割、資本金の額の減少等を行う際に、会社債権者の利益を保護するため、異議申述の機会を確保することを義務付ける手続。",
+    "japaneseWordTranslation": "債権者異議手続 (さいけんしゃいぎてつづき)",
+    "legalContext": "Companies Act Art. 789 (Public Notice and Separate Notices to Creditors regarding Absorption-Type Merger)",
+    "japaneseLegalContext": "会社法第789条（吸収合併等の場合の債権者の異議手続）",
+    "exampleSentence": "The effectiveness of the corporate reorganization is conditional upon the proper completion of the Creditor Protection Procedures required under the Companies Act.",
+    "exampleTranslation": "企業再編の効力発生は、会社法に基づき義務付けられる債権者異議手続の適切な完了を条件とする。",
+    "vocabularyList": [
+      {
+        "word": "effectiveness",
+        "translation": "効力発生 (kōryoku hassei)"
+      },
+      {
+        "word": "corporate reorganization",
+        "translation": "企業再編 (kigyō saihen)"
+      },
+      {
+        "word": "conditional upon",
+        "translation": "～を条件として (o jōken to shite)"
+      },
+      {
+        "word": "proper completion",
+        "translation": "適切な完了 (tekisetsu na kanryō)"
+      },
+      {
+        "word": "raise objections",
+        "translation": "異議を申し立てる (igi o mōshitatēru)"
+      },
+      {
+        "word": "mandatory legal procedure",
+        "translation": "法的に義務付けられた手続 (hōteki ni gimuzuke rareta tetsuzuki)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Indemnification Agreement",
+    "definition": "A contract between a stock company and its officers or directors that stipulates the company will indemnify them against liabilities, expenses, or losses incurred while performing their duties, often subject to a financial ceiling and shareholder approval.",
+    "japaneseDefinition": "会社と役員等との間で、任務の遂行に関連して発生した損害賠償責任、費用等について、会社が役員等に代わってこれを補償する旨を定める契約。",
+    "japaneseWordTranslation": "補償契約 (ほしょうけいやく)",
+    "legalContext": "Companies Act Art. 430-2 (Indemnification Agreements with Officers and Directors)",
+    "japaneseLegalContext": "会社法第430条の2（役員等との間の補償契約）",
+    "exampleSentence": "The execution of the new Indemnification Agreement required a resolution by the Board of Directors, specifying the maximum amount of indemnifiable expenses.",
+    "exampleTranslation": "新たな補償契約の締結には、取締役会による決議が必要であり、その中で補償可能な費用の上限額が特定されなければならなかった。",
+    "vocabularyList": [
+      {
+        "word": "execution (of a contract)",
+        "translation": "締結 (teiketsu)"
+      },
+      {
+        "word": "liabilities",
+        "translation": "賠償責任 (baishō sekinin)"
+      },
+      {
+        "word": "incurred",
+        "translation": "発生した (hassei shita)"
+      },
+      {
+        "word": "maximum amount",
+        "translation": "上限額 (jōgen-gaku)"
+      },
+      {
+        "word": "indemnifiable expenses",
+        "translation": "補償可能な費用 (hoshō kanō na hiyō)"
+      },
+      {
+        "word": "performing duties",
+        "translation": "任務の遂行 (ninmu no suikō)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Acquisition of Own Shares",
+    "definition": "The procedure by which a company purchases or otherwise obtains shares issued by itself. This process is strictly governed by the Companies Act to protect creditors and other shareholders, typically requiring a shareholder resolution (except in certain specified market purchases).",
+    "japaneseDefinition": "株式会社が自ら発行した株式を取得すること。株主総会の決議等、会社法で定められた厳格な手続及び要件に従って行われる。",
+    "japaneseWordTranslation": "自己株式の取得 (じこかぶしきのしゅとく)",
+    "legalContext": "Companies Act Art. 155 (Methods of Acquisition of Own Shares)",
+    "japaneseLegalContext": "会社法第155条（自己株式の取得の方法）",
+    "exampleSentence": "The resolution for the Acquisition of Own Shares must clearly specify the maximum total number of shares to be acquired and the total amount to be paid for such acquisition.",
+    "exampleTranslation": "自己株式の取得に関する決議は、取得する株式の総数の上限と、その取得に充てる金銭の総額を明確に特定しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "purchases or otherwise obtains",
+        "translation": "買入れその他の方法により取得する (kaiire sonota no hōhō ni yori shutoku suru)"
+      },
+      {
+        "word": "strictly governed",
+        "translation": "厳格に規定される (genkaku ni kitei sareru)"
+      },
+      {
+        "word": "resolution",
+        "translation": "決議 (ketsugi)"
+      },
+      {
+        "word": "total amount to be paid",
+        "translation": "支払う金銭の総額 (shiharau kinsen no sōgaku)"
+      },
+      {
+        "word": "maximum total number",
+        "translation": "総数の上限 (sōgaku no jōgen)"
+      },
+      {
+        "word": "stock company",
+        "translation": "株式会社 (kabushiki gaisha)"
+      }
+    ]
   }
 ]

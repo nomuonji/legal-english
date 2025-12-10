@@ -2,40 +2,6 @@
   {
     "category": "Constitution (憲法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Fundamental Human Rights",
-    "definition": "Inviolable rights guaranteed to all people by the Constitution, which cannot be infringed upon by the state.",
-    "japaneseDefinition": "憲法によってすべての人に保障される、国家権力によっても侵すことのできない権利。",
-    "japaneseWordTranslation": "基本的人権 (きほんてきじんけん)",
-    "legalContext": "Constitution Art. 11: The people shall not be prevented from enjoying any of the fundamental human rights.",
-    "japaneseLegalContext": "憲法第11条：国民は、すべての基本的人権の享有を妨げられない。",
-    "exampleSentence": "Freedom of speech is one of the fundamental human rights protected by the Constitution.",
-    "exampleTranslation": "言論の自由は、憲法によって保障された基本的人権の一つである。",
-    "vocabularyList": [
-      {
-        "word": "Inviolable",
-        "translation": "侵すことのできない"
-      },
-      {
-        "word": "Guarantee",
-        "translation": "保障する"
-      },
-      {
-        "word": "Infringe",
-        "translation": "侵害する"
-      },
-      {
-        "word": "Freedom of speech",
-        "translation": "言論の自由"
-      },
-      {
-        "word": "State",
-        "translation": "国家"
-      }
-    ]
-  },
-  {
-    "category": "Constitution (憲法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Judicial Power",
     "definition": "The power to adjudicate legal disputes and interpret the law, vested in the Supreme Court and inferior courts.",
     "japaneseDefinition": "法的紛争を解決し法を解釈する権限であり、最高裁判所および下級裁判所に属する。",
@@ -2002,6 +1968,128 @@
       {
         "word": "pursuit of happiness",
         "translation": "幸福追求"
+      }
+    ]
+  },
+  {
+    "category": "Constitution (憲法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Separation of Church and State",
+    "definition": "The principle prohibiting the state from engaging in religious activities or granting privileges to any specific religious organization.",
+    "japaneseDefinition": "国家が宗教的活動を行うこと、または特定の宗教団体に特権を与えたりすることを禁じる原則。",
+    "japaneseWordTranslation": "政教分離の原則 (せいきょうぶんりのげんそく)",
+    "legalContext": "Constitution of Japan, Art. 20, Para. 3: The State and its organs shall refrain from religious education or any other religious activity.",
+    "japaneseLegalContext": "日本国憲法第20条第3項：国及びその機関は、宗教教育その他いかなる宗教的活動もしてはならない。",
+    "exampleSentence": "The principle of the Separation of Church and State is often invoked in cases concerning public funding for religious facilities or events.",
+    "exampleTranslation": "政教分離の原則は、宗教施設や行事に対する公的資金の支出に関する訴訟においてしばしば援用される。",
+    "vocabularyList": [
+      {
+        "word": "Refrain from",
+        "translation": "差し控える"
+      },
+      {
+        "word": "Religious activity",
+        "translation": "宗教的活動"
+      },
+      {
+        "word": "Public funding",
+        "translation": "公的資金"
+      },
+      {
+        "word": "Invoked",
+        "translation": "援用される"
+      },
+      {
+        "word": "Principle",
+        "translation": "原則"
+      },
+      {
+        "word": "Organs",
+        "translation": "機関"
+      }
+    ]
+  },
+  {
+    "category": "Constitution (憲法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Equality under the Law",
+    "definition": "The guarantee that all citizens are equal and that there shall be no discrimination in political, economic, or social relations based on race, creed, sex, social status, or family origin.",
+    "japaneseDefinition": "すべての国民が平等であり、人種、信条、性別、社会的身分または門地により、政治的、経済的又は社会的関係において差別されないという保証。",
+    "japaneseWordTranslation": "法の下の平等 (ほうのもとのびょうどう)",
+    "legalContext": "Constitution of Japan, Art. 14, Para. 1: All of the people are equal under the law and there shall be no discrimination in political, economic or social relations because of race, creed, sex, social status or family origin.",
+    "japaneseLegalContext": "日本国憲法第14条第1項：すべて国民は、法の下に平等であつて、人種、信条、性別、社会的身分又は門地により、政治的、経済的又は社会的関係において、差別されない。",
+    "exampleSentence": "Courts apply rational basis review when evaluating whether a classification established by law violates the guarantee of Equality under the Law.",
+    "exampleTranslation": "裁判所は、法律によって確立された区分が法の下の平等の保証に違反するかどうかを評価する際、合理性の基準による審査を適用する。",
+    "vocabularyList": [
+      {
+        "word": "Guarantee",
+        "translation": "保証"
+      },
+      {
+        "word": "Discrimination",
+        "translation": "差別"
+      },
+      {
+        "word": "Social status",
+        "translation": "社会的身分"
+      },
+      {
+        "word": "Creed",
+        "translation": "信条"
+      },
+      {
+        "word": "Classification",
+        "translation": "区分"
+      },
+      {
+        "word": "Rational basis review",
+        "translation": "合理性の基準による審査"
+      },
+      {
+        "word": "Violates",
+        "translation": "違反する"
+      }
+    ]
+  },
+  {
+    "category": "Constitution (憲法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Freedom of Academic Study",
+    "definition": "The fundamental right encompassing the freedom of research, the freedom of teaching, and the freedom of announcing the results of research.",
+    "japaneseDefinition": "研究の自由、教授の自由、及び研究成果を発表する自由を含む基本的人権。",
+    "japaneseWordTranslation": "学問の自由 (がくもんのじゆう)",
+    "legalContext": "Constitution of Japan, Art. 23: Academic freedom is guaranteed.",
+    "japaneseLegalContext": "日本国憲法第23条：学問の自由は、これを保障する。",
+    "exampleSentence": "The scope of the Freedom of Academic Study is generally understood to afford broad protection to university professors regarding their specialized research and instruction.",
+    "exampleTranslation": "学問の自由の範囲は、通常、大学教授の専門的な研究と指導に関して広範な保護を与えるものとして理解されている。",
+    "vocabularyList": [
+      {
+        "word": "Guaranteed",
+        "translation": "保障される"
+      },
+      {
+        "word": "Scope",
+        "translation": "範囲"
+      },
+      {
+        "word": "Afford protection",
+        "translation": "保護を与える"
+      },
+      {
+        "word": "Instruction",
+        "translation": "指導"
+      },
+      {
+        "word": "Research",
+        "translation": "研究"
+      },
+      {
+        "word": "Specialized",
+        "translation": "専門的な"
+      },
+      {
+        "word": "Fundamental right",
+        "translation": "基本的人権"
       }
     ]
   }

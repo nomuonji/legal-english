@@ -1848,5 +1848,115 @@
         "translation": "仮処分 (かりしょぶん)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibitory Provisional Injunction",
+    "definition": "A type of provisional disposition ordered by the court that temporarily prohibits the preservation debtor from performing a specific action (a negative act, or *fusakui*), such as transferring property or engaging in commercial activities in violation of an agreement.",
+    "japaneseDefinition": "債務者に対し、一定の作為または不作為を一時的に命じる仮処分命令のうち、特に不作為（してはいけないこと）を命じるもの。地位を定める仮処分において多く用いられる。",
+    "japaneseWordTranslation": "不作為を命ずる仮処分 (ふさくいをめいずるかしょぶん)",
+    "legalContext": "Civil Preservation Law Art. 23 (2): Provisional disposition aiming to secure a temporary status quo (地位を定める仮処分).",
+    "japaneseLegalContext": "民事保全法第23条第2項：地位を定める仮処分。特に不作為を目的とする場合。",
+    "exampleSentence": "The court granted a prohibitory provisional injunction, barring the defendant from using the trade secrets while the main intellectual property dispute was pending.",
+    "exampleTranslation": "裁判所は、主要な知的財産権の紛争が係属している間、被告が営業秘密を使用することを禁じる不作為を命ずる仮処分を下した。",
+    "vocabularyList": [
+      {
+        "word": "trade secrets",
+        "translation": "営業秘密 (えいぎょうひみつ)"
+      },
+      {
+        "word": "barring",
+        "translation": "禁じる (きんじる)"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告 (ひこく)"
+      },
+      {
+        "word": "intellectual property",
+        "translation": "知的財産権 (ちてきざいさんけん)"
+      },
+      {
+        "word": "pending",
+        "translation": "係属中の (けいぞくちゅうの)"
+      },
+      {
+        "word": "granted",
+        "translation": "許可した (きょかした)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Immediate Effect of Preservation Order",
+    "definition": "The legal principle stipulating that a preservation order (such as a provisional attachment order) takes full legal effect immediately upon its issuance by the preservation court, irrespective of whether formal service to the preservation debtor has been completed.",
+    "japaneseDefinition": "保全命令が裁判所によって発せられた時点で、保全債務者への送達を待たずに直ちに効力を生じる原則。保全措置の実効性を確保するための手続。",
+    "japaneseWordTranslation": "保全命令の即時効 (ほぜんめいれいのそくじこう)",
+    "legalContext": "Civil Preservation Law establishes procedures allowing execution to commence immediately, prioritizing urgency over the strict service requirements of ordinary civil litigation.",
+    "japaneseLegalContext": "民事保全法における手続的規定（通常訴訟における厳格な送達要件よりも緊急性を優先）。",
+    "exampleSentence": "The execution officer proceeded with the seizure based on the immediate effect of the preservation order, ensuring the claim was secured before the debtor could hide the assets.",
+    "exampleTranslation": "保全命令の即時効に基づき、執行官は差押えを進め、債務者が財産を隠す前に債権が保全されることを確実にした。",
+    "vocabularyList": [
+      {
+        "word": "execution officer",
+        "translation": "執行官 (しっこうかん)"
+      },
+      {
+        "word": "proceeded with",
+        "translation": "進めた (すすめた)"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え (さしおさえ)"
+      },
+      {
+        "word": "secured",
+        "translation": "保全された (ほぜんされた)"
+      },
+      {
+        "word": "hide the assets",
+        "translation": "財産を隠す (ざいさんをかくす)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Substitution of Security",
+    "definition": "A judicial decision permitting the party who provided security (usually the preservation obligee) to replace the original security deposit (often cash) with alternative collateral, such as securities or a bank guarantee, provided the court deems the new security equivalent and adequate.",
+    "japaneseDefinition": "保全担保を提供した者（主に保全債権者）が、裁判所の決定により、既に提供した担保の目的物（現金供託など）を他の担保（有価証券や銀行保証など）に変更することを認める裁判所の決定。",
+    "japaneseWordTranslation": "担保の変更決定 (たんぽのへんこうけってい)",
+    "legalContext": "Civil Preservation Law Art. 18 (担保の変更). The court may allow a substitution if there is a motion by the provider of security.",
+    "japaneseLegalContext": "民事保全法第18条 (担保の変更)。担保提供者の申立てに基づき、裁判所が代替を許可する場合がある。",
+    "exampleSentence": "The preservation obligee sought an Order for Substitution of Security to free up their cash flow by replacing the existing deposit with an irrevocable letter of credit.",
+    "exampleTranslation": "保全債権者は、既存の供託金を取消不能信用状に置き換えることで、キャッシュフローを解放するために担保の変更決定を求めた。",
+    "vocabularyList": [
+      {
+        "word": "free up cash flow",
+        "translation": "キャッシュフローを解放する (かいほうする)"
+      },
+      {
+        "word": "irrevocable letter of credit",
+        "translation": "取消不能信用状 (とりけしふのうしんようじょう)"
+      },
+      {
+        "word": "provided security",
+        "translation": "担保を提供した (たんぽをていきょうした)"
+      },
+      {
+        "word": "existing deposit",
+        "translation": "既存の供託金 (きそんのきょうたくきん)"
+      },
+      {
+        "word": "equivalent",
+        "translation": "同等の (どうとうの)"
+      },
+      {
+        "word": "collateral",
+        "translation": "担保物 (たんぽぶつ)"
+      }
+    ]
   }
 ]

@@ -2086,5 +2086,119 @@
         "translation": "合意 (gōi)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Error (Mistake)",
+    "definition": "A flaw in the declaration of intent, where the party making the declaration misunderstands or misstates the substance of the juridical act (e.g., identity of the counterparty, object of the transaction, or the legal effect).",
+    "japaneseDefinition": "意思表示の内容と真意との不一致、または意思表示に至る動機についての錯誤を指します。民法改正により、原則として錯誤は取消しの対象となりました。",
+    "japaneseWordTranslation": "錯誤 (さくご)",
+    "legalContext": "Civil Code Art. 95, Para. 1: A manifestation of intention shall be voidable if it is based on an Error regarding the substance of the juridical act, provided that the error is material.",
+    "japaneseLegalContext": "民法第95条第1項: 意思表示は、次に掲げる錯誤に基づくものであって、その錯誤が法律行為の目的及び取引上の社会通念に照らして重要なものであるときは、取り消すことができる。",
+    "exampleSentence": "The obligor sought to avoid the sales agreement based on an Error concerning the property's area, arguing that the mistake was material to the formation of intent.",
+    "exampleTranslation": "債務者は、不動産の面積に関する錯誤に基づき、その錯誤が意思形成に重要であったと主張し、売買契約の取消しを求めた。",
+    "vocabularyList": [
+      {
+        "word": "material",
+        "translation": "重要な"
+      },
+      {
+        "word": "declaration of intent",
+        "translation": "意思表示"
+      },
+      {
+        "word": "voidable",
+        "translation": "取り消すことができる"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "juridical act",
+        "translation": "法律行為"
+      },
+      {
+        "word": "counterparty",
+        "translation": "相手方"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Hypothec",
+    "definition": "A real right (security interest) established over immovable property (land or buildings) to secure a claim, without requiring the transfer of possession of the property to the creditor.",
+    "japaneseDefinition": "債権の担保として、債務者または第三者が占有を移転することなく不動産について設定する担保物権。優先弁済権を有する。",
+    "japaneseWordTranslation": "抵当権 (ていとうけん)",
+    "legalContext": "Civil Code Art. 369, Para. 1: The holder of a Hypothec is entitled to obtain satisfaction of their claim out of the immovable property provided by the debtor or a third party as security, in preference to other creditors.",
+    "japaneseLegalContext": "民法第369条第1項: 抵当権者は、債務者又は第三者が担保に供した不動産について、他の債権者に先立って自己の債権の弁済を受けることができる。",
+    "exampleSentence": "The bank established a Hypothec on the land to secure the business loan, thus obtaining a secured claim against the corporate debtor.",
+    "exampleTranslation": "銀行は事業融資を担保するためその土地に抵当権を設定し、これにより法人債務者に対して担保付債権を取得した。",
+    "vocabularyList": [
+      {
+        "word": "secured claim",
+        "translation": "担保付債権"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保物権"
+      },
+      {
+        "word": "priority payment",
+        "translation": "優先弁済"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Duress / Coercion",
+    "definition": "The act of compelling a person to make a declaration of intent by intimidating them with the threat of harm, allowing the compelled party to later avoid the resulting juridical act.",
+    "japaneseDefinition": "他者を脅迫し、恐怖心に基づき意思表示をさせる行為。これにより生じた法律行為は、脅迫を受けた者が取り消すことができる。",
+    "japaneseWordTranslation": "強迫 (きょうはく)",
+    "legalContext": "Civil Code Art. 96, Para. 1: A manifestation of intention that is made as a result of Duress shall be voidable by the declarant.",
+    "japaneseLegalContext": "民法第96条第1項: 詐欺又は強迫による意思表示は、取り消すことができる。",
+    "exampleSentence": "The plaintiff argued that the transfer of shares was executed under Duress, as the defendant had threatened violence against his family members.",
+    "exampleTranslation": "原告は、被告が家族に対する暴力を脅迫したため、株式譲渡は強迫の下で実行されたと主張した。",
+    "vocabularyList": [
+      {
+        "word": "declarant",
+        "translation": "意思表示をした者（表意者）"
+      },
+      {
+        "word": "avoid (verb)",
+        "translation": "取り消す"
+      },
+      {
+        "word": "threat of harm",
+        "translation": "危害の脅威"
+      },
+      {
+        "word": "compelling",
+        "translation": "強要する"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "transfer of shares",
+        "translation": "株式譲渡"
+      }
+    ]
   }
 ]

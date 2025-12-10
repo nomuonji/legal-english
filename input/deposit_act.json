@@ -1976,5 +1976,123 @@
         "translation": "法定期間"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reclaimable Asset",
+    "definition": "Property that the original obligor is legally entitled to recover from the deposit office, typically because the statutory cause for the deposit has ceased to exist or the deposit procedure was deemed unnecessary.",
+    "japaneseDefinition": "供託の原因が消滅した場合や、供託が不要となった場合に、供託者（元々の債務者）が供託所から取り戻すことが法的に認められている財産。",
+    "japaneseWordTranslation": "取戻可能な財産 (とりもどし かのうな ざいさん)",
+    "legalContext": "Deposit Act Art. 32 (1): The depositor may recover the deposit in cases where the cause for the deposit has ceased to exist.",
+    "japaneseLegalContext": "供託法第三十二条第一項: 供託の原因が消滅したときは、供託者は、供託物を取り戻すことができる。",
+    "exampleSentence": "The debtor filed a motion arguing that, subsequent to the rejection of performance, the **reclaimable asset** must be returned because the underlying debt had been satisfied via other means.",
+    "exampleTranslation": "債務者は、履行の受領拒否後、根底にある債務が他の手段で弁済されたため、その取戻可能な財産を返還すべきであると主張する申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "rejection of performance",
+        "translation": "履行の受領拒否"
+      },
+      {
+        "word": "underlying debt",
+        "translation": "根底にある債務"
+      },
+      {
+        "word": "satisfied",
+        "translation": "弁済された"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "return",
+        "translation": "返還"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Administration",
+    "definition": "The entirety of administrative tasks, including the receiving, management, recording, and eventual disposition of deposited properties and related documentation, conducted by designated governmental offices.",
+    "japaneseDefinition": "供託された財産の受理、管理、記録、および最終的な処分に関する、指定された官庁によって遂行される一連の行政業務。",
+    "japaneseWordTranslation": "供託事務 (きょうたく じむ)",
+    "legalContext": "Court Organization Act Art. 60 (2): Matters concerning deposit administration shall be handled by the Ministry of Justice, subject to the laws and ordinances.",
+    "japaneseLegalContext": "裁判所法第六十条第二項: 供託に関する事務は、法律の定めるところにより、法務省において取り扱う。",
+    "exampleSentence": "Due to a significant increase in guarantee cases required by law, the local bureau requested additional personnel to assist with the expanding volume of **deposit administration**.",
+    "exampleTranslation": "法令により要求される保証供託案件の著しい増加のため、地方局は増大する供託事務の量に対応するために追加の人員を要請した。",
+    "vocabularyList": [
+      {
+        "word": "local bureau",
+        "translation": "地方局"
+      },
+      {
+        "word": "additional personnel",
+        "translation": "追加の人員"
+      },
+      {
+        "word": "expanding volume",
+        "translation": "増大する量"
+      },
+      {
+        "word": "guarantee cases",
+        "translation": "保証供託案件"
+      },
+      {
+        "word": "laws and ordinances",
+        "translation": "法令"
+      },
+      {
+        "word": "Ministry of Justice",
+        "translation": "法務省"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposited Securities",
+    "definition": "Negotiable instruments (such as stocks, bonds, or other documents representing proprietary interests) that are placed in the custody of a deposit office pursuant to legal requirements, usually in lieu of cash.",
+    "japaneseDefinition": "法的要件に従い、現金の代わりに供託所に預けられた、株券、債券、またはその他の財産的利益を表す有価証券。",
+    "japaneseWordTranslation": "供託有価証券 (きょうたく ゆうか しょうけん)",
+    "legalContext": "Rules on Deposit for Performance of Obligations and Other Matters Art. 2: The subject matter of performance to be deposited may be cash or securities permitted by law.",
+    "japaneseLegalContext": "弁済供託等の手続に関する省令第二条: 弁済の目的物として供託することができるものは、金銭又は法令の規定により供託することができる有価証券とする。",
+    "exampleSentence": "When the required security exceeds the standard cash limits, the applicant is often permitted to submit **deposited securities** as collateral after obtaining official certification.",
+    "exampleTranslation": "要求される担保が標準的な現金限度額を超える場合、申請者は多くの場合、公的証明を得た後に供託有価証券を担保として提出することが許可される。",
+    "vocabularyList": [
+      {
+        "word": "negotiable instruments",
+        "translation": "有価証券"
+      },
+      {
+        "word": "custody",
+        "translation": "保管"
+      },
+      {
+        "word": "pursuant to",
+        "translation": "〜に従って"
+      },
+      {
+        "word": "in lieu of",
+        "translation": "〜の代わりに"
+      },
+      {
+        "word": "collateral",
+        "translation": "担保"
+      },
+      {
+        "word": "applicant",
+        "translation": "申請者"
+      },
+      {
+        "word": "official certification",
+        "translation": "公的証明"
+      }
+    ]
   }
 ]

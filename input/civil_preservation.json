@@ -1958,5 +1958,119 @@
         "translation": "担保物 (たんぽぶつ)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservable Claim",
+    "definition": "The substantive underlying right or claim (such as a claim for payment, delivery, or transfer of ownership) that the preservation measure seeks to protect from being rendered impossible or extremely difficult to enforce.",
+    "japaneseDefinition": "民事保全手続において、保全命令によってその将来の実現が確保されるべき、本案における権利または請求。",
+    "japaneseWordTranslation": "被保全債権 (ひほぜんさいけん)",
+    "legalContext": "Civil Preservation Act Art. 13 (2): 'A provisional attachment shall be granted where it is necessary to preserve the enforceability of a monetary claim.'",
+    "japaneseLegalContext": "民事保全法第13条第2項: 「仮差押えは、金銭の請求権を保全するため、これをすることができる。」",
+    "exampleSentence": "The court examined whether the alleged monetary debt constituted a valid preservable claim justifying the issuance of a provisional attachment order.",
+    "exampleTranslation": "裁判所は、申し立てられた金銭債務が、仮差押命令の発令を正当化する有効な被保全債権を構成するかどうかを検討した。",
+    "vocabularyList": [
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権 (きんせんさいけん)"
+      },
+      {
+        "word": "substantive right",
+        "translation": "実体権 (じったいけん)"
+      },
+      {
+        "word": "enforceability",
+        "translation": "執行可能性 (しっこうかのうせい)"
+      },
+      {
+        "word": "alleged debt",
+        "translation": "申立てられた債務 (もうしたてられたさいむ)"
+      },
+      {
+        "word": "justifying",
+        "translation": "正当化する (せいとうかする)"
+      },
+      {
+        "word": "issuance",
+        "translation": "発令 (はつれい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Injunction Prohibiting Transfer of Possession",
+    "definition": "A specific type of provisional disposition (injunction to establish a temporary status quo) used primarily in disputes over delivery or vacation of real property, which prohibits the current possessor from transferring or leasing the property to a third party.",
+    "japaneseDefinition": "特定物に関する給付請求権を保全するために、債務者に対し、その物を第三者に譲渡したり占有を移転したりすることを禁止する保全処分。",
+    "japaneseWordTranslation": "占有移転禁止の仮処分 (せんゆういてんきんしのかりしょぶん)",
+    "legalContext": "Civil Preservation Act Art. 25: This type of injunction is essential to prevent the execution obligor from obstructing future execution by altering the relationship of possession.",
+    "japaneseLegalContext": "民事保全法第25条: この種の仮処分は、執行債務者が占有関係を変更することによって将来の執行を妨害することを防ぐために不可欠である。",
+    "exampleSentence": "The Preservation Court granted an Injunction Prohibiting Transfer of Possession against the tenant to secure the landlord's future claim for vacating the premises.",
+    "exampleTranslation": "保全裁判所は、建物の明渡しを求める家主の将来の請求権を確保するため、賃借人に対して占有移転禁止の仮処分を発令した。",
+    "vocabularyList": [
+      {
+        "word": "landlord",
+        "translation": "家主 (やぬし)"
+      },
+      {
+        "word": "tenant",
+        "translation": "賃借人 (ちんしゃくにん)"
+      },
+      {
+        "word": "vacating the premises",
+        "translation": "建物の明渡し (たてもののあけわたし)"
+      },
+      {
+        "word": "obstructing",
+        "translation": "妨害する (ぼうがいする)"
+      },
+      {
+        "word": "specific performance",
+        "translation": "特定物の給付 (とくていぶつのきゅうふ)"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産 (ふどうさん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Change of Object of Preservation",
+    "definition": "A procedural mechanism allowing the preservation debtor to petition the court to substitute the assets currently subject to a provisional measure with other assets or security, often requested when the originally designated assets are unduly burdensome to the debtor's business or livelihood.",
+    "japaneseDefinition": "保全債務者が、保全の目的とされている物を他の物又は金銭的担保に代えることを裁判所に申し立てる手続。債務者の生活や事業への過度な影響を避けるために認められる。",
+    "japaneseWordTranslation": "保全の目的物の変更 (ほぜんのもくてきぶつのへんこう)",
+    "legalContext": "Civil Preservation Act Art. 41 (1): If the preservation measure would cause significant damage to the debtor, the court may, upon motion, permit a change of the preservation object.",
+    "japaneseLegalContext": "民事保全法第41条第1項: 保全命令が債務者に著しい損害を与えるときは、裁判所は、申立てにより、保全の目的物を変更することを許すことができる。",
+    "exampleSentence": "The debtor filed a motion for Change of Object of Preservation, arguing that the provisional attachment of their primary business account would cause irreparable harm.",
+    "exampleTranslation": "債務者は、主要な事業口座の仮差押えが回復不能な損害をもたらすと主張し、保全の目的物の変更の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "procedural mechanism",
+        "translation": "手続的仕組み (てつづきてきしくみ)"
+      },
+      {
+        "word": "petition the court",
+        "translation": "裁判所に申し立てる (さいばんしょにもうしたてる)"
+      },
+      {
+        "word": "unduly burdensome",
+        "translation": "過度な負担 (かどなふたん)"
+      },
+      {
+        "word": "significant damage",
+        "translation": "著しい損害 (いちじるしいそんがい)"
+      },
+      {
+        "word": "irreparable harm",
+        "translation": "回復不能な損害 (かいふくふのうなそんがい)"
+      },
+      {
+        "word": "livelihood",
+        "translation": "生活 (せいかつ)"
+      }
+    ]
   }
 ]

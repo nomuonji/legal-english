@@ -1922,5 +1922,119 @@
         "translation": "登記官 (tōkikan)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Relation Back Principle",
+    "definition": "The legal principle stipulating that when a registration application is processed and completed, the registration's legal effect retroactively applies from the actual moment the application was received by the Registry Office.",
+    "japaneseDefinition": "登記の申請が完了した際、その登記の法的効力発生時期を申請が登記所に受付された時点に遡らせて認める原則。",
+    "japaneseWordTranslation": "遡及効の原則 (そきゅうこうのげんそく)",
+    "legalContext": "Real Property Registration Act Art. 18 (Time of registration). This article establishes that the registration takes effect upon reception.",
+    "japaneseLegalContext": "不動産登記法第18条（登記の時期）: 登記は、登記官が登記簿に登記を完了した時に効力を生ずる。ただし、登記官が登記を完了する前に登記の申請を取り下げたときは、この限りでない。",
+    "exampleSentence": "Under the Relation Back Principle, the purchaser's ownership is deemed to have been perfected at the point of application submission, even if processing took several days.",
+    "exampleTranslation": "遡及効の原則に基づき、たとえ登記処理に数日を要したとしても、買主の所有権は申請書が提出された時点で既に権利を完全に得ていたと見なされる。",
+    "vocabularyList": [
+      {
+        "word": "retroactively",
+        "translation": "遡及的に"
+      },
+      {
+        "word": "application submission",
+        "translation": "申請書提出"
+      },
+      {
+        "word": "perfected",
+        "translation": "（権利が）完全に成立した"
+      },
+      {
+        "word": "Registry Office",
+        "translation": "登記所"
+      },
+      {
+        "word": "legal effect",
+        "translation": "法的効力"
+      },
+      {
+        "word": "purchaser",
+        "translation": "買主"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Pre-confirmation (Prior Notice) System",
+    "definition": "A procedural safeguard under the Registration Act used when an applicant for ownership-related registration cannot provide the legally mandated Registration Identification Information. The Registry Office sends a notice to the original registered owner asking for confirmation of the application's authenticity.",
+    "japaneseDefinition": "所有権に関する登記の申請者が登記識別情報を提供できない場合に利用される代替手続き。登記官が旧登記名義人に対して申請の真正性を確認するための通知を送付する制度。",
+    "japaneseWordTranslation": "事前通知制度 (じぜんつうちせいど)",
+    "legalContext": "Real Property Registration Act Art. 23 (Measures when Registration Identification Information cannot be provided).",
+    "japaneseLegalContext": "不動産登記法第23条（登記識別情報を提供することができない場合等の措置）: 登記官は、…所有権の登記名義人に対し、登記をすることにつき異議がないか確認するための通知をしなければならない。",
+    "exampleSentence": "The Registry Office invoked the Pre-confirmation System after the seller stated that the original Registration Identification Information for the property had been lost.",
+    "exampleTranslation": "売主が不動産の元の登記識別情報を紛失したと述べたため、登記所は事前通知制度を発動した。",
+    "vocabularyList": [
+      {
+        "word": "procedural safeguard",
+        "translation": "手続き上の保護措置"
+      },
+      {
+        "word": "legally mandated",
+        "translation": "法令で義務付けられた"
+      },
+      {
+        "word": "authenticity",
+        "translation": "真正性"
+      },
+      {
+        "word": "original registered owner",
+        "translation": "元の登記名義人"
+      },
+      {
+        "word": "invoked",
+        "translation": "発動した"
+      },
+      {
+        "word": "confirmation",
+        "translation": "確認"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Change of Registered Title Holder’s Address",
+    "definition": "A type of registration necessary to update or correct descriptive information regarding the registered title holder, such as a change of address or name, which does not affect the underlying rights recorded.",
+    "japaneseDefinition": "登記簿に記録された権利に関する情報自体ではなく、登記名義人の氏名、名称、住所などの表示事項の変更または更正を行うために申請される登記。",
+    "japaneseWordTranslation": "登記名義人表示変更登記 (とうきめいぎにんひょうじへんこうとうき)",
+    "legalContext": "Real Property Registration Act Art. 64 (Application for registration of change of registered title holder's description). This is a single-party application.",
+    "japaneseLegalContext": "不動産登記法第64条（登記名義人の表示の変更の登記等）: 登記名義人の氏名若しくは名称又は住所について変更があったときの登記は、当該登記名義人が単独で申請することができる。",
+    "exampleSentence": "Following the company's relocation to a new headquarters, the firm promptly applied for the Registration of Change of Registered Title Holder’s Address for all its owned properties.",
+    "exampleTranslation": "会社が新しい本社に移転した後、その企業は所有するすべての不動産について速やかに登記名義人表示変更登記を申請した。",
+    "vocabularyList": [
+      {
+        "word": "descriptive information",
+        "translation": "表示情報"
+      },
+      {
+        "word": "underlying rights",
+        "translation": "基礎となる権利"
+      },
+      {
+        "word": "relocation",
+        "translation": "移転"
+      },
+      {
+        "word": "single-party application",
+        "translation": "単独申請"
+      },
+      {
+        "word": "headquarters",
+        "translation": "本社"
+      },
+      {
+        "word": "firm",
+        "translation": "企業"
+      }
+    ]
   }
 ]

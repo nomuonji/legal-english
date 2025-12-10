@@ -1980,5 +1980,131 @@
         "translation": "却下された (きゃっかされた)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Applicant",
+    "definition": "The person or entity designated by law or the organizational rules (such as articles) as having the duty or right to file an application for commercial registration.",
+    "japaneseDefinition": "法令または定款等により、商業登記の申請を行う義務または権利を有する者。",
+    "japaneseWordTranslation": "登記申請人 (とうきしんせいにん)",
+    "legalContext": "Commercial Registration Act (Act No. 125 of 1964), generally stipulates the person responsible for various registrations related to company establishment or changes.",
+    "japaneseLegalContext": "商業登記法（昭和39年法律第125号）",
+    "exampleSentence": "The registration applicant must affix their seal impression to the application form and submit the accompanying documents to the relevant office within the mandated period.",
+    "exampleTranslation": "登記申請人は、申請書に印鑑を押捺し、関係書類を法定期間内に所轄官署に提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "application form",
+        "translation": "申請書"
+      },
+      {
+        "word": "affix their seal impression",
+        "translation": "印鑑を押捺する"
+      },
+      {
+        "word": "submit",
+        "translation": "提出する"
+      },
+      {
+        "word": "relevant office",
+        "translation": "所轄官署"
+      },
+      {
+        "word": "mandated period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "designated by law",
+        "translation": "法令により指定された"
+      },
+      {
+        "word": "duty",
+        "translation": "義務"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Accompanying Documents",
+    "definition": "The necessary legal documentation (such as minutes of meetings, consent forms, or other written evidence) that must be attached to a registration application to prove the legal cause and correctness of the matters to be registered.",
+    "japaneseDefinition": "登記される事項の法的根拠と正確性を証明するために、登記申請書に添付が義務付けられている書類（議事録や承諾書など）。",
+    "japaneseWordTranslation": "添付書面 (てんぷしょめん)",
+    "legalContext": "Commercial Registration Act, Art. 17 (Application Form and Accompanying Documents), requires documentary proof to support the content of the registration application.",
+    "japaneseLegalContext": "商業登記法第17条（申請書の添付書面等）",
+    "exampleSentence": "The application for an increase in capital was incomplete due to the failure to submit certain required accompanying documents, necessitating an order for supplementation from the registrar.",
+    "exampleTranslation": "資本増加の申請は、要求された特定の添付書面の提出がなかったため不完全であり、登記官からの補完命令が必要となった。",
+    "vocabularyList": [
+      {
+        "word": "minutes of meetings",
+        "translation": "議事録"
+      },
+      {
+        "word": "consent forms",
+        "translation": "承諾書"
+      },
+      {
+        "word": "documentary proof",
+        "translation": "書面による証明"
+      },
+      {
+        "word": "incomplete",
+        "translation": "不完全な"
+      },
+      {
+        "word": "order for supplementation",
+        "translation": "補完命令"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "legal cause",
+        "translation": "法的根拠"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reception Number",
+    "definition": "A sequential identifying number assigned to a registration application by the registry office immediately upon its submission, which legally establishes the precise date and time of filing and determines the priority of the registration.",
+    "japaneseDefinition": "登記申請が登記所に提出された直後に付与される連続した識別番号。申請の正確な日時を確定し、登記の順位を決定する上で決定的な要素となる。",
+    "japaneseWordTranslation": "受付番号 (うけつけばんごう)",
+    "legalContext": "Commercial Registration Act, Art. 26 (Order of Priority), specifies that the priority of commercial registrations is determined by the sequence of their reception numbers.",
+    "japaneseLegalContext": "商業登記法第26条（登記の順序）",
+    "exampleSentence": "Despite being filed on the same day, the application with the earlier reception number takes priority over subsequent applications concerning the same commercial entity.",
+    "exampleTranslation": "同日に申請されたにもかかわらず、より早い受付番号が付された申請は、同一の会社体に関する後続の申請よりも優先される。",
+    "vocabularyList": [
+      {
+        "word": "sequential identifying number",
+        "translation": "連続した識別番号"
+      },
+      {
+        "word": "registry office",
+        "translation": "登記所"
+      },
+      {
+        "word": "submission",
+        "translation": "提出"
+      },
+      {
+        "word": "precise date and time",
+        "translation": "正確な日時"
+      },
+      {
+        "word": "priority",
+        "translation": "順位"
+      },
+      {
+        "word": "subsequent applications",
+        "translation": "後続の申請"
+      },
+      {
+        "word": "commercial entity",
+        "translation": "会社体"
+      }
+    ]
   }
 ]

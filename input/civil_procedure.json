@@ -2,40 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Jurisdiction",
-    "definition": "The authority of a court to hear and decide a specific legal case.",
-    "japaneseDefinition": "特定の裁判所が特定の事件を審理・裁判する権限。",
-    "japaneseWordTranslation": "管轄 (かんかつ)",
-    "legalContext": "Code of Civil Procedure Art. 4: A general forum exists at the domicile of the defendant.",
-    "japaneseLegalContext": "民事訴訟法第4条：訴えは、被告の普通裁判籍の所在地を管轄する裁判所の管轄に属する。",
-    "exampleSentence": "The Tokyo District Court has jurisdiction over this case because the defendant's head office is located in Tokyo.",
-    "exampleTranslation": "被告の本店が東京にあるため、東京地方裁判所が本件の管轄権を有する。",
-    "vocabularyList": [
-      {
-        "word": "Court",
-        "translation": "裁判所"
-      },
-      {
-        "word": "Defendant",
-        "translation": "被告"
-      },
-      {
-        "word": "Domicile",
-        "translation": "住所/普通裁判籍"
-      },
-      {
-        "word": "Authority",
-        "translation": "権限"
-      },
-      {
-        "word": "Hear",
-        "translation": "審理する"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Service of Process",
     "definition": "The formal delivery of legal documents, such as a complaint or summons, to the opposing party in a lawsuit.",
     "japaneseDefinition": "訴状や呼出状などの訴訟書類を、法定の方式に従って相手方に交付する手続。",
@@ -2020,6 +1986,120 @@
       {
         "word": "High Court",
         "translation": "高等裁判所"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Motion for Correction of Judgment",
+    "definition": "A procedural application by a party seeking the rectification of non-substantive errors, such as clerical mistakes, miscalculations, or obvious omissions, contained within the official judgment document.",
+    "japaneseDefinition": "判決書の記載に計算違い、誤記その他これらに類する明白な誤りがあった場合、当事者がその是正を裁判所に申し立てる手続き。",
+    "japaneseWordTranslation": "判決の更正の申立て (はんけつのこうせいのもうしたて)",
+    "legalContext": "Civil Procedure Code Art. 180 (Motion for Correction of Judgment): The court may, upon a motion or ex officio, make a ruling to correct errors in the judgment.",
+    "japaneseLegalContext": "民事訴訟法第180条（判決の更正）：裁判所は、判決に計算違い、誤記その他これらに類する明白な誤りがあるときは、申立てにより又は職権で、いつでもこれを更正することができる。",
+    "exampleSentence": "The defendant filed a Motion for Correction of Judgment because the amount stated in the main text of the decision did not match the amount calculated in the grounds.",
+    "exampleTranslation": "判決の主文に記載された金額が、その理由において算定された金額と一致しなかったため、被告は判決の更正の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "rectification",
+        "translation": "是正 (ぜせい)"
+      },
+      {
+        "word": "clerical mistake",
+        "translation": "誤記 (ごき)"
+      },
+      {
+        "word": "upon a motion",
+        "translation": "申立てにより (もうしたてにより)"
+      },
+      {
+        "word": "ex officio",
+        "translation": "職権で (しょっけんで)"
+      },
+      {
+        "word": "ruling",
+        "translation": "決定 (けってい)"
+      },
+      {
+        "word": "obvious errors",
+        "translation": "明白な誤り (めいはくなあやまり)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Objective Suit Value",
+    "definition": "The calculated monetary value of the claim or legal dispute used as the primary criterion for determining which level of court (Summary Court or District Court) has initial subject matter competence.",
+    "japaneseDefinition": "訴訟の目的である請求の経済的利益の価額。裁判所の管轄を決定する際の基準となる。",
+    "japaneseWordTranslation": "訴訟物価額 (そしょうぶつかがく)",
+    "legalContext": "Civil Procedure Code Art. 24: The Summary Court has jurisdiction over actions where the Objective Suit Value does not exceed 1,400,000 yen.",
+    "japaneseLegalContext": "民事訴訟法第24条：簡易裁判所は、訴訟物価額が140万円を超えない請求を目的とする訴訟について管轄を有する。",
+    "exampleSentence": "When determining the competent court, the Objective Suit Value must be precisely calculated according to the rules set forth in the Civil Procedure Code, regardless of the amount sought by the claimant.",
+    "exampleTranslation": "管轄裁判所を決定する際、請求者が求める金額にかかわらず、民事訴訟法に定められた規則に従って訴訟物価額を正確に算定しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "subject matter competence",
+        "translation": "事物管轄 (じぶつかんかつ)"
+      },
+      {
+        "word": "Summary Court",
+        "translation": "簡易裁判所 (かんいさいばんしょ)"
+      },
+      {
+        "word": "District Court",
+        "translation": "地方裁判所 (ちほうさいばんしょ)"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄 (かんかつ)"
+      },
+      {
+        "word": "claimant",
+        "translation": "請求者 (せいきゅうしゃ)"
+      },
+      {
+        "word": "precisely calculated",
+        "translation": "正確に算定 (せいかくにさんてい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Holding (of a Judgment)",
+    "definition": "The formal, mandatory operative clause of a judgment, typically appearing at the beginning, which concisely states the court's decision regarding the suit, such as ordering payment, dismissing the claim, or confirming a right.",
+    "japaneseDefinition": "判決書の冒頭に記載される、訴えに対する裁判所の最終的な判断を簡潔に示した法的効力を持つ部分。",
+    "japaneseWordTranslation": "主文 (しゅぶん)",
+    "legalContext": "Civil Procedure Code Art. 254 (Form of Judgment): The judgment shall contain the holding, the facts, and the grounds for the judgment.",
+    "japaneseLegalContext": "民事訴訟法第254条（判決の方式）：判決書には、主文、事実、及び理由を記載しなければならない。",
+    "exampleSentence": "The judge read the Holding of the Judgment, which clearly stated that the defendant must immediately vacate the premises and pay outstanding rent.",
+    "exampleTranslation": "裁判官は判決の主文を読み上げたが、そこには被告が直ちに当該物件を明け渡し、滞納家賃を支払うべきことが明確に述べられていた。",
+    "vocabularyList": [
+      {
+        "word": "operative clause",
+        "translation": "効力発生条項 (こうりょくはっせいじょうこう)"
+      },
+      {
+        "word": "concisely states",
+        "translation": "簡潔に示した (かんけつにしめした)"
+      },
+      {
+        "word": "grounds for the judgment",
+        "translation": "判決の理由 (はんけつのりゆう)"
+      },
+      {
+        "word": "vacate the premises",
+        "translation": "当該物件を明け渡す (とうがいぶっけんをあけわたす)"
+      },
+      {
+        "word": "outstanding rent",
+        "translation": "滞納家賃 (たいのうやちん)"
+      },
+      {
+        "word": "final determination",
+        "translation": "最終的な判断 (さいしゅうてきなはんだん)"
       }
     ]
   }

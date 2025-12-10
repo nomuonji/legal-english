@@ -2066,5 +2066,115 @@
         "translation": "執行の基礎 (しっこうのきそ)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Authenticated Copy of the Judgment",
+    "definition": "A certified, official copy of a final or provisional judgment issued by the court, which, along with an execution endorsement, is typically required by the obligee to initiate execution proceedings.",
+    "japaneseDefinition": "債務名義となる判決の正当な写しであり、執行文の付与を受けて、債権者が執行機関に提出することで、強制執行を開始するために必要な書面。",
+    "japaneseWordTranslation": "判決正本 (はんけつせいほん)",
+    "legalContext": "Civil Execution Act Art. 25: Initiation of execution requires the submission of an authenticated copy of the judgment.",
+    "japaneseLegalContext": "民事執行法第25条: 執行の開始には、債権者が裁判所書記官から付与された債務名義の正本を執行機関に提出することが必要である。",
+    "exampleSentence": "The execution creditor submitted the authenticated copy of the judgment to the court, seeking prompt realization of the movable assets.",
+    "exampleTranslation": "執行債権者は、動産資産の迅速な実現を求め、判決正本を裁判所に提出した。",
+    "vocabularyList": [
+      {
+        "word": "execution creditor",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "initiate execution",
+        "translation": "執行を開始する"
+      },
+      {
+        "word": "realization",
+        "translation": "換価（を実現すること）"
+      },
+      {
+        "word": "movable assets",
+        "translation": "動産資産"
+      },
+      {
+        "word": "submission",
+        "translation": "提出"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Costs",
+    "definition": "Expenses incurred during the execution process, including application fees, service fees, appraisal fees, and costs for the disposal or preservation of assets, which are recoverable from the execution obligor.",
+    "japaneseDefinition": "強制執行手続において生じた費用（申立費用、送達費用、鑑定費用、財産の処分・保管費用など）のことであり、原則として執行債務者が負担し、執行手続により回収される。",
+    "japaneseWordTranslation": "執行費用 (しっこうひよう)",
+    "legalContext": "Civil Execution Act Art. 42(1): Execution costs required for the execution are deemed part of the obligee's claim and are recoverable through the execution process itself.",
+    "japaneseLegalContext": "民事執行法第42条第1項: 強制執行に要した費用は、執行手続において、債権者の請求の一部として弁償を受けることができる。",
+    "exampleSentence": "The amount of the execution costs was determined by the court and added to the principal claim recoverable from the debtor through the distribution procedure.",
+    "exampleTranslation": "執行費用の額は裁判所によって確定され、配当手続を通じて債務者から回収可能な元本債権に追加された。",
+    "vocabularyList": [
+      {
+        "word": "appraisal fees",
+        "translation": "鑑定費用"
+      },
+      {
+        "word": "recoverable",
+        "translation": "回収可能な"
+      },
+      {
+        "word": "principal claim",
+        "translation": "元本債権"
+      },
+      {
+        "word": "distribution procedure",
+        "translation": "配当手続"
+      },
+      {
+        "word": "determined",
+        "translation": "確定された"
+      },
+      {
+        "word": "borne by",
+        "translation": "負担される"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Duty to Disclose Property",
+    "definition": "The legal obligation imposed on an execution obligor to appear before the execution court and truthfully report the status of all their assets, debts, and sources of income, when general execution has failed.",
+    "japaneseDefinition": "強制執行が奏功しなかった場合に、執行債務者が執行裁判所に出頭し、自身の財産状況（資産、負債、収入源など）について真実を陳述するよう課される法的義務。",
+    "japaneseWordTranslation": "財産開示義務 (ざいさんかいじぎむ)",
+    "legalContext": "Civil Execution Act Art. 206: The execution obligor must fulfill the duty to disclose property upon receiving an order from the execution court, under penalty of law.",
+    "japaneseLegalContext": "民事執行法第206条: 執行債務者は、裁判所から財産開示手続の実施の決定があったときは、法律上の罰則をもって財産開示義務を履行しなければならない。",
+    "exampleSentence": "Despite multiple attempts at seizure, the execution obligor failed to meet the judgment, prompting the obligee to file a motion seeking enforcement of the duty to disclose property.",
+    "exampleTranslation": "度重なる差押えの試みにもかかわらず、執行債務者が判決を満たさなかったため、債権者は財産開示義務の履行を求める申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "execution obligor",
+        "translation": "執行債務者"
+      },
+      {
+        "word": "general execution",
+        "translation": "一般執行"
+      },
+      {
+        "word": "sources of income",
+        "translation": "収入源"
+      },
+      {
+        "word": "enforcement",
+        "translation": "履行/強制"
+      },
+      {
+        "word": "truthfully report",
+        "translation": "真実を報告する"
+      },
+      {
+        "word": "under penalty of law",
+        "translation": "罰則をもって"
+      }
+    ]
   }
 ]

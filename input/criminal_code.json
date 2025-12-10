@@ -1970,5 +1970,119 @@
         "translation": "意図的な"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Actus Reus",
+    "definition": "The objective physical element of a crime, encompassing the act, omission, and resulting harm or circumstance that corresponds to the statutory elements (構成要件) defining the offense.",
+    "japaneseDefinition": "刑法の構成要件に定められた客観的要素であり、行為、不作為、およびそれにより生じる結果や状況を指す。犯罪成立の第一段階を形成する。",
+    "japaneseWordTranslation": "構成要件的行為 (こうせいようけんてきこうい)",
+    "legalContext": "General Principle of Criminal Liability Analysis: Criminal liability requires the satisfaction of (1) Actus Reus (構成要件該当性), (2) Unlawfulness (違法性), and (3) Responsibility (有責性).",
+    "japaneseLegalContext": "刑法総論の一般原則：犯罪成立には、(1)構成要件該当性、(2)違法性、(3)有責性の三段階の判断が要求される。",
+    "exampleSentence": "The prosecution failed to establish the necessary *actus reus* because the defendant's actions did not directly cause the victim's death.",
+    "exampleTranslation": "被告人の行為が被害者の死亡を直接引き起こしたわけではないため、検察側は必要な構成要件的行為を立証できなかった。",
+    "vocabularyList": [
+      {
+        "word": "prosecution",
+        "translation": "検察"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告人"
+      },
+      {
+        "word": "omission",
+        "translation": "不作為"
+      },
+      {
+        "word": "criminal liability",
+        "translation": "刑事責任"
+      },
+      {
+        "word": "statutory elements",
+        "translation": "構成要件"
+      },
+      {
+        "word": "resulting harm",
+        "translation": "結果的損害"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Parole",
+    "definition": "The conditional release of a person sentenced to imprisonment from correctional facilities before the expiration of their full term, based on proof of repentance and rehabilitation, decided by an administrative agency.",
+    "japaneseDefinition": "懲役または禁錮に処せられた者が、刑期の満了前に、改悛の状が認められる場合に、行政官庁の処分によって仮に釈放されること。",
+    "japaneseWordTranslation": "仮釈放 (かりしゃくほう)",
+    "legalContext": "Criminal Code Art. 28: A person sentenced to imprisonment with or without labor who has served one-third of the term, or ten years in the case of life imprisonment, may be provisionally released by disposition of the relevant administrative agency if there is evidence of repentance.",
+    "japaneseLegalContext": "刑法第28条：懲役又は禁錮に処せられた者には、その刑の三分の一を経過した後、無期刑に処せられた者には十年を経過した後、改悛の状があるときは、行政官庁の処分によって、仮に釈放をすることができる。",
+    "exampleSentence": "The inmate was granted *parole* after serving the minimum required period, subject to strict supervision by the probation office.",
+    "exampleTranslation": "その受刑者は、最低限必要な期間を服役した後、保護観察所による厳格な監督を受けることを条件に、仮釈放を認められた。",
+    "vocabularyList": [
+      {
+        "word": "inmate",
+        "translation": "受刑者"
+      },
+      {
+        "word": "conditional release",
+        "translation": "条件付き釈放"
+      },
+      {
+        "word": "imprisonment",
+        "translation": "懲役または禁錮"
+      },
+      {
+        "word": "administrative agency",
+        "translation": "行政官庁"
+      },
+      {
+        "word": "repentance",
+        "translation": "改悛の状"
+      },
+      {
+        "word": "probation office",
+        "translation": "保護観察所"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Crime Requiring Complaint",
+    "definition": "An offense for which the public prosecutor cannot institute prosecution unless the victim or another person entitled to do so files a formal complaint (告訴) with the investigative authorities.",
+    "japaneseDefinition": "被害者または告訴権者が捜査機関に対して正式な告訴をしなければ、検察官が公訴を提起できない犯罪。",
+    "japaneseWordTranslation": "親告罪 (しんこくざい)",
+    "legalContext": "Code of Criminal Procedure Art. 238 (1): A person who has filed a complaint may not retract it. (This article governs the irrevocability of complaints concerning crimes requiring complaint.)",
+    "japaneseLegalContext": "刑事訴訟法第238条第1項：告訴は、これを取り消すことができない。（この条文は親告罪に関する告訴の撤回不能性を規定している。）",
+    "exampleSentence": "The district court dismissed the charge of unauthorized use of information because it was a *crime requiring complaint*, and the company failed to file the necessary formal complaint within the stipulated period.",
+    "exampleTranslation": "情報不正利用の容疑は親告罪であったにもかかわらず、会社が規定期間内に必要な正式告訴を行わなかったため、地方裁判所はその訴えを棄却した。",
+    "vocabularyList": [
+      {
+        "word": "prosecution",
+        "translation": "公訴の提起"
+      },
+      {
+        "word": "public prosecutor",
+        "translation": "検察官"
+      },
+      {
+        "word": "formal complaint",
+        "translation": "正式な告訴"
+      },
+      {
+        "word": "investigative authorities",
+        "translation": "捜査機関"
+      },
+      {
+        "word": "retract",
+        "translation": "取り消す"
+      },
+      {
+        "word": "stipulated period",
+        "translation": "規定期間"
+      }
+    ]
   }
 ]

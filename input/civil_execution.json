@@ -2526,5 +2526,119 @@
         "translation": "最終判決"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Declaratory Judgment of Non-Enforceability",
+    "definition": "A legal action brought by the execution obligor seeking a declaration that the execution title (such as a judgment or notarized deed) lacks legal enforceability, typically due to procedural defects or post-judgment satisfaction.",
+    "japaneseDefinition": "執行債務者が、執行権原（判決や公正証書など）が既に効力を失っていること、または元々執行力を有していなかったことの確認を裁判所に求める訴え。",
+    "japaneseWordTranslation": "執行力不存在確認の訴え (しっこうりょくふそんざいかくにんのうったえ)",
+    "legalContext": "Governed by the principles of actions seeking declaratory judgments, often used alongside, or as an alternative to, the Action to Object to Claim (請求異議の訴え) when disputes arise over the existence of the execution power itself.",
+    "japaneseLegalContext": "民事執行法上、執行権原の執行力を争うための重要な手段であり、請求異議の訴えと類比される。",
+    "exampleSentence": "The execution obligor filed an **Action for Declaratory Judgment of Non-Enforceability**, arguing that the underlying monetary judgment had been fully settled before the execution proceedings commenced.",
+    "exampleTranslation": "執行債務者は、根拠となる金銭判決が執行手続き開始前にすでに完全に決済されていたと主張し、執行力不存在確認の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "execution obligor",
+        "translation": "執行債務者"
+      },
+      {
+        "word": "declaratory judgment",
+        "translation": "確認判決"
+      },
+      {
+        "word": "execution title",
+        "translation": "執行権原"
+      },
+      {
+        "word": "notarized deed",
+        "translation": "公正証書"
+      },
+      {
+        "word": "fully settled",
+        "translation": "完全に決済された"
+      },
+      {
+        "word": "execution proceedings",
+        "translation": "執行手続き"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution based on Secured Real Property Auction",
+    "definition": "A judicial procedure for realizing a security interest (such as a hypothec or pledge) granted over real property by selling the property at auction, without requiring a separate execution title.",
+    "japaneseDefinition": "担保権（抵当権や質権など）を設定された不動産を、債権者の申立てに基づき、競売によって換価し、債権の満足を得るための司法手続き。",
+    "japaneseWordTranslation": "担保不動産競売 (たんぽふどうさんきょうばい)",
+    "legalContext": "Civil Execution Act, Article 180 (Procedures for Exercising Security Rights on Real Property). This procedure allows the enforcement obligee to exercise their proprietary security rights directly.",
+    "japaneseLegalContext": "民事執行法第180条（担保権の実行としての不動産競売）：担保権の実行に関する手続きを定める。",
+    "exampleSentence": "As the collateralized loan went unpaid, the creditor initiated **Execution based on Secured Real Property Auction** against the commercial building to recover the outstanding principal.",
+    "exampleTranslation": "担保付き融資が未払いになったため、債権者は未払いの元本を回収するために、商業ビルに対する担保不動産競売を開始した。",
+    "vocabularyList": [
+      {
+        "word": "collateralized loan",
+        "translation": "担保付き融資"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権"
+      },
+      {
+        "word": "hypothec",
+        "translation": "抵当権"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      },
+      {
+        "word": "outstanding principal",
+        "translation": "未払いの元本"
+      },
+      {
+        "word": "recover",
+        "translation": "回収する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Cancellation of Security",
+    "definition": "A judicial order that cancels or releases the security (such as a deposit or guarantee) previously provided to the court, usually because the purpose for which the security was posted has been fulfilled, or the relevant legal proceedings have concluded or been withdrawn.",
+    "japaneseDefinition": "裁判所に提供された担保（供託金や保証）について、その担保を必要とする理由が消滅した場合や、関連手続きが終了した場合に、担保提供者の申立てに基づき、裁判所が担保を取り消す決定。",
+    "japaneseWordTranslation": "担保取消決定 (たんぽとりけしけってい)",
+    "legalContext": "Code of Civil Procedure, Article 79 (Cancellation of Security), often applied mutatis mutandis to civil execution procedures, particularly when security was posted to obtain a stay of execution or provisional remedies.",
+    "japaneseLegalContext": "民事訴訟法第79条（担保の取消し）：担保の取消しに関する一般規定。",
+    "exampleSentence": "After the judgment became final and binding and the execution proceedings were terminated, the petitioner successfully obtained an **Order for Cancellation of Security** that had been deposited to prevent provisional attachment.",
+    "exampleTranslation": "判決が確定し、執行手続きが終了した後、申立人は仮差押えを防ぐために供託していた担保について、担保取消決定を無事取得した。",
+    "vocabularyList": [
+      {
+        "word": "security",
+        "translation": "担保"
+      },
+      {
+        "word": "deposit",
+        "translation": "供託金"
+      },
+      {
+        "word": "final and binding",
+        "translation": "確定した"
+      },
+      {
+        "word": "terminated",
+        "translation": "終了した"
+      },
+      {
+        "word": "petitioner",
+        "translation": "申立人"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え"
+      }
+    ]
   }
 ]

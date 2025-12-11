@@ -1,34 +1,34 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Tort",
-  "definition": "An unlawful act that causes damage to another person, creating an obligation to compensate for the damages.",
-  "japaneseDefinition": "故意または過失によって他人の権利または法律上保護される利益を侵害し、損害を生じさせる行為。",
-  "japaneseWordTranslation": "不法行為 (ふほうこうい)",
-  "legalContext": "Civil Code Art. 709: A person who has intentionally or negligently infringed any right of others... shall be liable to compensate for any damages resulting therefrom.",
-  "japaneseLegalContext": "民法第709条：故意又は過失によって他人の権利又は法律上保護される利益を侵害した者は、これによって生じた損害を賠償する責任を負う。",
-  "exampleSentence": "The victim sued the driver for damages based on tort.",
-  "exampleTranslation": "被害者は不法行為に基づき、運転手に対して損害賠償を求めて訴えた。",
+  "word": "Res Judicata",
+  "definition": "The principle that a final judgment on the merits is conclusive as to the rights of the parties and constitutes an absolute bar to a subsequent action involving the same claim.",
+  "japaneseDefinition": "確定した判決が持つ、後訴の裁判所や当事者を拘束する効力。同一の事項について蒸し返しを許さない効力。",
+  "japaneseWordTranslation": "既判力 (きはんりょく)",
+  "legalContext": "Code of Civil Procedure Art. 114: A judgment that has become final and binding shall have res judicata only regarding the subject matter included in the main text.",
+  "japaneseLegalContext": "民事訴訟法第114条：確定判決は、主文に包含するものに限り、既判力を有する。",
+  "exampleSentence": "The court dismissed the new lawsuit based on res judicata, as the issue had already been decided in a previous trial.",
+  "exampleTranslation": "その争点は以前の裁判ですでに決定されていたため、裁判所は既判力に基づき新たな訴訟を却下した。",
   "vocabularyList": [
     {
-      "word": "Compensate",
-      "translation": "賠償する"
+      "word": "Final judgment",
+      "translation": "確定判決"
     },
     {
-      "word": "Damages",
-      "translation": "損害"
+      "word": "Conclusive",
+      "translation": "決定的な"
     },
     {
-      "word": "Intentionally",
-      "translation": "故意に"
+      "word": "Subsequent action",
+      "translation": "後訴"
     },
     {
-      "word": "Negligently",
-      "translation": "過失により"
+      "word": "Dismiss",
+      "translation": "却下する"
     },
     {
-      "word": "Infringe",
-      "translation": "侵害する"
+      "word": "Binding",
+      "translation": "拘束力のある"
     }
   ]
 }

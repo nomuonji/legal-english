@@ -2352,5 +2352,131 @@
         "translation": "数人の請求者"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Statement of Specifics",
+    "definition": "The authenticated, formal original copy of the document recording the details of the property consigned by the depositor, issued by the administrative body for proof of discharge.",
+    "japaneseDefinition": "供託者が供託した物の詳細を記録した書面のうち、行政機関によって発行される正本。供託による債務消滅の証拠となる。",
+    "japaneseWordTranslation": "供託書正本 (Kyōtaku-sho Seihon)",
+    "legalContext": "Deposit Act Art. 8 (Notification Requirement upon Deposit): Prescribes the duty of the depositor to notify the recipient of the consignment and the required documentation.",
+    "japaneseLegalContext": "供託法第8条（供託をしたことの通知等）",
+    "exampleSentence": "The depositor must present the *Deposit Statement of Specifics* to the payee when notifying them that the obligation has been discharged through consignment.",
+    "exampleTranslation": "供託者は、債務が供託によって消滅したことを被供託者に通知する際、供託書正本を提示しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "depositor",
+        "translation": "供託者"
+      },
+      {
+        "word": "payee",
+        "translation": "被供託者"
+      },
+      {
+        "word": "notifying",
+        "translation": "通知する"
+      },
+      {
+        "word": "obligation",
+        "translation": "債務"
+      },
+      {
+        "word": "discharged",
+        "translation": "消滅した"
+      },
+      {
+        "word": "consignment",
+        "translation": "供託"
+      },
+      {
+        "word": "present",
+        "translation": "提示する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Custody of Deposited Property",
+    "definition": "The procedure and responsibility concerning the safekeeping, maintenance, and administrative management of money, assets, or securities accepted by the designated deposit facility pursuant to the Deposit Act.",
+    "japaneseDefinition": "供託法に基づき、指定された供託施設が受領した金銭、財産、または有価証券の安全な保管、維持、および行政上の管理に関する手続きと責任。",
+    "japaneseWordTranslation": "供託物の保管 (Kyōtaku-butsu no Hokan)",
+    "legalContext": "Deposit Act Art. 4 (Management of Deposited Items): Details the principles and methods for the administration and handling of consigned assets, distinguishing between currency and other items.",
+    "japaneseLegalContext": "供託法第4条（供託物の管理）",
+    "exampleSentence": "When the *Custody of Deposited Property* involves physical items rather than currency, the items may be placed in the care of a specified management institution authorized by the Ministry of Justice.",
+    "exampleTranslation": "供託物の保管が、金銭ではなく現物に関わる場合、その現物は法務省により認可された特定の管理機関の管理下に置かれることがある。",
+    "vocabularyList": [
+      {
+        "word": "physical items",
+        "translation": "現物"
+      },
+      {
+        "word": "currency",
+        "translation": "金銭（通貨）"
+      },
+      {
+        "word": "placed in the care",
+        "translation": "管理下に置かれる"
+      },
+      {
+        "word": "specified",
+        "translation": "特定の"
+      },
+      {
+        "word": "management institution",
+        "translation": "管理機関"
+      },
+      {
+        "word": "authorized",
+        "translation": "認可された"
+      },
+      {
+        "word": "Ministry of Justice",
+        "translation": "法務省"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Filing Objection to Deposit Disposition",
+    "definition": "The formal administrative appeal procedure initiated by an aggrieved party or interested person to challenge a procedural decision, rejection, or ruling made by the administrative official regarding a deposit application or process.",
+    "japaneseDefinition": "供託の申請または手続きに関して、行政官が行った手続き上の決定、却下、または裁定に不服がある利害関係人または不利益を受けた当事者が開始する正式な行政上の不服申立手続き。",
+    "japaneseWordTranslation": "供託処分に対する異議申立て (Kyōtaku Shobun ni Taisuru Igi Mōshitate)",
+    "legalContext": "Deposit Act Art. 34 (Objection to Disposition): Stipulates the mechanism by which interested parties can appeal administrative decisions related to the deposit process.",
+    "japaneseLegalContext": "供託法第34条（処分に対する異議）",
+    "exampleSentence": "If the administrative official rejects the application for consignment due to procedural errors, the applicant may initiate the *Filing Objection to Deposit Disposition* within the prescribed period.",
+    "exampleTranslation": "もし行政官が手続き上の誤りを理由に供託申請を却下した場合、申請人は所定の期間内に供託処分に対する異議申立てを開始することができる。",
+    "vocabularyList": [
+      {
+        "word": "aggrieved party",
+        "translation": "不利益を受けた当事者"
+      },
+      {
+        "word": "rejection",
+        "translation": "却下"
+      },
+      {
+        "word": "administrative official",
+        "translation": "行政官"
+      },
+      {
+        "word": "procedural errors",
+        "translation": "手続き上の誤り"
+      },
+      {
+        "word": "initiate",
+        "translation": "開始する"
+      },
+      {
+        "word": "prescribed period",
+        "translation": "所定の期間"
+      },
+      {
+        "word": "appeal procedure",
+        "translation": "不服申立手続き"
+      }
+    ]
   }
 ]

@@ -2414,5 +2414,119 @@
         "translation": "裁判所命令"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation of Claim for Monetary Obligation",
+    "definition": "The legal mechanism, primarily provisional attachment, used to secure the future compulsory execution of a claim that is solely for the payment of money.",
+    "japaneseDefinition": "金銭の支払を目的とする請求権について、将来の強制執行を保全するために用いられる手続（主に仮差押え）のこと。",
+    "japaneseWordTranslation": "金銭債権の保全 (きんせんさいけん の ほぜん)",
+    "legalContext": "Civil Preservation Act differentiates between the preservation of monetary claims (provisional attachment) and non-monetary claims (provisional disposition).",
+    "japaneseLegalContext": "民事保全法は、金銭債権の保全（仮差押え）と非金銭債権の保全（仮処分）を区別している。",
+    "exampleSentence": "The obligee sought the preservation of claim for monetary obligation against the debtor's bank accounts to prevent dissipation of assets.",
+    "exampleTranslation": "債権者は、財産の散逸を防ぐため、債務者の銀行口座に対する金銭債権の保全を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "claim",
+        "translation": "請求権"
+      },
+      {
+        "word": "payment of money",
+        "translation": "金銭の支払"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え"
+      },
+      {
+        "word": "dissipation of assets",
+        "translation": "財産の散逸"
+      },
+      {
+        "word": "bank accounts",
+        "translation": "銀行口座"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order of Deposit for Exemption",
+    "definition": "A court order issued upon motion by the debtor, allowing the debtor to deposit a specified security amount (exemption deposit) which acts as a substitute for the property under provisional attachment, thereby releasing the attachment.",
+    "japaneseDefinition": "債務者の申立てに基づき裁判所が出す命令で、仮差押えの対象となっている財産の代わりに、定められた額の担保（解放金）を供託することにより、仮差押えの執行を取り消させることを認めるもの。",
+    "japaneseWordTranslation": "解放金供託命令 (かいほうきん きょうたく めいれい)",
+    "legalContext": "This order is crucial as it allows the preservation debtor to regain control over the attached property by replacing it with readily executable security.",
+    "japaneseLegalContext": "この命令は、保全債務者が差押えられた財産を、直ちに執行可能な担保に置き換えることで支配権を取り戻すことを可能にする点で重要である。",
+    "exampleSentence": "The execution court issued an Order of Deposit for Exemption, permitting the debtor to recover access to the seized manufacturing equipment by posting security.",
+    "exampleTranslation": "執行裁判所は、債務者が担保を供託することにより差押えられた製造設備へのアクセスを取り戻すことを許可する解放金供託命令を発した。",
+    "vocabularyList": [
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "specified security amount",
+        "translation": "定められた担保額"
+      },
+      {
+        "word": "substitute",
+        "translation": "代替物"
+      },
+      {
+        "word": "release the attachment",
+        "translation": "差押えを取り消す"
+      },
+      {
+        "word": "regain control",
+        "translation": "支配権を取り戻す"
+      },
+      {
+        "word": "posting security",
+        "translation": "担保を立てる"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cancellation upon Lapse of Period",
+    "definition": "The revocation of a preservation order (provisional attachment or disposition) that occurs automatically or upon motion if the preservation obligee fails to commence the action on the merits within the time limit set by the preservation court.",
+    "japaneseDefinition": "保全債権者が保全裁判所が定めた期間内に本案の訴えを提起しない場合に、自動的または申立てにより保全命令（仮差押えまたは仮処分）が取り消されること。",
+    "japaneseWordTranslation": "期間の経過による取消し (きかん の けいか に よる とりけし)",
+    "legalContext": "Civil Preservation Act Art. 37 stipulates that the court must designate a period for commencing the action on the merits, usually not exceeding two weeks, or the order is subject to cancellation.",
+    "japaneseLegalContext": "民事保全法第37条は、裁判所が本案の訴えの提起期間を定めなければならないとしており、通常2週間を超えず、期間を徒過すれば取り消しの対象となる。",
+    "exampleSentence": "Due to the obligee’s failure to file the substantive lawsuit, the court granted the debtor’s motion for Cancellation upon Lapse of Period.",
+    "exampleTranslation": "債権者が実体法上の訴訟提起を怠ったため、裁判所は債務者による期間の経過による取消しの申立てを認めた。",
+    "vocabularyList": [
+      {
+        "word": "revocation",
+        "translation": "取り消し"
+      },
+      {
+        "word": "action on the merits",
+        "translation": "本案の訴え"
+      },
+      {
+        "word": "time limit",
+        "translation": "期間"
+      },
+      {
+        "word": "substantive lawsuit",
+        "translation": "実体法上の訴訟"
+      },
+      {
+        "word": "granted the motion",
+        "translation": "申立てを認めた"
+      },
+      {
+        "word": "subject to cancellation",
+        "translation": "取り消しの対象となる"
+      }
+    ]
   }
 ]

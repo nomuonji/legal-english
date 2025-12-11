@@ -2428,5 +2428,119 @@
         "translation": "主張された不備 (しゅちょうされたふび)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certificate of Current Registered Matters",
+    "definition": "An official document issued by the registry certifying the currently valid information entered in the commercial register, which typically includes the company's denomination, location, business objectives, and names of incumbent officers.",
+    "japaneseDefinition": "商業登記簿に記録されている事項のうち、現在有効な登記事項のみを証明する書面。",
+    "japaneseWordTranslation": "現在事項証明書 (げんざいじこうしょうめいしょ)",
+    "legalContext": "Commercial Registration Act (商業登記法): Governs the issuance of various types of registration certificates to ensure public access to corporate information.",
+    "japaneseLegalContext": "商業登記法: 会社の登記事項の公示と信頼性を確保するために、各種証明書の発行を定めている。",
+    "exampleSentence": "The financial institution required the submission of a **Certificate of Current Registered Matters** issued within the past three months as part of the due diligence process.",
+    "exampleTranslation": "金融機関は、デューデリジェンスの一環として、直近三か月以内に発行された現在事項証明書の提出を要求した。",
+    "vocabularyList": [
+      {
+        "word": "denomination",
+        "translation": "名称 (めいしょう)"
+      },
+      {
+        "word": "incumbent officers",
+        "translation": "現在の役員 (げんざいのやくいん)"
+      },
+      {
+        "word": "issuance",
+        "translation": "発行 (はっこう)"
+      },
+      {
+        "word": "due diligence process",
+        "translation": "適正評価手続 (てきせいひょうかてつづき)"
+      },
+      {
+        "word": "business objectives",
+        "translation": "事業目的 (じぎょうもくてき)"
+      },
+      {
+        "word": "public access",
+        "translation": "一般公開 (いっぱんこうかい)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Grounds for Rejection",
+    "definition": "The specific legal deficiencies, enumerated in the Commercial Registration Act, that mandate the registrar to refuse the acceptance and entry of a registration application.",
+    "japaneseDefinition": "登記の申請が、法令に定められた方式や実体的な要件を満たしていない場合に、登記官が当該申請の受理を拒否しなければならない法的な理由。",
+    "japaneseWordTranslation": "却下事由 (きゃっかじゆう)",
+    "legalContext": "Commercial Registration Act Art. 25: A registration application shall be rejected by the Registrar in the following cases (e.g., lack of jurisdiction, non-registration matters).",
+    "japaneseLegalContext": "商業登記法第25条: 登記官は、次に掲げる場合には、登記の申請を却下しなければならない（例：管轄違い、登記すべき事項でない場合）。",
+    "exampleSentence": "The application contained discrepancies between the submitted documents and the register's existing records, which constituted **Grounds for Rejection** under Article 25.",
+    "exampleTranslation": "その申請は、提出された書類と登記簿の既存の記録との間に齟齬があったため、第25条に基づく却下事由となった。",
+    "vocabularyList": [
+      {
+        "word": "discrepancies",
+        "translation": "齟齬 (そご)"
+      },
+      {
+        "word": "enumerated",
+        "translation": "列挙された (れっきょされた)"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄 (かんかつ)"
+      },
+      {
+        "word": "mandate",
+        "translation": "義務付ける (ぎむづける)"
+      },
+      {
+        "word": "substantive requirements",
+        "translation": "実体的要件 (じったいてきようけん)"
+      },
+      {
+        "word": "existing records",
+        "translation": "既存の記録 (きそんのきろく)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ex Officio Registration",
+    "definition": "A registration procedure carried out by the registrar based solely on their legal authority, without requiring a formal application from the registering party, typically triggered by an external event or related official process.",
+    "japaneseDefinition": "当事者からの申請を待たずに、登記官が自己の権限に基づいて行う登記。法改正や裁判所の命令などの外部的事由によって発生することが多い。",
+    "japaneseWordTranslation": "職権登記 (しょっけんとうき)",
+    "legalContext": "Commercial Registration Act (商業登記法): Stipulates conditions under which the registrar is permitted or obliged to perform registrations ex officio.",
+    "japaneseLegalContext": "商業登記法: 登記官が職権により登記を行うことが許可または義務付けられる条件を規定している。",
+    "exampleSentence": "Upon receipt of the court’s decision regarding the corporate rehabilitation, the registrar conducted the necessary **Ex Officio Registration** of the change in corporate status.",
+    "exampleTranslation": "会社更生に関する裁判所の決定を受領した後、登記官は、会社状態の変更について必要な職権登記を行った。",
+    "vocabularyList": [
+      {
+        "word": "solely",
+        "translation": "単独で (たんどくで)"
+      },
+      {
+        "word": "legal authority",
+        "translation": "法的権限 (ほうてきけんげん)"
+      },
+      {
+        "word": "registering party",
+        "translation": "登記名義人 (とうきめいぎにん)"
+      },
+      {
+        "word": "corporate rehabilitation",
+        "translation": "会社更生 (かいしゃこうせい)"
+      },
+      {
+        "word": "triggered",
+        "translation": "引き起こされた (ひきおこされた)"
+      },
+      {
+        "word": "stipulates conditions",
+        "translation": "条件を定める (じょうけんをさだめる)"
+      }
+    ]
   }
 ]

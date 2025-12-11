@@ -2392,5 +2392,119 @@
         "translation": "起訴された"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Crime based on Status or Relationship",
+    "definition": "A crime whose establishment or severity depends on whether the perpetrator holds a specific legal status, such as being a public official (e.g., bribery) or an immediate family member.",
+    "japaneseDefinition": "行為者が特定の身分を有することによって成立する犯罪。身分がなければ犯罪が成立しない『真正身分犯』と、身分がなければ刑が加重される『不真正身分犯』がある。",
+    "japaneseWordTranslation": "身分犯 (みぶんはん)",
+    "legalContext": "Criminal Code Art. 65 (Participation in Crimes Based on Status): 'When a person without the status specified in the provision of the preceding two Articles jointly commits a crime with a person who has that status, the non-status holder shall be subject to the ordinary penalty.'",
+    "japaneseLegalContext": "刑法第65条（身分犯の共犯）：『前二条の規定により身分によって特に刑の定めがある行為に関し、身分のない者が身分のある者と共同して犯罪を犯したときは、身分のない者についても、通常の刑を科する。』",
+    "exampleSentence": "In cases involving a crime based on status, the participation of an individual lacking that specific status does not prevent the establishment of the crime for the status-holder.",
+    "exampleTranslation": "身分犯が関わる事件において、その特定の身分を持たない個人の関与は、身分を有する者の犯罪の成立を妨げない。",
+    "vocabularyList": [
+      {
+        "word": "status-holder",
+        "translation": "身分を有する者"
+      },
+      {
+        "word": "establishment of the crime",
+        "translation": "犯罪の成立"
+      },
+      {
+        "word": "severity",
+        "translation": "刑の重さ"
+      },
+      {
+        "word": "bribery",
+        "translation": "贈収賄（ぞうしゅうわい）"
+      },
+      {
+        "word": "jointly commits",
+        "translation": "共同して犯す"
+      },
+      {
+        "word": "ordinary penalty",
+        "translation": "通常の刑"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Continuous Crime",
+    "definition": "A legally stipulated type of concurrence (criminal connection) where one criminal act is committed as the means to execute another criminal act, or where the completion of one crime is the necessary result of the other. The offender is generally adjudicated for the heavier punishment.",
+    "japaneseDefinition": "犯人が他の犯罪の手段として一つの犯罪を実行した場合など、二つの犯罪行為が密接に関連している場合に、最も重い刑により処断することとする規定。",
+    "japaneseWordTranslation": "牽連犯 (けんれんはん)",
+    "legalContext": "Criminal Code Art. 54(2): 'In cases where one act constitutes two or more crimes, or where an act done as the means or result of another crime is itself a crime, the offender shall be punished for the crime carrying the heaviest penalty.'",
+    "japaneseLegalContext": "刑法第54条第2項（牽連犯）：『ある行為が他の罪の手段若しくは結果である罪と牽連しているときは、その最も重い刑により処断する。』",
+    "exampleSentence": "The Public Prosecutor argued that the forgery of the private documents was a continuous crime, having been committed solely as the means to execute the subsequent fraud.",
+    "exampleTranslation": "検察官は、私文書偽造がその後の詐欺を実行するための手段としてのみ行われたため、牽連犯であると主張した。",
+    "vocabularyList": [
+      {
+        "word": "concurrence",
+        "translation": "罪数（ざいすう）"
+      },
+      {
+        "word": "forgery",
+        "translation": "偽造（ぎぞう）"
+      },
+      {
+        "word": "means",
+        "translation": "手段"
+      },
+      {
+        "word": "subsequent fraud",
+        "translation": "その後の詐欺"
+      },
+      {
+        "word": "adjudicated",
+        "translation": "処断される"
+      },
+      {
+        "word": "heaviest penalty",
+        "translation": "最も重い刑"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Accessory to Crime",
+    "definition": "A party to a crime who assists the principal offender by providing aid or support (physical or psychological) for the commission of the criminal act, and whose punishment must be mitigated compared to that of the principal.",
+    "japaneseDefinition": "正犯者の実行行為を容易にするため、幇助を与えた者。刑は正犯の刑を減軽する。",
+    "japaneseWordTranslation": "従犯 (じゅうはん)",
+    "legalContext": "Criminal Code Art. 62 (Accessories): 'A person who aids the principal offender in the commission of a crime shall be an accessory.' Art. 63 (Mitigation for Accessories): 'The penalty for an accessory shall be mitigated.'",
+    "japaneseLegalContext": "刑法第62条（従犯）：『正犯を幇助した者は、従犯とする。』 第63条（従犯の減軽）：『従犯の刑は、正犯の刑を減軽する。』",
+    "exampleSentence": "Although he provided the getaway vehicle, his role was limited to providing assistance, and he was ultimately charged as an accessory to crime rather than a principal.",
+    "exampleTranslation": "彼は逃走用の車両を提供したが、彼の役割は幇助に限定されており、最終的には正犯ではなく従犯として起訴された。",
+    "vocabularyList": [
+      {
+        "word": "principal offender",
+        "translation": "正犯者（せいはんしゃ）"
+      },
+      {
+        "word": "aiding/assistance",
+        "translation": "幇助（ほうじょ）"
+      },
+      {
+        "word": "mitigated",
+        "translation": "減軽される"
+      },
+      {
+        "word": "charged",
+        "translation": "起訴された"
+      },
+      {
+        "word": "getaway vehicle",
+        "translation": "逃走用の車両"
+      },
+      {
+        "word": "commission of a crime",
+        "translation": "犯罪の実行"
+      }
+    ]
   }
 ]

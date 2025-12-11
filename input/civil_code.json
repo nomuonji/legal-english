@@ -2,40 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Tort",
-    "definition": "An unlawful act that causes damage to another person, creating an obligation to compensate for the damages.",
-    "japaneseDefinition": "故意または過失によって他人の権利または法律上保護される利益を侵害し、損害を生じさせる行為。",
-    "japaneseWordTranslation": "不法行為 (ふほうこうい)",
-    "legalContext": "Civil Code Art. 709: A person who has intentionally or negligently infringed any right of others... shall be liable to compensate for any damages resulting therefrom.",
-    "japaneseLegalContext": "民法第709条：故意又は過失によって他人の権利又は法律上保護される利益を侵害した者は、これによって生じた損害を賠償する責任を負う。",
-    "exampleSentence": "The victim sued the driver for damages based on tort.",
-    "exampleTranslation": "被害者は不法行為に基づき、運転手に対して損害賠償を求めて訴えた。",
-    "vocabularyList": [
-      {
-        "word": "Compensate",
-        "translation": "賠償する"
-      },
-      {
-        "word": "Damages",
-        "translation": "損害"
-      },
-      {
-        "word": "Intentionally",
-        "translation": "故意に"
-      },
-      {
-        "word": "Negligently",
-        "translation": "過失により"
-      },
-      {
-        "word": "Infringe",
-        "translation": "侵害する"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Contract",
     "definition": "A legally binding agreement between parties that creates mutual obligations.",
     "japaneseDefinition": "当事者の合意によって成立し、法的拘束力を生じさせる約束。",
@@ -2430,6 +2396,120 @@
       {
         "word": "attached",
         "translation": "付属した"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Management of Affairs without Mandate",
+    "definition": "A legal relationship arising when a person voluntarily and without a legal mandate manages the affairs of another, with the intention of benefiting that person.",
+    "japaneseDefinition": "法律上の義務なく他人のために事務の管理をすることを指し、当事者間に債権債務関係を発生させる原因となる。",
+    "japaneseWordTranslation": "事務管理 (じむかんり)",
+    "legalContext": "Civil Code Art. 697 (Commencement of Management): A person who manages the affairs of another without being required to do so by a mandate or statutory provision shall commence the management only when it is advantageous to the principal in light of the principal’s intent or objective.",
+    "japaneseLegalContext": "民法第697条（事務管理の開始）：義務なく他人のために事務の管理を始めた者は、その事務の性質に従い、本人に最も利益となる方法によって、その事務の管理をしなければならない。",
+    "exampleSentence": "Since the neighbor was traveling abroad, I took necessary measures to repair the sudden roof damage under the principle of Management of Affairs without Mandate.",
+    "exampleTranslation": "隣人が海外旅行中だったため、私は事務管理の原則に基づき、屋根の急な損傷を修繕するために必要な措置を講じた。",
+    "vocabularyList": [
+      {
+        "word": "mandate",
+        "translation": "委任"
+      },
+      {
+        "word": "statutory provision",
+        "translation": "法令の規定"
+      },
+      {
+        "word": "principal",
+        "translation": "本人 (管理される側)"
+      },
+      {
+        "word": "affairs",
+        "translation": "事務"
+      },
+      {
+        "word": "necessary measures",
+        "translation": "必要な措置"
+      },
+      {
+        "word": "voluntarily",
+        "translation": "任意に/自発的に"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligation Pertaining to a Thing of Indeterminate Genus",
+    "definition": "An obligation where the object of performance is designated only by genus or kind (e.g., 'ten tons of rice'), requiring the debtor to deliver an item of medium quality from that genus.",
+    "japaneseDefinition": "種類、品質、数量等の特定によって定められた物（種類物）の引渡しを目的とする債権。引渡しに際しては、中等の品質の物を給付しなければならない。",
+    "japaneseWordTranslation": "種類債権 (しゅるいさいけん)",
+    "legalContext": "Civil Code Art. 401 (Specification of Thing of Indeterminate Genus): If the object of an obligation is designated only with respect to genus, the debtor shall be required to deliver a thing of medium quality.",
+    "japaneseLegalContext": "民法第401条（種類債権）：債権の目的が種類だけを以って指定されたものであるときは、債務者は中等の品質を有する物を給付しなければならない。",
+    "exampleSentence": "If the quality of the soybean delivery under the Obligation Pertaining to a Thing of Indeterminate Genus was subpar, the obligee can demand replacement with a medium-quality product.",
+    "exampleTranslation": "種類債権に基づく大豆の引渡し品質が平均以下であった場合、債権者は中等の品質の物への代替を要求できる。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "genus",
+        "translation": "種類/属"
+      },
+      {
+        "word": "medium quality",
+        "translation": "中等の品質"
+      },
+      {
+        "word": "subpar",
+        "translation": "平均以下の"
+      },
+      {
+        "word": "replacement",
+        "translation": "代替/取替え"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Indivisible Obligation",
+    "definition": "An obligation whose performance cannot be divided, either due to the inherent nature of the object or by the expressed intent of the parties, even where there are multiple obligees or obligors.",
+    "japaneseDefinition": "給付の内容がその性質上または当事者の意思表示によって分割することができない債務。",
+    "japaneseWordTranslation": "不可分債務 (ふかぶんさいむ)",
+    "legalContext": "Civil Code Art. 428 (Indivisible Obligation): If the object of an obligation is indivisible, the provisions concerning solidary obligations shall apply to the relationship between the obligee and the obligors.",
+    "japaneseLegalContext": "民法第428条（不可分債権）：債権の目的がその性質又は当事者の意思表示により不可分である場合において、債権者が数人あるときは、各債権者はすべての債務者に対し、その債務の履行を請求することができる。",
+    "exampleSentence": "The obligation to deliver a specific piece of machinery is an Indivisible Obligation, meaning any one of the co-obligors can be requested to perform the whole obligation.",
+    "exampleTranslation": "特定の機械を引き渡す債務は不可分債務であり、共同債務者のいずれか一人が債務全体を履行するよう求められる可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "performance",
+        "translation": "履行/給付"
+      },
+      {
+        "word": "indivisible",
+        "translation": "不可分な"
+      },
+      {
+        "word": "inherent nature",
+        "translation": "固有の性質"
+      },
+      {
+        "word": "co-obligors",
+        "translation": "共同債務者"
+      },
+      {
+        "word": "specific piece of machinery",
+        "translation": "特定の機械設備"
+      },
+      {
+        "word": "expressed intent",
+        "translation": "表示された意思"
       }
     ]
   }

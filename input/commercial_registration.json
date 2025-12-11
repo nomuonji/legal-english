@@ -2326,5 +2326,107 @@
         "translation": "電子公告"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Non-Registration of Officer Change",
+    "definition": "A principle holding an individual (such as a former director or auditor) liable to bona fide third parties for transactions or obligations entered into after their departure, where the individual failed to promptly register the change in the Commercial Register, thereby maintaining their appearance as an active officer.",
+    "japaneseDefinition": "役員が退任・辞任した後も、その変更登記を怠ったために、会社外部に対し依然として当該役員の地位にあるかのように見せかけたことによって生じる、第三者への責任。",
+    "japaneseWordTranslation": "役員変更登記懈怠による責任 (やくいんへんこうとうきけたいによるせきにん)",
+    "legalContext": "Commercial Registration Act principles related to public notice and the principle of apparent authority (Company Act, Art. 908).",
+    "japaneseLegalContext": "会社法第908条及び商業登記法の公示原則に関連する表見責任の法理。",
+    "exampleSentence": "The former officer incurred full liability for non-registration of officer change when a third party, relying on the public register, extended credit to the company.",
+    "exampleTranslation": "第三者が公開されている登記を信用して会社に信用供与を行ったため、当該元役員は役員変更登記懈怠による全責任を負った。",
+    "vocabularyList": [
+      {
+        "word": "incurred liability",
+        "translation": "責任を負った (せきにんをおった)"
+      },
+      {
+        "word": "bona fide third parties",
+        "translation": "善意の第三者 (ぜんいのだいさんしゃ)"
+      },
+      {
+        "word": "promptly register",
+        "translation": "速やかに登記する (すみやかにとうきする)"
+      },
+      {
+        "word": "public register",
+        "translation": "公開された登記簿 (こうかいされたとうきぼ)"
+      },
+      {
+        "word": "apparent authority",
+        "translation": "表見的権限 (ひょうけんてきけんげん)"
+      },
+      {
+        "word": "extended credit",
+        "translation": "信用供与した (しんようきょうよした)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Priority Based on Filing Time",
+    "definition": "The rule stipulating that when multiple, competing applications for commercial registration are received, the order in which they are processed and recorded is determined strictly by the chronological time and date of their formal acceptance by the registry office.",
+    "japaneseDefinition": "複数の競合する商業登記の申請があった場合、その処理および記録の順序が、登記所による形式的な受付の時刻によって厳密に決定される原則。",
+    "japaneseWordTranslation": "受付時間による優先 (うけつけじかんによるゆうせん)",
+    "legalContext": "Commercial Registration Act Art. 26 (Priority Order of Applications).",
+    "japaneseLegalContext": "商業登記法第26条（申請の優先順位）。",
+    "exampleSentence": "Since the transfer application was filed 30 minutes earlier, its registration has priority based on filing time over the subsequent change of organization application.",
+    "exampleTranslation": "譲渡申請が30分早く受け付けられたため、その登記は、後続の組織変更登記申請よりも受付時間による優先権を持つ。",
+    "vocabularyList": [
+      {
+        "word": "competing applications",
+        "translation": "競合する申請 (きょうごうするしんせい)"
+      },
+      {
+        "word": "processed and recorded",
+        "translation": "処理され記録される (しょりされきろくされる)"
+      },
+      {
+        "word": "strictly determined",
+        "translation": "厳密に決定される (げんみつにけっていされる)"
+      },
+      {
+        "word": "subsequent",
+        "translation": "後続の (こうぞくの)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Motion of Objection against Registrar's Decision",
+    "definition": "A formal petition submitted to the supervisory District Court by an applicant who contests the registrar's decision to reject their application for commercial registration, typically citing an error in the formal examination or interpretation of law.",
+    "japaneseDefinition": "商業登記の申請を却下するという登記官の処分に対し、申請人が不服を申し立てるために、監督する地方裁判所へ提出する正式な請願手続き。通常は形式審査や法令解釈の誤りを主張する。",
+    "japaneseWordTranslation": "登記官の処分に対する不服申立て (とうきかんのしょぶんについするふふくもうしたて)",
+    "legalContext": "Commercial Registration Act Art. 136 (Objection) and related provisions defining the grounds for appeal.",
+    "japaneseLegalContext": "商業登記法第136条（不服申立て）および不服を申し立てる根拠を定める関連規定。",
+    "exampleSentence": "The company filed a motion of objection against the registrar's decision after its application for capital increase registration was rejected due to an alleged deficiency in the supporting documents.",
+    "exampleTranslation": "添付書類に不備があるとして増資登記の申請が却下された後、会社は登記官の処分に対する不服申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "formal petition",
+        "translation": "正式な請願 (せいしきなせいがん)"
+      },
+      {
+        "word": "contests the decision",
+        "translation": "処分に異議を唱える (しょぶんにいぎをとなえる)"
+      },
+      {
+        "word": "supervisory District Court",
+        "translation": "監督する地方裁判所 (かんとくするちほうさいばんしょ)"
+      },
+      {
+        "word": "rejected",
+        "translation": "却下された (きゃっかされた)"
+      },
+      {
+        "word": "alleged deficiency",
+        "translation": "主張された不備 (しゅちょうされたふび)"
+      }
+    ]
   }
 ]

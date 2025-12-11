@@ -2412,5 +2412,119 @@
         "translation": "商業用不動産"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution against Substituted Property",
+    "definition": "The procedure stipulated in Article 41 of the Civil Execution Act, whereby if the performance required by the execution title is a non-fungible act (an action that cannot be substituted), and the judgment debtor fails to perform, the obligee executes against the costs incurred for having a third party perform the action (substitute performance), or the non-compliance fine.",
+    "japaneseDefinition": "執行債務者のなすべき行為が代替的作為義務（代わりに行うことが可能な行為）ではない場合において、債務者がそれを履行しないときに、債権者が第三者にその行為をさせて、その費用の額について執行する方法。",
+    "japaneseWordTranslation": "だいたいぶつのしっこう (Daitaibutsu no Shikkō)",
+    "legalContext": "Civil Execution Act Art. 41: Execution on Non-Fungible Acts. When the contents of the claim are for a non-fungible act, the court grants the judgment obligee a permission to have a third party perform the act at the judgment debtor's expense.",
+    "japaneseLegalContext": "民事執行法第41条：代替的作為義務の執行。債務名義の執行文が、非代替的作為義務である場合、債務者の費用で第三者にその行為をさせる許可を債権者に与える。",
+    "exampleSentence": "The judgment creditor sought execution against substituted property to recover the substantial expenses paid to the specialized contractor after the debtor refused to comply with the court order.",
+    "exampleTranslation": "債務者が裁判所の命令に応じることを拒否した後、債権者は専門の請負業者に支払った多額の費用を回収するため、代替物の執行を求めた。",
+    "vocabularyList": [
+      {
+        "word": "judgment creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "non-fungible act",
+        "translation": "非代替的作為義務"
+      },
+      {
+        "word": "substitute performance",
+        "translation": "代替執行"
+      },
+      {
+        "word": "non-compliance fine",
+        "translation": "不履行の罰金"
+      },
+      {
+        "word": "substantial expenses",
+        "translation": "多額の費用"
+      },
+      {
+        "word": "court order",
+        "translation": "裁判所の命令"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Allocation of Execution Costs",
+    "definition": "The formal determination by the execution body (court or officer) regarding which party bears the administrative costs and fees necessary for carrying out the civil execution procedure, typically mandated by law to be borne by the judgment debtor.",
+    "japaneseDefinition": "民事執行手続の実施に要した費用を、執行裁判所または執行官が、どちらの当事者に最終的に負担させるかを定めること。原則として債務者が負担する。",
+    "japaneseWordTranslation": "しっこうひようのふたん (Shikkō Hiyō no Futan)",
+    "legalContext": "Civil Execution Act Art. 42(1): The costs necessary for the compulsory execution shall be borne by the debtor and shall be recovered by means of the compulsory execution that resulted in those costs.",
+    "japaneseLegalContext": "民事執行法第42条第1項：強制執行に必要な費用は、債務者の負担とし、その執行により弁償を受けることができる。",
+    "exampleSentence": "The execution court issued a ruling on the allocation of execution costs, which included the appraisal fees and the officer's hourly charges, placing the burden squarely on the judgment debtor.",
+    "exampleTranslation": "執行裁判所は、鑑定費用や執行官の時間料金を含む執行費用の負担に関する決定を下し、その負担を債務者に負わせた。",
+    "vocabularyList": [
+      {
+        "word": "administrative costs",
+        "translation": "手続費用"
+      },
+      {
+        "word": "execution body",
+        "translation": "執行機関"
+      },
+      {
+        "word": "judgment debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "appraisal fees",
+        "translation": "鑑定費用"
+      },
+      {
+        "word": "placing the burden",
+        "translation": "負担を負わせる"
+      },
+      {
+        "word": "recovery",
+        "translation": "弁償（回収）"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution upon Possessory Judgment",
+    "definition": "A type of execution carried out to realize a judgment obliging the debtor to deliver specific tangible property, clear land or buildings, or remove specific obstacles, thereby changing the factual status of possession.",
+    "japaneseDefinition": "特定の動産、不動産、または障害物の引渡しを債務者に義務付ける判決に基づいて行われる執行手続。占有の事実状態を強制的に変更する。",
+    "japaneseWordTranslation": "せんゆうにかんするしっこう (Sen'yū ni Kansuru Shikkō)",
+    "legalContext": "Civil Execution Act Art. 169: Execution for Delivery of Property. Execution for delivery of property shall be enforced by having an execution officer deprive the debtor of the property and deliver it to the creditor.",
+    "japaneseLegalContext": "民事執行法第169条：物の引渡しの執行。物の引渡しを目的とする執行は、執行官が債務者からその物を奪取して債権者に引き渡す方法により行う。",
+    "exampleSentence": "Following the court's final ruling, the judgment creditor immediately applied for execution upon possessory judgment concerning the disputed residential building.",
+    "exampleTranslation": "裁判所の最終判決を受けて、債権者は直ちに係争中の居住用建物に関する占有に関する執行を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "disputed",
+        "translation": "係争中の"
+      },
+      {
+        "word": "tangible property",
+        "translation": "有体物（動産・不動産）"
+      },
+      {
+        "word": "delivery",
+        "translation": "引渡し"
+      },
+      {
+        "word": "clear land",
+        "translation": "土地の明け渡し"
+      },
+      {
+        "word": "factual status",
+        "translation": "事実状態"
+      },
+      {
+        "word": "final ruling",
+        "translation": "最終判決"
+      }
+    ]
   }
 ]

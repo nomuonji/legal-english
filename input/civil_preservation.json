@@ -2300,5 +2300,119 @@
         "translation": "害する (がいする)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Guarantee Deposit",
+    "definition": "Funds or assets provided by the preservation obligee (applicant) as security to compensate the preservation debtor for potential damages incurred should the provisional measure later prove to have been unjust or erroneous.",
+    "japaneseDefinition": "保全債権者（申立人）が、保全命令が不当であった場合に保全債務者が被るかもしれない損害を賠償するために、あらかじめ裁判所に供託する金銭または有価証券。",
+    "japaneseWordTranslation": "保全担保金 (ほぜんたんぽきん)",
+    "legalContext": "Civil Preservation Act, Art. 14: Requirement for provision of security by the applicant.",
+    "japaneseLegalContext": "民事保全法第14条：保全命令の申立てをする者は、裁判所の定めるところにより、保全執行により保全債務者の被るべき損害を担保するための金銭その他の物を供託しなければならない。",
+    "exampleSentence": "The court ordered the obligee to place a 3 million yen Preservation Guarantee Deposit prior to issuing the provisional attachment order on the real estate.",
+    "exampleTranslation": "裁判所は、不動産に対する仮差押命令を発令する前に、債権者に対して300万円の保全担保金を供託するよう命じた。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "compensation",
+        "translation": "賠償"
+      },
+      {
+        "word": "incurred damages",
+        "translation": "被った損害"
+      },
+      {
+        "word": "provisional attachment order",
+        "translation": "仮差押命令"
+      },
+      {
+        "word": "real estate",
+        "translation": "不動産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Disposition Concerning the Object of Dispute",
+    "definition": "A type of provisional disposition aimed at preserving the existing status of property that is the specific subject matter of a pending or anticipated lawsuit (e.g., an order prohibiting the transfer or modification of disputed real property).",
+    "japaneseDefinition": "係争中の権利関係の目的物（特に不動産）について、現状の変更や処分を禁止することで、本案訴訟の執行を保全するために行われる保全措置。",
+    "japaneseWordTranslation": "係争物に関する仮処分 (けいそうぶつにかんするかりしょぶん)",
+    "legalContext": "Civil Preservation Act, Art. 25(1): Preservation of the object of a proprietary claim.",
+    "japaneseLegalContext": "民事保全法第25条第1項：物の引渡しを求める債権その他の物に関する債権の実現を保全するため、その物を現状のまま債務者に占有させることを内容とする仮処分その他の必要な保全処分を命ずることができる。",
+    "exampleSentence": "A Provisional Disposition Concerning the Object of Dispute was executed against the debtor to prevent the sale of the land during the pendency of the ownership confirmation suit.",
+    "exampleTranslation": "所有権確認訴訟が係属している間、土地の売却を防ぐために、債務者に対して係争物に関する仮処分が執行された。",
+    "vocabularyList": [
+      {
+        "word": "object of dispute",
+        "translation": "係争物"
+      },
+      {
+        "word": "preserving the status",
+        "translation": "現状を保全する"
+      },
+      {
+        "word": "proprietary claim",
+        "translation": "物に関する債権"
+      },
+      {
+        "word": "ownership confirmation suit",
+        "translation": "所有権確認訴訟"
+      },
+      {
+        "word": "execution",
+        "translation": "執行"
+      },
+      {
+        "word": "modification",
+        "translation": "変更"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order Setting Aside Preservation",
+    "definition": "A court order issued, usually upon motion by the debtor, terminating a provisional measure (attachment or disposition) because the obligee failed to initiate the main action within the statutory or court-specified period.",
+    "japaneseDefinition": "保全債権者が裁判所が定めた期間内に本案の訴えを提起しない場合に、裁判所が債務者の申立てに基づき、保全命令を取り消す決定。",
+    "japaneseWordTranslation": "保全取消決定 (ほぜんとりけしけってい)",
+    "legalContext": "Civil Preservation Act, Art. 37(1): Cancellation of preservation order due to non-commencement of the principal action.",
+    "japaneseLegalContext": "民事保全法第37条第1項：保全命令を発した裁判所は、保全命令の申立てを却下し、又は保全命令を取り消す本案の訴えが提起された場合において、…保全命令を取り消すことができる。",
+    "exampleSentence": "The court issued an Order Setting Aside Preservation after confirming that the preservation obligee had missed the 30-day deadline to commence the action on the merits.",
+    "exampleTranslation": "裁判所は、保全債権者が本案訴訟を開始するための30日の期限を逃したことを確認した後、保全取消決定を発した。",
+    "vocabularyList": [
+      {
+        "word": "terminate",
+        "translation": "終了させる"
+      },
+      {
+        "word": "upon motion",
+        "translation": "申立てに基づき"
+      },
+      {
+        "word": "main action",
+        "translation": "本案の訴え"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "deadline",
+        "translation": "期限"
+      },
+      {
+        "word": "court order",
+        "translation": "裁判所命令"
+      }
+    ]
   }
 ]

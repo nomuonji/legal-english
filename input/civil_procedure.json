@@ -2284,5 +2284,119 @@
         "translation": "言い渡す (いいわたす)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statement of Claim",
+    "definition": "The formal document filed by the plaintiff with the court to initiate a lawsuit, setting forth the parties, the specific facts constituting the cause of action, and the specific judicial remedies requested (the prayer for relief).",
+    "japaneseDefinition": "原告が訴訟の提起のために裁判所に提出する書面。当事者、請求の趣旨及び請求の原因等を記載する。",
+    "japaneseWordTranslation": "訴状 (そじょう)",
+    "legalContext": "Code of Civil Procedure Art. 133 (1): 'A suit shall be instituted by filing a statement of claim with the court.'",
+    "japaneseLegalContext": "民事訴訟法第133条第1項: 「訴えの提起は、訴状を裁判所に提出してしなければならない。」",
+    "exampleSentence": "The court clerk checked the Statement of Claim for compliance with formal requirements before proceeding with service of process on the defendant.",
+    "exampleTranslation": "裁判所書記官は、被告への送達手続きを進める前に、訴状が形式的要件を満たしているか確認した。",
+    "vocabularyList": [
+      {
+        "word": "plaintiff",
+        "translation": "原告 (げんこく)"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告 (ひこく)"
+      },
+      {
+        "word": "cause of action",
+        "translation": "請求の原因 (せいきゅうのげんいん)"
+      },
+      {
+        "word": "prayer for relief",
+        "translation": "請求の趣旨 (せいきゅうのしゅし)"
+      },
+      {
+        "word": "court clerk",
+        "translation": "裁判所書記官 (さいばんしょしょきかん)"
+      },
+      {
+        "word": "formal requirements",
+        "translation": "形式的要件 (けいしきてきようけん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interest in Bringing the Action (Locus Standi)",
+    "definition": "A procedural prerequisite requiring the plaintiff to demonstrate a genuine and legitimate legal need or benefit in seeking a judicial ruling to resolve the specific dispute presented to the court.",
+    "japaneseDefinition": "訴訟を追行し、本案判決を受けることの必要性・実効性を指す。訴訟要件の一つであり、これが欠けると訴えは不適法として却下される。",
+    "japaneseWordTranslation": "訴えの利益 (うったえのりえき)",
+    "legalContext": "Procedural prerequisite for the admissibility of a suit (訴訟要件), particularly relevant for declaratory and formative judgments.",
+    "japaneseLegalContext": "訴訟要件の一つとして要求される (特に確認の訴え及び形成の訴えにおいて重視される)。",
+    "exampleSentence": "The court dismissed the claim because the plaintiff could not prove sufficient interest in bringing the action, as the underlying dispute had already been resolved extralegally.",
+    "exampleTranslation": "基礎となる紛争が既に裁判外で解決されていたため、原告が十分な訴えの利益を証明できなかったとして、裁判所は当該請求を却下した。",
+    "vocabularyList": [
+      {
+        "word": "procedural prerequisite",
+        "translation": "訴訟要件 (そしょうようけん)"
+      },
+      {
+        "word": "admissibility",
+        "translation": "適法性 (てきほうせい)"
+      },
+      {
+        "word": "dismissed the claim",
+        "translation": "請求を却下した (せいきゅうをきゃっかした)"
+      },
+      {
+        "word": "extralegally",
+        "translation": "裁判外で (さいばんがいで)"
+      },
+      {
+        "word": "declaratory judgment",
+        "translation": "確認判決 (かくにんはんけつ)"
+      },
+      {
+        "word": "underlying dispute",
+        "translation": "基礎となる紛争 (きそとなるふんそう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preclusive Effect",
+    "definition": "The authoritative and binding force of a final judgment, which prevents the parties and their successors from relitigating the same issues, facts, or claims that were conclusively determined in the initial litigation.",
+    "japaneseDefinition": "確定した終局判決が、その後の訴訟において、同一事項について当事者を拘束する効力。確定判決の蒸し返しを許さないという作用を持つ。",
+    "japaneseWordTranslation": "既判力 (きはんりょく)",
+    "legalContext": "Code of Civil Procedure Art. 114 (1): 'A final judgment shall be binding upon the court in a subsequent action regarding the matter that is the subject of the judgment.'",
+    "japaneseLegalContext": "民事訴訟法第114条第1項: 「確定判決は、主文に包含するものに限り、既判力を有する。」",
+    "exampleSentence": "The preclusive effect only applies to the matters specifically addressed in the holding of the previous final court ruling, not to peripheral factual findings.",
+    "exampleTranslation": "既判力は、前の確定判決の主文で特定的に扱われた事項にのみ適用され、周辺的な事実認定には及ばない。",
+    "vocabularyList": [
+      {
+        "word": "final judgment",
+        "translation": "確定判決 (かくていはんけつ)"
+      },
+      {
+        "word": "binding force",
+        "translation": "拘束力 (こうそくりょく)"
+      },
+      {
+        "word": "subsequent action",
+        "translation": "後の訴訟 (のちのそしょう)"
+      },
+      {
+        "word": "holding",
+        "translation": "主文 (しゅぶん)"
+      },
+      {
+        "word": "litigation",
+        "translation": "訴訟 (そしょう)"
+      },
+      {
+        "word": "conclusively determined",
+        "translation": "確定的に判断された (かくていてきにはんだんされた)"
+      }
+    ]
   }
 ]

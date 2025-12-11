@@ -2162,5 +2162,115 @@
         "translation": "矛盾する記録"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Obligor",
+    "definition": "The person currently recorded in the real property register whose registered rights are diminished, extinguished, or restricted by the intended registration, requiring their participation (usually jointly with the obligee) in the application process.",
+    "japaneseDefinition": "登記によって、自己の権利が失われたり、制限されたりする者。権利の変更や移転の登記を行う際の、共同申請における相手方となる。",
+    "japaneseWordTranslation": "登記義務者 (Tōki Gimu-sha)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Art. 60: ... Application for registration of rights shall be made jointly by the Registration Obligee and the Registration Obligor.",
+    "japaneseLegalContext": "不動産登記法第60条: 権利に関する登記の申請は、法令に別段の定めがある場合を除き、登記権利者及び登記義務者が共同してしなければならない。",
+    "exampleSentence": "The seller acted as the Registration Obligor and was required to provide the Registration Identification Information for the transfer of ownership.",
+    "exampleTranslation": "売主は登記義務者として行動し、所有権移転のために登記識別情報の提供を求められた。",
+    "vocabularyList": [
+      {
+        "word": "Registration Obligee",
+        "translation": "登記権利者 (Tōki Kenrisha)"
+      },
+      {
+        "word": "joint application",
+        "translation": "共同申請 (Kyōdō Shinsei)"
+      },
+      {
+        "word": "transfer of ownership",
+        "translation": "所有権移転 (Shoyūken Iten)"
+      },
+      {
+        "word": "diminished rights",
+        "translation": "権利の制限 (Kenri no Seigen)"
+      },
+      {
+        "word": "provide",
+        "translation": "提供する (Teikyō suru)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Building Number",
+    "definition": "The specific administrative numbering assigned to a registered building, recorded in the Description Section of the real property register, used as a unique identifier for the structure.",
+    "japaneseDefinition": "一棟の建物を特定するために登記官が付与する番号で、不動産登記記録の表題部に記録される事項。土地の地番に相当する。",
+    "japaneseWordTranslation": "家屋番号 (Kaoku Bangō)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Art. 44 (1) (ii): ... The description of a building shall include its location, Building Number, type, structure, and floor area.",
+    "japaneseLegalContext": "不動産登記法第44条第1項第2号: 建物の表示については、所在、家屋番号、種類、構造及び床面積を記録しなければならない。",
+    "exampleSentence": "When applying for the initial registration of a newly constructed house, the Building Number must be assigned and accurately recorded by the registrar.",
+    "exampleTranslation": "新築住宅の表題登記を申請する際、家屋番号は登記官によって付与され、正確に記録されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Description Section",
+        "translation": "表題部 (Hyōdai-bu)"
+      },
+      {
+        "word": "type",
+        "translation": "種類 (Shurui)"
+      },
+      {
+        "word": "floor area",
+        "translation": "床面積 (Yuka Menseki)"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官 (Tōki-kan)"
+      },
+      {
+        "word": "newly constructed house",
+        "translation": "新築住宅 (Shinchiku Jūtaku)"
+      },
+      {
+        "word": "initial registration",
+        "translation": "表題登記 (Hyōdai Tōki)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Building Plan",
+    "definition": "A mandatory supplementary document (drawing) submitted during the registration process for a building, detailing its exterior dimensions, floor plan, and the location relationship relative to neighboring land boundaries.",
+    "japaneseDefinition": "建物の所在や構造などを明確にするために、不動産登記申請時に提出が義務付けられている図面。建物の各階平面図を含む。",
+    "japaneseWordTranslation": "建物図面 (Tatemono Zumen)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Art. 47 (1): ... An application for the initial registration of a building shall be accompanied by a Building Plan and floor plans of each story.",
+    "japaneseLegalContext": "不動産登記法第47条第1項: 建物の表題登記の申請には、建物図面及び各階平面図を添付しなければならない。",
+    "exampleSentence": "The Building Plan was scrutinized by the registration authority to confirm that the reported floor area matched the actual structure.",
+    "exampleTranslation": "届け出られた床面積が実際の構造と一致することを確認するため、建物図面が登記機関によって精査された。",
+    "vocabularyList": [
+      {
+        "word": "supplementary document",
+        "translation": "添付書類 (Tenpu Shorui)"
+      },
+      {
+        "word": "floor plan",
+        "translation": "各階平面図 (Kakukai Heimen-zu)"
+      },
+      {
+        "word": "registration process",
+        "translation": "登記手続 (Tōki Tetsuzuki)"
+      },
+      {
+        "word": "initial registration",
+        "translation": "表題登記 (Hyōdai Tōki)"
+      },
+      {
+        "word": "registration authority",
+        "translation": "登記機関 (Tōki Kikan)"
+      },
+      {
+        "word": "scrutinized",
+        "translation": "精査された (Seisa sareta)"
+      }
+    ]
   }
 ]

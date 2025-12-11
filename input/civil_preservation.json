@@ -2186,5 +2186,119 @@
         "translation": "Calculation statement/Bill"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Writ of Provisional Disposition",
+    "definition": "The formal written document issued by the preservation court that contains the court's order for provisional disposition, detailing the scope and method of the preservation measure, which is necessary for execution.",
+    "japaneseDefinition": "裁判所が発する、仮処分命令の内容及び執行の方法を記載した公的な書面であり、保全執行を行うために必要となる。",
+    "japaneseWordTranslation": "仮処分決定書 (かりしょぶんけっていしょ)",
+    "legalContext": "Civil Preservation Act, related articles concerning the issuance and service of preservation orders.",
+    "japaneseLegalContext": "民事保全法における、保全命令の発令および送達に関する規定。",
+    "exampleSentence": "The obligee must present the certified Writ of Provisional Disposition to the enforcement officer to commence the seizure of the specified assets.",
+    "exampleTranslation": "債権者は、指定された財産の差押えを開始するために、認証された仮処分決定書を執行官に提示しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "certified",
+        "translation": "認証された (にんしょうされた)"
+      },
+      {
+        "word": "enforcement officer",
+        "translation": "執行官 (しっこうかん)"
+      },
+      {
+        "word": "commence",
+        "translation": "開始する (かいしする)"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え (さしおさえ)"
+      },
+      {
+        "word": "specified assets",
+        "translation": "指定された財産 (していされたざいさん)"
+      },
+      {
+        "word": "present",
+        "translation": "提示する (ていじする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Security for Exemption from Preservation",
+    "definition": "A type of security (deposit) posted by the preservation debtor to the court, the purpose of which is to prevent the enforcement of a preservation measure or to secure its removal, providing temporary relief from restriction on property.",
+    "japaneseDefinition": "保全債務者が裁判所に提供する担保の一種で、保全措置の執行を防ぐ、あるいは解除することを目的とし、財産上の制限から一時的に解放される。",
+    "japaneseWordTranslation": "保全免脱のための担保 (ほぜんめんだつのためのたんぽ)",
+    "legalContext": "Civil Preservation Act Art. 44: The court may, upon application by the preservation debtor, specify the amount of security to be provided for the purpose of avoiding the preservation enforcement.",
+    "japaneseLegalContext": "民事保全法第44条：裁判所は、保全債務者の申立てにより、保全執行を免れることを目的とする担保の額を定めることができる。",
+    "exampleSentence": "The company provided Security for Exemption from Preservation in the amount determined by the court to continue its business operations while contesting the provisional attachment order.",
+    "exampleTranslation": "その会社は、仮差押命令に異議を申し立てている間も事業活動を継続するため、裁判所が定めた額の保全免脱のための担保を提供した。",
+    "vocabularyList": [
+      {
+        "word": "application",
+        "translation": "申立て (もうしたて)"
+      },
+      {
+        "word": "determined by the court",
+        "translation": "裁判所が定めた (さいばんしょがさだめた)"
+      },
+      {
+        "word": "contesting",
+        "translation": "異議を申し立てる (いぎをもうしたてる)"
+      },
+      {
+        "word": "business operations",
+        "translation": "事業活動 (じぎょうかつどう)"
+      },
+      {
+        "word": "temporary relief",
+        "translation": "一時的な解放 (いちじてきなかいほう)"
+      },
+      {
+        "word": "provision",
+        "translation": "提供 (ていきょう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibition of Altering the Current Status",
+    "definition": "A typical content of a provisional disposition (injunction) intended to secure the status quo by forbidding the debtor from making any change to the subject matter of the dispute that would prejudice the obligee's eventual successful enforcement.",
+    "japaneseDefinition": "将来的な本案訴訟の執行を確実にするため、係争物について債務者がその現状を変更することを禁止する仮処分（差止命令）の典型的な内容。",
+    "japaneseWordTranslation": "現状の変更禁止 (げんじょうのへんこうきんし)",
+    "legalContext": "Civil Preservation Act Art. 23 (2): Provisional dispositions may be issued to prevent the respondent from altering the current status of the object of the claim.",
+    "japaneseLegalContext": "民事保全法第23条第2項：仮処分は、請求の目的物について、相手方が現状を変更することを防ぐために発せられることがある。",
+    "exampleSentence": "The court issued an order mandating the Prohibition of Altering the Current Status regarding the contested building site, preventing the debtor from starting any new construction.",
+    "exampleTranslation": "裁判所は、係争中の建設敷地について現状の変更禁止を命じる決定を発令し、債務者が新たな建設に着手することを阻止した。",
+    "vocabularyList": [
+      {
+        "word": "mandating",
+        "translation": "命じる (めいじる)"
+      },
+      {
+        "word": "contested building site",
+        "translation": "係争中の建設敷地 (けいそうちゅうのけんせつしきち)"
+      },
+      {
+        "word": "preventing",
+        "translation": "阻止する (そしする)"
+      },
+      {
+        "word": "starting construction",
+        "translation": "建設に着手する (けんせつにちゃくしゅする)"
+      },
+      {
+        "word": "subject matter of the dispute",
+        "translation": "係争物 (けいそうぶつ)"
+      },
+      {
+        "word": "prejudice",
+        "translation": "害する (がいする)"
+      }
+    ]
   }
 ]

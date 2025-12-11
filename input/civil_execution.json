@@ -2290,5 +2290,127 @@
         "translation": "所有権"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Clause",
+    "definition": "A formal certification attached to an enforceable document (such as a judgment or notarized instrument), issued by a court clerk or notary, which confirms the document is ready for enforcement against the obligor.",
+    "japaneseDefinition": "債務名義（判決や公正証書など）に付され、執行官による強制執行が可能であることを証明する公的な文言。通常は裁判所書記官が付与する。",
+    "japaneseWordTranslation": "執行文 (しっこうぶん)",
+    "legalContext": "Civil Execution Act Article 25: A court clerk shall grant an execution clause for the enforcement of the enforceable document upon a motion by the obligee.",
+    "japaneseLegalContext": "民事執行法第25条: 債権者の申立てにより、裁判所書記官は、債務名義の正本に執行文を付与しなければならない。",
+    "exampleSentence": "The obligee must first obtain an **Execution Clause** attached to the certified copy of the judgment before filing a petition for execution.",
+    "exampleTranslation": "債権者は、執行の申立てを行う前に、判決の正本に付与された**執行文**を取得しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "enforceable document",
+        "translation": "債務名義"
+      },
+      {
+        "word": "court clerk",
+        "translation": "裁判所書記官"
+      },
+      {
+        "word": "notary",
+        "translation": "公証人"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "enforcement",
+        "translation": "執行"
+      },
+      {
+        "word": "petition for execution",
+        "translation": "執行の申立て"
+      },
+      {
+        "word": "certified copy",
+        "translation": "正本"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Direct Compulsion",
+    "definition": "The method of executing non-monetary claims (excluding claims for delivery of specific movable property) by which the execution officer directly performs the required act or brings about the legal status sought by the obligee.",
+    "japaneseDefinition": "金銭債権以外の非代替的な給付を目的とする債権について、執行官が債務者の意思に関わらず、債権者の求める給付内容を直接的に実現する執行方法。",
+    "japaneseWordTranslation": "直接強制 (ちょくせつきょうせい)",
+    "legalContext": "Civil Execution Act Article 169 (Execution of Claims for Acts): Execution concerning a claim for an act shall be conducted by means of direct compulsion, substitute performance, or indirect compulsion, as provided by the nature of the claim.",
+    "japaneseLegalContext": "民事執行法第169条（行為を目的とする債権の執行）：行為を目的とする債権についての執行は、その性質により、直接強制、代替執行又は間接強制の方法により行う。",
+    "exampleSentence": "Since the obligor refused to vacate the premises, the court authorized the **Direct Compulsion** to deliver the immovable property to the obligee.",
+    "exampleTranslation": "債務者が敷地の明け渡しを拒否したため、裁判所は債権者への不動産引渡しのために**直接強制**を許可した。",
+    "vocabularyList": [
+      {
+        "word": "non-monetary claims",
+        "translation": "金銭債権以外の債権"
+      },
+      {
+        "word": "execution officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "required act",
+        "translation": "必要な行為"
+      },
+      {
+        "word": "substitute performance",
+        "translation": "代替執行"
+      },
+      {
+        "word": "vacate",
+        "translation": "明け渡す"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Appraisal Officer",
+    "definition": "A person appointed by the competent court to investigate and assess the monetary value of immovable property or other assets subject to execution, serving as the basis for the sale price in an auction.",
+    "japaneseDefinition": "裁判所により選任され、強制売却の対象となる不動産その他の財産の価格を調査・評価する専門家。評価額は売却基準価額の基礎となる。",
+    "japaneseWordTranslation": "評価人 (ひょうかにん)",
+    "legalContext": "Civil Execution Act Article 58: The court handling execution shall have a specialist (Appraisal Officer) investigate the property and fix the assessment value for the property to be sold.",
+    "japaneseLegalContext": "民事執行法第58条：執行裁判所は、売却すべき不動産の評価を評価人に命じ、これを基に売却基準価額を定めなければならない。",
+    "exampleSentence": "The **Appraisal Officer** submitted a detailed report on the commercial property, which resulted in a fixed assessment value of 50 million yen.",
+    "exampleTranslation": "**評価人**は、その商業用不動産に関する詳細な報告書を提出し、その結果、5千万円の確定評価額が設定された。",
+    "vocabularyList": [
+      {
+        "word": "appointed",
+        "translation": "選任された"
+      },
+      {
+        "word": "competent court",
+        "translation": "管轄裁判所"
+      },
+      {
+        "word": "assess",
+        "translation": "評価する"
+      },
+      {
+        "word": "monetary value",
+        "translation": "金銭的価値"
+      },
+      {
+        "word": "subject to execution",
+        "translation": "執行の対象"
+      },
+      {
+        "word": "assessment value",
+        "translation": "評価額"
+      },
+      {
+        "word": "commercial property",
+        "translation": "商業用不動産"
+      }
+    ]
   }
 ]

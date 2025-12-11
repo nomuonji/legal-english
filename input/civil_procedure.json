@@ -2,40 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Service of Process",
-    "definition": "The formal delivery of legal documents, such as a complaint or summons, to the opposing party in a lawsuit.",
-    "japaneseDefinition": "訴状や呼出状などの訴訟書類を、法定の方式に従って相手方に交付する手続。",
-    "japaneseWordTranslation": "送達 (そうたつ)",
-    "legalContext": "Code of Civil Procedure Art. 98: Service is effected by authority of the court clerk.",
-    "japaneseLegalContext": "民事訴訟法第98条：送達は、職権でする。",
-    "exampleSentence": "The plaintiff must ensure proper service of process to notify the defendant of the lawsuit.",
-    "exampleTranslation": "原告は、被告に訴訟を通知するために、適切な送達が行われるようにしなければならない。",
-    "vocabularyList": [
-      {
-        "word": "Legal documents",
-        "translation": "訴訟書類"
-      },
-      {
-        "word": "Complaint",
-        "translation": "訴状"
-      },
-      {
-        "word": "Summons",
-        "translation": "呼出状"
-      },
-      {
-        "word": "Court clerk",
-        "translation": "裁判所書記官"
-      },
-      {
-        "word": "Notify",
-        "translation": "通知する"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Res Judicata",
     "definition": "The principle that a final judgment on the merits is conclusive as to the rights of the parties and constitutes an absolute bar to a subsequent action involving the same claim.",
     "japaneseDefinition": "確定した判決が持つ、後訴の裁判所や当事者を拘束する効力。同一の事項について蒸し返しを許さない効力。",
@@ -2202,6 +2168,120 @@
       {
         "word": "written defense",
         "translation": "答弁書"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Forum of General Jurisdiction",
+    "definition": "The principal location (usually the domicile of a natural person or the principal office of a corporation) that determines the competent court for litigation concerning the defendant, unless specific jurisdictional rules apply.",
+    "japaneseDefinition": "人または法人の住所地、居所地、または本店所在地など、被告に対して訴えを提起する場合に、原則として管轄権が認められる裁判籍。",
+    "japaneseWordTranslation": "普通裁判籍 (ふつうさいばんせき)",
+    "legalContext": "Code of Civil Procedure Art. 4: A suit shall be subject to the jurisdiction of the court in the place where the defendant has a forum of general jurisdiction.",
+    "japaneseLegalContext": "民事訴訟法第4条: 訴えは、被告の普通裁判籍の所在地を管轄する裁判所の管轄に属する。",
+    "exampleSentence": "Since the defendant company's principal office is in Tokyo, the Tokyo District Court has the forum of general jurisdiction.",
+    "exampleTranslation": "被告会社の本店所在地は東京であるため、東京地方裁判所に普通裁判籍がある。",
+    "vocabularyList": [
+      {
+        "word": "domicile",
+        "translation": "住所 (じゅうしょ)"
+      },
+      {
+        "word": "competent court",
+        "translation": "管轄裁判所 (かんかつさいばんしょ)"
+      },
+      {
+        "word": "natural person",
+        "translation": "自然人 (しぜんじん)"
+      },
+      {
+        "word": "principal office",
+        "translation": "本店 (ほんてん)"
+      },
+      {
+        "word": "litigation",
+        "translation": "訴訟 (そしょう)"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄権 (かんかつけん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation of Evidence",
+    "definition": "A procedural mechanism where, upon the motion of a party, the court executes an examination or inspection of evidence before the commencement of the principal action or during the pendency of the suit, due to the risk of that evidence becoming unobtainable or difficult to use later.",
+    "japaneseDefinition": "証拠が散逸または使用困難になるおそれがある場合に、訴訟の係属前または係属中に、当事者の申立てにより裁判所が証拠の取調べを行う手続き。",
+    "japaneseWordTranslation": "証拠保全 (しょうこほぜん)",
+    "legalContext": "Code of Civil Procedure Art. 234: If there are circumstances where it is deemed difficult to use evidence unless it is examined in advance, the court may order the preservation of evidence upon petition.",
+    "japaneseLegalContext": "民事訴訟法第234条: あらかじめ証拠調べをしておかなければその証拠を使用することが困難となる事情があると認められるときは、申立てにより、証拠保全の決定をすることができる。",
+    "exampleSentence": "The plaintiff filed a motion for the preservation of evidence to inspect the damaged machinery before it was repaired and dismantled.",
+    "exampleTranslation": "原告は、損傷した機械が修理・解体される前に検査を行うため、証拠保全の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "motion",
+        "translation": "申立て (もうしたて)"
+      },
+      {
+        "word": "commencement of action",
+        "translation": "訴訟提起 (そしょうていき)"
+      },
+      {
+        "word": "pendency of the suit",
+        "translation": "訴訟係属中 (そしょうけいぞくちゅう)"
+      },
+      {
+        "word": "inspection",
+        "translation": "検査 (けんさ)"
+      },
+      {
+        "word": "unobtainable",
+        "translation": "使用困難 (しようこんなん)"
+      },
+      {
+        "word": "principal action",
+        "translation": "本案訴訟 (ほんなんそしょう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interim Judgment",
+    "definition": "A judgment issued by the court during the proceedings to decide a preliminary issue or a key component of the claim (such as liability) separately, before rendering the final judgment covering all elements of the case.",
+    "japaneseDefinition": "訴訟における中間的な争点や、請求の原因となる事項について、裁判所が終局判決に先立って行う判断。特に請求の理由の有無や時機を判断する際に用いられる。",
+    "japaneseWordTranslation": "中間判決 (ちゅうかんはんけつ)",
+    "legalContext": "Code of Civil Procedure Art. 245: When the existence of a defense or any other intermediate issue is ready for judicial decision, the court may render an interim judgment on such issue.",
+    "japaneseLegalContext": "民事訴訟法第245条: 請求の原因及び数額のいずれについても争いがある場合において、そのいずれかについて先に審理を熟し、中間判決をすることができる。",
+    "exampleSentence": "The court issued an interim judgment recognizing the defendant's liability for damages, reserving the determination of the specific amount for the final stage.",
+    "exampleTranslation": "裁判所は、被告の損害賠償責任を認める中間判決を下し、具体的な金額の決定を最終段階に留保した。",
+    "vocabularyList": [
+      {
+        "word": "preliminary issue",
+        "translation": "中間的争点 (ちゅうかんてきそうてん)"
+      },
+      {
+        "word": "defense",
+        "translation": "抗弁 (こうべん)"
+      },
+      {
+        "word": "judicial decision",
+        "translation": "裁判 (さいばん)"
+      },
+      {
+        "word": "liability",
+        "translation": "責任 (せきにん)"
+      },
+      {
+        "word": "final judgment",
+        "translation": "終局判決 (しゅうきょくはんけつ)"
+      },
+      {
+        "word": "rendering (a judgment)",
+        "translation": "言い渡す (いいわたす)"
       }
     ]
   }

@@ -2208,5 +2208,107 @@
         "translation": "申請が適格である"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit due to inability or refusal of acceptance",
+    "definition": "The act of depositing funds or goods when the obligee either refuses to accept the tender of performance without proper reason, or is unable to accept performance (e.g., due to unknown location or death), thereby discharging the obligor's debt.",
+    "japaneseDefinition": "債権者が弁済の受領を拒否した場合、または受領することができない場合に、債務者が債務を免れるために行う供託。",
+    "japaneseWordTranslation": "受領拒否・受領不能等に基づく供託 (じゅりょうきょひ・じゅりょうふのうとうにもとづくきょうたく)",
+    "legalContext": "Civil Code Art. 492: When an obligee refuses to accept performance or is unable to accept it, the obligor may be discharged from the obligation by depositing the subject matter of the obligation.",
+    "japaneseLegalContext": "民法第492条: 債権者が弁済の受領を拒み、又はこれを受領することができないときは、弁済をしようとする者は、債権者を供託者に指定して、弁済の目的物を供託して、その債務を免れることができる。",
+    "exampleSentence": "The company effected a deposit due to inability or refusal of acceptance after the supplier repeatedly declined to receive payment without justifiable grounds.",
+    "exampleTranslation": "その会社は、納入業者が正当な理由なく受領を繰り返し拒否したため、受領拒否に基づく供託を行った。",
+    "vocabularyList": [
+      {
+        "word": "tender of performance",
+        "translation": "弁済の提供"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "discharge",
+        "translation": "免れる（債務からの解放）"
+      },
+      {
+        "word": "justifiable grounds",
+        "translation": "正当な理由"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Disposition",
+    "definition": "The administrative ruling or determination made by the Deposit Registrar concerning the acceptance, rejection, or necessary procedure related to a deposit application.",
+    "japaneseDefinition": "供託官が供託申請を受理すべきか否か、またその手続について行う行政上の判断。",
+    "japaneseWordTranslation": "供託処分 (きょうたくしょぶん)",
+    "legalContext": "Deposit Act Art. 8: A person who has an objection to a disposition made by a Deposit Registrar may request an administrative review by the supervising Director of the Legal Affairs Bureau or District Legal Affairs Bureau.",
+    "japaneseLegalContext": "供託法第8条: 供託官の処分に不服がある者は、その供託官の所属する法務局又は地方法務局の長に審査請求をすることができる。",
+    "exampleSentence": "The applicant filed an administrative appeal seeking revocation of the Deposit Disposition which had rejected their application for insufficient documentation.",
+    "exampleTranslation": "申請者は、書類不備を理由に却下された供託処分について、取消しを求める行政不服申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "Deposit Registrar",
+        "translation": "供託官"
+      },
+      {
+        "word": "administrative appeal",
+        "translation": "行政不服申立て"
+      },
+      {
+        "word": "revocation",
+        "translation": "取消し"
+      },
+      {
+        "word": "insufficient documentation",
+        "translation": "書類不備"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Place of Performance",
+    "definition": "The geographical location specified in a contract or determined by law where the obligor is required to effect performance of their obligation; this location dictates the competent Deposit Office for consignment.",
+    "japaneseDefinition": "債務者がその債務を履行すべき場所。供託法上、供託すべき供託所の管轄を決定する重要な基準となる。",
+    "japaneseWordTranslation": "履行地 (りこうち)",
+    "legalContext": "Deposit Act Art. 1: Deposits shall be made at the Deposit Office having jurisdiction over the place of performance of the obligation, unless otherwise provided by law.",
+    "japaneseLegalContext": "供託法第1条: 供託は、法令に別段の定めがある場合を除き、債務の履行地の供託所にする。",
+    "exampleSentence": "Since the contract designated Tokyo as the place of performance, the obligor must make the required deposit at the Deposit Office within the jurisdiction of the Tokyo Legal Affairs Bureau.",
+    "exampleTranslation": "契約書において履行地が東京と指定されていたため、債務者は東京法務局の管轄内にある供託所に所要の供託を行わなければならない。",
+    "vocabularyList": [
+      {
+        "word": "competent",
+        "translation": "管轄を有する"
+      },
+      {
+        "word": "consignment",
+        "translation": "供託"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄"
+      },
+      {
+        "word": "designated",
+        "translation": "指定された"
+      },
+      {
+        "word": "Legal Affairs Bureau",
+        "translation": "法務局"
+      }
+    ]
   }
 ]

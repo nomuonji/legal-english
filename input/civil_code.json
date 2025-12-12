@@ -2,40 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Contract",
-    "definition": "A legally binding agreement between parties that creates mutual obligations.",
-    "japaneseDefinition": "当事者の合意によって成立し、法的拘束力を生じさせる約束。",
-    "japaneseWordTranslation": "契約 (けいやく)",
-    "legalContext": "Civil Code Art. 521: A contract is formed when an offer is accepted.",
-    "japaneseLegalContext": "民法第521条：契約は、申込みに対して承諾がなされることによって成立する。",
-    "exampleSentence": "The parties entered into a sales contract for the real estate.",
-    "exampleTranslation": "当事者はその不動産について売買契約を締結した。",
-    "vocabularyList": [
-      {
-        "word": "Agreement",
-        "translation": "合意"
-      },
-      {
-        "word": "Obligation",
-        "translation": "義務/債務"
-      },
-      {
-        "word": "Offer",
-        "translation": "申込み"
-      },
-      {
-        "word": "Acceptance",
-        "translation": "承諾"
-      },
-      {
-        "word": "Binding",
-        "translation": "拘束力のある"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Statute of Limitations",
     "definition": "A law that sets the maximum time period during which legal proceedings may be initiated or rights may be enforced.",
     "japaneseDefinition": "一定期間権利を行使しない状態が続いた場合に、その権利を消滅させる制度。",
@@ -2836,6 +2802,132 @@
       {
         "word": "stock farming",
         "translation": "牧畜"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restoration of Original State",
+    "definition": "The duty, arising typically upon the dissolution or termination of a contractual relationship, to return the parties to the financial and material position they were in prior to the commencement of the contractual obligation.",
+    "japaneseDefinition": "契約の解除や終了に伴い、当事者を契約締結前の状態に戻す義務。通常、受け取った給付を返還することを含む。",
+    "japaneseWordTranslation": "原状回復 (げんじょうかいふく)",
+    "legalContext": "Civil Code Art. 545, Para. 1: If one party exercises the right to dissolve a contract, the other party shall be obliged to restore the original state.",
+    "japaneseLegalContext": "民法第545条第1項：当事者の一方がその解除権を行使したときは、各当事者は、その相手方を原状に復させる義務を負う。",
+    "exampleSentence": "Due to the seller's breach, the buyer was entitled to dissolve the contract and demanded the **Restoration of Original State**, including interest on the returned funds.",
+    "exampleTranslation": "売主の債務不履行により、買主は契約を解除する権利を有し、返金された元本に対する利息を含めた原状回復を要求した。",
+    "vocabularyList": [
+      {
+        "word": "dissolve a contract",
+        "translation": "契約を解除する"
+      },
+      {
+        "word": "breach",
+        "translation": "債務不履行"
+      },
+      {
+        "word": "entitled to",
+        "translation": "～する権利を有する"
+      },
+      {
+        "word": "seller",
+        "translation": "売主"
+      },
+      {
+        "word": "buyer",
+        "translation": "買主"
+      },
+      {
+        "word": "interest on funds",
+        "translation": "利息"
+      },
+      {
+        "word": "return the original state",
+        "translation": "原状に復させる"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Vicarious Liability",
+    "definition": "The liability imposed upon an employer (user) for the damages caused to a third party by an employee (employed person) while carrying out their duties for the business.",
+    "japaneseDefinition": "ある事業のために他人を使用する者（使用者）が、被用者がその事業の執行について第三者に加えた損害を賠償しなければならない責任。",
+    "japaneseWordTranslation": "使用者責任 (しようしゃせきにん)",
+    "legalContext": "Civil Code Art. 715, Para. 1: A person who employs others to carry out a business shall be liable for damages caused to a third person by the employed person in the performance of their duties.",
+    "japaneseLegalContext": "民法第715条第1項：ある事業のために他人を使用する者は、被用者がその事業の執行について第三者に加えた損害を賠償する責任を負う。",
+    "exampleSentence": "The plaintiff successfully argued for **Vicarious Liability**, holding the restaurant owner responsible for the injury caused by a waiter during their shift.",
+    "exampleTranslation": "原告は使用者責任を主張することに成功し、ウェイターが勤務中に引き起こした傷害に対してレストラン経営者に責任を負わせた。",
+    "vocabularyList": [
+      {
+        "word": "plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "employer",
+        "translation": "使用者"
+      },
+      {
+        "word": "employee",
+        "translation": "被用者"
+      },
+      {
+        "word": "restaurant owner",
+        "translation": "レストラン経営者"
+      },
+      {
+        "word": "in the performance of their duties",
+        "translation": "事業の執行について"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "injury",
+        "translation": "傷害"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Successive Performance Obligation",
+    "definition": "An obligation characterized by the continuity of the performance over a certain period of time, rather than a one-time execution (e.g., supply of utilities or periodic rent payments).",
+    "japaneseDefinition": "単発的な給付ではなく、一定の期間にわたって継続的に給付が行われることを特徴とする債務。継続的給付債務ともいう。",
+    "japaneseWordTranslation": "定期給付債務 (ていききゅうふさいむ)",
+    "legalContext": "Civil Code Art. 545, Para. 3 (Implication): The dissolution of a contract shall not have retroactive effect with regard to performances that constitute Successive Performance Obligations.",
+    "japaneseLegalContext": "民法第545条第3項（趣旨）：継続的給付を目的とする契約について解除があった場合には、その効力は遡及しない。",
+    "exampleSentence": "Since the subscription agreement constituted a **Successive Performance Obligation**, its dissolution only applied to future performance and did not affect services already rendered.",
+    "exampleTranslation": "当該購読契約は定期給付債務を構成するため、その解除は将来の給付にのみ適用され、既に提供されたサービスには影響しなかった。",
+    "vocabularyList": [
+      {
+        "word": "subscription agreement",
+        "translation": "購読契約"
+      },
+      {
+        "word": "dissolution",
+        "translation": "解除"
+      },
+      {
+        "word": "retroactive effect",
+        "translation": "遡及効"
+      },
+      {
+        "word": "performance",
+        "translation": "給付"
+      },
+      {
+        "word": "services already rendered",
+        "translation": "既に提供されたサービス"
+      },
+      {
+        "word": "apply to",
+        "translation": "～に適用される"
+      },
+      {
+        "word": "lease agreement",
+        "translation": "賃貸借契約"
       }
     ]
   }

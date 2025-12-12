@@ -2602,5 +2602,119 @@
         "translation": "境界線"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Register Form",
+    "definition": "The fundamental unit of the modern computerized real property register (Tōki Kiroku), detailing the description of the property (location, area) and the rights concerning it (such as ownership and security interests).",
+    "japaneseDefinition": "不動産に関する物理的な状況及び権利関係を公示するために、登記官が作成し、コンピュータで管理している記録の最小単位。",
+    "japaneseWordTranslation": "登記記録 (とうききろく)",
+    "legalContext": "Real Property Registration Act (不動産登記法) specifies that a Register Form shall be prepared for each individual unit of real property.",
+    "japaneseLegalContext": "不動産登記法は、一つの不動産ごとに登記記録を作成することを定める。",
+    "exampleSentence": "When reviewing the Register Form, the attorney confirmed the existence of a prior registered security interest, which acts as a restriction on the property.",
+    "exampleTranslation": "登記記録を閲覧した際、弁護士は、その不動産に対する制限として機能している、先行する登記された担保権の存在を確認した。",
+    "vocabularyList": [
+      {
+        "word": "computerized register",
+        "translation": "電子化された登記簿"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権"
+      },
+      {
+        "word": "compile",
+        "translation": "作成する"
+      },
+      {
+        "word": "unit of real property",
+        "translation": "不動産の単位"
+      },
+      {
+        "word": "restriction",
+        "translation": "制限"
+      },
+      {
+        "word": "prior registered",
+        "translation": "先行して登記された"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deletion Registration",
+    "definition": "A type of subsequent registration performed to formally remove or nullify a previous registration entry, typically because the underlying registered right (e.g., a lease or a security interest) has been extinguished.",
+    "japaneseDefinition": "既に実行された登記が、その権利の消滅などによって効力を失った場合に、それを公の記録から除去するために行われる登記手続。",
+    "japaneseWordTranslation": "抹消登記 (まっしょうとうき)",
+    "legalContext": "Real Property Registration Act Art. 68 generally requires a joint application for Deletion Registration, confirming that the right holder consents to the removal of the right.",
+    "japaneseLegalContext": "不動産登記法第68条は、一般に、権利者が権利の抹消に同意することを確認するため、抹消登記の共同申請を要求する。",
+    "exampleSentence": "Upon final settlement of the debt, the parties executed a formal agreement and jointly applied for the Deletion Registration of the encumbrance recorded on the land.",
+    "exampleTranslation": "債務の最終弁済後、当事者は正式な合意を実行し、当該土地に記録されていた負担の抹消登記を共同で申請した。",
+    "vocabularyList": [
+      {
+        "word": "subsequent registration",
+        "translation": "後続登記"
+      },
+      {
+        "word": "nullify",
+        "translation": "無効にする"
+      },
+      {
+        "word": "extinguished",
+        "translation": "消滅した"
+      },
+      {
+        "word": "final settlement",
+        "translation": "最終決済"
+      },
+      {
+        "word": "encumbrance",
+        "translation": "負担"
+      },
+      {
+        "word": "executed an agreement",
+        "translation": "合意を実行した"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Indication Registration",
+    "definition": "The mandatory initial registration detailing the factual description of a land parcel or a newly constructed structure, which must precede any registration related to rights (e.g., ownership or security).",
+    "japaneseDefinition": "不動産の物理的状況（所在、地積、種類、構造など）を初めて記録する登記であり、権利に関する登記の前提となる。",
+    "japaneseWordTranslation": "表題登記 (ひょうだいとうき)",
+    "legalContext": "RPR Act Art. 27 mandates that the owner of a newly constructed building must apply for Indication Registration within one month of its completion.",
+    "japaneseLegalContext": "不動産登記法第27条は、新築建物の所有者に対し、完成から一か月以内に表題登記を申請することを義務付けている。",
+    "exampleSentence": "Prior to transferring ownership of the recently developed residential property, the developer must first complete the necessary Indication Registration procedures.",
+    "exampleTranslation": "最近開発された住宅不動産の所有権を移転する前に、開発業者はまず必要な表題登記の手続を完了しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "mandatory",
+        "translation": "義務的な"
+      },
+      {
+        "word": "factual description",
+        "translation": "事実の表示"
+      },
+      {
+        "word": "structure",
+        "translation": "構造物"
+      },
+      {
+        "word": "precede",
+        "translation": "先行する"
+      },
+      {
+        "word": "developed property",
+        "translation": "開発された不動産"
+      },
+      {
+        "word": "statutory deadline",
+        "translation": "法定の期限"
+      }
+    ]
   }
 ]

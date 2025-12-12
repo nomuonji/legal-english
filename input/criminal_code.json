@@ -2658,5 +2658,119 @@
         "translation": "当局"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Criminal Omission",
+    "definition": "A crime committed through the failure to perform a required legal duty (an 'omission'), provided the accused held a specific 'guarantor status' requiring them to prevent the harm or result.",
+    "japaneseDefinition": "法的な作為義務があるにもかかわらず、それを履行しなかった不作為によって犯罪結果を発生させること。特に、結果犯の成立要件として重要となる。",
+    "japaneseWordTranslation": "不作為犯 (ふさくいはん)",
+    "legalContext": "Criminal Code (General theory): Liability for omission arises when the defendant has a duty of guarantee (保証人地位) equivalent to the commission of a positive act (作為).",
+    "japaneseLegalContext": "刑法総論: 不作為による結果の発生は、保証人地位を有し、その不作為が作為による結果発生と同視できる場合に限り、罰せられる。",
+    "exampleSentence": "The medical professional was investigated for criminal omission due to their failure to administer life-saving treatment required under their professional duty.",
+    "exampleTranslation": "その医療専門家は、職務上の義務として要求される救命治療を怠ったため、不作為犯として捜査された。",
+    "vocabularyList": [
+      {
+        "word": "guarantor status",
+        "translation": "保証人地位"
+      },
+      {
+        "word": "positive act (commission)",
+        "translation": "作為"
+      },
+      {
+        "word": "failure to perform",
+        "translation": "不履行"
+      },
+      {
+        "word": "administer treatment",
+        "translation": "治療を施す"
+      },
+      {
+        "word": "legal duty",
+        "translation": "法的義務"
+      },
+      {
+        "word": "professional duty",
+        "translation": "職務上の義務"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Personal Jurisdiction",
+    "definition": "The legal doctrine that grants a state jurisdiction to apply its criminal laws to its own citizens, even when those citizens commit crimes outside the territorial borders of the state.",
+    "japaneseDefinition": "自国の国民に対しては、犯罪行為が国外で行われた場合であっても、自国の刑法を適用する原則。",
+    "japaneseWordTranslation": "属人主義 (ぞくじんしゅぎ)",
+    "legalContext": "Criminal Code Art. 3: This Code shall apply to a Japanese citizen who commits any crime listed in the preceding Article outside the territory of Japan.",
+    "japaneseLegalContext": "刑法第3条: 日本国外において前条に掲げる以外の罪を犯した日本国民には、この法律を適用する。",
+    "exampleSentence": "The principle of personal jurisdiction allows the Japanese authorities to prosecute Japanese nationals who commit crimes like fraud or certain sexual offenses abroad.",
+    "exampleTranslation": "属人主義により、日本の当局は、国外で詐欺や特定の性犯罪を犯した日本国民を起訴することができる。",
+    "vocabularyList": [
+      {
+        "word": "territorial borders",
+        "translation": "領土の境界"
+      },
+      {
+        "word": "extraterritoriality",
+        "translation": "域外適用"
+      },
+      {
+        "word": "Japanese national",
+        "translation": "日本国民"
+      },
+      {
+        "word": "prosecute",
+        "translation": "起訴する"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄"
+      },
+      {
+        "word": "commit crimes abroad",
+        "translation": "国外で罪を犯す"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Withdrawal of Complaint",
+    "definition": "The formal act by the victim or authorized complainant of revoking the initial criminal complaint, which, for crimes requiring complaint (親告罪), legally mandates the termination of prosecution proceedings.",
+    "japaneseDefinition": "被害者または告訴権者が、一旦なされた刑事告訴を取り消すこと。親告罪については、公訴提起後の場合は公訴棄却、公訴提起前の場合は不起訴処分となる。",
+    "japaneseWordTranslation": "告訴の取下げ (こくそのとりさげ)",
+    "legalContext": "Code of Criminal Procedure Art. 237: A complaint may not be withdrawn after the first instance judgment has been rendered.",
+    "japaneseLegalContext": "刑事訴訟法第237条: 告訴は、第一審の判決があるまでは、これを取り消すことができる。",
+    "exampleSentence": "Because the offense was a crime requiring complaint, the prosecutor was obligated to dismiss the case following the victim’s withdrawal of complaint.",
+    "exampleTranslation": "その罪は親告罪であったため、被害者が告訴の取下げを行った後、検察官は事件を不起訴とする義務を負った。",
+    "vocabularyList": [
+      {
+        "word": "complainant",
+        "translation": "告訴権者"
+      },
+      {
+        "word": "revoking",
+        "translation": "取り消すこと"
+      },
+      {
+        "word": "crimes requiring complaint",
+        "translation": "親告罪"
+      },
+      {
+        "word": "dismiss the case",
+        "translation": "事件を不起訴処分とする"
+      },
+      {
+        "word": "prosecution proceedings",
+        "translation": "公訴手続"
+      },
+      {
+        "word": "obligated to",
+        "translation": "義務を負う"
+      }
+    ]
   }
 ]

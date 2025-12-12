@@ -2760,5 +2760,123 @@
         "translation": "準用する (じゅんようする)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Risk of Prejudicial Change",
+    "definition": "The legal standard requiring the preservation obligee to demonstrate that, absent a preservation measure, the enforcement of their claim will become impossible or significantly difficult due to the debtor's actions (e.g., concealment or disposal of assets).",
+    "japaneseDefinition": "債務者による財産の隠匿や処分など、債権の実行が不能となるか、または著しく困難になるおそれがある状態。",
+    "japaneseWordTranslation": "権利の実現を害するおそれ (Kenri no Jitsugen o Gai suru Osore)",
+    "legalContext": "Civil Preservation Act Art. 13(1): 'Provisional attachment may be effected only when it is necessary to preserve the claim against the risk of prejudicial change to its eventual enforcement.'",
+    "japaneseLegalContext": "民事保全法第13条第1項: 「仮差押えは、金銭の支払を目的とする債権について、強制執行をすることができなくなるおそれがあるとき、又はその強制執行をするのに著しい困難を生ずるおそれがあるときに限り、することができる。」",
+    "exampleSentence": "The court granted the provisional attachment, finding sufficient evidence of a risk of prejudicial change given the debtor's sudden transfer of major business assets overseas.",
+    "exampleTranslation": "裁判所は、債務者が主要な事業資産を突然海外へ移転させたことから、権利の実現を害するおそれの十分な証拠があるとして、仮差押えを認めた。",
+    "vocabularyList": [
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え (kari-sashiosae)"
+      },
+      {
+        "word": "concealment of assets",
+        "translation": "財産の隠匿 (zaisan no intoku)"
+      },
+      {
+        "word": "eventual enforcement",
+        "translation": "最終的な実行 (saishū-teki na jikkō)"
+      },
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権 (kinsen saiken)"
+      },
+      {
+        "word": "debtor's actions",
+        "translation": "債務者の行為 (saiken-sha no kōi)"
+      },
+      {
+        "word": "sufficient evidence",
+        "translation": "十分な証拠 (jūbun na shōko)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Necessity of Immediate Relief",
+    "definition": "The elevated requirement, primarily for provisional dispositions (injunctions) that aim to secure a non-monetary claim, demanding urgent action to prevent serious harm or imminent danger to the preservation obligee.",
+    "japaneseDefinition": "保全債権者の非金銭債権の実現のために、現状の維持や暫定的な地位を定める必要があり、特にその措置を緊急に行わなければ著しい損害を被るおそれがあること。",
+    "japaneseWordTranslation": "緊急の必要性 (Kinkyū no Hitsuyōsei)",
+    "legalContext": "Civil Preservation Act Art. 23(2) stipulates that a provisional disposition concerning the object of dispute requires, in addition to necessity, 'an urgent necessity for the preservation of rights.'",
+    "japaneseLegalContext": "民事保全法第23条第2項: 「仮の地位を定める仮処分は、争いがある権利関係について、債権者に生ずる著しい損害又は急迫の危険を避けるためこれを必要とするときに限り、することができる。」",
+    "exampleSentence": "The court dismissed the motion for provisional disposition because the obligee failed to demonstrate the necessity of immediate relief, arguing that the status quo could be maintained until the principal trial commenced.",
+    "exampleTranslation": "債権者が緊急の必要性を証明できなかったため、裁判所は仮処分申請を却下した。裁判所は、本案訴訟が開始されるまで現状は維持できると論じた。",
+    "vocabularyList": [
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分 (kari-shobun)"
+      },
+      {
+        "word": "non-monetary claim",
+        "translation": "非金銭債権 (hi-kinsen saiken)"
+      },
+      {
+        "word": "imminent danger",
+        "translation": "急迫の危険 (kyūpaku no kiken)"
+      },
+      {
+        "word": "principal trial",
+        "translation": "本案の裁判 (hon'an no saiban)"
+      },
+      {
+        "word": "dismissed the motion",
+        "translation": "申立てを却下した (mōshitate o kyakka shita)"
+      },
+      {
+        "word": "serious harm",
+        "translation": "著しい損害 (ichijirushii songai)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restriction on Money Claim Disposition",
+    "definition": "The legal effect imposed by a provisional attachment order against a monetary claim held by the debtor (e.g., a claim against a bank), whereby the debtor is prohibited from disposing of, transferring, or receiving payment on that claim.",
+    "japaneseDefinition": "債務者が第三債務者に対して有する金銭債権（銀行預金など）に対する仮差押命令によって生じる、債務者がその債権を処分したり、受け取ったりすることを禁止する法的効果。",
+    "japaneseWordTranslation": "金銭債権の処分制限 (Kinsen Saiken no Shobun Seigen)",
+    "legalContext": "Civil Preservation Act Art. 49(1) refers to the application of the relevant provisions of the Civil Execution Act regarding the effects of seizure, which includes this restriction.",
+    "japaneseLegalContext": "民事保全法第49条第1項は、差押えの効力に関する民事執行法の規定の適用について言及しており、この処分制限を含む。",
+    "exampleSentence": "Upon the service of the provisional attachment order, the restriction on money claim disposition took effect immediately, preventing the debtor from withdrawing funds from their bank account.",
+    "exampleTranslation": "仮差押命令が送達されると同時に、金銭債権の処分制限が直ちに効力を生じ、債務者が銀行口座から資金を引き出すのを妨げた。",
+    "vocabularyList": [
+      {
+        "word": "third party obligor",
+        "translation": "第三債務者 (dai-san saimu-sha)"
+      },
+      {
+        "word": "provisional attachment order",
+        "translation": "仮差押命令 (kari-sashiosae meirei)"
+      },
+      {
+        "word": "service of order",
+        "translation": "命令の送達 (meirei no sōtatsu)"
+      },
+      {
+        "word": "disposition",
+        "translation": "処分 (shobun)"
+      },
+      {
+        "word": "take effect",
+        "translation": "効力を生じる (kōryoku o shōjiru)"
+      },
+      {
+        "word": "transfer",
+        "translation": "譲渡 (jōto)"
+      },
+      {
+        "word": "withdrawing funds",
+        "translation": "資金の引き出し (shikin no hikidashi)"
+      }
+    ]
   }
 ]

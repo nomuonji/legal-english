@@ -2680,5 +2680,119 @@
         "translation": "法令の適用"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Motion for Reconsideration",
+    "definition": "A procedural mechanism allowing a party to challenge or object to a court's specific order, decision, or procedural disposition (not a final judgment) during the course of litigation or execution proceedings.",
+    "japaneseDefinition": "裁判所または執行機関の決定、命令、あるいは処置に対して、不服を申し立てるための手続き。特に、異議事由の限定されていない場合に使用される。",
+    "japaneseWordTranslation": "異議申立て (いぎもうしたて)",
+    "legalContext": "Civil Procedure Code Art. 120 (General application regarding certain orders); Civil Execution Act Art. 11 (Objections to execution officer’s disposition).",
+    "japaneseLegalContext": "民事訴訟法第120条（期間の伸長等に関する異議）、民事執行法第11条（執行官の処分に対する異議）",
+    "exampleSentence": "The obligor immediately filed a **motion for reconsideration** after receiving the execution court's order regarding the disclosure of his financial assets.",
+    "exampleTranslation": "債務者は、自身の財務情報の開示に関する執行裁判所の命令を受け取った後、直ちに**異議申立て**を行った。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所 (しっこうさいばんしょ)"
+      },
+      {
+        "word": "procedural disposition",
+        "translation": "手続上の処分 (てつづきじょうのしょぶん)"
+      },
+      {
+        "word": "disclosure",
+        "translation": "開示 (かいじ)"
+      },
+      {
+        "word": "financial assets",
+        "translation": "財務資産 (ざいむしさん)"
+      },
+      {
+        "word": "order",
+        "translation": "命令 (めいれい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Continuation of Review System",
+    "definition": "The procedural system adopted by Japanese intermediate appellate courts (kōso appeal) where the review is not strictly limited to errors of law from the first instance but continues the fact-finding process, allowing for the introduction of new claims and evidence within regulatory limitations.",
+    "japaneseDefinition": "控訴審において、第一審の事実審理を継続する形式を採用する制度。これにより、控訴裁判所は事実認定と法令適用に関して広範な再審理を行う。",
+    "japaneseWordTranslation": "続審制 (ぞくしんせい)",
+    "legalContext": "Civil Procedure Code Art. 296 (Scope of Review in Kōso Appeal), which forms the legal basis for the continuation of review.",
+    "japaneseLegalContext": "民事訴訟法第296条（控訴審の審理の範囲）",
+    "exampleSentence": "Under the **continuation of review system**, the appellate court may accept new documentary evidence that was not presented during the proceedings of the court of first instance.",
+    "exampleTranslation": "**続審制**の下では、控訴裁判所は、第一審裁判所の審理中に提出されなかった新たな書面証拠を受け入れることができる。",
+    "vocabularyList": [
+      {
+        "word": "appellate court",
+        "translation": "控訴裁判所 (こうそさいばんしょ)"
+      },
+      {
+        "word": "first instance",
+        "translation": "第一審 (だいいっしん)"
+      },
+      {
+        "word": "fact-finding",
+        "translation": "事実認定 (じじつにんてい)"
+      },
+      {
+        "word": "documentary evidence",
+        "translation": "書面証拠 (しょめんしょうこ)"
+      },
+      {
+        "word": "proceedings",
+        "translation": "審理 (しんり)"
+      },
+      {
+        "word": "scope of review",
+        "translation": "審理の範囲 (しんりのはんい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Immediate Interest in Confirmation",
+    "definition": "The legal requirement for bringing an action for a declaratory judgment, stipulating that the plaintiff must have a direct, present, and justifiable necessity to eliminate legal uncertainty concerning a specific legal relationship or fact.",
+    "japaneseDefinition": "確認の訴えを提起するための訴訟要件の一つ。現在の法律関係または事実の存否に関する不安定状態を、裁判によって除去する必要があること。",
+    "japaneseWordTranslation": "確認の利益 (かくにんのりえき)",
+    "legalContext": "Implied requirement for admissibility of declaratory actions, derived from Civil Procedure Code Art. 134 (Action for Declaratory Judgment).",
+    "japaneseLegalContext": "民事訴訟法第134条（確認の訴え）より導かれる、訴えの適法性の要件。",
+    "exampleSentence": "The plaintiff's suit was dismissed because the court determined that the dispute was merely historical, thereby lacking the necessary **immediate interest in confirmation**.",
+    "exampleTranslation": "裁判所がその紛争は単なる過去のものであり、必要な**確認の利益**を欠くと判断したため、原告の訴訟は却下された。",
+    "vocabularyList": [
+      {
+        "word": "declaratory judgment",
+        "translation": "確認判決 (かくにんはんけつ)"
+      },
+      {
+        "word": "admissibility",
+        "translation": "適法性 (てきほうせい)"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告 (げんこく)"
+      },
+      {
+        "word": "legal uncertainty",
+        "translation": "法律上の不安定 (ほうりつじょうのふあんてい)"
+      },
+      {
+        "word": "dismissed",
+        "translation": "却下された (きゃっかされた)"
+      },
+      {
+        "word": "legal relationship",
+        "translation": "法律関係 (ほうりつかんけい)"
+      }
+    ]
   }
 ]

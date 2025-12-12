@@ -2706,5 +2706,119 @@
         "translation": "検証する"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Official",
+    "definition": "A governmental officer assigned to the Deposit Office who is responsible for the administrative process of receiving applications, executing the deposit procedure, and managing the deposited property.",
+    "japaneseDefinition": "供託所の事務を司り、供託の申請を受理・審査し、供託物の管理に関する職務を行う国家公務員。",
+    "japaneseWordTranslation": "供託官 (きょうたくかん)",
+    "legalContext": "Deposit Act Art. 8: The affairs of the Deposit Office shall be administered by the Deposit Official.",
+    "japaneseLegalContext": "供託法第8条: 供託所の事務は、供託官がこれを司る。",
+    "exampleSentence": "The Deposit Official rejected the applicant's filing due to a formal deficiency in the power of representation document.",
+    "exampleTranslation": "供託官は、代理権に関する書類に方式上の不備があったため、申請者の供託申請を却下した。",
+    "vocabularyList": [
+      {
+        "word": "Deposit Office",
+        "translation": "供託所 (きょうたくじょ)"
+      },
+      {
+        "word": "affairs",
+        "translation": "事務 (じむ)"
+      },
+      {
+        "word": "application",
+        "translation": "申請 (しんせい)"
+      },
+      {
+        "word": "rejected",
+        "translation": "却下した (きゃっかした)"
+      },
+      {
+        "word": "formal deficiency",
+        "translation": "方式上の不備 (ほうしきじょうのふび)"
+      },
+      {
+        "word": "power of representation",
+        "translation": "代理権 (だいりけん)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Grounds for Deposit",
+    "definition": "The legal justification or statutory reason (e.g., refusal by the obligee to accept performance, or uncertainty regarding the identity of the obligee) that enables or requires an obligor to discharge their obligation through consignment.",
+    "japaneseDefinition": "債務者が債務を免れるために供託を行う、法律上認められた理由。民法上は、受領拒否や債権者不確知などがこれにあたる。",
+    "japaneseWordTranslation": "供託原因 (きょうたくげんいん)",
+    "legalContext": "Civil Code Art. 494: If the obligee refuses to accept performance or is unable to accept performance, or if the obligor is unable to determine who the obligee is without fault on their part, the obligor may be discharged from the obligation by consigning the subject matter of the obligation.",
+    "japaneseLegalContext": "民法第494条: 債権者が弁済の受領を拒み、又はこれを受領することができないときは、弁済をすべき者は、債権者のためにその弁済の目的物を供託して、その債務を免れることができる。債権者が確知することができないときも、同様とする。",
+    "exampleSentence": "The obligor must clearly specify the statutory grounds for deposit in the application documents when seeking discharge of the obligation.",
+    "exampleTranslation": "債務者は、債務の免責を求める際、申請書類に法定の供託原因を明確に特定しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "discharge of the obligation",
+        "translation": "債務の免責 (さいむのめんせき)"
+      },
+      {
+        "word": "performance",
+        "translation": "弁済 (べんさい)"
+      },
+      {
+        "word": "consigning",
+        "translation": "供託 (きょうたく)"
+      },
+      {
+        "word": "refusal to accept performance",
+        "translation": "弁済の受領拒否 (べんさいのじゅりょうきょひ)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Transfer of Custody (of Deposited Property)",
+    "definition": "An administrative procedure whereby the deposited property, such as funds or securities, is officially transferred from the custody of one deposit office to another deposit office, typically due to a change in the original jurisdiction or location of the entitled party.",
+    "japaneseDefinition": "既に供託された金銭や有価証券などの供託物を、一定の事由に基づき、ある供託所から他の供託所へ保管場所を移す手続き。",
+    "japaneseWordTranslation": "供託物の保管替え (きょうたくぶつのほかんがえ)",
+    "legalContext": "Deposit Act Art. 19(1): If there has been a relocation of the deposit office having jurisdiction over the deposited property, the Deposit Official shall transfer the custody of the deposited property to the deposit office having jurisdiction subsequent to the relocation.",
+    "japaneseLegalContext": "供託法第19条第1項: 供託官は、供託物を保管する供託所の管轄の異動があったときは、これを異動後の供託所に保管替えをしなければならない。",
+    "exampleSentence": "The Deposit Official initiated the transfer of custody after the entitled obligee changed their residence to a different administrative district.",
+    "exampleTranslation": "権利を有する債権者が異なる行政区に住所を変更した後、供託官は供託物の保管替えを開始した。",
+    "vocabularyList": [
+      {
+        "word": "custody",
+        "translation": "保管 (ほかん)"
+      },
+      {
+        "word": "relocation",
+        "translation": "異動 (いどう)"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄 (かんかつ)"
+      },
+      {
+        "word": "entitled obligee",
+        "translation": "権利を有する債権者 (けんりをゆうするさいけんしゃ)"
+      },
+      {
+        "word": "administrative district",
+        "translation": "行政区 (ぎょうせいく)"
+      },
+      {
+        "word": "initiated",
+        "translation": "開始した (かいしした)"
+      }
+    ]
   }
 ]

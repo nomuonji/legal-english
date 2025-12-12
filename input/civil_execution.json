@@ -2868,5 +2868,107 @@
         "translation": "関連費用"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution against Securities",
+    "definition": "The judicial process for seizing and realizing negotiable instruments or other securities (such as shares or bonds) held by the execution obligor, involving procedures specific to the nature (physical or book-entry) of the security.",
+    "japaneseDefinition": "執行債務者が有する有価証券（株式、債券等）を差し押さえ、換価するための司法手続。証券の性質（現物か、振替口座簿によるものか）に応じて手続が異なる。",
+    "japaneseWordTranslation": "有価証券執行 (Yūka Shōken Shikkō)",
+    "legalContext": "Civil Execution Act, Part III (Execution against Property), Chapter III (Execution against Movable Property) and Chapter IV (Execution against Claims and Other Proprietary Interests), specifying methods for realization.",
+    "japaneseLegalContext": "民事執行法第三編（財産権に対する執行）第三章（動産の執行）及び第四章（債権及びその他の財産権に対する執行）",
+    "exampleSentence": "The execution court initiated Execution against Securities by seizing the obligor's physical bond certificates, which were subsequently sold by the Execution Officer.",
+    "exampleTranslation": "執行裁判所は、債務者の現物の債券を差し押さえることにより有価証券執行を開始し、その後、執行官によって売却された。",
+    "vocabularyList": [
+      {
+        "word": "seizing",
+        "translation": "差し押さえる (sashiosaeru)"
+      },
+      {
+        "word": "negotiable instruments",
+        "translation": "流通証券 (ryūtsū shōken)"
+      },
+      {
+        "word": "bond certificates",
+        "translation": "債券 (saiken)"
+      },
+      {
+        "word": "Execution Officer",
+        "translation": "執行官 (shikkōkan)"
+      },
+      {
+        "word": "realizing",
+        "translation": "換価する (kanka suru)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Payment to Execution Obligee",
+    "definition": "A court order issued to the third-party debtor after the seizure of a monetary claim, directing the third party to pay the funds directly to the execution obligee (creditor) instead of allowing the obligee to collect the debt.",
+    "japaneseDefinition": "金銭債権を差し押さえた後、執行裁判所が第三債務者に対して、債務者ではなく、執行債権者へ直接支払うように命じる裁判所の決定。",
+    "japaneseWordTranslation": "支払を命ずる決定 (Shiharai o Meizuru Kettei)",
+    "legalContext": "Civil Execution Act specifies that this order is a method of 'realization' (conversion into money) of a seized monetary claim, alongside collection and transfer orders.",
+    "japaneseLegalContext": "民事執行法は、この決定を、差押えられた金銭債権の「換価」（金銭への変換）の方法の一つとして、取立命令や転付命令と並び規定している。",
+    "exampleSentence": "The obligee successfully obtained an Order for Payment to Execution Obligee against the bank, requiring the bank, as the third-party debtor, to remit the funds from the deposit account directly.",
+    "exampleTranslation": "債権者は銀行を相手方として、預金口座の資金を直接送金するよう要求する支払を命ずる決定を成功裏に得た（銀行は第三債務者である）。",
+    "vocabularyList": [
+      {
+        "word": "remit",
+        "translation": "送金する (sōkin suru)"
+      },
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権 (kinsen saiken)"
+      },
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者 (shikkō saikensha)"
+      },
+      {
+        "word": "collection",
+        "translation": "取立て (toritate)"
+      },
+      {
+        "word": "deposit account",
+        "translation": "預金口座 (yokin kōza)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Commissioned Investigation of Obligor's Property",
+    "definition": "A legal procedure where the execution court commissions third parties, such as governmental agencies or financial institutions, to conduct a specific investigation into the execution obligor's assets and liabilities, often used after an unsuccessful property disclosure procedure.",
+    "japaneseDefinition": "執行裁判所が、国や地方公共団体、金融機関等の第三者に対し、執行債務者の財産や債務に関する特定の情報を調査するよう嘱託する法的手続。財産開示手続が奏功しない場合などに利用される。",
+    "japaneseWordTranslation": "調査の嘱託 (Chōsa no Shokutaku)",
+    "legalContext": "Civil Execution Act provision granting the execution court authority to commission investigations to facilitate execution, based on the need to identify hidden or unknown assets.",
+    "japaneseLegalContext": "民事執行法上の規定であり、隠匿された又は不明な財産を特定する必要性に基づき、執行を容易にするために執行裁判所に調査を嘱託する権限を付与している。",
+    "exampleSentence": "Following the obligor's refusal to comply, the obligee filed a motion requesting the court to issue a Commissioned Investigation of Obligor's Property to financial institutions where the obligor held accounts.",
+    "exampleTranslation": "債務者が従うことを拒否した後、債権者は、裁判所に対し、債務者が口座を持つ金融機関への調査の嘱託を発令するよう申し立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "commission",
+        "translation": "嘱託する (shokutaku suru)"
+      },
+      {
+        "word": "governmental agencies",
+        "translation": "国の機関 (kuni no kikan)"
+      },
+      {
+        "word": "assets and liabilities",
+        "translation": "財産及び債務 (zaisan oyobi saimu)"
+      },
+      {
+        "word": "comply",
+        "translation": "従う (shitagau)"
+      },
+      {
+        "word": "facilitate",
+        "translation": "容易にする (yōi ni suru)"
+      }
+    ]
   }
 ]

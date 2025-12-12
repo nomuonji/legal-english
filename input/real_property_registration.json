@@ -2500,5 +2500,107 @@
         "translation": "申請を却下する (しんせいをきゃっかする)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Relation Back Effect",
+    "definition": "The legal principle in registration law whereby the effect of a completed registration is deemed to have occurred at the time the application for registration was initially received by the registry office.",
+    "japaneseDefinition": "登記の効力発生時期に関する原則の一つで、登記が完了した際に、その効力が登記申請書の受付時点に遡って発生したものとみなされること。",
+    "japaneseWordTranslation": "遡及効 (そきゅうこう)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Art. 18: The registration shall take effect when it is recorded in the register, and the rank of the right shall be determined by the time of reception of the application.",
+    "japaneseLegalContext": "不動産登記法第18条: 登記は、登記記録に記録した時にその効力を生じ、権利の順位は、法令に別段の定めがある場合を除き、登記の前後による。",
+    "exampleSentence": "Due to the relation back effect, the creation of the hypothec was deemed perfected as of the filing time, not the date of its completion.",
+    "exampleTranslation": "遡及効があるため、その抵当権の設定は、登記完了日ではなく、申請書の受付日をもって完全に効力を生じたものとみなされた。",
+    "vocabularyList": [
+      {
+        "word": "hypothec",
+        "translation": "抵当権"
+      },
+      {
+        "word": "perfection",
+        "translation": "対抗要件の具備"
+      },
+      {
+        "word": "filing time",
+        "translation": "申請時"
+      },
+      {
+        "word": "rank of the right",
+        "translation": "権利の順位"
+      },
+      {
+        "word": "registry office",
+        "translation": "登記所"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Grounds for Rejection",
+    "definition": "Specific statutory deficiencies or faults in a registration application, application information, or accompanying documents that legally compel the registrar to refuse the application.",
+    "japaneseDefinition": "不動産登記法に定められた、登記申請を却下しなければならない法定の事由。申請内容、添付書類、手続き上の欠陥などが含まれる。",
+    "japaneseWordTranslation": "却下事由 (きゃっかじゆう)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Art. 25: Specifies the list of circumstances under which a registrar must reject an application, such as lack of jurisdiction or non-compliance with required formats.",
+    "japaneseLegalContext": "不動産登記法第25条: 登記官は、次に掲げる場合には、理由を付した決定で、登記の申請を却下しなければならない。",
+    "exampleSentence": "The application was suspended because the omission of a necessary accompanying document constituted one of the statutory grounds for rejection.",
+    "exampleTranslation": "必要な添付書類の欠落が法定の却下事由の一つに該当したため、その申請は停止された。",
+    "vocabularyList": [
+      {
+        "word": "statutory deficiencies",
+        "translation": "法令上の欠陥"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "refuse the application",
+        "translation": "申請を却下する"
+      },
+      {
+        "word": "accompanying documents",
+        "translation": "添付書類"
+      },
+      {
+        "word": "lack of jurisdiction",
+        "translation": "管轄違い"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Boundary Delimitation",
+    "definition": "The official process established under the Real Property Registration Act to determine and specify the precise location of the boundary (筆界) between adjacent parcels of land when disputes or ambiguities exist, primarily based on historical records and surveys.",
+    "japaneseDefinition": "土地の境界（筆界）の位置を、公的な手続きにより特定すること。登記官等が、登記記録や測量図に基づいて、申請に基づき筆界を確定する。",
+    "japaneseWordTranslation": "筆界特定 (ひっかいとくてい)",
+    "legalContext": "Act on Boundary Delimitation, etc. (不動産登記法に関連する筆界特定制度): This mechanism, often handled by the registrar and survey officials, is essential for disputes regarding the physical lines recorded in the land register.",
+    "japaneseLegalContext": "不動産登記法（筆界特定制度）：筆界特定制度は、筆界調査委員の意見を踏まえ、登記官が筆界を特定する手続きである。",
+    "exampleSentence": "A petition for boundary delimitation was filed after the adjacent landowners failed to agree on the division line between their respective parcels.",
+    "exampleTranslation": "隣接する土地所有者らがそれぞれの区画の境界線について合意に至らなかったため、筆界特定の手続きが申請された。",
+    "vocabularyList": [
+      {
+        "word": "petition",
+        "translation": "申立て"
+      },
+      {
+        "word": "adjacent landowners",
+        "translation": "隣接する土地所有者"
+      },
+      {
+        "word": "parcels of land",
+        "translation": "筆の土地"
+      },
+      {
+        "word": "survey officials",
+        "translation": "調査委員"
+      },
+      {
+        "word": "division line",
+        "translation": "境界線"
+      }
+    ]
   }
 ]

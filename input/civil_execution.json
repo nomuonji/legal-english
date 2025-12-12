@@ -2762,5 +2762,111 @@
         "translation": "債権者 (さいけんしゃ)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Grievance",
+    "definition": "A procedural motion filed with the execution court to object specifically to the actions or procedures implemented by the execution officer or court clerk during the execution process, rather than the validity of the execution title itself.",
+    "japaneseDefinition": "執行官又は裁判所書記官の執行に関する行為（又は不作為）に対し、執行裁判所に申し立てる不服申立て。執行の対象や債務名義の効力そのものに対する異議ではない。",
+    "japaneseWordTranslation": "執行異議 (しっこういぎ)",
+    "legalContext": "Code of Civil Execution (Minji Shikkō Hō) Art. 10 (Execution Grievance)",
+    "japaneseLegalContext": "民事執行法第10条（執行異議）",
+    "exampleSentence": "The obligor filed an Execution Grievance, arguing that the implementation authority exceeded its permissible scope by seizing assets not owned by the obligor.",
+    "exampleTranslation": "債務者は、執行機関が債務者が所有していない財産を差し押さえることで許容範囲を超えたとして、執行異議を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "procedural motion",
+        "translation": "手続的申立て"
+      },
+      {
+        "word": "execution officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "validity of the execution title",
+        "translation": "執行債務名義の有効性"
+      },
+      {
+        "word": "exceeded its permissible scope",
+        "translation": "許容範囲を超えた"
+      },
+      {
+        "word": "seizing assets",
+        "translation": "財産の差押え"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Act of Implementing the Sale",
+    "definition": "The series of procedural steps carried out by the execution court or execution officer to convert the seized property into cash (realization), including setting the minimum price, providing public notice of the auction, and managing the bidding process.",
+    "japaneseDefinition": "執行裁判所または執行官が、差押財産を金銭化（換価）するために行う、最低売却価額の決定、競売期日の公告、入札の管理などの一連の手続き的行為。",
+    "japaneseWordTranslation": "売却実施行為 (ばいきゃくじっしこうい)",
+    "legalContext": "Code of Civil Execution (Minji Shikkō Hō) Art. 64 (concerning auction procedures)",
+    "japaneseLegalContext": "民事執行法第64条（競売手続に関する規定）",
+    "exampleSentence": "The execution court’s failure to adequately notify junior secured creditors before commencing the Act of Implementing the Sale led to a successful execution objection.",
+    "exampleTranslation": "執行裁判所が売却実施行為を開始する前に、後順位の担保権者に適切に通知しなかったため、執行異議が認められた。",
+    "vocabularyList": [
+      {
+        "word": "convert into cash",
+        "translation": "金銭化する (換価)"
+      },
+      {
+        "word": "minimum price",
+        "translation": "最低売却価額"
+      },
+      {
+        "word": "public notice",
+        "translation": "公告"
+      },
+      {
+        "word": "junior secured creditors",
+        "translation": "後順位の担保権者"
+      },
+      {
+        "word": "bidding process",
+        "translation": "入札手続"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cancellation of Seizure",
+    "definition": "The formal process by which the execution court terminates the effect of a seizure order, typically occurring when the execution obligor provides full satisfaction of the claim, the basis for execution is annulled, or the execution obligee withdraws the application.",
+    "japaneseDefinition": "執行裁判所が差押命令の効力を消滅させる手続。債務の弁済、執行の根拠となる債務名義の失効、または債権者による執行申立ての取下げなどによって行われる。",
+    "japaneseWordTranslation": "差押えの取消し (さしおさえのとりけし)",
+    "legalContext": "Code of Civil Execution (Minji Shikkō Hō) Art. 39 (Grounds for Cancellation of Execution)",
+    "japaneseLegalContext": "民事執行法第39条（執行停止の要件）",
+    "exampleSentence": "After payment of the full judgment amount and the associated costs, the execution obligor successfully obtained the Cancellation of Seizure against the bank account.",
+    "exampleTranslation": "全判決額および関連費用を支払った後、執行債務者はその銀行口座に対する差押えの取消しを成功裏に得た。",
+    "vocabularyList": [
+      {
+        "word": "terminates the effect",
+        "translation": "効力を消滅させる"
+      },
+      {
+        "word": "satisfaction of the claim",
+        "translation": "債権の弁済"
+      },
+      {
+        "word": "basis for execution",
+        "translation": "執行の根拠"
+      },
+      {
+        "word": "annulled",
+        "translation": "失効する"
+      },
+      {
+        "word": "withdrawal of the application",
+        "translation": "申立ての取下げ"
+      },
+      {
+        "word": "associated costs",
+        "translation": "関連費用"
+      }
+    ]
   }
 ]

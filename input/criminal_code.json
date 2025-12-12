@@ -2,40 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Self-Defense",
-    "definition": "An act performed unavoidably to protect oneself or another from imminent unlawful infringement, which is not punishable.",
-    "japaneseDefinition": "急迫不正の侵害に対して、自己または他人の権利を防衛するためにやむを得ずした行為であり、処罰されない。",
-    "japaneseWordTranslation": "正当防衛 (せいとうぼうえい)",
-    "legalContext": "Penal Code Art. 36: An act performed unavoidably to protect the rights of oneself or any other person against imminent and unlawful infringement is not punishable.",
-    "japaneseLegalContext": "刑法第36条：急迫不正の侵害に対して、自己又は他人の権利を防衛するため、やむを得ずにした行為は、罰しない。",
-    "exampleSentence": "The court recognized his actions as self-defense and acquitted him.",
-    "exampleTranslation": "裁判所は彼の行為を正当防衛と認定し、無罪とした。",
-    "vocabularyList": [
-      {
-        "word": "Unavoidably",
-        "translation": "やむを得ず"
-      },
-      {
-        "word": "Imminent",
-        "translation": "急迫の"
-      },
-      {
-        "word": "Infringement",
-        "translation": "侵害"
-      },
-      {
-        "word": "Acquit",
-        "translation": "無罪にする"
-      },
-      {
-        "word": "Unlawful",
-        "translation": "不正の/違法の"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Voluntary Desistance",
     "definition": "The legal concept under criminal law where an offender voluntarily abandons the completion of an attempted crime or takes active steps to prevent the harmful result, leading to potential mitigation or remission of punishment.",
     "japaneseDefinition": "犯罪の実行に着手した後、行為者が自己の意思により、実行を中止するか、または結果の発生を防止する積極的な行為をとった場合に、刑が減軽または免除される制度。",
@@ -2576,6 +2542,120 @@
       {
         "word": "capacity for responsibility",
         "translation": "責任能力 (せきにんのうりょく)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Criminal Culpability",
+    "definition": "The state of being legally responsible or blameworthy for a criminal act, requiring the accused to have the required mental state (intent or negligence) and the capacity for responsibility.",
+    "japaneseDefinition": "犯罪行為に対する非難可能性（責任）。違法な行為を行った者に対して、刑罰を科すための前提となる心理的・規範的な責任。",
+    "japaneseWordTranslation": "罪責 (ざいせき)",
+    "legalContext": "A core principle of Japanese Criminal Law, requiring the satisfaction of constituent elements (Kōsei Yōken), unlawfulness (Ifūsei), and culpability (Zaiseki).",
+    "japaneseLegalContext": "刑法総論における構成要件該当性、違法性、罪責の三段階論。",
+    "exampleSentence": "The defense argued that the defendant lacked sufficient criminal culpability due to severe mental impairment at the time of the incident.",
+    "exampleTranslation": "弁護側は、事件発生時、被告人に重度の精神障害があったため、十分な罪責がないと主張した。",
+    "vocabularyList": [
+      {
+        "word": "accused",
+        "translation": "被告人"
+      },
+      {
+        "word": "mental state",
+        "translation": "心理状態"
+      },
+      {
+        "word": "capacity for responsibility",
+        "translation": "責任能力 (せきにんのうりょく)"
+      },
+      {
+        "word": "constituent elements",
+        "translation": "構成要件 (こうせいようけん)"
+      },
+      {
+        "word": "unlawfulness",
+        "translation": "違法性 (いほうせい)"
+      },
+      {
+        "word": "mental impairment",
+        "translation": "精神障害"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Embezzlement",
+    "definition": "The fraudulent appropriation of property entrusted to one's care or management, constituting a crime against property involving a breach of trust.",
+    "japaneseDefinition": "自己の占有する他人の物を、不法に領得することによって成立する財産犯。業務上の任務に違反して行う場合などは特に重く罰せられる。",
+    "japaneseWordTranslation": "横領罪 (おうりょうざい)",
+    "legalContext": "Criminal Code Art. 252 (Crime of Embezzlement): A person who unlawfully appropriates goods possessed by him/her on behalf of another shall be punished with imprisonment.",
+    "japaneseLegalContext": "刑法第252条（横領）：自己の占有する他人の物を横領した者は、懲役に処する。",
+    "exampleSentence": "The corporate treasurer was charged with professional embezzlement after diverting client funds for personal investment purposes.",
+    "exampleTranslation": "その会社の財務担当者は、顧客の資金を個人の投資目的で流用した後、業務上横領罪で起訴された。",
+    "vocabularyList": [
+      {
+        "word": "fraudulent appropriation",
+        "translation": "不法領得 (ふほうりょうとく)"
+      },
+      {
+        "word": "entrusted",
+        "translation": "委託された"
+      },
+      {
+        "word": "breach of trust",
+        "translation": "背任 (はいにん)"
+      },
+      {
+        "word": "corporate treasurer",
+        "translation": "会社会計責任者"
+      },
+      {
+        "word": "diverting funds",
+        "translation": "資金の流用"
+      },
+      {
+        "word": "imprisonment",
+        "translation": "懲役 (ちょうえき)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Punishable Preparation",
+    "definition": "Liability imposed when an individual completes the logistical acts necessary to execute a specific major crime, such as collecting tools or intelligence, at a stage prior to the commencement of the execution of the crime.",
+    "japaneseDefinition": "特定の重大犯罪の実行に着手する以前に、その犯罪のための準備行為を行うことによって成立する犯罪。刑法において特に規定された重大犯罪についてのみ適用される。",
+    "japaneseWordTranslation": "予備罪 (よびざい)",
+    "legalContext": "Punishable preparation is an exception to the general rule that preliminary acts are not criminalized, typically applicable to offenses against life, robbery, or public security.",
+    "japaneseLegalContext": "刑法第227条の2（身の代金目的略取等予備）：第二百二十五条の二第一項の罪を犯す目的で、その予備をした者は、二年以下の懲役に処する。（例として）",
+    "exampleSentence": "The suspect was charged with punishable preparation after authorities discovered the detailed plans and specialized instruments needed to carry out the felony.",
+    "exampleTranslation": "当局がその重罪を実行するために必要な詳細な計画と特殊な器具を発見した後、被疑者は予備罪で起訴された。",
+    "vocabularyList": [
+      {
+        "word": "logistical acts",
+        "translation": "準備行為 (じゅんびこうい)"
+      },
+      {
+        "word": "commencement of execution",
+        "translation": "実行の着手"
+      },
+      {
+        "word": "exception",
+        "translation": "例外"
+      },
+      {
+        "word": "felony",
+        "translation": "重罪 (じゅうざい)"
+      },
+      {
+        "word": "specialized instruments",
+        "translation": "特殊な器具"
+      },
+      {
+        "word": "authorities",
+        "translation": "当局"
       }
     ]
   }

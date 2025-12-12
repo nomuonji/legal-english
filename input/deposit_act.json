@@ -2592,5 +2592,119 @@
         "translation": "身分証明書"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit for Judicial Conversion",
+    "definition": "The act of depositing the proceeds (money) resulting from the compulsory sale or auction of seized or secured property, typically occurring in execution or bankruptcy proceedings, where the distribution of funds is subject to legal determination.",
+    "japaneseDefinition": "強制執行または破産手続において、差押えまたは担保物件の換価（売却）によって得られた代金（金銭）を供託し、その分配や配当を法律に基づき行う手続き。",
+    "japaneseWordTranslation": "換価代金供託 (かんかだいきんきょうたく)",
+    "legalContext": "Deposit Act (供託法) and Civil Execution Act (民事執行法) regarding the realization of assets and distribution of proceeds.",
+    "japaneseLegalContext": "供託法及び民事執行法に基づく資産の実現と配当に関する規定。",
+    "exampleSentence": "The execution court ordered the successful bidder to complete the deposit for judicial conversion immediately following the compulsory sale of the real property.",
+    "exampleTranslation": "執行裁判所は、不動産の強制売却後直ちに、最高価買受人に対し換価代金供託を完了するよう命じた。",
+    "vocabularyList": [
+      {
+        "word": "proceeds",
+        "translation": "代金/売却益"
+      },
+      {
+        "word": "compulsory sale",
+        "translation": "強制売却"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "realization of assets",
+        "translation": "資産の実現"
+      },
+      {
+        "word": "successful bidder",
+        "translation": "最高価買受人"
+      },
+      {
+        "word": "distribution of funds",
+        "translation": "資金の分配"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consignment of Specific Property",
+    "definition": "A type of deposit made when the object of the obligation is a specific, non-fungible item (e.g., an identifiable piece of machinery or artwork) rather than fungible goods or currency. The physical item is placed into the custody of the deposit office.",
+    "japaneseDefinition": "債務の目的が金銭や代替可能な物ではなく、特定された非代替物（特定の機械や美術品など）である場合に行われる供託。当該物は供託所の管理下に置かれる。",
+    "japaneseWordTranslation": "特定物供託 (とくていぶつきょうたく)",
+    "legalContext": "Civil Code Art. 488 (Performance Deposit) applied in conjunction with the Deposit Act regarding the nature of the consigned property.",
+    "japaneseLegalContext": "民法第488条（弁済供託）の規定を供託物の性質に関して供託法と併せて適用する。",
+    "exampleSentence": "If the obligee refuses to accept delivery of the heirloom vase, the obligor may discharge the debt through the consignment of specific property.",
+    "exampleTranslation": "債権者が家宝の壺の引渡しを受け入れない場合、債務者は特定物供託を通じて債務を免れることができる。",
+    "vocabularyList": [
+      {
+        "word": "non-fungible item",
+        "translation": "非代替物"
+      },
+      {
+        "word": "heirloom",
+        "translation": "家宝"
+      },
+      {
+        "word": "discharge the debt",
+        "translation": "債務を免れる"
+      },
+      {
+        "word": "custody",
+        "translation": "管理下"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Cause Documentation Requirement",
+    "definition": "The procedural requirement under the Deposit Act mandating that the applicant submit documentary evidence verifying the statutory grounds upon which the deposit is based (e.g., evidence of creditor's refusal, judicial order, or business guarantee requirement).",
+    "japaneseDefinition": "供託申請者が、その供託が法律上の根拠に基づいて行われていることを証明するための文書（債権者の受領拒否の証拠、裁判所の命令、営業保証金の要件など）を提出しなければならないという手続き上の要件。",
+    "japaneseWordTranslation": "供託原因を証する書面 (きょうたくげんいんをしょうするしょめん)",
+    "legalContext": "Deposit Procedure Rules (供託事務取扱手続), which establish the necessary formality for filing a deposit.",
+    "japaneseLegalContext": "供託事務取扱手続において、供託の申請に必要な形式的要件を定める規定。",
+    "exampleSentence": "The Deposit Cause Documentation Requirement ensures the legality and validity of the deposit by verifying the claimed grounds for consignment.",
+    "exampleTranslation": "供託原因を証する書面は、主張される供託の根拠を検証することにより、供託の適法性及び有効性を確保する。",
+    "vocabularyList": [
+      {
+        "word": "applicant",
+        "translation": "申請者"
+      },
+      {
+        "word": "statutory grounds",
+        "translation": "法律上の根拠"
+      },
+      {
+        "word": "documentary evidence",
+        "translation": "書面による証拠"
+      },
+      {
+        "word": "formality",
+        "translation": "形式的要件"
+      },
+      {
+        "word": "legality",
+        "translation": "適法性"
+      },
+      {
+        "word": "verifying",
+        "translation": "検証する"
+      }
+    ]
   }
 ]

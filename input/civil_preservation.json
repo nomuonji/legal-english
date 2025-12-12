@@ -2528,5 +2528,123 @@
         "translation": "取り消しの対象となる"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation of Non-Monetary Claims",
+    "definition": "The procedural requirement, under the Civil Preservation Act, that non-monetary claims (such as claims for delivery, specific performance, or establishment of status) must be preserved via a provisional disposition (injunction), rather than a provisional attachment.",
+    "japaneseDefinition": "金銭債権ではない請求権（例：物の引渡し、特定の行為の履行、地位の確立を求める請求権）を保全するために、仮差押えではなく仮処分が必要とされる民事保全法上の要件。",
+    "japaneseWordTranslation": "非金銭債権の保全 (Hi-kinzen saiken no hozen)",
+    "legalContext": "Civil Preservation Act Art. 20: Preservation of claims other than monetary claims shall be effected by means of a provisional disposition.",
+    "japaneseLegalContext": "民事保全法第20条: 金銭の給付を目的としない請求権の保全は、仮処分により行う。",
+    "exampleSentence": "The obligee sought the preservation of non-monetary claims by filing a motion for a provisional disposition ordering the cessation of infringing activities.",
+    "exampleTranslation": "債権者は、侵害行為の停止を命じる仮処分の申立てを行うことにより、非金銭債権の保全を図った。",
+    "vocabularyList": [
+      {
+        "word": "Provisional disposition",
+        "translation": "仮処分"
+      },
+      {
+        "word": "Specific performance",
+        "translation": "特定の行為の履行"
+      },
+      {
+        "word": "Obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "Monetary claim",
+        "translation": "金銭債権"
+      },
+      {
+        "word": "Cessation",
+        "translation": "停止"
+      },
+      {
+        "word": "Infringing activities",
+        "translation": "侵害行為"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Enforcement against Securities",
+    "definition": "The specific procedure under the Civil Preservation Act for enforcing a provisional attachment or provisional disposition against negotiable instruments or share certificates, often requiring their physical delivery to an execution custodian or the issuance of a special seizure notice.",
+    "japaneseDefinition": "民事保全法に基づき、手形、小切手、株券などの有価証券に対して仮差押えまたは仮処分を執行する手続。執行官への引渡しや、特別な差押通知を要することがある。",
+    "japaneseWordTranslation": "有価証券の保全執行 (Yūka shōken no hozen shikkō)",
+    "legalContext": "Civil Preservation Act Art. 40 (Application mutatis mutandis of Execution against Movable Property): Enforcement against securities is governed by rules concerning execution against movable property, subject to specific preservation requirements.",
+    "japaneseLegalContext": "民事保全法第40条（動産執行に関する規定の準用）: 有価証券に対する執行は、保全に関する特定の要件に従い、動産執行に関する規定が準用される。",
+    "exampleSentence": "Due to the risk of dispersion, the court ordered immediate preservation enforcement against securities held by the debtor, requiring their prompt surrender to the custodian.",
+    "exampleTranslation": "散逸のおそれがあるため、裁判所は債務者が保有する有価証券の保全執行を即時行うよう命じ、速やかに保管人へ引き渡すことを要求した。",
+    "vocabularyList": [
+      {
+        "word": "Negotiable instruments",
+        "translation": "手形"
+      },
+      {
+        "word": "Share certificates",
+        "translation": "株券"
+      },
+      {
+        "word": "Execution custodian",
+        "translation": "執行保管人"
+      },
+      {
+        "word": "Prompt surrender",
+        "translation": "速やかな引渡し"
+      },
+      {
+        "word": "Risk of dispersion",
+        "translation": "散逸のおそれ"
+      },
+      {
+        "word": "Mutatis mutandis",
+        "translation": "準用"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Declaration by the Third Party Debtor",
+    "definition": "A legally required statement made by the garnishee (third party debtor) upon receiving a provisional attachment order on a claim, disclosing to the court the existence, amount, and maturity of the debt owed to the preservation debtor.",
+    "japaneseDefinition": "債権の仮差押えが行われた場合において、第三債務者（取立債務者）が、保全債務者に対する債務の存否、金額、弁済期などについて裁判所に報告する、民事保全法上の義務に基づく陳述。",
+    "japaneseWordTranslation": "第三債務者の陳述 (Daisan saimusha no chinjutsu)",
+    "legalContext": "Civil Preservation Act Art. 50(5) (Applied to Provisional Attachment): The execution court may request the third party debtor to submit a document stating whether the attached claim exists, among other necessary details.",
+    "japaneseLegalContext": "民事保全法第50条第5項（仮差押えに関する準用）: 執行裁判所は、第三債務者に対し、差押えに係る債権の存否その他必要な事項について記載した書面を提出するよう求めることができる。",
+    "exampleSentence": "Following the provisional attachment order, the bank, acting as the third-party debtor, was compelled to submit a declaration by the third party debtor detailing the funds in the obligor's account.",
+    "exampleTranslation": "仮差押命令に続き、銀行は第三債務者として、債務者の口座の資金を詳細に記した第三債務者の陳述を提出することを余儀なくされた。",
+    "vocabularyList": [
+      {
+        "word": "Provisional attachment",
+        "translation": "仮差押え"
+      },
+      {
+        "word": "Garnishee",
+        "translation": "取立債務者"
+      },
+      {
+        "word": "Maturity",
+        "translation": "弁済期"
+      },
+      {
+        "word": "Obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Compelled",
+        "translation": "余儀なくされた"
+      },
+      {
+        "word": "Execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "Account",
+        "translation": "口座"
+      }
+    ]
   }
 ]

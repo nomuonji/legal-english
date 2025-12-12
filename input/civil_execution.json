@@ -2640,5 +2640,127 @@
         "translation": "仮差押え"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order to Provide Obligor Information",
+    "definition": "A judicial order compelling designated third parties (such as financial institutions, public entities, or securities firms) to provide the execution court with information concerning the obligor's assets and financial accounts, serving as a critical asset discovery mechanism.",
+    "japaneseDefinition": "債務者の財産状況を把握するため、執行裁判所が銀行、証券会社、行政機関等の第三者に対し、債務者の預金口座等の情報を提供するよう命じる手続。",
+    "japaneseWordTranslation": "第三者からの情報取得命令 (だいさんしゃからの じょうほうしゅとくめいれい)",
+    "legalContext": "Code of Civil Execution (Minji Shikkō Hō) Art. 207 (Procedures for Obtaining Obligor Information from Third Parties)",
+    "japaneseLegalContext": "民事執行法第207条 (第三者からの情報取得手続)",
+    "exampleSentence": "The obligee filed a motion for an Order to Provide Obligor Information after the execution against movable property failed due to insufficient knowledge of the obligor's bank accounts.",
+    "exampleTranslation": "債権者は、動産執行が不奏功に終わった後、債務者の銀行口座に関する知識が不足していたため、第三者からの情報取得命令の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て (もうしたて)"
+      },
+      {
+        "word": "insufficient knowledge",
+        "translation": "知識不足 (ちしきふそく)"
+      },
+      {
+        "word": "financial institutions",
+        "translation": "金融機関 (きんゆうきかん)"
+      },
+      {
+        "word": "asset discovery",
+        "translation": "財産調査 (ざいさんちょうさ)"
+      },
+      {
+        "word": "execution against movable property",
+        "translation": "動産執行 (どうさんしっこう)"
+      },
+      {
+        "word": "designated third parties",
+        "translation": "指定された第三者 (していされた だいさんしゃ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-Seizable Amount",
+    "definition": "The statutorily determined portion of a claim, typically wages, salary, or pension payments, that is legally protected from seizure in execution proceedings to guarantee the obligor’s subsistence.",
+    "japaneseDefinition": "債務者の最低限度の生活維持のために、差押えが法律で禁止されている債権（主に給与や年金）の金額または割合。",
+    "japaneseWordTranslation": "差押禁止債権額 (さしおさえきんしさいけんがく)",
+    "legalContext": "Code of Civil Execution (Minji Shikkō Hō) Art. 152 (Non-Seizable Claims)",
+    "japaneseLegalContext": "民事執行法第152条 (差押えが禁止される債権)",
+    "exampleSentence": "The court determined that the amount subject to garnishment must respect the Non-Seizable Amount, leaving the obligor with sufficient funds for basic living expenses.",
+    "exampleTranslation": "裁判所は、差押えの対象となる金額は差押禁止債権額を尊重しなければならず、債務者に最低限の生活費を残すように決定した。",
+    "vocabularyList": [
+      {
+        "word": "statutorily determined",
+        "translation": "法令で定められた (ほうれいで さだめられた)"
+      },
+      {
+        "word": "subsistence",
+        "translation": "生計維持 (せいけいいじ)"
+      },
+      {
+        "word": "pension payments",
+        "translation": "年金 (ねんきん)"
+      },
+      {
+        "word": "garnishment",
+        "translation": "（債権の）差押え (さいけんの さしおさえ)"
+      },
+      {
+        "word": "basic living expenses",
+        "translation": "基礎生活費 (きそせいかつひ)"
+      },
+      {
+        "word": "respect",
+        "translation": "尊重する (そんちょうする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Against Intellectual Property Rights",
+    "definition": "A specialized execution procedure targeting intangible proprietary interests, such as patents, copyrights, or trademarks, where the court manages the conversion of these rights into monetary funds for the obligee.",
+    "japaneseDefinition": "特許権、著作権、商標権などの無形の知的財産権を執行の対象とし、裁判所がこれらの権利を債権者のために金銭に換えるために管理する手続。",
+    "japaneseWordTranslation": "知的財産権執行 (ちてきざいさんけんしっこう)",
+    "legalContext": "Code of Civil Execution (Minji Shikkō Hō) Art. 167 (Execution against proprietary interests other than claims)",
+    "japaneseLegalContext": "民事執行法第167条 (債権以外の財産権に対する執行)",
+    "exampleSentence": "Since the company's major value resided in its branding, the creditor initiated Execution Against Intellectual Property Rights concerning its registered trademarks to satisfy the judgment debt.",
+    "exampleTranslation": "その会社の主要な価値はブランドに存在したため、債権者は判決債務を弁済させる目的で、登録商標に対する知的財産権執行を開始した。",
+    "vocabularyList": [
+      {
+        "word": "intangible",
+        "translation": "無形 (むけい)"
+      },
+      {
+        "word": "proprietary interests",
+        "translation": "財産権 (ざいさんけん)"
+      },
+      {
+        "word": "patents",
+        "translation": "特許権 (とっきょけん)"
+      },
+      {
+        "word": "trademarks",
+        "translation": "商標権 (しょうひょうけん)"
+      },
+      {
+        "word": "conversion",
+        "translation": "換価 (かんか)"
+      },
+      {
+        "word": "judgment debt",
+        "translation": "判決に基づく債務 (はんけつにもとづく さいむ)"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者 (さいけんしゃ)"
+      }
+    ]
   }
 ]

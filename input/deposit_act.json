@@ -2478,5 +2478,119 @@
         "translation": "不服申立手続き"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Review Officer",
+    "definition": "A specialized administrative officer responsible for reviewing administrative disposition decisions made by the Deposit Registrar concerning the acceptance, rejection, or withdrawal of consigned assets, pursuant to a request for administrative examination.",
+    "japaneseDefinition": "供託官の行った処分に対して、行政不服審査法に基づき審査請求があった場合に、その適法性及び妥当性を審査する官職。",
+    "japaneseWordTranslation": "供託審査官 (きょうたくしんさかん)",
+    "legalContext": "Administrative Appeal Act & Provisions related to the organization of the Deposit Administration.",
+    "japaneseLegalContext": "行政不服審査法及び供託事務の組織に関する規定。",
+    "exampleSentence": "The company filed a request for administrative examination, arguing that the Deposit Review Officer incorrectly upheld the rejection of its security consignment application.",
+    "exampleTranslation": "会社は、供託審査官がその担保供託申請の却下を誤って支持したとして、審査請求を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "administrative disposition",
+        "translation": "行政処分"
+      },
+      {
+        "word": "administrative examination",
+        "translation": "審査請求"
+      },
+      {
+        "word": "Deposit Registrar",
+        "translation": "供託官"
+      },
+      {
+        "word": "upheld",
+        "translation": "維持した (支持した)"
+      },
+      {
+        "word": "rejection",
+        "translation": "却下"
+      },
+      {
+        "word": "security consignment",
+        "translation": "担保供託"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligee's Identity Uncertainty",
+    "definition": "A condition defined in the Civil Code where the obligor cannot, without fault, ascertain who the true obligee is, typically because of disputes over claim ownership, justifying the consignment of performance to relieve the obligor of their duty.",
+    "japaneseDefinition": "弁済しようとする債務者が、過失なくして、弁済を受けるべき者が誰であるかを確知できない状態。弁済供託の要件の一つとなる。",
+    "japaneseWordTranslation": "債権者不確知 (さいけんしゃふかくち)",
+    "legalContext": "Civil Code Art. 494, para. 2 (as a ground for discharge of obligation).",
+    "japaneseLegalContext": "民法第494条第2項 (債務消滅原因として)。",
+    "exampleSentence": "Due to the ongoing dispute between the predecessor and successor companies regarding the entitlement to the debt, the obligor cited obligee's identity uncertainty as the reason for performance consignment.",
+    "exampleTranslation": "債権の権利を巡る前任会社と後任会社間の継続的な紛争のため、債務者は弁済供託の理由として債権者不確知を挙げた。",
+    "vocabularyList": [
+      {
+        "word": "predecessor company",
+        "translation": "前任会社"
+      },
+      {
+        "word": "successor company",
+        "translation": "後任会社"
+      },
+      {
+        "word": "entitlement to the debt",
+        "translation": "債務に対する権利"
+      },
+      {
+        "word": "performance consignment",
+        "translation": "弁済のための供託"
+      },
+      {
+        "word": "cited",
+        "translation": "挙げた"
+      },
+      {
+        "word": "without fault",
+        "translation": "過失なくして"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Receipt",
+    "definition": "The vested legal authority held by the party designated in the deposit procedure to claim and take delivery of the funds or other assets consigned with the administrative body.",
+    "japaneseDefinition": "供託された金銭その他の財産について、供託書に記載された者（受領者）がこれを引き取り、自己の財産とするために有する権利。",
+    "japaneseWordTranslation": "受領権 (じゅりょうけん)",
+    "legalContext": "Governed by the rules regarding the effect of performance consignment; the person who possesses this right must apply for withdrawal.",
+    "japaneseLegalContext": "弁済供託の効力に関する規定に準拠する。この権利を有する者が供託物の払渡を請求しなければならない。",
+    "exampleSentence": "The creditor must demonstrate the existence of the Right to Receipt by providing the original notice of consignment and necessary identification to the administrative office.",
+    "exampleTranslation": "債権者は、供託物受諾の原本通知と必要な身分証明書を官署に提出することで、受領権の存在を証明しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "demonstrate",
+        "translation": "証明する"
+      },
+      {
+        "word": "take delivery of",
+        "translation": "引き取る"
+      },
+      {
+        "word": "administrative office",
+        "translation": "官署"
+      },
+      {
+        "word": "notice of consignment",
+        "translation": "供託物受諾の通知"
+      },
+      {
+        "word": "identification",
+        "translation": "身分証明書"
+      }
+    ]
   }
 ]

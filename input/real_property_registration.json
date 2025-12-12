@@ -2424,5 +2424,81 @@
         "translation": "表題部"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Correction",
+    "definition": "A registration procedure intended to fix an error or omission that existed in the original registration entry at the time it was made, thereby rectifying the public record to reflect the actual status of the rights or facts.",
+    "japaneseDefinition": "登記が完了した時点において既に存在していた誤りまたは遺漏を是正するために行う登記手続。",
+    "japaneseWordTranslation": "更正登記 (こうせいとうき)",
+    "legalContext": "Real Property Registration Act, Article 66: When a correction registration is made, the rank of the right is preserved as of the time of the original registration.",
+    "japaneseLegalContext": "不動産登記法第66条: 更正の登記をした場合には、その登記の順位は、元の登記の順位による。",
+    "exampleSentence": "An application for a **registration of correction** must generally be submitted jointly by the registered title holder and the interested parties whose rights would be affected.",
+    "exampleTranslation": "更正登記の申請は、原則として登記名義人及びその登記により不利益を受ける利害関係人が共同で提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Application",
+        "translation": "申請 (しんせい)"
+      },
+      {
+        "word": "Omission",
+        "translation": "遺漏 (いろう)"
+      },
+      {
+        "word": "Rectifying",
+        "translation": "是正する (ぜせいする)"
+      },
+      {
+        "word": "Registered title holder",
+        "translation": "登記名義人 (とうきめいぎにん)"
+      },
+      {
+        "word": "Interested parties",
+        "translation": "利害関係人 (りがいかんけいにん)"
+      },
+      {
+        "word": "Rank of the right",
+        "translation": "権利の順位 (けんりのじゅんい)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certificate of Registration Cause Information",
+    "definition": "Documentation that verifies the legal basis or event (such as a sale, donation, or merger) necessitating a change in the registered rights, mandatory for filing an application for registration of such rights.",
+    "japaneseDefinition": "権利に関する登記の申請をする際に、登記の変更をもたらす法律行為や事実（売買、贈与など）を立証するために提出が義務付けられる書面。",
+    "japaneseWordTranslation": "登記原因証明情報 (とうきげんいんしょうめいじょうほう)",
+    "legalContext": "Real Property Registration Act, Article 61: An application for rights registration must be accompanied by the Certificate of Registration Cause Information.",
+    "japaneseLegalContext": "不動産登記法第61条: 権利に関する登記の申請をする場合には、申請人は登記原因証明情報を提供しなければならない。",
+    "exampleSentence": "Without the provision of the **Certificate of Registration Cause Information**, the registrar will reject the application for the transfer of ownership.",
+    "exampleTranslation": "登記原因証明情報の提供がなければ、登記官は所有権移転の申請を却下する。",
+    "vocabularyList": [
+      {
+        "word": "Documentation",
+        "translation": "書面 (しょめん)"
+      },
+      {
+        "word": "Verifies",
+        "translation": "立証する (りっしょうする)"
+      },
+      {
+        "word": "Legal basis",
+        "translation": "法律行為 (ほうりつこうい)"
+      },
+      {
+        "word": "Provision",
+        "translation": "提供 (ていきょう)"
+      },
+      {
+        "word": "Registrar",
+        "translation": "登記官 (とうきかん)"
+      },
+      {
+        "word": "Reject the application",
+        "translation": "申請を却下する (しんせいをきゃっかする)"
+      }
+    ]
   }
 ]

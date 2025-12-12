@@ -2542,5 +2542,81 @@
         "translation": "条件を定める (じょうけんをさだめる)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Record",
+    "definition": "The official electronic or physical record maintained by the Registry Office containing the legally required particulars (matters required to be registered) concerning a company or other merchant entity.",
+    "japaneseDefinition": "法務局が商業登記法に基づき作成・管理する、会社その他の商人の登記事項を記録した帳簿または電磁的記録。",
+    "japaneseWordTranslation": "登記記録 (とうききろく)",
+    "legalContext": "Commercial Registration Act, Art. 2 (Maintenance of Registration Records and Registers)",
+    "japaneseLegalContext": "商業登記法 第2条 (登記記録及び登記簿)",
+    "exampleSentence": "The registrar shall electronically update the company's registration record immediately upon the registration of the appointment of a new representative director.",
+    "exampleTranslation": "登記官は、新しい代表取締役の選任登記があった場合、直ちに会社の登記記録を電磁的に更新しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "electronically update",
+        "translation": "電磁的に更新する"
+      },
+      {
+        "word": "appointment",
+        "translation": "選任"
+      },
+      {
+        "word": "representative director",
+        "translation": "代表取締役"
+      },
+      {
+        "word": "matters required to be registered",
+        "translation": "登記事項"
+      },
+      {
+        "word": "registry office",
+        "translation": "法務局"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Time of Reception",
+    "definition": "The precise moment an application for commercial registration is received by the Registry Office, which determines the ranking and priority of the registration relative to other filings.",
+    "japaneseDefinition": "商業登記の申請が法務局に物理的または電磁的に到達した正確な時点。登記の優先順位を決定する基準となる。",
+    "japaneseWordTranslation": "受付の時 (うけつけのとき)",
+    "legalContext": "Commercial Registration Act, Art. 19 (Time when Registration Takes Effect)",
+    "japaneseLegalContext": "商業登記法 第19条 (登記の効力の発生時期)",
+    "exampleSentence": "The priority between conflicting registrations is determined solely by the Time of Reception, irrespective of when the underlying corporate act occurred.",
+    "exampleTranslation": "相反する登記間の優先順位は、基礎となる会社行為がいつ発生したかに関係なく、受付の時のみによって決定される。",
+    "vocabularyList": [
+      {
+        "word": "priority",
+        "translation": "優先順位"
+      },
+      {
+        "word": "conflicting registrations",
+        "translation": "相反する登記"
+      },
+      {
+        "word": "irrespective of",
+        "translation": "〜に関係なく"
+      },
+      {
+        "word": "corporate act",
+        "translation": "会社行為"
+      },
+      {
+        "word": "determine",
+        "translation": "決定する"
+      },
+      {
+        "word": "underlying",
+        "translation": "基礎となる"
+      }
+    ]
   }
 ]

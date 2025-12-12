@@ -2424,5 +2424,123 @@
         "translation": "選任する"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Company with Restricted Share Transfer",
+    "definition": "A company whose Articles of Incorporation stipulate that the acquisition of shares via transfer requires the approval of the company (typically the board of directors or a shareholders' resolution). This structure characterizes most privately held companies in Japan.",
+    "japaneseDefinition": "定款により、発行する全ての株式について、譲渡による取得に会社の承認を要する旨の定めを設けている株式会社。",
+    "japaneseWordTranslation": "非公開会社 (ひこうかいがいしゃ)",
+    "legalContext": "Companies Act Art. 2, para. 5 (Definition) & Art. 136 (Request for Approval for Acquisition by Transfer)",
+    "japaneseLegalContext": "会社法第2条第5項、第136条 (譲渡による取得の承認の請求)",
+    "exampleSentence": "The restrictions imposed on a Company with Restricted Share Transfer often simplify governance by limiting unwanted external involvement during equity changes.",
+    "exampleTranslation": "非公開会社に課される制限は、株式の変更時における不要な外部の関与を制限することで、しばしばガバナンスを簡素化する。",
+    "vocabularyList": [
+      {
+        "word": "governance",
+        "translation": "統治/管理"
+      },
+      {
+        "word": "stipulate",
+        "translation": "規定する"
+      },
+      {
+        "word": "acquisition of shares",
+        "translation": "株式の取得"
+      },
+      {
+        "word": "equity changes",
+        "translation": "持分の変更"
+      },
+      {
+        "word": "privately held company",
+        "translation": "非上場会社"
+      },
+      {
+        "word": "external involvement",
+        "translation": "外部の関与"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Subscription Payment Obligation",
+    "definition": "The duty of a person who has subscribed for shares, either at the time of establishment or subsequent issuance, to pay the full issue price corresponding to those shares to the company by the designated payment date.",
+    "japaneseDefinition": "株式の引受人が、設立時または新株発行時に、その引き受けた株式につき、払込期日までに会社に対して金銭を払い込む義務。",
+    "japaneseWordTranslation": "株式払込義務 (かぶしきはらいこみぎむ)",
+    "legalContext": "Companies Act Art. 63 (Payment for Shares at Incorporation)",
+    "japaneseLegalContext": "会社法第63条 (設立時発行株式の払込み)",
+    "exampleSentence": "Failure to fulfill the Subscription Payment Obligation by the designated date may result in the forfeiture of the rights pertaining to the subscribed shares, nullifying the subscription.",
+    "exampleTranslation": "指定された期日までに株式払込義務を履行しなかった場合、その株式に付随する権利は失効し、引受けは無効となる可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "forfeiture",
+        "translation": "権利の失効/没収"
+      },
+      {
+        "word": "designated date",
+        "translation": "指定された期日"
+      },
+      {
+        "word": "issue price",
+        "translation": "発行価格"
+      },
+      {
+        "word": "subsequent issuance",
+        "translation": "その後の発行"
+      },
+      {
+        "word": "rights pertaining to shares",
+        "translation": "株式に付随する権利"
+      },
+      {
+        "word": "nullifying the subscription",
+        "translation": "引受けを無効にすること"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability of Officers to Third Parties",
+    "definition": "The liability imposed on directors, accounting advisors, corporate auditors, or executive officers to compensate third parties for damages caused by their willful misconduct or gross negligence in the execution of their corporate duties.",
+    "japaneseDefinition": "役員等がその職務を行うについて、悪意又は重大な過失があった場合、当該役員等がそれにより第三者に生じた損害を賠償する責任。",
+    "japaneseWordTranslation": "役員等の第三者に対する責任 (やくいんとうのだいさんしゃにたいするせきにん)",
+    "legalContext": "Companies Act Art. 429, para. 1 (Liability to Third Parties)",
+    "japaneseLegalContext": "会社法第429条第1項 (第三者に対する責任)",
+    "exampleSentence": "The director faced potential Liability of Officers to Third Parties after intentionally misleading creditors regarding the company's financial position, resulting in substantial losses.",
+    "exampleTranslation": "その取締役は、会社の財務状況に関して故意に債権者を欺き、その結果、多大な損失を生じさせたため、役員等の第三者に対する責任を問われる可能性があった。",
+    "vocabularyList": [
+      {
+        "word": "willful misconduct",
+        "translation": "悪意"
+      },
+      {
+        "word": "gross negligence",
+        "translation": "重大な過失"
+      },
+      {
+        "word": "execution of duties",
+        "translation": "職務の執行"
+      },
+      {
+        "word": "compensation for damages",
+        "translation": "損害賠償"
+      },
+      {
+        "word": "financial position",
+        "translation": "財務状況"
+      },
+      {
+        "word": "creditors",
+        "translation": "債権者"
+      },
+      {
+        "word": "substaintial losses",
+        "translation": "多大な損失"
+      }
+    ]
   }
 ]

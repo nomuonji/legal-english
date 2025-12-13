@@ -2898,5 +2898,115 @@
         "translation": "係属中の申請 (けいぞくちゅうのしんせい)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Apartment Building Register",
+    "definition": "The specific register maintained for buildings that are divided into exclusive sectional ownership units, such as condominiums.",
+    "japaneseDefinition": "一棟の建物を複数の独立した区分所有権の対象となる専有部分に分けた場合に、その区分建物ごとに作成・管理される登記記録。",
+    "japaneseWordTranslation": "区分建物登記簿 (くぶんたてものとうきぼ)",
+    "legalContext": "Real Property Registration Act Art. 27 and 46: Details the required structure and application process for sectional ownership registration.",
+    "japaneseLegalContext": "不動産登記法第27条および第46条: 区分所有建物の登記記録の作成方法と申請手続きについて定める。",
+    "exampleSentence": "The application for the transfer of a condominium unit must clearly specify the corresponding *Apartment Building Register* and the unique unit number.",
+    "exampleTranslation": "分譲マンションの専有部分の移転申請には、対応する区分建物登記簿と固有のユニット番号を明確に特定しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "condominium unit",
+        "translation": "分譲マンションの専有部分 (ぶんじょうマンションのせんゆうぶぶん)"
+      },
+      {
+        "word": "sectional ownership",
+        "translation": "区分所有 (くぶんしょゆう)"
+      },
+      {
+        "word": "transfer",
+        "translation": "移転 (いてん)"
+      },
+      {
+        "word": "unique unit number",
+        "translation": "固有のユニット番号 (こゆうのユニットばんごう)"
+      },
+      {
+        "word": "specify",
+        "translation": "特定する (とくていする)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Registration for Preservation",
+    "definition": "A type of preliminary registration executed to preserve the rank of a real property right that is anticipated to be acquired in the future or where the required formal application documents are currently incomplete.",
+    "japaneseDefinition": "将来的に取得される権利や、登記に必要な申請情報や添付情報が不足している場合に、権利の順位を保全するために行われる仮の登記。",
+    "japaneseWordTranslation": "保全仮登記 (ほぜんかりとうき)",
+    "legalContext": "Real Property Registration Act Art. 105: Defines the purposes for which provisional registration may be made, including the preservation of the rank of rights.",
+    "japaneseLegalContext": "不動産登記法第105条: 仮登記を行うことができる目的を定め、権利の順位保全等を含む。",
+    "exampleSentence": "The investor filed a *Provisional Registration for Preservation* immediately after signing the land option agreement to secure priority against potential future encumbrances.",
+    "exampleTranslation": "その投資家は、将来の潜在的な担保権設定に対抗するための優先順位を確保するため、土地オプション契約締結直後に保全仮登記を申請した。",
+    "vocabularyList": [
+      {
+        "word": "preliminary registration",
+        "translation": "仮登記 (かりとうき)"
+      },
+      {
+        "word": "rank of a right",
+        "translation": "権利の順位 (けんりのじゅんい)"
+      },
+      {
+        "word": "land option agreement",
+        "translation": "土地オプション契約 (とちオプションけいやく)"
+      },
+      {
+        "word": "secure priority",
+        "translation": "優先順位を確保する (ゆうせんじゅんいをかくほする)"
+      },
+      {
+        "word": "encumbrances",
+        "translation": "担保権等 (たんぽけんとう)"
+      },
+      {
+        "word": "potential",
+        "translation": "潜在的な (せんざいてきな)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Change in Description",
+    "definition": "A required registration executed when there is a factual alteration to the property, such as changes to the physical characteristics of the land (e.g., lot area) or the building (e.g., structure, size, or purpose).",
+    "japaneseDefinition": "土地の地積や地目、または建物の構造、床面積、種類などの物理的な状況に変更が生じた際に行う、登記記録の表示に関する事項の変更手続き。",
+    "japaneseWordTranslation": "表示の変更登記 (ひょうじのへんこうとうき)",
+    "legalContext": "Real Property Registration Act Art. 37: Mandates that the registered owner must apply for registration of changes to the land description within one month of the change occurring.",
+    "japaneseLegalContext": "不動産登記法第37条: 土地の表示に関する変更があった場合、所有者は変更があった日から1ヶ月以内にその登記を申請しなければならないと規定する。",
+    "exampleSentence": "The municipal planning authority ordered the owner to file a *Registration of Change in Description* after the agricultural land was formally converted for residential use.",
+    "exampleTranslation": "都市計画当局は、農地が正式に居住用に転換された後、所有者に対し表示の変更登記の申請を命じた。",
+    "vocabularyList": [
+      {
+        "word": "municipal planning authority",
+        "translation": "都市計画当局 (としけいかくとうきょく)"
+      },
+      {
+        "word": "alteration",
+        "translation": "変更 (へんこう)"
+      },
+      {
+        "word": "agricultural land",
+        "translation": "農地 (のうち)"
+      },
+      {
+        "word": "converted",
+        "translation": "転換された (てんかんされた)"
+      },
+      {
+        "word": "residential use",
+        "translation": "居住用 (きょじゅうよう)"
+      },
+      {
+        "word": "mandates",
+        "translation": "義務付ける (ぎむづける)"
+      }
+    ]
   }
 ]

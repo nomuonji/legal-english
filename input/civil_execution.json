@@ -3186,5 +3186,127 @@
         "translation": "決定を取り消す (kettei o torikesu)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution based on Monetary Claim",
+    "definition": "The judicial procedure under the Civil Execution Act aimed at realizing an obligee's monetary claim through the seizure and subsequent monetization (conversion into cash) of the obligor's property.",
+    "japaneseDefinition": "金銭債権の満足を得るため、債務者の財産を差し押さえ、競売等により現金化する手続。",
+    "japaneseWordTranslation": "金銭執行 (きんせんしっこう)",
+    "legalContext": "Civil Execution Act Art. 22 (Execution titles for monetary claims).",
+    "japaneseLegalContext": "民事執行法第22条（金銭の支払を目的とする債権についての執行）",
+    "exampleSentence": "The obligee, holding a final judgment, initiated the **execution based on a monetary claim** against the execution obligor's bank deposit.",
+    "exampleTranslation": "債権者は、確定判決に基づき、執行債務者の銀行預金に対する金銭執行を開始した。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "monetization",
+        "translation": "現金化"
+      },
+      {
+        "word": "final judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "bank deposit",
+        "translation": "預金"
+      },
+      {
+        "word": "property",
+        "translation": "財産"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え (Sashiosae)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution for Delivery or Surrender",
+    "definition": "The procedure used to compel the execution obligor to physically deliver or vacate specific real property (land or buildings) to the execution obligee, usually pursuant to a judgment requiring eviction or transfer of possession.",
+    "japaneseDefinition": "特定物（主に不動産）の引渡し又は明渡しを目的とする債務名義に基づき、執行機関が強制的に不動産を債権者に引き渡す手続。",
+    "japaneseWordTranslation": "引渡・明け渡し執行 (ひきわたし・あけわたししっこう)",
+    "legalContext": "Civil Execution Act Art. 168 (Method of execution for claims relating to delivery of real property).",
+    "japaneseLegalContext": "民事執行法第168条（不動産の引渡し等の執行の方法）",
+    "exampleSentence": "The court issued the mandate for the **execution for delivery or surrender** after the former owner failed to comply with the judgment to vacate the commercial building.",
+    "exampleTranslation": "元所有者が商業ビルの明渡し判決に応じなかったため、裁判所は引渡・明け渡し執行の執行令状を発した。",
+    "vocabularyList": [
+      {
+        "word": "mandate",
+        "translation": "執行令状"
+      },
+      {
+        "word": "vacate",
+        "translation": "立ち退く"
+      },
+      {
+        "word": "former owner",
+        "translation": "元所有者"
+      },
+      {
+        "word": "compliance",
+        "translation": "遵守 / 従うこと"
+      },
+      {
+        "word": "commercial building",
+        "translation": "商業ビル"
+      },
+      {
+        "word": "transfer of possession",
+        "translation": "占有の移転"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Assumption of Encumbrances",
+    "definition": "A principle in real property auction execution whereby certain pre-existing rights or burdens on the property (such as superior leases or specified security interests) are not cleared by the sale but instead survive and must be borne by the successful purchaser.",
+    "japaneseDefinition": "不動産競売において、売却によって消滅しない不動産の負担（賃借権や一部の担保権など）を、買受人が引き受けるべきとする原則。",
+    "japaneseWordTranslation": "負担の引受 (ふたんのひきうけ)",
+    "legalContext": "Civil Execution Act Art. 59 (Matters relating to the vesting of title).",
+    "japaneseLegalContext": "民事執行法第59条（権利取得の時期等）",
+    "exampleSentence": "The buyer was warned that due to the priority date, the tenancy constituted an **assumption of encumbrances** and would restrict redevelopment plans.",
+    "exampleTranslation": "そのテナント権は優先順位のため負担の引受にあたり、再開発計画を制限することになる、と買受人は警告された。",
+    "vocabularyList": [
+      {
+        "word": "encumbrance",
+        "translation": "負担"
+      },
+      {
+        "word": "real property auction",
+        "translation": "不動産競売"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権"
+      },
+      {
+        "word": "successful purchaser",
+        "translation": "買受人"
+      },
+      {
+        "word": "tenancy",
+        "translation": "賃借権"
+      },
+      {
+        "word": "priority date",
+        "translation": "優先順位"
+      },
+      {
+        "word": "redevelopment",
+        "translation": "再開発"
+      }
+    ]
   }
 ]

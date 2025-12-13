@@ -3114,5 +3114,107 @@
         "translation": "担保の提供"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Revocation based on failure to file the action on the merits",
+    "definition": "The cancellation of a preservation order (such as a provisional attachment or provisional disposition) when the preservation obligee fails to commence the main legal action (action on the merits) within the statutory period designated by the court.",
+    "japaneseDefinition": "保全命令が発せられた後、保全債権者が、裁判所が定めた期間内に本案の訴えを提起しない場合に、保全債務者の申立てによりその命令が取り消されること。",
+    "japaneseWordTranslation": "本案の訴えの不提起による取消し (ほんあんのうったえのふてきによるとりけし)",
+    "legalContext": "Civil Preservation Act (Minji Hozen Hō) Art. 37: Revocation Due to Failure to File the Action on the Merits",
+    "japaneseLegalContext": "民事保全法第三十七条：本案の訴えを提起しないこと等による保全命令の取消し",
+    "exampleSentence": "The Preservation Debtor successfully obtained the revocation based on failure to file the action on the merits after the obligee neglected to submit the required complaint within two weeks.",
+    "exampleTranslation": "債権者が2週間以内に所定の訴状を提出しなかったため、保全債務者は本案の訴えの不提起による取消しを申し立て、成功した。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者 (saikensha)"
+      },
+      {
+        "word": "revocation",
+        "translation": "取消し (torikeshi)"
+      },
+      {
+        "word": "main action",
+        "translation": "本案の訴え (hon'an no uttae)"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間 (hōtei kikan)"
+      },
+      {
+        "word": "complaint",
+        "translation": "訴状 (sojō)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial review of preservation requirements",
+    "definition": "The process by which the preservation court rigorously examines whether the statutory conditions for issuing a preservation order—specifically, the existence of the preservable claim and the necessity of preservation—have been sufficiently substantiated, usually through a prima facie showing.",
+    "japaneseDefinition": "保全命令を発するにあたり、裁判所が、保全すべき権利の存在、及び保全の必要性という二つの法定要件が疎明されているかについて行う司法的な審査手続き。",
+    "japaneseWordTranslation": "保全要件の司法審査 (ほぜんようけんのしほうしんさ)",
+    "legalContext": "Civil Preservation Act (Minji Hozen Hō) Art. 13: Requirements for a Provisional Attachment Order",
+    "japaneseLegalContext": "民事保全法第十三条：仮差押命令の要件",
+    "exampleSentence": "The court requires a strong prima facie showing as part of its judicial review of preservation requirements, ensuring that rights are not arbitrarily restricted.",
+    "exampleTranslation": "裁判所は、権利が恣意的に制限されないよう、保全要件の司法審査の一環として、強い疎明を要求する。",
+    "vocabularyList": [
+      {
+        "word": "statutory conditions",
+        "translation": "法定要件 (hōtei yōken)"
+      },
+      {
+        "word": "prima facie showing",
+        "translation": "疎明 (shōmei)"
+      },
+      {
+        "word": "rigorously examines",
+        "translation": "厳格に審査する (genkaku ni shinsa suru)"
+      },
+      {
+        "word": "preservation court",
+        "translation": "保全裁判所 (hozen saibansho)"
+      },
+      {
+        "word": "arbitrarily restricted",
+        "translation": "恣意的に制限された (shi-iteki ni seigen sareta)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Security deposit for discharge of preservation",
+    "definition": "A monetary deposit provided by the preservation debtor, often in the form of cash or securities, which serves to discharge or prevent the enforcement of a preservation measure (such as provisional attachment) on specific assets.",
+    "japaneseDefinition": "保全債務者が提供する金銭等の担保。この供託により、特定財産に対する保全執行を中止させたり、その保全処分の効力を失わせたりすることができる。",
+    "japaneseWordTranslation": "保全執行停止のための担保供託 (ほぜんしっこうていしのためのたんぽきょうたく)",
+    "legalContext": "Civil Preservation Act (Minji Hozen Hō) Art. 44(1): Security Deposit for Suspension of Provisional Attachment Execution",
+    "japaneseLegalContext": "民事保全法第四十四条第一項：仮差押えの執行の停止及び取消し",
+    "exampleSentence": "Upon providing the security deposit for discharge of preservation, the company was able to lift the provisional attachment placed on its essential machinery, ensuring business continuity.",
+    "exampleTranslation": "保全執行停止のための担保供託を行ったことで、その会社は必要不可欠な機械にかけられた仮差押えを解除させることができ、事業継続を確実にした。",
+    "vocabularyList": [
+      {
+        "word": "monetary deposit",
+        "translation": "金銭等の供託 (kinsen tō no kyōtaku)"
+      },
+      {
+        "word": "discharge",
+        "translation": "解除 (kaijo)"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え (kari-sashiosae)"
+      },
+      {
+        "word": "essential machinery",
+        "translation": "必要不可欠な機械 (hitsuyō fukaketsu na kikai)"
+      },
+      {
+        "word": "business continuity",
+        "translation": "事業継続 (jigyō keizoku)"
+      }
+    ]
   }
 ]

@@ -3074,5 +3074,119 @@
         "translation": "是正する (ぜせいする)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Power of Attorney for Registration",
+    "definition": "A formal written document granting authority to an agent, typically a certified judicial scrivener, to execute and submit a commercial registration application on behalf of the principal (the company or its officer).",
+    "japaneseDefinition": "会社または役員に代わり、商業登記の申請手続きを代行する権限を司法書士等の代理人に付与するために作成する書面。",
+    "japaneseWordTranslation": "委任状 (いにんじょう)",
+    "legalContext": "Commercial Registration Act (商業登記法) Art. 18: Application for registration shall be made by the representative of the company; however, it may be entrusted to a proxy.",
+    "japaneseLegalContext": "商業登記法第18条: 登記の申請は、会社の代表者がしなければならない。ただし、代理人に委任してこれをすることができる。",
+    "exampleSentence": "The board required the Representative Director to execute a Power of Attorney for Registration allowing the legal firm to handle the capital reduction filing.",
+    "exampleTranslation": "取締役会は、代表取締役に、資本減少の登記申請を法務事務所に代行させるための委任状の作成を求めた。",
+    "vocabularyList": [
+      {
+        "word": "execute",
+        "translation": "作成する (sakusei suru)"
+      },
+      {
+        "word": "agent",
+        "translation": "代理人 (dairinin)"
+      },
+      {
+        "word": "principal",
+        "translation": "本人 (hon'nin)"
+      },
+      {
+        "word": "legal firm",
+        "translation": "法務事務所 (hōmu jimusho)"
+      },
+      {
+        "word": "capital reduction",
+        "translation": "資本減少 (shihon genshō)"
+      },
+      {
+        "word": "filing",
+        "translation": "申請 (shinsei)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Duty Bearer of Registration",
+    "definition": "The individual (e.g., the representative officer or liquidator) who is legally imposed the statutory obligation to apply for specific commercial registrations within a defined period following the occurrence of a registrable event.",
+    "japaneseDefinition": "登記すべき事由が発生した後、法令で定められた期間内に、商業登記の申請を行う義務を負うべき者。",
+    "japaneseWordTranslation": "登記義務者 (とうきぎむしゃ)",
+    "legalContext": "Commercial Registration Act (商業登記法) Art. 21: When there is a person who has the duty to apply for registration, the registration must be filed within two weeks from the day on which the event occurred.",
+    "japaneseLegalContext": "商業登記法第21条: 登記の申請をすべき者があるときは、その者が登記すべき事由が発生した日から二週間以内に、その登記をしなければならない。",
+    "exampleSentence": "The former director remained the Duty Bearer of Registration for the resignation, requiring him to ensure the change was registered promptly, even after stepping down.",
+    "exampleTranslation": "前任の取締役は辞任の登記義務者として残されたため、辞任した後もその変更が速やかに登記されるよう努める必要があった。",
+    "vocabularyList": [
+      {
+        "word": "statutory obligation",
+        "translation": "法令上の義務 (hōrei-jō no gimu)"
+      },
+      {
+        "word": "liquidator",
+        "translation": "清算人 (seisan'nin)"
+      },
+      {
+        "word": "registrable event",
+        "translation": "登記すべき事由 (tōki subeki jiyū)"
+      },
+      {
+        "word": "defined period",
+        "translation": "定められた期間 (sadamerareta kikan)"
+      },
+      {
+        "word": "resignation",
+        "translation": "辞任 (jinin)"
+      },
+      {
+        "word": "promptly",
+        "translation": "速やかに (sumiyaka ni)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Documentary Evidence of Payment",
+    "definition": "Official documentation submitted to the commercial registrar, usually a certificate from a custodial financial institution, confirming that the consideration for newly issued shares (e.g., subscription money) has been duly paid in.",
+    "japaneseDefinition": "新株発行等に伴う払込金等が実際に受領されたことを証明するために、保管金融機関等が作成し、商業登記官に提出される公式の書面。",
+    "japaneseWordTranslation": "払込を証する書面 (はらいこみをしょうするしょめん)",
+    "legalContext": "Commercial Registration Act (商業登記法) Art. 47(2): An application for registration based on the allotment of shares shall be accompanied by a document evidencing the payment.",
+    "japaneseLegalContext": "商業登記法第47条第2項: 株式の割当てによる登記の申請には、払込を証する書面を添付しなければならない。",
+    "exampleSentence": "The capital increase registration application was rejected because the submitted Documentary Evidence of Payment lacked the required official certification stamp from the bank.",
+    "exampleTranslation": "提出された払込を証する書面に銀行の要求される公的な認証印がなかったため、増資の登記申請は却下された。",
+    "vocabularyList": [
+      {
+        "word": "custodial financial institution",
+        "translation": "保管金融機関 (hokan kin'yū kikan)"
+      },
+      {
+        "word": "consideration",
+        "translation": "対価 (taika)"
+      },
+      {
+        "word": "duly paid in",
+        "translation": "適法に払い込まれた (tekiō ni haraikomareta)"
+      },
+      {
+        "word": "allotment of shares",
+        "translation": "株式の割当て (kabushiki no wariate)"
+      },
+      {
+        "word": "rejected",
+        "translation": "却下された (kyakka sareta)"
+      },
+      {
+        "word": "certification stamp",
+        "translation": "認証印 (ninshō-in)"
+      }
+    ]
   }
 ]

@@ -2,40 +2,6 @@
   {
     "category": "Constitution (憲法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Judicial Power",
-    "definition": "The power to adjudicate legal disputes and interpret the law, vested in the Supreme Court and inferior courts.",
-    "japaneseDefinition": "法的紛争を解決し法を解釈する権限であり、最高裁判所および下級裁判所に属する。",
-    "japaneseWordTranslation": "司法権 (しほうけん)",
-    "legalContext": "Constitution Art. 76: The whole judicial power is vested in a Supreme Court and in such inferior courts as are established by law.",
-    "japaneseLegalContext": "憲法第76条：すべて司法権は、最高裁判所及び法律の定めるところにより設置する下級裁判所に属する。",
-    "exampleSentence": "The exercise of judicial power must be independent from the executive branch.",
-    "exampleTranslation": "司法権の行使は、行政権から独立していなければならない。",
-    "vocabularyList": [
-      {
-        "word": "Adjudicate",
-        "translation": "裁く/判決を下す"
-      },
-      {
-        "word": "Dispute",
-        "translation": "紛争"
-      },
-      {
-        "word": "Vest",
-        "translation": "属する/与える"
-      },
-      {
-        "word": "Inferior court",
-        "translation": "下級裁判所"
-      },
-      {
-        "word": "Independent",
-        "translation": "独立した"
-      }
-    ]
-  },
-  {
-    "category": "Constitution (憲法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Separation of Powers",
     "definition": "The principle of dividing state power into legislative, executive, and judicial branches to prevent abuse and ensure checks and balances.",
     "japaneseDefinition": "権力の濫用を防ぎ、抑制と均衡を保つために、国家権力を立法、行政、司法の三つに分ける原理。",
@@ -2854,6 +2820,120 @@
       {
         "word": "governmental action",
         "translation": "政府の行動"
+      }
+    ]
+  },
+  {
+    "category": "Constitution (憲法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Freedom of Religion",
+    "definition": "The fundamental right guaranteed under the Japanese Constitution that ensures liberty of conscience and religious belief, and prohibits the state from engaging in religious education or activity.",
+    "japaneseDefinition": "日本国憲法の下で保障される基本的人権の一つで、思想、良心、及び信仰の自由を確保し、国による宗教教育や宗教的活動の禁止を定める権利。",
+    "japaneseWordTranslation": "信教の自由 (しんきょうのじゆう)",
+    "legalContext": "Constitution Art. 20: Freedom of religion is guaranteed to all. No religious organization shall receive any privileges from the State, nor exercise any political authority.",
+    "japaneseLegalContext": "憲法第20条: 信教の自由は、何人に対してもこれを保障する。いかなる宗教団体も、国から特権を受け、又は政治上の権力を行使してはならない。",
+    "exampleSentence": "The principle of Freedom of Religion is often challenged in legal cases involving public funding for religious facilities or mandatory religious instruction in public schools.",
+    "exampleTranslation": "信教の自由の原則は、宗教施設への公的資金援助や公立学校における強制的な宗教教育をめぐる訴訟においてしばしば争点となる。",
+    "vocabularyList": [
+      {
+        "word": "liberty of conscience",
+        "translation": "良心の自由"
+      },
+      {
+        "word": "religious belief",
+        "translation": "信仰"
+      },
+      {
+        "word": "religious organization",
+        "translation": "宗教団体"
+      },
+      {
+        "word": "public funding",
+        "translation": "公的資金援助"
+      },
+      {
+        "word": "mandatory instruction",
+        "translation": "強制的な教育"
+      },
+      {
+        "word": "political authority",
+        "translation": "政治上の権力"
+      }
+    ]
+  },
+  {
+    "category": "Constitution (憲法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Executive Power",
+    "definition": "The power to administer the general affairs of state, which, under the Japanese Constitution, is vested in the Cabinet, an executive organ collectively responsible to the legislature (the Diet).",
+    "japaneseDefinition": "国政の一般事務を執行する権限であり、日本国憲法においては内閣に属し、内閣は議会（国会）に対して連帯して責任を負う行政機関である。",
+    "japaneseWordTranslation": "行政権 (ぎょうせいけん)",
+    "legalContext": "Constitution Art. 65: Executive power shall be vested in the Cabinet.",
+    "japaneseLegalContext": "憲法第65条: 行政権は、内閣に属する。",
+    "exampleSentence": "The exercise of Executive Power includes drafting the budget, conducting foreign policy, and administering the provisions of law.",
+    "exampleTranslation": "行政権の行使には、予算の作成、外交政策の実施、および法律の規定の執行が含まれる。",
+    "vocabularyList": [
+      {
+        "word": "administer",
+        "translation": "執行する"
+      },
+      {
+        "word": "vested in",
+        "translation": "〜に属する"
+      },
+      {
+        "word": "general affairs of state",
+        "translation": "国政の一般事務"
+      },
+      {
+        "word": "drafting the budget",
+        "translation": "予算の作成"
+      },
+      {
+        "word": "foreign policy",
+        "translation": "外交政策"
+      },
+      {
+        "word": "legislature",
+        "translation": "立法府 (国会)"
+      }
+    ]
+  },
+  {
+    "category": "Constitution (憲法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Rights",
+    "definition": "The constitutional guarantee protecting the right of every person to own and hold property, subject to the requirement that this right must be defined by law in conformity with the public good.",
+    "japaneseDefinition": "すべて国民が財産を保有し享受する権利を保護する憲法上の保障。ただし、この権利は公共の福祉に適合するように法律によって定められなければならない。",
+    "japaneseWordTranslation": "財産権 (ざいさんけん)",
+    "legalContext": "Constitution Art. 29, Para. 2: Property rights shall be defined by law, in conformity with the public good.",
+    "japaneseLegalContext": "憲法第29条第2項: 財産権は、これを公共の福祉に適合するように、法律でこれを定める。",
+    "exampleSentence": "A key limitation on Property Rights is the state's power of eminent domain, requiring that any taking of private property for public use be accompanied by compensation.",
+    "exampleTranslation": "財産権に対する主要な制約の一つは、国の土地収用の権限であり、公共の利用のために私有財産を収用する際には、補償を伴うことが要求される。",
+    "vocabularyList": [
+      {
+        "word": "constitutional guarantee",
+        "translation": "憲法上の保障"
+      },
+      {
+        "word": "in conformity with",
+        "translation": "〜に適合して"
+      },
+      {
+        "word": "public good",
+        "translation": "公共の福祉"
+      },
+      {
+        "word": "limitation",
+        "translation": "制約"
+      },
+      {
+        "word": "eminent domain",
+        "translation": "土地収用の権限"
+      },
+      {
+        "word": "private property",
+        "translation": "私有財産"
       }
     ]
   }

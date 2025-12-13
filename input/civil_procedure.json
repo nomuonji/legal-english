@@ -2794,5 +2794,119 @@
         "translation": "法律関係 (ほうりつかんけい)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Independent Co-litigation",
+    "definition": "A form of joint litigation where multiple plaintiffs or defendants are involved in the same proceeding due to common facts or legal basis, but where the procedural acts (e.g., withdrawal, confession, appeal) of one co-litigant do not affect the others, maintaining independence among the suits.",
+    "japaneseDefinition": "複数の訴訟が事実的または法律的に共通な基礎を持つため共同訴訟として審理されるが、各共同訴訟人間で訴訟資料や判決の効力が独立して扱われる形態（必要共同訴訟の対義語）。",
+    "japaneseWordTranslation": "通常共同訴訟 (つうじょうきょうどうそしょう)",
+    "legalContext": "Code of Civil Procedure Art. 38 (Requirement of Independent Co-litigation): ...when the claims are related with commonality of facts or law, the suits may be pursued jointly...",
+    "japaneseLegalContext": "民事訴訟法第38条（共同訴訟の要件）：...訴訟の目的である権利又は義務が事実上及び法律上共通であるとき、又は原因である事実関係が共通であるとき...",
+    "exampleSentence": "In cases of Independent Co-litigation, if one defendant settles the claim, the trial continues independently against the remaining defendants.",
+    "exampleTranslation": "通常共同訴訟の場合、一人の被告が請求を和解しても、裁判は残りの被告に対して独立して継続される。",
+    "vocabularyList": [
+      {
+        "word": "joint litigation",
+        "translation": "共同訴訟 (kyōdō soshō)"
+      },
+      {
+        "word": "procedural acts",
+        "translation": "訴訟行為 (soshō kōi)"
+      },
+      {
+        "word": "withdrawal",
+        "translation": "取下げ (torisage)"
+      },
+      {
+        "word": "confession",
+        "translation": "自白 (jihaku)"
+      },
+      {
+        "word": "remaining defendants",
+        "translation": "残りの被告 (nokori no hikoku)"
+      },
+      {
+        "word": "settles the claim",
+        "translation": "請求を和解する (seikyū o wakai suru)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Minutes of the Oral Arguments",
+    "definition": "The official document prepared by the court clerk detailing the proceedings of the oral arguments or preparatory proceedings, recording key statements, submissions of evidence, and court decisions made during the hearing.",
+    "japaneseDefinition": "裁判所書記官が作成する、口頭弁論や準備手続における手続の経過、当事者の発言、証拠の申出及び裁判所の決定内容などを記載した公的記録。",
+    "japaneseWordTranslation": "口頭弁論調書 (こうとうべんろんちょうしょ)",
+    "legalContext": "Code of Civil Procedure Art. 160 (Minutes of Oral Arguments): A court clerk shall prepare minutes for oral arguments and preparatory proceedings.",
+    "japaneseLegalContext": "民事訴訟法第160条（口頭弁論等の調書）：裁判所書記官は、口頭弁論及び準備手続について、調書を作成しなければならない。",
+    "exampleSentence": "The Minutes of the Oral Arguments confirmed that the defendant had formally admitted the key factual assertion made by the plaintiff.",
+    "exampleTranslation": "口頭弁論調書により、被告が原告による主要な事実主張を正式に認めたことが確認された。",
+    "vocabularyList": [
+      {
+        "word": "court clerk",
+        "translation": "裁判所書記官 (saibansho shokikan)"
+      },
+      {
+        "word": "preparatory proceedings",
+        "translation": "準備手続 (junbi tetsuzuki)"
+      },
+      {
+        "word": "key factual assertion",
+        "translation": "主要な事実主張 (shuyō na jijitsu shuchō)"
+      },
+      {
+        "word": "formally admitted",
+        "translation": "正式に認めた (seishiki ni mitometa)"
+      },
+      {
+        "word": "court decisions",
+        "translation": "裁判所の決定 (saibansho no kettei)"
+      },
+      {
+        "word": "submissions of evidence",
+        "translation": "証拠の申出 (shōko no mōshide)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Inspection of Documentary Evidence",
+    "definition": "The court's formal procedure for taking and examining a document submitted by a party as evidence, typically involving reading or examining the document in court to determine its authenticity and evidentiary value.",
+    "japaneseDefinition": "裁判所が、当事者から提出された書面を証拠として採用し、その内容や真正性を法廷で確認するための取調べの手続き。",
+    "japaneseWordTranslation": "書証の取調べ (しょしょうのとりしらべ)",
+    "legalContext": "Code of Civil Procedure Art. 219 (Method of Inspection of Documentary Evidence): The inspection of documentary evidence shall be conducted by having the court clerk read the document in question or by any other appropriate method.",
+    "japaneseLegalContext": "民事訴訟法第219条（書証の取調べ）：書証の取調べは、文書の朗読、その他適当と認める方法により行う。",
+    "exampleSentence": "During the third hearing, the judge ordered the Inspection of Documentary Evidence regarding the contested contract.",
+    "exampleTranslation": "第3回期日において、裁判官は争点となっている契約書に関する書証の取調べを命じた。",
+    "vocabularyList": [
+      {
+        "word": "documentary evidence",
+        "translation": "書証 (shoshō)"
+      },
+      {
+        "word": "evidentiary value",
+        "translation": "証拠価値 (shōko kachi)"
+      },
+      {
+        "word": "authenticity",
+        "translation": "真正性 (shinseisei)"
+      },
+      {
+        "word": "contested contract",
+        "translation": "争点となっている契約書 (sōten to natteiru keiyakusho)"
+      },
+      {
+        "word": "appropriate method",
+        "translation": "適当な方法 (tekitō na hōhō)"
+      },
+      {
+        "word": "document in question",
+        "translation": "文書 (bunsho)"
+      }
+    ]
   }
 ]

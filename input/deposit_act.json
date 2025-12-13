@@ -2820,5 +2820,119 @@
         "translation": "開始した (かいしした)"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Impairment of Acceptance (of Tender)",
+    "definition": "A legal condition arising when a creditor, despite a debtor's valid tender of performance, cannot or unjustifiably refuses to accept the performance, thereby providing the legal basis for the debtor to discharge the obligation via the deposit procedure.",
+    "japaneseDefinition": "債権者が弁済の受領について協力的でない、または正当な理由なく受領を拒否するなど、債務の弁済を受領することができない、もしくは受領しない状態をいう。供託の成立要件の一つ。",
+    "japaneseWordTranslation": "受領障害 (じゅりょうしょうがい)",
+    "legalContext": "Civil Code Art. 494 establishes that if the obligee refuses to accept performance or cannot accept it, the obligor may be relieved of the obligation by placing the subject matter of the performance under the prescribed deposit procedure.",
+    "japaneseLegalContext": "民法第494条: 債権者が弁済の受領を拒み、又はこれを受領することができないときは、弁済者は、債権者を 위하여その弁済の目的物を供託することができる。",
+    "exampleSentence": "If the obligee causes an impairment of acceptance, the obligor may fulfill their duty by placing the funds in a designated government repository.",
+    "exampleTranslation": "債権者が受領障害を引き起こした場合、債務者は指定された政府の保管場所に資金を供託することにより、義務を履行することができる。",
+    "vocabularyList": [
+      {
+        "word": "valid tender of performance",
+        "translation": "有効な弁済の提供 (ゆうこうなべんさいのていきょう)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "discharge the obligation",
+        "translation": "債務を消滅させる (さいむをしょうめつさせる)"
+      },
+      {
+        "word": "legal basis",
+        "translation": "法的根拠 (ほうてきこんきょ)"
+      },
+      {
+        "word": "fulfill their duty",
+        "translation": "義務を履行する (ぎむをりこうする)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Entitlement Holder",
+    "definition": "The legal status granted to the party who holds the right to take back the funds or items deposited under the Deposit Act. This typically refers to the original depositor (obligor) when the deposit has not yet resulted in the final extinguishment of the obligation.",
+    "japaneseDefinition": "供託された金銭又は物件について、その目的物を法的に引き取る権限を有する者。通常、供託による債務消滅の効果が発生する前に、供託物を取り戻すことができる元の供託者（弁済者）を指す。",
+    "japaneseWordTranslation": "取戻権者 (とりもどしけんじゃ)",
+    "legalContext": "Deposit Act sets forth specific conditions and procedures detailing when the person who performed the deposit (the Entitlement Holder) is permitted to reclaim the deposited subject matter.",
+    "japaneseLegalContext": "供託法は、供託を行った者（取戻権者）が供託物を取り戻すことが許される特定の条件及び手続を規定している。",
+    "exampleSentence": "Unless the obligee accepts the deposit, the original obligor remains the Entitlement Holder and may reclaim the security funds.",
+    "exampleTranslation": "債権者が供託を受諾しない限り、元の債務者が取戻権者に留まり、保証金を取り戻すことができる。",
+    "vocabularyList": [
+      {
+        "word": "legal status",
+        "translation": "法的地位 (ほうてきちい)"
+      },
+      {
+        "word": "original depositor",
+        "translation": "元の供託者 (もとのきょうたくしゃ)"
+      },
+      {
+        "word": "security funds",
+        "translation": "保証金 (ほしょうきん)"
+      },
+      {
+        "word": "subject matter",
+        "translation": "目的物 (もくてきぶつ)"
+      },
+      {
+        "word": "extinguishment",
+        "translation": "消滅 (しょうめつ)"
+      },
+      {
+        "word": "reclaim",
+        "translation": "取り戻す (とりもどす)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prescribed Asset Claim Period",
+    "definition": "The statutory duration, stipulated in the Deposit Act, during which the entitled party (either the obligor or the obligee) can exercise the right to claim the deposited assets before they are finalized as public funds belonging to the State.",
+    "japaneseDefinition": "供託法に定められた、供託された財産について権利を有する者（債務者又は債権者）が、その財産を国庫に帰属させる前に引き取る権利を行使できる法定の期間。原則として供託の時から20年である。",
+    "japaneseWordTranslation": "取戻期間 (とりもどしきかん)",
+    "legalContext": "Deposit Act Art. 49 prescribes that the deposited asset shall become the property of the State if no one asserts the claim rights upon the expiration of the prescribed asset claim period.",
+    "japaneseLegalContext": "供託法第49条は、取戻期間が満了するまでに誰も引渡請求権を行使しない場合、供託物が国の所有となることを規定している。",
+    "exampleSentence": "If the claim is not asserted within the Prescribed Asset Claim Period, the deposited funds transfer ownership to the public domain.",
+    "exampleTranslation": "もし請求が取戻期間内に行使されなければ、供託された資金は所有権を公共の領域に移す。",
+    "vocabularyList": [
+      {
+        "word": "statutory duration",
+        "translation": "法定の期間 (ほうていのきかん)"
+      },
+      {
+        "word": "entitled party",
+        "translation": "権利を有する者 (けんりをゆうする者)"
+      },
+      {
+        "word": "public funds",
+        "translation": "公金 (こうきん)"
+      },
+      {
+        "word": "expiration",
+        "translation": "満了 (まんりょう)"
+      },
+      {
+        "word": "assert the claim rights",
+        "translation": "引渡請求権を行使する (ひきわたしせいきゅうけんをこうしする)"
+      },
+      {
+        "word": "transfer ownership",
+        "translation": "所有権を移す (しょゆうけんをうつす)"
+      }
+    ]
   }
 ]

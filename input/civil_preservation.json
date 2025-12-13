@@ -2878,5 +2878,123 @@
         "translation": "資金の引き出し (shikin no hikidashi)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Order",
+    "definition": "A judicial decree issued by a court in civil preservation proceedings, granting a provisional measure (such as provisional attachment or disposition) to secure a future civil enforcement action.",
+    "japaneseDefinition": "民事保全手続において、将来の民事執行を確実にするために裁判所が発する決定。仮差押命令または仮処分命令を指す。",
+    "japaneseWordTranslation": "保全命令 (ほぜんめいれい)",
+    "legalContext": "Civil Preservation Act, Art. 20: “A provisional attachment shall be effected by the court issuing a preservation order.”",
+    "japaneseLegalContext": "民事保全法第20条: 「仮差押えは、保全命令により行なう。」",
+    "exampleSentence": "The obligee must demonstrate the strict legal requirements to the court to obtain the Preservation Order and secure their claim against the debtor.",
+    "exampleTranslation": "債権者は、裁判所に対し、保全命令を得て債務者に対する債権を保全するために、厳格な法的要件を証明しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "judicial decree",
+        "translation": "裁判所の命令"
+      },
+      {
+        "word": "provisional measure",
+        "translation": "暫定的な措置"
+      },
+      {
+        "word": "secure a claim",
+        "translation": "債権を保全する"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "future enforcement",
+        "translation": "将来の執行"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Petition for a Preservation Order",
+    "definition": "The formal request submitted by the preservation obligee to the court seeking the issuance of a provisional measure, which must specify the details of the preserved claim and the grounds for preservation.",
+    "japaneseDefinition": "保全債権者が裁判所に対し、保全命令の発令を求めて行う正式な請求手続き。被保全債権と保全の根拠を明記する必要がある。",
+    "japaneseWordTranslation": "保全の申立て (ほぜんのもうしたて)",
+    "legalContext": "Civil Preservation Act, Art. 19: “A provisional attachment shall be implemented upon the petition of the obligee.”",
+    "japaneseLegalContext": "民事保全法第19条: 「仮差押えは、債権者の申立てにより行なう。」",
+    "exampleSentence": "The court requires that the Petition for a Preservation Order be accompanied by all relevant documentary evidence to support the existence of the monetary claim.",
+    "exampleTranslation": "裁判所は、保全の申立てに、金銭債権の存在を裏付けるためのすべての関連する疎明資料が添付されることを要求する。",
+    "vocabularyList": [
+      {
+        "word": "formal request",
+        "translation": "正式な請求"
+      },
+      {
+        "word": "issuance",
+        "translation": "発令"
+      },
+      {
+        "word": "specify",
+        "translation": "明記する"
+      },
+      {
+        "word": "grounds for preservation",
+        "translation": "保全の根拠"
+      },
+      {
+        "word": "be accompanied by",
+        "translation": "～を伴う"
+      },
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権"
+      },
+      {
+        "word": "existence",
+        "translation": "存在"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Service of the Preservation Order",
+    "definition": "The formal procedural step by which the court ensures that the parties, particularly the preservation debtor, are officially notified of the content and issuance of the preservation order.",
+    "japaneseDefinition": "裁判所が、保全命令の発令とその内容を当事者、特に保全債務者に公的に通知する正式な手続き。命令の効力発生に重要である。",
+    "japaneseWordTranslation": "保全命令の送達 (ほぜんめいれい の そうたつ)",
+    "legalContext": "Civil Preservation Act, Art. 53(1): “The preservation order shall be served upon the obligee and the debtor.”",
+    "japaneseLegalContext": "民事保全法第53条第1項: 「保全命令は、債権者及び債務者に送達しなければならない。」",
+    "exampleSentence": "The Service of the Preservation Order must be carried out promptly after issuance, as its completion is necessary for the enforcement process to commence.",
+    "exampleTranslation": "保全命令の送達は、執行手続を開始するために必要であるため、発令後速やかに実施されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "procedural step",
+        "translation": "手続き上の段階"
+      },
+      {
+        "word": "officially notified",
+        "translation": "公的に通知される"
+      },
+      {
+        "word": "issuance",
+        "translation": "発令"
+      },
+      {
+        "word": "carried out promptly",
+        "translation": "速やかに実施される"
+      },
+      {
+        "word": "completion",
+        "translation": "完了"
+      },
+      {
+        "word": "enforcement process",
+        "translation": "執行手続き"
+      }
+    ]
   }
 ]

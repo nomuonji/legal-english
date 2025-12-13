@@ -2770,5 +2770,119 @@
         "translation": "制限する (せいげんする)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Promoter's Liability",
+    "definition": "The liability imposed on the incorporators (promoters) of a company for failure to fulfill their obligations or for damages caused to the company during the process of establishment, particularly regarding specific benefit acquisition or share subscription.",
+    "japaneseDefinition": "会社の設立手続きにおいて、発起人が会社に生じさせた損害や、株式の引受け及び会社の財産の譲受けに関して負う責任。",
+    "japaneseWordTranslation": "発起人責任 (ほっきにんせきにん)",
+    "legalContext": "Companies Act Art. 52 (Liability regarding subscription for shares and acquisition of company property): This article outlines the liability of promoters related to the performance of their duties in establishing the company.",
+    "japaneseLegalContext": "会社法第52条 (株式の引受け及び会社の財産の譲受けに関する責任): 会社の設立に関する職務を行う際の、発起人の責任を規定する。",
+    "exampleSentence": "The court upheld the claim against the promoters, finding grounds for promoter's liability due to the non-performance of their obligation to adequately inspect contributions in kind.",
+    "exampleTranslation": "裁判所は、現物出資の適切な調査義務の不履行を理由に、発起人責任の根拠を認め、発起人に対する請求を是認した。",
+    "vocabularyList": [
+      {
+        "word": "promoter",
+        "translation": "発起人"
+      },
+      {
+        "word": "incorporation phase",
+        "translation": "設立段階"
+      },
+      {
+        "word": "contributions in kind",
+        "translation": "現物出資"
+      },
+      {
+        "word": "non-performance",
+        "translation": "不履行"
+      },
+      {
+        "word": "uphold the claim",
+        "translation": "請求を是認する"
+      },
+      {
+        "word": "specific benefit",
+        "translation": "特別の利益"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Capital Maintenance Principle",
+    "definition": "The fundamental legal doctrine under the Companies Act requiring companies to retain a minimum level of capital derived from paid-in contributions to protect creditors and maintain the company's financial integrity.",
+    "japaneseDefinition": "会社の債権者を保護し、財政的な安定性を確保するために、会社が出資によって形成された資本の基礎を維持しなければならないとする会社法の基本原則。",
+    "japaneseWordTranslation": "資本維持の原則 (しほんいじのげんそく)",
+    "legalContext": "This principle underlies various provisions including capital reduction procedures (CA Art. 447) and restrictions on the distribution of surplus (CA Art. 461).",
+    "japaneseLegalContext": "資本減少の手続(会社法第447条)及び剰余金分配の制限(会社法第461条)など、多数の関連規定の基礎となる法原則。",
+    "exampleSentence": "The board must ensure that any dividend payment strictly adheres to the Capital Maintenance Principle by confirming the existence of a sufficient distributable reserve.",
+    "exampleTranslation": "取締役会は、配当金の支払いが十分な分配可能準備金の存在を確認することにより、資本維持の原則に厳格に準拠することを確実にしなければならない。",
+    "vocabularyList": [
+      {
+        "word": "legal doctrine",
+        "translation": "法原則"
+      },
+      {
+        "word": "minimum level",
+        "translation": "最低水準"
+      },
+      {
+        "word": "financial integrity",
+        "translation": "財務の健全性"
+      },
+      {
+        "word": "distributable reserve",
+        "translation": "分配可能準備金"
+      },
+      {
+        "word": "adheres to",
+        "translation": "〜に準拠する"
+      },
+      {
+        "word": "paid-in contributions",
+        "translation": "払込済出資"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Demand for Inspection of Minutes",
+    "definition": "The statutory right of qualified shareholders (or, in specific cases, creditors or beneficiaries) to demand access to and copy the minutes of the General Meeting of Shareholders or the Board of Directors.",
+    "japaneseDefinition": "法令に定められた一定の株主（または特定の場合の債権者や受益者）が、株主総会や取締役会の議事録の閲覧または謄写を要求できる権利。",
+    "japaneseWordTranslation": "議事録閲覧請求 (ぎじろくえつらんせいきゅう)",
+    "legalContext": "Companies Act Art. 318(4) (General Meeting Minutes) and Art. 371(4) (Board of Directors Minutes): These articles specify who may request inspection and the circumstances under which the company may refuse.",
+    "japaneseLegalContext": "会社法第318条第4項(株主総会議事録)及び第371条第4項(取締役会議事録): 閲覧請求権者と会社が拒否できる事由を規定する。",
+    "exampleSentence": "The shareholder filed a Demand for Inspection of Minutes, arguing that the records were necessary to support their action contesting the director's appointment.",
+    "exampleTranslation": "その株主は、取締役の選任に異議を唱える訴訟を裏付けるために記録が必要であると主張し、議事録閲覧請求を提出した。",
+    "vocabularyList": [
+      {
+        "word": "qualified shareholder",
+        "translation": "適格株主"
+      },
+      {
+        "word": "copy (v.)",
+        "translation": "謄写する"
+      },
+      {
+        "word": "Board of Directors",
+        "translation": "取締役会"
+      },
+      {
+        "word": "contesting the appointment",
+        "translation": "選任に異議を唱える"
+      },
+      {
+        "word": "refuse (v.)",
+        "translation": "拒否する"
+      },
+      {
+        "word": "statutory right",
+        "translation": "法定の権利"
+      }
+    ]
   }
 ]

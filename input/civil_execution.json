@@ -2970,5 +2970,107 @@
         "translation": "容易にする (yōi ni suru)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Service of the Execution Title",
+    "definition": "The procedural requirement of formally delivering the enforceable document (such as a judgment or order) to the party against whom execution is sought, which must be completed before the initiation of compulsory execution.",
+    "japaneseDefinition": "強制執行の開始要件として、判決書その他の執行証書を、執行を受ける側（債務者）に対して正式に交付する手続き。",
+    "japaneseWordTranslation": "債務名義の送達 (Saimu meigi no sōtatsu)",
+    "legalContext": "Civil Execution Act Art. 30, Para. 1 (Requirements for commencement of execution)",
+    "japaneseLegalContext": "民事執行法第30条第1項 (執行開始の要件)",
+    "exampleSentence": "The execution court will dismiss the motion for seizure if the applicant fails to provide proof of the prior service of the execution title.",
+    "exampleTranslation": "申立人が、事前の債務名義の送達の証明を提出しない場合、執行裁判所は差押えの申立てを却下する。",
+    "vocabularyList": [
+      {
+        "word": "enforceable document",
+        "translation": "執行証書 (shikkō shōsho)"
+      },
+      {
+        "word": "procedural requirement",
+        "translation": "手続要件 (tetsuzuki yōken)"
+      },
+      {
+        "word": "motion for seizure",
+        "translation": "差押えの申立て (sashiosae no mōshitate)"
+      },
+      {
+        "word": "prior service",
+        "translation": "事前の送達 (jizen no sōtatsu)"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所 (shikkō saibansho)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Debtor's Residence Protection",
+    "definition": "A policy principle in compulsory execution, particularly in real property procedures, designed to minimize disruption to the essential minimum standard of living by protecting the primary residential dwelling of the debtor.",
+    "japaneseDefinition": "主として不動産執行において、執行を受ける側の最低限の生活を維持するため、その者の主たる居住用建物を保護するよう配慮する法原則。",
+    "japaneseWordTranslation": "居住用不動産の保護 (Kyojū-yō fudōsan no hogo)",
+    "legalContext": "Civil Execution Law principles concerning the balance between creditor satisfaction and fundamental human rights.",
+    "japaneseLegalContext": "債権者満足と基本的人権のバランスに関する民事執行法の原則",
+    "exampleSentence": "In recent reforms, measures for *debtor's residence protection* have been strengthened to ensure basic shelter remains available even after the execution sale.",
+    "exampleTranslation": "近年の法改正では、執行売却後も最低限の住居が確保されるよう、居住用不動産の保護のための措置が強化された。",
+    "vocabularyList": [
+      {
+        "word": "essential minimum standard of living",
+        "translation": "最低限の生活水準 (saiteigen no seikatsu suijun)"
+      },
+      {
+        "word": "primary residential dwelling",
+        "translation": "主たる居住用建物 (shutarutaru kyojū-yō tatemono)"
+      },
+      {
+        "word": "execution sale",
+        "translation": "執行売却 (shikkō baikyaku)"
+      },
+      {
+        "word": "strengthened measures",
+        "translation": "措置が強化された (sochi ga kyōka sareta)"
+      },
+      {
+        "word": "real property procedures",
+        "translation": "不動産手続 (fudōsan tetsuzuki)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Payment of Surplus Funds",
+    "definition": "The formal remittance by the court of money remaining from the proceeds of a sale or collection after all judgment creditors, secured creditors, and execution costs have been fully satisfied.",
+    "japaneseDefinition": "売却代金や取立金から、全ての債権者、担保権者、及び執行費用を清算した後、なお残った金銭を債務者に返還する手続き。",
+    "japaneseWordTranslation": "剰余金の交付 (Jōyo-kin no kōfu)",
+    "legalContext": "Civil Execution Act Art. 88, Para. 2 (Delivery of the surplus)",
+    "japaneseLegalContext": "民事執行法第88条第2項 (剰余金の引渡し)",
+    "exampleSentence": "The amount remaining after the distribution was remitted to the former property owner as the *payment of surplus funds* via bank transfer.",
+    "exampleTranslation": "配当後に残った金額は、銀行振込によって、剰余金の交付として旧所有者へ送金された。",
+    "vocabularyList": [
+      {
+        "word": "remittance",
+        "translation": "送金 (sōkin)"
+      },
+      {
+        "word": "proceeds of a sale",
+        "translation": "売却代金 (baikyaku daikin)"
+      },
+      {
+        "word": "fully satisfied",
+        "translation": "完全に満たされた (kanzen ni mitasareta)"
+      },
+      {
+        "word": "distribution",
+        "translation": "配当 (haitō)"
+      },
+      {
+        "word": "former property owner",
+        "translation": "旧所有者 (kyū shoyūsha)"
+      }
+    ]
   }
 ]

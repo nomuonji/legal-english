@@ -2996,5 +2996,123 @@
         "translation": "執行手続き"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Difficulty in Enforcing the Claim",
+    "definition": "The risk or likelihood that compulsory execution relating to a monetary claim will become impossible or remarkably difficult if a provisional attachment is not issued.",
+    "japaneseDefinition": "金銭の給付を目的とする債権について、強制執行をすることができなくなる、またはその実行が著しく困難になるおそれがあること。仮差押の要件の一つ。",
+    "japaneseWordTranslation": "債権の実行を困難にするおそれ (さいけん の じっこう を こんなん に する おそれ)",
+    "legalContext": "Civil Preservation Act, Article 13: Provisional attachment may be implemented only when there is a risk that compulsory execution will become impossible or remarkably difficult regarding a claim for the payment of money.",
+    "japaneseLegalContext": "民事保全法 第13条: 仮差押えは、金銭の給付を目的とする債権について、強制執行をすることができなくなるおそれがあるとき、又はその実行が著しく困難となるおそれがあるときに限り、することができる。",
+    "exampleSentence": "The court granted the provisional attachment motion, finding sufficient evidence of the difficulty in enforcing the claim due to the debtor’s recent large-scale asset liquidation.",
+    "exampleTranslation": "裁判所は、債務者による最近の大規模な資産清算を理由に、債権の実行を困難にするおそれの十分な証拠があると認め、仮差押の申立てを許可した。",
+    "vocabularyList": [
+      {
+        "word": "provisional attachment motion",
+        "translation": "仮差押の申立て"
+      },
+      {
+        "word": "sufficient evidence",
+        "translation": "十分な証拠"
+      },
+      {
+        "word": "asset liquidation",
+        "translation": "資産清算 (しさんせいさん)"
+      },
+      {
+        "word": "monetary claim",
+        "translation": "金銭の給付を目的とする債権"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行 (きょうせいしっこう)"
+      },
+      {
+        "word": "remarkably difficult",
+        "translation": "著しく困難 (いちじるしくこんなん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action to Revoke Preservation",
+    "definition": "A lawsuit filed by the preservation debtor seeking the cancellation of a preservation order on the grounds that the necessity for preservation, which initially justified the order, has subsequently ceased to exist.",
+    "japaneseDefinition": "保全債務者が、保全命令が発令された後に保全の必要性が消滅したことを理由として、当該保全命令の取消しを求めて提起する訴訟手続き。",
+    "japaneseWordTranslation": "保全取消しの訴え (ほぜん とりけし の うったえ)",
+    "legalContext": "Civil Preservation Act, Article 38: The preservation debtor may file an action with the court that issued the preservation order, seeking its cancellation on the grounds that the necessity for preservation has ceased to exist.",
+    "japaneseLegalContext": "民事保全法 第38条: 保全債務者は、保全の必要が消滅したことを理由として、当該保全命令を発した裁判所に、その取消しを求める訴えを提起することができる。",
+    "exampleSentence": "Following the acquisition of substantial new property by the obligee, the debtor initiated an action to revoke preservation, claiming the original necessity was nullified.",
+    "exampleTranslation": "債権者による実質的な新財産の取得に続き、債務者は、当初の保全の必要性が無効になったと主張し、保全取消しの訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "initiated",
+        "translation": "提起した"
+      },
+      {
+        "word": "acquisition",
+        "translation": "取得 (しゅとく)"
+      },
+      {
+        "word": "substantial new property",
+        "translation": "実質的な新財産"
+      },
+      {
+        "word": "nullified",
+        "translation": "無効になった"
+      },
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者 (ほぜんさいむしゃ)"
+      },
+      {
+        "word": "preservation necessity",
+        "translation": "保全の必要性"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit of Counter-Provision",
+    "definition": "The act of depositing funds or other objects corresponding to the debtor's counter-obligation in order to prevent or cancel the enforcement of a provisional disposition that established a temporary relationship (status quo), often used when the obligee's claim is conditioned upon their own future performance.",
+    "japaneseDefinition": "仮の地位を定める仮処分において、保全債務者が、保全債権者の反対給付（将来の履行）に対応する額を供託することで、保全執行の停止または取消しを図る行為。",
+    "japaneseWordTranslation": "反対給付の供託 (はんたいきゅうふ の きょうたく)",
+    "legalContext": "Civil Preservation Act, Article 25 (Applicable mutatis mutandis): The rules concerning the provision of security and the deposit for relief from provisional attachment may be applied when the obligee's claim involves a counter-provision.",
+    "japaneseLegalContext": "民事保全法 第25条 (準用): 保全債権者の債権が反対給付と引き換えである場合、担保の提供及び仮差押解放金の供託に関する規定が準用される。",
+    "exampleSentence": "The defendant sought cancellation of the injunctive order through the deposit of counter-provision, arguing that the obligee had failed to meet the conditions precedent for their own performance.",
+    "exampleTranslation": "被告は、債権者が自身の履行のための停止条件を満たしていないと主張し、反対給付の供託を通じて差止命令の取消しを求めた。",
+    "vocabularyList": [
+      {
+        "word": "injunctive order",
+        "translation": "差止命令 (さしとめめいれい)"
+      },
+      {
+        "word": "conditions precedent",
+        "translation": "停止条件 (ていしじょうけん)"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告 (ひこく)"
+      },
+      {
+        "word": "cancellation",
+        "translation": "取消し (とりけし)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "mutatis mutandis",
+        "translation": "準用 (じゅんよう)"
+      },
+      {
+        "word": "provision of security",
+        "translation": "担保の提供"
+      }
+    ]
   }
 ]

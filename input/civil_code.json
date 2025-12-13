@@ -3044,5 +3044,119 @@
         "translation": "権利・義務の主体"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Nullity",
+    "definition": "The legal state of a juridical act that is deemed void *ab initio* (from the beginning) because it lacks a necessary fundamental requirement or violates mandatory rules, such as those concerning public order or good morals. This state exists inherently without the need for a formal challenge.",
+    "japaneseDefinition": "法律行為が成立当初から、必要な法的要素を欠く、または公序良俗などの強行規定に反するために、当然に効力を生じないこと。取消とは異なり、無効を主張する行為を要しない。",
+    "japaneseWordTranslation": "無効 (むこう)",
+    "legalContext": "Civil Code Art. 90: A juridical act that has a purpose contrary to public order or good morals shall be null and void.",
+    "japaneseLegalContext": "民法第90条：公の秩序又は善良の風俗に反する事項を目的とする法律行為は、無効とする。",
+    "exampleSentence": "The agreement was immediately determined to be a case of contractual nullity because its object involved clear violations of antitrust regulations.",
+    "exampleTranslation": "その合意は、目的が独占禁止法上の明確な違反を含んでいたため、契約上の無効の事例であると即座に判断された。",
+    "vocabularyList": [
+      {
+        "word": "void ab initio",
+        "translation": "当初から無効の"
+      },
+      {
+        "word": "juridical act",
+        "translation": "法律行為"
+      },
+      {
+        "word": "mandatory rules",
+        "translation": "強行規定"
+      },
+      {
+        "word": "antitrust regulations",
+        "translation": "独占禁止法"
+      },
+      {
+        "word": "public order",
+        "translation": "公の秩序 (こうのちつじょ)"
+      },
+      {
+        "word": "good morals",
+        "translation": "善良の風俗 (ぜんりょうのふうぞく)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Movable Property",
+    "definition": "Tangible objects that are not categorized as land, or fixtures permanently attached thereto (real estate). The ownership of such property is typically transferred or perfected through delivery rather than public registration.",
+    "japaneseDefinition": "土地及びその定着物（不動産）以外の有体物。その所有権の移転や対抗要件は、公示の方法として登記ではなく引渡しによるのが原則である。",
+    "japaneseWordTranslation": "動産 (どうさん)",
+    "legalContext": "Civil Code Art. 86(2): Things other than real estate shall be Movable Property.",
+    "japaneseLegalContext": "民法第86条第2項：不動産以外の物は、動産とする。",
+    "exampleSentence": "The dispute concerned whether the complex industrial machinery, although heavy, constituted fixtures or remained classified as movable property for the purpose of debt seizure.",
+    "exampleTranslation": "その紛争は、複雑な産業機械が、重いものであっても、債務の差押えの目的のために、定着物とみなされるのか、動産として分類され続けるのかに関わるものであった。",
+    "vocabularyList": [
+      {
+        "word": "tangible objects",
+        "translation": "有体物 (ゆうたいぶつ)"
+      },
+      {
+        "word": "real estate",
+        "translation": "不動産"
+      },
+      {
+        "word": "fixtures",
+        "translation": "定着物"
+      },
+      {
+        "word": "ownership",
+        "translation": "所有権"
+      },
+      {
+        "word": "delivery",
+        "translation": "引渡し"
+      },
+      {
+        "word": "debt seizure",
+        "translation": "債務の差押え"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Affinity",
+    "definition": "The relationship formed by marriage between one spouse and the blood relatives of the other spouse (e.g., a man and his wife’s mother). This relationship is recognized under family law to determine kinship and certain legal restrictions.",
+    "japaneseDefinition": "婚姻によって生じる、配偶者の一方と他方の配偶者の血族との間の関係。親族関係の算定や婚姻の制限など、家族法上の特定の制限を決定するために認識される。",
+    "japaneseWordTranslation": "姻族 (いんぞく)",
+    "legalContext": "Civil Code Art. 728: The affinity relationship shall terminate upon dissolution of marriage by divorce. However, the parties may agree to continue this relationship after divorce.",
+    "japaneseLegalContext": "民法第728条：姻族関係は、離婚によって終了する。ただし、当事者は、離婚後も姻族関係を継続する旨を届け出ることができる。",
+    "exampleSentence": "Although divorced, the parties filed a notification to maintain the affinity relationship, allowing the ex-husband to continue a close legal relationship with his former mother-in-law.",
+    "exampleTranslation": "離婚したにもかかわらず、当事者は姻族関係を維持するための届出を提出し、これにより元夫は元の義母との密接な法的関係を続けることが可能となった。",
+    "vocabularyList": [
+      {
+        "word": "blood relatives",
+        "translation": "血族 (けつぞく)"
+      },
+      {
+        "word": "dissolution of marriage",
+        "translation": "婚姻の解消"
+      },
+      {
+        "word": "kinship",
+        "translation": "親族関係 (しんぞくかんけい)"
+      },
+      {
+        "word": "notification",
+        "translation": "届出 (とどけで)"
+      },
+      {
+        "word": "ex-husband",
+        "translation": "元夫"
+      },
+      {
+        "word": "mother-in-law",
+        "translation": "義母 (ぎぼ)"
+      }
+    ]
   }
 ]

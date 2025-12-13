@@ -2960,5 +2960,119 @@
         "translation": "正式に記録する"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Document Evidencing the Cause of Registration",
+    "definition": "A document, such as minutes or a contractual agreement, required to be attached to the application for registration, which legally verifies the factual or legal basis necessitating the registration entry.",
+    "japaneseDefinition": "登記の原因となる事実又は法律行為を証明するために、登記の申請書に添付することが義務付けられている書面。",
+    "japaneseWordTranslation": "登記原因を証する書面 (とうきげんいんをしょうするしょめん)",
+    "legalContext": "Commercial Registration Act Art. 46 (Requirements for application): 'An application for registration must be accompanied by documents evidencing the cause of registration and the authority of representation, if any.'",
+    "japaneseLegalContext": "商業登記法第46条: 登記の申請書には、登記の原因を証する書面及び代理人によって申請するときは、その権限を証する書面を添付しなければならない。",
+    "exampleSentence": "The document evidencing the cause of registration for the capital increase was the resolution of the shareholders’ meeting authorizing the issuance of new shares.",
+    "exampleTranslation": "増資の登記原因を証する書面は、新株発行を承認する株主総会の議事録であった。",
+    "vocabularyList": [
+      {
+        "word": "capital increase",
+        "translation": "増資 (ぞうし)"
+      },
+      {
+        "word": "resolution",
+        "translation": "決議 (けつぎ)"
+      },
+      {
+        "word": "shareholders’ meeting",
+        "translation": "株主総会 (かぶぬしそうかい)"
+      },
+      {
+        "word": "issuance",
+        "translation": "発行 (はっこう)"
+      },
+      {
+        "word": "authorizing",
+        "translation": "承認する (しょうにんする)"
+      },
+      {
+        "word": "accompany",
+        "translation": "添付する (てんぷする)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Commercial Name",
+    "definition": "The formal name used by a company or merchant in the conduct of their business, which must be properly registered to establish identity and enforce exclusive usage rights in the relevant district.",
+    "japaneseDefinition": "商人または会社が営業上自己を表示するために用いる名称。商業登記所に登記され、同一商号の登記禁止など保護を受ける。",
+    "japaneseWordTranslation": "商号 (しょうごう)",
+    "legalContext": "Commercial Code Art. 18 (Principle of exclusiveness of Commercial Name): 'No one shall register the same Commercial Name in the same area as the already registered one for the same business.'",
+    "japaneseLegalContext": "商法第18条: 何人も、不正の目的をもって、他の会社であると誤認されるおそれのある名称又は商号を使用してはならない。",
+    "exampleSentence": "When applying for the establishment of a new corporation, the applicants must first confirm that their desired commercial name has not been previously registered by another entity engaging in similar business within the city.",
+    "exampleTranslation": "新規の株式会社の設立を申請する際、申請人は、希望する商号が、同一市町村内で類似の営業を行う他の法人によって既に登記されていないことを確認しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "merchant",
+        "translation": "商人 (しょうにん)"
+      },
+      {
+        "word": "establishment",
+        "translation": "設立 (せつりつ)"
+      },
+      {
+        "word": "corporation",
+        "translation": "株式会社 (かぶしきがいしゃ)"
+      },
+      {
+        "word": "exclusive usage",
+        "translation": "排他的使用 (はいたてきしよう)"
+      },
+      {
+        "word": "similar business",
+        "translation": "類似の営業 (るいじのえいぎょう)"
+      },
+      {
+        "word": "entity",
+        "translation": "法人 (ほうじん)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Correction of Erroneous Registration",
+    "definition": "A procedure taken when an entry in the commercial register contains a factual inaccuracy or clerical mistake (e.g., misspellings, incorrect dates), requiring an application to amend the entry to reflect the true state of affairs.",
+    "japaneseDefinition": "登記簿上の記載に錯誤または遺漏がある場合に、真実の状態に合致させるために行う訂正手続き。通常は、登記権利者と登記義務者の共同申請による。",
+    "japaneseWordTranslation": "錯誤による登記の更正 (さくごによるとうきのこうせい)",
+    "legalContext": "Commercial Registration Act Art. 132 (Action in case of disagreement between registration and facts): 'When the facts required to be registered differ from the registered matters, the registrar shall, upon application, undertake the necessary correction of the registration.'",
+    "japaneseLegalContext": "商業登記法第132条: 登記すべき事項につき登記と事実とが異なるときは、登記官は、申請により、必要な登記の更正をしなければならない。",
+    "exampleSentence": "Because the registration mistakenly listed the representative director's birth year incorrectly, an application for correction of erroneous registration was required to rectify the record.",
+    "exampleTranslation": "登記が誤って代表取締役の生年を間違って記載していたため、記録を訂正するために錯誤による登記の更正の申請が必要となった。",
+    "vocabularyList": [
+      {
+        "word": "inaccuracy",
+        "translation": "不正確さ (ふせいかくさ)"
+      },
+      {
+        "word": "clerical mistake",
+        "translation": "記載上の誤り (きさいじょうのあやまり)"
+      },
+      {
+        "word": "amend",
+        "translation": "訂正する (ていせいする)"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官 (とうきかん)"
+      },
+      {
+        "word": "disagreement",
+        "translation": "不一致 (ふいっち)"
+      },
+      {
+        "word": "rectify",
+        "translation": "是正する (ぜせいする)"
+      }
+    ]
   }
 ]

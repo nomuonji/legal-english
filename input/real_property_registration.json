@@ -2,40 +2,6 @@
   {
     "category": "Real Property Registration (不動産登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Registration of Ownership Transfer",
-    "definition": "Registration made when the ownership of real property is transferred due to sale, inheritance, or other causes.",
-    "japaneseDefinition": "売買や相続などにより不動産の所有権が移転した際に行う登記。",
-    "japaneseWordTranslation": "所有権移転登記 (しょゆうけんいてんとうき)",
-    "legalContext": "Real Property Registration Act Art. 3: Registration of rights shall be made for the preservation, establishment, transfer... of rights.",
-    "japaneseLegalContext": "不動産登記法第3条：登記は、不動産の権利の...保存、設定、移転...についてする。",
-    "exampleSentence": "The registration of ownership transfer was completed immediately after the payment was made.",
-    "exampleTranslation": "支払いがなされた直後に所有権移転登記が完了した。",
-    "vocabularyList": [
-      {
-        "word": "Transfer",
-        "translation": "移転"
-      },
-      {
-        "word": "Sale",
-        "translation": "売買"
-      },
-      {
-        "word": "Inheritance",
-        "translation": "相続"
-      },
-      {
-        "word": "Preservation",
-        "translation": "保存"
-      },
-      {
-        "word": "Establishment",
-        "translation": "設定"
-      }
-    ]
-  },
-  {
-    "category": "Real Property Registration (不動産登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Building",
     "definition": "A structure fixed to land, having a roof and walls, and capable of being used for its intended purpose.",
     "japaneseDefinition": "土地に定着し、屋根及び周壁を有し、その目的とする用途に供し得る建造物。",
@@ -2828,6 +2794,108 @@
       {
         "word": "title registrations",
         "translation": "権利の登記 (けんりのとうき)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Completion Certificate / Title Deed",
+    "definition": "The document, also known colloquially as the 'Kenkō' (権利証), issued by the registry office to the registration obligee under the old Real Property Registration Act (prior to 2005) confirming the successful completion of a substantive registration, often related to the acquisition of rights.",
+    "japaneseDefinition": "旧不動産登記法下で、登記権利者に交付されていた、登記が完了したことを証明する書面。現在の登記識別情報に代わるもので、通称「権利証」と呼ばれる。",
+    "japaneseWordTranslation": "登記済証 (とうきずみしょう)",
+    "legalContext": "Supplementary Provisions of the Real Property Registration Act, Art. 2 (Concerning the effectiveness of prior registration documents).",
+    "japaneseLegalContext": "不動産登記法附則第2条 (旧法下の登記済証に関する規定)",
+    "exampleSentence": "Since the owner acquired the property before the 2005 amendment, the Title Deed must be submitted as identifying information to proceed with the registration of ownership transfer.",
+    "exampleTranslation": "所有者は2005年の法改正前に不動産を取得したため、所有権移転登記を進めるにあたっては、本人確認情報として登記済証を提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "substantive registration",
+        "translation": "実体的な登記 (じったいてきなとうき)"
+      },
+      {
+        "word": "registration obligee",
+        "translation": "登記権利者 (とうきけんりしゃ)"
+      },
+      {
+        "word": "prior registration documents",
+        "translation": "旧法下の登記文書 (きゅうほうかのとうきぶんしょ)"
+      },
+      {
+        "word": "identifying information",
+        "translation": "本人確認情報 (ほんにんかくにんじょうほう)"
+      },
+      {
+        "word": "registry office",
+        "translation": "登記所 (とうきじょ)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Site Right Registration",
+    "definition": "The procedure under the Real Property Registration Act used to record a Site Right (敷地権) in the register for exclusive sectional ownership (condominiums), ensuring the unity of the building unit and the corresponding land share, preventing separate disposition of the land share.",
+    "japaneseDefinition": "区分所有建物において、敷地利用権が専有部分と一体化している場合に、その敷地利用権が登記簿に記載されること。土地の持分を専有部分と分離して処分することを防ぐための制度。",
+    "japaneseWordTranslation": "敷地権の登記 (しきちけんのとうき)",
+    "legalContext": "Real Property Registration Act, Art. 73, Para. 1 & Act on Building Unit Ownership, etc., Art. 22 (Regarding the inseparable nature of the site right).",
+    "japaneseLegalContext": "不動産登記法第73条第1項及び建物の区分所有等に関する法律第22条 (敷地利用権の一体処分性の規定)",
+    "exampleSentence": "When registering a new condominium, the land and house investigator must execute the Site Right Registration simultaneously with the registration of the exclusive sectional ownership units.",
+    "exampleTranslation": "新規分譲マンションの登記を行う際、土地家屋調査士は専有部分の登記と同時に敷地権の登記を実行しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Site Right",
+        "translation": "敷地権 (しきちけん)"
+      },
+      {
+        "word": "exclusive sectional ownership",
+        "translation": "区分所有権 (くぶんしょゆうけん)"
+      },
+      {
+        "word": "unity",
+        "translation": "一体化 (いったいか)"
+      },
+      {
+        "word": "separate disposition",
+        "translation": "分離処分 (ぶんりしょぶん)"
+      },
+      {
+        "word": "building unit ownership",
+        "translation": "区分所有 (くぶんしょゆう)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order to Suspend Registration Procedure",
+    "definition": "A judicial order issued by a competent court (such as a rehabilitation or bankruptcy court) compelling the registrar to temporarily halt the processing of any registration application concerning specific real property to protect the integrity of the debtor's estate or the effectiveness of provisional measures.",
+    "japaneseDefinition": "裁判所（更生裁判所や破産裁判所等）が、債務者の財産保全や保全処分の実効性確保のために、特定の不動産に関する登記手続を一時的に停止するよう登記官に命じる裁判所の命令。",
+    "japaneseWordTranslation": "登記手続停止の命令 (とうきてつづき ていしのめいれい)",
+    "legalContext": "Real Property Registration Act, Art. 25, Item 10 (Grounds for Rejection, citing court orders) and Civil Rehabilitation Act, Art. 40, Para. 1.",
+    "japaneseLegalContext": "不動産登記法第25条第10号（却下事由）及び民事再生法第40条第1項。",
+    "exampleSentence": "Upon receiving the Order to Suspend Registration Procedure from the district court, the registrar must immediately reject any pending or subsequent applications affecting the designated parcel of land.",
+    "exampleTranslation": "地方裁判所から登記手続停止の命令を受領した場合、登記官は指定された土地区画に影響する係属中またはその後の申請を直ちに却下しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "competent court",
+        "translation": "管轄裁判所 (かんかつさいばんしょ)"
+      },
+      {
+        "word": "debtor's estate",
+        "translation": "債務者財産 (さいむしゃざいさん)"
+      },
+      {
+        "word": "reject application",
+        "translation": "申請を却下する (しんせいをきゃっかする)"
+      },
+      {
+        "word": "Civil Rehabilitation Act",
+        "translation": "民事再生法 (みんじさいせいほう)"
+      },
+      {
+        "word": "pending applications",
+        "translation": "係属中の申請 (けいぞくちゅうのしんせい)"
       }
     ]
   }

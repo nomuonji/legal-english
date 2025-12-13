@@ -2908,5 +2908,107 @@
         "translation": "文書 (bunsho)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Venue",
+    "definition": "The particular court or judicial district where a lawsuit must or may be heard, determined by specific statutory rules (e.g., defendant's domicile or location of the obligation).",
+    "japaneseDefinition": "訴訟事件を審理する権限を持つ特定の裁判所または裁判所区の場所。被告の住所や義務履行地など、法定の基準に基づいて決定される。",
+    "japaneseWordTranslation": "裁判籍 (さいばんせき)",
+    "legalContext": "Code of Civil Procedure Art. 4 (General venue): \"A suit shall be subject to the jurisdiction of the court in the place of the defendant’s general venue.\"",
+    "japaneseLegalContext": "民事訴訟法 第4条 (普通裁判籍): 「訴えは、被告の普通裁判籍の所在地を管轄する裁判所の管轄に属する。」",
+    "exampleSentence": "The defendant's counsel argued that the action should be dismissed because the plaintiff filed the complaint in a court lacking proper **venue** for the dispute.",
+    "exampleTranslation": "被告側の弁護人は、原告が紛争に対する適切な裁判籍を持たない裁判所に訴状を提出したため、訴えは却下されるべきだと主張した。",
+    "vocabularyList": [
+      {
+        "word": "General venue",
+        "translation": "普通裁判籍 (ふつうさいばんせき)"
+      },
+      {
+        "word": "Judicial district",
+        "translation": "裁判所区 (さいばんしょく)"
+      },
+      {
+        "word": "Filed the complaint",
+        "translation": "訴状を提出した (そじょうをていしゅつした)"
+      },
+      {
+        "word": "Dismissed",
+        "translation": "却下された (きゃっかされた)"
+      },
+      {
+        "word": "Counsel",
+        "translation": "弁護人 (べんごにん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statement of Defense",
+    "definition": "The initial written document submitted by the defendant in response to the plaintiff's complaint, detailing their objections, admissions, and affirmative defenses.",
+    "japaneseDefinition": "原告の訴状に対する被告の最初の書面による応答。被告の異議、認否、および抗弁を詳述する。",
+    "japaneseWordTranslation": "答弁書 (とうべんしょ)",
+    "legalContext": "Code of Civil Procedure Art. 147 (Preparation for oral argument): \"In preparing for oral argument, the court may order the parties to submit preparatory documents or take other necessary measures.\"",
+    "japaneseLegalContext": "民事訴訟法 第147条 (口頭弁論の準備): 「裁判所は、口頭弁論の準備のため、当事者に対し、準備書面の提出等を命じ、その他必要な措置をとることができる。」",
+    "exampleSentence": "Upon receiving the summons, the defendant must promptly prepare and submit a **statement of defense** to the court, or risk having a judgment entered against them.",
+    "exampleTranslation": "呼出状を受け取った際、被告は速やかに答弁書を作成し裁判所に提出しなければならず、怠れば欠席判決が下されるリスクがある。",
+    "vocabularyList": [
+      {
+        "word": "Summons",
+        "translation": "呼出状 (よびだしじょう)"
+      },
+      {
+        "word": "Affirmative defenses",
+        "translation": "抗弁 (こうべん)"
+      },
+      {
+        "word": "Promptly",
+        "translation": "速やかに (すみやかに)"
+      },
+      {
+        "word": "Risk",
+        "translation": "リスク (りすく)"
+      },
+      {
+        "word": "Judgment entered against them",
+        "translation": "欠席判決が下される (けっせきはんけつがくだされる)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Decision",
+    "definition": "A court ruling (typically written) that resolves specific procedural issues or interlocutory motions, distinct from a full, formal judgment (判決) resolving the merits of the entire case.",
+    "japaneseDefinition": "訴訟事件全体の実体的な争点を解決する判決とは異なり、特定の訴訟上の問題や中間的な申立てを解決するために裁判所が行う裁定（通常は書面）。",
+    "japaneseWordTranslation": "決定 (けってい)",
+    "legalContext": "Code of Civil Procedure Art. 114 (Judgments, etc. in writing): \"Judgments shall be rendered in writing... A judicial decision (決定) or order (命令) shall be rendered by citing the grounds thereof.\"",
+    "japaneseLegalContext": "民事訴訟法 第114条 (判決等の方式): 「判決は、書面によりする... 決定及び命令には、理由を付さなければならない。」",
+    "exampleSentence": "The judge issued a **judicial decision** overruling the objection raised by the defense counsel regarding the admissibility of the newly presented evidence.",
+    "exampleTranslation": "裁判官は、新たに提出された証拠の許容性に関して弁護人が提起した異議を却下する決定を下した。",
+    "vocabularyList": [
+      {
+        "word": "Interlocutory motions",
+        "translation": "中間的申立て (ちゅうかんてきもうしたて)"
+      },
+      {
+        "word": "Order",
+        "translation": "命令 (めいれい)"
+      },
+      {
+        "word": "Grounds thereof",
+        "translation": "理由 (りゆう)"
+      },
+      {
+        "word": "Overruling",
+        "translation": "却下する (きゃっかする)"
+      },
+      {
+        "word": "Admissibility of evidence",
+        "translation": "証拠の許容性 (しょうこのきょようせい)"
+      }
+    ]
   }
 ]

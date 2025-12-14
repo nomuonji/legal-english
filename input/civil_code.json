@@ -3516,5 +3516,123 @@
         "translation": "治癒の見込みのない"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Real Subrogation",
+    "definition": "The right of a secured creditor to enforce their security interest against substitute property (such as insurance proceeds or compensation money) derived from the original collateral when the original collateral is destroyed, damaged, or sold.",
+    "japaneseDefinition": "担保権者が、担保物の滅失、損傷、または売却などにより、担保物から生じた代償的価値（保険金や賠償金など）に対しても、その担保権を及ぼすことができる権利。",
+    "japaneseWordTranslation": "物上代位 (ぶつじょうだいい)",
+    "legalContext": "Civil Code Art. 304 (The principle is applied to proprietary security rights generally, requiring seizure before payment to the obligor).",
+    "japaneseLegalContext": "民法第304条（一般の先取特権における規定。他の担保物権にも準用される。）",
+    "exampleSentence": "The bank exercised **Real Subrogation** over the insurance payout received after the factory, which served as collateral, was destroyed by fire.",
+    "exampleTranslation": "担保となっていた工場が火災で焼失した後、銀行は受け取られた保険金に対して物上代位を行使した。",
+    "vocabularyList": [
+      {
+        "word": "secured creditor",
+        "translation": "担保権者"
+      },
+      {
+        "word": "insurance payout",
+        "translation": "保険金"
+      },
+      {
+        "word": "collateral",
+        "translation": "担保物"
+      },
+      {
+        "word": "destroyed by fire",
+        "translation": "火災で焼失した"
+      },
+      {
+        "word": "enforce",
+        "translation": "行使する"
+      },
+      {
+        "word": "substitute property",
+        "translation": "代償物"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Capacity for Civil Liability",
+    "definition": "The ability of a person to understand the nature and consequences of their conduct, thereby enabling them to be held legally responsible for damages caused by their unlawful actions.",
+    "japaneseDefinition": "自己の行為が法的にどのような結果を生じさせるか判断できるだけの知能を有し、それに基づいて不法行為責任を負いうる能力。",
+    "japaneseWordTranslation": "責任能力 (せきにんのうりょく)",
+    "legalContext": "Civil Code Art. 712 (Minors), Art. 713 (Persons with limited mental faculties).",
+    "japaneseLegalContext": "民法第712条（未成年者の責任能力）、第713条（心神喪失者の責任能力）。",
+    "exampleSentence": "If a minor lacks the necessary **Capacity for Civil Liability**, the person supervising the minor is responsible for indemnifying the injured party.",
+    "exampleTranslation": "未成年者に必要な責任能力が欠けている場合、その者を監督する者が被害者への損害を賠償する責任を負う。",
+    "vocabularyList": [
+      {
+        "word": "minor",
+        "translation": "未成年者"
+      },
+      {
+        "word": "supervising person",
+        "translation": "監督する者"
+      },
+      {
+        "word": "indemnifying",
+        "translation": "賠償する"
+      },
+      {
+        "word": "injured party",
+        "translation": "被害者"
+      },
+      {
+        "word": "unlawful actions",
+        "translation": "不法行為"
+      },
+      {
+        "word": "lacks",
+        "translation": "欠けている"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandate Contract",
+    "definition": "A contract whereby one party entrusts the other party with the management of specified affairs or legal acts, and the latter agrees to manage them.",
+    "japaneseDefinition": "当事者の一方（委任者）が、法律行為を含む一定の事務の処理を相手方（受任者）に委託し、相手方がこれを承諾することによって効力を生じる契約。",
+    "japaneseWordTranslation": "委任契約 (いにんけいやく)",
+    "legalContext": "Civil Code Art. 643 (Definition of Mandate).",
+    "japaneseLegalContext": "民法第643条（委任の定義）。",
+    "exampleSentence": "The attorney requested an amendment to the existing **Mandate Contract** to account for unforeseen litigation expenses.",
+    "exampleTranslation": "弁護士は、予期せぬ訴訟費用に対応するため、既存の委任契約の改正を求めた。",
+    "vocabularyList": [
+      {
+        "word": "entrusts",
+        "translation": "委託する"
+      },
+      {
+        "word": "attorney",
+        "translation": "弁護士"
+      },
+      {
+        "word": "amendment",
+        "translation": "改正"
+      },
+      {
+        "word": "existing",
+        "translation": "既存の"
+      },
+      {
+        "word": "unforeseen",
+        "translation": "予期せぬ"
+      },
+      {
+        "word": "litigation expenses",
+        "translation": "訴訟費用"
+      },
+      {
+        "word": "requested",
+        "translation": "求めた"
+      }
+    ]
   }
 ]

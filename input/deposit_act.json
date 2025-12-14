@@ -2,40 +2,6 @@
   {
     "category": "Deposit Act (供託法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Deposit",
-    "definition": "The act of placing money or securities with a Deposit Office to satisfy an obligation, guarantee a right, or for other legal purposes.",
-    "japaneseDefinition": "債務の弁済、権利の担保、その他法律上の目的のために、金銭や有価証券を供託所に預けること。",
-    "japaneseWordTranslation": "供託 (きょうたく)",
-    "legalContext": "Deposit Act Art. 1: Deposits shall be handled by the Legal Affairs Bureau or District Legal Affairs Bureau.",
-    "japaneseLegalContext": "供託法第1条：供託事務は、法務局若しくは地方法務局...が、供託所としてこれを取り扱う。",
-    "exampleSentence": "The tenant made a deposit of the rent with the Legal Affairs Bureau because the landlord refused to accept it.",
-    "exampleTranslation": "家主が受領を拒否したため、借家人は家賃を法務局に供託した。",
-    "vocabularyList": [
-      {
-        "word": "Obligation",
-        "translation": "債務"
-      },
-      {
-        "word": "Guarantee",
-        "translation": "担保する"
-      },
-      {
-        "word": "Refuse",
-        "translation": "拒否する"
-      },
-      {
-        "word": "Accept",
-        "translation": "受領する"
-      },
-      {
-        "word": "Tenant",
-        "translation": "借家人"
-      }
-    ]
-  },
-  {
-    "category": "Deposit Act (供託法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Deposit Office",
     "definition": "The government agency (typically the Legal Affairs Bureau) where deposits are handled.",
     "japaneseDefinition": "供託事務を取り扱う国の機関（通常は法務局または地方法務局）。",
@@ -3316,6 +3282,120 @@
       {
         "word": "ancillary proceedings",
         "translation": "付随手続"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Document Evidencing the Cause of Consignment",
+    "definition": "A document required upon filing a deposit application, proving the legal basis (such as the creditor's refusal to accept tender) which necessitates the consignment under the Deposit Act.",
+    "japaneseDefinition": "供託申請書に添付が義務付けられている、供託の法律上の根拠（債権者の受領拒否など）を証明する書面。",
+    "japaneseWordTranslation": "供託原因を証する書面 (きょうたくげんいんをしょうするしょめん)",
+    "legalContext": "Deposit Act, Article 11, Paragraph 2: 'In filing a deposit, the applicant shall submit documents evidencing the cause of consignment.'",
+    "japaneseLegalContext": "供託法第11条第2項: 「供託をしようとする者は、供託原因を証する書面を提出しなければならない。」",
+    "exampleSentence": "The deposit office rejected the application because the **Document Evidencing the Cause of Consignment** lacked the necessary notarization.",
+    "exampleTranslation": "供託原因を証する書面に必要な公証がなかったため、供託所は申請を却下した。",
+    "vocabularyList": [
+      {
+        "word": "applicant",
+        "translation": "申請者"
+      },
+      {
+        "word": "deposit office",
+        "translation": "供託所"
+      },
+      {
+        "word": "filing",
+        "translation": "申請（届出）"
+      },
+      {
+        "word": "notarization",
+        "translation": "公証"
+      },
+      {
+        "word": "tender",
+        "translation": "弁済の提供"
+      },
+      {
+        "word": "rejected the application",
+        "translation": "申請を却下した"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certificate of Restoration Entitlement",
+    "definition": "A certificate issued by the competent authority (usually the court or agency) that verifies the claimant's legal right to reclaim deposited property, often necessary when the statutory cause for deposit has ceased to exist.",
+    "japaneseDefinition": "供託の理由が消滅した場合などに、供託物を取り戻す請求権を持つ者の資格を証明するために、管轄官庁（裁判所等）が発行する証明書。",
+    "japaneseWordTranslation": "取戻し資格証明書 (とりもどししかくしょうめいしょ)",
+    "legalContext": "Deposit Act Enforcement Regulations, Article 24 (Procedural requirements for withdrawal of consigned property).",
+    "japaneseLegalContext": "供託規則第24条 (供託物の払渡しに関する手続要件)。",
+    "exampleSentence": "To successfully withdraw the consigned performance funds, the party must present the **Certificate of Restoration Entitlement** confirming their right to the property.",
+    "exampleTranslation": "供託された弁済資金を首尾よく払い渡すためには、当事者はその財産に対する権利を裏付ける取戻し資格証明書を提示しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "withdraw",
+        "translation": "払い渡しを受ける"
+      },
+      {
+        "word": "consigned performance funds",
+        "translation": "供託された弁済資金"
+      },
+      {
+        "word": "claimant",
+        "translation": "請求権者"
+      },
+      {
+        "word": "competent authority",
+        "translation": "管轄官庁"
+      },
+      {
+        "word": "statutory cause",
+        "translation": "法定の事由"
+      },
+      {
+        "word": "present",
+        "translation": "提示する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designated Custodial Institution",
+    "definition": "A bank or other financial entity designated by the Minister of Justice or the appropriate competent authority to hold and manage assets, typically cash or negotiable instruments, deposited under the provisions of the Deposit Act.",
+    "japaneseDefinition": "法務大臣または所轄官庁により、供託法に基づき供託された財産（主に現金または有価証券）を保管・管理するために指定された銀行その他の金融機関。",
+    "japaneseWordTranslation": "指定保管機関 (していほかんきかん)",
+    "legalContext": "Deposit Act, Article 1, Paragraph 2: 'The custody of deposited property shall be handled by the Deposit Office or the Designated Custodial Institution.'",
+    "japaneseLegalContext": "供託法第1条第2項: 「供託物の保管は、供託所又は指定保管機関においてこれを取り扱う。」",
+    "exampleSentence": "The Deposit Office may instruct the transfer of physical securities to the **Designated Custodial Institution** to ensure proper safeguarding.",
+    "exampleTranslation": "供託所は、適切な安全管理を確実にするため、現物の有価証券を指定保管機関へ移管するよう指示することができる。",
+    "vocabularyList": [
+      {
+        "word": "custody",
+        "translation": "保管"
+      },
+      {
+        "word": "Deposit Office",
+        "translation": "供託所"
+      },
+      {
+        "word": "Minister of Justice",
+        "translation": "法務大臣"
+      },
+      {
+        "word": "negotiable instruments",
+        "translation": "有価証券"
+      },
+      {
+        "word": "transfer",
+        "translation": "移管"
+      },
+      {
+        "word": "safeguarding",
+        "translation": "安全管理"
       }
     ]
   }

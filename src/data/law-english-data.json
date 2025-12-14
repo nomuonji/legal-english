@@ -1,38 +1,34 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Deposit Act (供託法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Voluntary Desistance",
-  "definition": "The legal concept under criminal law where an offender voluntarily abandons the completion of an attempted crime or takes active steps to prevent the harmful result, leading to potential mitigation or remission of punishment.",
-  "japaneseDefinition": "犯罪の実行に着手した後、行為者が自己の意思により、実行を中止するか、または結果の発生を防止する積極的な行為をとった場合に、刑が減軽または免除される制度。",
-  "japaneseWordTranslation": "中止犯 (ちゅうしはん)",
-  "legalContext": "Penal Code, Art. 43 (Attempted Crime): If a person voluntarily desists from the execution of the crime, the punishment shall be mitigated or remitted.",
-  "japaneseLegalContext": "刑法第43条（未遂罪）：自己の意思により犯罪の実行を中止したときは、その刑を減軽し、又は免除する。",
-  "exampleSentence": "The defense attorney argued that the suspect qualified for voluntary desistance because he called emergency services immediately after inflicting the injury.",
-  "exampleTranslation": "弁護人は、被疑者が傷害を与えた直後に緊急通報を行ったため、中止犯に該当すると主張した。",
+  "word": "Deposit",
+  "definition": "The act of placing money or securities with a Deposit Office to satisfy an obligation, guarantee a right, or for other legal purposes.",
+  "japaneseDefinition": "債務の弁済、権利の担保、その他法律上の目的のために、金銭や有価証券を供託所に預けること。",
+  "japaneseWordTranslation": "供託 (きょうたく)",
+  "legalContext": "Deposit Act Art. 1: Deposits shall be handled by the Legal Affairs Bureau or District Legal Affairs Bureau.",
+  "japaneseLegalContext": "供託法第1条：供託事務は、法務局若しくは地方法務局...が、供託所としてこれを取り扱う。",
+  "exampleSentence": "The tenant made a deposit of the rent with the Legal Affairs Bureau because the landlord refused to accept it.",
+  "exampleTranslation": "家主が受領を拒否したため、借家人は家賃を法務局に供託した。",
   "vocabularyList": [
     {
-      "word": "desistance",
-      "translation": "中止"
+      "word": "Obligation",
+      "translation": "債務"
     },
     {
-      "word": "attempted crime",
-      "translation": "未遂罪"
+      "word": "Guarantee",
+      "translation": "担保する"
     },
     {
-      "word": "mitigated",
-      "translation": "減軽された"
+      "word": "Refuse",
+      "translation": "拒否する"
     },
     {
-      "word": "remitted",
-      "translation": "免除された"
+      "word": "Accept",
+      "translation": "受領する"
     },
     {
-      "word": "execution of the crime",
-      "translation": "犯罪の実行"
-    },
-    {
-      "word": "inflicting injury",
-      "translation": "傷害を与えること"
+      "word": "Tenant",
+      "translation": "借家人"
     }
   ]
 }

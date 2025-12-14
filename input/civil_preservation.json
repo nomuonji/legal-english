@@ -3444,5 +3444,119 @@
         "translation": "供託所"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Securing Performance of Non-Monetary Claims",
+    "definition": "The primary objective of a provisional disposition (injunction) related to non-monetary claims, aiming to ensure that the obligee's successful judgment (e.g., delivery of property, cessation of an action) can be effectively executed in the future.",
+    "japaneseDefinition": "金銭債権以外の請求権（非金銭債権）について、現状の維持や仮の地位の設定を通じて、将来的な強制執行を可能とし、その実現を確実にするための保全措置。",
+    "japaneseWordTranslation": "非金銭債権の実現の確保 (hikinzen saiken no jitsugen no kakuho)",
+    "legalContext": "Civil Preservation Act, Chapter 3: Provisional Disposition (related to securing claims other than monetary ones).",
+    "japaneseLegalContext": "民事保全法第3章：仮処分（金銭の支払を目的としない請求権を保全するための規定）",
+    "exampleSentence": "The obligee sought a provisional disposition for the purpose of **securing performance of non-monetary claims** regarding the surrender of the leased building.",
+    "exampleTranslation": "債権者は、賃貸建物の明渡しに関する非金銭債権の実現を確保する目的で、仮処分を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分"
+      },
+      {
+        "word": "non-monetary claims",
+        "translation": "非金銭債権"
+      },
+      {
+        "word": "surrender",
+        "translation": "明渡し"
+      },
+      {
+        "word": "leased building",
+        "translation": "賃貸建物"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "objective",
+        "translation": "目的"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Summary Adjudication of Preservation Requirements",
+    "definition": "The legal principle stipulating that a preservation court determines the validity of a preservation claim (the right to be preserved and the necessity of preservation) through an expedited, usually paper-based review, based on a prima facie showing, without requiring full oral arguments.",
+    "japaneseDefinition": "保全命令の発令要件（被保全権利及び保全の必要性）について、通常の訴訟手続とは異なり、口頭弁論を経ずに、書面審査や債務者聴取など略式の方法で行われる審理。",
+    "japaneseWordTranslation": "保全要件の略式審理 (hozen yōken no ryakushiki shinri)",
+    "legalContext": "Civil Preservation Act, Art. 13: Necessity of Prima Facie Showing.",
+    "japaneseLegalContext": "民事保全法第13条：疎明を必要とする場合",
+    "exampleSentence": "The court's decision was based on the **summary adjudication of preservation requirements**, given the urgent nature of the asset dissipation risk.",
+    "exampleTranslation": "財産の散逸リスクが緊急性を帯びていたため、裁判所の決定は保全要件の略式審理に基づいて下された。",
+    "vocabularyList": [
+      {
+        "word": "validity",
+        "translation": "有効性"
+      },
+      {
+        "word": "prima facie showing",
+        "translation": "疎明"
+      },
+      {
+        "word": "oral arguments",
+        "translation": "口頭弁論"
+      },
+      {
+        "word": "expedited",
+        "translation": "迅速な"
+      },
+      {
+        "word": "asset dissipation risk",
+        "translation": "財産散逸リスク"
+      },
+      {
+        "word": "documentary evidence",
+        "translation": "書面証拠"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Assessment of Security Amount",
+    "definition": "The judicial determination of the appropriate amount of money or securities that the preservation obligee must deposit as security to cover the potential damages the preservation debtor might suffer if the preservation measure is later determined to have been unjustified.",
+    "japaneseDefinition": "保全命令の発令によって債務者に生じる可能性のある損害を填補するため、裁判所が債権者に供託させる担保の金額を算定し、決定すること。",
+    "japaneseWordTranslation": "担保額の算定 (tanpo-gaku no santei)",
+    "legalContext": "Civil Preservation Act, Art. 14, Para. 1: Ordering Security.",
+    "japaneseLegalContext": "民事保全法第14条第1項：担保を立てるべきことの命令",
+    "exampleSentence": "Before the provisional attachment order could be issued, the court required the **assessment of the security amount** to mitigate potential financial injury to the debtor.",
+    "exampleTranslation": "仮差押命令が発令される前に、債務者に対する潜在的な経済的損害を軽減するため、裁判所は担保額の算定を要求した。",
+    "vocabularyList": [
+      {
+        "word": "deposit",
+        "translation": "供託する"
+      },
+      {
+        "word": "mitigate",
+        "translation": "軽減する"
+      },
+      {
+        "word": "financial injury",
+        "translation": "経済的損害"
+      },
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者"
+      },
+      {
+        "word": "unjustified",
+        "translation": "不当な"
+      },
+      {
+        "word": "determination",
+        "translation": "決定"
+      }
+    ]
   }
 ]

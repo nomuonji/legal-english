@@ -3348,5 +3348,119 @@
         "translation": "財産的損害"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Unlisted Company",
+    "definition": "A Kabushiki Kaisha (stock company) that is not a Public Company, meaning that the Articles of Incorporation contain restrictions requiring the company's approval for the transfer of all shares issued.",
+    "japaneseDefinition": "発行する全ての株式について、譲渡による取得に会社の承認を要する旨の定款の定めがある株式会社。",
+    "japaneseWordTranslation": "非公開会社 (ひこうかいがいしゃ)",
+    "legalContext": "Companies Act Art. 2(v): Definition of a Public Company (a company without transfer restrictions is a Public Company, and thus, one with restrictions is an Unlisted Company).",
+    "japaneseLegalContext": "会社法第2条第5号：公開会社の定義（全ての株式の譲渡制限がない会社）",
+    "exampleSentence": "Since the company is an Unlisted Company, the transfer of shares to the third party could not take effect without the express resolution of the governing body.",
+    "exampleTranslation": "その会社は非公開会社であるため、第三者への株式の譲渡は、統治機関による明確な決議なしには効力を生じなかった。",
+    "vocabularyList": [
+      {
+        "word": "Kabushiki Kaisha",
+        "translation": "株式会社 (Stock Company)"
+      },
+      {
+        "word": "Articles of Incorporation",
+        "translation": "定款"
+      },
+      {
+        "word": "restrictions",
+        "translation": "制限"
+      },
+      {
+        "word": "transfer of shares",
+        "translation": "株式の譲渡"
+      },
+      {
+        "word": "approval",
+        "translation": "承認"
+      },
+      {
+        "word": "governing body",
+        "translation": "統治機関"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Subscription of Shares at Incorporation",
+    "definition": "The legal undertaking by a person (an incorporator or a third party) to acquire shares issued by a stock company during the period of its formation, thereby becoming liable for the payment of the issue price.",
+    "japaneseDefinition": "株式会社の設立に際し、設立時発行株式を取得する行為。会社成立後、当該取得者は株主となる。",
+    "japaneseWordTranslation": "設立時発行株式の引受け (せつりつじはっこうかぶしきのひきうけ)",
+    "legalContext": "Companies Act Art. 32: Subscription of shares at incorporation (requires execution of a document indicating the number of shares acquired and the issue price).",
+    "japaneseLegalContext": "会社法第32条：設立時発行株式の引受け（取得する株式の数および払込金額等を記載した書面の作成を要する）。",
+    "exampleSentence": "The incorporators fulfilled the Subscription of Shares at Incorporation by depositing the stipulated amount into the bank account designated for the formation process.",
+    "exampleTranslation": "設立者は、設立手続のために指定された銀行口座に規定された金額を預け入れることにより、設立時発行株式の引受けを履行した。",
+    "vocabularyList": [
+      {
+        "word": "incorporator",
+        "translation": "設立者"
+      },
+      {
+        "word": "acquisition",
+        "translation": "取得"
+      },
+      {
+        "word": "issue price",
+        "translation": "発行価額"
+      },
+      {
+        "word": "formation process",
+        "translation": "設立手続"
+      },
+      {
+        "word": "stipulated amount",
+        "translation": "規定された金額"
+      },
+      {
+        "word": "liable for payment",
+        "translation": "払込責任を負う"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Audit Committee",
+    "definition": "A required statutory organ within a Kabushiki Kaisha that has opted for the Committee system, tasked primarily with auditing the execution of duties by the Executive Officers and Directors.",
+    "japaneseDefinition": "指名委員会等設置会社に置かれる機関の一つであり、業務執行役及び取締役の職務の執行を監査することを主な職責とする。",
+    "japaneseWordTranslation": "監査委員会 (かんさいいんかい)",
+    "legalContext": "Companies Act Art. 404: The functions of the Audit Committee (including preparation of the audit report and determining resolutions regarding consent to business execution).",
+    "japaneseLegalContext": "会社法第404条：監査委員会の職務等（監査報告の作成、業務執行への同意の決議等を含む）。",
+    "exampleSentence": "The Audit Committee investigated the alleged misconduct involving certain Executive Officers and reported its findings to the shareholders' assembly.",
+    "exampleTranslation": "監査委員会は、特定の業務執行役が関与したとされる不正行為を調査し、その調査結果を株主集会に報告した。",
+    "vocabularyList": [
+      {
+        "word": "statutory organ",
+        "translation": "法定機関"
+      },
+      {
+        "word": "Committee system",
+        "translation": "委員会制度"
+      },
+      {
+        "word": "Executive Officer",
+        "translation": "業務執行役"
+      },
+      {
+        "word": "execution of duties",
+        "translation": "職務の執行"
+      },
+      {
+        "word": "alleged misconduct",
+        "translation": "申し立てられた不正行為"
+      },
+      {
+        "word": "shareholders' assembly",
+        "translation": "株主集会"
+      }
+    ]
   }
 ]

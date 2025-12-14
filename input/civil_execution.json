@@ -3536,5 +3536,119 @@
         "translation": "敷地から退去する"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Re-execution Sale",
+    "definition": "A subsequent auction sale ordered by the execution court when the highest bidder in the initial compulsory sale fails to fulfill the payment obligation, resulting in the forfeiture of their deposit.",
+    "japaneseDefinition": "買受人が代金を納付しなかった場合など、前の売却手続が効力を失ったときに、執行裁判所が改めて行う競売手続。",
+    "japaneseWordTranslation": "再競売 (さいきょうばい)",
+    "legalContext": "Civil Execution Act Art. 79 (Order of Re-execution Sale): If the auction sale is invalidated due to the highest bidder failing to pay the price, the execution court shall order a re-execution sale.",
+    "japaneseLegalContext": "民事執行法第79条（再競売の決定）：最高価買受申出人が代金を納付しなかったため売却がその効力を失ったときは、執行裁判所は、再競売の決定をしなければならない。",
+    "exampleSentence": "If the previous bidder fails to pay the balance within the designated period, the execution court shall order a **re-execution sale** and the forfeited deposit shall become part of the execution proceeds.",
+    "exampleTranslation": "前の買受人が指定期間内に残額を支払わなかった場合、執行裁判所は再競売を命じ、没収された保証金は執行収益の一部となる。",
+    "vocabularyList": [
+      {
+        "word": "subsequent",
+        "translation": "その後の、次に行われる"
+      },
+      {
+        "word": "invalidation",
+        "translation": "無効化"
+      },
+      {
+        "word": "payment obligation",
+        "translation": "支払義務"
+      },
+      {
+        "word": "forfeiture",
+        "translation": "没収"
+      },
+      {
+        "word": "execution proceeds",
+        "translation": "執行収益"
+      },
+      {
+        "word": "designated period",
+        "translation": "指定期間"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Bidding Deposit",
+    "definition": "The security money that potential bidders must provide to the execution court when submitting their offer in a compulsory auction of immovable property, calculated as a specific ratio (usually 20%) of the minimum sale price.",
+    "japaneseDefinition": "不動産競売において、買受申出（入札）をする者が執行裁判所に提供しなければならない保証金。",
+    "japaneseWordTranslation": "買受申出の保証 (かいuke もうしいで の ほしょう)",
+    "legalContext": "Civil Execution Act Art. 65 (Bidding Deposit): A person who intends to submit a bid must provide security to the execution court as prescribed by the Supreme Court Rules.",
+    "japaneseLegalContext": "民事執行法第65条（買受申出の保証）：買受の申出をしようとする者は、最高裁判所規則で定めるところにより、執行裁判所に保証を提供しなければならない。",
+    "exampleSentence": "The potential creditor, having participated in the auction, was required to submit a **bidding deposit** equal to one-fifth of the court-determined minimum sale price.",
+    "exampleTranslation": "その潜在的な債権者は、競売に参加するにあたり、裁判所が定めた最低売却価格の5分の1に相当する買受申出の保証を提供する必要があった。",
+    "vocabularyList": [
+      {
+        "word": "security money",
+        "translation": "保証金"
+      },
+      {
+        "word": "potential bidders",
+        "translation": "潜在的な入札者"
+      },
+      {
+        "word": "minimum sale price",
+        "translation": "最低売却価格"
+      },
+      {
+        "word": "court-determined",
+        "translation": "裁判所が決定した"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "specific ratio",
+        "translation": "特定の比率"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Pro Rata Distribution",
+    "definition": "A methodology for distributing execution proceeds among unsecured creditors who are not entitled to preferential payment, calculating the allocation proportionally based on the amount of their respective claims.",
+    "japaneseDefinition": "執行手続で配当金を債権者へ分配する際、優先権のない一般債権者に対して、それぞれの債権額に比例して金銭を分配すること。",
+    "japaneseWordTranslation": "按分弁済 (あんぶんべんさい)",
+    "legalContext": "Civil Execution Act Art. 89 (Allocation to Ordinary Creditors): Remaining proceeds after paying preferred claims shall be distributed to ordinary execution obligees and unsecured creditors based on the pro rata principle.",
+    "japaneseLegalContext": "民事執行法第89条（一般債権者に対する配当等）：優先権のある債権者に弁済した後、残余があるときは、一般の執行債権者等に対し、按分の原則に基づき配当される。",
+    "exampleSentence": "Since the realized sale proceeds were insufficient to cover all unsecured claims, the court implemented a **pro rata distribution** among the participating creditors according to Article 89.",
+    "exampleTranslation": "実現された売却収益が全ての一般債権を賄うには不十分であったため、裁判所は第89条に基づき、参加した債権者間で按分弁済を実施した。",
+    "vocabularyList": [
+      {
+        "word": "methodology",
+        "translation": "手法"
+      },
+      {
+        "word": "execution proceeds",
+        "translation": "執行収益"
+      },
+      {
+        "word": "unsecured creditors",
+        "translation": "一般債権者"
+      },
+      {
+        "word": "preferential payment",
+        "translation": "優先的弁済"
+      },
+      {
+        "word": "proportionally",
+        "translation": "比例して"
+      },
+      {
+        "word": "respective claims",
+        "translation": "それぞれの債権"
+      }
+    ]
   }
 ]

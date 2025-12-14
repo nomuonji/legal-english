@@ -3216,5 +3216,119 @@
         "translation": "事業継続 (jigyō keizoku)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interim Order Mandating Performance",
+    "definition": "A specific type of provisional injunction (kari shobun) granted by the court to temporarily establish a legal relationship or status quo concerning a dispute, often requiring the debtor to perform a specific action to prevent substantial and irreparable harm to the obligee.",
+    "japaneseDefinition": "係争中の権利や地位に関して、本案訴訟の終結を待つことによって債権者が著しい損害を被ることを避けるために、裁判所が債務者に対し給付を命じる性質を持つ暫定的な保全処分。",
+    "japaneseWordTranslation": "仮の地位を定める処分 (かりのちいをさだめるしょぶん)",
+    "legalContext": "Civil Preservation Act (民事保全法) Art. 25(2): “The provisional disposition set forth in the preceding paragraph may be effected by measures necessary to prevent substantial detriment or imminent danger.”",
+    "japaneseLegalContext": "民事保全法第25条第2項: 「前項の仮処分は、著しい損害又は急迫の危険を避けるため必要な措置をとる方法によつてすることができる。」",
+    "exampleSentence": "The court issued an interim order mandating performance, requiring the company to temporarily reinstate the plaintiff to their management position pending the outcome of the principal lawsuit.",
+    "exampleTranslation": "裁判所は、本案訴訟の結果が出るまで、原告を一時的に経営上の地位に復帰させることを命じる「仮の地位を定める処分」を発令した。",
+    "vocabularyList": [
+      {
+        "word": "Status Quo",
+        "translation": "現状 (げんじょう)"
+      },
+      {
+        "word": "Substantial harm",
+        "translation": "著しい損害 (いちじるしいそんがい)"
+      },
+      {
+        "word": "Irreparable",
+        "translation": "回復不能な (かいふくふのうな)"
+      },
+      {
+        "word": "Mandating",
+        "translation": "命じる (めいじる)"
+      },
+      {
+        "word": "Principal lawsuit",
+        "translation": "本案訴訟 (ほんあんそしょう)"
+      },
+      {
+        "word": "Plaintiff",
+        "translation": "原告 (げんこく)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Discharge by Substitution of Security",
+    "definition": "A debtor's statutory right, often exercised in provisional attachment cases, to provide a fixed monetary security deposit to the court in lieu of the seized property, thereby obtaining the release of the preservation measure.",
+    "japaneseDefinition": "保全債務者が、既に執行された保全措置の対象となっている財産に代えて、裁判所に所定の金銭担保を提供することにより、保全命令の執行自体を取り消し、財産の処分を可能にする制度。",
+    "japaneseWordTranslation": "代替担保による保全取消し (だいたいタンポによるほぜんとりけし)",
+    "legalContext": "Civil Preservation Act (民事保全法) Art. 44(2): “The court shall cancel a provisional attachment upon motion by the preservation debtor when the preservation debtor has deposited the amount specified in the order for provisional attachment.”",
+    "japaneseLegalContext": "民事保全法第44条第2項: 「裁判所は、保全債務者の申立てにより、仮差押命令において定められた額の金銭を保全債務者が供託したときは、仮差押えを取り消さなければならない。」",
+    "exampleSentence": "To prevent disruption to its business operations, the defendant filed a motion for discharge by substitution of security immediately after the provisional attachment was enforced.",
+    "exampleTranslation": "業務運営の混乱を防ぐため、被告は仮差押えが執行された直後に、代替担保による保全取消しを申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Statutory right",
+        "translation": "法定の権利 (ほうていのけんり)"
+      },
+      {
+        "word": "Monetary security deposit",
+        "translation": "金銭担保 (きんせんたんぽ)"
+      },
+      {
+        "word": "Seized property",
+        "translation": "差し押さえられた財産 (さしおさえられたざいさん)"
+      },
+      {
+        "word": "In lieu of",
+        "translation": "〜に代わって (にかわって)"
+      },
+      {
+        "word": "Disruption",
+        "translation": "混乱 (こんらん)"
+      },
+      {
+        "word": "Defendant",
+        "translation": "被告 (ひこく)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Transition to Compulsory Execution",
+    "definition": "The procedural step where a provisional attachment (kari sashiosae) established before judgment automatically converts its status, and the previously seized property becomes subject to final collection procedures once the obligee obtains a final and enforceable judgment (or equivalent title).",
+    "japaneseDefinition": "債権者が本案訴訟で確定的な執行力のある債務名義（判決など）を得た際に、それまで係属していた仮差押えがその効力を維持したまま、債権回収のための本格的な強制執行手続に移行すること。",
+    "japaneseWordTranslation": "本執行への移行 (ほんしっこうへのいこう)",
+    "legalContext": "Civil Preservation Act (民事保全法) Art. 52 and 53 describe the effect of provisional attachment transitioning into enforcement procedures for the monetary claim secured by the attachment.",
+    "japaneseLegalContext": "民事保全法第52条、第53条: 仮差押えの効力が、金銭債権を保全するために行われた強制執行手続へ移行し、売却等による回収が可能となることに関する規定。",
+    "exampleSentence": "Following the favorable final judgment, the obligee initiated the transition to compulsory execution against the debtor’s bank account, which had been under provisional attachment for six months.",
+    "exampleTranslation": "有利な確定判決を受け、債権者は6か月間仮差押えされていた債務者の銀行口座に対し、本執行への移行手続を開始した。",
+    "vocabularyList": [
+      {
+        "word": "Procedural step",
+        "translation": "手続段階 (てつづきだんかい)"
+      },
+      {
+        "word": "Collection procedures",
+        "translation": "回収手続 (かいしゅうてつづき)"
+      },
+      {
+        "word": "Favorable",
+        "translation": "有利な (ゆうりな)"
+      },
+      {
+        "word": "Obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "Seized",
+        "translation": "差し押さえられた (さしおさえられた)"
+      },
+      {
+        "word": "Bank account",
+        "translation": "銀行口座 (ぎんこうこうざ)"
+      }
+    ]
   }
 ]

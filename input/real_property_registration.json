@@ -3008,5 +3008,107 @@
         "translation": "義務付ける (ぎむづける)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Written Application for Registration",
+    "definition": "The formal document submitted to the registration office containing required information—such as the applicant, the property description, and the legal basis for the change in rights—necessary to effect a property registration.",
+    "japaneseDefinition": "不動産に関する権利の得喪または変更の登記を行うために、登記所に提出する書面。申請人の情報、不動産の表示、および登記原因などが記載される。",
+    "japaneseWordTranslation": "登記申請書 (Tōki shinsei-sho)",
+    "legalContext": "Real Property Registration Act Art. 18: A registration shall be filed by a written application unless otherwise provided for by law.",
+    "japaneseLegalContext": "不動産登記法第18条: 登記の申請は、法令に別段の定めがある場合を除き、書面でしなければならない。",
+    "exampleSentence": "The agent submitted the Written Application for Registration along with the necessary supporting documents at the registration office.",
+    "exampleTranslation": "代理人は、必要な添付書類と共に、登記申請書を登記所に提出した。",
+    "vocabularyList": [
+      {
+        "word": "submitted",
+        "translation": "提出した"
+      },
+      {
+        "word": "applicant",
+        "translation": "申請人"
+      },
+      {
+        "word": "registration office",
+        "translation": "登記所"
+      },
+      {
+        "word": "legal basis",
+        "translation": "法的根拠"
+      },
+      {
+        "word": "supporting documents",
+        "translation": "添付書類"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Reception Time Rule",
+    "definition": "The principle stating that the time and date when a registration application is received by the registration office determines the priority of the registered right, thereby establishing its effective ranking relative to other rights.",
+    "japaneseDefinition": "登記の受付がなされた日時を基準として、複数の権利の登記の順位を決定するという原則。これにより、権利の優劣が確立される。",
+    "japaneseWordTranslation": "受付時間の原則 (Uketsuke jikan no gensoku)",
+    "legalContext": "Real Property Registration Act Art. 4: The order of priority of rights registration shall be determined by the time of reception of the application.",
+    "japaneseLegalContext": "不動産登記法第4条: 権利に関する登記の順位は、法令に別段の定めがある場合を除き、登記の受付の順序による。",
+    "exampleSentence": "Under the Registration Reception Time Rule, the hypothec filed at 10:00 AM takes priority over the subsequent lease registration filed at 11:30 AM on the same day.",
+    "exampleTranslation": "受付時間の原則に基づき、同日の午前10時に申請された抵当権は、午前11時30分に申請されたその後の賃借権の登記に優先する。",
+    "vocabularyList": [
+      {
+        "word": "order of priority",
+        "translation": "順位"
+      },
+      {
+        "word": "hypothec",
+        "translation": "抵当権"
+      },
+      {
+        "word": "subsequent",
+        "translation": "その後の"
+      },
+      {
+        "word": "lease registration",
+        "translation": "賃借権の登記"
+      },
+      {
+        "word": "effective ranking",
+        "translation": "有効な順位"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Compulsory Factual Registration",
+    "definition": "A mandatory registration concerning the physical description of real property, such as the construction of a new building, alteration of the structure, or the subdivision of land, which must be applied for within a specified period.",
+    "japaneseDefinition": "不動産の物理的状況（表示）に関する登記であって、法令により一定期間内の申請が義務付けられているもの。新築建物の登記や土地の分筆などが該当する。",
+    "japaneseWordTranslation": "義務的な表示の登記 (Gimuteki na hyōji no tōki)",
+    "legalContext": "Real Property Registration Act Art. 37: When a new building is constructed, the owner must apply for registration of the building within one month.",
+    "japaneseLegalContext": "不動産登記法第37条: 新たに建物を築造した場合においては、所有者は、その新築の日から一月以内に、建物の表示の登記を申請しなければならない。",
+    "exampleSentence": "Failure to apply for a Compulsory Factual Registration for the newly erected warehouse within the statutory deadline may result in administrative penalty.",
+    "exampleTranslation": "新設された倉庫に対する義務的な表示の登記を法定期間内に申請しなかった場合、行政罰を招く可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "statutory deadline",
+        "translation": "法定期限"
+      },
+      {
+        "word": "alteration",
+        "translation": "変更"
+      },
+      {
+        "word": "subdivision of land",
+        "translation": "土地の分筆"
+      },
+      {
+        "word": "newly erected",
+        "translation": "新設された"
+      },
+      {
+        "word": "administrative penalty",
+        "translation": "行政罰"
+      }
+    ]
   }
 ]

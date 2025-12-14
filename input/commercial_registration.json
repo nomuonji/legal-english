@@ -3188,5 +3188,123 @@
         "translation": "認証印 (ninshō-in)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Good Faith Third Party Rule",
+    "definition": "A principle stipulating that a corporation cannot assert a matter required to be publicly recorded against a third party who, without knowledge of the true underlying fact, relies on the publicly available data, or lack thereof.",
+    "japaneseDefinition": "商業登記簿に記録すべき事項が記録されていない場合、企業がその事実を知らない第三者に対して、その事項をもって対抗できないという原則。",
+    "japaneseWordTranslation": "善意の第三者保護 (ぜんいのだいさんしゃほご)",
+    "legalContext": "Commercial Recording Act Article 9: A fact that should have been recorded cannot be opposed to a good faith third party.",
+    "japaneseLegalContext": "商業登記法 第九条: 登記すべき事項は、登記の後でなければ、これをもって善意の第三者に対抗することができない。",
+    "exampleSentence": "Due to the **Good Faith Third Party Rule**, the entity was unable to assert that the executive replacement was invalid against the lender, who had checked the publicly available data.",
+    "exampleTranslation": "善意の第三者保護の原則により、その企業は、公開されているデータを確認した貸主に対し、役員の交代が無効であったことを主張できませんでした。",
+    "vocabularyList": [
+      {
+        "word": "Entity",
+        "translation": "企業 (きぎょう)"
+      },
+      {
+        "word": "Assert",
+        "translation": "主張する (しゅちょうする)"
+      },
+      {
+        "word": "Executive replacement",
+        "translation": "役員交替 (やくいんこうたい)"
+      },
+      {
+        "word": "Invalid",
+        "translation": "無効 (むこう)"
+      },
+      {
+        "word": "Lender",
+        "translation": "貸主 (かしぬし)"
+      },
+      {
+        "word": "Opposed to",
+        "translation": "対抗する (たいこうする)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Authenticating Instruments",
+    "definition": "Instruments required to be submitted alongside a request for a record entry, proving the existence or validity of the organizational action (e.g., executive replacement, modification of internal governance) that forms the foundation for the requested entry.",
+    "japaneseDefinition": "企業が行った組織的行為（例えば、役員の交替、内部統治の変更など）の存在や有効性を証明し、記録の根拠となるとして、届出の際に提出が求められる書面。",
+    "japaneseWordTranslation": "証明書面 (しょうめいしょめん)",
+    "legalContext": "Commercial Recording Act Article 46: Requirement for the submission of proof regarding the record’s underlying fact.",
+    "japaneseLegalContext": "商業登記法 第四十六条 (証明書面の提出要求)",
+    "exampleSentence": "When submitting the data regarding the new governing arrangement, the petitioner must include all necessary **Authenticating Instruments** to satisfy the verification requirement of the recording official.",
+    "exampleTranslation": "新しい統治機構に関するデータを提出する際、請願者は記録官の証明要件を満たすために、必要なすべての証明書面を添付しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Petitioner",
+        "translation": "請願者 (せいがんしゃ)"
+      },
+      {
+        "word": "Governing arrangement",
+        "translation": "統治機構 (とうちきこう)"
+      },
+      {
+        "word": "Verification requirement",
+        "translation": "証明要件 (しょうめいようけん)"
+      },
+      {
+        "word": "Recording official",
+        "translation": "記録官 (きろくかん)"
+      },
+      {
+        "word": "Organizational action",
+        "translation": "組織的行為 (そしきてきこうい)"
+      },
+      {
+        "word": "Modification",
+        "translation": "変更 (へんこう)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Correction Mandate",
+    "definition": "An instruction issued by the recording official requiring the petitioner to fix deficiencies, errors, or omissions in the submitted materials or the request itself, allowing the procedure to continue.",
+    "japaneseDefinition": "記録官が請願者に対し、提出された文書や届出内容の不備、誤り、または欠落を是正するよう求める指示。これにより、手続が継続される。",
+    "japaneseWordTranslation": "補正命令 (ほせいめいれい)",
+    "legalContext": "Commercial Recording Act Article 24, Item 9 (Grounds for dismissing the request, including failure to comply with correction orders).",
+    "japaneseLegalContext": "商業登記法 第二十四条第九号 (補正を命じた場合にその補正をしないとき)",
+    "exampleSentence": "If the initial data contained a calculation error in the entity's financial resources, the recording official would issue a **Correction Mandate**, and failure to comply within the prescribed deadline would lead to the request being dismissed.",
+    "exampleTranslation": "もし最初のデータに企業の財源の計算誤りがあった場合、記録官は補正命令を発し、所定の期限内に応じなければその届出は却下されることになる。",
+    "vocabularyList": [
+      {
+        "word": "Recording official",
+        "translation": "記録官 (きろくかん)"
+      },
+      {
+        "word": "Petitioner",
+        "translation": "請願者 (せいがんしゃ)"
+      },
+      {
+        "word": "Deficiencies",
+        "translation": "不備 (ふび)"
+      },
+      {
+        "word": "Calculation error",
+        "translation": "計算誤り (けいさんあやまり)"
+      },
+      {
+        "word": "Deadline",
+        "translation": "期限 (きげん)"
+      },
+      {
+        "word": "Submitted materials",
+        "translation": "提出資料 (ていしゅつしりょう)"
+      },
+      {
+        "word": "Dismissed",
+        "translation": "却下される (きゃっかされる)"
+      }
+    ]
   }
 ]

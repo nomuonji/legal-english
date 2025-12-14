@@ -1,54 +1,38 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Judicial Scrivener Act (司法書士法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Accomplice",
-  "definition": "A person who helps another commit a crime.",
-  "japaneseDefinition": "正犯と協力して犯罪を実行した者。",
-  "japaneseWordTranslation": "共犯 (きょうはん)",
-  "legalContext": "Criminal Code Art. 60: Two or more persons who commit a crime in joint action are all principals.",
-  "japaneseLegalContext": "刑法60条：二人以上共同して犯罪を実行した者は、すべて正犯とする。",
-  "exampleSentence": "The driver was arrested as an accomplice to the robbery.",
-  "exampleTranslation": "運転手は強盗の共犯として逮捕された。",
+  "word": "Authorization to Handle Adjudication Cases",
+  "definition": "The specialized authorization granted to legal professionals who have passed an examination and received certification from the Minister of Justice, allowing them to engage in specific legal procedures, primarily related to summary court proceedings and alternative dispute resolution (ADR) involving disputes below 1.4 million yen.",
+  "japaneseDefinition": "法務大臣の認定を受けた者が、簡易裁判所の訴訟事件や特定な裁判外紛争解決手続（ADR）において、請求額が140万円を超えない範囲で関与することが許される専門的な権限。",
+  "japaneseWordTranslation": "認定業務 (にんていぎょうむ)",
+  "legalContext": "Judicial Scrivener Act, Article 3, Paragraph 2: 'In addition to the matters set forth in the preceding paragraph, a certified... may, as an agent, perform the procedures for Summary Court Adjudication Cases, etc.'",
+  "japaneseLegalContext": "司法書士法第3条第2項：「前項に定めるもののほか、認定を受けた者は、簡易裁判所における訴訟事件等につき、代理人として、法務省令で定める手続を行うことができる。」",
+  "exampleSentence": "The scope of the Authorization to Handle Adjudication Cases limits the financial value of disputes that the professional may handle.",
+  "exampleTranslation": "認定業務の範囲は、その専門家が取り扱うことのできる紛争の経済的価値を制限している。",
   "vocabularyList": [
     {
-      "word": "Accomplice",
-      "translation": "共犯者"
+      "word": "certified",
+      "translation": "認定された"
     },
     {
-      "word": "Commit",
-      "translation": "犯す"
+      "word": "Summary Court Adjudication Cases",
+      "translation": "簡易裁判所における訴訟事件"
     },
     {
-      "word": "Crime",
-      "translation": "犯罪"
+      "word": "agent",
+      "translation": "代理人"
     },
     {
-      "word": "Joint",
-      "translation": "共同の"
+      "word": "legal procedures",
+      "translation": "法的手続"
     },
     {
-      "word": "Action",
-      "translation": "行為/行動"
+      "word": "disputes",
+      "translation": "紛争"
     },
     {
-      "word": "Principal",
-      "translation": "正犯"
-    },
-    {
-      "word": "Arrest",
-      "translation": "逮捕する"
-    },
-    {
-      "word": "Robbery",
-      "translation": "強盗"
-    },
-    {
-      "word": "Driver",
-      "translation": "運転手"
-    },
-    {
-      "word": "Help",
-      "translation": "助ける"
+      "word": "financial value",
+      "translation": "経済的価値"
     }
   ]
 }

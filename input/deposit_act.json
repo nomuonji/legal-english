@@ -3090,5 +3090,119 @@
         "translation": "〜とは別に"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "The Consignor",
+    "definition": "The party, typically the obligor (debtor) in the underlying transaction, who makes a deposit of money or property with a statutory agency to fulfill an obligation or secure a legal procedure.",
+    "japaneseDefinition": "供託行為を実際に行う者。通常、弁済のために供託をする債務者、または法令に基づき供託義務を負う者を指す。",
+    "japaneseWordTranslation": "供託者 (きょうたくしゃ)",
+    "legalContext": "The Consignor is discharged from the obligation upon deposit if the grounds for deposit specified in the Civil Code are valid.",
+    "japaneseLegalContext": "供託者が民法に定める供託原因をもって供託したときは、その限度において債務を免れる。",
+    "exampleSentence": "When the obligee refused to accept performance without justifiable reason, **the consignor** deposited the owed amount to be relieved of the debt.",
+    "exampleTranslation": "債権者が正当な理由なく弁済の受領を拒否したため、供託者は負債から解放されるために、供託所に債務額を供託した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "statutory agency",
+        "translation": "法令上の機関"
+      },
+      {
+        "word": "underlying transaction",
+        "translation": "基礎となる取引"
+      },
+      {
+        "word": "refused to accept",
+        "translation": "受領を拒否した"
+      },
+      {
+        "word": "owed amount",
+        "translation": "弁済すべき金額"
+      },
+      {
+        "word": "justifiable reason",
+        "translation": "正当な理由"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Acceptance of Filing",
+    "definition": "The formal administrative decision by the competent authority (the deposit office) to officially recognize and process a deposit application, confirming that the accompanying documentation and procedural steps meet all legal requirements.",
+    "japaneseDefinition": "供託官が供託の申請を受け付け、添付書類や手続きが法令上の要件を完全に満たしていると認めること。",
+    "japaneseWordTranslation": "受理 (じゅり)",
+    "legalContext": "Upon the Acceptance of Filing, the legal consequences of the deposit, such as the discharge of the obligation, are generally established retroactively to the time the application was submitted.",
+    "japaneseLegalContext": "供託の申請が受理された時に、原則として、債務消滅等の法的効力は申請時に遡って確定する。",
+    "exampleSentence": "The deposit office initially rejected the application due to missing documents but confirmed the **Acceptance of Filing** after the consignor submitted the required certificate the following day.",
+    "exampleTranslation": "供託所は当初、書類不足を理由に申請を却下したが、翌日供託者が必須の証明書を提出した後、受理を確認した。",
+    "vocabularyList": [
+      {
+        "word": "competent authority",
+        "translation": "管轄官庁"
+      },
+      {
+        "word": "accompanying documentation",
+        "translation": "添付書類"
+      },
+      {
+        "word": "legal requirements",
+        "translation": "法令上の要件"
+      },
+      {
+        "word": "legal consequences",
+        "translation": "法的効果"
+      },
+      {
+        "word": "retroactively",
+        "translation": "遡及的に"
+      },
+      {
+        "word": "missing documents",
+        "translation": "欠落書類"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Transfer of Risk",
+    "definition": "The legal principle asserting that once a valid deposit has been completed, the responsibility for and risk of accidental loss or damage to the deposited property shifts from the consignor (obligor) to the entitled recipient (obligee) or, eventually, the national treasury.",
+    "japaneseDefinition": "有効な供託がなされた結果、供託物（特に特定物）の偶発的な滅失や損傷に関する危険負担が、供託者（債務者）から権利者（債権者）、または最終的に国庫に移転すること。",
+    "japaneseWordTranslation": "危険の移転 (きけんのいてん)",
+    "legalContext": "Civil Code Art. 495 stipulates that the act of deposit relieves the obligor of the duty of custody regarding the thing deposited, thereby giving effect to the Transfer of Risk.",
+    "japaneseLegalContext": "民法第495条は、供託によって債務者が供託物の保管義務を免れると規定しており、これにより危険の移転が生じる。",
+    "exampleSentence": "The company established the **Transfer of Risk** by depositing the specific machinery designated for performance, meaning they were not liable when the item was subsequently damaged in storage.",
+    "exampleTranslation": "会社は、履行のために指定された特定の機械を供託することにより危険の移転を確立した。これは、その品物が後に保管中に損傷しても、会社には責任がないことを意味する。",
+    "vocabularyList": [
+      {
+        "word": "accidental loss",
+        "translation": "偶発的な滅失"
+      },
+      {
+        "word": "entitled recipient",
+        "translation": "権利者"
+      },
+      {
+        "word": "duty of custody",
+        "translation": "保管義務"
+      },
+      {
+        "word": "specific machinery",
+        "translation": "特定の機械"
+      },
+      {
+        "word": "subsequently damaged",
+        "translation": "後に損傷した"
+      },
+      {
+        "word": "not liable",
+        "translation": "責任がない"
+      }
+    ]
   }
 ]

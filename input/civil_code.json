@@ -3272,5 +3272,135 @@
         "translation": "経済的同一性"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Impairment of Secured Property Value",
+    "definition": "The decrease in the market worth or physical condition of the property designated as collateral for an obligation, potentially jeopardizing the obligee's right to full recovery.",
+    "japaneseDefinition": "債務の担保となっている財産の市場価値または物理的状態が悪化し、債権者の債権回収が危うくなること。",
+    "japaneseWordTranslation": "担保物の価値減少 (Tanpomutsu no kachi genshō)",
+    "legalContext": "Civil Code Art. 362 (Requirement to maintain the integrity of the secured object): If the property used as collateral suffers deterioration, the obligee may demand that the obligor provide substitute collateral.",
+    "japaneseLegalContext": "民法第362条 (担保物の保全義務): 担保の目的物たる財産が毀損した場合、債権者は債務者に対し代替担保を提供するよう請求することができる。",
+    "exampleSentence": "The obligee filed an application with the court, alleging severe Impairment of Secured Property Value due to the obligor's failure to maintain the designated building.",
+    "exampleTranslation": "債権者は、債務者が指定された建物を維持管理しなかったことにより、担保物の価値減少が甚大であるとして、裁判所に申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "collateral",
+        "translation": "担保"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "designated building",
+        "translation": "指定された建物"
+      },
+      {
+        "word": "severe",
+        "translation": "甚大な"
+      },
+      {
+        "word": "substitute collateral",
+        "translation": "代替担保"
+      },
+      {
+        "word": "maintain",
+        "translation": "維持管理する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Usufructuary Real Right",
+    "definition": "A category of real rights established over another person's corporeal object, granting the right holder the authority to use and derive profit (usufruct) from that property.",
+    "japaneseDefinition": "他人の物の上に設定され、その物を使用し、収益する権能を権利者に与える物権の類型。",
+    "japaneseWordTranslation": "用益物権 (Yōeki Bukken)",
+    "legalContext": "Civil Code Book II, General Provisions of Real Rights: This classification distinguishes rights focused on use and profit (e.g., lease-like arrangements) from rights focused on obtaining economic value (e.g., security rights).",
+    "japaneseLegalContext": "民法第2編（物権総則）：この分類は、使用収益に焦点を当てる権利（賃貸借に類似した取決めなど）と、経済的価値の取得に焦点を当てる権利（担保権など）を区別する。",
+    "exampleSentence": "The establishment of a Usufructuary Real Right places a significant burden on the property owner, limiting their ability to fully utilize their own land.",
+    "exampleTranslation": "用益物権の設定は、所有者自身の土地を完全に利用する能力を制限するため、当該不動産所有者に重大な負担を課す。",
+    "vocabularyList": [
+      {
+        "word": "corporeal object",
+        "translation": "有体物"
+      },
+      {
+        "word": "derive profit",
+        "translation": "収益する"
+      },
+      {
+        "word": "right holder",
+        "translation": "権利者"
+      },
+      {
+        "word": "classification",
+        "translation": "類型／分類"
+      },
+      {
+        "word": "property owner",
+        "translation": "不動産所有者"
+      },
+      {
+        "word": "significant burden",
+        "translation": "重大な負担"
+      },
+      {
+        "word": "establishment",
+        "translation": "設定"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Performance in Kind",
+    "definition": "The act of fulfilling a contractual obligation by delivering the actual object or performing the exact service agreed upon, rather than providing monetary compensation.",
+    "japaneseDefinition": "金銭的賠償ではなく、契約で合意されたとおりの目的物を引き渡すか、またはサービスを履行することにより、債務を履行する行為。",
+    "japaneseWordTranslation": "現物給付 (Genbutsu Kyūfu)",
+    "legalContext": "Civil Code Art. 414 (Compulsory Execution for Performance): The primary mechanism for obtaining satisfaction of an obligation is through Performance in Kind, which can be achieved through various forms of execution procedures.",
+    "japaneseLegalContext": "民法第414条 (履行の強制): 債務の満足を得るための主要な仕組みは現物給付であり、これは様々な形態の執行手続を通じて達成され得る。",
+    "exampleSentence": "If the seller fails to deliver the unique artwork, the purchaser's primary recourse is a demand for Performance in Kind, though substitute monetary remedies may also be available.",
+    "exampleTranslation": "売主がその唯一無二の美術品を引き渡さなかった場合、買主の第一の救済手段は現物給付の要求であるが、代替的な金銭救済も利用可能となる。",
+    "vocabularyList": [
+      {
+        "word": "contractual obligation",
+        "translation": "契約上の債務"
+      },
+      {
+        "word": "unique artwork",
+        "translation": "唯一無二の美術品"
+      },
+      {
+        "word": "purchaser",
+        "translation": "買主"
+      },
+      {
+        "word": "seller",
+        "translation": "売主"
+      },
+      {
+        "word": "primary recourse",
+        "translation": "第一の救済手段"
+      },
+      {
+        "word": "monetary remedies",
+        "translation": "金銭救済"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "satisfaction of an obligation",
+        "translation": "債務の満足"
+      }
+    ]
   }
 ]

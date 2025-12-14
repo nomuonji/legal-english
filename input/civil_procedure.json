@@ -3120,5 +3120,119 @@
         "translation": "criminal case"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Lis Pendens",
+    "definition": "The state of a civil lawsuit being officially pending before a court, which triggers various legal effects, most notably the prohibition against filing a duplicate suit based on the same cause of action.",
+    "japaneseDefinition": "訴えが裁判所に提起され、裁判が開始された状態をいう。これにより、特に同一の訴訟物について重ねて訴えを提起することの禁止など、様々な法律上の効果が発生する。",
+    "japaneseWordTranslation": "そしょう けいぞく (soshō keizoku)",
+    "legalContext": "Code of Civil Procedure Art. 142 (Prohibition of Duplicate Suit): 'Where a suit is pending in the court, a party shall not bring another suit concerning the same claim in a different court.'",
+    "japaneseLegalContext": "民事訴訟法第142条（重複起訴の禁止）：『裁判所に訴訟が係属している間は、当事者は、更に同一の訴えを提起することができない。』",
+    "exampleSentence": "Once **lis pendens** occurs, the jurisdiction of the court is fixed, and the plaintiff is prohibited from filing another identical suit.",
+    "exampleTranslation": "訴訟係属が生じると、裁判所の管轄が固定され、原告は同一の訴えを重ねて提起することを禁じられる。",
+    "vocabularyList": [
+      {
+        "word": "pending",
+        "translation": "係属している"
+      },
+      {
+        "word": "duplicate suit",
+        "translation": "重複起訴"
+      },
+      {
+        "word": "cause of action",
+        "translation": "訴訟物"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "identical suit",
+        "translation": "同一の訴え"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Scope of Review",
+    "definition": "The defined boundary for the factual and legal examination that a court, especially an appellate court, is allowed to undertake, typically limited by the specific requests and grounds raised by the appealing party.",
+    "japaneseDefinition": "裁判所、特に上訴審裁判所が事実認定や法律判断を行うことのできる限界。控訴の場合は控訴の申立ての範囲に限定される。",
+    "japaneseWordTranslation": "しんり はんい (shinri han'i)",
+    "legalContext": "Code of Civil Procedure Art. 296 (Scope of Review in *Kōso* Appeal): 'The court of second instance shall conduct its review within the scope of the claims and grounds for appeal made by the parties.'",
+    "japaneseLegalContext": "民事訴訟法第296条（控訴審の審理範囲）：『控訴裁判所は、当事者が申し立てた範囲及び控訴の理由について審理する。』",
+    "exampleSentence": "The appellate court clarified that its **scope of review** did not extend to new factual issues that were not specifically raised in the grounds for appeal.",
+    "exampleTranslation": "控訴裁判所は、その審理範囲は控訴の理由において特に提起されなかった新たな事実問題に及ばないことを明確にした。",
+    "vocabularyList": [
+      {
+        "word": "appellate court",
+        "translation": "上訴裁判所"
+      },
+      {
+        "word": "examination",
+        "translation": "審理"
+      },
+      {
+        "word": "grounds for appeal",
+        "translation": "控訴の理由"
+      },
+      {
+        "word": "claims",
+        "translation": "請求"
+      },
+      {
+        "word": "second instance",
+        "translation": "第二審"
+      },
+      {
+        "word": "factual issues",
+        "translation": "事実問題"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Adjournment of Proceedings",
+    "definition": "The postponement of a scheduled court date (such as a hearing or examination date) to a later, specified date, either upon the motion of a party or by the court’s decision *ex officio*.",
+    "japaneseDefinition": "予定されていた裁判期日（口頭弁論期日や証拠調べ期日など）を、当事者の申立てまたは裁判所の職権により、取り消して後の期日に変更すること。",
+    "japaneseWordTranslation": "きじつの えんき (kijitsu no enki)",
+    "legalContext": "Code of Civil Procedure Art. 93, Para. 1 (Adjournment and Continuation): 'The court may adjourn the proceedings or continue the proceedings upon a motion by a party or *ex officio*.'",
+    "japaneseLegalContext": "民事訴訟法第93条第1項（期日の延期等）：『裁判所は、当事者の申立てその他職権で、期日を延期し、又は続行することができる。』",
+    "exampleSentence": "The defendant's lawyer submitted a formal request for the **adjournment of proceedings** citing the sudden acquisition of critical new evidence that required further analysis.",
+    "exampleTranslation": "被告の弁護士は、さらなる分析を要する重大な新証拠の突発的な取得を理由として、期日の延期の正式な申立てを提出した。",
+    "vocabularyList": [
+      {
+        "word": "postponement",
+        "translation": "延期"
+      },
+      {
+        "word": "court date",
+        "translation": "裁判期日"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "ex officio",
+        "translation": "職権で"
+      },
+      {
+        "word": "defense counsel (lawyer)",
+        "translation": "弁護士"
+      },
+      {
+        "word": "acquisition",
+        "translation": "取得"
+      }
+    ]
   }
 ]

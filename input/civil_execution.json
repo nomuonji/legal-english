@@ -3308,5 +3308,119 @@
         "translation": "再開発"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Public Notice of Sale",
+    "definition": "The mandatory judicial advertisement detailing the particulars of the real property being offered for judicial disposal, including its location, inspection information, and method of realization.",
+    "japaneseDefinition": "執行裁判所が不動産の売却を実施する際に、その物件の所在、最低価額、入札期間などの詳細を広く知らせるために行う、裁判所による公告。",
+    "japaneseWordTranslation": "売却の公告 (Bai kyaku no kōkoku)",
+    "legalContext": "Civil Execution Act Art. 64: The execution court shall, when conducting a sale of real property, give public notice of the matters specified by Supreme Court Rules.",
+    "japaneseLegalContext": "民事執行法 第64条: 執行裁判所は、不動産の売却を実施する場合には、最高裁判所規則で定めるところにより、その旨を公告しなければならない。",
+    "exampleSentence": "The execution obligee confirmed the details contained in the **Public Notice of Sale** before the scheduled bidding date.",
+    "exampleTranslation": "執行債権者は、予定された入札日の前に、**売却の公告**に含まれる詳細を確認した。",
+    "vocabularyList": [
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      },
+      {
+        "word": "judicial advertisement",
+        "translation": "司法公告"
+      },
+      {
+        "word": "bidding date",
+        "translation": "入札日"
+      },
+      {
+        "word": "Supreme Court Rules",
+        "translation": "最高裁判所規則"
+      },
+      {
+        "word": "method of realization",
+        "translation": "換価方法"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cancellation of Execution upon Tender of Payment",
+    "definition": "A statutory right allowing the execution obligor to halt the execution process against specific property by tendering the full monetary amount necessary to satisfy the claim and cover execution costs, provided this occurs before the final procedures of sale.",
+    "japaneseDefinition": "不動産に対する執行の開始後、債務者が債権額と執行費用を執行裁判所に納付することで、売却手続きの終了前に執行を取り消させる制度。",
+    "japaneseWordTranslation": "代金納付による執行取消し (Dai kin nōfu ni yoru shikkō torikeshi)",
+    "legalContext": "Civil Execution Act Art. 68-2: If, after the commencement of execution against real property, the obligor tenders the amount specified by Supreme Court Rules to the execution court before the sale procedures are finalized, the execution court shall cancel the execution.",
+    "japaneseLegalContext": "民事執行法 第68条の2: 不動産に対する執行の開始後、執行債務者が最高裁判所規則で定める額を執行裁判所に納付したときは、執行裁判所は、売却手続の終了に至るまでの間に限り、執行を取り消さなければならない。",
+    "exampleSentence": "The execution obligor successfully invoked the **Cancellation of Execution upon Tender of Payment** to prevent the loss of their primary residence.",
+    "exampleTranslation": "執行債務者は、主たる住居の喪失を防ぐために、**代金納付による執行取消し**を申し立てて成功した。",
+    "vocabularyList": [
+      {
+        "word": "statutory right",
+        "translation": "法的な権利"
+      },
+      {
+        "word": "tendering the amount",
+        "translation": "金額の納付"
+      },
+      {
+        "word": "execution costs",
+        "translation": "執行費用"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "commencement of execution",
+        "translation": "執行の開始"
+      },
+      {
+        "word": "primary residence",
+        "translation": "主たる住居"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statement by the Third Party Possessor",
+    "definition": "A procedural requirement wherein a party, other than the execution obligor, who holds or controls the target property is compelled by the court to declare the nature and extent of the obligor’s proprietary rights regarding that property.",
+    "japaneseDefinition": "執行債務者ではない第三者が、執行の対象となる債務者の財産を占有または管理している場合に、その財産権の内容について裁判所に対し行う義務的な陳述。",
+    "japaneseWordTranslation": "第三者占有者の陳述 (Dai san-sha sen'yūsha no chinjutsu)",
+    "legalContext": "Civil Execution Act Art. 167: When executing against proprietary interests, the court may require the third party holding the interest to state the specific details concerning the obligor's right.",
+    "japaneseLegalContext": "民事執行法 第167条: 差押えに係る財産権を占有する第三者がいる場合、裁判所は、当該財産権の内容について、その第三者に対し、陳述を命ずることができる。",
+    "exampleSentence": "In the execution against intangible assets, the depository institution was required to provide a **Statement by the Third Party Possessor** detailing the extent of the corporate shares.",
+    "exampleTranslation": "無体財産に対する執行において、預託機関は、会社株式の範囲を詳述する**第三者占有者の陳述**を提供することを求められた。",
+    "vocabularyList": [
+      {
+        "word": "target property",
+        "translation": "対象財産"
+      },
+      {
+        "word": "intangible assets",
+        "translation": "無体財産"
+      },
+      {
+        "word": "proprietary rights",
+        "translation": "財産権"
+      },
+      {
+        "word": "depository institution",
+        "translation": "預託機関"
+      },
+      {
+        "word": "compelled by the court",
+        "translation": "裁判所により強制される"
+      },
+      {
+        "word": "extent of the shares",
+        "translation": "持分の範囲"
+      }
+    ]
   }
 ]

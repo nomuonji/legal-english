@@ -3330,5 +3330,119 @@
         "translation": "銀行口座 (ぎんこうこうざ)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Security for Provisional Attachment Discharge",
+    "definition": "A sum of money or securities deposited by the preservation debtor with the court, allowing the debtor to secure the discharge or cancellation of the provisional attachment order, enabling the free use or disposal of the attached property.",
+    "japaneseDefinition": "保全債務者が、仮差押え命令の執行がされている財産の処分や利用を可能とするために、裁判所に差し入れる金銭または有価証券。これにより仮差押えの効力が失われる。",
+    "japaneseWordTranslation": "保全解放のための供託金 (ほぜんかいほうのためのきょうたくきん)",
+    "legalContext": "Civil Preservation Act Art. 44, Sec. 2 (Right to demand cancellation upon posting security)",
+    "japaneseLegalContext": "民事保全法第44条第2項（担保を立てて仮差押えの執行の取消しを求めることができる権利）",
+    "exampleSentence": "The preservation debtor submitted security for provisional attachment discharge to the enforcement court, thereby immediately releasing the corporate bank account from seizure.",
+    "exampleTranslation": "保全債務者は、保全解放のための供託金を執行裁判所に提出し、その結果、企業の銀行口座は直ちに差押えを解除された。",
+    "vocabularyList": [
+      {
+        "word": "sum of money",
+        "translation": "金銭"
+      },
+      {
+        "word": "securities",
+        "translation": "有価証券"
+      },
+      {
+        "word": "cancellation",
+        "translation": "取消し"
+      },
+      {
+        "word": "enforcement court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "corporate bank account",
+        "translation": "企業の銀行口座"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Cancellation of Preservation Enforcement",
+    "definition": "A judicial decision issued by the court that orders the termination of the enforcement proceedings carried out under a preservation measure, typically because the underlying preservation order has been revoked or the enforcement purposes have been satisfied.",
+    "japaneseDefinition": "裁判所が発する決定であり、保全処分に基づいて行われた執行手続を終結させるもの。通常、保全命令自体が取り消された場合や、執行の目的が達成された場合に発せられる。",
+    "japaneseWordTranslation": "保全執行の取消し決定 (ほぜんしっこうのとりけしけってい)",
+    "legalContext": "Civil Preservation Act Art. 48 (Quasi-application of Civil Execution Law provisions on termination of execution)",
+    "japaneseLegalContext": "民事保全法第48条（執行終了に関する民事執行法の準用）",
+    "exampleSentence": "Following the revocation of the provisional injunction, the court promptly issued the Order for Cancellation of Preservation Enforcement concerning the defendant's real property.",
+    "exampleTranslation": "仮処分命令の取り消しを受けて、裁判所は直ちに被告の不動産に関する保全執行の取消し決定を発した。",
+    "vocabularyList": [
+      {
+        "word": "judicial decision",
+        "translation": "裁判上の決定"
+      },
+      {
+        "word": "termination",
+        "translation": "終結"
+      },
+      {
+        "word": "enforcement proceedings",
+        "translation": "執行手続"
+      },
+      {
+        "word": "preservation measure",
+        "translation": "保全処分"
+      },
+      {
+        "word": "underlying order",
+        "translation": "基礎となる命令"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit by Third Party Garnishee",
+    "definition": "The procedure where a third party (garnishee) who owes money or property to the preservation debtor, upon receiving a provisional attachment order, deposits the subject matter of the claim with the Deposit Office to relieve their own obligation.",
+    "japaneseDefinition": "保全債務者に対して金銭または財産上の義務を負う第三者（第三債務者）が、仮差押え命令を受けた際に、その債務の履行に代えて目的物を供託所に供託し、自身の債務を免れる手続き。",
+    "japaneseWordTranslation": "第三債務者の供託 (だいさんさいむしゃのきょうたく)",
+    "legalContext": "Civil Preservation Act Art. 50 (Quasi-application of Civil Execution Law provisions on seizure of claims and third party debtor's deposit)",
+    "japaneseLegalContext": "民事保全法第50条（債権の差押えと第三債務者の供託に関する民事執行法の準用）",
+    "exampleSentence": "After being served the provisional attachment order, the bank, acting as the third party garnishee, chose to make a deposit by third party garnishee rather than holding the funds indefinitely.",
+    "exampleTranslation": "仮差押え命令の送達を受けた後、第三債務者である銀行は、資金を無期限に留保するよりも、第三債務者の供託を行うことを選択した。",
+    "vocabularyList": [
+      {
+        "word": "third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "garnishee",
+        "translation": "第三債務者"
+      },
+      {
+        "word": "owes money",
+        "translation": "金銭を負う"
+      },
+      {
+        "word": "subject matter of the claim",
+        "translation": "債権の目的物"
+      },
+      {
+        "word": "relieve their obligation",
+        "translation": "自身の債務を免れる"
+      },
+      {
+        "word": "Deposit Office",
+        "translation": "供託所"
+      }
+    ]
   }
 ]

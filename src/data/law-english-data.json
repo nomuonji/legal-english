@@ -1,38 +1,38 @@
 {
-  "category": "Judicial Scrivener Act (司法書士法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Authorization to Handle Adjudication Cases",
-  "definition": "The specialized authorization granted to legal professionals who have passed an examination and received certification from the Minister of Justice, allowing them to engage in specific legal procedures, primarily related to summary court proceedings and alternative dispute resolution (ADR) involving disputes below 1.4 million yen.",
-  "japaneseDefinition": "法務大臣の認定を受けた者が、簡易裁判所の訴訟事件や特定な裁判外紛争解決手続（ADR）において、請求額が140万円を超えない範囲で関与することが許される専門的な権限。",
-  "japaneseWordTranslation": "認定業務 (にんていぎょうむ)",
-  "legalContext": "Judicial Scrivener Act, Article 3, Paragraph 2: 'In addition to the matters set forth in the preceding paragraph, a certified... may, as an agent, perform the procedures for Summary Court Adjudication Cases, etc.'",
-  "japaneseLegalContext": "司法書士法第3条第2項：「前項に定めるもののほか、認定を受けた者は、簡易裁判所における訴訟事件等につき、代理人として、法務省令で定める手続を行うことができる。」",
-  "exampleSentence": "The scope of the Authorization to Handle Adjudication Cases limits the financial value of disputes that the professional may handle.",
-  "exampleTranslation": "認定業務の範囲は、その専門家が取り扱うことのできる紛争の経済的価値を制限している。",
+  "word": "Voluntary Desistance",
+  "definition": "The legal concept under criminal law where an offender voluntarily abandons the completion of an attempted crime or takes active steps to prevent the harmful result, leading to potential mitigation or remission of punishment.",
+  "japaneseDefinition": "犯罪の実行に着手した後、行為者が自己の意思により、実行を中止するか、または結果の発生を防止する積極的な行為をとった場合に、刑が減軽または免除される制度。",
+  "japaneseWordTranslation": "中止犯 (ちゅうしはん)",
+  "legalContext": "Penal Code, Art. 43 (Attempted Crime): If a person voluntarily desists from the execution of the crime, the punishment shall be mitigated or remitted.",
+  "japaneseLegalContext": "刑法第43条（未遂罪）：自己の意思により犯罪の実行を中止したときは、その刑を減軽し、又は免除する。",
+  "exampleSentence": "The defense attorney argued that the suspect qualified for voluntary desistance because he called emergency services immediately after inflicting the injury.",
+  "exampleTranslation": "弁護人は、被疑者が傷害を与えた直後に緊急通報を行ったため、中止犯に該当すると主張した。",
   "vocabularyList": [
     {
-      "word": "certified",
-      "translation": "認定された"
+      "word": "desistance",
+      "translation": "中止"
     },
     {
-      "word": "Summary Court Adjudication Cases",
-      "translation": "簡易裁判所における訴訟事件"
+      "word": "attempted crime",
+      "translation": "未遂罪"
     },
     {
-      "word": "agent",
-      "translation": "代理人"
+      "word": "mitigated",
+      "translation": "減軽された"
     },
     {
-      "word": "legal procedures",
-      "translation": "法的手続"
+      "word": "remitted",
+      "translation": "免除された"
     },
     {
-      "word": "disputes",
-      "translation": "紛争"
+      "word": "execution of the crime",
+      "translation": "犯罪の実行"
     },
     {
-      "word": "financial value",
-      "translation": "経済的価値"
+      "word": "inflicting injury",
+      "translation": "傷害を与えること"
     }
   ]
 }

@@ -3422,5 +3422,119 @@
         "translation": "持分の範囲"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Asset Disclosure Inquiry",
+    "definition": "A procedural mechanism recently introduced in Japan's Civil Execution Act allowing a court to order third parties (such as financial institutions, governmental agencies, or national registry offices) to provide information regarding the location and value of the execution obligor's assets, typically following the failure of the primary asset disclosure procedure.",
+    "japaneseDefinition": "債務者財産開示手続が不奏功に終わった場合などに、裁判所が第三者（金融機関、官公署等）に対し、債務者の財産に関する情報提供を命じることのできる制度。",
+    "japaneseWordTranslation": "債務者財産照会制度 (Saimusha Zaisan Shōkai Seido)",
+    "legalContext": "Civil Execution Act, focusing on new provisions aimed at enhancing the effectiveness of asset recovery by creditors.",
+    "japaneseLegalContext": "民事執行法において、債権者による債権回収の実効性確保を目的として導入された規定。",
+    "exampleSentence": "The execution obligee filed a motion for an Asset Disclosure Inquiry after the obligor failed to appear at the mandatory property disclosure hearing.",
+    "exampleTranslation": "執行債権者は、債務者が義務的な財産開示期日に出頭しなかったため、債務者財産照会制度の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "procedural mechanism",
+        "translation": "手続的仕組み"
+      },
+      {
+        "word": "financial institutions",
+        "translation": "金融機関"
+      },
+      {
+        "word": "governmental agencies",
+        "translation": "官公署"
+      },
+      {
+        "word": "asset recovery",
+        "translation": "財産回収"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "mandatory",
+        "translation": "義務的"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exempt Property Designation Decision",
+    "definition": "A judicial decision rendered by the court responsible for enforcement, determining or changing the scope of assets, particularly wages or deposits, that are legally protected from being appropriated to satisfy the debt, ensuring the obligor retains the minimum funds necessary for livelihood.",
+    "japaneseDefinition": "債務者の生活維持に必要な最低限の資力を確保するため、執行裁判所が賃金や預金などの差押え禁止の範囲を定める、またはその範囲を変更する決定。",
+    "japaneseWordTranslation": "差押禁止債権の範囲の変更決定 (Sashiosae Kinshi Saiken no Hani no Henkō Kettei)",
+    "legalContext": "Civil Execution Act provisions regulating the balance between creditor satisfaction and the debtor's fundamental right to a minimum standard of living.",
+    "japaneseLegalContext": "民事執行法における、債権者の満足と債務者の最低生活権保障とのバランスを調整するための規定。",
+    "exampleSentence": "Following a change in the obligor’s dependent status, the court issued an Exempt Property Designation Decision to increase the amount of the salary protected from attachment.",
+    "exampleTranslation": "債務者の扶養家族の状況に変化が生じた後、裁判所は、差押えから保護される給与の額を増額する差押禁止債権の範囲の変更決定を出した。",
+    "vocabularyList": [
+      {
+        "word": "judicial decision",
+        "translation": "裁判上の決定"
+      },
+      {
+        "word": "appropriate",
+        "translation": "充当する"
+      },
+      {
+        "word": "livelihood",
+        "translation": "生計"
+      },
+      {
+        "word": "regulating the balance",
+        "translation": "均衡を調整する"
+      },
+      {
+        "word": "dependent status",
+        "translation": "扶養家族の状況"
+      },
+      {
+        "word": "attachment",
+        "translation": "差押え"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Enforcement Agent's Authority to Disarm Obstruction",
+    "definition": "The legal authority stipulated in the Civil Execution Act that empowers the designated court official (Execution Officer) to take necessary measures, including the removal of persons or objects, or the request for police assistance, to overcome physical resistance or obstruction encountered during the performance of execution duties, particularly in proceedings involving the delivery or surrender of real property.",
+    "japaneseDefinition": "不動産の引渡し等に関する手続において、指定された裁判所職員（執行官）が、執行義務者または第三者による身体的抵抗や妨害を排除するために、人や物の撤去、または警察の援助を求めるなど、必要な措置をとる権限。",
+    "japaneseWordTranslation": "抵抗の排除 (Teikō no Haijo)",
+    "legalContext": "Civil Execution Act provisions concerning the Execution Officer's scope of duty and necessary coercive powers to ensure the effectiveness of physical enforcement.",
+    "japaneseLegalContext": "民事執行法における、執行官の職務範囲と、身体的執行の実効性を確保するための必要な強制的権限に関する規定。",
+    "exampleSentence": "When the third party possessor refused to vacate the premises, the Enforcement Agent exercised his Authority to Disarm Obstruction and requested local police presence.",
+    "exampleTranslation": "第三者の占有者が敷地からの退去を拒否した際、執行官は抵抗の排除の権限を行使し、地元警察の臨場を要請した。",
+    "vocabularyList": [
+      {
+        "word": "stipulated",
+        "translation": "規定された"
+      },
+      {
+        "word": "designated court official",
+        "translation": "指定された裁判所職員"
+      },
+      {
+        "word": "physical resistance",
+        "translation": "身体的抵抗"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      },
+      {
+        "word": "coercive powers",
+        "translation": "強制的権限"
+      },
+      {
+        "word": "vacate the premises",
+        "translation": "敷地から退去する"
+      }
+    ]
   }
 ]

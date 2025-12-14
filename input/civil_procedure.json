@@ -3234,5 +3234,119 @@
         "translation": "取得"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judgment of Performance",
+    "definition": "A judicial decision that orders the losing party (defendant) to perform a specific action, typically the payment of money, delivery of movable/immovable property, or carrying out specific services.",
+    "japaneseDefinition": "被告に対し、債務の履行、特に金銭の支払い、目的物の引き渡し、または一定の作為を命じる判決。",
+    "japaneseWordTranslation": "給付判決 (きゅうふはんけつ)",
+    "legalContext": "Code of Civil Procedure allows courts to issue judgments requiring the defendant to perform an act necessary to satisfy the plaintiff's claim.",
+    "japaneseLegalContext": "民事訴訟法 (給付の訴えに関する規定): 裁判所は、原告の請求を認容する場合、被告に対しその請求に応じた給付を命じる判決を言い渡すことができる。",
+    "exampleSentence": "The plaintiff succeeded in obtaining a **Judgment of Performance** ordering the defendant company to pay the outstanding commercial debt in full.",
+    "exampleTranslation": "原告は、被告会社に対し未払いの商事債務の全額を支払うよう命じる給付判決を獲得した。",
+    "vocabularyList": [
+      {
+        "word": "outstanding debt",
+        "translation": "未払い債務"
+      },
+      {
+        "word": "losing party",
+        "translation": "敗訴当事者"
+      },
+      {
+        "word": "specific action",
+        "translation": "特定の作為"
+      },
+      {
+        "word": "to satisfy the claim",
+        "translation": "請求を充足する"
+      },
+      {
+        "word": "movable property",
+        "translation": "動産"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Motion for Recusal",
+    "definition": "A formal application filed by a party to the court requesting that a judge be removed from a specific case on the grounds that there is reasonable suspicion regarding the judge's impartiality.",
+    "japaneseDefinition": "裁判官について、公正な裁判を妨げるおそれのある事由が存在するときに、当事者がその裁判官を当該事件から排除するよう求める申立て。",
+    "japaneseWordTranslation": "忌避の申立て (きひのもうしたて)",
+    "legalContext": "Code of Civil Procedure Art. 23 specifies the legitimate grounds for filing a Motion for Recusal (e.g., personal relationship with a party, previous involvement in the dispute).",
+    "japaneseLegalContext": "民事訴訟法第23条（忌避の事由）：当事者は、裁判官について公正な裁判を妨げるべき事情があるときは、忌避の申立てをすることができる。",
+    "exampleSentence": "The defendant filed a **Motion for Recusal** arguing that the presiding judge had previously represented the plaintiff in an unrelated matter.",
+    "exampleTranslation": "被告は、裁判長が以前無関係の事件で原告の代理人を務めていたとして、忌避の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "impartiality",
+        "translation": "公正性"
+      },
+      {
+        "word": "presiding judge",
+        "translation": "裁判長"
+      },
+      {
+        "word": "unrelated matter",
+        "translation": "無関係の事件"
+      },
+      {
+        "word": "legitimate grounds",
+        "translation": "正当な事由"
+      },
+      {
+        "word": "suspicion",
+        "translation": "疑い"
+      },
+      {
+        "word": "to be removed",
+        "translation": "排除される"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statement of Facts",
+    "definition": "The formal written or verbal presentation by a litigant detailing the specific facts upon which they rely to support their claims or defenses in court.",
+    "japaneseDefinition": "訴訟において、当事者が自己の主張を裏付けるために、法的に意味のある具体的な事実関係を記述すること。",
+    "japaneseWordTranslation": "事実の主張 (じじつのしゅちょう)",
+    "legalContext": "The Principle of Party Presentation mandates that the court may only consider facts that have been formally asserted by the parties through the Statement of Facts.",
+    "japaneseLegalContext": "弁論主義: 裁判所は、当事者が主張しない事実を判決の基礎とすることはできないため、当事者による事実の主張が必須とされる。",
+    "exampleSentence": "Insufficient detail in the initial **Statement of Facts** led the opposing counsel to request further clarification regarding the timeline of the alleged injury.",
+    "exampleTranslation": "当初の事実の主張における詳細不足により、相手方訴訟代理人は、申し立てられた損害発生の時系列に関するさらなる釈明を求めた。",
+    "vocabularyList": [
+      {
+        "word": "litigant",
+        "translation": "訴訟当事者"
+      },
+      {
+        "word": "Principle of Party Presentation",
+        "translation": "弁論主義"
+      },
+      {
+        "word": "opposing counsel",
+        "translation": "相手方訴訟代理人"
+      },
+      {
+        "word": "clarification",
+        "translation": "釈明"
+      },
+      {
+        "word": "to rely on",
+        "translation": "依拠する"
+      },
+      {
+        "word": "timeline",
+        "translation": "時系列"
+      }
+    ]
   }
 ]

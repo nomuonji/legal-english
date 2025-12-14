@@ -2,44 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Voluntary Desistance",
-    "definition": "The legal concept under criminal law where an offender voluntarily abandons the completion of an attempted crime or takes active steps to prevent the harmful result, leading to potential mitigation or remission of punishment.",
-    "japaneseDefinition": "犯罪の実行に着手した後、行為者が自己の意思により、実行を中止するか、または結果の発生を防止する積極的な行為をとった場合に、刑が減軽または免除される制度。",
-    "japaneseWordTranslation": "中止犯 (ちゅうしはん)",
-    "legalContext": "Penal Code, Art. 43 (Attempted Crime): If a person voluntarily desists from the execution of the crime, the punishment shall be mitigated or remitted.",
-    "japaneseLegalContext": "刑法第43条（未遂罪）：自己の意思により犯罪の実行を中止したときは、その刑を減軽し、又は免除する。",
-    "exampleSentence": "The defense attorney argued that the suspect qualified for voluntary desistance because he called emergency services immediately after inflicting the injury.",
-    "exampleTranslation": "弁護人は、被疑者が傷害を与えた直後に緊急通報を行ったため、中止犯に該当すると主張した。",
-    "vocabularyList": [
-      {
-        "word": "desistance",
-        "translation": "中止"
-      },
-      {
-        "word": "attempted crime",
-        "translation": "未遂罪"
-      },
-      {
-        "word": "mitigated",
-        "translation": "減軽された"
-      },
-      {
-        "word": "remitted",
-        "translation": "免除された"
-      },
-      {
-        "word": "execution of the crime",
-        "translation": "犯罪の実行"
-      },
-      {
-        "word": "inflicting injury",
-        "translation": "傷害を与えること"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Concurrent Offenses",
     "definition": "A legal situation where a person has committed two or more separate offenses for which a judgment has not yet become final, requiring the court to determine the appropriate method for combining the punishments.",
     "japaneseDefinition": "確定裁判を経ていない二個以上の罪を犯した者がいる場合に、それらの罪に対する刑罰をどのように合算・調整して科すかを定める制度。",
@@ -3226,6 +3188,120 @@
       {
         "word": "Primary offense",
         "translation": "主たる罪"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Suspension of Execution of Sentence",
+    "definition": "A judicial decision to postpone the enforcement of a declared sentence (imprisonment or fine), provided the offender remains law-abiding during a specified probationary period. If the period passes without further crime, the sentence declaration loses its effect.",
+    "japaneseDefinition": "懲役、禁錮、または罰金の言渡しについて、その刑の執行を一定期間猶予し、猶予期間中に新たな罪を犯さなければ、刑の言渡しが効力を失う制度。",
+    "japaneseWordTranslation": "執行猶予 (しっこうゆうよ)",
+    "legalContext": "Criminal Code Art. 25(1): 'If a sentence of imprisonment with labor or imprisonment without labor for not more than three years, or a sentence of a fine not exceeding 500,000 yen is pronounced, the execution of the sentence may be suspended...'",
+    "japaneseLegalContext": "刑法第25条第1項: 3年以下の懲役若しくは禁錮又は50万円以下の罰金の言渡しをしたときは、情状により、期間を定めて、その執行を猶予することができる。",
+    "exampleSentence": "The defendant, a first-time offender, was granted a three-year **suspension of execution of sentence** contingent upon participation in mandated community service.",
+    "exampleTranslation": "初犯の被告人は、裁判所から義務付けられた社会奉仕活動への参加を条件に、3年間の**執行猶予**を言い渡された。",
+    "vocabularyList": [
+      {
+        "word": "enforcement",
+        "translation": "執行"
+      },
+      {
+        "word": "probationary period",
+        "translation": "猶予期間"
+      },
+      {
+        "word": "contingent upon",
+        "translation": "～を条件として"
+      },
+      {
+        "word": "first-time offender",
+        "translation": "初犯者"
+      },
+      {
+        "word": "mandated",
+        "translation": "義務付けられた"
+      },
+      {
+        "word": "community service",
+        "translation": "社会奉仕活動"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Instigation",
+    "definition": "The act of intentionally causing another person to form the intent to commit a specific crime, leading to the principal offender's execution of that crime. The instigator is punished as a principal.",
+    "japaneseDefinition": "他人をそそのかして犯罪を実行する決意を生じさせ、その実行行為をさせた場合に成立する共同正犯的な関与形態。",
+    "japaneseWordTranslation": "教唆 (きょうさ)",
+    "legalContext": "Criminal Code Art. 61(1): 'A person who instigates another person to commit a crime shall be dealt with in the same manner as a principal offender.'",
+    "japaneseLegalContext": "刑法第61条第1項: 人を教唆して犯罪を実行させた者は、正犯の刑を科する。",
+    "exampleSentence": "The prosecutor argued that the accused, who supplied the getaway vehicle and planned the route, was guilty of **instigation** rather than mere assistance.",
+    "exampleTranslation": "検察官は、逃走車両を提供し、経路を計画した被告人が、単なる幇助ではなく**教唆**の罪を犯したと主張した。",
+    "vocabularyList": [
+      {
+        "word": "principal offender",
+        "translation": "正犯"
+      },
+      {
+        "word": "execution of the crime",
+        "translation": "犯罪の実行"
+      },
+      {
+        "word": "getaway vehicle",
+        "translation": "逃走車両"
+      },
+      {
+        "word": "mere assistance",
+        "translation": "単なる幇助"
+      },
+      {
+        "word": "dealt with",
+        "translation": "処罰される"
+      },
+      {
+        "word": "form the intent",
+        "translation": "決意を生じさせる"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Counterfeiting of Currency",
+    "definition": "The act of imitating or manufacturing false coins or notes intended for circulation as genuine legal tender, or the alteration of existing currency with the intent to deceive (Crimes Relating to Currency).",
+    "japaneseDefinition": "行使の目的をもって、通用する貨幣、紙幣又は銀行券を偽造し、または変造する行為。これは通貨に関する罪として規定されている。",
+    "japaneseWordTranslation": "通貨偽造 (つうかぎぞう)",
+    "legalContext": "Criminal Code Art. 148(1): 'A person who counterfeits or alters currency shall be punished by imprisonment for life or for a definite term of not less than three years.'",
+    "japaneseLegalContext": "刑法第148条第1項: 行使の目的で、通用する貨幣、紙幣又は銀行券を偽造し、又は変造した者は、無期又は三年以上の懲役に処する。",
+    "exampleSentence": "The arrest was made following an international investigation into a highly organized syndicate involved in the large-scale **counterfeiting of currency**.",
+    "exampleTranslation": "大規模な**通貨偽造**に関与する高度に組織化されたシンジケートに対する国際捜査の結果、逮捕が行われた。",
+    "vocabularyList": [
+      {
+        "word": "legal tender",
+        "translation": "法定通貨"
+      },
+      {
+        "word": "intended for circulation",
+        "translation": "通用させる目的で"
+      },
+      {
+        "word": "alteration",
+        "translation": "変造"
+      },
+      {
+        "word": "syndicate",
+        "translation": "シンジケート（犯罪組織）"
+      },
+      {
+        "word": "imprisonment for life",
+        "translation": "無期懲役"
+      },
+      {
+        "word": "large-scale",
+        "translation": "大規模な"
       }
     ]
   }

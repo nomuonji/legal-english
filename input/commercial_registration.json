@@ -3306,5 +3306,127 @@
         "translation": "却下される (きゃっかされる)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Corporate Domicile",
+    "definition": "The official and legally registered location of a company's principal office (headquarters), which determines the jurisdiction for certain legal proceedings and must be recorded in the commercial register.",
+    "japaneseDefinition": "会社の主たる事務所（本店）の所在地。商業登記法に基づき必ず登記されるべき事項の一つであり、会社の事業活動の中心となる場所を指す。",
+    "japaneseWordTranslation": "本店所在地 (ほんてんしょざいち)",
+    "legalContext": "Commercial Registration Act Art. 9: Requirements for the registration of establishment, including the registration of the location of the principal office.",
+    "japaneseLegalContext": "商業登記法第9条：会社の設立の登記において、本店所在地を登記しなければならない旨を規定する。",
+    "exampleSentence": "The board approved the plan to relocate the **Corporate Domicile**, necessitating a subsequent registration filing within two weeks of the move.",
+    "exampleTranslation": "取締役会は、本店所在地を移転する計画を承認したため、移転後二週間以内に変更登記を申請する必要がある。",
+    "vocabularyList": [
+      {
+        "word": "principal office",
+        "translation": "主たる事務所 (しゅたるじむしょ)"
+      },
+      {
+        "word": "relocate",
+        "translation": "移転する (いてんする)"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄 (かんかつ)"
+      },
+      {
+        "word": "subsequent registration",
+        "translation": "事後の登記 (じごのとうき)"
+      },
+      {
+        "word": "registration filing",
+        "translation": "登記申請 (とうきしんせい)"
+      },
+      {
+        "word": "board",
+        "translation": "取締役会 (とりしまりやくかい)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Registration",
+    "definition": "The legal requirement for a company or commercial entity to record certain prescribed changes (such as the election or retirement of officers, or changes in capital) within a statutorily defined period.",
+    "japaneseDefinition": "法律により、会社の設立や重要事項の変更（役員の就任・退任、資本の変更など）が生じた場合に、一定期間内に登記を行うことが義務付けられていること。",
+    "japaneseWordTranslation": "義務的登記 (ぎむてきとうき)",
+    "legalContext": "Commercial Registration Act Art. 14: Stipulates the specific period for registration, typically two weeks from the occurrence of the registered event.",
+    "japaneseLegalContext": "商業登記法第14条：登記すべき事項が生じた日から二週間以内にその登記をしなければならないと定める。",
+    "exampleSentence": "Failure to fulfill the requirement of **Mandatory Registration** for the issuance of new shares within the specified timeframe subjects the company's representative to potential penalties.",
+    "exampleTranslation": "新株発行に対する義務的登記を所定の期間内に履行しなかった場合、会社の代表者は罰則の対象となる。",
+    "vocabularyList": [
+      {
+        "word": "prescribed changes",
+        "translation": "所定の変更 (しょていのへんこう)"
+      },
+      {
+        "word": "election of officers",
+        "translation": "役員の選任 (やくいんのせんにん)"
+      },
+      {
+        "word": "statutorily defined period",
+        "translation": "法令で定められた期間 (ほうれいでさだめられたきかん)"
+      },
+      {
+        "word": "issuance of new shares",
+        "translation": "新株発行 (しんかぶはっこう)"
+      },
+      {
+        "word": "specified timeframe",
+        "translation": "特定された期間 (とくていされたきかん)"
+      },
+      {
+        "word": "subject to penalties",
+        "translation": "罰則の対象となる (ばっそくのたいしょうとなる)"
+      },
+      {
+        "word": "representatives",
+        "translation": "代表者 (だいひょうしゃ)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Opposability against Third Parties",
+    "definition": "The principle that matters required to be registered in the commercial register, even if true internally, cannot be asserted against a third party who acted in good faith and was unaware of the change, until the official registration is complete.",
+    "japaneseDefinition": "登記すべき事項が登記されていない場合、会社はその事実を善意の第三者に対して主張できないという効力（商業登記法の根幹をなす対抗力の原則）。",
+    "japaneseWordTranslation": "第三者対抗力 (だいさんしゃたいこうりょく)",
+    "legalContext": "Commercial Registration Act Art. 7: Matters required to be registered cannot be asserted against a third party who acted in good faith, until registration has been completed.",
+    "japaneseLegalContext": "商業登記法第7条：登記すべき事項は、登記した後でなければ、これをもって善意の第三者に対抗することができない。",
+    "exampleSentence": "The appointment of the new representative director, though valid internally, lacks **Opposability against Third Parties** until the necessary registration is finalized in the commercial register.",
+    "exampleTranslation": "新しい代表取締役の選任は、内部的には有効であるものの、商業登記簿に必要な登記が完了するまで、第三者対抗力を持たない。",
+    "vocabularyList": [
+      {
+        "word": "asserted against",
+        "translation": "対抗する (たいこうする)"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者 (だいさんしゃ)"
+      },
+      {
+        "word": "acted in good faith",
+        "translation": "善意で行為した (ぜんいでこういした)"
+      },
+      {
+        "word": "valid internally",
+        "translation": "内部的に有効 (ないぶてきにゆうこう)"
+      },
+      {
+        "word": "representative director",
+        "translation": "代表取締役 (だいひょうとりしまりやく)"
+      },
+      {
+        "word": "commercial register",
+        "translation": "商業登記簿 (しょうぎょうとうきぼ)"
+      },
+      {
+        "word": "finalized",
+        "translation": "確定される (かくていされる)"
+      }
+    ]
   }
 ]

@@ -1,34 +1,38 @@
 {
-  "category": "Deposit Act (供託法)",
+  "category": "Judicial Scrivener Act (司法書士法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Deposit",
-  "definition": "The act of placing money or securities with a Deposit Office to satisfy an obligation, guarantee a right, or for other legal purposes.",
-  "japaneseDefinition": "債務の弁済、権利の担保、その他法律上の目的のために、金銭や有価証券を供託所に預けること。",
-  "japaneseWordTranslation": "供託 (きょうたく)",
-  "legalContext": "Deposit Act Art. 1: Deposits shall be handled by the Legal Affairs Bureau or District Legal Affairs Bureau.",
-  "japaneseLegalContext": "供託法第1条：供託事務は、法務局若しくは地方法務局...が、供託所としてこれを取り扱う。",
-  "exampleSentence": "The tenant made a deposit of the rent with the Legal Affairs Bureau because the landlord refused to accept it.",
-  "exampleTranslation": "家主が受領を拒否したため、借家人は家賃を法務局に供託した。",
+  "word": "Duty of Confidentiality",
+  "definition": "The professional obligation requiring legal practitioners to keep secret any information obtained in the course of their duties concerning their clients or affairs, which persists even after their professional status is retired or revoked.",
+  "japaneseDefinition": "業務に関して知り得た依頼者その他の関係者の秘密を漏らしてはならないという職業上の義務。この義務は、業務を退いた後も存続する。",
+  "japaneseWordTranslation": "守秘義務 (しゅひぎむ)",
+  "legalContext": "Judicial Scrivener Act, Article 23: 'A practitioner shall not, without justifiable grounds, divulge any secrets concerning a person that came to his or her knowledge in the course of his or her duties.'",
+  "japaneseLegalContext": "司法書士法第23条：「業務上知り得た他人の秘密を正当な理由がなく漏らしてはならない。業務を退いた後も同様とする。」",
+  "exampleSentence": "Violation of the Duty of Confidentiality is grounds for serious disciplinary action under the governing Act.",
+  "exampleTranslation": "守秘義務の違反は、根拠法に基づき重大な懲戒処分の対象となる。",
   "vocabularyList": [
     {
-      "word": "Obligation",
-      "translation": "債務"
+      "word": "divulge",
+      "translation": "漏らす"
     },
     {
-      "word": "Guarantee",
-      "translation": "担保する"
+      "word": "justifiable grounds",
+      "translation": "正当な理由"
     },
     {
-      "word": "Refuse",
-      "translation": "拒否する"
+      "word": "in the course of his or her duties",
+      "translation": "業務上"
     },
     {
-      "word": "Accept",
-      "translation": "受領する"
+      "word": "violation",
+      "translation": "違反"
     },
     {
-      "word": "Tenant",
-      "translation": "借家人"
+      "word": "governing Act",
+      "translation": "根拠法"
+    },
+    {
+      "word": "persists",
+      "translation": "存続する"
     }
   ]
 }

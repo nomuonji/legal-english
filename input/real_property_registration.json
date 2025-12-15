@@ -3292,5 +3292,81 @@
         "translation": "物理的な変更"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Certificate Information",
+    "definition": "The unique 12-digit sequence of alphanumeric characters provided by the Registry Office to the applicant upon completion of certain registrations, serving as proof of title for subsequent transfers or encumbrances.",
+    "japaneseDefinition": "法務局から申請人に交付される、12桁の英数字からなる固有の符号。特定の登記の完了時に発行され、その後の権利の移転や設定を申請する際の権利者であることを証明するために用いられる。",
+    "japaneseWordTranslation": "登記識別情報 (とうきしきべつじょうほう)",
+    "legalContext": "Real Property Registration Act Art. 21 (Requirement for provision of registration certificate information)",
+    "japaneseLegalContext": "不動産登記法第21条 (登記識別情報の提供)",
+    "exampleSentence": "When selling a structure, the registered owner must provide the **Registration Certificate Information** to the Registry Office as a condition for the transfer registration.",
+    "exampleTranslation": "建物を売却する際、登記名義人は移転登記の要件として、登記識別情報を法務局に提供しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "alphanumeric characters",
+        "translation": "英数字"
+      },
+      {
+        "word": "Registry Office",
+        "translation": "法務局"
+      },
+      {
+        "word": "applicant",
+        "translation": "申請人"
+      },
+      {
+        "word": "proof of title",
+        "translation": "権利の証明"
+      },
+      {
+        "word": "encumbrances",
+        "translation": "負担/担保設定"
+      },
+      {
+        "word": "subsequent",
+        "translation": "その後の"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Seal Certificate",
+    "definition": "A document issued by a local government office proving the authenticity of a registered personal seal (Jitsuin), which is mandatorily required for the registration of critical rights changes, such as the setting or cancellation of a security interest.",
+    "japaneseDefinition": "地方公共団体の長が発行する文書で、登録された実印の真正性を証明するもの。担保権の設定や抹消など、重要な権利変更の登記申請において提出が義務付けられている。",
+    "japaneseWordTranslation": "印鑑証明書 (いんかんしょうめいしょ)",
+    "legalContext": "Real Property Registration Rule Art. 48 (Requirement for seal certificate)",
+    "japaneseLegalContext": "不動産登記規則第48条 (印鑑証明書)",
+    "exampleSentence": "If a private corporation is the party applying for the cancellation of a security interest, a **Registration Seal Certificate** for the representative must be attached to the application documents.",
+    "exampleTranslation": "私企業が担保権の抹消を申請する当事者である場合、代表者の印鑑証明書が申請書類に添付されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "local government office",
+        "translation": "地方公共団体"
+      },
+      {
+        "word": "authenticity",
+        "translation": "真正性"
+      },
+      {
+        "word": "registered personal seal",
+        "translation": "登録された実印"
+      },
+      {
+        "word": "mandatorily required",
+        "translation": "義務付けられている"
+      },
+      {
+        "word": "private corporation",
+        "translation": "私企業"
+      },
+      {
+        "word": "attached to",
+        "translation": "～に添付された"
+      }
+    ]
   }
 ]

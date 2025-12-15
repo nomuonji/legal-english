@@ -3558,5 +3558,139 @@
         "translation": "決定"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Specification of the Preservation Target",
+    "definition": "The formal identification and legal delimitation of the specific property or legal status that is subjected to the preservation measure (e.g., the exact bank account, parcel of land, or specific conduct being enjoined).",
+    "japaneseDefinition": "保全命令の効力が及ぶべき、特定の財産または法律上の地位を明確に定めること。",
+    "japaneseWordTranslation": "保全の対象の特定 (ほぜんのたいしょうのとくてい)",
+    "legalContext": "Civil Preservation Act, Art. 4: The preservation order must specify the claim to be preserved and the extent of the measure.",
+    "japaneseLegalContext": "民事保全法 第4条: 保全命令は、保全すべき権利及び保全処分の内容を特定しなければならない。",
+    "exampleSentence": "The court issued an order requiring the **Specification of the Preservation Target** to ensure the injunction did not unduly affect the debtor's operational assets.",
+    "exampleTranslation": "裁判所は、差止命令が債務者の営業資産に不当に影響を与えないよう、保全の対象の特定を命じた。",
+    "vocabularyList": [
+      {
+        "word": "order",
+        "translation": "命令"
+      },
+      {
+        "word": "injunction",
+        "translation": "差止命令"
+      },
+      {
+        "word": "operational assets",
+        "translation": "営業資産"
+      },
+      {
+        "word": "scope",
+        "translation": "範囲"
+      },
+      {
+        "word": "unduly",
+        "translation": "不当に"
+      },
+      {
+        "word": "delimitation",
+        "translation": "境界確定"
+      },
+      {
+        "word": "subjected",
+        "translation": "付される"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligation to Initiate Substantive Proceedings",
+    "definition": "The requirement that a preservation obligee, having obtained a preservation order, must formally file the corresponding primary lawsuit (action on the merits) within a court-specified period to uphold the preservation.",
+    "japaneseDefinition": "保全命令を得た債権者が、その保全の効力を維持するために、定められた期間内に、本件の権利を確定するための訴訟（本案訴訟）を提起しなければならない義務。",
+    "japaneseWordTranslation": "本案訴訟提起義務 (ほんあんそしょうていぎぎむ)",
+    "legalContext": "Civil Preservation Act, Art. 37 (1): When the court designates a period, the obligee must initiate the principal action within that period.",
+    "japaneseLegalContext": "民事保全法 第37条第1項: 裁判所が期間を定めたときは、債権者は、その期間内に本案の訴えを提起しなければならない。",
+    "exampleSentence": "Failure to fulfill the **Obligation to Initiate Substantive Proceedings** resulted in the automatic nullification of the protective attachment.",
+    "exampleTranslation": "本案訴訟提起義務の履行を怠った結果、保全差押えは自動的に無効化された。",
+    "vocabularyList": [
+      {
+        "word": "nullification",
+        "translation": "無効化"
+      },
+      {
+        "word": "protective attachment",
+        "translation": "保全差押え"
+      },
+      {
+        "word": "court-specified",
+        "translation": "裁判所が定めた"
+      },
+      {
+        "word": "primary lawsuit",
+        "translation": "本訴訟"
+      },
+      {
+        "word": "upholds",
+        "translation": "維持する"
+      },
+      {
+        "word": "formally file",
+        "translation": "正式に申し立てる"
+      },
+      {
+        "word": "corresponding",
+        "translation": "対応する"
+      },
+      {
+        "word": "failure to fulfill",
+        "translation": "履行を怠る"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Discharge Based on Lapsed Preservation Grounds",
+    "definition": "A mechanism allowing the preservation debtor to petition the court to cancel a preservation order when the necessity for the preservation measure no longer exists (e.g., the obligor's financial situation has stabilized or the secured asset is sufficient).",
+    "japaneseDefinition": "保全命令の根拠となる状況（保全の必要性）が失われた場合に、債務者が裁判所に対してその命令の解除を申し立てる手続き。",
+    "japaneseWordTranslation": "保全事由消滅による解放 (ほぜんじゆうしょうめつによるかいほう)",
+    "legalContext": "Civil Preservation Act, Art. 42 (1): The preservation court shall revoke the preservation order upon motion if the grounds for preservation cease to exist.",
+    "japaneseLegalContext": "民事保全法 第42条第1項: 保全裁判所は、保全すべき事由が消滅したときは、申立てにより、保全命令を取り消さなければならない。",
+    "exampleSentence": "The debtor successfully argued for the **Discharge Based on Lapsed Preservation Grounds** after proving the claim was adequately collateralized by new assets.",
+    "exampleTranslation": "債務者は、債権が新たな資産により十分担保されていることを証明した後、保全事由消滅による解放を求めて成功した。",
+    "vocabularyList": [
+      {
+        "word": "mechanism",
+        "translation": "仕組み"
+      },
+      {
+        "word": "petition",
+        "translation": "申し立てる"
+      },
+      {
+        "word": "collateralized",
+        "translation": "担保された"
+      },
+      {
+        "word": "revoke",
+        "translation": "取り消す"
+      },
+      {
+        "word": "cease to exist",
+        "translation": "消滅する"
+      },
+      {
+        "word": "adequately",
+        "translation": "十分な"
+      },
+      {
+        "word": "stabilized",
+        "translation": "安定した"
+      },
+      {
+        "word": "new assets",
+        "translation": "新たな資産"
+      }
+    ]
   }
 ]

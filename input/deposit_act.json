@@ -3398,5 +3398,119 @@
         "translation": "安全管理"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cancellation of Deposit Application",
+    "definition": "The formal administrative denial or rejection of a request to deposit assets, executed by the administrator of the designated institution, typically due to failure to meet legal formalities, procedural requirements, or lack of proper jurisdiction.",
+    "japaneseDefinition": "供託申請に際し、法令上の形式または手続要件の不備、あるいは管轄違いを理由として、供託官がその申請を正式に拒否すること。",
+    "japaneseWordTranslation": "供託申請の却下 (きょうたくしんせいのきゃっか)",
+    "legalContext": "Deposit Act Art. 9: Stipulates that the deposit administrator must reject an application if it is deemed non-compliant with legal provisions.",
+    "japaneseLegalContext": "供託法第9条: 供託官は、供託が法令の規定に違反すると認めるときは、当該供託を却下しなければならない。",
+    "exampleSentence": "The Deposit Administrator issued a cancellation of deposit application after determining that the submitted documentation lacked necessary affidavits regarding the creditor's location.",
+    "exampleTranslation": "供託官は、提出された書類に債権者の所在に関する必要な宣誓供述書が不足していると判断した後、供託申請の却下を決定した。",
+    "vocabularyList": [
+      {
+        "word": "administrator",
+        "translation": "供託官"
+      },
+      {
+        "word": "formal denial",
+        "translation": "正式な拒否"
+      },
+      {
+        "word": "legal formalities",
+        "translation": "法令上の形式"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄"
+      },
+      {
+        "word": "affidavits",
+        "translation": "宣誓供述書"
+      },
+      {
+        "word": "non-compliance",
+        "translation": "不備"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Obligation to Deposit",
+    "definition": "A mandatory requirement, typically imposed by the Civil Code or other specific legislation, compelling a party to consign money or assets to a designated repository to effect discharge of an underlying duty, often when tender of performance is rejected or impossible.",
+    "japaneseDefinition": "民法やその他の特別法によって課せられる、特定の債務の履行を完了するため、金銭または物件を指定された場所に預け入れることを義務付ける強制的な要件。",
+    "japaneseWordTranslation": "供託義務 (きょうたくぎむ)",
+    "legalContext": "Civil Code Art. 494: Provides that when the creditor refuses to accept performance or is unable to accept it, the debtor may be relieved of their obligation by depositing the subject matter of the performance.",
+    "japaneseLegalContext": "民法第494条: 債権者が履行の受領を拒んだとき、又はこれを受領することができないときは、債務者は、その給付の目的物を供託することにより、その債務を免れることができる。",
+    "exampleSentence": "If the landlord persistently refuses to accept rent payment, the lessee satisfies their statutory obligation to deposit the funds to prevent breach of contract.",
+    "exampleTranslation": "賃貸人が継続的に賃料の受領を拒否する場合、賃借人は契約違反を防ぐために、その資金を供託する法的な供託義務を履行する。",
+    "vocabularyList": [
+      {
+        "word": "mandatory requirement",
+        "translation": "強制的な要件"
+      },
+      {
+        "word": "lessee",
+        "translation": "賃借人"
+      },
+      {
+        "word": "discharge of an underlying duty",
+        "translation": "基礎となる義務の解除"
+      },
+      {
+        "word": "tender of performance",
+        "translation": "履行の提供"
+      },
+      {
+        "word": "prevent breach",
+        "translation": "違反を防ぐ"
+      },
+      {
+        "word": "specific legislation",
+        "translation": "特別法"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Public Notification of Deposit",
+    "definition": "The formal announcement made by the deposit administrator in cases where the deposit is made due to the uncertainty, unknown identity, or whereabouts of the person entitled to receive the assets, serving to inform potential right holders.",
+    "japaneseDefinition": "供託された物件を受け取る権限を持つ者の身元や所在が不明確であるために供託が行われた場合に、供託官が実施する正式な周知手続き。潜在的な権利者に情報提供する目的がある。",
+    "japaneseWordTranslation": "供託の公告 (きょうたくのこうこく)",
+    "legalContext": "Deposit Act Implementation Regulations: Define the requirements and methodology for making official announcements of consignment, especially regarding notification to interested parties.",
+    "japaneseLegalContext": "供託法施行規則: 供託に関する正式な公告を行うための要件及び方法を定めており、特に利害関係人に対する通知について規定する。",
+    "exampleSentence": "Following the public notification of deposit, any potential claimant has a set period to submit documentary proof to the administrator establishing their right to recovery of assets.",
+    "exampleTranslation": "供託の公告後、潜在的な請求権者は、資産の回復に対する権利を確立するための書類上の証拠を供託官に提出する一定期間が与えられる。",
+    "vocabularyList": [
+      {
+        "word": "formal announcement",
+        "translation": "正式な周知"
+      },
+      {
+        "word": "uncertainty",
+        "translation": "不明確さ"
+      },
+      {
+        "word": "whereabouts",
+        "translation": "所在"
+      },
+      {
+        "word": "potential claimant",
+        "translation": "潜在的な請求権者"
+      },
+      {
+        "word": "right holder",
+        "translation": "権利者"
+      },
+      {
+        "word": "recovery of assets",
+        "translation": "物件の回復"
+      }
+    ]
   }
 ]

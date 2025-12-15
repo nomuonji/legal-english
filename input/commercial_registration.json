@@ -3542,5 +3542,131 @@
         "translation": "正式化された"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Formal Examination (of Registration Application)",
+    "definition": "The principle under commercial registration law where the registrar is only authorized to review whether the application documents and accompanying materials meet the formal statutory requirements, without investigating the substantive truth or validity of the underlying facts.",
+    "japaneseDefinition": "商業登記において、登記官が提出された申請書類及び添付書類が法令上の形式的な要件を満たしているかのみを審査し、実体的な事実の真否を審査しない原則。",
+    "japaneseWordTranslation": "形式審査 (けいしきしんさ)",
+    "legalContext": "Commercial Registration Act (商業登記法), implicitly through rejection grounds (Art. 25).",
+    "japaneseLegalContext": "商業登記法 第25条 (却下事由) 等に内在する原則。",
+    "exampleSentence": "Due to the formal examination principle, the registrar cannot reject an application solely because the directors' resolution appears commercially unwise, provided the procedures were formally correct.",
+    "exampleTranslation": "形式審査の原則により、手続きが形式的に正しければ、たとえ取締役の決議が商業的に不適切に見えても、登記官は申請を却下することはできない。",
+    "vocabularyList": [
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "reject",
+        "translation": "却下する"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
+      },
+      {
+        "word": "resolution",
+        "translation": "決議"
+      },
+      {
+        "word": "commercially unwise",
+        "translation": "商業的に不適切な"
+      },
+      {
+        "word": "formally correct",
+        "translation": "形式的に正しい"
+      },
+      {
+        "word": "statutory requirements",
+        "translation": "法令上の要件"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Certificate of Seal Impression",
+    "definition": "A certificate issued by the registry office verifying the authenticity of the seal (Inkan) officially registered by a company representative (such as a Representative Director), mandatory for certain key registration applications.",
+    "japaneseDefinition": "登記所に登録された代表者（例：代表取締役）などの印影の真正性を証明するために交付される証明書。特定の重要な登記申請において添付が義務付けられている。",
+    "japaneseWordTranslation": "印鑑証明書 (いんかんしょうめいしょ)",
+    "legalContext": "Commercial Registration Act Art. 26 (Requirements for Application) and related Ministerial Ordinances.",
+    "japaneseLegalContext": "商業登記法 第26条 (申請に必要な添付書面) 及び関連する法務省令。",
+    "exampleSentence": "The registration certificate of seal impression must be attached to the application for the appointment of a new representative director to confirm the authenticity of the retiring representative’s registered seal.",
+    "exampleTranslation": "新代表取締役の選任申請には、退任する代表者の登録印鑑の真正性を確認するため、印鑑証明書を添付しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "attached to",
+        "translation": "添付される"
+      },
+      {
+        "word": "authenticity",
+        "translation": "真正性"
+      },
+      {
+        "word": "registry office",
+        "translation": "登記所"
+      },
+      {
+        "word": "seal",
+        "translation": "印鑑"
+      },
+      {
+        "word": "representative director",
+        "translation": "代表取締役"
+      },
+      {
+        "word": "retiring representative",
+        "translation": "退任する代表者"
+      },
+      {
+        "word": "mandatory",
+        "translation": "義務的な"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Application Principle (Registration requires application)",
+    "definition": "The foundational rule in Japanese Commercial Registration Law requiring that all entries, amendments, or deletions in the commercial register must be initiated by an application filed by the company or specific applicant, rather than being carried out ex officio by the registrar.",
+    "japaneseDefinition": "商業登記の基本原則であり、登記簿への記載、変更、抹消は、登記官の職権ではなく、会社または特定の申請人からの申請によって開始されなければならないとするもの。",
+    "japaneseWordTranslation": "申請主義 (しんせいしゅぎ)",
+    "legalContext": "Commercial Registration Act Art. 17 (Requirement of Application).",
+    "japaneseLegalContext": "商業登記法 第17条 (申請の要件)。",
+    "exampleSentence": "According to the application principle, even if the board of directors resolves to change the corporate domicile, the change will not take legal effect until the company files the necessary registration application.",
+    "exampleTranslation": "申請主義によれば、たとえ取締役会が会社の本店所在地を変更する決議をしたとしても、会社が必要な登記申請を行うまで、その変更は法的効力を生じない。",
+    "vocabularyList": [
+      {
+        "word": "foundational rule",
+        "translation": "基本原則"
+      },
+      {
+        "word": "entries",
+        "translation": "記載事項"
+      },
+      {
+        "word": "amendments",
+        "translation": "変更"
+      },
+      {
+        "word": "commercial register",
+        "translation": "商業登記簿"
+      },
+      {
+        "word": "ex officio",
+        "translation": "職権で"
+      },
+      {
+        "word": "corporate domicile",
+        "translation": "本店所在地"
+      },
+      {
+        "word": "legal effect",
+        "translation": "法的効力"
+      }
+    ]
   }
 ]

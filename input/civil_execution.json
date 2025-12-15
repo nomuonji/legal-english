@@ -3650,5 +3650,119 @@
         "translation": "それぞれの債権"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Collection Right",
+    "definition": "The statutory right granted to an execution obligee who has seized a monetary claim, allowing them to directly receive payment of that claim from the third party debtor (garnishee) upon maturity.",
+    "japaneseDefinition": "債権差押えを行った債権者が、差押えに係る金銭債権を、第三債務者から直接取り立てることを認める法律上の権利。",
+    "japaneseWordTranslation": "取立権 (とりたてけん)",
+    "legalContext": "Civil Execution Law Art. 155, Paragraph 1: 'If a seizure order is issued, the execution obligee may collect the seized claim...'",
+    "japaneseLegalContext": "民事執行法第155条第1項: 「差押命令が発せられたときは、差押債権者は、差し押さえられた債権を取り立てることができる。」",
+    "exampleSentence": "The execution obligee exercised the **Collection Right** against the financial institution immediately after the seized deposit matured.",
+    "exampleTranslation": "債権者は、差し押さえられた預金が満期を迎えた直後に、金融機関に対して取立権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権"
+      },
+      {
+        "word": "execution obligee",
+        "translation": "差押債権者"
+      },
+      {
+        "word": "seizure order",
+        "translation": "差押命令"
+      },
+      {
+        "word": "receive payment",
+        "translation": "弁済を受ける"
+      },
+      {
+        "word": "upon maturity",
+        "translation": "弁済期において"
+      },
+      {
+        "word": "financial institution",
+        "translation": "金融機関"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution for Demolition",
+    "definition": "A form of non-monetary execution utilized to enforce a judgment requiring the removal or destruction of a structure (e.g., a building constructed without authorization) from land, typically carried out by the execution officer.",
+    "japaneseDefinition": "判決に基づき、土地上の建物等の工作物について、執行債務者にその収去（取り壊し）を義務付け、これを執行官が実現する非金銭執行の一種。",
+    "japaneseWordTranslation": "建物の収去執行 (たてもののしゅうきょしっこう)",
+    "legalContext": "Civil Execution Law Art. 169 (Execution on obligations to perform an act or to suffer an act) provides the basis for actions such as Execution for Demolition.",
+    "japaneseLegalContext": "民事執行法第169条（作為又は受忍を目的とする債務の執行）は、建物の収去執行の根拠の一つとなる。",
+    "exampleSentence": "The court granted the landowner's petition for **Execution for Demolition** against the tenant who refused to vacate the property and remove the unauthorized shed.",
+    "exampleTranslation": "裁判所は、不法な物置の撤去を拒否した賃借人に対し、地主の建物の収去執行の申立てを許可した。",
+    "vocabularyList": [
+      {
+        "word": "non-monetary execution",
+        "translation": "非金銭執行"
+      },
+      {
+        "word": "judgment",
+        "translation": "判決"
+      },
+      {
+        "word": "structure",
+        "translation": "工作物"
+      },
+      {
+        "word": "landowner",
+        "translation": "土地所有者"
+      },
+      {
+        "word": "petition",
+        "translation": "申立て"
+      },
+      {
+        "word": "refused to vacate",
+        "translation": "明渡しを拒否した"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Demand for Statement",
+    "definition": "A formal request issued by the execution court to a third party debtor (garnishee) requiring them to state detailed facts regarding the seized claim, such as its existence, amount, and any conditions affecting its performance.",
+    "japaneseDefinition": "執行裁判所が、第三債務者に対し、差し押さえられた債権の存否、金額、弁済期、又はその他の執行に影響を及ぼす事情について、書面にて陳述を求める手続き。",
+    "japaneseWordTranslation": "陳述催告 (ちんじゅつさいこく)",
+    "legalContext": "Civil Execution Law Art. 157, Paragraph 1 specifies that the execution obligee may motion the court for the Demand for Statement when applying for seizure.",
+    "japaneseLegalContext": "民事執行法第157条第1項は、差押債権者が差押えの申立てと同時に陳述催告の申立てをすることができる旨を定める。",
+    "exampleSentence": "Prior to seeking a transfer order for the debt, the execution obligee successfully filed a motion for a **Demand for Statement** to clarify the status of the accounts receivable.",
+    "exampleTranslation": "債務の転付命令を求める前に、執行債権者は、売掛金の状況を明確にするため、陳述催告の申立てを成功させた。",
+    "vocabularyList": [
+      {
+        "word": "third party debtor",
+        "translation": "第三債務者"
+      },
+      {
+        "word": "accounts receivable",
+        "translation": "売掛金"
+      },
+      {
+        "word": "status of the claim",
+        "translation": "債権の状況"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "seized claim",
+        "translation": "差し押さえられた債権"
+      }
+    ]
   }
 ]

@@ -2,44 +2,6 @@
   {
     "category": "Judicial Scrivener Act (司法書士法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Duty of Confidentiality",
-    "definition": "The professional obligation requiring legal practitioners to keep secret any information obtained in the course of their duties concerning their clients or affairs, which persists even after their professional status is retired or revoked.",
-    "japaneseDefinition": "業務に関して知り得た依頼者その他の関係者の秘密を漏らしてはならないという職業上の義務。この義務は、業務を退いた後も存続する。",
-    "japaneseWordTranslation": "守秘義務 (しゅひぎむ)",
-    "legalContext": "Judicial Scrivener Act, Article 23: 'A practitioner shall not, without justifiable grounds, divulge any secrets concerning a person that came to his or her knowledge in the course of his or her duties.'",
-    "japaneseLegalContext": "司法書士法第23条：「業務上知り得た他人の秘密を正当な理由がなく漏らしてはならない。業務を退いた後も同様とする。」",
-    "exampleSentence": "Violation of the Duty of Confidentiality is grounds for serious disciplinary action under the governing Act.",
-    "exampleTranslation": "守秘義務の違反は、根拠法に基づき重大な懲戒処分の対象となる。",
-    "vocabularyList": [
-      {
-        "word": "divulge",
-        "translation": "漏らす"
-      },
-      {
-        "word": "justifiable grounds",
-        "translation": "正当な理由"
-      },
-      {
-        "word": "in the course of his or her duties",
-        "translation": "業務上"
-      },
-      {
-        "word": "violation",
-        "translation": "違反"
-      },
-      {
-        "word": "governing Act",
-        "translation": "根拠法"
-      },
-      {
-        "word": "persists",
-        "translation": "存続する"
-      }
-    ]
-  },
-  {
-    "category": "Judicial Scrivener Act (司法書士法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Disciplinary Action",
     "definition": "Measures taken against a professional who has violated the governing Act, the rules of their professional association, or committed an act damaging the dignity of their profession. These measures typically include reprimand, suspension of practice, or dismissal.",
     "japaneseDefinition": "法令や所属する会則に違反し、またはその品位を損なう行為をした専門家に対して課される制裁。通常、戒告、業務の停止、または業務の禁止が含まれる。",
@@ -2434,6 +2396,82 @@
       {
         "word": "affiliation",
         "translation": "所属"
+      }
+    ]
+  },
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Scope of Judicial Scrivener Services",
+    "definition": "The legally defined extent of professional activities a Judicial Scrivener is authorized to undertake, primarily encompassing acting as an agent for real property and commercial registration procedures, and drafting documents for courts and public agencies.",
+    "japaneseDefinition": "司法書士が実施を許可されている専門業務の法的範囲。主に不動産及び商業登記の手続代理、並びに裁判所や検察庁等に提出する書類の作成を含む。",
+    "japaneseWordTranslation": "司法書士の業務範囲 (しほうしょしのぎょうむはんい)",
+    "legalContext": "Judicial Scrivener Act Art. 3: Defining the specific services, including agency for registration, document preparation, and limited representation in summary court proceedings.",
+    "japaneseLegalContext": "司法書士法第3条：登記申請の代理、書類作成、及び簡易裁判所における限定的な訴訟代理権を含む特定の業務を定義する。",
+    "exampleSentence": "A Judicial Scrivener must ensure that the requested task falls strictly within the defined **scope of Judicial Scrivener services** to avoid unauthorized legal practice.",
+    "exampleTranslation": "司法書士は、非弁行為を避けるために、依頼された業務が定義された**司法書士の業務範囲**に厳密に含まれることを確認しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "extent of professional activities",
+        "translation": "専門業務の範囲"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      },
+      {
+        "word": "drafting documents",
+        "translation": "書類の作成"
+      },
+      {
+        "word": "unauthorized legal practice",
+        "translation": "非弁行為"
+      },
+      {
+        "word": "authorized to undertake",
+        "translation": "引き受けることを許可されている"
+      },
+      {
+        "word": "commercial registration",
+        "translation": "商業登記"
+      }
+    ]
+  },
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Claim Value Limit",
+    "definition": "The statutory maximum monetary amount (currently 1,400,000 JPY) of the subject matter of a dispute, within which a specially certified Judicial Scrivener is authorized to act as a representative in summary court litigation.",
+    "japaneseDefinition": "認定司法書士が簡易裁判所において代理権を行使できる紛争の目的物に関する法的上限額（現在140万円）。",
+    "japaneseWordTranslation": "請求の価額の制限 (せいきゅうのががくのせいげん)",
+    "legalContext": "Judicial Scrivener Act Art. 3, Para. 1, Item 7: Specifies the 1.4 million JPY limit on the value of the subject matter for certified Judicial Scriveners acting as agents in summary court proceedings.",
+    "japaneseLegalContext": "司法書士法第3条第1項第7号：認定司法書士が簡易裁判所手続の代理人として活動する場合の目的の価額に関する140万円の制限を定める。",
+    "exampleSentence": "The **Claim Value Limit** restricts the type of civil cases that certified Judicial Scriveners can handle as litigation representatives, directing larger disputes to practicing attorneys.",
+    "exampleTranslation": "**請求の価額の制限**は、認定司法書士が訴訟代理人として扱える民事事件の種類を制限し、より大きな紛争を弁護士に委ねるようにしている。",
+    "vocabularyList": [
+      {
+        "word": "statutory maximum",
+        "translation": "法令上の上限"
+      },
+      {
+        "word": "subject matter of a dispute",
+        "translation": "紛争の目的物"
+      },
+      {
+        "word": "specially certified",
+        "translation": "特別に認定された"
+      },
+      {
+        "word": "litigation representatives",
+        "translation": "訴訟代理人"
+      },
+      {
+        "word": "summary court",
+        "translation": "簡易裁判所"
+      },
+      {
+        "word": "practicing attorneys",
+        "translation": "実務を行う弁護士"
       }
     ]
   }

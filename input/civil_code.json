@@ -3634,5 +3634,107 @@
         "translation": "求めた"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Risk Allocation",
+    "definition": "The principle determining which party to a contract bears the loss when performance becomes impossible or property is destroyed due to circumstances not attributable to either party (force majeure).",
+    "japaneseDefinition": "契約の当事者双方の責めに帰すべからざる事由によって、給付の実現が不可能になった場合に、その損失をどちらの当事者が負担するかを定める原則。",
+    "japaneseWordTranslation": "危険負担 (きけんふたん)",
+    "legalContext": "Civil Code Art. 536 (General Rule): If performance becomes impossible due to reasons attributable to neither party, the obligor cannot claim counter-performance.",
+    "japaneseLegalContext": "民法第536条（債務者主義の原則）：当事者双方の責めに帰することができない事由によって債務を履行することができなくなったときは、債務者は、反対給付を受けることができない。",
+    "exampleSentence": "The sale contract failed to specify the rules for **risk allocation** regarding the destruction of the specific chattel, relying instead on the default provisions of the Civil Code.",
+    "exampleTranslation": "その売買契約は特定物の滅失に関する**危険負担**のルールを明記していなかったため、民法のデフォルト規定に依拠することとなった。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者 (saimusha)"
+      },
+      {
+        "word": "counter-performance",
+        "translation": "反対給付 (hantaikyūfu)"
+      },
+      {
+        "word": "attributable to",
+        "translation": "責めに帰すべき (semeni kisubeki)"
+      },
+      {
+        "word": "default provisions",
+        "translation": "既定の規定 (kitei no kitei)"
+      },
+      {
+        "word": "specific chattel",
+        "translation": "特定物 (tokuteibutsu)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preferential Right",
+    "definition": "A statutory security right that grants the holder priority over other creditors in receiving payment from the debtor's specific property or general assets, often established by law to protect specific claims.",
+    "japaneseDefinition": "法律の規定により、債務者の特定の財産または総財産から、他の債権者に先立って自己の債権の弁済を受けることができる権利。",
+    "japaneseWordTranslation": "先取特権 (せんしゅとっけん)",
+    "legalContext": "Civil Code Art. 303: A person who holds a **Preferential Right** is entitled to receive performance in preference to other creditors from the property of the obligor.",
+    "japaneseLegalContext": "民法第303条：先取特権者は、債務者の財産について、他の債権者に先立って自己の債権の弁済を受けることができる。",
+    "exampleSentence": "The contractor exercised its **Preferential Right** over the newly constructed building to secure payment for construction materials and labor costs.",
+    "exampleTranslation": "請負業者は、建築資材と人件費の支払いを確保するため、新築された建物に対する**先取特権**を行使した。",
+    "vocabularyList": [
+      {
+        "word": "statutory security right",
+        "translation": "法定担保権 (hōtei tanpoken)"
+      },
+      {
+        "word": "priority",
+        "translation": "優先 (yūsen)"
+      },
+      {
+        "word": "contractor",
+        "translation": "請負業者 (ukeoigyōsha)"
+      },
+      {
+        "word": "labor costs",
+        "translation": "人件費 (jinkenhi)"
+      },
+      {
+        "word": "general assets",
+        "translation": "総財産 (sōzaisan)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principal Office",
+    "definition": "The main place of business or administration of an association or foundation, which serves as its legal location for jurisdiction and registration purposes under the Civil Code.",
+    "japaneseDefinition": "法人（社団または財団）の業務を統括し、管理する中心的な場所。法人の住所とみなされ、管轄や登記の基準となる。",
+    "japaneseWordTranslation": "主たる事務所 (しゅたるじむしょ)",
+    "legalContext": "Civil Code Art. 22: The domicile of a legal entity shall be the place where its **Principal Office** is located.",
+    "japaneseLegalContext": "民法第22条：法人の住所は、その主たる事務所の所在地にあるものとする。",
+    "exampleSentence": "Any change to the location of the association's **Principal Office** must be registered within two weeks as required by law.",
+    "exampleTranslation": "組合の**主たる事務所**の所在地に変更があった場合は、法律の定めるところにより、2週間以内に登記しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "association/foundation",
+        "translation": "社団または財団 (shadan mata wa zaidan)"
+      },
+      {
+        "word": "legal location",
+        "translation": "法的な所在地 (hōteki na shozaichi)"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄 (kankatsu)"
+      },
+      {
+        "word": "registered",
+        "translation": "登記された (tōki sareta)"
+      },
+      {
+        "word": "administration",
+        "translation": "管理 (kanri)"
+      }
+    ]
   }
 ]

@@ -3512,5 +3512,119 @@
         "translation": "物件の回復"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Extinguishment of Obligation by Deposit",
+    "definition": "The legal effect whereby a debtor is released from their obligation (discharged) upon validly depositing the subject matter of the obligation with the competent deposit office, typically when the creditor refuses or is unable to accept performance.",
+    "japaneseDefinition": "債務者が弁済の目的物を供託所に供託したことにより、その債務から解放される法的な効果。債権者が受領を拒否した場合や、受領することができない場合に生じる。",
+    "japaneseWordTranslation": "供託による債務の消滅 (きょうたくによるさいむのしょうめつ)",
+    "legalContext": "Civil Code Art. 494: If the obligor makes a Consignment, the claim shall be extinguished.",
+    "japaneseLegalContext": "民法第494条：供託がされたときは、債権は、消滅する。",
+    "exampleSentence": "Upon the valid consignment of the principal sum and accrued interest, the debtor achieved Extinguishment of Obligation by Deposit, thereby eliminating further liability.",
+    "exampleTranslation": "元本と発生した利息の有効な供託をもって、債務者は供託による債務の消滅を達成し、それ以上の責任を解消した。",
+    "vocabularyList": [
+      {
+        "word": "Obligor / Debtor",
+        "translation": "債務者 (Saimu-sha)"
+      },
+      {
+        "word": "Principal sum",
+        "translation": "元本 (Ganpon)"
+      },
+      {
+        "word": "Accrued interest",
+        "translation": "発生した利息 (Hassei shita risoku)"
+      },
+      {
+        "word": "Liability",
+        "translation": "責任 (Sekinin)"
+      },
+      {
+        "word": "Consignment",
+        "translation": "供託 (Kyōtaku)"
+      },
+      {
+        "word": "Eliminating",
+        "translation": "解消する (Kaishō suru)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Entitlement to Withdrawal (of Deposit)",
+    "definition": "The right held by the designated person, usually the obligee (creditor) who was the intended recipient of performance, to claim the delivery or payment of the assets deposited with the deposit office.",
+    "japaneseDefinition": "供託所に供託された財産について、指定された者（通常は弁済の相手方であった債権者）がその払渡しや交付を請求する権利。",
+    "japaneseWordTranslation": "供託物の払渡請求権 (きょうたくぶつのはらいだしせいきゅうけん)",
+    "legalContext": "Deposit Act Art. 8: A person who seeks the delivery of the deposited property shall make a request to the deposit office.",
+    "japaneseLegalContext": "供託法第8条：供託物の払渡しを受けようとする者は、供託所に請求しなければならない。",
+    "exampleSentence": "The intended obligee must prove their Entitlement to Withdrawal by submitting a certificate of acceptance of deposit and necessary evidentiary documents.",
+    "exampleTranslation": "意図された債権者は、供託受諾証明書と必要な証拠書類を提出することにより、その払渡請求権を証明しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Intended obligee",
+        "translation": "意図された債権者 (Itosareta saiken-sha)"
+      },
+      {
+        "word": "Prove",
+        "translation": "証明する (Shōmei suru)"
+      },
+      {
+        "word": "Submitting",
+        "translation": "提出すること (Teishutsu suru koto)"
+      },
+      {
+        "word": "Certificate of acceptance",
+        "translation": "受諾証明書 (Jūnō shōmei-sho)"
+      },
+      {
+        "word": "Evidentiary documents",
+        "translation": "証拠書類 (Shōko shorui)"
+      },
+      {
+        "word": "Claim the delivery",
+        "translation": "払渡しを請求する (Haraidashi o seikyū suru)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Guarantee Deposit (Business Operations)",
+    "definition": "A mandatory deposit required by law for specific types of businesses (e.g., those handling customer funds) to provide security against potential future liabilities arising from their business activities, ensuring consumer protection.",
+    "japaneseDefinition": "特定の事業活動（顧客の資金を取り扱う業種など）から生じる将来の責任に対する担保として、法律で義務付けられている供託金。消費者保護を目的とする。",
+    "japaneseWordTranslation": "営業保証供託 (えいぎょうほしょうきょうたく)",
+    "legalContext": "Generally mandated by specialized commercial laws, serving as an indemnification fund for those transacting with the business.",
+    "japaneseLegalContext": "個別の商事関連法によって義務付けられ、当該事業者と取引を行った者のための賠償資金として機能する。",
+    "exampleSentence": "The company was prohibited from commencing its services until it successfully established the required Guarantee Deposit (Business Operations) at the jurisdictional deposit office.",
+    "exampleTranslation": "その会社は、管轄の供託所に義務付けられた営業保証供託を適切に設定するまで、事業の開始を禁じられた。",
+    "vocabularyList": [
+      {
+        "word": "Mandatory",
+        "translation": "義務付けられた (Gimuzukerareta)"
+      },
+      {
+        "word": "Jurisdictional",
+        "translation": "管轄の (Kankatsu no)"
+      },
+      {
+        "word": "Services",
+        "translation": "役務/サービス (Ekumi/Sābisū)"
+      },
+      {
+        "word": "Commencing",
+        "translation": "開始する (Kaishi suru)"
+      },
+      {
+        "word": "Security",
+        "translation": "担保 (Tanpo)"
+      },
+      {
+        "word": "Liabilities",
+        "translation": "責任 (Sekinin)"
+      }
+    ]
   }
 ]

@@ -3758,5 +3758,119 @@
         "translation": "地方裁判所 (chihō saibansho)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Assertion Restriction",
+    "definition": "The legal principle stipulated in the Commercial Registration Act that prevents a party from asserting facts required to be registered but which have not been registered, against a third party acting in good faith.",
+    "japaneseDefinition": "登記を要する事項であって未登記であるものについて、善意の第三者に対してその不登録をもって対抗することを制限する商業登記法の原則。",
+    "japaneseWordTranslation": "対抗制限 (たいこうせいげん)",
+    "legalContext": "Commercial Registration Act (商業登記法) Art. 9: Restrictions on Assertion of Unregistered Matters.",
+    "japaneseLegalContext": "商業登記法第9条：未登記事項の対抗の制限",
+    "exampleSentence": "Since the company failed to register the reduction of capital within the statutory period, they face Assertion Restriction regarding the capital amount against bona fide creditors.",
+    "exampleTranslation": "会社が法定期間内に資本減少の登記を行わなかったため、善意の債権者に対して資本額に関する対抗制限を受けることになる。",
+    "vocabularyList": [
+      {
+        "word": "statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "reduction of capital",
+        "translation": "資本減少"
+      },
+      {
+        "word": "unregistered matters",
+        "translation": "未登記事項"
+      },
+      {
+        "word": "bona fide creditors",
+        "translation": "善意の債権者"
+      },
+      {
+        "word": "fail to register",
+        "translation": "登記を怠る"
+      },
+      {
+        "word": "opposability",
+        "translation": "対抗力"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Fictitious Representative Director",
+    "definition": "A person who was formerly a Representative Director but remains registered as such, and whose acts are deemed binding upon the company with respect to third parties who acted without knowledge of the true facts.",
+    "japaneseDefinition": "辞任等により代表取締役の地位を失ったにもかかわらず、登記上依然として代表取締役として残留している者のこと。善意の第三者に対しては、会社はその者が代表取締役でないことを主張できず、その行為につき責任を負う。",
+    "japaneseWordTranslation": "擬制代表取締役 (ぎせいだいひょうとりしまりやく)",
+    "legalContext": "Commercial Registration Act (商業登記法) Art. 11 (Implied application of Corporation Act Art. 908): Liability arising from registration of untrue facts.",
+    "japaneseLegalContext": "商業登記法第11条（会社法第908条の類推適用）：不実の登記に基づく責任",
+    "exampleSentence": "The company was held liable for the contract executed by the Fictitious Representative Director, as the change in officers had not been duly registered.",
+    "exampleTranslation": "役員の変更が適切に登記されていなかったため、会社は擬制代表取締役が締結した契約について責任を負うことになった。",
+    "vocabularyList": [
+      {
+        "word": "held liable",
+        "translation": "責任を負う"
+      },
+      {
+        "word": "executed the contract",
+        "translation": "契約を締結した"
+      },
+      {
+        "word": "change in officers",
+        "translation": "役員の変更"
+      },
+      {
+        "word": "duly registered",
+        "translation": "適切に登記された"
+      },
+      {
+        "word": "binding upon the company",
+        "translation": "会社を拘束する"
+      },
+      {
+        "word": "remains registered",
+        "translation": "登記に残留している"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Document Certifying the Cause of Registration",
+    "definition": "A necessary document that must accompany a commercial registration application, providing conclusive evidence (such as resolutions or minutes) that the legal or factual cause for the requested entry (e.g., appointment, capital increase) has occurred.",
+    "japaneseDefinition": "商業登記の申請書に添付が義務付けられている書類で、申請の根拠となる登記原因（例：役員選任、増資）が生じたことを証明する議事録や決定書などの情報。",
+    "japaneseWordTranslation": "登記原因証明情報 (とうきげんいんしょうめいじょうほう)",
+    "legalContext": "Commercial Registration Act (商業登記法) Art. 17 (Application mutatis mutandis from Real Property Registration Act Art. 61): Requirement for submission of certification documents.",
+    "japaneseLegalContext": "商業登記法第17条（不動産登記法第61条の準用）：証明情報の提出義務",
+    "exampleSentence": "The registrar rejected the application for the issuance of preferred stock because the accompanying Document Certifying the Cause of Registration lacked the required extraordinary resolution.",
+    "exampleTranslation": "添付された登記原因証明情報に求められる特別決議が欠けていたため、登記官は優先株式発行の申請を却下した。",
+    "vocabularyList": [
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "rejected the application",
+        "translation": "申請を却下した"
+      },
+      {
+        "word": "preferred stock",
+        "translation": "優先株式"
+      },
+      {
+        "word": "accompanying document",
+        "translation": "添付書類"
+      },
+      {
+        "word": "extraordinary resolution",
+        "translation": "特別決議"
+      },
+      {
+        "word": "conclusive evidence",
+        "translation": "決定的な証拠"
+      }
+    ]
   }
 ]

@@ -3676,5 +3676,111 @@
         "translation": "裁判官"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Performance",
+    "definition": "A type of lawsuit seeking a judgment that orders the defendant to perform a specific action, such as payment of money, delivery of goods, or specific performance of a contractual obligation.",
+    "japaneseDefinition": "被告に対し、金銭の支払い、物の引渡し、または債務の履行など、特定の給付を命じる判決を求める訴訟類型。",
+    "japaneseWordTranslation": "給付の訴え (Kyūfu no uttae)",
+    "legalContext": "Code of Civil Procedure Art. 133, Paragraph 2 (Requirement for a claim to be specific, typically satisfied in performance actions).",
+    "japaneseLegalContext": "民事訴訟法第133条第2項 (請求の趣旨を明確にする要求)",
+    "exampleSentence": "The creditor filed an action for performance demanding the defendant pay the outstanding debt of ¥5,000,000 immediately.",
+    "exampleTranslation": "債権者は、被告に対し未払いの債務500万円を直ちに支払うよう求める給付の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "creditor",
+        "translation": "債権者 (saikensha)"
+      },
+      {
+        "word": "outstanding debt",
+        "translation": "未払い債務 (miharai saimu)"
+      },
+      {
+        "word": "specific performance",
+        "translation": "特定履行 (tokutei rikō)"
+      },
+      {
+        "word": "judgment",
+        "translation": "判決 (hanketsu)"
+      },
+      {
+        "word": "to demand",
+        "translation": "要求する (yōkyū suru)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Subjective Joinder of Parties",
+    "definition": "The procedural consolidation of claims involving multiple plaintiffs or multiple defendants in a single lawsuit, permitted when the claims are based on the same factual or legal grounds.",
+    "japaneseDefinition": "複数の原告または複数の被告が関与する請求を一つの訴訟手続で併合すること。請求が共通の事実上または法律上の原因に基づく場合に認められる。",
+    "japaneseWordTranslation": "主観的併合 (Shukanteki heigō)",
+    "legalContext": "Code of Civil Procedure Art. 38 (Conditions under which joinder of multiple parties is permitted in ordinary litigation).",
+    "japaneseLegalContext": "民事訴訟法第38条 (多数当事者の訴訟参加が認められる要件)",
+    "exampleSentence": "Due to the shared tort liability, the plaintiff utilized subjective joinder of parties to sue the primary wrongdoer and the accomplice simultaneously.",
+    "exampleTranslation": "共同の不法行為責任のため、原告は主観的併合を利用し、主たる加害者と共犯者を同時に訴えた。",
+    "vocabularyList": [
+      {
+        "word": "consolidation",
+        "translation": "併合 (heigō)"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告 (genkoku)"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告 (hikoku)"
+      },
+      {
+        "word": "tort liability",
+        "translation": "不法行為責任 (fuhō kōi sekinin)"
+      },
+      {
+        "word": "accomplice",
+        "translation": "共犯者 (kyōhansha)"
+      },
+      {
+        "word": "procedural",
+        "translation": "訴訟手続上の (soshō tetsuzuki-jō no)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Jurisdiction by Agreement (Prorogation)",
+    "definition": "The conferring of jurisdiction upon a specific court by the mutual, written agreement of the parties involved in a potential or existing legal dispute, often referred to as a forum selection clause.",
+    "japaneseDefinition": "将来または既存の紛争について、当事者間の書面による合意に基づいて特定の裁判所に管轄権を専属させること。合意管轄条項とも呼ばれる。",
+    "japaneseWordTranslation": "合意管轄 (Gōi kankatsu)",
+    "legalContext": "Code of Civil Procedure Art. 11 (Stipulation governing jurisdiction established by the agreement of the parties).",
+    "japaneseLegalContext": "民事訴訟法第11条 (当事者の合意による管轄を規定する条項)",
+    "exampleSentence": "The arbitration clause included a provision for exclusive jurisdiction by agreement, naming the Osaka District Court as the sole venue for litigation.",
+    "exampleTranslation": "その仲裁条項には、大阪地方裁判所を唯一の訴訟地とする専属的合意管轄の規定が含まれていた。",
+    "vocabularyList": [
+      {
+        "word": "exclusive jurisdiction",
+        "translation": "専属管轄 (senzoku kankatsu)"
+      },
+      {
+        "word": "provision",
+        "translation": "規定 (kitei)"
+      },
+      {
+        "word": "arbitration clause",
+        "translation": "仲裁条項 (chūsai jōkō)"
+      },
+      {
+        "word": "venue",
+        "translation": "訴訟地 (soshōchi)"
+      },
+      {
+        "word": "written agreement",
+        "translation": "書面による合意 (shomen ni yoru gōi)"
+      }
+    ]
   }
 ]

@@ -3646,5 +3646,127 @@
         "translation": "協力"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Act of Commission",
+    "definition": "A positive, voluntary physical action (a positive movement or exertion of effort) that fulfills the behavioral requirement (actus reus) of a criminal offense, contrasted with an omission.",
+    "japaneseDefinition": "刑罰法規が要求する構成要件的行為を、積極的な身体の動作によって実現すること。不作為（オミッション）と対比される。",
+    "japaneseWordTranslation": "作為 (さくい)",
+    "legalContext": "Criminal Liability Theory: Act of Commission is the fundamental prerequisite for establishing criminal responsibility, requiring a human, voluntary external manifestation.",
+    "japaneseLegalContext": "刑法学: 実行行為の要件。犯罪の成立には、作為または不作為による構成要件該当行為が求められる。",
+    "exampleSentence": "The prosecution argued that the defendant's pulling of the trigger constituted the definitive Act of Commission necessary for the charge of attempted murder.",
+    "exampleTranslation": "検察側は、被告人が引き金を引いた行為が、殺人未遂罪の構成要件を確定的に満たす作為であると主張した。",
+    "vocabularyList": [
+      {
+        "word": "voluntary",
+        "translation": "自発的な"
+      },
+      {
+        "word": "prerequisite",
+        "translation": "前提条件"
+      },
+      {
+        "word": "external manifestation",
+        "translation": "外部的現れ"
+      },
+      {
+        "word": "prosecution",
+        "translation": "検察"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告人"
+      },
+      {
+        "word": "behavioral requirement",
+        "translation": "行為要件"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Crime of Specific Intent",
+    "definition": "An offense where, in addition to general criminal intent (dolus generalis), the perpetrator must harbor a particular ulterior motive or purpose (e.g., the purpose of exercising influence or avoiding tax) for the crime to be established.",
+    "japaneseDefinition": "犯罪の成立要件として、通常の犯罪意思に加えて、特定の目的や意図（例えば、職務上の不正な影響力の行使目的など）を要する犯罪類型。",
+    "japaneseWordTranslation": "目的犯 (もくてきはん)",
+    "legalContext": "Criminal Code Art. 197-3 (Acceptance of Bribe in Advance): Punishes public officials who accept a bribe 'for the purpose of performing an improper act' after separation from office.",
+    "japaneseLegalContext": "刑法第197条の3（受託収賄等の罪）: 公務員であった者が「不正な行為をする目的で」賄賂を収受する罪。",
+    "exampleSentence": "In prosecuting the suspect for obstruction of public auction, the state must prove the specific intent to hinder fair competition among bidders.",
+    "exampleTranslation": "競売入札妨害の容疑者を訴追するにあたり、国は入札者の間の公正な競争を妨害するという特定の目的を立証しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "ulterior motive",
+        "translation": "特別な動機"
+      },
+      {
+        "word": "dolus generalis",
+        "translation": "一般故意"
+      },
+      {
+        "word": "to harbor (intent)",
+        "translation": "抱く"
+      },
+      {
+        "word": "bribe",
+        "translation": "賄賂"
+      },
+      {
+        "word": "obstruction",
+        "translation": "妨害"
+      },
+      {
+        "word": "to prosecute",
+        "translation": "訴追する"
+      },
+      {
+        "word": "fair competition",
+        "translation": "公正な競争"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Victim's Consent",
+    "definition": "The voluntary agreement given by the individual whose legally protected interest is infringed upon by a criminal act, which, under certain circumstances (especially regarding property or minor assaults), can negate the unlawfulness of the act.",
+    "japaneseDefinition": "犯罪行為によって侵害される法益の主体が、その侵害行為に対して任意に与える同意。一定の条件のもとで、行為の違法性を阻却する事由とされる。",
+    "japaneseWordTranslation": "被害者の承諾 (ひがいしゃのしょうだく)",
+    "legalContext": "Doctrine of Grounds for Excluding Unlawfulness: While not explicitly codified, criminal law theory recognizes valid consent as potentially negating unlawfulness if the legal interest is disposable and the consent is informed and voluntary.",
+    "japaneseLegalContext": "違法性阻却事由の法理: 成文法に明記はないが、法益が処分可能なものであり、承諾が任意かつ理解の上でなされた場合、行為の違法性を否定する可能性が刑法理論上認められている。",
+    "exampleSentence": "Victim's Consent is frequently analyzed in cases of property damage or non-lethal physical injury, but it is generally deemed invalid for crimes against life or severe bodily harm.",
+    "exampleTranslation": "被害者の承諾は、器物損壊や非致死的な身体傷害の事件において頻繁に分析されるが、生命に対する罪や重度の傷害罪では一般に無効とみなされる。",
+    "vocabularyList": [
+      {
+        "word": "infringed upon",
+        "translation": "侵害された"
+      },
+      {
+        "word": "dispose of rights",
+        "translation": "権利を処分する"
+      },
+      {
+        "word": "informed (consent)",
+        "translation": "十分に理解された"
+      },
+      {
+        "word": "negate",
+        "translation": "否定する"
+      },
+      {
+        "word": "codified",
+        "translation": "成文化された"
+      },
+      {
+        "word": "non-lethal",
+        "translation": "非致死的な"
+      },
+      {
+        "word": "bodily harm",
+        "translation": "身体傷害"
+      }
+    ]
   }
 ]

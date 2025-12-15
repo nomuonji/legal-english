@@ -3806,5 +3806,119 @@
         "translation": "執行の解除 (しっこうのかいじょ)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cancellation of Preservation based on Judgment on the Merits",
+    "definition": "The formal procedure to cancel a preservation measure (such as a provisional attachment) upon the final and binding conclusion of the action on the merits, specifically when the preservation obligee’s claim is wholly dismissed by the judgment.",
+    "japaneseDefinition": "本案の訴訟が終了した場合において、被保全債権の存在が否定された確定判決に基づき、保全処分の効力を失わせるための手続。",
+    "japaneseWordTranslation": "本案の訴訟の終結による保全取消し (ほんあんのそしょうのしゅうけつによるほぜんとりけし)",
+    "legalContext": "Civil Preservation Act Art. 41(2): The court shall cancel the provisional attachment order upon motion by the preservation debtor when the judgment dismissing the claim has become final and binding.",
+    "japaneseLegalContext": "民事保全法 第41条2項: 請求を認容しない判決が確定したとき（中略）は、保全債務者の申立てにより、保全執行裁判所は仮差押えの決定を取り消さなければならない。",
+    "exampleSentence": "Following the Supreme Court's finalized decision dismissing the underlying contract claim, the debtor immediately filed a motion for cancellation of the Preservation based on Judgment on the Merits.",
+    "exampleTranslation": "最高裁判所による原契約の請求を棄却する確定判決を受け、債務者は直ちに本案の訴訟の終結による保全取消しを申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "claim",
+        "translation": "請求 (せいきゅう)"
+      },
+      {
+        "word": "finalized decision",
+        "translation": "確定判決 (かくていはんけつ)"
+      },
+      {
+        "word": "dismissing the claim",
+        "translation": "請求を棄却する (せいきゅうをききゃくする)"
+      },
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者 (ほぜんさいむしゃ)"
+      },
+      {
+        "word": "underlying contract",
+        "translation": "原契約 (げんけいやく)"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え (かりさしおさえ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exclusion Period for Commencement of the Action on the Merits",
+    "definition": "A mandatory period of time (typically fixed by the court, often two weeks) within which the preservation obligee must institute the principal legal proceedings (action on the merits) to substantiate the grounds for the preservation measure, if the court has issued a corresponding order.",
+    "japaneseDefinition": "保全債務者の申立てに基づき保全裁判所が定める、保全債権者が被保全権利に関する本案の訴えを提起しなければならない期間。",
+    "japaneseWordTranslation": "本案の訴えの提起期間 (ほんあんのうったえのていききかん)",
+    "legalContext": "Civil Preservation Act Art. 37(1): If the preservation order has been issued, the preservation debtor may move the court to order the preservation obligee to institute the action on the merits within a specified period.",
+    "japaneseLegalContext": "民事保全法 第37条1項: 保全命令が発せられた場合において、保全債務者は、保全命令を発した裁判所に対し、保全債権者に対し本案の訴えを提起すべき期間を定めることを申し立てることができる。",
+    "exampleSentence": "Failure by the preservation obligee to meet the Exclusion Period for Commencement of the Action on the Merits resulted in the automatic cancellation of the provisional disposition.",
+    "exampleTranslation": "保全債権者が本案の訴えの提起期間を遵守しなかったため、仮処分の効力は自動的に取り消された。",
+    "vocabularyList": [
+      {
+        "word": "institute the action",
+        "translation": "訴えを提起する (うったえをていきする)"
+      },
+      {
+        "word": "substantiate the grounds",
+        "translation": "根拠を立証する (こんきょをりっしょうする)"
+      },
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分 (かりしょぶん)"
+      },
+      {
+        "word": "preservation obligee",
+        "translation": "保全債権者 (ほぜんさいけんしゃ)"
+      },
+      {
+        "word": "automatic cancellation",
+        "translation": "自動的な取消し (じどうてきなとりけし)"
+      },
+      {
+        "word": "specified period",
+        "translation": "定められた期間 (さだめられたきかん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Motion for Preservation Enforcement",
+    "definition": "The procedural act of applying to the competent court or judicial officer, subsequent to obtaining a preservation order, to initiate the process of actually seizing or restricting the disposal of the designated assets of the debtor.",
+    "japaneseDefinition": "保全命令が発令された後、その命令を具体的に実現するため、裁判所または執行官に対し、差押え等の執行行為を求める申立て。",
+    "japaneseWordTranslation": "保全執行の申立て (ほぜんしっこうのもうしたて)",
+    "legalContext": "Civil Preservation Act Art. 52(1): Preservation enforcement shall commence upon the motion of the preservation obligee and be carried out by the court or the judicial officer as prescribed by law.",
+    "japaneseLegalContext": "民事保全法 第52条1項: 保全執行は、保全債権者の申立てにより、執行裁判所又は執行官が、この法律の定めるところにより行う。",
+    "exampleSentence": "The Motion for Preservation Enforcement must be accompanied by the original preservation order and proof of service on the debtor, if required.",
+    "exampleTranslation": "保全執行の申立てには、原本の保全命令と、必要であれば債務者に対する送達証明を添付しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "procedural act",
+        "translation": "手続行為 (てつづきこうい)"
+      },
+      {
+        "word": "judicial officer",
+        "translation": "執行官 (しっこうかん)"
+      },
+      {
+        "word": "competent court",
+        "translation": "執行裁判所 (しっこうさいばんしょ)"
+      },
+      {
+        "word": "initiate the process",
+        "translation": "手続を開始する (てつづきをかいしする)"
+      },
+      {
+        "word": "designated assets",
+        "translation": "指定された財産 (していされたざいさん)"
+      },
+      {
+        "word": "proof of service",
+        "translation": "送達証明 (そうたつしょうめい)"
+      }
+    ]
   }
 ]

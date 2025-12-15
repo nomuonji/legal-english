@@ -3368,5 +3368,107 @@
         "translation": "～に添付された"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cadastral Parcel",
+    "definition": "The fundamental unit of land defined, registered, and assigned a lot number within the land registry system in Japan.",
+    "japaneseDefinition": "日本の不動産登記制度において、一個の土地として地番を付され、登記記録の対象とされる土地の区画単位。",
+    "japaneseWordTranslation": "筆 (ひつ)",
+    "legalContext": "Real Property Registration Act Art. 34: The registry is organized by cadastral parcels (land) or buildings.",
+    "japaneseLegalContext": "不動産登記法第34条: 登記は、一筆の土地又は一個の建物ごとにこれをする。",
+    "exampleSentence": "The transfer of title involved two adjacent **cadastral parcels**, requiring separate entries in the land register.",
+    "exampleTranslation": "権原の移転は隣接する2つの**筆**に関わるものであり、土地登記簿に個別の記載を必要とした。",
+    "vocabularyList": [
+      {
+        "word": "transfer of title",
+        "translation": "所有権移転 (shoyūken iten)"
+      },
+      {
+        "word": "adjacent",
+        "translation": "隣接する (rinsetsu suru)"
+      },
+      {
+        "word": "lot number",
+        "translation": "地番 (chiban)"
+      },
+      {
+        "word": "registry system",
+        "translation": "登記制度 (tōki seizdo)"
+      },
+      {
+        "word": "separate entries",
+        "translation": "個別の記載 (kobetsu no kisai)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Substantive Examination",
+    "definition": "The review process wherein a registrar investigates the validity of the underlying legal cause (e.g., contract validity) of a registration application, rather than merely verifying procedural correctness.",
+    "japaneseDefinition": "登記官が登記申請に対し、単なる形式的な要件だけでなく、登記原因行為（売買契約等）の実体的な有効性まで審査すること。",
+    "japaneseWordTranslation": "実質的審査 (jisshitsuteki shinsa)",
+    "legalContext": "Principle of Substantive Examination: While Japanese registration procedure primarily relies on formal examination for rights, substantive examination is applied in certain factual registrations.",
+    "japaneseLegalContext": "実質的審査主義: 日本の登記手続では、権利に関する登記においては形式的審査が主となるが、表示に関する登記においては実質的審査が行われる。",
+    "exampleSentence": "The registrar refused the description change registration, concluding that the application failed to satisfy the requirements for **substantive examination** regarding the actual physical change.",
+    "exampleTranslation": "登記官は、申請が実際の物理的変更に関する**実質的審査**の要件を満たしていないと判断し、表示変更の登記を拒否した。",
+    "vocabularyList": [
+      {
+        "word": "registrar",
+        "translation": "登記官 (tōkikan)"
+      },
+      {
+        "word": "underlying legal cause",
+        "translation": "実体的な原因 (jittaiteki na gen'in)"
+      },
+      {
+        "word": "procedural correctness",
+        "translation": "手続の適正 (tetsuzuki no tekisei)"
+      },
+      {
+        "word": "description change registration",
+        "translation": "表示変更登記 (hyōji henkō tōki)"
+      },
+      {
+        "word": "physical change",
+        "translation": "物理的変更 (butsuriteki henkō)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Roof and Walls",
+    "definition": "A necessary component, along with fixity to the land, used to define whether a structure meets the criteria for recognition as a registrable building under the Real Property Registration Act, signifying enclosure and weather resistance.",
+    "japaneseDefinition": "土地への定着性に加え、建物が不動産登記法の定める登記の対象となるために、外気分断性を示す要素として必要とされる構造要件。",
+    "japaneseWordTranslation": "屋根及び周壁 (やねおよびしゅうへき)",
+    "legalContext": "Real Property Registration Act: Criteria for Building Recognition — A structure must be fixed to the land and possess 'roof and walls' (or equivalent enclosing features).",
+    "japaneseLegalContext": "不動産登記法: 建物認定の基準—建物として認められるためには、土地に定着し、かつ『屋根及び周壁』等を有することが必要である。",
+    "exampleSentence": "The storage shed, lacking sufficient **roof and walls** and being easily movable, was deemed not to qualify as a registrable building.",
+    "exampleTranslation": "**屋根及び周壁**が不十分で容易に移動可能な物置小屋は、登記対象の建物としては認定されないと判断された。",
+    "vocabularyList": [
+      {
+        "word": "fixity to the land",
+        "translation": "土地への定着性 (tochi e no teichakusei)"
+      },
+      {
+        "word": "structure",
+        "translation": "構築物 (kōchikubutsu)"
+      },
+      {
+        "word": "criteria",
+        "translation": "基準 (kijun)"
+      },
+      {
+        "word": "enclosing features",
+        "translation": "囲壁の機能 (i-heki no kinō)"
+      },
+      {
+        "word": "storage shed",
+        "translation": "物置小屋 (monooki goya)"
+      }
+    ]
   }
 ]

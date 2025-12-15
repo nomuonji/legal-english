@@ -3668,5 +3668,95 @@
         "translation": "法的効力"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Limitation on Asserting Non-Registered Matters",
+    "definition": "The legal principle, established in Article 9 of the Commercial Registration Act, that a company cannot assert an unregistered matter which is required to be registered against a third party acting in good faith (i.e., one who was unaware of the truth). This is often referred to as the negative effect of commercial registration.",
+    "japaneseDefinition": "登記すべき事項であっても、その登記がされていないときは、会社は善意の第三者に対してその事項を主張することができないという原則（商業登記法第９条）。商業登記の消極的効力とも呼ばれる。",
+    "japaneseWordTranslation": "非登記事項の対抗制限 (Hitōki Jikō no Taikō Seigen)",
+    "legalContext": "Commercial Registration Act, Article 9: When any matter required to be registered has not been registered, the company may not assert such matter against a third party acting in good faith.",
+    "japaneseLegalContext": "商業登記法 第9条: 登記すべき事項につき登記がされていない間は、会社は、善意の第三者に対し、当該事項をもって対抗することができない。",
+    "exampleSentence": "Due to the limitation on asserting non-registered matters, the appointment of the new officer, though valid internally, was unenforceable against the creditor who proceeded without knowledge.",
+    "exampleTranslation": "非登記事項の対抗制限があるため、新役員の選任は内部的には有効であったが、その事実を知らないまま手続きを進めた債権者に対しては主張できなかった。",
+    "vocabularyList": [
+      {
+        "word": "assert",
+        "translation": "主張する (shuchō suru)"
+      },
+      {
+        "word": "acting in good faith",
+        "translation": "善意で行為する (zen'i de kōi suru)"
+      },
+      {
+        "word": "unenforceable",
+        "translation": "対抗できない (taikō dekinai)"
+      },
+      {
+        "word": "appointment",
+        "translation": "選任 (sennin)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Priority of Application Reception Time",
+    "definition": "The rule stipulating that the priority rank of registration (especially for rights registration) is determined strictly by the time and date when the registration application was received by the registry office. This rule governs the order in which applications are processed and recorded.",
+    "japaneseDefinition": "登記の順位は、登記申請が登記所に受け付けられた日時によって厳格に決まるという原則。特に権利に関する登記の順位決定に適用される（商業登記法第29条）。",
+    "japaneseWordTranslation": "申請の受付順位 (Shinsei no Uketsuke Jūni)",
+    "legalContext": "Commercial Registration Act, Article 29: The order of registration shall be governed by the chronological order of the acceptance of applications. (Applied mutatis mutandis from the Real Property Registration Act, Article 26).",
+    "japaneseLegalContext": "不動産登記法 第26条（商業登記法第29条により準用）: 登記の順位は、申請の受付の順序による。",
+    "exampleSentence": "The bank insisted on the priority of application reception time to ensure that its newly established security interest was recorded ahead of the competitor's subsequent filing.",
+    "exampleTranslation": "その銀行は、新たに設定された担保権が競合他社の後の申請よりも先に記録されるよう、申請の受付順位を主張した。",
+    "vocabularyList": [
+      {
+        "word": "priority rank",
+        "translation": "順位 (jūni)"
+      },
+      {
+        "word": "chronological order",
+        "translation": "順序 (junjo)"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権 (tanpoken)"
+      },
+      {
+        "word": "subsequent filing",
+        "translation": "後の申請 (ato no shinsei)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Request for Review (of Registrar's Disposition)",
+    "definition": "A formal administrative procedure where a party dissatisfied with a registrar’s decision—typically the rejection of a registration application—can petition the supervisory court (the District Court) to review the legality and appropriateness of that disposition.",
+    "japaneseDefinition": "登記官による処分（主に申請の却下）に不服がある者が、管轄の地方裁判所に対し、その処分が法令に基づいているか否か、適法であるか否かを審査するよう求める行政不服申立手続き。",
+    "japaneseWordTranslation": "登記官の処分に対する審査請求 (Tōkikan no Shobun ni taisuru Shinsa Seikyū)",
+    "legalContext": "Commercial Registration Act, Article 149: Any person who is dissatisfied with a disposition made by a registrar may make a request for review against the said disposition to the District Court having jurisdiction over the location of the registry office.",
+    "japaneseLegalContext": "商業登記法 第149条: 登記官の処分に不服がある者は、当該登記所の所在地を管轄する地方裁判所に、当該処分についての審査請求をすることができる。",
+    "exampleSentence": "Following the rejection of the merger registration, the company filed a request for review of the registrar's disposition, arguing that all necessary documentation had been provided.",
+    "exampleTranslation": "合併登記が却下された後、会社は、必要なすべての書類が提出されていたと主張し、登記官の処分に対する審査請求を行った。",
+    "vocabularyList": [
+      {
+        "word": "dissatisfied",
+        "translation": "不服がある (fufuku ga aru)"
+      },
+      {
+        "word": "supervisory court",
+        "translation": "管轄裁判所 (kankatsu saibansho)"
+      },
+      {
+        "word": "legality",
+        "translation": "適法性 (tekihōsei)"
+      },
+      {
+        "word": "district court",
+        "translation": "地方裁判所 (chihō saibansho)"
+      }
+    ]
   }
 ]

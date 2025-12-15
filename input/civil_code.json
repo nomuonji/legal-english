@@ -3736,5 +3736,119 @@
         "translation": "管理 (kanri)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Solidary Creditors",
+    "definition": "A configuration of a claim where multiple creditors share an obligation, and any one of them may demand the entirety of the performance from the debtor, with performance to one creditor discharging the obligation toward all.",
+    "japaneseDefinition": "複数の債権者が同一の債務について、各自独立して債務者に対し給付の全部を請求することができ、また債務者がその一人に対して給付をすれば、他の債権者に対する債務も消滅する債権形態。",
+    "japaneseWordTranslation": "連帯債権 (れんたいさいけん)",
+    "legalContext": "Civil Code Art. 429 (Japanese law does not presume solidary obligations or claims; it requires specific provision by law or agreement.)",
+    "japaneseLegalContext": "民法第429条（連帯債権は、法律の規定又は契約によってのみ成立する。）",
+    "exampleSentence": "If the claim is held by solidary creditors, the debtor must pay the entire amount, even if only one creditor makes the demand.",
+    "exampleTranslation": "その債権が連帯債権である場合、債務者は、一人の債権者が請求した場合であっても、全額を支払わなければならない。",
+    "vocabularyList": [
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "claim",
+        "translation": "債権"
+      },
+      {
+        "word": "performance",
+        "translation": "給付 / 履行"
+      },
+      {
+        "word": "demand",
+        "translation": "請求する"
+      },
+      {
+        "word": "discharge",
+        "translation": "消滅させる"
+      },
+      {
+        "word": "entire amount",
+        "translation": "全額"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Counter-Performance",
+    "definition": "The reciprocal performance or consideration that is due from one party to the other in a synallagmatic (bilateral) contract, forming the basis for the exchange of obligations.",
+    "japaneseDefinition": "双務契約において、相手方当事者に対してなすべき、対価関係にある給付。例えば、売買契約における代金の支払い。",
+    "japaneseWordTranslation": "反対給付 (はんたいきゅうふ)",
+    "legalContext": "Civil Code Art. 533 (Concurrent performance of obligations in synallagmatic contracts)",
+    "japaneseLegalContext": "民法第533条（双務契約の当事者の一方は、相手方がその債務の履行を提供するまでは、自己の債務の履行を拒むことができる。）",
+    "exampleSentence": "The buyer can refuse to make payment, asserting the defense of simultaneous performance, until the seller tenders the contracted counter-performance.",
+    "exampleTranslation": "買主は、売主が契約上の反対給付を提供するまで、同時履行の抗弁を主張して支払いを拒むことができる。",
+    "vocabularyList": [
+      {
+        "word": "reciprocal",
+        "translation": "対価的"
+      },
+      {
+        "word": "synallagmatic contract",
+        "translation": "双務契約"
+      },
+      {
+        "word": "tender",
+        "translation": "提供する"
+      },
+      {
+        "word": "defense of simultaneous performance",
+        "translation": "同時履行の抗弁"
+      },
+      {
+        "word": "obligation",
+        "translation": "債務"
+      },
+      {
+        "word": "payment",
+        "translation": "支払い"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legal Lien",
+    "definition": "A type of security interest that is automatically created by law over specific property, distinct from a security right established by contract or agreement, often to ensure payment of related claims.",
+    "japaneseDefinition": "当事者の合意ではなく、法律の規定に基づいて当然に発生する担保物権（例：賃貸人が賃借人の動産について有する権利）。",
+    "japaneseWordTranslation": "法定担保物権 (ほうていたんぽぶっけん)",
+    "legalContext": "Civil Code Art. 317 (Lessor's lien on movable property brought onto the rental premises by the lessee)",
+    "japaneseLegalContext": "民法第317条（土地の賃貸人は、その土地の賃借人がそこに備え付け、又は現に存する動産について、賃貸借に基づく債権を担保するため、その動産に法定の担保物権を有する。）",
+    "exampleSentence": "The lessor exercised the legal lien over the tenant's equipment to secure overdue rental payments.",
+    "exampleTranslation": "賃貸人は、延滞した賃料債務を担保するために、賃借人の設備に対し法定担保物権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "security interest",
+        "translation": "担保権"
+      },
+      {
+        "word": "lessor",
+        "translation": "賃貸人"
+      },
+      {
+        "word": "tenant / lessee",
+        "translation": "賃借人"
+      },
+      {
+        "word": "overdue",
+        "translation": "延滞した"
+      },
+      {
+        "word": "rental payments",
+        "translation": "賃料"
+      },
+      {
+        "word": "specific property",
+        "translation": "特定の財産"
+      }
+    ]
   }
 ]

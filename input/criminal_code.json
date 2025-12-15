@@ -3532,5 +3532,119 @@
         "translation": "犯罪行為"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ignorance of Law",
+    "definition": "The principle that lack of awareness regarding the illegality of an act does not generally excuse the perpetrator from criminal liability, though it may occasionally affect culpability determination.",
+    "japaneseDefinition": "行為の違法性について知らなかったこと。日本の刑法においては、原則として責任を阻却しないが、情状によっては考慮される。",
+    "japaneseWordTranslation": "法律の不知 (ほうりつのふち)",
+    "legalContext": "Criminal Code Art. 38, Par. 3: Lack of knowledge of the law is not grounds for exemption from punishment; however, the punishment may be reduced by the court depending on the circumstances.",
+    "japaneseLegalContext": "刑法 第38条 第3項: 法律を知らなかったとて、そのことによって、罪を犯す意思がなかったとすることはできない。ただし、情状により、その刑を減軽することができる。",
+    "exampleSentence": "The court rejected the defendant's plea of *ignorance of law*, holding that while lack of specific intent was not alleged, the general principle of non-exemption must stand.",
+    "exampleTranslation": "裁判所は、被告人の法律の不知の抗弁を却下し、具体的な故意は主張されていないものの、免責されないという一般原則は堅持されなければならないとした。",
+    "vocabularyList": [
+      {
+        "word": "perpetrator",
+        "translation": "行為者"
+      },
+      {
+        "word": "exemption from punishment",
+        "translation": "刑の免除"
+      },
+      {
+        "word": "culpability determination",
+        "translation": "責任の認定"
+      },
+      {
+        "word": "illegality",
+        "translation": "違法性"
+      },
+      {
+        "word": "non-exemption",
+        "translation": "不免責"
+      },
+      {
+        "word": "specific intent",
+        "translation": "特定の故意"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Crime of Abstract Danger",
+    "definition": "A doctrinal classification of crimes where the law punishes the mere performance of an act that creates a general risk or danger to public interests, without requiring proof of an actual or imminent specific result (harm).",
+    "japaneseDefinition": "結果の発生を必要とせず、その行為が法益を危険にさらす抽象的な危険性を有するだけで成立する犯罪類型。",
+    "japaneseWordTranslation": "抽象的危険犯 (ちゅうしょうてききけんはん)",
+    "legalContext": "Doctrinal classification applied to crimes such as Arson of an Inhabited Structure (Criminal Code Art. 108) or crimes against public traffic safety.",
+    "japaneseLegalContext": "判例・学説上の類型（例：現住建造物等放火罪（刑法第108条）や公共の安全を害する罪など）",
+    "exampleSentence": "The offense of distributing hazardous materials without authorization is often treated as a *crime of abstract danger* because the prohibited act creates systemic risk regardless of specific injury.",
+    "exampleTranslation": "無許可で危険物を配布する罪は、その禁止行為が具体的な損害とは無関係にシステム的な危険を生み出すため、抽象的危険犯として扱われることが多い。",
+    "vocabularyList": [
+      {
+        "word": "doctrinal classification",
+        "translation": "学説上の分類"
+      },
+      {
+        "word": "public interests",
+        "translation": "公共の利益（法益）"
+      },
+      {
+        "word": "systemic risk",
+        "translation": "系統的リスク"
+      },
+      {
+        "word": "hazardous materials",
+        "translation": "危険物"
+      },
+      {
+        "word": "inhabited structure",
+        "translation": "現住建造物"
+      },
+      {
+        "word": "imminent specific result",
+        "translation": "差し迫った特定の結果"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mitigating Circumstances (Judicial Reduction)",
+    "definition": "A system provided in the Criminal Code allowing the court to exercise discretion to reduce a legally prescribed sentence based on extenuating factors related to the crime or the offender, even when the statutory reduction grounds are not met.",
+    "japaneseDefinition": "法定の減刑事由がない場合でも、裁判官の裁量により、犯罪の情状や被告人の状況を考慮して、刑を減軽すること。",
+    "japaneseWordTranslation": "酌量減軽 (しゃくりょうげんけい)",
+    "legalContext": "Criminal Code Art. 66: If there are mitigating circumstances in the commission of an offense, the court may reduce the punishment.",
+    "japaneseLegalContext": "刑法 第66条: 罪を犯した者の情状に酌量すべきものがあるときは、裁判所は、その刑を減軽することができる。",
+    "exampleSentence": "Although the defendant was legally guilty, the judge recognized substantial *mitigating circumstances*—specifically the extreme remorse and cooperation—and consequently reduced the prison term.",
+    "exampleTranslation": "被告人は法的には有罪であったものの、裁判官は実質的な酌量減軽事由、特に深い反省と協力があったことを認め、結果として懲役期間を減軽した。",
+    "vocabularyList": [
+      {
+        "word": "statutory reduction grounds",
+        "translation": "法定の減軽事由"
+      },
+      {
+        "word": "extenuating factors",
+        "translation": "情状を軽んじる要素"
+      },
+      {
+        "word": "discretion",
+        "translation": "裁量"
+      },
+      {
+        "word": "remorse",
+        "translation": "反省"
+      },
+      {
+        "word": "sentencing",
+        "translation": "量刑"
+      },
+      {
+        "word": "cooperation",
+        "translation": "協力"
+      }
+    ]
   }
 ]

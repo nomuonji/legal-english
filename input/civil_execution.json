@@ -3764,5 +3764,119 @@
         "translation": "差し押さえられた債権"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Exemption Threshold",
+    "definition": "The legally protected portion of a debtor's recurring income, such as wages or salaries, that cannot be attached in execution proceedings, ensuring the debtor can maintain a minimal standard of living.",
+    "japaneseDefinition": "債務者が最低限度の生活を維持できるように、給与などの定期的収入のうち、差押えが禁止されている法的に保護された範囲（金額）。",
+    "japaneseWordTranslation": "差押禁止の範囲 (sashiosae kinshi no han'i)",
+    "legalContext": "Civil Execution Act Art. 152 (1): Provides that two-thirds of the claim arising from periodic salary or wage payments is generally exempt from seizure, subject to a minimum monetary threshold.",
+    "japaneseLegalContext": "民事執行法第152条第1項: 定期的な給与債権について、原則としてその3分の2は差押禁止となるが、一定の金銭的下限が設定されている。",
+    "exampleSentence": "The court determined that the debtor's monthly salary exceeded the **Execution Exemption Threshold**, allowing the creditor to pursue a partial attachment.",
+    "exampleTranslation": "裁判所は、債務者の月給が差押禁止の範囲の金額を超えていると判断し、債権者による一部差押えを認めた。",
+    "vocabularyList": [
+      {
+        "word": "recurring income",
+        "translation": "定期的収入 (teikiteki shūnyū)"
+      },
+      {
+        "word": "minimal standard of living",
+        "translation": "最低限度の生活 (saiteigendo no seikatsu)"
+      },
+      {
+        "word": "wages",
+        "translation": "給与 (kyūyo)"
+      },
+      {
+        "word": "periodic payment",
+        "translation": "定期的な支払い (teikiteki na shiharai)"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者 (saimusha)"
+      },
+      {
+        "word": "partial attachment",
+        "translation": "一部差押え (ichibu sashiosae)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Against Future Claims",
+    "definition": "A procedural mechanism targeting claims that are certain to accrue or arise in the future (such as continuous rent or ongoing salary payments) but have not yet become legally due at the time the attachment order is issued.",
+    "japaneseDefinition": "継続的な賃料や将来の給与など、執行命令発令時にはまだ弁済期が到来していないものの、将来発生することが確実な債権を対象とする執行手続き。",
+    "japaneseWordTranslation": "将来債権に対する執行 (shōrai saiken ni taisuru shikkō)",
+    "legalContext": "Civil Execution Act Art. 145 (2): Specifies that an attachment order pertaining to a claim may extend to claims that will arise in the future.",
+    "japaneseLegalContext": "民事執行法第145条第2項: 債権に対する差押命令は、将来発生する債権にも及ぶことができる旨を規定する。",
+    "exampleSentence": "The creditor filed an application for **Execution Against Future Claims** to secure the judgment amount through the debtor's monthly annuity payments over the next five years.",
+    "exampleTranslation": "債権者は、今後5年間の債務者の年金支払いを通して判決金額を確保するため、将来債権に対する執行の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "accrue",
+        "translation": "発生する (hassei suru)"
+      },
+      {
+        "word": "annuity payments",
+        "translation": "年金支払い (nenkin shiharai)"
+      },
+      {
+        "word": "judgment amount",
+        "translation": "判決金額 (hanketsu kingaku)"
+      },
+      {
+        "word": "legally due",
+        "translation": "弁済期が到来した (bensai ki ga tōrai shita)"
+      },
+      {
+        "word": "attachment order",
+        "translation": "差押命令 (sashiosae meirei)"
+      },
+      {
+        "word": "procedural mechanism",
+        "translation": "手続的仕組み (tetsuzuki teki shikumi)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Requirements for Execution Commencement",
+    "definition": "The formal, legally prescribed conditions that must be satisfied before an execution organ, such as the execution court, may initiate the compulsory execution process against the debtor's property.",
+    "japaneseDefinition": "執行機関（執行裁判所など）が強制執行手続きを開始する前に満たされなければならない、法律で定められた形式的な要件。",
+    "japaneseWordTranslation": "執行開始の要件 (shikkō kaishi no yōken)",
+    "legalContext": "Civil Execution Act Art. 25, 29: These articles establish the prerequisites for commencing execution, primarily focusing on the existence of a valid execution title and its service to the debtor.",
+    "japaneseLegalContext": "民事執行法第25条、第29条: 有効な執行名義の存在と、その債務者への送達などを執行開始のための前提条件として定める。",
+    "exampleSentence": "The application was rejected because the creditor failed to comply with the primary **Requirements for Execution Commencement**, specifically the proper service of the authenticated judgment.",
+    "exampleTranslation": "債権者が執行開始の主要な要件、特に判決書の正本の適正な送達を遵守しなかったため、申立ては却下された。",
+    "vocabularyList": [
+      {
+        "word": "execution organ",
+        "translation": "執行機関 (shikkō kikan)"
+      },
+      {
+        "word": "formally prescribed",
+        "translation": "形式的に定められた (keishiki teki ni sadamerareta)"
+      },
+      {
+        "word": "compulsory execution process",
+        "translation": "強制執行手続 (kyōsei shikkō tetsuzuki)"
+      },
+      {
+        "word": "authenticated judgment",
+        "translation": "判決書の正本 (hanketsusho no seihon)"
+      },
+      {
+        "word": "prerequisites",
+        "translation": "前提条件 (zentei jōken)"
+      },
+      {
+        "word": "proper service",
+        "translation": "適正な送達 (tekisei na sōtatsu)"
+      }
+    ]
   }
 ]

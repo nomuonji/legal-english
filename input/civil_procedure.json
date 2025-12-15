@@ -2,44 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Preparation Proceedings",
-    "definition": "A specific procedural stage used by the court to organize the issues and evidence, and to streamline the process for subsequent hearings, often involving focused meetings between the judge and parties' attorneys.",
-    "japaneseDefinition": "裁判所が、争点及び証拠の整理を目的として、当事者双方の主張や証拠調べの計画を集中して行う手続。口頭弁論期日に代えて利用される。",
-    "japaneseWordTranslation": "弁論準備手続 (べんろんじゅんびてつづき)",
-    "legalContext": "Code of Civil Procedure Art. 168 (The court may, if it deems it necessary, order that the preparation proceedings be held to organize the issues and evidence.)",
-    "japaneseLegalContext": "民事訴訟法第168条 (裁判所は、事件が弁論準備手続に付された場合において、争点及び証拠の整理を目的とするときは、弁論準備手続を行うことができる。)",
-    "exampleSentence": "The parties were ordered to utilize the preparation proceedings to identify the disputed points of fact before the formal presentation of evidence.",
-    "exampleTranslation": "当事者は、正式な証拠調べに先立ち、事実の争点を特定するために弁論準備手続を利用するよう命じられた。",
-    "vocabularyList": [
-      {
-        "word": "streamline",
-        "translation": "合理化する"
-      },
-      {
-        "word": "procedural stage",
-        "translation": "手続段階"
-      },
-      {
-        "word": "organize the issues",
-        "translation": "争点を整理する"
-      },
-      {
-        "word": "subsequent hearings",
-        "translation": "その後の審理"
-      },
-      {
-        "word": "disputed points",
-        "translation": "争点"
-      },
-      {
-        "word": "presentation of evidence",
-        "translation": "証拠の提出"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Intervention",
     "definition": "The formal act by which a third party joins an ongoing lawsuit between others, either to assist one of the existing parties (participatory intervention) or to assert an independent claim related to the subject matter (interpleader intervention).",
     "japaneseDefinition": "訴訟係属中の他人の訴訟に、第三者が当事者として、または当事者の一方を補助する目的で加わること。大きく分けて参加的訴訟参加と独立当事者参加がある。",
@@ -3586,6 +3548,132 @@
       {
         "word": "accounting documents",
         "translation": "会計書類"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Dismissal of Action",
+    "definition": "The rejection of a lawsuit by the court on procedural grounds (e.g., lack of jurisdiction, lack of legal interest, or failure to pay court fees) without reviewing the merits of the claim. This is known in Japanese law as 訴えの却下 (Uttaen no Kyakka).",
+    "japaneseDefinition": "訴訟要件を欠く場合など、請求内容を審理せずに手続き上の不備によって裁判所が訴えを排斥すること。",
+    "japaneseWordTranslation": "訴えの却下 (うったえのきゃっか)",
+    "legalContext": "Code of Civil Procedure (CCP) Art. 138(2): If the requisite court fees have not been paid, the court shall dismiss the action by judicial decision.",
+    "japaneseLegalContext": "民事訴訟法第138条第2項: 必要な訴訟費用を納付しないときは、裁判所は、決定で、訴えを却下しなければならない。",
+    "exampleSentence": "The court issued a Dismissal of Action because the plaintiff failed to establish the necessity of the declaratory judgment.",
+    "exampleTranslation": "原告が確認の訴えの必要性を立証できなかったため、裁判所は訴えの却下の決定を出した。",
+    "vocabularyList": [
+      {
+        "word": "plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "judicial decision",
+        "translation": "決定"
+      },
+      {
+        "word": "court fees",
+        "translation": "訴訟費用"
+      },
+      {
+        "word": "requisite",
+        "translation": "必要な"
+      },
+      {
+        "word": "merits of the claim",
+        "translation": "請求の当否"
+      },
+      {
+        "word": "declaratory judgment",
+        "translation": "確認の訴え"
+      },
+      {
+        "word": "establish",
+        "translation": "立証する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Litigation Record",
+    "definition": "The official files held by the court containing all documents pertaining to the proceedings, including the complaint, written submissions, evidence, minutes of oral arguments, and judicial decisions.",
+    "japaneseDefinition": "裁判所が保管する、訴訟に関する全ての書類（訴状、準備書面、証拠、口頭弁論調書、裁判等）を含む公的なファイル。",
+    "japaneseWordTranslation": "訴訟記録 (そしょうきろく)",
+    "legalContext": "Code of Civil Procedure (CCP) Art. 91(1): Any person may request the clerk of the court to inspect or copy the litigation record.",
+    "japaneseLegalContext": "民事訴訟法第91条第1項: 何人も、裁判所書記官に対し、訴訟記録の閲覧若しくは謄写を請求することができる。",
+    "exampleSentence": "The counsel requested permission to inspect and copy the Litigation Record before preparing the appeal brief.",
+    "exampleTranslation": "弁護士は、控訴理由書を作成する前に、訴訟記録の閲覧及び謄写の許可を求めた。",
+    "vocabularyList": [
+      {
+        "word": "counsel",
+        "translation": "弁護士"
+      },
+      {
+        "word": "inspect",
+        "translation": "閲覧する"
+      },
+      {
+        "word": "copy",
+        "translation": "謄写"
+      },
+      {
+        "word": "clerk of the court",
+        "translation": "裁判所書記官"
+      },
+      {
+        "word": "appeal brief",
+        "translation": "控訴理由書"
+      },
+      {
+        "word": "complaint",
+        "translation": "訴状"
+      },
+      {
+        "word": "request permission",
+        "translation": "許可を求める"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Order of Clarification",
+    "definition": "An official procedural order issued by the court (judge) to the parties, requesting them to supplement or clarify their allegations, defenses, or the facts relating to the case, pursuant to the court's duty of clarification (釈明権).",
+    "japaneseDefinition": "裁判所が当事者に対し、主張、防御方法または事実関係について、その補充や説明を求めるために発する職権的な命令。",
+    "japaneseWordTranslation": "釈明処分 (しゃくめいしょぶん)",
+    "legalContext": "Code of Civil Procedure (CCP) Art. 149(3): The court may, when necessary to clarify the allegations or evidence, order the parties to submit documentation or to provide necessary explanations.",
+    "japaneseLegalContext": "民事訴訟法第149条第3項: 裁判所は、主張又は証拠を明らかにするため必要があると認めるときは、当事者に対し、書類を提出させ、又は必要な説明をさせることができる。",
+    "exampleSentence": "The judge issued a Judicial Order of Clarification regarding the ambiguous contractual terms presented in the complaint.",
+    "exampleTranslation": "裁判官は、訴状に提示された曖昧な契約条件に関して、釈明処分を下した。",
+    "vocabularyList": [
+      {
+        "word": "allegations",
+        "translation": "主張"
+      },
+      {
+        "word": "evidence",
+        "translation": "証拠"
+      },
+      {
+        "word": "contractual terms",
+        "translation": "契約条件"
+      },
+      {
+        "word": "ambiguous",
+        "translation": "曖昧な"
+      },
+      {
+        "word": "supplement",
+        "translation": "補充"
+      },
+      {
+        "word": "submit documentation",
+        "translation": "書類を提出させる"
+      },
+      {
+        "word": "judge",
+        "translation": "裁判官"
       }
     ]
   }

@@ -3692,5 +3692,119 @@
         "translation": "新たな資産"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Confidentiality (in Preservation)",
+    "definition": "The procedural rule in Civil Preservation law dictating that the court typically rules on a preservation motion without first conducting an examination (審尋) of the debtor, ensuring the swift implementation of the order before the debtor can hide or dispose of assets.",
+    "japaneseDefinition": "債務者が保全処分を察知して財産を隠匿・処分することを防ぐため、債務者の審尋を経ずに保全命令を発することを可能とする、民事保全法の基本原則。",
+    "japaneseWordTranslation": "密行主義 (みっこうしゅぎ)",
+    "legalContext": "A fundamental principle guiding the operation of the Civil Preservation Act (Minji Hozen Hō), emphasizing urgency and effectiveness.",
+    "japaneseLegalContext": "民事保全法の運営における基本原則。",
+    "exampleSentence": "Due to the application of the **principle of confidentiality (in preservation)**, the preservation court issued the provisional attachment order ex parte, minimizing the risk of asset dissipation.",
+    "exampleTranslation": "密行主義の適用により、保全裁判所は資産散逸のリスクを最小限に抑えるため、一方的審理で仮差押え命令を発した。",
+    "vocabularyList": [
+      {
+        "word": "preservation motion",
+        "translation": "保全の申立て (ほぜんのもうしたて)"
+      },
+      {
+        "word": "examination (of the debtor)",
+        "translation": "審尋 (しんじん)"
+      },
+      {
+        "word": "asset dissipation",
+        "translation": "資産散逸 (しさんさんいつ)"
+      },
+      {
+        "word": "provisional attachment order",
+        "translation": "仮差押え命令 (かりさしおさえめいれい)"
+      },
+      {
+        "word": "ex parte",
+        "translation": "一方的 (いっぽうてき)"
+      },
+      {
+        "word": "swift implementation",
+        "translation": "迅速な実施 (じんそくなじっし)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Revocation upon Failure to Initiate Principal Action",
+    "definition": "The mandatory cancellation of a provisional preservation order (provisional attachment or provisional disposition) because the preservation obligee failed to file the action on the merits (the principal action) within the specific time period stipulated by the preservation court.",
+    "japaneseDefinition": "保全債権者が、裁判所が定めた期間内に本案の訴えを提起しない場合に、裁判所の決定によって保全命令が取り消されること。",
+    "japaneseWordTranslation": "本案の訴え提起義務違反による取消し (ほんあんのうったえていきぎむいはんによるとりけし)",
+    "legalContext": "Civil Preservation Act Art. 37(1)(ii): Cancellation of Provisional Preservation Measures (Period lapse).",
+    "japaneseLegalContext": "民事保全法第37条第1項第2号 (保全の取消し)。",
+    "exampleSentence": "The obligor filed a successful motion for **revocation upon failure to initiate principal action** after the obligee missed the 30-day deadline to commence the lawsuit over the breach of contract.",
+    "exampleTranslation": "債務者は、債権者が契約違反に関する訴訟を開始するための30日間の期限を過ぎたため、本案の訴え提起義務違反による取消しの申立てを成功させた。",
+    "vocabularyList": [
+      {
+        "word": "mandatory cancellation",
+        "translation": "職権による取消し (しょっけんによるとりけし)"
+      },
+      {
+        "word": "action on the merits",
+        "translation": "本案の訴え (ほんあんのうったえ)"
+      },
+      {
+        "word": "stipulated time period",
+        "translation": "定められた期間 (さだめられたきかん)"
+      },
+      {
+        "word": "breach of contract",
+        "translation": "契約違反 (けいやくいはん)"
+      },
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分 (かりしょぶん)"
+      },
+      {
+        "word": "motion for revocation",
+        "translation": "取消しの申立て (とりけしのもうしたて)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit to Exempt Preservation Enforcement",
+    "definition": "The procedural right of a preservation debtor, particularly in provisional attachment cases, to post a cash deposit with the deposit office to immediately exempt the targeted property from the effects of the enforcement measure.",
+    "japaneseDefinition": "特に仮差押えにおいて、保全債務者が法務局等に金銭を供託することで、対象財産の保全執行を解除させるための手続き。",
+    "japaneseWordTranslation": "保全の執行の免脱のための供託 (ほぜんのしっこうのめんだつのためのきょうたく)",
+    "legalContext": "Civil Preservation Act Art. 25(2) (Permitting discharge of provisional attachment upon deposit).",
+    "japaneseLegalContext": "民事保全法第25条第2項 (仮差押えの解放を認める規定)。",
+    "exampleSentence": "Upon the seizure of the company's equipment, the debtor utilized the right to make a **deposit to exempt preservation enforcement** to resume production immediately.",
+    "exampleTranslation": "会社の設備が差し押さえられた際、債務者は直ちに生産を再開するために、保全の執行の免脱のための供託を行う権利を行使した。",
+    "vocabularyList": [
+      {
+        "word": "targeted property",
+        "translation": "対象財産 (たいしょうざいさん)"
+      },
+      {
+        "word": "post a deposit",
+        "translation": "供託をする (きょうたくをする)"
+      },
+      {
+        "word": "procedural right",
+        "translation": "手続上の権利 (てつづきじょうのけんり)"
+      },
+      {
+        "word": "resume production",
+        "translation": "生産を再開する (せいさんをさいかいする)"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え (さしおさえ)"
+      },
+      {
+        "word": "cancellation of enforcement",
+        "translation": "執行の解除 (しっこうのかいじょ)"
+      }
+    ]
   }
 ]

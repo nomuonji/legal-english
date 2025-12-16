@@ -3778,5 +3778,115 @@
         "translation": "会社決議"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "De Facto Director",
+    "definition": "An individual who, despite not being formally appointed or registered as a director, wields substantial influence over the company's management and is treated externally as if they were a director, thereby incurring similar liabilities to third parties.",
+    "japaneseDefinition": "取締役として選任または登記されていないが、会社の業務執行に対し、取締役と同等以上の影響力を行使し、かつ外見上取締役のように扱われるため、第三者に対し取締役と同様の責任を負う者。",
+    "japaneseWordTranslation": "事実上の取締役 (じじつじょうのとりしまりやく)",
+    "legalContext": "Companies Act Art. 85(1): An individual who has executed the business of a company under the title of a director or any other title that leads a third party to believe they are a director, shall bear the same liability to the third party as a director.",
+    "japaneseLegalContext": "会社法第85条第1項：取締役として、又は業務を執行する役員として、会社を代表し、又はその業務を執行する権限があるものと認められる名称を付した者であって、重要な地位に就き、会社の業務を執行したものは、その行為について、取締役と同一の責任を負う。",
+    "exampleSentence": "The court found the primary shareholder was a De Facto Director and held him liable to the creditor under Companies Act Article 85 for unauthorized transactions.",
+    "exampleTranslation": "裁判所は、主要株主が事実上の取締役であると認定し、会社法第85条に基づき、不正な取引に関して債権者に対する責任を負わせた。",
+    "vocabularyList": [
+      {
+        "word": "Primary shareholder",
+        "translation": "主要株主 (しゅようかぶぬし)"
+      },
+      {
+        "word": "Held liable",
+        "translation": "責任を負わせた (せきにんをおわせた)"
+      },
+      {
+        "word": "Unauthorized transactions",
+        "translation": "不正な取引 (ふせいなとりひき)"
+      },
+      {
+        "word": "Wields substantial influence",
+        "translation": "実質的な影響力を行使する (じっしつてきなえいきょうりょくをこうしする)"
+      },
+      {
+        "word": "Creditor",
+        "translation": "債権者 (さいけんしゃ)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restriction on Representative Authority",
+    "definition": "Limitations placed, typically in the Articles of Incorporation or by board resolution, on the scope or manner in which a representative director may legally act on behalf of the company.",
+    "japaneseDefinition": "代表取締役が会社を代表して行為を行う権限の範囲や方法について、定款や取締役会決議により加えられる制限。",
+    "japaneseWordTranslation": "代表権の制限 (だいひょうけんのせいげん)",
+    "legalContext": "Companies Act Art. 908(1): Matters required to be registered under this Act may not be asserted against a third party acting in good faith until after the registration has been completed.",
+    "japaneseLegalContext": "会社法第908条第1項：この法律の規定により登記すべき事項は、登記の後でなければ、善意の第三者に対抗することができない。",
+    "exampleSentence": "Since the Restriction on Representative Authority was not registered, the company could not assert it against the third-party contractor who had acted in reliance on the director's apparent authority.",
+    "exampleTranslation": "代表権の制限が登記されていなかったため、会社は取締役の表見上の権限を信頼して行動した第三者の請負業者に対してそれを主張できなかった。",
+    "vocabularyList": [
+      {
+        "word": "Articles of Incorporation",
+        "translation": "定款 (ていかん)"
+      },
+      {
+        "word": "Board resolution",
+        "translation": "取締役会決議 (とりしまりやくかいけつぎ)"
+      },
+      {
+        "word": "Apparent authority",
+        "translation": "表見上の権限 (ひょうけんじょうのけんげん)"
+      },
+      {
+        "word": "Third-party contractor",
+        "translation": "第三者の請負業者 (だいさんしゃのうけおいぎょうしゃ)"
+      },
+      {
+        "word": "Acted in reliance",
+        "translation": "信頼して行動した (しんらいしてこうどうした)"
+      },
+      {
+        "word": "Assert (oppose)",
+        "translation": "対抗する (たいこうする)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Declaration of Nullity of Establishment",
+    "definition": "A specific legal action prescribed by the Companies Act by which shareholders, directors, or other limited parties may challenge the validity of a company's formation based on serious statutory defects in the incorporation process.",
+    "japaneseDefinition": "会社の設立手続における重大な法令違反などを理由として、株主や取締役など特定の者が会社の設立の無効を裁判所に求める訴訟形態。",
+    "japaneseWordTranslation": "設立無効の訴え (せつりつむこうのうったえ)",
+    "legalContext": "Companies Act Art. 828(1)(i): The establishment of a stock company may only be challenged by an action for declaration of nullity of establishment.",
+    "japaneseLegalContext": "会社法第828条第1項第1号：株式会社の設立の無効は、訴えをもってのみ主張することができる。",
+    "exampleSentence": "If the incorporator fraudulently overstated the value of contribution in kind, an Action for Declaration of Nullity of Establishment may be brought within the prescribed period.",
+    "exampleTranslation": "設立者が現物出資の価値を詐欺的に過大に表示した場合、所定の期間内に設立無効の訴えを提起することができる。",
+    "vocabularyList": [
+      {
+        "word": "Incorporator",
+        "translation": "設立者 (せつりつしゃ)"
+      },
+      {
+        "word": "Contribution in kind",
+        "translation": "現物出資 (げんぶつしゅっし)"
+      },
+      {
+        "word": "Fraudulently overstated",
+        "translation": "詐欺的に過大に表示した (さぎてきにかだいにひょうじした)"
+      },
+      {
+        "word": "Validity",
+        "translation": "有効性 (ゆうこうせい)"
+      },
+      {
+        "word": "Statutory defects",
+        "translation": "法令上の欠陥 (ほうれいじょうのけっかん)"
+      },
+      {
+        "word": "Prescribed period",
+        "translation": "所定の期間 (しょていのきかん)"
+      }
+    ]
   }
 ]

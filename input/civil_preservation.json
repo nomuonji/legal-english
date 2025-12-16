@@ -3920,5 +3920,119 @@
         "translation": "送達証明 (そうたつしょうめい)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cancellation of Security",
+    "definition": "The formal judicial procedure to petition the court to release or discharge the security deposit (bond) provided by the preservation obligee (or debtor) once the purpose for which the security was posted has been fulfilled or the preservation measure has been terminated.",
+    "japaneseDefinition": "保全命令が失効したり、本案訴訟で保全債権者の敗訴が確定したりした後など、担保を提供した目的が消滅した場合に、裁判所に担保金の解放を求める手続。",
+    "japaneseWordTranslation": "担保の取消し (たほのとりけし)",
+    "legalContext": "Civil Preservation Act Art. 44 (1): The court, upon motion, shall decide to cancel the security in the cases specified in the subsequent paragraphs.",
+    "japaneseLegalContext": "民事保全法第44条第1項: 裁判所は、申立てにより、次に掲げる場合には、担保の取消しの決定をしなければならない。",
+    "exampleSentence": "Following the dismissal of the principal action, the Preservation Obligee filed a motion for the cancellation of security deposit that had been posted for the provisional attachment.",
+    "exampleTranslation": "本案訴訟の棄却後、保全債権者は仮差押のために供託されていた担保金の取消しを申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "security deposit",
+        "translation": "担保金 (たほきん)"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て (もうしたて)"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え (かりさしおさえ)"
+      },
+      {
+        "word": "principal action",
+        "translation": "本案 (ほあん)"
+      },
+      {
+        "word": "dismissal",
+        "translation": "棄却 (ききゃく)"
+      },
+      {
+        "word": "Preservation Obligee",
+        "translation": "保全債権者 (ほぜんさいけんしゃ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Plausibility",
+    "definition": "The specific standard of proof required in Civil Preservation procedures, wherein the applicant must demonstrate the facts necessary to obtain a preservation order (the existence of the claim and the need for preservation) appear highly probable, falling short of the stringent requirement of 'full proof' required in the principal action.",
+    "japaneseDefinition": "民事保全手続において要求される立証の程度。権利の存在や保全の必要性について、裁判官が確信を得る必要はなく、高度の蓋然性（確からしさ）を示すことで足りる。",
+    "japaneseWordTranslation": "疎明 (そめい)",
+    "legalContext": "Civil Preservation Act Art. 13 (1): Facts supporting the issuance of a preservation order must be evidenced by prima facie showing (Plausibility).",
+    "japaneseLegalContext": "民事保全法第13条第1項: 保全命令は、疎明に基づいて発することができる。",
+    "exampleSentence": "The court found that the plaintiff had met the standard of plausibility regarding the existence of the claim, but failed to show sufficient urgency for preservation.",
+    "exampleTranslation": "裁判所は、原告が権利の存在に関して疎明の基準を満たしたと認定したが、保全の必要性については十分な緊急性を示せなかった。",
+    "vocabularyList": [
+      {
+        "word": "standard of proof",
+        "translation": "立証の程度 (りっしょうのていど)"
+      },
+      {
+        "word": "existence of the claim",
+        "translation": "権利の存在 (けんりのそんざい)"
+      },
+      {
+        "word": "full proof",
+        "translation": "証明 (しょうめい)"
+      },
+      {
+        "word": "urgency",
+        "translation": "緊急性 (きんきゅうせい)"
+      },
+      {
+        "word": "preservation order",
+        "translation": "保全命令 (ほぜんめいれい)"
+      },
+      {
+        "word": "to find/recognize",
+        "translation": "認定する (にんていする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Disposition for Interim Performance",
+    "definition": "A type of provisional disposition (injunction) intended to establish a temporary status quo by ordering the preservation debtor to actively perform a specific action, such as making a temporary payment, delivering property, or reinstating a contractual position, pending the outcome of the principal lawsuit.",
+    "japaneseDefinition": "係争中の権利関係について、本案判決までの間に、債務者に対して金銭の給付、物の引渡し、または特定行為を暫定的に命じ、仮の地位を定めることを目的とする仮処分。",
+    "japaneseWordTranslation": "給付仮処分 (きゅうふかりしょぶん)",
+    "legalContext": "Civil Preservation Act Art. 23 (2): Provisional disposition may be ordered to provisionally establish a status concerning the relationship of rights in dispute (including ordering performance).",
+    "japaneseLegalContext": "民事保全法第23条第2項: 仮処分は、争いがある権利関係について、仮の地位を定めることを命ずることができる（給付を命ずることを含む）。",
+    "exampleSentence": "The court issued a Provisional Disposition for Interim Performance, mandating the defendant company to temporarily reinstate the plaintiff employee until the final judgment on the wrongful termination claim.",
+    "exampleTranslation": "裁判所は、不当解雇の請求に関する最終判決が出るまで、被告企業に対し原告の従業員を暫定的に復職させるよう命じる給付仮処分を発した。",
+    "vocabularyList": [
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分 (かりしょぶん)"
+      },
+      {
+        "word": "interim",
+        "translation": "暫定的 (ざんていてき)"
+      },
+      {
+        "word": "final judgment",
+        "translation": "最終判決 (さいしゅうはんけつ)"
+      },
+      {
+        "word": "wrongful termination",
+        "translation": "不当解雇 (ふとうかいこ)"
+      },
+      {
+        "word": "mandating performance",
+        "translation": "給付を命じる (きゅうふをめいじる)"
+      },
+      {
+        "word": "principal lawsuit",
+        "translation": "本案訴訟 (ほあんそしょう)"
+      }
+    ]
   }
 ]

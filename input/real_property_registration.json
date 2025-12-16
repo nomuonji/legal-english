@@ -3546,5 +3546,119 @@
         "translation": "敷地利用権"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ex Officio Correction",
+    "definition": "The rectification of an error or omission in a real property registration record conducted solely by the registrar based on their own authority, typically when the error originated from the registry office itself.",
+    "japaneseDefinition": "登記官が自らの職権に基づき、誤りまたは遺漏のある登記を申請なしで是正すること。通常、登記官の過誤により生じた場合に限られる。",
+    "japaneseWordTranslation": "職権による更正 (しょっけんによるこうせい)",
+    "legalContext": "Real Property Registration Act Art. 25 & 67: Grounds for the registrar to conduct registration correction ex officio.",
+    "japaneseLegalContext": "不動産登記法第25条及び第67条: 登記官が職権により登記の更正を行うことができる事由。",
+    "exampleSentence": "If the discrepancy in the registered area was clearly the result of a registrar's input error, the Ex Officio Correction procedure must be utilized.",
+    "exampleTranslation": "登記された面積の不一致が明らかに登記官の入力ミスに起因する場合、職権による更正の手続が利用されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "rectification",
+        "translation": "是正 / 訂正"
+      },
+      {
+        "word": "omission",
+        "translation": "遺漏 / 記載漏れ"
+      },
+      {
+        "word": "discrepancy",
+        "translation": "不一致 / 相違"
+      },
+      {
+        "word": "input error",
+        "translation": "入力ミス"
+      },
+      {
+        "word": "originated from",
+        "translation": "起因する"
+      },
+      {
+        "word": "utilize",
+        "translation": "利用する"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designated Register Office",
+    "definition": "A specific registry office designated by the Minister of Justice to exclusively handle all registration procedures for a single piece of real property (land or building) that falls under the jurisdiction of multiple registry offices.",
+    "japaneseDefinition": "一筆の不動産（土地または建物）が複数の登記所の管轄区域にまたがる場合に、法務大臣がその不動産に関する登記事務を処理するために指定する単一の登記所。",
+    "japaneseWordTranslation": "指定登記所 (していとうきじょ)",
+    "legalContext": "Real Property Registration Act Art. 7: Where real property falls under the jurisdiction of two or more registry offices, the Minister of Justice shall designate one.",
+    "japaneseLegalContext": "不動産登記法第7条: 一個の不動産が二個所以上の登記所の管轄に属するときは、法務大臣が一の登記所を指定する。",
+    "exampleSentence": "Due to the land parcel traversing two administrative districts, the Minister of Justice issued a determination establishing the Designated Register Office for all subsequent applications.",
+    "exampleTranslation": "その土地が一つの区画を横断しているため、法務大臣は、その後のすべての申請に関して指定登記所を定める決定を発出した。",
+    "vocabularyList": [
+      {
+        "word": "exclusively handle",
+        "translation": "専属的に処理する"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄区域"
+      },
+      {
+        "word": "traversing",
+        "translation": "横断する"
+      },
+      {
+        "word": "administrative district",
+        "translation": "行政区画"
+      },
+      {
+        "word": "issued a determination",
+        "translation": "決定を発出する"
+      },
+      {
+        "word": "subsequent applications",
+        "translation": "その後の申請"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Application by Subrogation",
+    "definition": "The right of a third party, typically a creditor or a successor in interest, to file a registration application on behalf of the registered title holder who has neglected the duty to register, in order to preserve the third party's legal interests.",
+    "japaneseDefinition": "債権者や権利承継人などの第三者が、自己の正当な利益を保全するため、登記義務を怠っている登記名義人に代わって登記申請を行う権利。",
+    "japaneseWordTranslation": "代位申請 (だいいしんせい)",
+    "legalContext": "Real Property Registration Act Art. 47 & 61: Specifies that those who are entitled to apply for registration by subrogation may file the application.",
+    "japaneseLegalContext": "不動産登記法第47条及び第61条: 登記を代位して申請することができる者は、代位申請を行うことができる旨を規定。",
+    "exampleSentence": "The bank filed an Application by Subrogation to register the transfer of ownership into the debtor's name, as the debtor had repeatedly failed to comply with their registration duties.",
+    "exampleTranslation": "債務者が登記義務の履行を再三怠ったため、銀行は所有権移転の登記を行うべく代位申請を行った。",
+    "vocabularyList": [
+      {
+        "word": "third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "successor in interest",
+        "translation": "権利承継人"
+      },
+      {
+        "word": "neglected the duty",
+        "translation": "義務を怠る"
+      },
+      {
+        "word": "preserve legal interests",
+        "translation": "法的利益を保全する"
+      },
+      {
+        "word": "comply with",
+        "translation": "〜を遵守する/履行する"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      }
+    ]
   }
 ]

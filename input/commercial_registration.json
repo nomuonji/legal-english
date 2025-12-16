@@ -2,40 +2,6 @@
   {
     "category": "Commercial Registration (商業登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Trade Name",
-    "definition": "The name under which a merchant conducts business and which is registered to identify the business entity.",
-    "japaneseDefinition": "商人が営業を行う際に使用する名称であり、事業主体を識別するために登記されるもの。",
-    "japaneseWordTranslation": "商号 (しょうごう)",
-    "legalContext": "Commercial Registration Act Art. 27: No trade name identical to another trade name registered at the same location shall be registered.",
-    "japaneseLegalContext": "商業登記法第27条：同一の所在場所においては、他人が登記した商号と同一の商号は、登記することができない。",
-    "exampleSentence": "The company decided to change its trade name to reflect its new business strategy.",
-    "exampleTranslation": "その会社は新しい事業戦略を反映させるために商号を変更することを決定した。",
-    "vocabularyList": [
-      {
-        "word": "Merchant",
-        "translation": "商人"
-      },
-      {
-        "word": "Identify",
-        "translation": "識別する"
-      },
-      {
-        "word": "Entity",
-        "translation": "主体"
-      },
-      {
-        "word": "Location",
-        "translation": "所在場所"
-      },
-      {
-        "word": "Identical",
-        "translation": "同一の"
-      }
-    ]
-  },
-  {
-    "category": "Commercial Registration (商業登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Registry Office",
     "definition": "The government office (Legal Affairs Bureau) responsible for handling registration affairs.",
     "japaneseDefinition": "登記事務をつかさどる役所（法務局、地方法務局など）。",
@@ -3870,6 +3836,120 @@
       {
         "word": "conclusive evidence",
         "translation": "決定的な証拠"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Dissolution due to Expiration of Term",
+    "definition": "The compulsory registration procedure required when a company's tenure is terminated because the specific duration set forth in its articles of incorporation has elapsed.",
+    "japaneseDefinition": "定款で定めた会社の存続期間が満了したことによる解散の登記。会社は解散後、清算手続きに進む。",
+    "japaneseWordTranslation": "期間満了による解散の登記 (きかんまんりょうによるかいさんのとうき)",
+    "legalContext": "Commercial Registration Act establishes the duty to register grounds for dissolution within a specified period.",
+    "japaneseLegalContext": "商業登記法（解散事由発生後2週間以内の登記義務）",
+    "exampleSentence": "Pursuant to the charter, upon the expiration of the twenty-year duration, the company promptly submitted the application for the Registration of Dissolution due to Expiration of Term.",
+    "exampleTranslation": "定款に従い、20年の存続期間満了に伴い、会社は速やかに期間満了による解散の登記の申請を提出した。",
+    "vocabularyList": [
+      {
+        "word": "charter",
+        "translation": "定款"
+      },
+      {
+        "word": "pursuant to",
+        "translation": "〜に従い"
+      },
+      {
+        "word": "duration",
+        "translation": "存続期間"
+      },
+      {
+        "word": "promptly submitted",
+        "translation": "速やかに提出した"
+      },
+      {
+        "word": "compulsory registration",
+        "translation": "義務的な登記"
+      },
+      {
+        "word": "tenure",
+        "translation": "存続"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Relocation Outside Jurisdiction",
+    "definition": "A mandatory procedure required when a company moves its Head Office from the area governed by one registry office to an area governed by a different registry office, necessitating filings in both districts.",
+    "japaneseDefinition": "会社が本店を、管轄の異なる他の登記所の区域内に移転する際に行う登記手続き。旧所在地と新所在地の両方で登記が必要となる。",
+    "japaneseWordTranslation": "管轄外移転の登記 (かんかつがいいのとうき)",
+    "legalContext": "Commercial Registration Act Art. 51(2): Registration of the relocation shall be filed within two weeks at the former location and within three weeks at the new location.",
+    "japaneseLegalContext": "商業登記法第51条第2項（他の登記所の管轄区域内に本店を移転したときの登記）",
+    "exampleSentence": "If the company shifts its principal place of business across prefectural lines, the *Registration of Relocation Outside Jurisdiction* must be handled via simultaneous application to both relevant registry offices.",
+    "exampleTranslation": "会社が本店所在地を県境を越えて移す場合、管轄外移転の登記は、関連する両方の登記所への同時申請によって処理されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "shifts",
+        "translation": "移転する"
+      },
+      {
+        "word": "principal place of business",
+        "translation": "本店所在地"
+      },
+      {
+        "word": "prefectural lines",
+        "translation": "県境"
+      },
+      {
+        "word": "simultaneous application",
+        "translation": "同時申請"
+      },
+      {
+        "word": "registry offices",
+        "translation": "登記所"
+      },
+      {
+        "word": "governed by",
+        "translation": "管轄される"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Application Based on Final and Binding Judgment",
+    "definition": "A registration application procedure where the prevailing party secures the required registration unilaterally, using a judicial decision, because the registration obligor refuses to cooperate in the joint application process.",
+    "japaneseDefinition": "登記義務者が登記の申請に協力しない場合に、勝訴した者が確定した裁判所の判決に基づいて単独で行う登記申請。",
+    "japaneseWordTranslation": "確定判決による登記申請 (かくいていはんけつによるとうきしんせい)",
+    "legalContext": "Commercial Registration Act Art. 29 allows registration based on judicial decisions, bypassing the general requirement for joint application when necessary.",
+    "japaneseLegalContext": "商業登記法第29条（判決による登記）",
+    "exampleSentence": "After the court issued a mandate regarding the corporate purpose change, the obligee used the *Registration Application Based on Final and Binding Judgment* to execute the registration due to the former director’s non-cooperation.",
+    "exampleTranslation": "裁判所が会社の目的変更に関する命令を発した後、旧取締役の非協力のため、債権者は確定判決による登記申請を用いて登記を実行した。",
+    "vocabularyList": [
+      {
+        "word": "prevailing party",
+        "translation": "勝訴者"
+      },
+      {
+        "word": "unilaterally",
+        "translation": "単独で"
+      },
+      {
+        "word": "registration obligor",
+        "translation": "登記義務者"
+      },
+      {
+        "word": "joint application",
+        "translation": "共同申請"
+      },
+      {
+        "word": "mandate",
+        "translation": "命令"
+      },
+      {
+        "word": "corporate purpose",
+        "translation": "会社の目的"
       }
     ]
   }

@@ -3992,5 +3992,119 @@
         "translation": "回収"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order to Collect Money",
+    "definition": "A specific court order in the execution process for monetary claims, permitting the execution obligee to collect the seized claim directly from the third-party debtor, replacing the normal execution process.",
+    "japaneseDefinition": "差し押さえられた債権について、執行債権者に第三債務者から直接その債権を取り立てる権能を付与する裁判所の命令。",
+    "japaneseWordTranslation": "取立命令 (とりたてめいれい)",
+    "legalContext": "Civil Execution Act, Article 155 (Order to Collect Money)",
+    "japaneseLegalContext": "民事執行法第百五十五条（取立命令）",
+    "exampleSentence": "The execution obligee successfully obtained an **Order to Collect Money** subsequent to the seizure of the obligor’s bank account claim against the financial institution.",
+    "exampleTranslation": "執行債権者は、金融機関に対する債務者の銀行口座債権の差押え後、取立命令の取得に成功した。",
+    "vocabularyList": [
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "seized claim",
+        "translation": "差し押さえられた債権"
+      },
+      {
+        "word": "third-party debtor",
+        "translation": "第三債務者"
+      },
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権"
+      },
+      {
+        "word": "execution process",
+        "translation": "執行手続"
+      },
+      {
+        "word": "financial institution",
+        "translation": "金融機関"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Security Deposit for Execution",
+    "definition": "A judicial mandate requiring a party, typically the execution obligor, to post security (a deposit) with the court, often as a prerequisite for suspending or canceling the compulsory execution procedure.",
+    "japaneseDefinition": "執行手続を停止または取り消すための前提条件として、当事者（通常は執行債務者）に対し、裁判所が担保の提供を命じること。",
+    "japaneseWordTranslation": "執行のための担保提供命令 (しっこうのためんのたんぽていきょうめいれい)",
+    "legalContext": "Civil Execution Act, Article 40 (Method of Suspension: Provision of Security)",
+    "japaneseLegalContext": "民事執行法第四十条（執行停止の方法：担保の提供）",
+    "exampleSentence": "The obligor filed an objection to the execution but was required by the court to comply with the **Order for Security Deposit for Execution** to temporarily suspend the foreclosure proceedings.",
+    "exampleTranslation": "債務者は執行異議を申し立てたが、競売手続を一時的に停止するため、裁判所から執行のための担保提供命令に従うよう求められた。",
+    "vocabularyList": [
+      {
+        "word": "judicial mandate",
+        "translation": "司法上の命令"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "prerequisite",
+        "translation": "前提条件"
+      },
+      {
+        "word": "to post security",
+        "translation": "担保を立てる"
+      },
+      {
+        "word": "execution obligor",
+        "translation": "執行債務者"
+      },
+      {
+        "word": "foreclosure proceedings",
+        "translation": "競売手続"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Against Earnings and Wages",
+    "definition": "A specific type of monetary claim execution targeting the obligor's periodic income, subject to statutory limits ensuring that a portion remains non-seizable for the maintenance of the debtor’s livelihood.",
+    "japaneseDefinition": "債務者の定期的な収入を対象とする金銭債権の執行手続であり、債務者の生活維持のため、一部が差押禁止財産となる法定の制限を受けるもの。",
+    "japaneseWordTranslation": "給与債権に対する執行 (きゅうよさいけんにたいするしっこう)",
+    "legalContext": "Civil Execution Act, Article 152 (Non-seizable Claims)",
+    "japaneseLegalContext": "民事執行法第百五十二条（差押禁止債権）",
+    "exampleSentence": "Due to the obligor's failure to make installment payments, the obligee initiated **Execution Against Earnings and Wages** against their monthly salary.",
+    "exampleTranslation": "債務者が分割払いを怠ったため、債権者は月給に対して給与債権に対する執行を開始した。",
+    "vocabularyList": [
+      {
+        "word": "periodic income",
+        "translation": "定期的収入"
+      },
+      {
+        "word": "statutory limits",
+        "translation": "法定の制限"
+      },
+      {
+        "word": "maintenance of livelihood",
+        "translation": "生活維持"
+      },
+      {
+        "word": "installment payments",
+        "translation": "分割払い"
+      },
+      {
+        "word": "non-seizable",
+        "translation": "差押禁止の"
+      },
+      {
+        "word": "monetary claim execution",
+        "translation": "金銭債権執行"
+      }
+    ]
   }
 ]

@@ -3964,5 +3964,131 @@
         "translation": "正式に作成された"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Fictitious Declaration of Intention",
+    "definition": "A declaration of intention made in collusion with another party, where the declarant does not actually intend to produce the declared legal effect (a sham transaction).",
+    "japaneseDefinition": "相手方と通じてした、真意ではない虚偽の意思表示。",
+    "japaneseWordTranslation": "虚偽表示 (きょぎひょうじ)",
+    "legalContext": "Civil Code Art. 94: A fictitious declaration of intention made in collusion with another party shall be null and void; provided, however, that the nullity may not be asserted against a third party acting in good faith.",
+    "japaneseLegalContext": "民法第94条: 相手方と通じてした虚偽の意思表示は、無効とする。ただし、これをもって善意の第三者に対抗することができない。",
+    "exampleSentence": "The court found that the transfer of the land title was based on a Fictitious Declaration of Intention and, therefore, ruled the transaction null and void.",
+    "exampleTranslation": "裁判所は、その土地の所有権移転が虚偽表示に基づくものであり、したがってその取引は無効であると判決した。",
+    "vocabularyList": [
+      {
+        "word": "collusion",
+        "translation": "通謀"
+      },
+      {
+        "word": "transfer of title",
+        "translation": "所有権移転"
+      },
+      {
+        "word": "null and void",
+        "translation": "無効"
+      },
+      {
+        "word": "good faith",
+        "translation": "善意"
+      },
+      {
+        "word": "to assert (against)",
+        "translation": "対抗する"
+      },
+      {
+        "word": "transaction",
+        "translation": "取引"
+      },
+      {
+        "word": "to rule",
+        "translation": "判決する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right in Personam",
+    "definition": "A right held by one person (the obligee) to demand a specific action or forbearance from another specific person (the obligor), contrasted with a right enforceable against all others (Right in Rem).",
+    "japaneseDefinition": "特定の者（債務者）に対し、一定の行為または不作為を要求できる権利。",
+    "japaneseWordTranslation": "債権 (さいけん)",
+    "legalContext": "Civil Code Book III (Obligations) governs the formation, effect, and extinction of Rights in Personam, including general principles of contract law.",
+    "japaneseLegalContext": "民法第3編（債権）は、契約法の一般原則を含む、債権の発生、効力及び消滅を規律する。",
+    "exampleSentence": "The purchaser held a Right in Personam against the seller for the delivery of the goods, but this right could not be enforced against a third-party buyer who had already received the goods.",
+    "exampleTranslation": "買主は売主に対し目的物の引渡しを求める債権を有していたが、この権利は既に対象物を受け取った第三者たる買主に対しては行使できなかった。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "forbearance",
+        "translation": "不作為"
+      },
+      {
+        "word": "delivery of the goods",
+        "translation": "目的物の引渡し"
+      },
+      {
+        "word": "Right in Rem",
+        "translation": "物権"
+      },
+      {
+        "word": "enforce",
+        "translation": "行使する"
+      },
+      {
+        "word": "extinction",
+        "translation": "消滅"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legal Relations Based on Status",
+    "definition": "Juridical acts that fundamentally concern personal status, family relationships, or affiliation, such as marriage, divorce, or recognition of paternity, governed primarily by Books IV and V of the Civil Code.",
+    "japaneseDefinition": "婚姻、離婚、認知など、人の身分または家族関係を形成・変更する法律行為。",
+    "japaneseWordTranslation": "身分行為 (みぶんこうい)",
+    "legalContext": "Civil Code Book IV (Relatives) requires strict formal compliance, such as registration with the family register (koseki), for the validity of Legal Relations Based on Status.",
+    "japaneseLegalContext": "民法第4編（親族）は、身分行為の有効性のため、戸籍への届出などの厳格な要式性の遵守を要求する。",
+    "exampleSentence": "Unlike property transactions, Legal Relations Based on Status are heavily regulated by non-waivable public policy provisions.",
+    "exampleTranslation": "財産取引とは異なり、身分行為は、放棄できない公序良俗の規定によって厳しく規制されている。",
+    "vocabularyList": [
+      {
+        "word": "paternity",
+        "translation": "父性"
+      },
+      {
+        "word": "recognition (of paternity)",
+        "translation": "認知"
+      },
+      {
+        "word": "family register (koseki)",
+        "translation": "戸籍"
+      },
+      {
+        "word": "formal compliance",
+        "translation": "要式性の遵守"
+      },
+      {
+        "word": "public policy provisions",
+        "translation": "公序良俗の規定"
+      },
+      {
+        "word": "relatives",
+        "translation": "親族"
+      },
+      {
+        "word": "non-waivable",
+        "translation": "放棄できない"
+      }
+    ]
   }
 ]

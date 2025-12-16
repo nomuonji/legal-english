@@ -4090,5 +4090,119 @@
         "translation": "放棄できない"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Declaration of Absence",
+    "definition": "A judicial declaration issued by the Family Court that legally deems a person whose whereabouts are unknown for a specified period (generally seven years) to have died, primarily for the purpose of commencing succession proceedings.",
+    "japaneseDefinition": "行方不明の状態が一定期間（通常７年間）継続した者について、家庭裁判所が利害関係人の請求により、法律上死亡したものとみなす決定（民法第30条）。",
+    "japaneseWordTranslation": "失踪宣告 (Shissō Senkoku)",
+    "legalContext": "Civil Code Art. 30 (1): 'If the whereabouts of a person have been unknown for seven years, the Family Court may, upon the petition of an interested person, make a declaration of absence.'",
+    "japaneseLegalContext": "民法第30条第1項: 「不在者の生死が七年間明らかでないときは、家庭裁判所は、利害関係人の請求により、失踪の宣告をすることができる。」",
+    "exampleSentence": "The Declaration of Absence was necessary for the spouse to settle the estate and claim the life insurance proceeds.",
+    "exampleTranslation": "配偶者が財産を整理し、生命保険金を受け取るためには、失踪宣告が必要であった。",
+    "vocabularyList": [
+      {
+        "word": "absentee",
+        "translation": "不在者"
+      },
+      {
+        "word": "whereabouts",
+        "translation": "行方"
+      },
+      {
+        "word": "Family Court",
+        "translation": "家庭裁判所"
+      },
+      {
+        "word": "interested person",
+        "translation": "利害関係人"
+      },
+      {
+        "word": "settle the estate",
+        "translation": "財産を整理する"
+      },
+      {
+        "word": "life insurance proceeds",
+        "translation": "生命保険金"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligation of Means",
+    "definition": "An obligation under which the debtor is not bound by the attainment of a specific outcome, but rather by the duty to exert diligent effort and employ the requisite professional skill to achieve a desired result.",
+    "japaneseDefinition": "債務者が特定の目的の達成を約束するのではなく、目的達成のために必要な手段や努力を尽くすこと自体を内容とする債務。結果債務と対比される。",
+    "japaneseWordTranslation": "手段債務 (Shudan Saimu)",
+    "legalContext": "Implied under Civil Code provisions governing mandate or similar service contracts, emphasizing the standard of diligence rather than the outcome (e.g., medical or legal services).",
+    "japaneseLegalContext": "委任契約等（民法第643条以下）に適用される義務として内在的に認められるものであり、結果ではなく注意義務の遂行が求められる。",
+    "exampleSentence": "A litigation agreement signed with an attorney typically constitutes an Obligation of Means, as the attorney cannot guarantee the judicial outcome.",
+    "exampleTranslation": "弁護士と締結した訴訟委任契約は、弁護士が裁判結果を保証できないため、通常、手段債務を構成する。",
+    "vocabularyList": [
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "attainment",
+        "translation": "達成"
+      },
+      {
+        "word": "diligent effort",
+        "translation": "努力を尽くすこと"
+      },
+      {
+        "word": "requisite professional skill",
+        "translation": "要求される専門的技能"
+      },
+      {
+        "word": "litigation agreement",
+        "translation": "訴訟委任契約"
+      },
+      {
+        "word": "judicial outcome",
+        "translation": "裁判結果"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principal (Amount)",
+    "definition": "The original amount of money lent or owed, upon which interest is calculated, excluding any accrued interest, costs, or penalties.",
+    "japaneseDefinition": "金銭債務において、元金または元手となる金額。利息、費用、損害金などを除いた本体の金額。",
+    "japaneseWordTranslation": "元本 (Ganpon)",
+    "legalContext": "Civil Code Art. 405 (Appropriation of Performance): 'If a debtor owes multiple obligations to the same obligee, and the tendered performance is insufficient to discharge all the obligations...' (includes rules on designating principal vs. interest).",
+    "japaneseLegalContext": "民法第405条（履行の充当）: 「債務者が同一の債権者に対し同種の給付を目的とする数個の債務を負担する場合において、弁済として提供した給付が全ての債務及び費用を消滅させるのに足りないとき…」（元本と利息の充当の順序を規定）。",
+    "exampleSentence": "The borrower was required to repay the principal amount of the loan plus any interest accrued up to the date of full settlement.",
+    "exampleTranslation": "借主は、融資の元本に加えて、完済日までに発生した利息をすべて返済しなければならなかった。",
+    "vocabularyList": [
+      {
+        "word": "loan",
+        "translation": "融資"
+      },
+      {
+        "word": "accrued interest",
+        "translation": "発生した利息"
+      },
+      {
+        "word": "full settlement",
+        "translation": "完済"
+      },
+      {
+        "word": "appropriate (payment)",
+        "translation": "（弁済を）充当する"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "insufficient",
+        "translation": "足りない"
+      }
+    ]
   }
 ]

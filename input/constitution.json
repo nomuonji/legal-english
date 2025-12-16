@@ -2,44 +2,6 @@
   {
     "category": "Constitution (憲法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Constitutional Amendment",
-    "definition": "The formal process by which changes are made to the supreme law of the land, requiring a supermajority vote in the National Diet and subsequent ratification by national referendum.",
-    "japaneseDefinition": "憲法の内容を変更する正式な手続き。国会で定める超党派の多数決と、その後の国民投票による承認が必要となる。",
-    "japaneseWordTranslation": "憲法改正 (けんぽうかいせい)",
-    "legalContext": "Constitution of Japan, Article 96: Amendments to this Constitution shall be initiated by the Diet, through a concurring vote of two-thirds or more of all the members of each House...",
-    "japaneseLegalContext": "日本国憲法第96条: この憲法の改正は、各議院の総議員の三分の二以上の賛成で、国会が、これを発議し...",
-    "exampleSentence": "The process for a Constitutional Amendment is notoriously difficult due to the requirement for a two-thirds majority in both legislative houses.",
-    "exampleTranslation": "憲法改正の手続きは、両議院での三分の二以上の多数決という要件があるため、極めて困難である。",
-    "vocabularyList": [
-      {
-        "word": "supermajority",
-        "translation": "超多数決"
-      },
-      {
-        "word": "national referendum",
-        "translation": "国民投票"
-      },
-      {
-        "word": "concurring vote",
-        "translation": "一致した投票"
-      },
-      {
-        "word": "legislative houses",
-        "translation": "議院"
-      },
-      {
-        "word": "ratification",
-        "translation": "批准／承認"
-      },
-      {
-        "word": "initiate",
-        "translation": "発議する"
-      }
-    ]
-  },
-  {
-    "category": "Constitution (憲法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Parliamentary Immunity",
     "definition": "The constitutional privilege granted to members of the National Diet, preventing their arrest or detention without the consent of the House during a session, except in cases of flagrant offense.",
     "japaneseDefinition": "国会議員に与えられた憲法上の特権であり、会期中は現行犯の場合を除いて、所属する議院の許諾なしに逮捕・拘禁されない権利。",
@@ -3706,6 +3668,120 @@
       {
         "word": "democratic rule",
         "translation": "民主的統治"
+      }
+    ]
+  },
+  {
+    "category": "Constitution (憲法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Act in Matters of State",
+    "definition": "The formal, non-political actions performed by the Emperor in accordance with the Constitution, requiring the advice and approval of the Cabinet.",
+    "japaneseDefinition": "天皇が内閣の助言と承認に基づき、日本国憲法の定める手続きに従って行う形式的、非政治的な行為。",
+    "japaneseWordTranslation": "国事行為 (こくじこうい)",
+    "legalContext": "Constitution of Japan, Article 3 & 4: The Emperor's functions are limited to those acts provided for in the Constitution, and he shall have no powers related to government.",
+    "japaneseLegalContext": "日本国憲法第3条および第4条: 天皇の権能は、この憲法に定める国事に関する行為のみに限られ、国政に関する権能を有しない。",
+    "exampleSentence": "The Emperor's promulgation of a new law, after it has been properly enacted by the Diet, is performed as an **Act in Matters of State**.",
+    "exampleTranslation": "国会によって適切に制定された後、天皇が新しい法律を公布することは、国事行為として実施される。",
+    "vocabularyList": [
+      {
+        "word": "promulgation",
+        "translation": "公布"
+      },
+      {
+        "word": "advice and approval",
+        "translation": "助言と承認"
+      },
+      {
+        "word": "formal actions",
+        "translation": "形式的行為"
+      },
+      {
+        "word": "Cabinet",
+        "translation": "内閣"
+      },
+      {
+        "word": "enacted",
+        "translation": "制定された"
+      },
+      {
+        "word": "non-political",
+        "translation": "非政治的"
+      }
+    ]
+  },
+  {
+    "category": "Constitution (憲法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Doctrine of Dual Character",
+    "definition": "A principle of constitutional adjudication where courts apply stricter scrutiny to governmental actions that infringe upon spiritual freedoms (e.g., speech) and more deferential scrutiny (rationality review) to economic regulations.",
+    "japaneseDefinition": "精神的自由の制限には厳格な審査基準を、経済的自由の制限には緩やかな審査基準を適用するという、憲法訴訟における判例上の原則。",
+    "japaneseWordTranslation": "二重の基準 (にじゅうのきじゅん)",
+    "legalContext": "A judicial doctrine established by precedent regarding the different standards of scrutiny applied based on the nature of the right being restricted (spiritual vs. economic freedom).",
+    "japaneseLegalContext": "制限される権利の性質（精神的自由か経済的自由か）に基づいて適用される審査基準に関する判例によって確立された法理。",
+    "exampleSentence": "Under the **Doctrine of Dual Character**, regulations restricting political speech are subject to higher **strict scrutiny** than those regulating business activities.",
+    "exampleTranslation": "二重の基準の法理の下では、政治的な言論を制限する規制は、事業活動を規制するものよりも、より厳格な審査の対象となる。",
+    "vocabularyList": [
+      {
+        "word": "adjudication",
+        "translation": "司法判断"
+      },
+      {
+        "word": "strict scrutiny",
+        "translation": "厳格な審査"
+      },
+      {
+        "word": "spiritual freedoms",
+        "translation": "精神的自由"
+      },
+      {
+        "word": "deferential scrutiny",
+        "translation": "緩やかな審査"
+      },
+      {
+        "word": "economic regulations",
+        "translation": "経済規制"
+      },
+      {
+        "word": "precedent",
+        "translation": "判例"
+      }
+    ]
+  },
+  {
+    "category": "Constitution (憲法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Concrete Case Requirement",
+    "definition": "The fundamental requirement that the power to review the constitutionality of a law can only be exercised when a specific, genuine legal dispute (case or controversy) is presented to the court.",
+    "japaneseDefinition": "法の合憲性を審査する権能は、現実の法的紛争である「具体的事件」が裁判所に提起された場合にのみ行使できるという、裁判所の権能に関する根本的な要件。",
+    "japaneseWordTranslation": "具体的事件の要件 (ぐたいてきじけんのようけん)",
+    "legalContext": "Constitution of Japan, Article 81: While the ultimate judicial authority to determine constitutionality is granted, this power is restricted to the resolution of specific controversies.",
+    "japaneseLegalContext": "日本国憲法第81条: 合憲性を決定する終局的な司法権が与えられているが、この権能は具体的な紛争の解決に限定される。",
+    "exampleSentence": "Since Japanese courts do not have the power to issue advisory opinions, the **Concrete Case Requirement** ensures that the court is addressing an actual infringement of rights.",
+    "exampleTranslation": "日本の裁判所は諮問的意見を出す権能を持たないため、具体的事件の要件は、裁判所が実際の権利侵害に対処することを保証する。",
+    "vocabularyList": [
+      {
+        "word": "advisory opinions",
+        "translation": "諮問的意見"
+      },
+      {
+        "word": "genuine legal dispute",
+        "translation": "現実の法的紛争"
+      },
+      {
+        "word": "infringement of rights",
+        "translation": "権利侵害"
+      },
+      {
+        "word": "resolution",
+        "translation": "解決"
+      },
+      {
+        "word": "judicial authority",
+        "translation": "司法権"
+      },
+      {
+        "word": "controversies",
+        "translation": "紛争"
       }
     ]
   }

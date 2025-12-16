@@ -3660,5 +3660,81 @@
         "translation": "供託原因 (きょうたくげんいん)"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Depositor (Consignor of Performance)",
+    "definition": "The party who tenders performance and deposits the subject matter (money, securities, or other assets) with a designated Deposit Office, resulting in the extinguishment of the obligation.",
+    "japaneseDefinition": "弁済として、金銭、有価証券その他の物件を供託所に預け入れ、債務を消滅させる者をいう。",
+    "japaneseWordTranslation": "供託者 (きょうたくしゃ)",
+    "legalContext": "Civil Code Art. 494: \"If the obligor deposits the subject matter of the obligation with the Deposit Office... the obligation shall be extinguished.\"",
+    "japaneseLegalContext": "民法第494条: 「債務者が供託所に供託をしたときは、その債権は、消滅する。」",
+    "exampleSentence": "The depositor must accurately describe the legal grounds for consignment and the identity of the designated recipient on the official deposit application form.",
+    "exampleTranslation": "供託者は、正式な供託申請書に、供託の法定原因と指定された被供託者の身元を正確に記載しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "tender performance",
+        "translation": "弁済の提供をする"
+      },
+      {
+        "word": "subject matter",
+        "translation": "目的物"
+      },
+      {
+        "word": "Deposit Office",
+        "translation": "供託所"
+      },
+      {
+        "word": "extinguishment of the obligation",
+        "translation": "債務の消滅"
+      },
+      {
+        "word": "consignment",
+        "translation": "供託"
+      },
+      {
+        "word": "designated recipient",
+        "translation": "指定された被供託者"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Vesting in the National Treasury (Reversion)",
+    "definition": "The process by which deposited property becomes the property of the national government if it remains unclaimed by the legitimate entitlement holder after a statutorily defined period, typically twenty years.",
+    "japaneseDefinition": "供託された物件が、法令で定められた期間（通常20年）内に正当な権利者によって取り戻されない場合に、国庫の所有に移転すること。",
+    "japaneseWordTranslation": "国庫帰属 (こっこきぞく)",
+    "legalContext": "Deposit Act Art. 49(1): If the right to recover deposited money has not been exercised within twenty years, that money shall vest in the National Treasury.",
+    "japaneseLegalContext": "供託法第49条第1項: 供託金についてその取戻す権利が二十年間行使されないときは、その供託金は、国庫に帰属する。",
+    "exampleSentence": "The deposit registrar is required to periodically review the deposit record to identify unclaimed reclaimable assets nearing the statutory period for vesting in the National Treasury.",
+    "exampleTranslation": "供託官は、国庫帰属の法定期間に近づいている未請求の取戻可能財産を特定するため、定期的に供託記録を審査することが義務付けられている。",
+    "vocabularyList": [
+      {
+        "word": "unclaimed",
+        "translation": "未請求の"
+      },
+      {
+        "word": "statutorily defined period",
+        "translation": "法令で定められた期間"
+      },
+      {
+        "word": "deposit registrar",
+        "translation": "供託官"
+      },
+      {
+        "word": "deposit record",
+        "translation": "供託記録"
+      },
+      {
+        "word": "reclaimable assets",
+        "translation": "取戻可能財産"
+      },
+      {
+        "word": "exercised",
+        "translation": "行使される"
+      }
+    ]
   }
 ]

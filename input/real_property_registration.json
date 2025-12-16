@@ -3660,5 +3660,85 @@
         "translation": "債務者"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Registration",
+    "definition": "A preliminary registration made to preserve the priority ranking for a future substantive registration when the requirements for the substantive registration have not yet been fully met (e.g., lack of necessary approval or documentation).",
+    "japaneseDefinition": "将来行うべき本登記の順位を保全するために、本登記の要件が完全に満たされていない段階で行う予備的な登記。",
+    "japaneseWordTranslation": "仮登記 (かりとうき)",
+    "legalContext": "Real Property Registration Act, Article 105 (Purpose and Scope of Provisional Registration).",
+    "japaneseLegalContext": "不動産登記法第105条（仮登記の目的等）",
+    "exampleSentence": "A creditor often files a Provisional Registration for the establishment of a security interest pending the debtor's acquisition of the underlying property.",
+    "exampleTranslation": "債権者は、債務者による原不動産の取得が完了するまでの間、担保権設定のための仮登記を行うことが多い。",
+    "vocabularyList": [
+      {
+        "word": "substantive registration",
+        "translation": "本登記"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権"
+      },
+      {
+        "word": "acquisition",
+        "translation": "取得"
+      },
+      {
+        "word": "underlying property",
+        "translation": "原不動産"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Site Right",
+    "definition": "In the context of sectional ownership (condominiums), this refers to the fractional share of the land underlying the building that is inseparable from the exclusive ownership of a unit.",
+    "japaneseDefinition": "区分所有建物（マンションなど）において、専有部分（ユニット）の所有権と分離して処分できない、建物の敷地に対する持分権のこと。",
+    "japaneseWordTranslation": "敷地権 (しきちけん)",
+    "legalContext": "Act on Sectional Ownership of Buildings, Article 22 (Inseparability of Site Right).",
+    "japaneseLegalContext": "建物の区分所有等に関する法律第22条（敷地利用権の分離処分の禁止）",
+    "exampleSentence": "The Site Right must be registered together with the exclusive sectional ownership to prevent unauthorized separation of the building unit and the underlying land share.",
+    "exampleTranslation": "建物のユニットと底地の持分の不正な分離を防ぐため、敷地権は区分所有権と共に登記されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "sectional ownership",
+        "translation": "区分所有権"
+      },
+      {
+        "word": "fractional share",
+        "translation": "持分"
+      },
+      {
+        "word": "underlying land",
+        "translation": "底地"
+      },
+      {
+        "word": "inseparability",
+        "translation": "分離不能"
+      },
+      {
+        "word": "exclusive ownership",
+        "translation": "専有部分の所有権"
+      },
+      {
+        "word": "unauthorized separation",
+        "translation": "不正な分離"
+      },
+      {
+        "word": "building unit",
+        "translation": "建物のユニット（専有部分）"
+      }
+    ]
   }
 ]

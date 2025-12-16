@@ -3994,5 +3994,119 @@
         "translation": "法的に反映される"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Dissolution",
+    "definition": "The mandatory registration required upon the occurrence of an event that causes a company to cease its normal business operations, such as a resolution, triggering the commencement of the winding-up procedures.",
+    "japaneseDefinition": "会社が解散事由の発生（株主総会の決議など）により、通常の営業活動を終結させ、清算手続きを開始する際に義務付けられる登記。",
+    "japaneseWordTranslation": "解散の登記 (Kaisan no tōki)",
+    "legalContext": "Companies Act Art. 471 (Grounds for Dissolution); Commercial Registration Act Art. 93: 'The registration of dissolution must be applied for within two weeks from the day on which the cause of dissolution occurred.'",
+    "japaneseLegalContext": "会社法第471条（解散事由）、商業登記法第93条：「解散の登記は、解散の事由が生じた日から二週間以内に申請しなければならない。」",
+    "exampleSentence": "Following the special resolution passed by the shareholders, the company promptly filed the Registration of Dissolution with the competent registry office.",
+    "exampleTranslation": "株主によって特別決議が可決された後、その会社は直ちに管轄の登記所に解散の登記を申請した。",
+    "vocabularyList": [
+      {
+        "word": "mandatory registration",
+        "translation": "義務付けられた登記"
+      },
+      {
+        "word": "cessation of operations",
+        "translation": "業務の終結"
+      },
+      {
+        "word": "winding-up procedures",
+        "translation": "清算手続き"
+      },
+      {
+        "word": "special resolution",
+        "translation": "特別決議"
+      },
+      {
+        "word": "competent registry office",
+        "translation": "管轄登記所"
+      },
+      {
+        "word": "application must be filed",
+        "translation": "申請しなければならない"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Continuation",
+    "definition": "The formal registration required when a company, which has been dissolved (but not yet completed liquidation), decides through an appropriate resolution to revoke its dissolution and resume its active corporate status.",
+    "japaneseDefinition": "既に解散した会社が、清算結了前に適切な決議によって解散を取り消し、通常の営業活動を再開するために行う登記手続き。",
+    "japaneseWordTranslation": "継続の登記 (Keizoku no tōki)",
+    "legalContext": "Companies Act Art. 473: 'A company may resolve by a resolution of a general meeting of shareholders to continue its existence...' This resolution triggers the requirement for registration.",
+    "japaneseLegalContext": "会社法第473条：「会社は、株主総会の決議によって、会社を継続することができる。」この決議が登記の要件となる。",
+    "exampleSentence": "The creditors supported the plan, allowing the dissolved entity to file the Registration of Continuation and return to active trading status.",
+    "exampleTranslation": "債権者はその計画を支持し、解散した法人が継続の登記を申請し、積極的な取引状態に戻ることを可能にした。",
+    "vocabularyList": [
+      {
+        "word": "revoke its dissolution",
+        "translation": "解散を取り消す"
+      },
+      {
+        "word": "active corporate status",
+        "translation": "現役の会社状態"
+      },
+      {
+        "word": "appropriate resolution",
+        "translation": "適切な決議"
+      },
+      {
+        "word": "liquidation completion",
+        "translation": "清算結了"
+      },
+      {
+        "word": "return to active trading",
+        "translation": "積極的な取引への復帰"
+      },
+      {
+        "word": "existence",
+        "translation": "存続"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certificate of No Change",
+    "definition": "A document or affidavit confirming that, regarding certain previously registered matters (e.g., officer details or corporate address), no subsequent amendments or alterations have occurred up to the date of the current application.",
+    "japaneseDefinition": "現在の申請日まで、以前に登記された事項（役員の氏名や本店の所在場所など）に関して、その後の変更や修正がないことを確認するための書面または宣誓供述書。",
+    "japaneseWordTranslation": "変更がないことの証明書 (Henkō ga nai koto no shōmeisho)",
+    "legalContext": "While not explicitly prescribed as an independent document in a specific article, it is commonly requested by registrars as an accompanying document under ministerial ordinances to simplify the verification process for complex filings.",
+    "japaneseLegalContext": "特定の法令に独立した文書としては明記されていないが、複雑な申請において、登記官が審査を簡素化するために、法務省令に基づき添付書類として一般的に要求される。",
+    "exampleSentence": "In lieu of a long history of amendments, the applicant submitted a Certificate of No Change for the registered head office address.",
+    "exampleTranslation": "長期間にわたる変更履歴の代わりに、申請人は登録されている本店の所在場所に関する変更がないことの証明書を提出した。",
+    "vocabularyList": [
+      {
+        "word": "affidavit",
+        "translation": "宣誓供述書"
+      },
+      {
+        "word": "previously registered matters",
+        "translation": "以前に登記された事項"
+      },
+      {
+        "word": "subsequent amendments",
+        "translation": "その後の修正"
+      },
+      {
+        "word": "in lieu of",
+        "translation": "～の代わりに"
+      },
+      {
+        "word": "verification process",
+        "translation": "確認手続き（審査）"
+      },
+      {
+        "word": "ministerial ordinances",
+        "translation": "法務省令"
+      }
+    ]
   }
 ]

@@ -4220,5 +4220,119 @@
         "translation": "鍵屋の援助 (かぎやのえんじょ)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sanction for Non-Compliance in Disclosure Procedure",
+    "definition": "The criminal penalty imposed upon a judgment debtor who, without legitimate grounds, fails to appear at the court-mandated property disclosure procedure (Property List Submission Procedure) or refuses to take the required oath.",
+    "japaneseDefinition": "債務者が正当な理由なく裁判所が命じた財産開示手続に出頭しない、あるいは宣誓を拒否した場合に科される刑事罰。",
+    "japaneseWordTranslation": "ざいさんかいじてつづきにおけるふしゅっとうとうのつみ (Zaisan Kaiji Tetsuzuki ni okeru Fushuttō Tō no Tsumi)",
+    "legalContext": "Civil Execution Act, Article 213 (Offense of Non-Appearance, etc., in Property Disclosure Procedure)",
+    "japaneseLegalContext": "民事執行法第213条（財産開示手続における不出頭等の罪）",
+    "exampleSentence": "Failure by the debtor to cooperate with the court's property investigation may result in a formal sanction for non-compliance in the disclosure procedure.",
+    "exampleTranslation": "債務者が裁判所の財産調査に協力しない場合、財産開示手続における不出頭等の罪として正式な制裁を受ける可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "Judgment Debtor",
+        "translation": "債務名義を有する者"
+      },
+      {
+        "word": "Legitimate Grounds",
+        "translation": "正当な理由"
+      },
+      {
+        "word": "Property Disclosure Procedure",
+        "translation": "財産開示手続"
+      },
+      {
+        "word": "Oath",
+        "translation": "宣誓"
+      },
+      {
+        "word": "Criminal Penalty",
+        "translation": "刑事罰"
+      },
+      {
+        "word": "Cooperate",
+        "translation": "協力する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Demand for Participation in Distribution",
+    "definition": "A formal notice submitted by an obligee who has a claim enforceable against the executed property (such as one secured by a provisional attachment or certain real rights) to the execution court, requesting inclusion in the distribution of the realized sale proceeds.",
+    "japaneseDefinition": "差押えの対象となった財産に対して強制執行できる債権（仮差押え債権、特定の担保物権など）を持つ債権者が、売却代金の配当を受けるために執行機関に対して行う請求。",
+    "japaneseWordTranslation": "はいとうようきゅう (Haitō Yōkyū)",
+    "legalContext": "Civil Execution Act, Article 49 (Provisions on Distribution/Payment to Obligees)",
+    "japaneseLegalContext": "民事執行法第49条（債権者に対する配当又は弁済の規定）",
+    "exampleSentence": "A general creditor must file a demand for participation in distribution with the designated execution body within the statutory period to claim a share of the proceeds from the compulsory disposition.",
+    "exampleTranslation": "一般債権者は、強制処分による売却代金の一部を請求するためには、法定期間内に指定された執行機関へ配当要求を提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "Enforceable Claim",
+        "translation": "執行力のある債権"
+      },
+      {
+        "word": "Realized Sale Proceeds",
+        "translation": "売却により現実化した代金"
+      },
+      {
+        "word": "Statutory Period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "Compulsory Disposition",
+        "translation": "強制処分"
+      },
+      {
+        "word": "Designated Execution Body",
+        "translation": "指定された執行機関"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Resale Procedure Due to Purchaser's Failure",
+    "definition": "The procedure initiated by the execution court when the highest bidder (purchaser) of executed immovable property fails to pay the full price by the required deadline, resulting in the annulment of the original sale and the auctioning of the property again.",
+    "japaneseDefinition": "執行された不動産の最高価買受申出人が、定められた期限までに代金を全額納付しなかった場合に、裁判所が従前の売却を取り消し、改めて売却を行うために開始する手続。",
+    "japaneseWordTranslation": "さいばいきゃくてつづき (Sai-bai kyaku Tetsuzuki)",
+    "legalContext": "Civil Execution Act, Article 78 (Non-Payment of Proceeds)",
+    "japaneseLegalContext": "民事執行法第78条（代金不納付）",
+    "exampleSentence": "Following the purchaser's failure to remit the balance, the execution court issued an order commencing the resale procedure due to purchaser's failure.",
+    "exampleTranslation": "買受人が残金を納付しなかったことを受け、執行裁判所は買受人の不履行による再売却手続の開始を命じる決定を発した。",
+    "vocabularyList": [
+      {
+        "word": "Highest Bidder",
+        "translation": "最高価買受申出人"
+      },
+      {
+        "word": "Immovable Property",
+        "translation": "不動産"
+      },
+      {
+        "word": "Remit the balance",
+        "translation": "残金を納付する"
+      },
+      {
+        "word": "Annulment",
+        "translation": "取り消し"
+      },
+      {
+        "word": "Auctioning",
+        "translation": "競売"
+      },
+      {
+        "word": "Required Deadline",
+        "translation": "定められた期限"
+      }
+    ]
   }
 ]

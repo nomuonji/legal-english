@@ -3740,5 +3740,119 @@
         "translation": "建物のユニット（専有部分）"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Record of Factual Description",
+    "definition": "The section of the real property register (Tōki Kiroku) dedicated to recording the physical attributes of the land or building, such as location, size, and structure. This record precedes the rights section.",
+    "japaneseDefinition": "不動産登記記録の一部であり、土地の場合は地番、地積等を、建物の場合は所在、家屋番号、種類、構造、床面積等を記載する部分。",
+    "japaneseWordTranslation": "表題部 (ひょうだいぶ)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Art. 12: A real property register shall be prepared for each piece of real estate, consisting of the Record of Factual Description and the Record of Proprietary Rights.",
+    "japaneseLegalContext": "不動産登記法 第12条: 不動産の登記記録は、表題部及び権利部をもって編成するものとする。",
+    "exampleSentence": "The application for the creation of a building register must include the necessary information for the Record of Factual Description, verified by a qualified professional.",
+    "exampleTranslation": "建物登記を作成するための申請書には、有資格専門家によって確認された、表題部に必要な情報を含めなければならない。",
+    "vocabularyList": [
+      {
+        "word": "physical attributes",
+        "translation": "物理的属性"
+      },
+      {
+        "word": "location",
+        "translation": "所在"
+      },
+      {
+        "word": "property description",
+        "translation": "不動産の表示"
+      },
+      {
+        "word": "register creation",
+        "translation": "登記記録の作成"
+      },
+      {
+        "word": "qualified professional",
+        "translation": "有資格専門家"
+      },
+      {
+        "word": "size (of land)",
+        "translation": "地積"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Record of Proprietary Rights",
+    "definition": "The section of the real property register that documents all legal rights concerning the property, including ownership (Section Kōku) and security interests or other use rights (Section Otsuku).",
+    "japaneseDefinition": "不動産登記記録の一部であり、所有権に関する事項を記載する甲区と、所有権以外の権利に関する事項を記載する乙区からなる、権利関係を公示する部分。",
+    "japaneseWordTranslation": "権利部 (けんりぶ)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Art. 12: The Record of Proprietary Rights is composed of Section Kōku, dedicated to ownership matters, and Section Otsuku, dedicated to rights other than ownership.",
+    "japaneseLegalContext": "不動産登記法 第12条: 権利部は、所有権に関する登記を記載する甲区と、所有権以外の権利に関する登記を記載する乙区に区分して編成する。",
+    "exampleSentence": "A prospective purchaser must carefully review the Record of Proprietary Rights to ascertain the existence of any outstanding encumbrances or security interests.",
+    "exampleTranslation": "購入希望者は、未解決の担保権または担保物権の有無を確認するために、権利部を注意深く調査しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Section Kōku",
+        "translation": "甲区 (Ownership)"
+      },
+      {
+        "word": "Section Otsuku",
+        "translation": "乙区 (Other Rights)"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権"
+      },
+      {
+        "word": "encumbrance",
+        "translation": "負担"
+      },
+      {
+        "word": "prospective purchaser",
+        "translation": "購入希望者"
+      },
+      {
+        "word": "rank",
+        "translation": "順位"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Building Structure Registration",
+    "definition": "The initial and mandatory registration required by law to record the physical details and location of a newly constructed building. This application must be filed within one month of completion.",
+    "japaneseDefinition": "新築された建物について、その物理的な状況（所在、種類、構造、床面積など）を登記記録の表題部に初めて記録するために行う登記。完成後一月以内に申請義務がある。",
+    "japaneseWordTranslation": "建物表示登記 (たてものひょうじとうき)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Art. 37(1): The owner of a newly constructed building shall apply for the Building Structure Registration within one month of the building’s construction.",
+    "japaneseLegalContext": "不動産登記法 第37条第1項: 新築した建物の所有者は、その新築の日から一月以内に、建物表示登記を申請しなければならない。",
+    "exampleSentence": "Failure to fulfill the duty to file the Building Structure Registration within the prescribed period may subject the owner to an administrative fine.",
+    "exampleTranslation": "所定の期間内に建物表示登記の申請義務を履行しない場合、所有者は行政上の過料に処される可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "mandatory",
+        "translation": "義務的"
+      },
+      {
+        "word": "duty to file",
+        "translation": "申請義務"
+      },
+      {
+        "word": "newly constructed",
+        "translation": "新築された"
+      },
+      {
+        "word": "administrative fine",
+        "translation": "過料"
+      },
+      {
+        "word": "prescribed period",
+        "translation": "所定の期間"
+      },
+      {
+        "word": "physical details",
+        "translation": "物理的な詳細"
+      }
+    ]
   }
 ]

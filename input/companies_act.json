@@ -2,48 +2,6 @@
   {
     "category": "Companies Act (会社法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Distribution of Surplus",
-    "definition": "The act by a company of allocating and paying out disposable funds (surplus) to its equity holders, typically in the form of dividends, subject to strict procedural and financial limitations.",
-    "japaneseDefinition": "会社がその資本と準備金を超える額を、株主に対して配当として払い出す行為。会社法に基づき、分配可能額や手続が厳格に定められている。",
-    "japaneseWordTranslation": "剰余金の配当 (じょうよきんのはいとう)",
-    "legalContext": "Companies Act Art. 453 (Decision on Distribution of Surplus): A Stock Company shall not effect a Distribution of Surplus unless and until such Distribution of Surplus is decided...",
-    "japaneseLegalContext": "会社法第453条（剰余金の配当に関する決定）：株式会社は、剰余金の配当をする場合には、その決定をしなければならない。",
-    "exampleSentence": "The amount available for the distribution of surplus is strictly calculated based on the latest balance sheet and statutory reserve requirements.",
-    "exampleTranslation": "剰余金の配当に利用できる額は、最新の貸借対照表と法定準備金の要件に基づいて厳密に計算される。",
-    "vocabularyList": [
-      {
-        "word": "Surplus",
-        "translation": "剰余金"
-      },
-      {
-        "word": "Disposable funds",
-        "translation": "処分可能資金"
-      },
-      {
-        "word": "Equity holders",
-        "translation": "株主等の持分を有する者"
-      },
-      {
-        "word": "Statutory reserve",
-        "translation": "法定準備金"
-      },
-      {
-        "word": "Balance sheet",
-        "translation": "貸借対照表"
-      },
-      {
-        "word": "Calculation",
-        "translation": "算定"
-      },
-      {
-        "word": "Financial limitations",
-        "translation": "財源規制"
-      }
-    ]
-  },
-  {
-    "category": "Companies Act (会社法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Executive Officer",
     "definition": "A corporate position established in certain types of stock companies (e.g., Committee-Organized Companies), responsible for executing the company’s business operations as delegated by the supervisory body.",
     "japaneseDefinition": "指名委員会等設置会社などの特定の形態の株式会社に置かれる役職。業務執行機関としての最高意思決定機関から委任された業務を実際に執行する責任を負う。",
@@ -4000,6 +3958,120 @@
       {
         "word": "subsequent capital increase",
         "translation": "その後の増資"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Moneys Paid In",
+    "definition": "The funds transferred by a share subscriber to the designated payment handling institution (usually a bank) to fulfill their obligation to pay for the shares subscribed for.",
+    "japaneseDefinition": "株式引受人が、その株式の払込義務を履行するために、指定の払込取扱機関へ払い込んだ金銭。",
+    "japaneseWordTranslation": "払込金 (はらいこみきん)",
+    "legalContext": "Companies Act Art. 34 (1): Payment for Subscribed Shares at Incorporation. Requires subscribers to pay the full subscription price.",
+    "japaneseLegalContext": "会社法第34条第1項：設立時の募集株式の払込み等。引受人は、金銭の全額を払い込まなければならない。",
+    "exampleSentence": "The incorporators confirmed that the certificate of custody concerning the **moneys paid in** had been duly obtained prior to the application for establishment registration.",
+    "exampleTranslation": "発起人は、払込金に関する保管証明書が、設立登記の申請前に適切に取得されていることを確認した。",
+    "vocabularyList": [
+      {
+        "word": "incorporators",
+        "translation": "発起人"
+      },
+      {
+        "word": "certificate of custody",
+        "translation": "保管証明書"
+      },
+      {
+        "word": "duly obtained",
+        "translation": "適正に取得された"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
+      },
+      {
+        "word": "establishment registration",
+        "translation": "設立の登記"
+      },
+      {
+        "word": "subscription price",
+        "translation": "引受価額"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exemption of Liability",
+    "definition": "A mechanism allowing a company, typically through shareholder resolution or the Articles of Incorporation, to partially or wholly waive the liability of a director or officer towards the company for damages, often subject to a maximum limit.",
+    "japaneseDefinition": "株主総会の決議や定款の定めに基づき、会社が役員等に対して負う損害賠償責任の一部または全部を免除する制度。",
+    "japaneseWordTranslation": "責任の免除 (せきにんのめんじょ)",
+    "legalContext": "Companies Act Art. 426 & 427: Limitations on Liability of Officers. Provides for liability caps via Articles of Incorporation or shareholder resolution.",
+    "japaneseLegalContext": "会社法第426条及び第427条：役員等の責任の免除。定款の定め又は株主総会の決議により、責任を免除することができる。",
+    "exampleSentence": "The special resolution included a provision for the partial **exemption of liability** for non-executive directors pursuant to Article 426 of the Companies Act.",
+    "exampleTranslation": "当該特別決議には、会社法第426条に基づき、非業務執行取締役に対する一部の責任の免除に関する規定が含まれていた。",
+    "vocabularyList": [
+      {
+        "word": "special resolution",
+        "translation": "特別決議"
+      },
+      {
+        "word": "provision",
+        "translation": "規定"
+      },
+      {
+        "word": "non-executive directors",
+        "translation": "非業務執行取締役"
+      },
+      {
+        "word": "pursuant to",
+        "translation": "〜に基づいて"
+      },
+      {
+        "word": "liability",
+        "translation": "責任"
+      },
+      {
+        "word": "Articles of Incorporation",
+        "translation": "定款"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exclusion of Shareholders",
+    "definition": "A judicial process initiated by the company to forfeit the status of a shareholder or subscriber, typically used when the individual fails to make required payments for the shares or commits serious misconduct as specified by the Articles of Incorporation.",
+    "japaneseDefinition": "会社が、株式の払込みを怠った株式引受人や、法令または定款で定められた特定の事由がある株主に対して、その地位を喪失させるための裁判上の手続。",
+    "japaneseWordTranslation": "株主の排除 (かぶぬしのはいじょ)",
+    "legalContext": "Companies Act Art. 840: Exclusion of Subscriber Who Has Failed to Make Payment. CA Art. 850: Exclusion of Shareholders (judicial proceedings).",
+    "japaneseLegalContext": "会社法第840条：払込みをしない設立時募集株式の引受人の失権等。会社法第850条：株主の排除（訴え）。",
+    "exampleSentence": "If a subscriber fails to fulfill their payment obligation by the due date, the company may notify them of forfeiture of their rights, leading to the **exclusion of shareholders**.",
+    "exampleTranslation": "引受人が期日までに払込義務を履行しない場合、会社は権利の失権を通知することができ、これが株主の排除につながる。",
+    "vocabularyList": [
+      {
+        "word": "subscriber",
+        "translation": "引受人"
+      },
+      {
+        "word": "forfeit",
+        "translation": "喪失させる"
+      },
+      {
+        "word": "due date",
+        "translation": "期日"
+      },
+      {
+        "word": "forfeiture of rights",
+        "translation": "権利の失権"
+      },
+      {
+        "word": "payment obligation",
+        "translation": "払込義務"
+      },
+      {
+        "word": "judicial process",
+        "translation": "裁判上の手続"
       }
     ]
   }

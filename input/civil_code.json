@@ -4204,5 +4204,119 @@
         "translation": "足りない"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Acquisitive Prescription",
+    "definition": "The acquisition of ownership or other proprietary rights over property by continuously, peacefully, and openly holding possession of it for a statutory period, with the intent to own (animus domini).",
+    "japaneseDefinition": "所有の意思をもって、平穏かつ公然と他人の物を一定期間占有することにより、その所有権を取得する制度。",
+    "japaneseWordTranslation": "取得時効 (しゅとくじこう)",
+    "legalContext": "Civil Code Art. 162: A person who has possessed property for twenty years with the intention of owning it shall acquire its ownership through acquisitive prescription.",
+    "japaneseLegalContext": "民法第162条: 二十年間、所有の意思をもって、平穏かつ公然と他人の物を占有した者は、その所有権を取得する。",
+    "exampleSentence": "Since the neighboring farmer maintained uninterrupted and public acquisitive prescription over the disputed strip of land for 25 years, the court granted him title to the property.",
+    "exampleTranslation": "隣接する農家は、25年間にわたり係争中の細長い土地に対する中断のない公然の取得時効を維持していたため、裁判所は彼にその不動産の権利を与えた。",
+    "vocabularyList": [
+      {
+        "word": "proprietary rights",
+        "translation": "財産権"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "animus domini",
+        "translation": "所有の意思"
+      },
+      {
+        "word": "disputed strip of land",
+        "translation": "係争中の細長い土地"
+      },
+      {
+        "word": "title",
+        "translation": "権利（権原）"
+      },
+      {
+        "word": "uninterrupted",
+        "translation": "中断のない"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Suspension of Prescription",
+    "definition": "A mechanism under the Civil Code that delays the completion of a prescription period (extinctive or acquisitive) due to certain procedural steps (like judicial claims or demand letters), typically for a period of six months after the proceedings terminate.",
+    "japaneseDefinition": "訴訟の提起や催告などの行為によって、時効の期間が満了する際に、時効の完成を一時的に猶予する制度。",
+    "japaneseWordTranslation": "時効の完成猶予 (じこうのかんせいゆうよ)",
+    "legalContext": "Civil Code Art. 147: The commencement of prescription is suspended if the obligee files a judicial claim or takes other designated actions.",
+    "japaneseLegalContext": "民法第147条: 訴訟の提起等により時効の完成は猶予される。",
+    "exampleSentence": "The obligee successfully secured a suspension of prescription by filing a judicial claim with the court one month before the prescriptive period was set to expire.",
+    "exampleTranslation": "債権者は、時効期間が満了する1ヶ月前に裁判所に訴訟を提起することにより、時効の完成猶予を確保した。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "prescriptive period",
+        "translation": "時効期間"
+      },
+      {
+        "word": "judicial claim",
+        "translation": "裁判上の請求（訴訟の提起）"
+      },
+      {
+        "word": "designate",
+        "translation": "指定する"
+      },
+      {
+        "word": "expire",
+        "translation": "満了する"
+      },
+      {
+        "word": "proceeding",
+        "translation": "手続"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligation of Result",
+    "definition": "An obligation where the obligor guarantees the achievement of a specific, tangible outcome, and failure to achieve that outcome constitutes non-performance (breach of contract), regardless of the effort expended.",
+    "japaneseDefinition": "債務者が特定の成果を達成することを目的とし、その成果が実現しない場合には債務不履行となる債務の類型。",
+    "japaneseWordTranslation": "結果債務 (けっかさいむ)",
+    "legalContext": "A concept contrasted with an 'obligation of means,' where liability arises simply upon the failure of the promised result, irrespective of the obligor's diligence.",
+    "japaneseLegalContext": "『手段債務』と対比される概念であり、債務者の誠実な履行努力に関わらず、約束された結果が不達成であれば責任が生じる。",
+    "exampleSentence": "A contract for the complete construction of a commercial facility by a specific deadline is typically construed as an obligation of result, requiring the builder to bear liability for non-completion.",
+    "exampleTranslation": "特定の期限までに商業施設を完全に建設する契約は、通常、結果債務と解釈され、建設業者は不完成に対する責任を負う必要がある。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "achievement",
+        "translation": "達成"
+      },
+      {
+        "word": "non-performance",
+        "translation": "不履行"
+      },
+      {
+        "word": "breach of contract",
+        "translation": "契約違反"
+      },
+      {
+        "word": "bear liability",
+        "translation": "責任を負う"
+      },
+      {
+        "word": "construed as",
+        "translation": "〜と解釈される"
+      }
+    ]
   }
 ]

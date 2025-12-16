@@ -1,38 +1,42 @@
 {
-  "category": "Constitution (憲法)",
+  "category": "Companies Act (会社法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Constitutional Amendment",
-  "definition": "The formal process by which changes are made to the supreme law of the land, requiring a supermajority vote in the National Diet and subsequent ratification by national referendum.",
-  "japaneseDefinition": "憲法の内容を変更する正式な手続き。国会で定める超党派の多数決と、その後の国民投票による承認が必要となる。",
-  "japaneseWordTranslation": "憲法改正 (けんぽうかいせい)",
-  "legalContext": "Constitution of Japan, Article 96: Amendments to this Constitution shall be initiated by the Diet, through a concurring vote of two-thirds or more of all the members of each House...",
-  "japaneseLegalContext": "日本国憲法第96条: この憲法の改正は、各議院の総議員の三分の二以上の賛成で、国会が、これを発議し...",
-  "exampleSentence": "The process for a Constitutional Amendment is notoriously difficult due to the requirement for a two-thirds majority in both legislative houses.",
-  "exampleTranslation": "憲法改正の手続きは、両議院での三分の二以上の多数決という要件があるため、極めて困難である。",
+  "word": "Distribution of Surplus",
+  "definition": "The act by a company of allocating and paying out disposable funds (surplus) to its equity holders, typically in the form of dividends, subject to strict procedural and financial limitations.",
+  "japaneseDefinition": "会社がその資本と準備金を超える額を、株主に対して配当として払い出す行為。会社法に基づき、分配可能額や手続が厳格に定められている。",
+  "japaneseWordTranslation": "剰余金の配当 (じょうよきんのはいとう)",
+  "legalContext": "Companies Act Art. 453 (Decision on Distribution of Surplus): A Stock Company shall not effect a Distribution of Surplus unless and until such Distribution of Surplus is decided...",
+  "japaneseLegalContext": "会社法第453条（剰余金の配当に関する決定）：株式会社は、剰余金の配当をする場合には、その決定をしなければならない。",
+  "exampleSentence": "The amount available for the distribution of surplus is strictly calculated based on the latest balance sheet and statutory reserve requirements.",
+  "exampleTranslation": "剰余金の配当に利用できる額は、最新の貸借対照表と法定準備金の要件に基づいて厳密に計算される。",
   "vocabularyList": [
     {
-      "word": "supermajority",
-      "translation": "超多数決"
+      "word": "Surplus",
+      "translation": "剰余金"
     },
     {
-      "word": "national referendum",
-      "translation": "国民投票"
+      "word": "Disposable funds",
+      "translation": "処分可能資金"
     },
     {
-      "word": "concurring vote",
-      "translation": "一致した投票"
+      "word": "Equity holders",
+      "translation": "株主等の持分を有する者"
     },
     {
-      "word": "legislative houses",
-      "translation": "議院"
+      "word": "Statutory reserve",
+      "translation": "法定準備金"
     },
     {
-      "word": "ratification",
-      "translation": "批准／承認"
+      "word": "Balance sheet",
+      "translation": "貸借対照表"
     },
     {
-      "word": "initiate",
-      "translation": "発議する"
+      "word": "Calculation",
+      "translation": "算定"
+    },
+    {
+      "word": "Financial limitations",
+      "translation": "財源規制"
     }
   ]
 }

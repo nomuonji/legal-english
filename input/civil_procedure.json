@@ -4112,5 +4112,119 @@
         "translation": "提出する"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Service by Publication",
+    "definition": "A legally recognized method of serving process permitted when the domicile, residence, or whereabouts of the party to be served is unknown, usually deemed complete after a prescribed period following public notice.",
+    "japaneseDefinition": "当事者の住所、居所その他送達をすべき場所が不明である場合に、裁判所書記官の保管する書類をいつでも相手方に交付する旨を裁判所の掲示場に掲示することによって行う送達方法。",
+    "japaneseWordTranslation": "公示送達 (こうじそうたつ)",
+    "legalContext": "Code of Civil Procedure (Minji Soshōhō) Art. 110: Service by publication shall be carried out by a court clerk.",
+    "japaneseLegalContext": "民事訴訟法第110条: 公示送達は、裁判所書記官がこれをする。",
+    "exampleSentence": "The court granted the plaintiff's motion for service by publication, establishing that due diligence had been exercised to locate the absentee defendant.",
+    "exampleTranslation": "原告が不在の被告を探すために十分な努力をしたことが立証されたため、裁判所は公示送達の申立てを認めた。",
+    "vocabularyList": [
+      {
+        "word": "due diligence",
+        "translation": "相当な努力"
+      },
+      {
+        "word": "absentee defendant",
+        "translation": "不在被告"
+      },
+      {
+        "word": "court clerk",
+        "translation": "裁判所書記官"
+      },
+      {
+        "word": "domicile",
+        "translation": "住所"
+      },
+      {
+        "word": "whereabouts",
+        "translation": "居所"
+      },
+      {
+        "word": "public notice",
+        "translation": "掲示"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Litigation Standing",
+    "definition": "The procedural requirement that a specific person must possess the legal status or relationship necessary to prosecute or defend a particular legal dispute on its merits.",
+    "japaneseDefinition": "特定の訴訟物について、自己の名をもって当事者として訴訟を追行し、本案判決を求め得る資格。原告・被告のいずれにも必要とされる。",
+    "japaneseWordTranslation": "当事者適格 (とうじしゃてきかく)",
+    "legalContext": "Litigation standing is an essential procedural prerequisite (Soshō Yōken); lack thereof results in the dismissal of the action as inadmissible.",
+    "japaneseLegalContext": "当事者適格は訴訟要件の一つであり、これがない場合、訴訟は不適法として却下される。",
+    "exampleSentence": "The defendant contested the suit on the grounds that the plaintiff, an alleged third-party beneficiary, lacked the requisite litigation standing.",
+    "exampleTranslation": "被告は、原告が第三者の受益者であると主張しているものの、必要な当事者適格を欠いているという理由で訴訟に異議を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "procedural prerequisite",
+        "translation": "訴訟要件"
+      },
+      {
+        "word": "prosecute (a suit)",
+        "translation": "訴訟を追行する"
+      },
+      {
+        "word": "merits",
+        "translation": "本案"
+      },
+      {
+        "word": "third-party beneficiary",
+        "translation": "第三者の受益者"
+      },
+      {
+        "word": "requisite",
+        "translation": "必要な"
+      },
+      {
+        "word": "dismissal",
+        "translation": "却下"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Identity of Subject Matter",
+    "definition": "A procedural rule used to define the boundaries of the legal relationship claimed (the 'Soshōbutsu'), serving as a criterion for determining the scope of the court’s review and the preclusive effect of the final judgment.",
+    "japaneseDefinition": "ある二つの請求が同一の訴訟物に関するものであるかを判断するための基準。既判力の範囲や請求の変更の許否を判断する際に用いられる。",
+    "japaneseWordTranslation": "訴訟物同一性の原則 (そしょうぶつどういつせいのげんそく)",
+    "legalContext": "This principle primarily governs whether a judgment in one case precludes a subsequent action between the same parties regarding the same legal entitlement.",
+    "japaneseLegalContext": "本原則は、ある訴訟における判決が、同一当事者間の同一の法的権利に関する後の訴訟を排斥するか否かを主に規律する。",
+    "exampleSentence": "Under the Principle of Identity of Subject Matter, the court ruled that the claim for specific performance was identical to the prior, dismissed claim for damages based on the same contract breach.",
+    "exampleTranslation": "訴訟物同一性の原則に基づき、裁判所は、特定履行の請求は、同一の契約違反に基づく先行の却下された損害賠償請求と同一であると判断した。",
+    "vocabularyList": [
+      {
+        "word": "boundaries",
+        "translation": "範囲"
+      },
+      {
+        "word": "preclusive effect",
+        "translation": "既判力 (の作用)"
+      },
+      {
+        "word": "subsequent action",
+        "translation": "後の訴訟"
+      },
+      {
+        "word": "legal entitlement",
+        "translation": "法的権利"
+      },
+      {
+        "word": "contract breach",
+        "translation": "契約違反"
+      },
+      {
+        "word": "prior claim",
+        "translation": "先行の請求"
+      }
+    ]
   }
 ]

@@ -3774,5 +3774,119 @@
         "translation": "事前の合意"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consignment for Performance Tender",
+    "definition": "The act by an obligor of depositing the subject matter of the obligation (usually money) with a governmental deposit office when the obligee refuses acceptance, is unknown, or is unable to accept performance, thereby aiming to achieve the extinguishment of the debt.",
+    "japaneseDefinition": "債務者が、債権者が受領を拒否した、不明である、または受領できない場合に、債務の目的物（通常は金銭）を政府の供託所に預け入れる行為。これにより債務の消滅を図る。",
+    "japaneseWordTranslation": "履行の供託 (りこうのきょうたく)",
+    "legalContext": "Civil Code Art. 494: If the obligor makes a deposit, the obligation is extinguished.",
+    "japaneseLegalContext": "民法第494条：供託がされたときは、債権は消滅する。",
+    "exampleSentence": "The defendant's counsel advised that initiating a procedure for **consignment for performance tender** was necessary to stop interest from accruing on the principal amount owed.",
+    "exampleTranslation": "被告側の弁護士は、元本に対する利息の発生を止めるため、履行の供託の手続きを開始する必要があると助言した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "extinguishment",
+        "translation": "消滅"
+      },
+      {
+        "word": "accruing",
+        "translation": "発生する"
+      },
+      {
+        "word": "principal amount",
+        "translation": "元本"
+      },
+      {
+        "word": "defendant's counsel",
+        "translation": "被告側の弁護士"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Written Evidence of Consignment",
+    "definition": "A formal document provided by the governmental depository to the depositor, certifying that the deposit procedure has been properly completed, detailing the items consigned and the specific legal cause for the consignment.",
+    "japaneseDefinition": "供託手続が適切に完了したことを証明するため、政府の供託機関が供託者に交付する正式な文書。供託された物件と供託の具体的な法律上の原因が詳述される。",
+    "japaneseWordTranslation": "供託をしたことの証明書 (きょうたくをしたことのしょうめいしょ)",
+    "legalContext": "Deposit Act Implementation Regulations: Stipulating the formal requirements for documentation confirming the completion of the consignment process.",
+    "japaneseLegalContext": "供託法施行規則：供託手続完了を証明する文書に関する形式要件を定める。",
+    "exampleSentence": "In order to assert the defense of discharge, the obligor must submit the **written evidence of consignment** along with the statement of defense.",
+    "exampleTranslation": "消滅の抗弁を主張するため、債務者は答弁書と併せて供託をしたことの証明書を提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "depository",
+        "translation": "供託機関"
+      },
+      {
+        "word": "certifying",
+        "translation": "証明する"
+      },
+      {
+        "word": "legal cause",
+        "translation": "法律上の原因"
+      },
+      {
+        "word": "assert the defense",
+        "translation": "抗弁を主張する"
+      },
+      {
+        "word": "discharge",
+        "translation": "（債務の）消滅"
+      },
+      {
+        "word": "statement of defense",
+        "translation": "答弁書"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Waiver of Recovery Right by Depositor",
+    "definition": "The legal action where the person who originally made the deposit (the obligor) irrevocably renounces their power to reclaim the deposited property, usually performed to eliminate any potential challenges to the finality of the performance.",
+    "japaneseDefinition": "最初に供託を行った者（債務者）が、供託された財産を取り戻す権限を不可撤回的に放棄する法的な行為。通常、弁済の確定性に対する潜在的な異議を排除するために行われる。",
+    "japaneseWordTranslation": "供託者による取戻権の放棄 (きょうたくしゃによるとりもどしけんのほうき)",
+    "legalContext": "Civil Code Art. 497: The obligor cannot retrieve the deposit once the obligee has consented to the deposit or a judgment confirming its validity has become final.",
+    "japaneseLegalContext": "民法第497条：債権者が供託を承諾し、又は供託を有効とする判決が確定した後においては、債務者は、供託物を取り戻すことができない。",
+    "exampleSentence": "The obligor filed a formal document detailing the **waiver of recovery right by depositor** following the final adjudication, ensuring the funds were indisputably deemed paid to the rightful claimant.",
+    "exampleTranslation": "最終的な裁定の後、債務者は供託者による取戻権の放棄を詳述した正式な文書を提出し、その資金が正当な請求権者への支払いに異論なく充てられたことを保証した。",
+    "vocabularyList": [
+      {
+        "word": "irrevocably",
+        "translation": "不可撤回的に"
+      },
+      {
+        "word": "renounces",
+        "translation": "放棄する"
+      },
+      {
+        "word": "finality",
+        "translation": "確定性"
+      },
+      {
+        "word": "adjudication",
+        "translation": "裁定/判決"
+      },
+      {
+        "word": "indisputably",
+        "translation": "異論なく"
+      },
+      {
+        "word": "rightful claimant",
+        "translation": "正当な請求権者"
+      }
+    ]
   }
 ]

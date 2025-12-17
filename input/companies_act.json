@@ -4074,5 +4074,123 @@
         "translation": "裁判上の手続"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Nullity of Corporate Resolution",
+    "definition": "A lawsuit filed by a shareholder, director, or liquidator seeking a judicial declaration that a corporate resolution (typically of the shareholders' meeting) is void due to significant procedural or substantive defects prescribed by law.",
+    "japaneseDefinition": "株主総会等の決議に、法令または定款違反等の重大な瑕疵がある場合に、その決議の無効を裁判所に訴え、宣言を求める訴訟手続。",
+    "japaneseWordTranslation": "決議無効の訴え (Ketsugi Mukō no Utta'e)",
+    "legalContext": "Companies Act Art. 830(1) prescribes the grounds for the nullity of a shareholders' resolution, distinct from voidability or non-existence.",
+    "japaneseLegalContext": "会社法第830条第1項：決議の無効の訴えについての定め。",
+    "exampleSentence": "A shareholder initiated an **Action for Nullity of Corporate Resolution** after discovering that the statutory notice period for the general meeting was breached.",
+    "exampleTranslation": "ある株主は、総会の法定通知期間が遵守されていなかったことを発見した後、**決議無効の訴え**を提起した。",
+    "vocabularyList": [
+      {
+        "word": "judicial declaration",
+        "translation": "裁判上の宣言"
+      },
+      {
+        "word": "shareholders' meeting",
+        "translation": "株主総会"
+      },
+      {
+        "word": "procedural defects",
+        "translation": "手続上の瑕疵"
+      },
+      {
+        "word": "statutory notice period",
+        "translation": "法定の通知期間"
+      },
+      {
+        "word": "initiated",
+        "translation": "提起した"
+      },
+      {
+        "word": "substantive defects",
+        "translation": "実体上の瑕疵"
+      },
+      {
+        "word": "voidability",
+        "translation": "取消しうる事由"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Limited Liability Partner",
+    "definition": "A member (partner/Shain) of a company, typically a Gōdō Gaisha (Japanese LLC) or Gōshi Gaisha (limited partnership), whose financial liability for the company's obligations is limited strictly to the value of their capital contribution.",
+    "japaneseDefinition": "合同会社（G.K.）や合資会社における社員のうち、会社の債務に対する責任が出資の価額を限度とする者。個人財産をリスクに晒す必要がない。",
+    "japaneseWordTranslation": "有限責任社員 (Yūgen Sekinin Shain)",
+    "legalContext": "Companies Act Art. 576 defines the Limited Liability Company (G.K.) structure, requiring all partners to be limited liability partners.",
+    "japaneseLegalContext": "会社法第576条：合同会社における社員の有限責任性を定める。",
+    "exampleSentence": "Unlike a general partner, a **Limited Liability Partner** faces no personal risk beyond their initial investment in the Gōdō Gaisha's capital.",
+    "exampleTranslation": "無限責任社員とは異なり、**有限責任社員**は合同会社の当初の出資額を超えて個人的なリスクを負うことはない。",
+    "vocabularyList": [
+      {
+        "word": "general partner",
+        "translation": "無限責任社員"
+      },
+      {
+        "word": "company's obligations",
+        "translation": "会社の債務"
+      },
+      {
+        "word": "Gōdō Gaisha (LLC)",
+        "translation": "合同会社"
+      },
+      {
+        "word": "capital contribution",
+        "translation": "出資の価額"
+      },
+      {
+        "word": "financial liability",
+        "translation": "金銭的な責任"
+      },
+      {
+        "word": "initial investment",
+        "translation": "当初の投資"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Subscriber (of Shares)",
+    "definition": "An individual or entity who applies for, or agrees to acquire, shares being newly issued by a company (either upon incorporation or through subsequent capital increase) and undertakes the obligation to fully pay the subscription price.",
+    "japaneseDefinition": "会社の設立時または株式発行時に、新株の引受けを申し込み、会社に対してその払込義務を負う者。",
+    "japaneseWordTranslation": "引受人 (Hikiuke-nin)",
+    "legalContext": "Companies Act Art. 206 governs the rights and obligations of the subscriber, particularly concerning the payment date and forfeiture procedures.",
+    "japaneseLegalContext": "会社法第206条：株式の引受人の権利義務、特に払込期日と失権手続について定める。",
+    "exampleSentence": "If the **Subscriber** fails to pay the required amount by the prescribed deadline, they may forfeit their rights, and the company must follow statutory forfeiture procedures.",
+    "exampleTranslation": "**引受人**が所定の期限までに必要な金額を支払わなかった場合、株主としての権利を失う可能性があり、会社は法定の失権手続に従わなければならない。",
+    "vocabularyList": [
+      {
+        "word": "newly issued",
+        "translation": "新しく発行された"
+      },
+      {
+        "word": "capital increase",
+        "translation": "増資"
+      },
+      {
+        "word": "subscription price",
+        "translation": "払込金額"
+      },
+      {
+        "word": "prescribed deadline",
+        "translation": "所定の期限"
+      },
+      {
+        "word": "forfeit their rights",
+        "translation": "権利を失う"
+      },
+      {
+        "word": "statutory forfeiture procedures",
+        "translation": "法定の失権手続"
+      }
+    ]
   }
 ]

@@ -4334,5 +4334,119 @@
         "translation": "定められた期限"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Discharge of Security Interests",
+    "definition": "The legal outcome in compulsory auction procedures where, upon the successful vesting of title in the purchaser, certain established security interests (such as mortgages or hypothecs) against the property are legally extinguished, even without the consent of the secured creditor.",
+    "japaneseDefinition": "不動産の強制競売において、買受人が代金を納付し所有権を取得した際に、その不動産上の特定の担保物権（抵当権など）が法律上当然に消滅する効果。",
+    "japaneseWordTranslation": "担保権の消滅 (たんぽけんのしょうめつ)",
+    "legalContext": "Civil Execution Act Art. 59 (Discharge of security interests through sale): 'The security interests on the real property subject to the execution procedure shall be extinguished upon the sale.'",
+    "japaneseLegalContext": "民事執行法第59条（売却による担保権の消滅）：『執行手続の対象となった不動産上の担保権は、売却により消滅する。』",
+    "exampleSentence": "The court confirmed the discharge of security interests attached to the sold property, allowing the successful bidder to acquire clean title free of existing burdens.",
+    "exampleTranslation": "裁判所は売却された物件に付着した担保権の消滅を確認し、最高価買受申出人が既存の負担のない完全な権原を取得することを許可した。",
+    "vocabularyList": [
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売 (きょうせいけいばい)"
+      },
+      {
+        "word": "vesting of title",
+        "translation": "所有権の取得 (しょゆうけんのしゅとく)"
+      },
+      {
+        "word": "secured creditor",
+        "translation": "担保権者 (たんぽけんしゃ)"
+      },
+      {
+        "word": "successful bidder",
+        "translation": "最高価買受申出人 (さいこうかかいうけもうしでにん)"
+      },
+      {
+        "word": "clean title",
+        "translation": "負担のない権原 (ふたんのないけんげん)"
+      },
+      {
+        "word": "existing burdens",
+        "translation": "既存の負担 (きそんのふたん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Declaration of Facts",
+    "definition": "A procedural order issued by the court having jurisdiction over execution, compelling a third party, who owes a claim to the judgment debtor (the garnishee), to make a sworn statement regarding the existence and amount of the debt, or other necessary facts related to the seized claim.",
+    "japaneseDefinition": "執行裁判所が、債権差押手続において、債務者に対して債務を負う第三者（第三債務者）に対し、その債権の有無や金額など必要な事項について宣誓して陳述することを命じる命令。",
+    "japaneseWordTranslation": "陳述命令 (ちんじゅつめいれい)",
+    "legalContext": "Civil Execution Act Art. 157 (Order for declaration of facts by third party debtor): The execution court may issue an Order for Declaration of Facts upon motion by the execution creditor.",
+    "japaneseLegalContext": "民事執行法第157条（第三債務者の陳述命令）：執行裁判所は、執行債権者の申立てにより、陳述命令を発することができる。",
+    "exampleSentence": "The execution creditor filed a motion for an Order for Declaration of Facts to determine the exact balance held by the bank, which was the third party holding the debtor's funds.",
+    "exampleTranslation": "執行債権者は、債務者の資金を保有する第三者である銀行が保持する正確な残高を確定させるため、陳述命令の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "execution creditor",
+        "translation": "執行債権者 (しっこうさいけんしゃ)"
+      },
+      {
+        "word": "garnishee",
+        "translation": "第三債務者 (だいさんさいむしゃ)"
+      },
+      {
+        "word": "seized claim",
+        "translation": "差押債権 (さしおさえさいけん)"
+      },
+      {
+        "word": "sworn statement",
+        "translation": "宣誓による陳述 (せんせいによるちんじゅつ)"
+      },
+      {
+        "word": "exact balance",
+        "translation": "正確な残高 (せいかくなざんだか)"
+      },
+      {
+        "word": "filed a motion",
+        "translation": "申立てを行った (もうしたてをおこなった)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Investigation of the Execution Property",
+    "definition": "The mandatory preliminary step in compulsory execution against real property, where the Execution Officer, sometimes assisted by an appraiser, investigates the physical status, boundaries, usage, encumbrances, and occupancy status of the property to prepare for its valuation and subsequent sale.",
+    "japaneseDefinition": "不動産に対する強制執行において、執行官が鑑定人などの協力を得て、物件の現況、境界、使用状況、負担、及び占有関係などを調査し、評価額の算定と売却のための準備を行う手続き。",
+    "japaneseWordTranslation": "物件の調査 (ぶっけんのちょうさ)",
+    "legalContext": "Civil Execution Act Art. 64 (Duty of the Execution Officer): The Execution Officer shall investigate the real property and prepare an investigation report, including the necessary information for the sale.",
+    "japaneseLegalContext": "民事執行法第64条（執行官の責務）：執行官は、不動産を調査し、売却に必要な情報を含む調査報告書を作成しなければならない。",
+    "exampleSentence": "Prior to determining the minimum acceptable sale price, a thorough Investigation of the Execution Property was conducted, including checking for existing lease agreements and physical defects.",
+    "exampleTranslation": "最低売却価額を決定する前に、既存の賃貸借契約や物理的な欠陥を確認することを含め、入念な物件の調査が実施された。",
+    "vocabularyList": [
+      {
+        "word": "Execution Officer",
+        "translation": "執行官 (しっこうかん)"
+      },
+      {
+        "word": "appraiser",
+        "translation": "鑑定人 (かんていにん)"
+      },
+      {
+        "word": "physical status",
+        "translation": "現況 (げんきょう)"
+      },
+      {
+        "word": "occupancy status",
+        "translation": "占有関係 (せんゆうかんけい)"
+      },
+      {
+        "word": "investigation report",
+        "translation": "調査報告書 (ちょうさほうこくしょ)"
+      },
+      {
+        "word": "minimum acceptable sale price",
+        "translation": "最低売却価額 (さいていばいきゃくかがく)"
+      }
+    ]
   }
 ]

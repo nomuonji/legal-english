@@ -2,40 +2,6 @@
   {
     "category": "Civil Preservation (民事保全法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Security Deposit",
-    "definition": "Money deposited by a party as a condition for the issuance or stay of a provisional order, to cover potential damages to the other party.",
-    "japaneseDefinition": "保全命令の発令や執行停止の条件として、相手方の損害を担保するために提供される金銭。",
-    "japaneseWordTranslation": "担保 (たんぽ) / 保証金 (ほしょうきん)",
-    "legalContext": "Civil Preservation Act Art. 14: The court may order the provision of security as a condition for issuing an order for provisional remedy.",
-    "japaneseLegalContext": "民事保全法第14条：裁判所は、担保を立てさせて保全命令を発することができる。",
-    "exampleSentence": "The court required the creditor to post a security deposit before issuing the provisional seizure order.",
-    "exampleTranslation": "裁判所は仮差押命令を発令する前に、債権者に担保の提供を求めた。",
-    "vocabularyList": [
-      {
-        "word": "Security",
-        "translation": "担保"
-      },
-      {
-        "word": "Condition",
-        "translation": "条件"
-      },
-      {
-        "word": "Issuance",
-        "translation": "発令"
-      },
-      {
-        "word": "Damages",
-        "translation": "損害"
-      },
-      {
-        "word": "Provision",
-        "translation": "提供"
-      }
-    ]
-  },
-  {
-    "category": "Civil Preservation (民事保全法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Preservatory Necessity",
     "definition": "The essential legal requirement demonstrating that, without immediate judicial action under the Civil Preservation Act, the obligee’s rights would become impossible or extremely difficult to enforce or realize.",
     "japaneseDefinition": "権利の実現が困難となるか、またはその回復が不可能になる事態を避けるために、裁判所による保全措置が直ちに必要であること。",
@@ -4146,6 +4112,120 @@
       {
         "word": "final decision",
         "translation": "最終決定"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restriction on Subsequent Disposition",
+    "definition": "The legal effect of a provisional attachment on property (especially real property), whereby any disposal of the attached asset by the debtor after the execution of the measure is ineffective against the preservation obligee.",
+    "japaneseDefinition": "仮差押えが実行された後に債務者が行った目的物に対する処分行為（譲渡、担保権の設定等）が、保全債権者に対抗できないという効力。",
+    "japaneseWordTranslation": "仮差押え後の処分制限 (Kari sashiosae-go no shobun seigen)",
+    "legalContext": "Civil Preservation Act: The restriction ensures the effectiveness of future compulsory execution against the attached property.",
+    "japaneseLegalContext": "民事保全法: 将来の強制執行の実現を確実にするため、差押え対象財産に対する債務者の処分行為を制限する。",
+    "exampleSentence": "The court's provisional attachment order placed a **restriction on subsequent disposition** of the defendant's commercial building, nullifying the attempted mortgage arrangement.",
+    "exampleTranslation": "裁判所の仮差押え命令は、被告の商業用建物に「仮差押え後の処分制限」を課し、試みられた担保権設定を無効にした。",
+    "vocabularyList": [
+      {
+        "word": "provisional attachment order",
+        "translation": "仮差押命令"
+      },
+      {
+        "word": "attached property",
+        "translation": "差押え財産"
+      },
+      {
+        "word": "nullify",
+        "translation": "無効にする"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "mortgage arrangement",
+        "translation": "抵当権設定"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Unilateral Adjudication",
+    "definition": "The procedural principle in preservation proceedings where the court typically conducts the examination and decision based solely on the obligee's claims and prima facie evidence, without notifying or hearing the debtor, emphasizing urgency and secrecy.",
+    "japaneseDefinition": "保全手続において、保全の必要性や緊急性の観点から、裁判所が債権者の申立てと疎明資料のみに基づいて審理し、債務者を関与させずに裁判を行う原則。",
+    "japaneseWordTranslation": "片面的審理 (Henmente-ki shinri)",
+    "legalContext": "A critical procedural aspect reflecting the inherent urgency and purpose of asset preservation prior to a judgment on the merits.",
+    "japaneseLegalContext": "判決確定前の財産保全という目的を反映した、保全手続に固有の重要な審理態様。",
+    "exampleSentence": "The judge justified the swift granting of the preservation order through **unilateral adjudication**, citing high risk of asset dissipation if the debtor were notified.",
+    "exampleTranslation": "裁判官は、債務者に通知すれば資産散逸の危険性が高いことを挙げ、「片面的審理」による保全命令の迅速な発令を正当化した。",
+    "vocabularyList": [
+      {
+        "word": "procedural principle",
+        "translation": "手続上の原則"
+      },
+      {
+        "word": "preservation order",
+        "translation": "保全命令"
+      },
+      {
+        "word": "asset dissipation",
+        "translation": "財産の散逸"
+      },
+      {
+        "word": "prima facie evidence",
+        "translation": "疎明資料"
+      },
+      {
+        "word": "obligee's claims",
+        "translation": "債権者の主張"
+      },
+      {
+        "word": "urgency",
+        "translation": "緊急性"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interim Mandatory Order",
+    "definition": "A type of provisional injunction (a measure to establish a temporary status quo) that compels the debtor to perform a specific action, such as performing a contract or providing provisional monetary support, before the final judgment is rendered.",
+    "japaneseDefinition": "仮の地位を定める仮処分の一種であり、係争中の地位に関して、債務者に対し特定の行為（契約の履行、仮の金銭的給付等）を命じる裁判所の処分。",
+    "japaneseWordTranslation": "仮の給付を命ずる処分 (Kari no kyūfu o meizuru shobun)",
+    "legalContext": "Civil Preservation Act Art. 23(2): Granting an injunction mandating performance where urgent necessity exists to prevent significant harm to the obligee.",
+    "japaneseLegalContext": "民事保全法23条2項: 債権者に生ずる著しい損害を避けるため、緊急の必要がある場合に、給付を命ずる仮処分を認める。",
+    "exampleSentence": "Pending the formal trial, the claimant sought an **interim mandatory order** against the manufacturer to continue supplying essential components.",
+    "exampleTranslation": "正式な裁判を待つ間、申立人は製造業者に対し、必須の部品の供給を継続させるための「仮の給付を命ずる処分」を求めた。",
+    "vocabularyList": [
+      {
+        "word": "provisional injunction",
+        "translation": "仮処分"
+      },
+      {
+        "word": "temporary status quo",
+        "translation": "仮の地位"
+      },
+      {
+        "word": "compel",
+        "translation": "強制する"
+      },
+      {
+        "word": "formal trial",
+        "translation": "正式な裁判"
+      },
+      {
+        "word": "essential components",
+        "translation": "必須の部品"
+      },
+      {
+        "word": "significant harm",
+        "translation": "著しい損害"
       }
     ]
   }

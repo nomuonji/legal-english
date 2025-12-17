@@ -1,42 +1,34 @@
 {
-  "category": "Companies Act (会社法)",
+  "category": "Civil Preservation (民事保全法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Distribution of Surplus",
-  "definition": "The act by a company of allocating and paying out disposable funds (surplus) to its equity holders, typically in the form of dividends, subject to strict procedural and financial limitations.",
-  "japaneseDefinition": "会社がその資本と準備金を超える額を、株主に対して配当として払い出す行為。会社法に基づき、分配可能額や手続が厳格に定められている。",
-  "japaneseWordTranslation": "剰余金の配当 (じょうよきんのはいとう)",
-  "legalContext": "Companies Act Art. 453 (Decision on Distribution of Surplus): A Stock Company shall not effect a Distribution of Surplus unless and until such Distribution of Surplus is decided...",
-  "japaneseLegalContext": "会社法第453条（剰余金の配当に関する決定）：株式会社は、剰余金の配当をする場合には、その決定をしなければならない。",
-  "exampleSentence": "The amount available for the distribution of surplus is strictly calculated based on the latest balance sheet and statutory reserve requirements.",
-  "exampleTranslation": "剰余金の配当に利用できる額は、最新の貸借対照表と法定準備金の要件に基づいて厳密に計算される。",
+  "word": "Security Deposit",
+  "definition": "Money deposited by a party as a condition for the issuance or stay of a provisional order, to cover potential damages to the other party.",
+  "japaneseDefinition": "保全命令の発令や執行停止の条件として、相手方の損害を担保するために提供される金銭。",
+  "japaneseWordTranslation": "担保 (たんぽ) / 保証金 (ほしょうきん)",
+  "legalContext": "Civil Preservation Act Art. 14: The court may order the provision of security as a condition for issuing an order for provisional remedy.",
+  "japaneseLegalContext": "民事保全法第14条：裁判所は、担保を立てさせて保全命令を発することができる。",
+  "exampleSentence": "The court required the creditor to post a security deposit before issuing the provisional seizure order.",
+  "exampleTranslation": "裁判所は仮差押命令を発令する前に、債権者に担保の提供を求めた。",
   "vocabularyList": [
     {
-      "word": "Surplus",
-      "translation": "剰余金"
+      "word": "Security",
+      "translation": "担保"
     },
     {
-      "word": "Disposable funds",
-      "translation": "処分可能資金"
+      "word": "Condition",
+      "translation": "条件"
     },
     {
-      "word": "Equity holders",
-      "translation": "株主等の持分を有する者"
+      "word": "Issuance",
+      "translation": "発令"
     },
     {
-      "word": "Statutory reserve",
-      "translation": "法定準備金"
+      "word": "Damages",
+      "translation": "損害"
     },
     {
-      "word": "Balance sheet",
-      "translation": "貸借対照表"
-    },
-    {
-      "word": "Calculation",
-      "translation": "算定"
-    },
-    {
-      "word": "Financial limitations",
-      "translation": "財源規制"
+      "word": "Provision",
+      "translation": "提供"
     }
   ]
 }

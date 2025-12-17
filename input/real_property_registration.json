@@ -3854,5 +3854,119 @@
         "translation": "物理的な詳細"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Duty to Cooperate in Registration",
+    "definition": "The legal obligation placed upon the registration obligor (the party whose registered right is being diminished or extinguished) to assist and participate with the registration obligee (the party acquiring or increasing the right) in making a joint application for registration.",
+    "japaneseDefinition": "登記義務者（権利を失う者、または不利益を受ける者）が、登記権利者（権利を取得する者、または利益を得る者）に対し、登記申請手続きに協力するよう課せられる義務。",
+    "japaneseWordTranslation": "登記協力義務 (とうききょうりょくぎむ)",
+    "legalContext": "Fudōsan Tōkihō (Real Property Registration Act) dictates that most rights registrations require a joint application, implicitly creating this duty.",
+    "japaneseLegalContext": "不動産登記法は、権利に関する登記の原則として共同申請主義を採用しており、これにより登記義務者に協力義務が課せられる。",
+    "exampleSentence": "The seller, as the registration obligor, failed to fulfill their duty to cooperate in registration, necessitating the purchaser to seek a judgment compelling registration.",
+    "exampleTranslation": "売主は登記義務者として登記協力義務を履行しなかったため、買主は登記を強制する判決を求める必要が生じた。",
+    "vocabularyList": [
+      {
+        "word": "registration obligor",
+        "translation": "登記義務者"
+      },
+      {
+        "word": "registration obligee",
+        "translation": "登記権利者"
+      },
+      {
+        "word": "joint application",
+        "translation": "共同申請"
+      },
+      {
+        "word": "compelling registration",
+        "translation": "登記を命じる"
+      },
+      {
+        "word": "diminished or extinguished",
+        "translation": "減少または消滅した"
+      },
+      {
+        "word": "necessitating",
+        "translation": "必要とさせる"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Requirement for Opposability",
+    "definition": "The specific legal requirement, established by Civil Code Article 177, that changes in proprietary rights (such as acquisition, loss, or alteration) concerning real property must be formally recorded in the register to be effectively asserted against third parties.",
+    "japaneseDefinition": "民法第177条に基づき、不動産に関する物権の得喪及び変更を第三者に対抗するためには、登記簿への記録が必要とされる要件。",
+    "japaneseWordTranslation": "権利変動の対抗要件としての登記 (けんりへんどうのたいこうようけんとしてのとうき)",
+    "legalContext": "Civil Code Art. 177: 'Acquisition, loss, and alteration of real rights pertaining to immovable property cannot be asserted against a third party unless registered.'",
+    "japaneseLegalContext": "民法第177条：「不動産に関する物権の得喪及び変更は、登記をしなければ、第三者に対抗することができない。」",
+    "exampleSentence": "The purchaser's failure to complete the registration requirement for opposability meant that a subsequent creditor, who registered a mortgage first, held the superior claim.",
+    "exampleTranslation": "買主が権利変動の対抗要件としての登記を完了しなかったため、先に抵当権を登記した後の債権者がより優先的な権利を持つことになった。",
+    "vocabularyList": [
+      {
+        "word": "proprietary rights",
+        "translation": "物権"
+      },
+      {
+        "word": "subsequent creditor",
+        "translation": "後の債権者"
+      },
+      {
+        "word": "superior claim",
+        "translation": "優先的な権利"
+      },
+      {
+        "word": "asserted against",
+        "translation": "対抗することができない"
+      },
+      {
+        "word": "acquisition, loss, or alteration",
+        "translation": "得喪及び変更"
+      },
+      {
+        "word": "formally recorded",
+        "translation": "正式に記録された"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reservation of Rank",
+    "definition": "A procedure allowing an applicant to secure and preserve the priority position (rank) for a planned future registration (such as a mortgage or ownership transfer) even though the substantive requirements for the principal registration have not yet been fully met.",
+    "japaneseDefinition": "将来の正式な登記（本登記）の実行に備えて、その順位をあらかじめ確保・保全するために行う手続き。これにより、本登記が完了した際に、その登記の順位は保全された時点に遡及する。",
+    "japaneseWordTranslation": "順位の保全 (じゅんいのほぜん)",
+    "legalContext": "Fudōsan Tōkihō Art. 103 (Preliminary Registration) provides the mechanism for securing this reservation of rank when the conditions for the full registration are lacking.",
+    "japaneseLegalContext": "不動産登記法第103条（仮登記）は、本登記の要件が満たされていない場合に、この順位の保全を確保するための仕組みを規定している。",
+    "exampleSentence": "The potential lessee opted for a reservation of rank for the future lease registration to ensure their contractual position would not be superseded by later mortgages.",
+    "exampleTranslation": "潜在的な賃借人は、将来の賃借権登記のために順位の保全を選択し、契約上の地位が後の抵当権によって覆されないようにした。",
+    "vocabularyList": [
+      {
+        "word": "priority position (rank)",
+        "translation": "順位"
+      },
+      {
+        "word": "principal registration",
+        "translation": "本登記"
+      },
+      {
+        "word": "substantive requirements",
+        "translation": "実体的要件"
+      },
+      {
+        "word": "potential lessee",
+        "translation": "潜在的な賃借人"
+      },
+      {
+        "word": "superseded by",
+        "translation": "覆される"
+      },
+      {
+        "word": "lease registration",
+        "translation": "賃借権登記"
+      }
+    ]
   }
 ]

@@ -4226,5 +4226,123 @@
         "translation": "先行の請求"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Doctrine of Pleading",
+    "definition": "The fundamental principle in Japanese civil procedure that limits the court's fact-finding to the facts explicitly alleged and voluntarily presented by the parties, and also holds that admitted facts are binding on the court.",
+    "japaneseDefinition": "民事訴訟において、裁判所が当事者の主張していない事実を判決の基礎として認定することができず、また当事者間で争いのない事実はそのまま判決の基礎となるという事実認定に関する原則。",
+    "japaneseWordTranslation": "弁論主義 (Benron Shugi)",
+    "legalContext": "Principle governing fact determination in Civil Procedure; prevents the court from making findings based on facts not asserted by the parties.",
+    "japaneseLegalContext": "民事訴訟における事実認定の基本原則。",
+    "exampleSentence": "Under the Doctrine of Pleading, the court cannot independently investigate facts that the parties have failed to allege or have mutually admitted.",
+    "exampleTranslation": "弁論主義の下では、裁判所は当事者が主張しなかった、または当事者間で互いに認めた事実を独立して調査することはできない。",
+    "vocabularyList": [
+      {
+        "word": "fact-finding",
+        "translation": "事実認定"
+      },
+      {
+        "word": "explicitly alleged",
+        "translation": "明示的に主張された"
+      },
+      {
+        "word": "voluntarily presented",
+        "translation": "任意に提出された"
+      },
+      {
+        "word": "binding",
+        "translation": "拘束力のある"
+      },
+      {
+        "word": "mutually admitted",
+        "translation": "相互に認めた"
+      },
+      {
+        "word": "independently investigate",
+        "translation": "職権で調査する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Scrutiny of Conditions for Suit",
+    "definition": "The mandatory, *ex officio* duty of the court to examine whether all procedural requirements (such as jurisdiction, standing, and proper form) necessary for the admissibility of a lawsuit have been met.",
+    "japaneseDefinition": "裁判所が、訴訟の提起が適法であるか否かを判断するため、管轄、当事者適格、訴えの利益などの訴訟要件について、当事者の主張を待たずに職権で行う調査義務。",
+    "japaneseWordTranslation": "訴訟要件の職権調査 (Soshō Yōken no Shokken Chōsa)",
+    "legalContext": "Civil Procedure Code (Implied under general rules of litigation regarding the assessment of admissibility).",
+    "japaneseLegalContext": "民事訴訟法上の訴えの適法性に関する一般原則。",
+    "exampleSentence": "The court's Judicial Scrutiny of Conditions for Suit determined that the plaintiff lacked standing, resulting in the dismissal of the action as inadmissible.",
+    "exampleTranslation": "裁判所の訴訟要件の職権調査により、原告に当事者適格がないと判断され、訴えは不適法として却下された。",
+    "vocabularyList": [
+      {
+        "word": "mandatory",
+        "translation": "義務的な"
+      },
+      {
+        "word": "ex officio",
+        "translation": "職権による"
+      },
+      {
+        "word": "procedural requirements",
+        "translation": "訴訟要件"
+      },
+      {
+        "word": "admissibility",
+        "translation": "適法性"
+      },
+      {
+        "word": "lacked standing",
+        "translation": "当事者適格を欠いた"
+      },
+      {
+        "word": "dismissal of the action",
+        "translation": "訴えの却下"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Concentration of Issues and Evidence",
+    "definition": "A procedural goal requiring parties to present all material issues, allegations, and supporting evidence as early and comprehensively as possible to prevent delays in the litigation process.",
+    "japaneseDefinition": "裁判の遅延防止のため、当事者が訴訟の初期段階で争点や証拠方法を可能な限り早急かつ集中的に提出することを求める訴訟運営上の要請。",
+    "japaneseWordTranslation": "争点及び証拠の集中 (Sōten oyobi Shōko no Shūchū)",
+    "legalContext": "Civil Procedure Code Art. 147 (Duty to present means of attack and defense in a timely manner, often enforced by the exclusionary rule).",
+    "japaneseLegalContext": "民事訴訟法第147条（時機に遅れた攻撃防御方法の却下）",
+    "exampleSentence": "The court imposed sanctions on the defendant for violating the principle of Concentration of Issues and Evidence by submitting key documentary evidence just before the conclusion of oral arguments.",
+    "exampleTranslation": "裁判所は、口頭弁論終結の直前に重要な書証を提出した被告に対し、争点及び証拠の集中の原則に違反したとして制裁を科した。",
+    "vocabularyList": [
+      {
+        "word": "procedural goal",
+        "translation": "手続上の目標"
+      },
+      {
+        "word": "material issues",
+        "translation": "重要な争点"
+      },
+      {
+        "word": "comprehensively",
+        "translation": "包括的に"
+      },
+      {
+        "word": "imposed sanctions",
+        "translation": "制裁を科した"
+      },
+      {
+        "word": "violating",
+        "translation": "違反する"
+      },
+      {
+        "word": "documentary evidence",
+        "translation": "書証"
+      },
+      {
+        "word": "conclusion of oral arguments",
+        "translation": "口頭弁論終結"
+      }
+    ]
   }
 ]

@@ -4448,5 +4448,119 @@
         "translation": "最低売却価額 (さいていばいきゃくかがく)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Property Manager",
+    "definition": "A court-appointed officer responsible for managing immovable property that is the subject of compulsory administration (a form of execution against real property), including collecting rents and performing maintenance, for the benefit of the execution obligee.",
+    "japaneseDefinition": "執行裁判所によって選任され、不動産に対する強制管理手続において、その不動産の管理、賃料などの収益の収受及び維持管理を行う職務を持つ者。",
+    "japaneseWordTranslation": "執行管理人 (しっこうかんりにん)",
+    "legalContext": "Civil Execution Act, Article 93 (Compulsory Administration): An Execution Property Manager shall be appointed for the management of the real property.",
+    "japaneseLegalContext": "民事執行法 第九十三条（強制管理）：不動産の管理は、執行裁判所が選任する執行管理人が行う。",
+    "exampleSentence": "The Execution Property Manager submitted a report detailing the collected rental income and the necessary expenditures for the maintenance of the seized commercial building.",
+    "exampleTranslation": "執行管理人は、差し押さえられた商業ビルの賃料収入と必要な維持管理費用の詳細な報告書を提出した。",
+    "vocabularyList": [
+      {
+        "word": "Compulsory Administration",
+        "translation": "強制管理"
+      },
+      {
+        "word": "Real property",
+        "translation": "不動産"
+      },
+      {
+        "word": "Appointed officer",
+        "translation": "選任された役員"
+      },
+      {
+        "word": "Collected rental income",
+        "translation": "収受した賃料収入"
+      },
+      {
+        "word": "Maintenance",
+        "translation": "維持管理"
+      },
+      {
+        "word": "Expenditures",
+        "translation": "費用"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Bidding Guarantee",
+    "definition": "The security deposit required to be submitted by any person wishing to offer a bid (make a purchase offer) in a compulsory auction of immovable property, typically calculated based on a percentage of the minimum sale price.",
+    "japaneseDefinition": "不動産競売において、買受申出を行う者が必ず提出しなければならない保証金。通常、買受申出前に定められた売却基準価額の一定割合（原則として20%）とされる。",
+    "japaneseWordTranslation": "買受申出の保証 (かいうけもうしでのほしょう)",
+    "legalContext": "Civil Execution Act, Article 66 (Requirement for Guarantee): A person who offers a bid must provide a guarantee as specified by the Execution Court.",
+    "japaneseLegalContext": "民事執行法 第六十六条（保証の提供を要すること）：買受の申出をしようとする者は、執行裁判所の定めるところにより、保証を提供しなければならない。",
+    "exampleSentence": "To participate in the real estate auction, prospective purchasers must provide the Bidding Guarantee in the form of cash or a bank cashier's check.",
+    "exampleTranslation": "不動産競売に参加するため、見込みのある買受人は、現金または銀行振り出しの小切手により買受申出の保証を提供しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Compulsory auction",
+        "translation": "強制競売"
+      },
+      {
+        "word": "Purchase offer",
+        "translation": "買受申出"
+      },
+      {
+        "word": "Prospective purchasers",
+        "translation": "見込みのある買受人"
+      },
+      {
+        "word": "Cashier's check",
+        "translation": "小切手"
+      },
+      {
+        "word": "Minimum sale price",
+        "translation": "売却基準価額"
+      },
+      {
+        "word": "Provide a guarantee",
+        "translation": "保証を提供"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Commencement Requirement Certificate",
+    "definition": "A document issued by the court clerk that certifies the fulfillment of procedural conditions required to commence compulsory execution, such as the authenticated copy of the execution title having been served upon the execution obligor.",
+    "japaneseDefinition": "強制執行を開始するために必要な手続き上の要件（例：執行名義の認証謄本の債務者への送達）が満たされていることを執行裁判所書記官が証明する文書。",
+    "japaneseWordTranslation": "執行開始要件証明書 (しっこうかいしようけんしょうめいしょ)",
+    "legalContext": "Civil Execution Act, Article 30, Paragraph 2: Compulsory execution shall commence after the execution title has been served on the execution obligor; this is certified by the Execution Commencement Requirement Certificate.",
+    "japaneseLegalContext": "民事執行法 第三十条 第二項：強制執行は、執行名義の謄本又は正本が債務者に送達されたことを証明する執行開始要件証明書を提出した後でなければ、開始することができない。",
+    "exampleSentence": "The execution obligee must attach the Execution Commencement Requirement Certificate to the application for execution to prove that the obligor was duly notified.",
+    "exampleTranslation": "債権者は、債務者に適正に通知されたことを証明するため、執行開始要件証明書を執行申立てに添付しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Duly notified",
+        "translation": "適正に通知された"
+      },
+      {
+        "word": "Application for execution",
+        "translation": "執行申立て"
+      },
+      {
+        "word": "Execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "Procedural conditions",
+        "translation": "手続き上の要件"
+      },
+      {
+        "word": "Certifies the fulfillment",
+        "translation": "満たされていることを証明する"
+      },
+      {
+        "word": "Court clerk",
+        "translation": "裁判所書記官"
+      }
+    ]
   }
 ]

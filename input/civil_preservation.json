@@ -4228,5 +4228,119 @@
         "translation": "著しい損害"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prejudice to Future Enforcement",
+    "definition": "The judicial necessity requirement for ordering provisional attachment in monetary claims, where there is a risk that the future compulsory execution of a judgment will be rendered impossible or extremely difficult.",
+    "japaneseDefinition": "金銭債権を保全するための仮差押えの要件の一つであり、将来の強制執行が不能又は著しく困難になるおそれがあること。",
+    "japaneseWordTranslation": "将来の強制執行の障害となるおそれ (しょうらいのきょうせいしっこうのしょうがいとなるおそれ)",
+    "legalContext": "Civil Preservation Act, Art. 23(1) (Requirement of Preservation Necessity for Provisional Attachment)",
+    "japaneseLegalContext": "民事保全法第23条第1項 (仮差押えの保全の必要性の要件)",
+    "exampleSentence": "The court granted the motion for provisional attachment, finding sufficient evidence of prejudice to future enforcement if the debtor continued to dissipate assets.",
+    "exampleTranslation": "裁判所は、債務者が引き続き資産を散逸させた場合、将来の強制執行に支障をきたすおそれが十分にあるとして、仮差押えの申立てを認めた。",
+    "vocabularyList": [
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権 (kinsen saiken)"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え (kari-sashiosae)"
+      },
+      {
+        "word": "sufficient evidence",
+        "translation": "十分な証拠 (jūbun na shōko)"
+      },
+      {
+        "word": "dissipate assets",
+        "translation": "資産を散逸させる (shisan o san'itsu saseru)"
+      },
+      {
+        "word": "granted the motion",
+        "translation": "申立てを認めた (mōshitate o mitometa)"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者 (saimusha)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Temporary Status Preservation Injunction",
+    "definition": "A type of provisional disposition aimed at settling a dispute regarding a non-monetary claim by provisionally determining the temporary legal or factual status (position) of the parties concerning the subject matter of the dispute.",
+    "japaneseDefinition": "非金銭債権に関する紛争について、紛争の目的物に関する当事者の仮の法的・事実的な地位を暫定的に定めることを目的とする仮の処分。",
+    "japaneseWordTranslation": "仮の地位を定める保全処分 (かりのちいをさだめるほぜんしょぶん)",
+    "legalContext": "Civil Preservation Act, Art. 23(2) (Provision for Status Preservation Injunctions)",
+    "japaneseLegalContext": "民事保全法第23条第2項 (地位保全処分に関する規定)",
+    "exampleSentence": "The plaintiff requested a temporary status preservation injunction to maintain their operating rights over the facility pending the final judgment on the merits.",
+    "exampleTranslation": "原告は、本案の最終判決が出るまでの間、施設に対する営業権を維持するために、仮の地位を定める保全処分を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分 (kari-shobun)"
+      },
+      {
+        "word": "non-monetary claim",
+        "translation": "非金銭債権 (hi-kinsen saiken)"
+      },
+      {
+        "word": "operating rights",
+        "translation": "営業権 (eigyo ken)"
+      },
+      {
+        "word": "pending the final judgment",
+        "translation": "最終判決が出るまでの間 (saishū hanketsu ga deru made no aida)"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告 (genkoku)"
+      },
+      {
+        "word": "subject matter of the dispute",
+        "translation": "紛争の目的物 (funsō no mokuteki-butsu)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designation of Preservation Object",
+    "definition": "The procedural requirement that a petitioner for a preservation measure (such as provisional attachment or provisional disposition) must clearly and specifically identify the property, relationship, or act that is the target of the requested court order.",
+    "japaneseDefinition": "保全処分（仮差押えや仮処分）を申し立てる者が、裁判所に求められた措置の対象となる財産、関係、または行為を明確かつ具体的に特定しなければならない手続上の要件。",
+    "japaneseWordTranslation": "保全の目的物の特定 (ほぜんのもくてきぶつのとくてい)",
+    "legalContext": "Civil Preservation Act, Art. 4 (General rules regarding the application documents)",
+    "japaneseLegalContext": "民事保全法第4条 (申立書等に関する一般規定)",
+    "exampleSentence": "The court dismissed the application for provisional disposition due to the lack of proper designation of preservation object, which was deemed insufficiently clear.",
+    "exampleTranslation": "裁判所は、保全の目的物の特定が不十分で明確性を欠くとして、仮処分申請を却下した。",
+    "vocabularyList": [
+      {
+        "word": "petitioner",
+        "translation": "申立人 (mōshitate-nin)"
+      },
+      {
+        "word": "preservation measure",
+        "translation": "保全措置 (hozen sochi)"
+      },
+      {
+        "word": "insufficiently clear",
+        "translation": "明確性を欠く (meikaku-sei o kaku)"
+      },
+      {
+        "word": "dismissed the application",
+        "translation": "申請を却下した (shinsei o kyakka shita)"
+      },
+      {
+        "word": "court order",
+        "translation": "裁判所命令 (saibansho meirei)"
+      },
+      {
+        "word": "proper designation",
+        "translation": "適切な特定 (tekisetsu na tokutei)"
+      }
+    ]
   }
 ]

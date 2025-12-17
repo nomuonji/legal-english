@@ -2,40 +2,6 @@
   {
     "category": "Commercial Registration (商業登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Registry Office",
-    "definition": "The government office (Legal Affairs Bureau) responsible for handling registration affairs.",
-    "japaneseDefinition": "登記事務をつかさどる役所（法務局、地方法務局など）。",
-    "japaneseWordTranslation": "登記所 (とうきしょ)",
-    "legalContext": "Commercial Registration Act Art. 1-3: Registration affairs shall be handled by the Legal Affairs Bureau having jurisdiction over the location of the business office.",
-    "japaneseLegalContext": "商業登記法第1条の3：登記に関する事務は、営業所の所在地を管轄する法務局...が、登記所としてつかさどる。",
-    "exampleSentence": "You must submit the application form to the competent registry office.",
-    "exampleTranslation": "申請書は管轄の登記所に提出しなければならない。",
-    "vocabularyList": [
-      {
-        "word": "Legal Affairs Bureau",
-        "translation": "法務局"
-      },
-      {
-        "word": "Handle",
-        "translation": "取り扱う"
-      },
-      {
-        "word": "Competent",
-        "translation": "管轄権のある"
-      },
-      {
-        "word": "Submit",
-        "translation": "提出する"
-      },
-      {
-        "word": "Application form",
-        "translation": "申請書"
-      }
-    ]
-  },
-  {
-    "category": "Commercial Registration (商業登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Matters Subject to Public Disclosure",
     "definition": "Information concerning the organization, existence, or internal structure of a company that must be recorded in the commercial record and made available for public inspection, ensuring the principle of publicity (公示力).",
     "japaneseDefinition": "会社の組織、存続、又は内部構造に関する情報のうち、商業登記簿に記録され、一般に公開されるべき事項。これにより、商業取引の安全を図る公示力の原則が担保される。",
@@ -4220,6 +4186,128 @@
       {
         "word": "necessitates filing",
         "translation": "届出が必要となる"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deemed Withdrawal of Application",
+    "definition": "A legal fiction under which a registration application that has been subject to a correction order is considered formally withdrawn if the applicant fails to perform the required correction within the specified period.",
+    "japaneseDefinition": "登記官による補正命令が出されたにもかかわらず、申請人が指定された期間内に補正を行わなかった場合に、その申請が取り下げられたものとみなされる法的な取り扱い。",
+    "japaneseWordTranslation": "申請の取り下げ擬制 (Shinsei no Torisage Gisei)",
+    "legalContext": "Commercial Registration Act, Article 24, Paragraph 2: If the applicant does not comply with the order to correct the application within the time period specified by the Registrar, the Registrar may deem the application to have been withdrawn.",
+    "japaneseLegalContext": "商業登記法第24条第2項: 登記官が定めた期間内に申請人が補正の命令に応じないときは、登記官は、申請を取り下げたものとみなすことができる。",
+    "exampleSentence": "Due to the failure to submit the revised board resolution within the deadline, the application for the change of purpose was subject to the deemed withdrawal of application.",
+    "exampleTranslation": "期限内に改訂された取締役会の決議を提出できなかったため、目的変更の申請は、申請の取り下げ擬制の対象となった。",
+    "vocabularyList": [
+      {
+        "word": "resolution",
+        "translation": "決議 (Ketsugi)"
+      },
+      {
+        "word": "deadline",
+        "translation": "期限 (Kigen)"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官 (Tōkikan)"
+      },
+      {
+        "word": "correction",
+        "translation": "補正 (Hosei)"
+      },
+      {
+        "word": "comply",
+        "translation": "応じる (Ōjiru)"
+      },
+      {
+        "word": "specified period",
+        "translation": "指定された期間 (Shitei sareta Kikan)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Priority Based on Reception Time",
+    "definition": "The rule stipulating that the order of registration for multiple applications concerning the same registered matter is determined strictly by the time and minute the application was officially received by the Registry Office.",
+    "japaneseDefinition": "同一の登記事項に関する複数の申請の登記の順位が、登記所が申請を正式に受理した時刻と分に基づいて厳密に決定される原則。",
+    "japaneseWordTranslation": "受付の時による優先 (Uketsuke no Toki ni yoru Yūsen)",
+    "legalContext": "Commercial Registration Act, Article 27: The priority of registration shall be determined by the order of reception of the applications.",
+    "japaneseLegalContext": "商業登記法第27条: 登記の順位は、申請の受付の順序による。",
+    "exampleSentence": "Since both competing applications for stock issuance were submitted on the same day, the registrar determined their ranking using the priority based on reception time.",
+    "exampleTranslation": "株式発行に関する競合する両方の申請が同日に提出されたため、登記官は受付の時による優先を用いてその順位を決定した。",
+    "vocabularyList": [
+      {
+        "word": "ranking",
+        "translation": "順位 (Jun'i)"
+      },
+      {
+        "word": "submitted",
+        "translation": "提出された (Teishutsu sareta)"
+      },
+      {
+        "word": "competing",
+        "translation": "競合する (Kyōgō suru)"
+      },
+      {
+        "word": "stock issuance",
+        "translation": "株式の発行 (Kabushiki no Hakkō)"
+      },
+      {
+        "word": "priority",
+        "translation": "優先 (Yūsen)"
+      },
+      {
+        "word": "order of reception",
+        "translation": "受付の順序 (Uketsuke no Junjo)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deletion of Commercial Name Ex Officio",
+    "definition": "The process by which the Registrar, on their own authority, removes a commercial name (trade name) from the register if the company has neglected to respond to an inquiry regarding the continuation of business for a prescribed period.",
+    "japaneseDefinition": "会社が所定の期間、事業継続に関する照会に応じなかった場合に、登記官が自己の職権に基づき、商業登記簿から商号を抹消する手続き。",
+    "japaneseWordTranslation": "商号の職権削除 (Shōgō no Shokken Sakujo)",
+    "legalContext": "Commercial Registration Act, Article 34: If a company fails to notify the Registrar of the continuation of business within the prescribed period after being inquired, the Registrar shall delete the commercial name ex officio.",
+    "japaneseLegalContext": "商業登記法第34条: 登記官が照会をしたにもかかわらず、会社が所定の期間内に事業継続の届出をしないときは、登記官は、職権で当該商号を抹消しなければならない。",
+    "exampleSentence": "The inactive corporation faced the deletion of its commercial name ex officio after failing to respond to the registrar's official inquiry for two consecutive years.",
+    "exampleTranslation": "不活動の会社は、登記官の公式照会に2年連続で応答しなかったため、商号の職権削除に直面した。",
+    "vocabularyList": [
+      {
+        "word": "inactive corporation",
+        "translation": "不活動会社 (Fukatsudō Kaisha)"
+      },
+      {
+        "word": "inquiry",
+        "translation": "照会 (Shōkai)"
+      },
+      {
+        "word": "continuation of business",
+        "translation": "事業継続 (Jigyō Keizoku)"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官 (Tōkikan)"
+      },
+      {
+        "word": "official inquiry",
+        "translation": "公式照会 (Kōshiki Shōkai)"
+      },
+      {
+        "word": "prescribed period",
+        "translation": "所定の期間 (Shotei no Kikan)"
+      },
+      {
+        "word": "ex officio",
+        "translation": "職権で (Shokken de)"
+      },
+      {
+        "word": "commercial name",
+        "translation": "商号 (Shōgō)"
       }
     ]
   }

@@ -4342,5 +4342,119 @@
         "translation": "適切な特定 (tekisetsu na tokutei)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Necessity of Interim Measures",
+    "definition": "The legal requirement that a preservation obligee must demonstrate an urgent need to establish a temporary legal status to prevent irreparable or substantial harm while the main litigation is pending.",
+    "japaneseDefinition": "争いがある権利関係について、本案の判決を待っていては債権者に著しい損害または急迫の危険が生じるのを避けるため、仮に債権者の地位を定める必要があること。",
+    "japaneseWordTranslation": "仮の地位を定める必要性 (Kari no chii o sadameru hitsuyōsei)",
+    "legalContext": "Civil Preservation Act, Article 23(2): A provisional disposition establishing a temporary status quo... shall be ordered where there is a necessity of interim measures.",
+    "japaneseLegalContext": "民事保全法第23条第2項：仮の地位を定める仮処分は、...仮の地位を定める必要性があるときに発することができる。",
+    "exampleSentence": "The court evaluated the evidence to determine the existence of a high degree of necessity of interim measures before granting the prohibitory provisional injunction against the transfer of shares.",
+    "exampleTranslation": "裁判所は、株式の譲渡を禁止する差止仮処分を出す前に、高度な仮の地位を定める必要性の存在を判断するため証拠を評価した。",
+    "vocabularyList": [
+      {
+        "word": "prohibitory provisional injunction",
+        "translation": "差止仮処分"
+      },
+      {
+        "word": "transfer of shares",
+        "translation": "株式の譲渡"
+      },
+      {
+        "word": "litigation pending",
+        "translation": "訴訟係属中"
+      },
+      {
+        "word": "irreparable harm",
+        "translation": "回復不能な損害"
+      },
+      {
+        "word": "determine the existence",
+        "translation": "存在を判断する"
+      },
+      {
+        "word": "status quo",
+        "translation": "現状"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Substitute Deposit for Provisional Attachment Discharge",
+    "definition": "A sum of money, specified by the court, that the debtor may deposit in order to obtain the cancellation of a provisional attachment order, thereby freeing the seized property.",
+    "japaneseDefinition": "裁判所が定めた金額を債務者が供託することにより、仮差押の執行を取り消させ、差し押さえられた財産の解放を求めるために行う供託。",
+    "japaneseWordTranslation": "仮差押解放金供託 (Kari sashiosae kaihōkin kyōtaku)",
+    "legalContext": "Civil Preservation Act, Article 25(1): Where the court orders provisional attachment, it shall specify the amount of the substitute deposit for provisional attachment discharge.",
+    "japaneseLegalContext": "民事保全法第25条第1項：裁判所は、仮差押命令を発するときは、仮差押解放金の額を定めなければならない。",
+    "exampleSentence": "The debtor, needing immediate access to the funds, submitted the motion and deposited the full amount required as the substitute deposit for provisional attachment discharge.",
+    "exampleTranslation": "債務者は、資金への即時アクセスを必要としたため、申立てを行い、仮差押解放金供託として要求された全額を供託した。",
+    "vocabularyList": [
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "deposit office",
+        "translation": "供託所"
+      },
+      {
+        "word": "cancellation of attachment",
+        "translation": "差押の取消し"
+      },
+      {
+        "word": "seized property",
+        "translation": "差し押さえられた財産"
+      },
+      {
+        "word": "full amount",
+        "translation": "全額"
+      },
+      {
+        "word": "provisional attachment order",
+        "translation": "仮差押命令"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibition of Alteration of the Object of Dispute",
+    "definition": "A preservation measure (provisional disposition) enforced against the debtor prohibiting any changes, whether physical or legal, to the specific property or subject matter that is the core of the pending litigation.",
+    "japaneseDefinition": "係争中の訴訟物である特定の財産や権利関係について、債務者が物理的または法律的な現状を変更することを禁止する保全処分（仮処分）。",
+    "japaneseWordTranslation": "争いの目的物に関する現状変更禁止 (Arasoi no mokutekibutsu ni kansuru genjō henkō kinshi)",
+    "legalContext": "Civil Preservation Act, Article 23(1) (General application of provisional disposition for non-monetary claims): Measures necessary to maintain the status quo concerning the object of dispute.",
+    "japaneseLegalContext": "民事保全法第23条第1項（非金銭債権に対する仮処分の一般適用）：争いの目的物について、現状の維持に必要な仮処分。",
+    "exampleSentence": "The obligee sought a provisional disposition order mandating a prohibition of alteration of the object of dispute to prevent the construction company from demolishing the historical structure.",
+    "exampleTranslation": "債権者は、建設会社が歴史的建造物を解体するのを防ぐため、争いの目的物に関する現状変更禁止を命じる仮処分命令を求めた。",
+    "vocabularyList": [
+      {
+        "word": "preservation measure",
+        "translation": "保全措置"
+      },
+      {
+        "word": "historical structure",
+        "translation": "歴史的建造物"
+      },
+      {
+        "word": "non-monetary claims",
+        "translation": "非金銭債権"
+      },
+      {
+        "word": "mandating",
+        "translation": "命じる"
+      },
+      {
+        "word": "pending litigation",
+        "translation": "係属中の訴訟"
+      },
+      {
+        "word": "physical or legal status",
+        "translation": "物理的または法律的な現状"
+      }
+    ]
   }
 ]

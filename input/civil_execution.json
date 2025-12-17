@@ -4562,5 +4562,119 @@
         "translation": "裁判所書記官"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Declaration of Assets",
+    "definition": "A judicial order issued under the Civil Execution Act compelling the execution obligor to appear before the court and disclose the current status and location of their assets, under threat of a non-penal fine.",
+    "japaneseDefinition": "債務者に対し、裁判所に出頭し、その財産目録を提出して財産の状況を陳述することを命じる裁判所の決定。これを怠ると過料が科される。",
+    "japaneseWordTranslation": "資産開示命令 (しさんかいじめいれい)",
+    "legalContext": "Civil Execution Act Art. 197 (Order for Declaration of Assets): 'The execution court may, upon motion by the execution obligee, issue an order for the execution obligor to make a declaration of assets.'",
+    "japaneseLegalContext": "民事執行法第197条（資産開示命令）：執行裁判所は、執行債権者の申立てにより、執行債務者に対し、その財産について陳述するために出頭すべき旨を命ずる決定をすることができる。",
+    "exampleSentence": "The execution obligee filed a motion for an Order for Declaration of Assets after failing to locate sufficient executable property belonging to the obligor.",
+    "exampleTranslation": "執行債権者は、債務者に属する十分な執行対象財産を見つけることができなかったため、資産開示命令の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "filed a motion",
+        "translation": "申立てを行った"
+      },
+      {
+        "word": "sufficient",
+        "translation": "十分な"
+      },
+      {
+        "word": "locate",
+        "translation": "特定する"
+      },
+      {
+        "word": "non-penal fine",
+        "translation": "過料"
+      },
+      {
+        "word": "appear before the court",
+        "translation": "裁判所に出頭する"
+      },
+      {
+        "word": "declaration of assets",
+        "translation": "財産の陳述"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Executable Property",
+    "definition": "The term referring to any and all property owned by the execution obligor (debtor) that is legally permissible to be seized and realized through compulsory execution procedures to satisfy the obligee's claim.",
+    "japaneseDefinition": "債権の満足のために、法律に基づき強制執行の対象とすることが許されている債務者の全ての財産。差押えが禁止されている財産はこれに含まれない。",
+    "japaneseWordTranslation": "執行対象財産 (しっこうたいしょうざいさん)",
+    "legalContext": "Civil Execution Act Art. 22 (Types of Execution Titles): Executable property serves as the fundamental basis upon which various forms of compulsory execution, such as against real property or claims, proceed.",
+    "japaneseLegalContext": "民事執行法第22条（債務名義）：執行対象財産は、不動産や債権などに対する各種の強制執行手続きが進められる上での基本的な基盤となる。",
+    "exampleSentence": "The execution court determined that the yacht registered under the obligor’s name constituted executable property, provided it was not subject to a superior security interest.",
+    "exampleTranslation": "執行裁判所は、債務者名義で登録されたヨットが、より優先的な担保権の対象でない限り、執行対象財産を構成すると判断した。",
+    "vocabularyList": [
+      {
+        "word": "seized",
+        "translation": "差し押さえられた"
+      },
+      {
+        "word": "realized",
+        "translation": "現金化された"
+      },
+      {
+        "word": "constituted",
+        "translation": "構成する"
+      },
+      {
+        "word": "superior",
+        "translation": "優先的な"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-Seizable Property",
+    "definition": "Property, including specific movables or portions of claims (like wages or retirement benefits), that the law exempts from seizure to guarantee the minimum standard of livelihood for the execution obligor and their cohabiting relatives.",
+    "japaneseDefinition": "債務者及びその同居の親族の最低限の生活を保障するために、民事執行法に基づき差押えが禁止されている特定の動産または債権の一部。",
+    "japaneseWordTranslation": "差押禁止財産 (さしおさえきんしざいさん)",
+    "legalContext": "Civil Execution Act Art. 131 (Non-Seizable Movable Property): This article lists various items deemed indispensable for the obligor's daily life, such as clothing, bedding, and essential household items.",
+    "japaneseLegalContext": "民事執行法第131条（差押禁止動産）：この条文は、衣類、寝具、生活に不可欠な家財道具など、債務者の日常生活に欠かせないものと見なされる様々な品目を列挙している。",
+    "exampleSentence": "Due to its designation as Non-Seizable Property under Article 131, the execution officer was prohibited from seizing the obligor's refrigerator and stove.",
+    "exampleTranslation": "第131条に基づく差押禁止財産としての指定のため、執行官は債務者の冷蔵庫と調理器具を差し押さえることを禁じられた。",
+    "vocabularyList": [
+      {
+        "word": "exem pts from seizure",
+        "translation": "差押えを免除する"
+      },
+      {
+        "word": "cohabiting relatives",
+        "translation": "同居の親族"
+      },
+      {
+        "word": "movables",
+        "translation": "動産"
+      },
+      {
+        "word": "indispensable",
+        "translation": "不可欠な"
+      },
+      {
+        "word": "execution officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "livelihood",
+        "translation": "生活"
+      }
+    ]
   }
 ]

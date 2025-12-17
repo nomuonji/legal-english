@@ -4006,5 +4006,119 @@
         "translation": "公的な通知"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Formal Examination",
+    "definition": "The procedural rule in Japanese registration law stipulating that the Registrar reviews an application solely based on whether the submitted documents meet the formal legal requirements, without investigating the substantive validity or truthfulness of the underlying legal cause of the registration.",
+    "japaneseDefinition": "登記官が登記申請を受け付けた際、その登記手続が法律上の形式的な要件を満たしているかのみを審査し、登記原因たる法律行為の真実性や実体的権利関係の有効性については審査しないという原則。",
+    "japaneseWordTranslation": "形式的審査主義 (けいしきてきしんさしゅぎ)",
+    "legalContext": "Real Property Registration Act (不動産登記法), underlying principle concerning the Registrar's authority.",
+    "japaneseLegalContext": "不動産登記法における登記官の権限に関する基本原則。",
+    "exampleSentence": "Under the Principle of Formal Examination, the Registrar cannot reject a registration application merely because they doubt the consideration stated in the sales contract.",
+    "exampleTranslation": "形式的審査主義のもとでは、登記官は売買契約に記載された対価に疑念を抱いたというだけの理由で登記申請を却下することはできない。",
+    "vocabularyList": [
+      {
+        "word": "Registrar",
+        "translation": "登記官 (とうきかん)"
+      },
+      {
+        "word": "application",
+        "translation": "申請 (しんせい)"
+      },
+      {
+        "word": "substantive validity",
+        "translation": "実体的有効性 (じったいてきゆうこうせい)"
+      },
+      {
+        "word": "legal cause",
+        "translation": "登記原因 (とうきげんいん)"
+      },
+      {
+        "word": "reject",
+        "translation": "却下する (きゃっかする)"
+      },
+      {
+        "word": "sales contract",
+        "translation": "売買契約 (ばいばいけいやく)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Register of Building Common Elements",
+    "definition": "A specialized register maintained for parts of a building (typically in a condominium or complex) that are exclusively designated for common use, ensuring they cannot be registered as private units subject to independent ownership transfer or hypothecation.",
+    "japaneseDefinition": "建物の部分を専ら共用部分とする旨の規約が設定された場合、当該部分について作成される登記簿。これにより、共用部分の独立した権利登記が禁止される。",
+    "japaneseWordTranslation": "建物共用部分登記簿 (たてものきょうようぶぶんとうきぼ)",
+    "legalContext": "Real Property Registration Act Art. 58 (Registration concerning buildings that become common elements under the articles of incorporation or agreement).",
+    "japaneseLegalContext": "不動産登記法第58条（規約による共用部分である旨の登記等）",
+    "exampleSentence": "The storage rooms were designated as common elements, requiring the establishment of a Register of Building Common Elements, thus preventing the unit owners from individually selling those rooms.",
+    "exampleTranslation": "その物置は共用部分として指定され、建物共用部分登記簿の作成が必要となり、それにより区分所有者が個別に当該物置を売却することが防止された。",
+    "vocabularyList": [
+      {
+        "word": "designated",
+        "translation": "指定された (していされた)"
+      },
+      {
+        "word": "unit owners",
+        "translation": "区分所有者 (くぶんしょゆうしゃ)"
+      },
+      {
+        "word": "condominium",
+        "translation": "区分所有建物 (くぶんしょゆうたてもの)"
+      },
+      {
+        "word": "articles of incorporation",
+        "translation": "規約 (きやく)"
+      },
+      {
+        "word": "ownership transfer",
+        "translation": "所有権移転 (しょゆうけんいてん)"
+      },
+      {
+        "word": "common use",
+        "translation": "共用 (きょうよう)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Subrogatory Application",
+    "definition": "An application for real property registration filed by a creditor on behalf of their debtor when the debtor, who is the registered title holder, neglects to file the necessary registration required to protect the creditor's rights.",
+    "japaneseDefinition": "債権者が自己の権利を保全するため、登記義務者である債務者が登記申請を怠っている場合に、債務者に代わって行う登記申請。",
+    "japaneseWordTranslation": "代位申請 (だいいしんせい)",
+    "legalContext": "Real Property Registration Act Art. 42 (Subrogation by Creditors).",
+    "japaneseLegalContext": "不動産登記法第42条（債権者代位による登記の申請）",
+    "exampleSentence": "The bank filed a Subrogatory Application to register the transfer of ownership into the borrower's name, as the borrower failed to complete the necessary steps before the mortgage could be established.",
+    "exampleTranslation": "銀行は、抵当権を設定する前に借主が必要な手続きを完了しなかったため、借主名義への所有権移転登記を代位申請した。",
+    "vocabularyList": [
+      {
+        "word": "creditor",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "neglects",
+        "translation": "怠る (おこたる)"
+      },
+      {
+        "word": "borrower",
+        "translation": "借主 (かりぬし)"
+      },
+      {
+        "word": "establish",
+        "translation": "設定する (せっていする)"
+      },
+      {
+        "word": "protect rights",
+        "translation": "権利を保全する (けんりをほぜんする)"
+      }
+    ]
   }
 ]

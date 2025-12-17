@@ -3888,5 +3888,81 @@
         "translation": "正当な請求権者"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit for Exemption",
+    "definition": "A deposit of money or securities made to substitute a guarantee, security interest, or other collateral required by law or judicial order, thereby relieving the party of the original security obligation (also known as Substitutionary Deposit).",
+    "japaneseDefinition": "法令等により担保として供することが求められた保証金、担保物権、その他の担保に代えて、金銭または有価証券を供託すること。",
+    "japaneseWordTranslation": "代用供託 (daiyō kyōtaku)",
+    "legalContext": "Code of Civil Procedure Art. 77(3) and Civil Execution Act provisions allow for the substitution of security by deposit.",
+    "japaneseLegalContext": "民事訴訟法第77条第3項および民事執行法において、担保に代わる供託の規定が設けられている。",
+    "exampleSentence": "The claimant submitted a Deposit for Exemption to ensure the provisional measure was not subject to immediate cancellation.",
+    "exampleTranslation": "申立人は、仮の措置が直ちに取消しを受けないようにするため、代用供託を行った。",
+    "vocabularyList": [
+      {
+        "word": "claimant",
+        "translation": "申立人 (mōshitate-nin)"
+      },
+      {
+        "word": "provisional measure",
+        "translation": "仮の措置 (kari no措置)"
+      },
+      {
+        "word": "subject to cancellation",
+        "translation": "取消しの対象となる (torikeshi no taishō to naru)"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権 (tanpoken)"
+      },
+      {
+        "word": "collateral",
+        "translation": "担保 (tanpo)"
+      },
+      {
+        "word": "judicial order",
+        "translation": "裁判所の命令 (saibansho no meirei)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Confirmation of Deposit Fulfillment",
+    "definition": "The administrative action taken by the deposit office to officially recognize that the deposit application adheres to all statutory requirements, including verification of the cause, amount, and necessary supporting documentation.",
+    "japaneseDefinition": "供託の申請が、原因、金額、添付書類等の法令上の要件を全て満たしていることを供託所が行政的に確認し、承認する行為。",
+    "japaneseWordTranslation": "供託充足の確認 (kyōtaku jūsoku no kakunin)",
+    "legalContext": "Deposit Act, Articles concerning the formal examination of the application and the acceptance procedure.",
+    "japaneseLegalContext": "供託法、申請の方式審査及び受理手続に関する条項。",
+    "exampleSentence": "The depositor received notice that the Confirmation of Deposit Fulfillment had been completed, thereby extinguishing the underlying debt.",
+    "exampleTranslation": "供託者は、供託充足の確認が完了し、それによって根底にある債務が消滅した旨の通知を受け取った。",
+    "vocabularyList": [
+      {
+        "word": "depositor",
+        "translation": "供託者 (kyōtaku-sha)"
+      },
+      {
+        "word": "administrative action",
+        "translation": "行政的行為 (gyōseiteki kōi)"
+      },
+      {
+        "word": "statutory requirements",
+        "translation": "法令上の要件 (hōrei-jō no yōken)"
+      },
+      {
+        "word": "underlying debt",
+        "translation": "根底にある債務 (kontei ni aru saimu)"
+      },
+      {
+        "word": "supporting documentation",
+        "translation": "添付書類 (tenpu shorui)"
+      },
+      {
+        "word": "acceptance procedure",
+        "translation": "受理手続 (juri tetsuzuki)"
+      }
+    ]
   }
 ]

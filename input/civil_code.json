@@ -4558,5 +4558,115 @@
         "translation": "親子関係"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Term of Performance",
+    "definition": "The designated or agreed-upon point in time when a debtor is required to perform their specific obligation.",
+    "japaneseDefinition": "債務者がその債務を履行すべき期限。当事者の合意や契約の性質によって定まる。",
+    "japaneseWordTranslation": "履行期 (りこうき)",
+    "legalContext": "Civil Code Art. 412 (1): If the term of performance has not been specified, the obligor shall perform immediately upon formation of the obligation.",
+    "japaneseLegalContext": "民法第412条第1項: 確定期限のある債務は、その期限が到来した時から遅滞の責任を負う。",
+    "exampleSentence": "If the contract specifies the delivery date as the third week of October, the debtor's performance obligation arises upon the expiration of the designated **term of performance**.",
+    "exampleTranslation": "契約が引き渡し日を10月の第3週と定めている場合、債務者の履行義務は、指定された履行期の満了をもって発生する。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "delivery date",
+        "translation": "引渡し日 (ひきわたしび)"
+      },
+      {
+        "word": "performance obligation",
+        "translation": "履行義務 (りこうぎむ)"
+      },
+      {
+        "word": "expiration",
+        "translation": "満了 (まんりょう)"
+      },
+      {
+        "word": "designated",
+        "translation": "指定された (していされた)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legal Matrimonial Property System",
+    "definition": "The default regime governing the ownership, management, and dissolution of property between spouses, applied automatically when they have not established a contractual property arrangement prior to marriage.",
+    "japaneseDefinition": "夫婦が婚姻前に契約による財産制を定めなかった場合に、法律の規定によって適用される夫婦間の財産に関する制度。",
+    "japaneseWordTranslation": "法定財産制 (ほうていざいさんせい)",
+    "legalContext": "Civil Code Art. 755: If spouses do not enter into a contract specifying otherwise, the provisions concerning the Legal Matrimonial Property System shall apply.",
+    "japaneseLegalContext": "民法第755条: 夫婦が、法定財産制と異なる契約をしなかったときは、法定財産制の規定に従う。",
+    "exampleSentence": "Unless a prenuptial agreement dictates otherwise, Japanese law imposes the **Legal Matrimonial Property System**, which generally distinguishes between pre-marital and post-marital assets.",
+    "exampleTranslation": "夫婦間の契約で別段の定めがない限り、日本法は法定財産制を適用し、これは通常、婚姻前財産と婚姻後財産を区別する。",
+    "vocabularyList": [
+      {
+        "word": "default regime",
+        "translation": "法定制度 (ほうていせいど)"
+      },
+      {
+        "word": "prenuptial agreement",
+        "translation": "夫婦財産契約 (ふうふざいさんけいやく)"
+      },
+      {
+        "word": "dictates",
+        "translation": "定める (さだめる)"
+      },
+      {
+        "word": "imposes",
+        "translation": "課す (かす)"
+      },
+      {
+        "word": "spouses",
+        "translation": "夫婦 (ふうふ)"
+      },
+      {
+        "word": "distinguishes",
+        "translation": "区別する (くべつする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligation to Preserve the Thing",
+    "definition": "The specific duty requiring a debtor who owes the delivery of a specific, unique item (such as a piece of art or a specific vehicle) to manage and care for that object until delivery, preventing its damage or deterioration.",
+    "japaneseDefinition": "特定物の引渡しを目的とする債務の債務者が、その物を引渡しの時まで善良な管理者の注意をもって保存すべき義務。",
+    "japaneseWordTranslation": "特定物保存義務 (とくていぶつほぞんぎむ)",
+    "legalContext": "Civil Code Art. 400 establishes the standard of care required for the **Obligation to Preserve the Thing** which is owed by the obligor.",
+    "japaneseLegalContext": "民法第400条: 特定物の引渡しを目的とする債権の債務者は、その引渡しをするまで、善良な管理者の注意をもって、その物を保存しなければならない。",
+    "exampleSentence": "When selling a specific antique vase, the seller is subject to the **Obligation to Preserve the Thing** until the moment of its handover to the buyer, or they may face liability for damages.",
+    "exampleTranslation": "特定の骨董品の花瓶を売却する場合、売主は買主への引渡しの瞬間まで特定物保存義務を負い、これに違反すると損害賠償責任を負う可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "specific thing obligation",
+        "translation": "特定物債務 (とくていぶつさいむ)"
+      },
+      {
+        "word": "antique vase",
+        "translation": "骨董品の花瓶 (こっとうひんのはなびん)"
+      },
+      {
+        "word": "handover",
+        "translation": "引渡し (ひきわたし)"
+      },
+      {
+        "word": "damage",
+        "translation": "損害 (そんがい)"
+      },
+      {
+        "word": "deterioration",
+        "translation": "劣化 (れっか)"
+      },
+      {
+        "word": "liability for damages",
+        "translation": "損害賠償責任 (そんがいばいしょうせきにん)"
+      }
+    ]
   }
 ]

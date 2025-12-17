@@ -2,40 +2,6 @@
   {
     "category": "Commercial Registration (商業登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Matters Subject to Public Disclosure",
-    "definition": "Information concerning the organization, existence, or internal structure of a company that must be recorded in the commercial record and made available for public inspection, ensuring the principle of publicity (公示力).",
-    "japaneseDefinition": "会社の組織、存続、又は内部構造に関する情報のうち、商業登記簿に記録され、一般に公開されるべき事項。これにより、商業取引の安全を図る公示力の原則が担保される。",
-    "japaneseWordTranslation": "公告すべき事項 (こうこくすべきじこう)",
-    "legalContext": "Commercial Registration Act Art. 9 (Effect of Registration): 'Matters subject to registration cannot be asserted against a third party acting in good faith unless and until they are registered.'",
-    "japaneseLegalContext": "商業登記法 第9条 (登記の効力): 「登記すべき事項は、登記の後でなければ、これをもって善意の第三者に対抗することができない。」",
-    "exampleSentence": "Failure to properly register the new location of the principal office means that change is not considered one of the matters subject to public disclosure against unsuspecting third parties.",
-    "exampleTranslation": "本店の所在地変更を適切に登記しなかった場合、その変更は、知らない第三者に対しては公告すべき事項として対抗できないことになる。",
-    "vocabularyList": [
-      {
-        "word": "Principal Office",
-        "translation": "本店 (ほんてん)"
-      },
-      {
-        "word": "Good Faith",
-        "translation": "善意 (ぜんい)"
-      },
-      {
-        "word": "Assertion/Assert",
-        "translation": "対抗 (たいこう)"
-      },
-      {
-        "word": "Publicity Principle",
-        "translation": "公示の原則 (こうしのげんそく)"
-      },
-      {
-        "word": "Unsuspecting third parties",
-        "translation": "知らない第三者 (しらないだいさんしゃ)"
-      }
-    ]
-  },
-  {
-    "category": "Commercial Registration (商業登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Neglect of Registration Duty",
     "definition": "The legal failure by an officer or representative of a company to apply for necessary corporate registrations (e.g., changes in officers, capital amendments, establishment) within the statutory period, usually two weeks from the change date.",
     "japaneseDefinition": "会社の役員または代表者が、法律で定められた期間内（通常、変更日から2週間以内）に、必要な会社登記（役員の変更、資本の修正、設立など）を申請しなかった法的懈怠。",
@@ -4308,6 +4274,124 @@
       {
         "word": "commercial name",
         "translation": "商号 (Shōgō)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registrar",
+    "definition": "The administrative official responsible for performing registrations, examining applications, and maintaining the commercial register records within the Legal Affairs Bureau.",
+    "japaneseDefinition": "商業登記法に基づき、登記申請を受理し、形式的な審査を経て、登記を実行または却下する権限を持つ法務局の職員。",
+    "japaneseWordTranslation": "登記官 (Tōkikan)",
+    "legalContext": "Commercial Registration Act, Article 11: “Commercial registration shall be processed by a registrar.”",
+    "japaneseLegalContext": "商業登記法第11条: 「商業登記は、登記官が取り扱う。」",
+    "exampleSentence": "The Registrar dismissed the incorporation application due to a defect in the accompanying documents regarding the payment of stated capital.",
+    "exampleTranslation": "登記官は、払込資本に関する添付書類に不備があったため、設立登記申請を却下した。",
+    "vocabularyList": [
+      {
+        "word": "登記申請",
+        "translation": "Registration application"
+      },
+      {
+        "word": "却下",
+        "translation": "Dismissal/Rejection"
+      },
+      {
+        "word": "形式的審査",
+        "translation": "Formal examination"
+      },
+      {
+        "word": "法務局",
+        "translation": "Legal Affairs Bureau"
+      },
+      {
+        "word": "設立登記",
+        "translation": "Registration of establishment"
+      },
+      {
+        "word": "権限を持つ",
+        "translation": "Has authority"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligation to Register Changes",
+    "definition": "The statutory duty imposed on a company or its representative to register any changes in its registered matters (such as officers, trade name, or corporate purpose) within a specific time period, typically two weeks.",
+    "japaneseDefinition": "会社法等で定められた事項に変更が生じた際に、その旨を法定期限内（通常は２週間以内）に商業登記簿に反映させるよう、会社または代表者に課される義務。",
+    "japaneseWordTranslation": "変更登記義務 (Henkō Tōki Gimusha)",
+    "legalContext": "Commercial Registration Act, Article 26: “When there is a change to any registered matter, the registration thereof shall be applied for within two weeks from the date when such change occurred.”",
+    "japaneseLegalContext": "商業登記法第26条: 「登記すべき事項につき変更が生じたときは、変更のあつた日から二週間以内に、その登記を申請しなければならない。」",
+    "exampleSentence": "Failure to satisfy the obligation to register changes within the statutory two-week period may lead to the imposition of a non-penal fine on the responsible officer.",
+    "exampleTranslation": "法定の２週間以内に変更登記義務を果たさなかった場合、責任を負う役員に対し過料が科されることがある。",
+    "vocabularyList": [
+      {
+        "word": "法定期限",
+        "translation": "Statutory period"
+      },
+      {
+        "word": "変更が生じる",
+        "translation": "A change occurs"
+      },
+      {
+        "word": "商業登記簿",
+        "translation": "Commercial register"
+      },
+      {
+        "word": "会社法",
+        "translation": "Companies Act"
+      },
+      {
+        "word": "役員",
+        "translation": "Officer"
+      },
+      {
+        "word": "過料",
+        "translation": "Non-penal fine"
+      },
+      {
+        "word": "課される",
+        "translation": "Be imposed"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Public Disclosure Principle",
+    "definition": "The fundamental legal concept requiring that essential corporate and merchant information be made publicly accessible through the register, allowing third parties to rely on the registered data to ensure transactional security.",
+    "japaneseDefinition": "会社の重要な情報を広く一般に公開し、取引の安全を確保するために、商業登記制度の基礎となる考え方。",
+    "japaneseWordTranslation": "公示原則 (Kōji Gensoku)",
+    "legalContext": "Commercial Registration Act, Article 10 (Purpose): The commercial register aims to clarify registered matters concerning merchants and companies to ensure transactional security.",
+    "japaneseLegalContext": "商業登記法第10条（趣旨規定）: 商業登記は、商人及び会社に関する登記事項を明らかにし、取引の安全をはかることを目的とする。",
+    "exampleSentence": "The enforceability of corporate actions against third parties is tied directly to the Public Disclosure Principle, demanding timely registration.",
+    "exampleTranslation": "第三者に対する会社行為の対抗力は、商業登記の公示原則と直接的に結びついており、迅速な登記が求められる。",
+    "vocabularyList": [
+      {
+        "word": "取引の安全",
+        "translation": "Transactional security"
+      },
+      {
+        "word": "対抗力",
+        "translation": "Enforceability/Opposability"
+      },
+      {
+        "word": "迅速な登記",
+        "translation": "Timely registration"
+      },
+      {
+        "word": "基礎となる考え方",
+        "translation": "Fundamental philosophy"
+      },
+      {
+        "word": "商業登記制度",
+        "translation": "Commercial registration system"
+      },
+      {
+        "word": "重要な情報",
+        "translation": "Essential information"
       }
     ]
   }

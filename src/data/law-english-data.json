@@ -1,34 +1,38 @@
 {
-  "category": "Deposit Act (供託法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Deposit Office",
-  "definition": "The government agency (typically the Legal Affairs Bureau) where deposits are handled.",
-  "japaneseDefinition": "供託事務を取り扱う国の機関（通常は法務局または地方法務局）。",
-  "japaneseWordTranslation": "供託所 (きょうたくしょ)",
-  "legalContext": "Deposit Act Art. 1: Deposit business is handled by the Legal Affairs Bureau as the Deposit Office.",
-  "japaneseLegalContext": "供託法第1条：供託事務は...法務局...が、供託所としてこれを取り扱う。",
-  "exampleSentence": "You must submit the deposit application form to the competent Deposit Office.",
-  "exampleTranslation": "供託書は管轄の供託所に提出しなければならない。",
+  "word": "Concurrent Offenses",
+  "definition": "A legal situation where a person has committed two or more separate offenses for which a judgment has not yet become final, requiring the court to determine the appropriate method for combining the punishments.",
+  "japaneseDefinition": "確定裁判を経ていない二個以上の罪を犯した者がいる場合に、それらの罪に対する刑罰をどのように合算・調整して科すかを定める制度。",
+  "japaneseWordTranslation": "併合罪 (へいごうざい)",
+  "legalContext": "Penal Code, Art. 45 (Concurrent Offenses): When a person commits two or more offenses before the judgment for one of them has become final, these shall be deemed concurrent offenses.",
+  "japaneseLegalContext": "刑法第45条（併合罪）：確定裁判を経ていない二個以上の罪を犯したときは、これを併合罪とする。",
+  "exampleSentence": "The prosecutor sought the application of the provisions on concurrent offenses, as the defendant had committed both fraud and embezzlement prior to the final sentencing for either crime.",
+  "exampleTranslation": "被告人がいずれの罪についても確定判決を受ける前に詐欺と横領の両方を犯していたため、検察官は併合罪の規定の適用を求めた。",
   "vocabularyList": [
     {
-      "word": "Competent",
-      "translation": "管轄の"
+      "word": "separate offenses",
+      "translation": "別個の罪"
     },
     {
-      "word": "Application form",
-      "translation": "申請書/供託書"
+      "word": "judgment",
+      "translation": "裁判"
     },
     {
-      "word": "Submit",
-      "translation": "提出する"
+      "word": "become final",
+      "translation": "確定する"
     },
     {
-      "word": "Handle",
-      "translation": "取り扱う"
+      "word": "sentencing",
+      "translation": "判決"
     },
     {
-      "word": "Agency",
-      "translation": "機関"
+      "word": "embezzlement",
+      "translation": "横領"
+    },
+    {
+      "word": "provisions",
+      "translation": "規定"
     }
   ]
 }

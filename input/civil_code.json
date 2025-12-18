@@ -4778,5 +4778,119 @@
         "translation": "書面による (shomen ni yoru)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Causal Relation",
+    "definition": "The necessary link between a defendant's act (or omission) and the resulting damage, which must be proven to establish liability, particularly in tort law.",
+    "japaneseDefinition": "ある行為とそれによって生じた結果との間の結びつき。特に不法行為責任の成立要件として、加害行為と損害との間に必要とされる関係。",
+    "japaneseWordTranslation": "因果関係 (いんがかんけい)",
+    "legalContext": "Civil Code Art. 709 (Tort Liability): A person who intentionally or negligently infringes the rights of another is obligated to compensate for damages resulting therefrom.",
+    "japaneseLegalContext": "民法第709条（不法行為による損害賠償）：故意又は過失によって他人の権利又は法律上保護される利益を侵害した者は、これによって生じた損害を賠償する責任を負う。",
+    "exampleSentence": "The court dismissed the claim because the plaintiff failed to demonstrate a sufficient causal relation between the defendant’s negligent construction and the subsequent structural damage.",
+    "exampleTranslation": "原告は、被告の過失による建設行為とそれに続く構造上の損害との間に十分な因果関係を立証できなかったため、裁判所はその請求を棄却した。",
+    "vocabularyList": [
+      {
+        "word": "infringes the rights",
+        "translation": "権利を侵害する"
+      },
+      {
+        "word": "tort liability",
+        "translation": "不法行為責任"
+      },
+      {
+        "word": "negligent construction",
+        "translation": "過失による建設行為"
+      },
+      {
+        "word": "subsequent structural damage",
+        "translation": "それに続く構造上の損害"
+      },
+      {
+        "word": "dismissed the claim",
+        "translation": "請求を棄却した"
+      },
+      {
+        "word": "establish liability",
+        "translation": "責任を確立する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Tender of Performance",
+    "definition": "The formal and proper offering of the owed performance (e.g., money or goods) by the obligor to the obligee; a requirement for the obligor to be released from delay or to consign the object of performance.",
+    "japaneseDefinition": "債務者が、契約内容に従って債権者に対して給付（弁済）を申し出ること。債務者が履行遅滞の責任を免れ、また供託を行うための要件となる。",
+    "japaneseWordTranslation": "弁済の提供 (べんさいのていきょう)",
+    "legalContext": "Civil Code Art. 493 (Effect of Tender): The obligor is released from liability for delay from the time the tender of performance is made.",
+    "japaneseLegalContext": "民法第493条（弁済の提供の効果）：弁済の提供は、債務者がその時から債務を履行しないことによって生ずべき責任を免れる。",
+    "exampleSentence": "The obligor’s obligation was deemed extinguished when he made a proper tender of performance, but the obligee refused to accept the funds without legitimate reason.",
+    "exampleTranslation": "債務者が適法な弁済の提供をしたにもかかわらず、債権者が正当な理由なくその受領を拒否した時点で、債務者の義務は消滅したものとみなされた。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "released from liability",
+        "translation": "責任を免れる"
+      },
+      {
+        "word": "liability for delay",
+        "translation": "履行遅滞の責任"
+      },
+      {
+        "word": "obligation was extinguished",
+        "translation": "義務は消滅した"
+      },
+      {
+        "word": "consign the object",
+        "translation": "目的物を供託する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Freedom of Contract",
+    "definition": "The fundamental legal concept allowing parties to autonomously decide whether to enter into a contract, with whom, and what terms and conditions the contract shall contain.",
+    "japaneseDefinition": "契約を締結するか否か、誰と締結するか、いかなる内容にするかを当事者の自由な意思に委ねる、契約法の根幹をなす原則。",
+    "japaneseWordTranslation": "契約自由の原則 (けいやくじゆうのげんそく)",
+    "legalContext": "General Civil Code Principle (Limitation by Art. 90: Public Order and Good Morals). The principle forms the basis for the validity of consensual agreements.",
+    "japaneseLegalContext": "民法一般原則（第90条：公の秩序又は善良の風俗による制限）。合意に基づく契約の有効性の基盤を形成する。",
+    "exampleSentence": "While the principle of freedom of contract is respected in Japanese law, any contractual term that contravenes mandatory statutory provisions or public policy may be nullified.",
+    "exampleTranslation": "日本の法律では契約自由の原則が尊重される一方で、強行法規または公序良俗に反する契約条項は無効とされる可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "respected",
+        "translation": "尊重される"
+      },
+      {
+        "word": "autonomously decide",
+        "translation": "自律的に決定する"
+      },
+      {
+        "word": "consensual agreements",
+        "translation": "合意に基づく契約"
+      },
+      {
+        "word": "contravenes",
+        "translation": "反する"
+      },
+      {
+        "word": "contractual term",
+        "translation": "契約条項"
+      },
+      {
+        "word": "public policy",
+        "translation": "公序良俗 (こうじょりょうぞく)"
+      }
+    ]
   }
 ]

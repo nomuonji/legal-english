@@ -2,44 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Concurrent Offenses",
-    "definition": "A legal situation where a person has committed two or more separate offenses for which a judgment has not yet become final, requiring the court to determine the appropriate method for combining the punishments.",
-    "japaneseDefinition": "確定裁判を経ていない二個以上の罪を犯した者がいる場合に、それらの罪に対する刑罰をどのように合算・調整して科すかを定める制度。",
-    "japaneseWordTranslation": "併合罪 (へいごうざい)",
-    "legalContext": "Penal Code, Art. 45 (Concurrent Offenses): When a person commits two or more offenses before the judgment for one of them has become final, these shall be deemed concurrent offenses.",
-    "japaneseLegalContext": "刑法第45条（併合罪）：確定裁判を経ていない二個以上の罪を犯したときは、これを併合罪とする。",
-    "exampleSentence": "The prosecutor sought the application of the provisions on concurrent offenses, as the defendant had committed both fraud and embezzlement prior to the final sentencing for either crime.",
-    "exampleTranslation": "被告人がいずれの罪についても確定判決を受ける前に詐欺と横領の両方を犯していたため、検察官は併合罪の規定の適用を求めた。",
-    "vocabularyList": [
-      {
-        "word": "separate offenses",
-        "translation": "別個の罪"
-      },
-      {
-        "word": "judgment",
-        "translation": "裁判"
-      },
-      {
-        "word": "become final",
-        "translation": "確定する"
-      },
-      {
-        "word": "sentencing",
-        "translation": "判決"
-      },
-      {
-        "word": "embezzlement",
-        "translation": "横領"
-      },
-      {
-        "word": "provisions",
-        "translation": "規定"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Obstruction of Execution of Duties",
     "definition": "The crime committed by using violence or threat against a public official who is engaged in the execution of their official duties, thereby obstructing the performance of those duties.",
     "japaneseDefinition": "公務員が職務を執行するにあたり、暴行または脅迫を加えることで、その職務の遂行を妨害する行為。公共の信頼保護を目的とする。",
@@ -4580,6 +4542,120 @@
       {
         "word": "ultimate death",
         "translation": "最終的な死亡"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Breach of Trust",
+    "definition": "The offense committed by a person managing the affairs of others who, in violation of their fiduciary duties and with intent to secure unjust gain for themselves or a third party, causes detriment to the property of the principal.",
+    "japaneseDefinition": "他人の事務を処理する者が、自己または第三者の不正な利益を図り、任務に背く行為によって本人に財産上の損害を与える犯罪。",
+    "japaneseWordTranslation": "背任罪 (Hainin-zai)",
+    "legalContext": "Criminal Code Art. 247: A person who, being in the management of the affairs of another, commits an act in breach of their duty with the intention of promoting their own interests or those of a third party, or of causing damage to the principal, and causes financial loss to the principal, shall be punished...",
+    "japaneseLegalContext": "刑法第247条：他人の事務を処理する者が、その任務に背く行為をし、本人に財産上の損害を加えたときは、三年以下の懲役又は五十万円以下の罰金に処する。",
+    "exampleSentence": "The former executive was indicted for Breach of Trust after intentionally selling company assets significantly below market value to an associated firm.",
+    "exampleTranslation": "元役員は、関連会社に意図的に会社の資産を市場価格より大幅に安く売却したとして、背任罪で起訴された。",
+    "vocabularyList": [
+      {
+        "word": "fiduciary duties",
+        "translation": "受託者責任"
+      },
+      {
+        "word": "unjust gain",
+        "translation": "不正の利益"
+      },
+      {
+        "word": "principal (victim)",
+        "translation": "本人"
+      },
+      {
+        "word": "indicted",
+        "translation": "起訴された"
+      },
+      {
+        "word": "financial loss",
+        "translation": "財産上の損害"
+      },
+      {
+        "word": "associated firm",
+        "translation": "関連会社"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Arson of Occupied Structures",
+    "definition": "The act of setting fire to a house, building, train, or vessel currently used as a residence or where people are present, a crime carrying a mandatory heavy minimum sentence due to the grave risk to life.",
+    "japaneseDefinition": "人が現在住居に使用しているか、または現在人がいる建造物や乗り物などに放火し、公共の危険を生じさせる犯罪。",
+    "japaneseWordTranslation": "現住建造物等放火罪 (Genjū Kenzōbutsu-tō Hōka-zai)",
+    "legalContext": "Criminal Code Art. 108: A person who sets fire to a structure that is currently used as a residence or where persons are present shall be punished by imprisonment for life or for not less than 5 years.",
+    "japaneseLegalContext": "刑法第108条：放火して、現に人が住居に使用し、又は現に人がいる建造物、汽車、電車又は鉱坑を焼損した者は、死刑又は無期若しくは五年以上の懲役に処する。",
+    "exampleSentence": "The defendant faced severe penalties under Article 108 for Arson of Occupied Structures, having ignited a fire in an apartment building late at night.",
+    "exampleTranslation": "被告人は、深夜にマンションで火をつけたとして、現住建造物等放火罪の第108条に基づき、厳しい罰則に直面した。",
+    "vocabularyList": [
+      {
+        "word": "structure",
+        "translation": "建造物"
+      },
+      {
+        "word": "residence",
+        "translation": "住居"
+      },
+      {
+        "word": "setting fire to",
+        "translation": "放火する"
+      },
+      {
+        "word": "severe penalties",
+        "translation": "厳しい罰則"
+      },
+      {
+        "word": "endangering human life",
+        "translation": "人命を危険にさらす"
+      },
+      {
+        "word": "apartment building",
+        "translation": "マンション"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Voluntary Withdrawal from Joint Criminality",
+    "definition": "A procedural mechanism allowing a person involved in a planned joint offense to potentially avoid criminal liability or secure mitigation if they voluntarily and effectively act to prevent the success of the crime before its execution is completed.",
+    "japaneseDefinition": "共同の犯罪計画に参加した者が、その実行の完成前に自発的かつ積極的に行為を阻止することにより、責任を免除または軽減される法理。",
+    "japaneseWordTranslation": "共犯からの離脱 (Kyōhan kara no Ridatsu)",
+    "legalContext": "General Principle of Complicity, allowing for exemption or mitigation of punishment where a co-perpetrator successfully prevents the crime's result.",
+    "japaneseLegalContext": "共犯の一般原則および判例。共犯者が共同実行の意思を撤回し、犯罪結果の発生を阻止した場合には、刑の免除または必要的減軽が考慮される。",
+    "exampleSentence": "Although initially agreeing to the plot, the third party achieved Voluntary Withdrawal from Joint Criminality by alerting the victim's family, thus preventing the damage.",
+    "exampleTranslation": "当初は計画に同意していたものの、その第三者は被害者の家族に警告することで、共犯からの離脱を達成し、結果的に損害を防いだ。",
+    "vocabularyList": [
+      {
+        "word": "procedural mechanism",
+        "translation": "手続的仕組み"
+      },
+      {
+        "word": "joint offense",
+        "translation": "共同の犯罪"
+      },
+      {
+        "word": "co-perpetrator",
+        "translation": "共同正犯者"
+      },
+      {
+        "word": "prevent the success",
+        "translation": "成功を阻止する"
+      },
+      {
+        "word": "mitigation of punishment",
+        "translation": "刑の軽減"
+      },
+      {
+        "word": "alerting the victim",
+        "translation": "被害者に警告する"
       }
     ]
   }

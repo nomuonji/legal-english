@@ -4790,5 +4790,119 @@
         "translation": "提出"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Creditor Requesting Distribution",
+    "definition": "A creditor who, subsequent to the commencement of compulsory execution initiated by another party, demands to participate in the allocation of the proceeds generated from the sale of the execution property.",
+    "japaneseDefinition": "先に開始された強制執行手続に乗じて、執行の目的物たる財産の売却代金の交付を受けることを要求する債権者。",
+    "japaneseWordTranslation": "配当要求債権者 (はいとうようきゅうさいけんしゃ)",
+    "legalContext": "Japanese Civil Execution Act Art. 49 & 89: These provisions outline the requirements and deadlines for a creditor to request inclusion in the distribution schedule.",
+    "japaneseLegalContext": "民事執行法第49条・第89条：債権者が配当要求をするための要件及び期限を規定する。",
+    "exampleSentence": "The Creditor Requesting Distribution must submit a written demand to the execution court within the specified period to secure their right to a share of the execution proceeds.",
+    "exampleTranslation": "配当要求債権者は、執行代金から自己の分け前を確保するために、指定された期間内に執行裁判所に対し書面で要求を提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "allocation",
+        "translation": "配分"
+      },
+      {
+        "word": "proceeds",
+        "translation": "代金"
+      },
+      {
+        "word": "commencement",
+        "translation": "開始"
+      },
+      {
+        "word": "written demand",
+        "translation": "書面による要求"
+      },
+      {
+        "word": "specified period",
+        "translation": "特定の期間"
+      },
+      {
+        "word": "secure",
+        "translation": "確保する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Against Property Subject to a Right of Retention",
+    "definition": "A specialized procedure for enforcing a monetary claim against property that is currently being retained by a third party (the retainer) under a legal right until a separate debt owed to the retainer is settled.",
+    "japaneseDefinition": "第三者が法律上の権利に基づき占有し、留置している財産に対して、金銭債権の満足を得るために行う強制執行。留置権者の利益に配慮した特別規定が存在する。",
+    "japaneseWordTranslation": "留置権の目的物に対する執行 (りゅうちけんのもくてきぶつにたいするしっこう)",
+    "legalContext": "Japanese Civil Execution Act Art. 188: Provides specific rules for execution against property subject to certain real rights, including the right of retention, requiring notice to the retainer.",
+    "japaneseLegalContext": "民事執行法第188条：留置権を含む特定の物権の目的物に対する執行に関する特別の規定を設け、留置権者への通知を義務付けている。",
+    "exampleSentence": "When conducting Execution Against Property Subject to a Right of Retention, the court must ensure the retainer receives adequate notification regarding the impending sale and the details of the procedure.",
+    "exampleTranslation": "留置権の目的物に対する執行を行う際、裁判所は、留置権者が差し迫った売却および手続の詳細について適切な通知を受けることを確実にしなければならない。",
+    "vocabularyList": [
+      {
+        "word": "specialized procedure",
+        "translation": "専門的な手続"
+      },
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権"
+      },
+      {
+        "word": "retainer",
+        "translation": "留置権者"
+      },
+      {
+        "word": "settled",
+        "translation": "清算された"
+      },
+      {
+        "word": "real rights",
+        "translation": "物権"
+      },
+      {
+        "word": "adequate notification",
+        "translation": "適切な通知"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Re-execution",
+    "definition": "The act of initiating execution proceedings again, subsequent to a prior unsuccessful or terminated execution attempt, for the purpose of fully satisfying the outstanding claim against the debtor.",
+    "japaneseDefinition": "以前の執行手続が不奏功であったり、終了したりした後、残存する債権を完全に満足させる目的で、改めて執行手続を申し立てること。",
+    "japaneseWordTranslation": "再度執行 (さいどしっこう)",
+    "legalContext": "Japanese Civil Execution Act Art. 44: Stipulates procedures when an initial execution application is dismissed or when the execution property is found to be insufficient, necessitating a new attempt.",
+    "japaneseLegalContext": "民事執行法第44条：当初の執行申立てが却下された場合、又は執行財産が不足すると判明し、新たな試みが必要となる場合の手続を定める。",
+    "exampleSentence": "The obligee filed for Re-execution against the debtor's newly discovered assets after the initial seizure of movable property only covered a fraction of the outstanding judgment amount.",
+    "exampleTranslation": "当初の動産差押えでは未履行の判決金額の一部しか賄えなかったため、債権者は債務者の新たに発見された財産に対し再度執行を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "unsuccessful",
+        "translation": "不奏功の"
+      },
+      {
+        "word": "terminated",
+        "translation": "終了した"
+      },
+      {
+        "word": "outstanding claim",
+        "translation": "残存する債権"
+      },
+      {
+        "word": "stipulates",
+        "translation": "規定する"
+      },
+      {
+        "word": "dismissed",
+        "translation": "却下された"
+      },
+      {
+        "word": "fraction",
+        "translation": "一部"
+      }
+    ]
   }
 ]

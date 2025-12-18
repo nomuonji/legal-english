@@ -4580,5 +4580,119 @@
         "translation": "単一の手続 (たんいつのてつづき)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Affirmative Defense (Plea)",
+    "definition": "A procedural plea asserted by the defendant which does not simply deny the plaintiff's asserted facts but rather introduces new, separate facts that, if proven true, legally nullify or defeat the plaintiff's claim.",
+    "japaneseDefinition": "原告が主張する請求原因事実を認めつつも、その効果を打ち消す、あるいは排斥する別の新たな事実（抗弁事実）を被告が主張し、その事実の認定を求めること。",
+    "japaneseWordTranslation": "抗弁 (こうべん)",
+    "legalContext": "Code of Civil Procedure (Minji Soshōhō): General principles concerning the means of attack and defense (攻撃防御方法).",
+    "japaneseLegalContext": "民事訴訟法: 攻撃防御方法に関する一般原則",
+    "exampleSentence": "The defendant's counsel submitted an affirmative defense asserting that the debt had been fully satisfied prior to the filing of the lawsuit.",
+    "exampleTranslation": "被告側の弁護士は、訴訟提起前に債務が完全に履行されていたことを主張する抗弁を提出した。",
+    "vocabularyList": [
+      {
+        "word": "asserting",
+        "translation": "主張する"
+      },
+      {
+        "word": "debt",
+        "translation": "債務"
+      },
+      {
+        "word": "fully satisfied",
+        "translation": "完全に履行された"
+      },
+      {
+        "word": "filing of the lawsuit",
+        "translation": "訴訟の提起"
+      },
+      {
+        "word": "procedural plea",
+        "translation": "訴訟上の申立て"
+      },
+      {
+        "word": "nullify",
+        "translation": "無効にする"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Conclusive Effect of Judgment",
+    "definition": "The substantive binding authority of a final judicial decision that prohibits the parties, their successors, and related third parties from challenging or re-litigating the specific determination concerning the subject matter of the dispute in subsequent court proceedings.",
+    "japaneseDefinition": "終局判決が確定した場合に生じる、判決の判断内容についての通用力及び拘束力。当事者が後続の訴訟手続で同一事項を争うことを許さない効力。",
+    "japaneseWordTranslation": "既判力 (きはんりょく)",
+    "legalContext": "Code of Civil Procedure Art. 114 (Scope of the Conclusive Effect): A final judgment possesses conclusive effect only with respect to the matters specified in the holding.",
+    "japaneseLegalContext": "民事訴訟法第114条（既判力の範囲）: 確定判決は、主文に包含するものに限り、既判力を有する。",
+    "exampleSentence": "The plaintiff attempted to bring a second suit based on the same facts, but the court dismissed it due to the conclusive effect of the prior judgment.",
+    "exampleTranslation": "原告は同一の事実に基づいて二度目の訴訟を提起しようとしたが、裁判所は先の判決の既判力によりこれを却下した。",
+    "vocabularyList": [
+      {
+        "word": "substantive binding authority",
+        "translation": "実体的な拘束力"
+      },
+      {
+        "word": "judicial decision",
+        "translation": "司法の決定"
+      },
+      {
+        "word": "subsequent court proceedings",
+        "translation": "後の裁判手続"
+      },
+      {
+        "word": "holding",
+        "translation": "主文"
+      },
+      {
+        "word": "scope",
+        "translation": "範囲"
+      },
+      {
+        "word": "re-litigate",
+        "translation": "再訴する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Assertion and Pleading",
+    "definition": "The foundational procedural principle in civil litigation whereby the court must base its judgment exclusively upon the facts and evidence that the parties themselves have asserted and submitted during the proceedings, rather than engaging in ex officio fact investigation.",
+    "japaneseDefinition": "民事訴訟における基本的な原則の一つで、裁判所は、当事者が弁論において主張し、提出した事実及び証拠のみを判決の基礎としなければならないとするもの。",
+    "japaneseWordTranslation": "弁論主義 (べんろんしゅぎ)",
+    "legalContext": "Code of Civil Procedure Art. 179 (Facts admitted in court): Facts admitted by the opposing party in court shall be held to be true by the court.",
+    "japaneseLegalContext": "民事訴訟法第179条（裁判上の自白）: 裁判所において相手方が自白した事実は、裁判所を拘束する。",
+    "exampleSentence": "Because of the Principle of Assertion and Pleading, the judge may not use personal knowledge of unasserted facts when rendering a verdict.",
+    "exampleTranslation": "弁論主義により、裁判官は判決を下す際に、当事者が主張していない事実に関する個人的な知識を用いることはできない。",
+    "vocabularyList": [
+      {
+        "word": "foundational procedural principle",
+        "translation": "基礎となる手続原則"
+      },
+      {
+        "word": "exclusively upon",
+        "translation": "～にのみ基づいて"
+      },
+      {
+        "word": "ex officio investigation",
+        "translation": "職権による調査"
+      },
+      {
+        "word": "admitted in court",
+        "translation": "裁判上で自白された"
+      },
+      {
+        "word": "rendering a verdict",
+        "translation": "評決を下す"
+      },
+      {
+        "word": "unasserted facts",
+        "translation": "主張されていない事実"
+      }
+    ]
   }
 ]

@@ -4428,5 +4428,81 @@
         "translation": "商業登記簿 (しょうぎょう とうきぼ)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Formal Examination",
+    "definition": "The doctrine governing registration procedure whereby the application official (the registrar) reviews the application solely based on whether it conforms to statutory formal requirements and is accompanied by necessary evidentiary documents, without investigating the substantive veracity of the registered facts.",
+    "japaneseDefinition": "申請された登記が、法律上の形式的な要件を満たし、必要な添付書類を具備しているかどうかを審査するに留まり、登記されるべき事項の実体的な真実性を審査しないという原則。",
+    "japaneseWordTranslation": "形式的審査主義 (けいしきてきしんさしゅぎ)",
+    "legalContext": "The Commercial Registration Act (Act No. 125 of 1964) establishes the operational framework for registration officials.",
+    "japaneseLegalContext": "商業登記法（昭和39年法律第125号）は、登記官の審査権限の範囲を形式的なものに限定している。",
+    "exampleSentence": "The application for the issuance details was reviewed under the Principle of Formal Examination, meaning the official could only confirm the presence of the required corporate resolution and submission documents.",
+    "exampleTranslation": "払込詳細の申請は形式的審査主義に基づき審査されたため、登記官は要求された会社決議と提出書類の存在のみを確認した。",
+    "vocabularyList": [
+      {
+        "word": "formal requirements",
+        "translation": "形式的な要件"
+      },
+      {
+        "word": "statutory",
+        "translation": "法律上の"
+      },
+      {
+        "word": "evidentiary documents",
+        "translation": "証拠書類（添付書類）"
+      },
+      {
+        "word": "veracity",
+        "translation": "真実性"
+      },
+      {
+        "word": "issuance details",
+        "translation": "発行の詳細"
+      },
+      {
+        "word": "corporate resolution",
+        "translation": "会社決議"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Assertion Restriction Principle (of Non-Registered Matters)",
+    "definition": "A rule stipulating that unless required matters have been publicly recorded, the company or person obligated to register cannot assert (or invoke) that matter against a third party, except where the third party had actual knowledge of the non-registered fact.",
+    "japaneseDefinition": "登記すべき事項は、登記した後でなければ善意の第三者に対抗することができない、という原則。商業登記の公示機能と第三者保護を目的とする。",
+    "japaneseWordTranslation": "登記していない事項の対抗の制限 (とうきしていないじこうのたいこうのせいげん)",
+    "legalContext": "Commercial Registration Act, Article 9 (Principle concerning the effect of non-registration).",
+    "japaneseLegalContext": "商業登記法第9条（登記をしていないことの効力に関する原則）。",
+    "exampleSentence": "Due to the Assertion Restriction Principle, the company was barred from invoking the internal limitation placed on the authority of the executive officer against a creditor who acted without knowledge of that fact.",
+    "exampleTranslation": "対抗の制限の原則に基づき、会社は、その事実を知らずに行動した債権者に対し、執行役員の権限に課した内部的な制限を主張することができなかった。",
+    "vocabularyList": [
+      {
+        "word": "stipulating",
+        "translation": "規定する"
+      },
+      {
+        "word": "required matters",
+        "translation": "登記すべき事項"
+      },
+      {
+        "word": "invoke",
+        "translation": "主張する／援用する"
+      },
+      {
+        "word": "actual knowledge",
+        "translation": "現実の認識"
+      },
+      {
+        "word": "executive officer",
+        "translation": "執行役員"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者"
+      }
+    ]
   }
 ]

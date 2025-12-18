@@ -4668,5 +4668,115 @@
         "translation": "損害賠償責任 (そんがいばいしょうせきにん)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Suretyship",
+    "definition": "A contractual arrangement whereby a third party (the surety) promises to the obligee that they will perform the principal obligor’s debt or obligation if the principal obligor fails to do so.",
+    "japaneseDefinition": "主たる債務者が債務を履行しない場合に、債権者に対し、その履行をする責任を負うこと。",
+    "japaneseWordTranslation": "保証 (ほしょう)",
+    "legalContext": "Civil Code Art. 446 (Nature of Suretyship): 'Suretyship is an act by which the surety contracts with the obligee to perform the obligation in the event the principal obligor fails to perform it.'",
+    "japaneseLegalContext": "民法第446条（保証人の責任等）: 「保証人は、主たる債務者がその債務を履行しないときに、その履行をする責任を負う。」",
+    "exampleSentence": "The financial institution required the director of the startup to execute a personal suretyship agreement to secure the business loan.",
+    "exampleTranslation": "その金融機関は、事業融資を確保するため、スタートアップの取締役に個人的な保証契約を締結するよう要求した。",
+    "vocabularyList": [
+      {
+        "word": "surety",
+        "translation": "保証人 (hoshōnin)"
+      },
+      {
+        "word": "principal obligor",
+        "translation": "主たる債務者 (shutarun saimusha)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (saikensha)"
+      },
+      {
+        "word": "execute",
+        "translation": "締結する (teiketsu suru)"
+      },
+      {
+        "word": "secure",
+        "translation": "担保する (tanpo suru)"
+      },
+      {
+        "word": "debt",
+        "translation": "債務 (saimu)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Synallagmatic Contract",
+    "definition": "A contract, such as a sale or lease, that gives rise to obligations reciprocally binding on both parties, meaning the obligation of one party corresponds to the obligation of the other.",
+    "japaneseDefinition": "契約当事者の双方が互いに対価的な意味を持つ債務を負う契約。互いに義務の履行が対価関係にあるもの。",
+    "japaneseWordTranslation": "双務契約 (そうむけいやく)",
+    "legalContext": "Civil Code Art. 533 (Defense of Simultaneous Performance): 'Unless otherwise agreed, a party to a synallagmatic contract may refuse to perform its obligation until the other party performs or tenders performance of its reciprocal obligation.'",
+    "japaneseLegalContext": "民法第533条（同時履行の抗弁権）: 「双務契約の当事者の一方は、相手方がその債務の履行を提供するまでは、自己の債務の履行を拒むことができる。」",
+    "exampleSentence": "The simultaneous performance defense is a crucial feature of a synallagmatic contract, ensuring fairness when exchanging obligations.",
+    "exampleTranslation": "同時履行の抗弁権は、双務契約の重要な特徴であり、債務を交換する際の公平性を保証する。",
+    "vocabularyList": [
+      {
+        "word": "reciprocal obligation",
+        "translation": "対価的債務 (taikateki saimu)"
+      },
+      {
+        "word": "simultaneous performance defense",
+        "translation": "同時履行の抗弁権 (dōji rikou no kōbenken)"
+      },
+      {
+        "word": "crucial feature",
+        "translation": "重要な特徴 (jūyōna tokuchō)"
+      },
+      {
+        "word": "tender performance",
+        "translation": "履行の提供をする (rikou no teikyō o suru)"
+      },
+      {
+        "word": "fairness",
+        "translation": "公平性 (kōheisei)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Gift",
+    "definition": "A type of contract where one party (the donor) promises to gratuitously transfer property to another party (the donee).",
+    "japaneseDefinition": "当事者の一方がある財産を無償で相手方に与える意思を表示し、相手方がこれを受諾することによって、その効力を生ずる契約。",
+    "japaneseWordTranslation": "贈与 (ぞうよ)",
+    "legalContext": "Civil Code Art. 549 (Gift): 'A gift shall take effect when one of the parties manifests an intention to transfer property gratuitously to the other party and the other party accepts this.'",
+    "japaneseLegalContext": "民法第549条（贈与）: 「贈与は、当事者の一方がある財産を無償で相手方に与える意思を表示し、相手方がこれを受諾することによって、その効力を生ずる。」",
+    "exampleSentence": "Under Japanese Civil Law, a contract for a gift that is not documented may be revoked by either party before the delivery of the gifted property.",
+    "exampleTranslation": "日本民法の下では、書面によらない贈与契約は、贈与財産の引渡しがされるまでは、各当事者が撤回することができる。",
+    "vocabularyList": [
+      {
+        "word": "donor",
+        "translation": "贈与者 (zōyosha)"
+      },
+      {
+        "word": "donee",
+        "translation": "受贈者 (juzōsha)"
+      },
+      {
+        "word": "gratuitously",
+        "translation": "無償で (mushō de)"
+      },
+      {
+        "word": "revoke",
+        "translation": "撤回する (tekkai suru)"
+      },
+      {
+        "word": "delivery",
+        "translation": "引渡し (hikikata shi)"
+      },
+      {
+        "word": "documented",
+        "translation": "書面による (shomen ni yoru)"
+      }
+    ]
   }
 ]

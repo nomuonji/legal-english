@@ -4460,5 +4460,127 @@
         "translation": "意に反して"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Definite Intent",
+    "definition": "A form of criminal intent (dolus directus) where the actor clearly recognizes the essential elements of the crime and acts with the certain knowledge or purpose that the prohibited result will occur.",
+    "japaneseDefinition": "行為者が構成要件実現の結果発生を確定的かつ認識的に欲している場合の犯罪故意の形態。",
+    "japaneseWordTranslation": "確定的故意 (かくていてき こい)",
+    "legalContext": "Criminal law distinguishes Definite Intent (Kakuteiteki Koi) from eventual intent (Dolus Eventualis, Ninshiki-aru Kashitsu).",
+    "japaneseLegalContext": "刑法における故意の分類。確定的な故意と未確定な故意（未必の故意、認識ある過失）は区別される。",
+    "exampleSentence": "The court found that the defendant acted with Definite Intent to commit aggravated assault against the victim, not merely negligence.",
+    "exampleTranslation": "裁判所は、被告人が単なる過失ではなく、被害者に対し加重暴行を犯すという確定的故意をもって行動したと認定した。",
+    "vocabularyList": [
+      {
+        "word": "aggravated assault",
+        "translation": "加重暴行"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告人"
+      },
+      {
+        "word": "negligence",
+        "translation": "過失"
+      },
+      {
+        "word": "essential elements",
+        "translation": "構成要件"
+      },
+      {
+        "word": "prohibited result",
+        "translation": "禁止された結果"
+      },
+      {
+        "word": "eventual intent",
+        "translation": "未必の故意"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Desistance from Execution (of a crime)",
+    "definition": "A doctrine (Chūshi-han) in criminal law where a person who has commenced the execution of a crime, but voluntarily and completely abandons the completion of the offense, may have their punishment mitigated or exempted.",
+    "japaneseDefinition": "犯罪の実行に着手したが、自己の自由な意思によりその実行を中止した者が刑を減軽し、又は免除される制度。",
+    "japaneseWordTranslation": "中止犯 (ちゅうし はん)",
+    "legalContext": "Penal Code Art. 43, second sentence: A person who voluntarily desists from the commission of the offense shall have the penalty mitigated or exempted.",
+    "japaneseLegalContext": "刑法第43条後段：「自己の意思によりその犯罪を中止したときは、その刑を減軽し、又は免除する。」",
+    "exampleSentence": "Because the suspect showed Desistance from Execution before causing serious bodily harm, the prosecutor recommended a full exemption from punishment under Article 43.",
+    "exampleTranslation": "被疑者は重傷を負わせる前に実行の中止を示したため、検察官は43条に基づき刑罰の完全な免除を勧告した。",
+    "vocabularyList": [
+      {
+        "word": "doctrine",
+        "translation": "法理 / 制度"
+      },
+      {
+        "word": "execution of a crime",
+        "translation": "犯罪の実行"
+      },
+      {
+        "word": "voluntarily",
+        "translation": "自己の意思により"
+      },
+      {
+        "word": "mitigated",
+        "translation": "減軽された"
+      },
+      {
+        "word": "exemption",
+        "translation": "免除"
+      },
+      {
+        "word": "suspect",
+        "translation": "被疑者"
+      },
+      {
+        "word": "serious bodily harm",
+        "translation": "重傷"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Causal Nexus (Criminal Law)",
+    "definition": "The necessary link (Inga Kankei) between the defendant's prohibited conduct (act or omission) and the resulting harm or outcome required to establish liability for result-crimes.",
+    "japaneseDefinition": "実行行為と構成要件的結果との間に存在する、犯罪成立に不可欠な関連性。行為が結果の発生を引き起こしたこと。",
+    "japaneseWordTranslation": "因果関係 (いんが かんけい)",
+    "legalContext": "Causal Nexus must be established beyond a reasonable doubt in result-based offenses (Kekka-han), which requires proving both factual and legal causation.",
+    "japaneseLegalContext": "結果犯において、事実的及び法的因果関係の双方を立証することで、合理的な疑いの余地なく因果関係を確立しなければならない。",
+    "exampleSentence": "The defense successfully argued that an intervening medical error broke the Causal Nexus, meaning the client was not liable for the ultimate death.",
+    "exampleTranslation": "弁護側は、介入した医療過誤が因果関係を断ち切ったと主張し、依頼人が最終的な死亡について責任を負わないことになった。",
+    "vocabularyList": [
+      {
+        "word": "conduct",
+        "translation": "行為"
+      },
+      {
+        "word": "omission",
+        "translation": "不作為"
+      },
+      {
+        "word": "liability",
+        "translation": "責任"
+      },
+      {
+        "word": "intervening error",
+        "translation": "介入行為 / 介在事由"
+      },
+      {
+        "word": "result-based offenses",
+        "translation": "結果犯"
+      },
+      {
+        "word": "factual causation",
+        "translation": "事実的因果関係"
+      },
+      {
+        "word": "ultimate death",
+        "translation": "最終的な死亡"
+      }
+    ]
   }
 ]

@@ -2,40 +2,6 @@
   {
     "category": "Deposit Act (供託法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Deposit Office",
-    "definition": "The government agency (typically the Legal Affairs Bureau) where deposits are handled.",
-    "japaneseDefinition": "供託事務を取り扱う国の機関（通常は法務局または地方法務局）。",
-    "japaneseWordTranslation": "供託所 (きょうたくしょ)",
-    "legalContext": "Deposit Act Art. 1: Deposit business is handled by the Legal Affairs Bureau as the Deposit Office.",
-    "japaneseLegalContext": "供託法第1条：供託事務は...法務局...が、供託所としてこれを取り扱う。",
-    "exampleSentence": "You must submit the deposit application form to the competent Deposit Office.",
-    "exampleTranslation": "供託書は管轄の供託所に提出しなければならない。",
-    "vocabularyList": [
-      {
-        "word": "Competent",
-        "translation": "管轄の"
-      },
-      {
-        "word": "Application form",
-        "translation": "申請書/供託書"
-      },
-      {
-        "word": "Submit",
-        "translation": "提出する"
-      },
-      {
-        "word": "Handle",
-        "translation": "取り扱う"
-      },
-      {
-        "word": "Agency",
-        "translation": "機関"
-      }
-    ]
-  },
-  {
-    "category": "Deposit Act (供託法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Recovery of Deposit",
     "definition": "The right of the depositor to retrieve the deposited money or securities when the cause for deposit ceases to exist.",
     "japaneseDefinition": "供託の原因が消滅したときなどに、供託者が供託した金銭や有価証券を取り戻す権利。",
@@ -3962,6 +3928,116 @@
       {
         "word": "acceptance procedure",
         "translation": "受理手続 (juri tetsuzuki)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposited Item",
+    "definition": "The property (money, securities, or goods) placed in custody at the deposit office to fulfill a statutory deposit requirement.",
+    "japaneseDefinition": "法令上の供託要件を満たすために供託所に預けられた財産（金銭、有価証券、または物品）。",
+    "japaneseWordTranslation": "供託物 (きょうたくぶつ)",
+    "legalContext": "Deposit Act Art. 1: (General rule concerning the Deposit Office and Deposited Items)",
+    "japaneseLegalContext": "供託法第１条（供託所及び供託物に関する通則）",
+    "exampleSentence": "When the Deposited Item is a specific non-monetary good, the depositor must ensure its adequate preservation until the deposit is accepted.",
+    "exampleTranslation": "供託物が特定の非金銭物品である場合、供託者は供託が受理されるまでその適切な保全を確保しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "custody",
+        "translation": "保管"
+      },
+      {
+        "word": "preservation",
+        "translation": "保全"
+      },
+      {
+        "word": "specific",
+        "translation": "特定の"
+      },
+      {
+        "word": "depositor",
+        "translation": "供託者"
+      },
+      {
+        "word": "statutory requirement",
+        "translation": "法定の要件"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligation to Substitute Deposit",
+    "definition": "The statutory duty requiring a depositor, when the property is difficult to preserve or manage, to convert the property into money and deposit the proceeds instead.",
+    "japaneseDefinition": "供託物が保管または管理が困難である場合、供託者がその物を換価して、その代金を供託所へ差し入れるべき法定の義務。",
+    "japaneseWordTranslation": "供託代替義務 (きょうたくほうだいたいぎむ)",
+    "legalContext": "Civil Code Art. 498, Paragraph 2 (Application by analogy for substituted consignment)",
+    "japaneseLegalContext": "民法第４９８条第２項（準用される代替供託）",
+    "exampleSentence": "If the Debtor attempted to deposit perishable goods, the court would likely impose the Obligation to Substitute Deposit.",
+    "exampleTranslation": "債務者が腐敗しやすい物品を供託しようとした場合、裁判所は供託代替義務を課す可能性が高い。",
+    "vocabularyList": [
+      {
+        "word": "perishable goods",
+        "translation": "腐敗しやすい物品"
+      },
+      {
+        "word": "convert",
+        "translation": "換価する"
+      },
+      {
+        "word": "proceeds",
+        "translation": "代金"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "impose",
+        "translation": "課す"
+      },
+      {
+        "word": "by analogy",
+        "translation": "準用される"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Registrar’s Authority",
+    "definition": "The legal power vested in the deposit registrar to review deposit applications, verify statutory compliance, and order corrections or rejections.",
+    "japaneseDefinition": "供託申請を審査し、法令遵守を確認し、補正や却下を命じるために供託登記官に付与された法的権限。",
+    "japaneseWordTranslation": "供託登記官の権限 (きょうたくとうきかんのけんげん)",
+    "legalContext": "Deposit Act Art. 2 (The Registrar shall perform the duties of the deposit office) & Deposit Rules",
+    "japaneseLegalContext": "供託法第２条（登記官が供託所の事務を行う）及び供託規則",
+    "exampleSentence": "Exercising the Deposit Registrar’s Authority, the official demanded a correction to the amount stated on the performance consignment document.",
+    "exampleTranslation": "供託登記官の権限を行使して、当該官吏は履行供託書類に記載された金額の補正を要求した。",
+    "vocabularyList": [
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "vested",
+        "translation": "付与された"
+      },
+      {
+        "word": "statutory compliance",
+        "translation": "法令遵守"
+      },
+      {
+        "word": "correction",
+        "translation": "補正"
+      },
+      {
+        "word": "rejection",
+        "translation": "却下"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
       }
     ]
   }

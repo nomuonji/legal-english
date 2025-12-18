@@ -4676,5 +4676,119 @@
         "translation": "生活"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Garnishment and Collection Order",
+    "definition": "A judicial order issued by the Execution Court in execution against a monetary claim, which simultaneously attaches the claim owed by the third party debtor (garnishee) to the execution obligor, and grants the execution obligee the right to directly receive payment from the third party debtor.",
+    "japaneseDefinition": "執行裁判所が債権執行において発する、債務者の第三債務者に対する金銭債権を差し押さえ、かつ、債権者にその債権の取立てを許可する旨を定めた裁判。",
+    "japaneseWordTranslation": "差押え及び取立命令 (さしおさえおよびとりたてめいれい)",
+    "legalContext": "Civil Execution Act, Article 155 (Collection of Claim)",
+    "japaneseLegalContext": "民事執行法第155条（債権の取立て）",
+    "exampleSentence": "The obligee obtained a Garnishment and Collection Order against the wages owed to the obligor by the third party debtor.",
+    "exampleTranslation": "債権者は、第三債務者が債務者に支払うべき賃金に対し、差押え及び取立命令を取得した。",
+    "vocabularyList": [
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権"
+      },
+      {
+        "word": "third party debtor",
+        "translation": "第三債務者"
+      },
+      {
+        "word": "Execution Court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "wages",
+        "translation": "賃金"
+      },
+      {
+        "word": "obtain",
+        "translation": "取得する"
+      },
+      {
+        "word": "receive payment",
+        "translation": "弁済を受ける"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Lapse of Seizure",
+    "definition": "The procedural nullification or termination of a seizure imposed on property, typically occurring when the execution obligee fails to fulfill specific procedural requirements, such as moving for the sale of the property, within a period designated by the Execution Court or statute, leading to the release of the property.",
+    "japaneseDefinition": "執行裁判所が定める期間内に、債権者が売却の申立て等の執行手続を進めるための措置をとらなかった場合に、既に実施された差押えの効力が失われること（特に不動産執行において重要）。",
+    "japaneseWordTranslation": "差押えの失効 (さしおさえのしっこう)",
+    "legalContext": "Civil Execution Act, Article 93, Paragraph 1 (Regarding real property seizure)",
+    "japaneseLegalContext": "民事執行法第93条第1項（不動産差押えの失効）",
+    "exampleSentence": "If the execution obligee does not request the Sale Date Designation within the prescribed period, the Lapse of Seizure will occur, and the execution procedure must be restarted.",
+    "exampleTranslation": "債権者が所定の期間内に売却期日の指定を請求しない場合、差押えの失効が生じ、執行手続をやり直さなければならない。",
+    "vocabularyList": [
+      {
+        "word": "nullification",
+        "translation": "無効化"
+      },
+      {
+        "word": "procedural requirements",
+        "translation": "手続上の要件"
+      },
+      {
+        "word": "prescribed period",
+        "translation": "所定の期間"
+      },
+      {
+        "word": "restarted",
+        "translation": "やり直す"
+      },
+      {
+        "word": "statute",
+        "translation": "法令"
+      },
+      {
+        "word": "release of the property",
+        "translation": "財産の解放"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sale Date Designation",
+    "definition": "The official act by which the Execution Court, following the appraisal of the seized real property, determines and announces the date and time for the public sale (auction or tender) of the property, initiating the core step for realizing the asset's value.",
+    "japaneseDefinition": "執行裁判所が、差し押さえた不動産の評価手続の後に、その不動産を競売又は入札の方法により売却するための期日及び時間を正式に決定し、公示する行為。",
+    "japaneseWordTranslation": "売却期日の指定 (ばいきゃくきじつのしてい)",
+    "legalContext": "Civil Execution Act, Article 64, Paragraph 1",
+    "japaneseLegalContext": "民事執行法第64条第1項",
+    "exampleSentence": "Following the submission of the Appraisal Report, the court proceeded with the Sale Date Designation for the debtor’s apartment.",
+    "exampleTranslation": "評価書の提出後、裁判所は債務者のマンションに対する売却期日の指定を進めた。",
+    "vocabularyList": [
+      {
+        "word": "official act",
+        "translation": "公的行為"
+      },
+      {
+        "word": "public sale",
+        "translation": "公売"
+      },
+      {
+        "word": "appraisal",
+        "translation": "評価"
+      },
+      {
+        "word": "realizing the asset's value",
+        "translation": "財産価値の実現"
+      },
+      {
+        "word": "tender",
+        "translation": "入札"
+      },
+      {
+        "word": "submission",
+        "translation": "提出"
+      }
+    ]
   }
 ]

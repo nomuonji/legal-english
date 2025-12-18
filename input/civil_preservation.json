@@ -4456,5 +4456,119 @@
         "translation": "物理的または法律的な現状"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Claim Preservation Writ",
+    "definition": "The formal documentation issued by the preservation court, subsequent to granting a preservation order, that authorizes the enforcement agency (typically a court clerk or execution officer) to implement the specific preservation measure against the debtor's property.",
+    "japaneseDefinition": "保全命令が発令された後、執行機関（執行官または裁判所書記官）に対し、債務者の財産に対する特定の保全処分の実施を授権する裁判所発行の正式な文書。",
+    "japaneseWordTranslation": "保全執行文書 (ほぜんしっこうぶんしょ)",
+    "legalContext": "Civil Preservation Act Art. 52 (Application mutatis mutandis of Execution Writ rules): The enforcement of a preservation measure shall be commenced upon the obligee's motion and presentation of a certified copy of the preservation order.",
+    "japaneseLegalContext": "民事保全法第52条（執行文に関する規定の準用）：保全執行は、債権者の申立てにより、保全命令の正本を提示して行う。",
+    "exampleSentence": "The enforcement officer confirmed the validity of the Claim Preservation Writ before proceeding with the seizure of the debtor's bank account.",
+    "exampleTranslation": "執行官は、債務者の銀行口座の差押えを進める前に、保全執行文書の有効性を確認した。",
+    "vocabularyList": [
+      {
+        "word": "preservation order",
+        "translation": "保全命令"
+      },
+      {
+        "word": "enforcement agency",
+        "translation": "執行機関"
+      },
+      {
+        "word": "court clerk",
+        "translation": "裁判所書記官"
+      },
+      {
+        "word": "execution officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "debtor's property",
+        "translation": "債務者の財産"
+      },
+      {
+        "word": "certified copy",
+        "translation": "正本"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Security for Suit",
+    "definition": "A deposit, usually in the form of money or securities, required by the court from a party (typically the preservation creditor) to ensure payment of damages that the opposing party (the preservation debtor) may suffer should the preservation measure or the principal action prove to be unjustified.",
+    "japaneseDefinition": "保全債権者などが、保全処分や本案訴訟が最終的に不当であった場合に、保全債務者が被る可能性のある損害を担保するために、裁判所に供託することが求められる金銭または有価証券。",
+    "japaneseWordTranslation": "訴訟担保 (そしょうたんぽ)",
+    "legalContext": "Civil Preservation Act Art. 14 (Provision of Security): If the court orders a preservation measure, it may also require the obligee to provide security.",
+    "japaneseLegalContext": "民事保全法第14条（担保の提供）：裁判所が保全命令を発する場合には、債権者に担保を立てさせることができる。",
+    "exampleSentence": "The court mandated the plaintiff provide adequate Security for Suit before issuing the provisional injunction to prevent the defendant from selling the disputed shares.",
+    "exampleTranslation": "裁判所は、被告が係争中の株式を売却するのを防ぐための暫定的な差止命令を発行する前に、原告に適切な訴訟担保を提供するよう命じた。",
+    "vocabularyList": [
+      {
+        "word": "provisional injunction",
+        "translation": "仮処分"
+      },
+      {
+        "word": "principal action",
+        "translation": "本案訴訟"
+      },
+      {
+        "word": "preservation creditor",
+        "translation": "保全債権者"
+      },
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者"
+      },
+      {
+        "word": "disputed shares",
+        "translation": "係争中の株式"
+      },
+      {
+        "word": "adequate",
+        "translation": "適切な"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Specification of Property",
+    "definition": "The procedural requirement that the preservation creditor clearly and precisely detail the nature, location, and description of the specific assets or claims against which the preservation measure is requested, ensuring the target of enforcement is unambiguous.",
+    "japaneseDefinition": "保全債権者が、保全処分を求める特定の財産または権利の性質、所在地、および詳細を明確かつ正確に記載しなければならない手続上の要件であり、執行対象を特定させること。",
+    "japaneseWordTranslation": "特定財産の指定 (とくていざいさんのしてい)",
+    "legalContext": "Civil Preservation Act Art. 13 (Motion for a Preservation Order): A motion for a preservation order shall specify the obligee and the obligor, the content and basis of the claim to be preserved, and the type and target of the preservation measure.",
+    "japaneseLegalContext": "民事保全法第13条（保全命令の申立て）：保全命令の申立ては、債権者及び債務者、被保全権利及び保全の必要性の根拠、並びに保全処分の種類及び目的物を特定しなければならない。",
+    "exampleSentence": "Failure to meet the requirement of Specification of Property led to the dismissal of the motion for a provisional attachment against the company's inventory.",
+    "exampleTranslation": "特定財産の指定の要件を満たさなかったため、会社の在庫に対する仮差押えの申立ては却下された。",
+    "vocabularyList": [
+      {
+        "word": "procedural requirement",
+        "translation": "手続上の要件"
+      },
+      {
+        "word": "unambiguous",
+        "translation": "不明確でない"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "type of preservation measure",
+        "translation": "保全処分の種類"
+      },
+      {
+        "word": "inventory",
+        "translation": "在庫"
+      },
+      {
+        "word": "dismissal",
+        "translation": "却下"
+      }
+    ]
   }
 ]

@@ -4466,5 +4466,119 @@
         "translation": "証拠を提出する"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Intermediate Confirmation",
+    "definition": "An action filed during the pendency of a principal lawsuit to seek a declaratory judgment on the existence or non-existence of a specific legal relationship or fact that forms a necessary preliminary question (prejudicial element) for the court's judgment on the main claim.",
+    "japaneseDefinition": "係属中の訴訟の主要な争点である法律関係の存否等について、中間的な確認判決を求めるための訴え。訴訟物となる請求の当否の判断に必要な先決的な法律関係の確認を求める。",
+    "japaneseWordTranslation": "中間確認の訴え (ちゅうかんかくにんのうったえ)",
+    "legalContext": "Civil Procedure Code (Minji Soshō Hō) Art. 145: Grounds for an action for intermediate confirmation.",
+    "japaneseLegalContext": "民事訴訟法第145条：中間確認の訴えの要件",
+    "exampleSentence": "The defendant requested the court to suspend proceedings pending the filing of an action for intermediate confirmation concerning the validity of the property transfer agreement.",
+    "exampleTranslation": "被告は、財産譲渡契約の有効性に関する中間確認の訴えの提起を待つ間、訴訟手続を中断するよう裁判所に要請した。",
+    "vocabularyList": [
+      {
+        "word": "pendency",
+        "translation": "係属 (けいぞく)"
+      },
+      {
+        "word": "principal lawsuit",
+        "translation": "本訴訟 (ほんそしょう)"
+      },
+      {
+        "word": "declaratory judgment",
+        "translation": "確認判決 (かくにんはんけつ)"
+      },
+      {
+        "word": "preliminary question",
+        "translation": "先決問題 (せんけつもんだい)"
+      },
+      {
+        "word": "validity",
+        "translation": "有効性 (ゆうこうせい)"
+      },
+      {
+        "word": "property transfer agreement",
+        "translation": "財産譲渡契約 (ざいさんじょうときゃく)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Burden of Assertion",
+    "definition": "The procedural requirement that a party must plead or assert the specific facts necessary to establish the elements of their claim or defense; facts not asserted cannot typically be considered by the court (a consequence of the fact presentation rule).",
+    "japaneseDefinition": "自己の請求または防御の成功に不可欠な要件事実について、当事者が主張しなければならないという訴訟上の責任。主張がなければ裁判所は当該事実を認定できない。",
+    "japaneseWordTranslation": "主張責任 (しゅちょうせきにん)",
+    "legalContext": "Principle derived from the structure of fact presentation rules in civil procedure, requiring parties to define the scope of the dispute through their pleadings.",
+    "japaneseLegalContext": "民事訴訟における事実主張の構造（弁論主義の適用範囲）から導かれる原則。",
+    "exampleSentence": "The plaintiff failed to meet the burden of assertion regarding the timely delivery of goods, leading to the dismissal of the claim for breach of contract.",
+    "exampleTranslation": "原告は、商品の適時配達に関する主張責任を果たせなかったため、契約不履行の請求は棄却された。",
+    "vocabularyList": [
+      {
+        "word": "plead",
+        "translation": "主張する (しゅちょうする)"
+      },
+      {
+        "word": "factual elements",
+        "translation": "要件事実 (ようけんじじつ)"
+      },
+      {
+        "word": "defense",
+        "translation": "防御 (ぼうぎょ)"
+      },
+      {
+        "word": "dismissal of the claim",
+        "translation": "請求の棄却 (せいきゅうのききゃく)"
+      },
+      {
+        "word": "breach of contract",
+        "translation": "契約不履行 (けいやくふりこう)"
+      },
+      {
+        "word": "timely delivery",
+        "translation": "適時配達 (てきじはいたつ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Litigation Economy",
+    "definition": "A foundational principle of civil procedure aimed at maximizing efficiency and minimizing the time, effort, and costs involved in resolving disputes for all parties and the judiciary.",
+    "japaneseDefinition": "訴訟に関わる時間、労力、費用を最小限に抑え、紛争を効率的かつ迅速に解決することを目指す民事訴訟の基本原則。",
+    "japaneseWordTranslation": "訴訟経済 (そしょうけいざい)",
+    "legalContext": "General Principle (Underpins rules such as the objective joinder of claims and concentrated court proceedings, promoting efficiency and swiftness).",
+    "japaneseLegalContext": "一般原則（請求の客観的併合や審理の集中など、効率と迅速性を促進する諸規則の基礎となる）。",
+    "exampleSentence": "In the interest of litigation economy, the court encouraged the parties to consolidate their related claims into a single set of proceedings.",
+    "exampleTranslation": "訴訟経済の観点から、裁判所は当事者に対し、関連する請求を単一の手続に併合するよう促した。",
+    "vocabularyList": [
+      {
+        "word": "foundational principle",
+        "translation": "基本原則 (きほんげんそく)"
+      },
+      {
+        "word": "maximizing efficiency",
+        "translation": "効率の最大化 (こうりつのさいだいか)"
+      },
+      {
+        "word": "judiciary",
+        "translation": "裁判所 (さいばんしょ)"
+      },
+      {
+        "word": "consolidate",
+        "translation": "併合する (へいごうする)"
+      },
+      {
+        "word": "related claims",
+        "translation": "関連請求 (かんれんせいきゅう)"
+      },
+      {
+        "word": "single set of proceedings",
+        "translation": "単一の手続 (たんいつのてつづき)"
+      }
+    ]
   }
 ]

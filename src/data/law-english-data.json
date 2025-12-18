@@ -1,34 +1,34 @@
 {
-  "category": "Commercial Registration (商業登記法)",
+  "category": "Deposit Act (供託法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Matters Subject to Public Disclosure",
-  "definition": "Information concerning the organization, existence, or internal structure of a company that must be recorded in the commercial record and made available for public inspection, ensuring the principle of publicity (公示力).",
-  "japaneseDefinition": "会社の組織、存続、又は内部構造に関する情報のうち、商業登記簿に記録され、一般に公開されるべき事項。これにより、商業取引の安全を図る公示力の原則が担保される。",
-  "japaneseWordTranslation": "公告すべき事項 (こうこくすべきじこう)",
-  "legalContext": "Commercial Registration Act Art. 9 (Effect of Registration): 'Matters subject to registration cannot be asserted against a third party acting in good faith unless and until they are registered.'",
-  "japaneseLegalContext": "商業登記法 第9条 (登記の効力): 「登記すべき事項は、登記の後でなければ、これをもって善意の第三者に対抗することができない。」",
-  "exampleSentence": "Failure to properly register the new location of the principal office means that change is not considered one of the matters subject to public disclosure against unsuspecting third parties.",
-  "exampleTranslation": "本店の所在地変更を適切に登記しなかった場合、その変更は、知らない第三者に対しては公告すべき事項として対抗できないことになる。",
+  "word": "Deposit Office",
+  "definition": "The government agency (typically the Legal Affairs Bureau) where deposits are handled.",
+  "japaneseDefinition": "供託事務を取り扱う国の機関（通常は法務局または地方法務局）。",
+  "japaneseWordTranslation": "供託所 (きょうたくしょ)",
+  "legalContext": "Deposit Act Art. 1: Deposit business is handled by the Legal Affairs Bureau as the Deposit Office.",
+  "japaneseLegalContext": "供託法第1条：供託事務は...法務局...が、供託所としてこれを取り扱う。",
+  "exampleSentence": "You must submit the deposit application form to the competent Deposit Office.",
+  "exampleTranslation": "供託書は管轄の供託所に提出しなければならない。",
   "vocabularyList": [
     {
-      "word": "Principal Office",
-      "translation": "本店 (ほんてん)"
+      "word": "Competent",
+      "translation": "管轄の"
     },
     {
-      "word": "Good Faith",
-      "translation": "善意 (ぜんい)"
+      "word": "Application form",
+      "translation": "申請書/供託書"
     },
     {
-      "word": "Assertion/Assert",
-      "translation": "対抗 (たいこう)"
+      "word": "Submit",
+      "translation": "提出する"
     },
     {
-      "word": "Publicity Principle",
-      "translation": "公示の原則 (こうしのげんそく)"
+      "word": "Handle",
+      "translation": "取り扱う"
     },
     {
-      "word": "Unsuspecting third parties",
-      "translation": "知らない第三者 (しらないだいさんしゃ)"
+      "word": "Agency",
+      "translation": "機関"
     }
   ]
 }

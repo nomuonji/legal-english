@@ -4120,5 +4120,107 @@
         "translation": "権利を保全する (けんりをほぜんする)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certificate of Registered Matters",
+    "definition": "An official document issued by the registry that certifies the current details recorded in the real property register, including information about the property description and any proprietary rights.",
+    "japaneseDefinition": "登記所に備えられている登記記録に記載された事項について、法務局が発行する証明書。",
+    "japaneseWordTranslation": "登記事項証明書 (とうきじこうしょうめいしょ)",
+    "legalContext": "Real Property Registration Act Art. 120: Any person may request the issuance of a Certificate of Registered Matters for a real property register.",
+    "japaneseLegalContext": "不動産登記法第120条: 何人も、登記官に対し、登記記録に記録されている事項の証明書（登記事項証明書）の交付を請求することができる。",
+    "exampleSentence": "The lender required the submission of a recent Certificate of Registered Matters to verify the current encumbrances on the collateral property.",
+    "exampleTranslation": "債権者は、担保物件に対する現在の負担を確認するため、最新の登記事項証明書の提出を要求した。",
+    "vocabularyList": [
+      {
+        "word": "registry",
+        "translation": "登記所"
+      },
+      {
+        "word": "recorded details",
+        "translation": "記録事項"
+      },
+      {
+        "word": "proprietary rights",
+        "translation": "所有権等の権利"
+      },
+      {
+        "word": "lender",
+        "translation": "貸付人（債権者）"
+      },
+      {
+        "word": "collateral property",
+        "translation": "担保不動産"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Division of Building",
+    "definition": "A type of indication registration conducted when a single existing building is legally divided into two or more separate, independent buildings due to structural alteration or survey confirmation.",
+    "japaneseDefinition": "一棟の建物について、構造上の区切りを設けるなどして、複数の独立した建物に分ける際に行う表示に関する登記。",
+    "japaneseWordTranslation": "建物の分割の登記 (たてもののぶんかつのとうき)",
+    "legalContext": "Real Property Registration Act Art. 50: When a change occurs in the description of the building due to division or merger, the registered title holder must apply for a registration of division or merger within one month.",
+    "japaneseLegalContext": "不動産登記法第50条: 分割又は合併により建物の表示に変更があったときは、表題部所有者は、一月以内に、当該分割又は合併の登記を申請しなければならない。",
+    "exampleSentence": "The owner initiated the Registration of Division of Building after adding a separate residential unit to the previously integrated structure.",
+    "exampleTranslation": "所有者は、以前は一体であった構造物に独立した居住区画を追加した後、建物の分割の登記を開始した。",
+    "vocabularyList": [
+      {
+        "word": "indication registration",
+        "translation": "表示の登記"
+      },
+      {
+        "word": "single existing building",
+        "translation": "既存の一棟の建物"
+      },
+      {
+        "word": "structural alteration",
+        "translation": "構造の変更"
+      },
+      {
+        "word": "independent buildings",
+        "translation": "独立した建物"
+      },
+      {
+        "word": "residential unit",
+        "translation": "居住区画"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order of Priority",
+    "definition": "The legal sequence determining the rank of multiple registered rights against the same real property, crucial for resolving conflicts between competing claims, generally based on the reception time of the application.",
+    "japaneseDefinition": "同一の不動産について複数の権利が登記された場合の、権利の優劣を決める順序。原則として登記申請の受付の前後により定まる。",
+    "japaneseWordTranslation": "順位 (じゅんい)",
+    "legalContext": "Real Property Registration Act Art. 4: The order of priority of rights registrations shall be determined by the time of reception of the application.",
+    "japaneseLegalContext": "不動産登記法第4条: 権利に関する登記の順位は、法令に別段の定めがある場合を除き、登記の前後により定まる。",
+    "exampleSentence": "Due to the earlier reception time of the application, the first mortgage held a superior Order of Priority over the subsequent security interest.",
+    "exampleTranslation": "申請の受付時刻が早かったため、最初の抵当権は、その後の担保権に対して優越する順位を保持した。",
+    "vocabularyList": [
+      {
+        "word": "legal sequence",
+        "translation": "法的な順序"
+      },
+      {
+        "word": "hierarchical ranking",
+        "translation": "優劣の順位"
+      },
+      {
+        "word": "resolving conflicts",
+        "translation": "紛争の解決"
+      },
+      {
+        "word": "first mortgage",
+        "translation": "一番抵当"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権"
+      }
+    ]
   }
 ]

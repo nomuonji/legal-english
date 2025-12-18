@@ -2,40 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Statute of Limitations",
-    "definition": "A law that sets the maximum time period during which legal proceedings may be initiated or rights may be enforced.",
-    "japaneseDefinition": "一定期間権利を行使しない状態が続いた場合に、その権利を消滅させる制度。",
-    "japaneseWordTranslation": "時効 (じこう)",
-    "legalContext": "Civil Code Art. 166: A claim shall be extinguished by prescription if the creditor does not exercise the right for a certain period.",
-    "japaneseLegalContext": "民法第166条：債権は、...権利を行使することができる時から十年間行使しないときは、時効によって消滅する。",
-    "exampleSentence": "The claim was extinguished by the statute of limitations because the creditor failed to take action.",
-    "exampleTranslation": "債権者が行動を起こさなかったため、その債権は時効により消滅した。",
-    "vocabularyList": [
-      {
-        "word": "Extinguish",
-        "translation": "消滅させる"
-      },
-      {
-        "word": "Prescription",
-        "translation": "時効"
-      },
-      {
-        "word": "Creditor",
-        "translation": "債権者"
-      },
-      {
-        "word": "Enforce",
-        "translation": "行使する/強制する"
-      },
-      {
-        "word": "Period",
-        "translation": "期間"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Legal Capacity",
     "definition": "The ability of a person, recognized by law, to validly perform juristic acts independently and assume legal rights and obligations.",
     "japaneseDefinition": "法律上、単独で有効に法律行為を行い、権利義務の主体となることができる能力。",
@@ -4890,6 +4856,120 @@
       {
         "word": "public policy",
         "translation": "公序良俗 (こうじょりょうぞく)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Performance",
+    "definition": "The fulfillment of an obligation or duty required by a contract or law; carrying out the terms of an agreement.",
+    "japaneseDefinition": "債務者が契約や法令に基づいて負っている義務や責任を遂行し、債務の本旨に従って給付を完了すること。",
+    "japaneseWordTranslation": "履行 (りこう)",
+    "legalContext": "Civil Code Art. 411 stipulates that performance must be made at the place specified by the contract or the nature of the obligation.",
+    "japaneseLegalContext": "民法第411条: 履行の場所について別段の意思表示がないときは、特定物の引渡し以外の債務については債権者の現在の住所において、その他の債務については債務の発生時に債権者の住所であった場所において、それぞれ履行をしなければならない。",
+    "exampleSentence": "The obligor must render performance according to the tenor and in the manner provided by the obligation to avoid a claim for delay.",
+    "exampleTranslation": "債務者は、遅延の請求を避けるため、債務の本旨に従い、その方法で履行をしなければならない。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "tenor",
+        "translation": "本旨（趣旨・内容）"
+      },
+      {
+        "word": "render",
+        "translation": "提供する"
+      },
+      {
+        "word": "delay",
+        "translation": "遅延"
+      },
+      {
+        "word": "fulfillment",
+        "translation": "遂行、達成"
+      },
+      {
+        "word": "manner",
+        "translation": "方法"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Formation of a Contract",
+    "definition": "The process by which parties establish the mutual agreement necessary to create a legally binding contractual relationship, typically requiring mutual assent regarding the essential terms.",
+    "japaneseDefinition": "当事者間の意思表示が合致し、法的に拘束力を持つ契約関係が成立すること。",
+    "japaneseWordTranslation": "契約の成立 (けいやくのせいりつ)",
+    "legalContext": "Civil Code Art. 522 establishes that a contract is formed when the intention of the parties coincides (mutual assent) regarding its contents.",
+    "japaneseLegalContext": "民法第522条: 契約は、契約の内容について当事者の合意があることによって成立する。",
+    "exampleSentence": "Disagreements over key terms prevented the successful formation of a contract, despite lengthy negotiations.",
+    "exampleTranslation": "長期間にわたる交渉にもかかわらず、主要な条件に関する意見の不一致により、契約の成立は妨げられた。",
+    "vocabularyList": [
+      {
+        "word": "mutual assent",
+        "translation": "合意、意思の合致"
+      },
+      {
+        "word": "legally binding",
+        "translation": "法的拘束力のある"
+      },
+      {
+        "word": "key terms",
+        "translation": "主要な条件"
+      },
+      {
+        "word": "coincides",
+        "translation": "合致する"
+      },
+      {
+        "word": "intention of the parties",
+        "translation": "当事者の意思"
+      },
+      {
+        "word": "negotiations",
+        "translation": "交渉"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ownership",
+    "definition": "The comprehensive right a person holds over a specific thing (movable or immovable), allowing them to use, profit from, and dispose of that thing freely, subject to limitations imposed by law.",
+    "japaneseDefinition": "所有者がその所有物を法令の制限内で自由に、使用、収益、及び処分できる包括的な権利。",
+    "japaneseWordTranslation": "所有権 (しょゆうけん)",
+    "legalContext": "Civil Code Art. 206 defines ownership as the right to freely use, profit from, and dispose of the subject matter, subject to limitations imposed by law.",
+    "japaneseLegalContext": "民法第206条: 所有者は、法令の制限内において、自由にその所有物の使用、収益及び処分をする権利を有する。",
+    "exampleSentence": "The deed confirmed the individual’s exclusive ownership of the property, granting them all associated rights and responsibilities.",
+    "exampleTranslation": "その権利証は、その者が当該不動産の独占的な所有権を有し、それに関連するすべての権利と責任を付与されたことを確認した。",
+    "vocabularyList": [
+      {
+        "word": "comprehensive right",
+        "translation": "包括的な権利"
+      },
+      {
+        "word": "dispose of",
+        "translation": "処分する"
+      },
+      {
+        "word": "deed",
+        "translation": "権利証、証書"
+      },
+      {
+        "word": "exclusive ownership",
+        "translation": "独占的所有権"
+      },
+      {
+        "word": "subject matter",
+        "translation": "対象物"
+      },
+      {
+        "word": "responsibilities",
+        "translation": "責任"
       }
     ]
   }

@@ -4904,5 +4904,119 @@
         "translation": "一部"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Delivery Order (Real Estate)",
+    "definition": "A court order, issued upon motion by the acquirer of auctioned real property, compelling the previous possessor (debtor or specific third party) to vacate and deliver the property.",
+    "japaneseDefinition": "競売された不動産の買受人の申立てに基づき、執行裁判所が占有者に対し、不動産の引渡しを命じる決定。",
+    "japaneseWordTranslation": "引渡命令 (ひきわたしめいれい)",
+    "legalContext": "Civil Execution Act, Article 83-2: Delivery Order (引渡命令)",
+    "japaneseLegalContext": "民事執行法第83条の2：引渡命令",
+    "exampleSentence": "The Acquirer must file a motion for a Delivery Order if the former possessor refuses to vacate the premises following the successful completion of the auction.",
+    "exampleTranslation": "落札後の不動産買受人が旧占有者の立ち退き拒否に直面した場合、引渡命令の申立てを行う必要がある。",
+    "vocabularyList": [
+      {
+        "word": "Acquirer",
+        "translation": "買受人"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "possessor",
+        "translation": "占有者"
+      },
+      {
+        "word": "vacate",
+        "translation": "立ち退く"
+      },
+      {
+        "word": "premises",
+        "translation": "物件／土地建物"
+      },
+      {
+        "word": "refuses",
+        "translation": "拒否する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Acquirer (Execution Sale)",
+    "definition": "The person who successfully purchases the property (real estate, movables, or claims) subject to a compulsory execution sale, having completed the payment requirements.",
+    "japaneseDefinition": "強制執行による売却手続において、対象財産を買い受け、代金納付を完了した者。",
+    "japaneseWordTranslation": "買受人 (かいうけにん)",
+    "legalContext": "Civil Execution Act, Article 78: Effect of payment by Acquirer (代金納付の効果)",
+    "japaneseLegalContext": "民事執行法第78条：買受人の代金納付の効果",
+    "exampleSentence": "Upon completing the payment of the sales price, the Acquirer automatically obtains title to the executed real property, free of certain existing encumbrances.",
+    "exampleTranslation": "代金の支払いを完了すると、買受人は、執行された不動産の所有権を、特定の既存の負担がない状態で自動的に取得する。",
+    "vocabularyList": [
+      {
+        "word": "compulsory execution sale",
+        "translation": "強制執行による売却"
+      },
+      {
+        "word": "obtains title",
+        "translation": "所有権を取得する"
+      },
+      {
+        "word": "executed real property",
+        "translation": "執行された不動産"
+      },
+      {
+        "word": "encumbrances",
+        "translation": "負担／担保権"
+      },
+      {
+        "word": "sales price",
+        "translation": "売却代金"
+      },
+      {
+        "word": "payment requirements",
+        "translation": "納付要件"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Adjustment Payment",
+    "definition": "The monetary amount paid by a secured creditor or debtor to ensure the equitable settlement of secured interests, often calculated during specific execution procedures like collateral conversion or distribution.",
+    "japaneseDefinition": "担保権の実行手続や配当手続において、公正な清算や調整を確保するために、債務者や担保権者等が支払うこととなる金銭。",
+    "japaneseWordTranslation": "清算金 (せいさんきん)",
+    "legalContext": "Civil Execution Act, related provisions concerning secured claims and liquidation (担保権及び換価に関する規定)",
+    "japaneseLegalContext": "民事執行法第190条（担保不動産収益執行の清算金）等",
+    "exampleSentence": "If the hypothec holder initiates execution proceedings, the debtor may be required to pay an Adjustment Payment to secure the release of certain collateral assets.",
+    "exampleTranslation": "抵当権者が執行手続を開始した場合、債務者は特定の担保資産の解除を確実にするために清算金を支払うよう求められることがある。",
+    "vocabularyList": [
+      {
+        "word": "hypothec holder",
+        "translation": "抵当権者"
+      },
+      {
+        "word": "collateral",
+        "translation": "担保物"
+      },
+      {
+        "word": "execution proceedings",
+        "translation": "執行手続"
+      },
+      {
+        "word": "release",
+        "translation": "解除"
+      },
+      {
+        "word": "secured interests",
+        "translation": "担保権"
+      },
+      {
+        "word": "equitable settlement",
+        "translation": "衡平な清算"
+      }
+    ]
   }
 ]

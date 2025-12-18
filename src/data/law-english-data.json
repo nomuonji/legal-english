@@ -1,38 +1,34 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Concurrent Offenses",
-  "definition": "A legal situation where a person has committed two or more separate offenses for which a judgment has not yet become final, requiring the court to determine the appropriate method for combining the punishments.",
-  "japaneseDefinition": "確定裁判を経ていない二個以上の罪を犯した者がいる場合に、それらの罪に対する刑罰をどのように合算・調整して科すかを定める制度。",
-  "japaneseWordTranslation": "併合罪 (へいごうざい)",
-  "legalContext": "Penal Code, Art. 45 (Concurrent Offenses): When a person commits two or more offenses before the judgment for one of them has become final, these shall be deemed concurrent offenses.",
-  "japaneseLegalContext": "刑法第45条（併合罪）：確定裁判を経ていない二個以上の罪を犯したときは、これを併合罪とする。",
-  "exampleSentence": "The prosecutor sought the application of the provisions on concurrent offenses, as the defendant had committed both fraud and embezzlement prior to the final sentencing for either crime.",
-  "exampleTranslation": "被告人がいずれの罪についても確定判決を受ける前に詐欺と横領の両方を犯していたため、検察官は併合罪の規定の適用を求めた。",
+  "word": "Statute of Limitations",
+  "definition": "A law that sets the maximum time period during which legal proceedings may be initiated or rights may be enforced.",
+  "japaneseDefinition": "一定期間権利を行使しない状態が続いた場合に、その権利を消滅させる制度。",
+  "japaneseWordTranslation": "時効 (じこう)",
+  "legalContext": "Civil Code Art. 166: A claim shall be extinguished by prescription if the creditor does not exercise the right for a certain period.",
+  "japaneseLegalContext": "民法第166条：債権は、...権利を行使することができる時から十年間行使しないときは、時効によって消滅する。",
+  "exampleSentence": "The claim was extinguished by the statute of limitations because the creditor failed to take action.",
+  "exampleTranslation": "債権者が行動を起こさなかったため、その債権は時効により消滅した。",
   "vocabularyList": [
     {
-      "word": "separate offenses",
-      "translation": "別個の罪"
+      "word": "Extinguish",
+      "translation": "消滅させる"
     },
     {
-      "word": "judgment",
-      "translation": "裁判"
+      "word": "Prescription",
+      "translation": "時効"
     },
     {
-      "word": "become final",
-      "translation": "確定する"
+      "word": "Creditor",
+      "translation": "債権者"
     },
     {
-      "word": "sentencing",
-      "translation": "判決"
+      "word": "Enforce",
+      "translation": "行使する/強制する"
     },
     {
-      "word": "embezzlement",
-      "translation": "横領"
-    },
-    {
-      "word": "provisions",
-      "translation": "規定"
+      "word": "Period",
+      "translation": "期間"
     }
   ]
 }

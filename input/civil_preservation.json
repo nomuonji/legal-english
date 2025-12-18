@@ -4570,5 +4570,81 @@
         "translation": "却下"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Competence of the Preservation Court",
+    "definition": "The legal rules determining which court (district or summary court) has the authority and territorial jurisdiction to hear and decide a motion for a preservation order (provisional attachment or provisional disposition).",
+    "japaneseDefinition": "保全命令の申立てを審査し、決定を下す権限を持つ裁判所（地方裁判所または簡易裁判所）を定める法的な規則。",
+    "japaneseWordTranslation": "保全裁判所の管轄 (ほぜんさいばんしょのかんかつ)",
+    "legalContext": "Civil Preservation Act Art. 12: A Preservation Court is defined as the District Court having territorial jurisdiction over the location of the subject matter of the preservation measure, or the court having jurisdiction over the principal action.",
+    "japaneseLegalContext": "民事保全法 第12条: 保全裁判所は、保全の目的物または本案の訴えの管轄権を有する裁判所が管轄する地方裁判所とする。",
+    "exampleSentence": "The obligee filed the motion for provisional attachment with the court having competence over the location of the debtor's commercial real estate.",
+    "exampleTranslation": "債権者は、債務者の商業用不動産の所在地を管轄する裁判所に仮差押えの申立てを提出した。",
+    "vocabularyList": [
+      {
+        "word": "territorial jurisdiction",
+        "translation": "土地管轄権"
+      },
+      {
+        "word": "motion for preservation order",
+        "translation": "保全命令の申立て"
+      },
+      {
+        "word": "principal action",
+        "translation": "本案の訴え"
+      },
+      {
+        "word": "subject matter",
+        "translation": "目的物"
+      },
+      {
+        "word": "commercial real estate",
+        "translation": "商業用不動産"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Enforcement Agent",
+    "definition": "A judicial officer, equivalent to an Enforcement Officer in Civil Execution procedures, who is specifically mandated by the Preservation Enforcement Court to execute the physical actions required by a preservation order, such as seizing movable property or carrying out site inspections for provisional disposition.",
+    "japaneseDefinition": "保全執行裁判所から、保全命令に定められた物理的な執行行為（動産の差押え、仮処分における現地調査など）を実施するよう命じられた裁判所職員。",
+    "japaneseWordTranslation": "保全執行官 (ほぜんしっこうかん)",
+    "legalContext": "Civil Preservation Act Art. 52: Enforcement of a provisional attachment of movable property and certain types of provisional dispositions are carried out by the Preservation Enforcement Agent.",
+    "japaneseLegalContext": "民事保全法 第52条: 動産仮差押え及び特定の種類の仮処分の執行は、保全執行官が行う。",
+    "exampleSentence": "The Preservation Enforcement Agent seized the machinery listed in the provisional attachment order and delivered custody to the execution custodian.",
+    "exampleTranslation": "保全執行官は、仮差押え命令に記載された機械類を差し押さえ、執行保管人に引渡した。",
+    "vocabularyList": [
+      {
+        "word": "judicial officer",
+        "translation": "裁判所職員"
+      },
+      {
+        "word": "Enforcement Officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "seizing movable property",
+        "translation": "動産の差押え"
+      },
+      {
+        "word": "provisional attachment order",
+        "translation": "仮差押え命令"
+      },
+      {
+        "word": "Preservation Enforcement Court",
+        "translation": "保全執行裁判所"
+      },
+      {
+        "word": "execution custodian",
+        "translation": "執行保管人"
+      }
+    ]
   }
 ]

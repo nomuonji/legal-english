@@ -4658,5 +4658,73 @@
         "translation": "被害者に警告する"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Crime of Omission",
+    "definition": "A type of crime where the perpetrator is penalized not for a positive act, but for the failure to perform an action they were legally obligated to undertake, resulting in a prohibited consequence.",
+    "japaneseDefinition": "法的な作為義務があるにもかかわらず、その行為を怠る（不作為）ことによって、特定の犯罪結果を発生させる形態の犯罪。",
+    "japaneseWordTranslation": "不作為犯 (ふさくいはん)",
+    "legalContext": "Criminal liability theory distinguishes between crimes of commission (positive acts) and crimes of omission. Liability for a crime of omission requires the existence of a special legal duty (guarantor status) to prevent the resulting harm.",
+    "japaneseLegalContext": "刑法解釈上の概念。特に、結果犯において、作為義務（保証人地位）のある者が、その義務を怠り、結果を発生させた場合に成立する。",
+    "exampleSentence": "The prosecution argued that the caregiver’s failure to provide essential medication constituted a crime of omission resulting in death.",
+    "exampleTranslation": "検察は、介護者が必須の投薬を怠ったことは、死亡の結果を生じさせた不作為犯にあたると主張した。",
+    "vocabularyList": [
+      {
+        "word": "prohibited consequence",
+        "translation": "禁止された結果 (きんしされたけっか)"
+      },
+      {
+        "word": "guarantor status",
+        "translation": "保証人地位 (ほしょうにんちい)"
+      },
+      {
+        "word": "crimes of commission",
+        "translation": "作為犯 (さくいはん)"
+      },
+      {
+        "word": "legal duty to act",
+        "translation": "作為義務 (さくいいむ)"
+      },
+      {
+        "word": "perpetrator",
+        "translation": "犯人 (はんにん)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Concurrent Offenses",
+    "definition": "A term referring to situations where a single individual commits multiple distinct crimes before a final judgment has been rendered for any of them, necessitating specific statutory rules for determining the combined penalty.",
+    "japaneseDefinition": "確定判決を経ていない二個以上の罪を犯した場合をいい、その刑罰の定め方について刑法に特段の規定が設けられている場合。",
+    "japaneseWordTranslation": "併合罪 (へいごうざい)",
+    "legalContext": "Criminal Code Article 45 defines concurrent offenses and sets the stage for Articles 47 and 48, which govern the methods of compounding punishments for imprisonment and fines.",
+    "japaneseLegalContext": "刑法第45条（併合罪）、及び第47条、第48条（併合罪の刑の加重）が、その刑の適用方法を規定する。",
+    "exampleSentence": "When sentencing the defendant for three concurrent offenses—theft, fraud, and assault—the court must follow the rules for compounding punishments.",
+    "exampleTranslation": "被告人に窃盗、詐欺、暴行の三つの併合罪について量刑を決定する際、裁判所は刑の加重に関する規定に従わなければならない。",
+    "vocabularyList": [
+      {
+        "word": "compounding punishments",
+        "translation": "刑の加重 (けいのりょうけい)"
+      },
+      {
+        "word": "final judgment",
+        "translation": "確定判決 (かくていはんけつ)"
+      },
+      {
+        "word": "sentencing",
+        "translation": "量刑 (りょうけい)"
+      },
+      {
+        "word": "distinct crimes",
+        "translation": "独立した罪 (どくりつしたつみ)"
+      },
+      {
+        "word": "statutory rules",
+        "translation": "法的な規定 (ほうてきなきてい)"
+      }
+    ]
   }
 ]

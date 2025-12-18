@@ -4466,5 +4466,123 @@
         "translation": "特別決議 (とくべつけつぎ)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reduction of Capital Surplus Reserve",
+    "definition": "The formal procedure, typically requiring a special resolution of the shareholders, to decrease the amount registered as capital surplus reserve (a component of the company's capital account) to cover losses or transfer funds to stated capital or distributable surplus.",
+    "japaneseDefinition": "欠損のてん補または剰余金配当の原資とするため、株主総会の特別決議等に基づき、会社の資本準備金を減らす手続き。",
+    "japaneseWordTranslation": "資本準備金の減少 (しほんじゅんびきんのげんしょう)",
+    "legalContext": "Companies Act, Article 448 (Reduction of Capital Reserve, etc.).",
+    "japaneseLegalContext": "会社法第448条（資本準備金等の減少）",
+    "exampleSentence": "The company initiated the **reduction of the capital surplus reserve** to offset the accumulated deficit recorded in the previous fiscal year.",
+    "exampleTranslation": "当社は、前年度に計上された累積欠損を相殺するため、**資本準備金の減少**を開始した。",
+    "vocabularyList": [
+      {
+        "word": "special resolution",
+        "translation": "特別決議 (tokubetsu ketsugi)"
+      },
+      {
+        "word": "deficit",
+        "translation": "欠損 (kesson)"
+      },
+      {
+        "word": "stated capital",
+        "translation": "資本金 (shihonkin)"
+      },
+      {
+        "word": "distributable surplus",
+        "translation": "分配可能剰余金 (bunpai kanō jōyokin)"
+      },
+      {
+        "word": "capital account",
+        "translation": "資本の部 (shihon no bu)"
+      },
+      {
+        "word": "accumulated deficit",
+        "translation": "累積欠損 (ruiseki kesson)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Duty to Report to the Board of Directors",
+    "definition": "The obligation imposed on Directors and Executive Officers to report specific, important matters concerning the execution of business to the Board of Directors at least once every three months, as well as immediately reporting any fact that may cause significant damage to the company.",
+    "japaneseDefinition": "取締役及び執行役が、職務の執行状況について少なくとも3ヶ月に一度、取締役会に報告すること、及び会社に著しい損害を及ぼすおそれのある事実を発見した場合に直ちに報告する義務。",
+    "japaneseWordTranslation": "取締役会への報告義務 (とりしまりやくかいへのほうこくぎむ)",
+    "legalContext": "Companies Act, Article 363, Paragraph 2 (Duties of Directors) and Article 373 (Special Provisions Concerning Board of Directors in a Company with Board of Company Auditors).",
+    "japaneseLegalContext": "会社法第363条第2項（取締役の義務）及び第373条（監査役会設置会社の特則）",
+    "exampleSentence": "Failure by the CEO to fulfill his **duty to report to the Board of Directors** regarding the pending regulatory investigation may constitute a breach of fiduciary duty.",
+    "exampleTranslation": "CEOが保留中の規制調査に関する**取締役会への報告義務**を怠った場合、善管注意義務違反を構成する可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "execution of business",
+        "translation": "職務の執行 (shokumu no shikkō)"
+      },
+      {
+        "word": "fiduciary duty",
+        "translation": "受託者責任 (jutakusha sekinin)"
+      },
+      {
+        "word": "breach of duty",
+        "translation": "義務違反 (gimu ihan)"
+      },
+      {
+        "word": "regulatory investigation",
+        "translation": "規制調査 (kisei chōsa)"
+      },
+      {
+        "word": "Executive Officer",
+        "translation": "執行役 (shikkō yaku)"
+      },
+      {
+        "word": "significant damage",
+        "translation": "著しい損害 (ichijirushii songai)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Determination of Subscription Requirements",
+    "definition": "The formal process by which a company determines the key terms for issuing new shares or stock acquisition rights, including the type and number of shares to be issued, the issue price, and the payment date, typically requiring a resolution of the Board of Directors.",
+    "japaneseDefinition": "新株または新株予約権を発行するにあたり、発行する株式等の種類及び数、払込金額、払込期日などの主要な条件を取締役会の決議等により定める手続き。",
+    "japaneseWordTranslation": "募集事項の決定 (ぼしゅうじこうのけってい)",
+    "legalContext": "Companies Act, Article 199 (Determination of Subscription Requirements).",
+    "japaneseLegalContext": "会社法第199条（募集事項の決定）",
+    "exampleSentence": "The Board approved the **determination of subscription requirements** for the upcoming capital increase, setting the issue price at 1,500 JPY per share.",
+    "exampleTranslation": "取締役会は、来る増資のための**募集事項の決定**を承認し、一株当たりの発行価格を1,500円に設定した。",
+    "vocabularyList": [
+      {
+        "word": "issuing new shares",
+        "translation": "新株発行 (shinkabu hakkō)"
+      },
+      {
+        "word": "stock acquisition rights",
+        "translation": "新株予約権 (shinkabu yoyakuken)"
+      },
+      {
+        "word": "issue price",
+        "translation": "発行価格 (hakkō kakaku)"
+      },
+      {
+        "word": "payment date",
+        "translation": "払込期日 (haraikomi kōjitsu)"
+      },
+      {
+        "word": "capital increase",
+        "translation": "増資 (zōshi)"
+      },
+      {
+        "word": "resolution of the Board of Directors",
+        "translation": "取締役会の決議 (torishimariyaku-kai no ketsugi)"
+      },
+      {
+        "word": "subscriber",
+        "translation": "引受人 (hikiukenin)"
+      }
+    ]
   }
 ]

@@ -4584,5 +4584,123 @@
         "translation": "引受人 (hikiukenin)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability of Officers to the Company",
+    "definition": "The responsibility of directors, corporate auditors, or executive officers to compensate the company for damages resulting from a breach of their duties (such as the duty of loyalty or the duty to supervise).",
+    "japaneseDefinition": "取締役、会計参与、監査役、執行役などがその任務を怠ったことにより会社に生じた損害を賠償する責任。",
+    "japaneseWordTranslation": "役員の会社に対する責任 (やくにんのかいしゃにたいするせきにん)",
+    "legalContext": "Companies Act, Article 423 (Liability for Damages to the Company).",
+    "japaneseLegalContext": "会社法第423条（会社に対する損害賠償責任）",
+    "exampleSentence": "Shareholders may pursue the **liability of officers to the company** through a derivative action if the board fails to act.",
+    "exampleTranslation": "取締役会が行動を起こさない場合、株主は派生訴訟を通じて**役員の会社に対する責任**を追及することができる。",
+    "vocabularyList": [
+      {
+        "word": "officer",
+        "translation": "役員 (やくにん)"
+      },
+      {
+        "word": "compensate",
+        "translation": "賠償する (ばいしょうする)"
+      },
+      {
+        "word": "breach of duty",
+        "translation": "任務懈怠 (にんむけたい)"
+      },
+      {
+        "word": "derivative action",
+        "translation": "派生訴訟 (はせいそしょう)"
+      },
+      {
+        "word": "duty of loyalty",
+        "translation": "忠実義務 (ちゅうじつぎむ)"
+      },
+      {
+        "word": "pursue",
+        "translation": "追及する (ついきゅうする)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Rescission of a Corporate Resolution",
+    "definition": "A lawsuit filed by a shareholder, director, or auditor to nullify a resolution passed at a General Meeting of Shareholders or Board of Directors Meeting on grounds such as procedural defect or lack of authority.",
+    "japaneseDefinition": "株主総会または取締役会の決議について、招集手続または決議方法に瑕疵がある場合などに、その効力を否定するために株主等が提起する訴訟。",
+    "japaneseWordTranslation": "決議取消しの訴え (けつぎとりけしのうったえ)",
+    "legalContext": "Companies Act, Article 831, Paragraph 1 (Action for Rescission of a Corporate Resolution).",
+    "japaneseLegalContext": "会社法第831条第1項（決議取消しの訴え）",
+    "exampleSentence": "The plaintiff initiated an **action for rescission of a corporate resolution** because the convocation notice was improperly served.",
+    "exampleTranslation": "招集通知が不適切に送達されたため、原告は**決議取消しの訴え**を提起した。",
+    "vocabularyList": [
+      {
+        "word": "plaintiff",
+        "translation": "原告 (げんこく)"
+      },
+      {
+        "word": "convocation notice",
+        "translation": "招集通知 (しょうしゅうちゅうち)"
+      },
+      {
+        "word": "General Meeting of Shareholders",
+        "translation": "株主総会 (かぶぬしそうかい)"
+      },
+      {
+        "word": "procedural defect",
+        "translation": "手続上の瑕疵 (てつづきじょうのかし)"
+      },
+      {
+        "word": "nullify",
+        "translation": "効力を否定する (こうりょくをひていする)"
+      },
+      {
+        "word": "improperly served",
+        "translation": "不適切に送達された (ふてきせつにそうたつされた)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-Voting Shares",
+    "definition": "A class of shares defined by the Articles of Incorporation that restricts or eliminates the voting rights of the holder at the General Meeting of Shareholders.",
+    "japaneseDefinition": "定款の定めにより、株主総会における議決権の行使を制限または排除されている種類の株式。",
+    "japaneseWordTranslation": "議決権制限株式 (ぎけつけんせいげんかぶしき)",
+    "legalContext": "Companies Act, Article 108, Paragraph 1, Item 3 (Class Shares).",
+    "japaneseLegalContext": "会社法第108条第1項第3号（種類株式）",
+    "exampleSentence": "Issuing **non-voting shares** allows the company to raise capital without diluting the control of existing common shareholders.",
+    "exampleTranslation": "**議決権制限株式**を発行することで、会社は既存の普通株主の支配権を希薄化することなく、資本を調達することができる。",
+    "vocabularyList": [
+      {
+        "word": "Articles of Incorporation",
+        "translation": "定款 (ていかん)"
+      },
+      {
+        "word": "restrict",
+        "translation": "制限する (せいげんする)"
+      },
+      {
+        "word": "General Meeting of Shareholders",
+        "translation": "株主総会 (かぶぬしそうかい)"
+      },
+      {
+        "word": "raise capital",
+        "translation": "資本を調達する (しほんをちょうたつする)"
+      },
+      {
+        "word": "diluting",
+        "translation": "希薄化する (きはくかする)"
+      },
+      {
+        "word": "common shareholder",
+        "translation": "普通株主 (ふつうかぶぬし)"
+      },
+      {
+        "word": "class shares",
+        "translation": "種類株式 (しゅるいかぶしき)"
+      }
+    ]
   }
 ]

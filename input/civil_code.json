@@ -4972,5 +4972,119 @@
         "translation": "責任"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Delay of Acceptance",
+    "definition": "The legal status arising when the obligee fails to accept the tender of performance, or neglects to execute the necessary cooperating action, when the performance of the duty is due.",
+    "japaneseDefinition": "債権者が、債務の本旨に従った弁済の提供があったにもかかわらず、これを受領しないこと、または受領するために必要な行為をしないこと。",
+    "japaneseWordTranslation": "じゅりょうちたい (受領遅滞)",
+    "legalContext": "Civil Code Art. 413: From the time the obligee falls into Delay of Acceptance, the obligor is relieved of liability for the consequences of non-performance or preservation of the goods.",
+    "japaneseLegalContext": "民法第413条: 債権者が受領遅滞にあるときは、債務者は、その履行の目的物を保存する義務を免れる。",
+    "exampleSentence": "The court determined that the purchaser's refusal to receive the shipment resulted in **delay of acceptance**, thereby shifting the risk of destruction to them.",
+    "exampleTranslation": "裁判所は、買主が出荷の受け取りを拒否したことにより受領遅滞に陥り、その結果として滅失のリスクが買主に移ったと判断した。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "tender of performance",
+        "translation": "弁済の提供"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "cooperating action",
+        "translation": "協力行為"
+      },
+      {
+        "word": "liability",
+        "translation": "責任"
+      },
+      {
+        "word": "preservation of the goods",
+        "translation": "目的物の保存"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Good Faith Third Party",
+    "definition": "A third party who acquires an interest in property through a transaction without knowing (i.e., being in 'good faith' regarding) the underlying defect, invalidity, or cause for rescission affecting the original right holder's claim.",
+    "japaneseDefinition": "特定の法律上の事実の発生について知らなかった第三者のこと。法律効果の帰属につき、保護されるべき第三者。",
+    "japaneseWordTranslation": "ぜんいのだいさんしゃ (善意の第三者)",
+    "legalContext": "Civil Code Art. 94 para. 2: A declaration that is untrue but declared by mutual consent may not be asserted against a **Good Faith Third Party**.",
+    "japaneseLegalContext": "民法第94条第2項: 前項の規定による意思表示の無効は、善意の第三者に対抗することができない。",
+    "exampleSentence": "The property sale was contested, but the claim failed because the subsequent buyer qualified as a **Good Faith Third Party** and was unaware of the fraud.",
+    "exampleTranslation": "その不動産の売買は争われたが、その後の買主が善意の第三者と認められ、詐欺の事実を知らなかったため、請求は認められなかった。",
+    "vocabularyList": [
+      {
+        "word": "property sale",
+        "translation": "不動産の売買"
+      },
+      {
+        "word": "acquire an interest",
+        "translation": "権利を取得する"
+      },
+      {
+        "word": "contested",
+        "translation": "争われた"
+      },
+      {
+        "word": "untrue declaration",
+        "translation": "虚偽の意思表示"
+      },
+      {
+        "word": "fraud",
+        "translation": "詐欺"
+      },
+      {
+        "word": "asserted against",
+        "translation": "対抗することができない"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Calculation of Time Period",
+    "definition": "The formal method specified in the Civil Code for determining the duration of a period, including rules for when the period commences, when it terminates, and how holidays affect the termination day.",
+    "japaneseDefinition": "法律、裁判上の処分又は法律行為によって定められた期間の長さを算定する方法。初日不算入の原則や満了日の定めなど。",
+    "japaneseWordTranslation": "きかんのけいさん (期間の計算)",
+    "legalContext": "Civil Code Art. 140: If a period is calculated in days, weeks, months, or years, the first day of that period shall not be included in the **Calculation of Time Period**.",
+    "japaneseLegalContext": "民法第140条: 日、週、月又は年によって期間を定めたときは、期間の初日は、算入しない。",
+    "exampleSentence": "For the purpose of the notification requirement, the **calculation of the time period** followed the rule of exclusion of the commencement day.",
+    "exampleTranslation": "届出要件の目的のため、期間の計算は初日不算入の原則に従って行われた。",
+    "vocabularyList": [
+      {
+        "word": "formal method",
+        "translation": "正式な方法"
+      },
+      {
+        "word": "duration",
+        "translation": "長さ"
+      },
+      {
+        "word": "commencement day",
+        "translation": "初日"
+      },
+      {
+        "word": "termination day",
+        "translation": "満了日"
+      },
+      {
+        "word": "notification requirement",
+        "translation": "届出要件"
+      },
+      {
+        "word": "exclusion",
+        "translation": "不算入"
+      }
+    ]
   }
 ]

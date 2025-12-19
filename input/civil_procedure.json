@@ -4808,5 +4808,119 @@
         "translation": "新製品開発 (しんせいひんかいはつ)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Procedural Requirements for a Lawsuit",
+    "definition": "Mandatory conditions that must be met for a court to proceed to a substantive examination of the claims and render a valid judgment on the merits. These include competence, legitimate party standing, and compliance with formal prerequisites.",
+    "japaneseDefinition": "裁判所が本案審理に進み、適法な終局判決を下すために必要とされる要件。管轄、当事者適格、および形式的な前提条件への適合性を含む。",
+    "japaneseWordTranslation": "訴訟要件 (そしょうようけん)",
+    "legalContext": "Code of Civil Procedure, General Provisions: The court examines these requirements ex officio; failure to meet them leads to dismissal of the action without examination of the merits.",
+    "japaneseLegalContext": "民事訴訟法 総則: 裁判所はこれらの要件を職権で調査し、不備がある場合は本案の審理に入らずに訴えを却下する。",
+    "exampleSentence": "The judge raised the issue of whether the plaintiff satisfied all the necessary *procedural requirements for a lawsuit*, particularly concerning the proper designation of the defendant.",
+    "exampleTranslation": "裁判官は、特に被告の適切な指定に関して、原告が必要な訴訟要件を全て満たしているかという問題提起を行った。",
+    "vocabularyList": [
+      {
+        "word": "substantive examination",
+        "translation": "本案審理"
+      },
+      {
+        "word": "judgment on the merits",
+        "translation": "終局判決"
+      },
+      {
+        "word": "ex officio",
+        "translation": "職権で"
+      },
+      {
+        "word": "dismissal of the action",
+        "translation": "訴えの却下"
+      },
+      {
+        "word": "party standing",
+        "translation": "当事者適格"
+      },
+      {
+        "word": "prerequisites",
+        "translation": "前提条件"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Powers of Attorney",
+    "definition": "Specific authorities granted to a litigation representative (typically an attorney) beyond the general scope of agency, necessary for major procedural acts such as settling the dispute, withdrawing the suit, or entering into an undertaking.",
+    "japaneseDefinition": "訴訟代理人（弁護士等）が、訴えの取下げ、和解、請求の放棄、又は上訴の提起などの重大な訴訟行為を行うために、当事者から個別に付与される権限。",
+    "japaneseWordTranslation": "特別授権事項 (とくべつじゅけんじこう)",
+    "legalContext": "Code of Civil Procedure Art. 58: Actions such as filing a counterclaim, settlement, or withdrawal of the suit require explicit special authorization.",
+    "japaneseLegalContext": "民事訴訟法第58条: 反訴の提起、和解、又は訴えの取下げなどの行為は、明示的な特別授権を要する。",
+    "exampleSentence": "The attorney sought *special powers of attorney* from the corporate client before entering into negotiations for a comprehensive settlement of all outstanding claims.",
+    "exampleTranslation": "弁護士は、全ての係属中の請求についての包括的な和解交渉に入る前に、法人依頼者から特別授権を得ようとした。",
+    "vocabularyList": [
+      {
+        "word": "litigation representative",
+        "translation": "訴訟代理人"
+      },
+      {
+        "word": "scope of agency",
+        "translation": "代理権の範囲"
+      },
+      {
+        "word": "settling the dispute",
+        "translation": "紛争の和解"
+      },
+      {
+        "word": "withdrawing the suit",
+        "translation": "訴えの取下げ"
+      },
+      {
+        "word": "counterclaim",
+        "translation": "反訴"
+      },
+      {
+        "word": "explicit authorization",
+        "translation": "明示的な権限付与"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Determination of Suit Costs",
+    "definition": "The judicial procedure initiated subsequent to a final judgment, wherein the court officially calculates the exact monetary amount of the litigation costs (including stamp duty, witness fees, etc.) to be borne by the party ordered to pay them.",
+    "japaneseDefinition": "終局判決後に開始される司法手続きであり、裁判所が、支払いを命じられた当事者が負担すべき訴訟費用（印紙代、証人費用等を含む）の正確な金銭的総額を公式に算定するプロセス。",
+    "japaneseWordTranslation": "訴訟費用の確定手続 (そしょうひようのかくていてつづき)",
+    "legalContext": "Code of Civil Procedure Art. 71: The court must issue a final decision (決定) determining the amount of the costs after the judgment ordering the burden of costs has become final.",
+    "japaneseLegalContext": "民事訴訟法第71条: 訴訟費用の負担を命じた裁判が確定した後、裁判所は、費用の額を定める決定をしなければならない。",
+    "exampleSentence": "The plaintiff filed a motion for the *judicial determination of suit costs* immediately after the defendant's appeal period expired, seeking payment of all stamp duties and expert witness expenses.",
+    "exampleTranslation": "原告は、被告の上訴期間満了後直ちに訴訟費用の確定手続の申立てを行い、全ての印紙代と鑑定人費用を支払わせることを求めた。",
+    "vocabularyList": [
+      {
+        "word": "final judgment",
+        "translation": "終局判決"
+      },
+      {
+        "word": "monetary amount",
+        "translation": "金銭的な額"
+      },
+      {
+        "word": "stamp duty",
+        "translation": "印紙代"
+      },
+      {
+        "word": "expert witness expenses",
+        "translation": "鑑定人費用"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "burden of costs",
+        "translation": "費用の負担"
+      }
+    ]
   }
 ]

@@ -2,40 +2,6 @@
   {
     "category": "Civil Preservation (民事保全法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Preservatory Necessity",
-    "definition": "The essential legal requirement demonstrating that, without immediate judicial action under the Civil Preservation Act, the obligee’s rights would become impossible or extremely difficult to enforce or realize.",
-    "japaneseDefinition": "権利の実現が困難となるか、またはその回復が不可能になる事態を避けるために、裁判所による保全措置が直ちに必要であること。",
-    "japaneseWordTranslation": "保全の必要性 (ほぜんのひつようせい)",
-    "legalContext": "Civil Preservation Act (民事保全法), Art. 13: \"A preservation order shall be issued only when the necessity for preservation exists.\"",
-    "japaneseLegalContext": "民事保全法 第13条: 「保全命令は、保全の必要性がある場合に限り、発することができる。」",
-    "exampleSentence": "The judge dismissed the petition because the Preservation Obligee failed to sufficiently prove the existence of *Preservatory Necessity*.",
-    "exampleTranslation": "保全債権者が保全の必要性の存在を十分に証明できなかったため、裁判官はその申立てを却下した。",
-    "vocabularyList": [
-      {
-        "word": "dismissed the petition",
-        "translation": "申立てを却下した"
-      },
-      {
-        "word": "sufficiently prove",
-        "translation": "十分に証明する"
-      },
-      {
-        "word": "judicial action",
-        "translation": "司法措置"
-      },
-      {
-        "word": "enforce or realize",
-        "translation": "実現または履行する"
-      },
-      {
-        "word": "obligee",
-        "translation": "債権者"
-      }
-    ]
-  },
-  {
-    "category": "Civil Preservation (民事保全法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Preservation Obligee",
     "definition": "The party who petitions the court under the Civil Preservation Act seeking a preservation order to safeguard their asserted claim or to establish an interim status quo pending litigation.",
     "japaneseDefinition": "民事保全手続きにおいて、将来の権利実現を確実にするため、または係争中の権利関係について暫定的な地位を定めるために、裁判所に保全命令を申し立てる当事者。",
@@ -4644,6 +4610,86 @@
       {
         "word": "execution custodian",
         "translation": "執行保管人"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Injunction to Secure Non-Monetary Claims",
+    "definition": "A category of provisional disposition (preservation measure) issued to ensure the future compulsory execution of claims that do not involve the payment of money, such as claims for the transfer of ownership registration or the delivery of specific property.",
+    "japaneseDefinition": "金銭の支払いを目的としない請求権（不動産の引渡し請求権や登記移転請求権など）について、将来の強制執行を確保するために発せられる保全処分。",
+    "japaneseWordTranslation": "非金銭債権の執行確保 (Hikinzen saiken no shikkō kakuho)",
+    "legalContext": "Civil Preservation Law Art. 23 (Provisional Disposition): Provisional disposition may be ordered concerning a claim that is not for payment of money.",
+    "japaneseLegalContext": "民事保全法第23条（仮処分）：金銭の支払を目的としない請求権についても、仮処分を命ずることができる。",
+    "exampleSentence": "The obligee filed an injunction to secure non-monetary claims seeking the prohibition of the debtor from altering the property’s status pending the resolution of the specific performance lawsuit.",
+    "exampleTranslation": "債権者は、特定履行訴訟の解決を待つ間、債務者が当該財産の現状を変更することを禁止する非金銭債権の執行確保のための仮処分を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "specific performance",
+        "translation": "特定履行"
+      },
+      {
+        "word": "transfer of ownership registration",
+        "translation": "所有権移転登記"
+      },
+      {
+        "word": "alter the property’s status",
+        "translation": "財産の現状を変更する"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Review of Preservation Suitability",
+    "definition": "The necessary judicial process of examining the proportionality and appropriateness (suitability) of a preservation measure, ensuring that the chosen measure is the least damaging means of protecting the obligee's right and balancing the interests of both parties.",
+    "japaneseDefinition": "保全処分の相当性・適切性（比例原則）を裁判所が審査する過程。請求権を保全するために、債務者に与える不利益が最小限であるか、両当事者の利益が均衡しているかを判断する。",
+    "japaneseWordTranslation": "保全処分の相当性の審査 (Hozen shobun no sōtōsei no shinsa)",
+    "legalContext": "Civil Preservation Law Art. 23, para. 3: The provisional disposition prescribed in paragraph 2 may be ordered only if the obligee would suffer significant detriment or if it is necessary to avoid imminent danger.",
+    "japaneseLegalContext": "民事保全法第23条第3項：第2項の仮処分は、債権者に生ずる著しい損害又は急迫の危険を避けるため必要がある場合に限り、命ずることができる。",
+    "exampleSentence": "When reviewing the motion, the judge applied a strict standard of judicial review of preservation suitability, denying the request for the most severe form of asset freezing.",
+    "exampleTranslation": "申立てを審査する際、裁判官は厳格な保全処分の相当性の審査基準を適用し、最も厳しい形態の資産凍結の要求を却下した。",
+    "vocabularyList": [
+      {
+        "word": "proportionality",
+        "translation": "比例原則"
+      },
+      {
+        "word": "appropriateness",
+        "translation": "適切性"
+      },
+      {
+        "word": "balancing the interests",
+        "translation": "利益の均衡"
+      },
+      {
+        "word": "significant detriment",
+        "translation": "著しい損害"
+      },
+      {
+        "word": "imminent danger",
+        "translation": "急迫の危険"
+      },
+      {
+        "word": "asset freezing",
+        "translation": "資産凍結"
+      },
+      {
+        "word": "deny the request",
+        "translation": "要求を却下する"
       }
     ]
   }

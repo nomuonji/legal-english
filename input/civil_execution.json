@@ -5018,5 +5018,81 @@
         "translation": "衡平な清算"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order of Collection",
+    "definition": "A judicial order issued by the execution tribunal concerning the seizure of a monetary claim, which permits the executing creditor to collect the debt directly from the third party debtor, thereby satisfying the claim.",
+    "japaneseDefinition": "金銭債権の差押えに関して、裁判所が出す決定。差押債権者に対し、第三債務者から直接債権を取り立てて、自己の債権の弁済に充てる権能を与える。",
+    "japaneseWordTranslation": "取立命令 (とりたてめいれい)",
+    "legalContext": "Civil Execution Act Art. 155: Stipulates the requirements and effects of the Order of Collection in the context of claim execution.",
+    "japaneseLegalContext": "民事執行法第155条: 債権執行における取立命令の要件及び効力について定める。",
+    "exampleSentence": "The execution court issued an Order of Collection, allowing the creditor to immediately demand payment from the garnishee.",
+    "exampleTranslation": "執行裁判所が取立命令を発し、債権者が直ちに差押えられた債務の第三者に対して支払いを請求することを許可した。",
+    "vocabularyList": [
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権 (きんせんさいけん)"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え (さしおさえ)"
+      },
+      {
+        "word": "execution tribunal",
+        "translation": "執行裁判所 (しっこうさいばんしょ)"
+      },
+      {
+        "word": "garnishee",
+        "translation": "第三債務者 (だいさんさいむしゃ)"
+      },
+      {
+        "word": "to satisfy the claim",
+        "translation": "債権の弁済に充てる (さいけんのべんさいにあてる)"
+      },
+      {
+        "word": "debt",
+        "translation": "債務 (さいむ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Interruption",
+    "definition": "A procedural measure by which the implementing body temporarily halts the execution process upon the occurrence of specific legal grounds, often triggered automatically by the filing of a certain action or the provision of security.",
+    "japaneseDefinition": "法定の事由が発生した場合、執行機関が強制執行の手続きを一時的に停止させる措置。特定の訴訟の提起や担保の提供により、職権または申立てに基づいて執行が一時的に行われなくなること。",
+    "japaneseWordTranslation": "執行の中止 (しっこうのちゅうし)",
+    "legalContext": "Civil Execution Act Art. 39: Lists the specific documents (such as judgments or official notices) that warrant the Execution Interruption.",
+    "japaneseLegalContext": "民事執行法第39条: 執行の停止または中止を命じる文書（裁判または公的通知）の種類を列挙している。",
+    "exampleSentence": "The Execution Interruption was ordered by the court pending the outcome of the action seeking nullification of the underlying judgment.",
+    "exampleTranslation": "根拠となる判決の無効を求める訴訟の結果が出るまで、裁判所により執行の中止が命じられた。",
+    "vocabularyList": [
+      {
+        "word": "halting the process",
+        "translation": "手続きを停止させる (てつづきをていしさせる)"
+      },
+      {
+        "word": "specific legal grounds",
+        "translation": "法定の事由 (ほうていのじゆう)"
+      },
+      {
+        "word": "underlying judgment",
+        "translation": "根拠となる判決 (こんきょとなるはんけつ)"
+      },
+      {
+        "word": "nullification",
+        "translation": "無効化 (むこうか)"
+      },
+      {
+        "word": "implementing body",
+        "translation": "執行機関 (しっこうきかん)"
+      },
+      {
+        "word": "provision of security",
+        "translation": "担保の提供 (たんぽのていきょう)"
+      }
+    ]
   }
 ]

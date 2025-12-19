@@ -1,34 +1,34 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Civil Preservation (民事保全法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Statute of Limitations",
-  "definition": "A law that sets the maximum time period during which legal proceedings may be initiated or rights may be enforced.",
-  "japaneseDefinition": "一定期間権利を行使しない状態が続いた場合に、その権利を消滅させる制度。",
-  "japaneseWordTranslation": "時効 (じこう)",
-  "legalContext": "Civil Code Art. 166: A claim shall be extinguished by prescription if the creditor does not exercise the right for a certain period.",
-  "japaneseLegalContext": "民法第166条：債権は、...権利を行使することができる時から十年間行使しないときは、時効によって消滅する。",
-  "exampleSentence": "The claim was extinguished by the statute of limitations because the creditor failed to take action.",
-  "exampleTranslation": "債権者が行動を起こさなかったため、その債権は時効により消滅した。",
+  "word": "Preservatory Necessity",
+  "definition": "The essential legal requirement demonstrating that, without immediate judicial action under the Civil Preservation Act, the obligee’s rights would become impossible or extremely difficult to enforce or realize.",
+  "japaneseDefinition": "権利の実現が困難となるか、またはその回復が不可能になる事態を避けるために、裁判所による保全措置が直ちに必要であること。",
+  "japaneseWordTranslation": "保全の必要性 (ほぜんのひつようせい)",
+  "legalContext": "Civil Preservation Act (民事保全法), Art. 13: \"A preservation order shall be issued only when the necessity for preservation exists.\"",
+  "japaneseLegalContext": "民事保全法 第13条: 「保全命令は、保全の必要性がある場合に限り、発することができる。」",
+  "exampleSentence": "The judge dismissed the petition because the Preservation Obligee failed to sufficiently prove the existence of *Preservatory Necessity*.",
+  "exampleTranslation": "保全債権者が保全の必要性の存在を十分に証明できなかったため、裁判官はその申立てを却下した。",
   "vocabularyList": [
     {
-      "word": "Extinguish",
-      "translation": "消滅させる"
+      "word": "dismissed the petition",
+      "translation": "申立てを却下した"
     },
     {
-      "word": "Prescription",
-      "translation": "時効"
+      "word": "sufficiently prove",
+      "translation": "十分に証明する"
     },
     {
-      "word": "Creditor",
+      "word": "judicial action",
+      "translation": "司法措置"
+    },
+    {
+      "word": "enforce or realize",
+      "translation": "実現または履行する"
+    },
+    {
+      "word": "obligee",
       "translation": "債権者"
-    },
-    {
-      "word": "Enforce",
-      "translation": "行使する/強制する"
-    },
-    {
-      "word": "Period",
-      "translation": "期間"
     }
   ]
 }

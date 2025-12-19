@@ -4192,5 +4192,119 @@
         "translation": "保管施設の維持管理"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit due to uncertainty of the entitled party",
+    "definition": "A legally recognized ground for consigning the subject matter of performance to the Deposit Office when the obligor cannot definitively ascertain the identity of the rightful obligee, thereby discharging the obligation.",
+    "japaneseDefinition": "債務者が正当な債権者を確知することができない場合、その弁済の目的物を供託所に供託し、債務を免れるための手段。",
+    "japaneseWordTranslation": "権利者不明による供託 (けんりしゃふめいによるきょうたく)",
+    "legalContext": "Civil Code Art. 494, para. 1: If the obligor cannot ascertain the obligee, the obligor may be relieved of the obligation by depositing the subject matter of the performance at the Deposit Office.",
+    "japaneseLegalContext": "民法第494条第1項: 債務者が債権者を確知することができないときは、弁済を供託所に供託することができる。",
+    "exampleSentence": "The obligor performed a Deposit due to uncertainty of the entitled party after the death of the creditor, as multiple purported heirs arose.",
+    "exampleTranslation": "債務者は、複数の相続人候補が出現したため、債権者の死亡後、権利者不明による供託を行った。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "ascertain",
+        "translation": "確知する"
+      },
+      {
+        "word": "subject matter of performance",
+        "translation": "弁済の目的物"
+      },
+      {
+        "word": "purported heirs",
+        "translation": "相続人候補"
+      },
+      {
+        "word": "discharging the obligation",
+        "translation": "債務の免責"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Administrative Review of Deposit Application",
+    "definition": "The formal procedural examination carried out by the Deposit Official to determine the legality and completeness of a deposit application, verifying the existence of statutory grounds for deposit and the accuracy of the submitted documents.",
+    "japaneseDefinition": "供託官が供託申請について、法令に定められた供託原因が存在するか、また、添付書類を含め記載内容が適法かつ正確であるかを審査する行政手続き。",
+    "japaneseWordTranslation": "供託申請の行政審査 (きょうたくしんせいのぎょうせいしんさ)",
+    "legalContext": "Deposit Act Art. 8: The Deposit Official shall review the application documents and, if deemed lawful in accordance with statutory provisions, shall accept the deposit; if unlawful, the application shall be rejected.",
+    "japaneseLegalContext": "供託法第8条: 供託官は、供託書の記載及び添付書類を審査し、法令の規定に従い、これを適法と認めるときは、供託を受理し、不適法と認めるときは、これを却下しなければならない。",
+    "exampleSentence": "Due to deficiencies in the accompanying documentation, the Deposit Official ordered revisions during the Administrative Review of Deposit Application.",
+    "exampleTranslation": "添付書類に不備があったため、供託官は供託申請の行政審査の過程で補正を命じた。",
+    "vocabularyList": [
+      {
+        "word": "Deposit Official",
+        "translation": "供託官"
+      },
+      {
+        "word": "legality",
+        "translation": "適法性"
+      },
+      {
+        "word": "statutory grounds",
+        "translation": "法定の供託原因"
+      },
+      {
+        "word": "accompanying documentation",
+        "translation": "添付書類"
+      },
+      {
+        "word": "rejected",
+        "translation": "却下された"
+      },
+      {
+        "word": "ordered revisions",
+        "translation": "補正を命じた"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Lapse of claim right to deposited assets",
+    "definition": "The legal mechanism by which the entitlement of the obligee or claimant to demand the withdrawal or delivery of the deposited funds or property expires after failing to exercise the right for a prescribed period, usually 20 years.",
+    "japaneseDefinition": "供託された金銭又は有価証券について、供託の受領をすべき者が一定期間（通常20年）その権利を行使しなかったことにより、請求権が消滅すること。",
+    "japaneseWordTranslation": "供託物引渡請求権の時効消滅 (きょうたくぶつひきわたしせいきゅうけんのじこうしょうめつ)",
+    "legalContext": "Deposit Act Art. 9: The right to claim the return of deposited money or securities shall expire by prescription if not exercised within 20 years from the date of deposit.",
+    "japaneseLegalContext": "供託法第9条: 供託金又は供託有価証券の取戻請求権は、供託の日から二十年間行使しないときは、時効によって消滅する。",
+    "exampleSentence": "If the entitled party fails to assert their rights, the Lapse of claim right to deposited assets will result in the funds being integrated into the national fisc.",
+    "exampleTranslation": "権利者が権利を主張しなければ、供託物引渡請求権の時効消滅により、その供託金は国庫に帰属することになる。",
+    "vocabularyList": [
+      {
+        "word": "entitlement",
+        "translation": "権利"
+      },
+      {
+        "word": "assert their rights",
+        "translation": "権利を主張する"
+      },
+      {
+        "word": "prescribed period",
+        "translation": "所定の期間"
+      },
+      {
+        "word": "national fisc",
+        "translation": "国庫"
+      },
+      {
+        "word": "deposited assets",
+        "translation": "供託物"
+      },
+      {
+        "word": "integrated",
+        "translation": "帰属する"
+      }
+    ]
   }
 ]

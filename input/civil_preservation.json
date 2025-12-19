@@ -4806,5 +4806,81 @@
         "translation": "本裁判"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Security Order",
+    "definition": "A judicial decision issued by a preservation court specifying the amount and method of security (deposit) required to be provided by the applicant before a preservation measure is enforced, typically aimed at compensating the opposing party for potential damages.",
+    "japaneseDefinition": "保全裁判所が、保全命令の申立人に対し、保全命令の執行によって相手方に生じうる損害を担保するために、供託すべき金額および方法を定める裁判。",
+    "japaneseWordTranslation": "担保決定 (たんばけってい)",
+    "legalContext": "Civil Preservation Act Art. 14 (1): If a preservation order is sought, the preservation court may, unless the grounds for preservation are clearly evident from the documents submitted, order the applicant to provide security.",
+    "japaneseLegalContext": "民事保全法第14条第1項: 保全命令は、申立てを却下する場合を除き、保全裁判官が定める担保を立てさせ、又は担保を立てさせないで発することができる。",
+    "exampleSentence": "The court issued a Security Order requiring the obligee to deposit 5 million yen before the provisional attachment could be enforced against the debtor's assets.",
+    "exampleTranslation": "裁判所は、債権者に対し、債務者の財産に対する仮差押えが執行される前に、500万円を供託するよう命じる担保決定を出した。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "deposit",
+        "translation": "供託 (きょうたく)"
+      },
+      {
+        "word": "enforced",
+        "translation": "執行される"
+      },
+      {
+        "word": "compensating",
+        "translation": "賠償する"
+      },
+      {
+        "word": "preservation measure",
+        "translation": "保全措置"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Stay of Preservation Enforcement",
+    "definition": "A judicial measure to temporarily halt the execution process of a preservation order (such as a provisional attachment or disposition), usually granted upon the motion of the debtor or a third party, often contingent upon the provision of counter-security.",
+    "japaneseDefinition": "保全命令の執行手続を一時的に差し止める裁判所の措置。債務者や第三者の申立てに基づき発せられ、通常、相手方の損害を担保するための供託を条件とする。",
+    "japaneseWordTranslation": "保全執行の停止 (ほぜんしっこうのていし)",
+    "legalContext": "Civil Preservation Act Art. 40 (1): A motion to stay preservation enforcement may be filed where a cause exists for the suspension of the preservation order, or where the debtor has provided the counter-security specified by the preservation court.",
+    "japaneseLegalContext": "民事保全法第40条第1項: 保全執行の停止は、保全命令の取消しの事由があるとき、又は債務者が保全裁判所が定める額の供託をしたときに、申立てにより行うことができる。",
+    "exampleSentence": "The debtor sought a Stay of Preservation Enforcement pending the resolution of their objection to the initial preservation order, offering sufficient counter-security.",
+    "exampleTranslation": "債務者は、当初の保全命令に対する異議が解決するまで、十分な反担保を提供した上で、保全執行の停止を求めた。",
+    "vocabularyList": [
+      {
+        "word": "halt",
+        "translation": "差し止める"
+      },
+      {
+        "word": "execution process",
+        "translation": "執行手続"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "counter-security",
+        "translation": "反担保 (はんたんぽ)"
+      },
+      {
+        "word": "resolution",
+        "translation": "解決"
+      },
+      {
+        "word": "objection",
+        "translation": "異議"
+      }
+    ]
   }
 ]

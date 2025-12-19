@@ -4374,5 +4374,119 @@
         "translation": "権利を主張する"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Co-Applicant Requirement",
+    "definition": "The fundamental procedural principle in Japanese real property law mandating that an application for a registration concerning property rights must generally be filed jointly by the registration obligor (the party whose rights are diminished or lost) and the registration obligee (the party whose rights are acquired or increased).",
+    "japaneseDefinition": "不動産に関する権利の登記申請は、原則として登記権利者と登記義務者が共同で行わなければならないとする不動産登記法上の原則。",
+    "japaneseWordTranslation": "共同申請の原則 (Kyōdō Shinsei no Gensoku)",
+    "legalContext": "Real Property Registration Act, Art. 60: ... (Applications for registration of rights shall, unless otherwise provided, be made jointly by the party entitled to the registration and the party obliged to the registration.)",
+    "japaneseLegalContext": "不動産登記法 第60条: (権利に関する登記の申請は、法令に別段の定めがある場合を除き、登記権利者及び登記義務者が共同してしなければならない。)",
+    "exampleSentence": "Due to the Co-Applicant Requirement, the seller and the buyer must jointly submit the application for the transfer of property title to the registry office.",
+    "exampleTranslation": "共同申請の原則があるため、売主と買主は不動産の権利移転登記を登記所に対して共同で申請しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "application",
+        "translation": "申請 (shinsei)"
+      },
+      {
+        "word": "property title",
+        "translation": "不動産の権利 (fudōsan no kenri)"
+      },
+      {
+        "word": "registry office",
+        "translation": "登記所 (tōkijo)"
+      },
+      {
+        "word": "registration obligor",
+        "translation": "登記義務者 (tōki gimusha)"
+      },
+      {
+        "word": "registration obligee",
+        "translation": "登記権利者 (tōki kenrisha)"
+      },
+      {
+        "word": "transfer",
+        "translation": "移転 (iten)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Priority by Reception Number",
+    "definition": "The procedural rule where the priority among competing applications for property rights registration is determined strictly by the chronological reception number assigned by the registrar at the moment of filing.",
+    "japaneseDefinition": "権利に関する登記の順位は、登記の申請を受け付けた受付番号によって厳格に決まるという原則。",
+    "japaneseWordTranslation": "受付番号主義 (Uketsuke Bangō Shugi)",
+    "legalContext": "Real Property Registration Act, Art. 26: The ranking of registration of rights shall be determined according to the order of their recordation in the rights section; provided, however, that the ranking among registrations of rights recorded in the same section shall be determined according to the order of the reception number.",
+    "japaneseLegalContext": "不動産登記法 第26条: 権利に関する登記の順位は、権利部の記録の順序による。ただし、同一の権利部に記録した登記の順位は、受付番号の順序による。",
+    "exampleSentence": "Under the Priority by Reception Number principle, a later filed mortgage application, even if submitted only minutes after the first, will rank junior.",
+    "exampleTranslation": "受付番号主義の下では、先に申請された抵当権登記申請からたとえ数分遅れて提出された申請であっても、その順位は劣後する。",
+    "vocabularyList": [
+      {
+        "word": "ranking",
+        "translation": "順位 (jun'i)"
+      },
+      {
+        "word": "recordation",
+        "translation": "記録 (kiroku)"
+      },
+      {
+        "word": "rights section",
+        "translation": "権利部 (kenribu)"
+      },
+      {
+        "word": "mortgage application",
+        "translation": "抵当権申請 (teitōken shinsei)"
+      },
+      {
+        "word": "rank junior",
+        "translation": "劣後する (retsugō suru)"
+      },
+      {
+        "word": "competing applications",
+        "translation": "競合する申請 (kyōgō suru shinsei)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Registration Number",
+    "definition": "A unique 12-digit number assigned to each specific piece of real property (land or building) in the Japanese registry system, used for quick identification and searching.",
+    "japaneseDefinition": "不動産を特定するために、登記記録の表題部に記録される、土地又は建物ごとに付される12桁の識別番号。",
+    "japaneseWordTranslation": "不動産番号 (Fudōsan Bangō)",
+    "legalContext": "Real Property Registration Act, Ordinance Art. 2, Sec. 1: (The Property Registration Number shall be the number to identify a piece of real property that has been recorded in the register.)",
+    "japaneseLegalContext": "不動産登記規則 第2条 第1項: (不動産番号は、登記記録が記録されている不動産を識別するために付される番号とする。)",
+    "exampleSentence": "When conducting an online search of the registry, the applicant must input the correct Property Registration Number to retrieve the relevant records.",
+    "exampleTranslation": "オンラインで登記記録を検索する場合、申請者は関連する記録を取得するために正しい不動産番号を入力しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "unique number",
+        "translation": "固有の番号 (koyū no bangō)"
+      },
+      {
+        "word": "registry system",
+        "translation": "登記制度 (tōki seido)"
+      },
+      {
+        "word": "identification",
+        "translation": "識別 (shikibetsu)"
+      },
+      {
+        "word": "retrieve records",
+        "translation": "記録を取得する (kiroku o shutoku suru)"
+      },
+      {
+        "word": "parcel of land",
+        "translation": "土地の区画 (tochi no kukaku)"
+      },
+      {
+        "word": "online search",
+        "translation": "オンライン検索 (onrain kensaku)"
+      }
+    ]
   }
 ]

@@ -3676,5 +3676,119 @@
         "translation": "業務停止"
       }
     ]
+  },
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designated Summary Court Agent",
+    "definition": "A Judicial Scrivener who has obtained special certification (認定, Nintei) from the Minister of Justice, granting them the limited authority to act as an agent in specified procedures (such as litigation, conciliation, and mediation) before a Summary Court.",
+    "japaneseDefinition": "法務大臣の認定を受けた司法書士。簡易裁判所における訴訟、調停、和解などの手続に関して代理権を行使できる。",
+    "japaneseWordTranslation": "認定を受けた簡易裁判所代理権を有する司法書士 (にんていをうけた かんいさいばんしょ だいりけんをゆうする しほうしょし)",
+    "legalContext": "Judicial Scrivener Act Art. 3, Paragraph 1, Item 6: Provides the scope of business for specially certified judicial scriveners regarding Summary Court proceedings.",
+    "japaneseLegalContext": "司法書士法第3条第1項第6号：認定司法書士の簡易裁判所における業務範囲を規定する。",
+    "exampleSentence": "As a Designated Summary Court Agent, the judicial scrivener was authorized to negotiate a settlement on behalf of the client in the simple debt collection case.",
+    "exampleTranslation": "認定簡易裁判所代理権を有する司法書士として、その司法書士は、簡易な債権回収事件において依頼者に代わって和解交渉を行う権限を与えられた。",
+    "vocabularyList": [
+      {
+        "word": "certification",
+        "translation": "認定"
+      },
+      {
+        "word": "Minister of Justice",
+        "translation": "法務大臣"
+      },
+      {
+        "word": "Summary Court",
+        "translation": "簡易裁判所"
+      },
+      {
+        "word": "conciliation",
+        "translation": "調停"
+      },
+      {
+        "word": "mediation",
+        "translation": "和解"
+      },
+      {
+        "word": "negotiate a settlement",
+        "translation": "和解交渉を行う"
+      }
+    ]
+  },
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Litigation Value Threshold",
+    "definition": "The statutory maximum amount (currently 1,400,000 JPY) defining the jurisdictional limit for the value of the claims or disputes in Summary Court cases, which a Designated Summary Court Agent is authorized to handle.",
+    "japaneseDefinition": "認定司法書士が簡易裁判所において訴訟代理権を行使できる対象事件の価額に関する法令上の上限額（現在140万円）。",
+    "japaneseWordTranslation": "訴訟の目的の価額の上限 (そしょうの もくてきの かがくの じょうげん)",
+    "legalContext": "Judicial Scrivener Act Art. 3, Paragraph 1, Item 6: Stipulates that the claim amount must not exceed the amount specified by Cabinet Order (currently 1,400,000 JPY).",
+    "japaneseLegalContext": "司法書士法第3条第1項第6号：訴訟の目的の価額が政令で定める額（140万円）を超えないものに限る、と規定。",
+    "exampleSentence": "When the value of the compensation claim surpassed the Litigation Value Threshold, the client had to hire a lawyer for representation in the District Court.",
+    "exampleTranslation": "損害賠償請求の価額が訴訟の目的の価額の上限を超えたため、依頼者は地方裁判所での代理を弁護士に依頼しなければならなかった。",
+    "vocabularyList": [
+      {
+        "word": "statutory maximum amount",
+        "translation": "法令上の上限額"
+      },
+      {
+        "word": "jurisdictional limit",
+        "translation": "管轄の制限"
+      },
+      {
+        "word": "compensation claim",
+        "translation": "損害賠償請求"
+      },
+      {
+        "word": "surpassed",
+        "translation": "超えた"
+      },
+      {
+        "word": "District Court",
+        "translation": "地方裁判所"
+      },
+      {
+        "word": "Cabinet Order",
+        "translation": "政令"
+      }
+    ]
+  },
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibition on Unauthorized Scrivener Acts",
+    "definition": "The regulatory mandate that prohibits any individual who is not a registered Judicial Scrivener or a Judicial Scrivener Professional Corporation from engaging in reserved professional activities, such as agency for registration or deposit procedures, or preparing related legal documents for third parties for remuneration.",
+    "japaneseDefinition": "司法書士資格を持たない者が、報酬を得る目的で、登記や供託の代理業務、その他司法書士に独占的に認められた業務を行うことを禁止する規定。",
+    "japaneseWordTranslation": "司法書士業務の無資格行為の禁止 (しほうしょしぎょうむの むしかくこういの きんし)",
+    "legalContext": "Judicial Scrivener Act Art. 73: Punishes those who engage in activities falling under the scope of judicial scrivener business without the requisite qualification.",
+    "japaneseLegalContext": "司法書士法第73条：司法書士または司法書士法人でない者が司法書士業務を行うことを禁止し、これに違反した者に対する罰則を規定する。",
+    "exampleSentence": "The individual faced prosecution for violating the Prohibition on Unauthorized Scrivener Acts after charging fees for filing complex real property registration applications.",
+    "exampleTranslation": "その個人は、複雑な不動産登記申請の提出に対して報酬を請求した後、司法書士業務の無資格行為の禁止に違反したとして訴追された。",
+    "vocabularyList": [
+      {
+        "word": "regulatory mandate",
+        "translation": "規制上の命令"
+      },
+      {
+        "word": "registered",
+        "translation": "登録された"
+      },
+      {
+        "word": "Professional Corporation",
+        "translation": "司法書士法人"
+      },
+      {
+        "word": "agency for registration",
+        "translation": "登記代理"
+      },
+      {
+        "word": "remuneration",
+        "translation": "報酬"
+      },
+      {
+        "word": "prosecution",
+        "translation": "訴追"
+      }
+    ]
   }
 ]

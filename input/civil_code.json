@@ -5200,5 +5200,119 @@
         "translation": "正当な相続人 (せいとうな そうぞくにん)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Suspension of Completion of Prescription",
+    "definition": "A mechanism in Japanese Civil Law, introduced in the 2020 amendment, where the running of the prescriptive period continues, but its completion is postponed for a fixed duration if certain legal actions, such as filing a suit or issuing a demand notice, are taken.",
+    "japaneseDefinition": "時効の期間が進行するものの、訴えの提起などの一定の事由が生じた場合に、その事由が終了するまでの一定期間、時効の完成を猶予する制度。",
+    "japaneseWordTranslation": "時効の完成猶予 (じこうのかんせいゆうよ)",
+    "legalContext": "Civil Code Art. 147 (Interruption and Suspension of Completion of Prescription): Suspension of completion of prescription occurs when a judicial demand is made...",
+    "japaneseLegalContext": "民法第147条（裁判上の請求等による時効の完成猶予及び更新）：裁判上の請求をしたときは、その事由が終了する（中略）時、時効の完成が猶予される。",
+    "exampleSentence": "The obligee obtained a suspension of completion of prescription by filing the civil suit just before the statutory period elapsed.",
+    "exampleTranslation": "債権者は、法定期間が経過する直前に民事訴訟を提起することにより、時効の完成猶予を得た。",
+    "vocabularyList": [
+      {
+        "word": "prescriptive period",
+        "translation": "時効期間"
+      },
+      {
+        "word": "judicial demand",
+        "translation": "裁判上の請求"
+      },
+      {
+        "word": "claimant",
+        "translation": "請求者"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "elapsed",
+        "translation": "経過した"
+      },
+      {
+        "word": "renewal",
+        "translation": "更新"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Contract for Work",
+    "definition": "A type of contract where one party (the contractor) undertakes to complete a specified work, and the other party (the orderer) promises to pay remuneration upon completion of that work.",
+    "japaneseDefinition": "当事者の一方（請負人）がある仕事を完成することを約束し、相手方（注文者）がその仕事の結果に対して報酬を支払うことを約束することによって、その効力を生じる契約。",
+    "japaneseWordTranslation": "請負契約 (うけおいけいやく)",
+    "legalContext": "Civil Code Art. 632: A contract for work becomes effective when one party agrees to complete a certain work and the other party agrees to pay remuneration for the completed work.",
+    "japaneseLegalContext": "民法第632条：請負は、当事者の一方がある仕事を完成することを約し、相手方がその仕事の結果に対してその報酬を支払うことを約することによって、その効力を生ずる。",
+    "exampleSentence": "The Contract for Work specified that the contractor was responsible for the cost of materials and labor until the house reached functional completion.",
+    "exampleTranslation": "その請負契約では、住宅が機能的に完成するまでの資材費と人件費は請負人が負担すると規定されていた。",
+    "vocabularyList": [
+      {
+        "word": "contractor",
+        "translation": "請負人"
+      },
+      {
+        "word": "orderer",
+        "translation": "注文者"
+      },
+      {
+        "word": "remuneration",
+        "translation": "報酬"
+      },
+      {
+        "word": "completion",
+        "translation": "完成"
+      },
+      {
+        "word": "specifications",
+        "translation": "仕様"
+      },
+      {
+        "word": "non-conformity",
+        "translation": "契約不適合"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consanguinity",
+    "definition": "The relationship existing between persons who are related by blood, either through a common ancestor or through descent (lineal) or through shared ancestry but not direct descent (collateral). This relationship is legally significant, particularly in family and succession law.",
+    "japaneseDefinition": "血縁に基づく親族関係。直系の上下の関係（直系血族）と、共通の始祖を通して繋がる傍系の関係（傍系血族）がある。民法上の親族の定義の根幹をなす。",
+    "japaneseWordTranslation": "血族 (けつぞく)",
+    "legalContext": "Civil Code Art. 725 (Scope of Relatives): Relatives are defined as consanguinity within the sixth degree of relationship...",
+    "japaneseLegalContext": "民法第725条（親族の範囲）：親族は、六親等内の血族並びに三親等内の姻族をいう。",
+    "exampleSentence": "Under Japanese Civil Law, marriage between persons in lineal consanguinity, or collateral consanguinity within the third degree (with some exceptions), is prohibited.",
+    "exampleTranslation": "日本の民法では、直系血族間、または三親等内の傍系血族間（例外あり）の結婚は禁止されている。",
+    "vocabularyList": [
+      {
+        "word": "lineal relationship",
+        "translation": "直系血族"
+      },
+      {
+        "word": "collateral relative",
+        "translation": "傍系血族"
+      },
+      {
+        "word": "relationship",
+        "translation": "親族関係"
+      },
+      {
+        "word": "degree of relationship",
+        "translation": "親等"
+      },
+      {
+        "word": "ascending relative",
+        "translation": "尊属"
+      },
+      {
+        "word": "prohibited",
+        "translation": "禁止された"
+      }
+    ]
   }
 ]

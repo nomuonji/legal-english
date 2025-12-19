@@ -5212,5 +5212,119 @@
         "translation": "承継した (Shōkei shita)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Withdrawal of Execution",
+    "definition": "A formal motion or declaration submitted by the execution obligee to the execution court, voluntarily terminating the compulsory execution procedure that has already commenced.",
+    "japaneseDefinition": "債権者が、既に開始された強制執行手続を、自らの意思に基づいて終了させるために執行裁判所に提出する申立てまたは意思表示。",
+    "japaneseWordTranslation": "執行の取下げ (しっこうのとりさげ)",
+    "legalContext": "Civil Execution Act outlines that the execution procedure terminates upon the obligee's withdrawal of the execution application, provided certain procedural requirements are met (e.g., concurrence of third parties in specific cases).",
+    "japaneseLegalContext": "民事執行法は、執行の申立てが取り下げられたときは執行手続が終了することを定める（ただし、不動産執行では特定の手続段階で同意が必要な場合がある）。",
+    "exampleSentence": "The obligee filed a Withdrawal of Execution immediately after the obligor paid the full outstanding amount of the monetary claim.",
+    "exampleTranslation": "債務者が金銭債権の未払い全額を支払った直後、債権者は直ちに執行の取下げを申請した。",
+    "vocabularyList": [
+      {
+        "word": "motion",
+        "translation": "申立て (mōshitate)"
+      },
+      {
+        "word": "terminate",
+        "translation": "終了させる (shūryō saseru)"
+      },
+      {
+        "word": "compulsory execution procedure",
+        "translation": "強制執行手続 (kyōsei shikkō tetsuzuki)"
+      },
+      {
+        "word": "outstanding amount",
+        "translation": "未払い額 (mibaraigaku)"
+      },
+      {
+        "word": "file",
+        "translation": "申請する/提出する (shinsei suru / teishutsu suru)"
+      },
+      {
+        "word": "voluntarily",
+        "translation": "自発的に (jihatsu-teki ni)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Advance Payment of Execution Costs",
+    "definition": "The legal requirement for the execution obligee to deposit the estimated necessary expenses (such as appraisal fees, investigation costs, and public notice charges) with the execution court prior to the commencement or continuation of the execution procedure.",
+    "japaneseDefinition": "執行債権者が、執行手続の開始または続行に必要な推定される費用（評価料、調査費、公告費など）を、事前に執行裁判所に納付すること。",
+    "japaneseWordTranslation": "執行費用の予納 (しっこうひようのよのう)",
+    "legalContext": "If the execution obligee fails to make the required Advance Payment of Execution Costs within the period specified by the execution court, the court may dismiss the application for execution.",
+    "japaneseLegalContext": "執行債権者が執行裁判所の定める期間内に執行費用の予納を怠った場合、裁判所は執行の申立てを却下することができる。",
+    "exampleSentence": "The execution court issued an order mandating the Advance Payment of Execution Costs within two weeks, specifically detailing the fees for the surveyor and the publication.",
+    "exampleTranslation": "執行裁判所は、測量士の費用と公告費用を具体的に示し、2週間以内に執行費用の予納を義務付ける命令を出した。",
+    "vocabularyList": [
+      {
+        "word": "deposit",
+        "translation": "納付する/供託する (nōfu suru / kyōtaku suru)"
+      },
+      {
+        "word": "estimated necessary expenses",
+        "translation": "推定される必要費用 (suitei sareru hitsuyō hiyō)"
+      },
+      {
+        "word": "continuation",
+        "translation": "続行 (zokkou)"
+      },
+      {
+        "word": "publication",
+        "translation": "公告 (kōkoku)"
+      },
+      {
+        "word": "dismiss the application",
+        "translation": "申立てを却下する (mōshitate o kyakka suru)"
+      },
+      {
+        "word": "surveyor",
+        "translation": "測量士 (sokuryōshi)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Appraisal (of execution property)",
+    "definition": "The formal valuation process conducted by a neutral expert (usually a licensed real estate or chattel appraiser) commissioned by the execution court to determine the fair market value of seized property, essential for setting the minimum price at sale.",
+    "japaneseDefinition": "執行裁判所が選任した中立的な専門家（通常、不動産または動産の鑑定人）によって行われる、差押財産の公正な市場価値を決定するための正式な評価手続。売却における最低価格設定の基礎となる。",
+    "japaneseWordTranslation": "評価 (ひょうか)",
+    "legalContext": "The Civil Execution Act requires that, prior to any public sale of immovable property, the execution court must commission an expert Appraisal to determine the property's value.",
+    "japaneseLegalContext": "民事執行法は、不動産の公売に先立ち、執行裁判所が専門家による評価を命じ、当該財産の価値を決定することを要求している。",
+    "exampleSentence": "Based on the expert’s Appraisal, the execution court determined the minimum bid price for the seized commercial building to be 50 million yen.",
+    "exampleTranslation": "専門家の評価に基づき、執行裁判所は差し押さえられた商業ビルの最低入札価格を5000万円と決定した。",
+    "vocabularyList": [
+      {
+        "word": "valuation process",
+        "translation": "価格決定手続 (kakaku kettei tetsuzuki)"
+      },
+      {
+        "word": "neutral expert",
+        "translation": "中立的な専門家 (chūritsu-teki na senmonka)"
+      },
+      {
+        "word": "chattel appraiser",
+        "translation": "動産鑑定人 (dōsan kanteinin)"
+      },
+      {
+        "word": "minimum bid price",
+        "translation": "最低入札価格 (saitei nyūsatsu kakaku)"
+      },
+      {
+        "word": "seized property",
+        "translation": "差押財産 (sashiosae zaisan)"
+      },
+      {
+        "word": "commission",
+        "translation": "委任する (inin suru)"
+      }
+    ]
   }
 ]

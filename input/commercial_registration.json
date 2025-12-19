@@ -4542,5 +4542,143 @@
         "translation": "未登記の"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ex Officio Removal of Registration",
+    "definition": "The cancellation or striking out of an entry in the Commercial Register performed by the Registrar without an application from the company, typically because the registration is deemed unlawful, or subsequent legal events (such as failure to appoint new officers after the lapse of the mandatory registration period) necessitate its administrative closure.",
+    "japaneseDefinition": "登記が不適法になった場合や、会社法等の規定により会社が解散したものとみなされた場合に、登記官が申請を待たずに自己の権限（職権）で行う登記の抹消手続。",
+    "japaneseWordTranslation": "職権抹消 (しょっけんまっしょう)",
+    "legalContext": "Commercial Registration Act Art. 24 (9): A registrar shall reject an application for registration... (9) where the registration is unlawful, etc., and the registrar should remove it ex officio.",
+    "japaneseLegalContext": "商業登記法第24条第9号：登記官は、次に掲げる場合には、登記の申請を却下しなければならない…九 登記すべき事項でないものを登記したとき、その他登記が不適法であるとき。",
+    "exampleSentence": "The subsidiary was subject to *Ex Officio Removal of Registration* after failing to file the requisite change of officers for over twelve years, leading to deemed dissolution under corporate law.",
+    "exampleTranslation": "その子会社は、12年以上役員の変更に必要な登記を怠ったため、会社法上の“みなし解散”に至り、職権抹消の対象となった。",
+    "vocabularyList": [
+      {
+        "word": "Registrar",
+        "translation": "登記官 (とうきかん)"
+      },
+      {
+        "word": "unlawful",
+        "translation": "不適法な (ふてきほうな)"
+      },
+      {
+        "word": "subsidiary company",
+        "translation": "子会社 (こがいしゃ)"
+      },
+      {
+        "word": "mandatory registration",
+        "translation": "義務的登記 (ぎむてきとうき)"
+      },
+      {
+        "word": "cancellation",
+        "translation": "抹消 (まっしょう)"
+      },
+      {
+        "word": "deemed dissolution",
+        "translation": "みなし解散 (みなしかいさん)"
+      },
+      {
+        "word": "registration period",
+        "translation": "登記期間 (とうききかん)"
+      },
+      {
+        "word": "corporate law",
+        "translation": "会社法 (かいしゃほう)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registrar's Disposition",
+    "definition": "The final administrative determination made by the registrar regarding a submitted commercial registration application, encompassing actions such as acceptance, rejection (disallowance), or issuance of an order for correction of defects.",
+    "japaneseDefinition": "商業登記の申請に対し、登記官が下す受理、却下、または補正命令といった行政上の最終的な決定。",
+    "japaneseWordTranslation": "登記官の処分 (とうきかんのしょぶん)",
+    "legalContext": "Commercial Registration Act Art. 25: A person who is dissatisfied with a Registrar's Disposition to reject a registration application may file a motion of objection.",
+    "japaneseLegalContext": "商業登記法第25条：登記官が登記の申請を却下した処分に不服がある者は、当該登記所を管轄する地方裁判所に異議を申し立てることができる。",
+    "exampleSentence": "The firm appealed the *Registrar's Disposition* to reject their merger registration application, asserting that all required accompanying documents were duly attached.",
+    "exampleTranslation": "その事務所は、必要な添付書類がすべて適切に添付されていたと主張し、合併登記申請を却下した登記官の処分に対し異議を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "application filing",
+        "translation": "申請 (しんせい)"
+      },
+      {
+        "word": "administrative determination",
+        "translation": "行政上の決定 (ぎょうせいじょうのけってい)"
+      },
+      {
+        "word": "acceptance",
+        "translation": "受理 (じゅり)"
+      },
+      {
+        "word": "rejection",
+        "translation": "却下 (きゃっか)"
+      },
+      {
+        "word": "order for correction",
+        "translation": "補正命令 (ほせいめいれい)"
+      },
+      {
+        "word": "motion of objection",
+        "translation": "異議申立て (いぎもうしたて)"
+      },
+      {
+        "word": "accompanying documents",
+        "translation": "添付書類 (てんぷしょるい)"
+      },
+      {
+        "word": "appeal",
+        "translation": "不服申立てをする (ふふくもうしたてをする)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for False Registration",
+    "definition": "The statutory obligation imposed upon officers (such as directors or auditors) or promoters who cause or allow false or materially inaccurate information to be entered into the commercial register, resulting in compensation liability towards third parties relying on that registration.",
+    "japaneseDefinition": "取締役や発起人などの役員が、商業登記簿に虚偽または重要な不実の事項を記載させた場合に、当該登記を信頼した第三者に対し負う損害賠償責任。",
+    "japaneseWordTranslation": "虚偽の登記の責任 (きょぎのとうきのせきにん)",
+    "legalContext": "Companies Act Art. 933: If a Director, etc. has caused a false registration to be made, they shall be jointly and severally liable to compensate any third party who incurred damages due to reliance on such false registration.",
+    "japaneseLegalContext": "会社法第933条：取締役等が、虚偽の登記をしたときは、その登記を信頼して取引をした第三者に対し、これにより生じた損害を賠償する責任を負う。",
+    "exampleSentence": "The shareholders filed a lawsuit seeking to impose *Liability for False Registration* on the directors for intentionally overstating the company's capital reserve during the restructuring process.",
+    "exampleTranslation": "株主は、組織再編の過程で会社の資本準備金を意図的に過大に記載したとして、取締役に対し虚偽の登記の責任を課す訴訟を提起した。",
+    "vocabularyList": [
+      {
+        "word": "statutory obligation",
+        "translation": "法定の義務 (ほうていのぎむ)"
+      },
+      {
+        "word": "officers",
+        "translation": "役員 (やくいん)"
+      },
+      {
+        "word": "compensation liability",
+        "translation": "損害賠償責任 (そんがいばいしょうせきにん)"
+      },
+      {
+        "word": "reliance",
+        "translation": "信頼 (しんらい)"
+      },
+      {
+        "word": "inaccurate information",
+        "translation": "不実の事項 (ふじつのじこう)"
+      },
+      {
+        "word": "commercial register",
+        "translation": "商業登記簿 (しょうぎょうとうきぼ)"
+      },
+      {
+        "word": "capital reserve",
+        "translation": "資本準備金 (しほんじゅんびきん)"
+      },
+      {
+        "word": "restructuring process",
+        "translation": "組織再編手続 (そしきさいへんてつづき)"
+      }
+    ]
   }
 ]

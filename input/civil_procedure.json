@@ -4922,5 +4922,119 @@
         "translation": "費用の負担"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Conditional Joinder of Claims",
+    "definition": "An objective joinder of claims where the plaintiff asserts a second, auxiliary claim contingent upon the court's rejection or dismissal of the first, primary claim.",
+    "japaneseDefinition": "原告が複数の請求を提起する際、まず主位的な請求について判決を求め、それが排斥された場合に限り、予備的な請求について審理・判決を求める訴訟形態。",
+    "japaneseWordTranslation": "予備的併合 (よびてきへいごう)",
+    "legalContext": "Code of Civil Procedure Art. 136 (Conditional Joinder): 'In cases where the disposition concerning the claim asserted secondarily depends on the disposition concerning the claim asserted primarily, the claims may be joined.'",
+    "japaneseLegalContext": "民事訴訟法第136条（予備的併合）：次に掲げる場合においては、請求を併合することができる。一 主位的な請求についての裁判が、これに次に掲げる請求についての裁判が、これに予備的な請求についての裁判にかかる場合に限る。",
+    "exampleSentence": "The plaintiff filed a motion for conditional joinder of claims, asserting the claim for specific performance primarily, and the claim for damages secondarily.",
+    "exampleTranslation": "原告は、主位的に特定履行の請求を、予備的に損害賠償の請求を主張する予備的併合の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "primary claim",
+        "translation": "主位的な請求 (しゅいてきなせいきゅう)"
+      },
+      {
+        "word": "auxiliary claim",
+        "translation": "予備的な請求 (よびてきなせいきゅう)"
+      },
+      {
+        "word": "contingent upon",
+        "translation": "～を条件として (～をじょうけんとして)"
+      },
+      {
+        "word": "specific performance",
+        "translation": "特定履行 (とくていりこう)"
+      },
+      {
+        "word": "rejection",
+        "translation": "排斥 (はいせき)"
+      },
+      {
+        "word": "disposition",
+        "translation": "裁判 (さいばん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Material Fact Pleading Requirement",
+    "definition": "The procedural doctrine dictating that parties must assert the principal facts (essential facts) necessary to apply the relevant substantive legal norms, thereby distinguishing the role of the party from that of the court in fact-finding.",
+    "japaneseDefinition": "当事者が、訴訟の基礎となるべき主要事実を具体的に主張・立証する責任を負うという原則。裁判所は当事者が主張しない主要事実を判決の基礎として認定することができない。",
+    "japaneseWordTranslation": "主要事実の主張責任 (しゅようじじつのしゅちょうせきにん)",
+    "legalContext": "Civil Procedure Principle (derived from the Adversarial Principle): This principle ensures the separation of roles, where parties define the factual framework and the court applies the law to the asserted material facts.",
+    "japaneseLegalContext": "民事訴訟の基本原則（弁論主義）：当事者の主張に基づき裁判所が主要事実を認定する原則。",
+    "exampleSentence": "Failure to satisfy the material fact pleading requirement may lead to the dismissal of the claim, even if underlying evidence exists.",
+    "exampleTranslation": "主要事実の主張責任を満たさなかった場合、基礎となる証拠が存在しても、その請求は棄却される可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "principal facts",
+        "translation": "主要事実 (しゅようじじつ)"
+      },
+      {
+        "word": "substantive legal norms",
+        "translation": "実体法規 (じったいほうき)"
+      },
+      {
+        "word": "assert",
+        "translation": "主張する (しゅちょうする)"
+      },
+      {
+        "word": "dismissal of the claim",
+        "translation": "請求の棄却 (せいきゅうのききゃく)"
+      },
+      {
+        "word": "factual framework",
+        "translation": "事実的枠組み (じじつてきわくぐみ)"
+      },
+      {
+        "word": "fact-finding",
+        "translation": "事実認定 (じじつにんてい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Statement of Reasons",
+    "definition": "The judicial obligation requiring a court to explicitly provide the grounds for its decision in a judgment, detailing the findings of fact and the application of law leading to the conclusion.",
+    "japaneseDefinition": "判決において、裁判所が判断の根拠となった事実認定と、それに適用した法律上の判断を明確に記載しなければならない義務。公正性の確保と上訴審での審理のために必要とされる。",
+    "japaneseWordTranslation": "判決の理由付記義務 (はんけつのりゆうふきぎむ)",
+    "legalContext": "Code of Civil Procedure Art. 253 (Contents of Judgment): 'A judgment shall contain the name of the court, the statement of the parties, the holding, and the reasons.'",
+    "japaneseLegalContext": "民事訴訟法第253条（判決の記載事項）：判決には、裁判所及び当事者並びに主文及び理由を記載しなければならない。",
+    "exampleSentence": "The court's mandatory statement of reasons provided the clear basis for why the contract was deemed voidable under the Civil Code.",
+    "exampleTranslation": "裁判所の判決の理由付記義務により、その契約が民法上取消し可能であると見なされた明確な根拠が示された。",
+    "vocabularyList": [
+      {
+        "word": "grounds for its decision",
+        "translation": "判断の根拠 (はんだんのこんきょ)"
+      },
+      {
+        "word": "findings of fact",
+        "translation": "事実の認定 (じじつのにんてい)"
+      },
+      {
+        "word": "application of law",
+        "translation": "法規の適用 (ほうきのてきよう)"
+      },
+      {
+        "word": "conclusion",
+        "translation": "結論 (けつろん)"
+      },
+      {
+        "word": "holding",
+        "translation": "主文 (しゅぶん)"
+      },
+      {
+        "word": "voidable",
+        "translation": "取消し可能 (とりけしかのう)"
+      }
+    ]
   }
 ]

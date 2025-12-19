@@ -4298,5 +4298,81 @@
         "translation": "遵守する"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Leasehold",
+    "definition": "The procedure of recording a leasehold right on the real property register, which provides the lessee with opposability against third parties who subsequently acquire the property.",
+    "japaneseDefinition": "不動産登記簿に賃借権の発生を記録する手続き。これにより、賃借人は不動産の譲受人などの第三者対抗力を得る。",
+    "japaneseWordTranslation": "賃借権の登記 (ちんしゃくけんのとうき)",
+    "legalContext": "Civil Code Art. 605: The effect of registration of leasehold in providing opposability.",
+    "japaneseLegalContext": "民法 第六百五条: 賃借権の登記の対抗力に関する規定。",
+    "exampleSentence": "In order to secure the long-term usage of the commercial land, the lessee must obtain the Registration of Leasehold to protect their right against a subsequent purchaser.",
+    "exampleTranslation": "商業地の長期的な利用を確保するため、賃借人は後の買主に対して自らの権利を保全するために賃借権の登記を取得しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "lessee",
+        "translation": "賃借人"
+      },
+      {
+        "word": "opposability",
+        "translation": "対抗力"
+      },
+      {
+        "word": "subsequently acquire",
+        "translation": "後に取得する"
+      },
+      {
+        "word": "commercial land",
+        "translation": "商業地"
+      },
+      {
+        "word": "secure",
+        "translation": "確保する"
+      },
+      {
+        "word": "long-term usage",
+        "translation": "長期的な利用"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Public Trust Principle",
+    "definition": "The legal doctrine that grants absolute protection to a bona fide third party who relies on a register, even if the registration entry is erroneous; a principle generally not adopted in the Japanese real property registration system.",
+    "japaneseDefinition": "登記に公的な信用力を認め、たとえ登記に誤りがあってもそれを信頼して取引した善意の第三者を保護する原則。日本の不動産登記法では採用されていない。",
+    "japaneseWordTranslation": "公信力 (こうしんりょく)",
+    "legalContext": "Japanese real property law adopts a formal examination principle (形式的審査主義), contrasting with systems that incorporate the Public Trust Principle (substantive examination).",
+    "japaneseLegalContext": "日本の不動産登記法は形式的審査主義を採用しており、実体的審査と公信力を認める制度とは対照的である。",
+    "exampleSentence": "Because Japanese real property law does not adopt the Public Trust Principle, a purchaser who relied on a forged registration entry may still lose title if the true owner asserts their rights.",
+    "exampleTranslation": "日本の不動産法は公信力の原則を採用していないため、偽造された登記記録を信頼した買主であっても、真の所有者が権利を主張すれば権利を失う可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "bona fide third party",
+        "translation": "善意の第三者"
+      },
+      {
+        "word": "erroneous",
+        "translation": "誤りのある"
+      },
+      {
+        "word": "formal examination principle",
+        "translation": "形式的審査主義"
+      },
+      {
+        "word": "forged registration entry",
+        "translation": "偽造された登記記録"
+      },
+      {
+        "word": "true owner",
+        "translation": "真の所有者"
+      },
+      {
+        "word": "asserts their rights",
+        "translation": "権利を主張する"
+      }
+    ]
   }
 ]

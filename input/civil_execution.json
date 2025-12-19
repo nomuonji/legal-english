@@ -5094,5 +5094,123 @@
         "translation": "担保の提供 (たんぽのていきょう)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designated Sale Date",
+    "definition": "The specific date publicly set by the execution court or execution officer for the compulsory sale of the seized property (typically real estate or vessels) by auction or tender.",
+    "japaneseDefinition": "執行裁判所又は執行官が、差し押さえた財産（通常は不動産又は船舶）を競売又は入札によって売却するために、公に定める特定の日付。",
+    "japaneseWordTranslation": "売却期日 (Baikyaku Kijitsu)",
+    "legalContext": "Civil Execution Act Art. 64 (Immovable Property Auction).",
+    "japaneseLegalContext": "民事執行法第64条（不動産競売の売却実施の期間等）。",
+    "exampleSentence": "The court issued a public notice specifying the **Designated Sale Date** for the seized factory property.",
+    "exampleTranslation": "裁判所は、差し押さえた工場不動産の**売却期日**を特定する公示を出した。",
+    "vocabularyList": [
+      {
+        "word": "public notice",
+        "translation": "公示 (Kōji)"
+      },
+      {
+        "word": "seized property",
+        "translation": "差し押さえた財産 (Sashiosaeta Zaisan)"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所 (Shikkō Saibansho)"
+      },
+      {
+        "word": "auction",
+        "translation": "競売 (Keibai)"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産 (Fudōsan)"
+      },
+      {
+        "word": "specifying",
+        "translation": "特定する (Tokutei suru)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Surplus Funds",
+    "definition": "Money remaining after deducting the costs of execution and satisfying the obligee's claim, as well as the claims of any secured creditors or other participating obligees, following the distribution procedure.",
+    "japaneseDefinition": "執行費用及び債権者の請求、並びに担保権者やその他の参加債権者の請求を、配当手続に従って弁済した後、残った金銭。",
+    "japaneseWordTranslation": "剰余金 (Jōyokin)",
+    "legalContext": "Civil Execution Act Art. 91 (Cancellation of Execution due to Lack of Surplus).",
+    "japaneseLegalContext": "民事執行法第91条（剰余を生ずる見込みのない場合の執行の取消し）。",
+    "exampleSentence": "If the calculated sale proceeds are insufficient to cover the costs, the execution against the collateral will be cancelled due to the lack of **Surplus Funds**.",
+    "exampleTranslation": "算出された売却代金が費用を賄うのに不十分な場合、**剰余金**がないため、担保物に対する執行は取り消される。",
+    "vocabularyList": [
+      {
+        "word": "execution costs",
+        "translation": "執行費用 (Shikkō Hiyō)"
+      },
+      {
+        "word": "sale proceeds",
+        "translation": "売却代金 (Baikyaku Daikin)"
+      },
+      {
+        "word": "insufficient",
+        "translation": "不十分な (Fuyūbun na)"
+      },
+      {
+        "word": "collateral",
+        "translation": "担保物 (Tanpomono)"
+      },
+      {
+        "word": "cancellation",
+        "translation": "取消し (Torikeshi)"
+      },
+      {
+        "word": "satisfying (a claim)",
+        "translation": "弁済する (Bensai suru)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Documentary Evidence of Succession",
+    "definition": "A document required under the Civil Execution Act, such as a family register abstract or a certificate of acceptance of succession, proving that the obligee or the obligor succeeded to the obligation subject to the execution title.",
+    "japaneseDefinition": "民事執行法に基づき、債権者又は債務者が執行権原の対象となる債務を承継したことを証明するために必要とされる、戸籍謄本や相続承認証明書などの文書。",
+    "japaneseWordTranslation": "承継を証する文書 (Shōkei o shō suru bunsho)",
+    "legalContext": "Civil Execution Act Art. 27(1) (Application for Execution Clause by or against Successor).",
+    "japaneseLegalContext": "民事執行法第27条第1項（承継執行）。",
+    "exampleSentence": "To obtain execution against the heir of the debtor, the obligee must submit the final judgment and the **Documentary Evidence of Succession**.",
+    "exampleTranslation": "債務者の相続人に対する執行を得るためには、債権者は確定判決と**承継を証する文書**を提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "heir",
+        "translation": "相続人 (Sōzokunin)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (Saikensha)"
+      },
+      {
+        "word": "final judgment",
+        "translation": "確定判決 (Kakutei Hanketsu)"
+      },
+      {
+        "word": "submit",
+        "translation": "提出する (Teishutsu suru)"
+      },
+      {
+        "word": "execution title",
+        "translation": "執行権原 (Shikkō Kengen)"
+      },
+      {
+        "word": "family register abstract",
+        "translation": "戸籍謄本 (Koseki Tōhon)"
+      },
+      {
+        "word": "succeeded to",
+        "translation": "承継した (Shōkei shita)"
+      }
+    ]
   }
 ]

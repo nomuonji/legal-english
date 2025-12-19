@@ -1,34 +1,38 @@
 {
-  "category": "Civil Preservation (民事保全法)",
+  "category": "Judicial Scrivener Act (司法書士法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Preservatory Necessity",
-  "definition": "The essential legal requirement demonstrating that, without immediate judicial action under the Civil Preservation Act, the obligee’s rights would become impossible or extremely difficult to enforce or realize.",
-  "japaneseDefinition": "権利の実現が困難となるか、またはその回復が不可能になる事態を避けるために、裁判所による保全措置が直ちに必要であること。",
-  "japaneseWordTranslation": "保全の必要性 (ほぜんのひつようせい)",
-  "legalContext": "Civil Preservation Act (民事保全法), Art. 13: \"A preservation order shall be issued only when the necessity for preservation exists.\"",
-  "japaneseLegalContext": "民事保全法 第13条: 「保全命令は、保全の必要性がある場合に限り、発することができる。」",
-  "exampleSentence": "The judge dismissed the petition because the Preservation Obligee failed to sufficiently prove the existence of *Preservatory Necessity*.",
-  "exampleTranslation": "保全債権者が保全の必要性の存在を十分に証明できなかったため、裁判官はその申立てを却下した。",
+  "word": "Disciplinary Action",
+  "definition": "Measures taken against a professional who has violated the governing Act, the rules of their professional association, or committed an act damaging the dignity of their profession. These measures typically include reprimand, suspension of practice, or dismissal.",
+  "japaneseDefinition": "法令や所属する会則に違反し、またはその品位を損なう行為をした専門家に対して課される制裁。通常、戒告、業務の停止、または業務の禁止が含まれる。",
+  "japaneseWordTranslation": "懲戒 (ちょうかい)",
+  "legalContext": "Judicial Scrivener Act, Article 47: 'The Minister of Justice may take disciplinary action against a practitioner in any of the following cases: 1. When the professional has violated this Act or orders issued thereunder; ...'",
+  "japaneseLegalContext": "司法書士法第47条：「法務大臣は、次の各号のいずれかに該当する者に対し、懲戒処分をすることができる。一、この法律又はこの法律に基づく命令に違反したとき。」",
+  "exampleSentence": "The Minister of Justice imposed Disciplinary Action upon the practitioner after concluding the investigation into unauthorized legal consultation.",
+  "exampleTranslation": "法務大臣は、無許可の法律相談に関する調査を終えた後、その専門家に対して懲戒処分を科した。",
   "vocabularyList": [
     {
-      "word": "dismissed the petition",
-      "translation": "申立てを却下した"
+      "word": "reprimand",
+      "translation": "戒告"
     },
     {
-      "word": "sufficiently prove",
-      "translation": "十分に証明する"
+      "word": "suspension of practice",
+      "translation": "業務の停止"
     },
     {
-      "word": "judicial action",
-      "translation": "司法措置"
+      "word": "dismissal",
+      "translation": "業務の禁止"
     },
     {
-      "word": "enforce or realize",
-      "translation": "実現または履行する"
+      "word": "dignity",
+      "translation": "品位"
     },
     {
-      "word": "obligee",
-      "translation": "債権者"
+      "word": "unauthorized legal consultation",
+      "translation": "無許可の法律相談"
+    },
+    {
+      "word": "imposed",
+      "translation": "科した"
     }
   ]
 }

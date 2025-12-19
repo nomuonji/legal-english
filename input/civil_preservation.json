@@ -4692,5 +4692,119 @@
         "translation": "要求を却下する"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Execution",
+    "definition": "The procedure by which a preservation order (either a provisional attachment or a provisional disposition) is implemented. This is carried out by the execution court or a preservation enforcement officer.",
+    "japaneseDefinition": "保全命令（仮差押えまたは仮処分）の内容を現実に実現するための手続き。保全執行裁判所または保全執行官によって行われる。",
+    "japaneseWordTranslation": "保全執行 (ほぜんしっこう)",
+    "legalContext": "Civil Preservation Act, Chapter 3 (Enforcement of Preservation Orders)",
+    "japaneseLegalContext": "民事保全法第三章 (保全執行)",
+    "exampleSentence": "The obligee filed a motion for Preservation Execution immediately after obtaining the provisional attachment order.",
+    "exampleTranslation": "債権者は仮差押え命令を取得した後、直ちに保全執行の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "preservation enforcement officer",
+        "translation": "保全執行官"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え"
+      },
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "implement",
+        "translation": "実現する"
+      },
+      {
+        "word": "obtaining (an order)",
+        "translation": "取得する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Filing Order",
+    "definition": "An order issued by the preservation court compelling the preservation obligee to initiate the principal action (the suit on the merits) within a specified period, typically two weeks. This prevents the abuse of the preservation measure.",
+    "japaneseDefinition": "保全債権者に対し、一定の期間内（通常２週間）に本案の訴えを提起することを命じる裁判所の命令。保全手続きの濫用を防ぐ目的がある。",
+    "japaneseWordTranslation": "本案提訴命令 (ほんあんていそめいれい)",
+    "legalContext": "Civil Preservation Act, Art. 37 (Order to commence action on the merits)",
+    "japaneseLegalContext": "民事保全法第37条 (本案の訴えの提起を命ずる決定)",
+    "exampleSentence": "If the preservation obligee fails to comply with the Mandatory Filing Order, the court may set aside the provisional measure.",
+    "exampleTranslation": "もし保全債権者が本案提訴命令に応じなければ、裁判所は当該保全措置を取り消すことができる。",
+    "vocabularyList": [
+      {
+        "word": "initiate",
+        "translation": "提起する"
+      },
+      {
+        "word": "principal action",
+        "translation": "本案の訴え"
+      },
+      {
+        "word": "specified period",
+        "translation": "一定の期間"
+      },
+      {
+        "word": "comply with",
+        "translation": "応じる"
+      },
+      {
+        "word": "set aside",
+        "translation": "取り消す"
+      },
+      {
+        "word": "abuse",
+        "translation": "濫用"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation of Claims",
+    "definition": "The overarching legal measure designated under the Civil Preservation Act to secure future compulsory execution based on monetary claims, primarily through the procedure of provisional attachment.",
+    "japaneseDefinition": "民事保全法において、金銭債権に基づく強制執行を将来にわたって確保するために定められた法律上の措置。主に仮差押えの手続きによって実現される。",
+    "japaneseWordTranslation": "債権保全 (さいけんほぜん)",
+    "legalContext": "Civil Preservation Act, Book 1, Chapter 1 (General Provisions)",
+    "japaneseLegalContext": "民事保全法第一編第一章 (総則)",
+    "exampleSentence": "Effective Preservation of Claims is crucial when the judgment debtor is suspected of concealing or dissipating assets before the main trial.",
+    "exampleTranslation": "本裁判の前に債務者が財産を隠匿したり散逸させたりする恐れがある場合、効果的な債権保全が極めて重要となる。",
+    "vocabularyList": [
+      {
+        "word": "overarching measure",
+        "translation": "包括的な措置"
+      },
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権"
+      },
+      {
+        "word": "judgment debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "concealing assets",
+        "translation": "財産を隠匿する"
+      },
+      {
+        "word": "dissipating assets",
+        "translation": "財産を散逸させる"
+      },
+      {
+        "word": "main trial",
+        "translation": "本裁判"
+      }
+    ]
   }
 ]

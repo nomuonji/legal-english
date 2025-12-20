@@ -5012,5 +5012,131 @@
         "translation": "実施した"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation of a Monetary Claim",
+    "definition": "The judicial act of securing a claim holder’s potential future realization of a claim for payment of money, usually achieved by restricting the opposing party's ability to dispose of their assets.",
+    "japaneseDefinition": "金銭の支払いを目的とする請求権について、将来の権利実現を確実にするために、相手方の財産に対する処分を制限する保全措置。",
+    "japaneseWordTranslation": "金銭債権の保全 (きんせんさいけんのほぜん)",
+    "legalContext": "Civil Preservation Act Art. 20 (This article stipulates the general concept of provisional attachment as the preservation of a monetary claim.)",
+    "japaneseLegalContext": "民事保全法第20条 (金銭の給付を目的とする債権の保全を仮差押えとして規定している。)",
+    "exampleSentence": "The claimant applied for the Preservation of a Monetary Claim on the opposing party’s bank account due to the substantial likelihood of non-payment.",
+    "exampleTranslation": "請求権者は、不払いの蓋然性が高いことから、相手方の銀行口座に対する金銭債権の保全を申請した。",
+    "vocabularyList": [
+      {
+        "word": "claimant",
+        "translation": "請求権者"
+      },
+      {
+        "word": "claim for payment",
+        "translation": "金銭の支払い請求"
+      },
+      {
+        "word": "future realization",
+        "translation": "将来の実現"
+      },
+      {
+        "word": "opposing party",
+        "translation": "相手方"
+      },
+      {
+        "word": "restricting disposition",
+        "translation": "処分制限"
+      },
+      {
+        "word": "bank account",
+        "translation": "銀行口座"
+      },
+      {
+        "word": "substantial likelihood",
+        "translation": "蓋然性が高いこと"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Disposition concerning the Subject Matter of Dispute",
+    "definition": "A preservation measure designed to provisionally set a legal relationship regarding a specific item or right that is the subject of ongoing litigation, often involving orders to maintain the current condition or stop certain activities.",
+    "japaneseDefinition": "訴訟の対象となっている特定の物または権利について、その現状の変更を防いだり、暫定的な地位を定めることによって、本案訴訟が確定するまで権利保全を図る措置。",
+    "japaneseWordTranslation": "係争物に関する仮処分 (けいそうぶつにかんするかりしょぶん)",
+    "legalContext": "Civil Preservation Act Art. 23(1) (This describes the general definition of a provisional disposition intended to secure claims other than monetary claims.)",
+    "japaneseLegalContext": "民事保全法第23条第1項 (金銭債権以外の債権の保全を目的とする仮処分の定義を定めている。)",
+    "exampleSentence": "The court issued a Provisional Disposition concerning the Subject Matter of Dispute, ordering the respondent to cease use of the patent during the intellectual property proceedings.",
+    "exampleTranslation": "裁判所は、知的財産に関する手続の間、相手方に対し、当該特許の使用停止を命じる係争物に関する仮処分を発令した。",
+    "vocabularyList": [
+      {
+        "word": "specific item",
+        "translation": "特定の物"
+      },
+      {
+        "word": "current condition",
+        "translation": "現状"
+      },
+      {
+        "word": "ongoing litigation",
+        "translation": "進行中の訴訟"
+      },
+      {
+        "word": "cease use",
+        "translation": "使用停止"
+      },
+      {
+        "word": "intellectual property",
+        "translation": "知的財産"
+      },
+      {
+        "word": "set a legal relationship",
+        "translation": "法的関係を定める"
+      },
+      {
+        "word": "respondent",
+        "translation": "相手方"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Justification for Preservation",
+    "definition": "The essential legal requirement demonstrating that without the immediate preservation order, the realization of the underlying right by the claim holder in the future would become impossible or extremely difficult to achieve.",
+    "japaneseDefinition": "保全命令を発令するために必要とされる、基礎となる権利の将来の実現が、即時の保全措置がないことにより不可能となるか、又は著しく困難となるという事情の証明。",
+    "japaneseWordTranslation": "保全の理由 (ほぜんのりゆう)",
+    "legalContext": "Civil Preservation Act Art. 13 (The standard requirement for issuing any preservation order, encompassing the necessity of the preservation.)",
+    "japaneseLegalContext": "民事保全法第13条 (あらゆる保全命令発令のための標準要件であり、保全の必要性を含む。)",
+    "exampleSentence": "The applicant’s petition was dismissed because they failed to prove the Justification for Preservation, as the opposing party showed sufficient assets.",
+    "exampleTranslation": "相手方が十分な資産を証明したため、申立人は保全の理由を立証できず、申立ては棄却された。",
+    "vocabularyList": [
+      {
+        "word": "essential requirement",
+        "translation": "本質的な要件"
+      },
+      {
+        "word": "underlying right",
+        "translation": "基礎となる権利"
+      },
+      {
+        "word": "immediate preservation order",
+        "translation": "即時の保全命令"
+      },
+      {
+        "word": "petition was dismissed",
+        "translation": "申立ては棄却された"
+      },
+      {
+        "word": "sufficient assets",
+        "translation": "十分な資産"
+      },
+      {
+        "word": "claim holder",
+        "translation": "権利者"
+      },
+      {
+        "word": "prove (to establish)",
+        "translation": "立証する"
+      }
+    ]
   }
 ]

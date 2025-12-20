@@ -1,34 +1,34 @@
 {
-  "category": "Judicial Scrivener Act (司法書士法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Judicial Scrivener Roll",
-  "definition": "The official registry (meibo) of all qualified and currently practicing judicial scriveners, maintained by the local Judicial Scrivener Association and subject to review by the Minister of Justice.",
-  "japaneseDefinition": "司法書士が業務を行うために、所属する司法書士会に備え付けられている名簿。法務大臣の監督下に置かれる。",
-  "japaneseWordTranslation": "司法書士名簿 (しほうしょしめいぼ)",
-  "legalContext": "Judicial Scrivener Act Art. 25: A Judicial Scrivener Association shall maintain a Judicial Scrivener Roll and enter the names and other necessary particulars of its members therein.",
-  "japaneseLegalContext": "司法書士法第25条: 司法書士会は、司法書士名簿を備え、その会員である司法書士の氏名その他の必要な事項をこれに登録しなければならない。",
-  "exampleSentence": "Enrollment in the Judicial Scrivener Roll is a prerequisite for commencing professional activities and is managed by the regional association.",
-  "exampleTranslation": "司法書士名簿への登録は専門的活動を開始するための前提条件であり、地域会によって管理される。",
+  "word": "Default Judgment",
+  "definition": "A binding judgment entered by the court in favor of the plaintiff when the defendant fails to appear in court or fails to submit a defense (answer or preparatory document) within the prescribed time limit.",
+  "japaneseDefinition": "被告が裁判所に出頭しなかったり、定められた期間内に答弁書や準備書面を提出しなかったりした場合に、原告の主張に基づいて下される拘束力のある判決。",
+  "japaneseWordTranslation": "欠席判決 (けっせきはんけつ)",
+  "legalContext": "Code of Civil Procedure Art. 251: Treatment of a Plaintiff or Defendant who failed to appear.",
+  "japaneseLegalContext": "民事訴訟法第251条 (出頭しなかった原告等の取扱)",
+  "exampleSentence": "Since the defendant failed to file an answer and was absent from the first hearing date without justifiable reason, the court entered a default judgment against him.",
+  "exampleTranslation": "被告が答弁書の提出を怠り、正当な理由なく第一回期日に欠席したため、裁判所は彼に対して欠席判決を下した。",
   "vocabularyList": [
     {
-      "word": "enrollment",
-      "translation": "登録"
+      "word": "absent",
+      "translation": "欠席した (けっせきした)"
     },
     {
-      "word": "prerequisite",
-      "translation": "前提条件"
+      "word": "justifiable reason",
+      "translation": "正当な理由 (せいとうなりゆう)"
     },
     {
-      "word": "commencing",
-      "translation": "開始する"
+      "word": "first hearing date",
+      "translation": "第一回期日 (だいいっかいきじつ)"
     },
     {
-      "word": "particulars",
-      "translation": "必要な事項"
+      "word": "submit a defense",
+      "translation": "防御を提出する (ぼうぎょをていしゅつする)"
     },
     {
-      "word": "regional association",
-      "translation": "地域会"
+      "word": "entered a judgment",
+      "translation": "判決を下した (はんけつをくだした)"
     }
   ]
 }

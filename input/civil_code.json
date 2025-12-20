@@ -5534,5 +5534,119 @@
         "translation": "〜に拘束される"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legal Cause",
+    "definition": "The underlying factual or legal basis required for the validity, acquisition, or enforcement of an obligation or a claim, especially crucial in determining the justification for the transfer of wealth.",
+    "japaneseDefinition": "債務または請求権の成立、取得、あるいはその効力の根拠となる事実または法律上の理由。特に不当利得において、財産移転の正当化を判断する上で不可欠な概念。",
+    "japaneseWordTranslation": "原因 (げんいん)",
+    "legalContext": "Civil Code Art. 703: \"A person who has received enrichment to the detriment of another without legal cause shall be liable to restore the enrichment to the extent that the enrichment exists.\"",
+    "japaneseLegalContext": "民法第703条: 「法律上の原因なく他人の財産又は労務によって利益を受け、これによって他人に損失を及ぼした者（中略）は、その利益の存する限度において、これを返還する義務を負う。」",
+    "exampleSentence": "The obligor filed an action to reclaim the funds, arguing that the transfer of assets lacked a necessary legal cause.",
+    "exampleTranslation": "債務者は、資産の移転に必要な法律上の原因がないとして、資金の返還を求める訴訟を提起した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "reclaim the funds",
+        "translation": "資金の返還を求める"
+      },
+      {
+        "word": "transfer of assets",
+        "translation": "資産の移転"
+      },
+      {
+        "word": "enrichment",
+        "translation": "利得"
+      },
+      {
+        "word": "detriment",
+        "translation": "損失"
+      },
+      {
+        "word": "action",
+        "translation": "訴訟"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Publicity",
+    "definition": "The doctrine requiring that the creation, modification, or transfer of rights concerning property (especially immovable property) must be made publicly visible (typically via registration or delivery) to protect transactional safety and third parties.",
+    "japaneseDefinition": "物権の創設、変更、または移転を外部から認識し得る状態にすることを求める原則。不動産は登記、動産は引渡しによって実現され、取引の安全を保護する。",
+    "japaneseWordTranslation": "公示の原則 (こうしのげんそく)",
+    "legalContext": "Civil Code Art. 177: \"Acquisition of, or loss of, or changes to, real rights concerning immovable property cannot be asserted against a third party until registration thereof has been effected.\"",
+    "japaneseLegalContext": "民法第177条: 「不動産に関する物権の得喪及び変更は、登記をしなければ、第三者に対抗することができない。」",
+    "exampleSentence": "The purchaser failed to fulfill the Principle of Publicity, rendering his claim of ownership ineffective against a subsequent buyer who had duly registered the transaction.",
+    "exampleTranslation": "買主は公示の原則を満たさなかったため、登記を正当に行った後の買主に対して所有権の主張をすることができなかった。",
+    "vocabularyList": [
+      {
+        "word": "immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "modification",
+        "translation": "変更"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "registration",
+        "translation": "登記"
+      },
+      {
+        "word": "transactional safety",
+        "translation": "取引の安全"
+      },
+      {
+        "word": "assert against",
+        "translation": "対抗する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Disqualification of Successor",
+    "definition": "A statutory provision by which a person who has committed certain serious wrongful acts against the decedent or interfered with the decedent's last will automatically forfeits the right to inherit.",
+    "japaneseDefinition": "被相続人に対し一定の重大な不正行為を行った者、または被相続人の遺言に不正に干渉した者が、法律の規定により当然に相続権を失う制度。",
+    "japaneseWordTranslation": "相続欠格 (そうぞくけっかく)",
+    "legalContext": "Civil Code Art. 891: \"A person who has committed any of the following acts shall be disqualified from succession.\" (The article lists specific acts, such as intentional homicide or coercion.)",
+    "japaneseLegalContext": "民法第891条: 「次に掲げる者は、相続人となることができない。」（故意による殺人、遺言の強迫などが列挙されている。）",
+    "exampleSentence": "The cousin, having used coercion to force the testator to rewrite his last will, was subject to the Disqualification of Successor rules.",
+    "exampleTranslation": "遺言者に対し遺言を書き換えさせるために強迫を用いた従兄弟は、相続欠格の規定の対象となった。",
+    "vocabularyList": [
+      {
+        "word": "testator",
+        "translation": "遺言者"
+      },
+      {
+        "word": "coercion",
+        "translation": "強迫"
+      },
+      {
+        "word": "forfeits the right",
+        "translation": "権利を失う"
+      },
+      {
+        "word": "decedent",
+        "translation": "被相続人"
+      },
+      {
+        "word": "last will",
+        "translation": "遺言"
+      },
+      {
+        "word": "statutory provision",
+        "translation": "法律の規定"
+      }
+    ]
   }
 ]

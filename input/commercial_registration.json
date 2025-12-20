@@ -4928,5 +4928,119 @@
         "translation": "経過した (keika shita)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Failure to Register Changes",
+    "definition": "The administrative penalty imposed on officers or liquidators of a company who fail to make required statutory registrations (such as officer changes, capital alterations, or establishment) within the specified period.",
+    "japaneseDefinition": "会社法またはその他の法令により定められた期間内に、役員の変更や本店移転などの登記を懈怠した会社役員または清算人に対して課される行政上の過料責任。",
+    "japaneseWordTranslation": "登記懈怠による責任 (Tōki ketae ni yoru sekinin)",
+    "legalContext": "Commercial Registration Act Art. 97: Where a director, etc., who has the duty of registration fails to make the required registration within the statutory period, he/she shall be liable to a non-penal fine.",
+    "japaneseLegalContext": "商業登記法 第97条: 登記をすべき者であって、その登記を怠った者に対しては、過料に処する。",
+    "exampleSentence": "The former representative director faced **liability for failure to register changes** after neglecting to update the corporate registry following the company's capital reduction resolution.",
+    "exampleTranslation": "元代表取締役は、会社の減資決議後の商業登記簿の更新を怠ったため、登記懈怠による責任を負うことになった。",
+    "vocabularyList": [
+      {
+        "word": "statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "non-penal fine",
+        "translation": "過料"
+      },
+      {
+        "word": "corporate registry",
+        "translation": "商業登記簿"
+      },
+      {
+        "word": "capital reduction",
+        "translation": "減資"
+      },
+      {
+        "word": "director",
+        "translation": "取締役"
+      },
+      {
+        "word": "liquidators",
+        "translation": "清算人"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Ex Officio By the Registrar",
+    "definition": "The authority granted to the registrar to perform a registration without an application from the company, typically when a change in the register is necessary due to legal provisions or subsequent actions (e.g., correction of errors, changes in jurisdiction).",
+    "japaneseDefinition": "会社の申請を待たずして、登記官が自己の職権に基づいて行う登記手続き。管轄の変更や、登記簿上の錯誤の更正など、法令の規定によって行われる。",
+    "japaneseWordTranslation": "登記官による職権登記 (Tōkikan ni yoru shokken tōki)",
+    "legalContext": "Commercial Registration Act Art. 24: If the registrar finds an error or omission in the registration, he/she shall make a registration of correction ex officio, provided there is no risk of infringing the rights of a third party.",
+    "japaneseLegalContext": "商業登記法 第24条: 登記官は、登記に錯誤又は遺漏があることを発見したときは、職権でこれを更正する登記をすることができる。ただし、第三者の権利を害するおそれがあるときは、この限りでない。",
+    "exampleSentence": "Following the court’s determination of the company’s legal domicile, the **registration ex officio by the registrar** was executed to reflect the jurisdictional change.",
+    "exampleTranslation": "裁判所がその会社の本店所在地を確定した後、管轄の変更を反映させるために登記官による職権登記が実行された。",
+    "vocabularyList": [
+      {
+        "word": "error",
+        "translation": "錯誤"
+      },
+      {
+        "word": "omission",
+        "translation": "遺漏"
+      },
+      {
+        "word": "jurisdictional change",
+        "translation": "管轄の変更"
+      },
+      {
+        "word": "correction",
+        "translation": "更正"
+      },
+      {
+        "word": "infringing the rights",
+        "translation": "権利を害する"
+      },
+      {
+        "word": "legal domicile",
+        "translation": "本店所在地"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandate for Correction of Registration Defects",
+    "definition": "A formal instruction issued by the registrar to the registration applicant, requiring the amendment of deficiencies found during the formal examination of the application documents or accompanying instruments within a specified time.",
+    "japaneseDefinition": "登記申請の形式的審査の結果、書類や添付情報に不備が発見された場合に、登記官が申請人に対して定める期間内に欠陥を是正するよう命じる行政処分。",
+    "japaneseWordTranslation": "登記申請の補正命令 (Tōki shinsei no hosei meirei)",
+    "legalContext": "Commercial Registration Act Art. 25, item 3: The registrar shall reject the application when the applicant fails to comply with the mandate for correction provided under the preceding paragraph.",
+    "japaneseLegalContext": "商業登記法 第25条 第3号: 登記官は、申請が前項の規定による補正をしないときに該当するときは、理由を付した決定をもって、これを却下しなければならない。",
+    "exampleSentence": "Since the power of attorney lacked the necessary corporate seal, the applicant received a **mandate for correction of registration defects** from the registry office.",
+    "exampleTranslation": "委任状に必要な会社の実印が欠けていたため、申請人は登記所から登記申請の補正命令を受け取った。",
+    "vocabularyList": [
+      {
+        "word": "application documents",
+        "translation": "申請書類"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "deficiency",
+        "translation": "不備"
+      },
+      {
+        "word": "formal examination",
+        "translation": "形式的審査"
+      },
+      {
+        "word": "accompanying instruments",
+        "translation": "添付書類"
+      },
+      {
+        "word": "power of attorney",
+        "translation": "委任状"
+      }
+    ]
   }
 ]

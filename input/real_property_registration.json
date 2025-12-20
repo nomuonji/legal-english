@@ -4716,5 +4716,119 @@
         "translation": "無許可の (むきょかの)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registerable Subject Matters",
+    "definition": "The specific items concerning the physical characteristics (description) or the proprietary rights of real property that are legally mandated or permitted to be recorded in the register.",
+    "japaneseDefinition": "登記記録に記録すべき不動産の表示又は権利に関する事項を指します。第三者に対抗するために公示の対象となります。",
+    "japaneseWordTranslation": "登記事項 (とうきじこう)",
+    "legalContext": "Real Property Registration Act Art. 2 (Scope of matters to be registered): Defines the range of information that must be recorded.",
+    "japaneseLegalContext": "不動産登記法第２条（登記事項の範囲）：登記記録に記録されるべき事項を定める。",
+    "exampleSentence": "The change in building structure must be filed as a change to the Registerable Subject Matters under the Property Description section.",
+    "exampleTranslation": "建物の構造の変更は、不動産の表示に関する登記事項の変更として申請されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Property Description section",
+        "translation": "表題部 (ひょうだいぶ)"
+      },
+      {
+        "word": "filed",
+        "translation": "申請される (しんせいされる)"
+      },
+      {
+        "word": "change",
+        "translation": "変更 (へんこう)"
+      },
+      {
+        "word": "structure",
+        "translation": "構造 (こうぞう)"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産 (ふどうさん)"
+      },
+      {
+        "word": "proprietary rights",
+        "translation": "権利に関する事項 (けんりにかんするじこう)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Jurisdictional Registry Office",
+    "definition": "The administrative office legally designated and empowered to manage the register and handle registration procedures for real property located within a specific geographical area (its jurisdiction).",
+    "japaneseDefinition": "不動産の所在地を管轄し、その不動産に関する登記事務を行う権限を持つ登記所を指します。申請はこの管轄登記所に対して行わなければなりません。",
+    "japaneseWordTranslation": "管轄登記所 (かんかつとうきじょ)",
+    "legalContext": "Real Property Registration Act Art. 4 (Jurisdiction): Defines the competence of the registry office based on the location of the real property.",
+    "japaneseLegalContext": "不動産登記法第４条（管轄）：不動産の所在地に基づいて登記所の管轄を定める。",
+    "exampleSentence": "An application filed outside the Jurisdictional Registry Office will be rejected on procedural grounds by the Registrar.",
+    "exampleTranslation": "管轄登記所の外で申請された登記申請は、登記官によって手続上の理由で却下される。",
+    "vocabularyList": [
+      {
+        "word": "application",
+        "translation": "申請 (しんせい)"
+      },
+      {
+        "word": "rejected",
+        "translation": "却下される (きゃっかされる)"
+      },
+      {
+        "word": "procedural grounds",
+        "translation": "手続上の理由 (てつづきじょうのりゆう)"
+      },
+      {
+        "word": "Registrar",
+        "translation": "登記官 (とうきかん)"
+      },
+      {
+        "word": "competence",
+        "translation": "権限 (けんげん)"
+      },
+      {
+        "word": "location",
+        "translation": "所在地 (しょざいち)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration for the Creation of a Right of Superficies",
+    "definition": "The formal recording procedure required to establish a right (a real property interest) allowing a party to use or take profit from another's land for the purpose of owning structures, bamboo, or trees on that land.",
+    "japaneseDefinition": "他人の土地の上に建物その他の工作物又は竹木を所有するため、その土地を使用する権利を設定する登記手続きを指します。",
+    "japaneseWordTranslation": "地上権設定登記 (ちじょうけんせっていとうき)",
+    "legalContext": "Real Property Registration Act Art. 78: Specifies the required registered matters when a right of superficies is created.",
+    "japaneseLegalContext": "不動産登記法第78条：地上権が設定された場合の登記事項を定める。",
+    "exampleSentence": "The parties executed an agreement for the establishment of a right of superficies, and the subsequent Registration for the Creation of a Right of Superficies provided opposability against third parties.",
+    "exampleTranslation": "当事者間で地上権設定の合意が執行され、その後の地上権設定登記は、第三者に対する対抗力を生じさせた。",
+    "vocabularyList": [
+      {
+        "word": "parties",
+        "translation": "当事者 (とうじしゃ)"
+      },
+      {
+        "word": "executed an agreement",
+        "translation": "合意を執行した (ごういをしっこうした)"
+      },
+      {
+        "word": "establishment",
+        "translation": "設定 (せってい)"
+      },
+      {
+        "word": "right of superficies",
+        "translation": "地上権 (ちじょうけん)"
+      },
+      {
+        "word": "opposability",
+        "translation": "対抗力 (たいこうりょく)"
+      },
+      {
+        "word": "subsequent",
+        "translation": "その後の (そのごの)"
+      }
+    ]
   }
 ]

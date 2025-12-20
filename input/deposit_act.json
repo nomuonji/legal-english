@@ -4534,5 +4534,131 @@
         "translation": "担保提供資金"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Office",
+    "definition": "A legally designated governmental institution, typically managed by the local Legal Affairs Bureau, responsible for accepting, safeguarding, and administering deposited funds, securities, or property in accordance with the Deposit Act.",
+    "japaneseDefinition": "供託の申請を受理し、供託物（金銭、有価証券等）の保管及び返還事務を行う、法務局等に設置された官署。",
+    "japaneseWordTranslation": "供託所 (きょうたくしょ)",
+    "legalContext": "Deposit Act (供託法) Art. 1, 2: The establishment and jurisdiction of the Deposit Office.",
+    "japaneseLegalContext": "供託法第１条、２条：供託所の設置及び管轄に関する規定。",
+    "exampleSentence": "The obligor must tender performance by depositing the necessary funds at the competent Deposit Office located within the jurisdiction of the place of performance.",
+    "exampleTranslation": "債務者は、履行地を管轄する権限のある供託所に、必要な資金を供託することによって弁済の提供をしなければならない。",
+    "vocabularyList": [
+      {
+        "word": "competent",
+        "translation": "権限のある"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "tender performance",
+        "translation": "弁済の提供をする"
+      },
+      {
+        "word": "funds",
+        "translation": "資金"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄"
+      },
+      {
+        "word": "Legal Affairs Bureau",
+        "translation": "法務局"
+      },
+      {
+        "word": "safeguarding",
+        "translation": "保管"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Fungible Property Deposit",
+    "definition": "A type of deposit made when the object of the obligation is something generic (e.g., grain or money), where the deposited item is accepted as fulfilling the debt, contrasting with obligations involving specific, non-fungible objects.",
+    "japaneseDefinition": "物がある種類の性質を有し、かつ、同種類の他の物と交換が可能である場合にその目的物を供託すること。金銭供託や米穀等の供託が該当する。",
+    "japaneseWordTranslation": "代替供託 (だいたいきょうたく)",
+    "legalContext": "Civil Code Art. 494: Permissibility of deposit for performance, especially concerning the nature of the thing to be deposited.",
+    "japaneseLegalContext": "民法第494条：弁済のための供託の要件、特に供託すべき物の性質に関連する規定。",
+    "exampleSentence": "Since the nature of the goods involved a generic delivery obligation, the debtor satisfied his duty through a Fungible Property Deposit rather than storing a specific item.",
+    "exampleTranslation": "関与する物品の性質が種類物引渡債務であったため、債務者は特定物の保管ではなく、代替供託によって義務を履行した。",
+    "vocabularyList": [
+      {
+        "word": "generic delivery obligation",
+        "translation": "種類物引渡債務"
+      },
+      {
+        "word": "nature of the goods",
+        "translation": "物品の性質"
+      },
+      {
+        "word": "satisfied his duty",
+        "translation": "義務を履行した"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "obligation",
+        "translation": "債務"
+      },
+      {
+        "word": "specific item",
+        "translation": "特定物"
+      },
+      {
+        "word": "storing",
+        "translation": "保管"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Confirmation of Deposit Cause Extinction",
+    "definition": "A procedural requirement for the original consignor to reclaim deposited assets, involving submitting proof to the administrative authority that the legal reason necessitating the initial deposit (such as refusal or uncertainty) has definitively ceased to exist.",
+    "japaneseDefinition": "供託者が供託物を取り戻す際、当初の供託原因（受領拒否や債権者不明など）が消滅したことを法務局等の行政庁に証明する手続き。",
+    "japaneseWordTranslation": "供託原因消滅の確認 (きょうたくげんいんしょうめつの確認)",
+    "legalContext": "Deposit Act Art. 8: Stipulates the circumstances under which the depositor may reclaim the deposited property.",
+    "japaneseLegalContext": "供託法第８条：供託者が供託物を取り戻すことができる条件を定める規定。",
+    "exampleSentence": "The company was required to obtain Confirmation of Deposit Cause Extinction before exercising its right to the deposited security money following the amicable resolution of the underlying dispute.",
+    "exampleTranslation": "基礎となる紛争が友好的に解決した後、その会社は供託された保証金に対する権利を行使する前に、供託原因消滅の確認を取得する必要があった。",
+    "vocabularyList": [
+      {
+        "word": "procedural requirement",
+        "translation": "手続上の要件"
+      },
+      {
+        "word": "consignor",
+        "translation": "供託者"
+      },
+      {
+        "word": "reclaim assets",
+        "translation": "資産を取り戻す"
+      },
+      {
+        "word": "administrative authority",
+        "translation": "行政庁"
+      },
+      {
+        "word": "underlying dispute",
+        "translation": "基礎となる紛争"
+      },
+      {
+        "word": "amicable resolution",
+        "translation": "友好的な解決"
+      },
+      {
+        "word": "security money",
+        "translation": "保証金"
+      }
+    ]
   }
 ]

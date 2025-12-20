@@ -5554,5 +5554,119 @@
         "translation": "不動産資産 (ふどうさんしさん)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Grant of Execution Clause",
+    "definition": "The formal certification affixed to an execution title (such as a judgment or notarized deed) by a court clerk, certifying that the title is executable against the specified obligor and permitting the commencement of compulsory execution.",
+    "japaneseDefinition": "債務名義に執行力があることを公証し、執行機関が強制執行を開始するための前提となる、裁判所書記官などが行う付記行為。",
+    "japaneseWordTranslation": "執行文付与 (しっこうぶんふよ)",
+    "legalContext": "Civil Execution Act, Art. 25 (Requirements for Commencement of Compulsory Execution): 'Compulsory execution shall be commenced upon the production of the certified copy of the execution title to which the execution clause has been granted.'",
+    "japaneseLegalContext": "民事執行法第25条 (強制執行開始の要件): 「強制執行は、執行文の付された債務名義の正本に基づいて実施する。」",
+    "exampleSentence": "The obligee must apply to the court clerk for the Grant of Execution Clause before submitting the formal application for compulsory execution.",
+    "exampleTranslation": "債権者は、正式な強制執行の申立てを提出する前に、裁判所書記官に執行文付与の申立てを行う必要がある。",
+    "vocabularyList": [
+      {
+        "word": "court clerk",
+        "translation": "裁判所書記官"
+      },
+      {
+        "word": "execution title",
+        "translation": "債務名義"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "certified copy",
+        "translation": "正本"
+      },
+      {
+        "word": "formal application",
+        "translation": "正式な申立て"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Payment of Sale Price",
+    "definition": "A judicial order issued by the execution court to the successful acquirer of immovable property in an execution sale, requiring them to pay the full sale price by a specific deadline.",
+    "japaneseDefinition": "不動産の競売において、執行裁判所が最高価買受人に対し、売却代金を定められた期限までに納付するよう命じる決定。",
+    "japaneseWordTranslation": "売却代金納付命令 (ばいきゃくだいきんのうふめいれい)",
+    "legalContext": "Civil Execution Act, Art. 78, Para. 1: 'When the order granting sale permission becomes final and binding, the execution court shall issue an Order for Payment of the Sale Price to the purchaser.'",
+    "japaneseLegalContext": "民事執行法第78条第1項: 「売却許可決定が確定したときは、執行裁判所は、買受人に対し、代金を納付すべき期限を定め、その納付を命じなければならない。」",
+    "exampleSentence": "Failure by the acquirer to comply with the Order for Payment of Sale Price will result in the cancellation of the sale and the forfeiture of the bidding deposit.",
+    "exampleTranslation": "買受人が売却代金納付命令に従わない場合、売却は取り消され、入札保証金は没収される。",
+    "vocabularyList": [
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "successful acquirer",
+        "translation": "最高価買受人"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "cancel the sale",
+        "translation": "売却の取消し"
+      },
+      {
+        "word": "forfeiture",
+        "translation": "没収"
+      },
+      {
+        "word": "sale price",
+        "translation": "売却代金"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Authority",
+    "definition": "The legal force conferred upon a civil execution title (e.g., a final judgment or settlement record) that allows the obligee to invoke the state’s power to compulsorily enforce the underlying obligation against the obligor.",
+    "japaneseDefinition": "債務名義が持っている、債務者の意思に反してでも、国家権力により強制執行をなし得る実体的な法的な力。",
+    "japaneseWordTranslation": "執行力 (しっこうりょく)",
+    "legalContext": "Civil Execution Act, Art. 22 (Execution Titles): Execution titles are documents which prove the existence and scope of the Execution Authority.",
+    "japaneseLegalContext": "民事執行法第22条 (債務名義): 執行力を有することを証明する文書を債務名義という。",
+    "exampleSentence": "The obligor filed an action for a declaratory judgment of non-existence of the Execution Authority, arguing that the underlying claim had already been extinguished.",
+    "exampleTranslation": "債務者は、原債権が既に消滅していると主張し、執行力の不存在確認を求める訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "final judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "settlement record",
+        "translation": "和解調書"
+      },
+      {
+        "word": "invoke the state’s power",
+        "translation": "国家権力の行使"
+      },
+      {
+        "word": "underlying obligation",
+        "translation": "基礎となる債務"
+      },
+      {
+        "word": "non-existence",
+        "translation": "不存在"
+      },
+      {
+        "word": "extinguished",
+        "translation": "消滅した"
+      }
+    ]
   }
 ]

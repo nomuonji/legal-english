@@ -5116,5 +5116,89 @@
         "translation": "招集される"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Dissenting Shareholder",
+    "definition": "A shareholder who votes against a major corporate restructuring action (such as a merger or business transfer) and is consequently granted a statutory right to demand the company purchase their shares at a fair price.",
+    "japaneseDefinition": "会社の重要な組織変更（合併、事業譲渡等）に反対する議決権を行使した株主、または議決権を有しない株主で、会社に対して公正な価格での株式買取請求権が認められる者。",
+    "japaneseWordTranslation": "反対株主 (はんたいかぶぬし)",
+    "legalContext": "Companies Act Art. 469: A dissenting shareholder may demand that the company purchase the shares he/she holds, subject to certain exceptions.",
+    "japaneseLegalContext": "会社法第469条: 反対株主は、一定の例外を除き、自己の有する株式を公正な価格で買い取ることを会社に対し請求することができる。",
+    "exampleSentence": "Upon approval of the share exchange, the dissenting shareholder immediately served notice to exercise his right to demand the company purchase his stake.",
+    "exampleTranslation": "株式交換の承認後、反対株主は直ちに、会社に自己の持ち株を買い取るよう請求する権利を行使する通知を送達した。",
+    "vocabularyList": [
+      {
+        "word": "major corporate restructuring",
+        "translation": "重要な組織再編行為"
+      },
+      {
+        "word": "merger",
+        "translation": "合併"
+      },
+      {
+        "word": "demand purchase",
+        "translation": "買取を請求する"
+      },
+      {
+        "word": "fair price",
+        "translation": "公正な価格"
+      },
+      {
+        "word": "share exchange",
+        "translation": "株式交換"
+      },
+      {
+        "word": "served notice",
+        "translation": "通知を送達した"
+      },
+      {
+        "word": "stake",
+        "translation": "持ち株／持分"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Resolution (of Shareholders)",
+    "definition": "A resolution adopted by the General Meeting of Shareholders requiring a supermajority (at least two-thirds) of voting rights present, and typically a quorum of shareholders holding one-third of the total voting shares, necessary for fundamental corporate changes.",
+    "japaneseDefinition": "株主総会における決議方法の一つで、議決権を行使することができる株主の議決権の過半数を有する株主が出席し、出席株主の議決権の３分の２以上の賛成を要する決議。",
+    "japaneseWordTranslation": "特別決議 (とくべつけつぎ)",
+    "legalContext": "Companies Act Art. 309 para. 2: Special Resolutions are required for organizational changes, amendments to the articles of incorporation, and certain transactions involving distributable amounts.",
+    "japaneseLegalContext": "会社法第309条第2項: 組織変更、定款の変更、及び剰余金の配当に関する一定の取引には特別決議を必要とする。",
+    "exampleSentence": "The proposal to fundamentally amend the articles of incorporation failed to pass because it did not meet the supermajority requirement for a Special Resolution.",
+    "exampleTranslation": "定款を抜本的に変更する提案は、特別決議に必要なスーパーマジョリティの要件を満たさなかったため、否決された。",
+    "vocabularyList": [
+      {
+        "word": "resolution adopted by",
+        "translation": "～によって採択された決議"
+      },
+      {
+        "word": "supermajority",
+        "translation": "特別多数決"
+      },
+      {
+        "word": "quorum",
+        "translation": "定足数"
+      },
+      {
+        "word": "fundamental corporate changes",
+        "translation": "基礎的な会社変更"
+      },
+      {
+        "word": "amend the articles",
+        "translation": "定款を変更する"
+      },
+      {
+        "word": "distributable amounts",
+        "translation": "分配可能額"
+      },
+      {
+        "word": "failed to pass",
+        "translation": "否決された"
+      }
+    ]
   }
 ]

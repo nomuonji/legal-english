@@ -5428,5 +5428,111 @@
         "translation": "行方不明の親族 (yukue fumei no shinzoku)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Period of Exclusion",
+    "definition": "A fixed time limit (also known as a statutory forfeiture period) set by law for the exercise of a specific right, which, unlike prescription, generally cannot be interrupted or suspended, and upon expiration, the right itself is extinguished.",
+    "japaneseDefinition": "ある権利につき法律で定められた存続期間。この期間が経過すると、権利は当然に消滅し、期間の中断や停止は認められない（時効と区別される）。",
+    "japaneseWordTranslation": "除斥期間 (じょせききかん)",
+    "legalContext": "Civil Code Art. 126 (Period of Exclusion: The right to cancel a contract must be exercised within five years from the time of possible affirmation, or within twenty years from the time the contract was concluded.)",
+    "japaneseLegalContext": "民法第126条 (取消権は、追認をすることができる時から五年間行使しないときは、時効によって消滅する。行為の時から二十年を経過したときも、同様とする。)",
+    "exampleSentence": "The claimant missed the statutory period of exclusion for bringing the action, resulting in the absolute extinguishment of the right.",
+    "exampleTranslation": "請求者は法で定められた除斥期間を徒過したため、その権利は絶対的に消滅した。",
+    "vocabularyList": [
+      {
+        "word": "extinguishment",
+        "translation": "消滅"
+      },
+      {
+        "word": "statutory",
+        "translation": "法で定められた"
+      },
+      {
+        "word": "affirmation",
+        "translation": "追認"
+      },
+      {
+        "word": "claimant",
+        "translation": "請求者"
+      },
+      {
+        "word": "fixed time limit",
+        "translation": "固定された期間制限"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ground for Imputability",
+    "definition": "A legally recognized circumstance or reason (such as intent or negligence) attributable to a party, which forms the basis for holding that party responsible or liable for an outcome, particularly in breach of contract.",
+    "japaneseDefinition": "契約不履行や不法行為といった法的な結果について、当事者に責任を負わせるための帰属すべき事由（典型的には故意または過失）。",
+    "japaneseWordTranslation": "帰責事由 (きせきじゆう)",
+    "legalContext": "Civil Code Art. 415 (Liability for Non-Performance: If an obligor fails to perform the obligation, and such non-performance is due to a ground for which the obligor is responsible [ground for imputability], the obligee may claim compensation for damages.)",
+    "japaneseLegalContext": "民法第415条 (債務者がその債務の本旨に従った履行をしないときは、債権者は、これによって生じた損害の賠償を請求することができる。債務者の責めに帰すべき事由によって...)",
+    "exampleSentence": "The obligor successfully avoided liability by proving that the non-performance was not caused by any ground for imputability on their part.",
+    "exampleTranslation": "債務者は、不履行が自らの帰責事由によるものではないことを証明し、責任を負うことを免れた。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "non-performance",
+        "translation": "不履行"
+      },
+      {
+        "word": "attributable",
+        "translation": "帰属すべき"
+      },
+      {
+        "word": "avoided liability",
+        "translation": "責任を免れた"
+      },
+      {
+        "word": "claim compensation",
+        "translation": "損害の賠償を請求する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Successor by Special Title",
+    "definition": "A person who succeeds to the rights and obligations pertaining only to a specific asset or liability, typically through a sale, gift, or specific devise, as opposed to succeeding to the entire legal status of the predecessor.",
+    "japaneseDefinition": "売買や贈与、特定遺贈などにより、特定の権利や義務のみを承継した者。包括的な権利義務の全てを承継する包括承継人とは区別される。",
+    "japaneseWordTranslation": "特定承継人 (とくていしょうけいにん)",
+    "legalContext": "Civil Code Art. 177 (Opposability to Third Parties: The acquisition, loss, or modification of proprietary rights concerning real property must be registered not to be assertable against third parties, including successors by special title.)",
+    "japaneseLegalContext": "民法第177条 (不動産に関する物権の得喪及び変更は、登記法に従い登記をしなければ、第三者に対抗することができない。)",
+    "exampleSentence": "Since the new owner of the property is a successor by special title, he is bound by the registered lease agreement entered into by the former owner.",
+    "exampleTranslation": "その不動産の新たな所有者は特定承継人であるため、前所有者が締結した登録済みの賃貸借契約に拘束される。",
+    "vocabularyList": [
+      {
+        "word": "asset",
+        "translation": "資産"
+      },
+      {
+        "word": "specific devise",
+        "translation": "特定遺贈"
+      },
+      {
+        "word": "predecessor",
+        "translation": "前主"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      },
+      {
+        "word": "lease agreement",
+        "translation": "賃貸借契約"
+      },
+      {
+        "word": "bound by",
+        "translation": "〜に拘束される"
+      }
+    ]
   }
 ]

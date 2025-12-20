@@ -4420,5 +4420,119 @@
         "translation": "に訴える手段を有する (ni uttaeru shudan o yūsuru)"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Document Evidencing the Withdrawal Cause",
+    "definition": "A document required to be submitted to the deposit office proving the legal or factual basis for the deposit recipient to claim and receive the deposited funds or assets.",
+    "japaneseDefinition": "供託物を受け取る者が、その払渡を受ける権利を有することを証明するために供託所に提出しなければならない書面。",
+    "japaneseWordTranslation": "払渡原因証明書面 (はらいわたしげんいんしょうめいしょめん)",
+    "legalContext": "Deposit Act Enforcement Regulations, Art. 16: Procedures for confirming the eligibility of the claimant to withdraw deposited property.",
+    "japaneseLegalContext": "供託規則第16条: 供託物払渡請求権者の資格確認のための手続き。",
+    "exampleSentence": "The Deposit Recipient must present the *Document Evidencing the Withdrawal Cause*, such as a conclusive determination of the dispute, when submitting a formal request for disbursement.",
+    "exampleTranslation": "供託物受領者は、払渡しの正式な請求を提出する際、紛争の確定的な判断などの払渡原因証明書面を提示しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Deposit Recipient",
+        "translation": "供託物受領者"
+      },
+      {
+        "word": "conclusive determination",
+        "translation": "確定的な判断"
+      },
+      {
+        "word": "formal request",
+        "translation": "正式な請求"
+      },
+      {
+        "word": "disbursement",
+        "translation": "払渡し"
+      },
+      {
+        "word": "submitting",
+        "translation": "提出すること"
+      },
+      {
+        "word": "dispute",
+        "translation": "紛争"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Claim Period for Deposited Property",
+    "definition": "The statutory period during which the consignor (depositor) retains the right to recover the deposited property, typically applicable if the basis for deposit ceases to exist or the designated receiver refuses acceptance.",
+    "japaneseDefinition": "供託者が供託物を取り戻す権利を行使できる法定期間。通常、供託の事由が消滅した場合や、受領者が受諾を拒否した場合に適用される。",
+    "japaneseWordTranslation": "供託物取戻請求期間 (きょうたくぶつとりもどしせいきゅうきかん)",
+    "legalContext": "Deposit Act Art. 32(1): Where the claim for recovery is not exercised within ten years from the date of deposit, the property shall revert to the state treasury.",
+    "japaneseLegalContext": "供託法第32条第1項: 供託の日から10年間取戻しの請求がないときは、供託物は国庫に帰属する。",
+    "exampleSentence": "Once the statutory *Claim Period for Deposited Property* has elapsed, the property can no longer be retrieved by the initial depositor and will transition to government funds.",
+    "exampleTranslation": "法定の供託物取戻請求期間が経過した後は、その財産は元の供託者によって取り戻されることはなく、政府資金に移行する。",
+    "vocabularyList": [
+      {
+        "word": "statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "initial depositor",
+        "translation": "元の供託者"
+      },
+      {
+        "word": "retrieve",
+        "translation": "取り戻す"
+      },
+      {
+        "word": "designated receiver",
+        "translation": "指定された受領者"
+      },
+      {
+        "word": "basis for deposit",
+        "translation": "供託の根拠"
+      },
+      {
+        "word": "transition to government funds",
+        "translation": "政府資金への移行"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Deposit Account for Securities",
+    "definition": "A specific repository maintained at a designated monetary establishment for the physical or book-entry safekeeping of financial instruments deposited under the Deposit Act.",
+    "japaneseDefinition": "供託された有価証券を保管するため、供託所が指定した金融機関に開設される専用の口座。",
+    "japaneseWordTranslation": "有価証券供託口座 (ゆうかしょうけんきょうたくこうざ)",
+    "legalContext": "Deposit Rules for Securities and other documents: Detailed rules governing the method of custody for non-monetary deposited assets.",
+    "japaneseLegalContext": "供託有価証券その他の書類に関する規則: 金銭以外の供託財産の保管方法に関する詳細な規則。",
+    "exampleSentence": "To fulfill the requirement for a security provision fund, the filer must ensure that the corporate debt instruments are lodged correctly through a *Special Deposit Account for Securities*.",
+    "exampleTranslation": "担保提供資金の要件を満たすために、届出人は、社債が有価証券供託口座を通じて正確に供託されることを確認しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "specific repository",
+        "translation": "専用の保管場所"
+      },
+      {
+        "word": "monetary establishment",
+        "translation": "金融機関"
+      },
+      {
+        "word": "safekeeping",
+        "translation": "保管"
+      },
+      {
+        "word": "corporate debt instrument",
+        "translation": "社債（企業債務証書）"
+      },
+      {
+        "word": "formally lodged",
+        "translation": "正式に供託された"
+      },
+      {
+        "word": "security provision fund",
+        "translation": "担保提供資金"
+      }
+    ]
   }
 ]

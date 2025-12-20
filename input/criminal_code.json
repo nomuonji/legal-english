@@ -5054,5 +5054,107 @@
         "translation": "未遂犯"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Mitigation",
+    "definition": "The discretionary power of the court, when sentencing a defendant, to mitigate the prescribed penalty below the statutory minimum due to extenuating circumstances not specifically provided for as grounds for mitigation.",
+    "japaneseDefinition": "裁判官が、法律に規定された減軽の事由によらず、被告人の諸事情（情状）を考慮して、法定刑を任意に減軽すること。",
+    "japaneseWordTranslation": "酌量減軽 (しゃくりょうげんけい)",
+    "legalContext": "Criminal Code Art. 66: When there are extenuating circumstances, the punishment may be mitigated ex officio.",
+    "japaneseLegalContext": "刑法第66条：酌量すべき情状があるときは、その刑を減軽することができる。",
+    "exampleSentence": "Despite the severe penalties prescribed for the offense, the court applied judicial mitigation due to the defendant's sincere remorse and voluntary efforts toward victim compensation.",
+    "exampleTranslation": "犯した罪に法定された重い罰則にもかかわらず、被告人の真摯な反省と被害者への自主的な賠償の努力があったため、裁判所は酌量減軽を適用した。",
+    "vocabularyList": [
+      {
+        "word": "ex officio",
+        "translation": "職権で（裁判所の判断で）"
+      },
+      {
+        "word": "extenuating circumstances",
+        "translation": "酌量すべき情状"
+      },
+      {
+        "word": "statutory minimum",
+        "translation": "法定の最低刑"
+      },
+      {
+        "word": "discretionary power",
+        "translation": "裁量権"
+      },
+      {
+        "word": "victim compensation",
+        "translation": "被害者への賠償"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Kinship Immunity",
+    "definition": "A special provision in property crime sections (such as theft or fraud) stipulating that crimes committed between certain close relatives (spouses, lineal relatives, etc.) are either exempt from punishment or require a complaint for prosecution.",
+    "japaneseDefinition": "窃盗罪などの財産犯において、一定の近親者間（直系血族、配偶者、同居の親族など）で犯された場合に、刑が免除されたり、親告罪となったりする特例規定。",
+    "japaneseWordTranslation": "親族相盗例 (しんぞくそうとうれい)",
+    "legalContext": "Criminal Code Art. 244 (1) and (2): Provisions regarding crimes between relatives; acts committed between lineal relatives, spouses, or relatives living together shall be exempt from punishment.",
+    "japaneseLegalContext": "刑法第244条第1項, 2項：親族間の犯罪に関する規定。直系血族、配偶者又は同居の親族間で犯した罪は、その刑を免除する。",
+    "exampleSentence": "Because the theft occurred between a mother and her adult son residing in the same household, Kinship Immunity was applied, resulting in the exemption from punishment.",
+    "exampleTranslation": "窃盗が同居している母親と成人した息子との間で発生したため、親族相盗例が適用され、刑が免除された。",
+    "vocabularyList": [
+      {
+        "word": "property crime",
+        "translation": "財産犯"
+      },
+      {
+        "word": "exemption from punishment",
+        "translation": "刑の免除"
+      },
+      {
+        "word": "lineal relatives",
+        "translation": "直系血族"
+      },
+      {
+        "word": "cohabiting",
+        "translation": "同居の"
+      },
+      {
+        "word": "prosecution",
+        "translation": "公訴/訴追"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibition of Analogical Interpretation",
+    "definition": "A fundamental interpretive rule in criminal law, derived from the Principle of Legality, which forbids extending a criminal provision or penalty to cover situations or conduct not expressly defined in the statute through similarity or analogy.",
+    "japaneseDefinition": "罪刑法定主義から導かれる原則の一つで、犯罪及び刑罰に関する規定を、文言の可能な意味を超えて類推的に解釈し、被疑者・被告人に不利になるように適用することを禁止する原則。",
+    "japaneseWordTranslation": "類推解釈の禁止 (るいすいかいしゃくのきんし)",
+    "legalContext": "Derived from the Principle of Legality (罪刑法定主義), ensuring that criminal liability and punishment are based solely on clear, existing legal provisions.",
+    "japaneseLegalContext": "罪刑法定主義から導かれるもので、刑罰法規は厳格解釈されなければならないという大原則。",
+    "exampleSentence": "The defense successfully argued that applying the statute regarding 'electronic instruments' to a non-electronic device would violate the Prohibition of Analogical Interpretation.",
+    "exampleTranslation": "弁護側は、「電磁的記録に関する規定」を非電子的な装置に適用することは、類推解釈の禁止に違反すると主張し、成功を収めた。",
+    "vocabularyList": [
+      {
+        "word": "strict construction",
+        "translation": "厳格解釈"
+      },
+      {
+        "word": "legal predictability",
+        "translation": "法的予測可能性"
+      },
+      {
+        "word": "criminal provision",
+        "translation": "刑罰規定"
+      },
+      {
+        "word": "expressly defined",
+        "translation": "明文で規定された"
+      },
+      {
+        "word": "statute",
+        "translation": "制定法"
+      }
+    ]
   }
 ]

@@ -4802,5 +4802,131 @@
         "translation": "相手方"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deemed Registration",
+    "definition": "A legal fiction in commercial registration where, upon the registration of certain changes (such as the relocation of the head office to a new jurisdiction), the necessary corresponding change registration in the former jurisdiction is automatically considered to have been made by authority of the registrar.",
+    "japaneseDefinition": "商業登記において、本店移転など管轄を異にする変更登録が行われた場合、旧所在地での変更登録が申請を要せず、登記官の職権により自動的に行われたものとみなされる仕組み。",
+    "japaneseWordTranslation": "みなし登記 (Minashi Tōki)",
+    "legalContext": "Commercial Registration Act, Article 49: 'When a company has registered the relocation of its principal office to the jurisdiction of another Registry Office, the registration of the relocation at the former Registry Office shall be deemed to have been made by the Registrar.'",
+    "japaneseLegalContext": "商業登記法第49条: 「会社が本店を他の登記所の管轄区域内に移転したときは、旧所在地における移転の登記は、登記官が職権でするものとみなす。」",
+    "exampleSentence": "Due to the transfer of the company’s principal office, the required registration change at the original jurisdiction was handled via Deemed Registration.",
+    "exampleTranslation": "会社の定款で定められた本店が移転したため、元の管轄区域における必要な登記変更は、みなし登記によって処理された。",
+    "vocabularyList": [
+      {
+        "word": "relocation",
+        "translation": "移転 (iten)"
+      },
+      {
+        "word": "principal office",
+        "translation": "本店 (honten)"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄区域 (kankatsu kuiki)"
+      },
+      {
+        "word": "Registry Office",
+        "translation": "登記所 (tōkijo)"
+      },
+      {
+        "word": "legal fiction",
+        "translation": "法的擬制 (hōteki gisei)"
+      },
+      {
+        "word": "corresponding change",
+        "translation": "対応する変更 (taiō suru henkō)"
+      },
+      {
+        "word": "Registrar",
+        "translation": "登記官 (tōkikan)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Completion of Registration Procedure",
+    "definition": "The final administrative step in the registration process, marked by the registrar’s entry of the registered matter into the Commercial Register, at which point the registration generally takes effect.",
+    "japaneseDefinition": "登記官が商業登記簿に必要な事項を記録し、一連の登記作業を完了させる最終的な段階。この時点で、原則として登記の法的効力が発生する。",
+    "japaneseWordTranslation": "登記手続の完了 (Tōki Tetsuzuki no Kanryō)",
+    "legalContext": "Commercial Registration Act, Article 18: 'Registration shall take effect when the Registrar enters the registered matters into the Commercial Register.'",
+    "japaneseLegalContext": "商業登記法第18条: 「登記は、登記官が商業登記簿に登記事項を記録した時に、その効力を生ずる。」",
+    "exampleSentence": "The company may assert the registered change against third parties only upon the Completion of Registration Procedure.",
+    "exampleTranslation": "会社は、登記手続の完了があって初めて、登記された変更事項を第三者に対抗することができる。",
+    "vocabularyList": [
+      {
+        "word": "assert",
+        "translation": "対抗する (taikō suru)"
+      },
+      {
+        "word": "take effect",
+        "translation": "効力を生ずる (kōryoku o shōzuru)"
+      },
+      {
+        "word": "entry",
+        "translation": "記録 (kiroku)"
+      },
+      {
+        "word": "Commercial Register",
+        "translation": "商業登記簿 (shōgyō tōkibo)"
+      },
+      {
+        "word": "registered matter",
+        "translation": "登記事項 (tōki jikō)"
+      },
+      {
+        "word": "third parties",
+        "translation": "第三者 (daisansha)"
+      },
+      {
+        "word": "administrative step",
+        "translation": "行政手続 (gyōsei tetsuzuki)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Inactivity Deletion",
+    "definition": "A statutory procedure for clearing the Commercial Register of dormant companies (those that have not registered any changes for a specified period, typically ten or twelve years) by issuing a warning notice and subsequently canceling the registration if no business activity or response is confirmed.",
+    "japaneseDefinition": "長期間（通常10年または12年）にわたり変更の登記がされていない休眠会社に対し、登記官が公告を行い、応答や事業活動の確認がない場合に職権で登記を閉鎖する法的な整理手続。",
+    "japaneseWordTranslation": "休眠会社の整理 (Kyūmin Gaisha no Seiri)",
+    "legalContext": "Commercial Registration Act, Article 472: 'If ten years have elapsed since the time of the last registration... the Registrar may provide public notice to the company that it shall file a registration application... or report to the effect that it is continuing its business.'",
+    "japaneseLegalContext": "商業登記法第472条: 「最後の登記をした時から十年を経過しているときは、登記官は、会社に対し、二箇月以内に登記の申請をすべき旨…又は事業を廃止していない旨の届出をすべき旨を官報に公告することができる。」",
+    "exampleSentence": "Following years of inactivity, the company was subject to Inactivity Deletion under Article 472 of the Commercial Registration Act.",
+    "exampleTranslation": "長期間の活動停止の後、その会社は商業登記法第472条に基づき、休眠会社の整理の対象となった。",
+    "vocabularyList": [
+      {
+        "word": "dormant company",
+        "translation": "休眠会社 (kyūmin gaisha)"
+      },
+      {
+        "word": "statutory procedure",
+        "translation": "法定手続 (hōtei tetsuzuki)"
+      },
+      {
+        "word": "warning notice",
+        "translation": "催告 (saikoku)"
+      },
+      {
+        "word": "public notice",
+        "translation": "公告 (kōkoku)"
+      },
+      {
+        "word": "cancellation",
+        "translation": "閉鎖 (heisa)"
+      },
+      {
+        "word": "business activity",
+        "translation": "事業活動 (jigyō katsudō)"
+      },
+      {
+        "word": "elapsed",
+        "translation": "経過した (keika shita)"
+      }
+    ]
   }
 ]

@@ -4602,5 +4602,119 @@
         "translation": "取消し可能 (とりけし かのう)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Land Number",
+    "definition": "The specific serial number assigned by administrative authorities to an individual plot or parcel of land (筆, Hitsu) within a geographic area, which serves as the primary identifier in the Land Register's description section.",
+    "japaneseDefinition": "一筆の土地に付けられる、登記記録の表題部における主要な識別番号。",
+    "japaneseWordTranslation": "地番 (ちばん)",
+    "legalContext": "Real Property Registration Act, Article 34 (1) and Article 35 (Matters to be registered in the Description Section).",
+    "japaneseLegalContext": "不動産登記法第34条第1項及び第35条（表示に関する登記の登記事項）。",
+    "exampleSentence": "The application for ownership transfer registration must accurately state the Land Number and the registered area of the property.",
+    "exampleTranslation": "所有権移転登記の申請には、その不動産の地番および登記簿上の地積を正確に記載しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "serial number",
+        "translation": "一連番号"
+      },
+      {
+        "word": "plot / parcel",
+        "translation": "筆 (ひつ)"
+      },
+      {
+        "word": "description section",
+        "translation": "表題部 (ひょうだいぶ)"
+      },
+      {
+        "word": "registered area",
+        "translation": "登記地積 (とうきちせき)"
+      },
+      {
+        "word": "identification",
+        "translation": "識別 (しきべつ)"
+      },
+      {
+        "word": "ownership transfer",
+        "translation": "所有権移転 (しょゆうけんいてん)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cause Document Submission",
+    "definition": "The statutory requirement that an applicant for registration of rights must provide information or documentation proving the legal grounds (e.g., contract, judicial decision) underlying the requested registration.",
+    "japaneseDefinition": "権利に関する登記の申請人が、登記の根拠となる原因（売買契約、判決など）を証明するための文書又は情報の提供を義務づけられていること。",
+    "japaneseWordTranslation": "登記原因証明情報の提供 (とうきげんいんしょうめいじょうほうのていきょう)",
+    "legalContext": "Real Property Registration Act, Article 61: The application for registration of rights shall be accompanied by the document set forth in the following Article or information which certifies the cause of registration.",
+    "japaneseLegalContext": "不動産登記法第61条：権利に関する登記の申請は、次条の書面又は登記原因を証する情報を提供しなければならない。",
+    "exampleSentence": "Failure to provide satisfactory Cause Document Submission will result in the registrar issuing a correction order or rejecting the application outright.",
+    "exampleTranslation": "満足のいく登記原因証明情報の提供がなされない場合、登記官は補正命令を出すか、または申請を即座に却下することになる。",
+    "vocabularyList": [
+      {
+        "word": "statutory requirement",
+        "translation": "法令上の要件"
+      },
+      {
+        "word": "legal grounds",
+        "translation": "法的根拠"
+      },
+      {
+        "word": "registration of rights",
+        "translation": "権利の登記 (けんりのとうき)"
+      },
+      {
+        "word": "correction order",
+        "translation": "補正命令 (ほせいめいれい)"
+      },
+      {
+        "word": "judicial decision",
+        "translation": "判決 (はんけつ)"
+      },
+      {
+        "word": "rejecting the application",
+        "translation": "申請の却下 (しんせいのきゃっか)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prior Notice System",
+    "definition": "A procedural mechanism where, if a rights registration application is filed unilaterally without the cooperation of the registered title holder (e.g., based on a judicial ruling), the registrar must notify the former holder to confirm their intent and prevent fraudulent registration.",
+    "japaneseDefinition": "登記義務者の協力が得られない単独申請において、登記の真実性を担保するため、登記官が元の登記名義人に対し、申請があった旨を通知する手続的な仕組み。",
+    "japaneseWordTranslation": "事前通知制度 (じぜんつうちせいど)",
+    "legalContext": "Real Property Registration Act, Article 23 (1): If the registration is filed unilaterally by the obligee, the registrar must notify the registered title holder in writing.",
+    "japaneseLegalContext": "不動産登記法第23条第1項：権利者による単独申請があった場合、登記官は登記名義人に対し書面で通知をしなければならない。",
+    "exampleSentence": "The purpose of the Prior Notice System is to safeguard the registered title holder against unauthorized or fraudulent applications for property rights changes.",
+    "exampleTranslation": "事前通知制度の目的は、不動産権利変更の不正なまたは無許可の申請から登記名義人を保護することにある。",
+    "vocabularyList": [
+      {
+        "word": "procedural mechanism",
+        "translation": "手続的仕組み"
+      },
+      {
+        "word": "unilaterally",
+        "translation": "単独で (たんどくで)"
+      },
+      {
+        "word": "safeguard",
+        "translation": "保護措置 (ほごそち)"
+      },
+      {
+        "word": "registered title holder",
+        "translation": "登記名義人 (とうきめいぎにん)"
+      },
+      {
+        "word": "fraudulent application",
+        "translation": "不正な申請 (ふせいなしんせい)"
+      },
+      {
+        "word": "unauthorized",
+        "translation": "無許可の (むきょかの)"
+      }
+    ]
   }
 ]

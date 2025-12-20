@@ -5440,5 +5440,119 @@
         "translation": "事業活動"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Sale Purchaser",
+    "definition": "The party who has successfully made the highest bid at a compulsory execution sale of real property or vessels and has fulfilled the payment obligation, thereby acquiring the title to the property.",
+    "japaneseDefinition": "強制執行による不動産または船舶の売却手続において、最高価で買受の申出をし、裁判所からの売却許可決定に基づき代金を納付して、当該財産の所有権等の権利を取得した者。",
+    "japaneseWordTranslation": "買受人 (かいじゅくにん)",
+    "legalContext": "Civil Execution Act Art. 82: Upon payment of the sales price, the purchaser shall acquire the rights to the real property.",
+    "japaneseLegalContext": "民事執行法 第82条: 買受人は、代金を納付した時に、不動産を取得する。",
+    "exampleSentence": "The Execution Sale Purchaser was required to pay the full sale price by the designated deadline, failing which the court would order a re-sale.",
+    "exampleTranslation": "買受人は、指定された期日までに売却代金の全額を支払う必要があり、さもなければ裁判所は再売却を命じることになる。",
+    "vocabularyList": [
+      {
+        "word": "compulsory execution sale",
+        "translation": "強制執行による売却 (きょうせいしっこうによるばいきゃく)"
+      },
+      {
+        "word": "highest bid",
+        "translation": "最高価の買受申出 (さいこうかのかいじゅくもうしで)"
+      },
+      {
+        "word": "payment obligation",
+        "translation": "代金納付義務 (だいきんのうふぎむ)"
+      },
+      {
+        "word": "acquire the rights",
+        "translation": "権利を取得する (けんりをしゅとくする)"
+      },
+      {
+        "word": "re-sale",
+        "translation": "再売却 (さいばいきゃく)"
+      },
+      {
+        "word": "designated deadline",
+        "translation": "指定された期日 (していされたきじつ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Motion to Set Aside the Order Granting Sale Permission",
+    "definition": "A legal motion filed against the execution court's decision (order) granting permission for the sale of seized property, based on statutory grounds such as defects in the execution procedure or procedural irregularities.",
+    "japaneseDefinition": "執行裁判所が差し押さえた財産の売却を許可する決定に対して、法令に定められた執行手続の瑕疵や不当な点などを理由として取り消しを求める申立て。",
+    "japaneseWordTranslation": "売却許可決定取消しの申立て (ばいきゃくきょか けってい とりけし の もうしだて)",
+    "legalContext": "Civil Execution Act Art. 71: Grounds for refusal of the order granting sale permission include significant procedural violation or substantial error in the property valuation.",
+    "japaneseLegalContext": "民事執行法 第71条: 売却許可決定の拒否事由には、重大な手続違反または財産評価における実質的な錯誤が含まれる。",
+    "exampleSentence": "The execution obligor submitted a Motion to Set Aside the Order Granting Sale Permission, arguing that the notice of the sale date had not been properly served.",
+    "exampleTranslation": "執行債務者は、売却期日の通知が適正に送達されていないことを主張し、売却許可決定取消しの申立てを提出した。",
+    "vocabularyList": [
+      {
+        "word": "statutory grounds",
+        "translation": "法令に定められた事由 (ほうれいにさだめられたじゆう)"
+      },
+      {
+        "word": "procedural irregularities",
+        "translation": "手続上の不備 (てつづきじょうのふび)"
+      },
+      {
+        "word": "refusal of permission",
+        "translation": "許可の拒否 (きょかのきょひ)"
+      },
+      {
+        "word": "execution obligor",
+        "translation": "執行債務者 (しっこうさいむしゃ)"
+      },
+      {
+        "word": "notice of the sale date",
+        "translation": "売却期日の通知 (ばいきゃくきじつのつうち)"
+      },
+      {
+        "word": "properly served",
+        "translation": "適正に送達される (てきせいにそうたつされる)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Valuation of Executable Property",
+    "definition": "The formal assessment process conducted by the execution court, usually relying on an expert appraiser, to determine the fair market value of the property subject to compulsory execution, which then forms the basis for setting the minimum sale price.",
+    "japaneseDefinition": "強制執行の対象となる財産について、執行裁判所が専門の評価人を利用して行う、公正な市場価値の算定手続。この評価額が最低売却価額を定める基礎となる。",
+    "japaneseWordTranslation": "執行財産の評価額決定 (しっこうざいさん の ひょうかがく けってい)",
+    "legalContext": "Civil Execution Act Art. 60: The execution court shall appoint an appraiser to perform the valuation of the real property subject to execution, and set the minimum sale price based on that valuation.",
+    "japaneseLegalContext": "民事執行法 第60条: 執行裁判所は、執行対象不動産の評価を行うため評価人を命じ、その評価に基づいて最低売却価額を定めなければならない。",
+    "exampleSentence": "The Valuation of Executable Property revealed that the real estate asset was heavily encumbered, leading to a significantly reduced minimum sale price.",
+    "exampleTranslation": "執行財産の評価額決定により、当該不動産資産に重い負担が付されていることが判明し、その結果、最低売却価額が大幅に減額された。",
+    "vocabularyList": [
+      {
+        "word": "formal assessment process",
+        "translation": "正式な算定手続 (せいしきなさんていてつづき)"
+      },
+      {
+        "word": "expert appraiser",
+        "translation": "専門の評価人 (せんもんのひょうかにん)"
+      },
+      {
+        "word": "fair market value",
+        "translation": "公正な市場価値 (こうせいな いちばかち)"
+      },
+      {
+        "word": "minimum sale price",
+        "translation": "最低売却価額 (さいていばいきゃくかがく)"
+      },
+      {
+        "word": "heavily encumbered",
+        "translation": "重い負担が付された (おもいふたんがつけられた)"
+      },
+      {
+        "word": "real estate asset",
+        "translation": "不動産資産 (ふどうさんしさん)"
+      }
+    ]
   }
 ]

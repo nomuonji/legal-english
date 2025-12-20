@@ -4680,5 +4680,127 @@
         "translation": "組織再編手続 (そしきさいへんてつづき)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ex Officio Correction",
+    "definition": "A correction made unilaterally by the Registrar to rectify errors or omissions in a registration record, provided the error is minor and clearly apparent from the application documents.",
+    "japaneseDefinition": "登記官が、申請人の申請を待たずに、自己の職権に基づいて登記記録の軽微な誤りや遺漏を訂正すること。",
+    "japaneseWordTranslation": "職権による更正 (しょっけんによるこうせい)",
+    "legalContext": "Commercial Registration Act Article 132 (applied mutatis mutandis from the Real Property Registration Act, concerning correction of registration records).",
+    "japaneseLegalContext": "商業登記法 第132条（不動産登記法準用規定）",
+    "exampleSentence": "The Registrar performed an **ex officio correction** when a clearly erroneous date was found on the accompanying minutes submitted with the company's officer appointment application.",
+    "exampleTranslation": "登記官は、会社の役員選任申請と共に提出された議事録に明白な誤った日付が見つかったため、職権による更正を行った。",
+    "vocabularyList": [
+      {
+        "word": "Registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "unilaterally",
+        "translation": "一方的に/職権で"
+      },
+      {
+        "word": "rectify",
+        "translation": "訂正する"
+      },
+      {
+        "word": "omissions",
+        "translation": "遺漏（いろう）"
+      },
+      {
+        "word": "apparent",
+        "translation": "明白な"
+      },
+      {
+        "word": "minutes",
+        "translation": "議事録"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registered Office Jurisdiction",
+    "definition": "The principle that dictates that commercial registration procedures for a company must be handled exclusively by the registry office governing the district where the company's principal place of business (head office) is legally located.",
+    "japaneseDefinition": "会社の商業登記手続は、その本店の所在地を管轄する登記所でのみ行うべきであるという原則。",
+    "japaneseWordTranslation": "本店所在地管轄 (ほんてんしょざいちかんかつ)",
+    "legalContext": "Commercial Registration Act Article 4: 'Commercial registration shall be processed by the registry office having jurisdiction over the location of the trade office or principal place of business.'",
+    "japaneseLegalContext": "商業登記法 第4条: 商業登記は、商人の営業所又は会社の本店の所在地を管轄する登記所において行う。",
+    "exampleSentence": "An application filed at the incorrect registry office will be rejected immediately by the Registrar due to lack of **Registered Office Jurisdiction**.",
+    "exampleTranslation": "誤った登記所に提出された申請は、本店所在地管轄の欠如を理由に登記官によって直ちに却下される。",
+    "vocabularyList": [
+      {
+        "word": "registry office",
+        "translation": "登記所"
+      },
+      {
+        "word": "principal place of business",
+        "translation": "本店（主たる事務所）"
+      },
+      {
+        "word": "procedures",
+        "translation": "手続"
+      },
+      {
+        "word": "dictates",
+        "translation": "規定する"
+      },
+      {
+        "word": "district",
+        "translation": "管轄区域"
+      },
+      {
+        "word": "rejected",
+        "translation": "却下された"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Assertion Bar Against Fictitious Registration",
+    "definition": "A restriction preventing a company from asserting the falsity of a registered matter against a third party who dealt with the company in good faith, relying on the accuracy of the commercial register entry.",
+    "japaneseDefinition": "商業登記簿に虚偽の事項が記載されている場合、会社が善意で登記を信頼した第三者に対し、その登記が虚偽であることを主張することを禁止する原則。",
+    "japaneseWordTranslation": "虚偽登記の第三者対抗制限 (きょぎとうきのだいさんしゃたいこうせいげん)",
+    "legalContext": "Commercial Registration Act Article 12 (Application of Commercial Code Article 9, regarding reliance on registered matters).",
+    "japaneseLegalContext": "商業登記法 第12条（商法第9条の適用）",
+    "exampleSentence": "The company was barred from denying the validity of the contract, relying on the **assertion bar against fictitious registration** rule, as the counterparty was a good faith third party.",
+    "exampleTranslation": "相手方が善意の第三者であったため、会社は虚偽登記の第三者対抗制限の原則に基づき、契約の有効性を否定することを禁じられた。",
+    "vocabularyList": [
+      {
+        "word": "assertion",
+        "translation": "主張"
+      },
+      {
+        "word": "falsity",
+        "translation": "虚偽"
+      },
+      {
+        "word": "restriction",
+        "translation": "制限"
+      },
+      {
+        "word": "dealt with",
+        "translation": "取引した"
+      },
+      {
+        "word": "reliance",
+        "translation": "信頼（依拠）"
+      },
+      {
+        "word": "validity",
+        "translation": "有効性"
+      },
+      {
+        "word": "counterparty",
+        "translation": "相手方"
+      }
+    ]
   }
 ]

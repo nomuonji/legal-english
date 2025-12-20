@@ -1,38 +1,42 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Obstruction of Execution of Duties",
-  "definition": "The crime committed by using violence or threat against a public official who is engaged in the execution of their official duties, thereby obstructing the performance of those duties.",
-  "japaneseDefinition": "公務員が職務を執行するにあたり、暴行または脅迫を加えることで、その職務の遂行を妨害する行為。公共の信頼保護を目的とする。",
-  "japaneseWordTranslation": "公務執行妨害 (こうむしっこうぼうがい)",
-  "legalContext": "Penal Code, Art. 95 (Crimes of Obstructing the Execution of Official Duties): A person who uses violence or threats against a public official engaged in the execution of their duties shall be punished.",
-  "japaneseLegalContext": "刑法第95条（公務執行妨害及び職務強要）：公務員が職務を執行するに当たり、これに対して暴行又は脅迫を加えた者は、罰せられる。",
-  "exampleSentence": "The defendant was arrested and charged with obstruction of execution of duties after physically resisting officers during a regulatory inspection.",
-  "exampleTranslation": "被告人は、立入検査中に警察官に物理的に抵抗したため、公務執行妨害の容疑で逮捕・起訴された。",
+  "word": "Intervention",
+  "definition": "The formal act by which a third party joins an ongoing lawsuit between others, either to assist one of the existing parties (participatory intervention) or to assert an independent claim related to the subject matter (interpleader intervention).",
+  "japaneseDefinition": "訴訟係属中の他人の訴訟に、第三者が当事者として、または当事者の一方を補助する目的で加わること。大きく分けて参加的訴訟参加と独立当事者参加がある。",
+  "japaneseWordTranslation": "訴訟参加 (そしょうさんか)",
+  "legalContext": "Code of Civil Procedure Art. 42 (A person who has a legal interest in the result of a suit may, in order to assist one of the parties, intervene in the suit.)",
+  "japaneseLegalContext": "民事訴訟法第42条 (訴訟の結果について利害関係を有する第三者は、当事者の一方を補助するため、その訴訟に参加することができる。)",
+  "exampleSentence": "The guarantor filed a petition for participatory intervention in the principal debtor’s lawsuit, fearing that an adverse judgment would detrimentally affect his own liability.",
+  "exampleTranslation": "保証人は、不利な判決が自己の責任に不利益な影響を及ぼすことを恐れ、主債務者の訴訟への参加的訴訟参加の申立てを行った。",
   "vocabularyList": [
     {
-      "word": "public official",
-      "translation": "公務員"
+      "word": "third party",
+      "translation": "第三者"
     },
     {
-      "word": "violence",
-      "translation": "暴行"
+      "word": "participatory intervention",
+      "translation": "参加的訴訟参加"
     },
     {
-      "word": "threat",
-      "translation": "脅迫"
+      "word": "principal debtor",
+      "translation": "主債務者"
     },
     {
-      "word": "execution of duties",
-      "translation": "職務の執行"
+      "word": "guarantor",
+      "translation": "保証人"
     },
     {
-      "word": "regulatory inspection",
-      "translation": "立入検査"
+      "word": "adverse judgment",
+      "translation": "不利な判決"
     },
     {
-      "word": "resisting officers",
-      "translation": "警察官に抵抗する"
+      "word": "liability",
+      "translation": "責任"
+    },
+    {
+      "word": "legal interest",
+      "translation": "利害関係"
     }
   ]
 }

@@ -2,48 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Intervention",
-    "definition": "The formal act by which a third party joins an ongoing lawsuit between others, either to assist one of the existing parties (participatory intervention) or to assert an independent claim related to the subject matter (interpleader intervention).",
-    "japaneseDefinition": "訴訟係属中の他人の訴訟に、第三者が当事者として、または当事者の一方を補助する目的で加わること。大きく分けて参加的訴訟参加と独立当事者参加がある。",
-    "japaneseWordTranslation": "訴訟参加 (そしょうさんか)",
-    "legalContext": "Code of Civil Procedure Art. 42 (A person who has a legal interest in the result of a suit may, in order to assist one of the parties, intervene in the suit.)",
-    "japaneseLegalContext": "民事訴訟法第42条 (訴訟の結果について利害関係を有する第三者は、当事者の一方を補助するため、その訴訟に参加することができる。)",
-    "exampleSentence": "The guarantor filed a petition for participatory intervention in the principal debtor’s lawsuit, fearing that an adverse judgment would detrimentally affect his own liability.",
-    "exampleTranslation": "保証人は、不利な判決が自己の責任に不利益な影響を及ぼすことを恐れ、主債務者の訴訟への参加的訴訟参加の申立てを行った。",
-    "vocabularyList": [
-      {
-        "word": "third party",
-        "translation": "第三者"
-      },
-      {
-        "word": "participatory intervention",
-        "translation": "参加的訴訟参加"
-      },
-      {
-        "word": "principal debtor",
-        "translation": "主債務者"
-      },
-      {
-        "word": "guarantor",
-        "translation": "保証人"
-      },
-      {
-        "word": "adverse judgment",
-        "translation": "不利な判決"
-      },
-      {
-        "word": "liability",
-        "translation": "責任"
-      },
-      {
-        "word": "legal interest",
-        "translation": "利害関係"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Default Judgment",
     "definition": "A binding judgment entered by the court in favor of the plaintiff when the defendant fails to appear in court or fails to submit a defense (answer or preparatory document) within the prescribed time limit.",
     "japaneseDefinition": "被告が裁判所に出頭しなかったり、定められた期間内に答弁書や準備書面を提出しなかったりした場合に、原告の主張に基づいて下される拘束力のある判決。",
@@ -5136,6 +5094,124 @@
       {
         "word": "settlement conference",
         "translation": "和解協議 (わかいきょうぎ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Litigant",
+    "definition": "A person or entity who is a party to a lawsuit, either as the one initiating the action (plaintiff/claimant) or the one defending against it (defendant/respondent). In Japanese civil procedure, the general principle of party equality is fundamental.",
+    "japaneseDefinition": "訴訟において、訴えを提起した者（原告）または訴えを提起された者（被告）としての地位を有する個人または法人。日本の民事訴訟法では、当事者対等原則が基本となる。",
+    "japaneseWordTranslation": "当事者 (Tōjisha)",
+    "legalContext": "Code of Civil Procedure (Minji Soshōhō), General Principle of Party Equality (当事者対等原則).",
+    "japaneseLegalContext": "民事訴訟法における当事者対等原則。",
+    "exampleSentence": "The court strictly applies the principle of party equality to ensure that both litigants have a fair opportunity to present their evidence and arguments.",
+    "exampleTranslation": "裁判所は、両当事者が証拠と主張を提出する公正な機会を持つことを確実にするため、当事者対等原則を厳格に適用する。",
+    "vocabularyList": [
+      {
+        "word": "principle of party equality",
+        "translation": "当事者対等原則"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告"
+      },
+      {
+        "word": "present evidence",
+        "translation": "証拠を提出する"
+      },
+      {
+        "word": "fair opportunity",
+        "translation": "公正な機会"
+      },
+      {
+        "word": "strictly applies",
+        "translation": "厳格に適用する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Trial Hearing Date",
+    "definition": "A specific date and time designated by the court for carrying out a procedural act in court, such as receiving statements, examining parties or witnesses, or conducting preparatory procedures.",
+    "japaneseDefinition": "裁判所が、当事者の陳述の聴取、当事者や証人の尋問、または準備手続の実施など、特定の訴訟行為を行うために指定した日時。",
+    "japaneseWordTranslation": "期日 (Kijitsu)",
+    "legalContext": "Code of Civil Procedure Art. 93 (Designation of Dates and Places): The court designates the date and place of the hearing.",
+    "japaneseLegalContext": "民事訴訟法第93条（期日及び場所の指定）：期日及び場所は、裁判長が指定する。",
+    "exampleSentence": "The defense counsel requested a change to the trial hearing date due to a scheduling conflict with another court appearance.",
+    "exampleTranslation": "被告側弁護士は、別の出廷予定との日程上の衝突を理由に、期日の変更を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "designate",
+        "translation": "指定する"
+      },
+      {
+        "word": "defense counsel",
+        "translation": "被告側弁護士"
+      },
+      {
+        "word": "scheduling conflict",
+        "translation": "日程上の衝突"
+      },
+      {
+        "word": "court appearance",
+        "translation": "出廷"
+      },
+      {
+        "word": "procedural act",
+        "translation": "訴訟行為"
+      },
+      {
+        "word": "request a change",
+        "translation": "変更を申し立てる"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Settlement",
+    "definition": "A compromise agreement reached between the parties during litigation proceedings and recorded in the court minutes. This settlement document possesses the same legal effect and executory power as a final judgment.",
+    "japaneseDefinition": "訴訟手続の係属中、当事者間で成立し、裁判所の調書に記載された和解合意。この和解調書は確定判決と同一の効力及び執行力を持つ。",
+    "japaneseWordTranslation": "訴訟上の和解 (Soshō-jō no wakai)",
+    "legalContext": "Code of Civil Procedure Art. 267 (Effect of Settlement): A settlement entered into before the court shall have the same effect as a final judgment.",
+    "japaneseLegalContext": "民事訴訟法第267条（和解調書の効力）：裁判所における和解は、確定判決と同一の効力を有する。",
+    "exampleSentence": "Upon achieving judicial settlement regarding the disputed amount, the litigants agreed to dismiss all remaining claims, and the compromise was granted the power of execution.",
+    "exampleTranslation": "係争額に関して訴訟上の和解が成立した後、当事者は残りの請求を全て却下することに合意し、その和解には執行力が付与された。",
+    "vocabularyList": [
+      {
+        "word": "compromise agreement",
+        "translation": "和解合意"
+      },
+      {
+        "word": "litigation proceedings",
+        "translation": "訴訟手続"
+      },
+      {
+        "word": "court minutes",
+        "translation": "裁判所の調書"
+      },
+      {
+        "word": "disputed amount",
+        "translation": "係争額"
+      },
+      {
+        "word": "power of execution",
+        "translation": "執行力"
+      },
+      {
+        "word": "remaining claims",
+        "translation": "残りの請求"
+      },
+      {
+        "word": "dismiss",
+        "translation": "却下する"
       }
     ]
   }

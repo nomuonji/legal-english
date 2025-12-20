@@ -4488,5 +4488,119 @@
         "translation": "オンライン検索 (onrain kensaku)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Indication Record",
+    "definition": "The descriptive section of the real property register that records physical information about the land or building, such as location, area, structure, and type.",
+    "japaneseDefinition": "不動産の物理的な現況（所在、地番、地目、地積など）を記録する登記記録の一部。権利部と対になる。",
+    "japaneseWordTranslation": "表題部 (ひょうだいぶ)",
+    "legalContext": "Real Property Registration Act, Art. 13 (Contents of the Register)",
+    "japaneseLegalContext": "不動産登記法 第13条（登記記録）",
+    "exampleSentence": "The application for the Property Indication Record must be filed by the title holder within one month of the factual change.",
+    "exampleTranslation": "表題部の登記の申請は、不動産の表示に変更があった日から一月以内に、名義人によって行われなければならない。",
+    "vocabularyList": [
+      {
+        "word": "factual change",
+        "translation": "表示の変更"
+      },
+      {
+        "word": "title holder",
+        "translation": "名義人 (めいぎにん)"
+      },
+      {
+        "word": "location",
+        "translation": "所在 (しょざい)"
+      },
+      {
+        "word": "structure",
+        "translation": "構造 (こうぞう)"
+      },
+      {
+        "word": "area",
+        "translation": "面積 (めんせき)"
+      },
+      {
+        "word": "land register",
+        "translation": "地籍簿 (ちせきぼ)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Amendment Registration",
+    "definition": "A type of registration application used to correct an inaccuracy (error or omission) in the register that existed from the moment the original registration was made.",
+    "japaneseDefinition": "既にされた登記に、錯誤又は遺漏があった場合に、これを是正するために行う登記。",
+    "japaneseWordTranslation": "更正登記 (こうせいとうき)",
+    "legalContext": "Real Property Registration Act, Art. 66 (Registration of Amendment or Correction)",
+    "japaneseLegalContext": "不動産登記法 第66条（更正の登記）",
+    "exampleSentence": "If the registered area was mistakenly recorded in the initial process, an Amendment Registration is required to reflect the true area.",
+    "exampleTranslation": "当初の手続きで登記上の面積が誤って記録されていた場合、真実の面積を反映するために更正登記が必要である。",
+    "vocabularyList": [
+      {
+        "word": "inaccuracy",
+        "translation": "錯誤 (さくご)"
+      },
+      {
+        "word": "omission",
+        "translation": "遺漏 (いろう)"
+      },
+      {
+        "word": "true area",
+        "translation": "真実の面積 (しんじつのめんせき)"
+      },
+      {
+        "word": "reflect",
+        "translation": "反映する (はんえいする)"
+      },
+      {
+        "word": "initial process",
+        "translation": "当初の手続き (とうしょのてつづき)"
+      },
+      {
+        "word": "required",
+        "translation": "必要である (ひつようである)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registrar's Authority of Formal Examination",
+    "definition": "The power granted to the registrar to review a registration application only on the basis of the submitted documents and without investigating the substantive truth of the underlying rights relationship.",
+    "japaneseDefinition": "登記官が登記申請に対し、添付された書面のみに基づいて審査する権限。実質的な権利関係の真否は審査しない。",
+    "japaneseWordTranslation": "形式的審査権 (けいしきてきしんさけん)",
+    "legalContext": "Real Property Registration Act, Art. 25 (Grounds for Rejection)",
+    "japaneseLegalContext": "不動産登記法 第25条（却下の事由）",
+    "exampleSentence": "Due to the Registrar’s Authority of Formal Examination, a registrar cannot reject an application simply because the underlying sales contract might be voidable.",
+    "exampleTranslation": "登記官の形式的審査権のため、登記官は、基礎となる売買契約が取消し可能であるという理由だけで申請を却下することはできない。",
+    "vocabularyList": [
+      {
+        "word": "reject an application",
+        "translation": "申請を却下する (しんせいをきゃっかする)"
+      },
+      {
+        "word": "submitted documents",
+        "translation": "添付された書面 (てんぷされたしょめん)"
+      },
+      {
+        "word": "substantive truth",
+        "translation": "実質的な真否 (じっしつてきなしんぴ)"
+      },
+      {
+        "word": "underlying contract",
+        "translation": "基礎となる契約 (きそとなるけいやく)"
+      },
+      {
+        "word": "review",
+        "translation": "審査する (しんさする)"
+      },
+      {
+        "word": "voidable",
+        "translation": "取消し可能 (とりけし かのう)"
+      }
+    ]
   }
 ]

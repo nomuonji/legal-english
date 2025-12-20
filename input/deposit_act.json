@@ -4306,5 +4306,119 @@
         "translation": "帰属する"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Money and Securities Deposit",
+    "definition": "The legal deposit of either currency (money) or valuable securities (such as bonds or negotiable instruments) with a designated repository, typically required to effect the extinguishment of an obligation or to serve as security.",
+    "japaneseDefinition": "法令に基づき、債務の弁済や担保の提供を目的として、金銭または有価証券を供託所に預け入れること。",
+    "japaneseWordTranslation": "金銭有価証券供託 (Kinsen Yūka Shōken Kyōtaku)",
+    "legalContext": "Deposit Act Art. 1: A deposit may be made with money or securities, except as otherwise provided by law.",
+    "japaneseLegalContext": "供託法第1条: 供託は、法令に別段の定めがある場合を除くほか、金銭又は有価証券をもってすることができる。",
+    "exampleSentence": "In standard contract dispute cases, a Money and Securities Deposit is utilized by the debtor to achieve performance when the creditor refuses acceptance.",
+    "exampleTranslation": "一般的な契約紛争において、債権者が受領を拒否した場合、債務者は弁済を完了させるために金銭有価証券供託を利用する。",
+    "vocabularyList": [
+      {
+        "word": "currency",
+        "translation": "通貨 (tsūka)"
+      },
+      {
+        "word": "valuable securities",
+        "translation": "有価証券 (yūka shōken)"
+      },
+      {
+        "word": "effect the extinguishment",
+        "translation": "消滅させる (shōmetsu saseru)"
+      },
+      {
+        "word": "serve as security",
+        "translation": "担保として機能する (tanpo to shite kinō suru)"
+      },
+      {
+        "word": "contract dispute",
+        "translation": "契約紛争 (keiyaku funsō)"
+      },
+      {
+        "word": "utilized by the debtor",
+        "translation": "債務者により使用される (saibusha ni yori shiyō sareru)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designated Deposit Repository",
+    "definition": "The specific location (usually the Legal Affairs Bureau associated with the District Court) officially designated by the Deposit Act or specific regulations where the act of filing the deposit must take place.",
+    "japaneseDefinition": "供託法や関係法令により指定された、供託申請を受け付ける特定の場所（通常は地方裁判所に対応する法務局または地方法務局）。",
+    "japaneseWordTranslation": "指定供託所 (Shitei Kyōtaku-sho)",
+    "legalContext": "Deposit Act Art. 2: A deposit shall be made with the Legal Affairs Bureau or District Legal Affairs Bureau corresponding to the District Court which has jurisdiction over the place where the deposit is to be made.",
+    "japaneseLegalContext": "供託法第2条: 供託は、供託をすべき地を管轄する地方裁判所に対応する法務局又は地方法務局にしなければならない。",
+    "exampleSentence": "The Designation of the Deposit Repository is determined by the obligor's location or the place of performance stipulated in the original contract.",
+    "exampleTranslation": "指定供託所の選定は、債務者の所在地、または原契約で規定された履行地によって決定される。",
+    "vocabularyList": [
+      {
+        "word": "Legal Affairs Bureau",
+        "translation": "法務局 (Hōmu-kyoku)"
+      },
+      {
+        "word": "District Court",
+        "translation": "地方裁判所 (Chihō Saibansho)"
+      },
+      {
+        "word": "specific regulations",
+        "translation": "特定の規定 (tokutei no kitei)"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄 (kankatsu)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者 (saibusha)"
+      },
+      {
+        "word": "stipulated",
+        "translation": "規定された (kitei sareta)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-Acceptance Decision (of Deposit Filing)",
+    "definition": "The formal ruling by a deposit official rejecting a deposit application because the necessary documentation, identity verification, or substantive legal cause for the deposit is found to be deficient or improper.",
+    "japaneseDefinition": "供託官が、提出された供託申請について、必要な書類、本人確認、または供託の法的原因が不足または不適当であると判断し、申請の受理を拒否する正式な決定。",
+    "japaneseWordTranslation": "供託不受理決定 (Kyōtaku Fujuri Kettei)",
+    "legalContext": "Deposit Act Art. 34, Para. 2: A person dissatisfied with a disposition made by a deposit official may file an objection with the District Court which has jurisdiction over the deposit repository where the disposition was made.",
+    "japaneseLegalContext": "供託法第34条第2項: 供託官の処分に不服がある者は、その処分をすべき供託所を管轄する地方裁判所に異議の申立てをすることができる。",
+    "exampleSentence": "Following a Non-Acceptance Decision, the applicant has recourse to the courts by filing an immediate objection to the ruling.",
+    "exampleTranslation": "供託不受理決定が出された後、申請者は、その決定に対して直ちに異議を申し立てることにより、裁判所に不服を申し立てる手段を有する。",
+    "vocabularyList": [
+      {
+        "word": "formal ruling",
+        "translation": "正式な裁定 (seishiki na saitei)"
+      },
+      {
+        "word": "deposit official",
+        "translation": "供託官 (kyōtaku-kan)"
+      },
+      {
+        "word": "documentation",
+        "translation": "書類 (shorui)"
+      },
+      {
+        "word": "substantive legal cause",
+        "translation": "実体的な法的原因 (jittaiteki na hōteki gen'in)"
+      },
+      {
+        "word": "deficient or improper",
+        "translation": "不足または不適当 (fusoku mata wa futekitō)"
+      },
+      {
+        "word": "has recourse to",
+        "translation": "に訴える手段を有する (ni uttaeru shudan o yūsuru)"
+      }
+    ]
   }
 ]

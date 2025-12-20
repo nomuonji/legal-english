@@ -5326,5 +5326,119 @@
         "translation": "委任する (inin suru)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Debtor's Objection",
+    "definition": "A lawsuit filed by the party against whom execution is directed (the judgment debtor) challenging the substantive validity or existence of the underlying monetary obligation established by the execution title (e.g., asserting prior payment or discharge).",
+    "japaneseDefinition": "債務者が執行権原によって示されている実体上の請求権の存在（例えば、既に弁済されたことや時効で消滅したこと）に異議を述べるために提起する訴訟。",
+    "japaneseWordTranslation": "債務者異議の訴え (さいむしゃいぎのうったえ)",
+    "legalContext": "Code of Civil Execution (Minji Shikkōhō) Article 35: Action for Debtor's Objection",
+    "japaneseLegalContext": "民事執行法第35条：債務者異議の訴え",
+    "exampleSentence": "The execution debtor filed an **Action for Debtor's Objection**, claiming the entire debt evidenced by the judgment had been extinguished through set-off prior to the execution commencement.",
+    "exampleTranslation": "執行債務者は、判決によって証明された債務全体が執行開始前に相殺によって消滅していたとして、債務者異議の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "judgment debtor",
+        "translation": "執行債務者"
+      },
+      {
+        "word": "execution title",
+        "translation": "執行権原"
+      },
+      {
+        "word": "monetary obligation",
+        "translation": "金銭債務"
+      },
+      {
+        "word": "extinguished",
+        "translation": "消滅した"
+      },
+      {
+        "word": "set-off",
+        "translation": "相殺"
+      },
+      {
+        "word": "commencement of execution",
+        "translation": "執行の開始"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Conversion Procedure",
+    "definition": "The procedural steps executed by the enforcement authority (court or execution officer) aimed at converting seized assets, particularly immovable property or vessels, into liquid funds (cash) for subsequent payment to creditors.",
+    "japaneseDefinition": "差し押さえた財産（特に不動産や船舶）を、債権者への配当のために現金化することを目的として、執行機関が進める一連の手続き。",
+    "japaneseWordTranslation": "換価手続 (かんかてつづき)",
+    "legalContext": "Code of Civil Execution Part II, Chapter I, Section 3: Procedures for Converting Seized Assets",
+    "japaneseLegalContext": "民事執行法第2編第1章第3節：差押物の換価手続",
+    "exampleSentence": "Upon completing the public notice regarding the property's condition, the court moved to the final stage of the **Execution Conversion Procedure** by designating the sale date.",
+    "exampleTranslation": "裁判所は、物件の現況に関する公示を完了した後、売却期日を指定することにより換価手続の最終段階に移行した。",
+    "vocabularyList": [
+      {
+        "word": "enforcement authority",
+        "translation": "執行機関"
+      },
+      {
+        "word": "liquid funds",
+        "translation": "現金化"
+      },
+      {
+        "word": "seized assets",
+        "translation": "差し押さえた財産"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "public notice",
+        "translation": "公示"
+      },
+      {
+        "word": "sale date",
+        "translation": "売却期日"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Levy",
+    "definition": "The formal act by a court or execution officer that initiates compulsory execution by placing specific property under judicial restraint, thereby prohibiting the debtor from disposing of or altering the asset.",
+    "japaneseDefinition": "裁判所または執行官が強制執行を開始する行為として、特定の財産に対し、債務者による処分や現状変更を禁止する法的制限を課すこと。",
+    "japaneseWordTranslation": "執行差押え (しっこうさしおさえ)",
+    "legalContext": "Code of Civil Execution Article 43: General Principles of Levy",
+    "japaneseLegalContext": "民事執行法第43条：差押えの一般原則",
+    "exampleSentence": "If the assets are sufficient to cover the debt, the execution court must limit the scope of the **Execution Levy** to prevent unnecessary restriction on the debtor's business operations.",
+    "exampleTranslation": "その資産が債務を賄うに足る場合、執行裁判所は債務者の事業活動に対する不必要な制限を避けるため、執行差押えの範囲を限定しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "judicial restraint",
+        "translation": "裁判上の制限"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "disposing of",
+        "translation": "処分すること"
+      },
+      {
+        "word": "sufficient to cover the debt",
+        "translation": "債務を賄うに足る"
+      },
+      {
+        "word": "scope",
+        "translation": "範囲"
+      },
+      {
+        "word": "business operations",
+        "translation": "事業活動"
+      }
+    ]
   }
 ]

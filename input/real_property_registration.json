@@ -4864,5 +4864,123 @@
         "translation": "権利部甲区"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Cause Certificate",
+    "definition": "Documentary or electronic information submitted with a registration application that legally proves the event (such as a sale or gift) giving rise to the need for the change in property rights.",
+    "japaneseDefinition": "不動産に関する権利の変動をもたらす法律行為その他の事実が発生したことを証明するために、登記の申請時に提出が義務付けられている書類または電磁的記録。",
+    "japaneseWordTranslation": "登記原因証明情報 (とうきげんいんしょうめいじょうほう)",
+    "legalContext": "Real Property Registration Act (Fudōsan Tōkihō) Art. 61: The application for registration of rights must be accompanied by information certifying the cause of registration.",
+    "japaneseLegalContext": "不動産登記法第61条: 権利に関する登記の申請は、法令に別段の定めがある場合を除き、登記原因を証明する情報を提供しなければならない。",
+    "exampleSentence": "The applicant must attach the executed purchase and sale agreement as the **Registration Cause Certificate** when filing the transfer of property rights.",
+    "exampleTranslation": "申請者は、権利の移転の提出時に、作成された売買契約書を登記原因証明情報として添付しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Application",
+        "translation": "申請 (shinsei)"
+      },
+      {
+        "word": "Transfer",
+        "translation": "移転 (iten)"
+      },
+      {
+        "word": "Property Rights",
+        "translation": "財産権 (zaisan ken)"
+      },
+      {
+        "word": "Purchase and Sale Agreement",
+        "translation": "売買契約書 (baibai keiyakusho)"
+      },
+      {
+        "word": "Filing",
+        "translation": "提出 (teishutsu)"
+      },
+      {
+        "word": "Documentary",
+        "translation": "書類による (shorui ni yoru)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cadastral Map",
+    "definition": "A map kept at the Registry Office that shows the location, shape, and neighboring boundaries of individual parcels of land, essential for identifying the property subject to registration.",
+    "japaneseDefinition": "登記所において備え付けられている、土地の区画、形状、隣接関係を示す図面であり、不動産の特定および表示の登記に用いられる。",
+    "japaneseWordTranslation": "公図 (こうず)",
+    "legalContext": "Real Property Registration Act (Fudōsan Tōkihō) Art. 14 (1): The registrar shall keep maps (known as 'Cadastral Maps' and 'Sectional Ownership Building Plans') pursuant to Ministry of Justice Ordinance.",
+    "japaneseLegalContext": "不動産登記法第14条第1項: 登記官は、法務省令で定めるところにより、地図及び建物所在図を備え付けるものとする。",
+    "exampleSentence": "Before conducting the boundary confirmation, the Land and House Investigator first requested the relevant **Cadastral Map** from the jurisdictional Registry Office.",
+    "exampleTranslation": "境界確認を行う前に、土地家屋調査士はまず、管轄登記所に関連する公図を請求した。",
+    "vocabularyList": [
+      {
+        "word": "Registry Office",
+        "translation": "登記所 (tōkijo)"
+      },
+      {
+        "word": "Parcel",
+        "translation": "筆 (hitsu)"
+      },
+      {
+        "word": "Shape",
+        "translation": "形状 (keijō)"
+      },
+      {
+        "word": "Neighboring Boundaries",
+        "translation": "隣接界 (rinsetsu kai)"
+      },
+      {
+        "word": "Land and House Investigator",
+        "translation": "土地家屋調査士 (tochi kaoku chōsashi)"
+      },
+      {
+        "word": "Jurisdictional",
+        "translation": "管轄の (kankatsu no)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order Compelling Registration",
+    "definition": "A judicial directive issued by a court compelling the cooperation of the opposing party in submitting a joint registration application when that party refuses to comply voluntarily.",
+    "japaneseDefinition": "登記の共同申請義務を負う者が協力しない場合に、裁判所がその者に対して登記申請への協力を強制するために発する司法的な命令。",
+    "japaneseWordTranslation": "登記申請命令 (とうきしんせいめいれい)",
+    "legalContext": "Real Property Registration Act (Fudōsan Tōkihō) Art. 27: A person having the right to demand registration may apply to the court for an **Order Compelling Registration** when the counterparty refuses the required cooperation.",
+    "japaneseLegalContext": "不動産登記法第27条: 権利に関する登記を申請する権利を有する者は、登記義務者が登記手続に協力しないときは、登記申請命令を裁判所に申し立てることができる。",
+    "exampleSentence": "Because the defendant refused to execute the necessary documents for the sale, the plaintiff successfully obtained an **Order Compelling Registration** of the property title transfer.",
+    "exampleTranslation": "被告が売買に必要な書類の実行を拒否したため、原告は財産権移転の登記申請命令を無事に得た。",
+    "vocabularyList": [
+      {
+        "word": "Judicial Directive",
+        "translation": "司法命令 (shihō meirei)"
+      },
+      {
+        "word": "Opposing Party",
+        "translation": "相手方 (aitegata)"
+      },
+      {
+        "word": "Cooperation",
+        "translation": "協力 (kyōryoku)"
+      },
+      {
+        "word": "Defendant",
+        "translation": "被告 (hikoku)"
+      },
+      {
+        "word": "Plaintiff",
+        "translation": "原告 (genkoku)"
+      },
+      {
+        "word": "Execute (documents)",
+        "translation": "作成・実行する (sakusei/jikkō suru)"
+      },
+      {
+        "word": "Joint Application",
+        "translation": "共同申請 (kyōdō shinsei)"
+      }
+    ]
   }
 ]

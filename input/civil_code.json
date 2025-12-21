@@ -5770,5 +5770,119 @@
         "translation": "書面による合意 (しょめんによるごうい)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Divorce by Agreement",
+    "definition": "A form of divorce in Japanese family law that occurs through the mutual consent of the parties and official registration with the local government, without requiring judicial intervention or grounds for dissolution.",
+    "japaneseDefinition": "夫婦間の合意に基づき、戸籍役場に離婚届を提出することによって成立する、裁判によらない離婚。",
+    "japaneseWordTranslation": "協議離婚 (きょうぎりこん)",
+    "legalContext": "Civil Code Art. 763: 'A divorce shall take effect by registration thereof.' This article outlines the registration requirement for divorce by agreement.",
+    "japaneseLegalContext": "民法第763条：「離婚は、戸籍法の定めるところにより届け出ることによって、その効力を生ずる。」",
+    "exampleSentence": "In Japan, the vast majority of marital dissolutions proceed via divorce by agreement, provided all conditions, including arrangements for minor children, are met.",
+    "exampleTranslation": "日本では、未成年の子に関する取り決めを含むすべての条件が満たされていれば、婚姻解消の大部分は協議離婚によって進められる。",
+    "vocabularyList": [
+      {
+        "word": "marital dissolution",
+        "translation": "婚姻解消"
+      },
+      {
+        "word": "mutual consent",
+        "translation": "相互の合意"
+      },
+      {
+        "word": "registration",
+        "translation": "届出 / 登録"
+      },
+      {
+        "word": "judicial intervention",
+        "translation": "裁判上の介入"
+      },
+      {
+        "word": "minor children",
+        "translation": "未成年の子"
+      },
+      {
+        "word": "arrangements",
+        "translation": "取り決め"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Security Assignment",
+    "definition": "A non-statutory, case-law recognized security device (a type of security arrangement referred to in Japan as Joto Tanpo) where the obligor transfers the title of collateral assets to the obligee to secure the fulfillment of an underlying contractual duty.",
+    "japaneseDefinition": "債務者が担保のためにその目的物の名義を債権者に移転し、債務不履行の場合にその目的物から優先弁済を受けることを認める非典型的な担保方法。",
+    "japaneseWordTranslation": "譲渡担保 (じょうとたんぽ)",
+    "legalContext": "Case law principle (判例法理). While not expressly codified in the Civil Code, its recognition and operation are governed by general principles concerning security interests and contractual arrangements.",
+    "japaneseLegalContext": "判例法理。民法典に明文の規定はないものの、担保に関する一般原則及び契約の定めに従って、その効力と運用が認められている。",
+    "exampleSentence": "The borrower executed a security assignment over their inventory to the bank, ensuring that the title would revert upon repayment of the loan principal.",
+    "exampleTranslation": "借入人は在庫品に対し銀行へ譲渡担保を設定し、融資本金返済の際に名義が戻ることを保証した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "collateral assets",
+        "translation": "担保物"
+      },
+      {
+        "word": "fulfillment",
+        "translation": "履行"
+      },
+      {
+        "word": "repayment",
+        "translation": "返済"
+      },
+      {
+        "word": "inventory",
+        "translation": "在庫品"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Demand Removal",
+    "definition": "The ability of a landholder, often invoked in cases of unlawful use or trespass, to compel the unauthorized installer of structures, plantings, or other items on the premises to dismantle and clear those objects, restoring the land to its prior condition.",
+    "japaneseDefinition": "土地を不法に占有・利用している者に対し、その者が設置した建物、植栽その他の工作物を撤去し、土地を元の状態に戻すよう要求する権利。",
+    "japaneseWordTranslation": "収去請求権 (しゅうきょせいきゅうけん)",
+    "legalContext": "Generally derived from the remedies provided to protect dominium (Civil Code principles concerning the protection of domain rights and restitution).",
+    "japaneseLegalContext": "支配権の保護のために認められる救済手段から一般的に導かれる (支配権の保護及び原状回復に関する民法の諸原則)。",
+    "exampleSentence": "Following the court order establishing trespass, the plaintiff exercised the right to demand removal of the unauthorized garage built partially onto their lot.",
+    "exampleTranslation": "不法侵入を認める裁判所の命令に続き、原告は自らの区画の一部に不許可で建設された車庫の収去請求権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "landholder",
+        "translation": "土地所有者 (またはその権利者)"
+      },
+      {
+        "word": "trespass",
+        "translation": "不法侵入"
+      },
+      {
+        "word": "unauthorized installer",
+        "translation": "不許可の設置者"
+      },
+      {
+        "word": "dismantle",
+        "translation": "解体する"
+      },
+      {
+        "word": "restoring",
+        "translation": "原状回復"
+      },
+      {
+        "word": "premises",
+        "translation": "敷地"
+      }
+    ]
   }
 ]

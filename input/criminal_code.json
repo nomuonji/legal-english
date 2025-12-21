@@ -2,48 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Mistake of Fact",
-    "definition": "An error regarding the factual circumstances surrounding the commission of a crime, which can negate criminal intent (mens rea) or lead to the application of a less severe punishment, depending on whether the mistake was unavoidable.",
-    "japaneseDefinition": "犯罪の実行行為を取り巻く事実的状況についての錯誤。故意を阻却したり、錯誤が不可避的であったかどうかに応じて刑の減軽が適用されたりする。",
-    "japaneseWordTranslation": "事実の錯誤 (じじつのさくご)",
-    "legalContext": "Criminal Code, Art. 38 (1) (Principle of Intent): 'An act performed unintentionally is not punishable. The same shall apply to an act performed under a mistake of law that is not based on special provisions in laws and regulations.'",
-    "japaneseLegalContext": "刑法 第38条 第1項 (故意): 「罪を犯す意思がない行為は、罰しない。ただし、法律に特別の規定がある場合は、この限りでない。」",
-    "exampleSentence": "If the defendant operated under an unavoidable **mistake of fact** regarding the nature of the property, the criminal intent required for larceny may be deemed lacking.",
-    "exampleTranslation": "被告人が当該財産の性質に関する不可避の**事実の錯誤**のもとで行為した場合、窃盗に必要な故意は欠如していると見なされ得る。",
-    "vocabularyList": [
-      {
-        "word": "defendant",
-        "translation": "被告人"
-      },
-      {
-        "word": "unavoidable",
-        "translation": "不可避の"
-      },
-      {
-        "word": "nature of the property",
-        "translation": "財産の性質"
-      },
-      {
-        "word": "larceny",
-        "translation": "窃盗罪"
-      },
-      {
-        "word": "criminal intent",
-        "translation": "故意 (犯罪意思)"
-      },
-      {
-        "word": "lacking",
-        "translation": "欠如している"
-      },
-      {
-        "word": "mens rea",
-        "translation": "犯罪意思"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Necessity",
     "definition": "An act conducted to avert an imminent peril threatening the life, body, liberty, or property of oneself or another, where the harm caused by the act is judged not to be disproportionate to the harm sought to be averted (Justification Ground).",
     "japaneseDefinition": "自己または他人の生命、身体、自由、または財産に対する現在の危難を避けるために行われた行為であって、それによって生じた害が避けようとした害に対して釣り合いを失わない場合、違法性が阻却される根拠。",
@@ -5394,6 +5352,124 @@
       {
         "word": "volunteer probation officer",
         "translation": "保護司"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Professional Negligence Causing Death or Injury",
+    "definition": "The offense committed by a person engaged in a profession who, due to negligence inherent in that professional duty, causes death or injury to another.",
+    "japaneseDefinition": "業務に従事する者が、その業務上の注意を怠り、人を死傷させる罪。",
+    "japaneseWordTranslation": "業務上過失致死傷 (ぎょうむじょうかしつちししょう)",
+    "legalContext": "Japanese Criminal Code Art. 211 (Negligence Causing Death or Injury in the Course of Business, etc.)",
+    "japaneseLegalContext": "刑法第211条（業務上過失致死傷等）",
+    "exampleSentence": "The surgeon was charged with Professional Negligence Causing Death or Injury after failing to perform a critical preoperative check.",
+    "exampleTranslation": "その外科医は、重要な術前検査を怠ったため、業務上過失致死傷で起訴された。",
+    "vocabularyList": [
+      {
+        "word": "surgeon",
+        "translation": "外科医 (げかい)"
+      },
+      {
+        "word": "charged with",
+        "translation": "～で起訴される (～できそされる)"
+      },
+      {
+        "word": "preoperative check",
+        "translation": "術前検査 (じゅつぜんけんさ)"
+      },
+      {
+        "word": "professional duty",
+        "translation": "業務上の注意義務 (ぎょうむじょうのちゅういぎむ)"
+      },
+      {
+        "word": "failing to perform",
+        "translation": "怠る (おこたる)"
+      },
+      {
+        "word": "critical",
+        "translation": "重要な (じゅうような)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Larceny",
+    "definition": "The unlawful taking of the movable property of another with the intent to permanently deprive the owner thereof.",
+    "japaneseDefinition": "他人の財物を、不法に、自己の占有下に移す行為。財物奪取の罪の一つ。",
+    "japaneseWordTranslation": "窃盗 (せっとう)",
+    "legalContext": "Japanese Criminal Code Art. 235: A person who steals the property of another shall be punished by imprisonment with labor for not more than ten years or a fine of not more than 500,000 yen.",
+    "japaneseLegalContext": "刑法第235条：他人の財物を窃取した者は、十年以下の懲役又は五十万円以下の罰金に処する。",
+    "exampleSentence": "The defendant argued that the act did not constitute Larceny because there was no intention to permanently deprive the victim of the goods.",
+    "exampleTranslation": "被告人は、被害者からその財物を永久に奪う意図がなかったため、その行為は窃盗を構成しないと主張した。",
+    "vocabularyList": [
+      {
+        "word": "unlawful taking",
+        "translation": "不法に奪い取る行為 (ふほうにうばいとるこうい)"
+      },
+      {
+        "word": "movable property",
+        "translation": "財物 (ざいぶつ)"
+      },
+      {
+        "word": "permanently deprive",
+        "translation": "永久に奪う (えいきゅうにうばう)"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告人 (ひこくにん)"
+      },
+      {
+        "word": "constitute",
+        "translation": "構成する (こうせいする)"
+      },
+      {
+        "word": "intention",
+        "translation": "意図 (いと)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interference with Compulsory Execution",
+    "definition": "The offense committed by a debtor or related party who conceals, damages, or disposes of property subject to compulsory execution, thereby impairing the enforceability of a claim.",
+    "japaneseDefinition": "強制執行の対象となる財産を隠匿、損壊、または処分するなどして、債権者の権利行使を妨害する罪。",
+    "japaneseWordTranslation": "強制執行妨害 (きょうせいしっこうぼうがい)",
+    "legalContext": "Japanese Criminal Code Art. 96: A person who conceals, damages, or disposes of property subject to compulsory execution... shall be punished.",
+    "japaneseLegalContext": "刑法第96条：強制執行の対象となる財産を隠匿、損壊し、又は処分した者は、罰せられる。",
+    "exampleSentence": "The obligor committed Interference with Compulsory Execution when he quickly transferred his real estate holdings to a relative after receiving a judgment order.",
+    "exampleTranslation": "債務者は、判決命令を受けた後、不動産所有権を迅速に親族に移転させたため、強制執行妨害を犯した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "conceals",
+        "translation": "隠匿する (いんとくする)"
+      },
+      {
+        "word": "disposes of",
+        "translation": "処分する (しょぶんする)"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行 (きょうせいしっこう)"
+      },
+      {
+        "word": "judgment order",
+        "translation": "判決命令 (はんけつめいれい)"
+      },
+      {
+        "word": "real estate holdings",
+        "translation": "不動産所有権 (ふどうさんしょゆうけん)"
+      },
+      {
+        "word": "transferred",
+        "translation": "移転させた (いてんさせた)"
       }
     ]
   }

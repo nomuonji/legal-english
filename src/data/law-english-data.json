@@ -1,34 +1,42 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Civil Execution",
-  "definition": "Procedures for enforcing civil judgments and other claims through state power.",
-  "japaneseDefinition": "私法上の請求権を国家権力によって強制的に実現する手続。",
-  "japaneseWordTranslation": "民事執行 (みんじしっこう)",
-  "legalContext": "Civil Execution Act Art. 1: This Act governs the procedure for compulsory execution, execution against assets, etc.",
-  "japaneseLegalContext": "民事執行法第1条：この法律は、強制執行、担保権の実行としての競売等について規定する。",
-  "exampleSentence": "The creditor filed a petition for civil execution to recover the unpaid debt.",
-  "exampleTranslation": "債権者は未払いの債務を回収するために民事執行の申立てを行った。",
+  "word": "Mistake of Fact",
+  "definition": "An error regarding the factual circumstances surrounding the commission of a crime, which can negate criminal intent (mens rea) or lead to the application of a less severe punishment, depending on whether the mistake was unavoidable.",
+  "japaneseDefinition": "犯罪の実行行為を取り巻く事実的状況についての錯誤。故意を阻却したり、錯誤が不可避的であったかどうかに応じて刑の減軽が適用されたりする。",
+  "japaneseWordTranslation": "事実の錯誤 (じじつのさくご)",
+  "legalContext": "Criminal Code, Art. 38 (1) (Principle of Intent): 'An act performed unintentionally is not punishable. The same shall apply to an act performed under a mistake of law that is not based on special provisions in laws and regulations.'",
+  "japaneseLegalContext": "刑法 第38条 第1項 (故意): 「罪を犯す意思がない行為は、罰しない。ただし、法律に特別の規定がある場合は、この限りでない。」",
+  "exampleSentence": "If the defendant operated under an unavoidable **mistake of fact** regarding the nature of the property, the criminal intent required for larceny may be deemed lacking.",
+  "exampleTranslation": "被告人が当該財産の性質に関する不可避の**事実の錯誤**のもとで行為した場合、窃盗に必要な故意は欠如していると見なされ得る。",
   "vocabularyList": [
     {
-      "word": "Creditor",
-      "translation": "債権者"
+      "word": "defendant",
+      "translation": "被告人"
     },
     {
-      "word": "Petition",
-      "translation": "申立て"
+      "word": "unavoidable",
+      "translation": "不可避の"
     },
     {
-      "word": "Recover",
-      "translation": "回収する"
+      "word": "nature of the property",
+      "translation": "財産の性質"
     },
     {
-      "word": "Unpaid debt",
-      "translation": "未払債務"
+      "word": "larceny",
+      "translation": "窃盗罪"
     },
     {
-      "word": "State power",
-      "translation": "国家権力"
+      "word": "criminal intent",
+      "translation": "故意 (犯罪意思)"
+    },
+    {
+      "word": "lacking",
+      "translation": "欠如している"
+    },
+    {
+      "word": "mens rea",
+      "translation": "犯罪意思"
     }
   ]
 }

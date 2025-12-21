@@ -5118,5 +5118,123 @@
         "translation": "申請 (shinsei)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Closing of the Register",
+    "definition": "The administrative act by the registrar to terminate the registration record of a corporation, typically performed upon the completion of liquidation or due to mandatory procedures concerning inactive companies.",
+    "japaneseDefinition": "会社が解散し清算が結了した場合や、休眠会社整理手続きを経て、登記官が会社の登記記録を閉鎖し、一般の閲覧を不可能にする手続き。",
+    "japaneseWordTranslation": "登記記録の閉鎖 (とうききろくのへいさ)",
+    "legalContext": "Commercial Registration Act Art. 147 (Closing of the Register for Dissolved Companies): '...the registrar shall close the registration record of the company...'",
+    "japaneseLegalContext": "商業登記法第147条 (解散による登記記録の閉鎖): 「...登記官は、当該会社の登記記録を閉鎖しなければならない。」",
+    "exampleSentence": "Following the completion of the liquidation process, the registrar must perform the administrative action known as the closing of the register.",
+    "exampleTranslation": "清算手続の完了後、登記官は登記記録の閉鎖として知られる行政処分を実施しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "liquidation process",
+        "translation": "清算手続"
+      },
+      {
+        "word": "inactive companies",
+        "translation": "休眠会社"
+      },
+      {
+        "word": "administrative action",
+        "translation": "行政処分"
+      },
+      {
+        "word": "terminate",
+        "translation": "終結させる"
+      },
+      {
+        "word": "registration record",
+        "translation": "登記記録"
+      },
+      {
+        "word": "dissolved",
+        "translation": "解散した"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Power of Attorney",
+    "definition": "A formal document granting an agent (such as a certified professional or lawyer) the authority to execute and file a commercial registration application on behalf of the company or its officers.",
+    "japaneseDefinition": "会社またはその役員が、認定された専門家や弁護士などの代理人を通じて商業登記の申請を行う際に、代理権の存在を証明するために提出が義務付けられている書面。",
+    "japaneseWordTranslation": "委任状 (いにんじょう)",
+    "legalContext": "Commercial Registration Act Art. 25: 'Application for registration may be filed by an agent.'",
+    "japaneseLegalContext": "商業登記法第25条: 「登記の申請は、代理人によってすることができる。」",
+    "exampleSentence": "The application was suspended because the submitted power of attorney lacked the required signature of the representative director.",
+    "exampleTranslation": "提出された委任状に代表取締役の必要な署名がなかったため、申請は保留された。",
+    "vocabularyList": [
+      {
+        "word": "formal document",
+        "translation": "正式な書面"
+      },
+      {
+        "word": "agent",
+        "translation": "代理人"
+      },
+      {
+        "word": "certified professional",
+        "translation": "認定専門家"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
+      },
+      {
+        "word": "suspended",
+        "translation": "保留された"
+      },
+      {
+        "word": "required signature",
+        "translation": "必要な署名"
+      },
+      {
+        "word": "representative director",
+        "translation": "代表取締役"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Request for Administrative Review",
+    "definition": "A procedure allowing an applicant who is dissatisfied with a registrar’s administrative disposition (typically a refusal to register) to appeal the decision to a superior authority (the Director of the Legal Affairs Bureau).",
+    "japaneseDefinition": "登記官による行政処分（通常、登記の却下）に不服がある申請人が、上級機関（法務局長）に対し、その処分の適否の審査を求めることができる不服申立の手続き。",
+    "japaneseWordTranslation": "審査請求 (しんさせいきゅう)",
+    "legalContext": "Commercial Registration Act Art. 136: 'The provisions of the Administrative Appeal Act shall apply to dispositions made by a registrar...'",
+    "japaneseLegalContext": "商業登記法第136条: 「登記官の処分については、行政不服審査法の規定を準用する。」",
+    "exampleSentence": "The company decided to file a **request for administrative review** after receiving the registrar’s formal refusal concerning the merger registration.",
+    "exampleTranslation": "合併登記に関する登記官の正式な却下を受けた後、会社は審査請求を申し立てることを決定した。",
+    "vocabularyList": [
+      {
+        "word": "dissatisfied",
+        "translation": "不服がある"
+      },
+      {
+        "word": "administrative disposition",
+        "translation": "行政処分"
+      },
+      {
+        "word": "refusal to register",
+        "translation": "登記の却下"
+      },
+      {
+        "word": "superior authority",
+        "translation": "上級機関"
+      },
+      {
+        "word": "Legal Affairs Bureau",
+        "translation": "法務局"
+      },
+      {
+        "word": "appeal the decision",
+        "translation": "決定に不服を申し立てる"
+      }
+    ]
   }
 ]

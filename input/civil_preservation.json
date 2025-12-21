@@ -5252,5 +5252,81 @@
         "translation": "令状の送達"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibitory Order against Alteration",
+    "definition": "A temporary judicial measure issued in preservation proceedings that mandates the debtor to refrain from a specific act (positive action) that would change the status quo of the property or relation which is the subject of the dispute, thereby securing the petitioner's rights.",
+    "japaneseDefinition": "係争対象である物や法律関係の現状を変更する特定の行為（作為）を債務者に禁止するよう命じる、保全手続における一時的な司法措置。",
+    "japaneseWordTranslation": "作為禁止命令 (さくいきんしめいれい)",
+    "legalContext": "Civil Preservation Act Art. 23(2): Deals with interim measures (provisional dispositions) for non-monetary claims, including restraining acts of the debtor.",
+    "japaneseLegalContext": "民事保全法第23条第2項：金銭の給付を目的としない請求権に関する暫定的な措置（仮処分）のうち、債務者の作為を差し止める措置について規定。",
+    "exampleSentence": "The Preservation Petitioner successfully obtained a **Prohibitory Order against Alteration** preventing the debtor from altering the structure of the building pending the outcome of the property ownership dispute.",
+    "exampleTranslation": "保全申立人は、所有権争いの結論が出るまで債務者が建物の構造を変更することを禁じる作為禁止命令の取得に成功した。",
+    "vocabularyList": [
+      {
+        "word": "Preservation Petitioner",
+        "translation": "保全申立人 (ほぜんもうしたてにん)"
+      },
+      {
+        "word": "status quo",
+        "translation": "現状 (げんじょう)"
+      },
+      {
+        "word": "subject of the dispute",
+        "translation": "係争対象 (けいそうたいしょう)"
+      },
+      {
+        "word": "altering the structure",
+        "translation": "構造を変更する (こうぞうをへんこうする)"
+      },
+      {
+        "word": "property ownership dispute",
+        "translation": "所有権争い (しょゆうけんあらそい)"
+      },
+      {
+        "word": "pending the outcome",
+        "translation": "結論が出るまで (けつろんがでるまで)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Disposition to Secure Temporary Status",
+    "definition": "A type of preservation decree used to establish a temporary legal relationship or state for the disputing parties when urgent necessity exists, often requiring the debtor to perform an action or permit a state to exist.",
+    "japaneseDefinition": "緊急の必要性がある場合に、紛争当事者間に一時的な法律関係や地位を確立するために用いられる保全命令の一種。債務者に特定の行為を命じたり、ある状態の存在を許可させたりする場合が多い。",
+    "japaneseWordTranslation": "仮の地位を定める処分 (かりのちいをさだめるしょぶん)",
+    "legalContext": "Civil Preservation Act Art. 23(2): Applies to non-monetary claims where the obligee seeks to prevent substantial detriment or imminent danger by establishing an interim status.",
+    "japaneseLegalContext": "民事保全法第23条第2項：債権者が著しい損害又は急迫の危険を避けるため、暫定的な地位を確立することで非金銭請求権を保全する場合に適用される。",
+    "exampleSentence": "The Preservation Petitioner filed for a **Provisional Disposition to Secure Temporary Status** mandating the immediate suspension of construction that was causing irreparable harm to their adjacent land.",
+    "exampleTranslation": "保全申立人は、隣接地に回復不能な損害を与えていた工事の即時中止を命じる仮の地位を定める処分を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "urgent necessity",
+        "translation": "緊急の必要性 (きんきゅうのひつようせい)"
+      },
+      {
+        "word": "legal relationship",
+        "translation": "法律関係 (ほうりつかんけい)"
+      },
+      {
+        "word": "mandating the suspension",
+        "translation": "中止を命じる (ちゅうしをめいじる)"
+      },
+      {
+        "word": "irreparable harm",
+        "translation": "回復不能な損害 (かいふくふのうなそんがい)"
+      },
+      {
+        "word": "adjacent land",
+        "translation": "隣接地 (りんせつち)"
+      },
+      {
+        "word": "interim status",
+        "translation": "暫定的な地位 (ざんていてきなちい)"
+      }
+    ]
   }
 ]

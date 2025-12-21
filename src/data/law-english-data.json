@@ -1,42 +1,34 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Real Property Registration (不動産登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Mistake of Fact",
-  "definition": "An error regarding the factual circumstances surrounding the commission of a crime, which can negate criminal intent (mens rea) or lead to the application of a less severe punishment, depending on whether the mistake was unavoidable.",
-  "japaneseDefinition": "犯罪の実行行為を取り巻く事実的状況についての錯誤。故意を阻却したり、錯誤が不可避的であったかどうかに応じて刑の減軽が適用されたりする。",
-  "japaneseWordTranslation": "事実の錯誤 (じじつのさくご)",
-  "legalContext": "Criminal Code, Art. 38 (1) (Principle of Intent): 'An act performed unintentionally is not punishable. The same shall apply to an act performed under a mistake of law that is not based on special provisions in laws and regulations.'",
-  "japaneseLegalContext": "刑法 第38条 第1項 (故意): 「罪を犯す意思がない行為は、罰しない。ただし、法律に特別の規定がある場合は、この限りでない。」",
-  "exampleSentence": "If the defendant operated under an unavoidable **mistake of fact** regarding the nature of the property, the criminal intent required for larceny may be deemed lacking.",
-  "exampleTranslation": "被告人が当該財産の性質に関する不可避の**事実の錯誤**のもとで行為した場合、窃盗に必要な故意は欠如していると見なされ得る。",
+  "word": "Building",
+  "definition": "A structure fixed to land, having a roof and walls, and capable of being used for its intended purpose.",
+  "japaneseDefinition": "土地に定着し、屋根及び周壁を有し、その目的とする用途に供し得る建造物。",
+  "japaneseWordTranslation": "建物 (たてもの)",
+  "legalContext": "Real Property Registration Act Art. 2: 'Real Property' means land or buildings.",
+  "japaneseLegalContext": "不動産登記法第2条：「不動産」とは、土地又は建物をいう。",
+  "exampleSentence": "The newly constructed house was registered as a building at the Legal Affairs Bureau.",
+  "exampleTranslation": "新築された家屋は、法務局で建物として登記された。",
   "vocabularyList": [
     {
-      "word": "defendant",
-      "translation": "被告人"
+      "word": "Structure",
+      "translation": "建造物"
     },
     {
-      "word": "unavoidable",
-      "translation": "不可避の"
+      "word": "Fixed",
+      "translation": "定着した"
     },
     {
-      "word": "nature of the property",
-      "translation": "財産の性質"
+      "word": "Roof",
+      "translation": "屋根"
     },
     {
-      "word": "larceny",
-      "translation": "窃盗罪"
+      "word": "Wall",
+      "translation": "壁"
     },
     {
-      "word": "criminal intent",
-      "translation": "故意 (犯罪意思)"
-    },
-    {
-      "word": "lacking",
-      "translation": "欠如している"
-    },
-    {
-      "word": "mens rea",
-      "translation": "犯罪意思"
+      "word": "Intended purpose",
+      "translation": "目的とする用途"
     }
   ]
 }

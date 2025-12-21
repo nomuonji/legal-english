@@ -5526,5 +5526,107 @@
         "translation": "本審理"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Preclusion (Shakuzen Kōryoku)",
+    "definition": "The rule stemming from the duty of concentrated examination, whereby a party is prevented from asserting defenses or attacks in a subsequent stage or suit that they intentionally or negligently failed to assert earlier, provided they were aware of the facts.",
+    "japaneseDefinition": "集中審理の原則から派生するもので、当事者が知っていた事実上の攻撃防御方法を故意または過失により提出せず、審理の後の段階または後の訴訟で主張することを許さない効力（既判力とは異なる）。",
+    "japaneseWordTranslation": "遮断効 (しゃだんこう)",
+    "legalContext": "Principle derived from the duty to concentrate and manage the litigation efficiently (Civil Procedure Code Art. 147-2).",
+    "japaneseLegalContext": "民事訴訟法第147条の2（時機に後れた攻撃防御方法の却下等）等、審理集中義務に基づく原則。",
+    "exampleSentence": "The defendant's newly discovered counter-claim was barred by the principle of preclusion as it should have been asserted during the primary proceedings.",
+    "exampleTranslation": "被告が新しく発見した反訴請求は、本訴訟手続き中に主張されるべきであったため、遮断効によって排除された。",
+    "vocabularyList": [
+      {
+        "word": "counter-claim",
+        "translation": "反訴請求 (はんそせいきゅう)"
+      },
+      {
+        "word": "concentrated examination",
+        "translation": "集中審理 (しゅうちゅうしんり)"
+      },
+      {
+        "word": "primary proceedings",
+        "translation": "本訴訟手続き (ほんそしょうてつづき)"
+      },
+      {
+        "word": "assert",
+        "translation": "主張する (しゅちょうする)"
+      },
+      {
+        "word": "subsequent suit",
+        "translation": "後の訴訟 (のちのそしょう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Formal Admissibility",
+    "definition": "The procedural requirement that documentary evidence must satisfy criteria regarding its format, authenticity, and legal origin to be accepted by the court for evidential evaluation, typically concerning whether the document is genuine.",
+    "japaneseDefinition": "文書が裁判所に証拠として提出され、その内容を証拠資料とするために、その成立、形式、および法律上の起源に関する要件を満たしていること。通常、文書が真正に成立しているか否かに関わる。",
+    "japaneseWordTranslation": "形式的証拠能力 (けいしきてきしょうこのうりょく)",
+    "legalContext": "Governed by the rules regarding the authenticity of documentary evidence (Civil Procedure Code Art. 228).",
+    "japaneseLegalContext": "民事訴訟法第228条（文書の成立の真正）等、文書の真正性の規則により規定される。",
+    "exampleSentence": "Before the contents of the contract could be assessed, the court required a finding on its formal admissibility to ensure its authenticity.",
+    "exampleTranslation": "契約書の内容を評価する前に、裁判所はその真正性を確保するため、契約書の形式的証拠能力に関する認定を求めた。",
+    "vocabularyList": [
+      {
+        "word": "documentary evidence",
+        "translation": "書証 (しょしょう)"
+      },
+      {
+        "word": "evidential evaluation",
+        "translation": "証拠評価 (しょうこひょうか)"
+      },
+      {
+        "word": "authenticity",
+        "translation": "真正性 (しんせいせい)"
+      },
+      {
+        "word": "criteria",
+        "translation": "基準 (きじゅん)"
+      },
+      {
+        "word": "contents",
+        "translation": "内容 (ないよう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Resumption of Oral Arguments",
+    "definition": "A discretionary judicial order allowing the restart of the presentation stage of a trial after the court has previously declared the conclusion of arguments, typically granted when a party discovers significant new factual assertions or legal arguments.",
+    "japaneseDefinition": "裁判所がすでに終結した審理を、当事者の申立てまたは職権により再度開始する決定。通常、重要な新しい事実上の主張や法律上の論拠が発見された場合に認められる。",
+    "japaneseWordTranslation": "弁論の再開 (べんろんのさいかい)",
+    "legalContext": "Decision by the court ex officio or upon motion (Civil Procedure Code Art. 244).",
+    "japaneseLegalContext": "民事訴訟法第244条（口頭弁論の再開）に基づく、裁判所による職権または申立てによる決定。",
+    "exampleSentence": "The judge granted the motion for resumption of oral arguments after the plaintiff presented a newly discovered key witness statement.",
+    "exampleTranslation": "原告が新しく発見した重要な証人陳述書を提出した後、裁判官は弁論再開の申立てを許可した。",
+    "vocabularyList": [
+      {
+        "word": "discretionary judicial order",
+        "translation": "裁量的な裁判上の命令 (さいりょうてきなさいばんじょうのめいれい)"
+      },
+      {
+        "word": "conclusion of arguments",
+        "translation": "弁論の終結 (べんろんのしゅうけつ)"
+      },
+      {
+        "word": "ex officio",
+        "translation": "職権で (しょっけんで)"
+      },
+      {
+        "word": "key witness statement",
+        "translation": "重要な証人陳述書 (じゅうようなしょうにんちんじゅつしょ)"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て (もうしたて)"
+      }
+    ]
   }
 ]

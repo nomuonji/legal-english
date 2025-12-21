@@ -4660,5 +4660,123 @@
         "translation": "保証金"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Deposit System",
+    "definition": "The formal administrative framework, primarily managed by the Ministry of Justice, that allows obligors to legally discharge their liabilities by depositing the subject matter of the performance (money, securities, or chattels) with a designated public institution, thereby extinguishing the underlying obligation.",
+    "japaneseDefinition": "債務者が弁済の目的物を法務局等の機関に寄託することにより、その債務を消滅させるために用いられる公的な行政制度。",
+    "japaneseWordTranslation": "供託制度 (きょうたくせいど)",
+    "legalContext": "Governed by the Deposit Act (供託法), implementing the discharge principles found in the Civil Code regarding tender of performance.",
+    "japaneseLegalContext": "供託法（供託により債務を免れる民法の弁済提供の原則を実現する法）に基づき運営される。",
+    "exampleSentence": "The obligor utilized the Judicial Deposit System when the obligee refused to accept payment without justifiable cause, ensuring the extinguishment of their debt.",
+    "exampleTranslation": "債務者は、債権者が正当な理由なく受領を拒否した際、債務の消滅を確実にするため、供託制度を利用した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "discharge",
+        "translation": "免責／解除"
+      },
+      {
+        "word": "liabilities",
+        "translation": "債務／負債"
+      },
+      {
+        "word": "chattels",
+        "translation": "動産"
+      },
+      {
+        "word": "justifiable cause",
+        "translation": "正当な理由"
+      },
+      {
+        "word": "Ministry of Justice",
+        "translation": "法務省"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit due to Unidentified Creditor",
+    "definition": "A legally recognized ground for performance deposit where the obligor, acting without fault, is genuinely uncertain as to which of several potential claimants is the true, legitimate obligee, often arising in complex situations like disputed successions or conflicting claim transfers.",
+    "japaneseDefinition": "債務者が、善意かつ過失なく、誰が真の債権者であるかを確定できない場合に、債務を免れるために行う供託。紛争性の高いケースで利用される。",
+    "japaneseWordTranslation": "債権者不確知の供託 (さいけんしゃ ふかくち の きょうたく)",
+    "legalContext": "Civil Code Art. 494 provides the statutory grounds for deposit when the obligee cannot be ascertained (債権者が確知することができないとき).",
+    "japaneseLegalContext": "民法第494条では、債権者が確知することができないときを供託の法定事由として定めている。",
+    "exampleSentence": "Faced with competing demands from two separate entities claiming to be the lawful payee, the financial institution initiated a Deposit due to Unidentified Creditor to mitigate the risk of multiple payments.",
+    "exampleTranslation": "適法な受取人であると主張する二つの別個の主体からの競合する請求に直面し、その金融機関は二重払いのリスクを軽減するため、債権者不確知の供託を行った。",
+    "vocabularyList": [
+      {
+        "word": "statutory grounds",
+        "translation": "法定事由"
+      },
+      {
+        "word": "legitimate obligee",
+        "translation": "正当な債権者"
+      },
+      {
+        "word": "potential claimants",
+        "translation": "潜在的な請求者"
+      },
+      {
+        "word": "conflicting claim transfers",
+        "translation": "競合する債権譲渡"
+      },
+      {
+        "word": "payee",
+        "translation": "受取人"
+      },
+      {
+        "word": "mitigate the risk",
+        "translation": "リスクを軽減する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Claim for Recovery of Consigned Property",
+    "definition": "The legal right of the depositor (consignor) to request and receive the return of the deposited funds or items from the deposit administration, provided that the legal justification for the deposit has ceased to exist or that the depositor's right to recover was explicitly reserved.",
+    "japaneseDefinition": "供託者が、供託の前提となった法律上の原因が消滅した場合など、所定の要件を満たす場合に、供託所に寄託した供託物（金銭・有価証券等）の返還を求める権利。",
+    "japaneseWordTranslation": "供託物取戻請求権 (きょうたくぶつ とりもどし せいきゅうけん)",
+    "legalContext": "The criteria for the recovery of deposited property are stipulated in the Deposit Act (供託法), allowing recovery primarily if the obligee has not yet accepted the deposit.",
+    "japaneseLegalContext": "供託物取戻しの要件は供託法に規定されており、主に被供託者が供託を受諾していない場合に認められる。",
+    "exampleSentence": "Since the security deposit requirement was subsequently removed by mutual consent, the depositor exercised the Claim for Recovery of Consigned Property to retrieve the funds.",
+    "exampleTranslation": "担保供託の要件がその後、双方の合意により撤廃されたため、供託者は供託物取戻請求権を行使し、資金を回収した。",
+    "vocabularyList": [
+      {
+        "word": "depositor (consignor)",
+        "translation": "供託者"
+      },
+      {
+        "word": "retrieve",
+        "translation": "取り戻す"
+      },
+      {
+        "word": "legal justification",
+        "translation": "法律上の根拠"
+      },
+      {
+        "word": "explicitly reserved",
+        "translation": "明示的に留保された"
+      },
+      {
+        "word": "security deposit",
+        "translation": "保証金／担保供託"
+      },
+      {
+        "word": "mutual consent",
+        "translation": "相互の合意"
+      }
+    ]
   }
 ]

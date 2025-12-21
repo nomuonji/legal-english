@@ -5884,5 +5884,107 @@
         "translation": "敷地"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Confusion (of rights)",
+    "definition": "The legal principle that an obligation or real right is extinguished when the obligee/right holder and the obligor/duty bearer become vested in the same person.",
+    "japaneseDefinition": "債権者と債務者が同一人物となった場合や、物権とその負担たる権利が同一人物に帰属した場合に、その権利が消滅する法理。",
+    "japaneseWordTranslation": "混同 (こんどう)",
+    "legalContext": "Civil Code Art. 520 (Extinction of Obligation by Confusion): If the rights and duties are vested in the same person, the claim shall be extinguished.",
+    "japaneseLegalContext": "民法第520条（混同）：債権及び債務が同一人に帰属したときは、その債権は、消滅する。",
+    "exampleSentence": "Upon the mortgagor's purchase of the secured property, the mortgage right was extinguished by confusion, unless a third party had a vested interest in the property.",
+    "exampleTranslation": "抵当権設定者が担保不動産を購入した際、第三者の権利が残存する場合を除き、抵当権は混同により消滅した。",
+    "vocabularyList": [
+      {
+        "word": "mortgagor",
+        "translation": "抵当権設定者 (ていとうけんせっていしゃ)"
+      },
+      {
+        "word": "secured property",
+        "translation": "担保不動産 (たんぽふどうさん)"
+      },
+      {
+        "word": "mortgage right",
+        "translation": "抵当権 (ていとうけん)"
+      },
+      {
+        "word": "extinguished",
+        "translation": "消滅した (しょうめつした)"
+      },
+      {
+        "word": "vested interest",
+        "translation": "既得権 (きとくけん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Demand Cessation of Interference",
+    "definition": "A right deriving from ownership (or other real rights) allowing the holder to demand that an ongoing physical interference or disturbance impacting the property's use and enjoyment be stopped immediately.",
+    "japaneseDefinition": "所有権その他の物権の円満な行使を妨害している状態の停止を、その妨害者に対して請求できる権利。",
+    "japaneseWordTranslation": "妨害停止請求権 (ぼうがいていしせいきゅうけん)",
+    "legalContext": "Civil Code Art. 202 (Application mutatis mutandis to ownership): An owner may demand the cessation of interference, derived from the general principle of protecting proprietary rights.",
+    "japaneseLegalContext": "民法第202条（準用規定）：所有権に基づき、占有を妨害する者に対し妨害の停止を請求することができる。（物権的請求権の一種）",
+    "exampleSentence": "The apartment owner invoked the right to demand cessation of interference against the adjacent factory operating machinery that created severe structural vibrations.",
+    "exampleTranslation": "そのマンションの所有者は、深刻な建物の振動を引き起こす機械を稼働させている隣接工場に対し、妨害停止請求権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "proprietary rights",
+        "translation": "物権 (ぶっけん)"
+      },
+      {
+        "word": "invocation",
+        "translation": "行使 (こうし)"
+      },
+      {
+        "word": "adjacent factory",
+        "translation": "隣接工場 (りんせつこうじょう)"
+      },
+      {
+        "word": "structural vibrations",
+        "translation": "建物の振動 (たてもののしんどう)"
+      },
+      {
+        "word": "disturbance",
+        "translation": "妨害 (ぼうがい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Real Contract",
+    "definition": "A classification of contract that requires the actual delivery of the subject matter (res) in addition to the mutual declaration of intention by the parties for the contract to be legally formed and effective.",
+    "japaneseDefinition": "当事者の合意のみでは成立せず、目的物の引渡しやその他の給付が伴って初めて成立する契約の種類。",
+    "japaneseWordTranslation": "要物契約 (ようぶつけいやく)",
+    "legalContext": "Civil Code Art. 666 (Deposit, original formulation): A deposit contract shall become effective when the property is delivered to the Depositee.",
+    "japaneseLegalContext": "民法第666条（寄託）：寄託は、当事者の一方がある物を相手方に交付し、相手方がこれを保管することを約することによって、その効力を生ずる。",
+    "exampleSentence": "Under the previous Civil Code, a consumption loan was primarily treated as a real contract, requiring the delivery of the funds to the borrower to finalize the agreement.",
+    "exampleTranslation": "旧民法では、消費貸借は主に要物契約として扱われ、契約を成立させるためには借主への資金の引渡しが必要であった。",
+    "vocabularyList": [
+      {
+        "word": "consensual contracts",
+        "translation": "諾成契約 (だくせいけいやく)"
+      },
+      {
+        "word": "declaration of intention",
+        "translation": "意思表示 (いしひょうじ)"
+      },
+      {
+        "word": "subject matter",
+        "translation": "目的物 (もくてきぶつ)"
+      },
+      {
+        "word": "delivery",
+        "translation": "引渡し (ひきわたし)"
+      },
+      {
+        "word": "consumption loan",
+        "translation": "消費貸借 (しょうひたいしゃく)"
+      }
+    ]
   }
 ]

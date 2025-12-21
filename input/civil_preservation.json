@@ -5328,5 +5328,127 @@
         "translation": "暫定的な地位 (ざんていてきなちい)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prejudice to Judgment Enforcement",
+    "definition": "The essential procedural requirement for granting a provisional attachment (kari sashiosae), signifying the risk that future compulsory execution of a definitive judgment will become impossible or extremely difficult due to the debtor's actions or changes in circumstances.",
+    "japaneseDefinition": "債権者が本案訴訟で勝訴したとしても、その判決に基づく強制執行ができなくなる、または著しく困難になるおそれがある状態。",
+    "japaneseWordTranslation": "判決執行の阻害のおそれ (Kanketsu shikkō no sogai no osore)",
+    "legalContext": "Civil Preservation Act, Article 20(1) (Requirement for Provisional Attachment): A provisional attachment shall be ordered if there are circumstances that would likely render enforcement of the judgment concerning the monetary claim impossible or extremely difficult.",
+    "japaneseLegalContext": "民事保全法第20条第1項: 仮差押えは、金銭の給付を目的とする債権について、判決の執行をすることができなくなるおそれがあるとき、又はその執行が著しく困難となるおそれがあるときに、これを命ずる。",
+    "exampleSentence": "The court found sufficient evidence demonstrating a *prejudice to judgment enforcement* after the obligor began secretly transferring their registered corporate shares.",
+    "exampleTranslation": "債務者が登録された会社株式を密かに譲渡し始めた後、裁判所は判決執行の阻害のおそれを実証する十分な証拠があると判断した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "registered corporate shares",
+        "translation": "登録された会社株式"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "definitive judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "secretly transferring",
+        "translation": "密かに譲渡する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Disposition Securing Performance",
+    "definition": "An interim mandatory order issued to establish a temporary relationship or status quo concerning a non-monetary claim, compelling the respondent to perform a specific action or tolerate an action to secure the future result of the substantive action.",
+    "japaneseDefinition": "将来の確定的な給付判決を確保するため、非金銭債権について、相手方に対し特定の行為を命じ、または特定の行為を容認させる内容の暫定的な命令。",
+    "japaneseWordTranslation": "給付を命ずる仮処分 (Kyūfu o meizuru karishobun)",
+    "legalContext": "Civil Preservation Act, Article 23(2) (Provisional Disposition to Establish Temporary Status Quo): This applies when necessary to temporarily establish a status quo concerning a claim based on performance or tolerance.",
+    "japaneseLegalContext": "民事保全法第23条第2項: 争いがある権利関係について、債権者に生ずる著しい損害又は急迫の危険を避けるため、給付を命じ、又は反対給付を容認させるなどの仮の地位を定める必要がある場合。",
+    "exampleSentence": "The plaintiff requested a *provisional disposition securing performance* to compel the defendant to temporarily restore water flow to their agricultural property pending the outcome of the main lawsuit.",
+    "exampleTranslation": "原告は、本訴訟の結果が出るまでの間、被告に対し、農業用地への水の流れを一時的に回復させるよう命じる給付を命ずる仮処分を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "mandatory order",
+        "translation": "義務的命令"
+      },
+      {
+        "word": "non-monetary claim",
+        "translation": "非金銭債権"
+      },
+      {
+        "word": "substantive action",
+        "translation": "本案訴訟"
+      },
+      {
+        "word": "restore water flow",
+        "translation": "水の流れを回復させる"
+      },
+      {
+        "word": "compel",
+        "translation": "強制する"
+      },
+      {
+        "word": "status quo",
+        "translation": "仮の地位"
+      },
+      {
+        "word": "pending the outcome",
+        "translation": "結果を待つ間"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Change of Circumstances Revocation",
+    "definition": "A ground for revoking a preservation order (provisional attachment or injunction) where the circumstances that necessitated the measure have subsequently changed or ceased to exist, rendering the continuance of the preservation unjustifiable.",
+    "japaneseDefinition": "保全命令が発令された後、その命令を出す必要があった事情が変化したり、消滅したりしたために、その命令の継続が不当となった場合に、債務者等の申立てにより保全命令を取り消すこと。",
+    "japaneseWordTranslation": "事情変更による保全取消し (Jijō henkō ni yoru hozen torikeshi)",
+    "legalContext": "Civil Preservation Act, Article 42(1): A motion to revoke a preservation order may be filed with the preservation court based on a change in circumstances.",
+    "japaneseLegalContext": "民事保全法第42条第1項: 保全命令は、保全すべき権利若しくは権利関係又は保全の必要性の消滅その他の事情の変更があるときは、保全命令を発した裁判所又は保全命令を執行した裁判所に取り消させることができる。",
+    "exampleSentence": "The company successfully moved for *change of circumstances revocation* of the provisional attachment after providing sufficient collateral to the preservation obligee that fully secured the underlying claim.",
+    "exampleTranslation": "当該会社は、根底にある債権を完全に担保するに足る十分な担保を保全債権者に提供した後、仮差押えの事情変更による保全取消しを申し立てることに成功した。",
+    "vocabularyList": [
+      {
+        "word": "revoking",
+        "translation": "取り消し"
+      },
+      {
+        "word": "preservation order",
+        "translation": "保全命令"
+      },
+      {
+        "word": "collateral",
+        "translation": "担保"
+      },
+      {
+        "word": "preservation obligee",
+        "translation": "保全債権者"
+      },
+      {
+        "word": "underlying claim",
+        "translation": "根底にある債権"
+      },
+      {
+        "word": "continuance",
+        "translation": "継続"
+      },
+      {
+        "word": "unjustifiable",
+        "translation": "不当な"
+      }
+    ]
   }
 ]

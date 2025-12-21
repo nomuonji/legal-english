@@ -5472,5 +5472,81 @@
         "translation": "移転させた (いてんさせた)"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Necessity (Criminal Law)",
+    "definition": "An act performed to avoid an imminent peril to the life, body, freedom, or property of oneself or another, where the damage avoided significantly outweighs the damage incurred, provided the act was necessary and not preventable by other means. This functions as a justification for the act (Exclusion of Unlawfulness).",
+    "japaneseDefinition": "自己又は他人の生命、身体、自由又は財産に対する現在の危難を避けるため、やむを得ずにした行為であって、生じた害が避けようとした害の程度を超えなかった場合に、その行為の違法性を阻却すること。",
+    "japaneseWordTranslation": "緊急避難 (きんきゅうひなん)",
+    "legalContext": "Japanese Criminal Code, Article 37 (Justification by Necessity): An act committed to avert a present peril to the life, body, liberty, or property of oneself or another...",
+    "japaneseLegalContext": "刑法第37条（緊急避難）：自己又は他人の生命、身体、自由又は財産に対する現在の危難を避けるため、やむを得ずにした行為は、これによって生じた害が避けようとした害の程度を超えなかった場合に限り、罰しない。",
+    "exampleSentence": "The defense successfully argued that the defendant’s act of trespass was justified by necessity, as it was the only means to escape the imminent peril of the collapsing structure.",
+    "exampleTranslation": "弁護側は、崩壊しつつある構造物の切迫した危難から逃れる唯一の手段であったため、被告人の住居侵入行為が緊急避難によって正当化されたと主張し、認められた。",
+    "vocabularyList": [
+      {
+        "word": "peril",
+        "translation": "危難"
+      },
+      {
+        "word": "imminent",
+        "translation": "切迫した"
+      },
+      {
+        "word": "justified",
+        "translation": "正当化された"
+      },
+      {
+        "word": "trespass",
+        "translation": "住居侵入"
+      },
+      {
+        "word": "incurred",
+        "translation": "生じた（害）"
+      },
+      {
+        "word": "avert",
+        "translation": "避ける"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Crime Requiring Specific Purpose",
+    "definition": "A crime that requires a specific subjective element (dolus specialis) or overriding purpose beyond general criminal intent for its statutory fulfillment. This purpose does not need to be achieved for the crime to be completed.",
+    "japaneseDefinition": "一般的な故意に加えて、法律が要求する特定の主観的要素または動機（例：不法領得の目的、営利の目的）が存在しなければ成立しない犯罪。この目的は達成される必要はない。",
+    "japaneseWordTranslation": "目的犯 (もくてきはん)",
+    "legalContext": "Japanese Criminal Code, Article 235 (Larceny): A person who steals another person's property with the purpose of unjust gain shall be punished. (The 'purpose of unjust gain' is the specific required purpose.)",
+    "japaneseLegalContext": "刑法第235条（窃盗）：他人の財物を窃取した者は、不法領得の目的をもって、…（「不法領得の目的」が要求される特定の目的である。）",
+    "exampleSentence": "The court acquitted the defendant of the financial crime because the prosecution failed to demonstrate the existence of the required specific purpose of causing financial damage to the victim.",
+    "exampleTranslation": "検察側が被害者に財産上の損害を与えるという、法律で要求される特定の目的の存在を立証できなかったため、裁判所は被告人にその財政犯罪について無罪を言い渡した。",
+    "vocabularyList": [
+      {
+        "word": "subjective element",
+        "translation": "主観的要素"
+      },
+      {
+        "word": "dolus specialis",
+        "translation": "特定目的の故意"
+      },
+      {
+        "word": "general criminal intent",
+        "translation": "一般故意"
+      },
+      {
+        "word": "statutory fulfillment",
+        "translation": "法律上の成立"
+      },
+      {
+        "word": "acquit",
+        "translation": "無罪を言い渡す"
+      },
+      {
+        "word": "demonstrate",
+        "translation": "立証する"
+      }
+    ]
   }
 ]

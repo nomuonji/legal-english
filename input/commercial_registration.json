@@ -5236,5 +5236,81 @@
         "translation": "決定に不服を申し立てる"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Grounds for Disallowance",
+    "definition": "The specific legal requirements, enumerated in the Commercial Registration Act, upon which a registrar must reject a registration application due to formal or substantive defects.",
+    "japaneseDefinition": "商業登記官が申請を却下しなければならないとされる、商業登記法第25条以下に定める具体的な法定の事由。",
+    "japaneseWordTranslation": "法定の不許可事由 (ほうていのふきょかじゆう)",
+    "legalContext": "Commercial Registration Act, Article 25: Sets forth a definitive list of the grounds upon which the registrar must refuse the registration application.",
+    "japaneseLegalContext": "商業登記法第25条: 登記官が登記の申請を却下しなければならない事由を列挙している。",
+    "exampleSentence": "Failure to submit the authenticating instruments or violation of registration procedures constitutes one of the Statutory Grounds for Disallowance, leading to the application’s mandatory rejection.",
+    "exampleTranslation": "認証文書の提出の不備や登記手続の違反は、法定の不許可事由の一つを構成し、申請の強制的な却下につながる。",
+    "vocabularyList": [
+      {
+        "word": "enumerated",
+        "translation": "列挙された"
+      },
+      {
+        "word": "reject",
+        "translation": "却下する"
+      },
+      {
+        "word": "substantive defects",
+        "translation": "実体的瑕疵"
+      },
+      {
+        "word": "authenticating instruments",
+        "translation": "認証文書"
+      },
+      {
+        "word": "mandatory rejection",
+        "translation": "強制的な却下"
+      },
+      {
+        "word": "violation of registration procedures",
+        "translation": "登記手続の違反"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Identifier",
+    "definition": "Unique electronic data assigned to each registration record, utilized for ensuring the security and integrity of the electronic registration system and confirming the identity of the applicant.",
+    "japaneseDefinition": "登記記録の同一性及び真正を担保するために用いられる、各登記記録に割り当てられた固有の電子情報。",
+    "japaneseWordTranslation": "登記記録識別情報 (とうききろくしきべつじょうほう)",
+    "legalContext": "Commercial Registration Rules (implementing regulations for the CR Act) details the use and administration of electronic identifiers.",
+    "japaneseLegalContext": "商業登記規則（商業登記法の施行細則）が、電子的な識別情報の利用と管理を詳細に定めている。",
+    "exampleSentence": "The applicant must input the correct Registration Identifier when submitting an electronic application to confirm the validity of the application source.",
+    "exampleTranslation": "申請者は、申請源の有効性を確認するため、電子申請を行う際、正確な登記記録識別情報を入力しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "electronic data",
+        "translation": "電子情報"
+      },
+      {
+        "word": "integrity",
+        "translation": "真正（性）"
+      },
+      {
+        "word": "assigned",
+        "translation": "割り当てられた"
+      },
+      {
+        "word": "electronic application",
+        "translation": "電子申請"
+      },
+      {
+        "word": "validity",
+        "translation": "有効性"
+      },
+      {
+        "word": "administration",
+        "translation": "管理"
+      }
+    ]
   }
 ]

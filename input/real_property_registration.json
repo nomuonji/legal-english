@@ -2,40 +2,6 @@
   {
     "category": "Real Property Registration (不動産登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Building",
-    "definition": "A structure fixed to land, having a roof and walls, and capable of being used for its intended purpose.",
-    "japaneseDefinition": "土地に定着し、屋根及び周壁を有し、その目的とする用途に供し得る建造物。",
-    "japaneseWordTranslation": "建物 (たてもの)",
-    "legalContext": "Real Property Registration Act Art. 2: 'Real Property' means land or buildings.",
-    "japaneseLegalContext": "不動産登記法第2条：「不動産」とは、土地又は建物をいう。",
-    "exampleSentence": "The newly constructed house was registered as a building at the Legal Affairs Bureau.",
-    "exampleTranslation": "新築された家屋は、法務局で建物として登記された。",
-    "vocabularyList": [
-      {
-        "word": "Structure",
-        "translation": "建造物"
-      },
-      {
-        "word": "Fixed",
-        "translation": "定着した"
-      },
-      {
-        "word": "Roof",
-        "translation": "屋根"
-      },
-      {
-        "word": "Wall",
-        "translation": "壁"
-      },
-      {
-        "word": "Intended purpose",
-        "translation": "目的とする用途"
-      }
-    ]
-  },
-  {
-    "category": "Real Property Registration (不動産登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Hypothecation",
     "definition": "A security interest in real property granted to a creditor (mortgagee) as collateral for a debt, which allows the creditor to satisfy the debt out of the property's value if the debtor defaults, without transferring possession.",
     "japaneseDefinition": "債務の担保として債権者（抵当権者）に設定される不動産上の担保物権であり、債務者が債務不履行に陥った場合に、占有を移さずに不動産の価額から債権を弁済させることを可能とする権利。",
@@ -4980,6 +4946,74 @@
       {
         "word": "Joint Application",
         "translation": "共同申請 (kyōdō shinsei)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consolidation of Parcels",
+    "definition": "A type of descriptive registration (indication registration) by which two or more contiguous parcels of land, owned by the same person, are merged into a single new parcel.",
+    "japaneseDefinition": "隣接する二つ以上の土地を一つの土地に合体させ、一つの地番を付す表示の登記の一種。",
+    "japaneseWordTranslation": "合筆 (がっぴつ)",
+    "legalContext": "Real Property Registration Act Art. 41: Specifies the requirements for registration of consolidation of parcels, including the condition that the parcels must be contiguous and share the same land category.",
+    "japaneseLegalContext": "不動産登記法第41条：合筆の登記の要件（土地が相互に接続していること、地目が同一であることなど）を規定する。",
+    "exampleSentence": "The client requested the consolidation of parcels to streamline the process for obtaining development permission for the entire area.",
+    "exampleTranslation": "依頼者は、エリア全体の開発許可を取得する手続きを合理化するため、土地の合筆を要請した。",
+    "vocabularyList": [
+      {
+        "word": "contiguous",
+        "translation": "相互に接続した"
+      },
+      {
+        "word": "descriptive registration",
+        "translation": "表示の登記"
+      },
+      {
+        "word": "land category",
+        "translation": "地目"
+      },
+      {
+        "word": "streamline",
+        "translation": "合理化する"
+      },
+      {
+        "word": "development permission",
+        "translation": "開発許可"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Application Document",
+    "definition": "The mandatory written submission to the registry office detailing the request for the registration of the creation, alteration, or extinguishment of rights concerning real property, including essential information like the property identifier and the cause of registration.",
+    "japaneseDefinition": "不動産に関する権利の設定、変更、又は消滅の登記を請求するため、物件の表示や登記原因などの必要事項を記載して登記所に提出する書面。",
+    "japaneseWordTranslation": "登記申請書 (とうきしんせいしょ)",
+    "legalContext": "Real Property Registration Act Art. 18: An application for registration must be submitted to the registry office having jurisdiction over the location of the real property.",
+    "japaneseLegalContext": "不動産登記法第18条：登記の申請は、不動産の所在地を管轄する登記所に申請書を提出してしなければならない。",
+    "exampleSentence": "A crucial step in perfecting a property right is the careful preparation and submission of the Registration Application Document, accompanied by all necessary supporting documentation.",
+    "exampleTranslation": "不動産権を保全するための重要な一歩は、必要なすべての裏付け書類を添付した登記申請書の慎重な作成と提出である。",
+    "vocabularyList": [
+      {
+        "word": "alteration",
+        "translation": "変更"
+      },
+      {
+        "word": "extinguishment of rights",
+        "translation": "権利の消滅"
+      },
+      {
+        "word": "supporting documentation",
+        "translation": "裏付け書類"
+      },
+      {
+        "word": "property identifier",
+        "translation": "物件の表示"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄"
       }
     ]
   }

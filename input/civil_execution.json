@@ -2,40 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Civil Execution",
-    "definition": "Procedures for enforcing civil judgments and other claims through state power.",
-    "japaneseDefinition": "私法上の請求権を国家権力によって強制的に実現する手続。",
-    "japaneseWordTranslation": "民事執行 (みんじしっこう)",
-    "legalContext": "Civil Execution Act Art. 1: This Act governs the procedure for compulsory execution, execution against assets, etc.",
-    "japaneseLegalContext": "民事執行法第1条：この法律は、強制執行、担保権の実行としての競売等について規定する。",
-    "exampleSentence": "The creditor filed a petition for civil execution to recover the unpaid debt.",
-    "exampleTranslation": "債権者は未払いの債務を回収するために民事執行の申立てを行った。",
-    "vocabularyList": [
-      {
-        "word": "Creditor",
-        "translation": "債権者"
-      },
-      {
-        "word": "Petition",
-        "translation": "申立て"
-      },
-      {
-        "word": "Recover",
-        "translation": "回収する"
-      },
-      {
-        "word": "Unpaid debt",
-        "translation": "未払債務"
-      },
-      {
-        "word": "State power",
-        "translation": "国家権力"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Compulsory Execution",
     "definition": "Enforcement of a claim by state power against the will of the obligor based on a title of obligation.",
     "japaneseDefinition": "債務名義に基づき、債務者の意思に反して、国家権力により強制的に債権の内容を実現すること。",
@@ -5666,6 +5632,120 @@
       {
         "word": "extinguished",
         "translation": "消滅した"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action to Contest the Distribution Schedule",
+    "definition": "A lawsuit filed by an execution creditor or execution debtor who objects to the content of the claims or the scope of allocation listed in the Distribution Schedule prepared by the execution court.",
+    "japaneseDefinition": "執行裁判所が作成した配当表の記載内容や、配当を受けるべき債権の存否、配当の範囲に異議がある執行債権者または執行債務者が提起する訴訟。",
+    "japaneseWordTranslation": "配当異議の訴え (はいとういぎのうったえ)",
+    "legalContext": "Civil Execution Act Art. 89: If a person who has stated an objection to the distribution schedule fails to make proof of commencement of an action to contest the distribution schedule, the objection shall be deemed to have been withdrawn.",
+    "japaneseLegalContext": "民事執行法第89条: 配当異議の陳述をした者が配当異議の訴えを提起したことを証明しないときは、その異議の陳述は、取り下げたものとみなす。",
+    "exampleSentence": "The junior obligee filed an Action to Contest the Distribution Schedule after discovering discrepancies in the calculation of the senior obligee's secured claim amount.",
+    "exampleTranslation": "劣後債権者は、先順位債権者の担保債権額の計算に齟齬を発見した後、配当異議の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "junior obligee",
+        "translation": "劣後債権者"
+      },
+      {
+        "word": "senior obligee",
+        "translation": "先順位債権者"
+      },
+      {
+        "word": "secured claim",
+        "translation": "担保債権"
+      },
+      {
+        "word": "discrepancies",
+        "translation": "齟齬"
+      },
+      {
+        "word": "allocation",
+        "translation": "配当"
+      },
+      {
+        "word": "objection",
+        "translation": "異議"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Assistant",
+    "definition": "An individual utilized by the Execution Officer to assist in the practical steps of carrying out compulsory execution, particularly regarding the handling and movement of assets or persons (e.g., removing property during delivery execution).",
+    "japaneseDefinition": "執行官が、強制執行の実施、特に動産の引渡しや物件の移動などの物理的な行為を補助させるために使用する者。",
+    "japaneseWordTranslation": "執行補助者 (しっこうほじょしゃ)",
+    "legalContext": "Civil Execution Act stipulates that the Execution Officer may employ Execution Assistants as necessary to perform their duties efficiently and safely.",
+    "japaneseLegalContext": "民事執行法は、執行官がその職務を効率的かつ安全に遂行するために、必要に応じて執行補助者を用いることができる旨を定めている。",
+    "exampleSentence": "The Execution Officer directed two Execution Assistants to remove the furniture from the premises pursuant to the order for delivery.",
+    "exampleTranslation": "執行官は、引渡命令に従い、2名の執行補助者に当該敷地から家具を搬出するよう指示した。",
+    "vocabularyList": [
+      {
+        "word": "utilized",
+        "translation": "使用する"
+      },
+      {
+        "word": "practical steps",
+        "translation": "実務的な手順"
+      },
+      {
+        "word": "premises",
+        "translation": "敷地"
+      },
+      {
+        "word": "movement of assets",
+        "translation": "資産の移動"
+      },
+      {
+        "word": "duties",
+        "translation": "職務"
+      },
+      {
+        "word": "efficiently",
+        "translation": "効率的に"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Against Rights of Exclusive Use",
+    "definition": "A procedure for seizing and realizing specific non-corporeal proprietary interests that grant the holder exclusive usage rights, such as membership rights or proprietary usage claims against a specified asset.",
+    "japaneseDefinition": "会員権など、特定の資産に対して独占的な利用権を保有者に付与する無体財産権を差し押さえ、換価するための手続。",
+    "japaneseWordTranslation": "専用利用権に対する執行 (せんようりようけんにたいするしっこう)",
+    "legalContext": "Civil Execution Act Art. 167: Execution against property rights other than real property and claims shall be carried out in accordance with the provisions for execution against claims, or by other realization methods prescribed by the court.",
+    "japaneseLegalContext": "民事執行法第167条: 不動産及び債権以外の財産権に対する執行は、債権執行に関する規定に従い、又は裁判所の定める他の方法により換価するものとする。",
+    "exampleSentence": "The obligee sought Execution Against Rights of Exclusive Use concerning the debtor's shares in a resort facility, realizing the value through an authorized sale.",
+    "exampleTranslation": "債権者は、リゾート施設における債務者の持分に関する専用利用権に対する執行を求め、認可された売却を通じてその価額を換価した。",
+    "vocabularyList": [
+      {
+        "word": "non-corporeal",
+        "translation": "無体"
+      },
+      {
+        "word": "realizing",
+        "translation": "換価する"
+      },
+      {
+        "word": "holder",
+        "translation": "保有者"
+      },
+      {
+        "word": "membership rights",
+        "translation": "会員権"
+      },
+      {
+        "word": "shares",
+        "translation": "持分"
+      },
+      {
+        "word": "proprietary interests",
+        "translation": "財産上の利益"
       }
     ]
   }

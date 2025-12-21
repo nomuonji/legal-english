@@ -5138,5 +5138,119 @@
         "translation": "立証する"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Grounds for Preservation",
+    "definition": "The established facts or reasons showing that the delay inherent in pursuing the main lawsuit would either make future enforcement of the claim impossible or significantly difficult, thereby justifying the urgent issuance of a preservation measure.",
+    "japaneseDefinition": "本案の訴訟を提起し、判決を得るまでの間に生じる遅延により、債権の実現が不可能となったり、著しく困難になったりする具体的な事情。",
+    "japaneseWordTranslation": "保全の事由 (ほぜん の じゆう)",
+    "legalContext": "Civil Preservation Act Art. 13(1): The court may issue a preservation order only when the necessity for preservation is established.",
+    "japaneseLegalContext": "民事保全法第13条第1項: 保全命令は、保全の必要性があるときに限り、発することができる。",
+    "exampleSentence": "The court dismissed the application for preservation, ruling that the obligee had failed to sufficiently demonstrate adequate grounds for preservation.",
+    "exampleTranslation": "裁判所は、債権者が十分な保全の事由を立証できなかったとして、保全申立てを却下した。",
+    "vocabularyList": [
+      {
+        "word": "established facts",
+        "translation": "立証された事実"
+      },
+      {
+        "word": "main lawsuit",
+        "translation": "本案の訴訟"
+      },
+      {
+        "word": "future enforcement",
+        "translation": "将来の執行"
+      },
+      {
+        "word": "justifying",
+        "translation": "正当化する"
+      },
+      {
+        "word": "dismissed the application",
+        "translation": "申立てを却下した"
+      },
+      {
+        "word": "necessity for preservation",
+        "translation": "保全の必要性"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order Mandating Temporary Action",
+    "definition": "A specific type of provisional disposition (injunction concerning non-monetary claims) which directs the preservation debtor to actively perform a certain duty or action immediately, rather than merely prohibiting them from acting.",
+    "japaneseDefinition": "非金銭債権を保全するため、債務者に対し、現況を維持するために積極的に一定の行為を行うことを命じる仮処分の形式。",
+    "japaneseWordTranslation": "作為命令 (さくい めいれい)",
+    "legalContext": "Civil Preservation Act Art. 23(1): Provisional disposition may be issued to secure the status quo in relation to a disputed right, including orders prohibiting certain acts or mandating temporary action.",
+    "japaneseLegalContext": "民事保全法第23条第1項: 争いがある権利関係についての仮の地位を定める仮処分は、一定の行為の禁止その他現状の変更を禁ずるにとどまらず、作為命令により行うこともできる。",
+    "exampleSentence": "The obligee sought an Order Mandating Temporary Action to compel the immediate dismantling of an unauthorized structure built on the disputed boundary line.",
+    "exampleTranslation": "債権者は、係争中の境界線上に建設された不正な建造物の即時解体を強制するため、作為命令を求めた。",
+    "vocabularyList": [
+      {
+        "word": "disputed right",
+        "translation": "争いがある権利"
+      },
+      {
+        "word": "certain duty",
+        "translation": "一定の義務"
+      },
+      {
+        "word": "dismantling",
+        "translation": "解体"
+      },
+      {
+        "word": "unauthorized structure",
+        "translation": "不正な建造物"
+      },
+      {
+        "word": "actively perform",
+        "translation": "積極的に行う"
+      },
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Period for Substantive Action Filing",
+    "definition": "The fixed deadline, stipulated by the preservation court, within which the obligee who obtained the preservation order must initiate the principal legal proceedings (the main action) against the debtor; failure to comply typically results in the revocation of the preservation order.",
+    "japaneseDefinition": "保全命令を発令した裁判所が定める、保全債権者が本案訴訟を提起しなければならない期間。これを遵守しない場合、保全命令は取り消される可能性がある。",
+    "japaneseWordTranslation": "本案の訴えの期間 (ほんなん の うったえ の きかん)",
+    "legalContext": "Civil Preservation Act Art. 37(1): If the obligee fails to file the substantive action within the period specified by the court, the preservation debtor may file a motion for revocation of the preservation order.",
+    "japaneseLegalContext": "民事保全法第37条第1項: 裁判所が定めた期間内に保全債権者が本案の訴えを提起しなかったときは、保全債務者の申立てにより、保全命令を取り消すことができる。",
+    "exampleSentence": "The preservation order explicitly mandated a two-week Statutory Period for Substantive Action Filing, beginning immediately upon service of the writ.",
+    "exampleTranslation": "保全命令は、保全令状の送達後直ちに開始する2週間の本案の訴えの期間を明確に定めていた。",
+    "vocabularyList": [
+      {
+        "word": "fixed deadline",
+        "translation": "定められた期限"
+      },
+      {
+        "word": "principal legal proceedings",
+        "translation": "主要な法的手続"
+      },
+      {
+        "word": "initiate",
+        "translation": "開始する"
+      },
+      {
+        "word": "comply",
+        "translation": "遵守する"
+      },
+      {
+        "word": "revocation",
+        "translation": "取り消し"
+      },
+      {
+        "word": "service of the writ",
+        "translation": "令状の送達"
+      }
+    ]
   }
 ]

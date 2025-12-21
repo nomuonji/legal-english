@@ -5298,5 +5298,119 @@
         "translation": "控訴の提起"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Independent Third-Party Participation",
+    "definition": "A procedural device allowing a third party who claims rights over the subject matter of the suit, or whose legal status would be inconsistent with the judgment between the original parties, to join the litigation as an independent party seeking a decision against both original parties.",
+    "japaneseDefinition": "訴訟の目的について自己の権利を主張する第三者や、他人の訴訟の結果により自己の法的地位が害される第三者が、既存の原告・被告の双方を相手として自ら当事者として訴訟に参加すること。",
+    "japaneseWordTranslation": "独立当事者参加 (Dokuritsu Tōjishasha Sanka)",
+    "legalContext": "Code of Civil Procedure Art. 47: Independent Third-Party Participation.",
+    "japaneseLegalContext": "民事訴訟法第47条：独立当事者参加",
+    "exampleSentence": "The intervenor filed a motion for *independent third-party participation*, asserting that they held a superior proprietary right to the real estate that was the subject matter of the dispute.",
+    "exampleTranslation": "参加人は、紛争の目的である不動産に対する優越的な所有権を有すると主張し、独立当事者参加の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "intervenor",
+        "translation": "参加人"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "proprietary right",
+        "translation": "所有権（占有権以外の財産権）"
+      },
+      {
+        "word": "subject matter of the dispute",
+        "translation": "紛争の目的物"
+      },
+      {
+        "word": "original parties",
+        "translation": "既存の当事者"
+      },
+      {
+        "word": "asserting",
+        "translation": "主張する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deemed Admission",
+    "definition": "A procedural rule where a party (usually the defendant) is treated as having admitted facts asserted by the opposing party if they fail to appear at the trial hearing without a legitimate reason, or fail to submit a responsive statement of defense in writing before the hearing date.",
+    "japaneseDefinition": "当事者が口頭弁論期日に欠席した場合や、相手方が主張した事実に対し期日までに書面で応答しない場合に、その事実を争わないものとして自白したものとみなす訴訟技術的な制度。",
+    "japaneseWordTranslation": "擬制自白 (Gisei Jihaku)",
+    "legalContext": "Code of Civil Procedure Art. 159(1): If a party fails to appear at the hearing date, they shall be deemed to have admitted the facts asserted by the opponent.",
+    "japaneseLegalContext": "民事訴訟法第159条第1項：当事者が口頭弁論の期日に出頭しない場合、相手方の主張した事実を自白したものとみなす。",
+    "exampleSentence": "Due to the defendant's continuous absence and failure to submit responsive documents, the court invoked *deemed admission* regarding the amount of the claimed debt.",
+    "exampleTranslation": "被告が継続的に欠席し、答弁書を提出しなかったため、裁判所は請求された債務額について擬制自白を適用した。",
+    "vocabularyList": [
+      {
+        "word": "responsive documents",
+        "translation": "応答文書（答弁書など）"
+      },
+      {
+        "word": "invoke",
+        "translation": "適用する"
+      },
+      {
+        "word": "claimed debt",
+        "translation": "請求された債務"
+      },
+      {
+        "word": "failure to submit",
+        "translation": "提出懈怠"
+      },
+      {
+        "word": "opposing party",
+        "translation": "相手方"
+      },
+      {
+        "word": "trial hearing",
+        "translation": "口頭弁論期日"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Court of Final Appeal",
+    "definition": "The highest level judicial body in a legal system authorized to render a final and unreviewable decision in a case, corresponding to the Supreme Court of Japan, which hears appeals on limited legal grounds.",
+    "japaneseDefinition": "その裁判所の判決・決定によって事件の審級制度上の審理が終結し、それ以上の上訴が許されない裁判所。日本では最高裁判所を指す。",
+    "japaneseWordTranslation": "終審裁判所 (Shūshin Saibansho)",
+    "legalContext": "Constitution of Japan, Art. 81: The Supreme Court is the court of final appeal and has the power to review the constitutionality of any law.",
+    "japaneseLegalContext": "日本国憲法第81条：最高裁判所は、終審裁判所であって、一切の法律等の合憲性を審査する権限を有する。",
+    "exampleSentence": "After exhausting all lower courts, the appellant petitioned the *Court of Final Appeal* on the grounds that the High Court's judgment violated a core constitutional principle.",
+    "exampleTranslation": "すべての下級裁判所を経た後、控訴人（上告人）は、高等裁判所の判決が中核的な憲法原則に違反しているとして、終審裁判所に上告を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "appellant",
+        "translation": "上告人（控訴人）"
+      },
+      {
+        "word": "exhausting",
+        "translation": "使い果たす, 経る"
+      },
+      {
+        "word": "lower courts",
+        "translation": "下級裁判所"
+      },
+      {
+        "word": "constitutional principle",
+        "translation": "憲法原則"
+      },
+      {
+        "word": "petitioned",
+        "translation": "上告を申し立てた"
+      },
+      {
+        "word": "judicial body",
+        "translation": "司法機関"
+      }
+    ]
   }
 ]

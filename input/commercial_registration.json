@@ -5042,5 +5042,81 @@
         "translation": "委任状"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Assertion Bar Against Third Parties",
+    "definition": "The principle that a company cannot assert, against a third party acting in good faith, any matter required to be registered under the Commercial Registration Act that has not yet been registered.",
+    "japaneseDefinition": "登記すべき事項が未登記である場合、会社がその事項をもって善意の第三者に対抗することができないとする原則（非登記の対抗力の制限）。",
+    "japaneseWordTranslation": "非登記事項の第三者対抗制限 (hitōki jikō no daisansha taikō seigen)",
+    "legalContext": "Commercial Registration Act, Article 9: A person may not assert against a third party acting in good faith the failure to register matters required to be registered.",
+    "japaneseLegalContext": "商業登記法第9条: 登記すべき事項は、登記の後でなければ、これをもって善意の第三者に対抗することができない。",
+    "exampleSentence": "Due to the assertion bar against third parties, the company was held liable for debts incurred by the newly appointed director whose change registration was still pending.",
+    "exampleTranslation": "非登記事項の第三者対抗制限により、会社は、変更登記が係属中であった新任取締役が負わせた債務について責任を負うことになった。",
+    "vocabularyList": [
+      {
+        "word": "Liable",
+        "translation": "責任を負う (sekinin o ou)"
+      },
+      {
+        "word": "Incurred",
+        "translation": "負わせた (owaseta)"
+      },
+      {
+        "word": "Pending",
+        "translation": "係属中 (keizoku chū)"
+      },
+      {
+        "word": "Good faith",
+        "translation": "善意 (zen'i)"
+      },
+      {
+        "word": "Debts",
+        "translation": "債務 (saimu)"
+      },
+      {
+        "word": "Assert",
+        "translation": "対抗する (taikō suru)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Grounds for Refusal",
+    "definition": "The specific, mandatory reasons prescribed by law under which the registrar is legally required to reject an application for commercial registration.",
+    "japaneseDefinition": "商業登記法第25条に列挙されており、登記官が商業登記の申請を職務上、却下しなければならない具体的な法定の理由。",
+    "japaneseWordTranslation": "法定却下事由 (hōtei kyakka jiyū)",
+    "legalContext": "Commercial Registration Act, Article 25 (Grounds for Rejection): The registrar shall reject an application for registration if it falls under any of the listed items, stating the reasons for the decision.",
+    "japaneseLegalContext": "商業登記法第25条: 登記官は、次に掲げる場合には、理由を付した決定で、登記の申請を却下しなければならない。",
+    "exampleSentence": "The registrar cited one of the statutory grounds for refusal, specifically the lack of required supplementary documents, leading to the rejection of the merger application.",
+    "exampleTranslation": "登記官は、法定却下事由の一つ、具体的には要求された添付書類の不足を挙げて、合併申請を却下した。",
+    "vocabularyList": [
+      {
+        "word": "Registrar",
+        "translation": "登記官 (tōkikan)"
+      },
+      {
+        "word": "Cited",
+        "translation": "引用した (in'yō shita)"
+      },
+      {
+        "word": "Supplementary documents",
+        "translation": "添付書類 (tenpu shorui)"
+      },
+      {
+        "word": "Rejection",
+        "translation": "却下 (kyakka)"
+      },
+      {
+        "word": "Mandatory",
+        "translation": "義務的 (gimuteki)"
+      },
+      {
+        "word": "Application",
+        "translation": "申請 (shinsei)"
+      }
+    ]
   }
 ]

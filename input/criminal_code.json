@@ -5282,5 +5282,119 @@
         "translation": "わいせつな行為"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Proof Beyond a Reasonable Doubt",
+    "definition": "The standard of proof required in Japanese criminal trials, necessitating that the prosecution establish the defendant's guilt to a degree that excludes any rational or reasonable alternative explanation of the facts.",
+    "japaneseDefinition": "刑事裁判において、裁判所が被告人の有罪認定を行うために必要とされる、疑いを差し挟む余地のない高度な証明の基準。",
+    "japaneseWordTranslation": "合理的疑いを超える証明 (ごうりてきうたがいをこえるしょうめい)",
+    "legalContext": "Code of Criminal Procedure Art. 318 (Principle of Free Evaluation of Evidence) implicitly governs the standard, emphasizing that judges must base their conviction on 'proof beyond a reasonable doubt,' although the specific phrase is often derived from judicial precedent.",
+    "japaneseLegalContext": "刑事訴訟法 第318条 (証拠の証明力): 証拠の証明力は、裁判官の自由な判断に委ねられる。この判断には「合理的疑いを超える証明」の基準が不可欠である。",
+    "exampleSentence": "The court acquitted the defendant because the evidence presented by the prosecution did not meet the rigorous standard of proof beyond a reasonable doubt.",
+    "exampleTranslation": "検察側が提示した証拠は、合理的な疑いを超える証明という厳格な基準を満たさなかったため、裁判所は被告人に無罪を言い渡した。",
+    "vocabularyList": [
+      {
+        "word": "acquitted",
+        "translation": "無罪を言い渡した"
+      },
+      {
+        "word": "prosecution",
+        "translation": "検察"
+      },
+      {
+        "word": "rigorous standard",
+        "translation": "厳格な基準"
+      },
+      {
+        "word": "conviction",
+        "translation": "有罪認定"
+      },
+      {
+        "word": "free evaluation of evidence",
+        "translation": "証拠の自由な判断"
+      },
+      {
+        "word": "judicial precedent",
+        "translation": "判例"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mistake Concerning the Object",
+    "definition": "In criminal law, a specific type of mistake of fact where the offender intends to commit a crime against a particular person or object (the intended object), but performs the act against a different person or object (the actual object). In Japanese law, this mistake generally does not negate criminal intent.",
+    "japaneseDefinition": "行為者が特定の客体に対して犯罪の実行行為を行ったが、意図した客体とは異なる客体に対して結果が発生した場合の錯誤。原則として故意を阻却しないとされる。",
+    "japaneseWordTranslation": "客体の錯誤 (きゃくたいのさくご)",
+    "legalContext": "Criminal Code Art. 38 (Criminal Intent): While not explicitly regulated, established theory holds that a mistake concerning the identity of the victim (Kyōtai no Sakugo) does not generally negate the criminal intent required for the completed crime, as the protected legal interest remains the same (e.g., life or property).",
+    "japaneseLegalContext": "刑法 第38条 (故意): 客体の錯誤は、保護法益が同一である場合（例えば、殺人罪）には、原則として故意を阻却しないという通説がある。",
+    "exampleSentence": "The defense argued that the defendant's actions constituted a mistake concerning the object, but the court ruled that since the defendant intended homicide, the misidentification of the victim did not negate the requisite criminal intent.",
+    "exampleTranslation": "弁護側は、被告人の行為は客体の錯誤に当たると主張したが、裁判所は、被告人が殺意を有していた以上、被害者の誤認は必要な故意を阻却しないと判示した。",
+    "vocabularyList": [
+      {
+        "word": "misidentification",
+        "translation": "誤認"
+      },
+      {
+        "word": "homicide",
+        "translation": "殺人罪"
+      },
+      {
+        "word": "negate",
+        "translation": "無効にする / 阻却する"
+      },
+      {
+        "word": "protected legal interest",
+        "translation": "保護法益"
+      },
+      {
+        "word": "requisite criminal intent",
+        "translation": "必要な故意"
+      },
+      {
+        "word": "established theory",
+        "translation": "通説"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Probation/Supervision",
+    "definition": "A measure applied primarily to individuals who have received a suspension of execution of sentence or who are released on parole, involving supervision, guidance, and assistance provided by probation officers and volunteer probation officers to facilitate the offender's reintegration into society.",
+    "japaneseDefinition": "刑の執行猶予を受けた者や仮釈放者などに対し、更生保護施設や保護観察官・保護司の指導のもと、社会復帰を円滑にするために行う指導および援助。",
+    "japaneseWordTranslation": "保護観察 (ほごかんさつ)",
+    "legalContext": "Act on Probationary Supervision of Persons under Protection (更生保護法): Governs the procedures and details of supervision measures, which are designed to support rehabilitation and prevent recidivism.",
+    "japaneseLegalContext": "更生保護法 (第20条以下): 保護観察の実施に関する手続や詳細を規定しており、更生と再犯防止を目的とする。",
+    "exampleSentence": "During the period of probation, the offender is required to report regularly to the probation officer and adhere strictly to all conditions set by the court.",
+    "exampleTranslation": "保護観察期間中、当該犯罪者は保護観察官に定期的に報告し、裁判所が定めたすべての条件を厳守することが求められる。",
+    "vocabularyList": [
+      {
+        "word": "recidivism",
+        "translation": "再犯"
+      },
+      {
+        "word": "suspension of execution of sentence",
+        "translation": "刑の執行猶予"
+      },
+      {
+        "word": "parole",
+        "translation": "仮釈放"
+      },
+      {
+        "word": "probation officer",
+        "translation": "保護観察官"
+      },
+      {
+        "word": "reintegration into society",
+        "translation": "社会復帰"
+      },
+      {
+        "word": "volunteer probation officer",
+        "translation": "保護司"
+      }
+    ]
   }
 ]

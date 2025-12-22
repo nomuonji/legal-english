@@ -1,34 +1,38 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Constitution (憲法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Compulsory Execution",
-  "definition": "Enforcement of a claim by state power against the will of the obligor based on a title of obligation.",
-  "japaneseDefinition": "債務名義に基づき、債務者の意思に反して、国家権力により強制的に債権の内容を実現すること。",
-  "japaneseWordTranslation": "強制執行 (きょうせいしっこう)",
-  "legalContext": "Civil Execution Act Art. 22: Compulsory execution shall be carried out based on a title of obligation.",
-  "japaneseLegalContext": "民事執行法第22条：強制執行は、債務名義により行う。",
-  "exampleSentence": "Compulsory execution was carried out against the debtor's real estate.",
-  "exampleTranslation": "債務者の不動産に対して強制執行が行われた。",
+  "word": "Parliamentary Immunity",
+  "definition": "The constitutional privilege granted to members of the National Diet, preventing their arrest or detention without the consent of the House during a session, except in cases of flagrant offense.",
+  "japaneseDefinition": "国会議員に与えられた憲法上の特権であり、会期中は現行犯の場合を除いて、所属する議院の許諾なしに逮捕・拘禁されない権利。",
+  "japaneseWordTranslation": "不逮捕特権 (ふたいほとっけん)",
+  "legalContext": "Constitution of Japan, Article 50: Except in cases of flagrant offense, members of either House shall not be apprehended while the Diet is in session without the consent of the House.",
+  "japaneseLegalContext": "日本国憲法第50条: 両議院の議員は、法律の定める場合を除いては、国会の会期中逮捕されず、会期前に逮捕された議員は、その議院の要求があれば、会期中これを釈放しなければならない。",
+  "exampleSentence": "The protection provided by Parliamentary Immunity ensures that Diet members can fulfill their duties without undue political pressure from the executive branch.",
+  "exampleTranslation": "不逮捕特権によって提供される保護は、国会議員が行政機関からの不当な政治的圧力なしにその職責を果たすことを保証する。",
   "vocabularyList": [
     {
-      "word": "Title of obligation",
-      "translation": "債務名義"
+      "word": "apprehended",
+      "translation": "逮捕される"
     },
     {
-      "word": "Obligor",
-      "translation": "債務者"
+      "word": "flagrant offense",
+      "translation": "現行犯"
     },
     {
-      "word": "Real estate",
-      "translation": "不動産"
+      "word": "Diet is in session",
+      "translation": "国会会期中"
     },
     {
-      "word": "Enforcement",
-      "translation": "執行/強制"
+      "word": "consent of the House",
+      "translation": "議院の許諾"
     },
     {
-      "word": "Will",
-      "translation": "意思"
+      "word": "executive branch",
+      "translation": "行政機関"
+    },
+    {
+      "word": "undue pressure",
+      "translation": "不当な圧力"
     }
   ]
 }

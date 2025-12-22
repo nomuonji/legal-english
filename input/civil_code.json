@@ -6104,5 +6104,131 @@
         "translation": "債権の目的"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Appropriation of Payment",
+    "definition": "The legal process by which a debtor who owes multiple identical obligations to the same creditor designates which debt the tendered performance is to satisfy.",
+    "japaneseDefinition": "同一の債権者に対して同種の給付を目的とする数個の債務を負う債務者が、弁済として提供した給付がどの債務に充てられるかを指定する行為。",
+    "japaneseWordTranslation": "弁済の充当 (べんさいのじゅうとう)",
+    "legalContext": "Civil Code Art. 488 (1): Debtor's designation of appropriation. If a debtor owes multiple obligations of the same kind to one creditor, the debtor may designate which obligation the performance is to satisfy at the time of performance.",
+    "japaneseLegalContext": "民法第488条第1項: 債務者が数個の債務を負担する場合の弁済充当の指定に関する規定。",
+    "exampleSentence": "Absent a specific designation by the debtor, the appropriation of payment shall be determined according to the statutory rules, prioritizing debts that are already due.",
+    "exampleTranslation": "債務者による特定の指定がない場合、弁済の充当は、法定の規則に従い、弁済期にある債務を優先して決定される。",
+    "vocabularyList": [
+      {
+        "word": "債務者",
+        "translation": "debtor"
+      },
+      {
+        "word": "債権者",
+        "translation": "creditor"
+      },
+      {
+        "word": "弁済",
+        "translation": "performance / payment"
+      },
+      {
+        "word": "給付",
+        "translation": "tendered performance"
+      },
+      {
+        "word": "数個の債務",
+        "translation": "multiple obligations"
+      },
+      {
+        "word": "弁済期にある債務",
+        "translation": "debts that are due"
+      },
+      {
+        "word": "指定",
+        "translation": "designation"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Curatorship / Curator",
+    "definition": "A legal system, part of the Adult Guardianship Law, where a person whose decision-making ability is significantly insufficient (the ward under curatorship) is appointed a Curator (保佐人) whose consent is required for specified important juridical acts.",
+    "japaneseDefinition": "精神上の障害により事理を弁識する能力が著しく不十分な者に対して、重要な法律行為について保佐人（Curator）の同意を必要とする成年後見制度における枠組み。",
+    "japaneseWordTranslation": "保佐 / 保佐人 (ほさ / ほさにん)",
+    "legalContext": "Civil Code Art. 11 (1): A person for whom an order for the commencement of curatorship has been issued shall be a ward under curatorship (被保佐人).",
+    "japaneseLegalContext": "民法第11条第1項: 保佐開始の審判を受けた者は、被保佐人とする。",
+    "exampleSentence": "The Curator must approve specific major transactions conducted by the ward under curatorship, such as commencing litigation or disposing of major assets.",
+    "exampleTranslation": "保佐人は、被保佐人が行う特定の重要な取引、例えば訴訟の提起や主要な財産の処分について同意を与えなければならない。",
+    "vocabularyList": [
+      {
+        "word": "被保佐人",
+        "translation": "ward under curatorship"
+      },
+      {
+        "word": "審判",
+        "translation": "judicial order / adjudication"
+      },
+      {
+        "word": "成年後見制度",
+        "translation": "adult guardianship system"
+      },
+      {
+        "word": "事理を弁識する能力",
+        "translation": "decision-making ability"
+      },
+      {
+        "word": "同意",
+        "translation": "consent / approval"
+      },
+      {
+        "word": "法律行為",
+        "translation": "juridical act"
+      },
+      {
+        "word": "訴訟の提起",
+        "translation": "commencing litigation"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Accession to Immovable Property",
+    "definition": "The legal rule specifying that if a person affixes an article to immovable property owned by another, and that article becomes a component part thereof, the owner of the immovable property acquires ownership of the affixed article.",
+    "japaneseDefinition": "他人の動産が不動産に付合し、不動産の構成部分となった場合、不動産の所有者が付合した動産の所有権を取得する原則。",
+    "japaneseWordTranslation": "不動産の付合 (ふどうさんのふごう)",
+    "legalContext": "Civil Code Art. 242: Accession to immovable property. (This rule does not apply if the party affixing the article acted based on a valid title or legal basis.)",
+    "japaneseLegalContext": "民法第242条: 不動産の付合。（ただし、権原による場合を除く。）",
+    "exampleSentence": "The dispute arose over whether the newly installed solar panels were subject to accession to immovable property, thereby falling under the scope of the pre-existing mortgage.",
+    "exampleTranslation": "紛争は、新しく設置されたソーラーパネルが不動産の付合の対象となり、それによって既存の抵当権の範囲に含まれるかどうかについて生じた。",
+    "vocabularyList": [
+      {
+        "word": "動産",
+        "translation": "movable property"
+      },
+      {
+        "word": "構成部分",
+        "translation": "component part"
+      },
+      {
+        "word": "所有権",
+        "translation": "ownership"
+      },
+      {
+        "word": "抵当権",
+        "translation": "mortgage / hypothec"
+      },
+      {
+        "word": "権原",
+        "translation": "title / legal basis"
+      },
+      {
+        "word": "付合",
+        "translation": "accession"
+      },
+      {
+        "word": "既存の",
+        "translation": "pre-existing"
+      }
+    ]
   }
 ]

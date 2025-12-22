@@ -5138,5 +5138,107 @@
         "translation": "権利"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registered Location",
+    "definition": "The geographical designation and address details of the land or building parcel recorded in the Property Description Section (表題部) of the Real Property Register, serving as a mandatory factual identifier.",
+    "japaneseDefinition": "不動産登記法の表題部に記録される、土地または建物の特定の地理的な位置を示す情報。不動産を識別するための必須の表示事項。",
+    "japaneseWordTranslation": "所在 (しょざい)",
+    "legalContext": "Real Property Registration Act Art. 27 & 34: Mandates the registration of the location (所在) for identifying land and buildings respectively.",
+    "japaneseLegalContext": "不動産登記法第27条及び第34条：土地及び建物を識別するための所在の登記が義務付けられている。",
+    "exampleSentence": "The application for the creation of a building register must accurately state the Registered Location and Building Number.",
+    "exampleTranslation": "建物登記の作成申請には、正確な所在及び家屋番号を記載しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "geographical designation",
+        "translation": "地理的指定"
+      },
+      {
+        "word": "mandatory identifier",
+        "translation": "必須の識別情報"
+      },
+      {
+        "word": "Property Description Section",
+        "translation": "表題部 (ひょうだいぶ)"
+      },
+      {
+        "word": "building parcel",
+        "translation": "建物の区画"
+      },
+      {
+        "word": "creation of a building register",
+        "translation": "建物登記の作成"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registered Land Area",
+    "definition": "The official measure (recorded in square meters) of a parcel of land, determined via surveying and recorded as a mandatory item in the Property Description Section of the Real Property Register.",
+    "japaneseDefinition": "土地の区画について、測量に基づいて定められ、不動産登記の表題部に必須事項として記録される、公的な面積（平方メートルで表示）。",
+    "japaneseWordTranslation": "地積 (ちせき)",
+    "legalContext": "Real Property Registration Act Art. 34 (1): The register for land must include the Registered Land Area (地積).",
+    "japaneseLegalContext": "不動産登記法第34条第1項：土地の登記記録には、地積を記録しなければならない。",
+    "exampleSentence": "A discrepancy between the actual surveyed size and the Registered Land Area requires an application for factual registration amendment.",
+    "exampleTranslation": "実際の測量面積と登記上の地積との間に不一致がある場合は、表示の更正登記の申請が必要となる。",
+    "vocabularyList": [
+      {
+        "word": "official measure",
+        "translation": "公的な測定値"
+      },
+      {
+        "word": "discrepancy",
+        "translation": "不一致"
+      },
+      {
+        "word": "surveying",
+        "translation": "測量"
+      },
+      {
+        "word": "parcel of land",
+        "translation": "土地の区画"
+      },
+      {
+        "word": "factual registration amendment",
+        "translation": "表示の更正登記"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cause of Right Extinguishment",
+    "definition": "The specific legal event or fact (e.g., expiration, termination, full repayment) that results in the termination of a registered right, which must be certified and stated in the application for deletion of that registration.",
+    "japaneseDefinition": "登記されている権利が消滅した特定の法律上の原因となる事実（例えば、期間満了、解除、全額弁済など）。権利の抹消登記を申請する際に証明を要する。",
+    "japaneseWordTranslation": "権利消滅の事由 (けんりしょうめつのじゆう)",
+    "legalContext": "Real Property Registration Act Art. 60: Registration requires submitting documentary proof of the cause of registration or the cause of right extinguishment.",
+    "japaneseLegalContext": "不動産登記法第60条：登記の申請には、登記原因を証する情報又は権利消滅の事由を証する情報を提供しなければならない。",
+    "exampleSentence": "The bank submitted documentation certifying the Cause of Right Extinguishment following the full payment of the secured debt.",
+    "exampleTranslation": "銀行は、担保債務の全額弁済に伴い、権利消滅の事由を証明する書類を提出した。",
+    "vocabularyList": [
+      {
+        "word": "deletion of registration",
+        "translation": "登記の抹消"
+      },
+      {
+        "word": "legal event",
+        "translation": "法律上の出来事"
+      },
+      {
+        "word": "termination of a right",
+        "translation": "権利の終了"
+      },
+      {
+        "word": "full repayment",
+        "translation": "全額弁済"
+      },
+      {
+        "word": "secured debt",
+        "translation": "担保債務"
+      }
+    ]
   }
 ]

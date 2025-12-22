@@ -5980,5 +5980,123 @@
         "translation": "命令を発する"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Order for Stay of Execution",
+    "definition": "A court decision that temporarily halts ongoing compulsory execution proceedings, usually issued when the execution obligor raises a formal objection (such as an action to object to claim) and provides security.",
+    "japaneseDefinition": "執行債務者が請求異議の訴えなどの法的な防御手段を講じ、かつ、担保を供した場合に、裁判所が発する、進行中の強制執行手続きを一時的に停止させる決定。",
+    "japaneseWordTranslation": "執行停止の裁判 (しっこうていしのさいばん)",
+    "legalContext": "Civil Execution Act, Art. 39(1)(vi): Documents evidencing that a judicial order for stay of execution has been issued.",
+    "japaneseLegalContext": "民事執行法第39条第1項第六号：執行停止の裁判があったことを証する文書。",
+    "exampleSentence": "The judgment debtor filed an action to object to the claim, simultaneously moving for a *judicial order for stay of execution* under Article 39.",
+    "exampleTranslation": "債務者は請求異議の訴えを提起し、同時に第39条に基づく執行停止の裁判を求める申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "judgment debtor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "formal objection",
+        "translation": "請求異議 (せいきゅういぎ)"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行 (きょうせいしっこう)"
+      },
+      {
+        "word": "provides security",
+        "translation": "担保を供する (たんぽをきょうする)"
+      },
+      {
+        "word": "halt proceedings",
+        "translation": "手続きを停止させる (てつづきをていしさせる)"
+      },
+      {
+        "word": "simultaneously moving",
+        "translation": "同時に申し立てる (どうじにもうしたてる)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution of Delivery",
+    "definition": "The specific physical process, overseen by an enforcement agent (執行官), by which an occupant is removed from immovable property to comply with an execution title mandating the surrender or delivery of that property.",
+    "japaneseDefinition": "引渡しや明け渡しを命じる執行権原に基づき、執行官が、占有者から不動産を取り上げ、執行債権者に占有を移転させる強制的な行為。",
+    "japaneseWordTranslation": "引渡しの執行 (ひきわたしのしっこう)",
+    "legalContext": "Civil Execution Act Art. 168: Execution for Delivery or Surrender of Immovable Property.",
+    "japaneseLegalContext": "民事執行法第168条：不動産の引渡し又は明け渡しの執行。",
+    "exampleSentence": "The enforcement agent was scheduled to carry out the *execution of delivery* at 9 AM the following Tuesday, based on the court's prior order.",
+    "exampleTranslation": "執行官は、裁判所の先行する命令に基づき、翌火曜日の午前9時に引渡しの執行を実施する予定であった。",
+    "vocabularyList": [
+      {
+        "word": "enforcement agent",
+        "translation": "執行官 (しっこうかん)"
+      },
+      {
+        "word": "occupant",
+        "translation": "占有者 (せんゆうしゃ)"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産 (ふどうさん)"
+      },
+      {
+        "word": "execution title",
+        "translation": "執行権原 (しっこうけんげん)"
+      },
+      {
+        "word": "mandating surrender",
+        "translation": "明け渡しを命じる (あけわたしをめいじる)"
+      },
+      {
+        "word": "scheduled",
+        "translation": "予定された (よていされた)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cut-off Date for Demand for Distribution",
+    "definition": "The specific deadline designated by the implementing court for creditors (especially those without existing execution titles or perfected security rights) to submit their claims to ensure they participate in the distribution proceedings of the execution proceeds.",
+    "japaneseDefinition": "執行を実施する裁判所が定める、債権者（特に執行力のある債務名義や担保権を持たない者）が、執行収益の配当手続きに参加するために債権届出を行わなければならない最終期限。",
+    "japaneseWordTranslation": "配当要求の終期 (はいとうようきゅうのしゅうき)",
+    "legalContext": "Civil Execution Act Art. 49(2): The court must designate the cut-off date for demand for distribution and provide public notice thereof.",
+    "japaneseLegalContext": "民事執行法第49条第2項：裁判所は、配当要求の終期を定め、かつ、これを公告しなければならない。",
+    "exampleSentence": "If the junior creditor misses the *cut-off date for demand for distribution*, their claim will be excluded from the subsequent distribution schedule.",
+    "exampleTranslation": "後順位の債権者が配当要求の終期を逃した場合、その債権は後続の配当表から除外される。",
+    "vocabularyList": [
+      {
+        "word": "junior creditor",
+        "translation": "後順位の債権者 (こうじゅんいのさいけんしゃ)"
+      },
+      {
+        "word": "distribution proceedings",
+        "translation": "配当手続き (はいとうてつづき)"
+      },
+      {
+        "word": "execution proceeds",
+        "translation": "執行収益 (しっこうしゅうえき)"
+      },
+      {
+        "word": "perfected security rights",
+        "translation": "対抗要件を備えた担保権 (たいこうようけんをそなえたたんぽけん)"
+      },
+      {
+        "word": "submit claims",
+        "translation": "債権を届出る (さいけんをとどけでる)"
+      },
+      {
+        "word": "public notice",
+        "translation": "公告 (こうこく)"
+      },
+      {
+        "word": "implementing court",
+        "translation": "実施裁判所 (じっしさいばんしょ)"
+      }
+    ]
   }
 ]

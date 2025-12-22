@@ -5526,5 +5526,119 @@
         "translation": "保全債務者"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Counter-Security",
+    "definition": "Security provided by the preservation obligor (debtor) pursuant to a court order, intended to enable the lifting of an existing provisional measure, such as an attachment or disposition.",
+    "japaneseDefinition": "保全債務者が裁判所の命令に基づき提供する担保。これにより、既存の保全処分（差押えや処分など）の執行が取り消され、財産の制限が解除されることを可能にする。",
+    "japaneseWordTranslation": "反担保 (はんたんぽ)",
+    "legalContext": "Civil Preservation Law Art. 4: 'A provisional measure shall be canceled upon the provision of counter-security...' (paraphrased)",
+    "japaneseLegalContext": "民事保全法第4条: 「保全命令は、反担保が提供された場合等に、これを取り消すことができる。」(概略)",
+    "exampleSentence": "The defendant posted the required counter-security, leading the court to issue an order discharging the provisional attachment on its bank accounts.",
+    "exampleTranslation": "被告は必要とされる反担保を供託し、その結果、裁判所は銀行口座に対する仮差押えを解く命令を出した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "provision",
+        "translation": "提供"
+      },
+      {
+        "word": "lifting (of a measure)",
+        "translation": "解除"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え"
+      },
+      {
+        "word": "discharge",
+        "translation": "取り消し／解除"
+      },
+      {
+        "word": "bank account",
+        "translation": "銀行口座"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservative Necessity",
+    "definition": "The essential condition requiring evidence that the claim cannot be enforced or that significant detriment would be sustained by the claimant if a provisional measure is not granted immediately.",
+    "japaneseDefinition": "請求権の実現が不可能となるおそれ、または、保全措置が直ちに講じられなければ債権者が著しい不利益を被るという、保全命令発令のための必須の事実的要件。",
+    "japaneseWordTranslation": "保全の必要性 (ほぜんのひつようせい)",
+    "legalContext": "Civil Preservation Law Art. 13 & 23: The court shall only issue a provisional measure if preservative necessity is demonstrated.",
+    "japaneseLegalContext": "民事保全法第13条及び第23条: 裁判所は、保全の必要性が疎明された場合にのみ、保全命令を発することができる。",
+    "exampleSentence": "The petition for the provisional order was dismissed because the claimant failed to sufficiently demonstrate preservative necessity concerning the security interest.",
+    "exampleTranslation": "請求者が担保権に関する保全の必要性を十分に疎明できなかったため、仮の命令の申立ては却下された。",
+    "vocabularyList": [
+      {
+        "word": "essential condition",
+        "translation": "必須の要件"
+      },
+      {
+        "word": "detriment",
+        "translation": "不利益"
+      },
+      {
+        "word": "claimant",
+        "translation": "請求者／債権者"
+      },
+      {
+        "word": "petition",
+        "translation": "申立て"
+      },
+      {
+        "word": "dismissed",
+        "translation": "却下された"
+      },
+      {
+        "word": "sufficiently demonstrate",
+        "translation": "十分に疎明する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibition of Transfer",
+    "definition": "A specific legal restriction imposed by a preservation order, generally preventing the property or claim subject to the preservation measure from being legally transferred or assigned to any third party.",
+    "japaneseDefinition": "保全命令によって課される具体的な法的制限であり、通常、保全措置の対象となる財産や権利が、法的に第三者に譲渡されたり、移転されたりすることを禁じるもの。",
+    "japaneseWordTranslation": "譲渡禁止 (じょうときんし)",
+    "legalContext": "Civil Preservation Law Art. 52 (3): A provisional attachment of a claim shall be effected by an order prohibiting the obligor from collecting and the third party debtor from paying the claim, and prohibiting the transfer of the claim.",
+    "japaneseLegalContext": "民事保全法第52条第3項: 債権の仮差押えの執行は、債務者に対して取立てを、第三債務者に対して支払いを、それぞれ禁じ、かつ、その債権の譲渡を禁ずる命令をもってする。",
+    "exampleSentence": "The enforcement court issued a prohibition of transfer against the intellectual property right as part of the provisional order to secure the judgment amount.",
+    "exampleTranslation": "執行裁判所は、判決金額を確保するための仮の命令の一環として、知的財産権に対し譲渡禁止の命令を発した。",
+    "vocabularyList": [
+      {
+        "word": "specific legal restriction",
+        "translation": "具体的な法的制限"
+      },
+      {
+        "word": "assigned",
+        "translation": "譲渡された"
+      },
+      {
+        "word": "enforcement court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "intellectual property right",
+        "translation": "知的財産権"
+      },
+      {
+        "word": "judgment amount",
+        "translation": "判決金額"
+      },
+      {
+        "word": "third party debtor",
+        "translation": "第三債務者"
+      }
+    ]
   }
 ]

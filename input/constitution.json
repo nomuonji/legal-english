@@ -2,44 +2,6 @@
   {
     "category": "Constitution (憲法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Parliamentary Immunity",
-    "definition": "The constitutional privilege granted to members of the National Diet, preventing their arrest or detention without the consent of the House during a session, except in cases of flagrant offense.",
-    "japaneseDefinition": "国会議員に与えられた憲法上の特権であり、会期中は現行犯の場合を除いて、所属する議院の許諾なしに逮捕・拘禁されない権利。",
-    "japaneseWordTranslation": "不逮捕特権 (ふたいほとっけん)",
-    "legalContext": "Constitution of Japan, Article 50: Except in cases of flagrant offense, members of either House shall not be apprehended while the Diet is in session without the consent of the House.",
-    "japaneseLegalContext": "日本国憲法第50条: 両議院の議員は、法律の定める場合を除いては、国会の会期中逮捕されず、会期前に逮捕された議員は、その議院の要求があれば、会期中これを釈放しなければならない。",
-    "exampleSentence": "The protection provided by Parliamentary Immunity ensures that Diet members can fulfill their duties without undue political pressure from the executive branch.",
-    "exampleTranslation": "不逮捕特権によって提供される保護は、国会議員が行政機関からの不当な政治的圧力なしにその職責を果たすことを保証する。",
-    "vocabularyList": [
-      {
-        "word": "apprehended",
-        "translation": "逮捕される"
-      },
-      {
-        "word": "flagrant offense",
-        "translation": "現行犯"
-      },
-      {
-        "word": "Diet is in session",
-        "translation": "国会会期中"
-      },
-      {
-        "word": "consent of the House",
-        "translation": "議院の許諾"
-      },
-      {
-        "word": "executive branch",
-        "translation": "行政機関"
-      },
-      {
-        "word": "undue pressure",
-        "translation": "不当な圧力"
-      }
-    ]
-  },
-  {
-    "category": "Constitution (憲法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Renunciation of War",
     "definition": "The constitutional principle enshrined in Article 9, by which Japan permanently abandons war and the maintenance of military potential as a sovereign means of settling international disputes.",
     "japaneseDefinition": "憲法第9条に規定されている原則で、日本が国際紛争を解決する手段としての戦争、及び戦力保持を永久に放棄すること。",
@@ -5608,6 +5570,120 @@
       {
         "word": "governmental limitations",
         "translation": "政府による制限"
+      }
+    ]
+  },
+  {
+    "category": "Constitution (憲法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Electoral District",
+    "definition": "A geographical area from which representatives (Diet members) are elected. In Japan, the dual system includes both single-member constituencies and proportional representation blocs for the House of Representatives.",
+    "japaneseDefinition": "衆議院議員や参議院議員を選出するための地理的な区域のこと。小選挙区や比例代表区など、選挙制度に応じて区割りが定められる。",
+    "japaneseWordTranslation": "選挙区 (せんきょく)",
+    "legalContext": "Constitution Art. 44: The matters concerning the method of election of members of both Houses, electoral districts, and other matters pertaining to the election of members of both Houses shall be fixed by law.",
+    "japaneseLegalContext": "憲法第44条: 両議院の議員及びその選挙人の資格は、法律でこれを定める。但し、人種、信条、性別、社会的身分、門地、教育、財産又は収入によつて差別してはならない。",
+    "exampleSentence": "The disparity in population among different electoral districts is frequently challenged in court as potentially violating the constitutional principle of equality in voting.",
+    "exampleTranslation": "異なる選挙区間の人口の不均衡は、投票における平等という憲法上の原則に違反する可能性があるとして、頻繁に法廷で争われている。",
+    "vocabularyList": [
+      {
+        "word": "disparity",
+        "translation": "不均衡 (ふきんこう)"
+      },
+      {
+        "word": "population",
+        "translation": "人口 (じんこう)"
+      },
+      {
+        "word": "challenged in court",
+        "translation": "法廷で争われる (ほうていであらそわれる)"
+      },
+      {
+        "word": "potentially violating",
+        "translation": "違反する可能性がある (いはんするかのうせいがある)"
+      },
+      {
+        "word": "equality in voting",
+        "translation": "投票の平等 (とうひょうのびょうどう)"
+      },
+      {
+        "word": "single-member constituency",
+        "translation": "小選挙区 (しょうせんきょく)"
+      }
+    ]
+  },
+  {
+    "category": "Constitution (憲法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interpellation",
+    "definition": "A formal demand or right, especially by members of the legislature (Diet), to ask questions of the executive branch (Cabinet or Ministers of State) concerning policy or administration.",
+    "japaneseDefinition": "国会議員が内閣または国務大臣に対して、行政の政策や執行に関する説明や報告を求める行為。国会が内閣の責任を追及する手段の一つ。",
+    "japaneseWordTranslation": "質疑 (しつぎ) / 内閣質疑 (ないかくしつぎ)",
+    "legalContext": "Constitution Art. 63: The Ministers of State and their representatives may, at any time, appear in either House for the purpose of speaking on bills, or making reports or furnishing explanations as to the general national affairs.",
+    "japaneseLegalContext": "憲法第63条: 内閣総理大臣その他の国務大臣は、両議院の一つに議席を有するかしないかにかかはらず、いつでも議案について発言するため議院に出席することができる。又、答弁又は説明のため出席を求められたときは、出席しなければならない。",
+    "exampleSentence": "During the plenary session, the opposition party member raised an interpellation regarding the government’s new policy on energy security.",
+    "exampleTranslation": "本会議中、野党の議員は、政府の新しいエネルギー安全保障政策に関する質疑を行った。",
+    "vocabularyList": [
+      {
+        "word": "plenary session",
+        "translation": "本会議 (ほんかいぎ)"
+      },
+      {
+        "word": "opposition party",
+        "translation": "野党 (やとう)"
+      },
+      {
+        "word": "executive branch",
+        "translation": "行政府 (ぎょうせいふ)"
+      },
+      {
+        "word": "policy",
+        "translation": "政策 (せいさく)"
+      },
+      {
+        "word": "energy security",
+        "translation": "エネルギー安全保障 (あんぜんほしょう)"
+      },
+      {
+        "word": "Ministers of State",
+        "translation": "国務大臣 (こくむだいじん)"
+      }
+    ]
+  },
+  {
+    "category": "Constitution (憲法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Emergency Action",
+    "definition": "Measures taken by executive bodies or local public entities, particularly regarding financial or administrative matters, when immediate action is required and obtaining legislative approval through normal procedures is impossible or impractical.",
+    "japaneseDefinition": "地方公共団体等が、議会の議決を経る時間的余裕がない等の理由で、特に財政上の措置や行政上の決定を緊急に行うこと。",
+    "japaneseWordTranslation": "緊急処分 (きんきゅうしょぶん)",
+    "legalContext": "Constitution Art. 95: A special law, applicable only to one local public entity, cannot be enacted by the Diet without the consent of the majority of the voters of the local public entity concerned, obtained in accordance with law.",
+    "japaneseLegalContext": "憲法第95条: 一の地方公共団体のみに適用される特別法は、法律の定めるところにより、その地方公共団体の住民の投票においてその過半数の同意を得なければ、国会は、これを制定することができない。",
+    "exampleSentence": "The mayor invoked the authority for emergency action to approve disaster relief spending before the municipal assembly could convene its extraordinary session.",
+    "exampleTranslation": "市長は、市議会が臨時会を招集する前に、災害救助費の支出を承認するための緊急処分権限を発動した。",
+    "vocabularyList": [
+      {
+        "word": "mayor",
+        "translation": "市長 (しちょう)"
+      },
+      {
+        "word": "invoked the authority",
+        "translation": "権限を発動した (けんげんをはつどうした)"
+      },
+      {
+        "word": "disaster relief",
+        "translation": "災害救助 (さいがいきゅうじょ)"
+      },
+      {
+        "word": "spending",
+        "translation": "支出 (ししゅつ)"
+      },
+      {
+        "word": "municipal assembly",
+        "translation": "市議会 (しぎかい)"
+      },
+      {
+        "word": "convene",
+        "translation": "招集する (しょうしゅうする)"
       }
     ]
   }

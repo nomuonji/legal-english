@@ -5512,5 +5512,119 @@
         "translation": "法定要件"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Supermajority Requirement",
+    "definition": "A stipulation, either statutory or contained within the Articles of Incorporation, that mandates a resolution be passed by a stricter majority (e.g., higher attendance quorum or larger percentage of votes) than the default ordinary or special resolution thresholds.",
+    "japaneseDefinition": "定款又は法律により、通常の決議要件よりも厳しい出席者数や賛成票の割合が要求される決議条件。",
+    "japaneseWordTranslation": "加重決議要件 (かじゅうけつぎようけん)",
+    "legalContext": "Companies Act Art. 309(2) allows for stricter requirements for specific corporate resolutions to be set forth in the Articles of Incorporation.",
+    "japaneseLegalContext": "会社法第309条第2項：株主総会の決議要件に関し、定款で議決権の数又は出席株主の数を加重することができる。",
+    "exampleSentence": "The Articles of Incorporation imposed a **Supermajority Requirement** for any material amendment to the corporate purpose, protecting the interests of minor investors.",
+    "exampleTranslation": "定款は、会社の事業目的への重要な変更について、少額投資家の利益を保護するため、加重決議要件を課した。",
+    "vocabularyList": [
+      {
+        "word": "stipulation",
+        "translation": "規定"
+      },
+      {
+        "word": "corporate purpose",
+        "translation": "事業目的"
+      },
+      {
+        "word": "amendment",
+        "translation": "変更"
+      },
+      {
+        "word": "minor investor",
+        "translation": "少数株主"
+      },
+      {
+        "word": "quorum",
+        "translation": "定足数"
+      },
+      {
+        "word": "threshold",
+        "translation": "基準"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Disguised Payment",
+    "definition": "The responsibility imposed on incorporators, directors, or individuals who fraudulently facilitate the payment for shares by temporarily borrowing or immediately withdrawing the subscription funds, creating a false appearance of capital infusion.",
+    "japaneseDefinition": "株式の引受人等が、払込みに必要な金銭を一時的に借用したり、払込み後直ちに引き出したりするなどして、実質的な資本の払込みがないにもかかわらず、資本が注入されたかのように装う行為に関与した場合に負う責任。",
+    "japaneseWordTranslation": "払込の仮装責任 (はらいこみの かそうせきにん)",
+    "legalContext": "Companies Act Art. 52 and Art. 213 provide for strict liability where organizers or subscribers participate in disguised payments for shares, demanding actual payment.",
+    "japaneseLegalContext": "会社法第52条及び第213条：設立時発行株式または募集株式の払込みの仮装に関与した者に対する払込義務の履行責任を定める。",
+    "exampleSentence": "Because the incorporating director engaged in circular financing to meet the capital requirements, they were subject to **Liability for Disguised Payment** and obligated to deposit the actual funds.",
+    "exampleTranslation": "設立時取締役は資本要件を満たすために循環融資を行ったため、払込の仮装責任を負い、実際の資金を拠出する義務を負った。",
+    "vocabularyList": [
+      {
+        "word": "incorporating director",
+        "translation": "設立時取締役"
+      },
+      {
+        "word": "circular financing",
+        "translation": "循環融資"
+      },
+      {
+        "word": "capital requirements",
+        "translation": "資本要件"
+      },
+      {
+        "word": "subscription funds",
+        "translation": "引受金"
+      },
+      {
+        "word": "actual funds",
+        "translation": "現実の資金"
+      },
+      {
+        "word": "fraudulently",
+        "translation": "不正に"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Company with Accounting Auditors",
+    "definition": "A type of stock company (Kabushiki Kaisha), typically a 'Large Company' or a public company, which is legally mandated or chooses via its Articles of Incorporation to install an external, certified public accountant or auditing firm (Accounting Auditor) to examine its financial statements.",
+    "japaneseDefinition": "定款の定めまたは法律の規定により、公認会計士または監査法人である会計監査人を設置する株式会社の類型。大会社または公開会社に義務付けられる。",
+    "japaneseWordTranslation": "会計監査人設置会社 (かいけいかんさにんせっちかいしゃ)",
+    "legalContext": "Companies Act Art. 2(xi) defines the term, and Art. 327(1) mandates the appointment of an Accounting Auditor for Large Companies (Capital or Total Liabilities exceeding certain thresholds).",
+    "japaneseLegalContext": "会社法第2条第11号（定義）及び第327条第1項（設置義務）：大会社には、会計監査人を置かなければならない。",
+    "exampleSentence": "The firm transitioned into a **Company with Accounting Auditors** after crossing the threshold for total liabilities, thereby enhancing corporate transparency and stakeholder confidence.",
+    "exampleTranslation": "その会社は負債総額の基準を超えたため、会計監査人設置会社へと移行し、これにより企業透明性とステークホルダーの信頼を高めた。",
+    "vocabularyList": [
+      {
+        "word": "stock company",
+        "translation": "株式会社"
+      },
+      {
+        "word": "mandate",
+        "translation": "義務付け"
+      },
+      {
+        "word": "external",
+        "translation": "外部の"
+      },
+      {
+        "word": "certified public accountant",
+        "translation": "公認会計士"
+      },
+      {
+        "word": "corporate transparency",
+        "translation": "企業透明性"
+      },
+      {
+        "word": "stakeholder confidence",
+        "translation": "ステークホルダーの信頼"
+      }
+    ]
   }
 ]

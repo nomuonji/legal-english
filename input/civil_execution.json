@@ -2,40 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Compulsory Execution",
-    "definition": "Enforcement of a claim by state power against the will of the obligor based on a title of obligation.",
-    "japaneseDefinition": "債務名義に基づき、債務者の意思に反して、国家権力により強制的に債権の内容を実現すること。",
-    "japaneseWordTranslation": "強制執行 (きょうせいしっこう)",
-    "legalContext": "Civil Execution Act Art. 22: Compulsory execution shall be carried out based on a title of obligation.",
-    "japaneseLegalContext": "民事執行法第22条：強制執行は、債務名義により行う。",
-    "exampleSentence": "Compulsory execution was carried out against the debtor's real estate.",
-    "exampleTranslation": "債務者の不動産に対して強制執行が行われた。",
-    "vocabularyList": [
-      {
-        "word": "Title of obligation",
-        "translation": "債務名義"
-      },
-      {
-        "word": "Obligor",
-        "translation": "債務者"
-      },
-      {
-        "word": "Real estate",
-        "translation": "不動産"
-      },
-      {
-        "word": "Enforcement",
-        "translation": "執行/強制"
-      },
-      {
-        "word": "Will",
-        "translation": "意思"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Execution Court",
     "definition": "The court responsible for carrying out civil execution procedures.",
     "japaneseDefinition": "民事執行の手続を行う裁判所。",
@@ -5898,6 +5864,120 @@
       {
         "word": "prospective buyer",
         "translation": "見込みの買主 (みこみのかいぬし)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Obligee",
+    "definition": "The creditor who possesses a valid title (such as a final judgment or court-approved settlement) and applies to the court or execution officer to commence compulsory enforcement against the debtor.",
+    "japaneseDefinition": "執行権原（確定判決等）を有する債権者のうち、強制執行の申立てを行う者を指す。",
+    "japaneseWordTranslation": "執行債権者 (しっこうさいけんしゃ)",
+    "legalContext": "Civil Execution Act, Article 27 (Requirements for Commencement of Compulsory Execution): The creditor must file a petition with the Execution Court, providing the execution title.",
+    "japaneseLegalContext": "民事執行法 第27条（強制執行の開始要件）：債権者は、執行裁判所に執行文の付された執行名義の提出をしなければならない。",
+    "exampleSentence": "The Execution Obligee filed a motion with the court to seize the monetary claim the debtor held against the bank.",
+    "exampleTranslation": "執行債権者は、債務者が銀行に対して有する金銭債権を差し押さえるよう裁判所に申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "compulsory enforcement",
+        "translation": "強制執行"
+      },
+      {
+        "word": "execution title",
+        "translation": "執行名義"
+      },
+      {
+        "word": "file a petition",
+        "translation": "申立てを行う"
+      },
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "valid title",
+        "translation": "有効な権原"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Body",
+    "definition": "The administrative organs responsible for performing compulsory execution procedures in Japan, primarily encompassing the execution court, the execution officer (Shikkokan), and the execution clerk (Saibansho Shokikan).",
+    "japaneseDefinition": "強制執行の手続を実施する機関の総称であり、執行裁判所、執行官及び裁判所書記官を指す。",
+    "japaneseWordTranslation": "執行機関 (しっこうきかん)",
+    "legalContext": "Civil Execution Act, Article 19 (Execution Court, etc.): Compulsory execution shall be conducted by the execution court or the execution officer.",
+    "japaneseLegalContext": "民事執行法 第19条（執行裁判所等）：強制執行は、執行裁判所又は執行官が行う。",
+    "exampleSentence": "Matters related to real estate execution are generally handled by the Execution Court, which serves as the primary Execution Body in those cases.",
+    "exampleTranslation": "不動産執行に関する事項は、通常、当該事案における主要な執行機関である執行裁判所によって取り扱われる。",
+    "vocabularyList": [
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "execution officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "procedure",
+        "translation": "手続"
+      },
+      {
+        "word": "real estate execution",
+        "translation": "不動産執行"
+      },
+      {
+        "word": "primary",
+        "translation": "主要な"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order of Seizure",
+    "definition": "A court order issued in execution against a monetary claim (such as wages or bank deposits) that prohibits the debtor from collecting the claim and prohibits the third-party debtor (garnishee) from paying the debtor.",
+    "japaneseDefinition": "金銭債権（預金や給与など）に対する執行において、裁判所が発する命令であり、債務者による債権の取立てと、第三債務者による債務者への弁済を禁じるもの。",
+    "japaneseWordTranslation": "差押命令 (さしおさえめいれい)",
+    "legalContext": "Civil Execution Act, Article 145 (Method of Seizure): When executing against a claim, the execution court shall issue an Order of Seizure at the motion of the execution obligee.",
+    "japaneseLegalContext": "民事執行法 第145条（差押えの方法）：債権に対する執行は、執行裁判所が執行債権者の申立てにより差押命令を発して行う。",
+    "exampleSentence": "Upon receiving the Order of Seizure, the bank, acting as the third-party debtor, immediately froze the execution debtor’s account.",
+    "exampleTranslation": "差押命令を受領した銀行は、第三債務者として、直ちに執行債務者の口座を凍結した。",
+    "vocabularyList": [
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権"
+      },
+      {
+        "word": "third-party debtor",
+        "translation": "第三債務者"
+      },
+      {
+        "word": "garnishee",
+        "translation": "第三債務者"
+      },
+      {
+        "word": "prohibits",
+        "translation": "禁じる"
+      },
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "issue an order",
+        "translation": "命令を発する"
       }
     ]
   }

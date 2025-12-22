@@ -5016,5 +5016,127 @@
         "translation": "管轄"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Record of Rights Section A",
+    "definition": "The section of the real property register dedicated to recording matters related to the ownership of the property, including the creation, preservation, transfer, and modification of ownership rights.",
+    "japaneseDefinition": "不動産登記簿のうち、所有権の保存、移転、変更、抹消など、所有権に関する事項を記録する部分。",
+    "japaneseWordTranslation": "権利部甲区 (けんりぶこうく)",
+    "legalContext": "Real Property Registration Act Art. 7: The record of rights shall be divided into Section A, which records matters concerning ownership rights, and Section B, which records matters concerning rights other than ownership rights.",
+    "japaneseLegalContext": "不動産登記法 第7条: 権利部は、所有権に関する登記事項を記録する甲区及び所有権以外の権利に関する登記事項を記録する乙区に分ける。",
+    "exampleSentence": "The change in the registered title holder's name must be recorded in the Record of Rights Section A of the relevant register.",
+    "exampleTranslation": "登記名義人の氏名変更は、該当する登記簿の権利部甲区に記録されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "registered title holder",
+        "translation": "登記名義人"
+      },
+      {
+        "word": "ownership rights",
+        "translation": "所有権"
+      },
+      {
+        "word": "preservation (of ownership)",
+        "translation": "保存"
+      },
+      {
+        "word": "transfer (of rights)",
+        "translation": "移転"
+      },
+      {
+        "word": "modification (of rights)",
+        "translation": "変更"
+      },
+      {
+        "word": "register",
+        "translation": "登記簿"
+      },
+      {
+        "word": "Section B",
+        "translation": "乙区"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Identification Information (RII)",
+    "definition": "A 12-digit alphanumeric code assigned to the registered title holder for each real property, serving as authentication when they apply for a registration that would diminish or extinguish their rights.",
+    "japaneseDefinition": "登記名義人に対して登記官が通知する12桁の符号であり、その者が権利に関する登記を申請する際の本人確認情報として使用される。",
+    "japaneseWordTranslation": "登記識別情報 (とうきしきべつじょうほう)",
+    "legalContext": "Real Property Registration Act Art. 21: The registrar shall provide Registration Identification Information to the person who becomes the new registered title holder after the registration has been completed.",
+    "japaneseLegalContext": "不動産登記法 第21条: 登記官は、登記を完了した後に、新たに登記名義人となる者に登記識別情報を通知しなければならない。",
+    "exampleSentence": "Failure to provide the Registration Identification Information when applying for the establishment of a mortgage may lead to the rejection of the application unless substitute authentication procedures are utilized.",
+    "exampleTranslation": "抵当権の設定を申請する際に登記識別情報の提供がなければ、代替の本人確認手続きを用いない限り、申請は却下される可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "authentication",
+        "translation": "本人確認"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
+      },
+      {
+        "word": "establishment of a mortgage",
+        "translation": "抵当権の設定"
+      },
+      {
+        "word": "rejection of the application",
+        "translation": "申請の却下"
+      },
+      {
+        "word": "substitute authentication procedures",
+        "translation": "代替の本人確認手続き"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of the Property Description",
+    "definition": "The type of registration that records the physical facts and specifications of land or buildings, such as the area, usage, structure, and address, distinct from registrations concerning proprietary rights.",
+    "japaneseDefinition": "不動産の物理的な現況（土地の地番、地積、地目、建物の種類、構造、床面積など）を記録する登記。権利に関する登記とは区別される。",
+    "japaneseWordTranslation": "表示の登記 (ひょうじのとうき)",
+    "legalContext": "Real Property Registration Act Art. 27: Registration of the property description for land shall record the lot number, land usage, and area (cadastral measurement).",
+    "japaneseLegalContext": "不動産登記法 第27条: 土地の表示の登記においては、地番、地目及び地積を記録しなければならない。",
+    "exampleSentence": "The owner is obligated to apply for the Registration of the Property Description within one month of completing a new building or effecting a change in land usage.",
+    "exampleTranslation": "所有者は、新築建物の完成または地目変更を行った日から一月以内に、表示の登記を申請する義務を負う。",
+    "vocabularyList": [
+      {
+        "word": "physical facts",
+        "translation": "物理的な現況"
+      },
+      {
+        "word": "lot number",
+        "translation": "地番"
+      },
+      {
+        "word": "land usage",
+        "translation": "地目"
+      },
+      {
+        "word": "area (cadastral measurement)",
+        "translation": "地積"
+      },
+      {
+        "word": "building structure",
+        "translation": "建物の構造"
+      },
+      {
+        "word": "floor area",
+        "translation": "床面積"
+      },
+      {
+        "word": "proprietary rights",
+        "translation": "権利"
+      }
+    ]
   }
 ]

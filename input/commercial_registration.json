@@ -5312,5 +5312,107 @@
         "translation": "管理"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registrar's Formal Review",
+    "definition": "The principle under Commercial Registration Law that the Registrar examines applications strictly based on formal requirements, such as the sufficiency of documents and consistency with statutory rules, without investigating the substantive validity of the underlying corporate resolutions or transactions.",
+    "japaneseDefinition": "登記官が商業登記の申請を受理する際、添付書類の適否や法定の様式の具備など、形式的な要件のみを審査し、その登記原因たる法的主張の真偽や実体的な有効性については審査しないという原則。",
+    "japaneseWordTranslation": "登記官の形式的審査 (とうきかんのけいしきてきしんさ)",
+    "legalContext": "Commercial Registration Act (implied principle derived from Art. 24): The Registrar shall reject applications that violate laws, lack required documents, or fail to meet specified formal criteria.",
+    "japaneseLegalContext": "商業登記法第24条（拒否事由）: 申請が法令に違反するとき、又は必要な書類が添付されていないときは、登記官はこれを拒否しなければならない。（形式的審査の裏付け）",
+    "exampleSentence": "Due to the Registrar's Formal Review, an applicant must meticulously prepare all accompanying documents, even if the underlying corporate act is unquestionably valid.",
+    "exampleTranslation": "登記官の形式的審査があるため、たとえ根拠となる会社の行為が議論の余地なく有効であっても、申請人は全ての添付書類を細心の注意を払って準備しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Formal requirements",
+        "translation": "形式的要件 (けいしきてきようけん)"
+      },
+      {
+        "word": "Sufficiency of documents",
+        "translation": "書類の充足性 (しょるいのじゅうそくせい)"
+      },
+      {
+        "word": "Statutory rules",
+        "translation": "法令の規定 (ほうれいのきてい)"
+      },
+      {
+        "word": "Underlying corporate resolutions",
+        "translation": "基礎となる会社決議 (きそとなるかいしゃけつぎ)"
+      },
+      {
+        "word": "Meticulously prepare",
+        "translation": "細心の注意を払って準備する (さいしんのちゅういをはらってじゅんびする)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Apparent Representative Director",
+    "definition": "A person who is registered in the commercial register as a Representative Director or permitted to use a title suggesting representative authority, despite lacking the actual authority. The company is held liable for their actions towards good faith third parties, based on the principle of reliance on registration.",
+    "japaneseDefinition": "商業登記簿に代表取締役として登記されている、または代表権限があるかのような名称の使用を許諾された、真の代表権を持たない者。登記に対する信頼保護の原則に基づき、会社はその者の行為について善意の第三者に対し責任を負う。",
+    "japaneseWordTranslation": "表見代表取締役 (ひょうけんだいひょうとりしまりやく)",
+    "legalContext": "Companies Act Art. 9: A company shall be liable to a third party acting in good faith for the acts conducted by a person who uses a title that implies the authority of a Representative Director.",
+    "japaneseLegalContext": "会社法第9条: 会社は、表見代表取締役の行為について、善意の第三者に対し、その責めに任ずる。",
+    "exampleSentence": "If the company fails to delete the registration of a retired executive, that person may be treated as an Apparent Representative Director, binding the company to any contract they execute with a good faith partner.",
+    "exampleTranslation": "会社が退任した役員の登記を抹消しなかった場合、その者は表見代表取締役として扱われ、善意の取引先と締結した契約について会社を拘束し得る。",
+    "vocabularyList": [
+      {
+        "word": "Binding the company",
+        "translation": "会社を拘束する (かいしゃをこうそくする)"
+      },
+      {
+        "word": "Lacking the actual authority",
+        "translation": "現実の権限を欠く (げんじつのけんげんをかく)"
+      },
+      {
+        "word": "Principle of reliance",
+        "translation": "信頼保護の原則 (しんらいほごのげんそく)"
+      },
+      {
+        "word": "Retired executive",
+        "translation": "退任した役員 (たいにんしたやくいん)"
+      },
+      {
+        "word": "Good faith partner",
+        "translation": "善意の取引先 (ぜんいのとりひきさき)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deletion due to Inactivity",
+    "definition": "A process under the Companies Act and Commercial Registration Act where a stock company that has failed to file any registration or submission (e.g., changes in officers) for a specified statutory period (typically twelve years) is legally presumed to have dissolved, allowing the Registrar to subsequently delete the relevant entries in the commercial register.",
+    "japaneseDefinition": "会社法および商業登記法に基づき、株式会社が一定の法定期間（通常12年間）にわたり一切の登記（役員変更等）を行わなかった場合、法的に解散したものとみなされ（みなし解散）、登記官がその後に商業登記の関連事項を抹消する手続き。",
+    "japaneseWordTranslation": "みなし解散による登記抹消 (みなしかいさんによるとうきまっしょう)",
+    "legalContext": "Companies Act Art. 472 and Commercial Registration Act Art. 38(11): Specifies the legal grounds and process for presumed dissolution of a dormant company and the subsequent deletion of its registration.",
+    "japaneseLegalContext": "会社法第472条・商業登記法第38条第11号: 休眠会社の解散の規定及び、これに基づく登記の抹消に関する規定。",
+    "exampleSentence": "To avoid Deletion due to Inactivity, even dormant companies must periodically file the necessary administrative registrations, such as the reappointment of officers, even if no actual change occurred.",
+    "exampleTranslation": "みなし解散による登記抹消を避けるために、休眠会社であっても、実際の変更がなくても役員の重任登記など必要な行政上の登記を定期的に申請しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Dormant companies",
+        "translation": "休眠会社 (きゅうみんがいしゃ)"
+      },
+      {
+        "word": "Specified statutory period",
+        "translation": "一定の法定期間 (いっていのほうていきかん)"
+      },
+      {
+        "word": "Presumed dissolution",
+        "translation": "みなし解散 (みなしかいさん)"
+      },
+      {
+        "word": "Reappointment of officers",
+        "translation": "役員の重任 (やくいんのじゅうにん)"
+      },
+      {
+        "word": "Relevant entries",
+        "translation": "関連事項 (かんれんじこう)"
+      }
+    ]
   }
 ]

@@ -5628,5 +5628,127 @@
         "translation": "申立て (もうしたて)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designated Jurisdiction",
+    "definition": "Jurisdiction determined and assigned to a specific court by a superior court (e.g., the High Court or Supreme Court) when the statutory rules of venue cannot be applied or when the court of ordinary jurisdiction is legally unavailable.",
+    "japaneseDefinition": "法定の裁判籍がない場合や、裁判所が法律上の理由で職務を行うことができない場合に、上級裁判所が職務を行う裁判所を指定すること。",
+    "japaneseWordTranslation": "指定管轄 (していかんかつ)",
+    "legalContext": "Code of Civil Procedure (CCP) Art. 11: Designation of a Competent Court (指定管轄の裁判)",
+    "japaneseLegalContext": "民事訴訟法第11条：指定管轄の裁判",
+    "exampleSentence": "The Supreme Court issued an order of **Designated Jurisdiction** after determining that the District Court in question was legally unable to handle the complex commercial dispute.",
+    "exampleTranslation": "最高裁判所は、当該地方裁判所が複雑な商事紛争を法的に処理できないと判断した後、指定管轄の決定を発した。",
+    "vocabularyList": [
+      {
+        "word": "Supreme Court",
+        "translation": "最高裁判所"
+      },
+      {
+        "word": "District Court",
+        "translation": "地方裁判所"
+      },
+      {
+        "word": "order",
+        "translation": "決定"
+      },
+      {
+        "word": "dispute",
+        "translation": "紛争"
+      },
+      {
+        "word": "competent court",
+        "translation": "管轄裁判所"
+      },
+      {
+        "word": "statutory rules of venue",
+        "translation": "法定の裁判籍"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibition of a Disadvantageous Change",
+    "definition": "The principle applied in appeal procedures stating that a court of appeal cannot modify a judgment in a way that is more detrimental to the appealing party than the original judgment, provided that the opposing party has not also filed an appeal.",
+    "japaneseDefinition": "上訴審において、上訴人が自己に不利益になるよう判決を変更してはならないという原則。相手方が上訴していない場合に適用される。",
+    "japaneseWordTranslation": "不利益変更禁止の原則 (ふりえきへんこうきんしのげんそく)",
+    "legalContext": "Code of Civil Procedure (CCP) Art. 304: Restriction on Amendment of Judgment to the Appellant's Detriment (不利益変更の禁止)",
+    "japaneseLegalContext": "民事訴訟法第304条：不利益変更の禁止",
+    "exampleSentence": "Due to the **Prohibition of a Disadvantageous Change**, the High Court could not increase the damage award against the defendant who was the sole appellant in the case.",
+    "exampleTranslation": "不利益変更禁止の原則により、高等裁判所は、本件で唯一の控訴人であった被告に対し、賠償額を増額することはできなかった。",
+    "vocabularyList": [
+      {
+        "word": "appellant",
+        "translation": "上訴人／控訴人"
+      },
+      {
+        "word": "appeal procedure",
+        "translation": "上訴手続"
+      },
+      {
+        "word": "modify",
+        "translation": "変更する"
+      },
+      {
+        "word": "detrimental",
+        "translation": "不利益な"
+      },
+      {
+        "word": "judgment",
+        "translation": "判決"
+      },
+      {
+        "word": "damage award",
+        "translation": "賠償額"
+      },
+      {
+        "word": "opposing party",
+        "translation": "相手方"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Aid for Litigation Costs",
+    "definition": "A system allowing a party who lacks the financial means to pay the necessary procedural costs (such as filing fees and witness expenses) to postpone payment until after the case is concluded or they acquire sufficient funds.",
+    "japaneseDefinition": "経済的に困窮している当事者に対し、訴訟に必要な費用（手数料、証人尋問費、鑑定費用など）の支払いを、訴訟終了後または資力を得るまで猶予する制度。",
+    "japaneseWordTranslation": "訴訟救助 (そしょうきゅうじょ)",
+    "legalContext": "Code of Civil Procedure (CCP) Art. 132 (Aid for Litigation Costs) and subsequent articles governing the application and effect of the aid.",
+    "japaneseLegalContext": "民事訴訟法第132条（訴訟救助）及びこれに続く訴訟救助の申立て及び効力に関する条文。",
+    "exampleSentence": "The plaintiff, being unemployed, successfully petitioned the court for **Aid for Litigation Costs** to cover the substantial filing fees required for the complex lawsuit.",
+    "exampleTranslation": "原告は無職であったため、複雑な訴訟に必要とされる多額の申立費用を賄うために、訴訟救助を裁判所に申し立てて認められた。",
+    "vocabularyList": [
+      {
+        "word": "plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "financial means",
+        "translation": "資力"
+      },
+      {
+        "word": "filing fees",
+        "translation": "申立費用"
+      },
+      {
+        "word": "postpone payment",
+        "translation": "支払いを猶予する"
+      },
+      {
+        "word": "witness expenses",
+        "translation": "証人費用"
+      },
+      {
+        "word": "successfully petitioned",
+        "translation": "申し立てて認められた"
+      },
+      {
+        "word": "expert fees",
+        "translation": "鑑定費用"
+      }
+    ]
   }
 ]

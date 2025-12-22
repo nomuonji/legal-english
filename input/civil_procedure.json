@@ -5864,5 +5864,127 @@
         "translation": "本案について"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Counterclaim",
+    "definition": "A claim made by the defendant against the plaintiff within the scope of the lawsuit already commenced by the plaintiff, provided certain procedural requirements are met.",
+    "japaneseDefinition": "原告が提起した訴訟手続の中で、被告が原告に対し、原告の請求の趣旨及び原因を変更しない範囲内で、新たな請求をすること。",
+    "japaneseWordTranslation": "反訴 (はんそ)",
+    "legalContext": "Code of Civil Procedure (CCP) Art. 142: A defendant may file a counterclaim against the plaintiff during the pendency of the suit.",
+    "japaneseLegalContext": "民事訴訟法第142条: 被告は、本訴の係属中、その請求並びにその原因を変更しない限度において、反訴を提起することができる。",
+    "exampleSentence": "The court ruled the defendant's counterclaim was inadmissible because it was not related to the subject matter of the original claim.",
+    "exampleTranslation": "裁判所は、被告の反訴が本訴の訴訟物と関連性がないため、却下されるべきであると判断した。",
+    "vocabularyList": [
+      {
+        "word": "defendant",
+        "translation": "被告 (ひこく)"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告 (げんこく)"
+      },
+      {
+        "word": "admissible",
+        "translation": "適法な (てきほうな)"
+      },
+      {
+        "word": "original claim",
+        "translation": "本訴請求 (ほんそせいきゅう)"
+      },
+      {
+        "word": "pendency of the suit",
+        "translation": "訴訟係属中 (そしょうけいぞくちゅう)"
+      },
+      {
+        "word": "subject matter of the suit",
+        "translation": "訴訟物 (そしょうぶつ)"
+      },
+      {
+        "word": "inadmissible",
+        "translation": "却下されるべき (きゃっかされるべき)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statement of the Relief Sought",
+    "definition": "The formal section of a complaint or petition that explicitly states the specific outcome, or judgment, the plaintiff is requesting the court to issue (e.g., ordering payment or confirmation of a right).",
+    "japaneseDefinition": "訴状において、原告が裁判所に対し求める判決の内容を具体的に記載する部分。請求の原因と並び、訴訟提起の必須事項である。",
+    "japaneseWordTranslation": "請求の趣旨 (せいきゅうのしゅし)",
+    "legalContext": "CCP Art. 133, Para. 2: A complaint shall state the plaintiff and the defendant, the statement of the relief sought, and the grounds for the claim.",
+    "japaneseLegalContext": "民事訴訟法第133条第2項: 訴状には、当事者及び法定代理人、請求の趣旨及び請求の原因を記載しなければならない。",
+    "exampleSentence": "The Statement of the Relief Sought in the complaint demanded the immediate return of the asset or, alternatively, payment of its market value.",
+    "exampleTranslation": "訴状における請求の趣旨は、当該資産の即時返還、またはその市場価値の支払いを代替的に要求した。",
+    "vocabularyList": [
+      {
+        "word": "complaint",
+        "translation": "訴状 (そじょう)"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告 (げんこく)"
+      },
+      {
+        "word": "grounds for the claim",
+        "translation": "請求の原因 (せいきゅうのげんいん)"
+      },
+      {
+        "word": "judgment",
+        "translation": "判決 (はんけつ)"
+      },
+      {
+        "word": "asset",
+        "translation": "資産 (しさん)"
+      },
+      {
+        "word": "alternatively",
+        "translation": "代替的に (だいたいてきに)"
+      },
+      {
+        "word": "market value",
+        "translation": "市場価値 (しじょうかち)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Documentary Evidence",
+    "definition": "A form of evidence in civil litigation, consisting of written instruments, records, or other media, whose content or form is presented to the court for the purpose of proving or disproving facts in dispute.",
+    "japaneseDefinition": "訴訟における証拠方法の一つであり、文書の記載内容をもって争点となっている事実の存否を証明しようとするもの。書面の提出を伴う。",
+    "japaneseWordTranslation": "書証 (しょしょう)",
+    "legalContext": "CCP Art. 219: Documentary Evidence shall be examined by a method in which the document is submitted to the court for its inspection.",
+    "japaneseLegalContext": "民事訴訟法第219条: 書証は、文書を提出してこれを調べる方法により行う。",
+    "exampleSentence": "The attorney successfully impeached the witness’s testimony by introducing Documentary Evidence that contradicted the stated facts.",
+    "exampleTranslation": "その弁護士は、証言された事実に矛盾する書証を提出することで、証人の証言を効果的に弾劾した。",
+    "vocabularyList": [
+      {
+        "word": "written instruments",
+        "translation": "書面 (しょめん)"
+      },
+      {
+        "word": "contested facts",
+        "translation": "争点となっている事実 (そうてんとなっているじじつ)"
+      },
+      {
+        "word": "attorney",
+        "translation": "弁護士 (べんごし)"
+      },
+      {
+        "word": "impeach",
+        "translation": "弾劾する (だんがいする)"
+      },
+      {
+        "word": "witness's testimony",
+        "translation": "証人の証言 (しょうにんのしょうげん)"
+      },
+      {
+        "word": "contradicted",
+        "translation": "矛盾する (むじゅんする)"
+      }
+    ]
   }
 ]

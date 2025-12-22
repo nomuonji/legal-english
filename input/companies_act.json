@@ -5626,5 +5626,119 @@
         "translation": "ステークホルダーの信頼"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Limitation of Liability Agreement",
+    "definition": "A contractual arrangement permitted under the Companies Act for specific non-executive officers (such as outside directors) to limit their liability to the company to a predetermined amount, typically calculated based on their compensation.",
+    "japaneseDefinition": "会社法に基づき、業務執行を行わない取締役（社外取締役など）が、会社に対する損害賠償責任を、報酬額に基づいた一定の金額に限定することを可能にする契約。",
+    "japaneseWordTranslation": "せきにん げんてい けいやく",
+    "legalContext": "Companies Act Art. 427: Establishes the rules for a company with a board of directors to conclude agreements limiting liability with non-executive directors, etc., subject to specific requirements in the articles of incorporation.",
+    "japaneseLegalContext": "会社法第427条：取締役会設置会社が、定款に定めることにより、業務執行を行わない取締役等との間で責任限定契約を締結できる旨を規定する。",
+    "exampleSentence": "The outside director concluded a Limitation of Liability Agreement with the company as stipulated in the Articles of Incorporation to reduce their exposure to potential damage claims.",
+    "exampleTranslation": "その社外取締役は、潜在的な損害賠償請求へのエクスポージャーを減らすため、定款に定められた通りに、会社との間で責任限定契約を締結した。",
+    "vocabularyList": [
+      {
+        "word": "outside director",
+        "translation": "社外取締役"
+      },
+      {
+        "word": "non-executive director",
+        "translation": "非業務執行取締役"
+      },
+      {
+        "word": "damage claims",
+        "translation": "損害賠償請求"
+      },
+      {
+        "word": "stipulated",
+        "translation": "定められた"
+      },
+      {
+        "word": "articles of incorporation",
+        "translation": "定款"
+      },
+      {
+        "word": "compensation",
+        "translation": "報酬"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Business Year / Accounting Year",
+    "definition": "The period for which a company prepares its statutory accounting documents, including financial statements, as stipulated in the company’s Articles of Incorporation; usually a period not exceeding one year.",
+    "japaneseDefinition": "会社が計算書類（貸借対照表や損益計算書など）を作成するために定める期間であり、定款に記載される。通常は1年以内の期間である。",
+    "japaneseWordTranslation": "じぎょう ねんど",
+    "legalContext": "Companies Act Art. 435 (2) and Art. 436 (1): Mandates the preparation of accounting documents (including financial statements) at the end of each business year.",
+    "japaneseLegalContext": "会社法第435条第2項、第436条第1項：株式会社は、定款の定めにより事業年度ごとに計算書類等を作成しなければならない旨を規定する。",
+    "exampleSentence": "The General Meeting of Shareholders for approving the final accounts must be held within three months after the end of the Business Year.",
+    "exampleTranslation": "決算を承認するための株主総会は、事業年度の終了後3か月以内に開催されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "statutory accounting documents",
+        "translation": "計算書類"
+      },
+      {
+        "word": "final accounts",
+        "translation": "決算"
+      },
+      {
+        "word": "General Meeting of Shareholders",
+        "translation": "株主総会"
+      },
+      {
+        "word": "stipulated",
+        "translation": "定められた"
+      },
+      {
+        "word": "financial statements",
+        "translation": "財務諸表"
+      },
+      {
+        "word": "prepare",
+        "translation": "作成する"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Book-Entry Transfer System",
+    "definition": "The mandatory system, governed by related law, under which the ownership, transfer, and acquisition of specified securities (especially listed shares) are recorded and managed solely through electronic entries in a centralized registry, without physical certificates.",
+    "japaneseDefinition": "関連法令に基づき、特定の有価証券（特に上場株式）の所有権、譲渡及び取得を、物理的な証券を用いず、集中登録機関における電子的な帳簿上の振替記録によってのみ管理する義務的な仕組み。",
+    "japaneseWordTranslation": "ふりかえ せいど",
+    "legalContext": "Act on Book-Entry Transfer of Corporate Bonds and Shares (related to Companies Act Art. 217): Governs the procedures for the transfer and settlement of shares in listed companies.",
+    "japaneseLegalContext": "社債、株式等の振替に関する法律（会社法第217条関連）：上場会社の株式の譲渡及び決済の手続きを規定する。",
+    "exampleSentence": "Since the company is listed, all share transactions must be processed through the Book-Entry Transfer System, eliminating the need for physical share certificates.",
+    "exampleTranslation": "その会社は上場企業であるため、すべての株式取引は振替制度を通じて処理されなければならず、物理的な株券は不要である。",
+    "vocabularyList": [
+      {
+        "word": "listed shares",
+        "translation": "上場株式"
+      },
+      {
+        "word": "securities",
+        "translation": "有価証券"
+      },
+      {
+        "word": "transfer of ownership",
+        "translation": "所有権の移転"
+      },
+      {
+        "word": "centralized registry",
+        "translation": "集中登録機関"
+      },
+      {
+        "word": "share transactions",
+        "translation": "株式取引"
+      },
+      {
+        "word": "physical certificates",
+        "translation": "物理的な証券"
+      }
+    ]
   }
 ]

@@ -5640,5 +5640,135 @@
         "translation": "第三債務者"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cancellation for Non-commencement of Substantive Action",
+    "definition": "The statutory mechanism by which a preservation measure is automatically revoked if the preservation obligee fails to initiate the principal action (the action on the merits) within the legally prescribed exclusion period after the issuance of the preservation order.",
+    "japaneseDefinition": "保全命令が発令された後、保全債権者が法定の除斥期間内に本案の訴えを提起しない場合、その保全措置が当然に効力を失う制度。",
+    "japaneseWordTranslation": "本案の訴えの不提起による保全取消 (ほんなんのうったえのふていきによるほぜんとりけし)",
+    "legalContext": "Civil Preservation Act, Article 37, Paragraph 1: Provides the grounds and procedure for the cancellation of a preservation order due to the preservation obligee's failure to file the substantive suit.",
+    "japaneseLegalContext": "民事保全法第37条第1項：保全債権者が本案の訴えを提起しないことによる保全命令の取消しの根拠と手続を定める。",
+    "exampleSentence": "If the preservation obligee neglects the initiation of the substantive action within the two-week exclusion period, the preservation order becomes subject to cancellation for non-commencement of substantive action.",
+    "exampleTranslation": "保全債権者が2週間の除斥期間内に本案の訴えの提起を怠った場合、その保全命令は本案の訴えの不提起による保全取消しの対象となる。",
+    "vocabularyList": [
+      {
+        "word": "substantive action",
+        "translation": "本案の訴え (ほんなんのうったえ)"
+      },
+      {
+        "word": "exclusion period",
+        "translation": "除斥期間 (じょせききかん)"
+      },
+      {
+        "word": "preservation obligee",
+        "translation": "保全債権者 (ほぜんさいけんしゃ)"
+      },
+      {
+        "word": "initiation",
+        "translation": "提起 (ていき)"
+      },
+      {
+        "word": "statutory mechanism",
+        "translation": "法定の制度 (ほうていのせいど)"
+      },
+      {
+        "word": "neglect",
+        "translation": "怠る (おこたる)"
+      },
+      {
+        "word": "issuance",
+        "translation": "発令 (はつれい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Risk of Rendering Enforcement Impossible",
+    "definition": "A fundamental requirement for obtaining a provisional seizure (attachment) order, signifying the concrete likelihood that, if preservation measures are not immediately taken, the eventual compulsory execution on the obligor's assets for a monetary claim would be impossible or severely impaired.",
+    "japaneseDefinition": "仮差押え命令を発令するための基本的な要件の一つであり、直ちに保全措置を講じなければ、金銭債権に基づく将来の強制執行が不能になるか、または著しく困難になる具体的な蓋然性のこと。",
+    "japaneseWordTranslation": "執行を不能にするおそれ (しっこうをふのうにするおそれ)",
+    "legalContext": "Civil Preservation Act, Article 20, Paragraph 1: Specifies that provisional seizure is only permissible when there is a risk of rendering enforcement impossible or substantially difficult.",
+    "japaneseLegalContext": "民事保全法第20条第1項：強制執行を不能にするおそれ又は著しく困難にするおそれがあるときに限り、仮差押えを命ずることができると規定する。",
+    "exampleSentence": "The court found sufficient evidence demonstrating a risk of rendering enforcement impossible, as the preservation debtor was actively liquidating his primary assets and transferring the proceeds overseas.",
+    "exampleTranslation": "裁判所は、保全債務者が主要な資産を積極的に現金化し、その収益を海外に移転していたため、執行を不能にするおそれが存在すると認めるに足る十分な証拠を見出した。",
+    "vocabularyList": [
+      {
+        "word": "provisional seizure",
+        "translation": "仮差押え (かりさしおさえ)"
+      },
+      {
+        "word": "fundamental requirement",
+        "translation": "基本的要件 (きほんてきようけん)"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行 (きょうせいしっこう)"
+      },
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権 (きんせんさいけん)"
+      },
+      {
+        "word": "severely impaired",
+        "translation": "著しく困難になる (いちじるしくこんなんになる)"
+      },
+      {
+        "word": "concrete likelihood",
+        "translation": "具体的な蓋然性 (ぐたいてきながいぜんせい)"
+      },
+      {
+        "word": "primary assets",
+        "translation": "主要な資産 (しゅようなしさん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Abrogation of Preservation Due to Changed Facts",
+    "definition": "The procedure enabling the preservation debtor to apply for the termination of a preservation measure when the facts or circumstances that originally constituted the necessity for preservation have ceased to exist or have undergone a significant alteration since the preservation order was originally granted.",
+    "japaneseDefinition": "保全命令が発令された後に、保全の必要性を構成していた事情が消滅したり、著しく変更したりした場合に、保全債務者が保全裁判所に対し、当該保全措置の終結を申し立てる手続。",
+    "japaneseWordTranslation": "事情変更による保全取消 (じじょうへんこうによるほぜんとりけし)",
+    "legalContext": "Civil Preservation Act, Article 42: Establishes the right of the preservation debtor to move for abrogation based on changed facts.",
+    "japaneseLegalContext": "民事保全法第42条：事情変更に基づいて保全債務者が保全の取消しを申し立てる権利を規定する。",
+    "exampleSentence": "The preservation debtor filed a motion for abrogation of preservation due to changed facts after providing substantial alternative collateral that fully secured the obligee's claim.",
+    "exampleTranslation": "保全債務者は、債権者の請求権を完全に担保する実質的な代替担保を提供した後、事情変更による保全取消しの申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者 (ほぜんさいむしゃ)"
+      },
+      {
+        "word": "abrogation",
+        "translation": "取消し (とりけし)"
+      },
+      {
+        "word": "termination",
+        "translation": "終結 (しゅうけつ)"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て (もうしたて)"
+      },
+      {
+        "word": "ceased to exist",
+        "translation": "消滅した (しょうめつした)"
+      },
+      {
+        "word": "significant alteration",
+        "translation": "著しい変更 (いちじるしいへんこう)"
+      },
+      {
+        "word": "alternative collateral",
+        "translation": "代替担保 (だいたいタンポ)"
+      },
+      {
+        "word": "fully secured",
+        "translation": "完全に担保する (かんぜんにたんぽする)"
+      }
+    ]
   }
 ]

@@ -6098,5 +6098,119 @@
         "translation": "実施裁判所 (じっしさいばんしょ)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Claim",
+    "definition": "The substantive claim held by the execution obligee against the execution debtor, which forms the basis for compulsory execution (Minji Shikkō).",
+    "japaneseDefinition": "強制執行の基礎となる、執行債権者が執行債務者に対して有する債権。主に金銭債権がこれにあたる。",
+    "japaneseWordTranslation": "執行債権 (しっこうさいけん)",
+    "legalContext": "Civil Execution Act, Article 22 (Titles of Execution, general principle): Enforcement based on monetary claims is carried out against the property of the obligor to realize the execution claim.",
+    "japaneseLegalContext": "民事執行法第22条（債務名義）：金銭の支払を目的とする債権についての強制執行は、執行債権を実現するため、債務者の財産に対して行われる。",
+    "exampleSentence": "The amount specified in the authenticated judgment constitutes the principal amount of the execution claim.",
+    "exampleTranslation": "認証された判決書に記載された金額が、執行債権の元本額を構成する。",
+    "vocabularyList": [
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "authenticated judgment",
+        "translation": "認証判決書"
+      },
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権"
+      },
+      {
+        "word": "realize the claim",
+        "translation": "債権を実現する"
+      },
+      {
+        "word": "principal amount",
+        "translation": "元本額"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order of Commencement of Execution",
+    "definition": "A judicial decision issued by the execution court or the enforcement body that formally initiates the compulsory execution procedure against the debtor's property.",
+    "japaneseDefinition": "執行機関が、債務名義に基づき、強制執行手続を正式に開始するために発する決定。",
+    "japaneseWordTranslation": "執行開始決定 (しっこうかいしけってい)",
+    "legalContext": "Civil Execution Act, Article 27 (Commencement of Execution): The execution body shall issue the Order of Commencement of Execution simultaneously with the execution process, following the obligee's application.",
+    "japaneseLegalContext": "民事執行法第27条（執行の開始）：執行機関は、執行の開始と同時に、債権者の申立てに基づき、執行開始決定を発しなければならない。",
+    "exampleSentence": "The execution court dismissed the execution application because the Order of Commencement of Execution could not be duly served upon the debtor.",
+    "exampleTranslation": "執行裁判所は、執行開始決定を債務者に適法に送達できなかったため、執行の申立てを却下した。",
+    "vocabularyList": [
+      {
+        "word": "execution application",
+        "translation": "執行の申立て"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "execution body",
+        "translation": "執行機関"
+      },
+      {
+        "word": "serve upon",
+        "translation": "送達する"
+      },
+      {
+        "word": "duly",
+        "translation": "適法に"
+      },
+      {
+        "word": "dismissed",
+        "translation": "却下した"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Execution Declaration",
+    "definition": "A declaration attached to a judgment that allows the obligee to execute the judgment immediately, even if it is not yet final and binding due to a pending appeal.",
+    "japaneseDefinition": "判決が未確定であっても、上訴があっても、直ちに強制執行をすることを許す旨の裁判所による宣言。",
+    "japaneseWordTranslation": "仮執行宣言 (かりしっこうせんげん)",
+    "legalContext": "Code of Civil Procedure, Article 259 (Declaration of Provisional Execution): The court shall, upon petition, issue a declaration of provisional execution for judgments ordering payment of money or delivery of fungible items.",
+    "japaneseLegalContext": "民事訴訟法第259条（仮執行の宣言）：裁判所は、金銭の支払または代替物の引渡しを命ずる判決について、申立てにより仮執行の宣言をすることができる。",
+    "exampleSentence": "The defendant was required to provide security for litigation costs to prevent the plaintiff from immediately enforcing the judgment based on the *Provisional Execution Declaration*.",
+    "exampleTranslation": "被告は、原告が仮執行宣言に基づき判決を直ちに執行するのを防ぐため、訴訟費用担保を提供する必要があった。",
+    "vocabularyList": [
+      {
+        "word": "pending appeal",
+        "translation": "上訴係属中"
+      },
+      {
+        "word": "final and binding",
+        "translation": "確定する"
+      },
+      {
+        "word": "judgment ordering payment",
+        "translation": "支払を命ずる判決"
+      },
+      {
+        "word": "provide security",
+        "translation": "担保を提供する"
+      },
+      {
+        "word": "enforce the judgment",
+        "translation": "判決を執行する"
+      },
+      {
+        "word": "fungible items",
+        "translation": "代替物"
+      }
+    ]
   }
 ]

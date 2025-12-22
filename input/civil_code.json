@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Legal Capacity",
-    "definition": "The ability of a person, recognized by law, to validly perform juristic acts independently and assume legal rights and obligations.",
-    "japaneseDefinition": "法律上、単独で有効に法律行為を行い、権利義務の主体となることができる能力。",
-    "japaneseWordTranslation": "行為能力 (こういのうりょく)",
-    "legalContext": "Civil Code Art. 4: A person who has attained eighteen years of age shall be of full legal capacity.",
-    "japaneseLegalContext": "民法第4条：年齢十八歳をもって、行為能力を有する。",
-    "exampleSentence": "A minor lacking legal capacity generally requires the consent of a legal representative for property transactions.",
-    "exampleTranslation": "行為能力を欠く未成年者は、通常、財産取引について法定代理人の同意を必要とする。",
-    "vocabularyList": [
-      {
-        "word": "minor",
-        "translation": "未成年者"
-      },
-      {
-        "word": "legal representative",
-        "translation": "法定代理人"
-      },
-      {
-        "word": "full legal capacity",
-        "translation": "完全な行為能力"
-      },
-      {
-        "word": "juristic act",
-        "translation": "法律行為"
-      },
-      {
-        "word": "consent",
-        "translation": "同意"
-      },
-      {
-        "word": "property transaction",
-        "translation": "財産取引"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Possession",
     "definition": "The de facto control over a thing (corpus) combined with the intent to hold the thing for oneself (animus), which is protected by specific legal remedies.",
     "japaneseDefinition": "物に対する事実上の支配状態をいい、占有権として法的に保護される。",
@@ -6228,6 +6190,120 @@
       {
         "word": "既存の",
         "translation": "pre-existing"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Creditor's Subrogation Right",
+    "definition": "The right of a creditor, established under the Civil Code, to exercise the rights belonging to their debtor against a third party in order to preserve the debtor's assets, except for rights that are strictly personal to the debtor.",
+    "japaneseDefinition": "債権者が自己の債権を保全するため、債務者の有する権利を債務者に代わって行使できる権利。ただし、債務者の一身専属権は除く。",
+    "japaneseWordTranslation": "債権者代位権 (さいけんしゃだいいけん)",
+    "legalContext": "Civil Code Art. 423: 'A creditor may exercise the rights belonging to the debtor for the purpose of preserving his or her claim; provided, however, that the same shall not apply to rights that are strictly personal to the debtor.'",
+    "japaneseLegalContext": "民法第423条: 「債権者は、自己の債権を保全するため、債務者に属する権利（一身に専属するものを除く。）を行使することができる。」",
+    "exampleSentence": "The creditor invoked the creditor's subrogation right to claim rent payments owed by a third party to the insolvent debtor.",
+    "exampleTranslation": "債権者は、資力のない債務者に対し第三者が負っている賃料債務を請求するため、債権者代位権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "Insolvent debtor",
+        "translation": "資力のない債務者"
+      },
+      {
+        "word": "Preserve the claim",
+        "translation": "債権を保全する"
+      },
+      {
+        "word": "Exercise the rights",
+        "translation": "権利を行使する"
+      },
+      {
+        "word": "Strictly personal",
+        "translation": "一身専属の"
+      },
+      {
+        "word": "Third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "Claim rent payments",
+        "translation": "賃料の支払いを請求する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Total Destruction",
+    "definition": "In the context of obligations, this refers to the complete physical annihilation or legal cessation of existence of the specific thing which is the subject matter of an obligation, leading to impossibility of performance.",
+    "japaneseDefinition": "債権の目的物である特定の物が、物理的に完全に消滅すること、または法的に存在を失うこと。これにより、債務の履行が不能となる。",
+    "japaneseWordTranslation": "滅失 (めっしつ)",
+    "legalContext": "Civil Code Art. 412 (prior to the 2020 revision, now generally covered under impossibility of performance): When a specific thing is totally destroyed, the obligor’s duty to deliver that specific thing is extinguished.",
+    "japaneseLegalContext": "旧民法第412条（特定物に関する債務）：特定物の滅失により、債務者の引渡義務が消滅する。",
+    "exampleSentence": "Because the artwork suffered total destruction in the fire, the obligor was exempt from the duty to deliver the specific item under the sales contract.",
+    "exampleTranslation": "その美術品が火災により滅失したため、債務者は売買契約に基づく特定物の引渡義務を免除された。",
+    "vocabularyList": [
+      {
+        "word": "Artwork",
+        "translation": "美術品"
+      },
+      {
+        "word": "Specific thing",
+        "translation": "特定物"
+      },
+      {
+        "word": "Obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Delivery",
+        "translation": "引渡し"
+      },
+      {
+        "word": "Extinguished",
+        "translation": "消滅した"
+      },
+      {
+        "word": "Sales contract",
+        "translation": "売買契約"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligation to Return",
+    "definition": "The legal duty to restore benefits or property received by a party when the original receipt lacked a valid legal basis, often arising in the context of contract nullity or undue enrichment.",
+    "japaneseDefinition": "当事者が法律上の原因なく利益または財産を取得した場合に、その利益を本来の権利者へ返還しなければならない法的な義務。",
+    "japaneseWordTranslation": "返還義務 (へんかんぎむ)",
+    "legalContext": "Civil Code Art. 703: 'A person who has received benefit from the property or services of another person without legal cause and thereby incurred loss to the other person shall have the obligation to return the benefit received.'",
+    "japaneseLegalContext": "民法第703条: 「法律上の原因なく他人の財産又は労務によって利益を受け、そのために他人に損失を及ぼした者（受益者）は、その利益を返還する義務を負う。」",
+    "exampleSentence": "Following the judicial declaration of contract nullity, the buyer had an obligation to return the delivered goods to the seller immediately.",
+    "exampleTranslation": "契約の無効が裁判で宣言された後、買主は売主に対し、引き渡された商品を直ちに返還する義務を負った。",
+    "vocabularyList": [
+      {
+        "word": "Legal cause",
+        "translation": "法律上の原因"
+      },
+      {
+        "word": "Benefits received",
+        "translation": "受けた利益"
+      },
+      {
+        "word": "Contract nullity",
+        "translation": "契約の無効"
+      },
+      {
+        "word": "Judicial declaration",
+        "translation": "裁判上の宣言"
+      },
+      {
+        "word": "Delivered goods",
+        "translation": "引き渡された商品"
+      },
+      {
+        "word": "Restore property",
+        "translation": "財産を回復する"
       }
     ]
   }

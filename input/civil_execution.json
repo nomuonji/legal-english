@@ -6314,5 +6314,123 @@
         "translation": "併合"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Conversion to Money",
+    "definition": "The legal process within civil execution where seized assets (movable or immovable) are sold or transferred to a third party to generate funds for distribution to the execution obligee.",
+    "japaneseDefinition": "民事執行において、差し押さえた財産を金銭に換える手続き。通常、売却を通じて行われる。",
+    "japaneseWordTranslation": "換価 (Kanka)",
+    "legalContext": "Civil Execution Act, Title I, Chapter III (General rules for execution procedures). This principle guides how seized property moves from asset to distributable funds.",
+    "japaneseLegalContext": "民事執行法第一編第三章（執行の手続の通則）",
+    "exampleSentence": "Following the seizure of the factory equipment, the execution court initiated the **conversion to money** procedure via public tender.",
+    "exampleTranslation": "工場設備が差し押さえられた後、執行裁判所は入札を通じて**換価**手続きを開始した。",
+    "vocabularyList": [
+      {
+        "word": "Seized assets",
+        "translation": "差し押さえた財産"
+      },
+      {
+        "word": "Public tender",
+        "translation": "入札"
+      },
+      {
+        "word": "Execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "Distribution",
+        "translation": "配当"
+      },
+      {
+        "word": "Immovable",
+        "translation": "不動産"
+      },
+      {
+        "word": "Factory equipment",
+        "translation": "工場設備"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Motion of Objection to Execution Procedure",
+    "definition": "A motion filed by the execution obligor or a third party to the execution court, asserting that the execution procedure itself (excluding the existence or content of the claim) is improper or violates the law.",
+    "japaneseDefinition": "執行裁判所が行った執行手続（債務名義の存否・内容を除く）が、法令に違反していることを理由として、その取消しまたは変更を求める申立て。",
+    "japaneseWordTranslation": "執行異議の申立て (Shikkō Igi no Mōshitate)",
+    "legalContext": "Civil Execution Act Art. 10 (Motion of Objection to Execution Procedure).",
+    "japaneseLegalContext": "民事執行法第10条（執行異議）",
+    "exampleSentence": "The obligor filed a **motion of objection to execution procedure**, arguing that the timing of the property appraisal was legally flawed and prejudicial.",
+    "exampleTranslation": "債務者は、財産評価のタイミングが法的に欠陥があり不公平であるとして、**執行異議の申立て**を行った。",
+    "vocabularyList": [
+      {
+        "word": "Obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "Improper procedure",
+        "translation": "不適当な手続"
+      },
+      {
+        "word": "Property appraisal",
+        "translation": "財産評価"
+      },
+      {
+        "word": "Prejudicial",
+        "translation": "不公平な"
+      },
+      {
+        "word": "Cancellation",
+        "translation": "取消し"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Decision Designating Exempt Property",
+    "definition": "A judicial decision made by the execution court defining or modifying the specific scope of assets that are protected from seizure to ensure the debtor and their dependents can maintain a minimum standard of living.",
+    "japaneseDefinition": "債務者及びその同居の親族の生活を維持するために、差押えが禁止されるべき財産の具体的な範囲を定める執行裁判所の決定。",
+    "japaneseWordTranslation": "差押禁止の範囲を定める決定 (Sashiire Kinshi no Han'i o Sadameru Kettei)",
+    "legalContext": "Civil Execution Act Art. 153 (Decision Designating the Scope of Exempt Property) and Art. 152 (Non-seizable property).",
+    "japaneseLegalContext": "民事執行法第153条（差押え禁止の範囲を定める決定）",
+    "exampleSentence": "The execution court issued a **decision designating exempt property**, allowing the debtor to retain sufficient funds for necessary living expenses, despite the garnishment order.",
+    "exampleTranslation": "執行裁判所は、差押命令にもかかわらず、債務者が生活に必要な資金を維持できるように**差押禁止の範囲を定める決定**を出した。",
+    "vocabularyList": [
+      {
+        "word": "Dependents",
+        "translation": "同居の親族"
+      },
+      {
+        "word": "Minimum standard of living",
+        "translation": "最低限度の生活"
+      },
+      {
+        "word": "Retain sufficient funds",
+        "translation": "十分な資金を保持する"
+      },
+      {
+        "word": "Garnishment order",
+        "translation": "差押命令"
+      },
+      {
+        "word": "Necessary living expenses",
+        "translation": "生活に必要な費用"
+      },
+      {
+        "word": "Modifying",
+        "translation": "変更する"
+      },
+      {
+        "word": "Protected from seizure",
+        "translation": "差押えから保護される"
+      }
+    ]
   }
 ]

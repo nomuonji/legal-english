@@ -5778,5 +5778,119 @@
         "translation": "行使"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deemed Contribution",
+    "definition": "A statutory rule treating certain property acquisitions by a stock company (e.g., assets acquired from incorporators shortly after incorporation at high prices) as contributions in kind, thereby subjecting them to the same investigation requirements to protect the principle of capital maintenance.",
+    "japaneseDefinition": "株式会社の成立後、一定期間内に、発起人等から特定の財産を譲り受ける行為を現物出資と同様に扱い、資本維持の原則を保護するために検査役の調査を義務付ける規定。",
+    "japaneseWordTranslation": "みなし現物出資 (minashi genbutsu shusshi)",
+    "legalContext": "Companies Act Art. 33 II (Requires investigation concerning the transfer of property after the establishment of the company, often linked to disguised payment prevention).",
+    "japaneseLegalContext": "会社法第33条第2項（会社成立後の財産引受けに関する検査役の調査義務）",
+    "exampleSentence": "The asset transfer agreement executed three months after incorporation might be subject to the rules concerning **Deemed Contribution**, requiring an inspector's investigation.",
+    "exampleTranslation": "設立後3ヶ月以内に実行された当該財産譲渡契約は、**みなし現物出資**に関する規定に従い、検査役の調査を要する可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "asset transfer agreement",
+        "translation": "財産譲渡契約"
+      },
+      {
+        "word": "incorporation",
+        "translation": "設立"
+      },
+      {
+        "word": "inspector",
+        "translation": "検査役"
+      },
+      {
+        "word": "investigation",
+        "translation": "調査"
+      },
+      {
+        "word": "capital maintenance",
+        "translation": "資本維持"
+      },
+      {
+        "word": "statutory rule",
+        "translation": "法的な規定"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Declaration of Absence of Resolution",
+    "definition": "A lawsuit filed to confirm that a resolution, purportedly adopted by the general meeting of shareholders or the board of directors, legally never existed due to fundamental and decisive defects (such as a meeting being non-existent or called without proper legal authority).",
+    "japaneseDefinition": "株主総会や取締役会において決議が行われたとされる場合に、その決議に重大かつ決定的な瑕疵があり、法的に決議が存在しなかったことを確認するために提起される訴訟。",
+    "japaneseWordTranslation": "決議不存在確認の訴え (ketsugi fusonzai kakunin no uttae)",
+    "legalContext": "Companies Act Art. 830 I (Establishes the grounds and procedure for bringing an action to confirm the absence of a corporate resolution).",
+    "japaneseLegalContext": "会社法第830条第1項（決議不存在確認の訴えに関する規定）",
+    "exampleSentence": "A shareholder filed an **Action for Declaration of Absence of Resolution** because the general meeting was convened without the mandatory advance notice required by the Articles of Incorporation.",
+    "exampleTranslation": "招集手続きにおける定款で義務付けられた事前通知がなかったため、ある株主は**決議不存在確認の訴え**を提起した。",
+    "vocabularyList": [
+      {
+        "word": "lawsuit filed",
+        "translation": "訴訟が提起された"
+      },
+      {
+        "word": "shareholder",
+        "translation": "株主"
+      },
+      {
+        "word": "mandatory advance notice",
+        "translation": "義務的な事前通知"
+      },
+      {
+        "word": "Articles of Incorporation",
+        "translation": "定款"
+      },
+      {
+        "word": "fundamental defects",
+        "translation": "決定的な瑕疵"
+      },
+      {
+        "word": "board of directors",
+        "translation": "取締役会"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Ultra Vires Acts",
+    "definition": "The legal liability, particularly towards third parties, incurred by corporate officers (such as directors) when they perform business actions that exceed the scope of the company's objectives as defined in the articles of incorporation, resulting in damage.",
+    "japaneseDefinition": "取締役等の役員が、定款に定められた会社の目的の範囲を超えた行為を行い、会社または第三者に損害を与えた場合に負う、特に第三者に対する損害賠償責任。",
+    "japaneseWordTranslation": "越権行為責任 (ekken kōi sekinin)",
+    "legalContext": "Companies Act Art. 429 I (Governs the liability of officers to third parties for carrying out their duties in violation of laws, regulations, or the articles of incorporation).",
+    "japaneseLegalContext": "会社法第429条第1項（役員の第三者に対する損害賠償責任）",
+    "exampleSentence": "The directors faced **Liability for Ultra Vires Acts** after approving a high-risk venture completely unrelated to the company's registered business objectives.",
+    "exampleTranslation": "取締役たちは、会社の登録された事業目的に全く関係のない高リスクの事業を承認した後、**越権行為責任**を問われた。",
+    "vocabularyList": [
+      {
+        "word": "corporate officers",
+        "translation": "役員"
+      },
+      {
+        "word": "exceed the scope",
+        "translation": "範囲を超える"
+      },
+      {
+        "word": "high-risk venture",
+        "translation": "高リスクの事業"
+      },
+      {
+        "word": "registered business objectives",
+        "translation": "登録された事業目的"
+      },
+      {
+        "word": "third parties",
+        "translation": "第三者"
+      },
+      {
+        "word": "damage",
+        "translation": "損害"
+      }
+    ]
   }
 ]

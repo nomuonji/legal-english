@@ -1,34 +1,38 @@
 {
-  "category": "Deposit Act (供託法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Recovery of Deposit",
-  "definition": "The right of the depositor to retrieve the deposited money or securities when the cause for deposit ceases to exist.",
-  "japaneseDefinition": "供託の原因が消滅したときなどに、供託者が供託した金銭や有価証券を取り戻す権利。",
-  "japaneseWordTranslation": "供託金の取戻し (きょうたくきんのとりもどし)",
-  "legalContext": "Deposit Act Art. 8: The depositor may request the recovery of the deposit.",
-  "japaneseLegalContext": "供託法第8条：供託者は、...供託物の取戻しを請求することができる。",
-  "exampleSentence": "The depositor filed a request for the recovery of the deposit after the lawsuit was settled.",
-  "exampleTranslation": "訴訟が和解した後、供託者は供託金の取戻し請求を行った。",
+  "word": "Possession",
+  "definition": "The de facto control over a thing (corpus) combined with the intent to hold the thing for oneself (animus), which is protected by specific legal remedies.",
+  "japaneseDefinition": "物に対する事実上の支配状態をいい、占有権として法的に保護される。",
+  "japaneseWordTranslation": "占有 (せんゆう)",
+  "legalContext": "Civil Code Art. 180: A person who has de facto control over a thing acquires possession of it.",
+  "japaneseLegalContext": "民法第180条：物を所持する意思をもって、物を事実上支配する者は、これを占有者とする。",
+  "exampleSentence": "If a trespasser disrupts the peaceful state of possession, the original possessor may bring an action for the maintenance of possession.",
+  "exampleTranslation": "侵入者が平穏な占有状態を乱した場合、元の占有者は占有保持の訴えを提起することができる。",
   "vocabularyList": [
     {
-      "word": "Retrieve",
-      "translation": "取り戻す"
+      "word": "de facto control",
+      "translation": "事実上の支配"
     },
     {
-      "word": "Cease",
-      "translation": "消滅する/止む"
+      "word": "trespasser",
+      "translation": "侵入者"
     },
     {
-      "word": "Request",
-      "translation": "請求する"
+      "word": "possessor",
+      "translation": "占有者"
     },
     {
-      "word": "Settle",
-      "translation": "解決する/和解する"
+      "word": "maintenance of possession",
+      "translation": "占有保持"
     },
     {
-      "word": "Depositor",
-      "translation": "供託者"
+      "word": "disrupt",
+      "translation": "乱す"
+    },
+    {
+      "word": "legal remedies",
+      "translation": "法的救済"
     }
   ]
 }

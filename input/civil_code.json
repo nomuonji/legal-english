@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Possession",
-    "definition": "The de facto control over a thing (corpus) combined with the intent to hold the thing for oneself (animus), which is protected by specific legal remedies.",
-    "japaneseDefinition": "物に対する事実上の支配状態をいい、占有権として法的に保護される。",
-    "japaneseWordTranslation": "占有 (せんゆう)",
-    "legalContext": "Civil Code Art. 180: A person who has de facto control over a thing acquires possession of it.",
-    "japaneseLegalContext": "民法第180条：物を所持する意思をもって、物を事実上支配する者は、これを占有者とする。",
-    "exampleSentence": "If a trespasser disrupts the peaceful state of possession, the original possessor may bring an action for the maintenance of possession.",
-    "exampleTranslation": "侵入者が平穏な占有状態を乱した場合、元の占有者は占有保持の訴えを提起することができる。",
-    "vocabularyList": [
-      {
-        "word": "de facto control",
-        "translation": "事実上の支配"
-      },
-      {
-        "word": "trespasser",
-        "translation": "侵入者"
-      },
-      {
-        "word": "possessor",
-        "translation": "占有者"
-      },
-      {
-        "word": "maintenance of possession",
-        "translation": "占有保持"
-      },
-      {
-        "word": "disrupt",
-        "translation": "乱す"
-      },
-      {
-        "word": "legal remedies",
-        "translation": "法的救済"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Inheritance Waiver",
     "definition": "A unilateral declaration by an heir, typically filed with the Family Court, to renounce all rights and obligations related to the inheritance of the decedent's assets and liabilities.",
     "japaneseDefinition": "相続人が、被相続人の残した財産及び債務に関する一切の権利義務を放棄する旨の意思表示（家庭裁判所への申述）。",
@@ -6434,6 +6396,120 @@
       {
         "word": "upon return",
         "translation": "返還時 (henkanji)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Negligence",
+    "definition": "Lack of due care; the failure to exercise the caution that a reasonable person would under the circumstances, leading to harm or breach of duty.",
+    "japaneseDefinition": "注意義務を怠ること。特に、違法な行為により損害が発生した場合、その行為者に損害賠償責任が生じるための要件の一つ。",
+    "japaneseWordTranslation": "過失 (かしつ)",
+    "legalContext": "Civil Code Art. 709 (Tort): A person who intentionally or negligently infringes upon the rights of another is bound to compensate for the damage resulting therefrom.",
+    "japaneseLegalContext": "民法第709条 (不法行為による損害賠償): 故意又は過失によって他人の権利を侵害した者は、これによって生じた損害を賠償する責任を負う。",
+    "exampleSentence": "To establish liability under the general provisions of the Civil Code, the claimant must typically demonstrate the existence of negligence on the part of the actor.",
+    "exampleTranslation": "民法の一般規定に基づき責任を確立するためには、請求者は通常、行為者側における過失の存在を立証しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "intentionally",
+        "translation": "故意に"
+      },
+      {
+        "word": "infringes",
+        "translation": "侵害する"
+      },
+      {
+        "word": "liability",
+        "translation": "責任"
+      },
+      {
+        "word": "claimant",
+        "translation": "請求者"
+      },
+      {
+        "word": "demonstrate",
+        "translation": "立証する"
+      },
+      {
+        "word": "actor",
+        "translation": "行為者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Fulfillment",
+    "definition": "The act, performed by the debtor party or a third person, that satisfies the content of a debt, thereby extinguishing it.",
+    "japaneseDefinition": "債務者が、債務の本旨に従って、債務の内容を実現する行為。これにより債権は消滅する。",
+    "japaneseWordTranslation": "弁済 (べんさい)",
+    "legalContext": "Civil Code Art. 483 (Extinguishment of Claim): A debt is extinguished by fulfillment.",
+    "japaneseLegalContext": "民法第483条 (債権の消滅): 債権は、弁済によって消滅する。",
+    "exampleSentence": "The debtor party's fulfillment of the purchase price debt extinguished the corresponding claim held by the right holder.",
+    "exampleTranslation": "債務者側による売買代金債務の弁済は、権利者によって保持されていた対応する債権を消滅させた。",
+    "vocabularyList": [
+      {
+        "word": "debtor party",
+        "translation": "債務者側"
+      },
+      {
+        "word": "satisfies",
+        "translation": "満たす"
+      },
+      {
+        "word": "debt",
+        "translation": "債務"
+      },
+      {
+        "word": "extinguished",
+        "translation": "消滅させた"
+      },
+      {
+        "word": "right holder",
+        "translation": "権利者"
+      },
+      {
+        "word": "purchase price",
+        "translation": "売買代金"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Renewal of Prescription",
+    "definition": "A mechanism where the running of the time limit is stopped and restarted entirely, ensuring a full new term runs from the point of the trigger (such as a court request or acknowledgment).",
+    "japaneseDefinition": "時効期間の進行を停止させ、新たに全期間の進行を開始させる制度。裁判上の請求や承認などによって生じる。",
+    "japaneseWordTranslation": "時効の更新 (じこうのこうしん)",
+    "legalContext": "Civil Code Art. 147 (Renewal Effect of Judicial Request): A judicial request causes the renewal of prescription.",
+    "japaneseLegalContext": "民法第147条 (裁判上の請求による時効の更新): 裁判上の請求は、時効を更新する。",
+    "exampleSentence": "The right holder initiated a court proceeding to secure the renewal of prescription before the time limit expired on the underlying debt.",
+    "exampleTranslation": "権利者は、基礎となる債務の時効期間が満了する前に、時効の更新を確保するために訴訟手続を開始した。",
+    "vocabularyList": [
+      {
+        "word": "time limit",
+        "translation": "時効期間"
+      },
+      {
+        "word": "restarted",
+        "translation": "再開された"
+      },
+      {
+        "word": "judicial request",
+        "translation": "裁判上の請求"
+      },
+      {
+        "word": "acknowledgment",
+        "translation": "承認"
+      },
+      {
+        "word": "right holder",
+        "translation": "権利者"
+      },
+      {
+        "word": "underlying debt",
+        "translation": "基礎となる債務"
       }
     ]
   }

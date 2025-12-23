@@ -5670,5 +5670,119 @@
         "translation": "りっしょうする (to establish proof)"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mistake of Fact",
+    "definition": "A situation where the offender is mistaken regarding a material fact that constitutes the objective elements of the crime. If the mistake negates criminal intent, the offender is not liable for the intentional crime.",
+    "japaneseDefinition": "犯罪の客観的構成要件にあたる重要な事実を誤認すること。故意を阻却する事実の錯誤がある場合、故意犯としては処罰されない。",
+    "japaneseWordTranslation": "事実の錯誤 (じじつのさくご)",
+    "legalContext": "Japanese Criminal Code, Article 38, Paragraph 1: “An act done without criminal intent is not punishable. The same shall apply if a person is unaware of a fact which is required to constitute a crime.”",
+    "japaneseLegalContext": "刑法第38条第1項: 罪を犯す意思がない行為は、罰しない。罪の要素たるべき事実を知らなかった者も、同様とする。",
+    "exampleSentence": "Due to a mistake of fact regarding the identity of the animal, the hunter was acquitted of intentional property damage but could face liability for negligence.",
+    "exampleTranslation": "動物の正体に関する事実の錯誤により、その猟師は故意の器物損壊罪では無罪となったが、過失責任を問われる可能性はある。",
+    "vocabularyList": [
+      {
+        "word": "objective elements",
+        "translation": "客観的構成要件"
+      },
+      {
+        "word": "negate criminal intent",
+        "translation": "故意を阻却する"
+      },
+      {
+        "word": "intentional crime",
+        "translation": "故意犯"
+      },
+      {
+        "word": "be acquitted",
+        "translation": "無罪となる"
+      },
+      {
+        "word": "liability for negligence",
+        "translation": "過失責任"
+      },
+      {
+        "word": "identity",
+        "translation": "正体／同一性"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mistake Regarding Illegality",
+    "definition": "A situation where the offender is aware of the facts of their action but mistakenly believes their conduct is not unlawful, or mistakenly believes a legally recognized ground for justification exists.",
+    "japaneseDefinition": "行為者が自己の行為の事実は認識しているが、その行為が法的に許容されている、あるいは何らかの正当化事由があるなどと誤信し、違法性の認識を欠いている状態。",
+    "japaneseWordTranslation": "違法性の錯誤 (いほうせいのさくご)",
+    "legalContext": "Japanese Criminal Code, Article 38, Paragraph 3: “If a person is unaware of the unlawfulness of the act due to unavoidable circumstances, the punishment shall be reduced or remitted.”",
+    "japaneseLegalContext": "刑法第38条第3項: 法律の不知であっても、その行為の違法性の認識がなかったことにつき、やむを得ない事情があったときは、その刑を減軽し、又は免除する。",
+    "exampleSentence": "A claim of mistake regarding illegality, arguing that the defendant genuinely believed their commercial activity was permissible under a new regulation, rarely leads to full acquittal.",
+    "exampleTranslation": "被告が、新しい規制のもとで自己の商業活動が許容されていると心から信じていたと主張する違法性の錯誤の訴えは、完全な無罪にはほとんど繋がらない。",
+    "vocabularyList": [
+      {
+        "word": "unlawfulness",
+        "translation": "違法性"
+      },
+      {
+        "word": "unavoidable circumstances",
+        "translation": "やむを得ない事情"
+      },
+      {
+        "word": "reduced or remitted",
+        "translation": "減軽し、又は免除する"
+      },
+      {
+        "word": "permissible",
+        "translation": "許容される"
+      },
+      {
+        "word": "commercial activity",
+        "translation": "商業活動"
+      },
+      {
+        "word": "full acquittal",
+        "translation": "完全な無罪"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Detention (as a penalty)",
+    "definition": "A minor type of principal penalty, defined as confinement in a penal institution for a fixed period of time, specifically not less than one day and less than 30 days, without requiring forced labor.",
+    "japaneseDefinition": "主刑の一種であり、懲役や禁錮とは異なり、刑事施設に拘置される期間が1日以上30日未満と定められている比較的軽微な刑罰。労働の義務は伴わない。",
+    "japaneseWordTranslation": "拘留 (こうりゅう)",
+    "legalContext": "Japanese Criminal Code, Article 16: “Detention shall be confinement in a penal institution for a period of not less than one day and less than 30 days.”",
+    "japaneseLegalContext": "刑法第16条: 拘留は、一日以上三十日未満とし、刑事施設に拘置する。",
+    "exampleSentence": "Since the theft involved a negligible amount and the offender showed remorse, the court imposed the penalty of detention rather than imprisonment or a significant fine.",
+    "exampleTranslation": "当該窃盗は軽微な額であり、かつ犯人が反省の意を示したため、裁判所は懲役や多額の罰金ではなく拘留の刑を科した。",
+    "vocabularyList": [
+      {
+        "word": "principal penalty",
+        "translation": "主刑"
+      },
+      {
+        "word": "confinement",
+        "translation": "拘置／監禁"
+      },
+      {
+        "word": "penal institution",
+        "translation": "刑事施設"
+      },
+      {
+        "word": "negligible amount",
+        "translation": "軽微な額"
+      },
+      {
+        "word": "offender showed remorse",
+        "translation": "犯人が反省の意を示した"
+      },
+      {
+        "word": "impose a penalty",
+        "translation": "刑を科す"
+      }
+    ]
   }
 ]

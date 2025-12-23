@@ -5642,5 +5642,89 @@
         "translation": "範囲 (Han'i)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Fictitious Declaration of Recorded Items",
+    "definition": "Responsibility borne by an individual who intentionally or negligently made a false statement concerning items subject to public entry, which was subsequently recorded, causing damage to a third party relying on the accuracy of the record.",
+    "japaneseDefinition": "公的な記録簿への記載事項に関し、故意または過失により虚偽の陳述を行い、それが記録された結果、記録の正確性を信頼した第三者に損害を与えた者が負う責任。",
+    "japaneseWordTranslation": "虚偽の記録の宣言責任 (きょぎのきろくのせんげんせきにん)",
+    "legalContext": "Commercial Registration Act, Article 12: Any person who makes a fictitious declaration concerning matters required to be recorded shall be liable to any third party for damages incurred by relying on that declaration.",
+    "japaneseLegalContext": "商業登記法第12条：登記すべき事項につき虚偽の意思表示をした者は、その意思表示を信頼して損害を被った第三者に対し、賠償責任を負う。",
+    "exampleSentence": "The former executive incurred **liability for fictitious declaration of recorded items** when he failed to correct the publicly accessible data about his withdrawal from the company, resulting in damages to a relying vendor.",
+    "exampleTranslation": "元役員は、自身の会社からの退任に関する公的なデータが修正されていなかったため、虚偽の記録の宣言責任を負い、その情報を信頼した業者に損害を与えた。",
+    "vocabularyList": [
+      {
+        "word": "Intentionally",
+        "translation": "故意に (こいに)"
+      },
+      {
+        "word": "Negligently",
+        "translation": "過失により (かしつにより)"
+      },
+      {
+        "word": "False statement",
+        "translation": "虚偽の陳述 (きょぎのちんじゅつ)"
+      },
+      {
+        "word": "Executive",
+        "translation": "役員 (やくいん)"
+      },
+      {
+        "word": "Relying vendor",
+        "translation": "信頼した業者 (しんらいしたぎょうしゃ)"
+      },
+      {
+        "word": "Withdrawal from the company",
+        "translation": "会社からの退任 (かいしゃからのたいにん)"
+      },
+      {
+        "word": "Publicly accessible data",
+        "translation": "公的なデータ (こうてきなデータ)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Administrative Clearing of Outdated Records",
+    "definition": "The authority given to the administrative official to remove entries from the commercial record when a corporation has failed to make mandatory updates to certain core informational items over a statutory period, signaling potential cessation of business operations (often triggering a deemed inactivity status).",
+    "japaneseDefinition": "法人が、法定期間内に義務的な情報の更新を行わず、事業活動の停止を示唆する場合に、行政官の権限により商業記録簿から関連する記録を削除する手続き。",
+    "japaneseWordTranslation": "職権による記録の抹消 (しょっけんによるきろくのまっしょう)",
+    "legalContext": "Commercial Registration Act, Article 24 (Criteria for Deemed Inactivity): The administrative official may clear the record for companies that have failed to make required entries concerning certain officers for five years.",
+    "japaneseLegalContext": "商業登記法第24条（みなし解散の基準）：行政官は、一定の役員に関する記録が5年間行われなかった会社について、職権で記録を抹消することができる。",
+    "exampleSentence": "Because the trade association failed to report its change of key personnel for over a decade, it became subject to the **Administrative Clearing of Outdated Records** under the law.",
+    "exampleTranslation": "その業界団体は、10年以上にわたり主要な担当者の変更を報告しなかったため、法に基づき職権による記録の抹消の対象となった。",
+    "vocabularyList": [
+      {
+        "word": "Trade association",
+        "translation": "業界団体 (ぎょうかいだんたい)"
+      },
+      {
+        "word": "Key personnel",
+        "translation": "主要な担当者 (しゅようなたんとうしゃ)"
+      },
+      {
+        "word": "Statutory period",
+        "translation": "法定期間 (ほうていきかん)"
+      },
+      {
+        "word": "Cessation of business",
+        "translation": "事業活動の停止 (じぎょうかつどうのていし)"
+      },
+      {
+        "word": "Administrative official",
+        "translation": "行政官 (ぎょうせいかん)"
+      },
+      {
+        "word": "Mandatory updates",
+        "translation": "義務的な更新 (ぎむてきなこうしん)"
+      },
+      {
+        "word": "Subject to",
+        "translation": "対象となった (たいしょうとなった)"
+      }
+    ]
   }
 ]

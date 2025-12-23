@@ -6306,5 +6306,135 @@
         "translation": "財産を回復する"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Acceptance in Lieu of Payment",
+    "definition": "An agreement between the obligor and obligee where the obligor provides an asset or performance different from the original obligation, thereby extinguishing the original obligation.",
+    "japaneseDefinition": "債権者が、債務者の本来の給付に代えて他の給付を受けることにより、債務を消滅させる行為。",
+    "japaneseWordTranslation": "代物弁済 (だいぶつべんさい)",
+    "legalContext": "Civil Code Art. 482: If an obligor, for the purpose of performance, provides something other than the original performance with the consent of the obligee, the obligation is extinguished by that acceptance in lieu of performance.",
+    "japaneseLegalContext": "民法第482条: 債務者が、債権者の承諾を得て、その給付に代えて他の給付をしたときは、その給付は弁済と同一の効力を有する。",
+    "exampleSentence": "The obligor discharged the six-million-yen debt through an *acceptance in lieu of payment* by transferring real property to the creditor.",
+    "exampleTranslation": "債務者は、債権者に対して不動産を譲渡することにより、代物弁済として600万円の債務を消滅させた。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者 (saimusha)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (saikensha)"
+      },
+      {
+        "word": "extinguish",
+        "translation": "消滅させる (shōmetsu saseru)"
+      },
+      {
+        "word": "original performance",
+        "translation": "本来の給付 (honrai no kyūfu)"
+      },
+      {
+        "word": "discharged the debt",
+        "translation": "債務を消滅させた (saimu o shōmetsu saseta)"
+      },
+      {
+        "word": "transferring",
+        "translation": "譲渡する (jōto suru)"
+      },
+      {
+        "word": "agreement",
+        "translation": "承諾 (shōdaku)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Divisible Obligation",
+    "definition": "An obligation where the performance is naturally or legally capable of division, typically resulting in the obligation being proportionally split among multiple obligors or obligees.",
+    "japaneseDefinition": "給付が性質上分割可能である債務。複数の債権者または債務者がいる場合、特別の意思表示がなければ、各債権者または債務者は均等な割合で権利または義務を有する。",
+    "japaneseWordTranslation": "可分債務 (かぶんさいむ)",
+    "legalContext": "Civil Code Art. 427: If there are multiple obligees or obligors and the obligation is divisible, each obligee shall possess a right only to an equal portion, and each obligor shall bear an obligation only for an equal portion.",
+    "japaneseLegalContext": "民法第427条: 債権又は債務が数人に帰属する場合において、別段の意思表示がないときは、各債権者又は各債務者は、それぞれ等しい割合で権利を有し、又は義務を負う。",
+    "exampleSentence": "Since the nature of the transaction resulted in a *divisible obligation*, the two co-borrowers were only liable for their respective fifty percent shares of the total principal.",
+    "exampleTranslation": "その取引の性質上、可分債務となったため、二人の共同借主は、元本総額のそれぞれの50パーセントの割合でのみ責任を負った。",
+    "vocabularyList": [
+      {
+        "word": "capable of division",
+        "translation": "分割可能 (bunkatsu kanō)"
+      },
+      {
+        "word": "multiple obligees",
+        "translation": "複数の債権者 (fukusū no saikensha)"
+      },
+      {
+        "word": "proportionally split",
+        "translation": "均等な割合で分割される (kintō na wari-ai de bunkatsu sareru)"
+      },
+      {
+        "word": "co-borrowers",
+        "translation": "共同借主 (kyōdō karinushi)"
+      },
+      {
+        "word": "respective shares",
+        "translation": "それぞれの割合 (sorezore no wari-ai)"
+      },
+      {
+        "word": "bear an obligation",
+        "translation": "義務を負う (gimu o ou)"
+      },
+      {
+        "word": "in the absence of",
+        "translation": "別段の意思表示がない (betsudan no ishi hyōji ga nai)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Useful Expenses",
+    "definition": "Costs incurred by a possessor (such as a tenant) for improvements made to the property which enhance its objective value, recoverable from the owner upon the property's return.",
+    "japaneseDefinition": "占有者が占有物に支出した費用であって、物の価値を増加させる改良のために支出されたもの。",
+    "japaneseWordTranslation": "有益費 (ゆうえきひ)",
+    "legalContext": "Civil Code Art. 196 (2): In the case of Useful Expenses, the possessor may recover the amount of expenditures or the amount by which the value of the object has increased, whichever the owner chooses.",
+    "japaneseLegalContext": "民法第196条第2項: 有益費については、占有者は、その価格の増加が現存する場合に限り、支出した金額又は増価額を、回復者の選択に従い、償還させることができる。",
+    "exampleSentence": "The court ruled that the installation of new energy-efficient windows constituted *useful expenses*, and ordered the landlord to reimburse the tenant for the increased value of the property.",
+    "exampleTranslation": "裁判所は、新しい省エネ窓の設置は有益費を構成すると判断し、家主に対し、不動産の増加した価値分をテナントに償還するよう命じた。",
+    "vocabularyList": [
+      {
+        "word": "possessor",
+        "translation": "占有者 (sen'yūsha)"
+      },
+      {
+        "word": "incurred",
+        "translation": "支出した (shishutsu shita)"
+      },
+      {
+        "word": "improvements",
+        "translation": "改良 (kairyō)"
+      },
+      {
+        "word": "recover",
+        "translation": "償還させる (shōkan saseru)"
+      },
+      {
+        "word": "landlord",
+        "translation": "家主 (yanushi)"
+      },
+      {
+        "word": "reimburse",
+        "translation": "償還する (shōkan suru)"
+      },
+      {
+        "word": "increased value",
+        "translation": "増価額 (zōka-gaku)"
+      },
+      {
+        "word": "upon return",
+        "translation": "返還時 (henkanji)"
+      }
+    ]
   }
 ]

@@ -2,40 +2,6 @@
   {
     "category": "Deposit Act (供託法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Recovery of Deposit",
-    "definition": "The right of the depositor to retrieve the deposited money or securities when the cause for deposit ceases to exist.",
-    "japaneseDefinition": "供託の原因が消滅したときなどに、供託者が供託した金銭や有価証券を取り戻す権利。",
-    "japaneseWordTranslation": "供託金の取戻し (きょうたくきんのとりもどし)",
-    "legalContext": "Deposit Act Art. 8: The depositor may request the recovery of the deposit.",
-    "japaneseLegalContext": "供託法第8条：供託者は、...供託物の取戻しを請求することができる。",
-    "exampleSentence": "The depositor filed a request for the recovery of the deposit after the lawsuit was settled.",
-    "exampleTranslation": "訴訟が和解した後、供託者は供託金の取戻し請求を行った。",
-    "vocabularyList": [
-      {
-        "word": "Retrieve",
-        "translation": "取り戻す"
-      },
-      {
-        "word": "Cease",
-        "translation": "消滅する/止む"
-      },
-      {
-        "word": "Request",
-        "translation": "請求する"
-      },
-      {
-        "word": "Settle",
-        "translation": "解決する/和解する"
-      },
-      {
-        "word": "Depositor",
-        "translation": "供託者"
-      }
-    ]
-  },
-  {
-    "category": "Deposit Act (供託法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Obligee's Refusal to Accept Performance",
     "definition": "The situation where the creditor refuses, without justifiable cause, to accept the performance tendered by the obligor. This refusal triggers the obligor's statutory right to discharge the obligation through consignment.",
     "japaneseDefinition": "債権者が正当な理由なく、債務者が提供した履行の受領を拒否する状況。この拒否は、債務者が供託によって債務を消滅させる法定の権利を行使する原因となる。",
@@ -4914,6 +4880,44 @@
       {
         "word": "conflicting claims",
         "translation": "対立する請求 (たいりつするせいきゅう)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Recovery",
+    "definition": "The legal right held by the depositor (consignor) to reclaim the deposited money or property, provided that the obligation has not yet been discharged or the obligee consents to the reclamation.",
+    "japaneseDefinition": "供託者が、供託の受諾や供託による債務消滅が生じない場合に、供託物を取り戻すことができる権利。",
+    "japaneseWordTranslation": "取戻権 (とりもどしけん)",
+    "legalContext": "Deposit Act Art. 9, Para. 1: 'The depositor may recover the deposited property with the consent of the obligee or when the cause for the consignment ceases to exist.'",
+    "japaneseLegalContext": "供託法第９条第１項：「供託者は、被供託者の承諾又は供託の原因が消滅したことによって、供託物を取り戻すことができる。」",
+    "exampleSentence": "If the creditor explicitly refused to accept the deposit, the obligor retained the right to recovery of the funds.",
+    "exampleTranslation": "債権者が供託の受諾を明示的に拒否した場合、債務者は当該資金の取戻権を保持した。",
+    "vocabularyList": [
+      {
+        "word": "reclaim",
+        "translation": "取り戻す"
+      },
+      {
+        "word": "discharged",
+        "translation": "履行された／免除された"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "consent",
+        "translation": "承諾"
+      },
+      {
+        "word": "obligation",
+        "translation": "債務"
+      },
+      {
+        "word": "cause for the consignment",
+        "translation": "供託の原因"
       }
     ]
   }

@@ -6212,5 +6212,107 @@
         "translation": "代替物"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Security Deposit",
+    "definition": "A monetary deposit mandated by the execution court to secure the commencement or continuation of compulsory execution, often serving as a guarantee to cover potential damages incurred by the debtor if the execution is later found unlawful or excessive.",
+    "japaneseDefinition": "民事執行の開始または継続の保証として、執行裁判所が債権者に対して命じる金銭の供託。後に執行が不当とされた場合に債務者が被る損害を担保する目的を持つ。",
+    "japaneseWordTranslation": "執行保証金 (しっこうほしょうきん)",
+    "legalContext": "Civil Execution Act, Art. 39(1): The court, upon ordering provisional execution, may require the obligee to provide security for the judgment debtor's damages.",
+    "japaneseLegalContext": "民事執行法第39条第1項: 裁判所は、仮執行の宣言をする場合において、債務者の申立てにより、その仮執行により債務者が受けるべき損害を賠償するのに必要な裁判上の担保を立てるべきことを債権者に命ずることができる。",
+    "exampleSentence": "The execution court conditionally granted the motion for commencement of compulsory execution against the movable property, provided the obligee furnished the requisite Execution Security Deposit within seven days.",
+    "exampleTranslation": "執行裁判所は、債権者が7日以内に所定の執行保証金を供託することを条件に、動産に対する強制執行開始の申立てを条件付きで許可した。",
+    "vocabularyList": [
+      {
+        "word": "conditionally granted",
+        "translation": "条件付きで許可した"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "requisite",
+        "translation": "所定の"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "furnish",
+        "translation": "供託する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Offer-to-Purchase Guarantee Deposit",
+    "definition": "The fixed monetary amount, calculated as a percentage of the minimum sale price, which a prospective purchaser must submit to the execution court when making an offer to purchase real property in a compulsory judicial auction.",
+    "japaneseDefinition": "強制競売において、買受申出人（入札者）が不動産の買受の申出を行う際に、執行裁判所に供託しなければならない、最低売却価額の一定割合に相当する金銭。",
+    "japaneseWordTranslation": "買受申出保証金 (かいうけもうしでほしょうきん)",
+    "legalContext": "Civil Execution Act, Art. 66: Any person who intends to submit an offer to purchase must pay to the court the amount of the guarantee determined by the court.",
+    "japaneseLegalContext": "民事執行法第66条: 買受の申出をしようとする者は、裁判所が定める保証の額を裁判所に納付しなければならない。",
+    "exampleSentence": "The highest bidder forfeited the Offer-to-Purchase Guarantee Deposit when they failed to pay the full sale price of the real property by the designated deadline.",
+    "exampleTranslation": "最高価買受申出人は、指定された期限までに不動産の売却代金全額を支払わなかったため、買受申出保証金を没収された。",
+    "vocabularyList": [
+      {
+        "word": "highest bidder",
+        "translation": "最高価買受申出人"
+      },
+      {
+        "word": "forfeited",
+        "translation": "没収された"
+      },
+      {
+        "word": "sale price",
+        "translation": "売却代金"
+      },
+      {
+        "word": "designated deadline",
+        "translation": "指定された期限"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Transfer of Execution Case",
+    "definition": "The procedure by which an execution court transfers an entire execution case, including all related records and property, to another execution court, typically due to concurrent execution applications or when the property location dictates a change in jurisdiction for efficiency.",
+    "japaneseDefinition": "執行裁判所が、事件記録および関係財産を全て移して、係属中の執行事件を他の執行裁判所に引き継がせる手続き。複数の執行の申立てが競合した場合や、管轄の便宜を図る場合に行われる。",
+    "japaneseWordTranslation": "執行事件の移送 (しっこうじけんのいそう)",
+    "legalContext": "Civil Execution Act, Art. 9: If multiple execution cases concerning the same obligor are pending in different execution courts, the courts may decide to consolidate and transfer the cases to one court.",
+    "japaneseLegalContext": "民事執行法第9条: 同一の債務者に対する執行事件が数個の執行裁判所に係属するときは、その執行裁判所は、職権で、事件を一つの執行裁判所に移送し、または併合して審理することができる。",
+    "exampleSentence": "Due to the subsequent finding of additional movable assets in a different jurisdiction, the court ordered the Transfer of Execution Case to the court covering the main domicile of the debtor.",
+    "exampleTranslation": "異なる管轄区域に追加の動産が後に発見されたため、裁判所は、債務者の主要な住所を管轄する裁判所への執行事件の移送を命じた。",
+    "vocabularyList": [
+      {
+        "word": "subsequent finding",
+        "translation": "後に発見されたこと"
+      },
+      {
+        "word": "movable assets",
+        "translation": "動産"
+      },
+      {
+        "word": "different jurisdiction",
+        "translation": "異なる管轄区域"
+      },
+      {
+        "word": "main domicile",
+        "translation": "主要な住所"
+      },
+      {
+        "word": "consolidation",
+        "translation": "併合"
+      }
+    ]
   }
 ]

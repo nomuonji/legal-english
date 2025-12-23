@@ -1,38 +1,34 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Deposit Act (供託法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Legal Capacity",
-  "definition": "The ability of a person, recognized by law, to validly perform juristic acts independently and assume legal rights and obligations.",
-  "japaneseDefinition": "法律上、単独で有効に法律行為を行い、権利義務の主体となることができる能力。",
-  "japaneseWordTranslation": "行為能力 (こういのうりょく)",
-  "legalContext": "Civil Code Art. 4: A person who has attained eighteen years of age shall be of full legal capacity.",
-  "japaneseLegalContext": "民法第4条：年齢十八歳をもって、行為能力を有する。",
-  "exampleSentence": "A minor lacking legal capacity generally requires the consent of a legal representative for property transactions.",
-  "exampleTranslation": "行為能力を欠く未成年者は、通常、財産取引について法定代理人の同意を必要とする。",
+  "word": "Recovery of Deposit",
+  "definition": "The right of the depositor to retrieve the deposited money or securities when the cause for deposit ceases to exist.",
+  "japaneseDefinition": "供託の原因が消滅したときなどに、供託者が供託した金銭や有価証券を取り戻す権利。",
+  "japaneseWordTranslation": "供託金の取戻し (きょうたくきんのとりもどし)",
+  "legalContext": "Deposit Act Art. 8: The depositor may request the recovery of the deposit.",
+  "japaneseLegalContext": "供託法第8条：供託者は、...供託物の取戻しを請求することができる。",
+  "exampleSentence": "The depositor filed a request for the recovery of the deposit after the lawsuit was settled.",
+  "exampleTranslation": "訴訟が和解した後、供託者は供託金の取戻し請求を行った。",
   "vocabularyList": [
     {
-      "word": "minor",
-      "translation": "未成年者"
+      "word": "Retrieve",
+      "translation": "取り戻す"
     },
     {
-      "word": "legal representative",
-      "translation": "法定代理人"
+      "word": "Cease",
+      "translation": "消滅する/止む"
     },
     {
-      "word": "full legal capacity",
-      "translation": "完全な行為能力"
+      "word": "Request",
+      "translation": "請求する"
     },
     {
-      "word": "juristic act",
-      "translation": "法律行為"
+      "word": "Settle",
+      "translation": "解決する/和解する"
     },
     {
-      "word": "consent",
-      "translation": "同意"
-    },
-    {
-      "word": "property transaction",
-      "translation": "財産取引"
+      "word": "Depositor",
+      "translation": "供託者"
     }
   ]
 }

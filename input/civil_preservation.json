@@ -5884,5 +5884,119 @@
         "translation": "経済的損失 (けいざいてきそんしつ)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Objection",
+    "definition": "A legal procedure (petition/action) available to the preservation debtor to contest the preservation order itself (as opposed to the method of its enforcement). This challenges the legitimacy of the preserved right or the preservation cause.",
+    "japaneseDefinition": "保全命令が発せられた後、その命令の当否について保全債務者が行う異議の申立て。被保全権利の存在や保全の必要性がないこと等を理由とする。",
+    "japaneseWordTranslation": "保全異議 (ほぜんいぎ)",
+    "legalContext": "Civil Preservation Act (民事保全法) Art. 26: Grounds for Preservation Objection.",
+    "japaneseLegalContext": "民事保全法第26条: 保全異議の事由。",
+    "exampleSentence": "The debtor filed a Preservation Objection, asserting that the creditor had failed to demonstrate the urgency required for the provisional attachment.",
+    "exampleTranslation": "債務者は、債権者が仮差押に必要な緊急性を示すことに失敗したとして、保全異議を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "contested",
+        "translation": "争われた"
+      },
+      {
+        "word": "legitimacy",
+        "translation": "正当性"
+      },
+      {
+        "word": "preservation cause",
+        "translation": "保全の必要性（保全の事由）"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え"
+      },
+      {
+        "word": "urgency",
+        "translation": "緊急性"
+      },
+      {
+        "word": "asserting",
+        "translation": "主張して"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Status Quo Mandatory Order",
+    "definition": "A type of provisional disposition (provisional injunction) issued by the court that requires the preservation debtor to actively perform a specific action or provide a benefit, in order to temporarily establish the preservation obligee's legal position pending the resolution of the main lawsuit.",
+    "japaneseDefinition": "争いのある権利関係について、本案訴訟の確定判決まで暫定的に債権者の地位を定める目的で、債務者に一定の給付を命じる仮処分。",
+    "japaneseWordTranslation": "仮の地位を定める仮処分 (かりのちいをさだめるかりしょぶん)",
+    "legalContext": "Civil Preservation Act (民事保全法) Art. 23(2): Provisional Disposition concerning the Object of Dispute.",
+    "japaneseLegalContext": "民事保全法第23条第2項: 係争物に関する仮処分。",
+    "exampleSentence": "The court issued a Status Quo Mandatory Order compelling the franchisor to temporarily continue supplying goods to the franchisee during the contract dispute proceedings.",
+    "exampleTranslation": "裁判所は、契約紛争の手続きが進行する間、フランチャイズ本部に対し、暫定的にフランチャイズ加盟店への商品の供給を継続するよう命じる仮の地位を定める仮処分を発令した。",
+    "vocabularyList": [
+      {
+        "word": "franchisor",
+        "translation": "フランチャイズ本部"
+      },
+      {
+        "word": "franchisee",
+        "translation": "フランチャイズ加盟店"
+      },
+      {
+        "word": "compelling",
+        "translation": "強制する"
+      },
+      {
+        "word": "provisional injunction",
+        "translation": "仮処分"
+      },
+      {
+        "word": "main lawsuit",
+        "translation": "本案の訴訟"
+      },
+      {
+        "word": "provide a benefit",
+        "translation": "給付を行う"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Recourse for Changed Circumstances",
+    "definition": "A statutory remedy available to the preservation debtor, allowing them to petition the preservation court to revoke the preservation order if the circumstances that necessitated the preservation (preservatory cause) have subsequently ceased to exist or materially changed.",
+    "japaneseDefinition": "保全の必要性が生じた事情（保全事由）が、保全命令発令後に消滅したり、著しく変更したりした場合に、保全債務者が裁判所に保全命令の取消しを求める申立て。",
+    "japaneseWordTranslation": "事情変更による取消し (じじょうへんこうによるとりけし)",
+    "legalContext": "Civil Preservation Act (民事保全法) Art. 42: Revocation of Preservation Order due to Change of Circumstances.",
+    "japaneseLegalContext": "民事保全法第42条: 事情変更による保全命令の取消し。",
+    "exampleSentence": "The company sought Recourse for Changed Circumstances after the creditor unexpectedly secured a major asset unrelated to the claim, mitigating the risk of future enforcement impossibility.",
+    "exampleTranslation": "債権者が請求とは無関係の主要な資産を予期せず確保した後、将来の強制執行不能のリスクが軽減されたため、会社は事情変更による取消しを求めた。",
+    "vocabularyList": [
+      {
+        "word": "statutory remedy",
+        "translation": "法定の救済手段"
+      },
+      {
+        "word": "revoke",
+        "translation": "取り消す"
+      },
+      {
+        "word": "subsequently",
+        "translation": "その後"
+      },
+      {
+        "word": "ceased to exist",
+        "translation": "消滅した"
+      },
+      {
+        "word": "mitigating the risk",
+        "translation": "リスクを軽減する"
+      },
+      {
+        "word": "preservatory cause",
+        "translation": "保全の事由"
+      }
+    ]
   }
 ]

@@ -6214,5 +6214,119 @@
         "translation": "裁判所の決定による (さいばんしょのけっていによる)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Assertion",
+    "definition": "A fundamental principle of Japanese civil procedure dictating that the court must base its judgment on the material facts asserted, presented, and admitted by the parties, and cannot rely on facts discovered through its own investigation (ex officio).",
+    "japaneseDefinition": "裁判所は、当事者が主張し、かつ、自白した事実のみを判決の基礎としなければならないとする民事訴訟の基本原則。",
+    "japaneseWordTranslation": "弁論主義 (べんろんしゅぎ)",
+    "legalContext": "Underpins the structure of oral proceedings and evidence submission in the Civil Procedure Code.",
+    "japaneseLegalContext": "民事訴訟法における口頭弁論及び証拠提出の構造を支える基本原則。",
+    "exampleSentence": "The court's adherence to the Principle of Assertion means that critical material facts not presented by the litigants cannot be considered, even if the judge is aware of them.",
+    "exampleTranslation": "裁判所が弁論主義を順守することは、当事者によって提出されていない重要な主要事実が、裁判官が知っていても考慮され得ないことを意味する。",
+    "vocabularyList": [
+      {
+        "word": "material fact",
+        "translation": "主要事実"
+      },
+      {
+        "word": "litigants",
+        "translation": "訴訟当事者"
+      },
+      {
+        "word": "oral proceedings",
+        "translation": "口頭弁論"
+      },
+      {
+        "word": "admitted facts",
+        "translation": "自白された事実"
+      },
+      {
+        "word": "disposition",
+        "translation": "処分"
+      },
+      {
+        "word": "evidence submission",
+        "translation": "証拠提出"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Jurisdiction by Designation",
+    "definition": "A procedural mechanism where a higher court (such as the Supreme Court or a High Court) designates a specific court to assume jurisdiction over a case when the statutory venue cannot be determined or when the legally prescribed venue cannot exercise jurisdiction due to natural disaster or administrative difficulty.",
+    "japaneseDefinition": "法令により管轄裁判所が定まらない場合、または法定の管轄裁判所が機能しない等の理由で訴訟の遂行が困難である場合に、上級裁判所が職権または当事者の申立てに基づき、管轄裁判所を指定すること。",
+    "japaneseWordTranslation": "指定管轄 (していかんかつ)",
+    "legalContext": "Civil Procedure Code Art. 5: Designation of a court by an immediately superior court (or the Supreme Court) if the competent court cannot be determined.",
+    "japaneseLegalContext": "民事訴訟法第5条: 管轄裁判所が定まらないとき、または裁判所が法律上の理由により裁判権を行うことができないときに、直近上級の裁判所等による指定。",
+    "exampleSentence": "Following the earthquake, the High Court issued an order for Jurisdiction by Designation, transferring all pending civil cases from the severely damaged local court to an alternate district court.",
+    "exampleTranslation": "地震後、高等裁判所は指定管轄の命令を発し、甚大な被害を受けた地方裁判所からの係属中の全ての民事訴訟を代替の地方裁判所に移送した。",
+    "vocabularyList": [
+      {
+        "word": "statutory venue",
+        "translation": "法定管轄"
+      },
+      {
+        "word": "supervising court",
+        "translation": "上級裁判所"
+      },
+      {
+        "word": "transferring",
+        "translation": "移送"
+      },
+      {
+        "word": "pending cases",
+        "translation": "係属中の事件"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "district court",
+        "translation": "地方裁判所"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Representative",
+    "definition": "An individual appointed by the court to represent a party who lacks the capacity to perform procedural acts, or whose existing statutory representative has a conflict of interest in the current litigation.",
+    "japaneseDefinition": "当事者が訴訟行為をする能力を欠く場合や、法定代理人による代理行為が当事者本人の利益と相反する場合などに、裁判所が選任する一時的な訴訟上の代理人。",
+    "japaneseWordTranslation": "特別代理人 (とくべつだいりにん)",
+    "legalContext": "Civil Procedure Code Art. 31: If there is no statutory agent for the plaintiff or defendant, or if the statutory agent cannot perform procedural acts due to conflicting interests, the court shall appoint a Special Representative upon petition.",
+    "japaneseLegalContext": "民事訴訟法第31条: 法定の代理人がない場合又は法定の代理人が利益相反行為等のため訴訟行為をすることができない場合に、裁判所が申立てにより特別代理人を選任する。",
+    "exampleSentence": "Since the minor plaintiff’s parent (the statutory agent) was also a defendant in a related claim, the court appointed a Special Representative to manage the litigation and protect the minor’s interests.",
+    "exampleTranslation": "未成年である原告の親（法定代理人）が関連請求で被告でもあったため、裁判所は特別代理人を選任し、訴訟を管理して未成年者の利益を保護させた。",
+    "vocabularyList": [
+      {
+        "word": "minor",
+        "translation": "未成年者"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告"
+      },
+      {
+        "word": "appointment",
+        "translation": "選任"
+      },
+      {
+        "word": "procedural act",
+        "translation": "訴訟行為"
+      },
+      {
+        "word": "statutory agent",
+        "translation": "法定代理人"
+      }
+    ]
   }
 ]

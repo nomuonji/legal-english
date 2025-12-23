@@ -5892,5 +5892,119 @@
         "translation": "損害"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Company with Designated Provision",
+    "definition": "A stock company whose articles of incorporation contain specific provisions stipulated by the Companies Act, often restricting share transfers or providing special rules for the appointment of directors, primarily applying to non-public companies.",
+    "japaneseDefinition": "株式譲渡制限に関する定めなど、会社法で規定された特定の事項について定款に定めがある株式会社。非公開会社に適用されることが多い。",
+    "japaneseWordTranslation": "定款の定めがある会社 (ていかんのさだめがあるかいしゃ)",
+    "legalContext": "Companies Act, Art. 2, item 5-2: Definition of a stock company with special provisions in its articles of incorporation, often related to transfer restriction (Art. 107).",
+    "japaneseLegalContext": "会社法第二条第五号の二: 定款に会社法第百七条第一項等の定めがある株式会社。",
+    "exampleSentence": "The XYZ Corporation operates as a Company with Designated Provision due to the requirement for Board approval for any share transfer outside the established framework.",
+    "exampleTranslation": "XYZ社は、確立された枠組み外での株式の譲渡に取締役会の承認を要するため、定款の定めがある会社として運営されている。",
+    "vocabularyList": [
+      {
+        "word": "articles of incorporation",
+        "translation": "定款 (ていかん)"
+      },
+      {
+        "word": "stock company",
+        "translation": "株式会社 (かぶしきがいしゃ)"
+      },
+      {
+        "word": "share transfer",
+        "translation": "株式の譲渡 (かぶしきのじょうと)"
+      },
+      {
+        "word": "Board approval",
+        "translation": "取締役会の承認 (とりしまりやくかいのしょうにん)"
+      },
+      {
+        "word": "non-public companies",
+        "translation": "非公開会社 (ひこうかいがいしゃ)"
+      },
+      {
+        "word": "designated provision",
+        "translation": "定め (さだめ)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exoneration of Officer Liability",
+    "definition": "A formal mechanism under the Companies Act where a company releases its directors, statutory auditors, or executive officers from part of their liability for damages owed to the company, usually requiring a special resolution or prior agreement.",
+    "japaneseDefinition": "会社法に基づき、取締役、会計参与、監査役などが会社に対して負う損害賠償責任の一部を、株主総会の決議等によって免除する制度。",
+    "japaneseWordTranslation": "役員の責任免除 (やく'いんのせきにんめんじょ)",
+    "legalContext": "Companies Act, Art. 424 (Total Exemption) and Art. 426 (Partial Exemption by Resolution of the Board of Directors, requiring statutory eligibility).",
+    "japaneseLegalContext": "会社法第四百二十四条（責任の免除の総会決議）および第四百二十六条（取締役の責任免除の決定）。",
+    "exampleSentence": "The company’s bylaws allow the Board of Directors to determine the amount of **exoneration of officer liability** for outside directors, provided it does not exceed the statutory limit.",
+    "exampleTranslation": "会社の定款は、法定の限度を超えないことを条件に、社外取締役に対する役員の責任免除の額を取締役会が決定することを認めている。",
+    "vocabularyList": [
+      {
+        "word": "bylaws",
+        "translation": "定款 (ていかん)"
+      },
+      {
+        "word": "statutory limit",
+        "translation": "法定の限度 (ほうていのげんど)"
+      },
+      {
+        "word": "outside directors",
+        "translation": "社外取締役 (しゃがいとりしまりやく)"
+      },
+      {
+        "word": "damages owed",
+        "translation": "損害賠償責任 (そんがいばいしょうせきにん)"
+      },
+      {
+        "word": "eligibility",
+        "translation": "適格性 (てきかくせい)"
+      },
+      {
+        "word": "release",
+        "translation": "免除 (めんじょ)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Surplus Appropriation",
+    "definition": "The formal decision-making process regarding the utilization and allocation of the company's retained earnings (surplus), including payment of dividends and setting aside reserves, typically resolved by the General Meeting of Shareholders.",
+    "japaneseDefinition": "会社の利益剰余金（剰余金）の使い道、例えば配当の支払い、積立金の計上などについて決定するプロセス。",
+    "japaneseWordTranslation": "剰余金の処分 (じょうよきんのしょぶん)",
+    "legalContext": "Companies Act Art. 453 (Resolution on Distribution of Surplus), establishing the shareholder resolution requirement for determining how profits are utilized.",
+    "japaneseLegalContext": "会社法第四百五十三条（剰余金の配当に関する決定）。",
+    "exampleSentence": "Any act relating to **surplus appropriation** requires approval by an ordinary resolution at the annual General Meeting of Shareholders, adhering to the corporate articles.",
+    "exampleTranslation": "剰余金の処分に関するいかなる行為も、会社の定款に従い、定時株主総会における普通決議による承認を要する。",
+    "vocabularyList": [
+      {
+        "word": "retained earnings",
+        "translation": "利益剰余金 (りえきじょうよきん)"
+      },
+      {
+        "word": "allocation",
+        "translation": "計上 (けいじょう)"
+      },
+      {
+        "word": "payment of dividends",
+        "translation": "配当の支払い (はいとうのしはらい)"
+      },
+      {
+        "word": "ordinary resolution",
+        "translation": "普通決議 (ふつうけつぎ)"
+      },
+      {
+        "word": "General Meeting of Shareholders",
+        "translation": "株主総会 (かぶぬしそうかい)"
+      },
+      {
+        "word": "utilization",
+        "translation": "使い道 (つかいみち)"
+      }
+    ]
   }
 ]

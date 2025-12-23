@@ -2,44 +2,6 @@
   {
     "category": "Real Property Registration (不動産登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Hypothecation",
-    "definition": "A security interest in real property granted to a creditor (mortgagee) as collateral for a debt, which allows the creditor to satisfy the debt out of the property's value if the debtor defaults, without transferring possession.",
-    "japaneseDefinition": "債務の担保として債権者（抵当権者）に設定される不動産上の担保物権であり、債務者が債務不履行に陥った場合に、占有を移さずに不動産の価額から債権を弁済させることを可能とする権利。",
-    "japaneseWordTranslation": "抵当権 (ていとうけん)",
-    "legalContext": "Civil Code Art. 369: A hypothecation holder shall have the right to obtain performance of his/her claim in preference to other creditors out of the property serving as security.",
-    "japaneseLegalContext": "民法第369条: 抵当権者は、債務者又は第三者が占有を移転しないで債務の担保に供した不動産について、他の債権者に先立って自己の債権の弁済を受ける権利を有する。",
-    "exampleSentence": "The borrower executed a deed of hypothecation over the land parcel as security for the commercial loan.",
-    "exampleTranslation": "借主は商業ローンの担保として、その土地区画上に抵当権設定証書を執行した。",
-    "vocabularyList": [
-      {
-        "word": "Creditor",
-        "translation": "債権者 (さいけんしゃ)"
-      },
-      {
-        "word": "Collateral",
-        "translation": "担保 (たんぽ)"
-      },
-      {
-        "word": "Deed",
-        "translation": "証書 (しょうしょ)"
-      },
-      {
-        "word": "Performance of claim",
-        "translation": "債権の弁済 (さいけんのべんさい)"
-      },
-      {
-        "word": "Security interest",
-        "translation": "担保物権 (たんぽぶっけん)"
-      },
-      {
-        "word": "Land parcel",
-        "translation": "土地区画 (とちくかく)"
-      }
-    ]
-  },
-  {
-    "category": "Real Property Registration (不動産登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Perfection",
     "definition": "A legal requirement, typically formal registration, necessary for a real property interest holder to assert that right against third parties, even if the interest is already valid between the immediate parties.",
     "japaneseDefinition": "不動産上の権利の保有者が、当該権利を当事者間で有効であるだけでなく、第三者に対しても主張するために必要とされる、通常は正式な登記による法律上の要件。",
@@ -5504,6 +5466,132 @@
       {
         "word": "attached garage",
         "translation": "付属の車庫 (ふぞくのしゃこ)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Disqualification of Application",
+    "definition": "The mandatory legal grounds specified in the Real Property Registration Act upon which a registrar must reject an application, typically related to non-compliance with formal requirements or lack of jurisdiction.",
+    "japaneseDefinition": "不動産登記法において定められている、登記官が登記の申請を却下しなければならないとされる法定の事由。主に申請の方式の不備や管轄違いなどに関わる。",
+    "japaneseWordTranslation": "却下事由 (きゃっかじゆう)",
+    "legalContext": "Real Property Registration Act Art. 25: Specifies 11 mandatory grounds for dismissal (rejection) of a registration application.",
+    "japaneseLegalContext": "不動産登記法第25条: 登記の申請を却下しなければならない11の法定の事由を規定。",
+    "exampleSentence": "The application was subject to **statutory disqualification of application** because the accompanying documents failed to certify the identity of the registered title holder.",
+    "exampleTranslation": "その申請は、添付書類が登記名義人の同一性を証明できなかったため、却下事由に該当した。",
+    "vocabularyList": [
+      {
+        "word": "mandatory grounds",
+        "translation": "法定の事由"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "formal requirements",
+        "translation": "方式上の要件"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄"
+      },
+      {
+        "word": "accompanying documents",
+        "translation": "添付書類"
+      },
+      {
+        "word": "identity",
+        "translation": "同一性"
+      },
+      {
+        "word": "title holder",
+        "translation": "名義人"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ex-Officio Deletion",
+    "definition": "The administrative power and duty of the registrar to unilaterally delete a registration record (or part thereof) if it is found to be substantively unlawful, void, or in conflict with an existing entry, without requiring a joint application from the parties.",
+    "japaneseDefinition": "登記が実体上無効であるときや、他の登記と明らかに抵触しているときなど、登記官が当事者の申請を待たずに、自らの権限で当該登記を抹消すること。",
+    "japaneseWordTranslation": "職権抹消 (しょっけんまっしょう)",
+    "legalContext": "Real Property Registration Act Art. 25(9) and Enforcement Rule 55: Stipulate the duty of the registrar to delete registrations that are clearly unlawful or duplicate entries.",
+    "japaneseLegalContext": "不動産登記法第25条第9号及び同規則第55条: 登記が明らかに不適法な場合や二重登記が存在する場合に、登記官の職権による抹消を義務付けている。",
+    "exampleSentence": "If a preservation registration is later determined to be without valid cause, the registrar must carry out the **ex-officio deletion** of that entry.",
+    "exampleTranslation": "保全登記にその後有効な原因がないと判明した場合、登記官は当該登記を職権抹消しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "administrative power",
+        "translation": "行政権限"
+      },
+      {
+        "word": "unilaterally",
+        "translation": "一方的に"
+      },
+      {
+        "word": "registration record",
+        "translation": "登記記録"
+      },
+      {
+        "word": "substantively unlawful",
+        "translation": "実体上不適法な"
+      },
+      {
+        "word": "conflict",
+        "translation": "抵触"
+      },
+      {
+        "word": "valid cause",
+        "translation": "有効な原因"
+      },
+      {
+        "word": "enforcement rule",
+        "translation": "施行規則"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Vesting of Acquirer's Title",
+    "definition": "The legal mechanism, typically in the context of compulsory execution, where the successful purchaser of real property acquires ownership and related rights immediately upon payment of the full sale price, triggering the registration process.",
+    "japaneseDefinition": "強制執行の文脈において、不動産の買受人が売却代金を完納した時点で、直ちに所有権及び関連権利を取得する法的な仕組み。この権利取得が登記手続の原因となる。",
+    "japaneseWordTranslation": "権利取得の帰属 (けんりしゅとくのきぞく)",
+    "legalContext": "Civil Execution Act Art. 82(2): Stipulates that the purchaser acquires ownership of the real property upon payment of the sale price.",
+    "japaneseLegalContext": "民事執行法第82条第2項: 買受人は代金を納付した時に、不動産の所有権を取得すると規定している。",
+    "exampleSentence": "The **vesting of acquirer's title** occurred simultaneously with the transfer of the sale proceeds, and the execution court then commissioned the corresponding ownership registration.",
+    "exampleTranslation": "権利取得の帰属は、売却代金の移転と同時に生じ、その後、執行裁判所が対応する所有権登記を嘱託した。",
+    "vocabularyList": [
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "successful purchaser",
+        "translation": "買受人"
+      },
+      {
+        "word": "sale price",
+        "translation": "売却代金"
+      },
+      {
+        "word": "transfer of proceeds",
+        "translation": "代金の移転"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "commissioned",
+        "translation": "嘱託した"
+      },
+      {
+        "word": "ownership registration",
+        "translation": "所有権登記"
       }
     ]
   }

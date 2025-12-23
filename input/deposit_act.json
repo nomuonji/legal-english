@@ -4958,5 +4958,119 @@
         "translation": "書類"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit in Kind",
+    "definition": "The act of depositing tangible property other than money or securities (e.g., specific goods) when such property is the subject of performance and the creditor refuses acceptance or is unknown.",
+    "japaneseDefinition": "金銭や有価証券以外の物品を供託すること。特定の給付を目的とする債務について、債権者が受領を拒否した場合などに、債務者が行う。",
+    "japaneseWordTranslation": "現物供託 (げんぶつきょうたく)",
+    "legalContext": "Deposit Act (供託法) Art. 4: 'Deposit Office shall have money and securities deposited. When things other than money and securities are deposited, they shall be deposited at the location designated by the Deposit Office.'",
+    "japaneseLegalContext": "供託法第4条：「供託所は、金銭及び有価証券を供託物とする。金銭及び有価証券以外の物を供託物とするときは、供託所の指定する場所に供託しなければならない。」",
+    "exampleSentence": "Due to the perishable nature of the goods, the obligor was authorized by the court to effect a Deposit in Kind at a designated warehouse.",
+    "exampleTranslation": "物品が腐敗しやすいため、債務者は裁判所により、指定された倉庫に現物供託を行うことが許可された。",
+    "vocabularyList": [
+      {
+        "word": "tangible property",
+        "translation": "有体物 (ゆうたいぶつ)"
+      },
+      {
+        "word": "securities",
+        "translation": "有価証券 (ゆうかしょうけん)"
+      },
+      {
+        "word": "perishable nature",
+        "translation": "腐敗しやすい性質 (ふはいしやすいせいしつ)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "designated warehouse",
+        "translation": "指定倉庫 (していそうこ)"
+      },
+      {
+        "word": "subject of performance",
+        "translation": "給付の目的 (きゅうふのもくてき)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Acceptance Document",
+    "definition": "The original official document issued by the Deposit Office to the consignor (depositor) confirming that the deposit application has been formally accepted and the assets are held in custody.",
+    "japaneseDefinition": "供託申請が正式に受理され、供託物が保管されたことを確認し、供託者に対して交付される公的な書面。",
+    "japaneseWordTranslation": "供託書正本 (きょうたくしょせいほん)",
+    "legalContext": "Deposit Act (供託法) Art. 10 (implied, related to issuance of documentation): Upon accepting the deposit, the Deposit Office shall notify the obligee of the deposit.",
+    "japaneseLegalContext": "供託法第10条（関連規定）：供託の受理があったときは、供託所は、その旨を債権者に通知しなければならない。",
+    "exampleSentence": "The obligor retained the Deposit Acceptance Document as conclusive evidence of the extinguishment of their underlying debt obligation.",
+    "exampleTranslation": "債務者は、根底にある債務の義務が消滅したことの決定的な証拠として、供託書正本を保管した。",
+    "vocabularyList": [
+      {
+        "word": "consignor",
+        "translation": "供託者 (きょうたくしゃ)"
+      },
+      {
+        "word": "formally accepted",
+        "translation": "正式に受理された (せいしきにじゅりされた)"
+      },
+      {
+        "word": "conclusive evidence",
+        "translation": "決定的な証拠 (けっていてきなしょうこ)"
+      },
+      {
+        "word": "underlying debt obligation",
+        "translation": "根底にある債務 (こんていにあるさいむ)"
+      },
+      {
+        "word": "extinguishment",
+        "translation": "消滅 (しょうめつ)"
+      },
+      {
+        "word": "held in custody",
+        "translation": "保管されている (ほかんされている)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Payment Requisition",
+    "definition": "A formal administrative request made by the entitled person (usually the obligee/creditor) to the Deposit Office to receive or draw out the deposited money or property.",
+    "japaneseDefinition": "供託された金銭又は物品を受け取る資格のある者（通常は債権者）が、供託所に対して行う正式な行政上の請求手続き。",
+    "japaneseWordTranslation": "供託物払渡請求 (きょうたくぶつはらいわたしせいきゅう)",
+    "legalContext": "Deposit Act (供託法) Art. 15: The recovery of the deposited property shall be made pursuant to the provisions of this Act, upon application by the entitled person.",
+    "japaneseLegalContext": "供託法第15条：供託物の払渡しは、法令の規定に従い、払渡しを受けるべき者の請求により、これをしなければならない。",
+    "exampleSentence": "The creditor submitted a Payment Requisition, supported by the final court judgment, to the Deposit Office to secure the funds.",
+    "exampleTranslation": "債権者は、確定した判決を裏付けとして、供託所に対し、その資金を確保するための供託物払渡請求を提出した。",
+    "vocabularyList": [
+      {
+        "word": "entitled person",
+        "translation": "払渡を受けるべき者 (はらいわたしをうけるべきもの)"
+      },
+      {
+        "word": "obligee / creditor",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "draw out",
+        "translation": "引き出す (ひきだす)"
+      },
+      {
+        "word": "formal request",
+        "translation": "正式な請求 (せいしきなせいきゅう)"
+      },
+      {
+        "word": "final court judgment",
+        "translation": "確定判決 (かくていはんけつ)"
+      },
+      {
+        "word": "secure the funds",
+        "translation": "資金を確保する (しきんをかくほする)"
+      }
+    ]
   }
 ]

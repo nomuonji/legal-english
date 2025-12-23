@@ -6432,5 +6432,119 @@
         "translation": "差押えから保護される"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Case File",
+    "definition": "The official court record comprising all documents, orders, evidence, reports, and minutes related to a compulsory execution proceeding, managed by the execution court.",
+    "japaneseDefinition": "民事執行手続において、執行裁判所が作成し、または受け取った一切の文書、決定、証拠書類、及び執行官の報告書など、事件に関する記録をまとめたもの。",
+    "japaneseWordTranslation": "執行記録 (しっこうきろく)",
+    "legalContext": "Code of Civil Execution, General Provisions: Establishes the necessity for keeping comprehensive records of execution proceedings to ensure procedural clarity and reviewability.",
+    "japaneseLegalContext": "民事執行法 (総則): 執行手続の明確性と審査可能性を確保するため、執行記録の作成・保管が定められている。",
+    "exampleSentence": "The attorney filed a motion seeking access to the execution case file to review the appraisal report and the minutes of the property investigation.",
+    "exampleTranslation": "弁護士は、評価報告書と財産調査の議事録を確認するため、執行記録へのアクセスを求める申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "court record",
+        "translation": "裁判所記録"
+      },
+      {
+        "word": "procedural documents",
+        "translation": "手続書類"
+      },
+      {
+        "word": "compulsory execution proceeding",
+        "translation": "強制執行手続"
+      },
+      {
+        "word": "appraisal report",
+        "translation": "評価報告書"
+      },
+      {
+        "word": "property investigation",
+        "translation": "財産調査"
+      },
+      {
+        "word": "minutes",
+        "translation": "議事録"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sale Date Hearing",
+    "definition": "The formal date and process during which the execution court facilitates the competitive acquisition (usually via auction) of the seized property, culminating in the determination of the highest bid.",
+    "japaneseDefinition": "執行裁判所が差し押さえた不動産等を、競売により買い受けさせるため、入札や開札を行うために指定した期日。",
+    "japaneseWordTranslation": "換価期日 (かんかきじつ)",
+    "legalContext": "Code of Civil Execution, Procedures for Immovable Property Execution: Specifies the conditions, required public notice, and procedures to be followed on the date designated for property realization.",
+    "japaneseLegalContext": "民事執行法 (不動産執行手続): 不動産を競売にかける期日の指定、公告、及び当日の手続を規定している。",
+    "exampleSentence": "If the highest bid is accepted at the sale date hearing, the bidder must submit the payment within the prescribed period to obtain the transfer permission.",
+    "exampleTranslation": "換価期日で最高額の入札が受理された場合、入札者は移転許可を得るために所定の期間内に代金を納付しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "competitive acquisition",
+        "translation": "競争買受"
+      },
+      {
+        "word": "seized property",
+        "translation": "差し押さえられた財産"
+      },
+      {
+        "word": "highest bid",
+        "translation": "最高額の入札"
+      },
+      {
+        "word": "bidder",
+        "translation": "入札者"
+      },
+      {
+        "word": "prescribed period",
+        "translation": "所定の期間"
+      },
+      {
+        "word": "transfer permission",
+        "translation": "移転許可"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Compulsory Surrender Enforcement",
+    "definition": "A procedure used to enforce a judgment or other execution title requiring the specific performance of vacating or delivering possession of real property from the debtor to the creditor or purchaser.",
+    "japaneseDefinition": "債務者が不動産の引渡し又は明渡しをすべき債務名義に基づき、執行官が債務者等から占有を奪い、債権者に当該不動産を占有させる強制的な手続。",
+    "japaneseWordTranslation": "明渡しの強制執行 (あきわたしのきょうせいしっこう)",
+    "legalContext": "Code of Civil Execution, Execution for Delivery and Surrender: Governs the detailed mechanisms by which physical possession of property is forcibly transferred under the authority of an execution officer.",
+    "japaneseLegalContext": "民事執行法 (引渡し及び明渡しの執行): 執行官の権限に基づき、不動産の占有を強制的に移転させるための具体的な仕組みを規定している。",
+    "exampleSentence": "Following the successful auction and payment, the execution obligee initiated compulsory surrender enforcement against the former owner who refused to vacate the premises.",
+    "exampleTranslation": "競売の成立と支払いに続き、執行債権者は退去を拒否した元所有者に対し、明渡しの強制執行を開始した。",
+    "vocabularyList": [
+      {
+        "word": "execution title",
+        "translation": "債務名義"
+      },
+      {
+        "word": "specific performance",
+        "translation": "特定給付"
+      },
+      {
+        "word": "vacating",
+        "translation": "明渡し"
+      },
+      {
+        "word": "forcibly transferred",
+        "translation": "強制的に移転された"
+      },
+      {
+        "word": "execution officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "former owner",
+        "translation": "元所有者"
+      }
+    ]
   }
 ]

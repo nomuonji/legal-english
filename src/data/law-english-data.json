@@ -1,38 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Real Property Registration (不動産登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Possession",
-  "definition": "The de facto control over a thing (corpus) combined with the intent to hold the thing for oneself (animus), which is protected by specific legal remedies.",
-  "japaneseDefinition": "物に対する事実上の支配状態をいい、占有権として法的に保護される。",
-  "japaneseWordTranslation": "占有 (せんゆう)",
-  "legalContext": "Civil Code Art. 180: A person who has de facto control over a thing acquires possession of it.",
-  "japaneseLegalContext": "民法第180条：物を所持する意思をもって、物を事実上支配する者は、これを占有者とする。",
-  "exampleSentence": "If a trespasser disrupts the peaceful state of possession, the original possessor may bring an action for the maintenance of possession.",
-  "exampleTranslation": "侵入者が平穏な占有状態を乱した場合、元の占有者は占有保持の訴えを提起することができる。",
+  "word": "Hypothecation",
+  "definition": "A security interest in real property granted to a creditor (mortgagee) as collateral for a debt, which allows the creditor to satisfy the debt out of the property's value if the debtor defaults, without transferring possession.",
+  "japaneseDefinition": "債務の担保として債権者（抵当権者）に設定される不動産上の担保物権であり、債務者が債務不履行に陥った場合に、占有を移さずに不動産の価額から債権を弁済させることを可能とする権利。",
+  "japaneseWordTranslation": "抵当権 (ていとうけん)",
+  "legalContext": "Civil Code Art. 369: A hypothecation holder shall have the right to obtain performance of his/her claim in preference to other creditors out of the property serving as security.",
+  "japaneseLegalContext": "民法第369条: 抵当権者は、債務者又は第三者が占有を移転しないで債務の担保に供した不動産について、他の債権者に先立って自己の債権の弁済を受ける権利を有する。",
+  "exampleSentence": "The borrower executed a deed of hypothecation over the land parcel as security for the commercial loan.",
+  "exampleTranslation": "借主は商業ローンの担保として、その土地区画上に抵当権設定証書を執行した。",
   "vocabularyList": [
     {
-      "word": "de facto control",
-      "translation": "事実上の支配"
+      "word": "Creditor",
+      "translation": "債権者 (さいけんしゃ)"
     },
     {
-      "word": "trespasser",
-      "translation": "侵入者"
+      "word": "Collateral",
+      "translation": "担保 (たんぽ)"
     },
     {
-      "word": "possessor",
-      "translation": "占有者"
+      "word": "Deed",
+      "translation": "証書 (しょうしょ)"
     },
     {
-      "word": "maintenance of possession",
-      "translation": "占有保持"
+      "word": "Performance of claim",
+      "translation": "債権の弁済 (さいけんのべんさい)"
     },
     {
-      "word": "disrupt",
-      "translation": "乱す"
+      "word": "Security interest",
+      "translation": "担保物権 (たんぽぶっけん)"
     },
     {
-      "word": "legal remedies",
-      "translation": "法的救済"
+      "word": "Land parcel",
+      "translation": "土地区画 (とちくかく)"
     }
   ]
 }

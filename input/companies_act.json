@@ -2,48 +2,6 @@
   {
     "category": "Companies Act (会社法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Executive Officer",
-    "definition": "A corporate position established in certain types of stock companies (e.g., Committee-Organized Companies), responsible for executing the company’s business operations as delegated by the supervisory body.",
-    "japaneseDefinition": "指名委員会等設置会社などの特定の形態の株式会社に置かれる役職。業務執行機関としての最高意思決定機関から委任された業務を実際に執行する責任を負う。",
-    "japaneseWordTranslation": "執行役 (しっこうやく)",
-    "legalContext": "Companies Act Art. 402 (Appointment, etc., of Executive Officers): Executive Officers shall be appointed by resolution of the supervisory body.",
-    "japaneseLegalContext": "会社法第402条（執行役の選任等）：執行役は、監督機関の決議によって選任する。",
-    "exampleSentence": "Under the new corporate governance structure, the Executive Officer is accountable for operational performance but does not hold the power of business supervision.",
-    "exampleTranslation": "新しいコーポレートガバナンス体制の下では、執行役は業務遂行責任を負うが、業務を監督する権限は持たない。",
-    "vocabularyList": [
-      {
-        "word": "Corporate position",
-        "translation": "会社における役職"
-      },
-      {
-        "word": "Committee-Organized Company",
-        "translation": "委員会設置会社"
-      },
-      {
-        "word": "Business operations",
-        "translation": "業務執行"
-      },
-      {
-        "word": "Delegation",
-        "translation": "委任"
-      },
-      {
-        "word": "Supervisory body",
-        "translation": "監督機関"
-      },
-      {
-        "word": "Accountable",
-        "translation": "説明責任がある"
-      },
-      {
-        "word": "Operational performance",
-        "translation": "業務成績"
-      }
-    ]
-  },
-  {
-    "category": "Companies Act (会社法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Stock Split",
     "definition": "A corporate action where a company increases the number of its outstanding shares by dividing each existing share into multiple shares, proportionally reducing the value per share.",
     "japaneseDefinition": "会社が、既存の株式を複数に分割することにより、発行済株式の総数を増加させる行為。一株あたりの価値はこれに比例して減少する。",
@@ -6122,6 +6080,116 @@
       {
         "word": "damages",
         "translation": "損害賠償 (songai baishō)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Distribution of Financial Resources",
+    "definition": "Regulations stipulating that a Stock Company may only acquire its own shares or distribute surplus to shareholders if the assets available for distribution (Distributable Amount) exceed a certain statutory threshold, ensuring capital maintenance.",
+    "japaneseDefinition": "株式会社が自己株式の取得または剰余金の分配を行う際に、分配可能額（会社法第461条）を超えない範囲でなければならないとする、会社の財源に関する規制。",
+    "japaneseWordTranslation": "財源規制 (Zaigen kisei)",
+    "legalContext": "Companies Act Art. 461 (Restrictions on Distributions of Surplus).",
+    "japaneseLegalContext": "会社法第461条（剰余金の分配に関する事項の決定）",
+    "exampleSentence": "The company’s ability to pay dividends is subject to the **distribution of financial resources** regulations prescribed in the Companies Act.",
+    "exampleTranslation": "その会社の配当支払い能力は、会社法に定められた財源規制に従う必要がある。",
+    "vocabularyList": [
+      {
+        "word": "Stock Company",
+        "translation": "株式会社"
+      },
+      {
+        "word": "Surplus",
+        "translation": "剰余金"
+      },
+      {
+        "word": "Distributable Amount",
+        "translation": "分配可能額"
+      },
+      {
+        "word": "Statutory Threshold",
+        "translation": "法定の限度額"
+      },
+      {
+        "word": "Capital Maintenance",
+        "translation": "資本維持"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Demand for the Purchase of Share Options",
+    "definition": "The right granted to a holder of share options to demand that the company purchase their share options at a fair price if the company carries out certain fundamental organizational changes (such as a merger or share exchange) that might prejudice their rights.",
+    "japaneseDefinition": "株式会社の合併や株式交換等の組織再編行為によって、自己の新株予約権が不利益を被る場合に、その新株予約権の保有者が会社に対して当該新株予約権を買い取るよう請求する権利。",
+    "japaneseWordTranslation": "新株予約権買取請求 (Shinkabu yoyakuken kaitori seikyū)",
+    "legalContext": "Companies Act Art. 268 (Demand for Purchase of Share Options by Holders of Share Options in Cases of Organizational Restructuring).",
+    "japaneseLegalContext": "会社法第268条（組織再編行為における新株予約権者の買取請求）",
+    "exampleSentence": "Following the notice of the absorption-type merger, the holder submitted a **demand for the purchase of share options** to the acquiring company to protect his investment.",
+    "exampleTranslation": "吸収合併の通知後、その保有者は自己の投資を保護するため、承継会社に対して新株予約権買取請求を提出した。",
+    "vocabularyList": [
+      {
+        "word": "Share Options",
+        "translation": "新株予約権"
+      },
+      {
+        "word": "Organizational Restructuring",
+        "translation": "組織再編行為"
+      },
+      {
+        "word": "Absorption-type Merger",
+        "translation": "吸収合併"
+      },
+      {
+        "word": "Acquiring Company",
+        "translation": "承継会社"
+      },
+      {
+        "word": "Fair Price",
+        "translation": "公正な価格"
+      },
+      {
+        "word": "Prejudice (rights)",
+        "translation": "権利を損なう"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exclusion of Assertion of Non-Registration",
+    "definition": "A principle stipulating that matters required to be registered in the Commercial Register cannot be asserted against a bona fide third party (a party unaware of the true facts) if they have not yet been registered, thereby protecting reliance on the public record.",
+    "japaneseDefinition": "商業登記簿に登記すべき事項は、登記が完了した後でなければ、これをもって善意の第三者に対抗することができないという原則。",
+    "japaneseWordTranslation": "登記事項の対抗制限 (Tōkizikō no taikō seigen)",
+    "legalContext": "Companies Act Art. 908 (Effect of Registration).",
+    "japaneseLegalContext": "会社法第908条（登記の効力）",
+    "exampleSentence": "Due to the **exclusion of assertion of non-registration**, the company was held liable for the transaction executed by the former representative director whose retirement had not been recorded.",
+    "exampleTranslation": "不登録事項の対抗制限により、会社は、退任がまだ登記されていなかった元の代表取締役が実行した取引について責任を負うことになった。",
+    "vocabularyList": [
+      {
+        "word": "Commercial Register",
+        "translation": "商業登記簿"
+      },
+      {
+        "word": "Bona Fide Third Party",
+        "translation": "善意の第三者"
+      },
+      {
+        "word": "Asserted Against",
+        "translation": "対抗する"
+      },
+      {
+        "word": "Representative Director",
+        "translation": "代表取締役"
+      },
+      {
+        "word": "Public Record",
+        "translation": "公の記録"
+      },
+      {
+        "word": "Held Liable",
+        "translation": "責任を負う"
       }
     ]
   }

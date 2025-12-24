@@ -1,38 +1,42 @@
 {
-  "category": "Real Property Registration (不動産登記法)",
+  "category": "Companies Act (会社法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Perfection",
-  "definition": "A legal requirement, typically formal registration, necessary for a real property interest holder to assert that right against third parties, even if the interest is already valid between the immediate parties.",
-  "japaneseDefinition": "不動産上の権利の保有者が、当該権利を当事者間で有効であるだけでなく、第三者に対しても主張するために必要とされる、通常は正式な登記による法律上の要件。",
-  "japaneseWordTranslation": "対抗要件 (たいこうようけん)",
-  "legalContext": "Act concerning Immovable Property Entry Art. 3: Unless otherwise provided in other laws, the disposition of, and any change to, rights in immovable property cannot be asserted against a third party until it is duly entered.",
-  "japaneseLegalContext": "不動産に関する記録に関する法律第3条: 不動産に関する権利の得喪及び変更は、他の法律に別段の定めがある場合を除き、その記録を完了した後でなければ、第三者に対抗することができない。",
-  "exampleSentence": "The transferee failed to achieve perfection of the leasehold, preventing them from asserting their interest against a subsequent purchaser of the estate.",
-  "exampleTranslation": "譲受人は賃借権の対抗要件を具備できなかったため、その不動産の後の買主に対して自己の権利を主張することができなかった。",
+  "word": "Executive Officer",
+  "definition": "A corporate position established in certain types of stock companies (e.g., Committee-Organized Companies), responsible for executing the company’s business operations as delegated by the supervisory body.",
+  "japaneseDefinition": "指名委員会等設置会社などの特定の形態の株式会社に置かれる役職。業務執行機関としての最高意思決定機関から委任された業務を実際に執行する責任を負う。",
+  "japaneseWordTranslation": "執行役 (しっこうやく)",
+  "legalContext": "Companies Act Art. 402 (Appointment, etc., of Executive Officers): Executive Officers shall be appointed by resolution of the supervisory body.",
+  "japaneseLegalContext": "会社法第402条（執行役の選任等）：執行役は、監督機関の決議によって選任する。",
+  "exampleSentence": "Under the new corporate governance structure, the Executive Officer is accountable for operational performance but does not hold the power of business supervision.",
+  "exampleTranslation": "新しいコーポレートガバナンス体制の下では、執行役は業務遂行責任を負うが、業務を監督する権限は持たない。",
   "vocabularyList": [
     {
-      "word": "Interest holder",
-      "translation": "権利保有者 (けんりほゆうしゃ)"
+      "word": "Corporate position",
+      "translation": "会社における役職"
     },
     {
-      "word": "Assert (a right)",
-      "translation": "主張する (しゅちょうする)"
+      "word": "Committee-Organized Company",
+      "translation": "委員会設置会社"
     },
     {
-      "word": "Third party",
-      "translation": "第三者 (だいさんしゃ)"
+      "word": "Business operations",
+      "translation": "業務執行"
     },
     {
-      "word": "Transferee",
-      "translation": "譲受人 (ゆずりうけにん)"
+      "word": "Delegation",
+      "translation": "委任"
     },
     {
-      "word": "Leasehold",
-      "translation": "賃借権 (ちんしゃくけん)"
+      "word": "Supervisory body",
+      "translation": "監督機関"
     },
     {
-      "word": "Subsequent purchaser",
-      "translation": "後順位の買主 (こうじゅんいのかいぬし)"
+      "word": "Accountable",
+      "translation": "説明責任がある"
+    },
+    {
+      "word": "Operational performance",
+      "translation": "業務成績"
     }
   ]
 }

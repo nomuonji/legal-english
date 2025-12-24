@@ -5784,5 +5784,123 @@
         "translation": "譲渡人"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Site Use Right Ratio",
+    "definition": "The proportion of the site usage right (such as land ownership or superficies) allocated to a specific unit of sectional ownership (condominium), which is a mandatory recorded matter in the Register.",
+    "japaneseDefinition": "区分建物（マンションなど）の各専有部分に配分される敷地利用権（敷地権）の持分割合を指し、不動産登記記録に必ず記録されなければならない事項。",
+    "japaneseWordTranslation": "敷地権の割合 (Shikichi-ken no Wariai)",
+    "legalContext": "Real Property Registration Act Art. 58 (1): Registration pertaining to sectional ownership buildings must include the ratio of the site use right in the Record of Description.",
+    "japaneseLegalContext": "不動産登記法第58条第1項: 区分建物についての登記の申請情報には、敷地権の割合を、表示に関する登記の登記事項として提供しなければならない。",
+    "exampleSentence": "The registration application for the sectional ownership unit must clearly specify the Site Use Right Ratio corresponding to the land plot.",
+    "exampleTranslation": "区分所有建物の登記申請には、その土地に相当する敷地権の割合を明確に特定しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "sectional ownership",
+        "translation": "区分所有"
+      },
+      {
+        "word": "unit",
+        "translation": "専有部分"
+      },
+      {
+        "word": "mandatory recorded matter",
+        "translation": "登記事項"
+      },
+      {
+        "word": "land plot",
+        "translation": "敷地"
+      },
+      {
+        "word": "proportion",
+        "translation": "持分割合"
+      },
+      {
+        "word": "allocated",
+        "translation": "配分される"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order to Appear for Identity Verification",
+    "definition": "A formal request issued by the Registrar to the applicant for a registration of rights (such as transfer of ownership) to appear in person at the registry office to verify their identity, typically used when RII is unavailable.",
+    "japaneseDefinition": "権利に関する登記の申請人に対し、登記官が本人確認のため、登記所に自ら出頭することを命じる手続き。登記識別情報を提供できない場合に利用される。",
+    "japaneseWordTranslation": "出頭の求め (Shuttō no Motome)",
+    "legalContext": "Real Property Registration Act Art. 23 (4): Where the Registrar finds it difficult to confirm the identity of the applicant by other means, the Registrar may order the applicant to appear.",
+    "japaneseLegalContext": "不動産登記法第23条第4項: 登記官は、その他の方法により申請人の本人確認をすることが困難であると認めるときは、当該申請人に対し、出頭を命ずることができる。",
+    "exampleSentence": "Because the previous registered owner failed to provide RII, the Registrar issued an Order to Appear for Identity Verification before proceeding with the transfer.",
+    "exampleTranslation": "前登記名義人が登記識別情報を提供できなかったため、登記官は移転手続きを進める前に、本人確認のための出頭の求めを発した。",
+    "vocabularyList": [
+      {
+        "word": "Registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "registry office",
+        "translation": "登記所"
+      },
+      {
+        "word": "registration of rights",
+        "translation": "権利の登記"
+      },
+      {
+        "word": "verify identity",
+        "translation": "本人確認をする"
+      },
+      {
+        "word": "previous registered owner",
+        "translation": "前登記名義人"
+      },
+      {
+        "word": "formally requested",
+        "translation": "正式に要求された"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Drawing Equivalent to a Map",
+    "definition": "A technical diagram detailing the location, boundaries, and shapes of land parcels used for property indication recordings in areas where a legally established cadastral map has not yet been implemented.",
+    "japaneseDefinition": "法定の地図が備え付けられていない地域において、土地の境界や形状を特定するために不動産の表示の記録に用いられる図面。",
+    "japaneseWordTranslation": "地図に準ずる図面 (Chizu ni Junzuru Zumen)",
+    "legalContext": "Real Property Registration Act Art. 14 (4): In areas where a map is not installed, the location and shape of the parcel shall be designated based on the Drawing Equivalent to a Map.",
+    "japaneseLegalContext": "不動産登記法第14条第4項: 地図が備え付けられていない地域においては、土地の所在及び形状は、地図に準ずる図面に基づいて定めなければならない。",
+    "exampleSentence": "Until the municipal government completes the cadastral survey, the Registrar must rely on the Drawing Equivalent to a Map for boundary confirmation.",
+    "exampleTranslation": "市町村が地籍調査を完了するまで、登記官は境界確認のために地図に準ずる図面に頼らなければならない。",
+    "vocabularyList": [
+      {
+        "word": "technical diagram",
+        "translation": "技術図"
+      },
+      {
+        "word": "land parcel",
+        "translation": "筆"
+      },
+      {
+        "word": "boundary confirmation",
+        "translation": "境界確定"
+      },
+      {
+        "word": "property indication",
+        "translation": "不動産の表示"
+      },
+      {
+        "word": "cadastral survey",
+        "translation": "地籍調査"
+      },
+      {
+        "word": "legally established",
+        "translation": "法定された"
+      },
+      {
+        "word": "implemented",
+        "translation": "実施された"
+      }
+    ]
   }
 ]

@@ -6138,5 +6138,119 @@
         "translation": "変更"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Resulting Impossibility",
+    "definition": "A specific legal situation concerning attempted crimes where the intended result is impossible due to the inherent nature of the means used or the object targeted, but the attempt may still be punished if the act posed a sufficient danger.",
+    "japaneseDefinition": "行為の手段または対象の性質上、結果の発生が最初から不可能な場合をいう。ただし、危険性が認められるときは未遂犯として処罰されうる。",
+    "japaneseWordTranslation": "結果不能 (けっかふのう)",
+    "legalContext": "Criminal Code Art. 43, Paragraph 2: 'In cases where the result cannot occur due to the impossibility of the means or the object, the penalty may be mitigated or the person may be exempted from punishment.'",
+    "japaneseLegalContext": "刑法第四十三条第二項: 「結果の発生しないことが手段又は対象の性質上不可能な場合において、その行為を罰するときは、刑を減軽し、又は免除することができる。」",
+    "exampleSentence": "The defense argued for exemption from punishment based on resulting impossibility, as the means employed could never have achieved the intended harm.",
+    "exampleTranslation": "弁護側は、採用された手段では意図した損害が達成されるはずがなかったため、結果不能に基づき刑の免除を主張した。",
+    "vocabularyList": [
+      {
+        "word": "inherent nature",
+        "translation": "性質上 (せいしつじょう)"
+      },
+      {
+        "word": "means employed",
+        "translation": "採用された手段 (さいようされたしゅだん)"
+      },
+      {
+        "word": "mitigation of penalty",
+        "translation": "刑の減軽 (けいのげんけい)"
+      },
+      {
+        "word": "exemption from punishment",
+        "translation": "刑の免除 (けいのめんじょ)"
+      },
+      {
+        "word": "intended harm",
+        "translation": "意図した損害 (いとしたそんがい)"
+      },
+      {
+        "word": "sufficient danger",
+        "translation": "十分な危険性 (じゅうぶんなきけんせい)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Objective Attribution",
+    "definition": "A contemporary theoretical approach in criminal law used to establish a legally relevant causal relationship (causality) between the act and the result, focusing on whether the act created an unacceptable risk that materialized in the specific result.",
+    "japaneseDefinition": "実行行為が法的に許容されない危険を創出し、その危険が保護法益の侵害という結果に現実化したか否かを判断基準とする、行為と結果の間の因果関係を判断するための学説。",
+    "japaneseWordTranslation": "客観的帰属 (きあっかんてききぞく)",
+    "legalContext": "This concept is a core element in the theory of crime structure (Tathandlung) and is used by courts to refine the scope of criminal liability beyond mere physical causation.",
+    "japaneseLegalContext": "犯罪構成要件論における行為論の主要な要素であり、単なる物理的な因果関係を超えて、刑法上の責任の範囲を限定するために裁判所によって用いられる概念。",
+    "exampleSentence": "The court employed the doctrine of objective attribution to determine if the defendant's regulatory breach fell within the scope of the risk protected by the specific criminal statute.",
+    "exampleTranslation": "裁判所は、被告人の規制違反が特定の刑法が保護する危険の範囲内に収まるかどうかを判断するために、客観的帰属の理論を用いた。",
+    "vocabularyList": [
+      {
+        "word": "theoretical approach",
+        "translation": "学説 (がくせつ)"
+      },
+      {
+        "word": "causal relationship",
+        "translation": "因果関係 (いんがかんけい)"
+      },
+      {
+        "word": "criminal liability",
+        "translation": "刑法上の責任 (けいほうじょうのせきにん)"
+      },
+      {
+        "word": "regulatory breach",
+        "translation": "規制違反 (きせいいはん)"
+      },
+      {
+        "word": "physical causation",
+        "translation": "物理的な因果関係 (ぶつりてきないんがかんけい)"
+      },
+      {
+        "word": "scope of the risk",
+        "translation": "危険の範囲 (きけんのはんい)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Real Concurrence of Offenses",
+    "definition": "The situation where a person commits multiple criminal acts at different times, each constituting an independent crime, requiring that all the penalties be combined and executed concurrently, subject to statutory limits.",
+    "japaneseDefinition": "犯人が数個の行為を行い、それぞれが独立した数個の罪を構成する場合をいう。これらの罪は原則として併合罪として扱われ、刑罰は法律の定める制限内で併合して処断される。",
+    "japaneseWordTranslation": "実質的競合罪 (じっしつてききょうごうざい)",
+    "legalContext": "Criminal Code Art. 45: 'When a person is convicted of two or more crimes for which the judgment has not yet become final and binding, the crimes shall be treated as concurrent offenses.' (This applies primarily to real concurrence).",
+    "japaneseLegalContext": "刑法第四十五条: 「判決が確定していない二個以上の罪を犯したときは、これを併合罪として処断する。」",
+    "exampleSentence": "The defendant’s conviction for larceny in May and fraud in July constituted a real concurrence of offenses, leading to the application of the combining punishment rules.",
+    "exampleTranslation": "被告人が5月の窃盗罪と7月の詐欺罪で有罪判決を受けたことは実質的競合罪を構成し、刑罰併合の規定の適用につながった。",
+    "vocabularyList": [
+      {
+        "word": "concurrent offenses",
+        "translation": "併合罪 (へいごうざい)"
+      },
+      {
+        "word": "independent crime",
+        "translation": "独立した罪 (どくりつしたつみ)"
+      },
+      {
+        "word": "statutory limits",
+        "translation": "法律の定める制限 (ほうりつのさだめるせいげん)"
+      },
+      {
+        "word": "conviction",
+        "translation": "有罪判決 (ゆうざいはんけつ)"
+      },
+      {
+        "word": "larceny",
+        "translation": "窃盗罪 (せっとうざい)"
+      },
+      {
+        "word": "combining punishment rules",
+        "translation": "刑罰併合の規定 (けいばつへいごうのきてい)"
+      }
+    ]
   }
 ]

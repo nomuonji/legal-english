@@ -2,40 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Execution Court",
-    "definition": "The court responsible for carrying out civil execution procedures.",
-    "japaneseDefinition": "民事執行の手続を行う裁判所。",
-    "japaneseWordTranslation": "執行裁判所 (しっこうさいばんしょ)",
-    "legalContext": "Civil Execution Act Art. 3: The court of execution shall be the district court having jurisdiction over the location of the subject matter.",
-    "japaneseLegalContext": "民事執行法第3条：執行裁判所は、目的物の所在地を管轄する地方裁判所とする。",
-    "exampleSentence": "The execution court issued an order for the commencement of an auction.",
-    "exampleTranslation": "執行裁判所は競売開始決定を出した。",
-    "vocabularyList": [
-      {
-        "word": "District court",
-        "translation": "地方裁判所"
-      },
-      {
-        "word": "Jurisdiction",
-        "translation": "管轄"
-      },
-      {
-        "word": "Subject matter",
-        "translation": "目的物"
-      },
-      {
-        "word": "Auction",
-        "translation": "競売"
-      },
-      {
-        "word": "Commencement",
-        "translation": "開始"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Execution Title",
     "definition": "The authentic legal document (such as a final and binding judgment, a notarized document granting an execution clause, or a settlement record) that proves the existence and scope of the claim for which compulsory enforcement is sought.",
     "japaneseDefinition": "強制執行を申し立てる債権の存在と範囲を証明する公的な文書（確定判決、執行証書、和解調書など）。",
@@ -6768,6 +6734,120 @@
       {
         "word": "heirloom vase",
         "translation": "家宝の花瓶"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Particulars Description",
+    "definition": "A document prepared by the execution court detailing the physical condition, legal rights, rental status, and other necessary information regarding immovable property subject to execution sale, provided for prospective bidders.",
+    "japaneseDefinition": "執行裁判所が作成する、強制競売の対象となった不動産の現況、権利関係、賃借人の有無など、買い受けに必要な情報を記載した文書。",
+    "japaneseWordTranslation": "物件明細書 (ぶっけんめいさいしょ)",
+    "legalContext": "Civil Execution Act Art. 62 (Preparation of Property Particulars Description)",
+    "japaneseLegalContext": "民事執行法第62条（物件明細書の作成）",
+    "exampleSentence": "Prospective bidders must inspect the **Property Particulars Description** prior to submitting a bid for the compulsory auction of the land.",
+    "exampleTranslation": "入札希望者は、土地の強制競売に入札する前に、物件明細書を閲覧しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Prospective bidder",
+        "translation": "入札希望者"
+      },
+      {
+        "word": "Compulsory auction",
+        "translation": "強制競売"
+      },
+      {
+        "word": "Immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "Execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "Legal rights",
+        "translation": "権利関係"
+      },
+      {
+        "word": "Submitting a bid",
+        "translation": "入札"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preferential Distribution Rights Holder",
+    "definition": "A creditor possessing a statutory or consensual security interest (such as a hypothec) who is entitled to receive payment of their claim preferentially from the proceeds of the execution sale before ordinary creditors.",
+    "japaneseDefinition": "執行の対象となった財産の売却代金から、一般債権者に先立って自己の債権の弁済を受ける権利を有する債権者（抵当権者など）。",
+    "japaneseWordTranslation": "優先弁済権者 (ゆうせんべんさいけんじゃ)",
+    "legalContext": "Civil Execution Act Art. 87 (Demand for Inclusion in Distribution by Preferential Distribution Rights Holder)",
+    "japaneseLegalContext": "民事執行法第87条（優先弁済権者の配当要求）",
+    "exampleSentence": "A hypothec holder, even if not the execution obligee, acts as a **Preferential Distribution Rights Holder** and must file a demand for distribution to secure payment.",
+    "exampleTranslation": "抵当権者は、たとえ執行債権者でなくても、優先弁済権者として行動し、弁済を確保するために配当要求を申し立てなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Security interest",
+        "translation": "担保権"
+      },
+      {
+        "word": "Hypothec holder",
+        "translation": "抵当権者"
+      },
+      {
+        "word": "Execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "Proceeds of sale",
+        "translation": "売却代金"
+      },
+      {
+        "word": "Ordinary creditor",
+        "translation": "一般債権者"
+      },
+      {
+        "word": "Demand for distribution",
+        "translation": "配当要求"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restriction on Obligor's Disposition",
+    "definition": "The legal prohibition imposed on the execution obligor, immediately upon the seizure of property, preventing them from legally transferring, encumbering, or otherwise disposing of the seized assets.",
+    "japaneseDefinition": "差押えの効力として、執行債務者が目的物を売却、贈与、担保設定その他の方法で処分することを法律上禁じられること。",
+    "japaneseWordTranslation": "処分制限 (しょぶんせいげん)",
+    "legalContext": "Civil Execution Act Art. 46 (Effect of Seizure and Restriction on Disposition of Property)",
+    "japaneseLegalContext": "民事執行法第46条（差押えの効力及び処分制限）",
+    "exampleSentence": "The bank notified the third-party debtor that the claim was subject to the **Restriction on Obligor's Disposition**, rendering any payment to the obligor invalid.",
+    "exampleTranslation": "銀行は第三債務者に対し、当該債権が処分制限の対象となっており、債務者へのいかなる支払いも無効となる旨を通知した。",
+    "vocabularyList": [
+      {
+        "word": "Seizure of property",
+        "translation": "財産の差押え"
+      },
+      {
+        "word": "Execution obligor",
+        "translation": "執行債務者"
+      },
+      {
+        "word": "Third-party debtor",
+        "translation": "第三債務者"
+      },
+      {
+        "word": "Encumbering",
+        "translation": "負担を負わせる"
+      },
+      {
+        "word": "Invalid",
+        "translation": "無効"
+      },
+      {
+        "word": "Legal prohibition",
+        "translation": "法的禁止"
       }
     ]
   }

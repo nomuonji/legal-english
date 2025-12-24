@@ -1,42 +1,34 @@
 {
-  "category": "Companies Act (会社法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Executive Officer",
-  "definition": "A corporate position established in certain types of stock companies (e.g., Committee-Organized Companies), responsible for executing the company’s business operations as delegated by the supervisory body.",
-  "japaneseDefinition": "指名委員会等設置会社などの特定の形態の株式会社に置かれる役職。業務執行機関としての最高意思決定機関から委任された業務を実際に執行する責任を負う。",
-  "japaneseWordTranslation": "執行役 (しっこうやく)",
-  "legalContext": "Companies Act Art. 402 (Appointment, etc., of Executive Officers): Executive Officers shall be appointed by resolution of the supervisory body.",
-  "japaneseLegalContext": "会社法第402条（執行役の選任等）：執行役は、監督機関の決議によって選任する。",
-  "exampleSentence": "Under the new corporate governance structure, the Executive Officer is accountable for operational performance but does not hold the power of business supervision.",
-  "exampleTranslation": "新しいコーポレートガバナンス体制の下では、執行役は業務遂行責任を負うが、業務を監督する権限は持たない。",
+  "word": "Execution Court",
+  "definition": "The court responsible for carrying out civil execution procedures.",
+  "japaneseDefinition": "民事執行の手続を行う裁判所。",
+  "japaneseWordTranslation": "執行裁判所 (しっこうさいばんしょ)",
+  "legalContext": "Civil Execution Act Art. 3: The court of execution shall be the district court having jurisdiction over the location of the subject matter.",
+  "japaneseLegalContext": "民事執行法第3条：執行裁判所は、目的物の所在地を管轄する地方裁判所とする。",
+  "exampleSentence": "The execution court issued an order for the commencement of an auction.",
+  "exampleTranslation": "執行裁判所は競売開始決定を出した。",
   "vocabularyList": [
     {
-      "word": "Corporate position",
-      "translation": "会社における役職"
+      "word": "District court",
+      "translation": "地方裁判所"
     },
     {
-      "word": "Committee-Organized Company",
-      "translation": "委員会設置会社"
+      "word": "Jurisdiction",
+      "translation": "管轄"
     },
     {
-      "word": "Business operations",
-      "translation": "業務執行"
+      "word": "Subject matter",
+      "translation": "目的物"
     },
     {
-      "word": "Delegation",
-      "translation": "委任"
+      "word": "Auction",
+      "translation": "競売"
     },
     {
-      "word": "Supervisory body",
-      "translation": "監督機関"
-    },
-    {
-      "word": "Accountable",
-      "translation": "説明責任がある"
-    },
-    {
-      "word": "Operational performance",
-      "translation": "業務成績"
+      "word": "Commencement",
+      "translation": "開始"
     }
   ]
 }

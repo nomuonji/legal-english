@@ -5998,5 +5998,81 @@
         "translation": "保全の事由"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order to Initiate Substantive Proceedings",
+    "definition": "A court order compelling the preservation obligee (the creditor) who obtained a preservation measure (such as a provisional attachment or injunction) to file the principal lawsuit (the action on the merits) within a specified period, failing which the preservation measure may be subject to revocation.",
+    "japaneseDefinition": "保全債権者に対し、裁判所が定める期間内に本案の訴え（メインの訴訟）を提起することを命じる決定。期間内に提起がない場合、保全命令が職権で取り消される。",
+    "japaneseWordTranslation": "本案訴訟提起命令 (ほんなんそしょうていきめいれい)",
+    "legalContext": "Civil Preservation Act, Article 37 (2): The preservation court shall, upon a motion by the preservation debtor, issue an order requiring the preservation obligee to file the action on the merits within a period specified by the court.",
+    "japaneseLegalContext": "民事保全法第37条第2項 (本案の訴えの不提起等による保全命令の取消し): 裁判所は、保全債務者の申立てにより、保全債権者に対し、裁判所が定めた期間内に本案の訴えを提起すべきことを命ずる。",
+    "exampleSentence": "The preservation debtor submitted a motion requesting the **order to initiate substantive proceedings**, arguing that the obligee had unduly delayed filing the principal action after the attachment.",
+    "exampleTranslation": "保全債務者は、債権者が差押えの後、本案の訴訟提起を不当に遅延させているとして、**本案訴訟提起命令**を請求する申立てを提出した。",
+    "vocabularyList": [
+      {
+        "word": "substantive proceedings",
+        "translation": "本案の訴訟 (ほんあんのそしょう)"
+      },
+      {
+        "word": "preservation obligee",
+        "translation": "保全債権者 (ほぜんさいけんしゃ)"
+      },
+      {
+        "word": "principal action",
+        "translation": "本案の訴え (ほんあんのうったえ)"
+      },
+      {
+        "word": "unduly delayed",
+        "translation": "不当に遅延した (ふとうにちえんした)"
+      },
+      {
+        "word": "revocation",
+        "translation": "取消し (とりけし)"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て (もうしたて)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Security for Discharge of Preservation",
+    "definition": "A monetary deposit provided by the preservation debtor to the court, the acceptance of which compels the court to cancel the preservation order (provisional attachment or disposition), thereby releasing the encumbered property from the enforcement measures.",
+    "japaneseDefinition": "保全債務者が、既に発せられた保全命令（仮差押えや仮処分）の執行を取り消させ、係争物を解放するために裁判所に供託する担保金。",
+    "japaneseWordTranslation": "保全解放のための担保 (ほぜんかいほうのためのたんぽ)",
+    "legalContext": "Civil Preservation Act, Article 25 (2): If the preservation debtor files an objection against the preservation order, the court may, upon a motion, permit the cancellation of the preservation order upon the debtor providing security in an amount deemed appropriate.",
+    "japaneseLegalContext": "民事保全法第25条第2項: 保全異議の申立てがあった場合において、裁判所は、保全債務者の申立てにより、保全命令の取消しについて相当の担保を立てさせることができる旨を定めることができる。",
+    "exampleSentence": "In order to operate the business without hindrance, the preservation debtor immediately posted the required **security for discharge of preservation** to release the factory equipment.",
+    "exampleTranslation": "業務を滞りなく行うため、保全債務者は、直ちに工場設備を解放するための必要な**保全解放のための担保**を供託した。",
+    "vocabularyList": [
+      {
+        "word": "monetary deposit",
+        "translation": "金銭供託 (きんせんきょうたく)"
+      },
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者 (ほぜんさいむしゃ)"
+      },
+      {
+        "word": "encumbered property",
+        "translation": "負担付財産 (ふたんつきざいさん)"
+      },
+      {
+        "word": "cancellation",
+        "translation": "取消し (とりけし)"
+      },
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分 (かりしょぶん)"
+      },
+      {
+        "word": "without hindrance",
+        "translation": "滞りなく (とどこおりなく)"
+      }
+    ]
   }
 ]

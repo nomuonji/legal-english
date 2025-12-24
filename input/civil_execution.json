@@ -6546,5 +6546,115 @@
         "translation": "元所有者"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Executing Organ",
+    "definition": "The specific body—either the Execution Court (執行裁判所) or the Execution Officer (執行官)—that is legally authorized to execute the steps of compulsory execution based on an execution title.",
+    "japaneseDefinition": "債務名義に基づき、強制執行の手続きを実施する権限を与えられた執行機関（執行裁判所または執行官）のこと。",
+    "japaneseWordTranslation": "執行機関 (しっこうきかん)",
+    "legalContext": "Civil Execution Act, Chapter I (General Provisions) determines the roles of the Execution Court and the Execution Officer as the primary executing organs.",
+    "japaneseLegalContext": "民事執行法第1章（総則）にて、執行裁判所及び執行官が主要な執行機関としてその役割を定められている。",
+    "exampleSentence": "The Executing Organ must ensure that all mandatory procedural safeguards are strictly followed when seizing property under compulsory execution.",
+    "exampleTranslation": "執行機関は、強制執行の下で財産を差し押さえる際、すべての必須の手続的保護措置が厳格に遵守されることを保証しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "procedural safeguards",
+        "translation": "手続的保護措置"
+      },
+      {
+        "word": "seizing property",
+        "translation": "財産の差押え"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "Execution Court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "Execution Officer",
+        "translation": "執行官"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution against Other Property Rights",
+    "definition": "A type of execution directed at proprietary rights (財産権) of the obligor that are neither claims, movable property, nor immovable property. Examples include patents, copyrights, specific intellectual property rights, or interests in certain partnerships.",
+    "japaneseDefinition": "債務者の有する財産権のうち、債権、動産、及び不動産のいずれにも該当しないその他の権利（特許権、著作権、特定の知的財産権、組合持分など）に対する執行手続。",
+    "japaneseWordTranslation": "その他の財産権に対する執行 (そのたのざいさんけんにたいするしっこう)",
+    "legalContext": "Civil Execution Act Art. 167 (General rule on execution against proprietary rights) requires execution against such rights to be carried out pursuant to the court's order.",
+    "japaneseLegalContext": "民事執行法第167条（財産権に対する執行の通則）により、かかる権利に対する執行は裁判所の命令に従って行われることが求められる。",
+    "exampleSentence": "Since the debtor held no tangible assets, the obligee pursued Execution against Other Property Rights, successfully seizing the value of the debtor's registered patent.",
+    "exampleTranslation": "債務者は有形資産を保有していなかったため、債権者はその他の財産権に対する執行を追求し、債務者の登録された特許の価値を差し押さえることに成功した。",
+    "vocabularyList": [
+      {
+        "word": "tangible assets",
+        "translation": "有形資産"
+      },
+      {
+        "word": "proprietary rights",
+        "translation": "財産権"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "registered patent",
+        "translation": "登録された特許"
+      },
+      {
+        "word": "intellectual property rights",
+        "translation": "知的財産権"
+      },
+      {
+        "word": "seizing the value",
+        "translation": "価値を差し押さえる"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Clearing of Encumbrances",
+    "definition": "The legal principle and procedural effect in execution against immovable property whereby rights attaching to the property—specifically mortgages, seizure effects, or certain real rights—are extinguished upon the completion of the compulsory sale, allowing the new owner to acquire clear title.",
+    "japaneseDefinition": "不動産に対する執行において、競売の完了時に、その不動産上に設定されていた担保権や差押えの効力、特定の物権などが消滅し、新たな所有者が無担保の所有権を取得する手続上の効果。",
+    "japaneseWordTranslation": "負担の除去 (ふたんのじょきょ)",
+    "legalContext": "Civil Execution Act Art. 59 specifies which rights are extinguished (cleared) and which rights must be assumed by the acquirer of the property in execution proceedings.",
+    "japaneseLegalContext": "民事執行法第59条は、執行手続においてどの権利が消滅（除去）し、どの権利を不動産の取得者が引き継ぐべきかを規定している。",
+    "exampleSentence": "The successful implementation of the Clearing of Encumbrances ensures marketability and maximizes the sale price of the property subject to compulsory procedures.",
+    "exampleTranslation": "負担の除去が首尾よく実施されることで、強制手続にかけられた不動産の市場性を確保し、売却価格を最大化することができる。",
+    "vocabularyList": [
+      {
+        "word": "immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "mortgages",
+        "translation": "担保権"
+      },
+      {
+        "word": "marketability",
+        "translation": "市場性"
+      },
+      {
+        "word": "extinguished",
+        "translation": "消滅した"
+      },
+      {
+        "word": "clear title",
+        "translation": "無担保の所有権"
+      },
+      {
+        "word": "compulsory procedures",
+        "translation": "強制手続"
+      }
+    ]
   }
 ]

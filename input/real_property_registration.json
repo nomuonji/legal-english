@@ -2,44 +2,6 @@
   {
     "category": "Real Property Registration (不動産登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Perfection",
-    "definition": "A legal requirement, typically formal registration, necessary for a real property interest holder to assert that right against third parties, even if the interest is already valid between the immediate parties.",
-    "japaneseDefinition": "不動産上の権利の保有者が、当該権利を当事者間で有効であるだけでなく、第三者に対しても主張するために必要とされる、通常は正式な登記による法律上の要件。",
-    "japaneseWordTranslation": "対抗要件 (たいこうようけん)",
-    "legalContext": "Act concerning Immovable Property Entry Art. 3: Unless otherwise provided in other laws, the disposition of, and any change to, rights in immovable property cannot be asserted against a third party until it is duly entered.",
-    "japaneseLegalContext": "不動産に関する記録に関する法律第3条: 不動産に関する権利の得喪及び変更は、他の法律に別段の定めがある場合を除き、その記録を完了した後でなければ、第三者に対抗することができない。",
-    "exampleSentence": "The transferee failed to achieve perfection of the leasehold, preventing them from asserting their interest against a subsequent purchaser of the estate.",
-    "exampleTranslation": "譲受人は賃借権の対抗要件を具備できなかったため、その不動産の後の買主に対して自己の権利を主張することができなかった。",
-    "vocabularyList": [
-      {
-        "word": "Interest holder",
-        "translation": "権利保有者 (けんりほゆうしゃ)"
-      },
-      {
-        "word": "Assert (a right)",
-        "translation": "主張する (しゅちょうする)"
-      },
-      {
-        "word": "Third party",
-        "translation": "第三者 (だいさんしゃ)"
-      },
-      {
-        "word": "Transferee",
-        "translation": "譲受人 (ゆずりうけにん)"
-      },
-      {
-        "word": "Leasehold",
-        "translation": "賃借権 (ちんしゃくけん)"
-      },
-      {
-        "word": "Subsequent purchaser",
-        "translation": "後順位の買主 (こうじゅんいのかいぬし)"
-      }
-    ]
-  },
-  {
-    "category": "Real Property Registration (不動産登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Record of Rights Section",
     "definition": "The distinct portion of the official property record that specifies the rights relating to the land or structure (such as security interests, easements, or leaseholds), as opposed to the section detailing the property's physical description.",
     "japaneseDefinition": "土地又は工作物に関する権利（担保物権、地役権、賃借権など）を特定して記録する、公的な不動産記録簿の区分。物件の物理的明細を詳述する区分とは区別される。",
@@ -5592,6 +5554,120 @@
       {
         "word": "ownership registration",
         "translation": "所有権登記"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Land Category",
+    "definition": "The legal classification defining the primary use of a specific parcel of land, such as residential land, paddy field, or forest, which is recorded in the property description section of the Land Register.",
+    "japaneseDefinition": "不動産登記簿の表示に関する登記記録において、土地の主な用途を示す法的な区分。宅地、田、畑、山林などがこれにあたる。",
+    "japaneseWordTranslation": "地目 (ちもく)",
+    "legalContext": "Real Property Registration Act, Article 34 (Matters Registrable for Land)",
+    "japaneseLegalContext": "不動産登記法第34条（土地の登記記録の記録事項）",
+    "exampleSentence": "If the Land Category recorded in the register is changed from 'paddy field' to 'residential land,' a registration application must be filed within one month of the factual change.",
+    "exampleTranslation": "登記簿に記録されている地目が「田」から「宅地」に変更された場合、その変更があった日から1ヶ月以内に登記を申請しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "paddy field",
+        "translation": "田 (た)"
+      },
+      {
+        "word": "residential land",
+        "translation": "宅地 (たくち)"
+      },
+      {
+        "word": "parcel of land",
+        "translation": "筆 (ふで)"
+      },
+      {
+        "word": "description section",
+        "translation": "表示に関する登記 (ひょうじにかんするとうき)"
+      },
+      {
+        "word": "classification",
+        "translation": "区分 (くぶん)"
+      },
+      {
+        "word": "must be filed",
+        "translation": "申請しなければならない (しんせいしなければならない)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designated Common Elements",
+    "definition": "In sectional ownership (e.g., condominiums), parts of the building that were originally exclusive sectional units but have been formally designated as common use areas by the condominium management rules (Kiyaku), rendering them incapable of being separately registered for ownership.",
+    "japaneseDefinition": "区分所有建物において、本来は専有部分であったものを、管理規約に基づき共用部分として使用することが定められた部分。登記簿上、独立して所有権の登記をすることはできない。",
+    "japaneseWordTranslation": "規約共用部分 (きやくきょうようぶぶん)",
+    "legalContext": "Act on Sectional Ownership of Buildings, Article 4, Paragraph 2; Real Property Registration Act, Article 58.",
+    "japaneseLegalContext": "建物の区分所有等に関する法律第4条第2項、不動産登記法第58条",
+    "exampleSentence": "The conversion of an existing meeting room unit into Designated Common Elements requires a special resolution by the sectional owners and the subsequent application for an indication registration.",
+    "exampleTranslation": "既存の集会室ユニットを規約共用部分へと変更するには、区分所有者による特別決議と、それに伴う表示の登記の申請が必要である。",
+    "vocabularyList": [
+      {
+        "word": "sectional ownership",
+        "translation": "区分所有 (くぶんしょゆう)"
+      },
+      {
+        "word": "sectional unit",
+        "translation": "専有部分 (せんゆうぶぶん)"
+      },
+      {
+        "word": "management rules",
+        "translation": "管理規約 (かんりきやく)"
+      },
+      {
+        "word": "resolution",
+        "translation": "決議 (けつぎ)"
+      },
+      {
+        "word": "conversion",
+        "translation": "変更 (へんこう)"
+      },
+      {
+        "word": "indication registration",
+        "translation": "表示の登記 (ひょうじのとうき)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Transfer by Inheritance",
+    "definition": "The specific type of rights registration procedure required to record the change of ownership of real property from the deceased title holder (decedent) to their legal successor(s) in the register of rights.",
+    "japaneseDefinition": "登記簿上の所有者である被相続人から法定相続人へ不動産の所有権が移転したことを記録する権利の登記手続き。",
+    "japaneseWordTranslation": "相続による移転登記 (そうぞくによるいてんとうき)",
+    "legalContext": "Real Property Registration Act, Article 60 (Application for Change in Registered Title Holder); Civil Code, Article 896 (Universal Succession).",
+    "japaneseLegalContext": "不動産登記法第60条（権利に関する登記の申請）、民法第896条（相続の効力）",
+    "exampleSentence": "The new legislation mandates that the Registration of Transfer by Inheritance must be applied for within three years from the date the successor becomes aware of their acquisition of ownership.",
+    "exampleTranslation": "新法は、相続による移転登記を、相続人が所有権の取得を知った日から3年以内に申請することを義務付けている。",
+    "vocabularyList": [
+      {
+        "word": "legal successor",
+        "translation": "法定相続人 (ほうていそうぞくにん)"
+      },
+      {
+        "word": "deceased (decedent)",
+        "translation": "被相続人 (ひそうぞくにん)"
+      },
+      {
+        "word": "rights registration",
+        "translation": "権利の登記 (けんりのとうき)"
+      },
+      {
+        "word": "must be applied for",
+        "translation": "申請が義務付けられる (しんせいがぎむづけられる)"
+      },
+      {
+        "word": "new legislation",
+        "translation": "新法 (しんぽう)"
+      },
+      {
+        "word": "date of awareness",
+        "translation": "知った日 (しったひ)"
       }
     ]
   }

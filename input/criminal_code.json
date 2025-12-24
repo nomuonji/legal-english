@@ -5922,5 +5922,107 @@
         "translation": "懲役"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Lawful Conduct (Exclusion of Unlawfulness)",
+    "definition": "An act performed in the course of legitimate business, profession, or other acts compliant with legal principles, which, despite meeting the formal elements of a crime (actus reus), is not deemed unlawful (justification).",
+    "japaneseDefinition": "法令による行為又は正当な業務による行為など、違法性が阻却される行為をいう。",
+    "japaneseWordTranslation": "正当行為 (せいとうこうい)",
+    "legalContext": "Criminal Code Art. 35: An act performed in accordance with laws and regulations or in the course of legitimate business is not punishable.",
+    "japaneseLegalContext": "刑法第35条: 法令又は正当な業務による行為は、罰しない。",
+    "exampleSentence": "The surgeon's incision, though technically an infliction of injury, was considered lawful conduct under Article 35.",
+    "exampleTranslation": "その外科医の切開は、技術的には傷害の行使であったが、第35条の正当行為と見なされた。",
+    "vocabularyList": [
+      {
+        "word": "incision",
+        "translation": "切開 (せっかい)"
+      },
+      {
+        "word": "infliction of injury",
+        "translation": "傷害の行使 (しょうがいのこうし)"
+      },
+      {
+        "word": "technically",
+        "translation": "技術的に (ぎじゅつてきに)"
+      },
+      {
+        "word": "justification",
+        "translation": "違法性阻却 (いほうせいそきゃく)"
+      },
+      {
+        "word": "legitimate business",
+        "translation": "正当な業務 (せいとうなぎょうむ)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legally Connected Offenses",
+    "definition": "A specific doctrine of offense concurrence (kenrenhan) where one crime is committed as a means or preparation for the commission of another crime, resulting in the application of the penalty prescribed for the gravest offense.",
+    "japaneseDefinition": "犯行手段又は結果が他の罪の行為であるという関係にある複数の犯罪で、最も重い刑により処断される場合をいう。",
+    "japaneseWordTranslation": "牽連犯 (けんれんはん)",
+    "legalContext": "Criminal Code Art. 54, Paragraph 1 (Application of Punishment for Concurrence of Crimes): ...the same applies when an act that constitutes the means or preparation for another offense is in violation of another penal provision.",
+    "japaneseLegalContext": "刑法第54条第1項: 犯罪の手段又は結果である行為が他の罪名に触れるときは、その最も重い刑により処断する。",
+    "exampleSentence": "The court ruled that the unauthorized use of a vehicle to flee the scene of a robbery constituted legally connected offenses.",
+    "exampleTranslation": "裁判所は、強盗現場から逃走するために車両を無許可で使用した行為は牽連犯を構成すると裁定した。",
+    "vocabularyList": [
+      {
+        "word": "concurrence of crimes",
+        "translation": "観念的競合 (かんねんてききょうごう)"
+      },
+      {
+        "word": "means or preparation",
+        "translation": "手段又は準備 (しゅだんまたはじゅんび)"
+      },
+      {
+        "word": "gravest offense",
+        "translation": "最も重い刑 (もっともおもいけい)"
+      },
+      {
+        "word": "unauthorized use of a vehicle",
+        "translation": "車両の無許可使用 (しゃりょうのむきょかしよう)"
+      },
+      {
+        "word": "flee the scene",
+        "translation": "現場から逃走する (げんばからとうそうする)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mitigation for Voluntary Withdrawal",
+    "definition": "The reduction of punishment (mandatory or discretionary) afforded to an offender who, having commenced the execution of a crime, voluntarily and completely desists from completing the offense or prevents the resulting harm.",
+    "japaneseDefinition": "実行に着手したが、自己の意思により犯罪を中止し、又は結果発生を防止した場合に、刑を減軽又は免除すること。",
+    "japaneseWordTranslation": "中止犯の減軽 (ちゅうしはんのげんけい)",
+    "legalContext": "Criminal Code Art. 43 (Voluntary Desistance from Execution): ...the punishment shall be mitigated or remitted.",
+    "japaneseLegalContext": "刑法第43条（中止犯）: ...その刑を減軽し、又は免除する。",
+    "exampleSentence": "Because the suspect voluntarily abandoned the assault and aided the victim before the police arrived, the court granted a mandatory mitigation for voluntary withdrawal.",
+    "exampleTranslation": "容疑者が暴行を自発的に中止し、警察が到着する前に被害者を助けたため、裁判所は必要的減軽として中止犯の減軽を認めた。",
+    "vocabularyList": [
+      {
+        "word": "voluntarily abandoned",
+        "translation": "自発的に中止した (じはつてきにちゅうしした)"
+      },
+      {
+        "word": "commenced the execution",
+        "translation": "実行に着手した (じっこうにちゃくしゅした)"
+      },
+      {
+        "word": "aided the victim",
+        "translation": "被害者を助けた (ひがいしゃをたすけた)"
+      },
+      {
+        "word": "mandatory mitigation",
+        "translation": "必要的減軽 (ひつようてきげんけい)"
+      },
+      {
+        "word": "remitted",
+        "translation": "免除する (めんじょする)"
+      }
+    ]
   }
 ]

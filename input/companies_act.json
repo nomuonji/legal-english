@@ -6408,5 +6408,119 @@
         "translation": "登記"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Performance of Capital Contribution",
+    "definition": "The act by which a person subscribing for shares fulfills their obligation to contribute the necessary funds or assets (monetary or in-kind) to the company at the time of incorporation or subsequent share issuance.",
+    "japaneseDefinition": "株式を引き受けた者が、設立時または新株発行時に、払込金額または現物出資の目的である財産を会社に拠出する行為。",
+    "japaneseWordTranslation": "出資の履行 (しゅっしのりこう)",
+    "legalContext": "Companies Act, Article 34 (2): A person who subscribes for shares at the time of incorporation shall, without delay, perform the capital contribution for such shares.",
+    "japaneseLegalContext": "会社法第34条第2項: 設立時発行株式を引き受けた者は、遅滞なく、その引き受けた設立時発行株式につき、出資の履行をしなければならない。",
+    "exampleSentence": "Failure to complete the performance of capital contribution by the prescribed deadline may result in the forfeiture of the subscriber's rights regarding those shares.",
+    "exampleTranslation": "所定の期限までに『出資の履行』を完了しなかった場合、当該株式に関する引受人の権利が失効する可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "subscriber for shares",
+        "translation": "株式引受人"
+      },
+      {
+        "word": "forfeiture",
+        "translation": "失権 (しっけん)"
+      },
+      {
+        "word": "prescribed deadline",
+        "translation": "所定の期限"
+      },
+      {
+        "word": "share issuance",
+        "translation": "新株発行"
+      },
+      {
+        "word": "in-kind contribution",
+        "translation": "現物出資"
+      },
+      {
+        "word": "at incorporation",
+        "translation": "設立時"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Investigation of Incorporation Matters",
+    "definition": "The compulsory judicial review process where a court-appointed inspector (kensa-yaku) investigates specific items concerning the establishment of a company, particularly focusing on the appropriateness of special incorporation terms.",
+    "japaneseDefinition": "会社設立時に、現物出資の価額や発起人への報酬など、特定の事項の適法性・妥当性を裁判所が選任した検査役により調査させる手続き。",
+    "japaneseWordTranslation": "設立に関する検査 (せつりつにかんするけんさ)",
+    "legalContext": "Companies Act, Article 33 (10): The court shall, upon motion by the incorporators, appoint an inspector to conduct the investigation of incorporation matters.",
+    "japaneseLegalContext": "会社法第33条第10項: 裁判所は、発起人の申立てにより、検査役を選任し、設立に関する検査をさせなければならない。",
+    "exampleSentence": "The investigation of incorporation matters is required when the articles of incorporation contain provisions for contributions in kind or special benefits for the promoters.",
+    "exampleTranslation": "定款が現物出資または発起人への特別利益の供与に関する規定を含む場合、『設立に関する検査』が必要となる。",
+    "vocabularyList": [
+      {
+        "word": "incorporator",
+        "translation": "発起人 (ほっきにん)"
+      },
+      {
+        "word": "court-appointed inspector",
+        "translation": "裁判所選任の検査役"
+      },
+      {
+        "word": "special incorporation terms",
+        "translation": "特別の設立事項"
+      },
+      {
+        "word": "appropriateness",
+        "translation": "妥当性"
+      },
+      {
+        "word": "compulsory judicial review",
+        "translation": "強制的な司法審査"
+      },
+      {
+        "word": "articles of incorporation",
+        "translation": "定款 (ていかん)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Documents Regarding Distributable Funds",
+    "definition": "Specific documents, including financial statements, detailing the calculation of the maximum amount of surplus (net assets) that a company may legally distribute to its shareholders during a given fiscal period.",
+    "japaneseDefinition": "会社が株主に対し剰余金の分配を合法的に行うために、当該分配可能額の計算根拠を明確にするために作成し、株主総会に提出される計算書類。",
+    "japaneseWordTranslation": "分配可能額に関する書面 (ぶんぱいかのうがくにかんするしょめん)",
+    "legalContext": "Companies Act, Article 468 (1): A Company Limited by Shares shall submit documents concerning the calculation of distributable amounts to the shareholders' meeting.",
+    "japaneseLegalContext": "会社法第468条第1項: 株式会社は、剰余金の配当をする場合には、分配可能額の計算に関する書面を株主総会に提出しなければならない。",
+    "exampleSentence": "The directors were held liable for making distributions prior to the approval of the documents regarding distributable funds by the general meeting of shareholders.",
+    "exampleTranslation": "取締役らは、株主総会による『分配可能額に関する書面』の承認に先立って配当を行ったとして、責任を問われた。",
+    "vocabularyList": [
+      {
+        "word": "surplus",
+        "translation": "剰余金 (じょうよきん)"
+      },
+      {
+        "word": "distribution",
+        "translation": "分配 (ぶんぱい)"
+      },
+      {
+        "word": "fiscal period",
+        "translation": "計算期間"
+      },
+      {
+        "word": "legally effect",
+        "translation": "合法的に実行する"
+      },
+      {
+        "word": "general meeting of shareholders",
+        "translation": "株主総会"
+      },
+      {
+        "word": "held liable",
+        "translation": "責任を問われる"
+      }
+    ]
   }
 ]

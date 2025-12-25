@@ -6370,5 +6370,119 @@
         "translation": "算定"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Offense Legality",
+    "definition": "The fundamental doctrine stipulating that criminal liability and its corresponding punishment must be explicitly prescribed by statute prior to the commission of the act (Nulla poena sine lege).",
+    "japaneseDefinition": "犯罪と刑罰は、行為に先立って、議会の制定する法律によって明確に規定されていなければならないという、近代刑法の基本原則。",
+    "japaneseWordTranslation": "罪刑法定主義 (ざいけいほうていしゅぎ)",
+    "legalContext": "Penal Code Art. 1, Para. 1: 'No act shall be punishable which is not provided for as a crime in law or ordinance at the time of its commission.'",
+    "japaneseLegalContext": "刑法第1条第1項: 罪を犯した時における法律によらなければ、これに処罰することができない。",
+    "exampleSentence": "The court overturned the conviction on the grounds that applying a statute by analogy violated the Principle of Offense Legality.",
+    "exampleTranslation": "裁判所は、類推解釈による法規の適用が罪刑法定主義に違反するとして、有罪判決を破棄した。",
+    "vocabularyList": [
+      {
+        "word": "liability",
+        "translation": "責任 (sekinin)"
+      },
+      {
+        "word": "prescribed by statute",
+        "translation": "法律で規定されている (hōritsu de kitei sareteiru)"
+      },
+      {
+        "word": "commission of the act",
+        "translation": "行為の実行 (kōi no jikkō)"
+      },
+      {
+        "word": "conviction",
+        "translation": "有罪判決 (yūzai hanketsu)"
+      },
+      {
+        "word": "by analogy",
+        "translation": "類推解釈 (ruisū kaishaku)"
+      },
+      {
+        "word": "violate",
+        "translation": "違反する (ihan suru)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statute of Limitations for Prosecution",
+    "definition": "The statutory period following the commission of an offense, upon the expiration of which the public prosecutor loses the authority to initiate a criminal action.",
+    "japaneseDefinition": "犯罪行為の終了後、一定期間の経過によって、国家の刑罰権が消滅し、検察官が公訴を提起する権能を失う制度。",
+    "japaneseWordTranslation": "公訴時効 (こうそじこう)",
+    "legalContext": "Code of Criminal Procedure Art. 250: 'The statute of limitations for prosecution shall be completed if the prosecution is not instituted within the following periods after the offense has been committed...'",
+    "japaneseLegalContext": "刑事訴訟法第250条: 公訴時効は、次に定める期間を経過することによって完成する。",
+    "exampleSentence": "Due to the extension of the Statute of Limitations for Prosecution for certain serious crimes, the investigation into the cold case could be reopened.",
+    "exampleTranslation": "特定の重大犯罪に対する公訴時効の延長により、その未解決事件の捜査を再開することができた。",
+    "vocabularyList": [
+      {
+        "word": "statutory period",
+        "translation": "法定期間 (hōtei kikan)"
+      },
+      {
+        "word": "initiate criminal action",
+        "translation": "刑事訴訟を提起する (keiji soshō o teiki suru)"
+      },
+      {
+        "word": "extension",
+        "translation": "延長 (enchō)"
+      },
+      {
+        "word": "serious crimes",
+        "translation": "重大犯罪 (jūdai hanzai)"
+      },
+      {
+        "word": "investigation",
+        "translation": "捜査 (sōsa)"
+      },
+      {
+        "word": "cold case",
+        "translation": "未解決事件 (mikaiketsu jiken)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Pardon",
+    "definition": "A type of pardon granted to specific individuals by Cabinet decision upon recommendation of the National Public Safety Commission, serving to exempt them from a specific sentence or restore their civil rights.",
+    "japaneseDefinition": "内閣の決定に基づき、特定の者に対し、刑の執行を免除し、または有罪判決の効力を失わせ、資格を回復させる行政措置。",
+    "japaneseWordTranslation": "特赦 (とくしゃ)",
+    "legalContext": "Pardon Act Art. 2, Item 2: Special Pardon (Tokusha) refers to the acquittal of a specific person from a sentence imposed or the restoration of rights.",
+    "japaneseLegalContext": "恩赦法第2条第2号: 特赦は、特定の者に対して、有罪の言渡しを消滅させ、又は刑の執行を免除するものをいう。",
+    "exampleSentence": "The former executive received a Special Pardon after serving five years of his prison term, restoring his eligibility for public office.",
+    "exampleTranslation": "その元役員は、刑期の5年を服役した後、特赦を受け、公職に就く資格を回復した。",
+    "vocabularyList": [
+      {
+        "word": "act of grace",
+        "translation": "恩恵的措置 (onkeiteki sochi)"
+      },
+      {
+        "word": "Cabinet decision",
+        "translation": "閣議決定 (kakugi kettei)"
+      },
+      {
+        "word": "exempt from a sentence",
+        "translation": "刑を免除する (kei o menjo suru)"
+      },
+      {
+        "word": "restoration of rights",
+        "translation": "復権 (fukken)"
+      },
+      {
+        "word": "eligibility for public office",
+        "translation": "公職に就く資格 (kōshoku ni tsuku shikaku)"
+      },
+      {
+        "word": "prison term",
+        "translation": "刑期 (keiki)"
+      }
+    ]
   }
 ]

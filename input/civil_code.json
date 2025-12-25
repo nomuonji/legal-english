@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Inheritance Waiver",
-    "definition": "A unilateral declaration by an heir, typically filed with the Family Court, to renounce all rights and obligations related to the inheritance of the decedent's assets and liabilities.",
-    "japaneseDefinition": "相続人が、被相続人の残した財産及び債務に関する一切の権利義務を放棄する旨の意思表示（家庭裁判所への申述）。",
-    "japaneseWordTranslation": "相続の放棄 (そうぞくのほうき)",
-    "legalContext": "Civil Code Art. 939: An heir who waives inheritance is deemed not to have been an heir from the beginning.",
-    "japaneseLegalContext": "民法第939条：相続の放棄をした者は、その相続に関しては、初めから相続人とならなかったものとみなす。",
-    "exampleSentence": "The surviving spouse considered filing an inheritance waiver because the decedent's liabilities significantly exceeded their assets.",
-    "exampleTranslation": "被相続人の負債が資産を大幅に上回っていたため、生存配偶者は相続の放棄を申し立てることを検討した。",
-    "vocabularyList": [
-      {
-        "word": "decedent",
-        "translation": "被相続人"
-      },
-      {
-        "word": "surviving spouse",
-        "translation": "生存配偶者"
-      },
-      {
-        "word": "liabilities",
-        "translation": "負債（債務）"
-      },
-      {
-        "word": "assets",
-        "translation": "資産"
-      },
-      {
-        "word": "Family Court",
-        "translation": "家庭裁判所"
-      },
-      {
-        "word": "unilateral declaration",
-        "translation": "一方的な意思表示"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Manager of Co-owned Property",
     "definition": "A person, typically one of the co-owners or a third party, appointed either by agreement among the co-owners or by court order, responsible for the general management, preservation, and improvement of jointly held assets.",
     "japaneseDefinition": "共有者間の合意または裁判所の命令により選任され、共有財産の管理、保存、および改良を職務とする者。",
@@ -7076,6 +7038,120 @@
       {
         "word": "offer",
         "translation": "申込み (もうしこみ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Expectation Interest",
+    "definition": "Damages awarded in a contract breach case equivalent to the profit the obligee would have gained had the obligation been fulfilled, aiming to put the injured party in the position they would have occupied had the contract been performed.",
+    "japaneseDefinition": "債務が履行されていたならば得られたであろう利益を、契約違反による損害として賠償させるもの。",
+    "japaneseWordTranslation": "履行利益 (りこうりえき)",
+    "legalContext": "The concept of 'expectation interest' aligns with the scope of compensation for lost profits (逸失利益) under Civil Code Art. 416, paragraph 2.",
+    "japaneseLegalContext": "民法第416条第2項 (損害賠償の範囲：逸失利益)",
+    "exampleSentence": "The court awarded damages based on the expectation interest, including the lost profits the buyer would have earned from the resale of the machinery.",
+    "exampleTranslation": "裁判所は、買主が機械の転売によって得られたはずの逸失利益を含む履行利益に基づき、損害賠償を認めた。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "contract breach",
+        "translation": "契約違反"
+      },
+      {
+        "word": "damages",
+        "translation": "損害賠償額"
+      },
+      {
+        "word": "lost profits",
+        "translation": "逸失利益 (いっしつりえき)"
+      },
+      {
+        "word": "resale",
+        "translation": "転売"
+      },
+      {
+        "word": "scope of compensation",
+        "translation": "賠償の範囲"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Requirement for Opposability",
+    "definition": "A necessary legal prerequisite (such as registration, delivery, or notification) that must be satisfied for a party to assert a proprietary or contractual right against third parties.",
+    "japaneseDefinition": "ある法律効果を第三者に対して主張するために、法律上要求される公示手段（登記や引渡しなど）または通知等の要件。",
+    "japaneseWordTranslation": "対抗要件 (たいこうようけん)",
+    "legalContext": "Civil Code Art. 177: The acquisition or loss of, or any change to, a real right pertaining to immovable property cannot be asserted against a third party unless registered.",
+    "japaneseLegalContext": "民法第177条: 不動産に関する物権の得喪及び変更は、登記をしなければ、第三者に対抗することができない。",
+    "exampleSentence": "The transferee of the leased land failed to perfect the requirement for opposability, and thus the prior leaseholder could successfully assert his right against the new owner.",
+    "exampleTranslation": "賃貸された土地の譲受人は対抗要件を具備しなかったため、既存の賃借人は新所有者に対して自己の権利を有効に主張することができた。",
+    "vocabularyList": [
+      {
+        "word": "prerequisite",
+        "translation": "前提条件"
+      },
+      {
+        "word": "transferee",
+        "translation": "譲受人 (ゆずりうけにん)"
+      },
+      {
+        "word": "registration",
+        "translation": "登記 (とうき)"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者 (だいさんしゃ)"
+      },
+      {
+        "word": "leaseholder",
+        "translation": "賃借人 (ちんしゃくにん)"
+      },
+      {
+        "word": "real right",
+        "translation": "物権 (ぶっけん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Declaration of Intention",
+    "definition": "The outward expression or manifestation of an inner will to create, change, or extinguish a private legal relationship, constituting the essential element of most juridical acts.",
+    "japaneseDefinition": "私法上の権利関係の変動を意図し、その内面の意思を外部に表明する行為。法律行為の核心をなすもの。",
+    "japaneseWordTranslation": "意思表示 (いしひょうじ)",
+    "legalContext": "Civil Code Art. 93 outlines the treatment of a Declaration of Intention where the declarant knows their inner intent does not match the declaration.",
+    "japaneseLegalContext": "民法第93条（心裡留保）：表意者がその真意ではないことを知ってした意思表示",
+    "exampleSentence": "A Declaration of Intention is generally judged based on the meaning that a reasonable person in the recipient's position would attach to the manifestation.",
+    "exampleTranslation": "意思表示は、原則として、その意思表示の受領者の立場にある合理的な人がその表明に帰するであろう意味に基づいて判断される。",
+    "vocabularyList": [
+      {
+        "word": "outward expression",
+        "translation": "外部への表明"
+      },
+      {
+        "word": "inner will",
+        "translation": "内面の意思"
+      },
+      {
+        "word": "legal relationship",
+        "translation": "法律関係"
+      },
+      {
+        "word": "declarant",
+        "translation": "表意者 (ひょういしゃ)"
+      },
+      {
+        "word": "manifestation",
+        "translation": "表明"
+      },
+      {
+        "word": "recipient",
+        "translation": "受領者"
       }
     ]
   }

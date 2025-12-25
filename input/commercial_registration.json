@@ -6198,5 +6198,119 @@
         "translation": "本店の移転 (honten no iten)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Non-Timely Registration",
+    "definition": "The statutory liability imposed on company officers, representatives, or partners for failing to execute necessary commercial registrations within the period prescribed by the Commercial Registration Act or other applicable laws.",
+    "japaneseDefinition": "会社法または商業登記法に定められた期間内に必要な商業登記を怠った場合、会社の役員や代表者が負うことになる法定の責任。",
+    "japaneseWordTranslation": "登記懈怠責任 (とうきけたいせきにん)",
+    "legalContext": "Commercial Registration Act Art. 138: 'If a person who is obliged to file a registration pursuant to the provisions of this Act neglects to do so for an unreasonable period, he/she shall be liable for damages resulting therefrom.'",
+    "japaneseLegalContext": "商業登記法第138条: 「この法律の規定により登記すべき者が不当にその登記を怠ったときは、これによって生じた損害を賠償する責任を負う。」",
+    "exampleSentence": "The former representative director faced a lawsuit alleging Liability for Non-Timely Registration after failing to register the change in the company's stated capital.",
+    "exampleTranslation": "前代表取締役は、会社の資本金変更登記を怠った後、登記懈怠責任を問う訴訟に直面した。",
+    "vocabularyList": [
+      {
+        "word": "statutory liability",
+        "translation": "法定の責任"
+      },
+      {
+        "word": "obliged to file",
+        "translation": "届出義務がある"
+      },
+      {
+        "word": "unreasonable period",
+        "translation": "不当な期間"
+      },
+      {
+        "word": "damages resulting therefrom",
+        "translation": "これによって生じた損害"
+      },
+      {
+        "word": "stated capital",
+        "translation": "資本金"
+      },
+      {
+        "word": "lawsuit",
+        "translation": "訴訟"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibition of Identical Trade Names in the Same Jurisdiction",
+    "definition": "The Commercial Code rule stipulating that no person may register or use a trade name that is identical to one already registered by another party for the same type of business within the same jurisdiction (e.g., the same city or ward).",
+    "japaneseDefinition": "同一の営業目的について、他の当事者により既に登記された商号と同一のものを、同一の市区町村内など特定の管轄区域内で登記または使用することを禁じる商法の規定。",
+    "japaneseWordTranslation": "同一所在地商号禁止 (どういつしょざいちしょうごうきんし)",
+    "legalContext": "Commercial Code Art. 21, Para. 1: 'No person shall register a trade name which is identical to the trade name of another person who carries on the same business in the same municipality (or specific jurisdiction).' (Paraphrased for clarity)",
+    "japaneseLegalContext": "商法第21条第1項: 「何人も、不正の目的をもって、他の会社であると誤認されるおそれのある商号を使用してはならない。」（登記実務上の原則として）",
+    "exampleSentence": "The registrar rejected the application for establishment registration based on the Prohibition of Identical Trade Names in the Same Jurisdiction, as the proposed name was already in use by a competitor downtown.",
+    "exampleTranslation": "提案された商号が既に都心部の競合他社によって使用されていたため、登記官は同一所在地商号禁止の原則に基づき、設立登記の申請を却下した。",
+    "vocabularyList": [
+      {
+        "word": "stipulating",
+        "translation": "規定する"
+      },
+      {
+        "word": "trade name",
+        "translation": "商号"
+      },
+      {
+        "word": "identical",
+        "translation": "同一の"
+      },
+      {
+        "word": "carries on business",
+        "translation": "営業を行う"
+      },
+      {
+        "word": "competitor",
+        "translation": "競合他社"
+      },
+      {
+        "word": "establishment registration",
+        "translation": "設立登記"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registered Address of the Representative Director",
+    "definition": "The required registration of the personal domicile (address) of the representative director(s) of a stock company in the commercial register, serving as a point of contact for legal proceedings and official communications.",
+    "japaneseDefinition": "株式会社の代表取締役の個人的な住所（居所）を商業登記簿に記録する必須の登記事項であり、訴訟や公的通知のための連絡先として機能する。",
+    "japaneseWordTranslation": "代表取締役の住所の登記 (だいひょうとりしまりやくのじゅうしょのとうき)",
+    "legalContext": "Commercial Registration Act Art. 93, Para. 1, Item 4: Specifies the address of the representative director as a required registered matter for a stock company.",
+    "japaneseLegalContext": "商業登記法第93条第1項第4号: 株式会社に関する登記すべき事項として、代表取締役の住所を定めている。",
+    "exampleSentence": "Failure to apply for the registration of the Registered Address of the Representative Director upon their appointment constitutes grounds for rejection by the registrar.",
+    "exampleTranslation": "代表取締役の選任時に、代表取締役の住所の登記を申請しなかった場合、登記官による却下の事由となる。",
+    "vocabularyList": [
+      {
+        "word": "personal domicile",
+        "translation": "個人的な住所（居所）"
+      },
+      {
+        "word": "stock company",
+        "translation": "株式会社"
+      },
+      {
+        "word": "mandatory item",
+        "translation": "必須の事項"
+      },
+      {
+        "word": "appointment",
+        "translation": "選任"
+      },
+      {
+        "word": "grounds for rejection",
+        "translation": "却下の事由"
+      },
+      {
+        "word": "official communications",
+        "translation": "公的な通知"
+      }
+    ]
   }
 ]

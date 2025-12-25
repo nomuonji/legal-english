@@ -1,38 +1,38 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Judicial Admission",
-  "definition": "A formal acknowledgement made by a party during litigation proceedings concerning the truth of a fact asserted by the opposing party; such admission generally has a binding effect on the court.",
-  "japaneseDefinition": "訴訟手続において、相手方当事者が主張する事実の真実性を自己の陳述として認める行為。これは通常、裁判所に対する拘束力を有する。",
-  "japaneseWordTranslation": "自白 (じはく)",
-  "legalContext": "Code of Civil Procedure Art. 179: Effect of Admission. Facts admitted by the parties shall be binding on the court.",
-  "japaneseLegalContext": "民事訴訟法第179条 (自白の拘束力)",
-  "exampleSentence": "Due to the defendant's judicial admission regarding the authenticity of the debt instrument, the plaintiff was exempted from the need to present expert testimony.",
-  "exampleTranslation": "債務証書の真正性に関する被告の**自白**があったため、原告は専門家の証言を提出する必要性を免除された。",
+  "word": "Inheritance Waiver",
+  "definition": "A unilateral declaration by an heir, typically filed with the Family Court, to renounce all rights and obligations related to the inheritance of the decedent's assets and liabilities.",
+  "japaneseDefinition": "相続人が、被相続人の残した財産及び債務に関する一切の権利義務を放棄する旨の意思表示（家庭裁判所への申述）。",
+  "japaneseWordTranslation": "相続の放棄 (そうぞくのほうき)",
+  "legalContext": "Civil Code Art. 939: An heir who waives inheritance is deemed not to have been an heir from the beginning.",
+  "japaneseLegalContext": "民法第939条：相続の放棄をした者は、その相続に関しては、初めから相続人とならなかったものとみなす。",
+  "exampleSentence": "The surviving spouse considered filing an inheritance waiver because the decedent's liabilities significantly exceeded their assets.",
+  "exampleTranslation": "被相続人の負債が資産を大幅に上回っていたため、生存配偶者は相続の放棄を申し立てることを検討した。",
   "vocabularyList": [
     {
-      "word": "authenticity",
-      "translation": "真正性 (しんせいせい)"
+      "word": "decedent",
+      "translation": "被相続人"
     },
     {
-      "word": "debt instrument",
-      "translation": "債務証書 (さいむしょうしょ)"
+      "word": "surviving spouse",
+      "translation": "生存配偶者"
     },
     {
-      "word": "litigation proceedings",
-      "translation": "訴訟手続 (そしょうてつづき)"
+      "word": "liabilities",
+      "translation": "負債（債務）"
     },
     {
-      "word": "binding effect",
-      "translation": "拘束力 (こうそくりょく)"
+      "word": "assets",
+      "translation": "資産"
     },
     {
-      "word": "expert testimony",
-      "translation": "専門家の証言 (せんもんかのしょうげん)"
+      "word": "Family Court",
+      "translation": "家庭裁判所"
     },
     {
-      "word": "exempted",
-      "translation": "免除された (めんじょされた)"
+      "word": "unilateral declaration",
+      "translation": "一方的な意思表示"
     }
   ]
 }

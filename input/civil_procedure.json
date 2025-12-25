@@ -6754,5 +6754,127 @@
         "translation": "効力の拡張"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Implied Withdrawal of Suit",
+    "definition": "A legal mechanism under which a lawsuit (or appeal) is deemed withdrawn by operation of law if the plaintiff fails to appear at two consecutive, properly notified hearing dates, or fails to follow a court order to attend a preparatory proceeding.",
+    "japaneseDefinition": "原告（または控訴人）が、指定された口頭弁論期日等に、裁判所から呼出しを受けたにもかかわらず出頭せず、かつその後に所定の手続きを行わない場合に、訴えを取り下げたものとみなされる制度。",
+    "japaneseWordTranslation": "みなし取り下げ (Minashi Torisage)",
+    "legalContext": "Code of Civil Procedure Art. 263: If the plaintiff fails to appear at the date of oral argument or a preparatory proceeding by document, and fails to appear again at a subsequent date of oral argument, etc., the suit shall be deemed to have been withdrawn.",
+    "japaneseLegalContext": "民事訴訟法第263条: 原告が口頭弁論又は弁論準備手続の期日に出頭せず、又は出頭したが弁論をしないで退廷し、若しくは裁判所の命ずるところによらないで退廷した場合において、被告が新たに期日の指定の申立てをせず、又は裁判所が職権で新たな期日を定めないで三月を経過したときは、訴えの取下げがあったものとみなす。",
+    "exampleSentence": "Due to the plaintiff's repeated failure to appear at the scheduled hearings, the court issued a notification of implied withdrawal of the suit.",
+    "exampleTranslation": "原告が予定された期日に度々出頭しなかったため、裁判所は訴えのみなし取り下げの通知を発した。",
+    "vocabularyList": [
+      {
+        "word": "plaintiff",
+        "translation": "原告 (Gankoku)"
+      },
+      {
+        "word": "deemed withdrawn",
+        "translation": "取り下げがあったものとみなされる (Torisage ga atta mono to minasareru)"
+      },
+      {
+        "word": "consecutive",
+        "translation": "連続した (Renzoku shita)"
+      },
+      {
+        "word": "hearing dates",
+        "translation": "期日 (Kijitsu)"
+      },
+      {
+        "word": "operation of law",
+        "translation": "法の作用 (Hō no Sayō)"
+      },
+      {
+        "word": "notification",
+        "translation": "通知 (Tsūchi)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preparation and Issuance of Judgment",
+    "definition": "The final stage of the adjudicatory process where the court drafts the formal judgment document, which must contain the facts established (the findings), the application of the law (the grounds), and the final decision (the disposition/holding).",
+    "japaneseDefinition": "審理の終結後、裁判所が確定した事実、法律上の根拠、及び最終的な主文（判決内容）を記載した正式な判決書を作成し、これを当事者に交付する手続き。",
+    "japaneseWordTranslation": "判決書の作成 (Hanketsusho no Sakusei)",
+    "legalContext": "Code of Civil Procedure Art. 252 (Form of Judgment): A judgment shall be rendered in the form of a document containing the holding, the facts, and the grounds.",
+    "japaneseLegalContext": "民事訴訟法第252条: 判決は、主文、事実及び理由を記載した文書によってする。",
+    "exampleSentence": "The preparation and issuance of the judgment document is a mandatory procedural step after the conclusion of trial proceedings.",
+    "exampleTranslation": "判決書の作成と交付は、審理手続の終結後に必須とされる手続上の段階である。",
+    "vocabularyList": [
+      {
+        "word": "adjudicatory process",
+        "translation": "審理手続 (Shinri Tetsuzuki)"
+      },
+      {
+        "word": "drafts",
+        "translation": "作成する (Sakusei suru)"
+      },
+      {
+        "word": "facts established",
+        "translation": "認定された事実 (Nintei sareta Jijitsu)"
+      },
+      {
+        "word": "grounds (of judgment)",
+        "translation": "理由 (Riyū)"
+      },
+      {
+        "word": "disposition/holding",
+        "translation": "主文 (Shubun)"
+      },
+      {
+        "word": "mandatory procedural step",
+        "translation": "必須の訴訟手続 (Hissu no Soshō Tetsuzuki)"
+      },
+      {
+        "word": "application of the law",
+        "translation": "法律の適用 (Hōritsu no Tekiyō)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Period for Filing an Appeal",
+    "definition": "The fixed statutory period following the service of a trial court’s judgment, during which the dissatisfied party must initiate the appellate process by submitting an appeal document (e.g., a statement of appeal) to the original court.",
+    "japaneseDefinition": "敗訴した当事者が、裁判所の判決書の送達を受けた後、その判決に対して上級裁判所に不服を申し立てるための期間。日本の民事訴訟では原則として14日間である。",
+    "japaneseWordTranslation": "上訴期間 (Jōso Kikan)",
+    "legalContext": "Code of Civil Procedure Art. 285: The period for filing a kōso appeal shall be two weeks. (Note: This period may be varied by judicial decision if the party resides overseas or faces unavoidable circumstances.)",
+    "japaneseLegalContext": "民事訴訟法第285条: 控訴の期間は、二週間とする。",
+    "exampleSentence": "The defendant missed the period for filing an appeal, resulting in the judgment becoming formally final.",
+    "exampleTranslation": "被告は上訴期間を逃したため、その判決は形式的に確定した。",
+    "vocabularyList": [
+      {
+        "word": "statutory period",
+        "translation": "法定期間 (Hōtei Kikan)"
+      },
+      {
+        "word": "service of a judgment",
+        "translation": "判決の送達 (Hanketsu no Sōtatsu)"
+      },
+      {
+        "word": "dissatisfied party",
+        "translation": "不服な当事者 (Fufuku na Tōjisha)"
+      },
+      {
+        "word": "appellate process",
+        "translation": "上訴手続 (Jōso Tetsuzuki)"
+      },
+      {
+        "word": "formally final",
+        "translation": "形式的に確定した (Keishikiteki ni Kakutei shita)"
+      },
+      {
+        "word": "original court",
+        "translation": "原裁判所 (Gen Saibansho)"
+      },
+      {
+        "word": "initiate",
+        "translation": "開始する (Kaishi suru)"
+      }
+    ]
   }
 ]

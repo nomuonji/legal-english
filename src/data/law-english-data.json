@@ -1,34 +1,38 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Execution Court",
-  "definition": "The court responsible for carrying out civil execution procedures.",
-  "japaneseDefinition": "民事執行の手続を行う裁判所。",
-  "japaneseWordTranslation": "執行裁判所 (しっこうさいばんしょ)",
-  "legalContext": "Civil Execution Act Art. 3: The court of execution shall be the district court having jurisdiction over the location of the subject matter.",
-  "japaneseLegalContext": "民事執行法第3条：執行裁判所は、目的物の所在地を管轄する地方裁判所とする。",
-  "exampleSentence": "The execution court issued an order for the commencement of an auction.",
-  "exampleTranslation": "執行裁判所は競売開始決定を出した。",
+  "word": "Judicial Admission",
+  "definition": "A formal acknowledgement made by a party during litigation proceedings concerning the truth of a fact asserted by the opposing party; such admission generally has a binding effect on the court.",
+  "japaneseDefinition": "訴訟手続において、相手方当事者が主張する事実の真実性を自己の陳述として認める行為。これは通常、裁判所に対する拘束力を有する。",
+  "japaneseWordTranslation": "自白 (じはく)",
+  "legalContext": "Code of Civil Procedure Art. 179: Effect of Admission. Facts admitted by the parties shall be binding on the court.",
+  "japaneseLegalContext": "民事訴訟法第179条 (自白の拘束力)",
+  "exampleSentence": "Due to the defendant's judicial admission regarding the authenticity of the debt instrument, the plaintiff was exempted from the need to present expert testimony.",
+  "exampleTranslation": "債務証書の真正性に関する被告の**自白**があったため、原告は専門家の証言を提出する必要性を免除された。",
   "vocabularyList": [
     {
-      "word": "District court",
-      "translation": "地方裁判所"
+      "word": "authenticity",
+      "translation": "真正性 (しんせいせい)"
     },
     {
-      "word": "Jurisdiction",
-      "translation": "管轄"
+      "word": "debt instrument",
+      "translation": "債務証書 (さいむしょうしょ)"
     },
     {
-      "word": "Subject matter",
-      "translation": "目的物"
+      "word": "litigation proceedings",
+      "translation": "訴訟手続 (そしょうてつづき)"
     },
     {
-      "word": "Auction",
-      "translation": "競売"
+      "word": "binding effect",
+      "translation": "拘束力 (こうそくりょく)"
     },
     {
-      "word": "Commencement",
-      "translation": "開始"
+      "word": "expert testimony",
+      "translation": "専門家の証言 (せんもんかのしょうげん)"
+    },
+    {
+      "word": "exempted",
+      "translation": "免除された (めんじょされた)"
     }
   ]
 }

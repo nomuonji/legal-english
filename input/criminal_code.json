@@ -6252,5 +6252,123 @@
         "translation": "刑罰併合の規定 (けいばつへいごうのきてい)"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Act Requirement",
+    "definition": "The fundamental prerequisite in criminal law that an individual's movement or lack thereof must be volitional (voluntary) to be considered a legally recognized 'act' (actus reus) subject to penal scrutiny.",
+    "japaneseDefinition": "犯罪が成立するために、行為者の身体的挙動が意識的・随意的なものであることを求める要件。",
+    "japaneseWordTranslation": "行為要件 (こういようけん)",
+    "legalContext": "Criminal Law Doctrine: The principle that actus reus must be based on a voluntary human act (行為の随意性) for the imposition of criminal liability.",
+    "japaneseLegalContext": "刑法理論: 構成要件的行為は随意的な人間の挙動に基づかねばならないという原則。",
+    "exampleSentence": "The defense argued that the defendant's movement during the epileptic fit did not meet the Act Requirement, thus precluding criminal responsibility.",
+    "exampleTranslation": "弁護側は、被告人のてんかん発作中の動作は行為要件を満たしておらず、したがって刑事責任は生じないと主張した。",
+    "vocabularyList": [
+      {
+        "word": "Epileptic fit",
+        "translation": "てんかん発作"
+      },
+      {
+        "word": "Precluding",
+        "translation": "排除する"
+      },
+      {
+        "word": "Criminal responsibility",
+        "translation": "刑事責任"
+      },
+      {
+        "word": "Volitional",
+        "translation": "随意的な"
+      },
+      {
+        "word": "Actus reus",
+        "translation": "構成要件的行為"
+      },
+      {
+        "word": "Defense",
+        "translation": "弁護側"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Objective Punishability Condition",
+    "definition": "A specific external fact or circumstance defined in the statute which, if satisfied, allows for the punishment of an already fully formed criminal act (satisfying constituent elements, unlawfulness, and culpability), but which is not covered by criminal intent.",
+    "japaneseDefinition": "犯罪の成立要件（構成要件・違法性・責任）が満たされた後、さらに刑罰を課すために法律上必要とされる客観的な外部的事実。行為者の故意の対象とはならない。",
+    "japaneseWordTranslation": "客観的処罰条件 (きゃっかんてきしょばつじょうけん)",
+    "legalContext": "Criminal Code Art. 248 (Breach of Trust involving foreign relations): Certain offenses are punished only when an external consequence, such as prejudice to diplomatic relations, occurs.",
+    "japaneseLegalContext": "刑法第248条（外交上の秘密漏示罪など）: 外交上の秘密を漏らした行為が、その国の外交関係を危うくした場合に限り罰せられるが、この外部的結果は客観的処罰条件とされる。",
+    "exampleSentence": "For the crime of disclosure of diplomatic secrets to be actionable, the Objective Punishability Condition—prejudice to the nation's diplomatic relations—must be fulfilled.",
+    "exampleTranslation": "外交秘密漏示罪が訴追可能であるためには、客観的処罰条件である「国の外交関係に対する危険」が満たされなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Disclosure of diplomatic secrets",
+        "translation": "外交秘密漏示"
+      },
+      {
+        "word": "Actionable",
+        "translation": "訴追可能な"
+      },
+      {
+        "word": "Prejudice (to)",
+        "translation": "危険を生じさせる"
+      },
+      {
+        "word": "Criminal intent",
+        "translation": "故意"
+      },
+      {
+        "word": "External circumstance",
+        "translation": "外部的事実"
+      },
+      {
+        "word": "Statute",
+        "translation": "法令"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Concurrent Offenses and Sentencing Adjustment",
+    "definition": "The judicial process of determining the final punitive measure when an offender has committed multiple separate, unrelated crimes before receiving a final judgment for any of them. The sentences are combined (aggregated) subject to statutory maximums.",
+    "japaneseDefinition": "確定裁判を受ける前に犯した複数の罪（併合罪）について、最終的な刑罰を決定する司法上の手続き。刑は法定の上限を超えない範囲で加重される。",
+    "japaneseWordTranslation": "併合罪の処断 (へいごうざいのしょだん)",
+    "legalContext": "Criminal Code Art. 45 et seq.: Articles governing the handling of concurrent offenses (併合罪) and specifying rules for the calculation and aggregation of their respective sentences.",
+    "japaneseLegalContext": "刑法第45条以下: 併合罪の処理に関する規定であり、それぞれの刑の算定および加重に関する規則を定める。",
+    "exampleSentence": "Pursuant to the rules for Concurrent Offenses and Sentencing Adjustment, the court imposed a 15-year term, aggregated from two separate crimes, which was below the statutory limit.",
+    "exampleTranslation": "併合罪の処断に関する規則に従い、裁判所は、法定の上限を下回る、二つの別個の罪を集計した懲役15年の刑を言い渡した。",
+    "vocabularyList": [
+      {
+        "word": "Imposed a term",
+        "translation": "刑を言い渡した"
+      },
+      {
+        "word": "Aggregated from",
+        "translation": "〜を集計した"
+      },
+      {
+        "word": "Separate crimes",
+        "translation": "別個の罪"
+      },
+      {
+        "word": "Statutory limit",
+        "translation": "法定の上限"
+      },
+      {
+        "word": "Final judgment",
+        "translation": "確定裁判"
+      },
+      {
+        "word": "Punitive measure",
+        "translation": "刑罰"
+      },
+      {
+        "word": "Calculation",
+        "translation": "算定"
+      }
+    ]
   }
 ]

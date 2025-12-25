@@ -5072,5 +5072,77 @@
         "translation": "資金を確保する (しきんをかくほする)"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consignment for Discharge",
+    "definition": "The act of depositing the object of an obligation (usually money or securities) with an official Deposit Office to legally discharge the obligation when the obligee refuses acceptance or is unable to receive performance.",
+    "japaneseDefinition": "債務者が、債権者の受領拒否その他の事由により弁済できない場合に、債務の目的物を供託所に寄託し、その債務を消滅させる行為。",
+    "japaneseWordTranslation": "弁済供託 (べんさいきょうたく)",
+    "legalContext": "Civil Code Art. 494: If the obligor effects a Consignment for Discharge in accordance with the provisions of the preceding Article, the obligation shall be extinguished.",
+    "japaneseLegalContext": "民法第494条: 供託は、前条の規定による債務の履行とみなして、その債務を消滅させる。",
+    "exampleSentence": "The debtor successfully extinguished the debt through a timely filing of the application for **Consignment for Discharge** at the jurisdictional Deposit Office.",
+    "exampleTranslation": "債務者は、管轄供託所への適時な弁済供託申請の提出により、首尾よく債務を消滅させた。",
+    "vocabularyList": [
+      {
+        "word": "Obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Obligation",
+        "translation": "債務"
+      },
+      {
+        "word": "Extinguish",
+        "translation": "消滅させる"
+      },
+      {
+        "word": "Deposit Office",
+        "translation": "供託所"
+      },
+      {
+        "word": "Jurisdictional",
+        "translation": "管轄の"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Uncertainty Regarding the Obligee",
+    "definition": "A primary statutory ground for Consignment for Discharge, arising when the obligor cannot identify or confirm the identity of the legitimate creditor, thus making performance directly to the creditor impossible.",
+    "japaneseDefinition": "債権者が誰であるか不明である状態（例：債権の帰属について争いがある場合）であり、弁済供託をなすための民法上の主要な原因の一つ。",
+    "japaneseWordTranslation": "債権者不明 (さいけんしゃふめい)",
+    "legalContext": "Civil Code Art. 495(1): An obligor may effect a Consignment for Discharge if the obligee refuses to accept performance or is unable to accept it, or if, without any fault on the part of the obligor, the obligor cannot identify the obligee.",
+    "japaneseLegalContext": "民法第495条第1項: 債務者が弁済の提供をした場合において、債権者がその受領を拒み、又はこれを受領することができないときは、その債務者は、債権者のためにその弁済の目的物を供託することができる。その目的物が供託に適しない場合及びその他一定の場合を除き、債務者に過失なく債権者を確知することができないときも、同様とする。",
+    "exampleSentence": "The company cited **Uncertainty Regarding the Obligee** as the legal basis for depositing the dividend payments, pending resolution of the ownership dispute.",
+    "exampleTranslation": "会社は、所有権紛争の解決待ちとして、配当金の供託を行うための法的根拠として債権者不明を挙げた。",
+    "vocabularyList": [
+      {
+        "word": "Statutory ground",
+        "translation": "法定原因"
+      },
+      {
+        "word": "Legitimate creditor",
+        "translation": "正当な債権者"
+      },
+      {
+        "word": "Identify",
+        "translation": "確知する"
+      },
+      {
+        "word": "Legal basis",
+        "translation": "法的根拠"
+      },
+      {
+        "word": "Dividend payments",
+        "translation": "配当金"
+      },
+      {
+        "word": "Ownership dispute",
+        "translation": "所有権紛争"
+      }
+    ]
   }
 ]

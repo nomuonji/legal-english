@@ -6976,5 +6976,107 @@
         "translation": "杭"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Opposability of a Leasehold",
+    "definition": "The ability of a tenant (lessee) to assert their leasehold right against third parties, such as a new owner who acquired the leased property.",
+    "japaneseDefinition": "賃借人が、賃貸借の目的物について所有権を取得した第三者に対し、自己の賃借権を主張できる効力。通常、不動産については登記または引渡しによって生じる。",
+    "japaneseWordTranslation": "賃貸借の対抗力 (ちんたいしゃくのたいこうりょく)",
+    "legalContext": "Civil Code Art. 605 provides that the lease of immovable property becomes effective against a third party upon registration.",
+    "japaneseLegalContext": "民法第605条：不動産の賃貸借は、これを登記したときは、その効力を以て第三者に対抗することができる。",
+    "exampleSentence": "Since the tenant had registered the leasehold, they maintained the opposability of the leasehold even after the building's transfer of ownership.",
+    "exampleTranslation": "賃借人が賃借権の登記をしていたため、建物の所有権が移転した後も、賃貸借の対抗力を維持した。",
+    "vocabularyList": [
+      {
+        "word": "tenant (lessee)",
+        "translation": "賃借人 (ちんしゃくにん)"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者 (だいさんしゃ)"
+      },
+      {
+        "word": "transfer of ownership",
+        "translation": "所有権の移転 (しょゆうけんのいてん)"
+      },
+      {
+        "word": "registration",
+        "translation": "登記 (とうき)"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産 (ふどうさん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Contract Between Parties at a Distance",
+    "definition": "A contract where the parties are not physically present together, and special rules apply regarding the time and place of formation, typically stating that acceptance becomes effective when the notice of acceptance is dispatched.",
+    "japaneseDefinition": "対話者間ではない、離れた場所にいる当事者間で締結される契約。承諾の通知を発した時に成立する（発信主義）という原則が適用される。",
+    "japaneseWordTranslation": "隔地者間の契約 (かくちしゃかんのけいやく)",
+    "legalContext": "Civil Code Art. 526, Para. 1: A contract between parties at a distance shall become effective at the time the notice of acceptance is dispatched.",
+    "japaneseLegalContext": "民法第526条第1項：隔地者の間の契約は、承諾の通知を発した時に成立する。",
+    "exampleSentence": "The main principle governing a contract between parties at a distance utilizes the dispatch rule (Hasshin Shugi), establishing the moment of contract formation.",
+    "exampleTranslation": "隔地者間の契約を規定する主要な原則は、発信主義を採用しており、契約成立の時点を定める。",
+    "vocabularyList": [
+      {
+        "word": "parties",
+        "translation": "当事者 (とうじしゃ)"
+      },
+      {
+        "word": "acceptance",
+        "translation": "承諾 (しょうだく)"
+      },
+      {
+        "word": "dispatch rule",
+        "translation": "発信主義 (はっしんしゅぎ)"
+      },
+      {
+        "word": "notice",
+        "translation": "通知 (つうち)"
+      },
+      {
+        "word": "formation (of a contract)",
+        "translation": "成立 (せいりつ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Effectiveness by Arrival",
+    "definition": "The legal principle (Tōtatsu Shugi) that a declaration of intention (such as an offer, cancellation, or notice) takes effect when it reaches the control of the recipient, typically when it is delivered to their address.",
+    "japaneseDefinition": "意思表示が、相手方に到達した時にその効力を生じるという原則（到達主義）。日本の民法における意思表示の効力発生時期の基本原則である。",
+    "japaneseWordTranslation": "意思表示の到達 (いしひょうじのとうたつ)",
+    "legalContext": "Civil Code Art. 97, Para. 1: A declaration of intention shall become effective when it reaches the addressee.",
+    "japaneseLegalContext": "民法第97条第1項：意思表示は、その通知が相手方に到達した時からその効力を生ずる。",
+    "exampleSentence": "The revocation of the offer was subject to the principle of Effectiveness by Arrival, meaning it had to reach the offeree before their acceptance.",
+    "exampleTranslation": "申込みの撤回は意思表示の到達の原則に従い、承諾の前に被申込み人に到達する必要があった。",
+    "vocabularyList": [
+      {
+        "word": "declaration of intention",
+        "translation": "意思表示 (いしひょうじ)"
+      },
+      {
+        "word": "addressee (recipient)",
+        "translation": "相手方 (あいてがた)"
+      },
+      {
+        "word": "revocation (of an offer)",
+        "translation": "撤回 (てっかい)"
+      },
+      {
+        "word": "effectiveness",
+        "translation": "効力 (こうりょく)"
+      },
+      {
+        "word": "offer",
+        "translation": "申込み (もうしこみ)"
+      }
+    ]
   }
 ]

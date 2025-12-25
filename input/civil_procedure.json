@@ -2,44 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Judicial Admission",
-    "definition": "A formal acknowledgement made by a party during litigation proceedings concerning the truth of a fact asserted by the opposing party; such admission generally has a binding effect on the court.",
-    "japaneseDefinition": "訴訟手続において、相手方当事者が主張する事実の真実性を自己の陳述として認める行為。これは通常、裁判所に対する拘束力を有する。",
-    "japaneseWordTranslation": "自白 (じはく)",
-    "legalContext": "Code of Civil Procedure Art. 179: Effect of Admission. Facts admitted by the parties shall be binding on the court.",
-    "japaneseLegalContext": "民事訴訟法第179条 (自白の拘束力)",
-    "exampleSentence": "Due to the defendant's judicial admission regarding the authenticity of the debt instrument, the plaintiff was exempted from the need to present expert testimony.",
-    "exampleTranslation": "債務証書の真正性に関する被告の**自白**があったため、原告は専門家の証言を提出する必要性を免除された。",
-    "vocabularyList": [
-      {
-        "word": "authenticity",
-        "translation": "真正性 (しんせいせい)"
-      },
-      {
-        "word": "debt instrument",
-        "translation": "債務証書 (さいむしょうしょ)"
-      },
-      {
-        "word": "litigation proceedings",
-        "translation": "訴訟手続 (そしょうてつづき)"
-      },
-      {
-        "word": "binding effect",
-        "translation": "拘束力 (こうそくりょく)"
-      },
-      {
-        "word": "expert testimony",
-        "translation": "専門家の証言 (せんもんかのしょうげん)"
-      },
-      {
-        "word": "exempted",
-        "translation": "免除された (めんじょされた)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Final Appeal (Jōkoku)",
     "definition": "The final stage of appeal in the Japanese court system, directed toward the Supreme Court, primarily limited to claims of constitutional violations or major errors in the interpretation of laws and ordinances made by the High Court.",
     "japaneseDefinition": "日本の裁判制度における最終的な上訴段階。主に高等裁判所の判決における憲法違反または法令解釈の重大な誤りを理由として最高裁判所に対して申し立てる手続き。",
@@ -6676,6 +6638,120 @@
       {
         "word": "assisted party",
         "translation": "被補助参加人"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Objective Scope of Preclusive Effect",
+    "definition": "The aspect of res judicata (final and binding nature of a judgment) that determines which specific legal relationships or factual determinations within the litigation are conclusively decided and cannot be relitigated in subsequent actions. In principle, this scope is limited to the conclusion concerning the subject matter of the suit as set out in the judgment's operative clause.",
+    "japaneseDefinition": "既判力が及ぶ訴訟物（請求）の範囲を指し、裁判所の判断のうち、いかなる事項が確定的に解決され、後続の訴訟で争えなくなるかを定める範囲。判決主文に包含された判断に限定される。",
+    "japaneseWordTranslation": "既判力の客観的範囲 (Kihan-ryoku no Kyakkanteki Han'i)",
+    "legalContext": "Code of Civil Procedure Art. 114(1): The final judgment shall have preclusive effect only with regard to the subject matter of the suit stated in the operative clause.",
+    "japaneseLegalContext": "民事訴訟法第114条第1項: 確定判決は、主文に包含するものに限り、既判力を有する。",
+    "exampleSentence": "The court determined that the dispute regarding the underlying contract's validity fell outside the objective scope of the preclusive effect of the prior non-monetary judgment.",
+    "exampleTranslation": "裁判所は、先行する非金銭判決の既判力の客観的範囲外にあるとして、原契約の有効性に関する紛争を判断した。",
+    "vocabularyList": [
+      {
+        "word": "res judicata",
+        "translation": "既判力"
+      },
+      {
+        "word": "operative clause",
+        "translation": "主文"
+      },
+      {
+        "word": "subject matter of the suit",
+        "translation": "訴訟物"
+      },
+      {
+        "word": "non-monetary judgment",
+        "translation": "非金銭判決"
+      },
+      {
+        "word": "conclusively decided",
+        "translation": "確定的に解決される"
+      },
+      {
+        "word": "relitigate",
+        "translation": "再訴する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Acknowledgment of Claim",
+    "definition": "A procedural act by the defendant in which they concede the existence and validity of the plaintiff's claimed right. This unilateral declaration, if properly recorded in the minutes, results in a judgment-equivalent effect, bringing the lawsuit to an immediate conclusion without the need for substantive deliberation or evidentiary proceedings.",
+    "japaneseDefinition": "被告が原告の請求の存在及び有効性を認める旨を裁判所に一方的に陳述する訴訟行為。訴訟上の和解調書と同様に確定判決と同一の効力を有し、審理を経ずに訴訟を終結させる。",
+    "japaneseWordTranslation": "請求の認諾 (Seikyū no Nindaku)",
+    "legalContext": "Code of Civil Procedure Art. 267: An acknowledgment of claim shall have the same effect as a final and binding judgment.",
+    "japaneseLegalContext": "民事訴訟法第267条: 請求の認諾又は放棄は、確定判決と同一の効力を有する。",
+    "exampleSentence": "The defendant's lawyer, after consulting the client, filed a written acknowledgment of claim, leading to the prompt termination of the collection proceedings.",
+    "exampleTranslation": "被告側の弁護士は、依頼者と協議の上、請求の認諾書面を提出し、その結果、回収訴訟は直ちに終結した。",
+    "vocabularyList": [
+      {
+        "word": "procedural act",
+        "translation": "訴訟行為"
+      },
+      {
+        "word": "concede",
+        "translation": "認める"
+      },
+      {
+        "word": "unilateral declaration",
+        "translation": "一方的な陳述"
+      },
+      {
+        "word": "judgment-equivalent effect",
+        "translation": "確定判決と同一の効力"
+      },
+      {
+        "word": "collection proceedings",
+        "translation": "回収訴訟"
+      },
+      {
+        "word": "substantive deliberation",
+        "translation": "実質的な審理"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Subjective Scope of Preclusive Effect",
+    "definition": "The aspect of res judicata that determines which persons, besides the original parties to the litigation, are bound by the final judgment. This typically extends beyond the actual litigants to include their successors and, in certain mandatory joinder cases, non-participating co-litigants.",
+    "japaneseDefinition": "確定判決の既判力が、当事者以外のいかなる第三者に対して及ぶかを定める範囲。原則として当事者とその承継人に及ぶが、法令により第三者にも拡張される場合がある。",
+    "japaneseWordTranslation": "既判力の主観的範囲 (Kihan-ryoku no Shukanteki Han'i)",
+    "legalContext": "Code of Civil Procedure Art. 115(1): Preclusive effect shall apply to the parties and to those specified in the following items (i-iii), including successors in title and persons for whom the subject matter of the suit is held.",
+    "japaneseLegalContext": "民事訴訟法第115条第1項: 既判力は、当事者並びに次に掲げる者に対してその効力を有する。（承継人、占有者など）",
+    "exampleSentence": "Although the successor was not an original litigant, they were bound by the subjective scope of the preclusive effect, preventing them from filing a new suit over the same property rights.",
+    "exampleTranslation": "承継人は元の訴訟の当事者ではなかったものの、既判力の主観的範囲により拘束され、同一の財産権について新たな訴訟を提起することができなかった。",
+    "vocabularyList": [
+      {
+        "word": "original litigant",
+        "translation": "元の訴訟当事者"
+      },
+      {
+        "word": "successor",
+        "translation": "承継人"
+      },
+      {
+        "word": "mandatory joinder",
+        "translation": "必要的共同訴訟"
+      },
+      {
+        "word": "bound by",
+        "translation": "〜により拘束される"
+      },
+      {
+        "word": "final judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "extension of effect",
+        "translation": "効力の拡張"
       }
     ]
   }

@@ -5902,5 +5902,119 @@
         "translation": "実施された"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Proof of Cause of Right Change",
+    "definition": "The required documentary evidence, such as a sales contract or judicial decision, that legally justifies the change or creation of a proprietary right recorded in the Register of Rights.",
+    "japaneseDefinition": "登記簿の権利部に記録される所有権等の変動（設定、移転等）の法的根拠となる事実を証明するために提出が義務付けられる書面。",
+    "japaneseWordTranslation": "権利変動の原因たる事実の証明 (Kenri Hendō no Gen'in taru Jijitsu no Shōmei)",
+    "legalContext": "Real Property Registration Act, Article 61 (Requirement for Submission of Documents concerning Cause of Registration)",
+    "japaneseLegalContext": "不動産登記法第61条（登記原因を証する情報の提供）",
+    "exampleSentence": "For the registration of ownership transfer, the **Proof of Cause of Right Change** must clearly demonstrate the date and content of the sales agreement between the obligor and the obligee.",
+    "exampleTranslation": "所有権移転の登記のためには、権利変動の原因たる事実の証明書は、登記義務者と登記権利者間の売買契約の日付及び内容を明確に示さなければならない。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "登記義務者"
+      },
+      {
+        "word": "obligee",
+        "translation": "登記権利者"
+      },
+      {
+        "word": "ownership transfer",
+        "translation": "所有権移転"
+      },
+      {
+        "word": "documentary evidence",
+        "translation": "証拠書類"
+      },
+      {
+        "word": "proprietary right",
+        "translation": "所有権"
+      },
+      {
+        "word": "sales agreement",
+        "translation": "売買契約"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Priority by Application Reception Time",
+    "definition": "The legal rule establishing that the rank of rights (such as mortgages or ownership) recorded in the Register of Rights is determined by the time and date when the relevant registration application was officially received by the registry office.",
+    "japaneseDefinition": "不動産登記簿の権利部に記録された権利の順位（優先度）が、その権利の登記申請が登記所に受け付けられた日時によって決定される原則。",
+    "japaneseWordTranslation": "申請受付の時の順位 (Shinsei Uketsuke no Toki no Jun'i)",
+    "legalContext": "Real Property Registration Act, Article 4 (Priority of Registration)",
+    "japaneseLegalContext": "不動産登記法第4条（登記の順位）",
+    "exampleSentence": "Because the mortgage application arrived at 9:01 AM, its **Priority by Application Reception Time** ensures it ranks above a subsequent hypothec filed at 9:05 AM on the same day.",
+    "exampleTranslation": "抵当権の申請が午前9時1分に到達したため、その申請受付の時の順位によって、同日午前9時5分に提出された後順位の抵当権よりも上位に位置づけられる。",
+    "vocabularyList": [
+      {
+        "word": "rank of rights",
+        "translation": "権利の順位"
+      },
+      {
+        "word": "mortgage",
+        "translation": "抵当権"
+      },
+      {
+        "word": "hypothec",
+        "translation": "根抵当権"
+      },
+      {
+        "word": "registry office",
+        "translation": "登記所"
+      },
+      {
+        "word": "subsequent",
+        "translation": "後順位の"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Grounds for Rejection",
+    "definition": "The specific, limited reasons enumerated by law for which a registrar is legally mandated to reject a registration application, typically involving formal defects or lack of required documents.",
+    "japaneseDefinition": "法律で明確に定められている、登記官が登記申請を却下（拒否）しなければならない限定的な事由。通常、申請の方式不備や必要書類の欠如に関連する。",
+    "japaneseWordTranslation": "却下事由 (Kyakka Jiyū)",
+    "legalContext": "Real Property Registration Act, Article 25 (Grounds for Rejection)",
+    "japaneseLegalContext": "不動産登記法第25条（却下事由）",
+    "exampleSentence": "Failure to submit the required Certificate of Registered Seal Impression constitutes one of the **Statutory Grounds for Rejection** under Article 25.",
+    "exampleTranslation": "必要な印鑑証明書を提出しなかった場合、第25条に基づく法定の却下事由の一つとなる。",
+    "vocabularyList": [
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "legally mandated",
+        "translation": "法的に義務付けられた"
+      },
+      {
+        "word": "formal defects",
+        "translation": "方式不備"
+      },
+      {
+        "word": "registration application",
+        "translation": "登記申請"
+      },
+      {
+        "word": "Certificate of Registered Seal Impression",
+        "translation": "印鑑証明書"
+      },
+      {
+        "word": "enumeration",
+        "translation": "列挙"
+      }
+    ]
   }
 ]

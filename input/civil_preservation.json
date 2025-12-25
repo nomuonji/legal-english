@@ -6294,5 +6294,119 @@
         "translation": "主観的な懸念"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Underlying Principal Action",
+    "definition": "The main lawsuit concerning the merits of the claim that a civil preservation measure (such as provisional attachment or disposition) is intended to secure.",
+    "japaneseDefinition": "民事保全手続の対象となっている権利の存否を確定するために提起される、本質的な請求に関する訴訟。",
+    "japaneseWordTranslation": "本案の訴訟 (ほんあんのそしょう)",
+    "legalContext": "Civil Preservation Act Art. 53: If the preservation order specifies a period, the obligee must file the underlying principal action within that period.",
+    "japaneseLegalContext": "民事保全法第53条: 保全命令に期間の定めがある場合、債権者はその期間内に本案の訴訟を提起しなければならない。",
+    "exampleSentence": "The court stipulated a two-week period for the obligee to file the underlying principal action after the provisional disposition was granted.",
+    "exampleTranslation": "裁判所は、仮処分が認められた後、債権者が本案の訴訟を提起するための期間を2週間と定めた。",
+    "vocabularyList": [
+      {
+        "word": "stipulated",
+        "translation": "定めた"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分"
+      },
+      {
+        "word": "granted",
+        "translation": "認められた"
+      },
+      {
+        "word": "file the action",
+        "translation": "訴訟を提起する"
+      },
+      {
+        "word": "merits of the claim",
+        "translation": "請求の本質"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit for Discharge of Provisional Attachment",
+    "definition": "A sum of money deposited by the preservation debtor to the court, allowing for the immediate release and discharge of the secured property from provisional attachment.",
+    "japaneseDefinition": "債務者が仮差押えの執行を免れるために、裁判所に対して供託する金銭。供託により差押えの効力が失われる。",
+    "japaneseWordTranslation": "仮差押解放金 (かりさしおさえかいほうきん)",
+    "legalContext": "Civil Preservation Act Art. 25(2): The provisional attachment shall be canceled when the preservation debtor deposits the required amount.",
+    "japaneseLegalContext": "民事保全法第25条第2項: 仮差押えの執行は、債務者が供託所に対し、保全すべき金額を供託したときに取り消される。",
+    "exampleSentence": "The debtor, needing urgent access to its bank assets, provided a substantial deposit for discharge of provisional attachment to the enforcement court.",
+    "exampleTranslation": "債務者は、銀行資産に緊急にアクセスする必要があったため、多額の仮差押解放金を執行裁判所に供託した。",
+    "vocabularyList": [
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "bank assets",
+        "translation": "銀行資産"
+      },
+      {
+        "word": "enforcement court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "discharged",
+        "translation": "解除された"
+      },
+      {
+        "word": "substancial",
+        "translation": "多額の"
+      },
+      {
+        "word": "provided",
+        "translation": "提供した/供託した"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibitory Order Against Specific Acts",
+    "definition": "A type of provisional disposition (often securing non-monetary claims) that specifically mandates the preservation debtor to refrain from designated, usually active, legal or factual actions.",
+    "japaneseDefinition": "債務者に対し、紛争の対象物について特定の行為を行うことを禁ずるように命ずる仮処分。",
+    "japaneseWordTranslation": "特定行為禁止命令 (とくていこういきんしめいれい)",
+    "legalContext": "Civil Preservation Act Art. 23(2) (which includes injunctions preventing the obligor from taking specific actions necessary for the enforcement of the claim).",
+    "japaneseLegalContext": "民事保全法第23条第2項 (債権の執行を保全するため債務者に一定の行為を命じ、又は禁ずる仮処分)",
+    "exampleSentence": "The claimant requested a prohibitory order against specific acts to prevent the debtor from transferring the intellectual property rights to a foreign subsidiary.",
+    "exampleTranslation": "債権者は、債務者がその知的財産権を海外の子会社に移転するのを阻止するため、特定行為禁止命令を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "claimant",
+        "translation": "債権者"
+      },
+      {
+        "word": "requested",
+        "translation": "申し立てた"
+      },
+      {
+        "word": "intellectual property rights",
+        "translation": "知的財産権"
+      },
+      {
+        "word": "transferring",
+        "translation": "移転する"
+      },
+      {
+        "word": "foreign subsidiary",
+        "translation": "海外の子会社"
+      },
+      {
+        "word": "refrain from",
+        "translation": "差し控える"
+      }
+    ]
   }
 ]

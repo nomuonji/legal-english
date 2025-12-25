@@ -2,44 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Final Appeal (Jōkoku)",
-    "definition": "The final stage of appeal in the Japanese court system, directed toward the Supreme Court, primarily limited to claims of constitutional violations or major errors in the interpretation of laws and ordinances made by the High Court.",
-    "japaneseDefinition": "日本の裁判制度における最終的な上訴段階。主に高等裁判所の判決における憲法違反または法令解釈の重大な誤りを理由として最高裁判所に対して申し立てる手続き。",
-    "japaneseWordTranslation": "上告 (じょうこく)",
-    "legalContext": "Code of Civil Procedure Art. 312: Grounds for Final Appeal. The appeal is limited by specified legal errors.",
-    "japaneseLegalContext": "民事訴訟法第312条 (上告の理由)",
-    "exampleSentence": "Following the dismissal by the High Court, the defendant decided to file a **final appeal** (Jōkoku), asserting that the lower court misinterpreted governing law.",
-    "exampleTranslation": "高等裁判所による棄却を受けて、被告は下級裁判所が適用法を誤って解釈したと主張し、**上告**を提起することを決定した。",
-    "vocabularyList": [
-      {
-        "word": "dismissal",
-        "translation": "棄却 (ききゃく)"
-      },
-      {
-        "word": "High Court",
-        "translation": "高等裁判所 (こうとうさいばんしょ)"
-      },
-      {
-        "word": "Supreme Court",
-        "translation": "最高裁判所 (さいこうさいばんしょ)"
-      },
-      {
-        "word": "governing law",
-        "translation": "適用法 (てきようほう)"
-      },
-      {
-        "word": "file an appeal",
-        "translation": "上告を提起する (じょうこくをていきする)"
-      },
-      {
-        "word": "interpretation of laws",
-        "translation": "法令解釈 (ほうれいかいしゃく)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Free Evaluation of Evidence",
     "definition": "The principle that the court, after examining all evidence presented, is free to judge the truth or falsity of facts based on its own conviction, without being bound by statutory rules regarding the weight of evidence.",
     "japaneseDefinition": "裁判所が、証拠調べの結果に基づき、証明の有無について、自己の自由な判断と確信によって認定すべきとする原則。",
@@ -6874,6 +6836,108 @@
       {
         "word": "initiate",
         "translation": "開始する (Kaishi suru)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Specification of the Claim",
+    "definition": "The procedural requirement for the plaintiff to clearly define the extent and content of the claim (the object of the suit) in the petition, ensuring both the court and the defendant fully understand the requested judicial relief.",
+    "japaneseDefinition": "原告が訴状において、訴訟の対象たる請求の範囲と内容を明確に特定しなければならないという民事訴訟上の要件。",
+    "japaneseWordTranslation": "請求の特定 (Seikyū no Tokutei)",
+    "legalContext": "Code of Civil Procedure Art. 133(2): The petition must state the claim and the grounds forming the basis of the claim.",
+    "japaneseLegalContext": "民事訴訟法第百三十三条第二項：訴状には、請求の趣旨及びこれを裏付ける事実を記載しなければならない。",
+    "exampleSentence": "The court required further clarification regarding the damages sought, ruling that the initial submission lacked sufficient specification of the claim.",
+    "exampleTranslation": "裁判所は、当初の提出書類には請求の特定が不十分であるとして、求められている損害賠償についてさらなる明確化を要求した。",
+    "vocabularyList": [
+      {
+        "word": "plaintiff",
+        "translation": "原告 (Gankoku)"
+      },
+      {
+        "word": "petition",
+        "translation": "訴状 (Sojō)"
+      },
+      {
+        "word": "judicial relief",
+        "translation": "救済 (Kyūsai)"
+      },
+      {
+        "word": "damages sought",
+        "translation": "請求する損害 (Seikyū suru Songai)"
+      },
+      {
+        "word": "extent and content",
+        "translation": "範囲及び内容 (Han'i oyobi Naiyō)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Direct Examination",
+    "definition": "A fundamental procedural principle requiring that the judge who decides the case must personally conduct the examination of evidence and hear the submissions of the parties, ensuring the judgment is based on immediate impressions and direct observation.",
+    "japaneseDefinition": "判決を下す裁判官が自ら証拠調べや口頭弁論に立ち会い、直接得た心証に基づいて裁判を行うべきであるという原則。",
+    "japaneseWordTranslation": "直接主義 (Chokusetsu Shugi)",
+    "legalContext": "Code of Civil Procedure Art. 249(1): Where a judge who participated in the oral arguments has been replaced, the court must resume the oral arguments.",
+    "japaneseLegalContext": "民事訴訟法第二百四十九条第一項：口頭弁論に関与した裁判官が代わったときは、裁判所は、口頭弁論を再開しなければならない。",
+    "exampleSentence": "Due to the transfer of the presiding judge, the court had to comply with the Principle of Direct Examination and restart the oral arguments for the new judge.",
+    "exampleTranslation": "裁判長が異動したため、裁判所は直接主義を遵守し、新たな裁判官のために口頭弁論を再開する必要があった。",
+    "vocabularyList": [
+      {
+        "word": "presiding judge",
+        "translation": "裁判長 (Saibanchō)"
+      },
+      {
+        "word": "oral arguments",
+        "translation": "口頭弁論 (Kōtō Benron)"
+      },
+      {
+        "word": "decides the case",
+        "translation": "事件を判決する (Jiken o Hanketsu suru)"
+      },
+      {
+        "word": "immediate impressions",
+        "translation": "直接得た心証 (Chokusetsu eta Shinshō)"
+      },
+      {
+        "word": "resume",
+        "translation": "再開する (Saikai suru)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Duty to Facilitate Proceedings",
+    "definition": "The obligation imposed on both parties to a civil lawsuit to ensure the prompt and efficient progress of the trial by submitting their claims, defenses, and evidence without unnecessary delay.",
+    "japaneseDefinition": "民事訴訟の当事者双方に課せられる、不必要な遅延なく請求、防御方法、及び証拠を提出することにより、裁判の迅速かつ効率的な進行を確保するための義務。",
+    "japaneseWordTranslation": "訴訟促進義務 (Soshō Sokushin Gimu)",
+    "legalContext": "Code of Civil Procedure Art. 147-2 (Underlying principle): The court may dismiss claims or defenses submitted so late that they interfere with the conclusion of the case.",
+    "japaneseLegalContext": "民事訴訟法第百四十七条の二：訴訟の終結を妨げることが明らかな遅延した請求又は防御方法は、裁判所が却下できる。（この規定の基礎となる原則）",
+    "exampleSentence": "The defendant's repeated failure to submit documentation on time was seen as a breach of the duty to facilitate proceedings.",
+    "exampleTranslation": "被告が書類の提出を繰り返し遅延させたことは、訴訟促進義務の違反と見なされた。",
+    "vocabularyList": [
+      {
+        "word": "efficient progress",
+        "translation": "効率的な進行 (Kōritsuteki na Shinkō)"
+      },
+      {
+        "word": "breach",
+        "translation": "違反 (Ihan)"
+      },
+      {
+        "word": "defenses",
+        "translation": "防御方法 (Bōgyo Hōhō)"
+      },
+      {
+        "word": "unnecessary delay",
+        "translation": "不必要な遅延 (Fuhitsuyō na Chien)"
+      },
+      {
+        "word": "dismiss",
+        "translation": "却下する (Kyakka suru)"
       }
     ]
   }

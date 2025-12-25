@@ -6926,5 +6926,119 @@
         "translation": "委託された (いたくされた)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certificate of Execution Title Grant",
+    "definition": "A document issued by the court clerk certifying that an execution title (such as a judgment or notarized deed) has been granted the necessary execution clause, proving it is formally executable.",
+    "japaneseDefinition": "執行名義に執行文が付与されたことを証明する書面。執行の開始に必要な要件の一つ。",
+    "japaneseWordTranslation": "しっこうぶん ふよ しょうめいしょ (Shikkōbun Fuyo Shōmeisho)",
+    "legalContext": "Civil Execution Act Art. 26: The obligee must submit a document certifying the execution clause has been granted, along with other documents, when filing an execution petition.",
+    "japaneseLegalContext": "民事執行法第26条：執行裁判所に対する申立ての際に、執行文の付与があったことを証明する文書等を提出しなければならない。",
+    "exampleSentence": "The attorney filed the petition for compulsory execution, attaching the Certificate of Execution Title Grant to the authenticated copy of the judgment.",
+    "exampleTranslation": "弁護士は、強制執行の申立てを行い、判決の正本に執行文付与証明書を添付した。",
+    "vocabularyList": [
+      {
+        "word": "certified copy",
+        "translation": "正本"
+      },
+      {
+        "word": "judgment",
+        "translation": "判決"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "attaching",
+        "translation": "添付する"
+      },
+      {
+        "word": "petition",
+        "translation": "申立て"
+      },
+      {
+        "word": "execution title",
+        "translation": "執行名義"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Status Investigation Report",
+    "definition": "A detailed report prepared by the execution officer or appraiser during real property execution procedures, describing the property's current condition, occupancy status, and existence of physical encumbrances, used to inform potential buyers.",
+    "japaneseDefinition": "不動産執行において、執行官または評価人が作成する、目的不動産の占有状況、使用状況、および現況を詳細に記載した報告書。売却情報の基礎となる。",
+    "japaneseWordTranslation": "ふどうさん げんきょう ちょうさ ほうこくしょ (Fudosan Genkyō Chōsa Hōkokusho)",
+    "legalContext": "Civil Execution Act Art. 64: The execution court shall have the execution officer investigate the status of the real property and prepare a report.",
+    "japaneseLegalContext": "民事執行法第64条：執行裁判所は、執行官に対し、不動産の現状の調査を命じ、その結果の報告書を作成させる。",
+    "exampleSentence": "The potential acquirer reviewed the Property Status Investigation Report to ascertain any risks related to the current tenancy status before submitting their purchase offer.",
+    "exampleTranslation": "買受希望者は、購入申出を提出する前に、現在の賃貸借の状況に関連するリスクを確認するため、不動産現況調査報告書を精査した。",
+    "vocabularyList": [
+      {
+        "word": "execution officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "tenancy status",
+        "translation": "賃貸借の状況"
+      },
+      {
+        "word": "potential acquirer",
+        "translation": "買受希望者"
+      },
+      {
+        "word": "ascertain",
+        "translation": "確認する"
+      },
+      {
+        "word": "physical encumbrances",
+        "translation": "物理的な負担"
+      },
+      {
+        "word": "purchase offer",
+        "translation": "購入申出"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit to Discharge Execution",
+    "definition": "A procedure allowing the person against whom execution is directed to deposit the full amount of the execution claim plus costs with the relevant official agency, resulting in the cancellation of the execution procedure, typically seizure.",
+    "japaneseDefinition": "執行を受ける者が、執行の対象となっている金銭債権および執行費用全額を公的機関に供託し、それによって執行手続（特に差押え）の取消しを求めることができる手続。",
+    "japaneseWordTranslation": "しっこう めんだつ の ため の きょうたく (Shikkō Mendatsu no Tame no Kyōtaku)",
+    "legalContext": "Civil Execution Act Art. 39: If the obligor deposits the full amount of the claim stated in the execution title and the execution costs, the execution court must cancel the execution procedure.",
+    "japaneseLegalContext": "民事執行法第39条：執行名義に記載された請求の額及び執行費用全額が供託されたときは、執行裁判所は、執行手続を取り消さなければならない。",
+    "exampleSentence": "The obligor made a Deposit to Discharge Execution immediately after the seizure of his bank account to prevent further inconvenience to his business operations.",
+    "exampleTranslation": "その債務者は、自身の銀行口座が差し押さえられた直後、事業運営への更なる不便を防ぐため、執行免脱のための供託を行った。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "cancellation",
+        "translation": "取消し"
+      },
+      {
+        "word": "execution costs",
+        "translation": "執行費用"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え"
+      },
+      {
+        "word": "official agency",
+        "translation": "公的機関"
+      },
+      {
+        "word": "prevent further inconvenience",
+        "translation": "更なる不便を防ぐ"
+      }
+    ]
   }
 ]

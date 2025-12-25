@@ -7154,5 +7154,131 @@
         "translation": "受領者"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Burden of Loss",
+    "definition": "The rule determining which party to a bilateral contract bears the economic consequence when the performance becomes impossible after the contract is formed but before the obligation is discharged, without fault attributable to either party.",
+    "japaneseDefinition": "双務契約において、一方の債務が当事者双方の責めに帰すべき事由なく履行不能となった場合に、その損失をどちらの当事者が負担するかを定める原則。",
+    "japaneseWordTranslation": "きけん ふたん",
+    "legalContext": "Civil Code Art. 536 (Principle of the Obligor's Burden): In principle, the obligor cannot claim counter-performance if performance becomes impossible due to reasons not attributable to the parties.",
+    "japaneseLegalContext": "民法第536条（債務者主義の原則）：当事者双方の責めに帰すことができない事由によって債務を履行することができなくなったときは、債務者は、反対給付を受ける権利を失う。",
+    "exampleSentence": "The seller invoked the principle of the Burden of Loss after the customized goods were destroyed by an unforeseen natural disaster before delivery.",
+    "exampleTranslation": "予期せぬ自然災害により、特注品が引き渡し前に滅失したため、売主は危険負担の原則を援用した。",
+    "vocabularyList": [
+      {
+        "word": "bilateral contract",
+        "translation": "双務契約"
+      },
+      {
+        "word": "economic consequence",
+        "translation": "経済的結果"
+      },
+      {
+        "word": "without fault",
+        "translation": "責めに帰すべき事由なく"
+      },
+      {
+        "word": "discharge",
+        "translation": "債務の消滅"
+      },
+      {
+        "word": "unforeseen natural disaster",
+        "translation": "予期せぬ自然災害"
+      },
+      {
+        "word": "customized goods",
+        "translation": "特注品"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action to Disaffirm Paternity",
+    "definition": "A specific legal proceeding brought by the husband, wife, or child to negate the legal assumption of paternity arising from the Civil Code's rule that a child born within a specific period after marriage is the husband’s child.",
+    "japaneseDefinition": "婚姻成立の日から200日後または婚姻解消の日から300日以内に生まれた子について、民法上の嫡出の推定を覆すために、夫、妻または子が提起する訴訟手続。",
+    "japaneseWordTranslation": "ちち を ひにん する うったえ",
+    "legalContext": "Civil Code Art. 774: The husband may disaffirm his own child presumed to be legitimate only by bringing an Action to Disaffirm Paternity.",
+    "japaneseLegalContext": "民法第774条：子の嫡出であることの推定は、夫が父を否認する訴えを提起した場合に限り、覆すことができる。",
+    "exampleSentence": "Following the recent revision, the child gained standing to file an Action to Disaffirm Paternity against his mother's husband within the prescribed period.",
+    "exampleTranslation": "最近の改正に基づき、その子は所定の期間内に母の夫に対する父を否認する訴えを提起する原告適格を得た。",
+    "vocabularyList": [
+      {
+        "word": "legal proceeding",
+        "translation": "訴訟手続"
+      },
+      {
+        "word": "negate",
+        "translation": "覆す"
+      },
+      {
+        "word": "legal assumption",
+        "translation": "推定"
+      },
+      {
+        "word": "legitimacy",
+        "translation": "嫡出"
+      },
+      {
+        "word": "standing",
+        "translation": "原告適格"
+      },
+      {
+        "word": "prescribed period",
+        "translation": "所定の期間"
+      },
+      {
+        "word": "revision",
+        "translation": "改正"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Qualified Acceptance",
+    "definition": "A procedure in inheritance whereby an heir accepts the inheritance on the condition that they are only obligated to satisfy the deceased's debts and testamentary obligations to the extent of the assets inherited.",
+    "japaneseDefinition": "相続人が、相続によって得た財産の限度においてのみ被相続人の債務及び遺贈の義務を弁済することを条件として、相続を承認する手続。",
+    "japaneseWordTranslation": "げんてい しょうにん",
+    "legalContext": "Civil Code Art. 922: An heir may accept the inheritance on the condition that they perform the deceased's obligations only to the extent of the assets obtained through inheritance.",
+    "japaneseLegalContext": "民法第922条：相続人は、相続によって得た財産の限度においてのみ被相続人の債務及び遺贈を弁済すべきことを条件として、相続を承認することができる。",
+    "exampleSentence": "Since the deceased’s debts likely exceeded the assets, the heir chose Qualified Acceptance to prevent personal liability for the shortfall.",
+    "exampleTranslation": "被相続人の債務が相続財産を上回る可能性があったため、相続人は不足分に対する個人責任を防ぐために限定承認を選択した。",
+    "vocabularyList": [
+      {
+        "word": "inheritance",
+        "translation": "相続"
+      },
+      {
+        "word": "heir",
+        "translation": "相続人"
+      },
+      {
+        "word": "deceased's debts",
+        "translation": "被相続人の債務"
+      },
+      {
+        "word": "testamentary obligations",
+        "translation": "遺贈の義務"
+      },
+      {
+        "word": "assets",
+        "translation": "財産"
+      },
+      {
+        "word": "personal liability",
+        "translation": "個人責任"
+      },
+      {
+        "word": "shortfall",
+        "translation": "不足分"
+      },
+      {
+        "word": "procedure",
+        "translation": "手続"
+      }
+    ]
   }
 ]

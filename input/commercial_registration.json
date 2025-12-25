@@ -6312,5 +6312,107 @@
         "translation": "公的な通知"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order to Correct Registration Defects",
+    "definition": "A formal directive issued by the registrar instructing the applicant to rectify specific deficiencies, errors, or omissions discovered during the formal examination of a submitted registration application.",
+    "japaneseDefinition": "登記官が申請書類の形式的な審査において発見された不備を、申請人に対して指定期間内に是正するよう命じる処分。",
+    "japaneseWordTranslation": "補正命令 (ほせいめいれい)",
+    "legalContext": "Commercial Registration Act Art. 24: If there is a defect in the application that can be corrected, the registrar shall order the applicant to correct it, designating a reasonable period.",
+    "japaneseLegalContext": "商業登記法第24条: 補正することができる欠陥があるときは、登記官は、相当の期間を定めて、申請人にその補正を命じなければならない。",
+    "exampleSentence": "The registrar issued an Order to Correct Registration Defects because the accompanying documents lacked the required corporate seal impression certification.",
+    "exampleTranslation": "添付書類に必要な法人印鑑証明書が欠けていたため、登記官は補正命令を発した。",
+    "vocabularyList": [
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "rectify",
+        "translation": "是正する"
+      },
+      {
+        "word": "deficiencies",
+        "translation": "不備、欠陥"
+      },
+      {
+        "word": "accompanying documents",
+        "translation": "添付書類"
+      },
+      {
+        "word": "formal examination",
+        "translation": "形式的審査"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Assertion Restriction Against Third Parties",
+    "definition": "The principle that matters required to be registered under the Commercial Registration Act cannot be asserted against a third party acting in good faith if those matters remain unregistered.",
+    "japaneseDefinition": "商業登記法上、登記すべき事項が登記されていない場合、その事項を善意の第三者に対抗することができないとする効力の制限。",
+    "japaneseWordTranslation": "対抗力の制限 (たいこうりょくのせいげん)",
+    "legalContext": "Commercial Registration Act Art. 9: Matters required to be registered may not be asserted against a third party acting in good faith until after the registration thereof.",
+    "japaneseLegalContext": "商業登記法第9条: 登記すべき事項は、登記の後でなければ、善意の第三者に対抗することができない。",
+    "exampleSentence": "Due to the assertion restriction against third parties, the company could not claim its newly adopted capital reduction was valid against a creditor who relied on the outdated registered amount.",
+    "exampleTranslation": "対抗力の制限の原則に基づき、会社は、登記されていない新資本減少を、旧登記された額を信頼した債権者に対抗できなかった。",
+    "vocabularyList": [
+      {
+        "word": "asserted against",
+        "translation": "対抗された"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "good faith",
+        "translation": "善意"
+      },
+      {
+        "word": "capital reduction",
+        "translation": "資本減少"
+      },
+      {
+        "word": "outdated registered amount",
+        "translation": "旧登記された額"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Administrative Clearing of Inactive Records",
+    "definition": "The compulsory procedure under the Commercial Registration framework where the registrar confirms a company's deemed dissolution status (based on long-term non-registration of mandatory items) and subsequently closes its entry in the commercial register.",
+    "japaneseDefinition": "商業登記制度に基づき、会社が長期間にわたり必須の登記を怠った場合に、みなし解散として取り扱い、登記簿上の記録を職権で閉鎖する行政手続。",
+    "japaneseWordTranslation": "休眠会社整理 (きゅうみんかいしゃせいり)",
+    "legalContext": "Companies Act Art. 472 (Deemed Dissolution) and related Commercial Registration Act provisions governing the registrar's public notice and action.",
+    "japaneseLegalContext": "会社法第472条（みなし解散）及びこれに関連する商業登記法上の、登記官の公告及び職権による手続に関する規定。",
+    "exampleSentence": "The company failed to register a change of its representative director for twelve years, leading to the Administrative Clearing of Inactive Records by the jurisdiction’s registrar.",
+    "exampleTranslation": "その会社は12年間代表取締役の変更登記を怠ったため、管轄登記官による休眠会社整理の対象となった。",
+    "vocabularyList": [
+      {
+        "word": "compulsory procedure",
+        "translation": "強制的処理"
+      },
+      {
+        "word": "deemed dissolution",
+        "translation": "みなし解散"
+      },
+      {
+        "word": "non-registration",
+        "translation": "未登記"
+      },
+      {
+        "word": "registrar's public notice",
+        "translation": "登記官の公告"
+      },
+      {
+        "word": "jurisdiction's registrar",
+        "translation": "管轄登記官"
+      }
+    ]
   }
 ]

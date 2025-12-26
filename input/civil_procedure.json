@@ -7054,5 +7054,119 @@
         "translation": "攻撃防御方法 (kōgeki bōgyo hōhō)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Suspension of Proceedings",
+    "definition": "A temporary cessation or halt to the progress of a lawsuit, typically initiated by a court order or mandated by law when certain conditions, such as the resolution of a prerequisite issue, are met.",
+    "japaneseDefinition": "訴訟手続の進行を一時的に停止すること。当事者の死亡など法律の規定に基づく中断のほか、裁判所が判断するために他の事件の確定を待つ必要がある場合など、職権で命じる休止がある。",
+    "japaneseWordTranslation": "事件休止 (じけんきゅうし)",
+    "legalContext": "Civil Procedure Code Art. 131: The court may, if deemed necessary for the conduct of proceedings, suspend the proceedings by order.",
+    "japaneseLegalContext": "民事訴訟法第131条: 裁判所は、訴訟手続の進行に関し必要と認めるときは、決定で、訴訟手続を休止することができる。",
+    "exampleSentence": "The court ordered a suspension of proceedings pending the final determination of a related administrative dispute in the High Court.",
+    "exampleTranslation": "裁判所は、関連する行政紛争の高等裁判所における最終的な決定を待つ間、訴訟手続の休止を命じた。",
+    "vocabularyList": [
+      {
+        "word": "cessation",
+        "translation": "停止"
+      },
+      {
+        "word": "initiated by",
+        "translation": "〜によって開始される"
+      },
+      {
+        "word": "mandated by law",
+        "translation": "法律によって義務付けられる"
+      },
+      {
+        "word": "prerequisite issue",
+        "translation": "前提となる争点"
+      },
+      {
+        "word": "related dispute",
+        "translation": "関連紛争"
+      },
+      {
+        "word": "final determination",
+        "translation": "最終決定"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Peremptory Defense",
+    "definition": "A type of defense (kōben) where the defendant, while admitting the facts establishing the plaintiff’s claim, introduces new facts (e.g., payment, release) that extinguish or prevent the enforcement of the legal relationship asserted by the plaintiff.",
+    "japaneseDefinition": "被告が原告の請求原因を構成する事実を認めつつも、その請求権を排斥（消滅・阻止）するための新たな事実（相殺、弁済など）を主張する防御方法。",
+    "japaneseWordTranslation": "抗弁 (こうべん)",
+    "legalContext": "Doctrine of Factual Allegation and Pleading: Peremptory defenses must be specifically asserted and proven by the defendant in accordance with the burden of proof rules.",
+    "japaneseLegalContext": "事実の主張と立証の原則: 抗弁は、立証責任の原則に従い、被告によって具体的に主張され、立証されなければならない。",
+    "exampleSentence": "The defendant raised a peremptory defense based on the expiration of the limitation period for the underlying contractual claim.",
+    "exampleTranslation": "被告は、基礎となる契約上の請求権に関する制限期間の満了に基づき、抗弁を提起した。",
+    "vocabularyList": [
+      {
+        "word": "asserted",
+        "translation": "主張された"
+      },
+      {
+        "word": "extinguish",
+        "translation": "消滅させる"
+      },
+      {
+        "word": "enforcement",
+        "translation": "執行"
+      },
+      {
+        "word": "contractual claim",
+        "translation": "契約上の請求権"
+      },
+      {
+        "word": "underlying",
+        "translation": "基礎となる"
+      },
+      {
+        "word": "limitation period",
+        "translation": "制限期間"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Irrevocability of Judgment",
+    "definition": "The procedural quality of a judgment that, following the expiry of the statutory period for filing ordinary appeals, ensures the judgment cannot be challenged or altered through standard appellate mechanisms, thereby achieving formal finality.",
+    "japaneseDefinition": "判決が通常の不服申立て期間の経過により、もはや上訴（控訴・上告）によって取り消しや変更を受けることができなくなる効力。形式的確定力とも呼ばれる。",
+    "japaneseWordTranslation": "形式的確定力 (けいしきてきかくていりょく)",
+    "legalContext": "Civil Procedure Code Art. 116(1): A judgment becomes effective when it is rendered final and binding.",
+    "japaneseLegalContext": "民事訴訟法第116条第1項: 判決は、確定した時から効力を生ずる。",
+    "exampleSentence": "Once the judgment attained irrevocability, the execution obligee proceeded immediately with the compulsory execution procedures.",
+    "exampleTranslation": "判決が形式的確定力を得た後、執行債権者は直ちに強制執行手続を進めた。",
+    "vocabularyList": [
+      {
+        "word": "procedural quality",
+        "translation": "手続上の性質"
+      },
+      {
+        "word": "expiry",
+        "translation": "満了"
+      },
+      {
+        "word": "ordinary appeals",
+        "translation": "通常の不服申立て"
+      },
+      {
+        "word": "altered",
+        "translation": "変更された"
+      },
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      }
+    ]
   }
 ]

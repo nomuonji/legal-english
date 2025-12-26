@@ -5296,5 +5296,85 @@
         "translation": "受領遅滞"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Entitlement Holder for Recovery",
+    "definition": "The party (usually the depositor) who possesses the statutory right to reclaim the deposited property or funds because the cause for the deposit has ceased to exist or failed to materialize.",
+    "japaneseDefinition": "供託の事由が消滅したときなどに、供託物を取り戻すことができる権利を有する者。通常は供託者本人。",
+    "japaneseWordTranslation": "取戻権者 (とりもどしけんしゃ)",
+    "legalContext": "Deposit Act Art. 3 (Recovery of Deposited Item): The depositor may recover the deposited item with the consent of the obligee or if a judgment has been rendered establishing the invalidity of the cause of deposit.",
+    "japaneseLegalContext": "供託法第3条（供託物の取戻し）：供託者は、債権者の承諾を得たとき、又は供託の原因が消滅したことを証する判決があったときなどに限り、供託物を取り戻すことができる。",
+    "exampleSentence": "The depositor automatically becomes the Entitlement Holder for Recovery if the underlying obligation is legally voided subsequent to the deposit.",
+    "exampleTranslation": "基礎となる債務が供託後に法的に無効とされた場合、供託者は自動的に取戻権者となる。",
+    "vocabularyList": [
+      {
+        "word": "Depositor",
+        "translation": "供託者"
+      },
+      {
+        "word": "Reclaim",
+        "translation": "取り戻す"
+      },
+      {
+        "word": "Statutory right",
+        "translation": "法令上の権利"
+      },
+      {
+        "word": "Underlying obligation",
+        "translation": "基礎となる債務"
+      },
+      {
+        "word": "Voided",
+        "translation": "無効とされた"
+      },
+      {
+        "word": "Cause for deposit",
+        "translation": "供託の原因"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit for Discharge",
+    "definition": "A deposit of the object of an obligation made by the debtor when the obligee refuses to accept the offer of performance or is unable to accept it, resulting in the extinguishment of the obligation.",
+    "japaneseDefinition": "債務者が債権者に対する債務の履行を提供したにもかかわらず、債権者の受領拒否や受領不能によって、その債務を免れるためにする供託。",
+    "japaneseWordTranslation": "弁済供託 (べんさいきょうたく)",
+    "legalContext": "Civil Code Art. 494 (Effect of Deposit): If the obligor deposits the subject matter of the obligation, the obligation is extinguished.",
+    "japaneseLegalContext": "民法第494条（供託の効果）：債権者が弁済の受領を拒み、又はこれを受領することができないときは、債務者は、供託によってその債務を免れることができる。",
+    "exampleSentence": "If the creditor cannot be identified, the obligor must resort to a Deposit for Discharge to legally halt the accrual of interest.",
+    "exampleTranslation": "債権者を特定できない場合、債務者は法的に利息の発生を止めるために弁済供託に頼らなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Obligation",
+        "translation": "債務"
+      },
+      {
+        "word": "Offer of performance",
+        "translation": "履行の提供"
+      },
+      {
+        "word": "Extinguishment",
+        "translation": "消滅"
+      },
+      {
+        "word": "Accrual of interest",
+        "translation": "利息の発生"
+      },
+      {
+        "word": "Identified",
+        "translation": "特定された"
+      },
+      {
+        "word": "Subject matter",
+        "translation": "目的物"
+      }
+    ]
   }
 ]

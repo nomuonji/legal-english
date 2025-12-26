@@ -7478,5 +7478,107 @@
         "translation": "減殺する (げんさいする)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Scope of Damages (Foreseeability)",
+    "definition": "The legal limitation on compensation for breach of contract, restricting recoverable losses to those normally arising from the breach or those resulting from special circumstances that the breaching party foresaw or could have foreseen.",
+    "japaneseDefinition": "債務不履行によって生じた損害のうち、通常生ずべき損害、または当事者が予見した特別の事情による損害の範囲に限定される原則。",
+    "japaneseWordTranslation": "そんがいばいしょうのはんい (songai baishō no han'i)",
+    "legalContext": "Civil Code Art. 416: Damages recoverable are limited to those that would ordinarily arise from the non-performance, or those arising from special circumstances that the breaching party foresaw or could have foreseen.",
+    "japaneseLegalContext": "民法第416条: 賠償の請求は、現に生じた損害及び利益を失ったことにつきするものとする。２項: 特別な事情によって生じた損害であっても、当事者がその事情を予見し、又は予見することができたときは、債権者は、その賠償を請求することができる。",
+    "exampleSentence": "The court applied the foreseeability rule to determine the scope of damages, excluding highly unusual losses that the obligor could not possibly have anticipated at the time of contracting.",
+    "exampleTranslation": "裁判所は、契約締結時に債務者が予見し得なかった極めて異例な損失を除外するため、損害賠償の範囲を決定する際に予見可能性の原則を適用した。",
+    "vocabularyList": [
+      {
+        "word": "compensation",
+        "translation": "賠償 (baishō)"
+      },
+      {
+        "word": "breach of contract",
+        "translation": "契約違反 (keiyaku ihan)"
+      },
+      {
+        "word": "foresee",
+        "translation": "予見する (yoken suru)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者 (saimusha)"
+      },
+      {
+        "word": "special circumstances",
+        "translation": "特別な事情 (tokubetsu na jijō)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Cut Neighbor's Branches",
+    "definition": "The right held by a landowner to unilaterally cut off tree branches that extend across the boundary line from a neighboring property if the owner of that tree refuses to remove them, contrasting with roots which can be cut unilaterally regardless of refusal.",
+    "japaneseDefinition": "隣地の樹木の枝が境界線を越えて侵入してきた場合に、その木の所有者が切除に応じないとき、土地所有者が自らその枝を切り取ることができる権利。",
+    "japaneseWordTranslation": "えだのせつじょけん (eda no setsujo ken)",
+    "legalContext": "Civil Code Art. 233(II): If the owner of a tree or bamboo does not cut off branches that extend across the boundary line, the owner of the land that has been encroached upon may cut off the branches themselves.",
+    "japaneseLegalContext": "民法第233条第2項: 樹木の所有者が、前項の規定による請求に応じないときは、越境された土地の所有者は、その枝を切り取ることができる。",
+    "exampleSentence": "After repeated requests to the neighbor went unanswered, the property owner exercised the right to cut neighbor's branches encroaching over his garage.",
+    "exampleTranslation": "隣人への再三の要求が無視されたため、その不動産所有者は、自身のガレージの上に侵入していた隣地の枝を切除する権利を行使した。",
+    "vocabularyList": [
+      {
+        "word": "landowner",
+        "translation": "土地所有者 (tochi shoyūsha)"
+      },
+      {
+        "word": "boundary line",
+        "translation": "境界線 (kyōkai sen)"
+      },
+      {
+        "word": "encroach",
+        "translation": "越境する (ekkyō suru)"
+      },
+      {
+        "word": "unilaterally",
+        "translation": "一方的に (ippōteki ni)"
+      },
+      {
+        "word": "tree branches",
+        "translation": "樹木の枝 (jumoku no eda)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Testamentary Competence",
+    "definition": "The legal capacity required for an individual (the testator) to execute a legally valid will, requiring the testator to be at least 15 years old and possess the mental ability to understand the content and consequences of the testament.",
+    "japaneseDefinition": "有効な遺言を作成するために必要な能力。15歳以上であり、遺言の内容や効果を理解するに足る精神的な能力が要求される。",
+    "japaneseWordTranslation": "ゆいごんのうりょく (yuigon nōryoku)",
+    "legalContext": "Civil Code Art. 961 and Art. 963: A person who has reached 15 years of age may execute a testament. The capacity to know and understand the meaning of the testament is essential for its effectiveness.",
+    "japaneseLegalContext": "民法第961条および第963条: 15歳に達した者は、遺言をすることができる。遺言の趣旨を弁識する能力をもってすることが、その効力の要件となる。",
+    "exampleSentence": "The opposing party contested the validity of the document, arguing that the deceased lacked testamentary competence at the time of its execution due to severe illness.",
+    "exampleTranslation": "相手方は、被相続人が作成時、重病により遺言能力を欠いていたとして、その文書の有効性を争った。",
+    "vocabularyList": [
+      {
+        "word": "testator",
+        "translation": "遺言者 (yuigonsha)"
+      },
+      {
+        "word": "execute a will",
+        "translation": "遺言を作成する (yuigon o sakusei suru)"
+      },
+      {
+        "word": "validity",
+        "translation": "有効性 (yūkōsei)"
+      },
+      {
+        "word": "consequences",
+        "translation": "効果 (kōka)"
+      },
+      {
+        "word": "mental ability",
+        "translation": "精神的な能力 (seishinteki na nōryoku)"
+      }
+    ]
   }
 ]

@@ -7284,5 +7284,43 @@
         "translation": "待機していた入札者 (たいきしていたにゅうさつしゃ)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Collection",
+    "definition": "A lawsuit initiated by a seizing creditor (execution obligee) against a third party debtor who holds funds or assets belonging to the execution obligor, for the purpose of receiving payment directly after the claim has been seized.",
+    "japaneseDefinition": "債権差押えを行った執行債権者が、被差押債権の第三債務者に対して、差し押さえた債権の支払いを直接請求するために提起する訴訟。",
+    "japaneseWordTranslation": "取立訴訟 (Toritate Soshō)",
+    "legalContext": "Civil Execution Act Art. 157 (差押債権者の取立権等): The obligee who has seized a claim may collect the claim, or demand payment thereof from the third party debtor, provided that this is done in the name of the obligor.",
+    "japaneseLegalContext": "民事執行法第157条（差押債権者の取立権等）：差押債権者は、債務者に対して支払をすることができることとされている期間が経過した後、差押えに係る金銭債権を取り立てることができる。",
+    "exampleSentence": "The execution obligee, having secured a garnishment order against the manufacturer’s sales receivables, initiated an Action for Collection when the manufacturer’s bank refused to comply voluntarily.",
+    "exampleTranslation": "製造業者の売掛債権に対する差押命令を確保した後、執行債権者は、製造業者の銀行が任意の支払いを拒否したため、取立訴訟を提起した。",
+    "vocabularyList": [
+      {
+        "word": "seizing creditor",
+        "translation": "差押債権者 (Sashiosae Saikensha)"
+      },
+      {
+        "word": "third party debtor",
+        "translation": "第三債務者 (Daisan Saimusha)"
+      },
+      {
+        "word": "garnishment order",
+        "translation": "差押命令 (Sashiosae meirei)"
+      },
+      {
+        "word": "sales receivables",
+        "translation": "売掛債権 (Urikake saiken)"
+      },
+      {
+        "word": "initiated",
+        "translation": "提起した (Teiki shita)"
+      },
+      {
+        "word": "comply voluntarily",
+        "translation": "任意に応じる (Nīni ni ōjiru)"
+      }
+    ]
   }
 ]

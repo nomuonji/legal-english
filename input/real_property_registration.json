@@ -6206,5 +6206,119 @@
         "translation": "さかのぼって (さかのぼって)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Concerning the Property Description",
+    "definition": "Registrations made regarding the physical characteristics of the land or building (e.g., area, location, type, structure), as opposed to registrations concerning proprietary rights. These are mandatory and must be applied for by the title holder within a statutory period.",
+    "japaneseDefinition": "不動産（土地または建物）の物理的な状況（所在、地積、構造など）を記録するための登記。権利に関する登記とは異なり、登記名義人は一定期間内の申請義務を負う。",
+    "japaneseWordTranslation": "表示に関する登記 (ひょうじにかんするとうき)",
+    "legalContext": "Real Property Registration Act, Article 27: A registration concerning the property description shall be made in accordance with the application by the title holder (or, in the case of a building, the owner).",
+    "japaneseLegalContext": "不動産登記法 第27条: 表示に関する登記は、登記名義人（または建物所有者）の申請に基づいてする。",
+    "exampleSentence": "The owner failed to file an application for the registration concerning the property description within the statutory period of one month after the completion of the new building.",
+    "exampleTranslation": "所有者は、新築建物の完成後1ヶ月の法定期間内に、表示に関する登記の申請を行うことを怠った。",
+    "vocabularyList": [
+      {
+        "word": "physical characteristics",
+        "translation": "物理的な状況"
+      },
+      {
+        "word": "proprietary rights",
+        "translation": "権利"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "title holder",
+        "translation": "登記名義人"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
+      },
+      {
+        "word": "new building",
+        "translation": "新築建物"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Land Area Survey Map",
+    "definition": "A specific document submitted during the application for certain property description registrations, particularly those involving land division or correction of area, which precisely details the land's boundaries, dimensions, and calculated area.",
+    "japaneseDefinition": "土地の分筆や地積更正などの表示に関する登記申請時に提出が義務付けられている図面。境界、計測値、正確な地積（面積）が詳細に記載される。",
+    "japaneseWordTranslation": "地積測量図 (ちせきそくりょうず)",
+    "legalContext": "Real Property Registration Act, Article 36: An application for registration concerning the land area shall be accompanied by a Land Area Survey Map.",
+    "japaneseLegalContext": "不動産登記法 第36条: 地積に関する登記の申請には、地積測量図を添付しなければならない。",
+    "exampleSentence": "The land and house investigator was commissioned to prepare the Land Area Survey Map necessary for the division of the large parcel of land.",
+    "exampleTranslation": "その土地家屋調査士は、大規模な土地の分筆に必要な地積測量図を作成するよう依頼された。",
+    "vocabularyList": [
+      {
+        "word": "commissioned",
+        "translation": "依頼された"
+      },
+      {
+        "word": "division of the parcel",
+        "translation": "土地の分筆"
+      },
+      {
+        "word": "dimensions",
+        "translation": "計測値"
+      },
+      {
+        "word": "accompanied by",
+        "translation": "添付して"
+      },
+      {
+        "word": "correction of area",
+        "translation": "地積更正"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Public Reliance Effect",
+    "definition": "A principle of registration systems (not adopted in Japan for real property rights) whereby a good faith third party who relies on an erroneous registration is legally protected and acquires the right as recorded, even if the registration is substantively incorrect.",
+    "japaneseDefinition": "登記に誤りがあった場合でも、その登記を信頼して取引を行った善意の第三者が保護され、記録通りの権利を取得できるとする登記制度の原則。日本の不動産登記制度では認められていない。",
+    "japaneseWordTranslation": "公信力 (こうしんりょく)",
+    "legalContext": "Under Japanese Real Property Registration Law, the system lacks public reliance effect, meaning a good faith purchaser relying on a false registration of ownership will not acquire the title if the registration was substantively invalid.",
+    "japaneseLegalContext": "日本の不動産登記法では、公信力が認められていないため、虚偽の所有権登記を信頼した善意の買主であっても、登記が実体的に無効であれば権利を取得しない。",
+    "exampleSentence": "Since the Japanese registration system lacks public reliance effect, purchasers must exercise caution and thoroughly verify the title history beyond just the register entry.",
+    "exampleTranslation": "日本の登記制度には公信力がないため、買主は登記簿の記載だけでなく、権利の履歴を徹底的に確認し、慎重に行動しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "erroneous registration",
+        "translation": "誤りのある登記"
+      },
+      {
+        "word": "substantively incorrect",
+        "translation": "実体的に誤っている"
+      },
+      {
+        "word": "good faith third party",
+        "translation": "善意の第三者"
+      },
+      {
+        "word": "exercise caution",
+        "translation": "慎重に行動する"
+      },
+      {
+        "word": "title history",
+        "translation": "権利の履歴"
+      },
+      {
+        "word": "legally protected",
+        "translation": "法的に保護される"
+      }
+    ]
   }
 ]

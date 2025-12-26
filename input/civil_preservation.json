@@ -6644,5 +6644,119 @@
         "translation": "保全命令"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Provisional Disposition",
+    "definition": "A provisional judicial measure taken to secure a non-monetary claim that requires the debtor to perform a specific positive act (or tolerate an act) immediately, in order to maintain a temporary status quo.",
+    "japaneseDefinition": "債務者に一定の積極的な行為（または受忍行為）を暫定的に命じることによって、非金銭債権の執行を保全するために行われる裁判所の手続き。",
+    "japaneseWordTranslation": "作為を命ずる仮処分 (saku'i o meizuru kari-shobun)",
+    "legalContext": "Civil Preservation Act Art. 23(2): Provisional disposition to establish a temporary status quo, potentially ordering the performance of a specific act.",
+    "japaneseLegalContext": "民事保全法 第23条第2項: 仮の地位を定める仮処分（給付を命ずるものを含む）。",
+    "exampleSentence": "The court issued a Mandatory Provisional Disposition ordering the defendant to temporarily restore the access road while the litigation concerning the property boundary was pending.",
+    "exampleTranslation": "裁判所は、不動産の境界に関する訴訟が係属している間、被告に対し、通路を暫定的に復旧させる作為を命ずる仮処分を発令した。",
+    "vocabularyList": [
+      {
+        "word": "provisional judicial measure",
+        "translation": "暫定的な司法措置"
+      },
+      {
+        "word": "non-monetary claim",
+        "translation": "非金銭債権"
+      },
+      {
+        "word": "positive act",
+        "translation": "積極的な行為（作為）"
+      },
+      {
+        "word": "tolerate an act",
+        "translation": "行為を受忍する"
+      },
+      {
+        "word": "temporary status quo",
+        "translation": "仮の地位"
+      },
+      {
+        "word": "pending litigation",
+        "translation": "係属中の訴訟"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Period for Commencing Principal Action",
+    "definition": "The fixed legal timeframe within which the obligee (the preservation applicant) must file the substantive lawsuit (the principal action) following the issuance of a preservation decree, lest the decree be revoked.",
+    "japaneseDefinition": "保全命令が発令された後、その命令の効力を維持するために、保全債権者が本件に関する実体的な訴訟を提起しなければならない、法律で定められた期間。",
+    "japaneseWordTranslation": "本案の訴えの提起期間 (hon'an no uttae no teiki kikan)",
+    "legalContext": "Civil Preservation Act Art. 37(1): Revocation of a preservation order upon failure to file the principal action within the prescribed period (usually 10 days).",
+    "japaneseLegalContext": "民事保全法 第37条第1項: 本案の訴えの不提起等による保全命令の取消し。",
+    "exampleSentence": "If the obligee fails to commence the Principal Action within the Statutory Period, the preservation debtor may petition the court for the cancellation of the preservation decree.",
+    "exampleTranslation": "もし債権者が本案の訴えを提起期間内に開始しない場合、保全債務者は裁判所に対し保全命令の取り消しを申し立てることができる。",
+    "vocabularyList": [
+      {
+        "word": "fixed legal timeframe",
+        "translation": "法律で定められた期間"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "substantive lawsuit",
+        "translation": "実体的な訴訟"
+      },
+      {
+        "word": "preservation decree",
+        "translation": "保全命令"
+      },
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者"
+      },
+      {
+        "word": "cancellation",
+        "translation": "取消し"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liberation Deposit",
+    "definition": "A sum of money deposited by the preservation debtor, upon court approval, that allows for the removal or cessation of a provisional seizure, effectively substituting the seized property with the cash deposit.",
+    "japaneseDefinition": "裁判所の許可を得て保全債務者が供託する金銭であり、これにより仮差押えの対象となっている財産が解放され、供託金がその代替となること。",
+    "japaneseWordTranslation": "解放のための供託金 (kaihō no tame no kyōtakukin)",
+    "legalContext": "Civil Preservation Act Art. 25(2): Provisions regarding security provided by the debtor for cancellation of provisional seizure.",
+    "japaneseLegalContext": "民事保全法 第25条第2項: 債務者の申立てにより、裁判所が定めた金額を供託することによる仮差押えの取消し。",
+    "exampleSentence": "The business secured court approval to post a Liberation Deposit of ¥50 million to regain operational control over its frozen assets.",
+    "exampleTranslation": "その企業は、凍結された資産の業務上の管理を取り戻すため、5,000万円の解放のための供託金を差し出す裁判所の許可を得た。",
+    "vocabularyList": [
+      {
+        "word": "sum of money",
+        "translation": "金銭（金額）"
+      },
+      {
+        "word": "court approval",
+        "translation": "裁判所の許可"
+      },
+      {
+        "word": "cessation",
+        "translation": "停止"
+      },
+      {
+        "word": "seized property",
+        "translation": "差し押さえられた財産"
+      },
+      {
+        "word": "operational control",
+        "translation": "業務上の管理"
+      },
+      {
+        "word": "frozen assets",
+        "translation": "凍結された資産"
+      }
+    ]
   }
 ]

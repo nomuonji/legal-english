@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Manager of Co-owned Property",
-    "definition": "A person, typically one of the co-owners or a third party, appointed either by agreement among the co-owners or by court order, responsible for the general management, preservation, and improvement of jointly held assets.",
-    "japaneseDefinition": "共有者間の合意または裁判所の命令により選任され、共有財産の管理、保存、および改良を職務とする者。",
-    "japaneseWordTranslation": "共有物の管理人 (きょうゆうぶつの かんりにん)",
-    "legalContext": "Civil Code Art. 252 (Management of Co-owned Property): Decisions concerning the management of co-owned property are made by a majority of the co-owners' shares...",
-    "japaneseLegalContext": "民法第252条（共有物の管理）：共有物の管理に関する事項は、各共有者の持分の価格に従い、その過半数で決する。",
-    "exampleSentence": "Due to persistent disputes, the co-owners petitioned the local district court to appoint a neutral third party as the Manager of Co-owned Property.",
-    "exampleTranslation": "紛争が続くため、共有者たちは中立的な第三者を共有物の管理人として選任するよう地方裁判所に申し立てた。",
-    "vocabularyList": [
-      {
-        "word": "Co-owner",
-        "translation": "共有者"
-      },
-      {
-        "word": "Jointly held assets",
-        "translation": "共有財産"
-      },
-      {
-        "word": "Court order",
-        "translation": "裁判所の命令"
-      },
-      {
-        "word": "Preservation",
-        "translation": "保存"
-      },
-      {
-        "word": "Petition",
-        "translation": "申し立てる"
-      },
-      {
-        "word": "Majority of shares",
-        "translation": "持分の過半数"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Joint and Several Guarantee",
     "definition": "A form of suretyship where the guarantor assumes liability jointly and severally with the principal obligor, thereby waiving the rights of search and defense of demand provided under the Civil Code.",
     "japaneseDefinition": "保証人が主たる債務者と連帯して債務を負担する保証形態。この場合、保証人は民法に定められた催告の抗弁権及び検索の抗弁権を有しない。",
@@ -7278,6 +7240,128 @@
       {
         "word": "procedure",
         "translation": "手続"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mortgage",
+    "definition": "A legal security interest granted by a debtor to a creditor (mortgagee) over immovable property (such as land or buildings) to secure the performance of an obligation, allowing the creditor priority in obtaining satisfaction from the property's sale proceeds.",
+    "japaneseDefinition": "債務者がその債務の担保として債権者に提供する不動産に対する担保物権であり、債務不履行の場合にその不動産の売却代金から他の債権者に優先して弁済を受ける権利。",
+    "japaneseWordTranslation": "抵当権 (ていとうけん)",
+    "legalContext": "Civil Code Art. 369: A Mortgage secures the creditor's claim against the real property delivered by the debtor or a third party without transferring possession.",
+    "japaneseLegalContext": "民法第369条（抵当権の目的）：抵当権者は、債務者又は第三者が占有を移転しないで債務の担保に供した不動産について、他の債権者に先立って自己の債権の弁済を受ける権利を有する。",
+    "exampleSentence": "Upon the borrower's failure to repay the loan, the bank exercised its right to enforce the *Mortgage* registered against the land.",
+    "exampleTranslation": "借主が融資を返済しなかったため、銀行は当該土地に登記された*抵当権*を行使する権利を実行した。",
+    "vocabularyList": [
+      {
+        "word": "security interest",
+        "translation": "担保物権 (たんぽぶっけん)"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産 (ふどうさん)"
+      },
+      {
+        "word": "execution",
+        "translation": "実行 (じっこう)"
+      },
+      {
+        "word": "secured obligation",
+        "translation": "担保債務 (たんぽさいむ)"
+      },
+      {
+        "word": "mortgagee",
+        "translation": "抵当権者 (ていとうけんじゃ)"
+      },
+      {
+        "word": "sale proceeds",
+        "translation": "売却代金 (ばいきゃくだいきん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Several Obligation",
+    "definition": "The fundamental principle stating that if there are multiple debtors or creditors relating to a divisible obligation, the debt or claim is generally divided equally among them unless otherwise provided by agreement or statute.",
+    "japaneseDefinition": "分割可能な給付を目的とする債務について、数人の債務者または債権者が存在する場合、特約や法令に定めがない限り、その債務または債権は、各自が平等の割合で分割して負担または取得するという原則。",
+    "japaneseWordTranslation": "分割債務 (ぶんかつさいむ)",
+    "legalContext": "Civil Code Art. 427: If there are several creditors or several debtors regarding an obligation, each creditor shall have a right to an equal share, and each debtor shall bear an equal share, unless otherwise agreed upon or provided for by law.",
+    "japaneseLegalContext": "民法第427条（分割債権及び分割債務）：数人の債権者又は債務者がある場合において、別段の意思表示がないときは、各債権者又は各債務者は、それぞれ平等にその権利を有し、又は義務を負う。",
+    "exampleSentence": "Since the underlying agreement did not stipulate for solidarity, the two buyers were subject to a *Several Obligation*, each responsible for half of the outstanding amount.",
+    "exampleTranslation": "原契約に連帯の規定がなかったため、二人の買主は*分割債務*を負い、それぞれが未払額の半分に責任を負った。",
+    "vocabularyList": [
+      {
+        "word": "divisible performance",
+        "translation": "分割可能な給付 (ぶんかつかのうなきゅうふ)"
+      },
+      {
+        "word": "several liability",
+        "translation": "分割責任 (ぶんかつせきにん)"
+      },
+      {
+        "word": "agreement",
+        "translation": "合意 (ごうい)"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "equal share",
+        "translation": "平等な割合 (びょうどうなわりあい)"
+      },
+      {
+        "word": "outstanding amount",
+        "translation": "未払額 (みばらいがく)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Inter-Neighbor Relations",
+    "definition": "A set of provisions in the Civil Code governing the mutual rights and duties of owners of adjacent land parcels, designed to prevent disputes and ensure the appropriate use and enjoyment of property between neighbors.",
+    "japaneseDefinition": "互いに隣接する土地所有者間の相互の権利義務を定めた民法の規定群。紛争を防止し、土地利用の調整及び所有権の円満な行使を確保するために設けられている。",
+    "japaneseWordTranslation": "近隣関係 (りんごうかんけい)",
+    "legalContext": "Civil Code Chapter IV, Section 3 (Arts. 209-238): Provisions concerning the adjustment of Inter-Neighbor Relations.",
+    "japaneseLegalContext": "民法第4章第3節（第209条以下）：近隣関係の調整に関する規定。",
+    "exampleSentence": "Disputes over fence installation and managing water flow between properties often require reference to the regulations governing *Inter-Neighbor Relations*.",
+    "exampleTranslation": "塀の設置や不動産間の水流管理をめぐる紛争は、しばしば*近隣関係*を規定する法規を参照する必要がある。",
+    "vocabularyList": [
+      {
+        "word": "adjacent land",
+        "translation": "隣接する土地 (りんせつするとち)"
+      },
+      {
+        "word": "mutual duties",
+        "translation": "相互の義務 (そうごのぎむ)"
+      },
+      {
+        "word": "adjustment",
+        "translation": "調整 (ちょうせい)"
+      },
+      {
+        "word": "property use",
+        "translation": "土地利用 (とちりよう)"
+      },
+      {
+        "word": "parcel",
+        "translation": "筆 (ひつ)"
+      },
+      {
+        "word": "boundary",
+        "translation": "境界線 (きょうかいせん)"
+      },
+      {
+        "word": "dispute",
+        "translation": "紛争 (ふんそう)"
       }
     ]
   }

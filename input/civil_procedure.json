@@ -6940,5 +6940,119 @@
         "translation": "却下する (Kyakka suru)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Plausibility",
+    "definition": "A standard of proof lower than 'conviction' (証明, shōmei), requiring the court to be satisfied of the high probability of an asserted fact, typically applied in summary procedures like provisional remedies.",
+    "japaneseDefinition": "裁判官が、ある事実の存在について、高度の確信までは持たないものの、一応確からしいとの心証を得るための立証度。主に民事保全手続で要求される。",
+    "japaneseWordTranslation": "疎明 (そめい)",
+    "legalContext": "Code of Civil Procedure Art. 183 (distinction between proof (証明) and plausibility (疎明)); Civil Preservation Act generally requires plausibility.",
+    "japaneseLegalContext": "民事訴訟法第183条（証明と疎明の区別）。民事保全法で広く要求される。",
+    "exampleSentence": "The motion for the provisional disposition was dismissed because the applicant failed to provide sufficient evidence demonstrating the **plausibility** of the urgent need.",
+    "exampleTranslation": "申立人が緊急の必要性の**疎明**に足りる証拠を提供できなかったため、仮処分命令の申立ては却下された。",
+    "vocabularyList": [
+      {
+        "word": "Conviction",
+        "translation": "証明 (shōmei)"
+      },
+      {
+        "word": "Provisional disposition",
+        "translation": "仮処分 (kari-shobun)"
+      },
+      {
+        "word": "Urgent need",
+        "translation": "緊急の必要性 (kinkyū no hitsuyōsei)"
+      },
+      {
+        "word": "Civil Preservation Act",
+        "translation": "民事保全法 (minji hozen-hō)"
+      },
+      {
+        "word": "Dismissed",
+        "translation": "却下された (kyakka sareta)"
+      },
+      {
+        "word": "Motion",
+        "translation": "申立て (mōshitate)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Concentration of Trial Hearing",
+    "definition": "A procedural principle aiming for efficiency, requiring the court and parties to arrange issues and evidence systematically to complete the examination of the case across the fewest possible hearing dates.",
+    "japaneseDefinition": "民事訴訟の迅速化を図るため、裁判所と当事者が協力して争点や証拠を整理し、集中的に公判期日を設けて審理を進めるべきであるという原則。",
+    "japaneseWordTranslation": "審理の集中 (しんりのしゅうちゅう)",
+    "legalContext": "Code of Civil Procedure, Principle of Concentration (related to Article 147, Requirement for Timely Submission of Attack/Defense Means).",
+    "japaneseLegalContext": "民事訴訟法、集中審理の原則（第147条：攻撃防御方法の提出時期の制限に関連）",
+    "exampleSentence": "The court scheduled consecutive hearing dates in adherence to the principle of **concentration of trial hearing** to ensure a swift resolution of the complex commercial dispute.",
+    "exampleTranslation": "裁判所は、複雑な商事紛争の迅速な解決を確実にするため、**審理の集中**の原則に従い、連続した期日を定めた。",
+    "vocabularyList": [
+      {
+        "word": "Procedural principle",
+        "translation": "手続原則 (tetsuzuki gensoku)"
+      },
+      {
+        "word": "Efficiency",
+        "translation": "効率性 (kōritsu-sei)"
+      },
+      {
+        "word": "Systematically",
+        "translation": "体系的に (taikei-teki ni)"
+      },
+      {
+        "word": "Hearing dates",
+        "translation": "公判期日 (kōhan kijitsu)"
+      },
+      {
+        "word": "Resolution",
+        "translation": "解決 (kaiketsu)"
+      },
+      {
+        "word": "Commercial dispute",
+        "translation": "商事紛争 (shōji funsō)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preclusion (of Untimely Submission)",
+    "definition": "A sanction or legal consequence where a party loses the opportunity to assert specific facts, claims, or defenses because they failed to submit them by the deadline or without a justifiable reason for the delay.",
+    "japaneseDefinition": "当事者が、裁判所が定める期間内、または適切な時期に攻撃防御方法の提出を怠った場合に、その主張権を失うという訴訟上の効果。",
+    "japaneseWordTranslation": "失権 (しっけん)",
+    "legalContext": "Code of Civil Procedure Art. 157 (Exclusion of Untimely Means of Attack or Defense), which provides the basis for this procedural effect.",
+    "japaneseLegalContext": "民事訴訟法第157条（時機に後れた攻撃防御方法の却下）。",
+    "exampleSentence": "The defendant's belated submission of key evidence led to the judge applying the rule of **preclusion**, thereby ignoring the new defense in the judgment.",
+    "exampleTranslation": "被告が主要な証拠を遅れて提出したため、裁判官は**失権**の規定を適用し、判決において新たな防御方法を無視した。",
+    "vocabularyList": [
+      {
+        "word": "Sanction",
+        "translation": "制裁 (seisai)"
+      },
+      {
+        "word": "Belated submission",
+        "translation": "時期に後れた提出 (jiki ni okureta teishutsu)"
+      },
+      {
+        "word": "Justifiable reason",
+        "translation": "正当な理由 (seitō na riyū)"
+      },
+      {
+        "word": "New defense",
+        "translation": "新たな防御方法 (arata na bōgyo hōhō)"
+      },
+      {
+        "word": "Exclusion",
+        "translation": "却下 (kyakka)"
+      },
+      {
+        "word": "Means of attack or defense",
+        "translation": "攻撃防御方法 (kōgeki bōgyo hōhō)"
+      }
+    ]
   }
 ]

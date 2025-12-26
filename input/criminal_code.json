@@ -6614,5 +6614,119 @@
         "translation": "親族関係"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Objective Elements of a Crime",
+    "definition": "The external circumstances, resulting harm, and causal relationships required by law to constitute a specific crime, independent of the perpetrator's subjective mental state.",
+    "japaneseDefinition": "犯罪を構成するために刑法が要求する、行為、結果、因果関係などの客観的な要素。主観的な精神状態とは区別される。",
+    "japaneseWordTranslation": "客観的構成要件 (きゃっかんてきこうせいようけん)",
+    "legalContext": "Criminal Law Theory: The first stage in the three-stage analysis of criminal liability (Objective Elements, Unlawfulness, Culpability).",
+    "japaneseLegalContext": "刑法学上の犯罪論における三段階論（構成要件該当性、違法性、有責性）の第一段階。",
+    "exampleSentence": "In analyzing a case of arson, the Objective Elements of a Crime include the act of setting fire, the existence of the object (e.g., a dwelling), and the risk to public safety.",
+    "exampleTranslation": "放火罪の事例を分析する際、客観的構成要件には、放火行為、目的物（例：住居）の存在、そして公共の危険が含まれる。",
+    "vocabularyList": [
+      {
+        "word": "arson",
+        "translation": "放火罪"
+      },
+      {
+        "word": "subjective mental state",
+        "translation": "主観的心理状態"
+      },
+      {
+        "word": "resulting harm",
+        "translation": "結果の発生"
+      },
+      {
+        "word": "causal relationship",
+        "translation": "因果関係"
+      },
+      {
+        "word": "criminal liability",
+        "translation": "犯罪の成立（刑事責任）"
+      },
+      {
+        "word": "unlawfulness",
+        "translation": "違法性"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Fine Confinement (Workhouse Detention)",
+    "definition": "A measure whereby a person who fails to pay a fine or minor fine is detained in a workhouse for a fixed period to perform labor, substituting for the monetary penalty.",
+    "japaneseDefinition": "罰金又は科料を完納できない者に対し、一定の期間、労役場に留置して作業を行わせることで、罰を代償させる制度。",
+    "japaneseWordTranslation": "労役場留置 (ろうえきじょうりゅうち)",
+    "legalContext": "Penal Code Art. 18: If the whole or part of a fine or minor fine is not paid within the period specified in the sentence, the person shall be confined in a workhouse...",
+    "japaneseLegalContext": "刑法第18条：罰金又は科料を言い渡された者が、その言渡し確定の時から一定期間内にこれを完納しないときは、労役場に留置する。",
+    "exampleSentence": "The convicted person, having defaulted on the court-ordered fine, was subjected to Fine Confinement for a period calculated based on the daily conversion rate.",
+    "exampleTranslation": "有罪判決を受けた者は、裁判所が命じた罰金を支払わなかったため、日割りの換算率に基づき計算された期間、労役場留置に服した。",
+    "vocabularyList": [
+      {
+        "word": "minor fine",
+        "translation": "科料"
+      },
+      {
+        "word": "monetary penalty",
+        "translation": "金銭刑"
+      },
+      {
+        "word": "conversion rate",
+        "translation": "換算率"
+      },
+      {
+        "word": "workhouse",
+        "translation": "労役場"
+      },
+      {
+        "word": "defaulted on a fine",
+        "translation": "罰金を滞納した"
+      },
+      {
+        "word": "convicted person",
+        "translation": "受刑者"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Unserved Sentence",
+    "definition": "The portion of a fixed sentence of imprisonment or confinement remaining to be served when a person's conditional release is revoked.",
+    "japaneseDefinition": "仮釈放が取り消された場合に、その取消しの時点でまだ服役していない、懲役または禁錮の刑期の残りの部分。",
+    "japaneseWordTranslation": "残刑 (ざんけい)",
+    "legalContext": "Penal Code Art. 29: If a conditional release is revoked, the person must serve the remainder of the sentence (Unserved Sentence).",
+    "japaneseLegalContext": "刑法第29条：仮釈放を取り消されたときは、残刑の期間を服役しなければならない。",
+    "exampleSentence": "Upon revocation of his conditional release due to a new crime, the offender was immediately returned to prison to serve the remaining two years of his Unserved Sentence.",
+    "exampleTranslation": "新たな犯罪により仮釈放が取り消されたため、その犯罪者は直ちに刑務所に戻され、残刑の2年間を服役することになった。",
+    "vocabularyList": [
+      {
+        "word": "conditional release",
+        "translation": "仮釈放"
+      },
+      {
+        "word": "revocation",
+        "translation": "取消し"
+      },
+      {
+        "word": "imprisonment",
+        "translation": "懲役"
+      },
+      {
+        "word": "confinement",
+        "translation": "禁錮"
+      },
+      {
+        "word": "fixed sentence",
+        "translation": "確定刑"
+      },
+      {
+        "word": "serve the sentence",
+        "translation": "服役する"
+      }
+    ]
   }
 ]

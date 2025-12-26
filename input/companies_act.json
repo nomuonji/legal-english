@@ -6636,5 +6636,81 @@
         "translation": "閲覧"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Appraisal Right for Share Acquisition Rights",
+    "definition": "The statutory right of a holder of share acquisition rights (share options) to demand that the issuing company purchase their rights at fair value when the company implements certain organizational changes (e.g., merger or share exchange) which affect the substance of those rights.",
+    "japaneseDefinition": "会社が合併や株式交換などの組織再編を行う際に、当該組織再編に反対する新株予約権の保有者が、会社に対し、自己の有する新株予約権を公正な価格で買い取ることを請求できる権利。",
+    "japaneseWordTranslation": "新株予約権買取請求権 (しんかぶよやくけんかいとりせいきゅうけん)",
+    "legalContext": "Companies Act Art. 787 et seq. (Governing the right to demand purchase of shares/SARs upon organizational restructuring).",
+    "japaneseLegalContext": "会社法第787条等（組織再編時の株式・新株予約権の買取請求権）",
+    "exampleSentence": "The holder exercised their Appraisal Right for Share Acquisition Rights following the company's notification of the absorption-type merger.",
+    "exampleTranslation": "当該保有者は、会社が吸収合併の通知を行った後、新株予約権買取請求権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "share acquisition rights",
+        "translation": "新株予約権"
+      },
+      {
+        "word": "organizational change",
+        "translation": "組織再編"
+      },
+      {
+        "word": "absorption-type merger",
+        "translation": "吸収合併"
+      },
+      {
+        "word": "fair value",
+        "translation": "公正な価格"
+      },
+      {
+        "word": "statutory right",
+        "translation": "法定の権利"
+      },
+      {
+        "word": "issuing company",
+        "translation": "発行会社"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Elective Provisions (in Articles of Incorporation)",
+    "definition": "Matters that are neither mandatorily required nor absolutely prohibited by law, which a company may include in its Articles of Incorporation to customize its internal governance structure, such as setting a higher quorum requirement or defining the business year.",
+    "japaneseDefinition": "定款に必ず記載しなければならない事項（絶対的記載事項）や、記載がないと効力を生じない事項（相対的記載事項）ではないが、会社の任意で記載し、その内容を有効とする事項。",
+    "japaneseWordTranslation": "任意的記載事項 (にんいてききさいじこう)",
+    "legalContext": "Companies Act Art. 27 (General provisions regarding the content of the Articles of Incorporation).",
+    "japaneseLegalContext": "会社法第27条（定款の記載事項に関する一般規定）",
+    "exampleSentence": "The decision to define the fiscal year end as March 31st is an Elective Provision within the company's Articles of Incorporation.",
+    "exampleTranslation": "3月31日を事業年度の末日と定める決定は、当会社の定款における任意的記載事項である。",
+    "vocabularyList": [
+      {
+        "word": "Articles of Incorporation",
+        "translation": "定款"
+      },
+      {
+        "word": "governance structure",
+        "translation": "統治構造"
+      },
+      {
+        "word": "business year",
+        "translation": "事業年度"
+      },
+      {
+        "word": "quorum requirement",
+        "translation": "定足数要件"
+      },
+      {
+        "word": "mandatory",
+        "translation": "強制的な"
+      },
+      {
+        "word": "fiscal year end",
+        "translation": "会計年度末"
+      }
+    ]
   }
 ]

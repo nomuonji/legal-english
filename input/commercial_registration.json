@@ -6414,5 +6414,123 @@
         "translation": "管轄登記官"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Presumption of Accuracy of Recorded Facts",
+    "definition": "The legal principle under Commercial Law stating that any party dealing with a registered entity is entitled to rely on the accuracy of the currently registered matters in the commercial register.",
+    "japaneseDefinition": "商業登記簿に登録されている事項は、真実であるという前提で、取引の相手方（第三者）が保護されるという商法上の原則。",
+    "japaneseWordTranslation": "登録された事実の真実性の推定 (Tōroku sareta Jijitsu no Shinjitsusei no Suitei)",
+    "legalContext": "Commercial Registration Law Art. 9: A person who has registered any matter is barred from asserting, against a third party acting in good faith, that such matter is false.",
+    "japaneseLegalContext": "商業登記法 第9条：登記した事項につき、登記の後、これと異なる事実を知らない第三者に対抗することができない。",
+    "exampleSentence": "The bank relied heavily on the Presumption of Accuracy of Recorded Facts when extending the corporate loan based on the registered capital amount.",
+    "exampleTranslation": "銀行は、登記された資本額に基づいて企業融資を実行する際、登録された事実の真実性の推定に強く依拠した。",
+    "vocabularyList": [
+      {
+        "word": "bank",
+        "translation": "銀行"
+      },
+      {
+        "word": "relied heavily on",
+        "translation": "強く依拠した"
+      },
+      {
+        "word": "extending a loan",
+        "translation": "融資の実行"
+      },
+      {
+        "word": "corporate loan",
+        "translation": "企業融資"
+      },
+      {
+        "word": "registered capital amount",
+        "translation": "登記された資本額"
+      },
+      {
+        "word": "in good faith",
+        "translation": "善意で"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Administrative Penalty for Non-Compliance",
+    "definition": "A non-penal fine (karyō) imposed by the court upon officers of a company who fail to fulfill their statutory obligation to register required matters within the prescribed legal period.",
+    "japaneseDefinition": "法律で定められた期間内に、会社役員が登記すべき事項の登録申請を行わない場合に、裁判所により課される行政上の制裁金（過料）。",
+    "japaneseWordTranslation": "登記義務違反に対する過料 (Tōki Gimu Ihan ni Taisuru Karyō)",
+    "legalContext": "Commercial Registration Law Art. 138: If a person subject to a registration obligation fails to make the registration, that person shall be subject to a non-penal fine of not more than one million yen.",
+    "japaneseLegalContext": "商業登記法 第138条：登記をすることを怠った者は、百万円以下の過料に処する。",
+    "exampleSentence": "The former representative director was subject to an Administrative Penalty for Non-Compliance after failing to register the company’s change of address within the two-week statutory period.",
+    "exampleTranslation": "前代表取締役は、会社の住所変更を法定の２週間以内に登記しなかったため、登記義務違反に対する過料の対象となった。",
+    "vocabularyList": [
+      {
+        "word": "officers",
+        "translation": "役員"
+      },
+      {
+        "word": "statutory obligation",
+        "translation": "法定の義務"
+      },
+      {
+        "word": "prescribed legal period",
+        "translation": "定められた法的期間"
+      },
+      {
+        "word": "representative director",
+        "translation": "代表取締役"
+      },
+      {
+        "word": "subject to",
+        "translation": "〜の対象となる"
+      },
+      {
+        "word": "court",
+        "translation": "裁判所"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Filing of Registration by Subrogation",
+    "definition": "The legal procedure where a creditor, on behalf of their debtor who possesses a registration right or duty, files the necessary registration application to the registry office to preserve the debtor's assets or rights.",
+    "japaneseDefinition": "債権者が、債権保全のために、登記権利者または登記義務者である債務者に代わって、その登記申請を行う手続き。",
+    "japaneseWordTranslation": "登記の代位申請 (Tōki no Dai'i Shinsei)",
+    "legalContext": "Commercial Registration Law Art. 29: Any person who may make registration by subrogation in accordance with other laws shall provide documentation evidencing the subrogation cause.",
+    "japaneseLegalContext": "商業登記法 第29条：他の法令の規定により代位して登記を申請する者は、代位原因を証する書面を提出しなければならない。",
+    "exampleSentence": "The judgment creditor initiated the Filing of Registration by Subrogation to ensure the corporate officer's resignation was properly recorded before proceeding with asset seizure.",
+    "exampleTranslation": "判決債権者は、資産の差し押さえに進む前に、会社役員の辞任が適切に記録されるよう、登記の代位申請を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "judgment creditor",
+        "translation": "判決債権者"
+      },
+      {
+        "word": "subrogation cause",
+        "translation": "代位原因"
+      },
+      {
+        "word": "resignation",
+        "translation": "辞任"
+      },
+      {
+        "word": "asset seizure",
+        "translation": "資産の差し押さえ"
+      },
+      {
+        "word": "documentation",
+        "translation": "書面（証拠書類）"
+      }
+    ]
   }
 ]

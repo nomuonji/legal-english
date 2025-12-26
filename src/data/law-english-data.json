@@ -1,38 +1,38 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Final Appeal (Jōkoku)",
-  "definition": "The final stage of appeal in the Japanese court system, directed toward the Supreme Court, primarily limited to claims of constitutional violations or major errors in the interpretation of laws and ordinances made by the High Court.",
-  "japaneseDefinition": "日本の裁判制度における最終的な上訴段階。主に高等裁判所の判決における憲法違反または法令解釈の重大な誤りを理由として最高裁判所に対して申し立てる手続き。",
-  "japaneseWordTranslation": "上告 (じょうこく)",
-  "legalContext": "Code of Civil Procedure Art. 312: Grounds for Final Appeal. The appeal is limited by specified legal errors.",
-  "japaneseLegalContext": "民事訴訟法第312条 (上告の理由)",
-  "exampleSentence": "Following the dismissal by the High Court, the defendant decided to file a **final appeal** (Jōkoku), asserting that the lower court misinterpreted governing law.",
-  "exampleTranslation": "高等裁判所による棄却を受けて、被告は下級裁判所が適用法を誤って解釈したと主張し、**上告**を提起することを決定した。",
+  "word": "Manager of Co-owned Property",
+  "definition": "A person, typically one of the co-owners or a third party, appointed either by agreement among the co-owners or by court order, responsible for the general management, preservation, and improvement of jointly held assets.",
+  "japaneseDefinition": "共有者間の合意または裁判所の命令により選任され、共有財産の管理、保存、および改良を職務とする者。",
+  "japaneseWordTranslation": "共有物の管理人 (きょうゆうぶつの かんりにん)",
+  "legalContext": "Civil Code Art. 252 (Management of Co-owned Property): Decisions concerning the management of co-owned property are made by a majority of the co-owners' shares...",
+  "japaneseLegalContext": "民法第252条（共有物の管理）：共有物の管理に関する事項は、各共有者の持分の価格に従い、その過半数で決する。",
+  "exampleSentence": "Due to persistent disputes, the co-owners petitioned the local district court to appoint a neutral third party as the Manager of Co-owned Property.",
+  "exampleTranslation": "紛争が続くため、共有者たちは中立的な第三者を共有物の管理人として選任するよう地方裁判所に申し立てた。",
   "vocabularyList": [
     {
-      "word": "dismissal",
-      "translation": "棄却 (ききゃく)"
+      "word": "Co-owner",
+      "translation": "共有者"
     },
     {
-      "word": "High Court",
-      "translation": "高等裁判所 (こうとうさいばんしょ)"
+      "word": "Jointly held assets",
+      "translation": "共有財産"
     },
     {
-      "word": "Supreme Court",
-      "translation": "最高裁判所 (さいこうさいばんしょ)"
+      "word": "Court order",
+      "translation": "裁判所の命令"
     },
     {
-      "word": "governing law",
-      "translation": "適用法 (てきようほう)"
+      "word": "Preservation",
+      "translation": "保存"
     },
     {
-      "word": "file an appeal",
-      "translation": "上告を提起する (じょうこくをていきする)"
+      "word": "Petition",
+      "translation": "申し立てる"
     },
     {
-      "word": "interpretation of laws",
-      "translation": "法令解釈 (ほうれいかいしゃく)"
+      "word": "Majority of shares",
+      "translation": "持分の過半数"
     }
   ]
 }

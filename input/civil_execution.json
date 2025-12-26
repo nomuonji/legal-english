@@ -7040,5 +7040,131 @@
         "translation": "更なる不便を防ぐ"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Compulsory Auction",
+    "definition": "A form of compulsory execution against immovable property based on a monetary claim, resulting in the judicial sale of the property to satisfy the creditor's claim.",
+    "japaneseDefinition": "金銭債権に基づく強制執行の一つで、債務者の不動産を裁判所が競売にかけて売却し、その代金を債権者に配当する手続き。",
+    "japaneseWordTranslation": "強制競売 (きょうせいけいばい)",
+    "legalContext": "Civil Execution Act, Chapter IV, Section 1 (Provisions concerning compulsory execution against immovable property).",
+    "japaneseLegalContext": "民事執行法 第四章 第一節（不動産に対する強制執行に関する規定）",
+    "exampleSentence": "The creditor filed a motion for a **Compulsory Auction** against the debtor's residential land after the deadline for payment had passed.",
+    "exampleTranslation": "債権者は、支払期限が過ぎたため、債務者の居住用の土地に対して**強制競売**の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "Creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "Debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Residential land",
+        "translation": "居住用の土地"
+      },
+      {
+        "word": "Deadline for payment",
+        "translation": "支払期限"
+      },
+      {
+        "word": "Motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "Immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "Monetary claim",
+        "translation": "金銭債権"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Commitment Order",
+    "definition": "A judicial decision imposing a temporary detention penalty (監置) on an obligor, typically for refusing without justifiable reason to comply with an order to attend a property disclosure hearing or provide necessary information.",
+    "japaneseDefinition": "財産開示手続等において、正当な理由なく裁判所の出頭命令や情報提供命令に従わない債務者に対し、裁判所が一定期間の身体の拘束（監置）を命じる決定。",
+    "japaneseWordTranslation": "監置決定 (かんちけってい)",
+    "legalContext": "Civil Execution Act Art. 206 (Sanctions for Non-Compliance in Property Disclosure Procedures).",
+    "japaneseLegalContext": "民事執行法 第206条（財産開示手続における制裁）",
+    "exampleSentence": "If the obligor fails to appear for the property disclosure hearing without a legitimate reason, the execution court may issue a **Commitment Order**.",
+    "exampleTranslation": "債務者が正当な理由なく財産開示期日に出頭しない場合、執行裁判所は**監置決定**を発することができる。",
+    "vocabularyList": [
+      {
+        "word": "Obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Justifiable reason",
+        "translation": "正当な理由"
+      },
+      {
+        "word": "Property disclosure",
+        "translation": "財産開示"
+      },
+      {
+        "word": "Hearing",
+        "translation": "期日"
+      },
+      {
+        "word": "Sanction",
+        "translation": "制裁"
+      },
+      {
+        "word": "Comply with",
+        "translation": "従う"
+      },
+      {
+        "word": "Issue",
+        "translation": "発する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Distribution Claim",
+    "definition": "A monetary claim held by an unsecured creditor who files a demand with the execution court to participate in the pro rata distribution of sale proceeds generated from a compulsory execution or security enforcement.",
+    "japaneseDefinition": "強制執行や担保権実行の結果生じた売却代金からの配当を受けるため、執行裁判所に届け出られた、差押権や担保権を有しない一般債権者の金銭債権。",
+    "japaneseWordTranslation": "配当要求債権 (はいとうようきゅうさいけん)",
+    "legalContext": "Civil Execution Act Art. 87(1) (Requirements for Demanding Distribution).",
+    "japaneseLegalContext": "民事執行法 第87条第1項（配当要求の要件）",
+    "exampleSentence": "Since the general creditor lacked a prior security interest, they submitted a **Distribution Claim** to the execution court before the designated cut-off date.",
+    "exampleTranslation": "一般債権者は事前の担保権がなかったため、配当要求の終期までに執行裁判所に**配当要求債権**を届け出た。",
+    "vocabularyList": [
+      {
+        "word": "Unsecured creditor",
+        "translation": "一般債権者"
+      },
+      {
+        "word": "Security interest",
+        "translation": "担保権"
+      },
+      {
+        "word": "Execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "Sale proceeds",
+        "translation": "売却代金"
+      },
+      {
+        "word": "Pro rata distribution",
+        "translation": "按分比例の配当"
+      },
+      {
+        "word": "Cut-off date",
+        "translation": "終期"
+      },
+      {
+        "word": "Submit",
+        "translation": "届け出る"
+      }
+    ]
   }
 ]

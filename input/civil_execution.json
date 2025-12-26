@@ -7166,5 +7166,123 @@
         "translation": "届け出る"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Extension of the Scope of Seizure Effect",
+    "definition": "In the execution against monetary claims, the rule that the seizure's effect automatically extends to include any claims that the execution debtor subsequently acquires against the third party debtor (garnishee), even if they were not initially specified.",
+    "japaneseDefinition": "金銭債権に対する執行において、第三債務者に対し債務者が後から取得した債権についても、差押えの効力が当然に及ぶとする規定。",
+    "japaneseWordTranslation": "差押えの効力の及ぶ範囲の拡張 (さしおさえの こうりょくの およぶ はんいの かくちょう)",
+    "legalContext": "Code of Civil Execution (Minji Shikkō Hō) Article 145, Paragraph 4.",
+    "japaneseLegalContext": "民事執行法第145条第4項",
+    "exampleSentence": "The court confirmed the Extension of the Scope of Seizure Effect when the obligor obtained new salary entitlements from the garnishee after the initial order was issued.",
+    "exampleTranslation": "裁判所は、当初の命令が発せられた後、債務者が第三債務者から新たな給与の権利を取得した際に、差押えの効力の及ぶ範囲の拡張を認めた。",
+    "vocabularyList": [
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権 (きんせんさいけん)"
+      },
+      {
+        "word": "subsequently acquires",
+        "translation": "後から取得する (あとからしゅとくする)"
+      },
+      {
+        "word": "garnishee",
+        "translation": "第三債務者 (だいさんさいむしゃ)"
+      },
+      {
+        "word": "salary entitlements",
+        "translation": "給与の権利 (きゅうよのけんり)"
+      },
+      {
+        "word": "initial order",
+        "translation": "当初の命令 (とうしょのめいれい)"
+      },
+      {
+        "word": "execution debtor",
+        "translation": "債務者 (さいむしゃ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Public Notice of the Deadline for Demand for Distribution",
+    "definition": "The formal announcement issued by the execution court regarding the specific deadline by which creditors holding non-secured claims or having rights equivalent to seizure must submit a demand to participate in the distribution of the realized property price.",
+    "japaneseDefinition": "執行裁判所が、配当または弁済を受けるために、非担保債権を有する債権者等が売却代金の配当手続に参加する要求を提出すべき期限を公に通知すること。",
+    "japaneseWordTranslation": "配当要求の終期の公告 (はいとうようきゅうの しゅうきの こうこく)",
+    "legalContext": "Code of Civil Execution (Minji Shikkō Hō) Article 49.",
+    "japaneseLegalContext": "民事執行法第49条",
+    "exampleSentence": "The execution court sets the Public Notice of the Deadline for Demand for Distribution immediately after commencing compulsory auction proceedings against the real property.",
+    "exampleTranslation": "執行裁判所は、不動産に対する強制競売手続の開始後、直ちに配当要求の終期の公告を設定する。",
+    "vocabularyList": [
+      {
+        "word": "execution court",
+        "translation": "執行裁判所 (しっこうさいばんしょ)"
+      },
+      {
+        "word": "formal announcement",
+        "translation": "公に通知 (おおやけにつうち)"
+      },
+      {
+        "word": "non-secured claims",
+        "translation": "非担保債権 (ひたんぽさいけん)"
+      },
+      {
+        "word": "realized property price",
+        "translation": "売却代金 (ばいきゃくだいきん)"
+      },
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売 (きょうせいけいばい)"
+      },
+      {
+        "word": "proceedings",
+        "translation": "手続 (てつづき)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Succession to the Purchaser's Status",
+    "definition": "The legal procedure specifying that if the highest bidder or initial purchaser fails to fulfill the payment obligation for the property, the court may declare the forfeiture of their guarantee deposit and order the next-highest bidder to assume the right and duty to acquire the property.",
+    "japaneseDefinition": "最高価買受申出人または買受人が代金納付義務を果たさなかった場合に、その保証金は没収され、次順位買受申出人がその不動産の取得に関する権利と義務を引き継ぐことができる制度。",
+    "japaneseWordTranslation": "買受人の地位の承継 (かいうけにんの ちいの しょうけい)",
+    "legalContext": "Code of Civil Execution (Minji Shikkō Hō) Article 71, Paragraph 2.",
+    "japaneseLegalContext": "民事執行法第71条第2項",
+    "exampleSentence": "Upon the previous bidder's failure to pay the acquisition price, the court executed the Succession to the Purchaser's Status, allowing the standby bidder to acquire the property.",
+    "exampleTranslation": "前の入札者が取得代金を支払えなかったため、裁判所は買受人の地位の承継を実行し、待機していた入札者が当該物件を取得できるようにした。",
+    "vocabularyList": [
+      {
+        "word": "highest bidder",
+        "translation": "最高価買受申出人 (さいこうかかいうけもうしでにん)"
+      },
+      {
+        "word": "payment obligation",
+        "translation": "代金納付義務 (だいきんのうふぎむ)"
+      },
+      {
+        "word": "guarantee deposit",
+        "translation": "保証金 (ほしょうきん)"
+      },
+      {
+        "word": "forfeiture",
+        "translation": "没収 (ぼっしゅう)"
+      },
+      {
+        "word": "next-highest bidder",
+        "translation": "次順位買受申出人 (じじゅんいかいうけもうしでにん)"
+      },
+      {
+        "word": "acquisition price",
+        "translation": "取得代金 (しゅとくだいきん)"
+      },
+      {
+        "word": "standby bidder",
+        "translation": "待機していた入札者 (たいきしていたにゅうさつしゃ)"
+      }
+    ]
   }
 ]

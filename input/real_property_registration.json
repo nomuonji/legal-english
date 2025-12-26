@@ -6092,5 +6092,119 @@
         "translation": "却下 (きゃっか)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Indication of Real Property",
+    "definition": "The specific factual information recorded in the real property register that describes the physical attributes of a piece of land or a building (e.g., location, area, structure, type).",
+    "japaneseDefinition": "不動産（土地または建物）の物理的な状況を公的に記録した情報。所在地、地番または家屋番号、地目または種類、地積または床面積など、登記記録の表題部に記載される事項。",
+    "japaneseWordTranslation": "不動産の表示 (ふどうさんのひょうじ)",
+    "legalContext": "Real Property Registration Act Art. 27: Matters concerning land indication registration shall be registered in the record of description.",
+    "japaneseLegalContext": "不動産登記法第27条: 土地の表示に関する登記は、表題部に登記する。",
+    "exampleSentence": "The land and house investigator is responsible for preparing the documents necessary for the registration of the Indication of Real Property.",
+    "exampleTranslation": "土地家屋調査士は、不動産の表示の登記に必要な書類を作成する責任を負う。",
+    "vocabularyList": [
+      {
+        "word": "record of description",
+        "translation": "表題部 (ひょうだいぶ)"
+      },
+      {
+        "word": "land and house investigator",
+        "translation": "土地家屋調査士 (とちかおくちょうさし)"
+      },
+      {
+        "word": "land indication registration",
+        "translation": "土地の表示に関する登記 (とちのひょうじにかんするとうき)"
+      },
+      {
+        "word": "physical attributes",
+        "translation": "物理的な状況 (ぶつりてきなじょうきょう)"
+      },
+      {
+        "word": "area",
+        "translation": "地積 (ちせき)"
+      },
+      {
+        "word": "structure",
+        "translation": "構造 (こうぞう)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Part A (Ownership Record)",
+    "definition": "The section of the real property register (known in Japanese as 甲区, Kōku) dedicated exclusively to documenting matters related to ownership rights, including the identity of the owner and the cause of acquisition.",
+    "japaneseDefinition": "不動産登記記録のうち、所有権に関する事項を記載する箇所（甲区）。所有権の保存、移転、処分の制限など、権利者に係る登記事項が記載される。",
+    "japaneseWordTranslation": "甲区 (こうく)",
+    "legalContext": "Real Property Registration Act Art. 14: The proprietary rights record (Kōku and Otsuku) is divided into the Ownership Record (Kōku) and the Other Rights Record (Otsuku).",
+    "japaneseLegalContext": "不動産登記法第14条: 権利部（甲区及び乙区）は、所有権に関する登記を記録する甲区と、所有権以外の権利に関する登記を記録する乙区に分ける。",
+    "exampleSentence": "In the case of a voluntary sale, the transfer of ownership is registered by recording the new registered title holder in the Part A (Ownership Record).",
+    "exampleTranslation": "任意売却の場合、所有権の移転は、甲区に新しい登記名義人を記録することによって登記される。",
+    "vocabularyList": [
+      {
+        "word": "Other Rights Record",
+        "translation": "乙区 (おつく)"
+      },
+      {
+        "word": "registered title holder",
+        "translation": "登記名義人 (とうきめいぎにん)"
+      },
+      {
+        "word": "proprietary rights record",
+        "translation": "権利部 (けんりぶ)"
+      },
+      {
+        "word": "preservation of ownership",
+        "translation": "所有権の保存 (しょゆうけんのほぞん)"
+      },
+      {
+        "word": "restriction on disposition",
+        "translation": "処分の制限 (しょぶんのせいげん)"
+      },
+      {
+        "word": "transfer of ownership",
+        "translation": "所有権の移転 (しょゆうけんのいてん)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Completion Date",
+    "definition": "The date on which the registrar formally records the registered matters into the register, marking the procedural conclusion of the registration application process.",
+    "japaneseDefinition": "登記官が登記記録に登録事項を記載し、その手続を完了した日。登記の効力発生時期である申請書の受付日とは区別される。",
+    "japaneseWordTranslation": "登記完了の日付 (とうきかんりょうのひづけ)",
+    "legalContext": "Real Property Registration Act Art. 18: The registration shall become effective at the time of reception of the application for registration.",
+    "japaneseLegalContext": "不動産登記法第18条: 登記は、登記官が登記をするときに、申請書が登記所に提出された時にさかのぼってその効力を生ずる。",
+    "exampleSentence": "The registry office issues a certificate of registered matters based on the status of the register as of the Registration Completion Date.",
+    "exampleTranslation": "登記所は、登記完了の日付時点の登記記録に基づいて、登記事項証明書を発行する。",
+    "vocabularyList": [
+      {
+        "word": "registrar",
+        "translation": "登記官 (とうきかん)"
+      },
+      {
+        "word": "certificate of registered matters",
+        "translation": "登記事項証明書 (とうきじこうしょうめいしょ)"
+      },
+      {
+        "word": "time of reception",
+        "translation": "受付の時 (うけつけのとき)"
+      },
+      {
+        "word": "registration application",
+        "translation": "登記の申請 (とうきのしんせい)"
+      },
+      {
+        "word": "become effective",
+        "translation": "効力を生ずる (こうりょくをしょうずる)"
+      },
+      {
+        "word": "retroactively",
+        "translation": "さかのぼって (さかのぼって)"
+      }
+    ]
   }
 ]

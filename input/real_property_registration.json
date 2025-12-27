@@ -2,44 +2,6 @@
   {
     "category": "Real Property Registration (不動産登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Record of Rights Section",
-    "definition": "The distinct portion of the official property record that specifies the rights relating to the land or structure (such as security interests, easements, or leaseholds), as opposed to the section detailing the property's physical description.",
-    "japaneseDefinition": "土地又は工作物に関する権利（担保物権、地役権、賃借権など）を特定して記録する、公的な不動産記録簿の区分。物件の物理的明細を詳述する区分とは区別される。",
-    "japaneseWordTranslation": "権利部 (けんりぶ)",
-    "legalContext": "Act concerning Immovable Property Entry Art. 20: The property record for land or a structure shall be comprised of a Record of Description Section and a Record of Rights Section.",
-    "japaneseLegalContext": "不動産に関する記録に関する法律第20条: 土地又は工作物の記録は、表題部及び権利部をもって編成する。",
-    "exampleSentence": "The lawyer examined the Record of Rights Section to confirm the prioritization of the existing mortgage and any secondary security interests.",
-    "exampleTranslation": "弁護士は、既存の抵当権と二次的な担保物権の優先順位を確認するために、権利部を調査した。",
-    "vocabularyList": [
-      {
-        "word": "Official property record",
-        "translation": "公的不動産記録簿 (こうてきふどうさんきろくぼ)"
-      },
-      {
-        "word": "Easement",
-        "translation": "地役権 (ちえきけん)"
-      },
-      {
-        "word": "Security interests",
-        "translation": "担保物権 (たんぽぶっけん)"
-      },
-      {
-        "word": "Physical description",
-        "translation": "物理的明細 (ぶつりてきめいさい)"
-      },
-      {
-        "word": "Prioritization",
-        "translation": "優先順位 (ゆうせんじゅんい)"
-      },
-      {
-        "word": "Secondary",
-        "translation": "二次的な (にじてきな)"
-      }
-    ]
-  },
-  {
-    "category": "Real Property Registration (不動産登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Record of Description Section",
     "definition": "The section of the real property register (Tōkibo) that records the physical facts of the property, such as the location, area, type of land, or structure details, distinguishing it from the sections dedicated to rights.",
     "japaneseDefinition": "不動産登記簿のうち、権利関係ではなく、土地の所在、地積、地目または建物の構造などの不動産の物理的な現況を記録する部分。",
@@ -6318,6 +6280,44 @@
       {
         "word": "legally protected",
         "translation": "法的に保護される"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Record of Rights Section A (Part A: Ownership)",
+    "definition": "The specific section (甲区, Kōku) of the Real Property Register dedicated exclusively to recording matters related to the ownership (所有権) of the land or building, including the owner's identity, the cause of acquisition, and the date of registration.",
+    "japaneseDefinition": "不動産登記記録のうち、土地又は建物の所有権に関する事項、具体的には所有者の氏名、住所、取得原因、登録年月日などを記録するために設けられている欄。",
+    "japaneseWordTranslation": "権利部甲区 (けんりぶこうく)",
+    "legalContext": "Real Property Registration Act Art. 2(20), Art. 35(1): Defines the structure of the real property register, dividing the Record of Rights into Section A (Ownership) and Section B (Other Rights).",
+    "japaneseLegalContext": "不動産登記法第2条第20号、第35条第1項：不動産の登記記録は表題部及び権利部に分けられ、権利部が更に甲区（所有権に関する登記）及び乙区（所有権以外の権利に関する登記）に分けられる旨を規定。",
+    "exampleSentence": "Any registration concerning the creation, transfer, or modification of ownership is entered solely in the Record of Rights Section A of the property register.",
+    "exampleTranslation": "所有権の設定、移転、または変更に関するいかなる登記も、不動産登記記録の権利部甲区のみに記録される。",
+    "vocabularyList": [
+      {
+        "word": "Real Property Register",
+        "translation": "不動産登記記録"
+      },
+      {
+        "word": "ownership",
+        "translation": "所有権"
+      },
+      {
+        "word": "cause of acquisition",
+        "translation": "取得原因"
+      },
+      {
+        "word": "transfer",
+        "translation": "移転"
+      },
+      {
+        "word": "modification",
+        "translation": "変更"
+      },
+      {
+        "word": "Record of Rights Section B",
+        "translation": "権利部乙区"
       }
     ]
   }

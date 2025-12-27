@@ -1,42 +1,38 @@
 {
-  "category": "Companies Act (会社法)",
+  "category": "Real Property Registration (不動産登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Stock Split",
-  "definition": "A corporate action where a company increases the number of its outstanding shares by dividing each existing share into multiple shares, proportionally reducing the value per share.",
-  "japaneseDefinition": "会社が、既存の株式を複数に分割することにより、発行済株式の総数を増加させる行為。一株あたりの価値はこれに比例して減少する。",
-  "japaneseWordTranslation": "株式分割 (かぶしきぶんかつ)",
-  "legalContext": "Companies Act Art. 183 (Procedures for Stock Split): A Stock Company shall effect a Stock Split pursuant to a decision by the required corporate organ.",
-  "japaneseLegalContext": "会社法第183条（株式の分割の手続）：株式会社は、株式の分割をする場合には、所定の機関の決定によりこれを行う。",
-  "exampleSentence": "The company announced a two-for-one stock split effective next month to improve market liquidity and make the shares more accessible to retail investors.",
-  "exampleTranslation": "その会社は、市場流動性を改善し、個人投資家がより株式を取得しやすくするために、来月を効力発生日とする1株を2株とする株式分割を発表した。",
+  "word": "Record of Rights Section",
+  "definition": "The distinct portion of the official property record that specifies the rights relating to the land or structure (such as security interests, easements, or leaseholds), as opposed to the section detailing the property's physical description.",
+  "japaneseDefinition": "土地又は工作物に関する権利（担保物権、地役権、賃借権など）を特定して記録する、公的な不動産記録簿の区分。物件の物理的明細を詳述する区分とは区別される。",
+  "japaneseWordTranslation": "権利部 (けんりぶ)",
+  "legalContext": "Act concerning Immovable Property Entry Art. 20: The property record for land or a structure shall be comprised of a Record of Description Section and a Record of Rights Section.",
+  "japaneseLegalContext": "不動産に関する記録に関する法律第20条: 土地又は工作物の記録は、表題部及び権利部をもって編成する。",
+  "exampleSentence": "The lawyer examined the Record of Rights Section to confirm the prioritization of the existing mortgage and any secondary security interests.",
+  "exampleTranslation": "弁護士は、既存の抵当権と二次的な担保物権の優先順位を確認するために、権利部を調査した。",
   "vocabularyList": [
     {
-      "word": "Corporate action",
-      "translation": "会社行為"
+      "word": "Official property record",
+      "translation": "公的不動産記録簿 (こうてきふどうさんきろくぼ)"
     },
     {
-      "word": "Outstanding shares",
-      "translation": "発行済株式"
+      "word": "Easement",
+      "translation": "地役権 (ちえきけん)"
     },
     {
-      "word": "Value per share",
-      "translation": "一株あたりの価値"
+      "word": "Security interests",
+      "translation": "担保物権 (たんぽぶっけん)"
     },
     {
-      "word": "Market liquidity",
-      "translation": "市場流動性"
+      "word": "Physical description",
+      "translation": "物理的明細 (ぶつりてきめいさい)"
     },
     {
-      "word": "Retail investors",
-      "translation": "個人投資家"
+      "word": "Prioritization",
+      "translation": "優先順位 (ゆうせんじゅんい)"
     },
     {
-      "word": "Effective next month",
-      "translation": "来月を効力発生日とする"
-    },
-    {
-      "word": "Procedures",
-      "translation": "手続"
+      "word": "Secondary",
+      "translation": "二次的な (にじてきな)"
     }
   ]
 }

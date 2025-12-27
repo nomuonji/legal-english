@@ -5376,5 +5376,43 @@
         "translation": "目的物"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exoneration of Obligation by Deposit",
+    "definition": "The legal consequence whereby an obligor is discharged from their obligation (extinguishment of the debt) when the subject matter of performance is validly deposited with the competent deposit office due to legal grounds, typically the obligee's refusal to accept tender or uncertainty regarding the obligee's identity.",
+    "japaneseDefinition": "債務者が弁済の目的物を供託所に供託することにより、その債務が消滅する法的効果。受領拒否や債権者不確知などの法定の供託原因がある場合に認められる。",
+    "japaneseWordTranslation": "供託による債務の消滅 (きょうたくによるさいむのしょうめつ)",
+    "legalContext": "Civil Code Art. 494: If the obligor deposits the subject matter of performance, the obligation shall be extinguished. The same shall apply if the obligor deposits the proceeds of sale or other property in lieu of performance.",
+    "japaneseLegalContext": "民法第494条: 債務者が弁済の目的物を供託したときは、その債務は消滅する。その債務の目的でない物を供託したときも、同様とする。",
+    "exampleSentence": "Upon verifying the obligee's refusal to receive payment, the debtor proceeded with the deposit, achieving immediate *exoneration of obligation by deposit*.",
+    "exampleTranslation": "債権者が弁済の受領を拒否したことを確認した後、債務者は供託手続きを進め、直ちに供託による債務の消滅を実現した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "subject matter of performance",
+        "translation": "弁済の目的物"
+      },
+      {
+        "word": "deposit office",
+        "translation": "供託所"
+      },
+      {
+        "word": "refusal to receive",
+        "translation": "受領拒否"
+      },
+      {
+        "word": "uncertainty regarding the obligee",
+        "translation": "債権者不確知"
+      }
+    ]
   }
 ]

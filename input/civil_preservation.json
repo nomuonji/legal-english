@@ -6914,5 +6914,81 @@
         "translation": "命じる (めいじる)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statement by Third Party Obligor",
+    "definition": "A formal declaration submitted by a party (the third party obligor) who is indebted to the preservation debtor, detailing the existence, amount, and payment status of the debt, following the issuance of a preservation measure against that claim.",
+    "japaneseDefinition": "差押えの対象となった債権の第三債務者（債務者の債務者）が、その債権の有無や支払意思の有無等について裁判所に提出する陳述書。",
+    "japaneseWordTranslation": "第三債務者の陳述 (だいさんさいむしゃのちんじゅつ)",
+    "legalContext": "Civil Preservation Law Art. 51, applied mutatis mutandis to the Civil Execution Law Art. 157 (Obligor's Duty to State Facts).",
+    "japaneseLegalContext": "民事保全法第51条（民事執行法第157条の準用）",
+    "exampleSentence": "Upon receipt of the order, the bank, acting as the Third Party Obligor, submitted a Statement by Third Party Obligor confirming the balance of the debtor's account.",
+    "exampleTranslation": "命令を受領した後、銀行は第三債務者として行動し、債務者の口座残高を確認する第三債務者の陳述書を提出した。",
+    "vocabularyList": [
+      {
+        "word": "Third Party Obligor",
+        "translation": "第三債務者"
+      },
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者"
+      },
+      {
+        "word": "indebted",
+        "translation": "債務を負う"
+      },
+      {
+        "word": "existence of the debt",
+        "translation": "債権の有無"
+      },
+      {
+        "word": "formal declaration",
+        "translation": "正式な陳述"
+      },
+      {
+        "word": "account balance",
+        "translation": "口座残高"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Order of Preservation Cancellation",
+    "definition": "A formal judicial ruling dissolving a preservation measure, such as a provisional attachment or injunction, typically issued when the obligee fails to initiate the substantive proceedings within the prescribed legal period, or if the circumstances justifying the preservation have changed.",
+    "japaneseDefinition": "保全債権者が定められた期間内に本案の訴えを提起しない場合、または保全の理由が消滅した場合などに、裁判所が発する保全処置を取り消す決定。",
+    "japaneseWordTranslation": "保全命令の取消決定 (ほぜんめいれいのとりけしけってい)",
+    "legalContext": "Civil Preservation Law Art. 38 (Revocation due to Change of Circumstances) and Art. 43 (Revocation due to Failure to Initiate Substantive Proceedings).",
+    "japaneseLegalContext": "民事保全法第38条（事情変更による保全命令の取消し）及び第43条（本案の不提起による保全命令の取消し）",
+    "exampleSentence": "The defendant successfully obtained a Judicial Order of Preservation Cancellation after demonstrating that the plaintiff had failed to initiate the substantive proceedings within the statutory period.",
+    "exampleTranslation": "原告が法定期間内に本案の手続きを開始しなかったことを証明した結果、被告は保全命令の取消決定を勝ち取った。",
+    "vocabularyList": [
+      {
+        "word": "dissolving",
+        "translation": "解消する"
+      },
+      {
+        "word": "substantive proceedings",
+        "translation": "本案の手続き"
+      },
+      {
+        "word": "prescribed legal period",
+        "translation": "定められた法定期間"
+      },
+      {
+        "word": "revocation",
+        "translation": "取消し"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "change of circumstances",
+        "translation": "事情変更"
+      }
+    ]
   }
 ]

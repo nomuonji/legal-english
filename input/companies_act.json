@@ -6948,5 +6948,123 @@
         "translation": "取締役の責任"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Shareholders' Written Consent",
+    "definition": "A procedural mechanism under the Companies Act allowing a resolution of the general meeting to be deemed passed, provided all shareholders consent in writing or via electronic record, thereby bypassing the requirement for an actual meeting.",
+    "japaneseDefinition": "株主総会の目的事項につき、株主の全員が書面または電磁的記録により同意の意思表示をした場合に、当該提案を決議があったものとみなす制度。",
+    "japaneseWordTranslation": "書面による株主の同意 (しょめんによるかぶぬしのどうい)",
+    "legalContext": "Companies Act Art. 319 (1): If all shareholders indicate consent in writing or via electronic method to a proposal concerning the purpose of the general meeting of shareholders...",
+    "japaneseLegalContext": "会社法第319条第1項：株主総会の目的事項について、株主の全員が書面又は電磁的記録により同意の意思表示をしたときは...",
+    "exampleSentence": "The company utilized the shareholders' written consent procedure to expedite the adoption of the organizational change plan, given the unanimous agreement among the members.",
+    "exampleTranslation": "会社は、メンバー全員の満場一致の同意があったため、組織変更計画の採択を迅速に進めるために、株主の書面による同意手続きを利用した。",
+    "vocabularyList": [
+      {
+        "word": "procedural mechanism",
+        "translation": "手続的仕組み"
+      },
+      {
+        "word": "deemed passed",
+        "translation": "可決されたものとみなされる"
+      },
+      {
+        "word": "electronic record",
+        "translation": "電磁的記録"
+      },
+      {
+        "word": "bypassing the requirement",
+        "translation": "要件を省略する"
+      },
+      {
+        "word": "expedite the adoption",
+        "translation": "採択を迅速に進める"
+      },
+      {
+        "word": "unanimous agreement",
+        "translation": "満場一致の同意"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Apparent Director",
+    "definition": "A person who, through their consent, allows the company to indicate them externally as a director (or executive officer), and is therefore held liable to third parties who dealt with the company in reliance on that representation, even without formal appointment.",
+    "japaneseDefinition": "取締役等でないにもかかわらず、その者の許諾により会社が取締役等であると表示した場合に、それを信頼して取引した第三者に対して会社と共に責任を負う者。",
+    "japaneseWordTranslation": "表見取締役 (ひょうけんとりしまりやく)",
+    "legalContext": "Companies Act Art. 354: A person who has allowed their indication as a director in the corporate records or documents, shall assume the same liability to a third party as if they were a director.",
+    "japaneseLegalContext": "会社法第354条：会社が取締役として選任していない者を、取締役であると誤認させるような表示をすることを許諾した者は、第三者に対して取締役と同一の責任を負う。",
+    "exampleSentence": "The plaintiff sued the apparent director under Article 354 of the Companies Act, arguing reliance on the misleading public registry entry when entering the contract.",
+    "exampleTranslation": "原告は、契約締結時に誤解を招く登記簿の記載に依拠したと主張し、会社法第354条に基づき表見取締役を提訴した。",
+    "vocabularyList": [
+      {
+        "word": "consent",
+        "translation": "許諾"
+      },
+      {
+        "word": "indicated externally",
+        "translation": "外部に表示された"
+      },
+      {
+        "word": "held liable",
+        "translation": "責任を負わされる"
+      },
+      {
+        "word": "reliance on that representation",
+        "translation": "その表示への信頼"
+      },
+      {
+        "word": "assume the same liability",
+        "translation": "同一の責任を負う"
+      },
+      {
+        "word": "misleading public registry entry",
+        "translation": "誤解を招く公開された登記記録"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Total Number of Issued Shares",
+    "definition": "The aggregate count of shares that a stock company has actually released to investors, distinguishing this figure from the total number of shares the company is authorized to issue according to its articles of incorporation.",
+    "japaneseDefinition": "株式会社が実際に投資家に対して発行した株式の総数であり、定款で定められた発行可能株式総数とは区別される会社の資本構成の基本となる数字。",
+    "japaneseWordTranslation": "発行済株式総数 (はっこうずみかぶしきそうすう)",
+    "legalContext": "Companies Act Art. 461 (2) (i): The total number of issued shares is crucial for calculating the limit on the distribution amount of surplus, thereby protecting corporate financial integrity.",
+    "japaneseLegalContext": "会社法第461条第2項第1号：発行済株式総数は、会社の財産保全を図るための剰余金の分配可能額の算定において重要となる。",
+    "exampleSentence": "Prior to implementing the stock consolidation, the company had to accurately verify the total number of issued shares recorded in the shareholder registry.",
+    "exampleTranslation": "株式併合を実施する前に、会社は株主名簿に記録されている発行済株式総数を正確に確認しなければならなかった。",
+    "vocabularyList": [
+      {
+        "word": "aggregate count",
+        "translation": "総数"
+      },
+      {
+        "word": "released to investors",
+        "translation": "投資家に対して発行された"
+      },
+      {
+        "word": "authorized to issue",
+        "translation": "発行を授権されている"
+      },
+      {
+        "word": "articles of incorporation",
+        "translation": "定款"
+      },
+      {
+        "word": "financial integrity",
+        "translation": "財務の健全性"
+      },
+      {
+        "word": "shareholder registry",
+        "translation": "株主名簿"
+      },
+      {
+        "word": "stock consolidation",
+        "translation": "株式併合"
+      }
+    ]
   }
 ]

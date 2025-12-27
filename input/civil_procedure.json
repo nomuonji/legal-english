@@ -7320,5 +7320,115 @@
         "translation": "実行する (じっこうする)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Intensive Examination Date",
+    "definition": "A specific hearing date designated by the court following the issue arrangement procedure, dedicated to the concentrated and efficient examination of evidence and contested facts (sometimes referred to as the集中審理期日 or 集中的な審理).",
+    "japaneseDefinition": "争点整理手続の終了後に、裁判所が指定する、証拠調べや争点の整理後の確認を集中的に行うための口頭弁論期日。訴訟の効率化を目的とする。",
+    "japaneseWordTranslation": "集中審理期日 (しゅうちゅうしんりきじつ)",
+    "legalContext": "Code of Civil Procedure (CCP) Art. 177: The court may designate dates for intensive examination following the preparatory proceedings.",
+    "japaneseLegalContext": "民事訴訟法第177条: 裁判所は、弁論準備手続等の終了後、口頭弁論の期日において、争点及び証拠の整理の結果を確認し、その後の審理の計画を定めることができる。",
+    "exampleSentence": "Following the preparatory proceedings, the court designated an Intensive Examination Date to confirm the arrangement of issues and focus on the examination of the key witness.",
+    "exampleTranslation": "準備手続の後、裁判所は争点整理の結果を確認し、重要証人の尋問に集中するため、集中審理期日を指定した。",
+    "vocabularyList": [
+      {
+        "word": "preparatory proceedings",
+        "translation": "準備手続 (じゅんびてつづき)"
+      },
+      {
+        "word": "arrangement of issues",
+        "translation": "争点整理 (そうてんせいり)"
+      },
+      {
+        "word": "focus on",
+        "translation": "集中する (しゅうちゅうする)"
+      },
+      {
+        "word": "examination of the witness",
+        "translation": "証人尋問 (しょうにんじんもん)"
+      },
+      {
+        "word": "designated",
+        "translation": "指定した (していした)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Fact Pleading",
+    "definition": "The fundamental procedural rule, particularly in the initial filing of a lawsuit, requiring the parties to assert the specific material facts necessary to support their claim or defense, as opposed to merely asserting legal conclusions.",
+    "japaneseDefinition": "当事者が、訴訟の係属を求めたり、自己に有利な判決を得たりするために、その請求または防御を構成する具体的な主要事実を明確に裁判所に開示しなければならないという原則。",
+    "japaneseWordTranslation": "事実摘示主義 (じじつてきししゅぎ)",
+    "legalContext": "CCP Art. 133, Paragraph 2: A statement of claim must contain the facts necessary to specify the claim.",
+    "japaneseLegalContext": "民事訴訟法第133条第2項: 訴状には、請求を特定するのに必要な事実を記載しなければならない。",
+    "exampleSentence": "Under the Principle of Fact Pleading, the plaintiff must assert the material facts establishing the formation of the contract, not merely the legal conclusion of its existence.",
+    "exampleTranslation": "事実摘示主義の下では、原告は契約成立の法的結論だけではなく、その成立を裏付ける主要事実を主張しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "plaintiff",
+        "translation": "原告 (げんこく)"
+      },
+      {
+        "word": "assert",
+        "translation": "主張する (しゅちょうする)"
+      },
+      {
+        "word": "material facts",
+        "translation": "主要事実 (しゅようじじつ)"
+      },
+      {
+        "word": "formation of the contract",
+        "translation": "契約の成立 (けいやくのせいりつ)"
+      },
+      {
+        "word": "legal conclusion",
+        "translation": "法的結論 (ほうてきけつろん)"
+      },
+      {
+        "word": "statement of claim",
+        "translation": "訴状 (そじょう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Dispositive Part",
+    "definition": "The formal, concluding sentence or paragraph of a judgment (or other judicial decision) that explicitly states the outcome of the lawsuit (e.g., dismissing the claim, ordering payment, or granting a formative relief). It is typically followed by the grounds (reasons) for the decision.",
+    "japaneseDefinition": "判決書において、訴えの請求に対する裁判所の最終的な判断（「被告は原告に〇〇円を支払え」など）を簡潔に宣言する部分。後に理由が続く。",
+    "japaneseWordTranslation": "主文 (しゅぶん)",
+    "legalContext": "CCP Art. 253: A judgment shall contain the dispositive part and the grounds, and the presiding judge must sign and seal it.",
+    "japaneseLegalContext": "民事訴訟法第253条: 判決は、主文及び理由を記載し、裁判長がこれに記名押印しなければならない。",
+    "exampleSentence": "When issuing the judgment, the court read aloud the Dispositive Part, which clearly stated the obligation of the defendant to pay damages to the plaintiff.",
+    "exampleTranslation": "判決を言い渡す際、裁判所は、被告が原告に損害金を支払う義務を明確に示した主文を朗読した。",
+    "vocabularyList": [
+      {
+        "word": "judgment",
+        "translation": "判決 (はんけつ)"
+      },
+      {
+        "word": "read aloud",
+        "translation": "朗読した (ろうどくした)"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告 (ひこく)"
+      },
+      {
+        "word": "obligation",
+        "translation": "義務 (ぎむ)"
+      },
+      {
+        "word": "grounds",
+        "translation": "理由 (りゆう)"
+      },
+      {
+        "word": "presiding judge",
+        "translation": "裁判長 (さいばんちょう)"
+      }
+    ]
   }
 ]

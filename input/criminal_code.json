@@ -2,48 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Preparatory Act",
-    "definition": "Actions taken towards the commission of a crime that precede the attempt phase (the commencement of the execution of the crime); these acts are sometimes specifically criminalized for very serious offenses such as arson, kidnapping, or insurrection.",
-    "japaneseDefinition": "犯罪の実行に着手する前の段階において、その実行を容易にするために行われる行為。放火罪や誘拐罪など、重大な犯罪について特に処罰規定が設けられている場合がある。",
-    "japaneseWordTranslation": "予備 (よび)",
-    "legalContext": "Criminal Code, Art. 201 (Preparatory Act for Arson in Public Places): 'A person who commits a preparatory act for a crime prescribed in the preceding Article shall be punished...' (Specific punishment for preparatory acts of serious crimes).",
-    "japaneseLegalContext": "刑法 第201条 (現住建造物等放火の予備): 「前条の罪の予備をした者は、罰する。」",
-    "exampleSentence": "Although the planned bombing was never executed, the acquisition of explosives and detonators resulted in the charging of the defendant solely for the **preparatory act**.",
-    "exampleTranslation": "計画された爆破は実行されなかったが、爆発物と起爆装置の入手により、被告人は**予備**行為のみで起訴された。",
-    "vocabularyList": [
-      {
-        "word": "acquisition",
-        "translation": "取得"
-      },
-      {
-        "word": "explosives",
-        "translation": "爆発物"
-      },
-      {
-        "word": "detonators",
-        "translation": "起爆装置"
-      },
-      {
-        "word": "executed",
-        "translation": "実行された"
-      },
-      {
-        "word": "charging",
-        "translation": "起訴"
-      },
-      {
-        "word": "solely",
-        "translation": "もっぱら／のみ"
-      },
-      {
-        "word": "insurrection",
-        "translation": "内乱"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Causality",
     "definition": "The necessary link between the defendant's conduct (act) and the resulting criminal consequence (harm). In result-based crimes, the prosecution must establish a causal relationship beyond a reasonable doubt.",
     "japaneseDefinition": "行為と結果との間に存在する原因・結果の関係。結果犯において構成要件該当性を判断する上で不可欠な要素。",
@@ -7050,6 +7008,112 @@
       {
         "word": "charged with",
         "translation": "〜で起訴される"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Aggravating Circumstance",
+    "definition": "A factor or condition related to the commission of a wrong or the offender's background that warrants a more severe judgment or sentence within the legally prescribed range.",
+    "japaneseDefinition": "犯罪の成立後、量刑を定める際に刑罰を加重すべきであると判断される事情。",
+    "japaneseWordTranslation": "加重事由 (かじゅうじゆう)",
+    "legalContext": "Criminal Code (Keihō), General Principles on Sentencing (e.g., Art. 66: Recidivism being a statutory ground for increased penalty).",
+    "japaneseLegalContext": "刑法 総則（例：第66条 常習として刑を加重する法定の事由など）",
+    "exampleSentence": "The court considered the premeditation and the vulnerability of the victim as critical aggravating circumstances during the sentencing phase.",
+    "exampleTranslation": "裁判所は、判決宣告の段階で、計画性と被害者の脆弱性を重要な加重事由と見なした。",
+    "vocabularyList": [
+      {
+        "word": "premeditation",
+        "translation": "計画性"
+      },
+      {
+        "word": "vulnerability",
+        "translation": "脆弱性"
+      },
+      {
+        "word": "sentencing phase",
+        "translation": "量刑段階"
+      },
+      {
+        "word": "severity",
+        "translation": "厳重さ"
+      },
+      {
+        "word": "judgment",
+        "translation": "判決"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Grounds Precluding Culpability",
+    "definition": "Legal conditions or facts (such as insanity or extreme youth) that, although an act may satisfy the objective elements of a crime and be unlawful, eliminate the offender's ability to be held criminally responsible.",
+    "japaneseDefinition": "行為が構成要件に該当し、違法性を有する場合であっても、行為者の刑事責任を排除する法律上の原因（例：責任能力の欠如など）。",
+    "japaneseWordTranslation": "責任阻却事由 (せきにんそきゃくじゆう)",
+    "legalContext": "Criminal Code (Keihō) Art. 39: A person who, at the time of the act, was in a state of insanity is not criminally liable.",
+    "japaneseLegalContext": "刑法第39条：心神喪失の行為は、罰しない。",
+    "exampleSentence": "The defense argued that the defendant's severe intellectual disability constituted grounds precluding culpability, requiring a finding of not guilty by reason of irresponsibility.",
+    "exampleTranslation": "弁護側は、被告人の重度の知的障害が責任阻却事由に該当し、無責任による無罪の認定が必要であると主張した。",
+    "vocabularyList": [
+      {
+        "word": "insanity",
+        "translation": "心神喪失"
+      },
+      {
+        "word": "intellectual disability",
+        "translation": "知的障害"
+      },
+      {
+        "word": "unlawful",
+        "translation": "違法な"
+      },
+      {
+        "word": "criminally responsible",
+        "translation": "刑事責任を負う"
+      },
+      {
+        "word": "irresponsibility",
+        "translation": "無責任"
+      },
+      {
+        "word": "defense",
+        "translation": "弁護"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Concurrent Sentencing Rule",
+    "definition": "The statutory framework used to calculate the maximum duration of confinement or the total amount of a pecuniary penalty when an offender is to be sentenced for two or more unrelated offenses.",
+    "japaneseDefinition": "一人の行為者が複数の独立した罪を犯した場合に、科されるべき刑罰の期間（自由刑）または金額（財産刑）の最大限度を算定するための法的な枠組み。",
+    "japaneseWordTranslation": "併合罪の処理規定 (へいごうざいのしょりきてい)",
+    "legalContext": "Criminal Code (Keihō) Art. 47: The longest term for an imprisonment with labor shall not exceed the total of the respective terms plus one-half, provided that it does not exceed 30 years.",
+    "japaneseLegalContext": "刑法第47条：有期の懲役は、各罪について定めた期間の合計に二分の一を加えたものを超えない範囲で、30年を超えることはできない。",
+    "exampleSentence": "Under the Concurrent Sentencing Rule, the maximum aggregate term for multiple offenses is capped to prevent disproportionately long sentences.",
+    "exampleTranslation": "併合罪の処理規定に基づき、複数の罪に対する最大限度の合計期間は、不当に長い刑を避けるために制限される。",
+    "vocabularyList": [
+      {
+        "word": "pecuniary penalty",
+        "translation": "財産刑"
+      },
+      {
+        "word": "aggregate term",
+        "translation": "合計期間"
+      },
+      {
+        "word": "unrelated offenses",
+        "translation": "独立した罪"
+      },
+      {
+        "word": "statutory framework",
+        "translation": "法定の枠組み"
+      },
+      {
+        "word": "imprisonment with labor",
+        "translation": "有期懲役"
       }
     ]
   }

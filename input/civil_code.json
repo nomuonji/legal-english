@@ -7812,5 +7812,111 @@
         "translation": "譲渡"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Attribution (of Rights)",
+    "definition": "The legal determination of the party or legal subject to whom a specific right, obligation, or legal status belongs.",
+    "japaneseDefinition": "ある権利、義務、または法的地位が、法的に誰に帰属し、誰がその主体となるかを定めること。",
+    "japaneseWordTranslation": "帰属 (きぞく)",
+    "legalContext": "A fundamental principle in property and contract law, determining the identity of the holder of legal interests following a transaction or event. (Civil Code General Provisions)",
+    "japaneseLegalContext": "物権法や債権法における基本原則であり、取引や事象の結果として法的な利益の保有者が誰であるかを定める。",
+    "exampleSentence": "The main issue in the property dispute was the attribution of the water rights after the corporate restructuring.",
+    "exampleTranslation": "その財産紛争における主要な論点は、企業再編後の水利権の帰属であった。",
+    "vocabularyList": [
+      {
+        "word": "property dispute",
+        "translation": "財産紛争 (ざいさんふんそう)"
+      },
+      {
+        "word": "legal subject",
+        "translation": "法的主体 (ほうてきしゅたい)"
+      },
+      {
+        "word": "corporate restructuring",
+        "translation": "企業再編 (きぎょうさいへん)"
+      },
+      {
+        "word": "water rights",
+        "translation": "水利権 (すいりけん)"
+      },
+      {
+        "word": "legal status",
+        "translation": "法的地位 (ほうてきちい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Pre-contractual Negligence (Culpa in Contrahendo)",
+    "definition": "Liability arising when a party causes harm to the other party through carelessness during the negotiation phase, even if the final contract was never concluded.",
+    "japaneseDefinition": "契約締結の準備・交渉段階において、当事者の一方が他方に不注意により損害を与えた場合に生じる責任。",
+    "japaneseWordTranslation": "締結上の過失 (ていけつじょうのかしつ)",
+    "legalContext": "A doctrine developed by case law under the Civil Code (Arts. 1 and 709), requiring reparations for harm caused by a breach of the duty of sincerity during contract preparation.",
+    "japaneseLegalContext": "民法（1条および709条）および判例法理によって確立された概念であり、契約準備段階での誠実義務違反による損害に対し賠償を要求するもの。",
+    "exampleSentence": "The court found the developer liable for pre-contractual negligence because they abruptly terminated serious negotiations without a valid reason, causing the plaintiff financial loss.",
+    "exampleTranslation": "裁判所は、開発業者が正当な理由なく真剣な交渉を突如打ち切り、原告に金銭的損失を与えたため、締結上の過失の責任があると認定した。",
+    "vocabularyList": [
+      {
+        "word": "negotiation phase",
+        "translation": "交渉段階 (こうしょうだんかい)"
+      },
+      {
+        "word": "doctrine",
+        "translation": "法理 (ほうり)"
+      },
+      {
+        "word": "reparations",
+        "translation": "賠償金 (ばいしょうきん)"
+      },
+      {
+        "word": "abruptly terminated",
+        "translation": "突如打ち切った (とつじょうちきった)"
+      },
+      {
+        "word": "duty of sincerity",
+        "translation": "誠実義務 (せいじつぎむ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Lost Profits / Loss of Future Earnings",
+    "definition": "A component of reparations quantifying the future financial gains that the injured party would have been able to acquire naturally had the harmful event not occurred.",
+    "japaneseDefinition": "加害行為がなかったならば、被害者が当然に得られたであろう将来の経済的利益を算定した損害賠償の一要素。",
+    "japaneseWordTranslation": "逸失利益 (いっしつりえき)",
+    "legalContext": "Civil Code Art. 416 states that claims for reparation include not only ordinary damage but also damages resulting from special circumstances, such as lost profits, if foreseeable.",
+    "japaneseLegalContext": "民法416条は、賠償請求は通常の損害だけでなく、予見可能であった場合に生じた特別の事情による損害（逸失利益など）も含むと規定している。",
+    "exampleSentence": "In the suit concerning the breach of the supply agreement, the plaintiff sought compensation covering both direct expenses and lost profits for the upcoming fiscal year.",
+    "exampleTranslation": "供給契約の違反に関する訴訟において、原告は直接費用と翌事業年度の逸失利益の両方をカバーする賠償を求めた。",
+    "vocabularyList": [
+      {
+        "word": "quantifying",
+        "translation": "算定する (さんていする)"
+      },
+      {
+        "word": "injuring party",
+        "translation": "被害者 (ひがいしゃ)"
+      },
+      {
+        "word": "breach",
+        "translation": "違反 (いはん)"
+      },
+      {
+        "word": "supply agreement",
+        "translation": "供給契約 (きょうきゅうけいやく)"
+      },
+      {
+        "word": "fiscal year",
+        "translation": "事業年度 (じぎょうねんど)"
+      },
+      {
+        "word": "foreseeable",
+        "translation": "予見可能 (よけんかのう)"
+      }
+    ]
   }
 ]

@@ -1,34 +1,42 @@
 {
-  "category": "Judicial Scrivener Act (司法書士法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Association Dues",
-  "definition": "The mandatory fees that a judicial scrivener must pay to the Judicial Scrivener Association of which they are a member, as stipulated by the association's articles, to maintain their qualification to practice.",
-  "japaneseDefinition": "司法書士が、その所属する司法書士会の会員資格を維持し、業務を継続するために、会則の定めるところにより納付しなければならない費用。",
-  "japaneseWordTranslation": "会費 (かいひ)",
-  "legalContext": "Judicial Scrivener Act Art. 62: A member of a Judicial Scrivener Association shall pay the association dues and other burdens as provided by the articles of the association.",
-  "japaneseLegalContext": "司法書士法第62条: 司法書士会の会員は、会則の定めるところにより、会費その他の負担金を納付しなければならない。",
-  "exampleSentence": "Failure to remit the requisite Association Dues may result in disciplinary action or suspension of practice rights.",
-  "exampleTranslation": "要求される会費の送金不履行は、懲戒処分または業務権の停止につながる可能性がある。",
+  "word": "Preparatory Act",
+  "definition": "Actions taken towards the commission of a crime that precede the attempt phase (the commencement of the execution of the crime); these acts are sometimes specifically criminalized for very serious offenses such as arson, kidnapping, or insurrection.",
+  "japaneseDefinition": "犯罪の実行に着手する前の段階において、その実行を容易にするために行われる行為。放火罪や誘拐罪など、重大な犯罪について特に処罰規定が設けられている場合がある。",
+  "japaneseWordTranslation": "予備 (よび)",
+  "legalContext": "Criminal Code, Art. 201 (Preparatory Act for Arson in Public Places): 'A person who commits a preparatory act for a crime prescribed in the preceding Article shall be punished...' (Specific punishment for preparatory acts of serious crimes).",
+  "japaneseLegalContext": "刑法 第201条 (現住建造物等放火の予備): 「前条の罪の予備をした者は、罰する。」",
+  "exampleSentence": "Although the planned bombing was never executed, the acquisition of explosives and detonators resulted in the charging of the defendant solely for the **preparatory act**.",
+  "exampleTranslation": "計画された爆破は実行されなかったが、爆発物と起爆装置の入手により、被告人は**予備**行為のみで起訴された。",
   "vocabularyList": [
     {
-      "word": "remit",
-      "translation": "送金する"
+      "word": "acquisition",
+      "translation": "取得"
     },
     {
-      "word": "requisite",
-      "translation": "要求される"
+      "word": "explosives",
+      "translation": "爆発物"
     },
     {
-      "word": "burdens",
-      "translation": "負担金"
+      "word": "detonators",
+      "translation": "起爆装置"
     },
     {
-      "word": "stipulated",
-      "translation": "定められた"
+      "word": "executed",
+      "translation": "実行された"
     },
     {
-      "word": "articles",
-      "translation": "会則"
+      "word": "charging",
+      "translation": "起訴"
+    },
+    {
+      "word": "solely",
+      "translation": "もっぱら／のみ"
+    },
+    {
+      "word": "insurrection",
+      "translation": "内乱"
     }
   ]
 }

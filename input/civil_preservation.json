@@ -6800,5 +6800,119 @@
         "translation": "非金銭債権 (ひきんせんさいけん)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Motion for Provisional Attachment Order",
+    "definition": "The formal application made by a creditor (preservation obligee) to the preservation court, requesting a provisional seizure of the debtor's assets to secure a future monetary claim.",
+    "japaneseDefinition": "金銭債権を保全するために、債権者（保全債権者）が債務者の特定の財産に対する仮の差押えを命じるよう裁判所に申し立てる手続き。",
+    "japaneseWordTranslation": "仮差押命令申立て (かりさしおさえめいれいもうしたて)",
+    "legalContext": "Civil Preservation Act, Art. 12: A motion for a preservation order shall state the claim to be preserved and the grounds for preservation.",
+    "japaneseLegalContext": "民事保全法第12条: 保全命令の申立ては、被保全権利及び保全の必要性を明らかにしなければならない。",
+    "exampleSentence": "The obligee filed a Motion for Provisional Attachment Order against the debtor's commercial bank account due to the risk of asset dissipation.",
+    "exampleTranslation": "債権者は、財産散逸のおそれがあるため、債務者の普通預金口座に対して仮差押命令申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "Obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "Debtor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "Monetary claim",
+        "translation": "金銭債権 (きんせんさいけん)"
+      },
+      {
+        "word": "Asset dissipation",
+        "translation": "財産散逸 (ざいさんさんいつ)"
+      },
+      {
+        "word": "Preservation court",
+        "translation": "保全裁判所 (ほぜんさいばんしょ)"
+      },
+      {
+        "word": "Seizure",
+        "translation": "差押え (さしおさえ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit for Substitution",
+    "definition": "A procedure allowing the debtor to substitute the property provisionally attached by depositing money or securities of equivalent value, thereby discharging the attachment on the original property.",
+    "japaneseDefinition": "仮差押えの目的物である財産の代わりに、債務者が裁判所の定める額の金銭や有価証券を供託し、元の財産の差押えを解除させる手続き。",
+    "japaneseWordTranslation": "差替供託 (さしかえきょうたく)",
+    "legalContext": "Civil Preservation Act, Art. 20: The provisions concerning the Deposit for Substitution in compulsory execution against movables shall apply mutatis mutandis to the Provisional Attachment.",
+    "japaneseLegalContext": "民事保全法第20条: 動産執行における差替供託に関する規定は、仮差押えについて準用する。",
+    "exampleSentence": "The company utilized the Deposit for Substitution mechanism to release its essential manufacturing equipment from provisional attachment and maintain operations.",
+    "exampleTranslation": "その会社は、不可欠な製造設備を仮差押えから解除するために差替供託の制度を利用し、操業を維持した。",
+    "vocabularyList": [
+      {
+        "word": "Attached property",
+        "translation": "差押え財産 (さしおさえざいさん)"
+      },
+      {
+        "word": "Equivalent value",
+        "translation": "同等の価値 (どうとうのかち)"
+      },
+      {
+        "word": "Discharge",
+        "translation": "解除 (かいじょ)"
+      },
+      {
+        "word": "Securities",
+        "translation": "有価証券 (ゆうかしょうけん)"
+      },
+      {
+        "word": "Mutatis mutandis",
+        "translation": "準用する (じゅんようする)"
+      },
+      {
+        "word": "Compulsory execution",
+        "translation": "強制執行 (きょうせいしっこう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Injunction Securing Provisional Status",
+    "definition": "A provisional disposition order (Kari-Shobun) granted to secure a non-monetary claim by mandating a temporary relationship or performance, designed to prevent significant harm or imminent danger to the obligee until the main trial is concluded.",
+    "japaneseDefinition": "非金銭債権を保全するために、本案訴訟の終結までの間、債権者に生じる著しい損害又は急迫した危険を避けるために、暫定的な地位や給付を命じる仮処分。",
+    "japaneseWordTranslation": "仮の地位を定める仮処分 (かりのちいをさだめるかりしょぶん)",
+    "legalContext": "Civil Preservation Act, Art. 23(2): A Provisional Disposition may also be executed to determine a provisional status concerning the relationship of rights if there is an urgent need to avoid serious harm.",
+    "japaneseLegalContext": "民事保全法第23条第2項: 争いがある権利関係について、債権者に生じる著しい損害又は急迫の危険を避けるために必要があるときは、仮の地位を定める仮処分をすることができる。",
+    "exampleSentence": "The court issued an Injunction Securing Provisional Status, mandating the return of the leased assets temporarily until the litigation regarding ownership was resolved.",
+    "exampleTranslation": "裁判所は、所有権に関する訴訟が解決するまで、賃貸資産の一時的な返還を命じる仮の地位を定める仮処分を発令した。",
+    "vocabularyList": [
+      {
+        "word": "Non-monetary claim",
+        "translation": "非金銭債権 (ひきんせんさいけん)"
+      },
+      {
+        "word": "Provisional disposition",
+        "translation": "仮処分 (かりしょぶん)"
+      },
+      {
+        "word": "Temporary relationship",
+        "translation": "暫定的な地位 (ざんていてきなちい)"
+      },
+      {
+        "word": "Main trial",
+        "translation": "本案訴訟 (ほんあんそしょう)"
+      },
+      {
+        "word": "Imminent danger",
+        "translation": "急迫した危険 (きゅうはくしたきけん)"
+      },
+      {
+        "word": "Mandating",
+        "translation": "命じる (めいじる)"
+      }
+    ]
   }
 ]

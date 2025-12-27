@@ -6646,5 +6646,81 @@
         "translation": "取締役会の決議"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deemed Dissolution Registration due to Inactivity (Ex Officio)",
+    "definition": "The official registration of a company's dissolution performed by the registrar, based on the statutory presumption that the company is inactive, usually triggered by a failure to file any required registration for a long statutory period (e.g., 12 years for stock companies).",
+    "japaneseDefinition": "長期間（株式会社で12年、それ以外で10年）一切の登記申請がなされていない会社を休眠会社とみなし、登記官が職権によって行う解散の登記。",
+    "japaneseWordTranslation": "休眠会社のみなし解散の登記 (きゅうみんかいしゃ の みなし かいさん の とうき)",
+    "legalContext": "Commercial Registration Act Art. 72 and Companies Act Art. 472 set the requirements for the registrar to proceed with the ex officio deletion of an inactive company.",
+    "japaneseLegalContext": "商業登記法第72条、会社法第472条：休眠会社に関する登記官の職権による解散登記の規定。",
+    "exampleSentence": "Since the stock company failed to submit the required renewal registration for 12 consecutive years, the registrar processed the **Deemed Dissolution Registration due to Inactivity (Ex Officio)** after providing public notice.",
+    "exampleTranslation": "その株式会社は12年間連続して必要な更新登記を提出しなかったため、登記官は公告を行った後、職権による休眠会社のみなし解散の登記を処理した。",
+    "vocabularyList": [
+      {
+        "word": "stock company",
+        "translation": "株式会社 (kabushiki kaisha)"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官 (tōki-kan)"
+      },
+      {
+        "word": "ex officio",
+        "translation": "職権による (shokken ni yoru)"
+      },
+      {
+        "word": "public notice",
+        "translation": "公告 (kōkoku)"
+      },
+      {
+        "word": "statutory presumption",
+        "translation": "法定の推定 (hōtei no suitei)"
+      },
+      {
+        "word": "consecutive years",
+        "translation": "連続した年 (renzoku shita toshi)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Non-Compliance with Registration Period",
+    "definition": "The legal consequence, usually an administrative monetary penalty (*karyō*), imposed upon directors, auditors, or liquidators for failing to perform a mandatory commercial registration (such as officer changes or relocation of the head office) within the legally stipulated time limit.",
+    "japaneseDefinition": "会社法及び商業登記法により義務付けられた期間内に、役員等が登記の申請義務を怠った場合に負う責任。具体的には裁判所により過料（行政罰）が科される。",
+    "japaneseWordTranslation": "登記懈怠責任 (とうき けたい せきにん)",
+    "legalContext": "Companies Act Art. 976 imposes an administrative fine (*karyō*) on directors or auditors for failure to register within the required statutory period.",
+    "japaneseLegalContext": "会社法第976条：役員等が登記すべき事項の登記を怠った場合の過料についての規定。",
+    "exampleSentence": "The former director was ordered by the court to pay a monetary penalty due to his **liability for non-compliance with the registration period** for the change of the company's purpose.",
+    "exampleTranslation": "元取締役は、会社の目的変更の登記期間を遵守しなかったことによる登記懈怠責任のため、裁判所から過料の支払いを命じられた。",
+    "vocabularyList": [
+      {
+        "word": "mandatory registration",
+        "translation": "義務付けられた登記 (gimuzuke rareta tōki)"
+      },
+      {
+        "word": "liquidators",
+        "translation": "清算人 (seisan-nin)"
+      },
+      {
+        "word": "monetary penalty",
+        "translation": "金銭罰 (kinsen batsu)"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定の期間 (hōtei no kikan)"
+      },
+      {
+        "word": "company's purpose",
+        "translation": "会社の目的 (kaisha no mokuteki)"
+      },
+      {
+        "word": "incurring liability",
+        "translation": "責任を負うこと (sekinin o ou koto)"
+      }
+    ]
   }
 ]

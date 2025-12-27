@@ -6938,5 +6938,119 @@
         "translation": "少年犯罪者"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Habitual Offender",
+    "definition": "A person who commits a second specified offense within a certain period after the completion of the execution or remission of a prior sentence of imprisonment, necessitating the aggravation of the penalty.",
+    "japaneseDefinition": "懲役の刑の執行を終わり、又はその執行の免除を得た者が、その執行を終わった日又はその免除を得た日から五年以内に、更に罪を犯し、懲役に処すべき場合における当該犯人。",
+    "japaneseWordTranslation": "累犯 (Ruihan)",
+    "legalContext": "Japanese Penal Code (Criminal Code) Art. 56 (Requirements for Recidivism) and Art. 57 (Mandatory Aggravation of Penalty).",
+    "japaneseLegalContext": "刑法第56条（累犯の要件）及び第57条（刑の加重）",
+    "exampleSentence": "The court found the defendant to be a habitual offender due to his previous conviction for robbery, resulting in the mandatory aggravation of his current sentence.",
+    "exampleTranslation": "裁判所は、被告人が以前の強盗罪での有罪判決により累犯であると認定し、その結果、今回の刑罰が必ず加重されることとなった。",
+    "vocabularyList": [
+      {
+        "word": "recidivism",
+        "translation": "累犯"
+      },
+      {
+        "word": "aggravation of penalty",
+        "translation": "刑の加重"
+      },
+      {
+        "word": "execution of sentence",
+        "translation": "刑の執行"
+      },
+      {
+        "word": "prior conviction",
+        "translation": "前科"
+      },
+      {
+        "word": "specified offense",
+        "translation": "特定の罪"
+      },
+      {
+        "word": "remission",
+        "translation": "免除"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Subsequent Act",
+    "definition": "An act committed immediately following the completion of a primary criminal offense, which is deemed non-punishable because its harm is absorbed into the completed primary offense, thus preventing double jeopardy or inappropriate separate punishment (e.g., consumption or use of stolen goods by the thief).",
+    "japaneseDefinition": "主要な犯罪行為が完了した直後に行われる行為であって、その法益侵害が主要な犯罪に既に包含されているため、別に処罰されない行為。",
+    "japaneseWordTranslation": "事後行為 (Jigo Kōi)",
+    "legalContext": "A doctrinal concept related to the Unlawfulness (違法性) of an act and the scope of Real Concurrence of Offenses (実質的数罪), often used in relation to Article 256 of the Penal Code.",
+    "japaneseLegalContext": "行為の違法性及び実質的数罪の範囲に関する学説上の概念（通常、刑法第256条との関連で論じられる）。",
+    "exampleSentence": "The thief's subsequent act of selling the stolen jewelry was generally considered absorbed by the initial larceny offense and not prosecuted separately as a crime of receiving stolen goods.",
+    "exampleTranslation": "その窃盗犯による盗品宝石の売却という事後行為は、通常、当初の窃盗罪に吸収されるものとみなされ、盗品等関与罪として別途訴追されることはなかった。",
+    "vocabularyList": [
+      {
+        "word": "primary criminal offense",
+        "translation": "主要な犯罪"
+      },
+      {
+        "word": "absorbed",
+        "translation": "吸収される"
+      },
+      {
+        "word": "larceny offense",
+        "translation": "窃盗罪"
+      },
+      {
+        "word": "double jeopardy",
+        "translation": "二重処罰の禁止"
+      },
+      {
+        "word": "prosecuted separately",
+        "translation": "別途訴追される"
+      },
+      {
+        "word": "receiving stolen goods",
+        "translation": "盗品等関与"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Electronic Computer Used Fraud",
+    "definition": "The act of causing the acquisition of property or unjust property interest, or causing loss of property, by providing false information or illicit commands to an electronic computer processing data related to property transactions, thereby fraudulently obtaining financial benefit without deceiving a natural person.",
+    "japaneseDefinition": "他人の事務処理に使用する電子計算機に虚偽の情報若しくは不正な指令を与えて、財産権の得喪又は変更に係る不実の電磁的記録を作り、財産上の利益を得る犯罪。",
+    "japaneseWordTranslation": "電子計算機使用詐欺罪 (Denshi keisanki shiyō sagi zai)",
+    "legalContext": "Japanese Penal Code (Criminal Code) Art. 246-2 (Crimes of Fraud by Use of Electronic Computers). This crime addresses automated fraud where the conventional element of 'deception of a person' is absent.",
+    "japaneseLegalContext": "刑法第246条の2（電子計算機使用詐欺罪）。この犯罪は、従来の「人を欺く」という要素がない自動化された詐欺行為に対処する。",
+    "exampleSentence": "The defendant was charged with electronic computer used fraud for illegally manipulating bank ATM systems to transfer funds into their personal account.",
+    "exampleTranslation": "被告人は、銀行のATMシステムを不正に操作し、自分の個人口座に資金を振り込ませたとして、電子計算機使用詐欺罪で起訴された。",
+    "vocabularyList": [
+      {
+        "word": "manipulating",
+        "translation": "不正に操作する"
+      },
+      {
+        "word": "transfer funds",
+        "translation": "資金を振り込む"
+      },
+      {
+        "word": "false information",
+        "translation": "虚偽の情報"
+      },
+      {
+        "word": "property interest",
+        "translation": "財産上の利益"
+      },
+      {
+        "word": "processing data",
+        "translation": "データを処理する"
+      },
+      {
+        "word": "charged with",
+        "translation": "〜で起訴される"
+      }
+    ]
   }
 ]

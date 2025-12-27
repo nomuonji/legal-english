@@ -1,38 +1,34 @@
 {
-  "category": "Real Property Registration (不動産登記法)",
+  "category": "Judicial Scrivener Act (司法書士法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Record of Rights Section",
-  "definition": "The distinct portion of the official property record that specifies the rights relating to the land or structure (such as security interests, easements, or leaseholds), as opposed to the section detailing the property's physical description.",
-  "japaneseDefinition": "土地又は工作物に関する権利（担保物権、地役権、賃借権など）を特定して記録する、公的な不動産記録簿の区分。物件の物理的明細を詳述する区分とは区別される。",
-  "japaneseWordTranslation": "権利部 (けんりぶ)",
-  "legalContext": "Act concerning Immovable Property Entry Art. 20: The property record for land or a structure shall be comprised of a Record of Description Section and a Record of Rights Section.",
-  "japaneseLegalContext": "不動産に関する記録に関する法律第20条: 土地又は工作物の記録は、表題部及び権利部をもって編成する。",
-  "exampleSentence": "The lawyer examined the Record of Rights Section to confirm the prioritization of the existing mortgage and any secondary security interests.",
-  "exampleTranslation": "弁護士は、既存の抵当権と二次的な担保物権の優先順位を確認するために、権利部を調査した。",
+  "word": "Association Dues",
+  "definition": "The mandatory fees that a judicial scrivener must pay to the Judicial Scrivener Association of which they are a member, as stipulated by the association's articles, to maintain their qualification to practice.",
+  "japaneseDefinition": "司法書士が、その所属する司法書士会の会員資格を維持し、業務を継続するために、会則の定めるところにより納付しなければならない費用。",
+  "japaneseWordTranslation": "会費 (かいひ)",
+  "legalContext": "Judicial Scrivener Act Art. 62: A member of a Judicial Scrivener Association shall pay the association dues and other burdens as provided by the articles of the association.",
+  "japaneseLegalContext": "司法書士法第62条: 司法書士会の会員は、会則の定めるところにより、会費その他の負担金を納付しなければならない。",
+  "exampleSentence": "Failure to remit the requisite Association Dues may result in disciplinary action or suspension of practice rights.",
+  "exampleTranslation": "要求される会費の送金不履行は、懲戒処分または業務権の停止につながる可能性がある。",
   "vocabularyList": [
     {
-      "word": "Official property record",
-      "translation": "公的不動産記録簿 (こうてきふどうさんきろくぼ)"
+      "word": "remit",
+      "translation": "送金する"
     },
     {
-      "word": "Easement",
-      "translation": "地役権 (ちえきけん)"
+      "word": "requisite",
+      "translation": "要求される"
     },
     {
-      "word": "Security interests",
-      "translation": "担保物権 (たんぽぶっけん)"
+      "word": "burdens",
+      "translation": "負担金"
     },
     {
-      "word": "Physical description",
-      "translation": "物理的明細 (ぶつりてきめいさい)"
+      "word": "stipulated",
+      "translation": "定められた"
     },
     {
-      "word": "Prioritization",
-      "translation": "優先順位 (ゆうせんじゅんい)"
-    },
-    {
-      "word": "Secondary",
-      "translation": "二次的な (にじてきな)"
+      "word": "articles",
+      "translation": "会則"
     }
   ]
 }

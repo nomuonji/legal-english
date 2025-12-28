@@ -7066,5 +7066,119 @@
         "translation": "確保"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservable Pecuniary Claim",
+    "definition": "A monetary right or claim (such as for damages or payment of a debt) which is the subject of a preservation procedure, where restriction on the debtor's assets is sought to ensure future compulsory execution.",
+    "japaneseDefinition": "将来的な強制執行を確実にするために、債務者の財産に対する制限措置が求められる、金銭の支払いを目的とした権利または請求。",
+    "japaneseWordTranslation": "保全すべき金銭債権 (ほぜんすべききんせんさいけん)",
+    "legalContext": "Civil Preservation Law Art. 20 (Requirements for Provisional Seizure): A provisional seizure may be effected only when a monetary claim is to be preserved.",
+    "japaneseLegalContext": "民事保全法第20条（仮差押えの要件）：仮差押えは、金銭の給付を目的とする債権について、強制執行をすることができなくなるおそれがあるときに限り、することができる。",
+    "exampleSentence": "The obligee filed a motion with the court to secure its preservable pecuniary claim by placing a temporary restriction on the debtor's bank accounts.",
+    "exampleTranslation": "債権者は、債務者の銀行口座に一時的な制限をかけることで、保全すべき金銭債権を確保するために裁判所に申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "Monetary right",
+        "translation": "金銭的な権利"
+      },
+      {
+        "word": "Compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "Restriction on assets",
+        "translation": "財産に対する制限"
+      },
+      {
+        "word": "Obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "Debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Preservation procedure",
+        "translation": "保全手続"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Object of Litigation Preservation",
+    "definition": "The specific item of property or right that forms the subject matter of the main lawsuit, requiring interim measures to prevent its status or condition from being altered or transferred prior to the final judgment.",
+    "japaneseDefinition": "本案訴訟の対象となっている特定の財産または権利であり、最終判決前にその地位や状態が変更されたり移転されたりするのを防ぐために、暫定的な措置が必要とされるもの。",
+    "japaneseWordTranslation": "係争物 (けいそうぶつ)",
+    "legalContext": "Civil Preservation Law Art. 23 (Dispositions concerning the object of dispute): Provisional dispositions may be effected concerning the object of dispute.",
+    "japaneseLegalContext": "民事保全法第23条（係争物に関する仮処分）：仮処分は、係争物に関する仮の地位を定めるために必要であるときに限り、することができる。",
+    "exampleSentence": "The petitioner sought an Object of Litigation Preservation order regarding the land parcel to prevent the respondent from constructing a building on it before the ownership dispute was settled.",
+    "exampleTranslation": "申立人は、所有権紛争が解決される前に、相手方がその土地に建物を建設するのを防ぐため、土地の区画に関する係争物保全命令を求めた。",
+    "vocabularyList": [
+      {
+        "word": "Interim measures",
+        "translation": "暫定措置"
+      },
+      {
+        "word": "Petitioner",
+        "translation": "申立人"
+      },
+      {
+        "word": "Respondent",
+        "translation": "相手方"
+      },
+      {
+        "word": "Land parcel",
+        "translation": "土地の区画"
+      },
+      {
+        "word": "Status or condition",
+        "translation": "地位または状態"
+      },
+      {
+        "word": "Ownership dispute",
+        "translation": "所有権紛争"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Risk of Judgment Frustration",
+    "definition": "The demonstrable likelihood that, should the preservation measure not be granted immediately, the future enforcement of a favorable judgment (execution) will become difficult or impossible due to the debtor's actions or changes in circumstances.",
+    "japaneseDefinition": "直ちに保全措置が認められなければ、債務者の行為や状況の変化により、将来の有利な判決（執行）の実現が困難または不可能になるという、立証可能な蓋然性。",
+    "japaneseWordTranslation": "判決執行の困難化の危険 (はんけつしっこうのこんなんかのきけん)",
+    "legalContext": "Civil Preservation Law Art. 13 (Grounds for Issuance): A preservation order shall be issued if there are grounds for preservation (i.e., necessity to preserve or risk of judgment frustration).",
+    "japaneseLegalContext": "民事保全法第13条（保全命令の発令）：保全命令は、保全の必要性（すなわち保全の必要性または判決執行の困難化の危険）がある場合に発令される。",
+    "exampleSentence": "The court found the Risk of Judgment Frustration to be sufficiently high, as the debtor was liquidating assets and preparing to flee the jurisdiction.",
+    "exampleTranslation": "裁判所は、債務者が資産を清算し管轄区域から逃亡する準備をしていたため、判決執行の困難化の危険が十分に高いと判断した。",
+    "vocabularyList": [
+      {
+        "word": "Demonstrable likelihood",
+        "translation": "立証可能な蓋然性"
+      },
+      {
+        "word": "Favorable judgment",
+        "translation": "有利な判決"
+      },
+      {
+        "word": "Execution",
+        "translation": "執行"
+      },
+      {
+        "word": "Judicial intervention",
+        "translation": "司法介入"
+      },
+      {
+        "word": "Debtor's actions",
+        "translation": "債務者の行為"
+      },
+      {
+        "word": "Jurisdiction",
+        "translation": "管轄区域"
+      }
+    ]
   }
 ]

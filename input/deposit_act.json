@@ -5528,5 +5528,81 @@
         "translation": "最終処分"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Application for Restoration",
+    "definition": "A formal request made by the depositor (or their successor) to the Deposit Office seeking the return of the deposited property based on statutory grounds, such as the termination or extinction of the underlying obligation.",
+    "japaneseDefinition": "供託者が法令に定める事由に基づき、供託した目的物を取り戻すために供託所に対して行う手続き。",
+    "japaneseWordTranslation": "供託物取戻しの申請 (きょうたくぶつとりもどしのしんせい)",
+    "legalContext": "Deposit Act Art. 9: A depositor may retrieve the deposit based on the grounds specified in the provisions of other laws and regulations.",
+    "japaneseLegalContext": "供託法第9条（供託物の取戻し）: 供託者は、他の法令の規定により供託物を取り戻すことができる事由があるときは、供託物を取り戻すことができる。",
+    "exampleSentence": "If the underlying grounds for the security cease to exist, the depositor must file an Application for Restoration with the designated deposit authority.",
+    "exampleTranslation": "担保の基礎となる事由が存在しなくなった場合、供託者は指定された供託機関に対して供託物取戻しの申請を行う必要がある。",
+    "vocabularyList": [
+      {
+        "word": "depositor",
+        "translation": "供託者"
+      },
+      {
+        "word": "statutory grounds",
+        "translation": "法令上の事由"
+      },
+      {
+        "word": "underlying obligation",
+        "translation": "基礎となる債務"
+      },
+      {
+        "word": "seeking the return",
+        "translation": "返還を求める"
+      },
+      {
+        "word": "cease to exist",
+        "translation": "存在しなくなる"
+      },
+      {
+        "word": "designated deposit authority",
+        "translation": "指定された供託機関"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reversion Period",
+    "definition": "The statutory time limitation during which the entitlement holder must claim the deposited property; failure to do so results in the property or funds vesting in the National Treasury.",
+    "japaneseDefinition": "供託物に対して払渡請求権を有する者が、その権利を行使できる法定の期間。この期間が経過すると、供託物は国庫に帰属する。",
+    "japaneseWordTranslation": "供託物払渡請求権の消滅時効期間 (きょうたくぶつはらいわたしせいきゅうけんのしょうめつじこうきかん)",
+    "legalContext": "Deposit Act Art. 49-10 stipulates that the right to claim disbursement of the deposit lapses after ten years from the date of deposit.",
+    "japaneseLegalContext": "供託法第49条の10（払渡請求権の消滅時効）: 払渡請求権は、供託の日から十年を経過したときは、時効によって消滅する。",
+    "exampleSentence": "The entitlement holder must exercise the right to withdrawal within the prescribed Reversion Period, or the deposit will vest in the National Treasury.",
+    "exampleTranslation": "権利者は、定められた供託物払渡請求権の消滅時効期間内に払渡権を行使しなければならず、さもなくば供託物は国庫に帰属する。",
+    "vocabularyList": [
+      {
+        "word": "entitlement holder",
+        "translation": "権利者"
+      },
+      {
+        "word": "claim disbursement",
+        "translation": "払渡しを請求する"
+      },
+      {
+        "word": "statutory time limitation",
+        "translation": "法定の期間制限"
+      },
+      {
+        "word": "vest in",
+        "translation": "帰属する"
+      },
+      {
+        "word": "National Treasury",
+        "translation": "国庫"
+      },
+      {
+        "word": "right to withdrawal",
+        "translation": "払渡権"
+      }
+    ]
   }
 ]

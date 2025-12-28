@@ -5414,5 +5414,119 @@
         "translation": "債権者不確知"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit for Discharge (of Obligation)",
+    "definition": "The act of placing the object of performance with a Deposit Office when the obligee refuses acceptance, is unable to accept, or when the obligor cannot identify the rightful obligee, resulting in the extinguishment of the obligation.",
+    "japaneseDefinition": "債権者が弁済の受領を拒否、または受領できない場合、あるいは債務者が債権者を確知できない場合に、債務者が弁済の目的物を供託所に寄託し、その債務を消滅させる行為。",
+    "japaneseWordTranslation": "弁済供託 (べんさいきょうたく)",
+    "legalContext": "Civil Code Art. 494 (Effect of Deposit): \"If the obligor deposits the object of performance pursuant to the provisions of the preceding Article, the obligation shall be extinguished.\"",
+    "japaneseLegalContext": "民法第494条 (供託の効果): 「債務者が前条の規定に従い債務の履行の目的物を供託したときは、その債権は、消滅する。」",
+    "exampleSentence": "Due to the creditor's unjustified refusal to accept payment, the debtor executed a Deposit for Discharge to avoid accruing further interest and liability for delay.",
+    "exampleTranslation": "債権者が不当に受領を拒否したため、債務者はそれ以上の利息発生および遅延責任を回避するために弁済供託を実行した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "object of performance",
+        "translation": "履行の目的物"
+      },
+      {
+        "word": "unjustified refusal",
+        "translation": "不当な拒否"
+      },
+      {
+        "word": "extinguishment",
+        "translation": "消滅"
+      },
+      {
+        "word": "accruing interest",
+        "translation": "利息の発生"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Indemnity Deposit",
+    "definition": "A legally mandated deposit of funds or securities placed by certain regulated businesses (e.g., real estate brokers, attorneys, or travel agents) with a Deposit Office to secure potential claims for damages raised by clients or consumers.",
+    "japaneseDefinition": "特定の事業を行う者に対し、法令に基づいて顧客や取引相手方に対する損害賠償請求権を担保するために、供託所に金銭または有価証券を寄託することを義務付ける制度。",
+    "japaneseWordTranslation": "営業保証金 (えいぎょうほしょうきん)",
+    "legalContext": "Deposit Act (Used in conjunction with specific laws such as Real Estate Brokerage Act, which mandates such deposits for consumer protection.)",
+    "japaneseLegalContext": "供託法（宅地建物取引業法などの個別法と併用され、消費者保護のためにこのような供託が義務付けられる。）",
+    "exampleSentence": "The newly established travel agency was required to submit a Statutory Indemnity Deposit to the competent Deposit Office before commencing its business operations.",
+    "exampleTranslation": "新規設立された旅行代理店は、業務開始前に管轄供託所に対し、法令に基づく営業保証金を提出することが義務付けられた。",
+    "vocabularyList": [
+      {
+        "word": "mandated",
+        "translation": "義務付けられた"
+      },
+      {
+        "word": "regulated businesses",
+        "translation": "規制対象事業"
+      },
+      {
+        "word": "potential claims",
+        "translation": "潜在的な請求"
+      },
+      {
+        "word": "competent Deposit Office",
+        "translation": "管轄供託所"
+      },
+      {
+        "word": "commencing operations",
+        "translation": "業務開始"
+      },
+      {
+        "word": "secure",
+        "translation": "担保する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Prescription of Deposit Claim (Reclaim Right)",
+    "definition": "The legal mechanism by which the right to reclaim deposited assets (either by the depositor or the entitlement holder) is extinguished after the passing of a specified legal period (currently 20 years for performance deposits), leading to the final disposition of the funds.",
+    "japaneseDefinition": "供託された財産を取り戻す権利（供託者または還付権利者による）が、法定の期間（弁済供託では通常20年）が経過することにより消滅し、当該財産が最終的に処分される法的仕組み。",
+    "japaneseWordTranslation": "供託物取戻請求権の時効 (きょうたくぶつとりもどしせいきゅうけんのじこう)",
+    "legalContext": "Deposit Act Art. 49-2 (Reclaim Right Prescription Period): Sets the period after which the claim for recovery is nullified if the deposit remains untouched.",
+    "japaneseLegalContext": "供託法第49条の2 (取戻請求権の消滅時効): 供託金が手つかずのままである場合に、取戻し請求権が失効する期間を定める。",
+    "exampleSentence": "If the entitled party fails to exercise the Statutory Prescription of Deposit Claim within the prescribed period, the deposit may be processed for administrative closure.",
+    "exampleTranslation": "還付の権利を有する者が所定の期間内に供託物取戻請求権の時効を行使しない場合、その供託は行政的な閉鎖手続きに付される可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "reclaim deposited assets",
+        "translation": "供託財産を取り戻す"
+      },
+      {
+        "word": "prescribed period",
+        "translation": "所定の期間"
+      },
+      {
+        "word": "entitlement holder",
+        "translation": "還付権利者"
+      },
+      {
+        "word": "extinguished",
+        "translation": "消滅した"
+      },
+      {
+        "word": "administrative closure",
+        "translation": "行政的な閉鎖"
+      },
+      {
+        "word": "final disposition",
+        "translation": "最終処分"
+      }
+    ]
   }
 ]

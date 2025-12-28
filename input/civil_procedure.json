@@ -7430,5 +7430,119 @@
         "translation": "裁判長 (さいばんちょう)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Filing an Objection to a Court Order",
+    "definition": "A formal motion submitted by a litigant seeking the court that issued a procedural ruling (other than a judgment or appealable decision) to review or reconsider that specific decision, often utilized for minor procedural matters.",
+    "japaneseDefinition": "裁判所が発した訴訟指揮に関する決定や命令に対して、その裁判所に再度の検討を求める訴訟法上の手続き。通常、即時抗告の対象とならない決定や命令に用いられる。",
+    "japaneseWordTranslation": "異議申立て (いぎ もうしたて)",
+    "legalContext": "Civil Procedure Code, general principles concerning the review of procedural decisions and rulings.",
+    "japaneseLegalContext": "民事訴訟法第119条（決定、命令の変更及び取消し）: 決定及び命令は、これをした裁判所又は裁判長が、これを取り消し、又は変更することができる。",
+    "exampleSentence": "The attorney decided on filing an objection to the court order regarding the exclusion of certain documentary evidence, asserting procedural unfairness.",
+    "exampleTranslation": "その弁護士は、特定文書証拠の却下に関する裁判所の命令に対して、手続き上の不公正を主張し、異議申立てを行うことを決定した。",
+    "vocabularyList": [
+      {
+        "word": "litigant",
+        "translation": "訴訟当事者 (そしょうとうじしゃ)"
+      },
+      {
+        "word": "procedural ruling",
+        "translation": "手続上の決定 (てつづきじょうのけってい)"
+      },
+      {
+        "word": "reconsider",
+        "translation": "再検討する (さいけんとうする)"
+      },
+      {
+        "word": "documentary evidence",
+        "translation": "文書証拠 (ぶんしょしょうこ)"
+      },
+      {
+        "word": "procedural unfairness",
+        "translation": "手続上の不公正 (てつづきじょうのふこうせい)"
+      },
+      {
+        "word": "exclusion",
+        "translation": "却下 (きゃっか)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Single Basis Doctrine",
+    "definition": "The prevailing theory in Japanese civil procedure (often synonymous with the New Cause of Action Theory) defining the scope of the matter in contention, asserting that a request for legal relief is delimited by the factual transaction (or life situation) combined with the specific entitlement asserted, regardless of how many statutes support it.",
+    "japaneseDefinition": "民事訴訟における訴訟物（審判対象）の範囲を画定する理論の一つで、原告の請求が特定の生活事実とそれに対応する一つの私法上の権利主張によって定まる、とする考え方。",
+    "japaneseWordTranslation": "一行為一訴訟物説 (いっこうい いっそしょうぶつせつ)",
+    "legalContext": "Governs the determination of the scope of judicial inquiry and the definitive effect (preclusive reach) of the final disposition (related to the identification of soshōbutsu).",
+    "japaneseLegalContext": "判例・通説（新訴訟物理論）: 請求の同一性は、単なる法条の数ではなく、主張された生活事実及びこれに対応する実体法上の権利の数によって決まる。",
+    "exampleSentence": "Under the Single Basis Doctrine, a claim for recovery based on both unjust enrichment and tortious conduct stemming from the same factual incident constitutes only one litigation object.",
+    "exampleTranslation": "一行為一訴訟物説の下では、同一の事実関係から生じた不当利得と不法行為の両方に基づく返還請求は、一つの訴訟物にしかならない。",
+    "vocabularyList": [
+      {
+        "word": "prevailing theory",
+        "translation": "通説 (つうせつ)"
+      },
+      {
+        "word": "scope of the matter in contention",
+        "translation": "審判対象の範囲 (しんぱんたいしょうのはんい)"
+      },
+      {
+        "word": "request for legal relief",
+        "translation": "請求 (せいきゅう)"
+      },
+      {
+        "word": "factual incident",
+        "translation": "事実関係 (じじつかんけい)"
+      },
+      {
+        "word": "recovery",
+        "translation": "返還/回復 (へんかん/かいふく)"
+      },
+      {
+        "word": "litigation object",
+        "translation": "訴訟物 (そしょうぶつ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Partial Judgment",
+    "definition": "A type of judicial decision where the court decides a segment of the lawsuit that is independent and severable from the remainder of the case, such as when liability is confirmed but the calculation of damages requires further proceedings.",
+    "japaneseDefinition": "訴訟の対象となっている請求の一部または当事者の一部について、他の部分から切り離して独立して裁判をするに熟したときに、それのみを判断する判決。",
+    "japaneseWordTranslation": "一部判決 (いちぶ はんけつ)",
+    "legalContext": "Civil Procedure Code Art. 243 (Severability of Judgments). Used frequently in large-scale damage suits.",
+    "japaneseLegalContext": "民事訴訟法第243条第2項: 裁判所は、請求の一部について中間判決をすることができる規定に従い、その一部が最終判決に熟した場合、一部判決をすることができる。",
+    "exampleSentence": "The court issued a partial judgment confirming the defendant’s liability for breach of contract, while deferring the assessment of the exact compensation amount for a later date.",
+    "exampleTranslation": "裁判所は、被告の契約不履行の責任を認める一部判決を下し、正確な賠償額の算定は後の期日に延期した。",
+    "vocabularyList": [
+      {
+        "word": "segment of the lawsuit",
+        "translation": "訴訟の一部 (そしょうのいちぶ)"
+      },
+      {
+        "word": "independent and severable",
+        "translation": "独立して分離可能 (どくりつしてぶんりかのう)"
+      },
+      {
+        "word": "ripe for adjudication",
+        "translation": "裁判するに熟した (さいばんするにじゅくした)"
+      },
+      {
+        "word": "breach of contract",
+        "translation": "契約不履行 (けいやくふりこう)"
+      },
+      {
+        "word": "deferring",
+        "translation": "延期する (えんきする)"
+      },
+      {
+        "word": "assessment",
+        "translation": "算定 (さんてい)"
+      }
+    ]
   }
 ]

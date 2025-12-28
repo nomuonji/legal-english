@@ -7512,5 +7512,119 @@
         "translation": "金銭への換価"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Executable Instrument",
+    "definition": "A document, such as a final judgment or an execution acceptable notarized deed, which serves as the legal basis (execution title) authorizing the commencement of compulsory execution proceedings.",
+    "japaneseDefinition": "強制執行の開始を許可する法的な根拠となる文書（執行名義）のこと。確定判決や執行受諾文言付き公正証書などがこれにあたる。",
+    "japaneseWordTranslation": "執行力のある文書 (Shikkōryoku no Aru Bunsho)",
+    "legalContext": "Civil Execution Act Art. 22: Execution titles shall be limited to the following: (i) final and binding judgment...",
+    "japaneseLegalContext": "民事執行法第22条: 執行証書は、次に掲げるものに限る。一 確定した終局判決...",
+    "exampleSentence": "The execution court will not commence compulsory execution without the submission of an authenticated copy of the judgment bearing the necessary execution writ, which constitutes the executable instrument.",
+    "exampleTranslation": "執行裁判所は、必要な執行文が付与された判決の正本（執行力のある文書を構成するもの）が提出されない限り、強制執行を開始しない。",
+    "vocabularyList": [
+      {
+        "word": "authenticated copy",
+        "translation": "正本 (Seihon)"
+      },
+      {
+        "word": "submission",
+        "translation": "提出 (Teishutsu)"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行 (Kyōsei Shikkō)"
+      },
+      {
+        "word": "final and binding judgment",
+        "translation": "確定判決 (Kakutei Hanketsu)"
+      },
+      {
+        "word": "legal basis",
+        "translation": "法的根拠 (Hōteki Konkyo)"
+      },
+      {
+        "word": "notarized deed",
+        "translation": "公正証書 (Kōsei Shōsho)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-Monetary Execution",
+    "definition": "Compulsory execution procedure carried out when the obligee’s claim is not monetary (i.e., performance for delivery, surrender of property, performance of an act, or forbearance from an act).",
+    "japaneseDefinition": "債権者の請求権が金銭債権ではない場合に行われる強制執行手続。物の引渡し、明渡し、行為の履行、または不作為（行為をしないこと）を目的とする。",
+    "japaneseWordTranslation": "非金銭執行 (Hikinzen Shikkō)",
+    "legalContext": "Civil Execution Act Part V, Chapter I: Provisions concerning non-monetary execution (e.g., execution for delivery of movables or immovables).",
+    "japaneseLegalContext": "民事執行法第五編第一章: 非金銭執行に関する規定（動産又は不動産の引渡し執行など）。",
+    "exampleSentence": "If a defendant refuses to vacate the property as ordered by the court, the obligee must seek non-monetary execution to effect the compulsory surrender of the premises.",
+    "exampleTranslation": "被告が裁判所の命令通りに物件から立ち退くことを拒否した場合、債権者は強制的な建物の明渡しを実施するために非金銭執行を申し立てる必要がある。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者 (Saikensha)"
+      },
+      {
+        "word": "surrender of property",
+        "translation": "財産の明渡し (Zaisan no Akewatashi)"
+      },
+      {
+        "word": "forbearance",
+        "translation": "不作為 (Fusakui)"
+      },
+      {
+        "word": "delivery of movables",
+        "translation": "動産の引渡し (Dōsan no Hikikoshi)"
+      },
+      {
+        "word": "premises",
+        "translation": "建物 (Tatemono)"
+      },
+      {
+        "word": "compulsory surrender",
+        "translation": "強制的明渡し (Kyōseiteki Akewatashi)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Highest Bid Offer",
+    "definition": "The legal declaration or motion by an individual in a compulsory auction to purchase the auctioned property at the highest price, conditional upon no higher acceptable bid being subsequently filed.",
+    "japaneseDefinition": "強制競売において、物件を最高の価格で買い受けたいとする意思表示または申立て。これをもって買受希望者の順位が決定される。",
+    "japaneseWordTranslation": "最高価買受申出 (Saikōka Kaiuke Mōshide)",
+    "legalContext": "Civil Execution Act Art. 62: The execution court shall grant permission for sale to the highest bid offering party, except where certain specific reasons apply.",
+    "japaneseLegalContext": "民事執行法第62条: 執行裁判所は、特定の事由がある場合を除き、最高価買受申出人に対し売却許可を決定しなければならない。",
+    "exampleSentence": "If the Highest Bid Offer is deemed invalid due to procedural errors, the execution court may immediately consider the next highest offer as the provisional purchaser.",
+    "exampleTranslation": "もし最高価買受申出が手続上の瑕疵により無効と判断された場合、執行裁判所は直ちに次に高い申出を暫定的な買受人として検討することができる。",
+    "vocabularyList": [
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売 (Kyōsei Keibai)"
+      },
+      {
+        "word": "procedural errors",
+        "translation": "手続上の瑕疵 (Tetsuzukijō no Kashi)"
+      },
+      {
+        "word": "provisional purchaser",
+        "translation": "暫定的な買受人 (Zanteiteki na Kaiuken-nin)"
+      },
+      {
+        "word": "deemed invalid",
+        "translation": "無効と判断される (Mukō to Handan sareru)"
+      },
+      {
+        "word": "consider",
+        "translation": "検討する (Kentō suru)"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所 (Shikkō Saibansho)"
+      }
+    ]
   }
 ]

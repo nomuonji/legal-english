@@ -1,42 +1,38 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Civil Preservation (民事保全法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Preparatory Act",
-  "definition": "Actions taken towards the commission of a crime that precede the attempt phase (the commencement of the execution of the crime); these acts are sometimes specifically criminalized for very serious offenses such as arson, kidnapping, or insurrection.",
-  "japaneseDefinition": "犯罪の実行に着手する前の段階において、その実行を容易にするために行われる行為。放火罪や誘拐罪など、重大な犯罪について特に処罰規定が設けられている場合がある。",
-  "japaneseWordTranslation": "予備 (よび)",
-  "legalContext": "Criminal Code, Art. 201 (Preparatory Act for Arson in Public Places): 'A person who commits a preparatory act for a crime prescribed in the preceding Article shall be punished...' (Specific punishment for preparatory acts of serious crimes).",
-  "japaneseLegalContext": "刑法 第201条 (現住建造物等放火の予備): 「前条の罪の予備をした者は、罰する。」",
-  "exampleSentence": "Although the planned bombing was never executed, the acquisition of explosives and detonators resulted in the charging of the defendant solely for the **preparatory act**.",
-  "exampleTranslation": "計画された爆破は実行されなかったが、爆発物と起爆装置の入手により、被告人は**予備**行為のみで起訴された。",
+  "word": "Preservation Obligee",
+  "definition": "The party who petitions the court under the Civil Preservation Act seeking a preservation order to safeguard their asserted claim or to establish an interim status quo pending litigation.",
+  "japaneseDefinition": "民事保全手続きにおいて、将来の権利実現を確実にするため、または係争中の権利関係について暫定的な地位を定めるために、裁判所に保全命令を申し立てる当事者。",
+  "japaneseWordTranslation": "保全債権者 (ほぜんさいけんしゃ)",
+  "legalContext": "Civil Preservation Act (民事保全法), Art. 2(1): Defines the party seeking the order.",
+  "japaneseLegalContext": "民事保全法 第2条第1項: この法律において「保全債権者」とは、保全命令の申立てをする者をいう。",
+  "exampleSentence": "The *Preservation Obligee* bears the burden of proving the underlying claim and demonstrating the urgency required for the issuance of the protective order.",
+  "exampleTranslation": "保全債権者は、基礎となる請求権を証明し、保護命令の発令に必要な緊急性を示す立証責任を負う。",
   "vocabularyList": [
     {
-      "word": "acquisition",
-      "translation": "取得"
+      "word": "bears the burden of proving",
+      "translation": "立証責任を負う"
     },
     {
-      "word": "explosives",
-      "translation": "爆発物"
+      "word": "underlying claim",
+      "translation": "基礎となる請求権"
     },
     {
-      "word": "detonators",
-      "translation": "起爆装置"
+      "word": "urgency",
+      "translation": "緊急性"
     },
     {
-      "word": "executed",
-      "translation": "実行された"
+      "word": "petition",
+      "translation": "申立て"
     },
     {
-      "word": "charging",
-      "translation": "起訴"
+      "word": "protective order",
+      "translation": "保護命令"
     },
     {
-      "word": "solely",
-      "translation": "もっぱら／のみ"
-    },
-    {
-      "word": "insurrection",
-      "translation": "内乱"
+      "word": "interim status quo",
+      "translation": "暫定的な現状維持"
     }
   ]
 }

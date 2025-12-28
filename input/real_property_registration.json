@@ -6438,5 +6438,119 @@
         "translation": "マンション維持 (まんしょんいじ)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registrar's Authority for Formal Scrutiny",
+    "definition": "The principle that the registrar, when processing a registration application, reviews only whether the submitted documents and application content meet the prescribed statutory formalities, without conducting an investigation into the substantive truth of the underlying legal transaction.",
+    "japaneseDefinition": "登記官が登記申請の審査を行うにあたり、添付情報や申請情報が法に定める形式的な要件を満たしているかのみを審査し、実体的な権利関係の真否には立ち入らないという原則に基づいた権限。",
+    "japaneseWordTranslation": "登記官の形式的審査権 (とうきかんのけいしきてきしんさけん)",
+    "legalContext": "Real Property Registration Act: Stipulates the scope of examination by the registrar, strictly limiting it to formal requirements (形式的審査主義).",
+    "japaneseLegalContext": "不動産登記法: 登記官による審査の範囲を規定し、形式的な要件に厳格に限定している (形式的審査主義)。",
+    "exampleSentence": "The application was rejected because the necessary accompanying documents were incomplete, which falls within the scope of the registrar's authority for formal scrutiny.",
+    "exampleTranslation": "添付すべき書類が不備であったため申請は却下されたが、これは登記官の形式的審査権の範囲内である。",
+    "vocabularyList": [
+      {
+        "word": "Formalities",
+        "translation": "形式的な要件"
+      },
+      {
+        "word": "Substantive truth",
+        "translation": "実体的な真実"
+      },
+      {
+        "word": "Prescribed",
+        "translation": "規定された"
+      },
+      {
+        "word": "Accompanying documents",
+        "translation": "添付書類"
+      },
+      {
+        "word": "Rejected",
+        "translation": "却下された"
+      },
+      {
+        "word": "Application content",
+        "translation": "申請内容"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Priority Determined by Filing Time",
+    "definition": "The fundamental rule establishing that the rank of proprietary rights registered in the record of rights is determined solely by the time and date when the registration application was officially received by the registry office, denoted by the reception number.",
+    "japaneseDefinition": "権利に関する登記の順位は、登記申請が登記所に受け付けられた時点（受付年月日及び受付番号）によって決定されるという原則。",
+    "japaneseWordTranslation": "受付時間による順位 (うけつけじかんによるじゅんい)",
+    "legalContext": "Real Property Registration Act Art. 5: \"The priority of registration of rights shall be determined according to the order of the registration numbers recorded in the register.\"",
+    "japaneseLegalContext": "不動産登記法第5条：「権利の登記の順位は、登記記録中の受付番号により定まる。」",
+    "exampleSentence": "Since the mortgage application was assigned an earlier reception number, it takes registration priority determined by filing time over the subsequent hypothec.",
+    "exampleTranslation": "その抵当権の申請はより早い受付番号が付与されたため、後に続く根抵当権よりも受付時間による登記の順位が優先される。",
+    "vocabularyList": [
+      {
+        "word": "Proprietary rights",
+        "translation": "権利に関する登記"
+      },
+      {
+        "word": "Rank",
+        "translation": "順位"
+      },
+      {
+        "word": "Reception number",
+        "translation": "受付番号"
+      },
+      {
+        "word": "Subsequent",
+        "translation": "後の"
+      },
+      {
+        "word": "Hypothec",
+        "translation": "根抵当権"
+      },
+      {
+        "word": "Registry office",
+        "translation": "登記所"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Change in Registered Title Holder Particulars",
+    "definition": "A type of registration required in the Record of Rights Section A or B when there is a change in the personal details of the registered title holder, such as a change of name due to marriage or a change of address following relocation.",
+    "japaneseDefinition": "登記名義人（所有者や抵当権者など）の氏名、名称、住所に変更があった際、権利部の甲区または乙区に行う必要がある登記手続き。",
+    "japaneseWordTranslation": "登記名義人表示変更登記 (とうきめいぎにんひょうじへんこうとうき)",
+    "legalContext": "Real Property Registration Act Art. 64: Concerns the procedures for the registration of changes to the registered title holder's name or address.",
+    "japaneseLegalContext": "不動産登記法第64条: 登記名義人の氏名又は住所についての変更の登記の手続に関する規定。",
+    "exampleSentence": "Upon marriage, the wife must promptly apply for the registration of change in registered title holder particulars to reflect her new surname in the land register.",
+    "exampleTranslation": "結婚に際し、妻は地籍簿に新しい姓を反映させるために、速やかに登記名義人表示変更登記を申請しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Title holder",
+        "translation": "登記名義人"
+      },
+      {
+        "word": "Particulars",
+        "translation": "表示事項（氏名・住所など）"
+      },
+      {
+        "word": "Relocation",
+        "translation": "移転"
+      },
+      {
+        "word": "Surname",
+        "translation": "姓"
+      },
+      {
+        "word": "Land register",
+        "translation": "土地登記簿"
+      },
+      {
+        "word": "Record of Rights Section A",
+        "translation": "権利部甲区"
+      }
+    ]
   }
 ]

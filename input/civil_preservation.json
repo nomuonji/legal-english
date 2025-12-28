@@ -2,44 +2,6 @@
   {
     "category": "Civil Preservation (民事保全法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Preservation Obligee",
-    "definition": "The party who petitions the court under the Civil Preservation Act seeking a preservation order to safeguard their asserted claim or to establish an interim status quo pending litigation.",
-    "japaneseDefinition": "民事保全手続きにおいて、将来の権利実現を確実にするため、または係争中の権利関係について暫定的な地位を定めるために、裁判所に保全命令を申し立てる当事者。",
-    "japaneseWordTranslation": "保全債権者 (ほぜんさいけんしゃ)",
-    "legalContext": "Civil Preservation Act (民事保全法), Art. 2(1): Defines the party seeking the order.",
-    "japaneseLegalContext": "民事保全法 第2条第1項: この法律において「保全債権者」とは、保全命令の申立てをする者をいう。",
-    "exampleSentence": "The *Preservation Obligee* bears the burden of proving the underlying claim and demonstrating the urgency required for the issuance of the protective order.",
-    "exampleTranslation": "保全債権者は、基礎となる請求権を証明し、保護命令の発令に必要な緊急性を示す立証責任を負う。",
-    "vocabularyList": [
-      {
-        "word": "bears the burden of proving",
-        "translation": "立証責任を負う"
-      },
-      {
-        "word": "underlying claim",
-        "translation": "基礎となる請求権"
-      },
-      {
-        "word": "urgency",
-        "translation": "緊急性"
-      },
-      {
-        "word": "petition",
-        "translation": "申立て"
-      },
-      {
-        "word": "protective order",
-        "translation": "保護命令"
-      },
-      {
-        "word": "interim status quo",
-        "translation": "暫定的な現状維持"
-      }
-    ]
-  },
-  {
-    "category": "Civil Preservation (民事保全法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Objection to Preservation",
     "definition": "A formal motion filed by the preservation obligor to the preservation court, seeking the revocation or modification of a preservation order on grounds such as lack of preservatory necessity or incorrectness of the underlying claim.",
     "japaneseDefinition": "保全命令が出された後、保全債務者がその命令の不当を訴え、取り消しや変更を求めて裁判所に申し立てる不服申立て手続き。",
@@ -6988,6 +6950,120 @@
       {
         "word": "change of circumstances",
         "translation": "事情変更"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Objection Suit",
+    "definition": "A formal lawsuit filed by the debtor seeking the cancellation or modification of a preservation decree (order) that has already been issued, based on the assertion that the grounds for the preservation measure did not exist or have ceased to exist.",
+    "japaneseDefinition": "保全命令が発令された後、保全債務者が、保全の必要性等の理由が存在しない、又は消滅したことを主張して、その命令の取消しまたは変更を求める訴訟手続。",
+    "japaneseWordTranslation": "保全異議の訴え (ほぜんいぎのうったえ)",
+    "legalContext": "Code of Civil Preservation, Art. 26: The debtor may file a suit for objection against the preservation decree if the claim subject to preservation did not exist or the underlying conditions justifying the action have disappeared.",
+    "japaneseLegalContext": "民事保全法第26条：保全債務者は、被保全権利が存在しないこと、又は保全の必要性等の保全すべき事由が消滅したことを理由として、保全命令に対する異議の訴えを提起することができる。",
+    "exampleSentence": "The Preservation Objection Suit provides the principal remedy for the debtor to challenge the validity and necessity of an already executed provisional measure.",
+    "exampleTranslation": "保全異議の訴えは、既に執行された保全措置の有効性と必要性を債務者が争うための主たる救済手段を提供する。",
+    "vocabularyList": [
+      {
+        "word": "decree",
+        "translation": "命令"
+      },
+      {
+        "word": "cancellation",
+        "translation": "取消し"
+      },
+      {
+        "word": "modification",
+        "translation": "変更"
+      },
+      {
+        "word": "validity",
+        "translation": "有効性"
+      },
+      {
+        "word": "remedy",
+        "translation": "救済手段"
+      },
+      {
+        "word": "provisional measure",
+        "translation": "仮の措置"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Decision Mandating Commencement of Main Action",
+    "definition": "A specific judicial ruling issued by the preservation court, upon the debtor's application, requiring the obligee who obtained the preservation decree to initiate the substantive lawsuit (main action) within a fixed statutory time frame, typically set by the judge.",
+    "japaneseDefinition": "保全裁判所が、債務者の申立てに基づき、保全命令を取得した債権者に対し、裁判官が定めた法定の期間内に、主たる訴訟（本案）を提起するよう義務付ける司法上の決定。",
+    "japaneseWordTranslation": "本案の訴えの提起を命ずる決定 (ほんなんのうったえのていきをめいずるけってい)",
+    "legalContext": "Code of Civil Preservation, Art. 37(1): If the obligee fails to commence the main suit within the set period as mandated by the decision, the court may revoke the preservation order upon a subsequent motion by the debtor.",
+    "japaneseLegalContext": "民事保全法第37条第1項：保全債権者が決定により定められた期間内に本案の訴えを提起しないときは、保全裁判所は、債務者の申立てにより、保全命令を取り消すことができる。",
+    "exampleSentence": "Following the issuance of the Decision Mandating Commencement of Main Action, the obligee must file the substantive complaint promptly to prevent the revocation of the provisional attachment.",
+    "exampleTranslation": "本案の訴えの提起を命ずる決定の発令後、債権者は仮差押の取消しを防ぐため、速やかに本訴を提起しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "judicial ruling",
+        "translation": "司法上の決定"
+      },
+      {
+        "word": "substantive lawsuit",
+        "translation": "主たる訴訟"
+      },
+      {
+        "word": "application",
+        "translation": "申立て"
+      },
+      {
+        "word": "statutory time frame",
+        "translation": "法定の期間"
+      },
+      {
+        "word": "complaint",
+        "translation": "訴状"
+      },
+      {
+        "word": "promptly",
+        "translation": "速やかに"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designation of Preservation Execution Method",
+    "definition": "The procedural determination made by the preservation court specifying the particular actions and means by which the enforcement official must carry out the preservation measure, particularly crucial for complex provisional dispositions aimed at securing temporary status.",
+    "japaneseDefinition": "保全裁判所が行う手続的な決定であり、執行官が保全措置をどのような具体的行為及び手段によって実施すべきかを定めるもの。特に一時的な地位を確保するための複雑な仮処分で重要となる。",
+    "japaneseWordTranslation": "保全執行の方法の指定 (ほぜんしっこうのほうほうのしてい)",
+    "legalContext": "Code of Civil Preservation, Art. 52(2): The preservation court determines the details of the preservation enforcement method, including necessary instructions for securing the protected right concerning the dispute object.",
+    "japaneseLegalContext": "民事保全法第52条第2項：保全裁判所は、その保全すべき権利の内容を確保するために必要な指示を含め、保全執行の方法の細目を定める。",
+    "exampleSentence": "Due to the unique nature of the intellectual property right at issue, the court provided a detailed Designation of Preservation Execution Method to the enforcement official.",
+    "exampleTranslation": "係争中の知的財産権の特殊な性質により、裁判所は執行官に対し、保全執行の方法の指定を詳細に示した。",
+    "vocabularyList": [
+      {
+        "word": "procedural determination",
+        "translation": "手続的な決定"
+      },
+      {
+        "word": "specifying",
+        "translation": "特定する"
+      },
+      {
+        "word": "particular actions",
+        "translation": "具体的行為"
+      },
+      {
+        "word": "enforcement official",
+        "translation": "執行官"
+      },
+      {
+        "word": "provisional disposition",
+        "translation": "仮の処分"
+      },
+      {
+        "word": "securing",
+        "translation": "確保"
       }
     ]
   }

@@ -7284,5 +7284,119 @@
         "translation": "道路"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preparation (of a Crime)",
+    "definition": "Acts taken before the commencement of the execution of an offense, which, for certain serious crimes (such as arson or robbery), are specifically penalized by law.",
+    "japaneseDefinition": "実行の着手以前に、犯罪を実行する意思をもって行う準備行為。特定の重大犯罪について刑法で処罰の対象となる。",
+    "japaneseWordTranslation": "予備 (よび)",
+    "legalContext": "Japanese Criminal Code, e.g., Art. 108 (Arson of Occupied Structures): Preparation and conspiracy (for the crime listed in the preceding paragraph) shall be punished.",
+    "japaneseLegalContext": "刑法第108条（現住建造物等放火）など：予備及び陰謀は、これを罰する。",
+    "exampleSentence": "The suspect was arrested for the preparation of a robbery offense after police discovered tools and detailed plans that indicated an intention to commit the crime.",
+    "exampleTranslation": "警察が犯行の意思を示す道具と詳細な計画を発見した後、容疑者は強盗罪の予備で逮捕された。",
+    "vocabularyList": [
+      {
+        "word": "suspect",
+        "translation": "容疑者"
+      },
+      {
+        "word": "offense",
+        "translation": "犯罪"
+      },
+      {
+        "word": "execution",
+        "translation": "実行"
+      },
+      {
+        "word": "conspiracy",
+        "translation": "陰謀"
+      },
+      {
+        "word": "specifically penalized",
+        "translation": "特に処罰される"
+      },
+      {
+        "word": "intention",
+        "translation": "意思"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mistake of Constituent Elements",
+    "definition": "A situation where the offender lacks recognition or is mistaken regarding the objective factual elements necessary to constitute a crime as defined by statute (actus reus). This error generally negates the specific criminal intent (dolus).",
+    "japaneseDefinition": "行為者が、構成要件に該当する客観的事実の認識を欠くこと。原則として、故意を阻却する（成立を妨げる）。",
+    "japaneseWordTranslation": "構成要件の錯誤 (こうせいようけんのさくご)",
+    "legalContext": "Criminal law principle derived from the requirement for intent (dolus) found in Criminal Code Article 38. A mistake of fact negating intent leads to liability only if punishable by negligence.",
+    "japaneseLegalContext": "刑法第38条（故意）の解釈に基づく犯罪論上の原則。故意が否定された場合、過失犯として処罰される場合に限り、責任を負う。",
+    "exampleSentence": "If the hunter fired believing the target was a deer when it was a person, this constitutes a mistake of constituent elements, negating the specific intent for homicide.",
+    "exampleTranslation": "もしその猟師が、標的が人ではなく鹿だと信じて発砲した場合、これは構成要件の錯誤にあたり、殺人罪の故意は否定される。",
+    "vocabularyList": [
+      {
+        "word": "offender",
+        "translation": "行為者"
+      },
+      {
+        "word": "recognition",
+        "translation": "認識"
+      },
+      {
+        "word": "statute",
+        "translation": "法令"
+      },
+      {
+        "word": "negating intent",
+        "translation": "故意の阻却"
+      },
+      {
+        "word": "homicide",
+        "translation": "殺人"
+      },
+      {
+        "word": "liability",
+        "translation": "責任"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Limitation on Concurrent Sentencing",
+    "definition": "A statutory rule that caps the maximum aggregate punishment (e.g., term of imprisonment or total fine amount) that can be imposed when an offender is convicted of multiple, distinct offenses (real concurrence).",
+    "japaneseDefinition": "刑法上、複数の犯罪について有罪となった場合（実質的併合罪）に科しうる自由刑や罰金の合計上限を定める規定。",
+    "japaneseWordTranslation": "併科の制限 (へいかのせいげん)",
+    "legalContext": "Criminal Code Art. 47 & 48: When several penalties of imprisonment with or without labor are to be imposed concurrently, the maximum term shall not exceed 30 years.",
+    "japaneseLegalContext": "刑法第47条、第48条（併合罪の刑の制限）：数個の懲役又は禁錮を併科する場合、その最長期は30年を超えることができない。",
+    "exampleSentence": "Despite committing six serious frauds, the defendant's total sentence was constrained by the statutory limitation on concurrent sentencing to twenty-five years.",
+    "exampleTranslation": "被告人が6件の重大な詐欺行為を犯したにもかかわらず、その総刑期は、併科の制限に関する法定の規定により25年に制限された。",
+    "vocabularyList": [
+      {
+        "word": "statutory rule",
+        "translation": "法定の規定"
+      },
+      {
+        "word": "aggregate punishment",
+        "translation": "合計の刑罰"
+      },
+      {
+        "word": "imposed",
+        "translation": "科される"
+      },
+      {
+        "word": "imprisonment with labor",
+        "translation": "懲役"
+      },
+      {
+        "word": "concurrently",
+        "translation": "併科して"
+      },
+      {
+        "word": "convicted",
+        "translation": "有罪とされた"
+      }
+    ]
   }
 ]

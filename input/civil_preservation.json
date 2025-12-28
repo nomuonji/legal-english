@@ -7180,5 +7180,119 @@
         "translation": "管轄区域"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Risk of Execution Difficulty",
+    "definition": "The essential factual prerequisite for granting a provisional remedy, indicating that the obligee's ability to achieve satisfaction of the ultimate judgment will be seriously jeopardized unless immediate interim action is taken.",
+    "japaneseDefinition": "債権者が本案の訴訟で勝訴した場合に、その後の強制執行が著しく困難になる、または実現が不可能になるおそれがあるという保全の必要性の主要な要件。",
+    "japaneseWordTranslation": "執行を困難にするおそれ (しっこうをこんなんにするおそれ)",
+    "legalContext": "Civil Preservation Act Art. 13(1): 'Provisional attachment may be ordered only where the claim for money cannot be enforced or the enforcement would be extremely difficult due to a change in the circumstances of the obligor's property, etc.'",
+    "japaneseLegalContext": "民事保全法第13条第1項: '仮差押えは、金銭の給付を目的とする債権について、強制執行をすることができなくなるおそれがあるとき、又は強制執行をするのに著しい困難を生ずるおそれがあるときに限り、これを命ずることができる。'",
+    "exampleSentence": "The court must assess the specific facts alleged by the obligee to determine whether there is a sufficient risk of execution difficulty to justify a provisional attachment.",
+    "exampleTranslation": "裁判所は、仮差押えを正当化するに足る「執行を困難にするおそれ」があるかどうかを判断するため、債権者が主張する具体的な事実を審査しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "prerequisite",
+        "translation": "要件"
+      },
+      {
+        "word": "provisional remedy",
+        "translation": "保全処分"
+      },
+      {
+        "word": "ultimate judgment",
+        "translation": "最終的な判決"
+      },
+      {
+        "word": "satisfaction of judgment",
+        "translation": "判決の満足"
+      },
+      {
+        "word": "alleged facts",
+        "translation": "主張された事実"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Action Order",
+    "definition": "A specific type of provisional disposition (injunction) where the court commands the preservation debtor to perform a positive act (a 'doing'), such as the temporary delivery of disputed property or the suspension of an ongoing activity, necessary to secure a non-monetary claim.",
+    "japaneseDefinition": "仮処分の一種で、債務者に対し、係争物の引渡しや特定の行為の差止めなど、積極的な行為（作為）を命じることにより、非金銭債権の執行を保全するもの。",
+    "japaneseWordTranslation": "作為を命ずる仮処分 (さくいをめいずるかりしょぶん)",
+    "legalContext": "Civil Preservation Act Art. 23(2): 'A provisional disposition may establish a temporary status concerning the relationship of right, particularly by ordering performance.'",
+    "japaneseLegalContext": "民事保全法第23条第2項: '仮の地位を定める仮処分は、争いがある権利関係について、現状維持の措置として、特に給付を命ずる内容とすることができる。'",
+    "exampleSentence": "The obligee sought a Mandatory Action Order commanding the debtor to cease infringement immediately, pending the outcome of the patent litigation.",
+    "exampleTranslation": "債権者は、特許訴訟の結果が出るまでの間、債務者に対し直ちに侵害行為を停止するよう命じる作為を命ずる仮処分を求めた。",
+    "vocabularyList": [
+      {
+        "word": "non-monetary claim",
+        "translation": "非金銭債権"
+      },
+      {
+        "word": "infringement",
+        "translation": "侵害"
+      },
+      {
+        "word": "positive act",
+        "translation": "作為"
+      },
+      {
+        "word": "injunction",
+        "translation": "差止め"
+      },
+      {
+        "word": "cease",
+        "translation": "停止する"
+      },
+      {
+        "word": "disputed property",
+        "translation": "係争物"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Period for Commencing Preservation Execution",
+    "definition": "The statutory time limit of two weeks from the date of service of the provisional order on the obligee, within which the obligee must physically or legally commence the enforcement procedures; failure to meet this deadline results in the automatic cancellation of the preservation order.",
+    "japaneseDefinition": "保全命令が債権者に送達された日から起算して二週間以内に、債権者が保全執行の手続きに着手しなければならないという法定の期間。この期間内に執行に着手しない場合、保全命令は効力を失う。",
+    "japaneseWordTranslation": "保全命令の執行期間 (ほぜんめいれいのしっこうきかん)",
+    "legalContext": "Civil Preservation Act Art. 43(1): 'If execution of a preservation order is not commenced within two weeks from the day on which the preservation order was served upon the obligee, the preservation order shall be revoked.'",
+    "japaneseLegalContext": "民事保全法第43条第1項: '保全命令の執行は、保全命令の正本が債権者に送達された日から二週間を経過したときは、これを取り消すものとする。'",
+    "exampleSentence": "Because the obligee neglected the Period for Commencing Preservation Execution, the provisional disposition automatically lost effect and was subsequently revoked by the preservation court.",
+    "exampleTranslation": "債権者が保全命令の執行期間を遵守しなかったため、仮処分は自動的に効力を失い、その後、保全裁判所によって取り消された。",
+    "vocabularyList": [
+      {
+        "word": "statutory time limit",
+        "translation": "法定の期間"
+      },
+      {
+        "word": "service of the order",
+        "translation": "命令の送達"
+      },
+      {
+        "word": "initiate the enforcement",
+        "translation": "執行に着手する"
+      },
+      {
+        "word": "automatically lost effect",
+        "translation": "自動的に効力を失った"
+      },
+      {
+        "word": "subsequently revoked",
+        "translation": "その後取り消された"
+      },
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分"
+      }
+    ]
   }
 ]

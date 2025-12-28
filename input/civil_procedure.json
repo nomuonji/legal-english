@@ -7582,5 +7582,119 @@
         "translation": "書面による準備手続 (shomen ni yoru junbi tetsuzuki)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Subordinate Appeal",
+    "definition": "An appeal filed by an appellee in response to the principal appeal, typically aimed at reversing or modifying unfavorable aspects of the original order or decision, provided that the principal appeal is successful.",
+    "japaneseDefinition": "主たる抗告がされた後、相手方が自己に不利益な原決定の取消しまたは変更を求めて附帯的に行う抗告。主たる抗告が取り下げられたり却下されたりした場合は、従属抗告も効力を失う。",
+    "japaneseWordTranslation": "従属抗告 (じゅうぞくこうこく)",
+    "legalContext": "Civil Procedure Code Art. 331 (Application mutatis mutandis to Kōkoku Appeal): '...the provisions concerning supplementary appeal (従属上訴) shall apply mutatis mutandis to a Kōkoku appeal.'",
+    "japaneseLegalContext": "民事訴訟法第331条（抗告への準用等）：上告に関する規定は、抗告について準用する。この場合において、従属上訴に関する規定を準用する。",
+    "exampleSentence": "The defendant filed a subordinate appeal against the non-monetary elements of the court's order, contingent upon the plaintiff's principal appeal being accepted.",
+    "exampleTranslation": "被告は、原告の主たる抗告が受け入れられることを条件として、裁判所決定の非金銭的な要素に対して従属抗告を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Principal appeal",
+        "translation": "主たる抗告"
+      },
+      {
+        "word": "Appellee",
+        "translation": "相手方"
+      },
+      {
+        "word": "Mutatis mutandis",
+        "translation": "準用する"
+      },
+      {
+        "word": "Kōkoku appeal",
+        "translation": "抗告"
+      },
+      {
+        "word": "Contingent upon",
+        "translation": "〜を条件として"
+      },
+      {
+        "word": "Non-monetary elements",
+        "translation": "非金銭的な要素"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exclusion of Intervention",
+    "definition": "A court ruling that rejects a third party’s attempt to join an ongoing lawsuit, usually because the formal requirements for intervention are not met, or because the intervention is deemed likely to cause undue delay to the proceedings.",
+    "japaneseDefinition": "第三者が訴訟に参加しようとした場合において、その参加の申立てが法的な要件を満たしていないとき、または訴訟手続を不当に遅延させると認められるときに、裁判所が参加を認めず却下すること。",
+    "japaneseWordTranslation": "参加の排除 (さんかのはいじょ)",
+    "legalContext": "Civil Procedure Code Art. 47 & 52 (Intervention by a third party for the purpose of assisting one of the parties): The court may dismiss the motion for intervention by means of a judicial decision.",
+    "japaneseLegalContext": "民事訴訟法第47条、第52条（当事者の一方を補助するため訴訟に参加）：裁判所は、決定をもって参加の申立てを却下することができる。",
+    "exampleSentence": "The court ordered the exclusion of intervention, ruling that the proposed intervenor lacked a sufficient legal interest in the subject matter of the dispute.",
+    "exampleTranslation": "裁判所は、参加を申し立てた者が紛争の主題について十分な法的利益を欠いていると判断し、参加の排除を命じた。",
+    "vocabularyList": [
+      {
+        "word": "Third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "Ongoing lawsuit",
+        "translation": "係属中の訴訟"
+      },
+      {
+        "word": "Intervention",
+        "translation": "訴訟参加"
+      },
+      {
+        "word": "Legal interest",
+        "translation": "法的利益"
+      },
+      {
+        "word": "Judicial decision",
+        "translation": "決定"
+      },
+      {
+        "word": "Subject matter of the dispute",
+        "translation": "紛争の主題"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Litigation Interruption Event",
+    "definition": "A legally stipulated circumstance (such as the death of a litigant, loss of litigation capacity, or declaration of bankruptcy) that causes the proceedings to automatically and temporarily halt, requiring a formal succession or designation of a new representative before resumption.",
+    "japaneseDefinition": "当事者の死亡、訴訟能力の喪失、または法定代理人の資格の消滅など、訴訟手続を一時的に停止させるべき法定の事由。中断期間中は時効が停止する。",
+    "japaneseWordTranslation": "訴訟中断事由 (そしょうちゅうだんじゆう)",
+    "legalContext": "Civil Procedure Code Art. 124 (Grounds for Interruption): 'Litigation proceedings shall be interrupted in the case where a party dies.'",
+    "japaneseLegalContext": "民事訴訟法第124条（中断の事由）：当事者が死亡したときは、訴訟手続は中断する。",
+    "exampleSentence": "Upon the demise of the original defendant, the court notified the parties that a litigation interruption event had occurred, pending succession by the presumptive heir.",
+    "exampleTranslation": "元の被告の死亡を受け、裁判所は、推定相続人による承継がなされるまで、訴訟中断事由が発生したことを当事者に通知した。",
+    "vocabularyList": [
+      {
+        "word": "Litigant",
+        "translation": "当事者"
+      },
+      {
+        "word": "Loss of capacity",
+        "translation": "能力の喪失"
+      },
+      {
+        "word": "Automatically halt",
+        "translation": "当然に中断する"
+      },
+      {
+        "word": "Resumption",
+        "translation": "受継"
+      },
+      {
+        "word": "Succession",
+        "translation": "承継"
+      },
+      {
+        "word": "Presumptive heir",
+        "translation": "推定相続人"
+      }
+    ]
   }
 ]

@@ -7184,5 +7184,107 @@
         "translation": "会社分割"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Company with a Board of Company Auditors",
+    "definition": "A stock company governance structure required to establish a board composed of three or more statutory auditors, the majority of whom must be Outside Auditors. This structure is mandatory for certain large companies.",
+    "japaneseDefinition": "会社法上の機関設計の一つで、３名以上の監査役（その過半数が社外監査役である必要がある）で構成される監査役会を置く株式会社。",
+    "japaneseWordTranslation": "監査役会設置会社 (かんさやくかいせっちがいしゃ)",
+    "legalContext": "Companies Act Art. 2 (x) (Definition), Art. 335 (Composition of Board of Company Auditors).",
+    "japaneseLegalContext": "会社法第２条第10号（定義）、第335条（監査役会の構成等）",
+    "exampleSentence": "Unless it adopts a different governance model, a Large Company must be constituted as a Company with a Board of Company Auditors.",
+    "exampleTranslation": "他の機関モデルを採用しない限り、大会社は監査役会設置会社として構成されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "statutory auditor",
+        "translation": "監査役 (かんさやく)"
+      },
+      {
+        "word": "Outside Auditor",
+        "translation": "社外監査役 (しゃがいかんさやく)"
+      },
+      {
+        "word": "governance model",
+        "translation": "機関設計 (きかんせっけい)"
+      },
+      {
+        "word": "Large Company",
+        "translation": "大会社 (おおかぶしきがいしゃ)"
+      },
+      {
+        "word": "composition",
+        "translation": "構成 (こうせい)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restriction on Share Transfer",
+    "definition": "A provision in the Articles of Incorporation stipulating that the acquisition of shares from a shareholder requires the approval of the company (e.g., the Board of Directors or a General Meeting of Shareholders).",
+    "japaneseDefinition": "会社の定款に定める、株式の譲渡を会社の承認にかからしめる旨の規定。この規定を持つ会社を非公開会社という。",
+    "japaneseWordTranslation": "株式譲渡制限 (かぶしきじょうとせいげん)",
+    "legalContext": "Companies Act Art. 2 (v) (Definition of shares with restriction on transfer), Art. 137 (Request for approval for share transfer).",
+    "japaneseLegalContext": "会社法第２条第５号（譲渡制限株式の定義）、第137条（譲渡等承認の請求）",
+    "exampleSentence": "The company's Articles of Incorporation includes a Restriction on Share Transfer, meaning it is classified as a non-public company.",
+    "exampleTranslation": "当該会社の定款には株式譲渡制限の規定が含まれており、非公開会社に分類される。",
+    "vocabularyList": [
+      {
+        "word": "Articles of Incorporation",
+        "translation": "定款 (ていかん)"
+      },
+      {
+        "word": "non-public company",
+        "translation": "非公開会社 (ひこうかいがいしゃ)"
+      },
+      {
+        "word": "approval",
+        "translation": "承認 (しょうにん)"
+      },
+      {
+        "word": "acquisition of shares",
+        "translation": "株式の取得 (かぶしきのしゅとく)"
+      },
+      {
+        "word": "provision",
+        "translation": "規定 (きてい)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Apparent Representative Director",
+    "definition": "A person who is allowed by the company to use a designation that misleads a third party into believing they are the Representative Director, resulting in the company being held liable to bona fide third parties for their actions.",
+    "japaneseDefinition": "会社が代表取締役でない者に代表取締役であると誤認させるような名称の使用を許諾した場合に、その者を代表取締役であると信じた善意の第三者に対して会社が負う責任の原因となる者。",
+    "japaneseWordTranslation": "表見代表取締役 (ひょうけんだいひょうとりしまりやく)",
+    "legalContext": "Companies Act Art. 9 (Liability for misleading designation), which applies mutatis mutandis to the Representative Director's status.",
+    "japaneseLegalContext": "会社法第９条（誤認させる名称等の使用についての責任）",
+    "exampleSentence": "Even though he was not officially appointed, the Apparent Representative Director's contracts were binding on the company because the counterparty was a bona fide third party.",
+    "exampleTranslation": "彼は正式に選任されていなかったが、取引相手が善意の第三者であったため、表見代表取締役による契約は会社を拘束した。",
+    "vocabularyList": [
+      {
+        "word": "misleading designation",
+        "translation": "誤認させる名称 (ごにんさせるめいしょう)"
+      },
+      {
+        "word": "liability",
+        "translation": "責任 (せきにん)"
+      },
+      {
+        "word": "bona fide third party",
+        "translation": "善意の第三者 (ぜんいのだいさんしゃ)"
+      },
+      {
+        "word": "Representative Director",
+        "translation": "代表取締役 (だいひょうとりしまりやく)"
+      },
+      {
+        "word": "binding on the company",
+        "translation": "会社を拘束する (かいしゃをこうそくする)"
+      }
+    ]
   }
 ]

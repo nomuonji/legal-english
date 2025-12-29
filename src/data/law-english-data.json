@@ -1,34 +1,42 @@
 {
-  "category": "Constitution (憲法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Sovereignty of the People",
-  "definition": "The fundamental constitutional principle that the ultimate political authority resides in the people, from whom all government authority is derived and by whom it is exercised.",
-  "japaneseDefinition": "統治権が国民に存するという、日本国憲法の根幹をなす基本原理。",
-  "japaneseWordTranslation": "国民主権 (こくみんしゅけん)",
-  "legalContext": "Constitution of Japan, Preamble: '...and solemnly proclaim that **sovereign power resides in the people** and that all government authority emanates from the people...'",
-  "japaneseLegalContext": "日本国憲法 前文: 「…ここに主権が国民に存することを宣言し、この憲法を確定する。そもそも国政は、国民の厳粛な信託によるものであって…」",
-  "exampleSentence": "The Constitution of Japan establishes the Emperor as the symbol of the State, deriving his position entirely from the will of the citizens, in adherence to the principle of the **Sovereignty of the People**.",
-  "exampleTranslation": "日本国憲法は、国民主権の原則に従い、天皇の地位を、国民の意思のみに基づく国の象徴として定めている。",
+  "word": "Causality",
+  "definition": "The necessary link between the defendant's conduct (act) and the resulting criminal consequence (harm). In result-based crimes, the prosecution must establish a causal relationship beyond a reasonable doubt.",
+  "japaneseDefinition": "行為と結果との間に存在する原因・結果の関係。結果犯において構成要件該当性を判断する上で不可欠な要素。",
+  "japaneseWordTranslation": "因果関係 (いんがかんけい)",
+  "legalContext": "Principle of Causation (A foundational principle required for establishing the elements of result-based offenses, such as injury or damage to property).",
+  "japaneseLegalContext": "結果犯における構成要件要素",
+  "exampleSentence": "The court found that the prosecution failed to establish sufficient causality between the accused’s negligent driving and the victim's ultimate death from subsequent hospital-acquired infection.",
+  "exampleTranslation": "裁判所は、被告人の過失運転と、被害者がその後の院内感染で最終的に死亡したこととの間に十分な因果関係が立証されていないと判断した。",
   "vocabularyList": [
     {
-      "word": "ultimate political authority",
-      "translation": "最終的な政治的権威"
+      "word": "prosecution",
+      "translation": "検察（側）"
     },
     {
-      "word": "derive from",
-      "translation": "～に由来する"
+      "word": "result-based crimes",
+      "translation": "結果犯"
     },
     {
-      "word": "symbol of the State",
-      "translation": "国の象徴"
+      "word": "negligent driving",
+      "translation": "過失運転"
     },
     {
-      "word": "fundamental constitutional principle",
-      "translation": "憲法の基本原理"
+      "word": "hospital-acquired infection",
+      "translation": "院内感染"
     },
     {
-      "word": "in adherence to",
-      "translation": "～に従って"
+      "word": "beyond a reasonable doubt",
+      "translation": "合理的な疑いを超えて"
+    },
+    {
+      "word": "elements of the crime",
+      "translation": "構成要件"
+    },
+    {
+      "word": "ultimate death",
+      "translation": "最終的な死亡"
     }
   ]
 }

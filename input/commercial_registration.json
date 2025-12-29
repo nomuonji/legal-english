@@ -6912,5 +6912,107 @@
         "translation": "認証 (ninshō)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prerequisite for Corporate Existence",
+    "definition": "The legal principle that the establishment of a stock company, and its resulting independent legal status, is not effective until its incorporation details are formally recorded in the commercial register.",
+    "japaneseDefinition": "株式会社など、法人の設立が、その本店の所在地における設立登記によって初めて効力を生じるという原則。",
+    "japaneseWordTranslation": "法人成立の効力要件 (ほうじんせいりつのこうりょくようけん)",
+    "legalContext": "Company Act, Article 49 (Effectuation of Incorporation): A stock company shall come into existence upon the registration of its incorporation at the location of its head office.",
+    "japaneseLegalContext": "会社法第49条（設立の効力の発生等）：株式会社は、その本店の所在地において設立の登記をすることによって成立する。",
+    "exampleSentence": "The filing of the incorporation documents is only a preliminary step; the acquisition of the prerequisite for corporate existence occurs only upon successful registration.",
+    "exampleTranslation": "設立書類の提出は予備的な段階に過ぎず、法人成立の効力要件の取得は、登録が成功した時点で初めて生じる。",
+    "vocabularyList": [
+      {
+        "word": "stock company",
+        "translation": "株式会社 (kabushiki kaisha)"
+      },
+      {
+        "word": "incorporation",
+        "translation": "設立 (setsuritsu)"
+      },
+      {
+        "word": "head office",
+        "translation": "本店 (honten)"
+      },
+      {
+        "word": "acquisition",
+        "translation": "取得 (shutoku)"
+      },
+      {
+        "word": "preliminary step",
+        "translation": "予備的な段階 (yobiteki na dankai)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certified Statement of Entry",
+    "definition": "An official, authenticated document issued by the registry office detailing the specific facts concerning a company or business that are recorded in the commercial register (e.g., trade name, address, directors' names, or stated capital).",
+    "japaneseDefinition": "商業登記簿に記録されている事項（商号、所在地、役員の氏名等）について、登記所が発行する、その内容を証明する公的な書面。",
+    "japaneseWordTranslation": "登記記載事項証明 (とうききさいじこうしょうめい)",
+    "legalContext": "Commercial Registration Act, Article 10 (Issuance of Documents): A registry official shall, upon request, issue statements concerning registered matters.",
+    "japaneseLegalContext": "商業登記法第10条（証明書の交付等）：登記官は、請求により、登記記録に記録されている事項の証明書を交付しなければならない。",
+    "exampleSentence": "A bank loan application requires the submission of a recent Certified Statement of Entry to verify the representative director’s current authority and the company's capital.",
+    "exampleTranslation": "銀行融資の申請には、代表取締役の現在の権限と会社の資本金を証明するために、最新の登記記載事項証明の提出が求められる。",
+    "vocabularyList": [
+      {
+        "word": "authenticated document",
+        "translation": "公的な書面 (kōteki na shomen)"
+      },
+      {
+        "word": "registry office",
+        "translation": "登記所 (tōkijo)"
+      },
+      {
+        "word": "verify",
+        "translation": "確認する (kakunin suru)"
+      },
+      {
+        "word": "trade name",
+        "translation": "商号 (shōgō)"
+      },
+      {
+        "word": "capital",
+        "translation": "資本金 (shihonkin)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Triggering Event",
+    "definition": "The legal or factual occurrence (such as a corporate resolution, transfer of shares, or change in the company's business purpose) that necessitates the mandatory filing of an update or new entry in the commercial register.",
+    "japaneseDefinition": "商業登記簿に記載されている事項に変更が生じた原因となる事実または法律行為（例：株主総会決議、事業譲渡、役員の異動など）。",
+    "japaneseWordTranslation": "登記事由 (とうきじゆう)",
+    "legalContext": "Commercial Registration Act Principle: Registrations are generally based on an application that must be supported by documentary evidence proving the existence of the relevant triggering event.",
+    "japaneseLegalContext": "商業登記法の原則：登記は一般的に、その根拠となる登記事由の存在を証明する添付書類を添えた申請に基づいて行われる。",
+    "exampleSentence": "The expiration of the director’s term serves as a registration triggering event, requiring the company to file a registration of reappointment or replacement within two weeks.",
+    "exampleTranslation": "取締役の任期満了は登記事由となり、会社は2週間以内に再任または交代の登記を申請する必要がある。",
+    "vocabularyList": [
+      {
+        "word": "corporate resolution",
+        "translation": "会社決議 (kaisha ketsugi)"
+      },
+      {
+        "word": "necessitates",
+        "translation": "必要とする (hitsuyō to suru)"
+      },
+      {
+        "word": "documentary evidence",
+        "translation": "添付書類 (tenpu shorui)"
+      },
+      {
+        "word": "expiration of term",
+        "translation": "任期満了 (ninki manryō)"
+      },
+      {
+        "word": "business purpose",
+        "translation": "事業目的 (jigyō mokuteki)"
+      }
+    ]
   }
 ]

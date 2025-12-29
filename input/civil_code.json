@@ -8490,5 +8490,115 @@
         "translation": "棚ユニット (たなユニット)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Natural Fruits",
+    "definition": "Products yielded from a thing in accordance with its intended use (e.g., crops, animal offspring), which are treated as separate property upon severance from the principal thing.",
+    "japaneseDefinition": "物の用法に従い収取する産出物のうち、元物から分離した時点で、収取する権利を有する者に帰属するもの。",
+    "japaneseWordTranslation": "天然果実 (てんねんかじつ)",
+    "legalContext": "Civil Code Art. 88: Natural fruits belong to the person who has the right to collect them at the time they are severed from the principal thing.",
+    "japaneseLegalContext": "民法第88条：「天然果実は、その元物から分離するときに、これを収取する権利を有する者に帰属する。」",
+    "exampleSentence": "The question of who acquires the natural fruits is determined by who holds the right to collect them when the severance occurs.",
+    "exampleTranslation": "天然果実を誰が取得するかという問題は、分離が発生した時点でそれを収取する権利を誰が有しているかによって決定される。",
+    "vocabularyList": [
+      {
+        "word": "severance",
+        "translation": "分離 (ぶんり)"
+      },
+      {
+        "word": "principal thing",
+        "translation": "元物 (もとぶつ)"
+      },
+      {
+        "word": "right to collect",
+        "translation": "収取権 (しゅうしゅくけん)"
+      },
+      {
+        "word": "yielded",
+        "translation": "産出された (さんしゅつされた)"
+      },
+      {
+        "word": "determined",
+        "translation": "決定される (けっていされる)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Offer without Time Limit",
+    "definition": "An offer made between parties not physically present (at a distance) where the offeror has not specified a definite period for acceptance. The offer lapses if acceptance is not received within a commercially reasonable time.",
+    "japaneseDefinition": "隔地者に対して行う申込みのうち、承諾期間を定めなかったもの。申込みの効力は、申込者が承諾の通知を受けるのに相当な期間を経過するまで存続する。",
+    "japaneseWordTranslation": "承諾期間の定めのない申込み (しょうだくきかんのさだめのないもうしこみ)",
+    "legalContext": "Civil Code Art. 523: An Offer Made to a Party at a Distance for Which No Period of Acceptance is Specified shall lapse if the Offeror does not receive the Notice of Acceptance within a reasonable time limit.",
+    "japaneseLegalContext": "民法第523条：「隔地者に対する承諾の期間を定めない申込みは、申込者が承諾の通知を受けるのに相当な期間を経過するまで、その効力を失わない。」",
+    "exampleSentence": "Since the offer was made without a time limit, the offeree's acceptance 10 months later was deemed outside the reasonable time and ineffective.",
+    "exampleTranslation": "その申込みには期限の定めがなかったため、10か月後の被申込者による承諾は、相当な期間を逸脱したものと見なされ、効力を生じなかった。",
+    "vocabularyList": [
+      {
+        "word": "at a distance",
+        "translation": "隔地者間 (かくちしゃかん)"
+      },
+      {
+        "word": "lapse",
+        "translation": "効力を失う (こうりょくをうしなう)"
+      },
+      {
+        "word": "reasonable time",
+        "translation": "相当な期間 (そうとうなきかん)"
+      },
+      {
+        "word": "offeree",
+        "translation": "被申込者 (ひもうしこみしゃ)"
+      },
+      {
+        "word": "ineffective",
+        "translation": "効力を生じない (こうりょくをしょうじない)"
+      },
+      {
+        "word": "notice of acceptance",
+        "translation": "承諾の通知 (しょうだくのつうち)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Guarantee Deposit",
+    "definition": "A monetary sum deposited by the lessee with the lessor as security for any future obligations arising under the lease contract, especially for covering unpaid rent or repair costs upon termination.",
+    "japaneseDefinition": "賃貸借契約に基づき、賃借人が賃貸人に対し、賃貸借上の債務を担保するために交付する金銭。 (敷金に類する性質を持つ)",
+    "japaneseWordTranslation": "保証金 (ほしょうきん)",
+    "legalContext": "Civil Code Art. 622-2 (1) (Conceptual): The function of a deposit is to serve as collateral for the lessee's obligations until the return of the leased property and settlement of accounts.",
+    "japaneseLegalContext": "民法第622条の2第1項（趣旨）：保証金（敷金）は、賃貸借に基づき生じた賃借人の金銭債務を担保する性質を持つ。",
+    "exampleSentence": "The lessor must return the guarantee deposit after deducting expenses for necessary repairs and any outstanding unpaid rent upon the lease termination.",
+    "exampleTranslation": "賃貸人は、賃貸借終了時に、必要な修繕費用および未払いの賃料を保証金から控除した残額を返還しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "lessee",
+        "translation": "賃借人 (ちんしゃくにん)"
+      },
+      {
+        "word": "lessor",
+        "translation": "賃貸人 (ちんたいにん)"
+      },
+      {
+        "word": "security",
+        "translation": "担保 (たんぽ)"
+      },
+      {
+        "word": "deducting",
+        "translation": "控除する (こうじょする)"
+      },
+      {
+        "word": "unpaid rent",
+        "translation": "未払賃料 (みばらいちんりょう)"
+      },
+      {
+        "word": "termination",
+        "translation": "終了 (しゅうりょう)"
+      }
+    ]
   }
 ]

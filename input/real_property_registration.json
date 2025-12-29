@@ -6632,5 +6632,119 @@
         "translation": "異議の申立て (いぎのもうしたて)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Identification Code (RIC)",
+    "definition": "A unique, twelve-digit alphanumeric code assigned to a title holder to verify their status and intent when they subsequently seek to register changes concerning their proprietary interest.",
+    "japaneseDefinition": "不動産に関する権利の登記名義人に対し通知される、登記申請を行う際の本人確認情報としての役割を持つ12桁の符号。",
+    "japaneseWordTranslation": "登記識別情報 (とうきしきべつじょうほう)",
+    "legalContext": "Real Property Registration Law Art. 21 (Notification, etc., of Registration Identification Code): The Registrar shall notify the applicant of the Registration Identification Code upon completion of the registration of creation or transfer of rights, except in cases prescribed by ordinance.",
+    "japaneseLegalContext": "不動産登記法 第21条 (登記識別情報の通知等): 登記官は、権利に関する登記を完了したときは、法務省令で定める場合を除き、速やかに、登記名義人となるべき者に登記識別情報を通知しなければならない。",
+    "exampleSentence": "The financial institution required the presentation of the Registration Identification Code along with the documents needed to register the creation of a proprietary interest.",
+    "exampleTranslation": "その金融機関は、権利の創設を登記するために必要な書類とともに、登記識別情報の提示を求めた。",
+    "vocabularyList": [
+      {
+        "word": "title holder",
+        "translation": "登記名義人"
+      },
+      {
+        "word": "verify",
+        "translation": "確認する"
+      },
+      {
+        "word": "proprietary interest",
+        "translation": "権利"
+      },
+      {
+        "word": "alphanumeric code",
+        "translation": "英数字の符号"
+      },
+      {
+        "word": "subsequently",
+        "translation": "その後"
+      },
+      {
+        "word": "ordinance",
+        "translation": "法務省令"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Initial Ownership Registration",
+    "definition": "The act of first recording the existence of a building's title on the register, establishing the foundational record upon which all subsequent dealings involving the building's proprietary interests are based.",
+    "japaneseDefinition": "未登記の建物について、最初にその所有者（または一部の例外的な者）を名義人として登記簿に記載すること。これにより、初めて当該建物に関する権利変動の記録が可能となる。",
+    "japaneseWordTranslation": "所有権保存登記 (しょゆうけんほぞんとうき)",
+    "legalContext": "Real Property Registration Law Art. 74 (Applicant for Initial Ownership Registration): An Initial Ownership Registration may be sought by the person who recorded the property description or their successor, or by persons proving title by final judicial determination or certificate of acceptance.",
+    "japaneseLegalContext": "不動産登記法 第74条 (所有権の保存の登記の申請): 所有権の保存の登記は、当該建物の表題部登記の所有者として記録されている者、またはその相続人その他の一般承継人が申請することができる。",
+    "exampleSentence": "Before securing the financing, the developer was required to complete the Initial Ownership Registration for the newly constructed condominium units.",
+    "exampleTranslation": "資金調達を確保する前に、その開発業者は新築マンションの区分建物について所有権保存登記を完了することが求められた。",
+    "vocabularyList": [
+      {
+        "word": "register",
+        "translation": "登記簿"
+      },
+      {
+        "word": "dealings",
+        "translation": "取引"
+      },
+      {
+        "word": "foundational record",
+        "translation": "基礎となる記録"
+      },
+      {
+        "word": "proprietor",
+        "translation": "所有者"
+      },
+      {
+        "word": "final judicial determination",
+        "translation": "確定判決"
+      },
+      {
+        "word": "successor",
+        "translation": "承継人"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Registration of Property Description",
+    "definition": "The statutory requirement imposed on the property holder to record changes related to the physical characteristics of the land or building (such as division, merger, or new construction) in the descriptive section of the register within a fixed period.",
+    "japaneseDefinition": "不動産の物理的状況（土地の地目、建物の構造や種類等）に変更が生じた場合に、その現状を登記簿の表題部に反映させるため、申請義務者が一定期間内に行うべきとされる登記。",
+    "japaneseWordTranslation": "表題登記の義務 (ひょうだいとうきのぎむ)",
+    "legalContext": "Real Property Registration Law Art. 37 (Application for Indication Registration of Buildings): A new building owner must file an application for Mandatory Registration of Property Description within one month from the date of construction completion.",
+    "japaneseLegalContext": "不動産登記法 第37条 (建物の表題登記の申請): 新たに建物を取得した者は、その取得の日から一月以内に、表題登記を申請しなければならない。",
+    "exampleSentence": "Failure to comply with the Mandatory Registration of Property Description for the newly erected warehouse subjected the property holder to administrative penalty.",
+    "exampleTranslation": "新しく建設された倉庫の表題登記の義務を怠ったため、その不動産保持者は行政上の過料に服した。",
+    "vocabularyList": [
+      {
+        "word": "statutory requirement",
+        "translation": "法令上の要件"
+      },
+      {
+        "word": "property holder",
+        "translation": "不動産保持者"
+      },
+      {
+        "word": "physical characteristics",
+        "translation": "物理的特徴"
+      },
+      {
+        "word": "descriptive section",
+        "translation": "表題部"
+      },
+      {
+        "word": "fixed period",
+        "translation": "一定期間"
+      },
+      {
+        "word": "administrative penalty",
+        "translation": "過料"
+      }
+    ]
   }
 ]

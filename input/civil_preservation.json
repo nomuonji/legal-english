@@ -7332,5 +7332,119 @@
         "translation": "申立て (mōshitate)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prima Facie Case",
+    "definition": "A standard of proof used in preservation proceedings, requiring the moving party to present evidence sufficient to convince the judge that the facts asserted are highly probable, though not requiring the stricter 'proof beyond a reasonable doubt' standard.",
+    "japaneseDefinition": "当事者が主張する事実について、裁判官に一応確からしいとの推測を抱かせる程度の立証。厳密な立証（証明）は不要とされる。",
+    "japaneseWordTranslation": "疎明 (そめい)",
+    "legalContext": "Civil Preservation Act Art. 13 (Requirement for Preservation Order issuance)",
+    "japaneseLegalContext": "民事保全法第13条 (保全命令の発令要件)",
+    "exampleSentence": "The applicant must present a strong **prima facie case** demonstrating both the existence of the claim and the urgent need for preservation.",
+    "exampleTranslation": "申立人は、請求権の存在と保全の緊急性の両方について、強い疎明を提示しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "applicant",
+        "translation": "申立人"
+      },
+      {
+        "word": "claim",
+        "translation": "請求権"
+      },
+      {
+        "word": "urgent need",
+        "translation": "緊急性"
+      },
+      {
+        "word": "standard of proof",
+        "translation": "立証の程度"
+      },
+      {
+        "word": "preservation order",
+        "translation": "保全命令"
+      },
+      {
+        "word": "asserted facts",
+        "translation": "主張された事実"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Revocation for Failure to File Underlying Action",
+    "definition": "The cancellation of a preservation measure by the preservation court when the preservation obligee, after being ordered to do so, fails to commence the action on the merits (main lawsuit) within the designated statutory period.",
+    "japaneseDefinition": "裁判所が保全債権者に対し本案の訴えの提起を命じたにもかかわらず、その期間内に訴えが提起されなかった場合に、保全命令を取り消すこと。",
+    "japaneseWordTranslation": "本案の不提起による保全取消 (ほんあんの ふていきによる ほぜん とりけし)",
+    "legalContext": "Civil Preservation Act Art. 37, Paragraph 1",
+    "japaneseLegalContext": "民事保全法第37条第1項",
+    "exampleSentence": "The preservation debtor successfully sought the **revocation for failure to file underlying action** after the claimant missed the mandatory filing period specified by the court.",
+    "exampleTranslation": "債権者が裁判所に指定された強制的な提訴期間を逃した後、保全債務者は本案の不提起による保全取消を求めることに成功した。",
+    "vocabularyList": [
+      {
+        "word": "preservation obligee",
+        "translation": "保全債権者"
+      },
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者"
+      },
+      {
+        "word": "action on the merits",
+        "translation": "本案の訴え"
+      },
+      {
+        "word": "cancellation",
+        "translation": "取消"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "commence the action",
+        "translation": "訴えを提起する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interim Performance Injunction",
+    "definition": "A provisional disposition that mandates temporary performance (or status restoration) of the object sought in the main action, typically granted only when the status quo inherently causes irreparable harm and urgent relief is necessary.",
+    "japaneseDefinition": "本案訴訟で実現すべき目的の全体または一部を暫定的に実現させることを命じる保全処分。緊急性が高く、現状維持では目的を達成できない場合に適用される。",
+    "japaneseWordTranslation": "満足的仮処分 (まんぞくてき かりしょぶん)",
+    "legalContext": "Civil Preservation Act Art. 23, Paragraph 2 (Provisional Disposition securing temporary status)",
+    "japaneseLegalContext": "民事保全法第23条第2項 (仮の地位を定める仮処分)",
+    "exampleSentence": "The court granted an **interim performance injunction** mandating the immediate return of the corporate seal and records to the legally appointed representative.",
+    "exampleTranslation": "裁判所は、法的に任命された代表者に対し会社の印鑑と記録を直ちに返却するよう命じる満足的仮処分を認めた。",
+    "vocabularyList": [
+      {
+        "word": "mandating",
+        "translation": "命じる"
+      },
+      {
+        "word": "temporary performance",
+        "translation": "仮の給付"
+      },
+      {
+        "word": "irreparable harm",
+        "translation": "回復不能な損害"
+      },
+      {
+        "word": "corporate seal",
+        "translation": "会社印鑑"
+      },
+      {
+        "word": "status quo",
+        "translation": "現状"
+      },
+      {
+        "word": "legally appointed representative",
+        "translation": "法的に任命された代表者"
+      }
+    ]
   }
 ]

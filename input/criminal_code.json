@@ -2,48 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Causality",
-    "definition": "The necessary link between the defendant's conduct (act) and the resulting criminal consequence (harm). In result-based crimes, the prosecution must establish a causal relationship beyond a reasonable doubt.",
-    "japaneseDefinition": "行為と結果との間に存在する原因・結果の関係。結果犯において構成要件該当性を判断する上で不可欠な要素。",
-    "japaneseWordTranslation": "因果関係 (いんがかんけい)",
-    "legalContext": "Principle of Causation (A foundational principle required for establishing the elements of result-based offenses, such as injury or damage to property).",
-    "japaneseLegalContext": "結果犯における構成要件要素",
-    "exampleSentence": "The court found that the prosecution failed to establish sufficient causality between the accused’s negligent driving and the victim's ultimate death from subsequent hospital-acquired infection.",
-    "exampleTranslation": "裁判所は、被告人の過失運転と、被害者がその後の院内感染で最終的に死亡したこととの間に十分な因果関係が立証されていないと判断した。",
-    "vocabularyList": [
-      {
-        "word": "prosecution",
-        "translation": "検察（側）"
-      },
-      {
-        "word": "result-based crimes",
-        "translation": "結果犯"
-      },
-      {
-        "word": "negligent driving",
-        "translation": "過失運転"
-      },
-      {
-        "word": "hospital-acquired infection",
-        "translation": "院内感染"
-      },
-      {
-        "word": "beyond a reasonable doubt",
-        "translation": "合理的な疑いを超えて"
-      },
-      {
-        "word": "elements of the crime",
-        "translation": "構成要件"
-      },
-      {
-        "word": "ultimate death",
-        "translation": "最終的な死亡"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Mistake of Law",
     "definition": "A defendant's error regarding the existence or legal effect (prohibitive nature) of a criminal law. In principle, this error does not negate criminal intent, but it may lead to a reduction or remission of punishment if unavoidable.",
     "japaneseDefinition": "行為者が、自己の行為が法的に禁止されているか否かについて認識を誤ること。原則として故意を阻却しないが、回避不可能な錯誤の場合は刑を減免しうる。",
@@ -7510,6 +7468,124 @@
       {
         "word": "completed offense",
         "translation": "既遂罪 (きすいざい)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Impossibility of Attainment",
+    "definition": "A factual situation in criminal law where the intended result cannot possibly occur because the means used or the object targeted inherently lacks the capacity to achieve the criminal aim, raising the question of whether the attempt is punishable.",
+    "japaneseDefinition": "行為の手段や対象が、結果を発生させる能力を本質的に欠いているため、犯罪が成立し得ない場合。未遂犯として処罰されるかどうかが問題となる。",
+    "japaneseWordTranslation": "不能犯 (ふのうはん)",
+    "legalContext": "Japanese Criminal Code, General Provisions concerning Uncompleted Crimes, related to determining the punishability of an attempted crime (often resulting in non-punishment when the impossibility is absolute).",
+    "japaneseLegalContext": "刑法総則、未遂犯に関する規定（実行の着手はあったが結果が発生しなかった場合の処罰可否の判断）。",
+    "exampleSentence": "The defense successfully argued that the attempt to cause grievous bodily harm using inert substances amounted to an Impossibility of Attainment, as the means employed were entirely harmless.",
+    "exampleTranslation": "不活性物質を用いて重傷を負わせようとした試みは、採用された手段が完全に無害であるため、弁護側が不能犯であることを立証し、成功した。",
+    "vocabularyList": [
+      {
+        "word": "factual situation",
+        "translation": "事実現状 (じじつげんじょう)"
+      },
+      {
+        "word": "inherently lacks capacity",
+        "translation": "本質的に能力を欠く (ほんしつてきにのうりょくをかく)"
+      },
+      {
+        "word": "criminal aim",
+        "translation": "犯罪目的 (はんざいもくてき)"
+      },
+      {
+        "word": "grievous bodily harm",
+        "translation": "重い傷害 (おもいしょうがい)"
+      },
+      {
+        "word": "inert substances",
+        "translation": "不活性物質 (ふかっせいぶっしつ)"
+      },
+      {
+        "word": "non-punishment",
+        "translation": "不処罰 (ふしょばつ)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Discretionary Reduction of Sentence",
+    "definition": "A judicial mechanism under the Criminal Code (Art. 66) that permits a court to reduce a prescribed penalty when there are significant, non-statutory extenuating circumstances related to the commission of the crime, often resulting in the penalty being reduced by one degree.",
+    "japaneseDefinition": "裁判所が、法律上の軽減事由ではないが、犯罪の情状に酌量すべき特別の事情がある場合に、法定刑を軽減すること。通常、刑を１段階引き下げる。",
+    "japaneseWordTranslation": "酌量減軽 (しゃくりょうげんけい)",
+    "legalContext": "Criminal Code Art. 66: Where there are circumstances to be taken into account in the commission of a crime, the penalty may be reduced.",
+    "japaneseLegalContext": "刑法第66条（酌量減軽）：犯罪の情状に酌量すべきものがあるときは、その刑を軽減することができる。",
+    "exampleSentence": "Given the defendant's youth and prompt admission of guilt, the presiding judge granted a Discretionary Reduction of Sentence, thereby lowering the maximum term of penal servitude.",
+    "exampleTranslation": "被告人の若さと即座の有罪答弁を考慮し、主任裁判官は酌量減軽を認め、それによって懲役刑の最長期間を引き下げた。",
+    "vocabularyList": [
+      {
+        "word": "judicial mechanism",
+        "translation": "司法制度 (しほうせいど)"
+      },
+      {
+        "word": "prescribed penalty",
+        "translation": "法定の刑 (ほうていのけい)"
+      },
+      {
+        "word": "extenuating circumstances",
+        "translation": "酌量すべき情状 (しゃくりょうすべきじょうじょう)"
+      },
+      {
+        "word": "presiding judge",
+        "translation": "裁判長 (さいばんちょう)"
+      },
+      {
+        "word": "admission of guilt",
+        "translation": "有罪答弁 (ゆうざいとうべん)"
+      },
+      {
+        "word": "penal servitude",
+        "translation": "懲役 (ちょうえき)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Intent to Unlawfully Possess",
+    "definition": "The specific subjective intent (dolus specialis) required for certain property offenses, primarily larceny and embezzlement, characterized by the will to permanently exclude the rightful owner and utilize the property as if one were the owner, for personal or third-party benefit.",
+    "japaneseDefinition": "窃盗罪や横領罪などの財産犯に要求される特定の主観的構成要件（特別の故意）であり、権利者を恒久的に排除し、自己または第三者の利益のために所有者と同様に財産を利用・処分する意思。",
+    "japaneseWordTranslation": "不法領得の意思 (ふほうりょうとくのいし)",
+    "legalContext": "Judicial precedent defines this requirement as an essential element (subjective constituent element) of offenses such as Larceny (Keihō Art. 235) and Embezzlement (Keihō Art. 252).",
+    "japaneseLegalContext": "判例により、窃盗罪（刑法第235条）や横領罪（刑法第252条）などの犯罪における必須の要素（主観的構成要件）として定義されている。",
+    "exampleSentence": "The prosecution failed to prove the Intent to Unlawfully Possess the vehicle; consequently, the charge was reduced from theft of a vehicle to the unauthorized use of transportation means.",
+    "exampleTranslation": "検察側は車両に対する不法領得の意思を立証できず、その結果、訴因は車両窃盗から乗り物不法使用罪に軽減された。",
+    "vocabularyList": [
+      {
+        "word": "subjective intent",
+        "translation": "主観的故意 (しゅかんてきこい)"
+      },
+      {
+        "word": "property offenses",
+        "translation": "財産犯 (ざいさんはん)"
+      },
+      {
+        "word": "rightful owner",
+        "translation": "正当な権利者 (せいとうなけんりしゃ)"
+      },
+      {
+        "word": "constituent element",
+        "translation": "構成要件 (こうせいようけん)"
+      },
+      {
+        "word": "unauthorized use",
+        "translation": "不法使用 (ふほうしよう)"
+      },
+      {
+        "word": "larceny",
+        "translation": "窃盗 (せっとう)"
+      },
+      {
+        "word": "embezzlement",
+        "translation": "横領 (おうりょう)"
       }
     ]
   }

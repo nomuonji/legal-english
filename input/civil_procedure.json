@@ -7798,5 +7798,81 @@
         "translation": "自発的に開示した"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Peremptory Period",
+    "definition": "A mandatory, statutory time limit for performing certain procedural acts (such as filing an appeal) which cannot be extended, shortened, or restored by the court, ensuring the swift finalization of legal proceedings.",
+    "japaneseDefinition": "法律によって定められた、その期間を伸長したり追完したりすることができない期間。訴訟手続の確定性を確保するために定められる。",
+    "japaneseWordTranslation": "不変期間 (ふへんきかん)",
+    "legalContext": "Code of Civil Procedure (Minji Soshō Hō) Art. 95 (1): Stipulates that a peremptory period cannot be extended or restored.",
+    "japaneseLegalContext": "民事訴訟法 第95条1項: 不変期間については、これを伸長し又は短縮することができない。",
+    "exampleSentence": "The filing period for a final appeal is a peremptory period, meaning the litigant loses the right to appeal if the deadline is missed, regardless of cause.",
+    "exampleTranslation": "上告の提起期間は不変期間であり、いかなる理由があっても期限を過ぎた場合、訴訟当事者は上告する権利を失う。",
+    "vocabularyList": [
+      {
+        "word": "statutory time limit",
+        "translation": "法定期間"
+      },
+      {
+        "word": "procedural acts",
+        "translation": "訴訟行為"
+      },
+      {
+        "word": "extended",
+        "translation": "伸長される"
+      },
+      {
+        "word": "restored",
+        "translation": "追完される"
+      },
+      {
+        "word": "finalization",
+        "translation": "確定"
+      },
+      {
+        "word": "lose the right",
+        "translation": "権利を失う"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restriction on Disadvantageous Modification",
+    "definition": "A fundamental principle governing appellate review, prohibiting the appellate court (Kōso-shin) from rendering a judgment less favorable to the appellant than the original judgment, provided that only the appellant filed the appeal.",
+    "japaneseDefinition": "控訴審において、控訴人（上訴人）のみが上訴を申し立てた場合、原判決より控訴人に不利益な内容の判決をすることができないという原則。",
+    "japaneseWordTranslation": "不利益変更禁止の原則 (ふりえきへんこうきんしのげんそく)",
+    "legalContext": "Code of Civil Procedure (Minji Soshō Hō) Art. 304: Prescribes the restriction on modification unfavorable to the appellant.",
+    "japaneseLegalContext": "民事訴訟法 第304条: 控訴の申立てが控訴人の利益のためになされた場合に、原判決の変更が控訴人に不利益となることができない旨を定める。",
+    "exampleSentence": "Due to the restriction on disadvantageous modification, the court of appeals could not increase the damages awarded against the defendant, who was the sole appellant.",
+    "exampleTranslation": "不利益変更禁止の原則により、唯一の控訴人であった被告に対し、控訴裁判所は原判決で認定された損害賠償額を増額することはできなかった。",
+    "vocabularyList": [
+      {
+        "word": "appellate review",
+        "translation": "上訴審理"
+      },
+      {
+        "word": "appellant",
+        "translation": "控訴人"
+      },
+      {
+        "word": "original judgment",
+        "translation": "原判決"
+      },
+      {
+        "word": "sole appellant",
+        "translation": "単独の控訴人"
+      },
+      {
+        "word": "increase the damages",
+        "translation": "損害賠償を増額する"
+      },
+      {
+        "word": "court of appeals",
+        "translation": "控訴裁判所"
+      }
+    ]
   }
 ]

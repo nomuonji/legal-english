@@ -7398,5 +7398,119 @@
         "translation": "有罪とされた"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preliminary Offense / Inchoate Crime",
+    "definition": "A preparatory offense where a person is punished for initiating preparations for a serious crime (such as arson, robbery, or murder) even before reaching the stage of commencement of execution (attempt).",
+    "japaneseDefinition": "重大な犯罪（放火罪、強盗罪など）を犯す目的で準備行為を開始した段階で成立する犯罪形態。実行の着手前の行為を処罰する。",
+    "japaneseWordTranslation": "予備罪 (よびざい)",
+    "legalContext": "Criminal Code Art. 201 (Punishment for Preliminary Offenses regarding Arson and other crimes)",
+    "japaneseLegalContext": "刑法第201条 (放火等の予備罪に対する罰則)",
+    "exampleSentence": "The suspect was arrested and charged with preliminary offense for murder after acquiring lethal weapons and surveilling the victim’s residence, despite having not commenced the act of execution.",
+    "exampleTranslation": "容疑者は凶器を入手し、被害者の住居を下見していたため、実行の着手には至っていなかったものの、殺人予備罪で逮捕・訴追された。",
+    "vocabularyList": [
+      {
+        "word": "commencement of execution",
+        "translation": "実行の着手"
+      },
+      {
+        "word": "arson",
+        "translation": "放火罪"
+      },
+      {
+        "word": "lethal weapon",
+        "translation": "凶器 (きょうき)"
+      },
+      {
+        "word": "suspect",
+        "translation": "容疑者"
+      },
+      {
+        "word": "attempt",
+        "translation": "未遂"
+      },
+      {
+        "word": "punishment",
+        "translation": "処罰 (しょばつ)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Crime of Internal Disturbance / Rebellion",
+    "definition": "The offense of participating in, leading, or conspiring toward an armed uprising with the aim of overturning the national constitution, paralyzing state functions, or overthrowing the government. It is categorized into principal, leader, and participant offenses.",
+    "japaneseDefinition": "国憲を乱し、国権作用を麻痺させ、又は政府を転覆させる目的で暴動を企て、これに参画する行為。首謀者、謀議者、参加者等の区別がある。",
+    "japaneseWordTranslation": "内乱罪 (ないらんざい)",
+    "legalContext": "Criminal Code Art. 77 (Crime of Internal Disturbance)",
+    "japaneseLegalContext": "刑法第77条 (内乱罪)",
+    "exampleSentence": "The leader of the armed faction was prosecuted for the Crime of Internal Disturbance, which carries the penalty of life imprisonment or penal servitude for a fixed term.",
+    "exampleTranslation": "その武装派閥の首謀者は、無期懲役または有期懲役を科される内乱罪で訴追された。",
+    "vocabularyList": [
+      {
+        "word": "armed faction",
+        "translation": "武装派閥 (ぶそうはばつ)"
+      },
+      {
+        "word": "overthrow the government",
+        "translation": "政府を転覆させる"
+      },
+      {
+        "word": "principal (leader)",
+        "translation": "首謀者 (しゅぼうしゃ)"
+      },
+      {
+        "word": "penal servitude",
+        "translation": "懲役 (ちょうえき)"
+      },
+      {
+        "word": "conspire",
+        "translation": "謀議する (ぼうぎする)"
+      },
+      {
+        "word": "national constitution",
+        "translation": "国憲 (こっけん)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Concurrence of Statutory Elements",
+    "definition": "A core principle of criminal liability requiring that the specific criminal intent (dolus) held by the offender must objectively and factually correspond to the constituent elements of the crime as defined in the statute. (Used in cases of mistake concerning the object or means).",
+    "japaneseDefinition": "犯罪の成立要件として、行為者が抱いた犯罪の故意が、客観的な事実として発生した構成要件の要素と合致しなければならないという原則。客体の錯誤や手段の錯誤などの判断に用いられる。",
+    "japaneseWordTranslation": "構成要件的符合 (こうせいようけんてきふごう)",
+    "legalContext": "Principle of Criminal Culpability / Requirement for Criminal Intent",
+    "japaneseLegalContext": "責任主義 / 故意の要件",
+    "exampleSentence": "If the specific intent did not meet the requirement of the Concurrence of Statutory Elements due to a mistake regarding the victim’s identity, the offender may only be convicted of an attempted crime against the intended victim.",
+    "exampleTranslation": "被害者の人違いによる錯誤のため、故意が構成要件的符合の要件を満たさなかった場合、その犯罪者は意図した被害者に対する未遂罪でのみ有罪とされる可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "criminal intent (dolus)",
+        "translation": "故意 (こい)"
+      },
+      {
+        "word": "constituent elements",
+        "translation": "構成要件"
+      },
+      {
+        "word": "culpability",
+        "translation": "責任 (せきにん)"
+      },
+      {
+        "word": "mistake regarding the object",
+        "translation": "客体の錯誤 (かくたいのさくご)"
+      },
+      {
+        "word": "convicted",
+        "translation": "有罪とされる (ゆうざいとされる)"
+      },
+      {
+        "word": "completed offense",
+        "translation": "既遂罪 (きすいざい)"
+      }
+    ]
   }
 ]

@@ -7900,5 +7900,107 @@
         "translation": "停止 (ていし)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Conditions of Sale",
+    "definition": "The official terms and conditions, determined by the court handling the execution case, specifying the method, minimum permissible price, and the treatment of security interests and other encumbrances on real property subject to compulsory sale.",
+    "japaneseDefinition": "不動産に対する強制的な売却手続において、執行裁判所が定める、売却の方法、最低売却価額、及び担保権等の負担の取り扱いに関する詳細な規定。",
+    "japaneseWordTranslation": "売却条件 (ばいきゃくじょうけん)",
+    "legalContext": "Civil Execution Act Art. 61: The execution court shall determine the conditions of sale.",
+    "japaneseLegalContext": "民事執行法第61条: 執行裁判所は、売却の条件を定める。",
+    "exampleSentence": "The execution court must ensure that the Conditions of Sale clearly specify which existing security interests will be cleared upon the vesting of ownership in the purchaser.",
+    "exampleTranslation": "執行裁判所は、売却条件において、買受人への所有権移転の際に消滅する既存の担保権を明確に指定しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "compulsory sale",
+        "translation": "強制売却"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      },
+      {
+        "word": "minimum permissible price",
+        "translation": "最低売却価額 (さいていばいきゃくかがく)"
+      },
+      {
+        "word": "security interests",
+        "translation": "担保権 (たんぽけん)"
+      },
+      {
+        "word": "vesting of ownership",
+        "translation": "所有権の移転"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Third Party Information Acquisition Procedure",
+    "definition": "A procedural mechanism established in 2020 allowing the court handling an execution case to compel third parties, such as financial institutions or governmental bodies, to provide information concerning the assets held by the party against whom execution is sought.",
+    "japaneseDefinition": "債権者が財産開示手続を経ても債務者の財産を把握できない場合に、裁判所が金融機関や官公庁などの第三者に対し、債務者の財産に関する情報の提供を命じる手続。",
+    "japaneseWordTranslation": "第三者からの情報取得手続 (だいさんしゃからのじょうほうしゅとくてつづき)",
+    "legalContext": "Civil Execution Act Art. 206: If a person seeking execution is unable to realize their claim despite undergoing asset disclosure procedures, they may file a motion for information acquisition.",
+    "japaneseLegalContext": "民事執行法第206条: 執行を申し立てる者が財産開示手続を経てもその債権の満足を得ることができないときは、情報の取得を申し立てることができる。",
+    "exampleSentence": "The claimant initiated the Third Party Information Acquisition Procedure after the initial property disclosure yielded insufficient results regarding the judgment debtor's bank accounts.",
+    "exampleTranslation": "債権者は、当初の財産開示手続で債務者の銀行口座に関する情報が不十分であったため、第三者からの情報取得手続を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "procedural mechanism",
+        "translation": "手続制度"
+      },
+      {
+        "word": "financial institutions",
+        "translation": "金融機関 (きんゆうきかん)"
+      },
+      {
+        "word": "governmental bodies",
+        "translation": "官公庁 (かんこうちょう)"
+      },
+      {
+        "word": "assets",
+        "translation": "財産 (ざいさん)"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て (もうしたて)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Duty to State Facts",
+    "definition": "The legal obligation imposed on the third party who is liable to the judgment debtor (the third party garnishee) to report to the court, upon request, whether the seized claim exists, the amount owed, the conditions of the debt, and whether they have any intention to challenge the payment.",
+    "japaneseDefinition": "差押えを受けた債権の債務者である第三者（第三債務者）が、執行裁判所の催告に応じ、差押えられた債権の存否、金額、弁済の意思の有無等について報告しなければならない義務。",
+    "japaneseWordTranslation": "陳述の義務 (ちんじゅつのぎむ)",
+    "legalContext": "Civil Execution Act Art. 147: The execution court may request the third party debtor to state the facts concerning the claim.",
+    "japaneseLegalContext": "民事執行法第147条: 執行裁判所は、第三債務者に対し、差押えに係る債権について陳述を催告することができる。",
+    "exampleSentence": "Failure by the party liable to the judgment debtor to fulfill the Duty to State Facts may result in liability for damages incurred by the claimant due to delayed enforcement.",
+    "exampleTranslation": "判決債務者に対して義務を負う者が陳述の義務を履行しない場合、債権者が執行遅延により被った損害に対する責任を負う可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "liable party",
+        "translation": "義務者 (ぎむしゃ)"
+      },
+      {
+        "word": "seized claim",
+        "translation": "差押えられた債権 (さしおさえられたさいけん)"
+      },
+      {
+        "word": "amount owed",
+        "translation": "債務額 (さいむがく)"
+      },
+      {
+        "word": "delayed enforcement",
+        "translation": "執行遅延 (しっこうちえん)"
+      },
+      {
+        "word": "liability for damages",
+        "translation": "損害賠償責任 (そんがいばいしょうせきにん)"
+      }
+    ]
   }
 ]

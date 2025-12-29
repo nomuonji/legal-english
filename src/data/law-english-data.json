@@ -1,38 +1,34 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Constitution (憲法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Joint and Several Guarantee",
-  "definition": "A form of suretyship where the guarantor assumes liability jointly and severally with the principal obligor, thereby waiving the rights of search and defense of demand provided under the Civil Code.",
-  "japaneseDefinition": "保証人が主たる債務者と連帯して債務を負担する保証形態。この場合、保証人は民法に定められた催告の抗弁権及び検索の抗弁権を有しない。",
-  "japaneseWordTranslation": "連帯保証 (れんたい ほしょう)",
-  "legalContext": "Civil Code Art. 446 (Suretyship): A suretyship shall be effective when the surety assumes liability for performance in the event the principal obligor defaults.",
-  "japaneseLegalContext": "民法第446条（保証債務）：保証人は、主たる債務者がその債務を履行しない場合に、その履行をする責任を負う。",
-  "exampleSentence": "The bank required a Joint and Several Guarantee from the borrower's spouse to mitigate the risk of non-performance on the loan.",
-  "exampleTranslation": "銀行は、融資の不履行リスクを軽減するため、借主の配偶者に対し連帯保証を求めた。",
+  "word": "Sovereignty of the People",
+  "definition": "The fundamental constitutional principle that the ultimate political authority resides in the people, from whom all government authority is derived and by whom it is exercised.",
+  "japaneseDefinition": "統治権が国民に存するという、日本国憲法の根幹をなす基本原理。",
+  "japaneseWordTranslation": "国民主権 (こくみんしゅけん)",
+  "legalContext": "Constitution of Japan, Preamble: '...and solemnly proclaim that **sovereign power resides in the people** and that all government authority emanates from the people...'",
+  "japaneseLegalContext": "日本国憲法 前文: 「…ここに主権が国民に存することを宣言し、この憲法を確定する。そもそも国政は、国民の厳粛な信託によるものであって…」",
+  "exampleSentence": "The Constitution of Japan establishes the Emperor as the symbol of the State, deriving his position entirely from the will of the citizens, in adherence to the principle of the **Sovereignty of the People**.",
+  "exampleTranslation": "日本国憲法は、国民主権の原則に従い、天皇の地位を、国民の意思のみに基づく国の象徴として定めている。",
   "vocabularyList": [
     {
-      "word": "Principal obligor",
-      "translation": "主たる債務者"
+      "word": "ultimate political authority",
+      "translation": "最終的な政治的権威"
     },
     {
-      "word": "Guarantor / Surety",
-      "translation": "保証人"
+      "word": "derive from",
+      "translation": "～に由来する"
     },
     {
-      "word": "Defense of demand",
-      "translation": "催告の抗弁権"
+      "word": "symbol of the State",
+      "translation": "国の象徴"
     },
     {
-      "word": "Assume liability",
-      "translation": "責任を負う"
+      "word": "fundamental constitutional principle",
+      "translation": "憲法の基本原理"
     },
     {
-      "word": "Mitigate risk",
-      "translation": "リスクを軽減する"
-    },
-    {
-      "word": "Performance",
-      "translation": "履行"
+      "word": "in adherence to",
+      "translation": "～に従って"
     }
   ]
 }

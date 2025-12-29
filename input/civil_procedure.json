@@ -7696,5 +7696,107 @@
         "translation": "推定相続人"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Procedural Stipulation",
+    "definition": "An agreement reached between the parties in a lawsuit, binding them regarding procedural aspects such as waiving a procedural right, agreeing on the fact-finding process, or settling specific non-material facts.",
+    "japaneseDefinition": "訴訟の進行、手続、または事実認定に関する事項について、当事者間で成立する合意。この合意は当事者と裁判所を拘束する効果を持つ。",
+    "japaneseWordTranslation": "訴訟上の合意 (そしょうじょうのごうい)",
+    "legalContext": "CCP Art. 267 (Implicit recognition of party autonomy in procedural matters, contrasted with judicial admissions which relate to material facts).",
+    "japaneseLegalContext": "民事訴訟法第267条 (訴えの取下げの合意など、当事者の手続形成権の行使を定める規定の基礎となる概念)",
+    "exampleSentence": "In the preparatory oral proceedings, the parties reached a procedural stipulation that the appraisal report prepared for the preceding insurance claim would be admitted without the need for additional expert testimony.",
+    "exampleTranslation": "準備的口頭弁論において、当事者は先行する保険金請求のために作成された鑑定報告書を、追加の専門家証言なしに採用することに訴訟上の合意に達した。",
+    "vocabularyList": [
+      {
+        "word": "party autonomy",
+        "translation": "当事者自治"
+      },
+      {
+        "word": "appraisal report",
+        "translation": "鑑定報告書"
+      },
+      {
+        "word": "admitted",
+        "translation": "採用される"
+      },
+      {
+        "word": "preparatory oral proceedings",
+        "translation": "準備的口頭弁論"
+      },
+      {
+        "word": "expert testimony",
+        "translation": "専門家証言"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Substitute Service",
+    "definition": "A form of service of process where the court clerk delivers the document to a person other than the intended recipient (such as a cohabitant, employee, or security guard) who is present at the place of service, provided the recipient is not found.",
+    "japaneseDefinition": "送達を受けるべき者をその住所、居所、営業所等において見当たらない場合に、その場所にいる同居人、従業員、または使用人など、事務処理に十分な識別能力を有する者に書類を交付して行う送達方法。",
+    "japaneseWordTranslation": "補充送達 (ほじゅうそうたつ)",
+    "legalContext": "CCP Art. 106: 'Service may be effected by delivering the document to an employee or a person sharing the same living arrangements who possesses sufficient discernment.'",
+    "japaneseLegalContext": "民事訴訟法第106条：「送達は、使用人その他の従業者又は同居者であって、書類の受領について相当の識別能力を有するものに交付することによってもすることができる。」",
+    "exampleSentence": "Since the corporate representative was out of the office, the court utilized substitute service by handing the summons to the receptionist at the registered head office.",
+    "exampleTranslation": "会社の代表者がオフィスにいなかったため、裁判所は、登録された本店で受付担当者に訴状を手渡すことによって補充送達を行った。",
+    "vocabularyList": [
+      {
+        "word": "service of process",
+        "translation": "送達"
+      },
+      {
+        "word": "intended recipient",
+        "translation": "本来の受送達者"
+      },
+      {
+        "word": "cohabitant",
+        "translation": "同居者"
+      },
+      {
+        "word": "summons",
+        "translation": "呼出状（訴状の送達も含む）"
+      },
+      {
+        "word": "registered head office",
+        "translation": "登記された本店"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Disqualification of Judge",
+    "definition": "The statutory requirement that a judge withdraw from a specific case when specific, objective facts exist (e.g., relationship with a party, having served as counsel or witness in the same case) that raise doubt about the judge's impartiality. This differs from voluntary recusal (忌避).",
+    "japaneseDefinition": "法律で定められた客観的事由（当事者との関係、事件の証人・代理人であったこと等）がある場合に、裁判の公正を確保するため、当該裁判官が職務執行から当然に排除される制度。",
+    "japaneseWordTranslation": "裁判官の除斥 (さいばんかんのじょせき)",
+    "legalContext": "CCP Art. 23(1): 'A judge shall be disqualified from performing his/her duties in the case where the judge or his/her relative is a party to the case, or where the judge was a witness or expert witness in the case.'",
+    "japaneseLegalContext": "民事訴訟法第23条第1項：「裁判官は、次に掲げる場合においては、その職務の執行から除斥される。一 当事者若しくは参加人又はこれらの配偶者若しくは四親等内の血族若しくは三親等内の姻族であるとき。…」",
+    "exampleSentence": "The judge voluntarily disclosed that his law firm previously represented the plaintiff on an unrelated matter, but the court determined that the statutory grounds for the disqualification of judge under Article 23 had not been met.",
+    "exampleTranslation": "裁判官は、自身の法律事務所が以前、無関係な件で原告を代理したことを自発的に開示したが、裁判所は第23条に基づく裁判官の除斥の法定要件は満たされていないと判断した。",
+    "vocabularyList": [
+      {
+        "word": "statutory requirement",
+        "translation": "法定要件"
+      },
+      {
+        "word": "impartiality",
+        "translation": "公平性"
+      },
+      {
+        "word": "counsel",
+        "translation": "訴訟代理人"
+      },
+      {
+        "word": "recusal",
+        "translation": "忌避"
+      },
+      {
+        "word": "voluntarily disclosed",
+        "translation": "自発的に開示した"
+      }
+    ]
   }
 ]

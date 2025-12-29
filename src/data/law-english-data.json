@@ -1,34 +1,38 @@
 {
-  "category": "Real Property Registration (不動産登記法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Record of Description Section",
-  "definition": "The section of the real property register (Tōkibo) that records the physical facts of the property, such as the location, area, type of land, or structure details, distinguishing it from the sections dedicated to rights.",
-  "japaneseDefinition": "不動産登記簿のうち、権利関係ではなく、土地の所在、地積、地目または建物の構造などの不動産の物理的な現況を記録する部分。",
-  "japaneseWordTranslation": "表題部 (ひょうだいぶ)",
-  "legalContext": "Real Property Registration Act, Chapter 2, Section 2 (Registration of Land)",
-  "japaneseLegalContext": "不動産登記法 第2章 第2節 (土地の登記)",
-  "exampleSentence": "Any application to register a change in the physical area of a parcel of land must be processed in the **Record of Description Section** before updating the record of rights.",
-  "exampleTranslation": "土地の区画の物理的面積の変更を登記する申請は、権利の記録を更新する前に、必ず表題部で処理されなければならない。",
+  "word": "Joint and Several Guarantee",
+  "definition": "A form of suretyship where the guarantor assumes liability jointly and severally with the principal obligor, thereby waiving the rights of search and defense of demand provided under the Civil Code.",
+  "japaneseDefinition": "保証人が主たる債務者と連帯して債務を負担する保証形態。この場合、保証人は民法に定められた催告の抗弁権及び検索の抗弁権を有しない。",
+  "japaneseWordTranslation": "連帯保証 (れんたい ほしょう)",
+  "legalContext": "Civil Code Art. 446 (Suretyship): A suretyship shall be effective when the surety assumes liability for performance in the event the principal obligor defaults.",
+  "japaneseLegalContext": "民法第446条（保証債務）：保証人は、主たる債務者がその債務を履行しない場合に、その履行をする責任を負う。",
+  "exampleSentence": "The bank required a Joint and Several Guarantee from the borrower's spouse to mitigate the risk of non-performance on the loan.",
+  "exampleTranslation": "銀行は、融資の不履行リスクを軽減するため、借主の配偶者に対し連帯保証を求めた。",
   "vocabularyList": [
     {
-      "word": "physical area",
-      "translation": "物理的面積"
+      "word": "Principal obligor",
+      "translation": "主たる債務者"
     },
     {
-      "word": "parcel of land",
-      "translation": "一区画の土地"
+      "word": "Guarantor / Surety",
+      "translation": "保証人"
     },
     {
-      "word": "processed",
-      "translation": "処理される"
+      "word": "Defense of demand",
+      "translation": "催告の抗弁権"
     },
     {
-      "word": "record of rights",
-      "translation": "権利の記録"
+      "word": "Assume liability",
+      "translation": "責任を負う"
     },
     {
-      "word": "distinguishing",
-      "translation": "区別する"
+      "word": "Mitigate risk",
+      "translation": "リスクを軽減する"
+    },
+    {
+      "word": "Performance",
+      "translation": "履行"
     }
   ]
 }

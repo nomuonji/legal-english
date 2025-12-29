@@ -7286,5 +7286,43 @@
         "translation": "会社を拘束する (かいしゃをこうそくする)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Assertion Restriction (Against Third Parties)",
+    "definition": "The principle that matters required to be registered under the Commercial Registration Act and Companies Act (such as officer appointments or corporate relocation) cannot be asserted against a third party acting in good faith unless and until they have been duly registered.",
+    "japaneseDefinition": "商業登記法及び会社法に基づき登記が必要な事項について、登記が完了していない場合、会社はその未登記の事実をもって善意の第三者に対抗することができないという原則。",
+    "japaneseWordTranslation": "主張制限 (Shuchō Seigen)",
+    "legalContext": "Companies Act Art. 908(1) (Effect of Registration): The registration of matters required to be registered shall have effect against a third party only after the registration has been completed.",
+    "japaneseLegalContext": "会社法第908条第1項 (登記の効力): 登記すべき事項は、登記の後でなければ、これをもって善意の第三者に対抗することができない。",
+    "exampleSentence": "Because the change in the company's representative authority had not been registered, the firm was bound by the contract, invoking the **Assertion Restriction (Against Third Parties)** against the obligee who lacked knowledge of the internal change.",
+    "exampleTranslation": "会社の代表権限の変更が登記されていなかったため、内部変更を知らない債権者に対して主張制限の原則が適用され、会社はその契約に拘束された。",
+    "vocabularyList": [
+      {
+        "word": "registered matter",
+        "translation": "登記事項"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "good faith",
+        "translation": "善意"
+      },
+      {
+        "word": "representative authority",
+        "translation": "代表権限"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "bound by the contract",
+        "translation": "契約に拘束される"
+      }
+    ]
   }
 ]

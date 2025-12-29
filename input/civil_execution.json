@@ -7782,5 +7782,123 @@
         "translation": "違反した"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Delivery of the Obligor's Residential Real Property",
+    "definition": "A judicial order permitting the delivery of residential real property by the obligor to the purchaser in a compulsory auction, specifically when the property is the obligor’s residence, provided the sale permission order has become final and binding.",
+    "japaneseDefinition": "強制競売により買受人が取得した不動産が、債務者または債務者と生計を共にする者の居住する建物である場合に、その引渡しを命じる裁判所の命令。",
+    "japaneseWordTranslation": "債務者の居住用不動産の引渡命令 (さいむしゃの きょじゅうよう ふどうさんの ひきわたし めいれい)",
+    "legalContext": "Civil Execution Act Art. 83-2(1): The execution court shall, upon motion by the purchaser, issue an order for the obligor's residential real property to be delivered to the purchaser.",
+    "japaneseLegalContext": "民事執行法第83条の2第1項：執行裁判所は、買受人の申立てにより、債務者の居住する不動産について、買受人への引渡しを命じなければならない。",
+    "exampleSentence": "The purchaser applied for an **Order for Delivery of the Obligor's Residential Real Property** two months after the sale permission order became final and binding, seeking to take possession.",
+    "exampleTranslation": "買受人は、売却許可決定が確定してから2か月後、占有を移転させるために債務者の居住用不動産の引渡命令を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "purchaser",
+        "translation": "買受人 (かいうけにん)"
+      },
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売 (きょうせいけいばい)"
+      },
+      {
+        "word": "residential real property",
+        "translation": "居住用不動産 (きょじゅうよう ふどうさん)"
+      },
+      {
+        "word": "final and binding",
+        "translation": "確定した (かくていした)"
+      },
+      {
+        "word": "sale permission order",
+        "translation": "売却許可決定 (ばいきゃくきょか けってい)"
+      },
+      {
+        "word": "take possession",
+        "translation": "占有を移転する (せんゆうを いてんする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution for Substituted Performance of a Specific Act",
+    "definition": "A method of compulsory execution applied to a non-monetary claim involving an act that can be performed by a third party, where the execution court authorizes the obligee to have a third party perform the act at the obligor's expense.",
+    "japaneseDefinition": "金銭債権以外の請求権のうち、代替可能な特定の作為義務を目的とする執行方法で、裁判所が債権者に、債務者の費用で第三者に当該行為を行わせることを許可するもの。",
+    "japaneseWordTranslation": "特定の作為義務の代替執行 (とくていの さくいぎむの だいたいしっこう)",
+    "legalContext": "Civil Execution Act Art. 169: In the case of a claim for the performance of an act that may be performed by a third party, the execution court shall, upon motion by the obligee, authorize the obligee to have a third party perform the act at the expense of the obligor.",
+    "japaneseLegalContext": "民事執行法第169条：他人が代わって為すことのできる行為を目的とする請求権についての強制執行は、債権者の申立てにより、執行裁判所が、第三者にその行為をさせ、債務者の費用でこれを行うことを許す旨の決定をもってする。",
+    "exampleSentence": "When the obligor refused to comply with the court order to remove the unlawfully constructed wall, the obligee initiated the procedure for **Execution for Substituted Performance of a Specific Act**.",
+    "exampleTranslation": "債務者が不法に建設した壁を撤去するよう命じる裁判所の命令に従わなかったため、債権者は特定の作為義務の代替執行の手続きを開始した。",
+    "vocabularyList": [
+      {
+        "word": "non-monetary claim",
+        "translation": "金銭債権以外の請求権 (きんせんさいけん いがいの せいきゅうけん)"
+      },
+      {
+        "word": "specific act",
+        "translation": "特定の作為義務 (とくていの さくいぎむ)"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者 (だいさんしゃ)"
+      },
+      {
+        "word": "at the obligor's expense",
+        "translation": "債務者の費用で (さいむしゃの ひようで)"
+      },
+      {
+        "word": "unlawfully constructed",
+        "translation": "不法に建設された (ふほうに けんせつされた)"
+      },
+      {
+        "word": "court order",
+        "translation": "裁判所の命令 (さいばんしょの めいれい)"
+      },
+      {
+        "word": "comply with",
+        "translation": "従う (したがう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Instrument Certifying Stay of Execution",
+    "definition": "A document that serves as legal proof, submitted to the execution court, showing that a prerequisite event for the suspension of the execution procedure (such as a judgment dissolving the enforcement title) has occurred, mandating the execution court to halt the process.",
+    "japaneseDefinition": "強制執行の開始後、執行の停止または取消しの原因となる要件が満たされたことを証明するために、債務者が執行裁判所に提出する公文書。",
+    "japaneseWordTranslation": "執行停止文書 (しっこう ていし ぶんしょ)",
+    "legalContext": "Civil Execution Act Art. 39: Compulsory execution shall be suspended upon submission of an instrument specified in any of the items of this Article.",
+    "japaneseLegalContext": "民事執行法第39条：強制執行は、次に掲げる文書の提出があったときは、停止しなければならない。",
+    "exampleSentence": "The obligor filed an immediate appeal against the judgment, and subsequently submitted the **Instrument Certifying Stay of Execution** issued by the appellate court to the execution court.",
+    "exampleTranslation": "債務者は当該判決に対し即時抗告を行い、その後、控訴裁判所が発行した執行停止文書を執行裁判所に提出した。",
+    "vocabularyList": [
+      {
+        "word": "immediate appeal",
+        "translation": "即時抗告 (そくじこうこく)"
+      },
+      {
+        "word": "stay of execution",
+        "translation": "執行の停止 (しっこうの ていし)"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所 (しっこう さいばんしょ)"
+      },
+      {
+        "word": "appellate court",
+        "translation": "控訴裁判所 (こうそ さいばんしょ)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "suspension",
+        "translation": "停止 (ていし)"
+      }
+    ]
   }
 ]

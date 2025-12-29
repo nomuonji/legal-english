@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Joint and Several Guarantee",
-    "definition": "A form of suretyship where the guarantor assumes liability jointly and severally with the principal obligor, thereby waiving the rights of search and defense of demand provided under the Civil Code.",
-    "japaneseDefinition": "保証人が主たる債務者と連帯して債務を負担する保証形態。この場合、保証人は民法に定められた催告の抗弁権及び検索の抗弁権を有しない。",
-    "japaneseWordTranslation": "連帯保証 (れんたい ほしょう)",
-    "legalContext": "Civil Code Art. 446 (Suretyship): A suretyship shall be effective when the surety assumes liability for performance in the event the principal obligor defaults.",
-    "japaneseLegalContext": "民法第446条（保証債務）：保証人は、主たる債務者がその債務を履行しない場合に、その履行をする責任を負う。",
-    "exampleSentence": "The bank required a Joint and Several Guarantee from the borrower's spouse to mitigate the risk of non-performance on the loan.",
-    "exampleTranslation": "銀行は、融資の不履行リスクを軽減するため、借主の配偶者に対し連帯保証を求めた。",
-    "vocabularyList": [
-      {
-        "word": "Principal obligor",
-        "translation": "主たる債務者"
-      },
-      {
-        "word": "Guarantor / Surety",
-        "translation": "保証人"
-      },
-      {
-        "word": "Defense of demand",
-        "translation": "催告の抗弁権"
-      },
-      {
-        "word": "Assume liability",
-        "translation": "責任を負う"
-      },
-      {
-        "word": "Mitigate risk",
-        "translation": "リスクを軽減する"
-      },
-      {
-        "word": "Performance",
-        "translation": "履行"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Collation",
     "definition": "In succession law, the requirement that an heir who received special benefits (gifts or legacies) from the decedent must include the value of those benefits in the estate calculation to ensure fair distribution among the legal heirs.",
     "japaneseDefinition": "相続法において、共同相続人のうち、被相続人から生前贈与等の特別受益を受けた者が、遺産の公平な分割のため、その受益額を相続財産に算入すること。",
@@ -8298,6 +8260,120 @@
       {
         "word": "respective legal portions",
         "translation": "各自の法的取り分"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Heir's Contribution",
+    "definition": "A mechanism in Japanese inheritance law that adjusts the statutory inheritance share of an heir who has made a special contribution to the maintenance or increase of the decedent's property.",
+    "japaneseDefinition": "共同相続人の中で、被相続人の財産の維持または増加に特別の貢献をした者に対し、公平を図るために、その相続分を法定相続分に加えて調整する制度。",
+    "japaneseWordTranslation": "寄与分 (きよぶん)",
+    "legalContext": "Civil Code Art. 904-2: The amount of contribution is determined by agreement among the joint heirs or, failing that, by the Family Court.",
+    "japaneseLegalContext": "民法第904条の2: 寄与分の額は、共同相続人の協議によって定める。協議が調わないときは家庭裁判所が定める。",
+    "exampleSentence": "The Family Court approved the motion to acknowledge the **Heir's Contribution** of the successor who had provided medical care and financial support to the decedent for several years.",
+    "exampleTranslation": "家庭裁判所は、数年にわたり被相続人に医療費の援助と介護を提供した相続人に対する寄与分の申立てを承認した。",
+    "vocabularyList": [
+      {
+        "word": "Decedent",
+        "translation": "被相続人 (ひそうぞくにん)"
+      },
+      {
+        "word": "Statutory inheritance share",
+        "translation": "法定相続分 (ほうていそうぞくぶん)"
+      },
+      {
+        "word": "Joint heirs",
+        "translation": "共同相続人 (きょうどうそうぞくにん)"
+      },
+      {
+        "word": "Adjustment",
+        "translation": "調整 (ちょうせい)"
+      },
+      {
+        "word": "Motion",
+        "translation": "申立て (もうしたて)"
+      },
+      {
+        "word": "Successor",
+        "translation": "相続人 (そうぞくにん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Contract Reservation",
+    "definition": "A preliminary contract (pactum de contrahendo) under which the parties agree to conclude a principal contract (本契約) in the future upon the exercise of a designated reservation right by one or both parties.",
+    "japaneseDefinition": "当事者が、将来、特定の主要な契約（本契約）を締結することを約束する契約。通常、一方または双方が予約完結権を行使することで本契約が成立する。",
+    "japaneseWordTranslation": "契約の予約 (けいやくのよやく)",
+    "legalContext": "Civil Code Art. 556: A reservation for a sale (売買の予約) is presumed to be a unilateral act (片務契約) unless otherwise agreed.",
+    "japaneseLegalContext": "民法第556条: 売買の一方の予約は、相手方が売買を完結する意思を表示した時から、売買は効力を生ずる。",
+    "exampleSentence": "The developer secured a **Contract Reservation** with the landowner, granting the developer the exclusive right to purchase the property within one year by exercising the reservation right.",
+    "exampleTranslation": "開発業者は地権者と契約の予約を結び、予約完結権を行使することで1年以内に当該不動産を購入する独占的な権利を得た。",
+    "vocabularyList": [
+      {
+        "word": "Principal contract",
+        "translation": "本契約 (ほんけいやく)"
+      },
+      {
+        "word": "Reservation right",
+        "translation": "予約完結権 (よやくかんけつけん)"
+      },
+      {
+        "word": "Exercise",
+        "translation": "行使 (こうし)"
+      },
+      {
+        "word": "Landowner",
+        "translation": "地権者 (ちけんしゃ)"
+      },
+      {
+        "word": "Exclusive right",
+        "translation": "独占的な権利 (どくせんてきなけんり)"
+      },
+      {
+        "word": "Sale",
+        "translation": "売買 (ばいばい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Possessors of Animals",
+    "definition": "The legal principle that the possessor of an animal is strictly liable for damages caused by the animal, unless the possessor proves that they exercised the necessary due care in management.",
+    "japaneseDefinition": "動物の占有者が、その動物が他人に加えた損害について負う責任。占有者がその動物の管理について相当の注意を尽くしたことを証明しない限り、賠償責任を免れない。",
+    "japaneseWordTranslation": "動物占有者の責任 (どうぶつせんゆうしゃのせきにん)",
+    "legalContext": "Civil Code Art. 718: The possessor of an animal shall compensate for any damages caused by it, unless the possessor proves that due care was exercised in its keeping.",
+    "japaneseLegalContext": "民法第718条: 動物の占有者は、その動物が他人に加えた損害を賠償する責任を負う。ただし、動物の種類及び性質に従い相当の注意をもってその管理をしたときは、この限りでない。",
+    "exampleSentence": "The plaintiff invoked the **Liability for Possessors of Animals** after being bitten by a neighbor’s dog, requiring the neighbor to prove they had taken reasonable measures to secure the animal.",
+    "exampleTranslation": "原告は隣人の犬に噛まれた後、動物占有者の責任を援用し、隣人にその動物を確保するために合理的な措置を講じたことを証明するよう求めた。",
+    "vocabularyList": [
+      {
+        "word": "Possessor",
+        "translation": "占有者 (せんゆうしゃ)"
+      },
+      {
+        "word": "Damages",
+        "translation": "損害 (そんがい)"
+      },
+      {
+        "word": "Compensate",
+        "translation": "賠償する (ばいしょうする)"
+      },
+      {
+        "word": "Due care",
+        "translation": "相当の注意 (そうとうのちゅうい)"
+      },
+      {
+        "word": "Plaintiff",
+        "translation": "原告 (げんこく)"
+      },
+      {
+        "word": "Reasonable measures",
+        "translation": "合理的な措置 (ごうりてきなそち)"
       }
     ]
   }

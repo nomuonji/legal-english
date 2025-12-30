@@ -8714,5 +8714,119 @@
         "translation": "売買契約 (ばいばいけいやく)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Administration of the Estate",
+    "definition": "The preservation, maintenance, and management of the assets and liabilities (the estate) of a deceased person following the commencement of succession, typically carried out by heirs or a court-appointed administrator.",
+    "japaneseDefinition": "死亡者の財産（債権・債務を含む）を保全し、維持し、承継の開始から遺産分割まで管理すること。",
+    "japaneseWordTranslation": "相続財産の管理 (そうぞくざいさんのかんり)",
+    "legalContext": "Civil Code Art. 918 (Duty of Administrator): If the successor is unaware of the commencement of succession, the previous possessor of the estate assets shall continue the administration thereof.",
+    "japaneseLegalContext": "民法第918条（相続財産の管理）：相続人が相続の開始を知らないときは、その財産の占有者は、自己のために相続の開始があったことを知った時から、善良な管理者の注意をもって、その財産を保存しなければならない。",
+    "exampleSentence": "The court ordered the immediate commencement of the **administration of the estate** to prevent the dissipation of assets.",
+    "exampleTranslation": "裁判所は、財産の散逸を防ぐため、相続財産の管理を直ちに開始するよう命じた。",
+    "vocabularyList": [
+      {
+        "word": "Successor",
+        "translation": "相続人"
+      },
+      {
+        "word": "Dissipation of assets",
+        "translation": "財産の散逸"
+      },
+      {
+        "word": "Commencement",
+        "translation": "開始"
+      },
+      {
+        "word": "Estate assets",
+        "translation": "財産"
+      },
+      {
+        "word": "Court-appointed administrator",
+        "translation": "裁判所選任の管理者"
+      },
+      {
+        "word": "Preservation",
+        "translation": "保全"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Earnest Money",
+    "definition": "A sum of money delivered by the prospective purchaser to the seller upon the formation of a contract (typically a sales contract) which serves as evidence of the contract's establishment and often functions as security or as a means of contractual release.",
+    "japaneseDefinition": "契約締結の証拠として、買主から売主へ交付される金銭であり、契約解除権を留保する等の機能を持つ。",
+    "japaneseWordTranslation": "手付 (てつけ)",
+    "legalContext": "Civil Code Art. 557 (Earnest Money for Contract Rescission): If the purchaser delivers earnest money to the seller, the purchaser may rescind the contract by abandoning the earnest money, or the seller may rescind the contract by tendering double the amount of the earnest money.",
+    "japaneseLegalContext": "民法第557条（手付）：買主が売主に手付を交付したときは、当事者の一方が契約の履行に着手するまでは、買主はその手付を放棄し、売主はその倍額を償還して、契約の解除をすることができる。",
+    "exampleSentence": "Since the buyer failed to secure financing, they forfeited the **earnest money** to the seller as stipulated in the agreement.",
+    "exampleTranslation": "買主が融資を確保できなかったため、合意の規定に従い、手付金を売主に没収された。",
+    "vocabularyList": [
+      {
+        "word": "Purchaser",
+        "translation": "買主"
+      },
+      {
+        "word": "Seller",
+        "translation": "売主"
+      },
+      {
+        "word": "Forfeited",
+        "translation": "没収された"
+      },
+      {
+        "word": "Agreement",
+        "translation": "合意"
+      },
+      {
+        "word": "Tendering double",
+        "translation": "倍額の償還"
+      },
+      {
+        "word": "Stipulated",
+        "translation": "規定された"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Pecuniary Obligation",
+    "definition": "An obligation whose performance consists of the payment of a specified amount of money, regardless of the cause or source of the debt.",
+    "japaneseDefinition": "給付が特定の金額の支払いで構成される債務であり、債務不履行の場合には、債権者は損害賠償額を立証することなく法定利率に基づいて請求できる。",
+    "japaneseWordTranslation": "金銭債務 (きんせんさいむ)",
+    "legalContext": "Civil Code Art. 419 (Damages for Pecuniary Obligation): The amount of damages for non-performance of a pecuniary obligation shall be determined by the statutory interest rate (unless otherwise agreed), and the obligee need not prove actual loss.",
+    "japaneseLegalContext": "民法第419条（金銭債務の特則）：金銭の給付を目的とする債務の不履行については、その損害賠償の額は、法定利率により定める。ただし、約定利率が法定利率を超えるときは、約定利率による。",
+    "exampleSentence": "In cases of non-performance involving a **pecuniary obligation**, the obligee is automatically entitled to damages calculated based on the legal interest rate.",
+    "exampleTranslation": "金銭債務に関する不履行の場合、債権者は自動的に法定利率に基づき計算された損害賠償を受ける権利を有する。",
+    "vocabularyList": [
+      {
+        "word": "Obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "Non-performance",
+        "translation": "不履行"
+      },
+      {
+        "word": "Damages",
+        "translation": "損害賠償"
+      },
+      {
+        "word": "Legal interest rate",
+        "translation": "法定利率"
+      },
+      {
+        "word": "Specified amount",
+        "translation": "特定金額"
+      },
+      {
+        "word": "Entitled to",
+        "translation": "〜の権利を有する"
+      }
+    ]
   }
 ]

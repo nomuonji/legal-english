@@ -8126,5 +8126,81 @@
         "translation": "反復利用"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Affidavit",
+    "definition": "A formal, written statement of fact, sworn to or affirmed by the signatory (affiant) before a person authorized to administer oaths, often used in preliminary procedures or as evidence in international cases, though its evidentiary weight differs significantly from common law usage.",
+    "japaneseDefinition": "宣誓を行った上で作成された供述書。日本の民事訴訟では証拠方法の一つとして用いられるが、証人尋問に代わるものとしては位置づけられていない。",
+    "japaneseWordTranslation": "宣誓供述書 (せんせい きょうじゅつ しょ)",
+    "legalContext": "Code of Civil Procedure Art. 231 (Request to a Foreign Authority): This article pertains to using foreign procedures, including those involving affidavits, though the domestic use is regulated under general evidence provisions.",
+    "japaneseLegalContext": "民事訴訟法第231条（外国の機関に対する嘱託）",
+    "exampleSentence": "The court accepted the Affidavit from the overseas witness, but mandated subsequent oral examination due to the severity of the factual dispute.",
+    "exampleTranslation": "裁判所は海外証人からの宣誓供述書を受理したが、事実争点の重大性から、その後の口頭による尋問を義務付けた。",
+    "vocabularyList": [
+      {
+        "word": "Affiant",
+        "translation": "宣誓供述人"
+      },
+      {
+        "word": "sworn to",
+        "translation": "宣誓された"
+      },
+      {
+        "word": "evidentiary weight",
+        "translation": "証拠能力"
+      },
+      {
+        "word": "overseas witness",
+        "translation": "海外証人"
+      },
+      {
+        "word": "oral examination",
+        "translation": "口頭尋問"
+      },
+      {
+        "word": "factual dispute",
+        "translation": "事実上の争い"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legal Interest in Confirmation",
+    "definition": "The specific legal requirement, central to maintaining a declaratory action (action for confirmation), stipulating that a plaintiff must demonstrate a present, immediate necessity to have the uncertainty or dispute regarding a legal status or right resolved by a court judgment.",
+    "japaneseDefinition": "確認の訴えが適法とされるために必要な要件。原告が現在の法的地位または権利関係に関する不安定状態を、裁判所の確認判決によって除去する現実的かつ直接的な必要性。",
+    "japaneseWordTranslation": "確認の利益 (かくにん の りえき)",
+    "legalContext": "Doctrine derived from Code of Civil Procedure Art. 134 (Requirement for Declaration Action) and judicial precedent, asserting that declaratory judgments are only permissible when this interest exists.",
+    "japaneseLegalContext": "民事訴訟法第134条（確認の訴え）および判例法理。確認の訴えは確認の利益が存在する場合に限り許容される。",
+    "exampleSentence": "The court dismissed the claim for confirmation of non-existence of obligation, finding that the plaintiff lacked Legal Interest in Confirmation since the obligation was not yet due, thus presenting no immediate insecurity.",
+    "exampleTranslation": "裁判所は、その債務がまだ履行期に達しておらず、差し迫った不安定状態がないため、原告に確認の利益がないとして、債務不存在確認の訴えを却下した。",
+    "vocabularyList": [
+      {
+        "word": "declaratory action",
+        "translation": "確認の訴え"
+      },
+      {
+        "word": "present necessity",
+        "translation": "現在の必要性"
+      },
+      {
+        "word": "legal status",
+        "translation": "法的地位"
+      },
+      {
+        "word": "judicial precedent",
+        "translation": "判例法理"
+      },
+      {
+        "word": "insecurity",
+        "translation": "不安定状態"
+      },
+      {
+        "word": "confirmation of non-existence",
+        "translation": "不存在の確認"
+      }
+    ]
   }
 ]

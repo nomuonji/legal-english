@@ -7048,5 +7048,119 @@
         "translation": "電子的提出"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-Assertion Against Good Faith Third Parties",
+    "definition": "The statutory principle derived from Commercial Registration Law that prevents the company or its representatives from claiming that matters required to be registered, but which have not been recorded, are valid against a third party who transacts without knowing the unregistered fact.",
+    "japaneseDefinition": "商業登記法に規定される原則で、登記すべき事項が未登記である場合、会社はその事項を善意の第三者に対抗（主張）することができないとするもの。",
+    "japaneseWordTranslation": "未登記事項の主張制限 (みとうきじこうのしゅちょうせいげん)",
+    "legalContext": "Commercial Registration Law Art. 9: “A matter that is required to be registered in accordance with the provisions of this Act shall not be asserted against a third party until after it has been registered.”",
+    "japaneseLegalContext": "商業登記法第9条: 「この法律の規定により登記すべき事項は、登記の後でなければ、これをもって善意の第三者に対抗することができない。」",
+    "exampleSentence": "Due to the rule of Non-Assertion Against Good Faith Third Parties, the representative director could not deny the validity of the corporate resolution against a bank that had extended credit, as the registration of nullity had not been completed.",
+    "exampleTranslation": "善意の第三者に対する非主張の原則により、代表取締役は、決議無効の登記が完了していなかったため、融資を行った銀行に対して会社の決議の有効性を否定することができなかった。",
+    "vocabularyList": [
+      {
+        "word": "statutory principle",
+        "translation": "法廷の原則"
+      },
+      {
+        "word": "required to be registered",
+        "translation": "登記すべき事項"
+      },
+      {
+        "word": "unregistered fact",
+        "translation": "未登記の事実"
+      },
+      {
+        "word": "corporate resolution",
+        "translation": "会社決議"
+      },
+      {
+        "word": "extended credit",
+        "translation": "融資を行った"
+      },
+      {
+        "word": "validity",
+        "translation": "有効性"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registrar Initiated Recording",
+    "definition": "The act of registration carried out by the registrar without an application from the entity (such as the company or its representatives), typically when mandated by court order or when administrative facts affecting the registry are confirmed.",
+    "japaneseDefinition": "当事者からの申請を待たずに、登記官の職務上の権限により、法規定に基づいて登記記録の作成を行うこと。",
+    "japaneseWordTranslation": "登記官による職権登記 (とうきかんにやるしょっけんとうき)",
+    "legalContext": "Commercial Registration Law Art. 24: (Rejection of Application) provides grounds for the registrar to reject an application, and in certain cases, allows for ex officio correction or recording.",
+    "japaneseLegalContext": "商業登記法第24条: (申請の却下) は登記官が申請を却下する根拠を規定し、特定の場合には職権による更正又は記録を認める。",
+    "exampleSentence": "If a court issues a final judgment declaring a company dissolved, the registrar will subsequently perform a Registrar Initiated Recording to update the commercial register entry.",
+    "exampleTranslation": "裁判所が会社の解散を宣言する確定判決を下した場合、登記官はその後、商業登記の記載を更新するために登記官による職権登記を行う。",
+    "vocabularyList": [
+      {
+        "word": "entity",
+        "translation": "主体"
+      },
+      {
+        "word": "mandated by court order",
+        "translation": "裁判所の命令によって義務付けられた"
+      },
+      {
+        "word": "administrative facts",
+        "translation": "行政上の事実"
+      },
+      {
+        "word": "final judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "dissolved",
+        "translation": "解散した"
+      },
+      {
+        "word": "update the entry",
+        "translation": "記載を更新する"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Unique Registration Code",
+    "definition": "A 12-digit alphanumeric code issued to the party registered as the title holder of a right, used to authenticate the identity and consent of that party when a new registration application is filed that would result in the loss or restriction of their registered right.",
+    "japaneseDefinition": "登記を完了した登記名義人に対して交付される12桁の英数字の暗号で、その者の権利を制限または失わせるような新たな登記申請の際に、本人確認と意思確認を行うために使用される。",
+    "japaneseWordTranslation": "登記識別番号 (とうきしきべつばんごう)",
+    "legalContext": "Commercial Registration Law Art. 12 (Applies mutatis mutandis to the Real Property Registration Law provisions concerning registration identification information).",
+    "japaneseLegalContext": "商業登記法第12条 (不動産登記法の登記識別情報に関する規定を準用する)。",
+    "exampleSentence": "The company’s representative was required to submit the Unique Registration Code to the registry office when applying for a subsequent registration that transferred the ownership of the registered intellectual property right.",
+    "exampleTranslation": "登録された知的財産権の所有権を移転する次順位の登記を申請する際、会社の代表者は登記所に固有の登録コードを提出することが要求された。",
+    "vocabularyList": [
+      {
+        "word": "alphanumeric code",
+        "translation": "英数字のコード"
+      },
+      {
+        "word": "authenticate",
+        "translation": "認証する"
+      },
+      {
+        "word": "title holder of a right",
+        "translation": "権利の登記名義人"
+      },
+      {
+        "word": "restriction of their registered right",
+        "translation": "登録された権利の制限"
+      },
+      {
+        "word": "subsequent registration",
+        "translation": "次順位の登記"
+      },
+      {
+        "word": "intellectual property right",
+        "translation": "知的財産権"
+      }
+    ]
   }
 ]

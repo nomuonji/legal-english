@@ -8318,5 +8318,119 @@
         "translation": "閲覧 (えつらん)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exempt Real Property Residence Designation",
+    "definition": "A formal petition filed by the execution obligor (debtor) requesting the execution court to prohibit the seizure and compulsory sale of the real property serving as their primary residence, provided the equity value exceeds the designated exempt threshold, securing minimum housing stability.",
+    "japaneseDefinition": "債務者が、居住している不動産について、差押え禁止の申立てを行い、裁判所が一定の要件（例：最低居住水準の確保）を満たす場合に、その不動産に対する強制執行を停止または取り消す措置。",
+    "japaneseWordTranslation": "居住用不動産の差押禁止の申立て (kyojūyō fudōsan no sashiosae kinshi no mōshitate)",
+    "legalContext": "Civil Execution Act, Art. 167-2",
+    "japaneseLegalContext": "民事執行法第167条の2：債務者の居住の安定の確保のための手続",
+    "exampleSentence": "The execution obligor filed a motion for the Exempt Real Property Residence Designation immediately upon receiving notice of the compulsory auction commencement.",
+    "exampleTranslation": "強制競売開始の通知を受け取ると同時に、債務者は居住用不動産の差押禁止の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "execution obligor",
+        "translation": "執行債務者"
+      },
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え"
+      },
+      {
+        "word": "equity value",
+        "translation": "持分価格"
+      },
+      {
+        "word": "commencement",
+        "translation": "開始"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Official Statement of Sale Terms",
+    "definition": "The formal document prepared by the execution court, detailing the terms and conditions under which the compulsory sale (usually auction or tender) of real property is to be conducted, including the obligations assumed by the purchaser and surviving encumbrances.",
+    "japaneseDefinition": "不動産競売において、執行裁判所が作成し、売却の実施方法、買受人が承継すべき負担、売却基準価額などの具体的な売却条件を明記した文書。",
+    "japaneseWordTranslation": "売却の条件を定めた書面 (baikyaku no jōken o sadameta shomen)",
+    "legalContext": "Civil Execution Act, Art. 61",
+    "japaneseLegalContext": "民事執行法第61条：売却条件の定め",
+    "exampleSentence": "Potential purchasers must carefully review the Official Statement of Sale Terms before submitting a bid to understand the extent of prior liens that survive the execution sale.",
+    "exampleTranslation": "入札を提出する前に、潜在的な買受人は、執行売却後も存続する先取特権の範囲を理解するために、売却の条件を定めた書面を注意深く確認しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "potential purchasers",
+        "translation": "潜在的な買受人"
+      },
+      {
+        "word": "submitting a bid",
+        "translation": "入札を提出する"
+      },
+      {
+        "word": "prior liens",
+        "translation": "先取特権"
+      },
+      {
+        "word": "execution sale",
+        "translation": "執行売却"
+      },
+      {
+        "word": "survive",
+        "translation": "存続する"
+      },
+      {
+        "word": "encumbrances",
+        "translation": "負担"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Real Property Surrender Enforcement",
+    "definition": "The legal procedure to forcibly remove an occupant (such as the former owner or a tenant whose rights did not survive the sale) and transfer physical possession of the real property to the execution sale purchaser, following the granting of the sale permission order.",
+    "japaneseDefinition": "不動産競売の買受人に対し、執行裁判所の命令に基づき、不動産の占有者が強制的に退去させられ、現実の占有を移転させる非金銭執行手続き。",
+    "japaneseWordTranslation": "不動産の引渡し強制執行 (fudōsan no hikitaashi kyōsei shikkō)",
+    "legalContext": "Civil Execution Act, Art. 182 (Non-Monetary Execution)",
+    "japaneseLegalContext": "民事執行法第182条 (非金銭執行)：不動産の引渡しの執行",
+    "exampleSentence": "Following the debtor's refusal to vacate, the purchaser initiated Real Property Surrender Enforcement through the execution court, requiring the presence of an execution officer.",
+    "exampleTranslation": "債務者が退去を拒否した後、買受人は執行裁判所を通じて不動産の引渡し強制執行を開始し、執行官の立会いが必要となった。",
+    "vocabularyList": [
+      {
+        "word": "vacate",
+        "translation": "退去する"
+      },
+      {
+        "word": "purchaser",
+        "translation": "買受人"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "execution officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "physical possession",
+        "translation": "現実の占有"
+      },
+      {
+        "word": "non-monetary execution",
+        "translation": "非金銭執行"
+      }
+    ]
   }
 ]

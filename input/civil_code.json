@@ -8828,5 +8828,81 @@
         "translation": "〜の権利を有する"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Admixture",
+    "definition": "The legal mechanism concerning the creation of a new ownership relationship when fungible movable properties belonging to different owners are mixed together in a manner that makes separation impossible.",
+    "japaneseDefinition": "所有者の異なる数個の動産が混ざり合い、分離することができなくなった場合に、所有権が帰属する仕組み。分離不可能であるか、分離に過大な費用を要する場合に適用される。",
+    "japaneseWordTranslation": "混和 (こんわ)",
+    "legalContext": "Civil Code Art. 245: The provisions of Article 243 (accession by specification) and Article 244 (accession by combination) shall apply mutatis mutandis to cases where things belonging to different owners become mixed (admixed) and it is impossible to separate them.",
+    "japaneseLegalContext": "民法第245条（混和）：前二条の規定は、所有者の異なる数個の物が混和して識別することができなくなった場合について準用する。",
+    "exampleSentence": "When 100 liters of crude oil belonging to Company A are mixed with 200 liters belonging to Company B, the resulting ownership is determined by the rules of admixture.",
+    "exampleTranslation": "A社が所有する100リットルの原油がB社の200リットルの原油と混ざり合った場合、その結果生じる所有権は混和の規定によって決定される。",
+    "vocabularyList": [
+      {
+        "word": "Fungible movable property",
+        "translation": "代替可能な動産 (daitaikanō na dōsan)"
+      },
+      {
+        "word": "Separation",
+        "translation": "分離 (bunri)"
+      },
+      {
+        "word": "Ownership relationship",
+        "translation": "所有関係 (shoyū kankei)"
+      },
+      {
+        "word": "Mutatis mutandis",
+        "translation": "準用 (jun'yō)"
+      },
+      {
+        "word": "Crude oil",
+        "translation": "原油 (gen'yu)"
+      },
+      {
+        "word": "Identification",
+        "translation": "識別 (shikibetsu)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Necessaries",
+    "definition": "The legal principle under which spouses are jointly and severally liable to a third party for obligations incurred by either spouse for necessary expenditures related to the ordinary and daily management of the household.",
+    "japaneseDefinition": "夫婦の一方が日常の家事に関して第三者と法律行為をした場合、その債務は他の一方が連帯してその責任を負うという制度。",
+    "japaneseWordTranslation": "日常家事債務 (にちじょうかじさいむ)",
+    "legalContext": "Civil Code Art. 761: When one spouse enters into a legal transaction with a third party regarding matters of daily household affairs, the other spouse shall assume joint and several liability for the resulting obligation.",
+    "japaneseLegalContext": "民法第761条（日常の家事に関する債務の連帯責任）：夫婦の一方が日常の家事に関して第三者と法律行為をしたときは、他の一方は、これによって生じた債務について、連帯してその責めに任ずる。",
+    "exampleSentence": "A contract signed by one spouse to purchase household groceries generally creates liability for necessaries, binding the other spouse as well.",
+    "exampleTranslation": "一方の配偶者が日用品を購入するために署名した契約は、一般的に日常家事債務を生じさせ、他方の配偶者も拘束する。",
+    "vocabularyList": [
+      {
+        "word": "Spouse",
+        "translation": "配偶者 (haigūsha)"
+      },
+      {
+        "word": "Jointly and severally liable",
+        "translation": "連帯して責任を負う (rentai shite sekinin o ou)"
+      },
+      {
+        "word": "Third party",
+        "translation": "第三者 (daisansha)"
+      },
+      {
+        "word": "Household affairs",
+        "translation": "日常の家事 (nichijō no kaji)"
+      },
+      {
+        "word": "Expenditures",
+        "translation": "支出 (shishutsu)"
+      },
+      {
+        "word": "Obligation",
+        "translation": "債務 (saimu)"
+      }
+    ]
   }
 ]

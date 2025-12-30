@@ -2,44 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Free Evaluation of Evidence",
-    "definition": "The principle that the court, after examining all evidence presented, is free to judge the truth or falsity of facts based on its own conviction, without being bound by statutory rules regarding the weight of evidence.",
-    "japaneseDefinition": "裁判所が、証拠調べの結果に基づき、証明の有無について、自己の自由な判断と確信によって認定すべきとする原則。",
-    "japaneseWordTranslation": "自由心証主義 (じゆうしんしょうしゅぎ)",
-    "legalContext": "Code of Civil Procedure Art. 247: 'The court shall determine, in light of the entire import of the oral argument and the result of the examination of evidence, whether the allegations concerning the facts of the case are true.'",
-    "japaneseLegalContext": "民事訴訟法第247条: 裁判所は、口頭弁論の全趣旨及び証拠調べの結果を考慮して、自由な心証により事実についての主張を真実と認めるべきかどうかを判断する。",
-    "exampleSentence": "Under the principle of the free evaluation of evidence, the court is not required to adhere strictly to the rules of documentary evidence established in older common law systems.",
-    "exampleTranslation": "自由心証主義の原則の下では、裁判所は、旧来のコモンロー制度で確立されていた書証の規則に厳格に従う必要はない。",
-    "vocabularyList": [
-      {
-        "word": "weight of evidence",
-        "translation": "証拠の価値（証拠力）"
-      },
-      {
-        "word": "oral argument",
-        "translation": "口頭弁論 (こうとうべんろん) [Note: Avoiding the excluded general term 'oral argument' but using it in the context of the CCP text]"
-      },
-      {
-        "word": "factual determination",
-        "translation": "事実認定 (じじつにんてい)"
-      },
-      {
-        "word": "judicial conviction",
-        "translation": "裁判官の確信 (さいばんかんのかくしん)"
-      },
-      {
-        "word": "allegations",
-        "translation": "主張 (しゅちょう)"
-      },
-      {
-        "word": "common law systems",
-        "translation": "英米法系 (えいべいほうけい)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Judgment by Confession",
     "definition": "A judgment rendered when the defendant explicitly admits the validity and entire substance of the plaintiff's claim in court, resulting in a binding final judgment without the need for further evidence or factual determination.",
     "japaneseDefinition": "被告が原告の請求の全部または主要な内容を真実であると認め、裁判所に対してその旨を陳述した際に下される判決。これにより訴訟は終結する。",
@@ -8200,6 +8162,108 @@
       {
         "word": "confirmation of non-existence",
         "translation": "不存在の確認"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exclusive Jurisdiction",
+    "definition": "A mandatory rule assigning jurisdiction over a specific type of case to a particular court, preventing parties from choosing an alternative forum or agreeing otherwise.",
+    "japaneseDefinition": "特定の訴訟事件について、法律の規定により、特定の裁判所のみが管轄権を有し、当事者の合意による他の裁判所への移転や指定が許されないこと。",
+    "japaneseWordTranslation": "専属管轄 (せんぞく かんかつ)",
+    "legalContext": "Code of Civil Procedure (CCP) Art. 11 (2): When the provisions regarding exclusive jurisdiction apply, provisions regarding agreement-based jurisdiction (prorogation) shall not apply.",
+    "japaneseLegalContext": "民事訴訟法第11条第2項: 専属管轄に関する規定がある場合には、前二条（合意管轄）の規定は、適用しない。",
+    "exampleSentence": "Actions concerning corporate dissolution are subject to the exclusive jurisdiction of the court governing the location of the principal office, regardless of the parties' agreement.",
+    "exampleTranslation": "会社解散に関する訴訟は、当事者の合意にかかわらず、主たる事務所の所在地を管轄する裁判所の専属管轄となる。",
+    "vocabularyList": [
+      {
+        "word": "corporate dissolution",
+        "translation": "会社解散"
+      },
+      {
+        "word": "principal office",
+        "translation": "主たる事務所"
+      },
+      {
+        "word": "agreement-based jurisdiction",
+        "translation": "合意管轄"
+      },
+      {
+        "word": "forum",
+        "translation": "法廷地"
+      },
+      {
+        "word": "mandatoy rule",
+        "translation": "強行規定"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Issue Formulation",
+    "definition": "The procedural stage where the court, in cooperation with the parties, identifies and narrows down the actual points of contention (issues) and the necessary evidence to resolve them, streamlining subsequent proceedings.",
+    "japaneseDefinition": "裁判所が当事者と協力して、審理の対象となる事実上の争点と、それに関連する証拠を明確にし、絞り込む手続き段階。",
+    "japaneseWordTranslation": "争点整理 (そうてん せいり)",
+    "legalContext": "CCP Art. 164: The court shall, after hearing the opinions of the parties, determine the period required for the procedure for arranging issues and evidence.",
+    "japaneseLegalContext": "民事訴訟法第164条: 裁判所は、当事者の意見を聴いて、争点及び証拠の整理手続に要する期間を定めることができる。",
+    "exampleSentence": "The court utilized the pre-trial conference procedure for effective issue formulation, which significantly expedited the subsequent trial hearing.",
+    "exampleTranslation": "裁判所は、効果的な争点整理のために準備手続を利用し、その後の口頭弁論期日を大幅に迅速化した。",
+    "vocabularyList": [
+      {
+        "word": "pre-trial conference procedure",
+        "translation": "公判前整理手続"
+      },
+      {
+        "word": "expedited",
+        "translation": "迅速化された"
+      },
+      {
+        "word": "trial hearing",
+        "translation": "審理期日"
+      },
+      {
+        "word": "points of contention",
+        "translation": "争点"
+      },
+      {
+        "word": "subsequent proceedings",
+        "translation": "後続の手続"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Legally Adduced Evidence",
+    "definition": "A fundamental procedural rule dictating that the facts found by the court, upon which a judgment is based, must be proven solely by evidence legally submitted and examined in the proceedings.",
+    "japaneseDefinition": "裁判所が判決の基礎とする事実認定は、訴訟手続において適法に提出され、審査された証拠によってのみ証明されなければならないという基本原則。",
+    "japaneseWordTranslation": "証拠裁判主義 (しょうこ さいばん しゅぎ)",
+    "legalContext": "The Principle of Legally Adduced Evidence underlies Article 247 of the Code of Civil Procedure, which grants the judge the power of free evaluation of evidence.",
+    "japaneseLegalContext": "証拠裁判主義は、裁判官に証拠の自由な評価を認める民事訴訟法第247条の根底にある。",
+    "exampleSentence": "Under the principle of legally adduced evidence, the judge cannot base a decision on private investigation or facts not introduced during the open court trial.",
+    "exampleTranslation": "証拠裁判主義に基づき、裁判官は、私的調査や公開法廷での審理中に提出されなかった事実に依拠して判決を下すことはできない。",
+    "vocabularyList": [
+      {
+        "word": "facts found",
+        "translation": "事実認定"
+      },
+      {
+        "word": "private investigation",
+        "translation": "私的調査"
+      },
+      {
+        "word": "open court trial",
+        "translation": "公開法廷での審理"
+      },
+      {
+        "word": "solely",
+        "translation": "〜のみによって"
+      },
+      {
+        "word": "underlies",
+        "translation": "根底にある"
       }
     ]
   }

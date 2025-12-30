@@ -5752,5 +5752,73 @@
         "translation": "供託物"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Recovery (of Deposit)",
+    "definition": "The right held by the depositor (consignor of performance) to withdraw the deposited property under specific statutory conditions, typically before the obligee accepts the deposit or the judicial deposit disposition becomes final.",
+    "japaneseDefinition": "供託者が、供託の受諾（じゅだく）がなかった場合や、供託を有効とする判決が確定していないなどの一定の条件の下で、供託物を取り戻すことができる権利。",
+    "japaneseWordTranslation": "取戻請求権 (とりもどしせいきゅうけん)",
+    "legalContext": "Civil Code Art. 498 (1): 'The obligor may recover the Thing deposited, as long as the obligee has not consented to the acceptance of the deposit or a judgment confirming that the deposit is effective has not become final and binding...'",
+    "japaneseLegalContext": "民法第498条第1項: 「債務者は、債権者が供託を受諾せず、又は供託を有効とする判決が確定しない間は、供託物を取り戻すことができる。」",
+    "exampleSentence": "The depositor must exercise his Right to Recovery within ten years from the date of the deposit, after which the entitlement may expire.",
+    "exampleTranslation": "供託者は、供託日から10年以内に取戻請求権を行使しなければならず、その後は権利が消滅する可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "depositor",
+        "translation": "供託者 (きょうたくしゃ)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "acceptance of the deposit",
+        "translation": "供託の受諾 (きょうたくのじゅだく)"
+      },
+      {
+        "word": "statutory conditions",
+        "translation": "法定の条件 (ほうていのじょうけん)"
+      },
+      {
+        "word": "expire",
+        "translation": "消滅する (しょうめつする)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exoneration of Obligation",
+    "definition": "The legal effect whereby a valid performance tender deposit (consignment) made by the obligor causes the underlying obligation to be extinguished, thereby relieving the obligor of liability.",
+    "japaneseDefinition": "有効な弁済供託がなされることによって、その基となる債務が消滅し、債務者が責任を免れるという法的効果。",
+    "japaneseWordTranslation": "債務の免責 (さいむのめんせき)",
+    "legalContext": "Civil Code Art. 494: 'Upon making a consignment for performance, the obligor shall be exonerated from the obligation.'",
+    "japaneseLegalContext": "民法第494条: 「供託は、債権者がこれを受諾し、又は供託を有効とする判決が確定した時に、弁済と同一の効力を生ずる。」 (Note: This is the practical effect of performance/exoneration.)",
+    "exampleSentence": "Once the required funds were deposited due to the creditor’s refusal to accept tender, the obligor achieved Exoneration of Obligation regarding that specific debt.",
+    "exampleTranslation": "債権者が弁済の提供を受領拒否したため、所要の金銭が供託されると、債務者は当該特定の債務に関する債務の免責を得た。",
+    "vocabularyList": [
+      {
+        "word": "performance tender deposit",
+        "translation": "弁済供託 (べんさいきょうたく)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "extinguished",
+        "translation": "消滅した (しょうめつした)"
+      },
+      {
+        "word": "refusal to accept tender",
+        "translation": "受領拒否 (じゅりょうきょひ)"
+      },
+      {
+        "word": "specific debt",
+        "translation": "特定の債務 (とくていのさいむ)"
+      }
+    ]
   }
 ]

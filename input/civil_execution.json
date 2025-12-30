@@ -8086,5 +8086,123 @@
         "translation": "法律の作用"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Garnishment of Periodic Payments",
+    "definition": "The procedure in monetary execution where a creditor seizes claims that arise successively or periodically (e.g., salary, pension, rent) to satisfy a debt.",
+    "japaneseDefinition": "債務者が継続的に受け取るべき金銭債権（給与、賃料等）に対する差押えによる金銭執行の手続き。",
+    "japaneseWordTranslation": "継続的給付債権の差押え (けいぞくてききゅうふさいけんのさしおさえ)",
+    "legalContext": "Civil Execution Act, Art. 152: Restriction on Seizure of Earnings (regulating the portion of future earnings that cannot be seized).",
+    "japaneseLegalContext": "民事執行法第152条：給与等の差押えの制限",
+    "exampleSentence": "The obligee applied for the garnishment of periodic payments against the obligor's monthly rental income to cover the outstanding judgment amount.",
+    "exampleTranslation": "債権者は、未払いの判決金額を回収するため、債務者の月々の賃料収入に対し継続的給付債権の差押えを申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え"
+      },
+      {
+        "word": "periodic",
+        "translation": "継続的"
+      },
+      {
+        "word": "rental income",
+        "translation": "賃料収入"
+      },
+      {
+        "word": "outstanding amount",
+        "translation": "未払い金額"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Handover of the Subject Property",
+    "definition": "Non-monetary execution procedure whereby the executing organ forcibly transfers possession of specific real estate or movable property from the obligor to the obligee, as stipulated in the execution title.",
+    "japaneseDefinition": "債務名義に定められた特定の不動産または動産の占有を、執行機関が債務者から債権者へ強制的に移転させる非金銭執行手続き。",
+    "japaneseWordTranslation": "引渡しの執行 (ひきわたしのしっこう)",
+    "legalContext": "Civil Execution Act, Art. 168 (Execution for Delivery or Surrender). This article outlines the method for handing over specified property.",
+    "japaneseLegalContext": "民事執行法第168条 (引渡しの執行)",
+    "exampleSentence": "The enforcement agent, pursuant to the court's decree, proceeded with the handover of the subject property to the rightful owner.",
+    "exampleTranslation": "執行官は、裁判所の決定に従い、目的物の引渡しを正当な所有者に対して実行した。",
+    "vocabularyList": [
+      {
+        "word": "enforcement agent",
+        "translation": "執行官"
+      },
+      {
+        "word": "non-monetary execution",
+        "translation": "非金銭執行"
+      },
+      {
+        "word": "execution title",
+        "translation": "債務名義"
+      },
+      {
+        "word": "decree",
+        "translation": "決定/命令"
+      },
+      {
+        "word": "possession",
+        "translation": "占有"
+      },
+      {
+        "word": "rightful owner",
+        "translation": "正当な所有者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Foreclosure Proceedings",
+    "definition": "Judicial procedures under the Civil Execution Act initiated by a secured creditor to realize (convert to money) collateral (such as mortgaged real estate) outside of standard monetary execution, ensuring priority distribution.",
+    "japaneseDefinition": "担保権を有する債権者が、担保となっている不動産等を標準の金銭執行とは別の手続きで競売にかけ、優先弁済を受けるための司法手続き。",
+    "japaneseWordTranslation": "担保権の実行手続 (たんぽけんのじっこうてつづき)",
+    "legalContext": "Civil Execution Act, Chapter 4, Section 1 (Procedures for the Enforcement of Security Interests in Real Property).",
+    "japaneseLegalContext": "民事執行法第4章第1節 (不動産担保権の実行の手続)",
+    "exampleSentence": "The financial institution initiated foreclosure proceedings against the factory site, relying on its duly registered hypothec.",
+    "exampleTranslation": "その金融機関は、正式に登記された抵当権に基づき、工場用地に対して担保権の実行手続を開始した。",
+    "vocabularyList": [
+      {
+        "word": "secured creditor",
+        "translation": "担保権者/担保権を有する債権者"
+      },
+      {
+        "word": "collateral",
+        "translation": "担保物"
+      },
+      {
+        "word": "realize (to money)",
+        "translation": "換価する"
+      },
+      {
+        "word": "priority distribution",
+        "translation": "優先弁済"
+      },
+      {
+        "word": "mortgaged",
+        "translation": "抵当に入れられた"
+      },
+      {
+        "word": "duly registered",
+        "translation": "正式に登記された"
+      },
+      {
+        "word": "financial institution",
+        "translation": "金融機関"
+      }
+    ]
   }
 ]

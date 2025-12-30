@@ -8012,5 +8012,119 @@
         "translation": "手続上の原則 (てつづきじょうのげんそく)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Litigation Status",
+    "definition": "The legal position or relationship of an individual or entity within a civil lawsuit (e.g., as a plaintiff, defendant, intervenor, or successor), defining the scope of their procedural rights and obligations.",
+    "japaneseDefinition": "裁判所における民事訴訟手続において、当事者や参加人などが有する、法的に定められた立場や資格、およびそれに伴う手続上の権利・義務の範囲。",
+    "japaneseWordTranslation": "訴訟上の地位 (そしょうじょうのちい)",
+    "legalContext": "Code of Civil Procedure (Minji Soshōhō) Art. 115 (Effect of Judgment on Successors): Defines the parties against whom a final judgment takes effect, including those who succeed to the litigation status after the conclusion of oral arguments.",
+    "japaneseLegalContext": "民事訴訟法第115条 (判決の効力が及ぶ者の範囲): 判決の効力が口頭弁論終結後の承継人等に及ぶことを定める。",
+    "exampleSentence": "A change in the defendant's litigation status occurred when the corporate entity was absorbed in a statutory merger, requiring a formal procedural succession.",
+    "exampleTranslation": "法人が法定の合併で吸収された際、被告の訴訟上の地位に変更が生じ、正式な手続上の承継が求められた。",
+    "vocabularyList": [
+      {
+        "word": "procedural succession",
+        "translation": "手続上の承継"
+      },
+      {
+        "word": "intervenor",
+        "translation": "参加人"
+      },
+      {
+        "word": "statutory merger",
+        "translation": "法定の合併"
+      },
+      {
+        "word": "final judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "corporate entity",
+        "translation": "法人格"
+      },
+      {
+        "word": "scope of rights",
+        "translation": "権利の範囲"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Formal Party (Litigation)",
+    "definition": "An individual or entity named as a party in a lawsuit who holds the formal power to prosecute the suit (soshō tsuikō-ken), but who is distinct from the person who substantively possesses the rights or obligations that are the actual subject of the dispute.",
+    "japaneseDefinition": "訴訟追行権を有するが、紛争の対象となっている実体上の権利義務の帰属主体ではない当事者。例えば、遺言執行者や破産管財人など、法令に基づいて訴訟遂行権を与えられた者。",
+    "japaneseWordTranslation": "形式的当事者 (けいしきてきとうじしゃ)",
+    "legalContext": "This concept arises when an administrator or trustee (e.g., a bankruptcy trustee or executor) brings suit on behalf of another party who holds the substantive right, as defined implicitly in various laws regulating administration of property.",
+    "japaneseLegalContext": "主として破産管財人や遺言執行者など、財産管理を規定する法令において、実体的な権利主体に代わって訴訟追行権を与えられた管理者について適用される。",
+    "exampleSentence": "The bankruptcy trustee, acting as the formal party, initiated proceedings against a creditor to recover improperly transferred assets into the debtor's estate.",
+    "exampleTranslation": "破産管財人は、形式的当事者として行動し、債務者の財産に不当に移転された資産を回収するため、債権者に対する手続を開始した。",
+    "vocabularyList": [
+      {
+        "word": "prosecute the suit",
+        "translation": "訴訟追行"
+      },
+      {
+        "word": "substantive rights",
+        "translation": "実体上の権利"
+      },
+      {
+        "word": "bankruptcy trustee",
+        "translation": "破産管財人"
+      },
+      {
+        "word": "executor",
+        "translation": "遺言執行者"
+      },
+      {
+        "word": "debtor's estate",
+        "translation": "債務者の財産"
+      },
+      {
+        "word": "improperly transferred assets",
+        "translation": "不当に移転された資産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Small Claim Proceedings",
+    "definition": "A special, swift, and simplified procedure available in the Summary Court system for monetary claims up to JPY 600,000, typically concluded in a single hearing date, with limitations on the plaintiff's ability to use the procedure repeatedly.",
+    "japaneseDefinition": "60万円以下の金銭の支払いを求める訴訟に限り、簡易裁判所において原則として一回の期日で審理を終結させ、直ちに判決するよう設けられた特則。原告による利用回数に制限がある。",
+    "japaneseWordTranslation": "少額訴訟 (しょうがくそしょう)",
+    "legalContext": "Code of Civil Procedure (Minji Soshōhō) Art. 368 et seq. (Special Provisions for Small Claim Suits): Outlines the requirements, procedures, limitations on counterclaims, and restrictions on successive use.",
+    "japaneseLegalContext": "民事訴訟法第368条以下 (少額訴訟に関する特則): 少額訴訟の要件、手続、反訴の制限、反復利用の制限などを定める。",
+    "exampleSentence": "The consumer chose the small claim proceedings to recover the deposit from the landlord due to its expedited timeline and streamlined procedural requirements.",
+    "exampleTranslation": "その消費者は、迅速な時間枠と簡略化された手続要件のため、家主からの敷金返還を求めるのに少額訴訟手続を選択した。",
+    "vocabularyList": [
+      {
+        "word": "Summary Court",
+        "translation": "簡易裁判所"
+      },
+      {
+        "word": "monetary claims",
+        "translation": "金銭の支払い請求"
+      },
+      {
+        "word": "expedited timeline",
+        "translation": "迅速化された時間枠"
+      },
+      {
+        "word": "streamlined requirements",
+        "translation": "簡略化された要件"
+      },
+      {
+        "word": "counterclaims",
+        "translation": "反訴"
+      },
+      {
+        "word": "successive use",
+        "translation": "反復利用"
+      }
+    ]
   }
 ]

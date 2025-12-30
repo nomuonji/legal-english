@@ -7588,5 +7588,81 @@
         "translation": "横領 (おうりょう)"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mistake Concerning Constituent Elements",
+    "definition": "A mistake of fact where the perpetrator is unaware of or misunderstands an objective factual element that constitutes the definition of a crime (e.g., believing a victim is an inanimate object, when they are human). This negates criminal intent but may leave room for punishment based on criminal negligence.",
+    "japaneseDefinition": "行為者が、犯罪の構成要件を定める客観的事実要素を認識していない、または誤認している状態をいう。原則として故意を阻却するが、過失があれば過失犯として処罰される。",
+    "japaneseWordTranslation": "構成要件の錯誤 (こうせいようけんのさくご)",
+    "legalContext": "Criminal Code Art. 38, Para. 1 (Lack of Intent): 'An act done without criminal intent is not punishable. However, this shall not preclude punishment if there is a special provision concerning negligence.'",
+    "japaneseLegalContext": "刑法第38条第1項: 罪を犯す意思がない行為は、罰しない。ただし、法律に特別の規定がある場合は、この限りでない。",
+    "exampleSentence": "If the defendant was unaware that the item taken belonged to another, they lacked the requisite criminal intent for larceny due to a mistake concerning constituent elements.",
+    "exampleTranslation": "被告人が奪った物が他人の所有であることを認識していなかった場合、構成要件の錯誤により窃盗罪に必要な犯罪の意思（故意）を欠く。",
+    "vocabularyList": [
+      {
+        "word": "criminal intent",
+        "translation": "故意"
+      },
+      {
+        "word": "objective factual element",
+        "translation": "客観的事実要素"
+      },
+      {
+        "word": "negates",
+        "translation": "阻却する"
+      },
+      {
+        "word": "requisite",
+        "translation": "必要な"
+      },
+      {
+        "word": "larceny",
+        "translation": "窃盗罪"
+      },
+      {
+        "word": "punishment",
+        "translation": "処罰"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Crime of True Omission",
+    "definition": "A type of omission crime where the illegal act is defined purely as the violation of a statutory duty to act, without reference to a specific causal result (e.g., the duty to report an epidemic or render aid to someone in distress, where the mere failure to act constitutes the crime).",
+    "japaneseDefinition": "法律が特定の行為義務を課し、その行為を行わないこと自体を犯罪とする不作為犯の一種。結果発生の有無にかかわらず、単に義務違反の不作為をもって犯罪が成立する。（例：不退去罪）",
+    "japaneseWordTranslation": "眞正不作為犯 (しんせいふさくいはん)",
+    "legalContext": "Criminal Code Art. 130, Second Sentence (Trespass onto habitation): 'The same shall apply to a person who, having been ordered to leave the place, fails to do so.' (This ‘failure to leave’ constitutes a specific duty violation by omission.)",
+    "japaneseLegalContext": "刑法第130条後段（不退去罪）：要求を受けたにもかかわらず退去しなかった者についても、同様とする。",
+    "exampleSentence": "In a Crime of True Omission, the prosecution only needs to prove the existence of the statutory duty and the defendant's deliberate failure to fulfill it.",
+    "exampleTranslation": "眞正不作為犯では、検察側は、法定された義務の存在と、被告人がその義務を故意に履行しなかったことのみを立証すればよい。",
+    "vocabularyList": [
+      {
+        "word": "omission crime",
+        "translation": "不作為犯"
+      },
+      {
+        "word": "statutory duty to act",
+        "translation": "法定の作為義務"
+      },
+      {
+        "word": "violation",
+        "translation": "違反"
+      },
+      {
+        "word": "constitutes the crime",
+        "translation": "犯罪を構成する"
+      },
+      {
+        "word": "prosecution",
+        "translation": "検察"
+      },
+      {
+        "word": "deliberate failure",
+        "translation": "故意の不履行"
+      }
+    ]
   }
 ]

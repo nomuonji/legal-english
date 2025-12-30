@@ -1,42 +1,34 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Constitution (憲法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Causality",
-  "definition": "The necessary link between the defendant's conduct (act) and the resulting criminal consequence (harm). In result-based crimes, the prosecution must establish a causal relationship beyond a reasonable doubt.",
-  "japaneseDefinition": "行為と結果との間に存在する原因・結果の関係。結果犯において構成要件該当性を判断する上で不可欠な要素。",
-  "japaneseWordTranslation": "因果関係 (いんがかんけい)",
-  "legalContext": "Principle of Causation (A foundational principle required for establishing the elements of result-based offenses, such as injury or damage to property).",
-  "japaneseLegalContext": "結果犯における構成要件要素",
-  "exampleSentence": "The court found that the prosecution failed to establish sufficient causality between the accused’s negligent driving and the victim's ultimate death from subsequent hospital-acquired infection.",
-  "exampleTranslation": "裁判所は、被告人の過失運転と、被害者がその後の院内感染で最終的に死亡したこととの間に十分な因果関係が立証されていないと判断した。",
+  "word": "Public Welfare",
+  "definition": "The legal concept used in Japanese constitutional law to justify limitations imposed upon individual rights and freedoms when necessary for the common good, public order, and societal prosperity.",
+  "japaneseDefinition": "社会全体の利益や秩序を指し、基本的人権の制約原理として用いられる概念。",
+  "japaneseWordTranslation": "公共の福祉 (こうきょうのふくし)",
+  "legalContext": "Constitution of Japan, Art. 13: 'All of the people shall be respected as individuals. Their right to life, liberty, and the pursuit of happiness shall, to the extent that it does not interfere with the **public welfare**, be the supreme consideration in legislation and in other governmental affairs.'",
+  "japaneseLegalContext": "日本国憲法 第13条: 「すべて国民は、個人として尊重される。生命、自由及び幸福追求に対する国民の権利については、公共の福祉に反しない限り、立法その他の国政の上で、最大の尊重を必要とする。」",
+  "exampleSentence": "The right to own property, while protected under the Constitution, may be subjected to necessary restrictions based on the demands of **Public Welfare**, such as zoning regulations.",
+  "exampleTranslation": "財産権は憲法で保護されているものの、都市計画法のような公共の福祉の要請に基づいて、必要な制限を受けることがある。",
   "vocabularyList": [
     {
-      "word": "prosecution",
-      "translation": "検察（側）"
+      "word": "limitation",
+      "translation": "制約、制限"
     },
     {
-      "word": "result-based crimes",
-      "translation": "結果犯"
+      "word": "common good",
+      "translation": "共通の利益"
     },
     {
-      "word": "negligent driving",
-      "translation": "過失運転"
+      "word": "societal prosperity",
+      "translation": "社会の繁栄"
     },
     {
-      "word": "hospital-acquired infection",
-      "translation": "院内感染"
+      "word": "right to own property",
+      "translation": "財産権"
     },
     {
-      "word": "beyond a reasonable doubt",
-      "translation": "合理的な疑いを超えて"
-    },
-    {
-      "word": "elements of the crime",
-      "translation": "構成要件"
-    },
-    {
-      "word": "ultimate death",
-      "translation": "最終的な死亡"
+      "word": "zoning regulations",
+      "translation": "用途地域に関する規制（ゾーニング規制）"
     }
   ]
 }

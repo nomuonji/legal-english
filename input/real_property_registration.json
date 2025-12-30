@@ -6746,5 +6746,81 @@
         "translation": "過料"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Authority of Formal Examination",
+    "definition": "The principle that the Registrar’s review power is restricted strictly to confirming whether the application documents and procedures comply with the legal forms, without investigating the substantive truth of the underlying legal cause or proprietary rights.",
+    "japaneseDefinition": "登記官の審査権限が、提出された申請書類及び手続きが法的な形式要件に合致しているかを確認することに限定され、基礎となる実体的な法律関係や権利の真偽を調査しない原則。",
+    "japaneseWordTranslation": "形式的審査権 (けいしきてきしんさけん)",
+    "legalContext": "Principle of formal examination (形式的審査主義), inherent in the Real Property Registration System, limiting the scope of the Registrar's duties.",
+    "japaneseLegalContext": "不動産登記制度に内在する形式的審査主義（登記官の職責の範囲を限定する原則）",
+    "exampleSentence": "Due to the Authority of Formal Examination, the Registrar cannot investigate whether the alleged sale that prompted the ownership transfer registration was voidable due to duress.",
+    "exampleTranslation": "形式的審査権に基づき、登記官は、所有権移転登記を促したとされる売買が強迫によって取り消し得るものであったかどうかを調査することはできない。",
+    "vocabularyList": [
+      {
+        "word": "substantive truth",
+        "translation": "実体的真偽"
+      },
+      {
+        "word": "underlying legal cause",
+        "translation": "基礎となる法律上の原因"
+      },
+      {
+        "word": "review power",
+        "translation": "審査権限"
+      },
+      {
+        "word": "proprietary rights",
+        "translation": "所有権"
+      },
+      {
+        "word": "voidable",
+        "translation": "取り消し得る"
+      },
+      {
+        "word": "duress",
+        "translation": "強迫"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registered Particulars",
+    "definition": "The specific items of information that are legally required or permitted to be recorded in the Real Property Register, classified into those concerning the property description and those concerning proprietary rights.",
+    "japaneseDefinition": "不動産登記簿に記録することが法令により義務付けられている、または許可されている具体的な情報項目。不動産の表示に関する事項と権利に関する事項に分類される。",
+    "japaneseWordTranslation": "登記事項 (とうきじこう)",
+    "legalContext": "Real Property Registration Act, Art. 27 (Description particulars) and Art. 59 (Rights particulars). These define the scope of registerable content.",
+    "japaneseLegalContext": "不動産登記法第27条（表示に関する登記）及び第59条（権利に関する登記）。これらは登記可能な内容の範囲を定める。",
+    "exampleSentence": "The Registered Particulars for land must include the property's location, land category, and area, while proprietary rights are listed separately in Section A and Section B of the register.",
+    "exampleTranslation": "土地の登記事項には、所在、地目、及び面積を含めなければならず、一方、権利に関する事項は登記記録の甲区及び乙区に分けて記載される。",
+    "vocabularyList": [
+      {
+        "word": "property description",
+        "translation": "不動産の表示"
+      },
+      {
+        "word": "land category",
+        "translation": "地目"
+      },
+      {
+        "word": "proprietary rights",
+        "translation": "権利に関する事項"
+      },
+      {
+        "word": "location",
+        "translation": "所在"
+      },
+      {
+        "word": "area",
+        "translation": "面積"
+      },
+      {
+        "word": "scope of content",
+        "translation": "内容の範囲"
+      }
+    ]
   }
 ]

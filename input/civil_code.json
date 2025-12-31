@@ -8904,5 +8904,119 @@
         "translation": "債務 (saimu)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Bona Fide Possessor",
+    "definition": "A person who possesses a thing believing, without negligence, that they have the right (Honken, 本権) to possess it.",
+    "japaneseDefinition": "占有の事実に加えて、占有をなすについて本権があると誤信し、かつその誤信をするについて過失がない占有者。",
+    "japaneseWordTranslation": "善意占有者 (ぜんいせんゆうしゃ)",
+    "legalContext": "Civil Code Art. 189: Rights of a Bona Fide Possessor to Acquire Fruits (A bona fide possessor shall acquire the fruits of the thing possessed.)",
+    "japaneseLegalContext": "民法第189条: 善意の占有者（占有者は、善意であるときは、占有物から生ずる果実を取得する。）",
+    "exampleSentence": "Under Japanese Civil Law, a bona fide possessor is not liable to return the fruits already acquired, even if the possession is later determined to be without legal grounds.",
+    "exampleTranslation": "日本民法の下では、善意占有者は、たとえ後にその占有が法的根拠を欠くと決定されても、既に取得した果実を返還する責任を負わない。",
+    "vocabularyList": [
+      {
+        "word": "Possessor",
+        "translation": "占有者 (せんゆうしゃ)"
+      },
+      {
+        "word": "Negligence",
+        "translation": "過失 (かしつ)"
+      },
+      {
+        "word": "Possession",
+        "translation": "占有 (せんゆう)"
+      },
+      {
+        "word": "Acquire the fruits",
+        "translation": "果実を取得する (かじつをしゅとくする)"
+      },
+      {
+        "word": "Legal grounds",
+        "translation": "法的根拠 (ほうてきこんきょ)"
+      },
+      {
+        "word": "Liable to return",
+        "translation": "返還の責任 (へんかんのせきにん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Waiver of Rights",
+    "definition": "A unilateral declaration of intention by which the holder voluntarily and definitively relinquishes or abandons an existing right.",
+    "japaneseDefinition": "権利者が自己の意思に基づいて、既存の権利を消滅させる行為（意思表示）。",
+    "japaneseWordTranslation": "権利の放棄 (けんりのほうき)",
+    "legalContext": "Civil Code Art. 263: Waiver of Co-Ownership Share (A co-owner may waive his/her share. If another co-owner exists, the waived share shall accrue to the other co-owners.)",
+    "japaneseLegalContext": "民法第263条: 共有持分の放棄等（共有者は、その持分を放棄することができる。他の共有者があるときは、その持分は、他の共有者に帰属する。）",
+    "exampleSentence": "A waiver of rights concerning ownership of real property must be registered to establish its opposability against bona fide third parties.",
+    "exampleTranslation": "不動産の所有権に関する権利の放棄は、善意の第三者に対する対抗力を確立するために登記されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Unilateral declaration",
+        "translation": "一方的な意思表示 (いっぽうてきないしひょうじ)"
+      },
+      {
+        "word": "Relinquishes",
+        "translation": "放棄する (ほうきする)"
+      },
+      {
+        "word": "Accrue",
+        "translation": "帰属する (きぞくする)"
+      },
+      {
+        "word": "Co-owner",
+        "translation": "共有者 (きょうゆうしゃ)"
+      },
+      {
+        "word": "Share (in property)",
+        "translation": "持分 (もちぶん)"
+      },
+      {
+        "word": "Real property",
+        "translation": "不動産 (ふどうさん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Contract of Bailment",
+    "definition": "A contract established when one party (the bailor) delivers a thing to the other party (the bailee), and the bailee promises to preserve (store) it.",
+    "japaneseDefinition": "当事者の一方がある物を相手方に預け、相手方がこれを保管することを約することによって効力を生ずる契約。",
+    "japaneseWordTranslation": "寄託契約 (きたくけいやく)",
+    "legalContext": "Civil Code Art. 657: Definition of Contract of Bailment (A contract of bailment shall become effective when one of the parties delivers a certain Thing to the other party and the other party promises to preserve it.)",
+    "japaneseLegalContext": "民法第657条: 寄託（当事者の一方がある物を相手方に預け、相手方がこれを保管することを約することによって、その効力を生ずる。）",
+    "exampleSentence": "If the contract of bailment is gratuitous, the bailee is generally required only to exercise the same care in preserving the thing as he/she exercises over his/her own property.",
+    "exampleTranslation": "寄託契約が無償である場合、受寄者は通常、自己の財産に対するのと同一の注意をもって物を保管すれば足りる。",
+    "vocabularyList": [
+      {
+        "word": "Bailee",
+        "translation": "受寄者 (じゅきしゃ)"
+      },
+      {
+        "word": "Bailor",
+        "translation": "寄託者 (きたくしゃ)"
+      },
+      {
+        "word": "Preserve (store)",
+        "translation": "保管する (ほかんする)"
+      },
+      {
+        "word": "Gratuitous",
+        "translation": "無償 (むしょう)"
+      },
+      {
+        "word": "Required care",
+        "translation": "必要な注意 (ひつようなちゅうい)"
+      },
+      {
+        "word": "Delivers a thing",
+        "translation": "物を預ける (ものをあずける)"
+      }
+    ]
   }
 ]

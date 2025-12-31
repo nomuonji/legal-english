@@ -5820,5 +5820,119 @@
         "translation": "特定の債務 (とくていのさいむ)"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Jurisdictional Deposit Office",
+    "definition": "The specific public facility or institution prescribed by statute where money, securities, or other assets must be consigned to satisfy a debt, determined generally by the original place of satisfaction.",
+    "japaneseDefinition": "法律により定められた、金銭、有価証券その他の物件を供託して債務を弁済する場所。通常、債務の本旨による弁済の場所によって管轄が定まる。",
+    "japaneseWordTranslation": "供託所 (きょうたくじょ)",
+    "legalContext": "Deposit Act Art. 2: Deposit Offices shall be prescribed by Ministry of Justice Ordinance.",
+    "japaneseLegalContext": "供託法第２条：供託所は、法務省令でこれを定める。",
+    "exampleSentence": "The payor was required to ascertain the correct **Jurisdictional Deposit Office** based on the agreement's stipulated location for payment.",
+    "exampleTranslation": "債務者は、契約に規定された支払い場所に基き、正しい供託所を確認することが求められた。",
+    "vocabularyList": [
+      {
+        "word": "consign",
+        "translation": "供託する"
+      },
+      {
+        "word": "prescribed by statute",
+        "translation": "法律により定められた"
+      },
+      {
+        "word": "assets",
+        "translation": "財産／物件"
+      },
+      {
+        "word": "satisfy a debt",
+        "translation": "債務を弁済する"
+      },
+      {
+        "word": "stipulated location",
+        "translation": "規定された場所"
+      },
+      {
+        "word": "ascertain",
+        "translation": "確認する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Motion to Contest Deposit Ruling",
+    "definition": "A formal administrative recourse allowing an applicant or interested party to petition the competent court to review and overturn a decision by the Deposit Official concerning the acceptance or refusal of a deposit filing.",
+    "japaneseDefinition": "供託の申請者や利害関係人が、供託官による供託申請の受理または却下といった処分に対し、管轄裁判所にその適否の審査を求める不服申立手続。",
+    "japaneseWordTranslation": "供託処分に対する異議の申立て (きょうたくしょぶんにたいするいぎのもうしたて)",
+    "legalContext": "Deposit Act Art. 38(1): An objection may be filed against a decision made by the Deposit Official to the execution court.",
+    "japaneseLegalContext": "供託法第３８条第１項：供託官のした処分に不服がある者は、執行裁判所に対し、異議の申立てをすることができる。",
+    "exampleSentence": "Following the rejection of his security deposit application, the attorney immediately filed a **Motion to Contest Deposit Ruling** arguing the official misunderstood the claim's basis.",
+    "exampleTranslation": "保証金供託の申請が却下された後、その弁護士は、供託官が請求の根拠を誤解したと主張して、直ちに供託処分に対する異議の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "administrative recourse",
+        "translation": "行政上の不服申立て"
+      },
+      {
+        "word": "interested party",
+        "translation": "利害関係人"
+      },
+      {
+        "word": "petition the court",
+        "translation": "裁判所に申立てる"
+      },
+      {
+        "word": "overturn a decision",
+        "translation": "決定を覆す"
+      },
+      {
+        "word": "refusal of filing",
+        "translation": "申請の却下"
+      },
+      {
+        "word": "security deposit application",
+        "translation": "保証金供託申請"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Lawful Basis for Deposit",
+    "definition": "The legally recognized state of affairs that creates the right or requirement for a payor to consign property with a Deposit Office, such as non-acceptance by the claimant or uncertainty regarding who is the rightful recipient.",
+    "japaneseDefinition": "金銭等の弁済者が供託所に物件を供託する権利または義務を生じさせる、法律上認められた事情。例えば、債権者が受領しない場合や、正当な受領者が不明な場合など。",
+    "japaneseWordTranslation": "供託原因 (きょうたくげんいん)",
+    "legalContext": "Civil Code Art. 494: If the party receiving the claim refuses to accept, the payor may be relieved of accountability by depositing the subject property.",
+    "japaneseLegalContext": "民法第４９４条：債権者が弁済の受領を拒んだとき、弁済者は、その供託によって、その債務を免れる。",
+    "exampleSentence": "The company cited uncertainty regarding the true ownership of the intellectual property rights as its valid **Lawful Basis for Deposit** of the royalties.",
+    "exampleTranslation": "その会社は、知的財産権の真の所有者が不明であることを、ロイヤルティ供託の正当な供託原因として挙げた。",
+    "vocabularyList": [
+      {
+        "word": "legally recognized",
+        "translation": "法律上認められた"
+      },
+      {
+        "word": "rightful recipient",
+        "translation": "正当な受領者"
+      },
+      {
+        "word": "non-acceptance",
+        "translation": "受領の拒否"
+      },
+      {
+        "word": "relieved of accountability",
+        "translation": "責任を免れる"
+      },
+      {
+        "word": "consign property",
+        "translation": "物件を供託する"
+      },
+      {
+        "word": "royalties",
+        "translation": "ロイヤルティ／使用料"
+      }
+    ]
   }
 ]

@@ -7888,5 +7888,119 @@
         "translation": "予見可能性"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Territorial Jurisdiction",
+    "definition": "The legal concept defining the scope of application of the Japanese Criminal Code, typically referring to the place where the act constituting the offense was committed, or where the result of the offense occurred (Locus Delicti).",
+    "japaneseDefinition": "犯罪の構成要件に該当する行為が行われた場所、またはその犯罪結果が発生した場所を指す。日本の刑法が適用される地理的範囲を定める上で基本となる。",
+    "japaneseWordTranslation": "犯罪地 (はんざいち)",
+    "legalContext": "Criminal Code, Article 1 (Territorial Principle): This Code shall apply to any person who commits an offense within the territory of Japan.",
+    "japaneseLegalContext": "刑法 第1条（国内犯）: この法律は、日本国内において罪を犯したすべての者に適用する。",
+    "exampleSentence": "The determination of the territorial jurisdiction of the offense is crucial for establishing the Japanese court's competence to try the case.",
+    "exampleTranslation": "犯罪地の決定は、日本の裁判所がその事件を審理する管轄権を確立するために極めて重要である。",
+    "vocabularyList": [
+      {
+        "word": "offense",
+        "translation": "犯罪"
+      },
+      {
+        "word": "territorial principle",
+        "translation": "属地主義"
+      },
+      {
+        "word": "competence",
+        "translation": "管轄権"
+      },
+      {
+        "word": "committed",
+        "translation": "犯す"
+      },
+      {
+        "word": "result",
+        "translation": "結果"
+      },
+      {
+        "word": "establishing",
+        "translation": "確立する"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legal Fiction of Commission",
+    "definition": "A statutory mechanism in the Criminal Code (often referred to as 擬制 or 'gisei') where a specific, incomplete, or preparatory act is legally deemed equivalent to the commission or consummation of the full offense for the purposes of criminal liability.",
+    "japaneseDefinition": "特定の不完全な行為や準備行為を、法の規定により、完全な犯罪の実行または既遂とみなし、それに基づいて刑事責任を成立させるための法的擬制。",
+    "japaneseWordTranslation": "擬制 (ぎせい)",
+    "legalContext": "This concept is generally employed in complex crimes (e.g., specific organized crime provisions) where the law aims to establish liability earlier than the actual commencement of execution defined in general attempt rules.",
+    "japaneseLegalContext": "本概念は、組織的な犯罪などにおいて、通常の実行の着手よりも早い段階で責任を成立させることを目的として用いられる。",
+    "exampleSentence": "The prosecution argued that the defendant's acts met the statutory requirements for the legal fiction of commission, thereby enabling immediate criminal liability.",
+    "exampleTranslation": "検察側は、被告人の行為が法律上の擬制の要件を満たしており、それによって即座に刑事責任が成立すると主張した。",
+    "vocabularyList": [
+      {
+        "word": "statutory mechanism",
+        "translation": "法律上の仕組み"
+      },
+      {
+        "word": "incomplete act",
+        "translation": "不完全な行為"
+      },
+      {
+        "word": "consummation",
+        "translation": "既遂"
+      },
+      {
+        "word": "criminal liability",
+        "translation": "刑事責任"
+      },
+      {
+        "word": "prosecution",
+        "translation": "検察"
+      },
+      {
+        "word": "equivalent to",
+        "translation": "〜と同等である"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sentencing Guidelines",
+    "definition": "Non-statutory criteria, often compiled from judicial precedents and empirical data, that courts utilize to guide the determination of the appropriate punishment (severity and duration) within the permissible statutory range for a convicted offender.",
+    "japaneseDefinition": "裁判所が、有罪とされた者に対して、法定刑の範囲内で適切な刑罰（重さや期間）を決定する際に参照する、判例や実務データに基づいた非拘束的な基準。",
+    "japaneseWordTranslation": "量刑基準 (りょうけいきじゅん)",
+    "legalContext": "Criminal Code, Article 66 (Judicial Mitigation) and Article 68 (Grounds for Judicial Mitigation) provide the court with the discretionary power to apply these guidelines when adjusting sentences below the statutory minimum.",
+    "japaneseLegalContext": "刑法 第66条（酌量減軽）及び第68条（酌量減軽の事由）は、裁判所に対し、法定の最低限度を下回る刑に調整する場合に、これらの基準を適用する裁量権を与えている。",
+    "exampleSentence": "Although not legally binding, judges typically adhere closely to the Sentencing Guidelines to maintain consistency across similar cases.",
+    "exampleTranslation": "量刑基準は法的に拘束力はないが、裁判官は同様の事案における一貫性を保つため、通常それに厳密に従う。",
+    "vocabularyList": [
+      {
+        "word": "non-statutory",
+        "translation": "法令に基づかない"
+      },
+      {
+        "word": "judicial precedents",
+        "translation": "司法判例"
+      },
+      {
+        "word": "empirical data",
+        "translation": "実証的なデータ"
+      },
+      {
+        "word": "permissible range",
+        "translation": "許容される範囲"
+      },
+      {
+        "word": "adhere closely to",
+        "translation": "厳密に従う"
+      },
+      {
+        "word": "consistency",
+        "translation": "一貫性"
+      }
+    ]
   }
 ]

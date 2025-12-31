@@ -7682,5 +7682,115 @@
         "translation": "純赤字 (じゅんあかじ)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deemed Resolution",
+    "definition": "A mechanism allowing a company to pass resolutions by obtaining written consent or electronic record of intention from all shareholders entitled to vote, without physically holding a General Meeting of Shareholders.",
+    "japaneseDefinition": "株主総会を実際に開催することなく、議決権を行使できる株主全員から決議事項について書面または電磁的記録による同意を得て、当該決議があったものとみなす制度。",
+    "japaneseWordTranslation": "みなし決議 (Minashi Ketsugi)",
+    "legalContext": "Companies Act Art. 319 (Resolution by written consent of shareholders)",
+    "japaneseLegalContext": "会社法第319条 (株主の書面による同意があった場合の決議の省略)",
+    "exampleSentence": "The Directors used the procedure for a Deemed Resolution to approve the urgent capital restructuring plan, thereby bypassing the need for a physical general meeting.",
+    "exampleTranslation": "取締役は、緊急の資本再編計画を承認するため、みなし決議の手続きを用い、物理的な株主総会の必要性を回避した。",
+    "vocabularyList": [
+      {
+        "word": "Bypassing",
+        "translation": "回避"
+      },
+      {
+        "word": "Written consent",
+        "translation": "書面による同意"
+      },
+      {
+        "word": "Electronic record",
+        "translation": "電磁的記録"
+      },
+      {
+        "word": "Entitled to vote",
+        "translation": "議決権を行使できる"
+      },
+      {
+        "word": "Approve",
+        "translation": "承認"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Incorporation-Type Merger",
+    "definition": "A form of corporate reorganization where all merging companies are dissolved, and a new company is established to succeed all the rights and obligations of the dissolved companies.",
+    "japaneseDefinition": "複数の会社が解散し、その権利義務の全てを承継させるために新たに会社を設立する合併形態。",
+    "japaneseWordTranslation": "新設合併 (Shinsetsu Gappei)",
+    "legalContext": "Companies Act Art. 753 (Merger Agreement and procedures for establishment of a new company)",
+    "japaneseLegalContext": "会社法第753条 (新設合併契約及び新設会社の設立手続)",
+    "exampleSentence": "Implementing an Incorporation-Type Merger requires stringent creditor protection measures and usually takes longer than an absorption-type merger due to the formation of a new entity.",
+    "exampleTranslation": "新設合併を実施するには、厳格な債権者保護措置が必要であり、新会社の設立を伴うため、通常、吸収合併よりも時間を要する。",
+    "vocabularyList": [
+      {
+        "word": "Corporate reorganization",
+        "translation": "会社再編"
+      },
+      {
+        "word": "Dissolved",
+        "translation": "解散"
+      },
+      {
+        "word": "Succeed",
+        "translation": "承継"
+      },
+      {
+        "word": "Rights and obligations",
+        "translation": "権利義務"
+      },
+      {
+        "word": "Stringent measures",
+        "translation": "厳格な措置"
+      },
+      {
+        "word": "New entity",
+        "translation": "新会社"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Director",
+    "definition": "An individual appointed by the court (upon petition) to temporarily perform the duties of a director when a vacancy occurs and there is a risk that the lack of a quorum will cause significant harm to the company.",
+    "japaneseDefinition": "取締役の欠員が生じた際に、定足数を満たせず会社に著しい損害が生じる恐れがある場合に、裁判所の選任によって一時的にその職務を行う者。",
+    "japaneseWordTranslation": "仮取締役 (Kari Torishimariyaku)",
+    "legalContext": "Companies Act Art. 346(2) (Appointment of provisional director or auditor)",
+    "japaneseLegalContext": "会社法第346条第2項 (一時取締役等の職務を行うべき者の選任)",
+    "exampleSentence": "Following the sudden resignation of the entire board, the court immediately appointed a Provisional Director to ensure the continuity of business operations.",
+    "exampleTranslation": "取締役会全体の突然の辞任を受け、裁判所は事業運営の継続を確保するために直ちに仮取締役を選任した。",
+    "vocabularyList": [
+      {
+        "word": "Appointed by the court",
+        "translation": "裁判所の選任による"
+      },
+      {
+        "word": "Vacancy",
+        "translation": "欠員"
+      },
+      {
+        "word": "Quorum",
+        "translation": "定足数"
+      },
+      {
+        "word": "Significant harm",
+        "translation": "著しい損害"
+      },
+      {
+        "word": "Continuity of business operations",
+        "translation": "事業運営の継続"
+      },
+      {
+        "word": "Petition",
+        "translation": "申立て"
+      }
+    ]
   }
 ]

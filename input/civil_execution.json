@@ -8432,5 +8432,119 @@
         "translation": "非金銭執行"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution for the Surrender of Movable Property",
+    "definition": "A procedure under the Civil Execution Act whereby an executing organ compels the transfer of possession of specific, designated movable assets from the person currently possessing them (the debtor) to the creditor, based on an enforceable judgment or instrument.",
+    "japaneseDefinition": "債務名義に基づき、特定の動産について債務者から債権者へ占有の引渡しを強制的に実現する執行手続。",
+    "japaneseWordTranslation": "動産の引渡し執行 (どうさんのひきわたししっこう)",
+    "legalContext": "Civil Execution Act, Article 169 (Execution for Delivery or Surrender of Movables): Where the instrument of execution specifies a delivery or surrender of movable property...",
+    "japaneseLegalContext": "民事執行法第169条 (動産の引渡し又は明渡しの執行): 動産の引渡し又は明渡しの執行は、執行官が債務者からその動産を奪取し、これを債権者に引き渡す方法により行う。",
+    "exampleSentence": "The company initiated an Execution for the Surrender of Movable Property to recover the specified manufacturing equipment after the lease termination.",
+    "exampleTranslation": "その会社は、リース終了後、指定された製造設備を回収するため、動産の引渡し執行を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Surrender (of property)",
+        "translation": "引渡し (ひきわたし)"
+      },
+      {
+        "word": "Designated assets",
+        "translation": "指定された財産 (していされたざいさん)"
+      },
+      {
+        "word": "Executing organ",
+        "translation": "執行機関 (しっこうきかん)"
+      },
+      {
+        "word": "Lease termination",
+        "translation": "賃貸借契約の終了 (ちんたいしゃくけいやくのしゅうりょう)"
+      },
+      {
+        "word": "Compel the transfer",
+        "translation": "強制的な移転 (きょうせいてきないてん)"
+      },
+      {
+        "word": "Enforceable instrument",
+        "translation": "執行力のある文書 (しっこうりょくのあるぶんしょ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution based on Non-Monetary Claims",
+    "definition": "A category of execution procedures designed to enforce judgments that mandate actions other than the payment of money, such as the establishment or declaration of intent, performance of a specific act, or refraining from an action.",
+    "japaneseDefinition": "金銭債権の満足を目的とせず、特定物の引渡し、意思表示の実現、特定の作為・不作為などを目的とする判決などを強制的に実現するための執行手続の総称。",
+    "japaneseWordTranslation": "非金銭債権に基づく執行 (ひきんせんさいけんに もとづくしっこう)",
+    "legalContext": "Civil Execution Act, Chapter VI outlines the specific methods and requirements for the realization of non-monetary claims, distinguishing procedures for substitution of intent, performance of acts, and delivery/surrender.",
+    "japaneseLegalContext": "民事執行法第6章: 非金銭債権についての強制執行（第169条～第179条）には、意思表示、作為、不作為、物件の引渡しに関する執行方法が規定されている。",
+    "exampleSentence": "The developer filed for Execution based on Non-Monetary Claims to compel the neighboring landowner to perform the specific act of removing an encroaching fence.",
+    "exampleTranslation": "開発業者は、隣接地の所有者に対し、侵害しているフェンスを撤去するという特定の行為を強制するため、非金銭債権に基づく執行を申請した。",
+    "vocabularyList": [
+      {
+        "word": "Declaration of intent",
+        "translation": "意思表示 (いしひょうじ)"
+      },
+      {
+        "word": "Performance of an act",
+        "translation": "作為の履行 (さくいのりこう)"
+      },
+      {
+        "word": "Forbearance / Refraining",
+        "translation": "不作為 (ふさくい)"
+      },
+      {
+        "word": "Mandate actions",
+        "translation": "作為を命じる (さくいをめいじる)"
+      },
+      {
+        "word": "Compel",
+        "translation": "強制する (きょうせいする)"
+      },
+      {
+        "word": "Encroaching",
+        "translation": "侵害している (しんがいしている)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Suspension of Execution Measures",
+    "definition": "A temporary halting of ongoing or planned execution procedures, ordered by the court upon receiving an appropriate motion or legal action (such as an objection by the debtor) if immediate enforcement might cause undue hardship or if the validity of the underlying right is questioned.",
+    "japaneseDefinition": "債務者からの訴えや異議申立てなどを受け、執行裁判所が進行中の執行手続を一時的に停止させるための裁判所の処分。不当な執行による損害を防ぐ目的がある。",
+    "japaneseWordTranslation": "執行処分の停止 (しっこうしょぶんのていし)",
+    "legalContext": "Civil Execution Act, Article 39 (Grounds for Suspension of Execution): The court may order the temporary suspension of execution measures when the debtor has filed an action to object to the claim and provided security.",
+    "japaneseLegalContext": "民事執行法第39条 (執行停止の事由): 執行裁判所は、債務者からの執行異議の申立て又は請求異議の訴えがあり、かつ、担保が提供された場合等に、一時的に執行処分の停止を命じることができる。",
+    "exampleSentence": "Following the filing of the debtor's objection, the court issued an order for the Suspension of Execution Measures pending a judicial review of the validity of the enforcement claim.",
+    "exampleTranslation": "債務者による異議申立ての提出を受けて、裁判所は、強制執行請求の有効性に関する司法審査が完了するまで、執行処分の停止命令を出した。",
+    "vocabularyList": [
+      {
+        "word": "Halt / Temporary stopping",
+        "translation": "一時的な停止 (いちじてきなていし)"
+      },
+      {
+        "word": "Judicial review",
+        "translation": "司法審査 (しほうしんさ)"
+      },
+      {
+        "word": "Objection filed",
+        "translation": "異議申立て (いぎもうしたて)"
+      },
+      {
+        "word": "Undue hardship",
+        "translation": "不当な困難 (ふとうなこんなん)"
+      },
+      {
+        "word": "Underlying right",
+        "translation": "基礎となる権利 (きそとなるけんり)"
+      },
+      {
+        "word": "Provided security",
+        "translation": "担保の提供 (たんぽのていきょう)"
+      }
+    ]
   }
 ]

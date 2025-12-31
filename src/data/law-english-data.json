@@ -1,38 +1,38 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Civil Preservation (民事保全法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Free Evaluation of Evidence",
-  "definition": "The principle that the court, after examining all evidence presented, is free to judge the truth or falsity of facts based on its own conviction, without being bound by statutory rules regarding the weight of evidence.",
-  "japaneseDefinition": "裁判所が、証拠調べの結果に基づき、証明の有無について、自己の自由な判断と確信によって認定すべきとする原則。",
-  "japaneseWordTranslation": "自由心証主義 (じゆうしんしょうしゅぎ)",
-  "legalContext": "Code of Civil Procedure Art. 247: 'The court shall determine, in light of the entire import of the oral argument and the result of the examination of evidence, whether the allegations concerning the facts of the case are true.'",
-  "japaneseLegalContext": "民事訴訟法第247条: 裁判所は、口頭弁論の全趣旨及び証拠調べの結果を考慮して、自由な心証により事実についての主張を真実と認めるべきかどうかを判断する。",
-  "exampleSentence": "Under the principle of the free evaluation of evidence, the court is not required to adhere strictly to the rules of documentary evidence established in older common law systems.",
-  "exampleTranslation": "自由心証主義の原則の下では、裁判所は、旧来のコモンロー制度で確立されていた書証の規則に厳格に従う必要はない。",
+  "word": "Objection to Preservation",
+  "definition": "A formal motion filed by the preservation obligor to the preservation court, seeking the revocation or modification of a preservation order on grounds such as lack of preservatory necessity or incorrectness of the underlying claim.",
+  "japaneseDefinition": "保全命令が出された後、保全債務者がその命令の不当を訴え、取り消しや変更を求めて裁判所に申し立てる不服申立て手続き。",
+  "japaneseWordTranslation": "保全異議 (ほぜんいぎ)",
+  "legalContext": "Civil Preservation Act (民事保全法), Art. 26: Establishes the right of the preservation obligor to file an objection.",
+  "japaneseLegalContext": "民事保全法 第26条: 保全命令の決定に対しては、保全異議を申し立てることができる。",
+  "exampleSentence": "The preservation obligor immediately filed an *Objection to Preservation* after the order was served, alleging that the debt had already been extinguished through settlement.",
+  "exampleTranslation": "保全債務者は、命令が送達された直後に、和解によって債務が既に消滅していると主張し、直ちに保全異議を申し立てた。",
   "vocabularyList": [
     {
-      "word": "weight of evidence",
-      "translation": "証拠の価値（証拠力）"
+      "word": "revocation or modification",
+      "translation": "取り消しまたは変更"
     },
     {
-      "word": "oral argument",
-      "translation": "口頭弁論 (こうとうべんろん) [Note: Avoiding the excluded general term 'oral argument' but using it in the context of the CCP text]"
+      "word": "preservation obligor",
+      "translation": "保全債務者"
     },
     {
-      "word": "factual determination",
-      "translation": "事実認定 (じじつにんてい)"
+      "word": "formal motion",
+      "translation": "正式な申立て"
     },
     {
-      "word": "judicial conviction",
-      "translation": "裁判官の確信 (さいばんかんのかくしん)"
+      "word": "alleging",
+      "translation": "主張し"
     },
     {
-      "word": "allegations",
-      "translation": "主張 (しゅちょう)"
+      "word": "extinguished through settlement",
+      "translation": "和解によって消滅した"
     },
     {
-      "word": "common law systems",
-      "translation": "英米法系 (えいべいほうけい)"
+      "word": "preservation court",
+      "translation": "保全裁判所"
     }
   ]
 }

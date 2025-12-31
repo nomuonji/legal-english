@@ -7484,5 +7484,81 @@
         "translation": "保全の必要性"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Plausibility / Prima Facie Showing",
+    "definition": "The standard of proof required in civil preservation procedures, which involves demonstrating that the asserted facts are highly probable, though not requiring full evidential proof (strict proof).",
+    "japaneseDefinition": "保全手続において、保全権利や保全の必要性などの事実を裁判所に一応確かであると推認させる程度の立証。厳密な立証（証明）は要求されない。",
+    "japaneseWordTranslation": "疎明 (そめい)",
+    "legalContext": "Civil Preservation Act Art. 13(2): The grounds for preservation shall be required to be shown by prima facie showing.",
+    "japaneseLegalContext": "民事保全法第13条第2項: 保全の必要性の疎明は、口頭弁論を経ないでしなければならない。",
+    "exampleSentence": "Since the preservation obligee could only provide documents lending **plausibility** to the existence of the debt, the court issued the order conditioned upon a substantial security deposit.",
+    "exampleTranslation": "保全債権者は債務の存在に疎明を与える文書しか提出できなかったため、裁判所は多額の担保供託を条件として命令を発した。",
+    "vocabularyList": [
+      {
+        "word": "standard of proof",
+        "translation": "立証の程度"
+      },
+      {
+        "word": "strict proof",
+        "translation": "厳密な証明"
+      },
+      {
+        "word": "preservation obligee",
+        "translation": "保全債権者"
+      },
+      {
+        "word": "security deposit",
+        "translation": "担保供託"
+      },
+      {
+        "word": "existence of the debt",
+        "translation": "債務の存在"
+      },
+      {
+        "word": "issued the order",
+        "translation": "命令を発した"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Discharge of Preservation by Substitution of Security",
+    "definition": "A mechanism allowing the preservation debtor to petition the court to cancel a preservation measure by depositing a monetary amount (security) sufficient to cover the claim, thereby freeing the specific property from restriction.",
+    "japaneseDefinition": "債務者が保全命令の取消しを目的として、金銭を担保として供託し、特定の財産の処分制限を解除させるための手続。保全債権者はこの供託金から優先弁済を受けることができる。",
+    "japaneseWordTranslation": "代替供託による保全解除 (だいたい きょうたくによる ほぜんかいじょ)",
+    "legalContext": "Civil Preservation Act Art. 44(2): The preservation court may, upon petition, order the cancellation of the provisional attachment or provisional disposition when the debtor provides security.",
+    "japaneseLegalContext": "民事保全法第44条第2項: 保全裁判所は、債務者の申立てにより、被保全権利及び保全の必要性を考慮して相当と認められる担保を立てることを命じ、その担保が立てられたときは、保全命令を取り消すことができる。",
+    "exampleSentence": "The defendant requested the **discharge of preservation by substitution of security** so that the seized inventory could be immediately sold to third parties.",
+    "exampleTranslation": "被告は、差し押さえられた在庫品を直ちに第三者に売却できるよう、代替供託による保全解除を請求した。",
+    "vocabularyList": [
+      {
+        "word": "cancellation",
+        "translation": "取消し"
+      },
+      {
+        "word": "seized inventory",
+        "translation": "差し押さえられた在庫品"
+      },
+      {
+        "word": "petition",
+        "translation": "申立て"
+      },
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者"
+      },
+      {
+        "word": "sufficient to cover the claim",
+        "translation": "請求を賄うに足る"
+      },
+      {
+        "word": "priority payment",
+        "translation": "優先弁済"
+      }
+    ]
   }
 ]

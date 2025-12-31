@@ -2,44 +2,6 @@
   {
     "category": "Commercial Registration (商業登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Neglect of Registration Duty",
-    "definition": "The legal failure by an officer or representative of a company to apply for necessary corporate registrations (e.g., changes in officers, capital amendments, establishment) within the statutory period, usually two weeks from the change date.",
-    "japaneseDefinition": "会社の役員または代表者が、法律で定められた期間内（通常、変更日から2週間以内）に、必要な会社登記（役員の変更、資本の修正、設立など）を申請しなかった法的懈怠。",
-    "japaneseWordTranslation": "登記懈怠 (とうきけたい)",
-    "legalContext": "Commercial Registration Act Art. 107 (Duty to Register): Establishes the obligation of the representative to apply for registration without delay. Violation is subject to a non-penal fine (過料).",
-    "japaneseLegalContext": "商業登記法 第107条 (登記の義務等): 代表者が遅滞なく登記を申請する義務を定める。違反した場合には過料に処される。",
-    "exampleSentence": "The former representative director faced a non-penal fine due to prolonged neglect of registration duty regarding the resignation of several managing officers.",
-    "exampleTranslation": "元代表取締役は、数名の業務執行役員の辞任に関する長期にわたる登記懈怠により、過料に処された。",
-    "vocabularyList": [
-      {
-        "word": "Statutory Period",
-        "translation": "法定期間 (ほうていきかん)"
-      },
-      {
-        "word": "Non-penal Fine",
-        "translation": "過料 (かりょう)"
-      },
-      {
-        "word": "Officer",
-        "translation": "役員 (やくいん)"
-      },
-      {
-        "word": "Representative Director",
-        "translation": "代表取締役 (だいひょうとりしまりやく)"
-      },
-      {
-        "word": "Resignation",
-        "translation": "辞任 (じにん)"
-      },
-      {
-        "word": "Prolonged",
-        "translation": "長期にわたる (ちょうきにわたる)"
-      }
-    ]
-  },
-  {
-    "category": "Commercial Registration (商業登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Reduction of Stated Capital",
     "definition": "A corporate action decreasing the formal amount of the company's stated capital (資本金) registered in the commercial records, often requiring special procedures for creditor protection prior to registration.",
     "japaneseDefinition": "会社の商業登記簿に記録された正式な資本金の額を減少させる会社法上の行為。登記に先立って、債権者保護手続などの特別な手続を要する場合が多い。",
@@ -7160,6 +7122,120 @@
       {
         "word": "intellectual property right",
         "translation": "知的財産権"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-Assertability of Unregistered Facts",
+    "definition": "The legal principle in commercial registration (derived from Commercial Registration Act Art. 9) stating that matters required to be registered cannot be asserted (used in opposition) against a third party unless they have been formally recorded.",
+    "japaneseDefinition": "登記すべき事項について、これを登記しなかった場合、善意の第三者に対してその事実を主張することができないという原則。登録の公信力に関する重要規定。",
+    "japaneseWordTranslation": "未登記事項の対抗不能 (Mitōki Jikō no Taikō Funō)",
+    "legalContext": "Commercial Registration Act Art. 9: Matters required to be registered shall not be asserted against a third party acting in good faith unless they have been registered.",
+    "japaneseLegalContext": "商業登記法 第9条: 登記すべき事項は、登記の後でなければ、これをもって善意の第三者に対抗することができない。",
+    "exampleSentence": "The corporate officer's resignation, being an unregistered change, was subject to the **non-assertability of unregistered facts** rule when dealing with the bank.",
+    "exampleTranslation": "その会社役員の辞任は、未登記の変更事項であったため、銀行との取引においては、未登記事項の対抗不能の原則が適用された。",
+    "vocabularyList": [
+      {
+        "word": "corporate officer",
+        "translation": "会社役員 (Kaisha Yakuin)"
+      },
+      {
+        "word": "resignation",
+        "translation": "辞任 (Jinin)"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者 (Daisansha)"
+      },
+      {
+        "word": "asserted",
+        "translation": "主張された (Shuchō sareta)"
+      },
+      {
+        "word": "good faith",
+        "translation": "善意 (Zen’i)"
+      },
+      {
+        "word": "formally recorded",
+        "translation": "正式に記録された (Seishiki ni kiroku sareta)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deemed Dissolution via Inactivity",
+    "definition": "A statutory provision by which a stock company is presumed to have dissolved if a specific period (currently 12 years) passes without any registration concerning an officer change having been filed, allowing the record to be formally cleared.",
+    "japaneseDefinition": "株式会社が最後に役員変更の登記をしてから長期間（現在12年間）が経過した場合に、法務大臣の公告を経て、その会社が解散したものと見なされる制度。",
+    "japaneseWordTranslation": "休眠会社のみなし解散 (Kyūmin Gaisha no Minashi Kaisan)",
+    "legalContext": "Companies Act Art. 472: If a stock company has not effected any registration (other than those related to certain changes) for 12 years... the Minister of Justice shall publish a notice...",
+    "japaneseLegalContext": "会社法 第472条: 株式会社は、登記すべき事項に変更がないときであっても、役員に関する登記を十二年しないときは…法務大臣がその旨の公告をしなければならない。",
+    "exampleSentence": "The registrar initiated the process of **deemed dissolution via inactivity** after determining the joint-stock corporation had not updated its officer records in fourteen years.",
+    "exampleTranslation": "登記官は、その株式会社が14年間役員記録を更新していないと判断した後、休眠会社のみなし解散の手続きを開始した。",
+    "vocabularyList": [
+      {
+        "word": "stock company",
+        "translation": "株式会社 (Kabushiki Kaisha)"
+      },
+      {
+        "word": "statutory provision",
+        "translation": "法令上の規定 (Hōrei-jō no kitei)"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官 (Tōkikan)"
+      },
+      {
+        "word": "officer records",
+        "translation": "役員記録 (Yakuin Kiroku)"
+      },
+      {
+        "word": "initiated the process",
+        "translation": "手続きを開始した (Tetsuzuki o kaishi shita)"
+      },
+      {
+        "word": "formally cleared",
+        "translation": "正式に抹消された (Seishiki ni masshō sareta)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Closed Registration Record",
+    "definition": "A historical commercial register record maintained separately after the company to which it pertains has ceased to exist (e.g., due to dissolution or merger) or has relocated its head office outside the jurisdictional registry office.",
+    "japaneseDefinition": "会社が解散、合併、または管轄外への本店移転などにより、現行の登記簿から抹消され、過去の記録として保管される商業登記記録。",
+    "japaneseWordTranslation": "閉鎖登記記録 (Heisa Tōki Kiroku)",
+    "legalContext": "Commercial Registration Act Art. 23 (and associated regulations): Dictates that when a company register is closed (e.g., due to merger or dissolution), the record must be preserved for public inspection.",
+    "japaneseLegalContext": "商業登記法 第23条: 会社の登記記録が閉鎖された場合（合併又は解散等）、その記録は保存され、証明書の発行を可能とする。",
+    "exampleSentence": "The legal team requested copies of the **closed registration record** to verify the chain of corporate transformations leading to the current holding structure.",
+    "exampleTranslation": "法務チームは、現在の持株構造に至る企業変遷の連鎖を確認するため、閉鎖登記記録の写しを請求した。",
+    "vocabularyList": [
+      {
+        "word": "historical",
+        "translation": "過去の (Kako no)"
+      },
+      {
+        "word": "pertains to",
+        "translation": "関連する (Kanren suru)"
+      },
+      {
+        "word": "merger",
+        "translation": "合併 (Gappei)"
+      },
+      {
+        "word": "jurisdictional registry office",
+        "translation": "管轄登記所 (Kankatsu Tōkijo)"
+      },
+      {
+        "word": "corporate transformations",
+        "translation": "企業変遷 (Kigyō Hensen)"
+      },
+      {
+        "word": "holding structure",
+        "translation": "持株構造 (Mochikabu Kōzō)"
       }
     ]
   }

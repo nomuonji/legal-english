@@ -1,38 +1,38 @@
 {
-  "category": "Civil Preservation (民事保全法)",
+  "category": "Commercial Registration (商業登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Objection to Preservation",
-  "definition": "A formal motion filed by the preservation obligor to the preservation court, seeking the revocation or modification of a preservation order on grounds such as lack of preservatory necessity or incorrectness of the underlying claim.",
-  "japaneseDefinition": "保全命令が出された後、保全債務者がその命令の不当を訴え、取り消しや変更を求めて裁判所に申し立てる不服申立て手続き。",
-  "japaneseWordTranslation": "保全異議 (ほぜんいぎ)",
-  "legalContext": "Civil Preservation Act (民事保全法), Art. 26: Establishes the right of the preservation obligor to file an objection.",
-  "japaneseLegalContext": "民事保全法 第26条: 保全命令の決定に対しては、保全異議を申し立てることができる。",
-  "exampleSentence": "The preservation obligor immediately filed an *Objection to Preservation* after the order was served, alleging that the debt had already been extinguished through settlement.",
-  "exampleTranslation": "保全債務者は、命令が送達された直後に、和解によって債務が既に消滅していると主張し、直ちに保全異議を申し立てた。",
+  "word": "Neglect of Registration Duty",
+  "definition": "The legal failure by an officer or representative of a company to apply for necessary corporate registrations (e.g., changes in officers, capital amendments, establishment) within the statutory period, usually two weeks from the change date.",
+  "japaneseDefinition": "会社の役員または代表者が、法律で定められた期間内（通常、変更日から2週間以内）に、必要な会社登記（役員の変更、資本の修正、設立など）を申請しなかった法的懈怠。",
+  "japaneseWordTranslation": "登記懈怠 (とうきけたい)",
+  "legalContext": "Commercial Registration Act Art. 107 (Duty to Register): Establishes the obligation of the representative to apply for registration without delay. Violation is subject to a non-penal fine (過料).",
+  "japaneseLegalContext": "商業登記法 第107条 (登記の義務等): 代表者が遅滞なく登記を申請する義務を定める。違反した場合には過料に処される。",
+  "exampleSentence": "The former representative director faced a non-penal fine due to prolonged neglect of registration duty regarding the resignation of several managing officers.",
+  "exampleTranslation": "元代表取締役は、数名の業務執行役員の辞任に関する長期にわたる登記懈怠により、過料に処された。",
   "vocabularyList": [
     {
-      "word": "revocation or modification",
-      "translation": "取り消しまたは変更"
+      "word": "Statutory Period",
+      "translation": "法定期間 (ほうていきかん)"
     },
     {
-      "word": "preservation obligor",
-      "translation": "保全債務者"
+      "word": "Non-penal Fine",
+      "translation": "過料 (かりょう)"
     },
     {
-      "word": "formal motion",
-      "translation": "正式な申立て"
+      "word": "Officer",
+      "translation": "役員 (やくいん)"
     },
     {
-      "word": "alleging",
-      "translation": "主張し"
+      "word": "Representative Director",
+      "translation": "代表取締役 (だいひょうとりしまりやく)"
     },
     {
-      "word": "extinguished through settlement",
-      "translation": "和解によって消滅した"
+      "word": "Resignation",
+      "translation": "辞任 (じにん)"
     },
     {
-      "word": "preservation court",
-      "translation": "保全裁判所"
+      "word": "Prolonged",
+      "translation": "長期にわたる (ちょうきにわたる)"
     }
   ]
 }

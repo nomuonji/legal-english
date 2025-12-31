@@ -9018,5 +9018,131 @@
         "translation": "物を預ける (ものをあずける)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Period of Prescription",
+    "definition": "The specified length of time, defined by statute, after which a right is extinguished (extinctive) or acquired (acquisitive) if certain conditions are met, thereby promoting legal stability.",
+    "japaneseDefinition": "権利が消滅したり、あるいは取得したりするために法律上定められた期間。法律関係の安定を目的とする。",
+    "japaneseWordTranslation": "時効期間 (じこうきかん)",
+    "legalContext": "Civil Code Art. 166: Extinctive prescription for claims and other rights (e.g., five years for contractual claims, ten years for ownership claims unless otherwise provided).",
+    "japaneseLegalContext": "民法第166条: 債権等の消滅時効 (Minpō Dai 166-jō: Saiken tō no shōmetsu jikō)",
+    "exampleSentence": "The creditor failed to exercise his claim within the requisite five-year period of prescription, leading to the extinguishment of his right to demand payment.",
+    "exampleTranslation": "債権者は、必要な5年間の時効期間内にその請求権を行使しなかったため、支払いを要求する権利が消滅した。",
+    "vocabularyList": [
+      {
+        "word": "Creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "Extinguishment",
+        "translation": "消滅"
+      },
+      {
+        "word": "Acquisitive",
+        "translation": "取得時効の"
+      },
+      {
+        "word": "Requisite",
+        "translation": "必要な"
+      },
+      {
+        "word": "Statute",
+        "translation": "法令／法規"
+      },
+      {
+        "word": "Legal stability",
+        "translation": "法的安定性"
+      },
+      {
+        "word": "Demand payment",
+        "translation": "支払いを要求する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Tacit Renewal",
+    "definition": "The automatic statutory continuation of a contract, typically a lease (chintaishaku), under the same conditions as the original contract, when the parties continue performance after the expiration of the fixed term without expressing an intention to terminate.",
+    "japaneseDefinition": "契約期間満了後も当事者が異議を述べずに契約の履行を継続した場合に、従前の契約と同一の条件で自動的に契約が更新されること（主に賃貸借契約で使われる）。",
+    "japaneseWordTranslation": "法定更新 (ほうていこうしん)",
+    "legalContext": "Civil Code Art. 619: If the lessee continues to use the leased property after the expiration of the period, and the lessor, despite knowing this, raises no objection, the lease shall be tacitly renewed.",
+    "japaneseLegalContext": "民法第619条: 賃貸借の更新の推定等 (Minpō Dai 619-jō: Chintaishaku no kōshin no suitei tō)",
+    "exampleSentence": "Since the landlord failed to issue a notice of non-renewal before the deadline, the residential lease was subject to tacit renewal.",
+    "exampleTranslation": "賃貸人が期限までに更新拒絶の通知を発しなかったため、その居住用賃貸借契約は法定更新の対象となった。",
+    "vocabularyList": [
+      {
+        "word": "Statutory continuation",
+        "translation": "法律上の継続"
+      },
+      {
+        "word": "Lease",
+        "translation": "賃貸借"
+      },
+      {
+        "word": "Lessor",
+        "translation": "賃貸人"
+      },
+      {
+        "word": "Lessee",
+        "translation": "賃借人"
+      },
+      {
+        "word": "Expiration of the period",
+        "translation": "期間の満了"
+      },
+      {
+        "word": "Notice of non-renewal",
+        "translation": "更新拒絶の通知"
+      },
+      {
+        "word": "Tenancy",
+        "translation": "占有（賃借）"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Joint Enterprise Agreement",
+    "definition": "A specific type of contract defined in the Civil Code where two or more parties agree to conduct a joint business endeavor by contributing resources, labor, or skills toward a common commercial objective, creating a statutory partnership (Kumiai).",
+    "japaneseDefinition": "当事者が相互に出資をして共同の事業を営むことを約束する契約。民法上の組合契約を指す。",
+    "japaneseWordTranslation": "組合契約 (くみあいけいやく)",
+    "legalContext": "Civil Code Art. 667: A joint enterprise agreement becomes effective when the parties agree to conduct a joint enterprise by contributing assets, labor, or skill in common.",
+    "japaneseLegalContext": "民法第667条: 組合契約 (Minpō Dai 667-jō: Kumiai keiyaku)",
+    "exampleSentence": "The Joint Enterprise Agreement stipulated that liabilities would be borne by the partners in proportion to their respective contributions.",
+    "exampleTranslation": "組合契約は、組合員がそれぞれの出資の割合に応じて債務を負担することを規定していた。",
+    "vocabularyList": [
+      {
+        "word": "Joint business endeavor",
+        "translation": "共同事業"
+      },
+      {
+        "word": "Statutory partnership",
+        "translation": "法律上の組合"
+      },
+      {
+        "word": "Contributing resources",
+        "translation": "出資をする"
+      },
+      {
+        "word": "Common objective",
+        "translation": "共通の目的"
+      },
+      {
+        "word": "Stipulated",
+        "translation": "規定した"
+      },
+      {
+        "word": "Liabilities",
+        "translation": "債務／責任"
+      },
+      {
+        "word": "In proportion to",
+        "translation": "〜の割合に応じて"
+      }
+    ]
   }
 ]

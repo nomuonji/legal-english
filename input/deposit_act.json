@@ -5934,5 +5934,107 @@
         "translation": "ロイヤルティ／使用料"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Claim Delivery of Deposited Property",
+    "definition": "The right held by the person designated in the Deposit Act (such as the depositor or the creditor) to request the local Deposit Office to deliver the deposited money or securities.",
+    "japaneseDefinition": "供託法に基づき、供託された金銭又は有価証券を供託所から受け取る権利。事由に応じて供託者又は被供託者が有する。",
+    "japaneseWordTranslation": "供託物払渡請求権 (きょうたくぶつはらいわたしせいきゅうけん)",
+    "legalContext": "Deposit Act (供託法) Art. 8(1): The deposited property shall be withdrawn pursuant to the provisions of an Ordinance of the Ministry of Justice by the depositor or the entitlement holder (person whose benefit the deposit was made).",
+    "japaneseLegalContext": "供託法第８条第１項: 供託物は、法務省令で定めるところにより、供託者又は被供託者に払い渡される。",
+    "exampleSentence": "The creditor, having accepted the tender of performance, exercised their right to claim delivery of the deposited property held at the local Deposit Office.",
+    "exampleTranslation": "債権者は、履行の提供を受諾した後、地方供託所に保管されている供託物払渡請求権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "tender of performance",
+        "translation": "履行の提供"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "Deposit Office",
+        "translation": "供託所"
+      },
+      {
+        "word": "deposited property",
+        "translation": "供託物"
+      },
+      {
+        "word": "depositor",
+        "translation": "供託者"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reversion of Deposited Assets to the National Treasury",
+    "definition": "The legal outcome where the deposited assets, having not been claimed by the entitlement holder within a fixed statutory period (currently 20 years), vest permanently in the National Treasury.",
+    "japaneseDefinition": "供託物払渡請求権が、２０年間の法定期間内に行使されなかったため、その権利が消滅し、供託された金銭又は有価証券が国庫に帰属すること。",
+    "japaneseWordTranslation": "供託物の国庫帰属 (きょうたくぶつのこっこきぞく)",
+    "legalContext": "Deposit Act (供託法) Art. 9-2: The right to claim delivery of deposited property shall lapse by prescription if it is not exercised within 20 years from the date of deposit.",
+    "japaneseLegalContext": "供託法第９条の２: 供託物払渡請求権は、供託の日から二十年間行使しないときは、時効によって消滅する。",
+    "exampleSentence": "If the claim right to the compensation deposit remains unexercised after the statutory term, the deposited money is subject to reversion of deposited assets to the National Treasury.",
+    "exampleTranslation": "法定期間が経過した後も賠償供託に対する請求権が行使されない場合、供託金は供託物の国庫帰属の対象となる。",
+    "vocabularyList": [
+      {
+        "word": "statutory term",
+        "translation": "法定期間"
+      },
+      {
+        "word": "compensation deposit",
+        "translation": "賠償供託"
+      },
+      {
+        "word": "claim right",
+        "translation": "請求権"
+      },
+      {
+        "word": "lapse by prescription",
+        "translation": "時効により消滅する"
+      },
+      {
+        "word": "unexercised",
+        "translation": "行使されない"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Declaration of Acceptance of Deposit",
+    "definition": "A manifestation of intent by the creditor (the obligee) to the Deposit Office or the depositor indicating that they accept the deposited performance, which serves to complete the exoneration of the debtor's underlying obligation.",
+    "japaneseDefinition": "債権者（被供託者）が、供託された弁済を受領する意思を供託所又は供託者に対して表明すること。これにより債務の弁済供託の効力が確定する。",
+    "japaneseWordTranslation": "供託の受諾の意思表示 (きょうたくのじゅだくのいしひょうじ)",
+    "legalContext": "Civil Code (民法) Art. 494, Proviso: The obligation shall extinguish when the creditor accepts the deposit or when a final and binding judgment confirms the validity of the deposit.",
+    "japaneseLegalContext": "民法第４９４条但書: 供託は、債権者がこれを受諾し、又は供託を有効とする判決が確定した時に、その効力を生ずる。",
+    "exampleSentence": "To avoid further litigation, the creditor decided to make a declaration of acceptance of the deposit, thereby acknowledging the extinguishment of the debtor's primary obligation.",
+    "exampleTranslation": "さらなる訴訟を避けるため、債権者は供託の受諾の意思表示を行うことを決定し、それにより債務者の主たる債務の消滅を認めた。",
+    "vocabularyList": [
+      {
+        "word": "extinguishment",
+        "translation": "消滅"
+      },
+      {
+        "word": "primary obligation",
+        "translation": "主たる債務"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "final and binding judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "validity of the deposit",
+        "translation": "供託の有効性"
+      }
+    ]
   }
 ]

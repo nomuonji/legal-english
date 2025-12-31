@@ -6036,5 +6036,123 @@
         "translation": "供託の有効性"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Creditor's Location Ascertainment Failure",
+    "definition": "A circumstance where the individual entitled to receive satisfaction of a financial obligation is known but cannot be found at their last known address, justifying the statutory transfer of assets.",
+    "japaneseDefinition": "弁済を受け取るべき者が確定しているものの、その居所が不明であるために弁済の受領ができない状態。民法において、供託が認められる原因の一つ。",
+    "japaneseWordTranslation": "債権者の所在不明 (Saikensha no shozai fumei)",
+    "legalContext": "Civil Code Art. 494: ...where the obligee cannot accept or refuses to accept the tender of satisfaction.",
+    "japaneseLegalContext": "民法第494条（供託）: 「債権者が弁済の受領を拒み、又はこれを受領することができないとき」の措置。",
+    "exampleSentence": "Due to the **creditor's location ascertainment failure**, the obligor was authorized to place the funds with the statutory venue to clear the liability.",
+    "exampleTranslation": "債権者の所在不明により、債務者は債務を免れるため、法定の場所に資金を預け入れることが許可された。",
+    "vocabularyList": [
+      {
+        "word": "satisfaction",
+        "translation": "弁済 (Bensai)"
+      },
+      {
+        "word": "financial obligation",
+        "translation": "金銭債務 (Kinsen saimu)"
+      },
+      {
+        "word": "justifying",
+        "translation": "正当化する (Seitouka suru)"
+      },
+      {
+        "word": "statutory transfer",
+        "translation": "法定の移転 (Houtei no iten)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者 (Saimusha)"
+      },
+      {
+        "word": "clear the liability",
+        "translation": "責任を免じる (Sekinin o menjiru)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Venue for Statutory Consignment",
+    "definition": "The administrative entity or location designated by law (usually the District Legal Affairs Bureau or its specific branch) where money, securities, or chattels are placed to legally terminate an existing obligation.",
+    "japaneseDefinition": "金銭、有価証券その他の物を保管し、債務消滅の目的で差し出される場所として、法令に基づき指定された行政機関。",
+    "japaneseWordTranslation": "供託所 (Kyoutakusho)",
+    "legalContext": "Deposit Act Art. 1: Stipulates the establishment and jurisdiction of the facilities handling the administrative procedure.",
+    "japaneseLegalContext": "供託法第1条: 供託手続を所掌する機関及びその管轄を定める規定。",
+    "exampleSentence": "The assets were physically transferred to the **Venue for Statutory Consignment** in accordance with the legal procedures, resulting in the termination of the obligation.",
+    "exampleTranslation": "その資産は、法的手続きに従い供託所に現実に移され、その結果、債務は消滅した。",
+    "vocabularyList": [
+      {
+        "word": "administrative entity",
+        "translation": "行政機関 (Gyousei kikan)"
+      },
+      {
+        "word": "chattels",
+        "translation": "動産 (Dousan)"
+      },
+      {
+        "word": "legally terminate",
+        "translation": "法的に終了させる (Houteki ni shūryō saseru)"
+      },
+      {
+        "word": "securities",
+        "translation": "有価証券 (Yūka shōken)"
+      },
+      {
+        "word": "accordance with",
+        "translation": "〜に従い (Ni shitagai)"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄 (Kankatsu)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Scrutiny of Application Requirements",
+    "definition": "The administrative process of examining a submission by the designated official to ensure the documents meet all formal criteria, such as correctness of form, mandatory attachments, and legal foundation, before the transaction is officially recorded.",
+    "japaneseDefinition": "供託官が提出された書面について、形式的な要件（申請書の記載や添付書類の適正さ）を審査し、それが法令に適合しているか否かを判断する手続き。",
+    "japaneseWordTranslation": "供託申請の形式的審査 (Kyoutaku shinsei no keishikiteki shinsa)",
+    "legalContext": "Deposit Act, related administrative regulations: Officials must perform a formal review of the application documents.",
+    "japaneseLegalContext": "供託法及び関連の行政規則: 供託官が申請書類を形式的に審査し、その受理の可否を判断する。",
+    "exampleSentence": "If the documents fail the **scrutiny of application requirements**, the official may issue a remedial submission order or definitively refuse the recording of the transaction.",
+    "exampleTranslation": "もし書類が申請要件の審査に落ちた場合、供託官は補正命令を発するか、または取引の記録を明確に拒否することがある。",
+    "vocabularyList": [
+      {
+        "word": "examination",
+        "translation": "審査 (Shinsa)"
+      },
+      {
+        "word": "designated official",
+        "translation": "指定官 (Shitei-kan)"
+      },
+      {
+        "word": "formal criteria",
+        "translation": "形式的要件 (Keishikiteki youken)"
+      },
+      {
+        "word": "legal foundation",
+        "translation": "法的根拠 (Houteki konkyo)"
+      },
+      {
+        "word": "remedial submission order",
+        "translation": "補正命令 (Hosei meirei)"
+      },
+      {
+        "word": "definitively refuse",
+        "translation": "明確に拒否する (Meikaku ni kyohi suru)"
+      },
+      {
+        "word": "recording",
+        "translation": "記録 (Kiroku)"
+      }
+    ]
   }
 ]

@@ -1,38 +1,42 @@
 {
-  "category": "Commercial Registration (商業登記法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Neglect of Registration Duty",
-  "definition": "The legal failure by an officer or representative of a company to apply for necessary corporate registrations (e.g., changes in officers, capital amendments, establishment) within the statutory period, usually two weeks from the change date.",
-  "japaneseDefinition": "会社の役員または代表者が、法律で定められた期間内（通常、変更日から2週間以内）に、必要な会社登記（役員の変更、資本の修正、設立など）を申請しなかった法的懈怠。",
-  "japaneseWordTranslation": "登記懈怠 (とうきけたい)",
-  "legalContext": "Commercial Registration Act Art. 107 (Duty to Register): Establishes the obligation of the representative to apply for registration without delay. Violation is subject to a non-penal fine (過料).",
-  "japaneseLegalContext": "商業登記法 第107条 (登記の義務等): 代表者が遅滞なく登記を申請する義務を定める。違反した場合には過料に処される。",
-  "exampleSentence": "The former representative director faced a non-penal fine due to prolonged neglect of registration duty regarding the resignation of several managing officers.",
-  "exampleTranslation": "元代表取締役は、数名の業務執行役員の辞任に関する長期にわたる登記懈怠により、過料に処された。",
+  "word": "Judgment by Confession",
+  "definition": "A judgment rendered when the defendant explicitly admits the validity and entire substance of the plaintiff's claim in court, resulting in a binding final judgment without the need for further evidence or factual determination.",
+  "japaneseDefinition": "被告が原告の請求の全部または主要な内容を真実であると認め、裁判所に対してその旨を陳述した際に下される判決。これにより訴訟は終結する。",
+  "japaneseWordTranslation": "認諾判決 (にんだくはんけつ)",
+  "legalContext": "Code of Civil Procedure Art. 266 (1): 'A judicial record of a confession of the claim or waiver of the claim shall have the same effect as a final judgment.'",
+  "japaneseLegalContext": "民事訴訟法第266条第1項: 請求の認諾又は請求の放棄を裁判所の調書に記載したときは、確定判決と同一の効力を有する。",
+  "exampleSentence": "The court issued a judgment by confession after the defendant formally stated in the preparatory proceedings that they fully accepted the plaintiff’s demand for damages.",
+  "exampleTranslation": "被告が準備手続において原告の損害賠償請求を完全に受け入れることを正式に陳述した後、裁判所は認諾判決を下した。",
   "vocabularyList": [
     {
-      "word": "Statutory Period",
-      "translation": "法定期間 (ほうていきかん)"
+      "word": "defendant",
+      "translation": "被告 (ひこく)"
     },
     {
-      "word": "Non-penal Fine",
-      "translation": "過料 (かりょう)"
+      "word": "plaintiff",
+      "translation": "原告 (げんこく)"
     },
     {
-      "word": "Officer",
-      "translation": "役員 (やくいん)"
+      "word": "substance of the claim",
+      "translation": "請求の主要な内容 (せいきゅうのしゅようなないよう)"
     },
     {
-      "word": "Representative Director",
-      "translation": "代表取締役 (だいひょうとりしまりやく)"
+      "word": "final judgment",
+      "translation": "確定判決 (かくていはんけつ)"
     },
     {
-      "word": "Resignation",
-      "translation": "辞任 (じにん)"
+      "word": "formally stated",
+      "translation": "正式に陳述した (せいしきにちんじゅつした)"
     },
     {
-      "word": "Prolonged",
-      "translation": "長期にわたる (ちょうきにわたる)"
+      "word": "damages",
+      "translation": "損害賠償 (そんがいばいしょう)"
+    },
+    {
+      "word": "judicial record",
+      "translation": "調書 (ちょうしょ)"
     }
   ]
 }

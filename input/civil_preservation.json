@@ -7560,5 +7560,119 @@
         "translation": "優先弁済"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Revocation for Failure to Pursue Substantive Action",
+    "definition": "The cancellation of a preservation order (provisional attachment or provisional disposition) by the court if the obligee fails to initiate the underlying principal action (substantive proceedings) within the statutory period or the period specified by the court.",
+    "japaneseDefinition": "保全命令を発令した後、保全債権者が本案の訴訟を定められた期間内に提起しない場合に、裁判所が当該保全命令を取り消すこと。",
+    "japaneseWordTranslation": "本案の不提起による保全命令の取消し (ほんなんのふていきによるほぜんめいれいのとりけし)",
+    "legalContext": "Civil Preservation Act Art. 37(1): If the obligee does not initiate the action on the merits within the period prescribed by law or specified by the court, the court shall revoke the preservation order upon motion by the obligor.",
+    "japaneseLegalContext": "民事保全法第37条第1項: 債権者が所定の期間内に本案の訴えを提起しないときは、裁判所は、債務者の申立てにより、保全命令を取り消さなければならない。",
+    "exampleSentence": "The preservation debtor filed a motion for the revocation for failure to pursue substantive action, arguing that the obligee had missed the two-week deadline to commence the main suit.",
+    "exampleTranslation": "保全債務者は、債権者が本訴を提起すべき2週間の期限を逸したと主張し、本案の不提起による保全命令の取消しを申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "main suit",
+        "translation": "本訴 / 本案の訴え"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "commence",
+        "translation": "提起する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Injunction Relating to the Subject Matter of Litigation",
+    "definition": "A type of provisional disposition (injunction) aimed at preventing changes to the factual or legal status of the specific property or relationship (the 'subject matter') involved in the underlying legal dispute, used to ensure the effective execution of a future judgment on a non-monetary claim.",
+    "japaneseDefinition": "金銭債権以外の請求権について、その後の強制執行を保全するため、紛争の対象となっている物や法律関係（係争物）の現状を変更させないように命じる仮処分。",
+    "japaneseWordTranslation": "係争物に関する仮処分 (けいそうぶつにかんするかりしょぶん)",
+    "legalContext": "Civil Preservation Act Art. 23(1): Provisional disposition may be ordered for non-monetary claims when there is a risk that the enforcement of the judgment would be rendered impossible or extremely difficult due to a change in the status quo of the subject matter of the dispute.",
+    "japaneseLegalContext": "民事保全法第23条第1項: 金銭の給付を目的としない請求について、係争物に関する現状の変更により、その権利を実行することが不可能又は著しく困難となるおそれがあるときに、仮処分を命じることができる。",
+    "exampleSentence": "The court issued an Injunction Relating to the Subject Matter of Litigation concerning the disputed parcel of land, prohibiting the debtor from carrying out further construction until the ownership trial was concluded.",
+    "exampleTranslation": "裁判所は、係争物に関する仮処分を係争中の土地に対して発令し、所有権訴訟が終結するまで債務者がさらなる建設を行うことを禁止した。",
+    "vocabularyList": [
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分"
+      },
+      {
+        "word": "non-monetary claim",
+        "translation": "金銭の給付を目的としない請求"
+      },
+      {
+        "word": "status quo",
+        "translation": "現状"
+      },
+      {
+        "word": "disputed parcel",
+        "translation": "係争地の土地"
+      },
+      {
+        "word": "enforcement",
+        "translation": "強制執行"
+      },
+      {
+        "word": "ownership trial",
+        "translation": "所有権訴訟"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Commencement Order",
+    "definition": "A court order issued upon the preservation debtor's request, requiring the preservation obligee to commence the underlying principal action (substantive proceedings) within a specified period, failure of which may lead to the revocation of the preservation order.",
+    "japaneseDefinition": "保全命令の債務者の申立てに基づき、裁判所が債権者に対し、保全命令に係る請求権について、本案の訴えを一定の期間内に提起することを命じる決定。",
+    "japaneseWordTranslation": "本案の訴え提起命令 (ほんなんのうったえていきめいれい)",
+    "legalContext": "Civil Preservation Act Art. 49: Upon motion by the debtor, the preservation court may specify a reasonable period and order the obligee to commence the action on the merits concerning the claim secured by the preservation order.",
+    "japaneseLegalContext": "民事保全法第49条: 裁判所は、債務者の申立てにより、保全命令を発した事件について、債権者に対し、本案の訴えを提起すべき期間を定めることができる。",
+    "exampleSentence": "Following the provisional attachment of its bank account, the defendant immediately filed a motion for a Mandatory Commencement Order against the plaintiff to force the initiation of the damages lawsuit.",
+    "exampleTranslation": "銀行口座が仮差押えされた後、被告は直ちに原告に対し、損害賠償訴訟の開始を強制するために本案の訴え提起命令の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え"
+      },
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "damages lawsuit",
+        "translation": "損害賠償訴訟"
+      },
+      {
+        "word": "specified period",
+        "translation": "定められた期間"
+      },
+      {
+        "word": "revocation",
+        "translation": "取消し"
+      }
+    ]
   }
 ]

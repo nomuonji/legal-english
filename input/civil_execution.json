@@ -8660,5 +8660,85 @@
         "translation": "満たされた (みたされた)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Exempt from Execution",
+    "definition": "Assets or claims designated by law that cannot be seized or subjected to compulsory execution, typically to ensure the basic livelihood of the obligor and their dependents.",
+    "japaneseDefinition": "債務者及びその扶養家族の生活維持のために、民事執行法等により差押えが禁止されている財産または債権。",
+    "japaneseWordTranslation": "差押禁止財産 (さしおさえきんしざいさん)",
+    "legalContext": "Civil Execution Act Art. 131: Specifies items necessary for the debtor's and their dependents' livelihood, such as clothing, bedding, and certain amounts of wages, as non-seizable.",
+    "japaneseLegalContext": "民事執行法第131条: 債務者の生活に必要な衣類、寝具、家具等の動産、および一定額以下の給与債権を差押禁止財産として定める。",
+    "exampleSentence": "The court designated the obligor’s refrigerator and essential medical equipment as Property Exempt from Execution under Article 131, despite the execution obligee's objection.",
+    "exampleTranslation": "裁判所は、執行債権者の異議にもかかわらず、債務者の冷蔵庫および必須の医療機器を、131条に基づく差押禁止財産として指定した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "livelihood",
+        "translation": "生活維持"
+      },
+      {
+        "word": "dependents",
+        "translation": "扶養家族"
+      },
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "designated",
+        "translation": "指定された"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Executability",
+    "definition": "The formal legal power or authority granted to an execution title (債務名義) that permits the commencement of compulsory execution against the obligor's assets.",
+    "japaneseDefinition": "確定判決等の債務名義が有する、国家権力をもって強制執行を可能とする法的な効力。",
+    "japaneseWordTranslation": "執行力 (しっこうりょく)",
+    "legalContext": "Executability is a fundamental concept in execution law, serving as the essential legal justification for exercising state power to enforce the terms of the execution title.",
+    "japaneseLegalContext": "執行力は執行法における基礎概念であり、債務名義の内容を国家権力をもって実現するための本質的な法的根拠として機能する。",
+    "exampleSentence": "To prove the judgment's Executability, the obligee must attach an authenticated copy of the judgment and the certificate of finality to the execution application.",
+    "exampleTranslation": "判決の執行力を証明するため、債権者は執行申立てに判決の正本および確定証明書を添付しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "execution title",
+        "translation": "債務名義"
+      },
+      {
+        "word": "commencement of execution",
+        "translation": "執行開始"
+      },
+      {
+        "word": "legal justification",
+        "translation": "法的根拠"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "authenticated copy",
+        "translation": "正本"
+      },
+      {
+        "word": "certificate of finality",
+        "translation": "確定証明書"
+      }
+    ]
   }
 ]

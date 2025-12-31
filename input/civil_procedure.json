@@ -2,48 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Judgment by Confession",
-    "definition": "A judgment rendered when the defendant explicitly admits the validity and entire substance of the plaintiff's claim in court, resulting in a binding final judgment without the need for further evidence or factual determination.",
-    "japaneseDefinition": "被告が原告の請求の全部または主要な内容を真実であると認め、裁判所に対してその旨を陳述した際に下される判決。これにより訴訟は終結する。",
-    "japaneseWordTranslation": "認諾判決 (にんだくはんけつ)",
-    "legalContext": "Code of Civil Procedure Art. 266 (1): 'A judicial record of a confession of the claim or waiver of the claim shall have the same effect as a final judgment.'",
-    "japaneseLegalContext": "民事訴訟法第266条第1項: 請求の認諾又は請求の放棄を裁判所の調書に記載したときは、確定判決と同一の効力を有する。",
-    "exampleSentence": "The court issued a judgment by confession after the defendant formally stated in the preparatory proceedings that they fully accepted the plaintiff’s demand for damages.",
-    "exampleTranslation": "被告が準備手続において原告の損害賠償請求を完全に受け入れることを正式に陳述した後、裁判所は認諾判決を下した。",
-    "vocabularyList": [
-      {
-        "word": "defendant",
-        "translation": "被告 (ひこく)"
-      },
-      {
-        "word": "plaintiff",
-        "translation": "原告 (げんこく)"
-      },
-      {
-        "word": "substance of the claim",
-        "translation": "請求の主要な内容 (せいきゅうのしゅようなないよう)"
-      },
-      {
-        "word": "final judgment",
-        "translation": "確定判決 (かくていはんけつ)"
-      },
-      {
-        "word": "formally stated",
-        "translation": "正式に陳述した (せいしきにちんじゅつした)"
-      },
-      {
-        "word": "damages",
-        "translation": "損害賠償 (そんがいばいしょう)"
-      },
-      {
-        "word": "judicial record",
-        "translation": "調書 (ちょうしょ)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Waiver of Claim",
     "definition": "A unilateral procedural act by the plaintiff, declared in court, formally abandoning the substantive right or claim that is the subject matter of the lawsuit, resulting in a final and binding conclusion of the case in favor of the defendant.",
     "japaneseDefinition": "原告が訴訟係属中に、請求権の存在を否定し、訴訟上の請求を放棄すること。これにより訴訟は終結し、原告敗訴の確定判決と同一の効力を有する。",
@@ -8492,6 +8450,120 @@
       {
         "word": "summarily dismiss",
         "translation": "略式却下する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Suit Costs",
+    "definition": "Expenses incurred during litigation, including court fees, witness expenses, and costs of evidence inspection, the burden of which is generally borne by the losing party in Japanese civil procedure.",
+    "japaneseDefinition": "訴訟手続の遂行に要する費用の総称。裁判所費用、証人旅費、鑑定費用などを含むが、原則として弁護士費用（報酬）は含まれない。",
+    "japaneseWordTranslation": "訴訟費用 (そしょうひよう)",
+    "legalContext": "Code of Civil Procedure (CCP) Art. 61: 'Suit costs shall be borne by the losing party.'",
+    "japaneseLegalContext": "民事訴訟法第61条: 「訴訟費用は、敗訴の当事者の負担とする。」",
+    "exampleSentence": "The court ordered that the entirety of the suit costs for the first instance be borne by the defendant.",
+    "exampleTranslation": "裁判所は、第一審の訴訟費用のすべてを被告の負担とすることを命じた。",
+    "vocabularyList": [
+      {
+        "word": "Litigation",
+        "translation": "訴訟 (そしょう)"
+      },
+      {
+        "word": "Losing party",
+        "translation": "敗訴の当事者 (はいそのとうじしゃ)"
+      },
+      {
+        "word": "To bear the costs",
+        "translation": "費用を負担する (ひようをふたんする)"
+      },
+      {
+        "word": "Court fees",
+        "translation": "裁判所費用 (さいばんしょひよう)"
+      },
+      {
+        "word": "First instance",
+        "translation": "第一審 (だいいっしん)"
+      },
+      {
+        "word": "To order",
+        "translation": "命じる (めいじる)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Institution of Suit",
+    "definition": "The act of commencing a civil lawsuit by formally filing a written complaint (訴状) with the court of competent jurisdiction; this action causes the case to become pending (lis pendens).",
+    "japaneseDefinition": "裁判所に対して訴訟を開始する行為。訴状を管轄裁判所に提出することによって行われ、訴訟係属の効力を生じさせる。",
+    "japaneseWordTranslation": "訴訟の提起 (そしょうのていき)",
+    "legalContext": "Code of Civil Procedure (CCP) Art. 133(1): 'A suit shall be instituted by filing a statement of claim with the court.'",
+    "japaneseLegalContext": "民事訴訟法第133条第1項: 「訴えは、裁判所に訴状を提出して提起しなければならない。」",
+    "exampleSentence": "The Institution of Suit must adhere to jurisdictional requirements, otherwise the action may be dismissed.",
+    "exampleTranslation": "訴訟の提起は管轄要件を遵守しなければならず、さもなければ訴えが却下される可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "To commence",
+        "translation": "開始する (かいしする)"
+      },
+      {
+        "word": "Written complaint",
+        "translation": "訴状 (そじょう)"
+      },
+      {
+        "word": "Competent jurisdiction",
+        "translation": "管轄裁判所 (かんかつさいばんしょ)"
+      },
+      {
+        "word": "Jurisdictional requirements",
+        "translation": "管轄要件 (かんかつようけん)"
+      },
+      {
+        "word": "To be dismissed (of an action)",
+        "translation": "却下される (きゃっかされる)"
+      },
+      {
+        "word": "Lis pendens effect",
+        "translation": "訴訟係属の効力 (そしょうけいぞくのこうりょく)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Intersessional Preparatory Procedure",
+    "definition": "A flexible procedural step utilized by the court, typically involving written exchanges or telephone conferences outside of the formal oral argument dates, to organize and clarify the issues and evidence prior to the main trial.",
+    "japaneseDefinition": "口頭弁論期日外において、裁判所が必要と認めるときに行う、争点および証拠の整理のための手続。",
+    "japaneseWordTranslation": "期日外準備手続 (きじつがいじゅんびてつづき)",
+    "legalContext": "Code of Civil Procedure (CCP) Art. 175: 'The court may conduct an intersessional preparatory procedure in order to prepare for oral arguments.'",
+    "japaneseLegalContext": "民事訴訟法第175条: 「裁判所は、口頭弁論の準備をするため、期日外において準備手続を行うことができる。」",
+    "exampleSentence": "The judge encouraged both parties to utilize the intersessional preparatory procedure to speed up the presentation of evidence.",
+    "exampleTranslation": "裁判官は、証拠の提示を迅速化するために、両当事者に対し、期日外準備手続を利用するよう促した。",
+    "vocabularyList": [
+      {
+        "word": "Oral arguments",
+        "translation": "口頭弁論 (こうとうべんろん)"
+      },
+      {
+        "word": "To organize/clarify issues",
+        "translation": "争点整理 (そうてんせいり)"
+      },
+      {
+        "word": "Procedural step",
+        "translation": "手続段階 (てつづきだんかい)"
+      },
+      {
+        "word": "Presentation of evidence",
+        "translation": "証拠の提示 (しょうこのていじ)"
+      },
+      {
+        "word": "Main trial",
+        "translation": "本審理 (ほんしんり)"
+      },
+      {
+        "word": "Written exchange",
+        "translation": "書面の交換 (しょめんのこうかん)"
       }
     ]
   }

@@ -7238,5 +7238,119 @@
         "translation": "持株構造 (Mochikabu Kōzō)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Formal Review of Application",
+    "definition": "The procedural review conducted by the registrar to confirm that the registration application complies with statutory requirements, such as the required format and the submission of necessary instruments, without investigating the substantive truth of the underlying facts.",
+    "japaneseDefinition": "登記官が、登記申請について、その申請が法定の要件（申請書の形式や添付書類など）を満たしているかを確認する審査。実体的な真実性の確認は行わない。",
+    "japaneseWordTranslation": "けいしきてきしんさ (Keishikiteki Shinsa)",
+    "legalContext": "Commercial Registration Act (CR Act) generally adopts the principle that the registrar's review of an application is limited to formal and procedural requirements.",
+    "japaneseLegalContext": "商業登記法では、登記官による申請審査は形式的な要件に限られるという原則が採用されている。",
+    "exampleSentence": "The application was suspended pending clarification, as the registrar’s formal review of the application found a defect in the appended minutes.",
+    "exampleTranslation": "添付された議事録に不備が見つかったため、登記官による形式的審査の結果、その申請は補正のため保留された。",
+    "vocabularyList": [
+      {
+        "word": "procedural review",
+        "translation": "手続的審査"
+      },
+      {
+        "word": "statutory requirements",
+        "translation": "法定の要件"
+      },
+      {
+        "word": "consistency",
+        "translation": "整合性"
+      },
+      {
+        "word": "instrument",
+        "translation": "書面"
+      },
+      {
+        "word": "appended minutes",
+        "translation": "添付された議事録"
+      },
+      {
+        "word": "defect",
+        "translation": "不備 / 欠陥"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Corporate Seal Registration",
+    "definition": "The requirement for the representative officer of a company to officially deliver and register their personal seal impression (jitsuin) with the competent Commercial Registration Office, allowing the office to certify the authenticity of the seal used on formal documents.",
+    "japaneseDefinition": "会社の代表者が、公式に使用する印鑑の印影を所轄の商業登記所に届け出て登録する義務。これにより、公的書類における印鑑の真正が証明される。",
+    "japaneseWordTranslation": "かいしゃのじついんのとうろく (Kaisha no Jitsuin no Tōroku)",
+    "legalContext": "CR Act Art. 20 (Mandatory Submission of Seal Impression): If a representative of a company intends to effect registration, they must submit their seal impression to the Commercial Registration Office.",
+    "japaneseLegalContext": "商業登記法第20条（印鑑の提出）：会社を代表すべき者が登記を申請するときは、その印鑑を登記所に提出しなければならない。",
+    "exampleSentence": "Prior to filing the establishment registration, the corporate seal registration must be completed by the appointed representative officer.",
+    "exampleTranslation": "設立登記を申請する前に、選任された代表役員によって会社の実印の登録を完了しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "representative officer",
+        "translation": "代表役員"
+      },
+      {
+        "word": "officially deliver",
+        "translation": "届け出る"
+      },
+      {
+        "word": "authenticity",
+        "translation": "真正"
+      },
+      {
+        "word": "competent office",
+        "translation": "所轄の登記所"
+      },
+      {
+        "word": "personal seal impression",
+        "translation": "個人の印影"
+      },
+      {
+        "word": "effect registration",
+        "translation": "登記を行う"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-Opposability of Non-Registered Facts",
+    "definition": "The legal rule stemming from the principle of publicity, stating that if a fact required to be registered has not been, the company cannot claim that fact against any other person who was unaware of it (a party not acting in bad faith).",
+    "japaneseDefinition": "公示原則から派生する法原則で、登記すべき事項が未登記である場合、会社はその事項を知らなかった者（悪意でない者）に対して主張することができないというもの。",
+    "japaneseWordTranslation": "みとうろくじこうのたいこうふのう (Mitōroku Jikō no Taikō Funō)",
+    "legalContext": "CR Act Art. 9 (Negative Effect): Any matter required to be registered cannot be asserted against a person who is not acting in bad faith until after the registration thereof.",
+    "japaneseLegalContext": "商業登記法第9条（対抗力の制限）：登記すべき事項は、登記の後でなければ、これをもって善意の第三者に対抗することができない。",
+    "exampleSentence": "Due to the non-opposability of non-registered facts, the company was held liable for the contract signed by the outgoing director whose removal had not yet been recorded.",
+    "exampleTranslation": "未登録事項の対抗不能性により、会社は、その解任が未だ記録されていなかった退任予定の取締役が締結した契約について責任を負うことになった。",
+    "vocabularyList": [
+      {
+        "word": "principle of publicity",
+        "translation": "公示原則"
+      },
+      {
+        "word": "claim against",
+        "translation": "対抗する"
+      },
+      {
+        "word": "unaware of it",
+        "translation": "それを知らなかった"
+      },
+      {
+        "word": "outgoing director",
+        "translation": "退任予定の取締役"
+      },
+      {
+        "word": "removal",
+        "translation": "解任"
+      },
+      {
+        "word": "held liable",
+        "translation": "責任を負わされた"
+      }
+    ]
   }
 ]

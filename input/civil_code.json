@@ -9258,5 +9258,123 @@
         "translation": "浸水"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Possession",
+    "definition": "The physical or factual control (holding) of a thing, accompanied by the intention to hold it on one's own behalf, regardless of whether a legal right to the thing exists.",
+    "japaneseDefinition": "物を自己のためにする意思をもって事実上支配している状態。所有権の有無にかかわらず成立する。",
+    "japaneseWordTranslation": "せんゆう (Sen'yū)",
+    "legalContext": "Civil Code Art. 180 (Acquisition of Possession): 'Possession is acquired by the holding of a thing with the intention to hold it on one's own behalf.'",
+    "japaneseLegalContext": "民法第180条（占有の取得）：『占有は、自己のためにする意思をもって物を所持することによって取得する。』",
+    "exampleSentence": "A possessor, even if acting in good faith, must return the fruits derived from the possession upon loss of the principal action.",
+    "exampleTranslation": "占有者は、たとえ善意であっても、本権を失った場合には、その占有から得た果実を返還しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "holding",
+        "translation": "所持 (shoji)"
+      },
+      {
+        "word": "intention",
+        "translation": "意思 (ishi)"
+      },
+      {
+        "word": "principal action",
+        "translation": "本権 (honken)"
+      },
+      {
+        "word": "return",
+        "translation": "返還する (henkan suru)"
+      },
+      {
+        "word": "acquisition",
+        "translation": "取得 (shutoku)"
+      },
+      {
+        "word": "derived from",
+        "translation": "〜から生じる (kara shōjiru)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Revocation of Offer",
+    "definition": "The withdrawal of an expressed intent to contract (an offer) before the counterparty (the offeree) has effectively accepted it, thereby preventing the formation of a contract.",
+    "japaneseDefinition": "契約の申込みを、相手方が承諾の意思表示をする前に撤回し、契約の成立を阻止すること。",
+    "japaneseWordTranslation": "もうしこみのてっかい (Mōshikomi no Tekkai)",
+    "legalContext": "Civil Code Art. 521(1): 'An offer that specifies a period during which acceptance must be made may not be revoked.'",
+    "japaneseLegalContext": "民法第521条第1項：『承諾の期間を定めた申込みは、撤回することができない。』",
+    "exampleSentence": "The general rule dictates that if an offer does not specify a period for acceptance, it may be revoked prior to its arrival at the offeree.",
+    "exampleTranslation": "一般原則では、承諾期間を定めていない申込みは、相手方に到達する前に限り撤回することができる。",
+    "vocabularyList": [
+      {
+        "word": "offer",
+        "translation": "申込み (mōshikomi)"
+      },
+      {
+        "word": "acceptance",
+        "translation": "承諾 (shōdaku)"
+      },
+      {
+        "word": "general rule",
+        "translation": "一般原則 (ippan gensoku)"
+      },
+      {
+        "word": "dictates",
+        "translation": "定める (sadameru)"
+      },
+      {
+        "word": "arrival",
+        "translation": "到達 (tōtatsu)"
+      },
+      {
+        "word": "prior to",
+        "translation": "〜に先立って (ni sakidatte)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Waiver of Inheritance",
+    "definition": "A judicial procedure where a legal heir formally renounces their status as an heir, thereby rejecting all assets and liabilities associated with the deceased's estate.",
+    "japaneseDefinition": "相続人が、被相続人の残したプラスの財産だけでなく、マイナスの負債も含めた一切の権利義務を承継しない意思表示を、家庭裁判所に対して行う手続。",
+    "japaneseWordTranslation": "そうぞくほうき (Sōzoku Hōki)",
+    "legalContext": "Civil Code Art. 938: 'A waiver of inheritance must be effected by declaration to the Family Court.'",
+    "japaneseLegalContext": "民法第938条：『相続の放棄をしようとする者は、その旨を家庭裁判所に申述しなければならない。』",
+    "exampleSentence": "The surviving spouse filed a waiver of inheritance within three months of learning of the commencement of succession due to the extensive estate debt.",
+    "exampleTranslation": "残された配偶者は、多額の遺産負債のため、相続開始を知った時から3か月以内に相続放棄を申述した。",
+    "vocabularyList": [
+      {
+        "word": "surviving spouse",
+        "translation": "残された配偶者 (nokosareta haigūsha)"
+      },
+      {
+        "word": "filed a waiver",
+        "translation": "放棄を申述した (hōki o shinshutsu shita)"
+      },
+      {
+        "word": "estate debt",
+        "translation": "遺産負債 (isan fusai)"
+      },
+      {
+        "word": "family court",
+        "translation": "家庭裁判所 (katei saibansho)"
+      },
+      {
+        "word": "heir",
+        "translation": "相続人 (sōzokunin)"
+      },
+      {
+        "word": "declaration",
+        "translation": "申述 (shinshutsu)"
+      },
+      {
+        "word": "extensive",
+        "translation": "多額の (tagaku no)"
+      }
+    ]
   }
 ]

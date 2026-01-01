@@ -7906,5 +7906,127 @@
         "translation": "一時的な借入の仕組み (いちじてきなかりいれのしくみ)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Capital Reduction",
+    "definition": "The process by which a company formally decreases the amount of its stated capital, often requiring shareholder approval and prescribed procedures for creditor protection.",
+    "japaneseDefinition": "会社が、株主総会の特別決議や債権者保護手続を経て、登記されている資本金の額を減少させる行為。",
+    "japaneseWordTranslation": "資本金の額の減少 (しほんきんのがくのげんしょう)",
+    "legalContext": "Companies Act Art. 447 (Resolution for reduction of the amount of stated capital) and Art. 449 (Procedures for protection of creditors).",
+    "japaneseLegalContext": "会社法第447条（資本金の額の減少の決議）および第449条（債権者保護手続）",
+    "exampleSentence": "The resolution for the **Capital Reduction** must be passed by a special resolution at the General Meeting of Shareholders, subject to creditor protection requirements.",
+    "exampleTranslation": "資本金の額の減少の決議は、債権者保護の要件に従い、株主総会の特別決議によって可決されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Stated capital",
+        "translation": "資本金"
+      },
+      {
+        "word": "Shareholder approval",
+        "translation": "株主の承認"
+      },
+      {
+        "word": "Creditor protection",
+        "translation": "債権者保護"
+      },
+      {
+        "word": "Special resolution",
+        "translation": "特別決議"
+      },
+      {
+        "word": "General Meeting of Shareholders",
+        "translation": "株主総会"
+      },
+      {
+        "word": "Requirement",
+        "translation": "要件"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Corporate Veil Piercing",
+    "definition": "A judicial doctrine allowing courts to disregard the separate legal identity of a corporation and hold the shareholders or affiliated companies liable, typically when the corporate form is grossly abused.",
+    "japaneseDefinition": "会社が独立した法人格を悪用し、実質的な支配者が責任を逃れようとする場合に、裁判所がその法人格を否認し、支配者に直接責任を負わせる法理。",
+    "japaneseWordTranslation": "法人格否認の法理 (ほうじんかくひにんのほうり)",
+    "legalContext": "Legal Principle (Established by Supreme Court precedent regarding the abuse of corporate independence and legal formalities).",
+    "japaneseLegalContext": "法理（法人格の独立性濫用や形式濫用に関する最高裁判所判例により確立された法原則）",
+    "exampleSentence": "If the subsidiary was merely an alter ego for its parent company, the court may invoke the principle of **Corporate Veil Piercing** to establish liability.",
+    "exampleTranslation": "もしその子会社が単に親会社の別の側面（アルター・エゴ）に過ぎなかった場合、裁判所は責任を確立するために法人格否認の法理を援用することがある。",
+    "vocabularyList": [
+      {
+        "word": "Judicial doctrine",
+        "translation": "法理"
+      },
+      {
+        "word": "Separate legal identity",
+        "translation": "独立した法人格"
+      },
+      {
+        "word": "Affiliated companies",
+        "translation": "関連会社"
+      },
+      {
+        "word": "Supreme Court",
+        "translation": "最高裁判所"
+      },
+      {
+        "word": "Alter ego",
+        "translation": "別の側面（アルター・エゴ）"
+      },
+      {
+        "word": "Parent company",
+        "translation": "親会社"
+      },
+      {
+        "word": "Subsidiary",
+        "translation": "子会社"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Share Buyback",
+    "definition": "The acquisition by a company of its own issued shares, which are then typically held as treasury stock or canceled, often used to adjust capital structure or return value to shareholders.",
+    "japaneseDefinition": "会社が自ら発行した株式を買い戻す行為。取得された株式は自己株式として保有されるか、または消却され、資本構成の調整などに用いられる。",
+    "japaneseWordTranslation": "自己株式の取得 (じこかぶしきのしゅとく)",
+    "legalContext": "Companies Act Art. 155 (Acquisition of Own Shares), defining the various methods and requirements for such acquisition.",
+    "japaneseLegalContext": "会社法第155条（自己株式の取得）—当該取得の多様な方法および要件を定める。",
+    "exampleSentence": "The Board of Directors authorized a substantial **Share Buyback** program with the intent of improving the earnings per share and adjusting the capital structure.",
+    "exampleTranslation": "取締役会は、一株当たり利益の改善と資本構成の調整を意図して、大規模な自己株式の取得プログラムを承認した。",
+    "vocabularyList": [
+      {
+        "word": "Issued shares",
+        "translation": "発行済株式"
+      },
+      {
+        "word": "Treasury stock",
+        "translation": "自己株式"
+      },
+      {
+        "word": "Cancellation",
+        "translation": "消却"
+      },
+      {
+        "word": "Capital structure",
+        "translation": "資本構成"
+      },
+      {
+        "word": "Board of Directors",
+        "translation": "取締役会"
+      },
+      {
+        "word": "Authorization",
+        "translation": "承認"
+      },
+      {
+        "word": "Acquisition",
+        "translation": "取得"
+      }
+    ]
   }
 ]

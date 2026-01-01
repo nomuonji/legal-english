@@ -2,44 +2,6 @@
   {
     "category": "Real Property Registration (不動産登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Registration of Change",
-    "definition": "A registration procedure used to record alterations to the description of a piece of real property (e.g., change in land use or address) or minor modifications to a registered right (e.g., change of the obligor's name or address).",
-    "japaneseDefinition": "不動産の表示（地目や所在など）の変更、または登記された権利の軽微な変更（債務者の氏名または住所の変更など）を記録するために行われる登記手続。",
-    "japaneseWordTranslation": "変更登記 (へんこうとうき)",
-    "legalContext": "Real Property Registration Act Art. 37 (Regarding the registration of changes to the description of real property)",
-    "japaneseLegalContext": "不動産登記法 第37条 (不動産の表示に関する変更の登記等)",
-    "exampleSentence": "The developer submitted an application for the **Registration of Change** after converting the land from agricultural use to residential use, altering the official land category.",
-    "exampleTranslation": "開発業者は、土地を農地利用から住宅利用に変更し、公的な地目を変更した後、変更登記の申請を提出した。",
-    "vocabularyList": [
-      {
-        "word": "developer",
-        "translation": "開発業者"
-      },
-      {
-        "word": "submitted an application",
-        "translation": "申請を提出した"
-      },
-      {
-        "word": "converting",
-        "translation": "変更する"
-      },
-      {
-        "word": "agricultural use",
-        "translation": "農地利用"
-      },
-      {
-        "word": "residential use",
-        "translation": "住宅利用"
-      },
-      {
-        "word": "land category",
-        "translation": "地目"
-      }
-    ]
-  },
-  {
-    "category": "Real Property Registration (不動産登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Joint Security Register",
     "definition": "An auxiliary document (Mokuroku) maintained by the registrar, which comprehensively lists multiple distinct parcels of real property that are pledged as security for a single underlying claim or debt.",
     "japaneseDefinition": "単一の債権または債務に対して担保として差し出されている、複数の個別の不動産を包括的に一覧化した、登記官によって作成・管理される付属文書（目録）。",
@@ -7048,6 +7010,120 @@
       {
         "word": "execution of the contract",
         "translation": "契約の締結"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Date of Building Construction",
+    "definition": "The exact date when a new building was completed and made ready for use. This factual detail is mandatory for entry into the official building registry record.",
+    "japaneseDefinition": "新たに建築された建物が完成し、使用可能になった正確な日付。これは、建物の登記記録に必須とされる表示事項の一つである。",
+    "japaneseWordTranslation": "新築年月日 (Shinchiku Nengappi)",
+    "legalContext": "Property Registration Act (不動産登記法) requires specific physical details, including the construction completion date, to be entered upon initial registration of a newly constructed building.",
+    "japaneseLegalContext": "不動産登記法は、新築された建物について、その物理的詳細（新築年月日を含む）を最初の登記時に記載することを要求している。",
+    "exampleSentence": "The application for initial registration of the building required a certified document proving the Date of Building Construction for inclusion in the registry record.",
+    "exampleTranslation": "その建物の所有権保存の申請には、登記記録に含めるための新築年月日を証明する公的な書面が求められた。",
+    "vocabularyList": [
+      {
+        "word": "initial registration",
+        "translation": "保存の登記"
+      },
+      {
+        "word": "registry record",
+        "translation": "登記記録"
+      },
+      {
+        "word": "certified document",
+        "translation": "証明書"
+      },
+      {
+        "word": "physical details",
+        "translation": "物理的詳細"
+      },
+      {
+        "word": "mandatory",
+        "translation": "必須の"
+      },
+      {
+        "word": "inclusion",
+        "translation": "記載"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Building Usage",
+    "definition": "The classification specifying the primary function or purpose for which a registered building is used (e.g., residence, store, factory). This information is recorded in the factual description section.",
+    "japaneseDefinition": "登記された建物の主たる機能または目的（例えば、居宅、店舗、工場など）を分類したもので、表示に関する登記記録に記載される情報。",
+    "japaneseWordTranslation": "建物の用途 (Tatemono no Yōto)",
+    "legalContext": "Property Registration Act Art. 27: The description of a building shall include its type and structure, as well as its usage.",
+    "japaneseLegalContext": "不動産登記法第27条：建物の登記の記録には、その種類及び構造並びに用途を記載するものとする。",
+    "exampleSentence": "A change in the Building Usage from 'residence' to 'commercial facility' necessitates a factual registration procedure reflecting the new function.",
+    "exampleTranslation": "建物の用途を「居宅」から「商業施設」に変更する場合、新たな機能を示す表示の登記手続が必要となる。",
+    "vocabularyList": [
+      {
+        "word": "factual registration",
+        "translation": "表示の登記"
+      },
+      {
+        "word": "classification",
+        "translation": "分類"
+      },
+      {
+        "word": "primary function",
+        "translation": "主たる機能"
+      },
+      {
+        "word": "necessitates",
+        "translation": "必要とする"
+      },
+      {
+        "word": "description section",
+        "translation": "表示に関する記録"
+      },
+      {
+        "word": "procedure",
+        "translation": "手続"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Real Property Number",
+    "definition": "A unique administrative identification number assigned to each parcel of land or building by the registry office for the purpose of efficient record management and retrieval.",
+    "japaneseDefinition": "登記所が、効率的な記録管理と検索のために、個々の土地または建物に割り当てる固有の行政識別番号。",
+    "japaneseWordTranslation": "不動産番号 (Fudōsan Bangō)",
+    "legalContext": "The Real Property Number is used as a standard reference code in all applications and official documents related to the property record, streamlining the process under the Registration Act framework.",
+    "japaneseLegalContext": "不動産番号は、不動産の登記記録に関連するすべての申請書及び公的な書面において、標準的な照合番号として用いられ、登記法の枠組みにおける手続を効率化する。",
+    "exampleSentence": "When submitting an application to record a change of address, the applicant must ensure that the correct Real Property Number is accurately referenced.",
+    "exampleTranslation": "住所変更を記録する申請書を提出する際、申請人は正しい不動産番号が正確に参照されていることを確認しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "identification number",
+        "translation": "識別番号"
+      },
+      {
+        "word": "record management",
+        "translation": "記録管理"
+      },
+      {
+        "word": "reference code",
+        "translation": "照合符号"
+      },
+      {
+        "word": "application",
+        "translation": "申請書"
+      },
+      {
+        "word": "retrieval",
+        "translation": "検索"
+      },
+      {
+        "word": "streamlining",
+        "translation": "効率化"
       }
     ]
   }

@@ -6154,5 +6154,73 @@
         "translation": "記録 (Kiroku)"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Claim Withdrawal (of Deposit)",
+    "definition": "The right possessed by the person entitled to the deposited property (usually the obligee or their successor) to request the Deposit Office to disburse the deposited assets, thereby completing the transaction set up by the consignor.",
+    "japaneseDefinition": "供託物について払渡しを受けるべき者が、供託所に対し、その供託物の交付を請求する権利。",
+    "japaneseWordTranslation": "供託物払渡請求権 (きょうたくぶつはらいわたしせいきゅうけん)",
+    "legalContext": "Deposit Act, Article 8 (Right to Claim Withdrawal): The entitlement to receive the deposited property.",
+    "japaneseLegalContext": "供託法第八条（供託物払渡請求権）: 供託物の払渡しを受ける権利を有する者。",
+    "exampleSentence": "The obligee must exercise the right to claim withdrawal within ten years, otherwise the assets may revert to the national treasury.",
+    "exampleTranslation": "債権者は、供託物払渡請求権を10年以内に行使しなければならず、さもなければその資産は国庫に帰属する可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "deposited property",
+        "translation": "供託物"
+      },
+      {
+        "word": "Deposit Office",
+        "translation": "供託所"
+      },
+      {
+        "word": "exercise",
+        "translation": "行使する"
+      },
+      {
+        "word": "revert to the national treasury",
+        "translation": "国庫に帰属する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Grounds for Consignment",
+    "definition": "The specific factual or legal circumstances, prescribed by statute, that legally permit an individual or entity to consign money, goods, or securities to the Deposit Office, typically resulting in the discharge of an underlying obligation.",
+    "japaneseDefinition": "法律により供託をすることが許される原因となる事実。例として、債権者が弁済の受領を拒否する場合や、債権者が確知できない場合などがある。",
+    "japaneseWordTranslation": "供託原因 (きょうたくげんいん)",
+    "legalContext": "Civil Code, Article 494 (Consignment of Subject Matter of Obligation): If the obligee refuses or is unable to accept performance, the obligor may be discharged from the obligation by depositing the subject matter of the performance.",
+    "japaneseLegalContext": "民法第四百九十四条（供託）：債権者が弁済の受領を拒み、又はこれを受領することができないときは、弁済者は、債権者のためにその弁済の目的物を供託し、その債務を免れることができる。",
+    "exampleSentence": "The obligor successfully proved the grounds for consignment by presenting evidence that the obligee's location could not be ascertained after diligent inquiry.",
+    "exampleTranslation": "債務者は、入念な調査の後も債権者の所在が確認できなかったとする証拠を提出することで、供託原因を立証した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "obligee's location",
+        "translation": "債権者の所在"
+      },
+      {
+        "word": "ascertained",
+        "translation": "確知された"
+      },
+      {
+        "word": "discharge of an underlying obligation",
+        "translation": "基礎となる債務の消滅"
+      },
+      {
+        "word": "subject matter of the performance",
+        "translation": "弁済の目的物"
+      }
+    ]
   }
 ]

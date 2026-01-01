@@ -1,42 +1,38 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Real Property Registration (不動産登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Judgment by Confession",
-  "definition": "A judgment rendered when the defendant explicitly admits the validity and entire substance of the plaintiff's claim in court, resulting in a binding final judgment without the need for further evidence or factual determination.",
-  "japaneseDefinition": "被告が原告の請求の全部または主要な内容を真実であると認め、裁判所に対してその旨を陳述した際に下される判決。これにより訴訟は終結する。",
-  "japaneseWordTranslation": "認諾判決 (にんだくはんけつ)",
-  "legalContext": "Code of Civil Procedure Art. 266 (1): 'A judicial record of a confession of the claim or waiver of the claim shall have the same effect as a final judgment.'",
-  "japaneseLegalContext": "民事訴訟法第266条第1項: 請求の認諾又は請求の放棄を裁判所の調書に記載したときは、確定判決と同一の効力を有する。",
-  "exampleSentence": "The court issued a judgment by confession after the defendant formally stated in the preparatory proceedings that they fully accepted the plaintiff’s demand for damages.",
-  "exampleTranslation": "被告が準備手続において原告の損害賠償請求を完全に受け入れることを正式に陳述した後、裁判所は認諾判決を下した。",
+  "word": "Registration of Change",
+  "definition": "A registration procedure used to record alterations to the description of a piece of real property (e.g., change in land use or address) or minor modifications to a registered right (e.g., change of the obligor's name or address).",
+  "japaneseDefinition": "不動産の表示（地目や所在など）の変更、または登記された権利の軽微な変更（債務者の氏名または住所の変更など）を記録するために行われる登記手続。",
+  "japaneseWordTranslation": "変更登記 (へんこうとうき)",
+  "legalContext": "Real Property Registration Act Art. 37 (Regarding the registration of changes to the description of real property)",
+  "japaneseLegalContext": "不動産登記法 第37条 (不動産の表示に関する変更の登記等)",
+  "exampleSentence": "The developer submitted an application for the **Registration of Change** after converting the land from agricultural use to residential use, altering the official land category.",
+  "exampleTranslation": "開発業者は、土地を農地利用から住宅利用に変更し、公的な地目を変更した後、変更登記の申請を提出した。",
   "vocabularyList": [
     {
-      "word": "defendant",
-      "translation": "被告 (ひこく)"
+      "word": "developer",
+      "translation": "開発業者"
     },
     {
-      "word": "plaintiff",
-      "translation": "原告 (げんこく)"
+      "word": "submitted an application",
+      "translation": "申請を提出した"
     },
     {
-      "word": "substance of the claim",
-      "translation": "請求の主要な内容 (せいきゅうのしゅようなないよう)"
+      "word": "converting",
+      "translation": "変更する"
     },
     {
-      "word": "final judgment",
-      "translation": "確定判決 (かくていはんけつ)"
+      "word": "agricultural use",
+      "translation": "農地利用"
     },
     {
-      "word": "formally stated",
-      "translation": "正式に陳述した (せいしきにちんじゅつした)"
+      "word": "residential use",
+      "translation": "住宅利用"
     },
     {
-      "word": "damages",
-      "translation": "損害賠償 (そんがいばいしょう)"
-    },
-    {
-      "word": "judicial record",
-      "translation": "調書 (ちょうしょ)"
+      "word": "land category",
+      "translation": "地目"
     }
   ]
 }

@@ -8566,5 +8566,119 @@
         "translation": "書面の交換 (しょめんのこうかん)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deemed Confession",
+    "definition": "A procedural rule whereby a party's failure to explicitly dispute or respond to the opponent's assertion of a material fact during the oral arguments or preparatory procedures is legally treated as an admission of that fact.",
+    "japaneseDefinition": "当事者が相手方の主張した主要事実を口頭弁論または準備手続において明確に争わない場合に、その事実を自白したものとみなす訴訟法上の制度。",
+    "japaneseWordTranslation": "擬制自白 (ぎせいじはく)",
+    "legalContext": "Civil Procedure Code Art. 159 (1): 'Facts asserted by the opponent shall be deemed to be confessed if the party does not explicitly dispute them in the oral arguments.'",
+    "japaneseLegalContext": "民事訴訟法第159条第1項: 「相手方の主張した事実を口頭弁論又は準備手続において争わないときは、これを自白したものとみなす。」",
+    "exampleSentence": "Since the defendant failed to appear at the trial hearing to dispute the amount claimed, the court proceeded on the basis of a deemed confession.",
+    "exampleTranslation": "被告が請求された金額を争うために公判期日に出頭しなかったため、裁判所は擬制自白を根拠として手続きを進めた。",
+    "vocabularyList": [
+      {
+        "word": "material fact",
+        "translation": "主要事実"
+      },
+      {
+        "word": "assertion",
+        "translation": "主張"
+      },
+      {
+        "word": "dispute",
+        "translation": "争う"
+      },
+      {
+        "word": "procedural rule",
+        "translation": "手続規定"
+      },
+      {
+        "word": "trial hearing",
+        "translation": "口頭弁論期日"
+      },
+      {
+        "word": "admission",
+        "translation": "自白"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Evidence Preservation Order",
+    "definition": "A judicial order issued by the court before or during litigation, upon motion by a party, to immediately inspect, examine, or secure evidence where there is an urgent risk that the evidence may be lost or destroyed, making future use difficult.",
+    "japaneseDefinition": "訴訟の係属前後を問わず、証拠が滅失・毀損するなどの事情により、将来の使用が困難になるおそれがある場合に、裁判所が発する証拠の調査または確保を命じる決定。",
+    "japaneseWordTranslation": "証拠保全命令 (しょうこほぜんめいれい)",
+    "legalContext": "Civil Procedure Code Art. 234: 'When a court finds that there is a risk that evidence may become difficult to use in the future, it may, upon motion, conduct the preservation of evidence.'",
+    "japaneseLegalContext": "民事訴訟法第234条: 「裁判所は、あらかじめ証拠の申出をすることができない事情がある場合において、その証拠が将来において使用することが困難となるおそれがあると認めるときは、申立てにより、その保全をすることができる。」",
+    "exampleSentence": "The claimant filed a motion for an Evidence Preservation Order to secure critical documents held by the opposing party before the main action commenced.",
+    "exampleTranslation": "申立人は、本訴提起前に、相手方が保持する重要な文書を確保するため、証拠保全命令の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "secure",
+        "translation": "確保する"
+      },
+      {
+        "word": "litigation",
+        "translation": "訴訟"
+      },
+      {
+        "word": "examine",
+        "translation": "調査する"
+      },
+      {
+        "word": "critical documents",
+        "translation": "重要な文書"
+      },
+      {
+        "word": "risk of loss",
+        "translation": "滅失のおそれ"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Jurisdiction by Responding to Suit",
+    "definition": "A form of consensual jurisdiction established when a defendant, after being sued in a court that lacks proper jurisdiction, appears and enters into oral arguments on the merits of the case without submitting an objection to the lack of jurisdiction.",
+    "japaneseDefinition": "本来の管轄権を有しない裁判所に提訴された被告が、管轄権の欠如を異議なく認め、本案について口頭弁論を行った場合に、その裁判所に管轄権が成立すること。",
+    "japaneseWordTranslation": "応訴管轄 (おうそかんかつ)",
+    "legalContext": "Civil Procedure Code Art. 12: 'If a defendant, without submitting an objection to the lack of jurisdiction, enters into oral arguments on the merits, the court shall have jurisdiction over the suit.'",
+    "japaneseLegalContext": "民事訴訟法第12条: 「被告が、管轄違いの抗弁をしないで本案について弁論をしたときは、その裁判所は、管轄権を有する。」",
+    "exampleSentence": "Since the defendant’s representative participated in the first hearing and addressed the claim on the merits, Jurisdiction by Responding to Suit was established, negating the need for a transfer.",
+    "exampleTranslation": "被告代理人が第1回期日に出席し、本案について請求に応答したため、応訴管轄が成立し、移送の必要性がなくなった。",
+    "vocabularyList": [
+      {
+        "word": "consensual jurisdiction",
+        "translation": "合意管轄"
+      },
+      {
+        "word": "objection",
+        "translation": "異議 / 抗弁"
+      },
+      {
+        "word": "oral arguments",
+        "translation": "口頭弁論"
+      },
+      {
+        "word": "on the merits",
+        "translation": "本案について"
+      },
+      {
+        "word": "lack of jurisdiction",
+        "translation": "管轄権の欠如"
+      },
+      {
+        "word": "transfer",
+        "translation": "移送"
+      }
+    ]
   }
 ]

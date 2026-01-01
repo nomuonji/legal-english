@@ -1,42 +1,42 @@
 {
   "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Collation",
-  "definition": "In succession law, the requirement that an heir who received special benefits (gifts or legacies) from the decedent must include the value of those benefits in the estate calculation to ensure fair distribution among the legal heirs.",
-  "japaneseDefinition": "相続法において、共同相続人のうち、被相続人から生前贈与等の特別受益を受けた者が、遺産の公平な分割のため、その受益額を相続財産に算入すること。",
-  "japaneseWordTranslation": "持戻し (もちもどし)",
-  "legalContext": "Civil Code Art. 903 (Collation of Benefits Received from Decedent): If one of the co-heirs received a gift or legacy from the decedent, the value of that gift or legacy shall be included in the calculation of the estate.",
-  "japaneseLegalContext": "民法第903条（特別受益者の相続分）：共同相続人中に、被相続人から遺贈を受け、又は生計の資本として贈与を受けた者があるときは、その受けたものの価額を相続財産に算入する。",
-  "exampleSentence": "The court ordered the eldest son to perform Collation, as he had received a large gift of land for his business startup ten years prior to the decedent's death.",
-  "exampleTranslation": "長男は、被相続人の死亡の10年前に事業開始資金として多額の土地の贈与を受けていたため、裁判所は持戻しを行うよう命じた。",
+  "word": "Duty of Due Care of a Prudent Manager",
+  "definition": "The standard of care required of an obligor (particularly an agent or bailee) who manages another person's property or affairs, demanding the diligence and prudence that an ordinary, reasonable person would exercise in managing their own affairs.",
+  "japaneseDefinition": "受任者や受寄者など、他人の事務を処理する者が負う、善良な管理者としての注意をもってその事務を処理すべき義務のこと。",
+  "japaneseWordTranslation": "善管注意義務 (ぜんかんちゅういぎむ)",
+  "legalContext": "Civil Code Art. 644 (Duty of Due Care of a Prudent Manager): 'A Mandatary must manage the entrusted affairs with the duty of due care of a prudent manager.'",
+  "japaneseLegalContext": "民法第644条（受任者の注意義務）：『受任者は、委任の本旨に従い、善良な管理者としての注意をもって、委任事務を処理する義務を負う。』",
+  "exampleSentence": "The court found the corporate director liable for breach of the duty of due care of a prudent manager after he failed to conduct adequate risk assessments.",
+  "exampleTranslation": "裁判所は、当該取締役が適切なリスク評価を実施しなかったため、善管注意義務違反の責任があると判断した。",
   "vocabularyList": [
     {
-      "word": "Decedent",
-      "translation": "被相続人"
+      "word": "Mandatary",
+      "translation": "受任者"
     },
     {
-      "word": "Heir",
-      "translation": "相続人"
+      "word": "breach",
+      "translation": "違反"
     },
     {
-      "word": "Special benefits",
-      "translation": "特別受益"
+      "word": "liable",
+      "translation": "責任がある"
     },
     {
-      "word": "Estate calculation",
-      "translation": "遺産算入"
+      "word": "risk assessment",
+      "translation": "リスク評価"
     },
     {
-      "word": "Co-heirs",
-      "translation": "共同相続人"
+      "word": "entrusted affairs",
+      "translation": "委任事務"
     },
     {
-      "word": "Distributable share",
-      "translation": "相続分"
+      "word": "diligence",
+      "translation": "注意（努力）"
     },
     {
-      "word": "Gift (lifetime)",
-      "translation": "生前贈与"
+      "word": "standard of care",
+      "translation": "注意義務の基準"
     }
   ]
 }

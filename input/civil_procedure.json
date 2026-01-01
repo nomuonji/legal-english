@@ -8794,5 +8794,131 @@
         "translation": "確定判決"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Panel",
+    "definition": "The composition of judges designated to hear and decide a specific case, typically consisting of one or three judges depending on the court and the complexity of the case.",
+    "japaneseDefinition": "個別の事件を審理・裁判するために指定された裁判官の構成。通常、裁判所や事件の難易度に応じて、単独または3人の裁判官で構成される。",
+    "japaneseWordTranslation": "裁判体 (さいばんたい)",
+    "legalContext": "Civil Procedure Code Art. 269 (Organization of the Court for Trial): A District Court shall conduct trial and judgment through a judicial panel consisting of a single judge or three judges.",
+    "japaneseLegalContext": "民事訴訟法第269条 (裁判体の構成)：地方裁判所は、単独の裁判官又は三人の裁判官をもって構成する裁判体で、審理及び裁判をする。",
+    "exampleSentence": "The District Court decided to hear the complex environmental litigation case before a three-judge judicial panel due to the difficulty of the issues.",
+    "exampleTranslation": "地方裁判所は、論点の難しさから、その複雑な環境訴訟事件を3人の裁判官による裁判体で審理することを決定した。",
+    "vocabularyList": [
+      {
+        "word": "District Court",
+        "translation": "地方裁判所"
+      },
+      {
+        "word": "three-judge panel",
+        "translation": "三人裁判体"
+      },
+      {
+        "word": "single judge",
+        "translation": "単独裁判官"
+      },
+      {
+        "word": "litigation case",
+        "translation": "訴訟事件"
+      },
+      {
+        "word": "complexity",
+        "translation": "難易度"
+      },
+      {
+        "word": "hear and decide",
+        "translation": "審理及び裁判"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Payment",
+    "definition": "A simplified, summary procedure initiated by an obligee in a summary court to quickly obtain an enforcement title for a monetary claim, provided the obligor does not file an objection within the statutory period.",
+    "japaneseDefinition": "債権者が金銭の支払いを求める場合に、債務者からの異議申立てが法定期間内になければ、執行権原を迅速に得るために簡易裁判所で行われる簡略化された略式手続。",
+    "japaneseWordTranslation": "支払督促 (しはらいとくそく)",
+    "legalContext": "Civil Procedure Code Art. 382 (Requirements for Order for Payment): An Order for Payment shall be issued only for claims for a fixed amount of money or for the delivery of fungible things or valuable securities.",
+    "japaneseLegalContext": "民事訴訟法第382条 (支払督促の要件)：支払督促は、金銭その他の代替物又は有価証券の一定の数量の給付を目的とする請求についてのみ、これをすることができる。",
+    "exampleSentence": "Since the execution obligor failed to object within two weeks, the order for payment became final and binding, allowing the obligee to commence compulsory execution.",
+    "exampleTranslation": "執行債務者が2週間以内に異議を申し立てなかったため、支払督促は確定し、債権者は強制執行を開始できるようになった。",
+    "vocabularyList": [
+      {
+        "word": "obligee/creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "obligor/debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "summary procedure",
+        "translation": "略式手続"
+      },
+      {
+        "word": "monetary claim",
+        "translation": "金銭の請求"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "enforcement title",
+        "translation": "執行権原"
+      },
+      {
+        "word": "summary court",
+        "translation": "簡易裁判所"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Motion for Acceptance of Jōkoku Appeal",
+    "definition": "A specific legal mechanism in Japanese Civil Procedure where a party requests the Supreme Court to accept the case for final review, typically when the High Court judgment does not involve constitutional or major legal precedent issues but rather disputes over interpretation of laws.",
+    "japaneseDefinition": "高等裁判所の判決が憲法違反や重大な判例違反といった上告の法定理由に該当しない場合に、法律の解釈に関する争いを理由として、最高裁判所に事件の最終審理を受理するよう求める特定の手続き。",
+    "japaneseWordTranslation": "上告受理申立て (じょうこくじゅりもうしたて)",
+    "legalContext": "Civil Procedure Code Art. 318 (Motion for Acceptance of Jōkoku Appeal): A Jōkoku appeal may be filed with the Supreme Court on the grounds that it is necessary to make a ruling concerning the interpretation of laws and regulations affecting the case.",
+    "japaneseLegalContext": "民事訴訟法第318条 (上告受理の申立て)：上告は、事件について法令の解釈に関する重要な事項を含むものと認められる場合に、最高裁判所に受理を申し立てることができる。",
+    "exampleSentence": "The losing party filed a motion for acceptance of Jōkoku appeal, arguing that the High Court’s ruling contained a significant misinterpretation of the Commercial Code.",
+    "exampleTranslation": "敗訴した当事者は、高等裁判所の判決が商法の重大な誤解釈を含んでいると主張し、上告受理申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "Supreme Court",
+        "translation": "最高裁判所"
+      },
+      {
+        "word": "High Court",
+        "translation": "高等裁判所"
+      },
+      {
+        "word": "Jōkoku appeal",
+        "translation": "上告"
+      },
+      {
+        "word": "precedent",
+        "translation": "判例"
+      },
+      {
+        "word": "interpretation of laws",
+        "translation": "法令の解釈"
+      },
+      {
+        "word": "losing party",
+        "translation": "敗訴当事者"
+      },
+      {
+        "word": "ruling/judgment",
+        "translation": "判決"
+      },
+      {
+        "word": "Commercial Code",
+        "translation": "商法"
+      }
+    ]
   }
 ]

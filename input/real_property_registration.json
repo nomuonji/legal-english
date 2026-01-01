@@ -7240,5 +7240,119 @@
         "translation": "調整する (Chōsei suru)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Single Application Principle",
+    "definition": "The legal rule requiring or allowing a registration application to be filed by one party alone, typically applicable to factual registrations (like changes in building structure) or the initial registration of certain rights (like preservation of title or merger of rights).",
+    "japaneseDefinition": "当事者の一方のみが申請義務または申請権を有し、単独で登記を申請することができる原則。表示の登記や所有権保存登記などで採用される。",
+    "japaneseWordTranslation": "単独申請主義 (たんどくしんせいしゅぎ)",
+    "legalContext": "Real Property Registration Act Art. 27: Where a registration concerns the indication of real property, the registration shall be filed by the owner of the real property.",
+    "japaneseLegalContext": "不動産登記法第27条: 不動産の表示に関する登記は、当該不動産の所有者から申請をしなければならない。",
+    "exampleSentence": "Under the Single Application Principle, the owner must apply for the correction registration concerning the increase in the land's measured area.",
+    "exampleTranslation": "単独申請主義に基づき、土地の測量面積の増加に関する更正登記は所有者が申請しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "owner",
+        "translation": "所有者 (しょゆうしゃ)"
+      },
+      {
+        "word": "filing",
+        "translation": "申請 (しんせい)"
+      },
+      {
+        "word": "correction registration",
+        "translation": "更正登記 (こうせいとうき)"
+      },
+      {
+        "word": "measured area",
+        "translation": "測量面積 (そくりょうめんせき)"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産 (ふどうさん)"
+      },
+      {
+        "word": "preservation of title",
+        "translation": "所有権の保存 (しょゆうけんのほぞん)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Index Section",
+    "definition": "The first section (Hyōdaibu) of a real property register, which records the physical facts of the property, such as the location, type of land (category), physical area, and, for buildings, the structure and date of construction.",
+    "japaneseDefinition": "不動産登記簿の冒頭部分であり、不動産の現況を示す物理的事項（所在、地目、地積、建物の構造、床面積など）を記録する箇所。",
+    "japaneseWordTranslation": "表題部 (ひょうだいぶ)",
+    "legalContext": "Real Property Registration Act Art. 25: A registration application shall be rejected if the particulars of the application concerning the description of the real property do not conform to the Index Section.",
+    "japaneseLegalContext": "不動産登記法第25条: 当該申請に係る不動産の表示が表題部の記録と符合しないときは、登記を却下しなければならない。",
+    "exampleSentence": "The land and house investigator is primarily responsible for preparing the documents required to update the Index Section of the register.",
+    "exampleTranslation": "土地家屋調査士は、主に登記簿の表題部を更新するために必要な書類を作成する責任を負う。",
+    "vocabularyList": [
+      {
+        "word": "real property register",
+        "translation": "不動産登記簿 (ふどうさんとうきぼ)"
+      },
+      {
+        "word": "land and house investigator",
+        "translation": "土地家屋調査士 (とちかおくちょうさし)"
+      },
+      {
+        "word": "location",
+        "translation": "所在 (しょざい)"
+      },
+      {
+        "word": "structure",
+        "translation": "構造 (こうぞう)"
+      },
+      {
+        "word": "particulars",
+        "translation": "事項 (じこう)"
+      },
+      {
+        "word": "floor area",
+        "translation": "床面積 (ゆかめんせき)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Site",
+    "definition": "The land, including all contiguous parcels, used for the occupancy of a building. In the context of sectional ownership (condominiums), it refers to the land designated for the exclusive use of the unit owners.",
+    "japaneseDefinition": "建物が存立する土地。区分建物（マンション等）においては、その建物の所有を目的とする敷地全体を指す。",
+    "japaneseWordTranslation": "敷地 (しきち)",
+    "legalContext": "Real Property Registration Act Art. 44 (1) 9: When registering a sectional ownership building, the existence and details of the Site shall be recorded in the Index Section of the register.",
+    "japaneseLegalContext": "不動産登記法第44条第1項第9号: 区分建物についての登記をする場合において、敷地の状況は、表題部に記録しなければならない。",
+    "exampleSentence": "The Site must be clearly identified and its area specified when applying for the initial registration of a newly constructed condominium complex.",
+    "exampleTranslation": "新築のマンション団地の初期登記を申請する際、敷地は明確に特定され、その面積が明記されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "occupancy",
+        "translation": "存立 (そんりつ)"
+      },
+      {
+        "word": "contiguous parcels",
+        "translation": "連続した区画 (れんぞくしたくかく)"
+      },
+      {
+        "word": "sectional ownership building",
+        "translation": "区分建物 (くぶんたてもの)"
+      },
+      {
+        "word": "unit owners",
+        "translation": "区分所有者 (くぶんしょゆうしゃ)"
+      },
+      {
+        "word": "initial registration",
+        "translation": "初期登記 (しょきとうき)"
+      },
+      {
+        "word": "identified",
+        "translation": "特定された (とくていされた)"
+      }
+    ]
   }
 ]

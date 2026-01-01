@@ -6260,5 +6260,135 @@
         "translation": "認定する"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Consignment",
+    "definition": "The procedure under the Deposit Act where an obligor places the subject matter of their obligation (usually money or goods) with the Deposit Office to extinguish their liability, typically due to the obligee's refusal to accept settlement or inability to identify the recipient.",
+    "japaneseDefinition": "債務者が債務の本旨に従った給付を供託所に寄託することにより、その債務を消滅させる手続き。受領拒否や債権者不明の場合に行われる。",
+    "japaneseWordTranslation": "弁済供託 (べんさいきょうたく)",
+    "legalContext": "Civil Code Art. 494: Effect of Consignment: When the obligor is unable to make settlement due to the obligee's refusal to accept or inability to identify the obligee, the obligor may effect consignment of the subject matter of the obligation, thereby causing the obligation to cease.",
+    "japaneseLegalContext": "民法第494条: (供託の効果) 債権者が弁済の受領を拒み、又は債権者の居所が不明であることによって弁済をすることができないときは、債務者は、弁済の目的物を供託し、その債務を免れることができる。",
+    "exampleSentence": "Upon the creditor's unjustified refusal to accept payment, the debtor opted for judicial consignment to terminate the interest accrual on the outstanding amount.",
+    "exampleTranslation": "債権者が正当な理由なく受領を拒否したため、債務者は未払いの金額の利息発生を停止させるために弁済供託を選択した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "settlement",
+        "translation": "弁済 (べんさい)"
+      },
+      {
+        "word": "refusal",
+        "translation": "拒否 (きょひ)"
+      },
+      {
+        "word": "interest accrual",
+        "translation": "利息の発生 (りそくのはっせい)"
+      },
+      {
+        "word": "outstanding amount",
+        "translation": "未払いの金額 (みはらいのきんがく)"
+      },
+      {
+        "word": "cause to cease",
+        "translation": "免れる (まぬがれる)"
+      },
+      {
+        "word": "Deposit Office",
+        "translation": "供託所 (きょうたくしょ)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restoration Entitlement",
+    "definition": "The legal right of the consignor (depositor) to retrieve the deposited object (money or securities) from the Deposit Office, provided that the legal prerequisites for the deposit's validity have not yet been satisfied or the entitlement holder has agreed to its return.",
+    "japaneseDefinition": "供託者が、供託の事由が消滅した場合、または供託を受けた者が供託物の受領を承諾しない場合に、供託物を供託所から取り戻すことができる権利。",
+    "japaneseWordTranslation": "供託物取戻権 (きょうたくぶつとりもどしけん)",
+    "legalContext": "Deposit Act Art. 9: Retrieval by Depositor: The depositor may retrieve the deposited property with the consent of the person who is entitled to receive the deposit, or if the grounds for the deposit have ceased to exist.",
+    "japaneseLegalContext": "供託法第9条: (供託物を取り戻すことができる場合) 供託者は、供託を受け取るべき者の承諾を得たとき、又は供託の原因が消滅したときは、供託物を取り戻すことができる。",
+    "exampleSentence": "Since the opposing party failed to accept the payment within the prescribed period, the consignor exercised their Restoration Entitlement and retrieved the security funds.",
+    "exampleTranslation": "対立当事者が所定の期間内に支払いを受領しなかったため、供託者は供託物取戻権を行使し、保証金を取り戻した。",
+    "vocabularyList": [
+      {
+        "word": "consignor",
+        "translation": "供託者 (きょうたくしゃ)"
+      },
+      {
+        "word": "deposited object",
+        "translation": "供託物 (きょうたくぶつ)"
+      },
+      {
+        "word": "retrieval",
+        "translation": "取戻し (とりもどし)"
+      },
+      {
+        "word": "entitlement holder",
+        "translation": "受領権者 (じゅりょうけんしゃ)"
+      },
+      {
+        "word": "security funds",
+        "translation": "保証金 (ほしょうきん)"
+      },
+      {
+        "word": "consent",
+        "translation": "承諾 (しょうだく)"
+      },
+      {
+        "word": "ceased to exist",
+        "translation": "消滅した (しょうめつした)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Forfeiture of Retrieval Right",
+    "definition": "The statutory extinction of the depositor's authority to reclaim the deposited assets when the retrieval right is not exercised within the designated prescription period (currently twenty years), leading to the assets becoming the property of the national government.",
+    "japaneseDefinition": "供託者が供託物を取り戻すことができる権利が、供託の時から20年間行使されないことにより消滅すること。これにより供託物は国庫に帰属する。",
+    "japaneseWordTranslation": "供託物取戻権の消滅 (きょうたくぶつとりもどしけんのしょうめつ)",
+    "legalContext": "Deposit Act Art. 9-3 (Statutory Period): The depositor’s right of retrieval shall be extinguished if twenty years have elapsed from the day of the deposit.",
+    "japaneseLegalContext": "供託法第9条の3: (供託物取戻権の消滅) 供託者の供託物取戻権は、供託の日から二十年間行使しないときは、消滅する。",
+    "exampleSentence": "Due to the lengthy statutory period, the Forfeiture of Retrieval Right rarely occurs in practice, but when it does, the funds become national property.",
+    "exampleTranslation": "長い法定期間のため、供託物取戻権の消滅が実際に発生することは稀だが、発生した場合は、その資金は国有財産となる。",
+    "vocabularyList": [
+      {
+        "word": "statutory period",
+        "translation": "法定期間 (ほうていきかん)"
+      },
+      {
+        "word": "extinction",
+        "translation": "消滅 (しょうめつ)"
+      },
+      {
+        "word": "national government",
+        "translation": "国 (くに)"
+      },
+      {
+        "word": "reclaim",
+        "translation": "取り戻す (とりもどす)"
+      },
+      {
+        "word": "national property",
+        "translation": "国有財産 (こくゆうざいさん)"
+      },
+      {
+        "word": "elapsed",
+        "translation": "経過した (けいかした)"
+      },
+      {
+        "word": "exercise",
+        "translation": "行使 (こうし)"
+      }
+    ]
   }
 ]

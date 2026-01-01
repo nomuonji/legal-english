@@ -2,48 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Duty of Due Care of a Prudent Manager",
-    "definition": "The standard of care required of an obligor (particularly an agent or bailee) who manages another person's property or affairs, demanding the diligence and prudence that an ordinary, reasonable person would exercise in managing their own affairs.",
-    "japaneseDefinition": "受任者や受寄者など、他人の事務を処理する者が負う、善良な管理者としての注意をもってその事務を処理すべき義務のこと。",
-    "japaneseWordTranslation": "善管注意義務 (ぜんかんちゅういぎむ)",
-    "legalContext": "Civil Code Art. 644 (Duty of Due Care of a Prudent Manager): 'A Mandatary must manage the entrusted affairs with the duty of due care of a prudent manager.'",
-    "japaneseLegalContext": "民法第644条（受任者の注意義務）：『受任者は、委任の本旨に従い、善良な管理者としての注意をもって、委任事務を処理する義務を負う。』",
-    "exampleSentence": "The court found the corporate director liable for breach of the duty of due care of a prudent manager after he failed to conduct adequate risk assessments.",
-    "exampleTranslation": "裁判所は、当該取締役が適切なリスク評価を実施しなかったため、善管注意義務違反の責任があると判断した。",
-    "vocabularyList": [
-      {
-        "word": "Mandatary",
-        "translation": "受任者"
-      },
-      {
-        "word": "breach",
-        "translation": "違反"
-      },
-      {
-        "word": "liable",
-        "translation": "責任がある"
-      },
-      {
-        "word": "risk assessment",
-        "translation": "リスク評価"
-      },
-      {
-        "word": "entrusted affairs",
-        "translation": "委任事務"
-      },
-      {
-        "word": "diligence",
-        "translation": "注意（努力）"
-      },
-      {
-        "word": "standard of care",
-        "translation": "注意義務の基準"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Default",
     "definition": "A failure by the obligor to perform an obligation fully or timely in accordance with its tenor and purpose, giving rise to the obligee's right to claim damages.",
     "japaneseDefinition": "債務者が、債務の本旨に従った履行をしないこと。これにより、債権者は損害賠償を請求する権利を得る。",
@@ -9446,6 +9404,128 @@
       {
         "word": "Property line",
         "translation": "敷地境界線"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Proprietary Relations between Husband and Wife",
+    "definition": "The legal framework governing the ownership, management, and disposition of assets and debts accumulated by a married couple, particularly concerning the determination of whether assets are individually owned or jointly acquired.",
+    "japaneseDefinition": "婚姻関係にある夫婦間の財産に関する法的規律、特に夫婦の財産の帰属、管理、清算に関する規定を指す。",
+    "japaneseWordTranslation": "夫婦財産関係 (ふうふざいさんかんけい)",
+    "legalContext": "Civil Code Art. 752 et seq. outline the general principles governing these relations, including the presumption of co-ownership (共有) of property acquired during the marital period.",
+    "japaneseLegalContext": "民法第752条以下：これらの関係を統治する一般原則、特に婚姻期間中に取得された財産の共有の推定について概説している。",
+    "exampleSentence": "The division of assets following a judicial settlement must be handled according to the rules governing proprietary relations between husband and wife.",
+    "exampleTranslation": "裁判上の和解後の財産分割は、夫婦財産関係を規律する法規定に従って処理されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Proprietary",
+        "translation": "財産上の"
+      },
+      {
+        "word": "judicial settlement",
+        "translation": "裁判上の和解"
+      },
+      {
+        "word": "division of assets",
+        "translation": "財産分割"
+      },
+      {
+        "word": "disposition",
+        "translation": "処分"
+      },
+      {
+        "word": "co-ownership (共有)",
+        "translation": "共同所有"
+      },
+      {
+        "word": "marital period",
+        "translation": "婚姻期間"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Specification",
+    "definition": "A type of original acquisition of property where a person processes or manufactures a new movable object from another's material, resulting in the ownership of the resultant object being attributed to the processor if the value significantly exceeds the material cost.",
+    "japaneseDefinition": "他人の動産に工作を加え、新たな動産を製作することによって、その工作物の所有権を取得する原始取得の一種。",
+    "japaneseWordTranslation": "加工 (かこう)",
+    "legalContext": "Civil Code Art. 245 provides that the ownership of the new thing belongs to the person who executed the Specification, provided they compensate the material owner for the material value, unless the material value far exceeds the added value.",
+    "japaneseLegalContext": "民法第245条：新しい物の所有権は、材料の価額を弁償したうえで、加工者がこれを取得すると定める。ただし、材料の価額が加工によって増加した価額よりも著しく超える場合を除く。",
+    "exampleSentence": "Since the value added through Specification exceeded the cost of the raw materials by threefold, the artisan was deemed the owner of the finished product.",
+    "exampleTranslation": "加工による付加価値が原材料の費用を三倍超えたため、その職人は完成品の所有者と見なされた。",
+    "vocabularyList": [
+      {
+        "word": "original acquisition",
+        "translation": "原始取得"
+      },
+      {
+        "word": "processes",
+        "translation": "工作を加える"
+      },
+      {
+        "word": "movable object",
+        "translation": "動産"
+      },
+      {
+        "word": "artisan",
+        "translation": "職人"
+      },
+      {
+        "word": "compensate",
+        "translation": "弁償する"
+      },
+      {
+        "word": "raw materials",
+        "translation": "原材料"
+      },
+      {
+        "word": "added value",
+        "translation": "付加価値"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Collation of Property",
+    "definition": "The legal mechanism in inheritance law requiring certain prospective successors to include the value of specific lifetime gifts or benefits received from the decedent into the inherited estate calculation to ensure fairness among co-successors.",
+    "japaneseDefinition": "共同相続人間での衡平を図るため、特定範囲の相続人が被相続人から生前に受けた贈与や遺贈を相続財産に加算し、計算上の相続分を算定する行為。",
+    "japaneseWordTranslation": "持戻し (もちもどし)",
+    "legalContext": "Civil Code Art. 903 requires successors who received lifetime benefits (gifts or testamentary dispositions) to bring back the value of such property into the estate for calculation purposes, unless otherwise stipulated by the decedent.",
+    "japaneseLegalContext": "民法第903条：生前の利益（贈与または遺贈）を受けた相続人に対し、被相続人が別段の意思表示をしない限り、その財産の価額を遺産に算入することを要求する。",
+    "exampleSentence": "The decedent's transfer of a substantial parcel of land to one successor five years prior must be subject to the Collation of Property requirement.",
+    "exampleTranslation": "被相続人が5年前に一人の相続人に対して行った広大な土地の譲渡は、持戻しの要件に従う必要がある。",
+    "vocabularyList": [
+      {
+        "word": "inheritance law",
+        "translation": "相続法"
+      },
+      {
+        "word": "decedent",
+        "translation": "被相続人"
+      },
+      {
+        "word": "lifetime gifts",
+        "translation": "生前贈与"
+      },
+      {
+        "word": "testamentary dispositions",
+        "translation": "遺贈"
+      },
+      {
+        "word": "estate",
+        "translation": "遺産"
+      },
+      {
+        "word": "co-successors",
+        "translation": "共同相続人"
+      },
+      {
+        "word": "fairness",
+        "translation": "衡平"
       }
     ]
   }

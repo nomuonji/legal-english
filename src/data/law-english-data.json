@@ -1,38 +1,42 @@
 {
-  "category": "Real Property Registration (不動産登記法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Registration of Change",
-  "definition": "A registration procedure used to record alterations to the description of a piece of real property (e.g., change in land use or address) or minor modifications to a registered right (e.g., change of the obligor's name or address).",
-  "japaneseDefinition": "不動産の表示（地目や所在など）の変更、または登記された権利の軽微な変更（債務者の氏名または住所の変更など）を記録するために行われる登記手続。",
-  "japaneseWordTranslation": "変更登記 (へんこうとうき)",
-  "legalContext": "Real Property Registration Act Art. 37 (Regarding the registration of changes to the description of real property)",
-  "japaneseLegalContext": "不動産登記法 第37条 (不動産の表示に関する変更の登記等)",
-  "exampleSentence": "The developer submitted an application for the **Registration of Change** after converting the land from agricultural use to residential use, altering the official land category.",
-  "exampleTranslation": "開発業者は、土地を農地利用から住宅利用に変更し、公的な地目を変更した後、変更登記の申請を提出した。",
+  "word": "Collation",
+  "definition": "In succession law, the requirement that an heir who received special benefits (gifts or legacies) from the decedent must include the value of those benefits in the estate calculation to ensure fair distribution among the legal heirs.",
+  "japaneseDefinition": "相続法において、共同相続人のうち、被相続人から生前贈与等の特別受益を受けた者が、遺産の公平な分割のため、その受益額を相続財産に算入すること。",
+  "japaneseWordTranslation": "持戻し (もちもどし)",
+  "legalContext": "Civil Code Art. 903 (Collation of Benefits Received from Decedent): If one of the co-heirs received a gift or legacy from the decedent, the value of that gift or legacy shall be included in the calculation of the estate.",
+  "japaneseLegalContext": "民法第903条（特別受益者の相続分）：共同相続人中に、被相続人から遺贈を受け、又は生計の資本として贈与を受けた者があるときは、その受けたものの価額を相続財産に算入する。",
+  "exampleSentence": "The court ordered the eldest son to perform Collation, as he had received a large gift of land for his business startup ten years prior to the decedent's death.",
+  "exampleTranslation": "長男は、被相続人の死亡の10年前に事業開始資金として多額の土地の贈与を受けていたため、裁判所は持戻しを行うよう命じた。",
   "vocabularyList": [
     {
-      "word": "developer",
-      "translation": "開発業者"
+      "word": "Decedent",
+      "translation": "被相続人"
     },
     {
-      "word": "submitted an application",
-      "translation": "申請を提出した"
+      "word": "Heir",
+      "translation": "相続人"
     },
     {
-      "word": "converting",
-      "translation": "変更する"
+      "word": "Special benefits",
+      "translation": "特別受益"
     },
     {
-      "word": "agricultural use",
-      "translation": "農地利用"
+      "word": "Estate calculation",
+      "translation": "遺産算入"
     },
     {
-      "word": "residential use",
-      "translation": "住宅利用"
+      "word": "Co-heirs",
+      "translation": "共同相続人"
     },
     {
-      "word": "land category",
-      "translation": "地目"
+      "word": "Distributable share",
+      "translation": "相続分"
+    },
+    {
+      "word": "Gift (lifetime)",
+      "translation": "生前贈与"
     }
   ]
 }

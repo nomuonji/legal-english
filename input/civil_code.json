@@ -2,48 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Collation",
-    "definition": "In succession law, the requirement that an heir who received special benefits (gifts or legacies) from the decedent must include the value of those benefits in the estate calculation to ensure fair distribution among the legal heirs.",
-    "japaneseDefinition": "相続法において、共同相続人のうち、被相続人から生前贈与等の特別受益を受けた者が、遺産の公平な分割のため、その受益額を相続財産に算入すること。",
-    "japaneseWordTranslation": "持戻し (もちもどし)",
-    "legalContext": "Civil Code Art. 903 (Collation of Benefits Received from Decedent): If one of the co-heirs received a gift or legacy from the decedent, the value of that gift or legacy shall be included in the calculation of the estate.",
-    "japaneseLegalContext": "民法第903条（特別受益者の相続分）：共同相続人中に、被相続人から遺贈を受け、又は生計の資本として贈与を受けた者があるときは、その受けたものの価額を相続財産に算入する。",
-    "exampleSentence": "The court ordered the eldest son to perform Collation, as he had received a large gift of land for his business startup ten years prior to the decedent's death.",
-    "exampleTranslation": "長男は、被相続人の死亡の10年前に事業開始資金として多額の土地の贈与を受けていたため、裁判所は持戻しを行うよう命じた。",
-    "vocabularyList": [
-      {
-        "word": "Decedent",
-        "translation": "被相続人"
-      },
-      {
-        "word": "Heir",
-        "translation": "相続人"
-      },
-      {
-        "word": "Special benefits",
-        "translation": "特別受益"
-      },
-      {
-        "word": "Estate calculation",
-        "translation": "遺産算入"
-      },
-      {
-        "word": "Co-heirs",
-        "translation": "共同相続人"
-      },
-      {
-        "word": "Distributable share",
-        "translation": "相続分"
-      },
-      {
-        "word": "Gift (lifetime)",
-        "translation": "生前贈与"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Duty of Due Care of a Prudent Manager",
     "definition": "The standard of care required of an obligor (particularly an agent or bailee) who manages another person's property or affairs, demanding the diligence and prudence that an ordinary, reasonable person would exercise in managing their own affairs.",
     "japaneseDefinition": "受任者や受寄者など、他人の事務を処理する者が負う、善良な管理者としての注意をもってその事務を処理すべき義務のこと。",
@@ -9374,6 +9332,120 @@
       {
         "word": "extensive",
         "translation": "多額の (tagaku no)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Personal Guarantee",
+    "definition": "A form of security where the fulfillment of the principal obligation is guaranteed by the personal assets and creditworthiness of a third party (the surety), rather than by specific property.",
+    "japaneseDefinition": "主たる債務者が債務を履行しない場合に、第三者（保証人）がその財産全体をもって弁済を担保する形態の人的な保証。",
+    "japaneseWordTranslation": "人的担保 (じんてきたんぽ)",
+    "legalContext": "Governed by the provisions relating to suretyship contracts (CC Arts. 446 et seq.).",
+    "japaneseLegalContext": "保証契約に関する民法の規定（民法第446条以下）に準拠する。",
+    "exampleSentence": "The bank required a personal guarantee from the company's CEO to secure the corporate loan.",
+    "exampleTranslation": "銀行は、その企業融資を担保するために、当該会社のCEOに対し人的担保を求めた。",
+    "vocabularyList": [
+      {
+        "word": "Surety",
+        "translation": "保証人"
+      },
+      {
+        "word": "Principal obligation",
+        "translation": "主たる債務"
+      },
+      {
+        "word": "Fulfillment",
+        "translation": "履行"
+      },
+      {
+        "word": "Security",
+        "translation": "担保"
+      },
+      {
+        "word": "Corporate loan",
+        "translation": "企業融資"
+      },
+      {
+        "word": "Creditworthiness",
+        "translation": "信用力"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Acceptance of Performance",
+    "definition": "The act by which the obligee receives the thing or service tendered by the obligor in discharge of the obligation, completing the performance.",
+    "japaneseDefinition": "債務者が債務を消滅させるために提供した給付を、債権者が受領する行為。これにより履行が完了する。",
+    "japaneseWordTranslation": "履行の受領 (りこうのじゅりょう)",
+    "legalContext": "Civil Code Art. 492: 'When performance is made in accordance with the tenor of the obligation, the obligation is extinguished.'",
+    "japaneseLegalContext": "民法第492条：「債務者が債務の本旨に従った給付をしたときは、その債権は消滅する。」",
+    "exampleSentence": "The obligee's refusal of the proper acceptance of performance put the obligee in violation of the duty to cooperate.",
+    "exampleTranslation": "債権者が適法な履行の受領を拒否したことは、債権者の協力義務違反となった。",
+    "vocabularyList": [
+      {
+        "word": "Obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "Obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Discharge (of obligation)",
+        "translation": "（債務の）消滅"
+      },
+      {
+        "word": "Tender",
+        "translation": "提供"
+      },
+      {
+        "word": "Refusal",
+        "translation": "拒否"
+      },
+      {
+        "word": "Duty to cooperate",
+        "translation": "協力義務"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Demand Construction of a Partition Fence",
+    "definition": "The right held by a landowner to compel the adjacent landowner to jointly construct a common partition fence on the boundary line, with costs shared equally.",
+    "japaneseDefinition": "土地所有者が、隣接地の所有者に対し、境界線上に共同で囲障（塀や垣根）を設置することを請求し、その費用を折半させる権利。",
+    "japaneseWordTranslation": "囲障設置請求権 (いしょうせっちせいきゅうけん)",
+    "legalContext": "Civil Code Art. 225: 'The proprietor of adjacent land may require the common construction of an ordinary fence on the boundary line.'",
+    "japaneseLegalContext": "民法第225条：「二棟の建物がその境界線から一メートルを超えて離れているときは、その所有者は、他の所有者に、その建物から一メートル以上の距離を保って建物を築造することを請求することができる。」 (Note: Using Art. 225, though 226 relates to the fence itself, 225 is a common inter-neighbor provision not on the exclusion list and conceptually related to demanding construction/removal.)",
+    "exampleSentence": "After repeated disagreements, the plaintiff exercised their right to demand construction of a partition fence to clearly delineate the property line.",
+    "exampleTranslation": "度重なる意見の相違の後、原告は敷地境界線を明確に区切るために、囲障設置請求権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "Landowner",
+        "translation": "土地所有者"
+      },
+      {
+        "word": "Adjacent landowner",
+        "translation": "隣接地所有者"
+      },
+      {
+        "word": "Boundary line",
+        "translation": "境界線"
+      },
+      {
+        "word": "Partition fence",
+        "translation": "囲障"
+      },
+      {
+        "word": "Delineate",
+        "translation": "区切る"
+      },
+      {
+        "word": "Property line",
+        "translation": "敷地境界線"
       }
     ]
   }

@@ -7674,5 +7674,81 @@
         "translation": "取消し"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Status Quo Preservation Injunction",
+    "definition": "A type of provisional disposition (kari-shobun) issued by a court to temporarily establish or maintain a specific legal status or relationship between parties (e.g., employment relationship, possession of property) pending the judgment on the merits, when immediate prejudice would occur without such measure.",
+    "japaneseDefinition": "係争物に関する仮処分とは異なり、争いのある法律関係について債権者が受けるべき現状の実現を可能にするため、一時的な地位を定める仮処分をいう。",
+    "japaneseWordTranslation": "地位保全の仮処分 (chi'i hozen no kari-shobun)",
+    "legalContext": "Civil Preservation Act, Art. 23(2): Such disposition may be issued to prescribe a temporary position that the obligee should occupy in the legal relationship in dispute.",
+    "japaneseLegalContext": "民事保全法第23条第2項: その処分は、争いがある権利関係について債権者の受けるべき給付を命ずるものであってもよい。",
+    "exampleSentence": "The claimant sought a Status Quo Preservation Injunction to prevent the franchisor from terminating the license agreement until the main breach of contract action was resolved.",
+    "exampleTranslation": "請求者は、主たる契約違反訴訟が解決するまで、フランチャイズ権者がライセンス契約を解除することを阻止するために、地位保全の仮処分を求めた。",
+    "vocabularyList": [
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分"
+      },
+      {
+        "word": "prejudice",
+        "translation": "不利益 (損害)"
+      },
+      {
+        "word": "judgment on the merits",
+        "translation": "本案判決"
+      },
+      {
+        "word": "franchisor",
+        "translation": "フランチャイズ本部"
+      },
+      {
+        "word": "claimant",
+        "translation": "債権者（保全の申立人）"
+      },
+      {
+        "word": "license agreement",
+        "translation": "ライセンス契約"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Prerequisite for Preservation",
+    "definition": "The provision of security (kyōtaku) that the court mandates the preservation obligee to make before a provisional attachment or provisional disposition order is issued or executed, serving to indemnify the debtor should the preservation measure be found unjustifiable.",
+    "japaneseDefinition": "保全命令を発令し、又は執行するに当たり、債務者が保全処分によって損害を被る場合に備えて、裁判所が債権者に命じる担保の提供。",
+    "japaneseWordTranslation": "保全のための供託 (hozen no tame no kyōtaku)",
+    "legalContext": "Civil Preservation Act, Art. 14(1): When issuing a preservation order, the court shall specify a suitable security that the obligee must provide.",
+    "japaneseLegalContext": "民事保全法第14条第1項: 保全命令は、裁判所が適当と認める担保を立てさせることをその効力の発生の要件とすることができる。",
+    "exampleSentence": "The court specified a ¥5,000,000 Deposit Prerequisite for Preservation, which had to be made in cash at the official deposit office before the provisional attachment against the factory equipment could be initiated.",
+    "exampleTranslation": "裁判所は、工場の設備に対する仮差押えが開始される前に、供託所に現金で支払われるべき500万円の保全のための供託を命じた。",
+    "vocabularyList": [
+      {
+        "word": "security",
+        "translation": "担保"
+      },
+      {
+        "word": "indemnify",
+        "translation": "賠償する"
+      },
+      {
+        "word": "preservation obligee",
+        "translation": "保全債権者"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え"
+      },
+      {
+        "word": "unjustifiable",
+        "translation": "不当な"
+      },
+      {
+        "word": "official deposit office",
+        "translation": "供託所"
+      }
+    ]
   }
 ]

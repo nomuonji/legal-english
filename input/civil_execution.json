@@ -8866,5 +8866,119 @@
         "translation": "判決強制執行 (hanketsu kyōsei shikkō)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Statement Submission",
+    "definition": "The mandatory act by the obligor, under the Asset Disclosure Procedure, of creating and submitting a detailed list of all their current assets and liabilities to the execution court.",
+    "japaneseDefinition": "債務者が財産開示手続において、自己の財産及び負債の状況を詳細に記載した目録を作成し、執行裁判所へ提出すること。",
+    "japaneseWordTranslation": "財産目録の提出 (Zaisan Mokuroku no Teishutsu)",
+    "legalContext": "Civil Execution Act, Article 196 (Procedure for Declaration of Assets) requires the obligor to submit a property statement.",
+    "japaneseLegalContext": "民事執行法第196条（財産開示手続）は、債務者に対し財産目録の提出を義務付けている。",
+    "exampleSentence": "Failure by the execution obligor to comply with the mandatory Property Statement Submission may result in a commitment order.",
+    "exampleTranslation": "執行債務者が義務付けられた財産目録の提出を怠った場合、監置決定を受ける可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Asset Disclosure Procedure",
+        "translation": "財産開示手続"
+      },
+      {
+        "word": "assets and liabilities",
+        "translation": "財産及び負債"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "mandatory",
+        "translation": "義務付けられた"
+      },
+      {
+        "word": "commitment order",
+        "translation": "監置決定"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Organ",
+    "definition": "The collective governmental agencies—specifically the execution court and the execution officer—designated by law to be responsible for carrying out the various steps of compulsory execution.",
+    "japaneseDefinition": "法律によって定められ、強制執行の諸手続を実施する責任を負う集団的な公的機関。具体的には執行裁判所と執行官を指す。",
+    "japaneseWordTranslation": "執行機関 (Shikkō Kikan)",
+    "legalContext": "Civil Execution Act establishes the execution court (in the case of real property or claims) and the execution officer (in the case of movable property or delivery) as the primary Execution Organs.",
+    "japaneseLegalContext": "民事執行法は、主要な執行機関として執行裁判所（不動産や債権の場合）及び執行官（動産や引渡しの場合）を定めている。",
+    "exampleSentence": "The execution court, acting as the primary Execution Organ, issued the order for the commencement of execution against the immovable property.",
+    "exampleTranslation": "執行裁判所は、主要な執行機関として機能し、当該不動産に対する執行開始決定を発した。",
+    "vocabularyList": [
+      {
+        "word": "agencies",
+        "translation": "機関"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "execution officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "commencement of execution",
+        "translation": "執行開始"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-Monetary Claim Enforcement",
+    "definition": "The execution procedure applied when the obligee's claim is for the obligor to perform an act other than the payment of money, such as the delivery of a specific item, the surrender of real property, or forbearance from a specific action.",
+    "japaneseDefinition": "債権者の請求が金銭の支払いでない場合（特定の物の引渡し、不動産の明け渡し、または特定の行為の不作為など）に適用される執行手続。",
+    "japaneseWordTranslation": "非金銭債権の執行 (Hikinzen Saiken no Shikkō)",
+    "legalContext": "Civil Execution Act, Articles 168 to 171 govern the methods of Non-Monetary Claim Enforcement, distinguishing between direct compulsion and substitute performance.",
+    "japaneseLegalContext": "民事執行法第168条から第171条は、非金銭債権の執行方法を規定しており、直接強制と代替執行を区別している。",
+    "exampleSentence": "Due to the unique nature of the specialized intellectual property, the obligee had to pursue Non-Monetary Claim Enforcement for the delivery of the specific documents.",
+    "exampleTranslation": "専門的な知的財産の特殊性により、債権者は特定の書類の引渡しを求める非金銭債権の執行を進めなければならなかった。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "payment of money",
+        "translation": "金銭の支払い"
+      },
+      {
+        "word": "delivery of a specific item",
+        "translation": "特定の物の引渡し"
+      },
+      {
+        "word": "forbearance",
+        "translation": "不作為"
+      },
+      {
+        "word": "direct compulsion",
+        "translation": "直接強制"
+      },
+      {
+        "word": "substitute performance",
+        "translation": "代替執行"
+      }
+    ]
   }
 ]

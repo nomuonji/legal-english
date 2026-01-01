@@ -7126,5 +7126,119 @@
         "translation": "効率化"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Factual Registration Application Obligation",
+    "definition": "The statutory requirement imposed on the property owner to file an application for registration when changes occur to the physical characteristics (description) of the real property, such as a newly constructed building or a change in land use category.",
+    "japaneseDefinition": "不動産の物理的な状況（所在、地目、構造等）に変更が生じた際に、その所有者が一定期間内に登記を申請しなければならないとする不動産登記法上の義務。",
+    "japaneseWordTranslation": "表示に関する登記の申請義務 (Hyōji ni kansuru tōki no shinsei gimu)",
+    "legalContext": "Real Property Registration Act, Article 29 (stipulating the application requirement for newly built structures).",
+    "japaneseLegalContext": "不動産登記法第29条（新築の建物に関する申請の要求）。",
+    "exampleSentence": "Fulfillment of the Factual Registration Application Obligation within one month is mandatory following the completion of a new building structure.",
+    "exampleTranslation": "新築建物の完成後、一ヶ月以内に表示に関する登記の申請義務を履行することが義務付けられている。",
+    "vocabularyList": [
+      {
+        "word": "statutory requirement",
+        "translation": "法令上の要件 (Hōrei-jō no yōken)"
+      },
+      {
+        "word": "physical characteristics",
+        "translation": "物理的特性 (Butsuri-teki tokusei)"
+      },
+      {
+        "word": "land use category",
+        "translation": "地目 (Chimoku)"
+      },
+      {
+        "word": "newly constructed",
+        "translation": "新築の (Shin'chiku no)"
+      },
+      {
+        "word": "within one month",
+        "translation": "一ヶ月以内 (Ikkagetsu inai)"
+      },
+      {
+        "word": "fulfillment",
+        "translation": "履行 (Rikō)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Security Code for Registration",
+    "definition": "A specific, 12-digit sequence of alphanumeric characters provided by the registrar to the registered owner to verify their identity when they file a subsequent application that involves relinquishing or altering their rights.",
+    "japaneseDefinition": "新しい登記を申請する際に、登記名義人が本人であることを証明するために、登記官から通知される12桁の符号。権利の変更や喪失を伴う申請時に必要とされる。",
+    "japaneseWordTranslation": "登記識別情報 (Tōki Shikibetsu Jōhō)",
+    "legalContext": "Real Property Registration Act, Article 22, Paragraph 1 (Regarding notification and use of the Code).",
+    "japaneseLegalContext": "不動産登記法第22条第1項（識別情報の通知と使用）。",
+    "exampleSentence": "The transferee demanded that the registered owner provide the Security Code for Registration immediately upon execution of the transfer agreement.",
+    "exampleTranslation": "譲受人は、譲渡契約の実行に際し、登記名義人に対し、直ちに登記識別情報を提供するよう要求した。",
+    "vocabularyList": [
+      {
+        "word": "alphanumeric characters",
+        "translation": "英数字の符号 (Ēsūji no fugō)"
+      },
+      {
+        "word": "registered owner",
+        "translation": "登記名義人 (Tōki meiginin)"
+      },
+      {
+        "word": "verify identity",
+        "translation": "本人確認をする (Hon'nin kakunin o suru)"
+      },
+      {
+        "word": "relinquishing rights",
+        "translation": "権利の放棄 (Kenri no hōki)"
+      },
+      {
+        "word": "transferee",
+        "translation": "譲受人 (Yuzuriuke-nin)"
+      },
+      {
+        "word": "execution of agreement",
+        "translation": "契約の実行 (Keiyaku no jikkō)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration by Authority",
+    "definition": "A registration entry made unilaterally by the registrar, without a formal application from the parties, typically used to correct a clerical error in the record or to reflect an automatic change resulting from another completed registration.",
+    "japaneseDefinition": "当事者の申請によらず、登記官が自らの権限で実行する登記。誤謬の訂正や他の登記による付随的な変更を反映させる場合などに用いられる。",
+    "japaneseWordTranslation": "職権による登記 (Shokken ni yoru Tōki)",
+    "legalContext": "Real Property Registration Act, Article 26 (Addressing the correction of errors and omissions).",
+    "japaneseLegalContext": "不動産登記法第26条（錯誤又は遺漏の是正に関する規定）。",
+    "exampleSentence": "The registrar performed a Registration by Authority to adjust the recorded land area after noticing a minor calculation omission in the initial survey.",
+    "exampleTranslation": "登記官は、当初の測量における軽微な計算上の遺漏に気づいた後、職権による登記を行い、記録された地積を調整した。",
+    "vocabularyList": [
+      {
+        "word": "unilaterally",
+        "translation": "一方的に (Ippō-teki ni)"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官 (Tōkikan)"
+      },
+      {
+        "word": "clerical error",
+        "translation": "誤謬 (Gobyū)"
+      },
+      {
+        "word": "omission",
+        "translation": "遺漏 (Irō)"
+      },
+      {
+        "word": "recorded land area",
+        "translation": "記録された地積 (Kiroku sareta chiseki)"
+      },
+      {
+        "word": "adjust",
+        "translation": "調整する (Chōsei suru)"
+      }
+    ]
   }
 ]

@@ -8234,5 +8234,131 @@
         "translation": "株式発行"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Demand for Appointment of Provisional Administrator",
+    "definition": "A judicial procedure initiated by interested parties (e.g., shareholders or creditors) to appoint a temporary officer to perform the duties of a Director or Statutory Auditor whose position is vacant or who is unable to perform duties due to a dispute or injunction.",
+    "japaneseDefinition": "役員（取締役等）の職務の執行が停止された場合や、役員が欠けた場合に、利害関係人の申立てにより、その役員の職務を暫定的に代行する者を裁判所に選任してもらう手続。",
+    "japaneseWordTranslation": "職務代行者選任の申立て (しょくむだいこうしゃせんにんのもうしたて)",
+    "legalContext": "Companies Act Art. 351, related to the appointment of a provisional administrator in cases where the Director is absent or restricted.",
+    "japaneseLegalContext": "会社法第351条 他（取締役の欠員または職務執行停止の場合）",
+    "exampleSentence": "Following the management dispute, the major shareholder filed a demand for the appointment of a provisional administrator to prevent corporate paralysis.",
+    "exampleTranslation": "経営紛争を受けて、主要株主は、会社の機能停止を防ぐために職務代行者選任の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "shareholder",
+        "translation": "株主"
+      },
+      {
+        "word": "corporate paralysis",
+        "translation": "会社の機能停止"
+      },
+      {
+        "word": "management dispute",
+        "translation": "経営紛争"
+      },
+      {
+        "word": "judicial procedure",
+        "translation": "司法手続"
+      },
+      {
+        "word": "injunction",
+        "translation": "差止命令"
+      },
+      {
+        "word": "interested party",
+        "translation": "利害関係人"
+      },
+      {
+        "word": "officer",
+        "translation": "役員"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Transfer of Significant Assets",
+    "definition": "The transfer of a company's assets that constitute a substantial portion of its total assets, requiring a special resolution of the shareholders' meeting under the Companies Act.",
+    "japaneseDefinition": "会社が有する財産のうち、その総資産に占める割合が相当程度に達する重要な財産を譲渡すること。会社法上、株主総会の特別決議を要する。",
+    "japaneseWordTranslation": "重要な財産の譲渡 (じゅうようなざいさんのじょうと)",
+    "legalContext": "Companies Act Art. 467(1)(i) and Art. 309(2)(xi): requiring special resolution for transfers deemed critical to the company’s operation.",
+    "japaneseLegalContext": "会社法第467条第1項第1号、第309条第2項第11号",
+    "exampleSentence": "Since the sale constituted a transfer of significant assets, the board of directors required approval by special resolution at the general meeting of shareholders.",
+    "exampleTranslation": "その売却は重要な財産の譲渡にあたるため、取締役会は株主総会における特別決議による承認を必要とした。",
+    "vocabularyList": [
+      {
+        "word": "special resolution",
+        "translation": "特別決議"
+      },
+      {
+        "word": "board of directors",
+        "translation": "取締役会"
+      },
+      {
+        "word": "general meeting of shareholders",
+        "translation": "株主総会"
+      },
+      {
+        "word": "substantial portion",
+        "translation": "相当部分"
+      },
+      {
+        "word": "total assets",
+        "translation": "総資産"
+      },
+      {
+        "word": "approval",
+        "translation": "承認"
+      },
+      {
+        "word": "sale",
+        "translation": "売却"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Capital Redemption",
+    "definition": "A corporate action where a Stock Company decreases its stated capital and distributes the corresponding funds to its shareholders, often associated with the retirement or acquisition of shares.",
+    "japaneseDefinition": "株式会社が資本金を減少させ、その減少額を株主に対して払い戻す行為。株式の消却や取得と関連して行われることが多い。",
+    "japaneseWordTranslation": "資本の払戻し (しほんのはらいもどし)",
+    "legalContext": "Companies Act Art. 446 (Distribution of Surplus) and Art. 453 (Procedures for Capital Redemption), governing the statutory limits and procedures for capital distribution.",
+    "japaneseLegalContext": "会社法第446条、第453条（剰余金の分配及び資本金の減少の手続）",
+    "exampleSentence": "The company must follow strict creditor protection procedures when executing a capital redemption to ensure financial stability.",
+    "exampleTranslation": "会社は、財務の安定性を確保するために、資本の払戻しを実行する際には厳格な債権者保護手続に従わなければならない。",
+    "vocabularyList": [
+      {
+        "word": "stated capital",
+        "translation": "資本金"
+      },
+      {
+        "word": "Stock Company",
+        "translation": "株式会社"
+      },
+      {
+        "word": "retirement of shares",
+        "translation": "株式の消却"
+      },
+      {
+        "word": "creditor protection procedures",
+        "translation": "債権者保護手続"
+      },
+      {
+        "word": "financial stability",
+        "translation": "財務の安定性"
+      },
+      {
+        "word": "distribution",
+        "translation": "分配"
+      },
+      {
+        "word": "corporate action",
+        "translation": "会社の行為"
+      }
+    ]
   }
 ]

@@ -6546,5 +6546,119 @@
         "translation": "確定的に配分される"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consignment for Tender",
+    "definition": "A legal procedure where a person owing a financial or material duty deposits the subject matter of that duty with a designated public repository, thereby fulfilling the duty and being released from liability, typically due to the refusal or inability of the receiving party to accept the delivery.",
+    "japaneseDefinition": "債務者が、債権者の受領拒否、または債権者不明等の理由で、債務の目的物を供託所に寄託し、その義務を消滅させる行為。これにより債務者はその責任を免れる。",
+    "japaneseWordTranslation": "弁済供託 (べんさいきょうたく)",
+    "legalContext": "Civil Code Art. 494, Paragraph 1: A person owing a duty may be relieved of the same by depositing the subject matter thereof with a deposit office when the person owed the duty refuses to accept the tender, or cannot accept it.",
+    "japaneseLegalContext": "民法第494条第1項: 債務者が弁済の提供をした場合において、債権者がその受領を拒み、又はこれを受領することができないときは、その債務者は、供託所に供託をすることができる。",
+    "exampleSentence": "Following the recipient's undue refusal to accept the monetary delivery, the duty was extinguished through a formal **Consignment for Tender**.",
+    "exampleTranslation": "受領者による不当な金銭の引渡しの拒否の後、その義務は正式な**弁済供託**によって消滅した。",
+    "vocabularyList": [
+      {
+        "word": "duty",
+        "translation": "義務 (ぎむ)"
+      },
+      {
+        "word": "subject matter",
+        "translation": "目的物 (もくてきぶつ)"
+      },
+      {
+        "word": "public repository",
+        "translation": "供託所 (きょうたくしょ)"
+      },
+      {
+        "word": "released from liability",
+        "translation": "責任を免れる (せきにんをまぬかれる)"
+      },
+      {
+        "word": "undue refusal",
+        "translation": "不当な拒否 (ふとうなきょひ)"
+      },
+      {
+        "word": "extinguished",
+        "translation": "消滅した (しょうめつした)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Entitlement Holder for Deposit Withdrawal",
+    "definition": "The specific individual or entity legally authorized to demand the return or withdrawal of property or money previously placed in consignment at a deposit office, encompassing both the receiving party and, under certain conditions, the original depositing party.",
+    "japaneseDefinition": "供託所に寄託された金銭その他の物件の取戻し（返還）を法的に要求できる地位にある当事者。受領者または一定の条件の下で供託者本人を指す。",
+    "japaneseWordTranslation": "供託物取戻請求権者 (きょうたくぶつとりもどしせいきゅうけんしゃ)",
+    "legalContext": "Deposit Act Art. 8, Paragraph 1: The depositor may recover the deposited item unless the entitlement holder has submitted acceptance of the deposit, or if an action for delivery of the deposited item has been filed.",
+    "japaneseLegalContext": "供託法第8条第1項: 供託者は、供託物受領者が供託を受諾し、又は供託物取戻の訴えの提起等の事由が生ずるまで、供託物を取り戻すことができる。",
+    "exampleSentence": "The **Entitlement Holder for Deposit Withdrawal** must present appropriate verification documents to the Deposit Office before the retrieval of the deposited funds can be processed.",
+    "exampleTranslation": "**供託物取戻請求権者**は、寄託された資金の払い戻しが処理される前に、適切な証明書類を供託所に提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "legally authorized",
+        "translation": "法的に権限を与えられた (ほうてきにけんげんをあたえられた)"
+      },
+      {
+        "word": "withdrawal",
+        "translation": "取戻し (とりもどし)"
+      },
+      {
+        "word": "deposited item",
+        "translation": "供託物 (きょうたくぶつ)"
+      },
+      {
+        "word": "original depositing party",
+        "translation": "元の供託当事者 (もとのきょうたくとうじしゃ)"
+      },
+      {
+        "word": "verification documents",
+        "translation": "証明書類 (しょうめいしょるい)"
+      },
+      {
+        "word": "acceptance of the deposit",
+        "translation": "供託の受諾 (きょうたくのじゅだく)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Extinction Period for Deposit Retrieval",
+    "definition": "The statutory time limit established under the Deposit Act, usually twenty years, after which the legal right to retrieve deposited money or securities lapses, resulting in the transfer of the unclaimed assets to the state's financial resources.",
+    "japaneseDefinition": "供託法に基づき定められた、供託された金銭や有価証券の取戻しの権利が行使されずに消滅する法定期間。通常、供託の日から20年と定められている。",
+    "japaneseWordTranslation": "供託物取戻請求権の時効期間 (きょうたくぶつとりもどしせいきゅうけんのじこうきかん)",
+    "legalContext": "Deposit Act Art. 9, Paragraph 1: The right of recovery concerning deposited money or securities shall be extinguished by prescription if not exercised within twenty years from the date of deposit.",
+    "japaneseLegalContext": "供託法第9条第1項: 供託金の取戻しの権利は、供託の日から二十年間行使しないときは、時効によって消滅する。",
+    "exampleSentence": "Failure to withdraw the funds within the **Extinction Period for Deposit Retrieval** will ultimately lead to their absorption by the public purse.",
+    "exampleTranslation": "**供託物取戻請求権の時効期間**内に資金を払い戻さない場合、最終的にそれらの資金は公金として組み入れられることになる。",
+    "vocabularyList": [
+      {
+        "word": "statutory time limit",
+        "translation": "法定期間 (ほうていきかん)"
+      },
+      {
+        "word": "lapses",
+        "translation": "消滅する (しょうめつする)"
+      },
+      {
+        "word": "unclaimed assets",
+        "translation": "未請求の財産 (みせいきゅうのざいさん)"
+      },
+      {
+        "word": "date of deposit",
+        "translation": "供託の日 (きょうたくのひ)"
+      },
+      {
+        "word": "recovery concerning",
+        "translation": "取戻しに関する (とりもどしにかんする)"
+      },
+      {
+        "word": "public purse",
+        "translation": "公金 (こうきん)"
+      }
+    ]
   }
 ]

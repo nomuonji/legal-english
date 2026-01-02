@@ -2,48 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Justifiable Act",
-    "definition": "An act performed in accordance with laws and ordinances or in the course of legitimate business. While the act may meet the formal requirements (構成要件) of a crime, its inherent legality excludes it from illegality (違法性阻却).",
-    "japaneseDefinition": "法令に基づく行為又は正当な業務による行為で、構成要件に該当するにもかかわらず、違法性が阻却され犯罪が成立しない行為。",
-    "japaneseWordTranslation": "正当行為 (せいとうこうい)",
-    "legalContext": "Criminal Code Art. 35: An act performed in accordance with laws and ordinances or in the course of legitimate business is not punishable.",
-    "japaneseLegalContext": "刑法第35条：法令又は正当な業務による行為は、罰しない。",
-    "exampleSentence": "The act of a police officer using force to restrain a violent suspect is typically considered a justifiable act under Article 35 of the Criminal Code, thereby excluding criminal liability.",
-    "exampleTranslation": "警察官が暴れる容疑者を取り押さえるために力を行使する行為は、通常、刑法第35条に基づく正当行為と見なされ、それによって刑事責任が阻却される。",
-    "vocabularyList": [
-      {
-        "word": "in the course of business",
-        "translation": "業務遂行中"
-      },
-      {
-        "word": "in accordance with laws",
-        "translation": "法令に基づき"
-      },
-      {
-        "word": "restrain",
-        "translation": "取り押さえる"
-      },
-      {
-        "word": "violent suspect",
-        "translation": "暴れる容疑者"
-      },
-      {
-        "word": "excluding liability",
-        "translation": "責任を阻却する"
-      },
-      {
-        "word": "illegality",
-        "translation": "違法性"
-      },
-      {
-        "word": "formal requirements",
-        "translation": "構成要件"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Attempted Crime",
     "definition": "The commission of a crime that has begun the execution phase but failed to achieve the necessary result or complete all constituent elements of the offense.",
     "japaneseDefinition": "実行に着手したものの、構成要件を充足するに至らなかった犯罪。",
@@ -8540,6 +8498,124 @@
       {
         "word": "judicially determined",
         "translation": "裁判により決定された (さいばんによりけっていされた)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Distribution of Obscene Materials",
+    "definition": "The offense committed by a person who distributes, sells, or publicly displays obscene writings, drawings, or other objects, as defined in Article 175 of the Japanese Criminal Code.",
+    "japaneseDefinition": "わいせつな文書、図画、その他の物を頒布、販売し、または公然と陳列する行為を処罰する罪。日本の刑法における公共の風俗に対する罪の一つ。",
+    "japaneseWordTranslation": "わいせつぶつはんぷとうざい (waisetsubutsu hanputō zai)",
+    "legalContext": "Criminal Code Art. 175 (Distribution of Obscene Materials, etc.): A person who distributes, sells, or publicly displays obscene writings, drawings, or other objects shall be punished by imprisonment with labor for not more than two years or a fine of not more than 2,500,000 yen, or both.",
+    "japaneseLegalContext": "刑法第175条（わいせつ物頒布等）：わいせつな文書、図画、その他の物を頒布し、販売し、又は公然と陳列した者は、二年以下の懲役又は二百五十万円以下の罰金若しくは科料に処する。",
+    "exampleSentence": "The defendant was charged with the Distribution of Obscene Materials after running an online store selling unlicensed adult content.",
+    "exampleTranslation": "被告人は、無許可の成人向けコンテンツを販売するオンラインストアを運営した後、わいせつ物頒布等の罪で起訴された。",
+    "vocabularyList": [
+      {
+        "word": "obscene",
+        "translation": "わいせつな (waisetsuna)"
+      },
+      {
+        "word": "distribute",
+        "translation": "頒布する (hanpu suru)"
+      },
+      {
+        "word": "publicly display",
+        "translation": "公然と陳列する (kōzen to chinretsu suru)"
+      },
+      {
+        "word": "imprisonment with labor",
+        "translation": "懲役 (chōeki)"
+      },
+      {
+        "word": "fine",
+        "translation": "罰金 (bakkin)"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告人 (hikokunin)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Embezzlement of Lost Property",
+    "definition": "The crime committed by unlawfully taking possession of and appropriating property that has become separated from the owner's possession, such as lost or abandoned goods. This is distinct from standard larceny or embezzlement.",
+    "japaneseDefinition": "他人の占有を離脱した物、すなわち、遺失物、漂流物、または誤って占有した物を自己または第三者の利益のために横領する罪。",
+    "japaneseWordTranslation": "せんにゅうりだつぶつおうりょうざい (sennyū ridatsubutsu ōryō zai)",
+    "legalContext": "Criminal Code Art. 254 (Embezzlement of Lost Property): A person who embezzles a lost object, a drifted object, or any other object dispossessed from the possession of another shall be punished by imprisonment with labor for not more than one year or a fine of not more than 100,000 yen, or a minor fine.",
+    "japaneseLegalContext": "刑法第254条（占有離脱物横領）：遺失物、漂流物その他占有を離れた他人の物を横領した者は、一年以下の懲役又は十万円以下の罰金若しくは科料に処する。",
+    "exampleSentence": "Finding a wallet on the street and deciding to keep the cash constitutes the offense of Embezzlement of Lost Property.",
+    "exampleTranslation": "路上で財布を見つけ、その現金を自分のものにすることは、占有離脱物横領罪を構成する。",
+    "vocabularyList": [
+      {
+        "word": "unlawfully taking possession",
+        "translation": "不法に占有する (fuhō ni sennyū suru)"
+      },
+      {
+        "word": "lost object",
+        "translation": "遺失物 (ishitsubutsu)"
+      },
+      {
+        "word": "appropriating property",
+        "translation": "物を横領する (mono o ōryō suru)"
+      },
+      {
+        "word": "dispossessed",
+        "translation": "占有を離れた (sennyū o hanareta)"
+      },
+      {
+        "word": "minor fine",
+        "translation": "科料 (karyō)"
+      },
+      {
+        "word": "wallet",
+        "translation": "財布 (saifu)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Official's Abuse of Authority (Cruelty)",
+    "definition": "A serious crime where a public official engaged in specific duties (such as policing, guarding, or detention) abuses their authority to inflict cruelty or violence upon a person.",
+    "japaneseDefinition": "特別の公務員（警察官、刑務官等）がその職権を濫用し、他人に暴行又は陵虐（むごい仕打ち）を加える行為を処罰する罪。",
+    "japaneseWordTranslation": "とくべつこうむいんしょっけんらんようりょうぎゃくざい (tokubetsu kōmuin shokken ranyō ryōgyaku zai)",
+    "legalContext": "Criminal Code Art. 195 (Special Official's Abuse of Authority and Cruelty): When a person performing special public duties related to trials, prosecution, police, detention, or guarding abuses their authority to inflict cruelty or violence upon another person, they shall be punished by imprisonment with labor for not more than seven years.",
+    "japaneseLegalContext": "刑法第195条（特別公務員職権濫用）：裁判、検察若しくは警察の職務、又は拘禁若しくは護衛の職務に従事する公務員が、その職権を濫用して、人に暴行又は陵虐を加えたときは、七年以下の懲役又は禁錮に処する。",
+    "exampleSentence": "The former prison guard was prosecuted under Article 195 for Special Official's Abuse of Authority after systematically inflicting cruelty upon inmates.",
+    "exampleTranslation": "その元刑務官は、組織的に収容者に陵虐を加えたとして、刑法第195条の特別公務員職権濫用罪で起訴された。",
+    "vocabularyList": [
+      {
+        "word": "special public duties",
+        "translation": "特別の公務 (tokubetsu no kōmu)"
+      },
+      {
+        "word": "prosecution",
+        "translation": "検察 (kensatsu)"
+      },
+      {
+        "word": "inflict cruelty",
+        "translation": "陵虐を加える (ryōgyaku o kuwaeru)"
+      },
+      {
+        "word": "abuse authority",
+        "translation": "職権を濫用する (shokken o ranyō suru)"
+      },
+      {
+        "word": "inmates",
+        "translation": "収容者 (shūyōsha)"
+      },
+      {
+        "word": "detention",
+        "translation": "拘禁 (kōkin)"
+      },
+      {
+        "word": "prison guard",
+        "translation": "刑務官 (keimu kan)"
       }
     ]
   }

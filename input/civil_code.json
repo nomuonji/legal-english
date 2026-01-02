@@ -9714,5 +9714,119 @@
         "translation": "契約仕様"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Delay of Performance",
+    "definition": "The failure of an obligor to perform an obligation by the time performance is due, provided that the performance is still possible and the delay is attributable to the obligor.",
+    "japaneseDefinition": "債務者が履行期に債務の履行をしないこと。履行が不能ではない場合に、債務者に帰責事由があれば債務不履行責任が生じる。",
+    "japaneseWordTranslation": "履行遅滞 (りこうちたい)",
+    "legalContext": "Civil Code Art. 412 (establishes the grounds for liability for delay, linked to general rules on non-performance).",
+    "japaneseLegalContext": "民法第412条（履行期と履行遅滞）",
+    "exampleSentence": "If the obligor fails to tender performance without a legitimate reason by the specified date, they are in *delay of performance* and may be subject to damages.",
+    "exampleTranslation": "債務者が指定された期日までに正当な理由なく履行の提供を行わない場合、履行遅滞となり、損害賠償の対象となる。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "tender performance",
+        "translation": "履行の提供"
+      },
+      {
+        "word": "legitimate reason",
+        "translation": "正当な理由"
+      },
+      {
+        "word": "specified date",
+        "translation": "指定された期日"
+      },
+      {
+        "word": "damages",
+        "translation": "損害賠償"
+      },
+      {
+        "word": "non-performance",
+        "translation": "債務不履行"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Requisite for Formation",
+    "definition": "The minimum necessary conditions that must be fulfilled for a legal transaction or contract to come into existence (e.g., existence of parties, declaration of relevant intent, object of the transaction), which is distinct from the conditions required for validity.",
+    "japaneseDefinition": "法律行為や契約が、法的にその存在を認められるために満たすべき最低限の要件。効力要件とは区別される。",
+    "japaneseWordTranslation": "成立要件 (せいりつようけん)",
+    "legalContext": "A foundational principle derived from the General Provisions of the Civil Code and the structure of contract law (e.g., regarding existence of agreement).",
+    "japaneseLegalContext": "民法総則および契約法の基本的な枠組み",
+    "exampleSentence": "The mutual agreement on the essential terms between the transacting parties is a fundamental *requisite for formation* of a binding agreement.",
+    "exampleTranslation": "取引当事者間における本質的な諸条件についての相互の合意は、拘束力のある契約の基礎的な成立要件である。",
+    "vocabularyList": [
+      {
+        "word": "mutual agreement",
+        "translation": "合意"
+      },
+      {
+        "word": "transacting parties",
+        "translation": "取引当事者"
+      },
+      {
+        "word": "essential terms",
+        "translation": "本質的な諸条件"
+      },
+      {
+        "word": "binding agreement",
+        "translation": "拘束力のある合意"
+      },
+      {
+        "word": "validity",
+        "translation": "効力"
+      },
+      {
+        "word": "legal transaction",
+        "translation": "法律行為"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interference with Performance",
+    "definition": "An act committed by the obligor that hinders or makes the fulfillment of the obligation significantly more difficult, giving rise to non-performance liability, even if performance is not entirely impossible.",
+    "japaneseDefinition": "債務者が履行の実現を困難にしたり、妨げたりする行為をすること。履行不能に至らなくても、債務不履行責任を負う原因となる。",
+    "japaneseWordTranslation": "履行妨害 (りこうぼうがい)",
+    "legalContext": "A concept developed under the general rules of non-performance liability (Civil Code Art. 415), often treated as a form of improper performance.",
+    "japaneseLegalContext": "民法第415条の債務不履行の一般原則に関連",
+    "exampleSentence": "The court found that the landlord’s refusal to provide necessary access to the premises constituted *interference with performance* of the lease agreement.",
+    "exampleTranslation": "裁判所は、貸主が必要な敷地への立ち入りを拒否したことは、賃貸借契約の履行妨害に当たると認定した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "fulfillment of the obligation",
+        "translation": "債務の履行"
+      },
+      {
+        "word": "non-performance liability",
+        "translation": "債務不履行責任"
+      },
+      {
+        "word": "landlord",
+        "translation": "貸主"
+      },
+      {
+        "word": "lease agreement",
+        "translation": "賃貸借契約"
+      },
+      {
+        "word": "improper performance",
+        "translation": "不完全履行"
+      }
+    ]
   }
 ]

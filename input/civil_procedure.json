@@ -9148,5 +9148,119 @@
         "translation": "管轄"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Completion of Pre-trial Procedures",
+    "definition": "The procedural step marking the transition from the preparatory stage (issue arrangement and evidence organization) to the main trial hearing, typically leading to the application of the preclusion rule regarding new attacks and defenses.",
+    "japaneseDefinition": "裁判所が、争点及び証拠の整理が終了したと認め、準備手続を終結させる裁判上の行為。この終結により、新たな攻撃防御方法の提出には、時機に遅れた却下の制約が適用される。",
+    "japaneseWordTranslation": "準備手続の終結 (Junbi Tetsuzuki no Shūketsu)",
+    "legalContext": "Code of Civil Procedure Art. 165: Closure of Preparatory Proceedings.",
+    "japaneseLegalContext": "民事訴訟法第165条: 準備手続の終結",
+    "exampleSentence": "Upon the **completion of pre-trial procedures**, the court warned the defendant that any further submission of documentary evidence might be rejected as being untimely.",
+    "exampleTranslation": "準備手続の終結を受け、裁判所は被告に対し、これ以上の書証の提出は時機に遅れたものとして却下される可能性がある旨を警告した。",
+    "vocabularyList": [
+      {
+        "word": "preparatory stage",
+        "translation": "準備段階"
+      },
+      {
+        "word": "issue arrangement",
+        "translation": "争点整理"
+      },
+      {
+        "word": "preclusion rule",
+        "translation": "遮断効の原則"
+      },
+      {
+        "word": "submission",
+        "translation": "提出"
+      },
+      {
+        "word": "untimely",
+        "translation": "時機に遅れた"
+      },
+      {
+        "word": "documentary evidence",
+        "translation": "書証"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Intervention for Assisting a Litigant",
+    "definition": "A procedural mechanism allowing a third party with a legal interest in the outcome of the dispute to join the lawsuit to support one of the existing parties.",
+    "japaneseDefinition": "訴訟の結果について法律上の利害関係を有する第三者が、一方当事者の勝訴を補助するために訴訟に参加すること（補助参加）。",
+    "japaneseWordTranslation": "補助参加 (Hojo Sanka)",
+    "legalContext": "Code of Civil Procedure Art. 42: Grounds for Intervention for Assisting a Litigant.",
+    "japaneseLegalContext": "民事訴訟法第42条: 補助参加の要件",
+    "exampleSentence": "The manufacturer of the machine tool requested **Intervention for Assisting a Litigant** on the side of the defendant buyer, fearing that a judgment against the buyer would affect future liability claims.",
+    "exampleTranslation": "工作機械の製造業者は、被告たる買主側で補助参加を申し立てた。なぜなら、買主に不利な判決が出れば将来の責任請求に影響を及ぼすと懸念したためである。",
+    "vocabularyList": [
+      {
+        "word": "procedural mechanism",
+        "translation": "訴訟上の制度"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "legal interest",
+        "translation": "法律上の利害関係"
+      },
+      {
+        "word": "dispute",
+        "translation": "紛争"
+      },
+      {
+        "word": "manufacturer",
+        "translation": "製造業者"
+      },
+      {
+        "word": "liability claims",
+        "translation": "責任請求"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restriction on Judgment Exceeding Demand",
+    "definition": "The principle that limits the judicial authority, preventing a court from issuing a judgment that grants relief or remedies beyond the scope of what the plaintiff specifically requested in their statement of claim.",
+    "japaneseDefinition": "処分権主義の核心的な内容の一つであり、裁判所は、当事者が訴えにおいて求めた範囲を超えて判決を言い渡すことができないとする制約。",
+    "japaneseWordTranslation": "訴えの範囲の超える判決の禁止 (Uttae no Han'i o Koeru Hanketsu no Kinshi)",
+    "legalContext": "Code of Civil Procedure Art. 246 (Implied by the principle of dispositiveness).",
+    "japaneseLegalContext": "民事訴訟法第246条 (処分権主義に基づく制約)",
+    "exampleSentence": "In accordance with the **Restriction on Judgment Exceeding Demand**, the court cannot award punitive damages if the plaintiff's claim was limited solely to the recovery of actual losses.",
+    "exampleTranslation": "訴えの範囲の超える判決の禁止に従い、原告の請求が実損害の回復のみに限定されている場合、裁判所は懲罰的損害賠償を認めることはできない。",
+    "vocabularyList": [
+      {
+        "word": "judicial authority",
+        "translation": "裁判権限"
+      },
+      {
+        "word": "remedies",
+        "translation": "救済"
+      },
+      {
+        "word": "statement of claim",
+        "translation": "訴状"
+      },
+      {
+        "word": "punitive damages",
+        "translation": "懲罰的損害賠償"
+      },
+      {
+        "word": "recovery",
+        "translation": "回復"
+      },
+      {
+        "word": "actual losses",
+        "translation": "実損害"
+      }
+    ]
   }
 ]

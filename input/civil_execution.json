@@ -9140,5 +9140,119 @@
         "translation": "申立てを却下した"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Demand for Declaration of Facts by Third Party Debtor",
+    "definition": "A procedure where the execution court sends a notice to the debtor of the judgment debtor (the third party debtor) requesting a written statement regarding the existence and details of the claim being subjected to garnishment.",
+    "japaneseDefinition": "執行裁判所が、差押えられた金銭債権の存否や内容、弁済の意思について、債務者の債務者（第三債務者）に書面で陳述を求める手続。",
+    "japaneseWordTranslation": "第三債務者に対する陳述の催告 (Daisansha Saibusha ni Taisuru Chin jutsu no Saikoku)",
+    "legalContext": "Civil Execution Act Art. 147 (Demand for Declaration of Facts)",
+    "japaneseLegalContext": "民事執行法第147条（陳述の催告）",
+    "exampleSentence": "The execution court issued a Demand for Declaration of Facts by Third Party Debtor to the bank holding the judgment debtor's funds to confirm the exact balance subject to garnishment.",
+    "exampleTranslation": "執行裁判所は、差押えの対象となっている債務者の資金を保有する銀行に対し、正確な残高を確認するために第三債務者に対する陳述の催告を発した。",
+    "vocabularyList": [
+      {
+        "word": "garnishment",
+        "translation": "差押え"
+      },
+      {
+        "word": "judgment debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "written statement",
+        "translation": "書面による陳述"
+      },
+      {
+        "word": "existence and details",
+        "translation": "存否や内容"
+      },
+      {
+        "word": "bank",
+        "translation": "銀行"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution for Specific Property Delivery",
+    "definition": "Non-monetary execution procedure used when the required action is the delivery or surrender of a specific, designated piece of property (e.g., a specific artwork or machine) rather than generic funds or fungibles.",
+    "japaneseDefinition": "金銭債権ではなく、特定の動産や不動産、証券などの目的物を引き渡すことを内容とする請求権を強制的に実現する執行手続。",
+    "japaneseWordTranslation": "特定物の引渡しの執行 (Tokuteibutsu no Hikiwatashi no Shikkō)",
+    "legalContext": "Civil Execution Act Art. 169 (Execution for Delivery or Surrender of Specific Property)",
+    "japaneseLegalContext": "民事執行法第169条（不動産等の引渡しの執行）",
+    "exampleSentence": "Since the defendant refused to return the disputed machine, the judgment creditor initiated an Execution for Specific Property Delivery, allowing the enforcement agent to forcibly retrieve the item.",
+    "exampleTranslation": "被告が係争中の機械の返却を拒否したため、債権者は特定物の引渡しの執行を申し立て、執行官が強制的にその物品を回収することを可能にした。",
+    "vocabularyList": [
+      {
+        "word": "non-monetary execution",
+        "translation": "非金銭執行"
+      },
+      {
+        "word": "designated property",
+        "translation": "特定された目的物"
+      },
+      {
+        "word": "judgment creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "forcibly retrieve",
+        "translation": "強制的に回収する"
+      },
+      {
+        "word": "enforcement agent",
+        "translation": "執行官"
+      },
+      {
+        "word": "disputed machine",
+        "translation": "係争中の機械"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Compulsory Eviction and Handover",
+    "definition": "The final stage of real property execution where the execution officer physically removes occupants (who lack legal possession) and hands control of the property over to the new owner (acquirer of the property via auction).",
+    "japaneseDefinition": "不動産の強制執行において、執行官が占有者を不動産から退去させ、その占有を債務者から買受人に移転させる物理的な手続。",
+    "japaneseWordTranslation": "強制的な立退き及び引渡し (Kyōseiteki na Tachinoki oyobi Hikiwatashi)",
+    "legalContext": "Civil Execution Act Art. 182 (Execution for Delivery or Surrender of Real Property)",
+    "japaneseLegalContext": "民事執行法第182条（不動産の引渡しの執行）",
+    "exampleSentence": "Following the issuance of the execution order, the enforcement agent scheduled the Compulsory Eviction and Handover to ensure the successful bidder could take possession of the foreclosed apartment.",
+    "exampleTranslation": "執行命令の発令後、執行官は、落札者が差し押さえられたマンションの占有権を取得できるように、強制的な立退き及び引渡しを予定した。",
+    "vocabularyList": [
+      {
+        "word": "foreclosed apartment",
+        "translation": "差し押さえられたマンション"
+      },
+      {
+        "word": "physical removal",
+        "translation": "物理的な退去"
+      },
+      {
+        "word": "execution officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "legal possession",
+        "translation": "正当な占有"
+      },
+      {
+        "word": "successful bidder",
+        "translation": "落札人"
+      },
+      {
+        "word": "execution order",
+        "translation": "執行命令"
+      }
+    ]
   }
 ]

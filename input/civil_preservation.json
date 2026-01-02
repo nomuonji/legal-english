@@ -8016,5 +8016,119 @@
         "translation": "被保全側 (債務者)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Necessity Requirement",
+    "definition": "The statutory requirement that a civil preservation measure is indispensable to prevent the future difficulty or impossibility of executing a judgment or securing the desired legal status.",
+    "japaneseDefinition": "将来の強制執行の困難化や、訴訟の目的である法律関係についての現状固定が不可能となる事態を防ぐために、保全措置が不可欠であることの要件。",
+    "japaneseWordTranslation": "保全の必要性 (ほぜんのひつようせい)",
+    "legalContext": "Civil Preservation Act, Art. 13 (Dismissal of Motion): 'When the requirements for preservation are not met, the court shall dismiss the motion.'",
+    "japaneseLegalContext": "民事保全法第13条（申立ての却下）：『保全の要件を欠くときは、裁判所は、申立てを却下しなければならない。』",
+    "exampleSentence": "The court requires the obligee to make a prima facie showing of the Preservation Necessity Requirement before granting any interim measure.",
+    "exampleTranslation": "裁判所は、暫定的な措置を許可する前に、債権者に対して保全の必要性の要件を一応疎明することを求めている。",
+    "vocabularyList": [
+      {
+        "word": "statutory requirement",
+        "translation": "法的要件"
+      },
+      {
+        "word": "indispensable",
+        "translation": "不可欠な"
+      },
+      {
+        "word": "executing a judgment",
+        "translation": "判決を執行すること"
+      },
+      {
+        "word": "interim measure",
+        "translation": "暫定的な措置"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "prima facie showing",
+        "translation": "一応の疎明"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Danger of Execution Evasion",
+    "definition": "A primary condition for monetary preservation measures, referring to the risk that the debtor will hide, damage, or transfer assets, making future final enforcement impossible or substantially challenging.",
+    "japaneseDefinition": "金銭債権を保全するための主要な要件の一つであり、債務者が財産を隠匿、毀損、または譲渡することによって、将来の最終的な執行が不可能になるか、実質的に困難になる危険性。",
+    "japaneseWordTranslation": "執行を免れる危険 (しっこうをまぬがれるきけん)",
+    "legalContext": "Civil Preservation Act, Art. 20 (Requirement for Monetary Preservation): 'A monetary claim preservation order shall be issued when, due to the debtor's action, there is a danger of execution evasion.'",
+    "japaneseLegalContext": "民事保全法第20条第1項（金銭の請求権についての保全の要件）：『金銭の請求権についての保全命令は、債務者の行為により執行を免れる危険があるときに発することができる。』",
+    "exampleSentence": "The obligee provided affidavits from witnesses confirming that the debtor was preparing to transfer major corporate assets abroad, establishing the Danger of Execution Evasion.",
+    "exampleTranslation": "債権者は、債務者が主要な会社資産を海外へ移転する準備をしていることを証言する陳述書を提出し、執行を免れる危険があることを立証した。",
+    "vocabularyList": [
+      {
+        "word": "monetary preservation measures",
+        "translation": "金銭の保全措置"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "hide",
+        "translation": "隠す"
+      },
+      {
+        "word": "transfer assets",
+        "translation": "資産を譲渡する"
+      },
+      {
+        "word": "affidavits",
+        "translation": "陳述書"
+      },
+      {
+        "word": "corporate assets",
+        "translation": "会社資産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-Monetary Claim Preservation",
+    "definition": "A mechanism for securing the enforcement of claims that are not exclusively for the payment of money, such as demands for the surrender of real property or the cessation of infringement.",
+    "japaneseDefinition": "金銭の支払いを目的としない請求権（不動産の引渡し請求や侵害行為の差止め請求など）の執行を確保するために利用される保全制度。",
+    "japaneseWordTranslation": "非金銭債権の保全 (ひきんせんさいけんのほぜん)",
+    "legalContext": "Civil Preservation Act, Art. 23 (Non-Monetary Preservation): This article regulates provisional dispositions concerning the object in dispute or those establishing a provisional legal status.",
+    "japaneseLegalContext": "民事保全法第23条（非金銭保全）：この条文は、係争物に関する暫定的な処分及び暫定的な地位を定める処分を規定する。",
+    "exampleSentence": "Because the adjacent construction caused serious vibrations threatening the structural integrity of the plaintiff’s property, the court granted the Non-Monetary Claim Preservation against further work.",
+    "exampleTranslation": "隣接する工事が、原告の財産の構造的完全性を脅かす重大な振動を引き起こしたため、裁判所は、それ以上の作業に対して非金銭債権の保全を認めた。",
+    "vocabularyList": [
+      {
+        "word": "exclusively",
+        "translation": "排他的に"
+      },
+      {
+        "word": "surrender of real property",
+        "translation": "不動産の引渡し"
+      },
+      {
+        "word": "cessation of infringement",
+        "translation": "侵害の停止"
+      },
+      {
+        "word": "adjacent construction",
+        "translation": "隣接する工事"
+      },
+      {
+        "word": "structural integrity",
+        "translation": "構造的完全性"
+      },
+      {
+        "word": "granted",
+        "translation": "認めた"
+      }
+    ]
   }
 ]

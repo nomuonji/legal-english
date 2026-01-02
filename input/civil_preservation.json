@@ -7902,5 +7902,119 @@
         "translation": "保全の必要性"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Tentative Factual Showing",
+    "definition": "The reduced standard of proof required in civil preservation procedures, where the party seeking the temporary measure must demonstrate a high likelihood that the alleged facts (e.g., the existence of the underlying monetary entitlement and the grounds for urgency) are true, but not necessarily establish them beyond doubt.",
+    "japaneseDefinition": "民事保全手続において、保全を求める側が、主張する事実（被保全権利及び保全の必要性）の存在を、確信に至らないまでも、一応確からしいという程度に立証すること。保全手続における特有の立証負担。",
+    "japaneseWordTranslation": "疎明 (そめい)",
+    "legalContext": "Civil Preservation Act Art. 13 (2): A person seeking a preservation mandate must offer tentative factual showing for the facts constituting the grounds for the preservation.",
+    "japaneseLegalContext": "民事保全法第13条第2項: 保全命令は、これを申し立てる者が保全の事由を疎明しなければ、発することができない。",
+    "exampleSentence": "The court requires a tentative factual showing regarding the risk of rendering future compulsory recovery impossible before granting the temporary restraining measure.",
+    "exampleTranslation": "裁判所は、将来の強制的な回収を不可能にするおそれに関する疎明を、一時的な差止措置を許可する前に要求する。",
+    "vocabularyList": [
+      {
+        "word": "Mandate",
+        "translation": "命令"
+      },
+      {
+        "word": "Underlying entitlement",
+        "translation": "被保全権利"
+      },
+      {
+        "word": "Restraining measure",
+        "translation": "差止措置"
+      },
+      {
+        "word": "Reduced standard",
+        "translation": "軽減された基準"
+      },
+      {
+        "word": "Compulsory recovery",
+        "translation": "強制的回収"
+      },
+      {
+        "word": "Alleged facts",
+        "translation": "主張された事実"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Measure Establishing Provisional Standing",
+    "definition": "A type of non-pecuniary preservation procedure used to establish or temporarily regulate a party's legal position or relationship pending the resolution of the substantive controversy, preventing substantial detriment during the interim period.",
+    "japaneseDefinition": "係争物に関する給付を伴わない保全命令の一つであり、争いのある権利関係や法律上の地位を暫定的に定め、本案の解決まで当事者に生じる著しい不利益を避けるための処置。",
+    "japaneseWordTranslation": "仮の地位を定める処置 (かりのちいをさだめるしょち)",
+    "legalContext": "Civil Preservation Act Art. 23 (2): A provisional disposition may be issued to establish a provisional standing in a legal relationship concerning the object of controversy, where it is necessary to prevent significant harm or imminent danger.",
+    "japaneseLegalContext": "民事保全法第23条第2項: 争いがある権利関係について仮の地位を定めることを必要とするときは、仮処分を命ずることができる。",
+    "exampleSentence": "The tenant sought a Measure Establishing Provisional Standing to continue utilizing the premises after the landlord prematurely terminated the lease agreement.",
+    "exampleTranslation": "賃借人は、賃貸人が賃貸借契約を時期尚早に解除した後、物件の使用を継続するために仮の地位を定める処置を求めた。",
+    "vocabularyList": [
+      {
+        "word": "Non-pecuniary",
+        "translation": "非金銭的"
+      },
+      {
+        "word": "Controversy",
+        "translation": "係争"
+      },
+      {
+        "word": "Substantive controversy",
+        "translation": "本案の争い"
+      },
+      {
+        "word": "Interim period",
+        "translation": "暫定期間"
+      },
+      {
+        "word": "Premises",
+        "translation": "目的物 (不動産)"
+      },
+      {
+        "word": "Significant harm",
+        "translation": "著しい不利益"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liberation Fund",
+    "definition": "A specific sum of money designated by the court which, if provided by the responding party, causes the provisional freezing measure placed on specified assets to be discharged, allowing the responding party immediate access to and use of those assets.",
+    "japaneseDefinition": "仮差押えの目的物にかかる保全執行を解除するために、被保全権利の額に応じて裁判所が定める金銭。この金銭を供託することで、仮差押えの対象となっていた特定財産が解放される。",
+    "japaneseWordTranslation": "解放金 (かいほうきん)",
+    "legalContext": "Civil Preservation Act Art. 25 (1): The court may, upon petition, specify a sum of money (Liberation Fund) which, if provided, the execution of the provisional measure shall be subject to discharge.",
+    "japaneseLegalContext": "民事保全法第25条第1項: 裁判所は、保全すべき権利の額を超えることがないように定め、仮差押えの執行の停止又は取消しを求めて、債務者が供託すべき金銭の額を定めることができる。",
+    "exampleSentence": "The responding party submitted the Liberation Fund immediately after the freeze was implemented to resume urgent business operations.",
+    "exampleTranslation": "応答当事者は、緊急の事業運営を再開するため、差押えが実行された直後に解放金を差し入れた。",
+    "vocabularyList": [
+      {
+        "word": "Specified assets",
+        "translation": "特定の財産"
+      },
+      {
+        "word": "Immediate access",
+        "translation": "直ちの利用"
+      },
+      {
+        "word": "Freezing measure",
+        "translation": "差押措置"
+      },
+      {
+        "word": "Resume operations",
+        "translation": "業務を再開する"
+      },
+      {
+        "word": "Monetary equivalent",
+        "translation": "金銭的な代替物"
+      },
+      {
+        "word": "Responding party",
+        "translation": "被保全側 (債務者)"
+      }
+    ]
   }
 ]

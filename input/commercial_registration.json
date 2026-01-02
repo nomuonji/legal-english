@@ -7390,5 +7390,81 @@
         "translation": "資本金"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-Opposability of Unregistered Facts",
+    "definition": "The principle that if a matter is legally required to be recorded in the commercial register, the failure to record it prevents the commercial entity from asserting that fact against an innocent third party.",
+    "japaneseDefinition": "商業登記法上、登記すべき事項が登記されていない場合、その未登記の事実をもって善意の第三者に対抗できないとする原則。",
+    "japaneseWordTranslation": "未登記事項の対抗不能 (みとうきじこうのたいこうふのう)",
+    "legalContext": "Commercial Registration Act Art. 9(1): Matters that must be registered shall not be asserted against a third party acting in good faith until registration has been completed.",
+    "japaneseLegalContext": "商業登記法第9条第1項：登記すべき事項は、登記の後でなければ、善意の第三者に対抗することができない。",
+    "exampleSentence": "Due to the non-opposability of unregistered facts, the internal restriction on the scope of the representative's authority could not be used as a defense against the creditor.",
+    "exampleTranslation": "未登記事項の対抗不能の原則により、代表者の権限の範囲に対する内部的な制限は、債権者に対する防御として使用できなかった。",
+    "vocabularyList": [
+      {
+        "word": "legally required",
+        "translation": "法令上要求される"
+      },
+      {
+        "word": "commercial entity",
+        "translation": "商主体"
+      },
+      {
+        "word": "innocent third party",
+        "translation": "善意の第三者"
+      },
+      {
+        "word": "internal restriction",
+        "translation": "内部的な制限"
+      },
+      {
+        "word": "scope of authority",
+        "translation": "権限の範囲"
+      },
+      {
+        "word": "defense",
+        "translation": "防御／抗弁"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deemed Dissolution Registration",
+    "definition": "A procedural entry made by the registrar on the commercial register indicating that a stock company is deemed dissolved due to its failure to update its officer registration for a prolonged statutory period, typically twelve consecutive years.",
+    "japaneseDefinition": "株式会社が、取締役等に関する登記を長期間（通常12年間）行わない場合、会社が解散したものとみなされ、登記官が職権で行う解散の登記。",
+    "japaneseWordTranslation": "みなし解散の登記 (みなしかいさんのとうき)",
+    "legalContext": "Companies Act Art. 472: If no registration concerning the appointment of directors, etc., has been made for twelve consecutive years, the stock company shall be deemed dissolved, and the registrar shall register such dissolution ex officio.",
+    "japaneseLegalContext": "会社法第472条：最後の登記から十二年を経過したときは、株式会社は解散したものとみなされ、登記官は職権で解散の登記をしなければならない。",
+    "exampleSentence": "The registrar initiated the deemed dissolution registration for the inactive corporation after confirming that the requisite twelve-year period without officer registration updates had elapsed.",
+    "exampleTranslation": "登記官は、役員登記の更新なしに法定の12年期間が経過したことを確認した後、その休眠会社に対するみなし解散の登記に着手した。",
+    "vocabularyList": [
+      {
+        "word": "procedural entry",
+        "translation": "手続上の記入"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "stock company",
+        "translation": "株式会社"
+      },
+      {
+        "word": "prolonged statutory period",
+        "translation": "長期の法定期間"
+      },
+      {
+        "word": "consecutive years",
+        "translation": "連続した年"
+      },
+      {
+        "word": "ex officio",
+        "translation": "職権で"
+      }
+    ]
   }
 ]

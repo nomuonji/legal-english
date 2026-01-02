@@ -8432,5 +8432,115 @@
         "translation": "観察 (かんさつ)"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Forfeiture",
+    "definition": "A supplementary penalty under Japanese criminal law involving the mandatory seizure of property related to the commission of an offense, such as instruments of the crime or property acquired through the crime.",
+    "japaneseDefinition": "犯罪行為に関連する物（犯罪に供された物、犯罪により生じた物、または犯罪の対価として得た物など）を強制的に国家が取得する付加刑。",
+    "japaneseWordTranslation": "没収 (ぼっしゅう)",
+    "legalContext": "Criminal Code Art. 19 (1): 'Things that fall under any of the following items may be forfeited:'",
+    "japaneseLegalContext": "刑法第19条第1項：「次に掲げる物は、没収することができる。」",
+    "exampleSentence": "The court ordered the forfeiture of the funds the defendant received as a bribe, pursuant to Article 19 of the Criminal Code.",
+    "exampleTranslation": "裁判所は、刑法第19条に基づき、被告人が贈賄として受け取った資金の没収を命じた。",
+    "vocabularyList": [
+      {
+        "word": "supplementary penalty",
+        "translation": "付加刑 (ふかけい)"
+      },
+      {
+        "word": "instrument of crime",
+        "translation": "犯行の手段 (はんこうのしゅだん)"
+      },
+      {
+        "word": "property acquired",
+        "translation": "取得財産 (しゅとくざいさん)"
+      },
+      {
+        "word": "bribe",
+        "translation": "贈賄 (ぞうわい)"
+      },
+      {
+        "word": "pursuant to",
+        "translation": "～に基づき (～にもとづき)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exclusion of Accountability",
+    "definition": "A judicial determination that an offender lacks criminal culpability (mens rea) due to factors such as mental disease or immaturity at the time of the act, thereby precluding punishment.",
+    "japaneseDefinition": "行為者が行為時に精神上の障害や年齢などの理由で刑事責任能力を欠き、その結果として処罰されないこと。",
+    "japaneseWordTranslation": "責任阻却 (せきにんそきゃく)",
+    "legalContext": "Criminal Code Art. 39 (1): 'A person who, at the time of the act, was incapable of discerning right from wrong or of acting in accordance with such discernment due to mental disability, shall not be punished.'",
+    "japaneseLegalContext": "刑法第39条第1項：「心神喪失者は、その行為を罰しない。」",
+    "exampleSentence": "The defense successfully argued for the exclusion of accountability based on the defendant's temporary loss of mental capacity during the commission of the alleged offense.",
+    "exampleTranslation": "弁護側は、被告人が申し立てられた犯罪の実行中に一時的に精神能力を喪失していたことを根拠に、責任阻却を主張し成功した。",
+    "vocabularyList": [
+      {
+        "word": "culpability",
+        "translation": "有責性 (ゆうせきせい)"
+      },
+      {
+        "word": "mental disability",
+        "translation": "精神上の障害 (せいしんじょうのしょうがい)"
+      },
+      {
+        "word": "discerning right from wrong",
+        "translation": "善悪の判断 (ぜんあくのはんだん)"
+      },
+      {
+        "word": "alleged offense",
+        "translation": "申し立てられた犯罪 (もうしたてられたはんざい)"
+      },
+      {
+        "word": "precluding punishment",
+        "translation": "処罰の排除 (しょばつのはいじょ)"
+      },
+      {
+        "word": "defense",
+        "translation": "弁護側 (べんごがわ)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statute of Limitations for Punishment",
+    "definition": "The statutory period after which the enforcement of a judicially determined penalty (such as imprisonment or a fine) becomes legally barred, regardless of whether the sentence has been served.",
+    "japaneseDefinition": "刑の言渡し確定後、一定期間の経過によりその刑の執行が免除される制度。",
+    "japaneseWordTranslation": "刑の時効 (けいのじこう)",
+    "legalContext": "Criminal Code Art. 31: 'Execution of punishment shall be limited by the lapse of time as follows...'",
+    "japaneseLegalContext": "刑法第31条：「刑の時効は、次の期間を経過することによつて完成する。」",
+    "exampleSentence": "If the death penalty is not executed within thirty years of its final determination, the Statute of Limitations for Punishment applies, and the execution is barred.",
+    "exampleTranslation": "死刑が確定から30年以内に執行されなかった場合、刑の時効が適用され、執行が免除される。",
+    "vocabularyList": [
+      {
+        "word": "enforcement of punishment",
+        "translation": "刑の執行 (けいのしっこう)"
+      },
+      {
+        "word": "lapse of time",
+        "translation": "期間の経過 (きかんのけいか)"
+      },
+      {
+        "word": "final determination",
+        "translation": "確定 (かくてい)"
+      },
+      {
+        "word": "death penalty",
+        "translation": "死刑 (しけい)"
+      },
+      {
+        "word": "legally barred",
+        "translation": "法的に禁止される (ほうてきにきんしされる)"
+      },
+      {
+        "word": "judicially determined",
+        "translation": "裁判により決定された (さいばんによりけっていされた)"
+      }
+    ]
   }
 ]

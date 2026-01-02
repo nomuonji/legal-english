@@ -7354,5 +7354,119 @@
         "translation": "特定された (とくていされた)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Factual Registration Obligation",
+    "definition": "The legally mandated duty imposed on the property owner to apply for registration concerning the physical facts of the real property (such as construction, demolition, or land category change) within a prescribed period, usually one month from the date the change occurred.",
+    "japaneseDefinition": "不動産の物理的な事実（建物の新築、取壊し、地目変更など）に関する登記を、不動産の所有者が法令で定められた期間内（原則として変更発生から1ヶ月以内）に申請しなければならない法的義務。",
+    "japaneseWordTranslation": "表示登記義務 (Hyōji Tōki Gimu)",
+    "legalContext": "Real Property Registration Act Art. 36: 'In the case where a building is newly constructed, the owner of the building shall apply for the registration of preservation of ownership concerning the property indication within one month from the day the construction was completed.'",
+    "japaneseLegalContext": "不動産登記法第36条: 「新築した建物の所有者は、その新築の日から一月以内に、表示に関する登記を申請しなければならない。」",
+    "exampleSentence": "Failure to fulfill the Factual Registration Obligation for a newly constructed structure can result in a non-penal fine.",
+    "exampleTranslation": "新築された構造物について表示登記義務を履行しない場合、過料に処される可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "non-penal fine",
+        "translation": "過料 (Karyō)"
+      },
+      {
+        "word": "property indication",
+        "translation": "表示 (Hyōji)"
+      },
+      {
+        "word": "newly constructed structure",
+        "translation": "新築された構造物 (Shinchiku sareta Kōzōbutsu)"
+      },
+      {
+        "word": "prescribed period",
+        "translation": "定められた期間 (Sadamerareta Kikan)"
+      },
+      {
+        "word": "demolition",
+        "translation": "取壊し (Torikowashi)"
+      },
+      {
+        "word": "land category change",
+        "translation": "地目変更 (Chimoku Henkō)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registerable Proprietary Rights",
+    "definition": "The specific catalogue of proprietary rights (real rights and quasi-real rights) that, pursuant to the Real Property Registration Act and other related laws, are eligible to be recorded in the register for the purpose of perfection against third parties.",
+    "japaneseDefinition": "不動産登記法及び関連法に基づき、第三者への対抗要件として登記簿に記録することが許容されている物権（及び準物権）の特定の種別。",
+    "japaneseWordTranslation": "登記可能な権利 (Tōki Kanō na Kenri)",
+    "legalContext": "Real Property Registration Act Art. 3: 'Registration may be effected with regard to ownership, superficies, emphyteusis, leasehold, and other proprietary rights stipulated by law.'",
+    "japaneseLegalContext": "不動産登記法第3条: 「登記は、所有権、地上権、永小作権、賃借権その他法令により登記することができる権利についてするものとする。」",
+    "exampleSentence": "The Registerable Proprietary Rights listed in Article 3 do not exhaust the full scope of rights that might be noted on the register, but they define the primary rights subject to perfection requirements.",
+    "exampleTranslation": "第3条に列挙されている登記可能な権利は、登記簿に記載され得る権利の全範囲を尽くすものではないが、対抗要件の対象となる主要な権利を定義している。",
+    "vocabularyList": [
+      {
+        "word": "proprietary rights",
+        "translation": "権利 (Kenri)"
+      },
+      {
+        "word": "eligible to be recorded",
+        "translation": "記録される資格がある (Kiroku sareru Shikaku ga aru)"
+      },
+      {
+        "word": "perfection",
+        "translation": "対抗要件 (Taikō Yōken)"
+      },
+      {
+        "word": "superficies",
+        "translation": "地上権 (Chijōken)"
+      },
+      {
+        "word": "emphyteusis",
+        "translation": "永小作権 (Eikosakuken)"
+      },
+      {
+        "word": "catalogue",
+        "translation": "目録 (Mokuroku)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ex Officio Cancellation",
+    "definition": "The legal authority of the Registrar to unilaterally cancel or delete an entry from the real property register without a formal application from the parties involved, exercised when a registered right has demonstrably ceased to exist or when the registration itself is found to be unlawful or impossible.",
+    "japaneseDefinition": "登記官が、当事者からの正式な申請なしに、登記された権利が明白に消滅した、または登記自体が不適法あるいは不可能であることが判明した場合に、職権に基づいて登記の記載を抹消する権限。",
+    "japaneseWordTranslation": "職権抹消 (Shokken Masshō)",
+    "legalContext": "Real Property Registration Act Art. 25, Item 7: 'The Registrar shall dismiss the application in the following cases: ... 7) Where the registration entry is ex officio cancelled.'",
+    "japaneseLegalContext": "不動産登記法第25条第7号: 「登記官は、次に掲げる場合には、申請を却下しなければならない。… 七 その登記が職権により抹消されたとき。」",
+    "exampleSentence": "If the building subject to a registered mortgage is physically destroyed, the Registrar must conduct an Ex Officio Cancellation of the mortgage right.",
+    "exampleTranslation": "登記された抵当権の目的物である建物が物理的に滅失した場合、登記官は当該抵当権の職権抹消を行わなければならない。",
+    "vocabularyList": [
+      {
+        "word": "unilaterally cancel",
+        "translation": "一方的に抹消する (Ippōteki ni Masshō suru)"
+      },
+      {
+        "word": "dismiss the application",
+        "translation": "申請を却下する (Shinsei o Kyakka suru)"
+      },
+      {
+        "word": "registered mortgage",
+        "translation": "登記された抵当権 (Tōki sareta Teitōken)"
+      },
+      {
+        "word": "cease to exist",
+        "translation": "消滅する (Shōmetsu suru)"
+      },
+      {
+        "word": "unlawful",
+        "translation": "不適法 (Futekihō)"
+      },
+      {
+        "word": "Registrar",
+        "translation": "登記官 (Tōkikan)"
+      }
+    ]
   }
 ]

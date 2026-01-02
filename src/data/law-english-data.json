@@ -1,42 +1,42 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Duty of Due Care of a Prudent Manager",
-  "definition": "The standard of care required of an obligor (particularly an agent or bailee) who manages another person's property or affairs, demanding the diligence and prudence that an ordinary, reasonable person would exercise in managing their own affairs.",
-  "japaneseDefinition": "受任者や受寄者など、他人の事務を処理する者が負う、善良な管理者としての注意をもってその事務を処理すべき義務のこと。",
-  "japaneseWordTranslation": "善管注意義務 (ぜんかんちゅういぎむ)",
-  "legalContext": "Civil Code Art. 644 (Duty of Due Care of a Prudent Manager): 'A Mandatary must manage the entrusted affairs with the duty of due care of a prudent manager.'",
-  "japaneseLegalContext": "民法第644条（受任者の注意義務）：『受任者は、委任の本旨に従い、善良な管理者としての注意をもって、委任事務を処理する義務を負う。』",
-  "exampleSentence": "The court found the corporate director liable for breach of the duty of due care of a prudent manager after he failed to conduct adequate risk assessments.",
-  "exampleTranslation": "裁判所は、当該取締役が適切なリスク評価を実施しなかったため、善管注意義務違反の責任があると判断した。",
+  "word": "Mistake of Law",
+  "definition": "A defendant's error regarding the existence or legal effect (prohibitive nature) of a criminal law. In principle, this error does not negate criminal intent, but it may lead to a reduction or remission of punishment if unavoidable.",
+  "japaneseDefinition": "行為者が、自己の行為が法的に禁止されているか否かについて認識を誤ること。原則として故意を阻却しないが、回避不可能な錯誤の場合は刑を減免しうる。",
+  "japaneseWordTranslation": "法律の錯誤 (ほうりつのさくご)",
+  "legalContext": "Criminal Code Art. 38, Paragraph 3: Ignorance of the law shall not preclude the establishment of criminal intent; provided, however, that punishment may be reduced or remitted where the accused failed to realize that the act was unlawful due to unavoidable circumstances.",
+  "japaneseLegalContext": "刑法第38条第3項：法律を知らなかったとしても、そのことによって、罪を犯す意思がなかったとすることはできない。ただし、情状により、その刑を減軽し、又は免除することができる。",
+  "exampleSentence": "The defendant's claim of mistake of law was dismissed because the court determined that the circumstances were not sufficiently unavoidable to warrant the remission of punishment.",
+  "exampleTranslation": "裁判所は、刑の免除を正当化するほど事情が不可避的ではないと判断したため、被告人の法律の錯誤の主張は棄却された。",
   "vocabularyList": [
     {
-      "word": "Mandatary",
-      "translation": "受任者"
+      "word": "negate criminal intent",
+      "translation": "故意を阻却する"
     },
     {
-      "word": "breach",
-      "translation": "違反"
+      "word": "reduction of punishment",
+      "translation": "刑の減軽"
     },
     {
-      "word": "liable",
-      "translation": "責任がある"
+      "word": "remission of punishment",
+      "translation": "刑の免除"
     },
     {
-      "word": "risk assessment",
-      "translation": "リスク評価"
+      "word": "unavoidable circumstances",
+      "translation": "回避不可能な事情（情状）"
     },
     {
-      "word": "entrusted affairs",
-      "translation": "委任事務"
+      "word": "dismissed",
+      "translation": "棄却された"
     },
     {
-      "word": "diligence",
-      "translation": "注意（努力）"
+      "word": "prohibitive nature",
+      "translation": "禁止的な性質"
     },
     {
-      "word": "standard of care",
-      "translation": "注意義務の基準"
+      "word": "warrant",
+      "translation": "正当化する"
     }
   ]
 }

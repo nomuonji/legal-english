@@ -6390,5 +6390,119 @@
         "translation": "行使 (こうし)"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Repository",
+    "definition": "The official location—typically a District Legal Affairs Bureau or a designated branch office—responsible for administering and holding money, securities, or property consigned pursuant to the Deposit Act.",
+    "japaneseDefinition": "供託法に基づき、金銭、有価証券その他の財産を受け入れ、保管し、その払渡しまたは取戻しに関する事務を取り扱う官署（法務局又は地方法務局）を指す。",
+    "japaneseWordTranslation": "供託所 (きょうたくじょ)",
+    "legalContext": "Deposit Act Art. 1, Rule 2: 'Deposit business is handled by the Legal Affairs Bureau, the District Legal Affairs Bureau, or its branch office.'",
+    "japaneseLegalContext": "供託法第1条第2項: 供託の事務は、法務局若しくは地方法務局又はその支局が取り扱う。",
+    "exampleSentence": "The depositor must ensure that the performance is tendered at the appropriate Deposit Repository having jurisdiction over the place of performance.",
+    "exampleTranslation": "供託者は、履行地の管轄を有する適切な供託所に、給付を供託しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Administering",
+        "translation": "事務を取り扱う"
+      },
+      {
+        "word": "Legal Affairs Bureau",
+        "translation": "法務局"
+      },
+      {
+        "word": "Jurisdiction",
+        "translation": "管轄"
+      },
+      {
+        "word": "Securities",
+        "translation": "有価証券"
+      },
+      {
+        "word": "Appropriate",
+        "translation": "適切な"
+      },
+      {
+        "word": "Place of performance",
+        "translation": "履行地"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Reclamation Right",
+    "definition": "The right held by the depositor (consignor of performance) to obtain the return of the deposited item, usually exercised when the reason for the deposit has subsequently disappeared or the consignee fails to accept it.",
+    "japaneseDefinition": "供託者（弁済供託者）が、供託の事由が消滅した場合や被供託者が供託を受諾しない場合など、法定の事由に基づいて供託物を取り戻すことができる権利。",
+    "japaneseWordTranslation": "供託物取戻権 (きょうたくぶつとりもどしけん)",
+    "legalContext": "Deposit Act Art. 8: 'The depositor may retrieve the deposited item in the following cases...'",
+    "japaneseLegalContext": "供託法第8条: 供託者は、次に掲げる場合に限り、供託物を取り戻すことができる。",
+    "exampleSentence": "If the claim secured by the deposit is extinguished, the depositor is generally entitled to exercise their Deposit Reclamation Right.",
+    "exampleTranslation": "供託によって担保された債権が消滅した場合、供託者は一般的に供託物取戻権を行使する資格を有する。",
+    "vocabularyList": [
+      {
+        "word": "Consignor of performance",
+        "translation": "弁済供託者"
+      },
+      {
+        "word": "Reason for the deposit",
+        "translation": "供託の事由"
+      },
+      {
+        "word": "Subsequently disappeared",
+        "translation": "後に消滅した"
+      },
+      {
+        "word": "Secured",
+        "translation": "担保された"
+      },
+      {
+        "word": "Entitled",
+        "translation": "資格を有する"
+      },
+      {
+        "word": "Consignee",
+        "translation": "被供託者"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "State Treasury Vesting",
+    "definition": "The transfer of ownership of money or property held in a Deposit Repository to the National Treasury upon the expiry of a prescribed statutory period, particularly when the rightful entitlement holder fails to come forward and request delivery.",
+    "japaneseDefinition": "供託所が保管する金銭または財産について、供託の受領権者が一定期間内に払渡しの請求をしなかった場合に、その所有権が国庫に帰属すること。",
+    "japaneseWordTranslation": "国庫帰属 (こっこきぞく)",
+    "legalContext": "Deposit Act Art. 9: 'The right to receive payment of consigned money shall be extinguished by prescription if it is not exercised for ten years... The same shall apply to the right to retrieve the consigned article.'",
+    "japaneseLegalContext": "供託法第9条: 供託金等の払渡請求権は、供託の日から十年経過したときは時効により消滅する。供託物の取戻請求権についても同様とする。",
+    "exampleSentence": "The funds, remaining unclaimed for 15 years, became subject to State Treasury Vesting under the provisions of the Deposit Act.",
+    "exampleTranslation": "その資金は15年間請求されなかったため、供託法の規定に基づき国庫帰属の対象となった。",
+    "vocabularyList": [
+      {
+        "word": "Transfer of ownership",
+        "translation": "所有権の帰属"
+      },
+      {
+        "word": "Expiry",
+        "translation": "経過"
+      },
+      {
+        "word": "Statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "Rightful",
+        "translation": "正当な"
+      },
+      {
+        "word": "Entitlement holder",
+        "translation": "受領権者"
+      },
+      {
+        "word": "Unclaimed",
+        "translation": "請求されていない"
+      }
+    ]
   }
 ]

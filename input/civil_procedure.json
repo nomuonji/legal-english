@@ -9380,5 +9380,73 @@
         "translation": "課した (kashita)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Confirmation of Non-Existence of Debt",
+    "definition": "A type of declaratory action (confirmation suit) filed by an alleged obligor seeking a judicial determination that the debt or claim asserted against them by the obligee does not exist.",
+    "japaneseDefinition": "債権者から存在を主張されている債務について、債務者がその債務の不存在を裁判所に確認させるために提起する訴訟。",
+    "japaneseWordTranslation": "債務不存在確認の訴え (さいむ ふそんざい かくにん の うったえ)",
+    "legalContext": "Civil Procedure Code Art. 134 II (Regarding the necessary interest in bringing an action for confirmation of a present legal relationship).",
+    "japaneseLegalContext": "民事訴訟法第134条第2項 (現在の法律関係の確認の訴えの利益に関する規定)",
+    "exampleSentence": "The defendant filed an Action for Confirmation of Non-Existence of Debt after receiving repeated demands for payment that they contested.",
+    "exampleTranslation": "被告は、争っていた支払要求を繰り返し受けた後、債務不存在確認の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "declaratory action",
+        "translation": "確認の訴え"
+      },
+      {
+        "word": "alleged obligor",
+        "translation": "債務者とされる者"
+      },
+      {
+        "word": "judicial determination",
+        "translation": "裁判上の決定"
+      },
+      {
+        "word": "contested",
+        "translation": "争われた"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exclusion of Untimely Means of Attack or Defense",
+    "definition": "The court's power to reject any submission (means of attack or defense, including facts or evidence) that a party could have presented earlier, if the late submission unreasonably delays or obstructs the progress of the proceedings.",
+    "japaneseDefinition": "訴訟の完結を遅延させることとなる攻撃防御方法について、裁判所が時機に遅れて提出されたものとして却下する権能。",
+    "japaneseWordTranslation": "時機に遅れた攻撃防御方法の却下 (じきに おくれた こうげき ぼうぎょ ほうほう の きゃっか)",
+    "legalContext": "Civil Procedure Code Art. 157 (Exclusion of Untimely Means of Attack or Defense). This rule promotes the concentration of evidence and issues.",
+    "japaneseLegalContext": "民事訴訟法第157条 (時機に遅れた攻撃防御方法の却下)。争点及び証拠の集中を促進するための規定。",
+    "exampleSentence": "The judge invoked the Exclusion of Untimely Means of Attack or Defense against the plaintiff's new alibi evidence submitted just before the conclusion of oral arguments.",
+    "exampleTranslation": "裁判官は、口頭弁論終結直前に提出された原告の新たなアリバイ証拠に対し、時機に遅れた攻撃防御方法の却下を適用した。",
+    "vocabularyList": [
+      {
+        "word": "submission",
+        "translation": "提出物"
+      },
+      {
+        "word": "means of attack or defense",
+        "translation": "攻撃防御方法"
+      },
+      {
+        "word": "invoke",
+        "translation": "適用する/発動する"
+      },
+      {
+        "word": "obstruct the progress",
+        "translation": "訴訟の進行を妨げる"
+      },
+      {
+        "word": "concentration of evidence",
+        "translation": "証拠の集中"
+      }
+    ]
   }
 ]

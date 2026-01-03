@@ -1,34 +1,42 @@
 {
-  "category": "Deposit Act (供託法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Obligee's Refusal to Accept Performance",
-  "definition": "The situation where the creditor refuses, without justifiable cause, to accept the performance tendered by the obligor. This refusal triggers the obligor's statutory right to discharge the obligation through consignment.",
-  "japaneseDefinition": "債権者が正当な理由なく、債務者が提供した履行の受領を拒否する状況。この拒否は、債務者が供託によって債務を消滅させる法定の権利を行使する原因となる。",
-  "japaneseWordTranslation": "受領拒否 (じゅりょうきょひ)",
-  "legalContext": "Civil Code Art. 494: ... If the obligee refuses to accept the performance, or is unable to accept it, the obligor may be released from the obligation by consigning the subject matter of the performance.",
-  "japaneseLegalContext": "民法第494条: 債権者が弁済の受領を拒み、又はこれを受領することができないときは、弁済をすべき者は、債権者のためにその弁済の目的物を供託することができる。",
-  "exampleSentence": "The obligor initiated consignment proceedings immediately following the obligee's refusal to accept performance of the final outstanding payment.",
-  "exampleTranslation": "債務者は、最終的な未払い金の弁済に対する債権者の受領拒否を受け、直ちに供託手続を開始した。",
+  "word": "Offset",
+  "definition": "The extinguishment of obligations, where two parties owe mutual debts that are due and performable, and one party expresses an intention to settle the claims against the other up to the amount of the lesser obligation.",
+  "japaneseDefinition": "両当事者が互いに同種の債務を負っている場合において、一方の債務と他方の債務を対当額で消滅させること。一方的な意思表示によって行われる。",
+  "japaneseWordTranslation": "相殺 (そうさい)",
+  "legalContext": "Civil Code Art. 505 (Requirements for Offset): 'If two parties owe mutual obligations where both obligations have become due and performable, either party may effect offset with respect to his/her obligation by declaring his/her intention to the other party.'",
+  "japaneseLegalContext": "民法第505条（相殺の要件等）：『二人が互いに同種の目的を有する債務を負担する場合において、双方の債務が弁済期にあるときは、各債務者は、その対当額について相殺によってその債務を免れることができる。』",
+  "exampleSentence": "The defendant sought to offset the debt owed to the plaintiff against a counterclaim for unpaid services.",
+  "exampleTranslation": "被告は、原告に対して負っている債務を、未払い役務に関する反訴請求と相殺することを求めた。",
   "vocabularyList": [
     {
-      "word": "tenders performance",
-      "translation": "履行を提供する"
+      "word": "mutual obligations",
+      "translation": "互いの債務"
     },
     {
-      "word": "justifiable cause",
-      "translation": "正当な理由"
+      "word": "extinguishment",
+      "translation": "消滅"
     },
     {
-      "word": "discharge the obligation",
-      "translation": "債務を消滅させる"
+      "word": "performable",
+      "translation": "履行可能な"
     },
     {
-      "word": "consigning",
-      "translation": "供託する (こと)"
+      "word": "declaration of intention",
+      "translation": "意思表示"
     },
     {
-      "word": "outstanding payment",
-      "translation": "未払い金"
+      "word": "due (adj.)",
+      "translation": "弁済期が到来した"
+    },
+    {
+      "word": "counterclaim",
+      "translation": "反訴請求"
+    },
+    {
+      "word": "settle the claims",
+      "translation": "債権を清算する"
     }
   ]
 }

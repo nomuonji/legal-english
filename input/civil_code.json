@@ -2,48 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Offset",
-    "definition": "The extinguishment of obligations, where two parties owe mutual debts that are due and performable, and one party expresses an intention to settle the claims against the other up to the amount of the lesser obligation.",
-    "japaneseDefinition": "両当事者が互いに同種の債務を負っている場合において、一方の債務と他方の債務を対当額で消滅させること。一方的な意思表示によって行われる。",
-    "japaneseWordTranslation": "相殺 (そうさい)",
-    "legalContext": "Civil Code Art. 505 (Requirements for Offset): 'If two parties owe mutual obligations where both obligations have become due and performable, either party may effect offset with respect to his/her obligation by declaring his/her intention to the other party.'",
-    "japaneseLegalContext": "民法第505条（相殺の要件等）：『二人が互いに同種の目的を有する債務を負担する場合において、双方の債務が弁済期にあるときは、各債務者は、その対当額について相殺によってその債務を免れることができる。』",
-    "exampleSentence": "The defendant sought to offset the debt owed to the plaintiff against a counterclaim for unpaid services.",
-    "exampleTranslation": "被告は、原告に対して負っている債務を、未払い役務に関する反訴請求と相殺することを求めた。",
-    "vocabularyList": [
-      {
-        "word": "mutual obligations",
-        "translation": "互いの債務"
-      },
-      {
-        "word": "extinguishment",
-        "translation": "消滅"
-      },
-      {
-        "word": "performable",
-        "translation": "履行可能な"
-      },
-      {
-        "word": "declaration of intention",
-        "translation": "意思表示"
-      },
-      {
-        "word": "due (adj.)",
-        "translation": "弁済期が到来した"
-      },
-      {
-        "word": "counterclaim",
-        "translation": "反訴請求"
-      },
-      {
-        "word": "settle the claims",
-        "translation": "債権を清算する"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Ratification",
     "definition": "The subsequent approval by a party (or its legal successor) of a juridical act that was initially voidable or performed by a non-representative, thereby validating the act from its inception.",
     "japaneseDefinition": "無権代理人の行為や取消し得る行為などについて、後からその行為を有効なものとして認める意思表示。",
@@ -9940,6 +9898,124 @@
       {
         "word": "source",
         "translation": "水源"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Inter Vivos Act",
+    "definition": "A juridical act, such as a contract or gift, that takes effect while the person making the declaration of intention is still alive, contrasting with testamentary acts.",
+    "japaneseDefinition": "行為者の生存中にその効力を生じる法律行為。遺言などの死後行為と対比される。",
+    "japaneseWordTranslation": "生前行為 (せいぜんこうい)",
+    "legalContext": "Civil Code General Principles (implied in the distinction between contracts/gifts and succession/wills).",
+    "japaneseLegalContext": "民法上の一般原則（契約・贈与と遺言・相続の区別から導かれる）。",
+    "exampleSentence": "The execution of the comprehensive deed transferring property to the children during the grantor's life constituted an *inter vivos act*, not subject to probate requirements.",
+    "exampleTranslation": "財産を子供たちに移転させる包括的な証書を贈与者の生前に執行したことは、遺言執行の手続きの対象とならない生前行為を構成した。",
+    "vocabularyList": [
+      {
+        "word": "execution",
+        "translation": "執行"
+      },
+      {
+        "word": "transferring property",
+        "translation": "財産の移転"
+      },
+      {
+        "word": "grantor",
+        "translation": "贈与者"
+      },
+      {
+        "word": "testamentary acts",
+        "translation": "死後行為（遺言）"
+      },
+      {
+        "word": "deed",
+        "translation": "証書"
+      },
+      {
+        "word": "probate requirements",
+        "translation": "検認要件"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legal Interest",
+    "definition": "An interest recognized and protected by law, the infringement of which provides grounds for demanding cessation of interference or seeking remedies like compensation or injunctions.",
+    "japaneseDefinition": "法律によって保護されるべき利益であり、その侵害が妨害排除請求や損害賠償、差止請求等の法的救済を求める根拠となるもの。",
+    "japaneseWordTranslation": "法律上の利益 (ほうりつじょうのりえき)",
+    "legalContext": "General Principle in Civil Code and Civil Procedure, required for standing (locus standi).",
+    "japaneseLegalContext": "民法および民事訴訟法における一般原則（訴訟要件としての当事者適格の判断基準）。",
+    "exampleSentence": "The residents successfully argued that the pollution from the factory infringed upon their *legal interest* in a clean environment, enabling them to file a tort action.",
+    "exampleTranslation": "住民は、工場からの汚染が清潔な環境に対する彼らの法律上の利益を侵害していると主張し、不法行為訴訟を提起することができた。",
+    "vocabularyList": [
+      {
+        "word": "infringement",
+        "translation": "侵害"
+      },
+      {
+        "word": "grounds for demanding",
+        "translation": "請求の根拠"
+      },
+      {
+        "word": "injunctions",
+        "translation": "差止命令"
+      },
+      {
+        "word": "standing (locus standi)",
+        "translation": "当事者適格"
+      },
+      {
+        "word": "tort action",
+        "translation": "不法行為訴訟"
+      },
+      {
+        "word": "compensation",
+        "translation": "損害賠償"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Thing (Object of Rights)",
+    "definition": "The physical object of a real right, defined by the Civil Code as a corporeal item capable of satisfying human needs and subject to human control.",
+    "japaneseDefinition": "物権の客体となる有体物。民法上、人の支配下に置かれ、効用を満たす有体物を指す（電気その他の管理可能な自然力を含む）。",
+    "japaneseWordTranslation": "物 (ぶつ)",
+    "legalContext": "Civil Code Art. 85: \"In this Code, 'Thing' means a corporeal item.\"",
+    "japaneseLegalContext": "民法第85条：「この法律において「物」とは、有体物をいう。」",
+    "exampleSentence": "The registration system for real property applies exclusively to immovable *things*, whereas the delivery principle governs the transfer of movable *things*.",
+    "exampleTranslation": "不動産登録制度は専ら不動産である物に対して適用されるが、引渡し原則は動産である物の譲渡を規律する。",
+    "vocabularyList": [
+      {
+        "word": "corporeal item",
+        "translation": "有体物"
+      },
+      {
+        "word": "real right",
+        "translation": "物権"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "movable property",
+        "translation": "動産"
+      },
+      {
+        "word": "registration system",
+        "translation": "登録制度"
+      },
+      {
+        "word": "delivery principle",
+        "translation": "引渡し原則"
+      },
+      {
+        "word": "transfer",
+        "translation": "譲渡"
       }
     ]
   }

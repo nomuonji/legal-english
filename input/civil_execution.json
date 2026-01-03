@@ -9368,5 +9368,119 @@
         "translation": "効力の及ぶ範囲"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Surplus Requirement Principle",
+    "definition": "A fundamental rule in the compulsory execution against real property, stipulating that the execution procedure cannot proceed unless the estimated sale price is sufficient to cover the execution costs and the claims secured by the highest-ranking preferential rights.",
+    "japaneseDefinition": "不動産に対する強制執行において、売却見込み額が執行費用及び先順位の担保権者の債権額の合計を超えなければ、当該執行手続を進めることができないという原則。",
+    "japaneseWordTranslation": "剰余主義 (じょうよしゅぎ)",
+    "legalContext": "Civil Execution Act Art. 63 (1): The execution court shall cancel the execution procedure if it finds that the proceeds of the execution sale will not leave a surplus after deducting the costs of execution and the amount of claims secured by the preferential rights (excluding the execution claim).",
+    "japaneseLegalContext": "民事執行法第63条第1項: 執行裁判所は、差押えの登記後において、不動産の買受人の代金から執行費用及び優先債権（執行債権を除く。）に充てるべき額を控除すると、剰余を生ずる見込みがないと認めるときは、差押えを取り消さなければならない。",
+    "exampleSentence": "The execution court applied the Surplus Requirement Principle, leading to the cancellation of the compulsory auction due to insufficient expected proceeds to cover the prior mortgage.",
+    "exampleTranslation": "執行裁判所は剰余主義を適用し、先行する抵当権を賄うための見込み売却額が不足したため、強制競売を取り消した。",
+    "vocabularyList": [
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "execution costs",
+        "translation": "執行費用"
+      },
+      {
+        "word": "preferential rights",
+        "translation": "優先債権"
+      },
+      {
+        "word": "execution sale",
+        "translation": "執行処分"
+      },
+      {
+        "word": "prior mortgage",
+        "translation": "先行抵当権"
+      },
+      {
+        "word": "cancellation",
+        "translation": "取消し"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Concurrence of Seizure",
+    "definition": "The situation arising when multiple execution obligees apply for the seizure of the same property, typically resulting in the consolidation of the individual execution proceedings into a single procedure governed by the court that accepted the first seizure application.",
+    "japaneseDefinition": "複数の執行債権者が同一の財産に対して差押えの申立てを行い、複数の執行手続が並存する状態。原則として、先になされた差押えを受け付けた裁判所に手続が集中される。",
+    "japaneseWordTranslation": "差押えの競合 (さしおさえのきょうごう)",
+    "legalContext": "Civil Execution Act Art. 49 (2): If multiple seizures are imposed on the same movable property, the execution officer who performed the initial seizure shall continue the procedure.",
+    "japaneseLegalContext": "民事執行法第49条第2項: 同一の動産に対し重ねて差押えがされたときは、先に差押えをした執行官が引き続きその手続を実施する。",
+    "exampleSentence": "Upon the Concurrence of Seizure of the obligor's corporate bank account, the court consolidated the actions to ensure fair distribution of the funds realized.",
+    "exampleTranslation": "債務者の法人銀行口座に対する差押えの競合が発生したため、裁判所は、実現された資金の公正な配当を確保するために、その手続を併合した。",
+    "vocabularyList": [
+      {
+        "word": "multiple execution obligees",
+        "translation": "複数の執行債権者"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え"
+      },
+      {
+        "word": "consolidation of actions",
+        "translation": "手続の併合"
+      },
+      {
+        "word": "movable property",
+        "translation": "動産"
+      },
+      {
+        "word": "bank account",
+        "translation": "銀行口座"
+      },
+      {
+        "word": "fair distribution",
+        "translation": "公正な配当"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Stay of Delivery for Residential Real Property",
+    "definition": "A temporary grace period, not exceeding six months, granted by the execution court to the judgment obligor (or their cohabitant) who loses their residential real property in an execution sale, allowing them continued possession before the property must be surrendered to the purchaser.",
+    "japaneseDefinition": "競売により居住用不動産を失った債務者（又は同居人）に対し、引渡しまでの間に生活を立て直すための準備期間として、執行裁判所が６ヶ月を超えない範囲で与える占有の猶予期間。",
+    "japaneseWordTranslation": "居住用不動産の引渡し猶予 (きょじゅうようふどうさんのひきわたしゆうよ)",
+    "legalContext": "Civil Execution Act Art. 83-2 (1): When the successful bidder has paid the price, the execution court may, upon motion by the obligor or cohabitant, order a stay of delivery for a period not exceeding six months, if deemed necessary for the livelihood of the obligor.",
+    "japaneseLegalContext": "民事執行法第83条の2第1項: 執行裁判所は、最高価買受申出人が代金を納付した時において、債務者等の申立てにより、その生活の状況を考慮して、居住の継続のために特に必要と認めるときは、六月を超えない範囲内で引渡しの猶予を命ずることができる。",
+    "exampleSentence": "The obligor successfully moved for a Stay of Delivery for Residential Real Property, granting her four months to find alternative accommodation after the execution sale.",
+    "exampleTranslation": "債務者は居住用不動産の引渡し猶予の申立てに成功し、競売後に代替の住居を見つけるための４ヶ月間の猶予を与えられた。",
+    "vocabularyList": [
+      {
+        "word": "judgment obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "successful bidder",
+        "translation": "最高価買受申出人"
+      },
+      {
+        "word": "cohabitant",
+        "translation": "同居人"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "alternative accommodation",
+        "translation": "代替住居"
+      },
+      {
+        "word": "surrendered",
+        "translation": "明け渡される"
+      }
+    ]
   }
 ]

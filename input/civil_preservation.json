@@ -8236,5 +8236,81 @@
         "translation": "制限 (せいげん)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandate for Execution",
+    "definition": "The procedural step where the Preservation Court delegates the authority and responsibility for physically carrying out the preservation measure (e.g., seizure, posting notices) to the designated Judicial Execution Officer or Court Clerk.",
+    "japaneseDefinition": "保全裁判所が、保全措置を物理的に実行する権限と責任を、指定された執行官または裁判所書記官に委任する手続。これにより、財産の差押えや通知の掲示などが実施される。",
+    "japaneseWordTranslation": "執行委任 (しっこういにん)",
+    "legalContext": "Civil Preservation Act Art. 52: 'Execution of a preservation order shall be carried out by a judicial execution officer based on the direction of the court.' (This translation emphasizes the delegation aspect inherent in the process.)",
+    "japaneseLegalContext": "民事保全法第52条：「保全命令の執行は、裁判所の指揮に基づいて、執行官又は裁判所書記官が行う。」",
+    "exampleSentence": "Following the issuance of the provisional disposition order, the Preservation Court issued a mandate for execution to the judicial execution officer responsible for that area.",
+    "exampleTranslation": "仮処分命令の発令後、保全裁判所はその地域の執行官に対し、執行委任を行った。",
+    "vocabularyList": [
+      {
+        "word": "delegates the authority",
+        "translation": "権限を委任する"
+      },
+      {
+        "word": "carrying out",
+        "translation": "実行する"
+      },
+      {
+        "word": "judicial execution officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "issuance of order",
+        "translation": "発令"
+      },
+      {
+        "word": "provisional disposition order",
+        "translation": "仮処分命令"
+      },
+      {
+        "word": "designated",
+        "translation": "指定された"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation of Claim Before Commencement of Suit",
+    "definition": "The characteristic timing of a preservation measure, which is typically sought and enforced immediately prior to or simultaneously with the filing of the main action (suit on the merits) to prevent the obligor from hiding or disposing of assets.",
+    "japaneseDefinition": "保全債務者が財産を隠匿・処分するのを防ぐため、本案の訴え（実体的な訴訟）提起の直前または同時に、保全措置を求め、実行すること。民事保全の一般的な時期を示す。",
+    "japaneseWordTranslation": "訴え提起前の保全 (うったいていきまえのほぜん)",
+    "legalContext": "Civil Preservation Act Art. 27(1): 'If a preservation order is issued before the commencement of the suit on the merits, the court shall specify a period for the obligee to commence the suit.'",
+    "japaneseLegalContext": "民事保全法第27条第1項：「保全命令は、本案の訴えの提起前においても、これを発することができる。この場合において、裁判所は、債権者に対し、本案の訴えを提起すべき期間を定めることができる。」",
+    "exampleSentence": "The company obtained the preservation of claim before commencement of suit to freeze the debtor's corporate assets, ensuring enforceability of the future judgment.",
+    "exampleTranslation": "その会社は、将来の判決の執行力を確保するため、債務者の会社資産を凍結する目的で、訴え提起前の保全を獲得した。",
+    "vocabularyList": [
+      {
+        "word": "suit on the merits",
+        "translation": "本案の訴え"
+      },
+      {
+        "word": "enforceability",
+        "translation": "執行力"
+      },
+      {
+        "word": "corporate assets",
+        "translation": "会社資産"
+      },
+      {
+        "word": "simultaneously with",
+        "translation": "同時に"
+      },
+      {
+        "word": "freezing assets",
+        "translation": "資産を凍結する"
+      },
+      {
+        "word": "future judgment",
+        "translation": "将来の判決"
+      }
+    ]
   }
 ]

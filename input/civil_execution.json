@@ -2,48 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Execution Title",
-    "definition": "The authentic legal document (such as a final and binding judgment, a notarized document granting an execution clause, or a settlement record) that proves the existence and scope of the claim for which compulsory enforcement is sought.",
-    "japaneseDefinition": "強制執行を申し立てる債権の存在と範囲を証明する公的な文書（確定判決、執行証書、和解調書など）。",
-    "japaneseWordTranslation": "執行名義 (しっこうめいぎ)",
-    "legalContext": "Code of Civil Execution (Minji Shikkō Hō) Art. 22: The execution title shall be limited to those specified in the items of this article.",
-    "japaneseLegalContext": "民事執行法第22条: 執行証書は、この条に掲げるものに限定される。",
-    "exampleSentence": "The obligee must obtain a certified copy of the judgment bearing an **execution title** clause before filing a petition for attachment.",
-    "exampleTranslation": "債権者は、差押えの申立てを行う前に、執行文が付与された判決の謄本を取得しなければならない。",
-    "vocabularyList": [
-      {
-        "word": "obligee",
-        "translation": "債権者"
-      },
-      {
-        "word": "certified copy",
-        "translation": "謄本"
-      },
-      {
-        "word": "judgment",
-        "translation": "判決"
-      },
-      {
-        "word": "clause",
-        "translation": "文言"
-      },
-      {
-        "word": "filing a petition",
-        "translation": "申立てを行う"
-      },
-      {
-        "word": "attachment",
-        "translation": "差押え"
-      },
-      {
-        "word": "existence",
-        "translation": "存在"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Demand for Inclusion in Distribution",
     "definition": "A formal procedure whereby a creditor who does not have an attachment order on the property but possesses an execution title or other statutory grounds requests the execution officer to include their claim in the proceeds distribution.",
     "japaneseDefinition": "差押えをしていないが執行名義などの法定の根拠を持つ債権者が、執行官に対し、売却代金の配当手続きに自己の債権を含めるよう要求する手続き。",
@@ -9480,6 +9438,48 @@
       {
         "word": "surrendered",
         "translation": "明け渡される"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sale Procedure",
+    "definition": "The judicial process, typically involving compulsory auction (競売) or sale by tender (入札), by which seized property is converted into monetary proceeds (換価) for distribution to the obligee.",
+    "japaneseDefinition": "差し押さえられた財産を強制競売または入札によって換価し、債権者への配当金を得るための一連の司法手続。",
+    "japaneseWordTranslation": "売却手続 (ばいきゃくてつづき)",
+    "legalContext": "Civil Execution Act Art. 60 (Compulsory Auction of Real Property): The execution court shall order the commencement of a compulsory auction... after investigating the conditions of sale.",
+    "japaneseLegalContext": "民事執行法第60条（不動産の強制競売）：執行裁判所は、売却の条件を定めること等により、強制競売の開始を命じるものとする。",
+    "exampleSentence": "The execution court designated the date for the **Sale Procedure** of the collateralized real property.",
+    "exampleTranslation": "執行裁判所は、担保された不動産の売却手続の日を指定した。",
+    "vocabularyList": [
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売 (きょうせいけいばい)"
+      },
+      {
+        "word": "sale by tender",
+        "translation": "入札による売却 (にゅうさつによるばいきゃく)"
+      },
+      {
+        "word": "conversion into money",
+        "translation": "換価 (かんか)"
+      },
+      {
+        "word": "seized property",
+        "translation": "差押財産 (さしおさえざいさん)"
+      },
+      {
+        "word": "collateralized",
+        "translation": "担保された (たんぽされた)"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所 (しっこうさいばんしょ)"
+      },
+      {
+        "word": "distribution",
+        "translation": "配当 (はいとう)"
       }
     ]
   }

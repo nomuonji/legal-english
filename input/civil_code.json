@@ -10018,5 +10018,115 @@
         "translation": "譲渡"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligation in Proportionate Shares",
+    "definition": "The default rule in Japanese Civil Law where, if an obligation is owed by multiple obligors and the subject matter is divisible, each obligor is liable only for their equal share of the total obligation.",
+    "japaneseDefinition": "債権の目的が可分である場合において、数人の債務者がいるときは、各債務者が平等な割合で債務を負う原則。",
+    "japaneseWordTranslation": "分割債務 (ぶんかつさいむ)",
+    "legalContext": "Civil Code Art. 427 (Principle of Divided Obligations)",
+    "japaneseLegalContext": "民法第427条（分割債権及び分割債務）",
+    "exampleSentence": "Since there was no special agreement to the contrary, the debtors were only subject to an obligation in proportionate shares for the repayment of the loan.",
+    "exampleTranslation": "特に反対の合意がなかったため、債務者たちはローンの返済について分割債務を負うにすぎなかった。",
+    "vocabularyList": [
+      {
+        "word": "default rule",
+        "translation": "原則規定 (げんそくきてい)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "divisible",
+        "translation": "可分である (かぶんである)"
+      },
+      {
+        "word": "liable",
+        "translation": "責任を負う (せきにんをおう)"
+      },
+      {
+        "word": "special agreement",
+        "translation": "特別の合意 (とくべつのごうい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Set-Off",
+    "definition": "The mechanism by which two parties who owe reciprocal obligations to each other extinguish those obligations up to the equivalent amount, typically through a unilateral declaration of intention.",
+    "japaneseDefinition": "当事者が互いに同種の債権・債務を有する場合に、一方的な意思表示により、その対当額について債権を消滅させること。",
+    "japaneseWordTranslation": "相殺 (そうさい)",
+    "legalContext": "Civil Code Art. 505 (Requirements for Set-Off)",
+    "japaneseLegalContext": "民法第505条（相殺の要件等）",
+    "exampleSentence": "The defendant successfully pleaded set-off, extinguishing the claim for damages up to the amount of the counter-claim he held against the plaintiff.",
+    "exampleTranslation": "被告は相殺を成功裏に申し立て、原告が持っていた反対債権の額まで損害賠償請求権を消滅させた。",
+    "vocabularyList": [
+      {
+        "word": "reciprocal obligations",
+        "translation": "対立する債務 (たいりつするさいむ)"
+      },
+      {
+        "word": "extinguishing",
+        "translation": "消滅させること (しょうめつさせること)"
+      },
+      {
+        "word": "unilateral declaration of intention",
+        "translation": "一方的な意思表示 (いっぽうてきないしひょうじ)"
+      },
+      {
+        "word": "counter-claim",
+        "translation": "反対債権 (はんたいさいけん)"
+      },
+      {
+        "word": "pleaded",
+        "translation": "申立てた (もうしたてた)"
+      },
+      {
+        "word": "equivalent amount",
+        "translation": "対当額 (たいとうがく)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Simultaneous Performance",
+    "definition": "A defense available to a party in a synallagmatic contract, allowing them to refuse performance of their obligation until the other party offers to perform the correlative obligation.",
+    "japaneseDefinition": "双務契約において、当事者の一方が、相手方がその債務の履行を提供するまでは、自己の債務の履行を拒絶できる権利。",
+    "japaneseWordTranslation": "同時履行 (どうじりこう)",
+    "legalContext": "Civil Code Art. 533 (Simultaneous Performance Defense)",
+    "japaneseLegalContext": "民法第533条（同時履行の抗弁）",
+    "exampleSentence": "The buyer exercised the defense of simultaneous performance, asserting that he would not pay the final installment until the construction defects were rectified by the builder.",
+    "exampleTranslation": "買主は同時履行の抗弁権を行使し、建築業者が建設上の瑕疵を是正するまで最終の分割払いを拒否すると主張した。",
+    "vocabularyList": [
+      {
+        "word": "synallagmatic contract",
+        "translation": "双務契約 (そうむけいやく)"
+      },
+      {
+        "word": "defense",
+        "translation": "抗弁 (こうべん)"
+      },
+      {
+        "word": "correlative obligation",
+        "translation": "対応する債務 (たいおうするさいむ)"
+      },
+      {
+        "word": "installment",
+        "translation": "分割払い (ぶんかつばらい)"
+      },
+      {
+        "word": "rectified",
+        "translation": "是正された (ぜせいされた)"
+      },
+      {
+        "word": "builder",
+        "translation": "建築業者 (けんちくぎょうしゃ)"
+      }
+    ]
   }
 ]

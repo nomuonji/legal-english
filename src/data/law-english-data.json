@@ -1,42 +1,42 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Offset",
-  "definition": "The extinguishment of obligations, where two parties owe mutual debts that are due and performable, and one party expresses an intention to settle the claims against the other up to the amount of the lesser obligation.",
-  "japaneseDefinition": "両当事者が互いに同種の債務を負っている場合において、一方の債務と他方の債務を対当額で消滅させること。一方的な意思表示によって行われる。",
-  "japaneseWordTranslation": "相殺 (そうさい)",
-  "legalContext": "Civil Code Art. 505 (Requirements for Offset): 'If two parties owe mutual obligations where both obligations have become due and performable, either party may effect offset with respect to his/her obligation by declaring his/her intention to the other party.'",
-  "japaneseLegalContext": "民法第505条（相殺の要件等）：『二人が互いに同種の目的を有する債務を負担する場合において、双方の債務が弁済期にあるときは、各債務者は、その対当額について相殺によってその債務を免れることができる。』",
-  "exampleSentence": "The defendant sought to offset the debt owed to the plaintiff against a counterclaim for unpaid services.",
-  "exampleTranslation": "被告は、原告に対して負っている債務を、未払い役務に関する反訴請求と相殺することを求めた。",
+  "word": "Execution Title",
+  "definition": "The authentic legal document (such as a final and binding judgment, a notarized document granting an execution clause, or a settlement record) that proves the existence and scope of the claim for which compulsory enforcement is sought.",
+  "japaneseDefinition": "強制執行を申し立てる債権の存在と範囲を証明する公的な文書（確定判決、執行証書、和解調書など）。",
+  "japaneseWordTranslation": "執行名義 (しっこうめいぎ)",
+  "legalContext": "Code of Civil Execution (Minji Shikkō Hō) Art. 22: The execution title shall be limited to those specified in the items of this article.",
+  "japaneseLegalContext": "民事執行法第22条: 執行証書は、この条に掲げるものに限定される。",
+  "exampleSentence": "The obligee must obtain a certified copy of the judgment bearing an **execution title** clause before filing a petition for attachment.",
+  "exampleTranslation": "債権者は、差押えの申立てを行う前に、執行文が付与された判決の謄本を取得しなければならない。",
   "vocabularyList": [
     {
-      "word": "mutual obligations",
-      "translation": "互いの債務"
+      "word": "obligee",
+      "translation": "債権者"
     },
     {
-      "word": "extinguishment",
-      "translation": "消滅"
+      "word": "certified copy",
+      "translation": "謄本"
     },
     {
-      "word": "performable",
-      "translation": "履行可能な"
+      "word": "judgment",
+      "translation": "判決"
     },
     {
-      "word": "declaration of intention",
-      "translation": "意思表示"
+      "word": "clause",
+      "translation": "文言"
     },
     {
-      "word": "due (adj.)",
-      "translation": "弁済期が到来した"
+      "word": "filing a petition",
+      "translation": "申立てを行う"
     },
     {
-      "word": "counterclaim",
-      "translation": "反訴請求"
+      "word": "attachment",
+      "translation": "差押え"
     },
     {
-      "word": "settle the claims",
-      "translation": "債権を清算する"
+      "word": "existence",
+      "translation": "存在"
     }
   ]
 }

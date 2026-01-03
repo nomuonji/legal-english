@@ -6778,5 +6778,107 @@
         "translation": "特定の者"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Loss of Reclaim Right",
+    "definition": "The legal termination of the consignor's entitlement to recover the deposited property, typically occurring when the obligee expresses acceptance of the deposit or when the legal purpose of the deposit is fulfilled, such as the discharge of debt.",
+    "japaneseDefinition": "供託者が供託した物を取り戻すことができる権利が、債権者による供託の受諾等によって失われること。",
+    "japaneseWordTranslation": "取戻権の喪失 (Torimodoshi-ken no Sōshitsu)",
+    "legalContext": "Deposit Act regulates the conditions under which the consignor may retrieve consigned assets and the circumstances leading to the cessation of this right.",
+    "japaneseLegalContext": "供託法に基づき、供託者が供託物を取り戻せる要件、及びその権利が消滅する事由が定められている。",
+    "exampleSentence": "The consignor suffered the loss of reclaim right when the designated third party formally accepted the deposit by submitting the requisite documents to the deposit repository.",
+    "exampleTranslation": "指定された第三者が、必要な書類を供託所に提出して供託を正式に受諾した時点で、供託者は取戻権の喪失を被った。",
+    "vocabularyList": [
+      {
+        "word": "consignor",
+        "translation": "供託者 (Kyōtakusha)"
+      },
+      {
+        "word": "deposited property",
+        "translation": "供託物 (Kyōtakubutsu)"
+      },
+      {
+        "word": "reclaim",
+        "translation": "取戻し (Torimodōshi)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (Saikensha)"
+      },
+      {
+        "word": "requisite documents",
+        "translation": "必要書類 (Hitsuyō shorui)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Request for Deposit Delivery",
+    "definition": "A formal request submitted by the entitled person (the rightful recipient) to the governmental deposit office to receive the money or items that have been legally consigned.",
+    "japaneseDefinition": "供託の受領権を有する者が、供託所に対し、供託された金銭その他の供託物を現実に受け取ること（払渡し）を請求する行為。",
+    "japaneseWordTranslation": "供託物の払渡し請求 (Kyōtakubutsu no Haraiwatashi Seikyū)",
+    "legalContext": "Deposit Act Art. 32 stipulates that the person requesting deposit delivery must submit documentary evidence demonstrating their entitlement to receive the consigned property.",
+    "japaneseLegalContext": "供託法第32条は、供託物の払渡しを請求する者は、その受領権を証する書面を提出しなければならないと定めている。",
+    "exampleSentence": "The successful bidder submitted a Request for Deposit Delivery after the execution court issued the final order confirming the completion of the sale procedures.",
+    "exampleTranslation": "落札者は、執行裁判所が売却手続の完了を確定する最終決定を出した後、供託物の払渡し請求を提出した。",
+    "vocabularyList": [
+      {
+        "word": "entitled person",
+        "translation": "受領権者 (Juryō-kensha)"
+      },
+      {
+        "word": "governmental deposit office",
+        "translation": "国の供託機関 (Kuni no kyōtaku kikan)"
+      },
+      {
+        "word": "consigned property",
+        "translation": "供託物 (Kyōtakubutsu)"
+      },
+      {
+        "word": "documentary evidence",
+        "translation": "証拠書類 (Shōko shorui)"
+      },
+      {
+        "word": "successful bidder",
+        "translation": "落札者 (Rakusatsusha)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Authority's Ruling",
+    "definition": "A formal, administrative decision issued by the Deposit Official (供託官) regarding a deposit application, such as accepting the filing, rejecting the filing, or issuing a certificate.",
+    "japaneseDefinition": "供託官が供託の申請に対して行う、受理、却下、または証明書の交付などの公的な行政上の判断・行為。",
+    "japaneseWordTranslation": "供託官による行政上の処分 (Kyōtaku-kan ni yoru Gyōsei-jō no Shobun)",
+    "legalContext": "Deposit Act Art. 34: A person dissatisfied with the Deposit Authority's Ruling may file a request for administrative review within one week of the ruling.",
+    "japaneseLegalContext": "供託法第34条：供託官の処分に不服がある者は、処分があった日から一週間以内に、行政上の審査請求をすることができる。",
+    "exampleSentence": "The applicant was required to amend the Deposit Application Form following the Deposit Authority's Ruling, which cited procedural non-compliance.",
+    "exampleTranslation": "供託官による行政上の処分が手続きの不遵守を指摘したため、申請者は供託申請書を補正する必要があった。",
+    "vocabularyList": [
+      {
+        "word": "administrative decision",
+        "translation": "行政上の決定 (Gyōsei-jō no kettei)"
+      },
+      {
+        "word": "Deposit Official",
+        "translation": "供託官 (Kyōtaku-kan)"
+      },
+      {
+        "word": "rejecting the filing",
+        "translation": "申請の却下 (Shinsei no Kyakka)"
+      },
+      {
+        "word": "administrative review",
+        "translation": "審査請求 (Shinsa seikyū)"
+      },
+      {
+        "word": "procedural non-compliance",
+        "translation": "手続不遵守 (Tetsuzuki fujunshu)"
+      }
+    ]
   }
 ]

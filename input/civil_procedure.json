@@ -9448,5 +9448,119 @@
         "translation": "証拠の集中"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Oral Proceedings",
+    "definition": "The procedural requirement that, in principle, a final judgment on the merits must be rendered only after the parties have presented their arguments and evidence through oral proceedings in court (Kōtō Benron), ensuring the right to be heard.",
+    "japaneseDefinition": "判決の基礎となる訴訟資料を口頭主義に基づき、当事者が裁判所に対して提出し、主張立証を行う手続き。判決言渡しには原則として口頭弁論を経る必要がある。",
+    "japaneseWordTranslation": "必要な口頭弁論 (Hitsuyō na Kōtō Benron)",
+    "legalContext": "Code of Civil Procedure Art. 249(1): A judgment shall be rendered after oral proceedings have been concluded, except as otherwise provided.",
+    "japaneseLegalContext": "民事訴訟法第249条第1項: 判決は、口頭弁論の終結後にする。",
+    "exampleSentence": "Since the case involves complex factual disputes and requires a judgment on the merits, the court confirmed the necessity of Mandatory Oral Proceedings.",
+    "exampleTranslation": "本件は複雑な事実上の争点を含み、本案判決を要するため、裁判所は必要な口頭弁論の原則を確認した。",
+    "vocabularyList": [
+      {
+        "word": "judgment on the merits",
+        "translation": "本案判決 (Hon'an Hanketsu)"
+      },
+      {
+        "word": "oral proceedings",
+        "translation": "口頭弁論 (Kōtō Benron)"
+      },
+      {
+        "word": "right to be heard",
+        "translation": "聴聞の権利 (Chōmon no Kenri)"
+      },
+      {
+        "word": "factual disputes",
+        "translation": "事実上の争点 (Jijitsujō no Sōten)"
+      },
+      {
+        "word": "rendered",
+        "translation": "言い渡される (Iiwatasareru)"
+      },
+      {
+        "word": "concluded",
+        "translation": "終結する (Shūketsu suru)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Effect of the Grounds for Judgment",
+    "definition": "The principle that the findings of fact or law contained in the 'reasons' (grounds) section of a judgment, which do not form part of the operative dispositive clause, generally do not possess the binding force of res judicata (preclusive effect), except in limited statutory circumstances.",
+    "japaneseDefinition": "判決の結論（主文）を導き出すために記載された判断理由部分が持つ効力。原則として既判力は生じないが、特定の訴訟や中間確認の訴えなどでは特例がある。",
+    "japaneseWordTranslation": "判決理由の効力 (Hanketsu Riyū no Kōryoku)",
+    "legalContext": "Principle derived from Code of Civil Procedure Art. 114: The binding effect of a final and binding judgment (res judicata) generally only extends to the matters determined in the dispositive clause (Shubun).",
+    "japaneseLegalContext": "民事訴訟法第114条より導かれる原則: 確定判決の既判力は、原則として判決の主文に掲げられた事項についてのみ及ぶ。",
+    "exampleSentence": "The defendant argued that the plaintiff was precluded from re-litigating the debt's existence, but the court ruled that the finding concerning the debt was merely an Effect of the Grounds for Judgment and lacked res judicata.",
+    "exampleTranslation": "被告は、原告が当該債務の存在を再訴することは既判力によって遮断されると主張したが、裁判所は、その債務に関する認定は単に判決理由の効力にすぎず、既判力はないと判断した。",
+    "vocabularyList": [
+      {
+        "word": "operative clause",
+        "translation": "主文 (Shubun)"
+      },
+      {
+        "word": "res judicata",
+        "translation": "既判力 (Kihankō)"
+      },
+      {
+        "word": "re-litigating",
+        "translation": "再訴 (Saiso)"
+      },
+      {
+        "word": "dispositive clause",
+        "translation": "主文 (Shubun)"
+      },
+      {
+        "word": "precluded",
+        "translation": "遮断される (Shadan sareru)"
+      },
+      {
+        "word": "final and binding judgment",
+        "translation": "確定判決 (Kakutei Hanketsu)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Joinder of Related Claims (for Venue)",
+    "definition": "A rule allowing a claim that falls outside a court's original territorial venue to be properly heard by that court, provided it is related to another claim properly filed there, thereby consolidating the trial of interconnected disputes in one forum.",
+    "japaneseDefinition": "当事者間に訴えられている複数の請求が互いに関連性を有する場合、本来の管轄外の請求であっても、関連する請求が係属する裁判所に併合して訴訟を提起できる管轄の特例。",
+    "japaneseWordTranslation": "関連請求の併合 (Kanren Seikyū no Heigō)",
+    "legalContext": "Code of Civil Procedure Art. 7: When several claims are related to each other, an action may be filed with a court which has jurisdiction over one of the claims.",
+    "japaneseLegalContext": "民事訴訟法第7条: 数個の請求が相互に関連する場合において、その一の請求について管轄を有する裁判所には、その他の請求についても訴えを提起することができる。",
+    "exampleSentence": "The plaintiff utilized the Joinder of Related Claims (for Venue) rule to sue the defendant in Tokyo District Court for both breach of contract (properly venued) and subsequent tortious interference (otherwise venued in Osaka).",
+    "exampleTranslation": "原告は、契約不履行（適正な裁判籍）とそれに続く不法行為による妨害（本来は大阪に裁判籍がある）の両方について、関連請求の併合の規定を利用して東京地方裁判所に提訴した。",
+    "vocabularyList": [
+      {
+        "word": "territorial venue",
+        "translation": "土地管轄 (Tochi Kankatsu)"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄 (Kankatsu)"
+      },
+      {
+        "word": "consolidating",
+        "translation": "併合する (Heigō suru)"
+      },
+      {
+        "word": "interconnected disputes",
+        "translation": "関連する紛争 (Kanren suru Funso)"
+      },
+      {
+        "word": "breach of contract",
+        "translation": "契約不履行 (Keiyaku Furikō)"
+      },
+      {
+        "word": "tortious interference",
+        "translation": "不法行為による妨害 (Fuhō Kōi ni yoru Bōgai)"
+      }
+    ]
   }
 ]

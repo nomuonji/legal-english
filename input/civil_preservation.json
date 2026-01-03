@@ -8130,5 +8130,111 @@
         "translation": "認めた"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservable Right",
+    "definition": "The substantive right or claim that the applicant seeks to protect and ensure future execution of; it is the core claim secured by the preservation measure (e.g., a monetary claim for damages secured by provisional attachment).",
+    "japaneseDefinition": "民事保全手続において、保全命令によってその将来の執行が確実になることが求められる、申立人の実体上の権利または請求権。",
+    "japaneseWordTranslation": "被保全権利 (ひほぜんけんり)",
+    "legalContext": "Civil Preservation Act Art. 13: The preservation order must specify the claim to be preserved (the preservable right) and the necessity of preservation.",
+    "japaneseLegalContext": "民事保全法 第13条: 「保全命令においては、被保全権利及び保全の必要性を明らかにしなければならない。」",
+    "exampleSentence": "The court dismissed the petition for provisional disposition, finding that the applicant had failed to provide prima facie evidence for the existence of the preservable right.",
+    "exampleTranslation": "裁判所は、申立人が被保全権利の存在について疎明資料の提出を欠いたとして、仮処分命令の申立てを却下した。",
+    "vocabularyList": [
+      {
+        "word": "Substantive right",
+        "translation": "実体上の権利 (じったいじょうのけんり)"
+      },
+      {
+        "word": "Applicant",
+        "translation": "申立人 (もうしたてにん)"
+      },
+      {
+        "word": "Provisional disposition",
+        "translation": "仮処分 (かりしょぶん)"
+      },
+      {
+        "word": "Prima facie evidence",
+        "translation": "疎明資料 (そめいしりょう)"
+      },
+      {
+        "word": "Dismiss",
+        "translation": "却下する (きゃっかする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order Commencing Preservation Enforcement",
+    "definition": "The judicial decision that officially initiates the physical or legal measures required to implement the preservation order, subsequent to the preservation order being issued.",
+    "japaneseDefinition": "裁判所が、発せられた保全命令に定められた措置（差押え、登記、または禁止行為の強制など）を具体的に実行するために、正式に手続きを開始する旨の決定。",
+    "japaneseWordTranslation": "保全執行の開始決定 (ほぜんしっこうのかいしけってい)",
+    "legalContext": "Civil Preservation Act Art. 52: Enforcement of a preservation order shall commence upon issuance of an order commencing preservation enforcement.",
+    "japaneseLegalContext": "民事保全法 第52条: 「保全命令の執行は、保全執行の開始を命ずる決定により開始する。」",
+    "exampleSentence": "The execution officer must wait for the Order Commencing Preservation Enforcement before proceeding with the seizure of the assets designated in the provisional attachment order.",
+    "exampleTranslation": "執行官は、仮差押命令で指定された財産の差押えを進める前に、保全執行の開始決定を待たなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Execution officer",
+        "translation": "執行官 (しっこうかん)"
+      },
+      {
+        "word": "Seizure",
+        "translation": "差押え (さしおさえ)"
+      },
+      {
+        "word": "Provisional attachment order",
+        "translation": "仮差押命令 (かりさしおさえめいれい)"
+      },
+      {
+        "word": "Judicial decision",
+        "translation": "裁判所による決定 (さいばんしょによるけってい)"
+      },
+      {
+        "word": "Implement",
+        "translation": "実行する (じっこうする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cancellation of Preservation Enforcement by Debtor's Deposit",
+    "definition": "A procedural remedy allowing the preservation debtor to terminate the existing preservation enforcement measures (e.g., seizure or injunction) by depositing a specific amount of money as security for the creditor's claim.",
+    "japaneseDefinition": "保全債務者が、債権者の請求を担保するために所定の金額を裁判所に供託し、その事実を根拠として既に開始されている保全執行措置の取消しを求める手続き上の救済手段。",
+    "japaneseWordTranslation": "債務者の供託による保全執行の取消 (さいむしゃのきょうたくによるほぜんしっこうのとりけし)",
+    "legalContext": "Civil Preservation Act Art. 49: Where the preservation debtor deposits the amount designated in the preservation order, the court may cancel the preservation enforcement upon motion.",
+    "japaneseLegalContext": "民事保全法 第49条: 「保全命令の執行は、債務者が保全命令に定められた金額を供託したときは、裁判所は、申立てによりこれを取り消さなければならない。」",
+    "exampleSentence": "The Cancellation of Preservation Enforcement by Debtor's Deposit was granted, resulting in the immediate release of the factory premises from the provisional disposition restriction.",
+    "exampleTranslation": "債務者の供託による保全執行の取消しが認められ、その結果、工場の敷地に対する仮処分の制限が直ちに解除された。",
+    "vocabularyList": [
+      {
+        "word": "Preservation debtor",
+        "translation": "保全債務者 (ほぜんさいむしゃ)"
+      },
+      {
+        "word": "Deposit",
+        "translation": "供託 (きょうたく)"
+      },
+      {
+        "word": "Security",
+        "translation": "担保 (たんぽ)"
+      },
+      {
+        "word": "Procedural remedy",
+        "translation": "手続き上の救済手段 (てつづきじょうのきゅうさいしゅだん)"
+      },
+      {
+        "word": "Motion",
+        "translation": "申立て (もうしたて)"
+      },
+      {
+        "word": "Restriction",
+        "translation": "制限 (せいげん)"
+      }
+    ]
   }
 ]

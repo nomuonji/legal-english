@@ -2,40 +2,6 @@
   {
     "category": "Deposit Act (供託法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Obligee's Refusal to Accept Performance",
-    "definition": "The situation where the creditor refuses, without justifiable cause, to accept the performance tendered by the obligor. This refusal triggers the obligor's statutory right to discharge the obligation through consignment.",
-    "japaneseDefinition": "債権者が正当な理由なく、債務者が提供した履行の受領を拒否する状況。この拒否は、債務者が供託によって債務を消滅させる法定の権利を行使する原因となる。",
-    "japaneseWordTranslation": "受領拒否 (じゅりょうきょひ)",
-    "legalContext": "Civil Code Art. 494: ... If the obligee refuses to accept the performance, or is unable to accept it, the obligor may be released from the obligation by consigning the subject matter of the performance.",
-    "japaneseLegalContext": "民法第494条: 債権者が弁済の受領を拒み、又はこれを受領することができないときは、弁済をすべき者は、債権者のためにその弁済の目的物を供託することができる。",
-    "exampleSentence": "The obligor initiated consignment proceedings immediately following the obligee's refusal to accept performance of the final outstanding payment.",
-    "exampleTranslation": "債務者は、最終的な未払い金の弁済に対する債権者の受領拒否を受け、直ちに供託手続を開始した。",
-    "vocabularyList": [
-      {
-        "word": "tenders performance",
-        "translation": "履行を提供する"
-      },
-      {
-        "word": "justifiable cause",
-        "translation": "正当な理由"
-      },
-      {
-        "word": "discharge the obligation",
-        "translation": "債務を消滅させる"
-      },
-      {
-        "word": "consigning",
-        "translation": "供託する (こと)"
-      },
-      {
-        "word": "outstanding payment",
-        "translation": "未払い金"
-      }
-    ]
-  },
-  {
-    "category": "Deposit Act (供託法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Consigned Property",
     "definition": "The money, negotiable instruments, or other movable goods that the obligor entrusts to a governmental facility in order to release themselves from their obligation, typically due to issues such as the obligee’s refusal or unknown whereabouts.",
     "japaneseDefinition": "債務者が、債権者の受領拒否や所在不明などの理由により、自己の債務を免れるために国の機関に委託する金銭、有価証券その他の動産。",
@@ -6658,6 +6624,120 @@
       {
         "word": "public purse",
         "translation": "公金 (こうきん)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certificate of Deposit Filing",
+    "definition": "A document issued by the Competent Deposit Office to the depositor upon the successful completion of the deposit procedure, confirming that the consigned assets (money, securities, or goods) have been officially accepted.",
+    "japaneseDefinition": "供託申請の受理が完了した際に、供託所が供託者に対して交付する、供託物が正式に受領されたことを証明する書面。",
+    "japaneseWordTranslation": "供託物受領証書 (きょうたくぶつじゅりょうしょうしょ)",
+    "legalContext": "Deposit Act Art. 9: Upon receipt of a deposit pursuant to an application, the Deposit Office shall deliver a certificate of receipt to the applicant.",
+    "japaneseLegalContext": "供託法第9条: 供託所は、供託の申請を受理したときは、供託者に対し、供託物受領証書を交付しなければならない。",
+    "exampleSentence": "The obligor provided the Certificate of Deposit Filing to the court as proof that performance had been completed and the obligation was consequently discharged.",
+    "exampleTranslation": "債務者は、履行が完了し、結果として債務が免責されたことの証拠として、供託物受領証書を裁判所に提出した。",
+    "vocabularyList": [
+      {
+        "word": "depositor",
+        "translation": "供託者 (きょうたくしゃ)"
+      },
+      {
+        "word": "Competent Deposit Office",
+        "translation": "管轄供託所 (かんかつきょうたくじょ)"
+      },
+      {
+        "word": "consigned assets",
+        "translation": "供託物 (きょうたくぶつ)"
+      },
+      {
+        "word": "deposit procedure",
+        "translation": "供託手続 (きょうたくてつづき)"
+      },
+      {
+        "word": "discharged (obligation)",
+        "translation": "免責された (めんせきされた)"
+      },
+      {
+        "word": "performance",
+        "translation": "履行 (りこう)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Competent Deposit Office",
+    "definition": "The specific governmental Deposit Office that possesses the exclusive territorial jurisdiction to accept a particular deposit, typically determined by the place of performance of the underlying obligation or the situs of the deposited property.",
+    "japaneseDefinition": "特定の供託を受け付けるための排他的な管轄権を有する供託所。原則として、その供託の原因となる債務の履行地や、供託物の所在地によって決定される。",
+    "japaneseWordTranslation": "管轄供託所 (かんかつきょうたくじょ)",
+    "legalContext": "Deposit Act Art. 2 establishes the fundamental rules regarding the determination of the appropriate venue for consignment.",
+    "japaneseLegalContext": "供託法第2条: 供託は、法令に別段の定めがある場合を除き、債務の履行地の供託所にしなければならない。",
+    "exampleSentence": "The attorney advised the client that the deposit application had to be filed at the Competent Deposit Office, which was located in the jurisdiction of the contract's performance.",
+    "exampleTranslation": "弁護士は依頼人に対し、供託申請は契約の履行地を管轄する管轄供託所に提出しなければならないと助言した。",
+    "vocabularyList": [
+      {
+        "word": "territorial jurisdiction",
+        "translation": "土地管轄 (とちかんかつ)"
+      },
+      {
+        "word": "situs",
+        "translation": "所在地 (しょざいち)"
+      },
+      {
+        "word": "deposit application",
+        "translation": "供託申請 (きょうたくしんせい)"
+      },
+      {
+        "word": "underlying obligation",
+        "translation": "原因債務 (げんいんさいむ)"
+      },
+      {
+        "word": "exclusive",
+        "translation": "排他的な (はいたてきな)"
+      },
+      {
+        "word": "venue",
+        "translation": "管轄 (かんかつ)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Claim Period",
+    "definition": "The legally stipulated timeframe during which the person entitled to receive the deposited property (the entitlement holder) must exercise their right to withdraw the assets; failure to do so results in the lapse of the claim right.",
+    "japaneseDefinition": "供託物の受領権原を有する者が供託金または供託物を取り戻す権利を行使しなければならない法定の期間。この期間内に権利を行使しない場合、権利は消滅する。",
+    "japaneseWordTranslation": "供託物請求権の法定期間 (きょうたくぶつせいきゅうけんのほうていきかん)",
+    "legalContext": "Deposit Act Art. 49 (and relevant Civil Code articles) dictates that the right to retrieve deposited assets expires after a specified period, currently set at 10 years, unless specifically extended or suspended.",
+    "japaneseLegalContext": "供託法第49条: 供託物取戻請求権は、10年間行使しないときは、時効によって消滅する。",
+    "exampleSentence": "If the entitlement holder fails to exercise the right within the Statutory Claim Period, the deposit will be classified as unclaimed and subsequently disposed of according to state regulations.",
+    "exampleTranslation": "もし権利者が法定期間内に権利を行使しなければ、供託物は未請求として分類され、その後、国の規定に従って処分される。",
+    "vocabularyList": [
+      {
+        "word": "entitlement holder",
+        "translation": "供託物受領権原者 (きょうたくぶつじゅりょうけんげんしゃ)"
+      },
+      {
+        "word": "right to withdraw",
+        "translation": "取戻請求権 (とりもどしせいきゅうけん)"
+      },
+      {
+        "word": "lapses (of right)",
+        "translation": "時効消滅する (じこうしょうめつする)"
+      },
+      {
+        "word": "deposited property",
+        "translation": "供託財産 (きょうたくさんざい)"
+      },
+      {
+        "word": "unclaimed",
+        "translation": "未請求の (みせいきゅうの)"
+      },
+      {
+        "word": "state regulations",
+        "translation": "国の規定 (くにのきてい)"
       }
     ]
   }

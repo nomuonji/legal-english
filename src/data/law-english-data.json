@@ -1,42 +1,34 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Deposit Act (供託法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Justifiable Act",
-  "definition": "An act performed in accordance with laws and ordinances or in the course of legitimate business. While the act may meet the formal requirements (構成要件) of a crime, its inherent legality excludes it from illegality (違法性阻却).",
-  "japaneseDefinition": "法令に基づく行為又は正当な業務による行為で、構成要件に該当するにもかかわらず、違法性が阻却され犯罪が成立しない行為。",
-  "japaneseWordTranslation": "正当行為 (せいとうこうい)",
-  "legalContext": "Criminal Code Art. 35: An act performed in accordance with laws and ordinances or in the course of legitimate business is not punishable.",
-  "japaneseLegalContext": "刑法第35条：法令又は正当な業務による行為は、罰しない。",
-  "exampleSentence": "The act of a police officer using force to restrain a violent suspect is typically considered a justifiable act under Article 35 of the Criminal Code, thereby excluding criminal liability.",
-  "exampleTranslation": "警察官が暴れる容疑者を取り押さえるために力を行使する行為は、通常、刑法第35条に基づく正当行為と見なされ、それによって刑事責任が阻却される。",
+  "word": "Obligee's Refusal to Accept Performance",
+  "definition": "The situation where the creditor refuses, without justifiable cause, to accept the performance tendered by the obligor. This refusal triggers the obligor's statutory right to discharge the obligation through consignment.",
+  "japaneseDefinition": "債権者が正当な理由なく、債務者が提供した履行の受領を拒否する状況。この拒否は、債務者が供託によって債務を消滅させる法定の権利を行使する原因となる。",
+  "japaneseWordTranslation": "受領拒否 (じゅりょうきょひ)",
+  "legalContext": "Civil Code Art. 494: ... If the obligee refuses to accept the performance, or is unable to accept it, the obligor may be released from the obligation by consigning the subject matter of the performance.",
+  "japaneseLegalContext": "民法第494条: 債権者が弁済の受領を拒み、又はこれを受領することができないときは、弁済をすべき者は、債権者のためにその弁済の目的物を供託することができる。",
+  "exampleSentence": "The obligor initiated consignment proceedings immediately following the obligee's refusal to accept performance of the final outstanding payment.",
+  "exampleTranslation": "債務者は、最終的な未払い金の弁済に対する債権者の受領拒否を受け、直ちに供託手続を開始した。",
   "vocabularyList": [
     {
-      "word": "in the course of business",
-      "translation": "業務遂行中"
+      "word": "tenders performance",
+      "translation": "履行を提供する"
     },
     {
-      "word": "in accordance with laws",
-      "translation": "法令に基づき"
+      "word": "justifiable cause",
+      "translation": "正当な理由"
     },
     {
-      "word": "restrain",
-      "translation": "取り押さえる"
+      "word": "discharge the obligation",
+      "translation": "債務を消滅させる"
     },
     {
-      "word": "violent suspect",
-      "translation": "暴れる容疑者"
+      "word": "consigning",
+      "translation": "供託する (こと)"
     },
     {
-      "word": "excluding liability",
-      "translation": "責任を阻却する"
-    },
-    {
-      "word": "illegality",
-      "translation": "違法性"
-    },
-    {
-      "word": "formal requirements",
-      "translation": "構成要件"
+      "word": "outstanding payment",
+      "translation": "未払い金"
     }
   ]
 }

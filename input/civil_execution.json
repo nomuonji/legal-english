@@ -9254,5 +9254,119 @@
         "translation": "執行命令"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Executory Force",
+    "definition": "The legal power or validity (vis) granted to an execution title (such as a final judgment) that authorizes the competent execution body (the court or execution officer) to commence compulsory execution proceedings.",
+    "japaneseDefinition": "執行機関（裁判所または執行官）に対し、執行権限を与え、強制執行手続きを開始することを可能にする、執行名義（確定判決など）が持つ実体的な効力。",
+    "japaneseWordTranslation": "執行力 (しっこうりょく)",
+    "legalContext": "Civil Execution Act, General Principles (e.g., concerning the nature of the execution title as a legal basis for compulsion).",
+    "japaneseLegalContext": "民事執行法, 総則（強制執行の根拠としての執行名義の性質に関する規定）",
+    "exampleSentence": "The obligee confirmed that the final judgment possessed executory force before applying to the court for the commencement of the enforcement process.",
+    "exampleTranslation": "債権者は、強制執行手続の開始を裁判所に申し立てる前に、確定判決に執行力があることを確認した。",
+    "vocabularyList": [
+      {
+        "word": "Substantive right",
+        "translation": "実体権"
+      },
+      {
+        "word": "Competent execution body",
+        "translation": "執行機関"
+      },
+      {
+        "word": "Final judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "Enforcement process",
+        "translation": "執行手続"
+      },
+      {
+        "word": "Legal basis",
+        "translation": "法的根拠"
+      },
+      {
+        "word": "Formal document",
+        "translation": "形式的文書"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Suit for Grant of Execution Clause",
+    "definition": "A type of action brought by the obligee to obtain the execution clause (執行文) when the enforcement title stipulates a condition requiring satisfaction by the obligee before execution can proceed, and the fulfillment of that condition cannot be proven solely by documentation submitted to the clerk.",
+    "japaneseDefinition": "執行名義に、債権者が満たすべき条件が定められており、その条件の成就を執行機関に提出する書面のみでは証明できない場合に、執行文を付与してもらうために債権者が提起する訴訟。",
+    "japaneseWordTranslation": "執行文付与の訴え (しっこうぶんふよのうったえ)",
+    "legalContext": "Civil Execution Act Art. 28: Where execution is subject to a condition requiring satisfaction by the obligee, an execution clause shall be granted upon production of documentation certifying the satisfaction of the condition or upon judgment by the Suit for Grant of Execution Clause.",
+    "japaneseLegalContext": "民事執行法第28条: 債権者の証明すべき事実をもって条件とする執行は、その事実を証する文書を提出したとき、または執行文付与の訴えによる判決があったときに付与する。",
+    "exampleSentence": "Since the mortgage execution title contained a condition requiring satisfaction by the claim holder, they were compelled to file a Suit for Grant of Execution Clause.",
+    "exampleTranslation": "担保権の執行名義に債権者が満たすべき条件が含まれていたため、債権者は執行文付与の訴えを提起せざるを得なかった。",
+    "vocabularyList": [
+      {
+        "word": "Condition requiring satisfaction",
+        "translation": "成就すべき条件"
+      },
+      {
+        "word": "Execution clause",
+        "translation": "執行文"
+      },
+      {
+        "word": "Enforcement proceeding",
+        "translation": "強制執行手続"
+      },
+      {
+        "word": "Evidence submission",
+        "translation": "証拠提出"
+      },
+      {
+        "word": "Claim holder",
+        "translation": "債権者"
+      },
+      {
+        "word": "Civil execution process",
+        "translation": "民事執行の過程"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Extension of Levy Effect",
+    "definition": "The principle that when a proprietary right subject to a levy (such as a real property ownership right) undergoes a conversion or transformation (e.g., resulting in compensation or substituted property), the effect of the levy extends to the subsequently acquired or converted property.",
+    "japaneseDefinition": "差押えの対象となった所有権等の財産権が、その後に変形または転化して代償財産等となった場合、差押えの効力がその新たに取得されたまたは転化した財産にも及ぶ原則。",
+    "japaneseWordTranslation": "差押えの効力の拡張 (さしおさえのこうりょくのかくちょう)",
+    "legalContext": "Civil Execution Act Art. 131: The levy shall also be effective against the proceeds that the execution target has obtained subsequent to the commencement of the levy, by way of modification, conversion, or substitution.",
+    "japaneseLegalContext": "民事執行法第131条: 差押えは、その効力が生じた後に執行対象財産が変更、転化又は代償として得た収益にも及ぶ。",
+    "exampleSentence": "Due to the fire insurance payment acting as substituted property, the court applied the Extension of Levy Effect to ensure the claim was secured.",
+    "exampleTranslation": "火災保険金が代償財産として機能したため、裁判所は債権が保全されるよう差押えの効力の拡張を適用した。",
+    "vocabularyList": [
+      {
+        "word": "Levy",
+        "translation": "差押え"
+      },
+      {
+        "word": "Proprietary right",
+        "translation": "財産権"
+      },
+      {
+        "word": "Property conversion",
+        "translation": "財産の転化"
+      },
+      {
+        "word": "Execution target",
+        "translation": "執行対象"
+      },
+      {
+        "word": "Substituted property",
+        "translation": "代償財産"
+      },
+      {
+        "word": "Extent of effect",
+        "translation": "効力の及ぶ範囲"
+      }
+    ]
   }
 ]

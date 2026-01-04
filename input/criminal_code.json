@@ -8816,5 +8816,119 @@
         "translation": "裁判官の発行"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibition of Analogous Construction",
+    "definition": "The criminal law principle, derived from the principle of legality, that mandates strict interpretation of penal statutes and forbids their application by analogy to the detriment of the defendant.",
+    "japaneseDefinition": "刑罰法規は、類推解釈や拡張解釈により、被告人に不利益な形で適用されてはならないとする、罪刑法定主義に基づく原則。",
+    "japaneseWordTranslation": "類推解釈の禁止 (るいすいかいしゃくのきんし)",
+    "legalContext": "Principle derived from the Principle of Legality (Nulla Poena Sine Lege): Requires penal statutes to be interpreted strictly.",
+    "japaneseLegalContext": "罪刑法定主義から導かれる原則（刑罰法規は厳格に解釈されなければならない）",
+    "exampleSentence": "The defense successfully argued that applying the statute to the defendant's unusual circumstance would violate the **prohibition of analogous construction**.",
+    "exampleTranslation": "弁護側は、被告人の異例の状況に当該法規を適用することは、**類推解釈の禁止**に違反すると主張し、認められた。",
+    "vocabularyList": [
+      {
+        "word": "Penal statute",
+        "translation": "刑罰法規 (けいばつほうき)"
+      },
+      {
+        "word": "Strict interpretation",
+        "translation": "厳格解釈 (げんかくかいしゃく)"
+      },
+      {
+        "word": "To the detriment of the defendant",
+        "translation": "被告人に不利益に (ひこくにんにふりえきに)"
+      },
+      {
+        "word": "Unusual circumstance",
+        "translation": "異例の状況 (いれいのじょうきょう)"
+      },
+      {
+        "word": "Criminal law principle",
+        "translation": "刑法の原則 (けいほうのげんそく)"
+      },
+      {
+        "word": "Violate",
+        "translation": "違反する (いはんする)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Criminal Force",
+    "definition": "The physical exercise of power against a person's body (whether direct or indirect), defined as a constitutive element in various crimes such as assault or robbery, regardless of whether actual injury is caused.",
+    "japaneseDefinition": "人の身体に対する有形力の行使を指し、直接的か間接的かを問わない。傷害罪や強盗罪などの構成要件として規定される。",
+    "japaneseWordTranslation": "暴行 (ぼうこう)",
+    "legalContext": "Criminal Code Art. 208: Defines the act of force (Bōkō) which constitutes the crime of assault, punishable by imprisonment or fine.",
+    "japaneseLegalContext": "刑法208条：暴行罪の実行行為を規定し、懲役又は罰金に処す。",
+    "exampleSentence": "In the context of robbery, the prerequisite for the crime is the use of **criminal force** or intimidation against the victim.",
+    "exampleTranslation": "強盗の文脈では、犯罪の前提条件は、被害者に対して**暴行**または脅迫を用いることである。",
+    "vocabularyList": [
+      {
+        "word": "Constitutive element",
+        "translation": "構成要件要素 (こうせいようけんようそ)"
+      },
+      {
+        "word": "Intimidation",
+        "translation": "脅迫 (きょうはく)"
+      },
+      {
+        "word": "Physical exercise of power",
+        "translation": "有形力の行使 (ゆうけいりょくのこうし)"
+      },
+      {
+        "word": "Assault",
+        "translation": "暴行罪 (ぼうこうざい)"
+      },
+      {
+        "word": "Prerequisite",
+        "translation": "前提条件 (ぜんていじょうけん)"
+      },
+      {
+        "word": "Punishable by",
+        "translation": "〜に処す (〜にしょす)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Grounds for Non-Punishment",
+    "definition": "Specific circumstances defined by law under which a court must exempt an offender from receiving a penalty, even if all constituent elements of the crime are met (e.g., specific kinship immunity for property crimes).",
+    "japaneseDefinition": "犯罪の構成要件に該当し、違法性及び有責性が認められる場合であっても、法令の規定により刑罰を科さない特定の事由。",
+    "japaneseWordTranslation": "刑の免除 (けいのめんじょ)",
+    "legalContext": "Criminal Code Art. 244 Para. 2: Larceny, fraud, or embezzlement committed between relatives (other than lineal ascendants/descendants or spouses) shall be exempt from punishment upon waiver of the complaint.",
+    "japaneseLegalContext": "刑法244条2項：直系血族、配偶者等以外の親族間の窃盗、詐欺、又は横領の罪は、告訴を取り消したときは、刑を免除する。",
+    "exampleSentence": "Although the son committed embezzlement, the court granted **statutory grounds for non-punishment** under the kinship exemption rules.",
+    "exampleTranslation": "息子は横領を犯したが、裁判所は親族免除の規定に基づき、**刑の免除**を認めた。",
+    "vocabularyList": [
+      {
+        "word": "Offender",
+        "translation": "行為者 (こういしゃ)"
+      },
+      {
+        "word": "Kinship exemption",
+        "translation": "親族間の特例 (しんぞくかんのとくれい)"
+      },
+      {
+        "word": "Larceny",
+        "translation": "窃盗 (せっとう)"
+      },
+      {
+        "word": "Waiver of the complaint",
+        "translation": "告訴の取消し (こくそのとりけし)"
+      },
+      {
+        "word": "Constituent elements",
+        "translation": "構成要件 (こうせいようけん)"
+      },
+      {
+        "word": "Property crime",
+        "translation": "財産犯 (ざいさんはん)"
+      }
+    ]
   }
 ]

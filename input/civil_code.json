@@ -10230,5 +10230,131 @@
         "translation": "行使する (こうしする)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Person under Guardianship",
+    "definition": "An adult placed under judicial guardianship due to a mental disability that prevents them from having the capacity to make sound judgments concerning their affairs; any juridical act they perform is generally voidable.",
+    "japaneseDefinition": "精神上の障害により事理を弁識する能力を欠く常況にある成年者として家庭裁判所から後見開始の審判を受けた者。その行った法律行為は原則として取り消すことができる。",
+    "japaneseWordTranslation": "成年被後見人 (せいねんひこうけんにん)",
+    "legalContext": "Civil Code Art. 7 (Commencement of Guardianship): The Family Court may commence guardianship in respect of a person who is constantly lacking the capacity to discern right from wrong due to mental disability.",
+    "japaneseLegalContext": "民法第7条（後見開始の審判）: 精神上の障害により事理を弁識する能力を欠く常況にある者については、家庭裁判所は、後見開始の審判をすることができる。",
+    "exampleSentence": "The contract executed by the Person under Guardianship without the consent of their guardian is subject to avoidance.",
+    "exampleTranslation": "成年被後見人がその後見人の同意なしに締結した契約は、取り消しうる。",
+    "vocabularyList": [
+      {
+        "word": "Family Court",
+        "translation": "家庭裁判所"
+      },
+      {
+        "word": "mental disability",
+        "translation": "精神上の障害"
+      },
+      {
+        "word": "capacity to discern",
+        "translation": "事理を弁識する能力"
+      },
+      {
+        "word": "judicial guardianship",
+        "translation": "後見（の審判）"
+      },
+      {
+        "word": "guardian",
+        "translation": "後見人"
+      },
+      {
+        "word": "voidable",
+        "translation": "取り消しうる"
+      },
+      {
+        "word": "executed (a contract)",
+        "translation": "締結した"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Real Right Uniformity",
+    "definition": "The fundamental doctrine in Japanese property law stating that real rights (proprietary rights over things) can only be created or modified if explicitly defined and regulated by statute or established custom, thereby limiting the freedom of contract in this area.",
+    "japaneseDefinition": "物権は法律または慣習によらなければ創設することができないという、日本の物権法における大原則。物権の種類や内容を当事者が自由に定めることを禁じる。",
+    "japaneseWordTranslation": "物権法定主義 (ぶっけんほうていしゅぎ)",
+    "legalContext": "Civil Code Art. 175: Real rights may not be created except as provided for by law or by custom.",
+    "japaneseLegalContext": "民法第175条: 物権は、この法律その他の法律に定めるところによるほか、慣習に従い、創設することができる。",
+    "exampleSentence": "Under the Principle of Real Right Uniformity, parties are prohibited from creating novel proprietary interests outside the legal framework.",
+    "exampleTranslation": "物権法定主義の下では、当事者は法的な枠組みの外で新しい物権的利益を創設することは禁じられている。",
+    "vocabularyList": [
+      {
+        "word": "doctrine",
+        "translation": "主義／原則"
+      },
+      {
+        "word": "proprietary rights",
+        "translation": "物権"
+      },
+      {
+        "word": "statute",
+        "translation": "法律"
+      },
+      {
+        "word": "custom",
+        "translation": "慣習"
+      },
+      {
+        "word": "limited",
+        "translation": "制限された"
+      },
+      {
+        "word": "legal framework",
+        "translation": "法的な枠組み"
+      },
+      {
+        "word": "novel",
+        "translation": "新規の"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right of Avoidance by Obligee",
+    "definition": "The right of a creditor (obligee) to petition the court to revoke an act performed by the debtor (obligor) if that act was undertaken with knowledge that it would prejudice the obligee’s rights, typically involving fraudulent asset transfers.",
+    "japaneseDefinition": "債権者が、債務者が債権者を害することを知って行った法律行為（財産隠匿など）について、裁判所に対しその取消しを請求できる権利。",
+    "japaneseWordTranslation": "債権者取消権 (さいけんしゃとりけしけん)",
+    "legalContext": "Civil Code Art. 424 (Right of Obligee to Revoke Fraudulent Act): An obligee may request the court to revoke an act of the obligor that prejudices the obligee, provided that the act was performed with knowledge that it would prejudice the obligee.",
+    "japaneseLegalContext": "民法第424条（詐害行為取消権）：債権者は、債務者が債権者を害することを知ってした行為については、裁判所に、その取消しを請求することができる。",
+    "exampleSentence": "The bank exercised the Right of Avoidance by Obligee against the debtor's conveyance of real property to his relative shortly before bankruptcy.",
+    "exampleTranslation": "その銀行は、破産直前に債務者が親族に対して行った不動産の譲渡に対し、債権者取消権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "petition (the court)",
+        "translation": "（裁判所に）請求する"
+      },
+      {
+        "word": "revoke",
+        "translation": "取り消す"
+      },
+      {
+        "word": "prejudice (verb)",
+        "translation": "害する"
+      },
+      {
+        "word": "fraudulent act",
+        "translation": "詐害行為"
+      },
+      {
+        "word": "conveyance",
+        "translation": "譲渡"
+      }
+    ]
   }
 ]

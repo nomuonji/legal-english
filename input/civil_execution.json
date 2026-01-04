@@ -9596,5 +9596,123 @@
         "translation": "特定物 (とくていぶつ)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Performance of Delivery",
+    "definition": "A type of non-monetary execution focusing on the compulsory transfer of possession or surrender of a specified property (movable or immovable) following a judgment demanding such performance.",
+    "japaneseDefinition": "特定の動産または不動産の占有移転または明渡しを強制的に実現する非金銭執行の手続き。",
+    "japaneseWordTranslation": "引渡しの給付の訴えの執行 (Hikiwatashi no Kyūfu no Uttae no Shikkō)",
+    "legalContext": "Civil Execution Act, Article 168: Execution for delivery or surrender of things.",
+    "japaneseLegalContext": "民事執行法 第168条: 物の引渡し又は明け渡しの強制執行",
+    "exampleSentence": "The Execution Officer commenced the Action for Performance of Delivery to enforce the judgment compelling the tenant to vacate the commercial premises.",
+    "exampleTranslation": "執行官は、テナントに商業施設からの退去を強制する判決を執行するため、引渡しの給付の訴えの執行に着手した。",
+    "vocabularyList": [
+      {
+        "word": "Execution Officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "Non-monetary execution",
+        "translation": "非金銭執行"
+      },
+      {
+        "word": "Vacate",
+        "translation": "退去する"
+      },
+      {
+        "word": "Compulsory transfer",
+        "translation": "強制的な移転"
+      },
+      {
+        "word": "Commercial premises",
+        "translation": "商業施設"
+      },
+      {
+        "word": "Commence",
+        "translation": "着手する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Claim for Return of Security Deposit",
+    "definition": "The legal right held by the obligor or applicant to demand the return of funds or assets deposited with the court as security (e.g., for provisional attachment or execution stay), once the need for that security has ceased.",
+    "japaneseDefinition": "訴訟費用、保全処分、または執行停止のために裁判所に供託された金銭または担保が不要となったときに、供託者またはその承継人がその返還を求める権利。",
+    "japaneseWordTranslation": "担保取戻請求権 (Tanpo Torimodoshi Seikyūken)",
+    "legalContext": "Code of Civil Procedure, Article 79: Decision on cancellation of security and order for return (Applied mutatis mutandis in Civil Execution).",
+    "japaneseLegalContext": "民事訴訟法 第79条: 担保取消しの決定及び取戻しの命令（民事執行手続に準用）",
+    "exampleSentence": "Following the final dismissal of the opposing party’s action, the obligor immediately filed a Claim for Return of Security Deposit that had been lodged to stay the execution.",
+    "exampleTranslation": "相手方の訴えが最終的に棄却された後、債務者は執行を停止するために供託されていた担保の取戻請求権を直ちに申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Security",
+        "translation": "担保"
+      },
+      {
+        "word": "Lodged",
+        "translation": "供託された"
+      },
+      {
+        "word": "Stay the execution",
+        "translation": "執行を停止する"
+      },
+      {
+        "word": "Final dismissal",
+        "translation": "最終的な棄却"
+      },
+      {
+        "word": "Provisional attachment",
+        "translation": "仮差押え"
+      },
+      {
+        "word": "Mutatis mutandis",
+        "translation": "準用される"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution by Appointment of Administrator",
+    "definition": "A method of compulsory execution used against proprietary rights that yield ongoing profits (such as certain leases or intangible assets), where the court appoints a manager to collect profits for debt satisfaction.",
+    "japaneseDefinition": "継続的な収益を生む財産権（特定の賃借権や無形財産など）に対し、裁判所が管理人を選任して収益を徴収させ、債権者の債権に充当させる強制執行の方法。",
+    "japaneseWordTranslation": "管理人選任による執行 (Kanrinin Sennin ni yoru Shikkō)",
+    "legalContext": "Civil Execution Act, Article 167-2: Execution against proprietary rights.",
+    "japaneseLegalContext": "民事執行法 第167条の2: その他の財産権に対する執行",
+    "exampleSentence": "When the obligor refused to dispose of a complex intellectual property right, the court initiated Execution by Appointment of Administrator to manage the royalty payments and apply them to the outstanding debt.",
+    "exampleTranslation": "債務者が複雑な知的財産権の処分を拒否したため、裁判所は、ロイヤリティ支払いを管理し、未払いの債務に充当させるために、管理人選任による執行を開始した。",
+    "vocabularyList": [
+      {
+        "word": "Proprietary rights",
+        "translation": "財産権"
+      },
+      {
+        "word": "Ongoing profits",
+        "translation": "継続的な収益"
+      },
+      {
+        "word": "Intangible assets",
+        "translation": "無形財産"
+      },
+      {
+        "word": "Royalty payments",
+        "translation": "ロイヤリティ支払い"
+      },
+      {
+        "word": "Satisfying the claim",
+        "translation": "債権に充当させる"
+      },
+      {
+        "word": "Outstanding debt",
+        "translation": "未払いの債務"
+      },
+      {
+        "word": "Appoint",
+        "translation": "選任する"
+      }
+    ]
   }
 ]

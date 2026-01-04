@@ -10356,5 +10356,119 @@
         "translation": "譲渡"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Possessory Action",
+    "definition": "A civil action available to the possessor of property, regardless of whether they have a proprietary right, used to defend their possession against unlawful interference, seizure, or obstruction.",
+    "japaneseDefinition": "占有者が占有の侵害を排除するために提起する訴訟。占有権の保護のためのものであり、本権の有無は問わない。",
+    "japaneseWordTranslation": "占有の訴え (せんゆうのうったえ)",
+    "legalContext": "Civil Code Art. 202-204 (Actions for Maintenance, Recovery, and Preservation of Possession).",
+    "japaneseLegalContext": "民法第202条～204条（占有の訴え：占有保持の訴え、占有回収の訴え、占有保全の訴え）",
+    "exampleSentence": "The plaintiff filed a **possessory action** for recovery after the neighboring construction company unlawfully removed their fence and occupied a part of their land.",
+    "exampleTranslation": "原告は、近隣の建設会社が不法に塀を撤去し、土地の一部を占有したため、占有回収の**占有の訴え**を提起した。",
+    "vocabularyList": [
+      {
+        "word": "plaintiff",
+        "translation": "原告 (げんこく)"
+      },
+      {
+        "word": "recovery",
+        "translation": "回収 (かいしゅう)"
+      },
+      {
+        "word": "unlawful interference",
+        "translation": "不法な干渉 (ふほうなかんしょう)"
+      },
+      {
+        "word": "possessor",
+        "translation": "占有者 (せんゆうしゃ)"
+      },
+      {
+        "word": "proprietary right",
+        "translation": "本権 (ほんけん)"
+      },
+      {
+        "word": "obstruction",
+        "translation": "妨害 (ぼうがい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Liability for Maintenance of Structures",
+    "definition": "Liability imposed on the possessor or owner of a structure (e.g., building, path, equipment) for damages caused by a defect in its construction or maintenance, even in the absence of negligence (a type of strict liability related to specific property).",
+    "japaneseDefinition": "土地の工作物の設置又は保存の瑕疵によって他人に損害を生じさせた場合に、その占有者または所有者が負う損害賠償責任。",
+    "japaneseWordTranslation": "工作物責任 (こうさくぶつせきにん)",
+    "legalContext": "Civil Code Art. 717 (Liability for Damage Caused by Structures). The owner is ultimately liable if the possessor is not liable.",
+    "japaneseLegalContext": "民法第717条（土地の工作物等の占有者及び所有者の責任）",
+    "exampleSentence": "When a collapsing retaining wall injured a passerby, the owner faced **statutory liability for maintenance of structures**, irrespective of claiming the defect was latent.",
+    "exampleTranslation": "崩壊した擁壁が通行人を負傷させた際、所有者は欠陥が潜在的であったと主張しても、**工作物責任**に直面した。",
+    "vocabularyList": [
+      {
+        "word": "structure",
+        "translation": "工作物 (こうさくぶつ)"
+      },
+      {
+        "word": "retaining wall",
+        "translation": "擁壁 (ようへき)"
+      },
+      {
+        "word": "latent defect",
+        "translation": "潜在的瑕疵 (せんざいてきかし)"
+      },
+      {
+        "word": "owner",
+        "translation": "所有者 (しょゆうしゃ)"
+      },
+      {
+        "word": "possessor",
+        "translation": "占有者 (せんゆうしゃ)"
+      },
+      {
+        "word": "irrespective of",
+        "translation": "〜にかかわらず (にかかわらず)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Power of Disposition",
+    "definition": "The legal capacity or authority held by an owner or authorized party to transfer, encumber (create security interests over), destroy, or otherwise change the legal status of property.",
+    "japaneseDefinition": "物件の所有者などが、その物件の法律上の運命を決定する権能。具体的には、譲渡、担保権の設定、廃棄などを行う権能を指す。",
+    "japaneseWordTranslation": "処分権能 (しょぶんけんのう)",
+    "legalContext": "A core element of ownership (所有権), granting the ability to alter the proprietary status of an object, implicitly defined by the Real Rights provisions.",
+    "japaneseLegalContext": "物権編における所有権の核心的権能。物件の法律上の運命を決定する能力。",
+    "exampleSentence": "An unauthorized representative cannot exercise the **power of disposition** over the principal's immovable property without a valid mandate.",
+    "exampleTranslation": "権限のない代理人は、有効な委任状なしに、本人の不動産に対する**処分権能**を行使することはできない。",
+    "vocabularyList": [
+      {
+        "word": "transfer",
+        "translation": "譲渡 (じょうと)"
+      },
+      {
+        "word": "encumber",
+        "translation": "負担させる (ふたんさせる)"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産 (ふどうさん)"
+      },
+      {
+        "word": "valid mandate",
+        "translation": "有効な委任状 (ゆうこうないにんじょう)"
+      },
+      {
+        "word": "legal status",
+        "translation": "法律上の地位 (ほうりつじょうのちい)"
+      },
+      {
+        "word": "principal",
+        "translation": "本人 (ほんにん)"
+      }
+    ]
   }
 ]

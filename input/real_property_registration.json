@@ -7692,5 +7692,119 @@
         "translation": "建設する"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Basis Instrument",
+    "definition": "The official document or legal instrument submitted to the registry office that demonstrates the material legal basis (e.g., a sales contract, gift deed, or court order) which resulted in the creation, alteration, or extinction of a registrable right.",
+    "japaneseDefinition": "不動産に関する権利の得喪及び変更を生じさせる原因となった事実又は法律行為を証明するために、登記申請時に提出される書面。",
+    "japaneseWordTranslation": "登記原因証書 (とうきげんいんしょうしょ)",
+    "legalContext": "Real Property Registration Act Art. 61: When an application for registration is filed, a document certifying the basis of the registration shall be provided.",
+    "japaneseLegalContext": "不動産登記法第61条: 登記の申請をする場合には、法務省令で定めるところにより、登記原因を証する情報を提供しなければならない。",
+    "exampleSentence": "The conveyancing transaction could not be finalized until the Registration Basis Instrument, namely the executed deed of sale, was lodged with the registry.",
+    "exampleTranslation": "譲渡取引は、実行された売買証書である登記原因証書が登記所に提出されるまで、完了することができなかった。",
+    "vocabularyList": [
+      {
+        "word": "conveyancing transaction",
+        "translation": "不動産譲渡取引"
+      },
+      {
+        "word": "executed deed of sale",
+        "translation": "作成済みの売買証書"
+      },
+      {
+        "word": "lodged with",
+        "translation": "〜に提出された"
+      },
+      {
+        "word": "registrable right",
+        "translation": "登記可能な権利"
+      },
+      {
+        "word": "extinction of a right",
+        "translation": "権利の消滅"
+      },
+      {
+        "word": "registry office",
+        "translation": "登記所"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Document for Identity Verification",
+    "definition": "A document provided by a legal professional (such as a Judicial Scrivener or lawyer) to the Registrar, confirming the identity of the person who is losing a registered right (the registration obligor), used primarily when the Registration Identifier Code is unavailable.",
+    "japaneseDefinition": "登記識別情報を提供できない場合に、登記義務者本人の確認を目的として、代理申請人が作成する情報（または書面）。",
+    "japaneseWordTranslation": "本人確認情報 (ほんにんかくにんじょうほう)",
+    "legalContext": "Real Property Registration Act Art. 23 (4): Where the registration obligor fails to provide the registration identification information, the registrar may register the change only after confirming the identity of the said obligor through a document provided by the attorney.",
+    "japaneseLegalContext": "不動産登記法第23条第4項: 登記識別情報の提供がない場合において、登記官は、代理人から提供された情報により当該登記義務者の本人確認をした場合に限り、登記を実行できる。",
+    "exampleSentence": "Due to the loss of the original title deed, the transfer registration required the submission of a comprehensive Document for Identity Verification prepared by the proxy attorney.",
+    "exampleTranslation": "元の権利証の紛失により、移転登記には代理人弁護士が作成した包括的な本人確認情報の提出が求められた。",
+    "vocabularyList": [
+      {
+        "word": "proxy attorney",
+        "translation": "代理人弁護士"
+      },
+      {
+        "word": "original title deed",
+        "translation": "元の権利証"
+      },
+      {
+        "word": "transfer registration",
+        "translation": "移転登記"
+      },
+      {
+        "word": "registration obligor",
+        "translation": "登記義務者"
+      },
+      {
+        "word": "comprehensive",
+        "translation": "包括的な"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Transfer of Secured Claim",
+    "definition": "The act of legally transferring the underlying monetary claim that is secured by a registered security interest (such as a hypothec or pledge) on the real property, which necessitates a corresponding registration change to maintain the perfection of the security interest.",
+    "japaneseDefinition": "抵当権や質権といった担保物権によって裏付けられている主たる債権を第三者に譲り渡す行為。不動産登記簿上、これに伴う変更を記録する必要がある。",
+    "japaneseWordTranslation": "被担保債権の譲渡 (ひたんぽさいけんのじょうと)",
+    "legalContext": "Real Property Registration Act Art. 83 (1) 2: The transfer of a claim secured by a hypothec must be registered alongside the record of the hypothec itself.",
+    "japaneseLegalContext": "不動産登記法第83条第1項第2号: 抵当権によって担保される債権の譲渡は、抵当権の登記に併せてその旨を登記しなければならない。",
+    "exampleSentence": "When the bank sold its debt portfolio, the Transfer of Secured Claim was registered to inform third parties that the new obligee now held the security interest against the property.",
+    "exampleTranslation": "銀行がその債権ポートフォリオを売却した際、新たな債権者がその不動産に対する担保権を保持していることを第三者に知らせるために、被担保債権の譲渡の登記が行われた。",
+    "vocabularyList": [
+      {
+        "word": "secured by a hypothec",
+        "translation": "抵当権により担保される"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権"
+      },
+      {
+        "word": "debt portfolio",
+        "translation": "債権ポートフォリオ"
+      },
+      {
+        "word": "underlying monetary claim",
+        "translation": "基礎となる金銭債権"
+      },
+      {
+        "word": "perfection (of the security interest)",
+        "translation": "（担保権の）完全化"
+      },
+      {
+        "word": "new obligee",
+        "translation": "新たな債権者"
+      }
+    ]
   }
 ]

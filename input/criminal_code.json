@@ -8930,5 +8930,119 @@
         "translation": "財産犯 (ざいさんはん)"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Reduction of Sentence",
+    "definition": "A discretionary power held by the court to reduce a statutory penalty when there are extenuating circumstances not explicitly defined as grounds for statutory reduction.",
+    "japaneseDefinition": "法定の減軽事由によらないが、裁判所が酌量すべき事情がある場合に、刑を減軽することができる制度。",
+    "japaneseWordTranslation": "酌量減軽 (しゃくりょうげんけい)",
+    "legalContext": "Criminal Code Art. 66 (Judicial Reduction): 'If there are extenuating circumstances concerning the commission of the offense, the punishment may be mitigated ex officio by the court.'",
+    "japaneseLegalContext": "刑法 第66条（酌量減軽）：罪を犯した者の情状に酌量すべきものがあるときは、その刑を減軽することができる。",
+    "exampleSentence": "Due to the suspect's cooperation with the investigation and his deep remorse, the court granted a judicial reduction of sentence.",
+    "exampleTranslation": "被疑者が捜査に協力し深く反省していることを理由に、裁判所は酌量減軽を適用した。",
+    "vocabularyList": [
+      {
+        "word": "discretionary power",
+        "translation": "裁量権"
+      },
+      {
+        "word": "extenuating circumstances",
+        "translation": "酌量すべき事情"
+      },
+      {
+        "word": "mitigated ex officio",
+        "translation": "職権により減軽される"
+      },
+      {
+        "word": "statutory penalty",
+        "translation": "法定刑"
+      },
+      {
+        "word": "deep remorse",
+        "translation": "深い反省"
+      },
+      {
+        "word": "commission of the offense",
+        "translation": "犯罪の実行"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Error of Lawfulness",
+    "definition": "A mistake concerning the illegality of an act, where the offender is unaware that their conduct is prohibited by law, potentially affecting their criminal culpability.",
+    "japaneseDefinition": "行為が違法であるという認識を欠いていた、あるいは違法性の有無について誤認していた状態。原則として故意を阻却しないが、相当の理由があれば罰しない。",
+    "japaneseWordTranslation": "違法性の錯誤 (いほうせいのさくご)",
+    "legalContext": "Criminal Code Art. 38, Paragraph 3: 'A person who commits an act based on the misunderstanding that the act is not against the law may not be punished for the crime if, based on the circumstances, there was reasonable grounds for the misunderstanding.'",
+    "japaneseLegalContext": "刑法 第38条 第3項：法律を知らないで罪を犯した者であっても、その情状によっては、情状が認められるときは、その罪を犯す意思があったものとして、これを罰する。ただし、法律の不遡及原則がある。",
+    "exampleSentence": "The defendant claimed an error of lawfulness, arguing that he genuinely believed his import practices were compliant with recently updated regulations.",
+    "exampleTranslation": "被告人は、最近改正された規制に輸入業務が準拠していると心から信じていたとして、違法性の錯誤を主張した。",
+    "vocabularyList": [
+      {
+        "word": "illegality",
+        "translation": "違法性"
+      },
+      {
+        "word": "misunderstanding",
+        "translation": "誤解"
+      },
+      {
+        "word": "criminal culpability",
+        "translation": "有責性（ここでは責任能力）"
+      },
+      {
+        "word": "compliant with",
+        "translation": "〜に準拠している"
+      },
+      {
+        "word": "prohibited by law",
+        "translation": "法により禁じられている"
+      },
+      {
+        "word": "reasonable grounds",
+        "translation": "相当な理由"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Offense of Specific Danger",
+    "definition": "A category of crime where the completion of the offense requires proof that the defendant's act caused a tangible, concrete danger to the specific legally protected interest (e.g., public safety, life, or property).",
+    "japaneseDefinition": "構成要件の実現により、法益侵害の具体的危険が発生したことを証明しなければならない犯罪類型。例：現住建造物等放火罪（刑法108条）の延焼による危険。",
+    "japaneseWordTranslation": "具体的危険犯 (ぐたいてききけんはん)",
+    "legalContext": "Criminal Code (General classification principle, often contrasted with the Crime of Abstract Danger, where potential danger is sufficient for completion.)",
+    "japaneseLegalContext": "刑法（一般的分類原則であり、抽象的危険犯との対比で用いられる）",
+    "exampleSentence": "In an offense of specific danger, the prosecution must demonstrate that the arson created an actual and substantial risk to human life or neighboring property.",
+    "exampleTranslation": "具体的危険犯においては、放火行為が人命または近隣の財産に対して実際的かつ重大な危険を生じさせたことを検察側が立証しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "tangible danger",
+        "translation": "有形の危険"
+      },
+      {
+        "word": "legally protected interest",
+        "translation": "法益"
+      },
+      {
+        "word": "arson",
+        "translation": "放火"
+      },
+      {
+        "word": "prosecution",
+        "translation": "検察"
+      },
+      {
+        "word": "completion of the offense",
+        "translation": "犯罪の既遂"
+      },
+      {
+        "word": "demonstrate",
+        "translation": "立証する"
+      }
+    ]
   }
 ]

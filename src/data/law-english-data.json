@@ -1,42 +1,38 @@
 {
   "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Waiver of Claim",
-  "definition": "A unilateral procedural act by the plaintiff, declared in court, formally abandoning the substantive right or claim that is the subject matter of the lawsuit, resulting in a final and binding conclusion of the case in favor of the defendant.",
-  "japaneseDefinition": "原告が訴訟係属中に、請求権の存在を否定し、訴訟上の請求を放棄すること。これにより訴訟は終結し、原告敗訴の確定判決と同一の効力を有する。",
-  "japaneseWordTranslation": "請求の放棄 (せいきゅうのほうき)",
-  "legalContext": "Code of Civil Procedure Art. 267: 'The provisions concerning a judgment by confession shall apply mutatis mutandis to a waiver of claim.'",
-  "japaneseLegalContext": "民事訴訟法第267条: 請求の放棄については、請求の認諾に関する規定を準用する。",
-  "exampleSentence": "Facing overwhelming counter-evidence, the plaintiff decided to effect a waiver of claim rather than proceed to a judgment of dismissal.",
-  "exampleTranslation": "圧倒的な反証に直面し、原告は請求棄却判決に進むよりも、請求の放棄を行うことを決定した。",
+  "word": "Objective Joinder of Claims",
+  "definition": "The procedural aggregation of multiple separate claims asserted by a single plaintiff against a single defendant within the framework of a single lawsuit.",
+  "japaneseDefinition": "原告が同一の被告に対し、一の訴訟手続の中で複数の請求を併合して提起すること。請求内容が異なる場合などに適用される。",
+  "japaneseWordTranslation": "請求の客観的併合 (せいきゅうのきゃっかんてきへいごう)",
+  "legalContext": "Code of Civil Procedure Art. 136: A plaintiff may bring several claims against a single defendant in a single action, unless the claims are subject to different types of proceedings.",
+  "japaneseLegalContext": "民事訴訟法第136条: 原告は、一個の訴えで数個の請求をすることができる。ただし、請求の目的たる事項が同種の訴訟手続によることを要しない。",
+  "exampleSentence": "The attorney recommended the objective joinder of claims for the recovery of money lent and for damages resulting from delayed performance.",
+  "exampleTranslation": "弁護士は、貸金返還請求と履行遅滞による損害賠償請求の客観的併合を推奨した。",
   "vocabularyList": [
     {
-      "word": "unilateral act",
-      "translation": "一方的行為 (いっぽうてきこうい)"
+      "word": "Aggregation",
+      "translation": "併合 (へいごう)"
     },
     {
-      "word": "procedural act",
-      "translation": "訴訟行為 (そしょうこうい)"
+      "word": "Plaintiff",
+      "translation": "原告 (げんこく)"
     },
     {
-      "word": "substantive right",
-      "translation": "実体権 (じったいけん)"
+      "word": "Defendant",
+      "translation": "被告 (ひこく)"
     },
     {
-      "word": "judgment of dismissal",
-      "translation": "請求棄却判決 (せいきゅうききゃくはんけつ)"
+      "word": "Single action",
+      "translation": "一個の訴え (いっこのうったえ)"
     },
     {
-      "word": "mutatis mutandis",
-      "translation": "準用して (じゅんようして)"
+      "word": "Recovery of money lent",
+      "translation": "貸金返還 (かしきんへんかん)"
     },
     {
-      "word": "conclusion of the case",
-      "translation": "訴訟終結 (そしょうしゅうけつ)"
-    },
-    {
-      "word": "counter-evidence",
-      "translation": "反証 (はんしょう)"
+      "word": "Delayed performance",
+      "translation": "履行遅滞 (りこうちたい)"
     }
   ]
 }

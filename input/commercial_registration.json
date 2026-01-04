@@ -7796,5 +7796,127 @@
         "translation": "有効に記載された"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Fictitious Registration",
+    "definition": "The statutory liability imposed on a company officer, promoter, or other obligated person who intentionally registers false particulars, holding them liable for damages to third parties relying on that registration.",
+    "japaneseDefinition": "虚偽の事項を登記させた者（役員、発起人等）が、その事項を信じて取引をした善意の第三者に対して負う損害賠償責任。",
+    "japaneseWordTranslation": "虚偽の登記の責任 (Kyogi no Tōki no Sekinin)",
+    "legalContext": "Commercial Registration Act Art. 56: Any person who has registered fictitious particulars shall be liable for damages to a third party who has performed a transaction in reliance on such particulars.",
+    "japaneseLegalContext": "商業登記法第56条：虚偽の事項を登記させた者は、その事項を信じて取引をした第三者に対し、これによつて生じた損害を賠償する責任を負う。",
+    "exampleSentence": "The former representative director faced **liability for fictitious registration** after intentionally overstating the company's stated capital in the commercial register, leading to losses for investors.",
+    "exampleTranslation": "元代表取締役は、商業登記簿に会社の資本金を故意に過大に記載した虚偽の登記の責任を問われ、投資家に生じた損害を賠償することになった。",
+    "vocabularyList": [
+      {
+        "word": "promoter",
+        "translation": "発起人"
+      },
+      {
+        "word": "damages",
+        "translation": "損害賠償"
+      },
+      {
+        "word": "officer",
+        "translation": "役員"
+      },
+      {
+        "word": "stated capital",
+        "translation": "資本金"
+      },
+      {
+        "word": "commercial register",
+        "translation": "商業登記簿"
+      },
+      {
+        "word": "reliance",
+        "translation": "信頼（信用）"
+      },
+      {
+        "word": "investor",
+        "translation": "投資家"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligation to Apply for Registration",
+    "definition": "The legal duty imposed on the company's representatives or other related parties to file applications for necessary establishment or change registrations within a specified statutory deadline, typically two weeks from the occurrence of the registrable event.",
+    "japaneseDefinition": "会社や特定の事項について登記が必要となった場合、法定期間内（通常２週間）に関係者が登記申請を行わなければならない法的な責務。",
+    "japaneseWordTranslation": "登記の申請義務 (Tōki no Shinsei Gimu)",
+    "legalContext": "Commercial Registration Act Art. 26: The application for registration shall be filed by the representative of the company or the person who is to apply for registration pursuant to other Acts within two weeks from the date on which the registered particulars are modified.",
+    "japaneseLegalContext": "商業登記法第26条：登記の申請は、法令に別段の定めがある場合を除き、会社を代表すべき者又は登記をすべき者が、登記すべき事項につき変更が生じた日から二週間以内にしなければならない。",
+    "exampleSentence": "Failure to fulfill the **obligation to apply for registration** of the corporate representative’s change of address within the statutory period led to the imposition of a penalty.",
+    "exampleTranslation": "法定期間内に会社代表者の住所変更の登記の申請義務を果たさなかったため、過料が課せられた。",
+    "vocabularyList": [
+      {
+        "word": "representative",
+        "translation": "代表者"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "change of address",
+        "translation": "住所変更"
+      },
+      {
+        "word": "registrable event",
+        "translation": "登記すべき事由"
+      },
+      {
+        "word": "corporate",
+        "translation": "会社（の）"
+      },
+      {
+        "word": "imposition of a penalty",
+        "translation": "制裁金の賦課"
+      },
+      {
+        "word": "establishment",
+        "translation": "設立"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Penalty for Registration Default (Karyō)",
+    "definition": "A monetary penalty imposed by the court on a company officer or other person obligated to register for failing to fulfill their statutory duty to apply for registration within the prescribed timeframe, stipulated under the Commercial Registration Act.",
+    "japaneseDefinition": "商業登記法上の登記義務者が法定期間内に登記の申請を怠った場合に、裁判所が科す金銭的制裁。",
+    "japaneseWordTranslation": "過料 (Karyō)",
+    "legalContext": "Commercial Registration Act Art. 136: If any person listed in the following items fails to file an application for registration... within the period prescribed, such person shall be subject to an administrative non-penal fine of not more than one million yen.",
+    "japaneseLegalContext": "商業登記法第136条：次の各号に掲げる者が、その登記の申請をすべき期間内にこれをしないときは、百万円以下の過料に処する。",
+    "exampleSentence": "The liquidator was penalized with a heavy **Penalty for Registration Default (Karyō)** for delaying the registration of the liquidation conclusion for over three years.",
+    "exampleTranslation": "清算人は、清算結了の登記を３年以上遅延させたため、重い過料に処せられた。",
+    "vocabularyList": [
+      {
+        "word": "monetary penalty",
+        "translation": "金銭的制裁"
+      },
+      {
+        "word": "liquidator",
+        "translation": "清算人"
+      },
+      {
+        "word": "statutory duty",
+        "translation": "法定の義務"
+      },
+      {
+        "word": "prescribed timeframe",
+        "translation": "定められた期間"
+      },
+      {
+        "word": "subject to",
+        "translation": "処せられる"
+      },
+      {
+        "word": "delaying",
+        "translation": "遅延させる"
+      }
+    ]
   }
 ]

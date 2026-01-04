@@ -1,42 +1,38 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Execution Title",
-  "definition": "The authentic legal document (such as a final and binding judgment, a notarized document granting an execution clause, or a settlement record) that proves the existence and scope of the claim for which compulsory enforcement is sought.",
-  "japaneseDefinition": "強制執行を申し立てる債権の存在と範囲を証明する公的な文書（確定判決、執行証書、和解調書など）。",
-  "japaneseWordTranslation": "執行名義 (しっこうめいぎ)",
-  "legalContext": "Code of Civil Execution (Minji Shikkō Hō) Art. 22: The execution title shall be limited to those specified in the items of this article.",
-  "japaneseLegalContext": "民事執行法第22条: 執行証書は、この条に掲げるものに限定される。",
-  "exampleSentence": "The obligee must obtain a certified copy of the judgment bearing an **execution title** clause before filing a petition for attachment.",
-  "exampleTranslation": "債権者は、差押えの申立てを行う前に、執行文が付与された判決の謄本を取得しなければならない。",
+  "word": "Attempted Crime",
+  "definition": "The commission of a crime that has begun the execution phase but failed to achieve the necessary result or complete all constituent elements of the offense.",
+  "japaneseDefinition": "実行に着手したものの、構成要件を充足するに至らなかった犯罪。",
+  "japaneseWordTranslation": "未遂罪 (みすいざい)",
+  "legalContext": "Criminal Code Art. 43: A person who has committed an attempt shall be punished as an offense of commission of the crime; provided, however, that the punishment may be reduced.",
+  "japaneseLegalContext": "刑法第43条：未遂を犯した者は、既遂の例によりこれを罰する。ただし、刑を減軽することができる。",
+  "exampleSentence": "The defendant was convicted of attempted crime after being apprehended immediately following the overt act of breaking into the premises.",
+  "exampleTranslation": "被告人は、建物への侵入という明白な行為の直後に逮捕されたため、未遂罪で有罪とされた。",
   "vocabularyList": [
     {
-      "word": "obligee",
-      "translation": "債権者"
+      "word": "execution phase",
+      "translation": "実行の着手"
     },
     {
-      "word": "certified copy",
-      "translation": "謄本"
+      "word": "constituent elements",
+      "translation": "構成要件"
     },
     {
-      "word": "judgment",
-      "translation": "判決"
+      "word": "apprehended",
+      "translation": "逮捕された"
     },
     {
-      "word": "clause",
-      "translation": "文言"
+      "word": "overt act",
+      "translation": "明白な行為 (実行行為)"
     },
     {
-      "word": "filing a petition",
-      "translation": "申立てを行う"
+      "word": "be punished",
+      "translation": "罰せられる"
     },
     {
-      "word": "attachment",
-      "translation": "差押え"
-    },
-    {
-      "word": "existence",
-      "translation": "存在"
+      "word": "convicted of",
+      "translation": "〜で有罪判決を受ける"
     }
   ]
 }

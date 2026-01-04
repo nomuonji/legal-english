@@ -10128,5 +10128,107 @@
         "translation": "建築業者 (けんちくぎょうしゃ)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deliberation Period for Inheritance",
+    "definition": "The statutory period, usually three months from becoming aware of the commencement of succession, within which an heir must decide whether to accept the inheritance (either simply or limitedly) or waive it.",
+    "japaneseDefinition": "相続人が相続の開始を知った時から、相続を承認（単純承認または限定承認）するか、放棄するかを決定するために設けられた期間（通常3ヶ月）のこと。",
+    "japaneseWordTranslation": "相続の熟慮期間 (そうぞくのじゅくりょきかん)",
+    "legalContext": "Civil Code Art. 915(1): An heir shall effect the simple acceptance or waiver of the inheritance within three months from the time when he/she became aware of the commencement of the succession and the fact that he/she has become the heir.",
+    "japaneseLegalContext": "民法第915条第1項: 相続人は、自己のために相続の開始があったことを知った時から三箇月以内に、相続について、単純若しくは限定の承認又は放棄をしなければならない。",
+    "exampleSentence": "The Deliberation Period for Inheritance may be extended by the Family Court if the heir applies for the extension before the period expires.",
+    "exampleTranslation": "相続の熟慮期間は、期間満了前に相続人が家庭裁判所に申し立てを行うことで、延長することができる。",
+    "vocabularyList": [
+      {
+        "word": "heir",
+        "translation": "相続人 (そうぞくにん)"
+      },
+      {
+        "word": "Family Court",
+        "translation": "家庭裁判所 (かていさいばんしょ)"
+      },
+      {
+        "word": "commencement of succession",
+        "translation": "相続の開始 (そうぞくのかいし)"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間 (ほうていきかん)"
+      },
+      {
+        "word": "extension",
+        "translation": "延長 (えんちょう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Waiver of Benefit of Time",
+    "definition": "The unilateral declaration by the obligor (usually the debtor), who enjoys the benefit of a specified term (meaning performance is not yet due), to renounce that benefit, thereby accelerating the performance date of the obligation.",
+    "japaneseDefinition": "期限の利益を有する債務者が、その利益を自らの意思により放棄し、債務の履行期を到来させる単独行為。",
+    "japaneseWordTranslation": "期限の利益の放棄 (きげんのりえきのほうき)",
+    "legalContext": "Civil Code Art. 136(2): The benefit of time may be waived by the party who is entitled thereto; provided, however, that this may not prejudice the interests of the other party.",
+    "japaneseLegalContext": "民法第136条第2項: 期限の利益は、これを放棄することができる。ただし、これによって相手方の利益を害することはできない。",
+    "exampleSentence": "The borrower executed a Waiver of Benefit of Time, allowing the creditor to demand full repayment immediately, even though the originally agreed due date had not arrived.",
+    "exampleTranslation": "借主は期限の利益の放棄を実行し、当初合意した期限が到来していなかったにもかかわらず、債権者が直ちに全額返済を請求することを可能にした。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "unilateral declaration",
+        "translation": "一方的な意思表示 (いっぽうてきないしひょうじ)"
+      },
+      {
+        "word": "renounce",
+        "translation": "放棄する (ほうきする)"
+      },
+      {
+        "word": "accelerating the performance date",
+        "translation": "履行期を繰り上げる (りこうきをくりあげる)"
+      },
+      {
+        "word": "prejudice the interests",
+        "translation": "利益を害する (りえきをがいする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right of Separate Sale",
+    "definition": "A right held by a secured creditor (such as a mortgagee or pledgee) in insolvency proceedings to enforce their security interest against the collateral independently of the general bankruptcy or corporate reorganization procedures.",
+    "japaneseDefinition": "破産手続き等において、担保権を有する債権者が、その担保権の目的となっている財産について、破産財団によらずに別個に行使できる権利。",
+    "japaneseWordTranslation": "別除権 (べつじょけん)",
+    "legalContext": "This right ensures the integrity of real rights created under the Civil Code (such as hypothec or pledge) when the obligor enters insolvency, allowing the creditor to realize the secured asset's value outside the distribution scheme.",
+    "japaneseLegalContext": "この権利は、債務者が倒産手続に入った場合でも、民法上の担保物権（抵当権や質権など）を有する債権者が、一般的な配当手続とは別に担保権を実行することを保障する。",
+    "exampleSentence": "The bank exercised its Right of Separate Sale against the debtor's factory building, which was subject to a prior hypothec, despite the commencement of bankruptcy proceedings.",
+    "exampleTranslation": "銀行は、破産手続の開始にもかかわらず、以前に抵当権が設定されていた債務者の工場建物に対して別除権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "secured creditor",
+        "translation": "担保権者 (たんぽけんしゃ)"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権 (たんぽけん)"
+      },
+      {
+        "word": "collateral",
+        "translation": "担保 (たんぽ)"
+      },
+      {
+        "word": "insolvency proceedings",
+        "translation": "倒産手続 (とうさんてつづき)"
+      },
+      {
+        "word": "enforce",
+        "translation": "行使する (こうしする)"
+      }
+    ]
   }
 ]

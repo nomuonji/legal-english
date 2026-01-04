@@ -9562,5 +9562,81 @@
         "translation": "不法行為による妨害 (Fuhō Kōi ni yoru Bōgai)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judgment on Facts",
+    "definition": "A judicial instance (court level), typically the first or second instance (District or High Court), responsible for examining and determining the facts of the case based on evidence, in addition to applying the law.",
+    "japaneseDefinition": "証拠調べに基づき、事実認定（証拠による事実の確定）と法律の適用を行う審級（裁判所の段階）。通常、第一審及び控訴審がこれに当たる。",
+    "japaneseWordTranslation": "事実審 (じじつしん)",
+    "legalContext": "Japanese civil litigation employs a three-instance system where the first two instances (District Court and High Court) are generally considered Judgments on Facts, while the Supreme Court is primarily a Judgment on Law.",
+    "japaneseLegalContext": "日本の民事訴訟は三審制を採用しており、最初の二審（地方裁判所と高等裁判所）が一般に事実審と見なされ、最高裁判所は主に法律審となる。",
+    "exampleSentence": "Since the High Court serves as the final Judgment on Facts instance, the appellant was given an opportunity to introduce new documentary evidence during the Kōso appeal proceedings.",
+    "exampleTranslation": "高等裁判所は最終の事実審として機能するため、控訴人は控訴審の手続き中に新たな書証を提出する機会を与えられた。",
+    "vocabularyList": [
+      {
+        "word": "judicial instance",
+        "translation": "審級 (しんきゅう)"
+      },
+      {
+        "word": "High Court",
+        "translation": "高等裁判所 (こうとうさいばんしょ)"
+      },
+      {
+        "word": "appellant",
+        "translation": "控訴人 (こうそにん)"
+      },
+      {
+        "word": "Kōso appeal",
+        "translation": "控訴 (こうそ)"
+      },
+      {
+        "word": "documentary evidence",
+        "translation": "書証 (しょしょう)"
+      },
+      {
+        "word": "Judgment on Law",
+        "translation": "法律審 (ほうりつしん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Declaration of Future Performance",
+    "definition": "A claim for judgment ordering the defendant to render performance of an obligation that is not yet due, which is only permissible when there is a recognized necessity for prior claim.",
+    "japaneseDefinition": "いまだ履行期が到来していない債務について、将来の履行を命ずる判決を求める訴え。この訴えは、あらかじめ請求する必要性がある場合にのみ許容される。",
+    "japaneseWordTranslation": "将来の給付の訴え (しょうらいのきゅうふのうったえ)",
+    "legalContext": "Civil Procedure Code Art. 135: An action seeking a declaration of future performance may be filed only when there is a necessity for the prior demand.",
+    "japaneseLegalContext": "民事訴訟法第135条: 将来の給付を求める訴えは、あらかじめその請求をする必要がある場合に限り、提起することができる。",
+    "exampleSentence": "The obligee filed an Action for Declaration of Future Performance against the tenant who was consistently late on monthly payments, demonstrating necessity based on the risk of continued non-performance.",
+    "exampleTranslation": "債権者は、継続的な不履行のリスクに基づいて必要性を示し、毎月の支払いが常に遅延している賃借人に対して将来の給付の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "tenant",
+        "translation": "賃借人 (ちんしゃくにん)"
+      },
+      {
+        "word": "not yet due",
+        "translation": "未だ履行期が到来していない (いまだりこうきがとうらいしていない)"
+      },
+      {
+        "word": "prior demand",
+        "translation": "あらかじめの請求 (あらかじめのせいきゅう)"
+      },
+      {
+        "word": "necessity",
+        "translation": "必要性 (ひつようせい)"
+      },
+      {
+        "word": "non-performance",
+        "translation": "不履行 (ふりこう)"
+      }
+    ]
   }
 ]

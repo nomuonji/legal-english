@@ -9482,5 +9482,119 @@
         "translation": "配当 (はいとう)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Delivery/Handover",
+    "definition": "A judicial order mandating that the current possessor (usually the former obligor or debtor) of real property subject to a judicial sale must surrender possession of that property to the successful bidder (acquirer) immediately.",
+    "japaneseDefinition": "不動産競売の買受人に対し、占有者（通常は債務者または旧所有者）から当該不動産の占有を強制的に取得させるために裁判所が出す命令。",
+    "japaneseWordTranslation": "引渡命令 (ひきわたしまいれい)",
+    "legalContext": "Civil Execution Act Art. 83 (Order for delivery of the obligor’s residential real property) and Art. 85 (Delivery Order related to Judicial Auction).",
+    "japaneseLegalContext": "民事執行法第83条（債務者の居住用不動産の引渡し猶予）及び第85条（競売不動産の引渡命令）。",
+    "exampleSentence": "The successful bidder obtained an Order for Delivery/Handover from the execution court, allowing the execution officer to enforce the eviction against the former owner.",
+    "exampleTranslation": "最高価買受人は執行裁判所から引渡命令を受け、執行官が旧所有者に対する強制的な立ち退きを執行できるようになった。",
+    "vocabularyList": [
+      {
+        "word": "successful bidder",
+        "translation": "買受人 (かいうけにん)"
+      },
+      {
+        "word": "enforce the eviction",
+        "translation": "立退きを執行する (たちぬきを しっこうする)"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所 (しっこうさいばんしょ)"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産 (ふどうさん)"
+      },
+      {
+        "word": "execution officer",
+        "translation": "執行官 (しっこうかん)"
+      },
+      {
+        "word": "judicial sale",
+        "translation": "競売 (けいばい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Immune from Seizure",
+    "definition": "Assets, typically certain essential goods or a minimum amount of funds required for the maintenance of the obligor and their dependents' livelihood, which are legally protected from being attached or seized during compulsory execution.",
+    "japaneseDefinition": "債務者及びその同居の親族の生活を維持するために不可欠な財産として、強制執行における差押えが法律上禁止されている動産や債権。",
+    "japaneseWordTranslation": "差押禁止財産 (さしおさえきんしざいさん)",
+    "legalContext": "Civil Execution Act Art. 131 and 132 (Regarding movable properties and claims necessary for basic livelihood and earning income, respectively).",
+    "japaneseLegalContext": "民事執行法第131条及び第132条（生活に必要な動産及び収入を得るために必要な債権等について規定）。",
+    "exampleSentence": "The obligor successfully filed a motion arguing that his basic work tools constituted Property Immune from Seizure, as they were essential for maintaining his livelihood.",
+    "exampleTranslation": "債務者は、自身の基本的な業務上の道具が生活維持に不可欠であるとして、差押禁止財産に該当する旨の申立てに成功した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行 (きょうせいしっこう)"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え (さしおさえ)"
+      },
+      {
+        "word": "livelihood",
+        "translation": "生活 (せいかつ)"
+      },
+      {
+        "word": "claim",
+        "translation": "債権 (さいけん)"
+      },
+      {
+        "word": "movable properties",
+        "translation": "動産 (どうさん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Enforcement on Specified Assets",
+    "definition": "A form of non-monetary execution targeting an obligation to deliver a specific, identified movable or immovable property, enforced by means of direct compulsion or seizure and transfer to the obligee.",
+    "japaneseDefinition": "金銭債権以外の請求権のうち、特定の動産または不動産の引渡しを目的とする債務について、執行官による直接的な強制または当該特定物の占有の取得をもって執行を完了させる手続き。",
+    "japaneseWordTranslation": "特定物執行 (とくていぶつしっこう)",
+    "legalContext": "Civil Execution Act Art. 168 and 169 (Execution of claim for delivery or surrender of things).",
+    "japaneseLegalContext": "民事執行法第168条及び第169条（物の引渡し又は明渡しの請求権についての執行）。",
+    "exampleSentence": "Since the contract required the delivery of a unique sculpture, the obligee had to initiate Enforcement on Specified Assets rather than monetary execution.",
+    "exampleTranslation": "契約が唯一無二の彫刻の引渡しを求めていたため、債権者は金銭執行ではなく特定物執行を開始する必要があった。",
+    "vocabularyList": [
+      {
+        "word": "non-monetary execution",
+        "translation": "非金銭執行 (ひきんせんしっこう)"
+      },
+      {
+        "word": "delivery",
+        "translation": "引渡し (ひきわたし)"
+      },
+      {
+        "word": "unique sculpture",
+        "translation": "唯一無二の彫刻 (ゆいいつむにのちょうこく)"
+      },
+      {
+        "word": "obligation",
+        "translation": "債務 (さいむ)"
+      },
+      {
+        "word": "initiate",
+        "translation": "開始する (かいしする)"
+      },
+      {
+        "word": "specified property",
+        "translation": "特定物 (とくていぶつ)"
+      }
+    ]
   }
 ]

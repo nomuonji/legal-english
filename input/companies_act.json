@@ -8512,5 +8512,119 @@
         "translation": "委任した (いにんした)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Sham Payment",
+    "definition": "The liability imposed on incorporators (promoters) and directors when share subscription payments were made using funds that were immediately returned, failing to genuinely constitute capital contributions.",
+    "japaneseDefinition": "株式の発行に際して、払込みが実際には行われていないにもかかわらず、形式上行われたように見せかけた場合に、発起人や取締役が負うことになる損害賠償責任。",
+    "japaneseWordTranslation": "かそうはらいこみせきにん (Kasō Haraikomi Sekinin)",
+    "legalContext": "Companies Act Art. 52 and 212: Stipulates that promoters and directors who fail to ensure genuine payment for shares are jointly and severally liable to the company for the unpaid portion.",
+    "japaneseLegalContext": "会社法第52条、第212条：発起人及び取締役は、株式発行の際、払込の仮装があった場合、会社に対し、連帯して、払込を履行していない部分について支払う義務を負う。",
+    "exampleSentence": "The directors were found to be in breach of their fiduciary duties and incurred liability for sham payment after the incorporation funds were immediately diverted back to the subscribers.",
+    "exampleTranslation": "取締役らは、設立資金が直ちに引受人に還流された後、忠実義務違反と仮装払込責任を負うことになった。",
+    "vocabularyList": [
+      {
+        "word": "fiduciary duties",
+        "translation": "忠実義務 (Chūjitsu Gimu)"
+      },
+      {
+        "word": "incorporation funds",
+        "translation": "設立資金 (Setsuritsu Shikin)"
+      },
+      {
+        "word": "promoters",
+        "translation": "発起人 (Hokkinin)"
+      },
+      {
+        "word": "jointly and severally liable",
+        "translation": "連帯して責任を負う (Rentai shite Sekinin o Ou)"
+      },
+      {
+        "word": "subscribers",
+        "translation": "引受人 (Hikiuke-nin)"
+      },
+      {
+        "word": "capital contributions",
+        "translation": "出資金 (Shusshikin)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Closely Held Company",
+    "definition": "A company (Kabushiki Gaisha) whose articles of incorporation stipulate that the transfer of all issued shares requires the approval of the company (e.g., the board of directors or the general meeting of shareholders).",
+    "japaneseDefinition": "発行するすべての株式について、譲渡による取得には会社の承認を要する旨が定款で定められている株式会社。",
+    "japaneseWordTranslation": "ひこうかいがいしゃ (Hikōkai Gaisha)",
+    "legalContext": "Companies Act Art. 2(5): Defines a company with share transfer restrictions (譲渡制限会社) which is the legal basis for the concept of a closely held company.",
+    "japaneseLegalContext": "会社法第2条第5号：譲渡による株式の取得について会社の承認を要する旨の定款の定めがある株式会社を定義している。",
+    "exampleSentence": "In a closely held company, the approval of the Board of Directors is necessary before any shareholder can transfer their shares to a third party to maintain control over membership.",
+    "exampleTranslation": "非公開会社においては、株主が第三者に株式を譲渡する前に、構成員に対する支配を維持するため、取締役会の承認が必要である。",
+    "vocabularyList": [
+      {
+        "word": "transfer of shares",
+        "translation": "株式の譲渡 (Kabushiki no Jōto)"
+      },
+      {
+        "word": "articles of incorporation",
+        "translation": "定款 (Teikan)"
+      },
+      {
+        "word": "Board of Directors",
+        "translation": "取締役会 (Torishimariyaku Kai)"
+      },
+      {
+        "word": "approval",
+        "translation": "承認 (Shōnin)"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者 (Daisansha)"
+      },
+      {
+        "word": "maintain control",
+        "translation": "支配を維持する (Shihai o Iji suru)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Resolution for Organizational Restructuring",
+    "definition": "A resolution passed by the General Meeting of Shareholders, typically requiring a supermajority (a Special Resolution), that authorizes fundamental changes to the company's structure, such as mergers, splits, or share exchanges.",
+    "japaneseDefinition": "合併、会社分割、株式交換といった会社の基本的な構造を変更する組織再編行為を承認するために、株主総会で採択される、通常は特別決議を要する決議。",
+    "japaneseWordTranslation": "そしきさいへんけつぎ (Soshiki Saihen Ketsugi)",
+    "legalContext": "Companies Act Art. 309(2): Requires a Special Resolution (two-thirds majority of votes of shareholders present who hold a majority of voting shares) for major organizational changes.",
+    "japaneseLegalContext": "会社法第309条第2項：主要な組織変更を行うには、特別決議（議決権を行使することができる株主の議決権の過半数を有する株主が出席し、出席した当該株主の議決権の3分の2以上の多数）を要すると規定している。",
+    "exampleSentence": "The company required a Resolution for Organizational Restructuring, passed by a two-thirds majority, to approve the absorption-type merger with its subsidiary.",
+    "exampleTranslation": "その会社は、子会社との吸収合併を承認するために、3分の2以上の多数による組織再編決議を必要とした。",
+    "vocabularyList": [
+      {
+        "word": "General Meeting of Shareholders",
+        "translation": "株主総会 (Kabunushi Sōkai)"
+      },
+      {
+        "word": "supermajority",
+        "translation": "特別多数 (Tokubetsu Tasū)"
+      },
+      {
+        "word": "Special Resolution",
+        "translation": "特別決議 (Tokubetsu Ketsugi)"
+      },
+      {
+        "word": "absorption-type merger",
+        "translation": "吸収合併 (Kyūshū Gappei)"
+      },
+      {
+        "word": "company split",
+        "translation": "会社分割 (Kaisha分割)"
+      },
+      {
+        "word": "subsidiary",
+        "translation": "子会社 (Kogaisha)"
+      }
+    ]
   }
 ]

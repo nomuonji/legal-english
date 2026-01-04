@@ -6880,5 +6880,119 @@
         "translation": "手続不遵守 (Tetsuzuki fujunshu)"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legal Basis for Deposit",
+    "definition": "The legally recognized set of circumstances (such as the rightful recipient's inability or refusal to take delivery, or uncertainty regarding the recipient's identity) that permits the obligor to deposit the subject matter with a public depository to terminate their responsibility.",
+    "japaneseDefinition": "債務者が弁済の目的物を供託所に供託し、債務を免れることが法的に認められる原因（受領者の受領拒否、受領不能、債権者不確知など）。",
+    "japaneseWordTranslation": "供託原因 (きょうたくげんいん)",
+    "legalContext": "Civil Code Art. 494: If the creditor refuses to accept tender or is unable to accept it, the obligor may be discharged from his obligation by depositing the subject matter of the obligation.",
+    "japaneseLegalContext": "民法第494条: 債権者が弁済の受領を拒み、又はこれを受領することができないときは、債務者は、弁済の目的物を供託して、その債務を免れることができる。",
+    "exampleSentence": "The company established a statutory legal basis for deposit after the intended recipient repeatedly failed to provide the necessary bank account information for payment.",
+    "exampleTranslation": "受領を予定されていた者が繰り返し必要な銀行口座情報を提供しなかったため、会社は法定の供託原因を確立した。",
+    "vocabularyList": [
+      {
+        "word": "rightful recipient",
+        "translation": "正当な受領権者"
+      },
+      {
+        "word": "inability to take delivery",
+        "translation": "受領不能"
+      },
+      {
+        "word": "uncertainty",
+        "translation": "不確知"
+      },
+      {
+        "word": "public depository",
+        "translation": "供託機関"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "subject matter",
+        "translation": "目的物"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Depositor's Retrieval Right",
+    "definition": "The statutory authority held by the party who made the consignment to recall the deposited property from the deposit repository, provided that the obligee has not yet expressed consent or the deposit's effectiveness has not been confirmed by a final court order.",
+    "japaneseDefinition": "供託者が、供託の受領者が承諾しない間、または供託を有効とする判決が確定しない間に、供託物を供託所から取り戻すことができる権利。",
+    "japaneseWordTranslation": "供託物取戻権 (きょうたくぶつとりもどしけん)",
+    "legalContext": "Civil Code Art. 496(1): The obligor who has made the deposit may retrieve the deposited thing unless the creditor has agreed to receive the deposited thing or a judgment confirming the validity of the deposit has become final.",
+    "japaneseLegalContext": "民法第496条第1項: 供託をした債務者は、債権者が供託を受諾し、又は供託を有効とする判決が確定するまでは、供託物を取り戻すことができる。",
+    "exampleSentence": "Exercising the depositor's retrieval right requires filing a specific application with the competent Deposit Office before the recipient accepts the consignment.",
+    "exampleTranslation": "供託物取戻権を行使するには、受領者が供託を承諾する前に、管轄供託所に特定の申請を提出する必要がある。",
+    "vocabularyList": [
+      {
+        "word": "consignment",
+        "translation": "供託"
+      },
+      {
+        "word": "recall the property",
+        "translation": "財産を回収する"
+      },
+      {
+        "word": "deposit repository",
+        "translation": "供託所"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "competent Deposit Office",
+        "translation": "管轄供託所"
+      },
+      {
+        "word": "final court order",
+        "translation": "確定判決"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Notification of Deposit Filing",
+    "definition": "The statutory requirement obligating the party making the deposit to promptly inform the beneficiary of the deposited property regarding the specifics and fact of the consignment, which is necessary for the deposit to take effect as a full termination of responsibility.",
+    "japaneseDefinition": "供託者が、供託の事実及びその内容を、供託の受領権者に対し、遅滞なく通知する法的義務。この通知は供託による債務消滅の効果発生の要件となる。",
+    "japaneseWordTranslation": "供託通知 (きょうたくつうち)",
+    "legalContext": "Civil Code Art. 495(3): The effect of the deposit is created only when notice of the deposit is given to the creditor without delay.",
+    "japaneseLegalContext": "民法第495条第3項: 供託は、債権者にその旨の通知をした時に、その効力を生ずる。",
+    "exampleSentence": "Failure to issue a timely notification of deposit filing can invalidate the obligor's attempt to terminate the obligation via consignment.",
+    "exampleTranslation": "適時の供託通知の発行を怠ると、債務者が供託を通じて債務を消滅させようとする試みは無効となる可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "statutory requirement",
+        "translation": "法的な要件"
+      },
+      {
+        "word": "promptly inform",
+        "translation": "遅滞なく通知する"
+      },
+      {
+        "word": "beneficiary",
+        "translation": "受領権者"
+      },
+      {
+        "word": "specifics",
+        "translation": "詳細事項"
+      },
+      {
+        "word": "invalidate",
+        "translation": "無効にする"
+      },
+      {
+        "word": "termination of responsibility",
+        "translation": "責任の終了"
+      }
+    ]
   }
 ]

@@ -8312,5 +8312,119 @@
         "translation": "将来の判決"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Execution Court",
+    "definition": "The court designated by law (usually the District Court having jurisdiction over the location of the object) responsible for overseeing the practical implementation (execution) of a Provisional Attachment or Provisional Disposition order.",
+    "japaneseDefinition": "保全命令の執行手続に関する管轄権を持ち、その執行を監督する裁判所。通常は保全すべき目的物の所在地を管轄する地方裁判所。",
+    "japaneseWordTranslation": "保全執行裁判所 (ほぜんしっこうさいばんしょ)",
+    "legalContext": "Civil Preservation Act Art. 8: The jurisdiction over the execution of a preservation measure shall lie with the court where the preservation object is located or the preservation court, unless otherwise provided.",
+    "japaneseLegalContext": "民事保全法第8条: 保全執行は、保全すべきものの所在地を管轄する地方裁判所又は保全命令を発した裁判所が管轄する。",
+    "exampleSentence": "The obligee filed a motion with the Preservation Execution Court to initiate enforcement procedures for the provisional attachment registered against the debtor's real property.",
+    "exampleTranslation": "債権者は、債務者の不動産に対して登記された仮差押えについて、執行手続を開始するために保全執行裁判所に申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "initiate enforcement procedures",
+        "translation": "執行手続を開始する"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Injunction Regarding the Subject Matter of Litigation",
+    "definition": "A type of Provisional Disposition (injunction) intended to preserve the status quo concerning an object (property, rights, etc.) that is the direct subject matter of a pending substantive lawsuit, typically preventing the debtor from transferring, damaging, or encumbering the object.",
+    "japaneseDefinition": "係争中の権利関係について、その目的物（係争物）の現状を変更することを一時的に禁止し、本案訴訟の判決が実現できなくなる危険を回避するための保全措置。",
+    "japaneseWordTranslation": "係争物に関する仮処分 (けいそうぶつにかんするかりしょぶん)",
+    "legalContext": "Civil Preservation Act Art. 23(1) and (2): A Provisional Disposition may be issued in cases concerning the subject matter of litigation, or to establish a temporary status.",
+    "japaneseLegalContext": "民事保全法第23条第1項及び第2項: 仮処分は、係争物に関するもの又は仮の地位を定めるものとする。",
+    "exampleSentence": "The plaintiff requested an Injunction Regarding the Subject Matter of Litigation to prevent the defendant from selling the disputed shares while the ownership dispute was ongoing.",
+    "exampleTranslation": "原告は、所有権紛争が継続している間、被告が係争中の株式を売却するのを阻止するため、係争物に関する仮処分を申請した。",
+    "vocabularyList": [
+      {
+        "word": "plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告"
+      },
+      {
+        "word": "disputed shares",
+        "translation": "係争中の株式"
+      },
+      {
+        "word": "ownership dispute",
+        "translation": "所有権紛争"
+      },
+      {
+        "word": "status quo",
+        "translation": "現状"
+      },
+      {
+        "word": "substantive lawsuit",
+        "translation": "本案訴訟"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Security for Avoidance of Preservation",
+    "definition": "Security (a deposit) that the preservation debtor provides to the court in advance to prevent a provisional attachment or provisional disposition order from being issued or executed, thereby avoiding the restriction on disposition.",
+    "japaneseDefinition": "保全債務者が、保全命令の発令又は執行を阻止・回避するために、予め裁判所に提供する担保金。解放担保金の一種として扱われる。",
+    "japaneseWordTranslation": "免脱担保 (めんだつたんぽ)",
+    "legalContext": "Civil Preservation Act Art. 4(1): The court may, upon the petition of the obligor, order the obligee to cancel the provisional attachment upon the obligor providing a suitable security amount.",
+    "japaneseLegalContext": "民事保全法第4条第1項: 裁判所は、債務者の申立てにより、その債務者が担保を立てることを条件として、仮差押えの決定を取り消すことができる。",
+    "exampleSentence": "The preservation debtor immediately provided the Security for Avoidance of Preservation, calculated by the court, to ensure the continuity of their business operations without a freezing order.",
+    "exampleTranslation": "保全債務者は、凍結命令なしに事業運営の継続を確保するため、裁判所が算定した免脱担保を直ちに提供した。",
+    "vocabularyList": [
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者"
+      },
+      {
+        "word": "deposit",
+        "translation": "供託金 / 担保"
+      },
+      {
+        "word": "provisional disposition order",
+        "translation": "仮処分命令"
+      },
+      {
+        "word": "freezing order",
+        "translation": "凍結命令"
+      },
+      {
+        "word": "cancellation",
+        "translation": "取消し"
+      },
+      {
+        "word": "business operations",
+        "translation": "事業運営"
+      }
+    ]
   }
 ]

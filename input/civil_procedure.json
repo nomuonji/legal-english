@@ -9862,5 +9862,107 @@
         "translation": "財産差押え"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Arbitration Agreement",
+    "definition": "A contractual agreement between parties to submit a present or future civil dispute to binding arbitration instead of judicial proceedings.",
+    "japaneseDefinition": "当事者間の現在の、または将来の紛争を裁判所ではなく、仲裁人の判断に委ねる旨の合意。",
+    "japaneseWordTranslation": "仲裁合意 (Chūsai Gōi)",
+    "legalContext": "Arbitration Act, Art. 2.1: 'An arbitration agreement shall mean an agreement by the parties to submit to arbitration all or certain disputes which have arisen or which may arise between them in respect of a defined legal relationship...'",
+    "japaneseLegalContext": "仲裁法第2条第1項：「仲裁合意とは、当事者間の特定の法律関係（契約によるものであるか否かを問わない。）から生じた又は生じ得る紛争の全部又は一部を、仲裁手続により解決することについて当事者が合意をすることをいう。」",
+    "exampleSentence": "The court dismissed the lawsuit because the underlying contract contained a valid **arbitration agreement** which designated Tokyo as the place of arbitration.",
+    "exampleTranslation": "基礎となる契約に、仲裁地を東京と指定する有効な仲裁合意が含まれていたため、裁判所は訴訟を却下した。",
+    "vocabularyList": [
+      {
+        "word": "Dismissed (a lawsuit)",
+        "translation": "却下した"
+      },
+      {
+        "word": "Underlying contract",
+        "translation": "基礎となる契約"
+      },
+      {
+        "word": "Valid",
+        "translation": "有効な"
+      },
+      {
+        "word": "Civil dispute",
+        "translation": "民事紛争"
+      },
+      {
+        "word": "Binding arbitration",
+        "translation": "拘束力のある仲裁"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deemed Appearance",
+    "definition": "A procedural fiction where a party, despite physical absence from the oral arguments date, is treated as having appeared because their preparatory documents are accepted as having been orally stated.",
+    "japaneseDefinition": "当事者が口頭弁論期日に出頭しない場合でも、事前に提出された準備書面に記載された事項が口頭で陳述されたものとみなされ、出頭したものとして扱われる制度。",
+    "japaneseWordTranslation": "擬制出頭 (Gisei Shuttō)",
+    "legalContext": "Code of Civil Procedure (Minji Soshō Hō) Art. 158: 'If a party who has filed a preparatory document fails to appear at the date for oral arguments, the court may deem the facts stated in the preparatory document to have been stated orally.'",
+    "japaneseLegalContext": "民事訴訟法第158条：「当事者が口頭弁論の期日に出頭しない場合において、その当事者がその期日前に提出した準備書面に記載した事項が、その期日に陳述されたものとみなすことができる。」",
+    "exampleSentence": "The court proceeded with the trial using the mechanism of **deemed appearance** after confirming that the defense counsel had submitted the necessary preparatory documents.",
+    "exampleTranslation": "弁護士が必須の準備書面を提出したことを確認した後、裁判所は擬制出頭の仕組みを用いて審理を進行した。",
+    "vocabularyList": [
+      {
+        "word": "Procedural fiction",
+        "translation": "訴訟上の擬制"
+      },
+      {
+        "word": "Preparatory documents",
+        "translation": "準備書面"
+      },
+      {
+        "word": "Defense counsel",
+        "translation": "弁護士"
+      },
+      {
+        "word": "Oral arguments date",
+        "translation": "口頭弁論期日"
+      },
+      {
+        "word": "Proceeded with the trial",
+        "translation": "審理を進行した"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Venue",
+    "definition": "Statutory provisions designating a court that has specific jurisdiction over a case based on the nature of the claim, such as the location where an obligation is to be performed or where a tort was committed.",
+    "japaneseDefinition": "義務の履行地や不法行為の発生地など、訴訟の内容や当事者間の関係に応じて法定で定められた管轄裁判所。",
+    "japaneseWordTranslation": "特別裁判籍 (Tokubetsu Saibanseki)",
+    "legalContext": "Code of Civil Procedure (Minji Soshō Hō) Art. 5: 'A lawsuit concerning a property right may be filed with the court having jurisdiction over the place where the obligation is to be performed.'",
+    "japaneseLegalContext": "民事訴訟法第5条：「財産権に関する訴えは、義務履行地を管轄する裁判所に提起することができる。」",
+    "exampleSentence": "The plaintiff established **special venue** under Article 5 of the Code of Civil Procedure by proving that the contract stipulated performance in Osaka.",
+    "exampleTranslation": "原告は、契約書に大阪での履行が規定されていることを証明し、民事訴訟法第5条に基づく特別裁判籍を確立した。",
+    "vocabularyList": [
+      {
+        "word": "Statutory provisions",
+        "translation": "法定の規定"
+      },
+      {
+        "word": "Jurisdiction",
+        "translation": "管轄"
+      },
+      {
+        "word": "Property right",
+        "translation": "財産権"
+      },
+      {
+        "word": "Stipulated performance",
+        "translation": "履行を規定した"
+      },
+      {
+        "word": "Obligation",
+        "translation": "義務"
+      }
+    ]
   }
 ]

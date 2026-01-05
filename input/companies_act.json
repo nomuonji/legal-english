@@ -8892,5 +8892,85 @@
         "translation": "必須とされる (ひっすとされる)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Director",
+    "definition": "An officer appointed by the General Meeting of Shareholders to manage the company's business affairs and oversee the execution of operations.",
+    "japaneseDefinition": "株主総会で選任され、会社の業務を執行し、業務執行を監督する職務を担う者。",
+    "japaneseWordTranslation": "取締役 (とりしまりやく)",
+    "legalContext": "Companies Act Art. 326 (Establishment of Directors): 'A Stock Company shall have one or more directors.'",
+    "japaneseLegalContext": "会社法第326条（取締役の設置）：株式会社には、取締役を置かなければならない。",
+    "exampleSentence": "The term of office for a Director in a company with share transfer restrictions is generally two years, unless a longer term is stipulated in the Articles of Incorporation.",
+    "exampleTranslation": "株式譲渡制限会社における取締役の任期は、定款にそれより長い期間が定められている場合を除き、原則として2年である。",
+    "vocabularyList": [
+      {
+        "word": "General Meeting of Shareholders",
+        "translation": "株主総会"
+      },
+      {
+        "word": "term of office",
+        "translation": "任期"
+      },
+      {
+        "word": "company with share transfer restrictions",
+        "translation": "株式譲渡制限会社"
+      },
+      {
+        "word": "stipulated",
+        "translation": "定められている"
+      },
+      {
+        "word": "execution of operations",
+        "translation": "業務の執行"
+      },
+      {
+        "word": "Articles of Incorporation",
+        "translation": "定款"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Limited Liability Arrangement",
+    "definition": "A contractual agreement permitted in the Companies Act that allows a company to limit the monetary liability of certain non-executive officers, such as External Directors, for damages arising from negligence.",
+    "japaneseDefinition": "会社が、社外取締役等の業務執行をしない役員等との間で、過失による損害賠償責任の限度額を、法令に基づき予め定めることを可能とする契約。",
+    "japaneseWordTranslation": "責任限定契約 (せきにん げんてい けいやく)",
+    "legalContext": "Companies Act Art. 427 (Limited Liability Arrangement with Officers, etc.): 'A Stock Company may, by resolution of the board of directors, conclude a contract with a non-executive officer... to limit the liability...' (Subject to A.I. provisions).",
+    "japaneseLegalContext": "会社法第427条（役員等の責任限定契約）：株式会社は、取締役会の決議によって、業務執行をしない役員等との間で、その責任を限定する契約を締結することができる（定款規定を要する）。",
+    "exampleSentence": "The validity of the Limited Liability Arrangement is contingent upon the Articles of Incorporation containing a provision authorizing such contracts.",
+    "exampleTranslation": "責任限定契約の有効性は、かかる契約を承認する規定が定款に盛り込まれていることに左右される。",
+    "vocabularyList": [
+      {
+        "word": "non-executive officer",
+        "translation": "業務執行をしない役員"
+      },
+      {
+        "word": "monetary liability",
+        "translation": "金銭的な責任"
+      },
+      {
+        "word": "negligence",
+        "translation": "過失"
+      },
+      {
+        "word": "validity",
+        "translation": "有効性"
+      },
+      {
+        "word": "contingent upon",
+        "translation": "～に左右される"
+      },
+      {
+        "word": "Articles of Incorporation",
+        "translation": "定款"
+      },
+      {
+        "word": "statutory requirements",
+        "translation": "法令上の要件"
+      }
+    ]
   }
 ]

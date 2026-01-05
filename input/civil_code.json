@@ -10588,5 +10588,119 @@
         "translation": "優先される"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Original Acquisition",
+    "definition": "The acquisition of a right (typically ownership or other proprietary rights) based on a cause that is independent of any preceding right holder, meaning the right is acquired free from any prior encumbrances or limitations.",
+    "japaneseDefinition": "既存の権利に基づかず、自らの独立した原因によって新しい権利を取得すること。所有権等の物権について、先代の権利者の制限を受けずに取得する態様。",
+    "japaneseWordTranslation": "原始取得 (げんししゅとく)",
+    "legalContext": "Fundamental principle of Property Law, contrasting with Derivative Acquisition (承継取得), applying to concepts like construction of a new building.",
+    "japaneseLegalContext": "物権法の基本原則であり、承継取得と対比される。例えば、新築建物に所有権が発生する場合。",
+    "exampleSentence": "The developer's ownership of the newly constructed condominium unit constitutes original acquisition, rendering it free from any unregistered mortgages on the land.",
+    "exampleTranslation": "開発業者が新築した分譲マンションの専有部分の所有権は、原始取得にあたり、土地上の未登記の抵当権による負担を受けない。",
+    "vocabularyList": [
+      {
+        "word": "Proprietary rights",
+        "translation": "物権 (ぶっけん)"
+      },
+      {
+        "word": "Preceding right holder",
+        "translation": "先代の権利者 (せんだいのけんりしゃ)"
+      },
+      {
+        "word": "Encumbrances",
+        "translation": "負担 (ふたん)"
+      },
+      {
+        "word": "Derivative Acquisition",
+        "translation": "承継取得 (しょうけいしゅとく)"
+      },
+      {
+        "word": "Condominium unit",
+        "translation": "分譲マンションの専有部分 (ぶんじょうまんしょんのせんゆうぶぶん)"
+      },
+      {
+        "word": "Unregistered mortgages",
+        "translation": "未登記の抵当権 (みとうきのていとうけん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Alternative Obligation",
+    "definition": "An obligation where the performance involves the selection of one item or act from several options specified in the agreement, with the right of selection typically resting with the obligor unless otherwise agreed.",
+    "japaneseDefinition": "給付として数個の行為の中から一つを選択すべき債権。選択権は、特段の定めがない限り、債務者に帰属する。",
+    "japaneseWordTranslation": "選択債権 (せんたくさいけん)",
+    "legalContext": "Civil Code Art. 406 (Alternative Obligation): If the subject matter of the performance is to be determined by the selection of one out of several acts, the right of selection shall reside in the obligor.",
+    "japaneseLegalContext": "民法第406条（選択債権）：債権の目的が、数個の行為のうち、その選択に従って一つに定まるときは、その選択権は、債務者に属する。",
+    "exampleSentence": "If the selection right for the alternative obligation is transferred to the obligee, the obligor must notify the obligee to exercise that right within a reasonable period.",
+    "exampleTranslation": "選択債権の選択権が債権者に移転した場合、債務者は、債権者に対し、相当の期間内にその権利を行使するよう催告しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Performance",
+        "translation": "給付 (きゅうふ)"
+      },
+      {
+        "word": "Obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "Obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "Selection right",
+        "translation": "選択権 (せんたくけん)"
+      },
+      {
+        "word": "Notify",
+        "translation": "催告する (さいこくする)"
+      },
+      {
+        "word": "Reasonable period",
+        "translation": "相当の期間 (そうとうのきかん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Covenant against Assignment",
+    "definition": "A contractual agreement between the obligor and the obligee stipulating that the claim cannot be transferred to a third party, used primarily to restrict the liquidity of the claim.",
+    "japaneseDefinition": "債権者と債務者との間で、その債権を第三者に譲渡することを禁止する旨の契約上の特約。債権の流動性を制限する目的で用いられる。",
+    "japaneseWordTranslation": "譲渡禁止特約 (じょうときんしとくやく)",
+    "legalContext": "Civil Code Art. 466 (Transfer of Claim): A claim may be transferred, unless the parties have agreed otherwise. However, such agreement may not be asserted against a third party who did not know of such agreement.",
+    "japaneseLegalContext": "民法第466条（債権の譲渡性）：債権は、当事者が反対の意思を表示した場合を除き、譲り渡すことができる。ただし、その意思表示は、善意の第三者に対抗することができない。",
+    "exampleSentence": "A covenant against assignment does not nullify the transfer of the claim itself, but merely gives the obligor a right to refuse performance to the transferee.",
+    "exampleTranslation": "譲渡禁止特約は債権の譲渡そのものを無効にするわけではなく、単に債務者に譲受人への履行を拒絶する権利を与えるにすぎない。",
+    "vocabularyList": [
+      {
+        "word": "Stipulating",
+        "translation": "約定する (やくじょうする)"
+      },
+      {
+        "word": "Liquidity",
+        "translation": "流動性 (りゅうどうせい)"
+      },
+      {
+        "word": "Transfer of Claim",
+        "translation": "債権の譲渡 (さいけんのじょうと)"
+      },
+      {
+        "word": "Asserted against",
+        "translation": "対抗することができない (たいこうすることができない)"
+      },
+      {
+        "word": "Nullify",
+        "translation": "無効にする (むこうにする)"
+      },
+      {
+        "word": "Transferee",
+        "translation": "譲受人 (ゆずりうけにん)"
+      }
+    ]
   }
 ]

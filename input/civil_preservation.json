@@ -8540,5 +8540,81 @@
         "translation": "第三者 (だいさんしゃ)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Creditor",
+    "definition": "The party who files a petition seeking a preservation measure (such as provisional attachment or provisional disposition) to secure their claim against the preservation debtor.",
+    "japaneseDefinition": "保全手続において、仮差押えや仮処分を申し立て、債務者（保全債務者）に対する自己の請求権の保全を図ろうとする当事者。",
+    "japaneseWordTranslation": "保全債権者 (ほぜんさいけんしゃ)",
+    "legalContext": "Civil Preservation Act, Art. 2(2): Defines the Preservation Creditor and the Preservation Debtor as the parties involved in the preservation procedure.",
+    "japaneseLegalContext": "民事保全法第2条第2項: 保全命令事件における当事者として、保全債権者及び保全債務者を定義している。",
+    "exampleSentence": "The Preservation Creditor must demonstrate a preservable claim and the necessity of preservation to obtain a Preservation Order.",
+    "exampleTranslation": "保全債権者は、保全命令を得るために、被保全債権と保全の必要性を疎明しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Preservation Debtor",
+        "translation": "保全債務者"
+      },
+      {
+        "word": "preservable claim",
+        "translation": "被保全債権"
+      },
+      {
+        "word": "necessity of preservation",
+        "translation": "保全の必要性"
+      },
+      {
+        "word": "Preservation Order",
+        "translation": "保全命令"
+      },
+      {
+        "word": "demonstrate",
+        "translation": "疎明する (Prima Facie Show)"
+      },
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Monetary Deposit for Attachment Release",
+    "definition": "A sum of money deposited by the preservation debtor, in the amount determined by the court, which results in the cancellation or discharge of a provisional attachment, replacing the attached property as the secured object.",
+    "japaneseDefinition": "債務者が仮差押えの執行を取り消すために、裁判所が定めた金額を供託する金銭。供託された金銭が差押対象物に代わって保全の目的となる。",
+    "japaneseWordTranslation": "仮差押解放金 (かりさしおさえかいほうきん)",
+    "legalContext": "Civil Preservation Act, Art. 25(1): Stipulates that a provisional attachment may be revoked if the debtor deposits the amount of security determined by the court.",
+    "japaneseLegalContext": "民事保全法第25条第1項: 「裁判所は、保全債務者の申立てにより、その申立てに係る仮差押えの執行の全部の取消しを命じなければならない。ただし、当該仮差押えが仮に差し押さえるべき金銭の額をもつてされたものであるときは、保全債務者が裁判所が定めた金銭を供託したときに限る。」",
+    "exampleSentence": "The debtor exercised the right to deposit the Monetary Deposit for Attachment Release to secure the immediate use of the seized machinery.",
+    "exampleTranslation": "債務者は、差し押さえられた機械の即時使用を確保するため、仮差押解放金を供託する権利を行使した。",
+    "vocabularyList": [
+      {
+        "word": "deposit",
+        "translation": "供託する"
+      },
+      {
+        "word": "revoked",
+        "translation": "取り消される"
+      },
+      {
+        "word": "cancellation",
+        "translation": "取消し"
+      },
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者"
+      },
+      {
+        "word": "seized machinery",
+        "translation": "差し押さえられた機械"
+      },
+      {
+        "word": "security",
+        "translation": "担保／保証金"
+      }
+    ]
   }
 ]

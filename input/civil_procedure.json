@@ -9786,5 +9786,81 @@
         "translation": "本案において"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interlocutory Injunction",
+    "definition": "A type of provisional disposition (preservation measure) aimed at establishing a temporary legal status concerning the subject matter of a dispute, usually by mandating or prohibiting specific actions, to prevent significant detriment until the final judgment is rendered.",
+    "japaneseDefinition": "争いのある権利関係について、その地位を暫定的に定めることにより、本案判決までの間に生じる著しい損害や急迫の危険を防ぐための仮の保全処分。",
+    "japaneseWordTranslation": "仮の地位を定める仮処分 (kari no chii o sadameru kari shobun)",
+    "legalContext": "Civil Preservation Act Art. 23 (2): 'An interlocutory injunction may be granted... when necessary to avert substantial detriment... or imminent danger in relation to the rights or legal relationship involved in the dispute.'",
+    "japaneseLegalContext": "民事保全法第23条第2項: 「争いがある権利関係について、債権者に生じる著しい損害又は急迫の危険を避けるためにその地位を定める必要があるときにも、仮処分を命ずることができる。」",
+    "exampleSentence": "The company sought an *Interlocutory Injunction* to mandate the immediate cessation of defamatory publications by the competing firm, pending the full trial on the merits.",
+    "exampleTranslation": "その会社は、競合他社に対し、本案の完全な審理が行われるまでの間、中傷的な出版物を直ちに停止させるよう求める仮の地位を定める仮処分を申請した。",
+    "vocabularyList": [
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分"
+      },
+      {
+        "word": "status quo",
+        "translation": "現状"
+      },
+      {
+        "word": "final judgment",
+        "translation": "本案判決"
+      },
+      {
+        "word": "subject matter of a dispute",
+        "translation": "争いの対象"
+      },
+      {
+        "word": "cessation",
+        "translation": "停止"
+      },
+      {
+        "word": "trial on the merits",
+        "translation": "本案の審理"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Writ of Execution",
+    "definition": "A formal certificate (or clause) issued by the court clerk, appended to the authenticated copy of a judgment or other execution title, certifying that the title has satisfied the legal prerequisites necessary to commence compulsory execution against the obligor.",
+    "japaneseDefinition": "確定判決や和解調書などの執行力ある文書（執行権原）の正本に付される公の証明文言で、債務者に対する強制執行の開始に必要な法的要件が満たされていることを認証するもの。",
+    "japaneseWordTranslation": "執行文 (shikkōbun)",
+    "legalContext": "Civil Execution Act Art. 25: 'Compulsory execution shall be implemented based on the authenticated copy of the execution title to which the writ of execution is appended.'",
+    "japaneseLegalContext": "民事執行法第25条: 「強制執行は、執行文の付された債務名義の正本に基づいて実施する。」",
+    "exampleSentence": "The obligee obtained the *Writ of Execution* from the court clerk, which enabled the filing of the petition for the seizure of the debtor's assets.",
+    "exampleTranslation": "債権者は裁判所書記官から執行文を取得し、それにより債務者の財産差押えの申立てを行うことが可能となった。",
+    "vocabularyList": [
+      {
+        "word": "execution title",
+        "translation": "債務名義"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "authenticated copy",
+        "translation": "正本"
+      },
+      {
+        "word": "court clerk",
+        "translation": "裁判所書記官"
+      },
+      {
+        "word": "seizure of assets",
+        "translation": "財産差押え"
+      }
+    ]
   }
 ]

@@ -2,44 +2,6 @@
   {
     "category": "Commercial Registration (商業登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Reduction of Stated Capital",
-    "definition": "A corporate action decreasing the formal amount of the company's stated capital (資本金) registered in the commercial records, often requiring special procedures for creditor protection prior to registration.",
-    "japaneseDefinition": "会社の商業登記簿に記録された正式な資本金の額を減少させる会社法上の行為。登記に先立って、債権者保護手続などの特別な手続を要する場合が多い。",
-    "japaneseWordTranslation": "資本金の額の減少 (しほんきんのがくのげんしょう)",
-    "legalContext": "Corporate Act Art. 447 (Resolution on Reduction of Stated Capital) and Commercial Registration Act Art. 45 (Matters to be Registered for Stock Companies): Mandates the registration of the amended capital amount.",
-    "japaneseLegalContext": "会社法 第447条 (資本金の額の減少に関する決定) および商業登記法 第45条 (株式会社の登記すべき事項): 修正された資本金の額の登記を義務付ける。",
-    "exampleSentence": "The application for the reduction of stated capital was rejected because the necessary procedures for creditor protection had not been properly documented.",
-    "exampleTranslation": "債権者保護のための必要手続が適切に文書化されていなかったため、資本金の額の減少の申請は却下された。",
-    "vocabularyList": [
-      {
-        "word": "Stated Capital",
-        "translation": "資本金 (しほんきん)"
-      },
-      {
-        "word": "Creditor Protection Procedure",
-        "translation": "債権者保護手続 (さいけんしゃほごてつづき)"
-      },
-      {
-        "word": "Corporate Action",
-        "translation": "会社法上の行為 (かいしゃほうじょうのこうい)"
-      },
-      {
-        "word": "Application",
-        "translation": "申請 (しんせい)"
-      },
-      {
-        "word": "Rejected",
-        "translation": "却下された (きゃっかされた)"
-      },
-      {
-        "word": "Documented",
-        "translation": "文書化された (ぶんしょかされた)"
-      }
-    ]
-  },
-  {
-    "category": "Commercial Registration (商業登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Attestation of signature",
     "definition": "The official certification or authentication by a notary public or administrative body confirming that a signature on a document is genuinely that of the person named.",
     "japaneseDefinition": "公証人または在外公館などにより、署名が確かにその本人によってなされたものであることを証明する行為。",
@@ -7954,6 +7916,120 @@
       {
         "word": "in a timely manner",
         "translation": "期限内に"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for False Registration Declaration",
+    "definition": "The legal responsibility, typically involving a non-penal fine (karyō), imposed on a person who knowingly registers false information or makes a fictitious declaration regarding required registered matters.",
+    "japaneseDefinition": "商業登記の申請において、虚偽の事項を登記した者に対して、法令に基づき課される過料（行政罰）などの責任。",
+    "japaneseWordTranslation": "虚偽の登記の申立人の責任 (きょぎのとうきのもうしたてにんのせきにん)",
+    "legalContext": "Commercial Registration Act Art. 147: Imposes non-penal fines for failure to register or for registering false information.",
+    "japaneseLegalContext": "商業登記法第147条：「この法律により登記すべき事項につき虚偽の登記をした者...は、百万円以下の過料に処する。」",
+    "exampleSentence": "The former representative director faced severe **liability for false registration declaration** after intentionally misstating the company's stated capital in the application.",
+    "exampleTranslation": "元代表取締役は、申請書において会社の資本金を意図的に誤って記載した後、虚偽の登記の申立人の責任を厳しく問われた。",
+    "vocabularyList": [
+      {
+        "word": "representative director",
+        "translation": "代表取締役"
+      },
+      {
+        "word": "stated capital",
+        "translation": "資本金"
+      },
+      {
+        "word": "non-penal fine",
+        "translation": "過料"
+      },
+      {
+        "word": "application",
+        "translation": "申請書"
+      },
+      {
+        "word": "intentionally",
+        "translation": "意図的に"
+      },
+      {
+        "word": "misstating",
+        "translation": "誤って記載すること"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order to Correct Defects",
+    "definition": "An instruction issued by the registrar requiring the applicant to rectify formal deficiencies or inaccuracies found in a registration application within a specified period.",
+    "japaneseDefinition": "登記官が申請書類の不備や誤りを是正させるために、申請人に対して一定期間内に発する命令。この命令に従わない場合、申請は却下される。",
+    "japaneseWordTranslation": "登記官による補正命令 (とうきかんによるほせいめいれい)",
+    "legalContext": "Commercial Registration Act Art. 24(1): If the registration application contains defects that are correctable, the registrar shall order the applicant to correct them within a specified period.",
+    "japaneseLegalContext": "商業登記法第24条第1項：「登記官は、登記の申請に不備がある場合であつても、その不備が補正により治癒することができるものであるときは、相当の期間を定めて、当該申請人にその補正を命じなければならない。」",
+    "exampleSentence": "If the accompanying documents were incomplete, the registrar would issue an **Order to Correct Defects**, and failure to comply within the deadline would lead to rejection.",
+    "exampleTranslation": "添付書類が不完全な場合、登記官は補正命令を発し、期限内に遵守しない場合は却下される。",
+    "vocabularyList": [
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "accompanying documents",
+        "translation": "添付書類"
+      },
+      {
+        "word": "incomplete",
+        "translation": "不完全な"
+      },
+      {
+        "word": "rectify",
+        "translation": "是正する"
+      },
+      {
+        "word": "comply",
+        "translation": "従う"
+      },
+      {
+        "word": "rejection",
+        "translation": "却下"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Retroactive Effect from Reception",
+    "definition": "The principle that, although commercial registration legally takes effect upon entry into the register, the effective timing of that registration is retroactively deemed to be the moment the application was initially received by the registry office.",
+    "japaneseDefinition": "商業登記が商業登記簿に記載された時に効力を生ずるが、その登記の効力発生の時期は、遡って申請書が登記所に到達した時とする原則。",
+    "japaneseWordTranslation": "受付時遡及効 (うけつけじそきゅうこう)",
+    "legalContext": "Commercial Registration Act Art. 26: Registration takes effect when it is entered into the commercial register, but the time of registration is deemed to be the time of reception of the application.",
+    "japaneseLegalContext": "商業登記法第26条：「登記は、商業登記簿に記載した時に効力を生ずる。ただし、登記の時間は、申請書が登記所に到達した時とする。」",
+    "exampleSentence": "Due to the **Retroactive Effect from Reception**, the registration of a new issuance of shares, completed today, is legally recognized as having occurred when the application was submitted last week.",
+    "exampleTranslation": "受付時遡及効により、本日完了した新株発行の登記は、先週申請書が提出された時点から法的に認められる。",
+    "vocabularyList": [
+      {
+        "word": "issuance of shares",
+        "translation": "新株発行"
+      },
+      {
+        "word": "legally recognized",
+        "translation": "法的に認められる"
+      },
+      {
+        "word": "application",
+        "translation": "申請書"
+      },
+      {
+        "word": "registry office",
+        "translation": "登記所"
+      },
+      {
+        "word": "commercial register",
+        "translation": "商業登記簿"
+      },
+      {
+        "word": "submitted",
+        "translation": "提出された"
       }
     ]
   }

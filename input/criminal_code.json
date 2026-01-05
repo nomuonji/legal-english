@@ -9120,5 +9120,119 @@
         "translation": "手形・小切手"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "General Part of Criminal Law",
+    "definition": "The section of criminal law addressing general principles applicable to all crimes, such as theories of crime structure, complicity, attempt, and sentencing.",
+    "japaneseDefinition": "犯罪の成立要件、共犯、未遂、刑罰論など、個別の犯罪に共通する原理を扱う刑法の総則部分。",
+    "japaneseWordTranslation": "刑法総論 (けいほうそうろん)",
+    "legalContext": "Criminal Code, Book I (General Provisions)",
+    "japaneseLegalContext": "刑法第1編 (総則)",
+    "exampleSentence": "A comprehensive understanding of the **General Part of Criminal Law** is essential for analyzing issues related to criminal liability and culpability.",
+    "exampleTranslation": "犯罪責任と有責性に関連する問題を分析するためには、刑法総論の包括的な理解が不可欠である。",
+    "vocabularyList": [
+      {
+        "word": "General Provisions",
+        "translation": "総則 (そうそく)"
+      },
+      {
+        "word": "criminal liability",
+        "translation": "刑事責任 (けいじせきにん)"
+      },
+      {
+        "word": "crime structure",
+        "translation": "犯罪の構造 (はんざいのこうぞう)"
+      },
+      {
+        "word": "complicity",
+        "translation": "共犯 (きょうはん)"
+      },
+      {
+        "word": "culpability",
+        "translation": "有責性 (ゆうせきせい)"
+      },
+      {
+        "word": "sentencing theory",
+        "translation": "刑罰論 (けいばつろん)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Commission by Omission",
+    "definition": "A specific type of offense where the perpetrator, despite having a legal guarantor status (duty to act), causes a prohibited result by failing to perform that duty, thus legally equating the omission to a positive act.",
+    "japaneseDefinition": "被告人が保証人としての地位（作為義務）にあるにもかかわらず、義務を履行しなかった結果、法益侵害という結果が生じた場合に、これを作為による犯罪として処罰すること。",
+    "japaneseWordTranslation": "不作為の作為犯 (ふさくいのさくいはん)",
+    "legalContext": "Principles of Criminal Liability (General Theory of Act): Requirement of a guarantor status for liability.",
+    "japaneseLegalContext": "刑法上の行為論における作為義務と保証人たる地位の原則",
+    "exampleSentence": "The prosecutor argued that the corporate director’s refusal to implement safety measures constituted **Commission by Omission**, leading directly to the resulting injuries.",
+    "exampleTranslation": "検察官は、その会社役員が安全対策の実施を拒否したことが不作為の作為犯を構成し、結果的に生じた傷害に直結したと主張した。",
+    "vocabularyList": [
+      {
+        "word": "guarantor status",
+        "translation": "保証人たる地位 (ほしょうにんたるちい)"
+      },
+      {
+        "word": "duty to act",
+        "translation": "作為義務 (さくいぎむ)"
+      },
+      {
+        "word": "positive act",
+        "translation": "作為 (さくい)"
+      },
+      {
+        "word": "prohibited result",
+        "translation": "結果の発生 (けっかのはっせい)"
+      },
+      {
+        "word": "corporate director",
+        "translation": "会社役員 (かいしゃやくいん)"
+      },
+      {
+        "word": "resulting injuries",
+        "translation": "生じた傷害 (しょうじたしょうがい)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Innocuous Subsequent Act",
+    "definition": "An act performed by the perpetrator after the consummation of a primary crime, which does not independently infringe upon a new legal interest, and is therefore typically not punished separately but absorbed into the main offense.",
+    "japaneseDefinition": "既に侵害された法益に対してのみ影響を与え、主要な犯罪の既遂後に犯人が行う行為で、新たな法益侵害がないため、別に処罰されない行為。",
+    "japaneseWordTranslation": "不可罰的事後行為 (ふかばつてきじごこうい)",
+    "legalContext": "Principle of Plurality of Offenses (Doctrine of Absorption/Consolidated Offenses)",
+    "japaneseLegalContext": "罪数論における一罪と多罪の区別 (吸収関係)",
+    "exampleSentence": "The court ruled that the destruction of evidence, occurring after the core crime was completed, qualified as an **Innocuous Subsequent Act** and did not warrant separate conviction.",
+    "exampleTranslation": "裁判所は、主要な犯罪が完了した後に発生した証拠の破棄は、不可罰的事後行為に該当し、別途の有罪判決を正当化しないとの判決を下した。",
+    "vocabularyList": [
+      {
+        "word": "primary crime",
+        "translation": "一次犯罪 (いちじはんざい)"
+      },
+      {
+        "word": "infringe upon",
+        "translation": "侵害する (しんがいする)"
+      },
+      {
+        "word": "legal interest",
+        "translation": "法益 (ほうえき)"
+      },
+      {
+        "word": "new conviction",
+        "translation": "別途の有罪判決 (べっとのゆうざいはんけつ)"
+      },
+      {
+        "word": "Act of Disposal",
+        "translation": "処分行為 (しょぶんこうい)"
+      },
+      {
+        "word": "Consolidated Offenses",
+        "translation": "吸収関係 (きゅうしゅうかんけい)"
+      }
+    ]
   }
 ]

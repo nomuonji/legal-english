@@ -1,38 +1,38 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Commercial Registration (商業登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Confiscation",
-  "definition": "A supplementary punitive measure involving the compulsory deprivation of specific property related to the crime, such as objects used in the offense or those acquired through it, ordered by the court.",
-  "japaneseDefinition": "刑罰の一種であり、犯罪行為に関連する特定の物を強制的に剥奪する裁判所の処分。没収ともいう。",
-  "japaneseWordTranslation": "没収 (ぼっしゅう)",
-  "legalContext": "Criminal Code Art. 19: The following may be confiscated: 1. Objects which constituted the criminal act; 2. Objects used or intended to be used for the criminal act; 3. Objects produced by or acquired through the criminal act.",
-  "japaneseLegalContext": "刑法第19条：次に掲げる物は、没収することができる。1. 犯罪行為を組成した物。2. 犯罪行為の用に供し、又は供しようとした物。3. 犯罪行為によって生じ、若しくは取得した物。",
-  "exampleSentence": "The court ordered the confiscation of the funds derived from the illegal operation, along with the equipment used to facilitate the crime.",
-  "exampleTranslation": "裁判所は、違法な事業から得られた資金と、その犯罪を助長するために使用された設備について没収を命じた。",
+  "word": "Reduction of Stated Capital",
+  "definition": "A corporate action decreasing the formal amount of the company's stated capital (資本金) registered in the commercial records, often requiring special procedures for creditor protection prior to registration.",
+  "japaneseDefinition": "会社の商業登記簿に記録された正式な資本金の額を減少させる会社法上の行為。登記に先立って、債権者保護手続などの特別な手続を要する場合が多い。",
+  "japaneseWordTranslation": "資本金の額の減少 (しほんきんのがくのげんしょう)",
+  "legalContext": "Corporate Act Art. 447 (Resolution on Reduction of Stated Capital) and Commercial Registration Act Art. 45 (Matters to be Registered for Stock Companies): Mandates the registration of the amended capital amount.",
+  "japaneseLegalContext": "会社法 第447条 (資本金の額の減少に関する決定) および商業登記法 第45条 (株式会社の登記すべき事項): 修正された資本金の額の登記を義務付ける。",
+  "exampleSentence": "The application for the reduction of stated capital was rejected because the necessary procedures for creditor protection had not been properly documented.",
+  "exampleTranslation": "債権者保護のための必要手続が適切に文書化されていなかったため、資本金の額の減少の申請は却下された。",
   "vocabularyList": [
     {
-      "word": "supplementary measure",
-      "translation": "付加刑 (付加的な処分)"
+      "word": "Stated Capital",
+      "translation": "資本金 (しほんきん)"
     },
     {
-      "word": "deprivation",
-      "translation": "剥奪"
+      "word": "Creditor Protection Procedure",
+      "translation": "債権者保護手続 (さいけんしゃほごてつづき)"
     },
     {
-      "word": "derived from",
-      "translation": "〜から得られた"
+      "word": "Corporate Action",
+      "translation": "会社法上の行為 (かいしゃほうじょうのこうい)"
     },
     {
-      "word": "illegal operation",
-      "translation": "違法な事業"
+      "word": "Application",
+      "translation": "申請 (しんせい)"
     },
     {
-      "word": "to facilitate",
-      "translation": "助長する"
+      "word": "Rejected",
+      "translation": "却下された (きゃっかされた)"
     },
     {
-      "word": "intended to be used",
-      "translation": "用に供しようとした"
+      "word": "Documented",
+      "translation": "文書化された (ぶんしょかされた)"
     }
   ]
 }

@@ -2,44 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Confiscation",
-    "definition": "A supplementary punitive measure involving the compulsory deprivation of specific property related to the crime, such as objects used in the offense or those acquired through it, ordered by the court.",
-    "japaneseDefinition": "刑罰の一種であり、犯罪行為に関連する特定の物を強制的に剥奪する裁判所の処分。没収ともいう。",
-    "japaneseWordTranslation": "没収 (ぼっしゅう)",
-    "legalContext": "Criminal Code Art. 19: The following may be confiscated: 1. Objects which constituted the criminal act; 2. Objects used or intended to be used for the criminal act; 3. Objects produced by or acquired through the criminal act.",
-    "japaneseLegalContext": "刑法第19条：次に掲げる物は、没収することができる。1. 犯罪行為を組成した物。2. 犯罪行為の用に供し、又は供しようとした物。3. 犯罪行為によって生じ、若しくは取得した物。",
-    "exampleSentence": "The court ordered the confiscation of the funds derived from the illegal operation, along with the equipment used to facilitate the crime.",
-    "exampleTranslation": "裁判所は、違法な事業から得られた資金と、その犯罪を助長するために使用された設備について没収を命じた。",
-    "vocabularyList": [
-      {
-        "word": "supplementary measure",
-        "translation": "付加刑 (付加的な処分)"
-      },
-      {
-        "word": "deprivation",
-        "translation": "剥奪"
-      },
-      {
-        "word": "derived from",
-        "translation": "〜から得られた"
-      },
-      {
-        "word": "illegal operation",
-        "translation": "違法な事業"
-      },
-      {
-        "word": "to facilitate",
-        "translation": "助長する"
-      },
-      {
-        "word": "intended to be used",
-        "translation": "用に供しようとした"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Fraudulent Offense",
     "definition": "A crime committed by deceiving another person and thereby inducing them to dispose of property or acquire an economic interest, resulting in illegal gain for the perpetrator or a third party.",
     "japaneseDefinition": "人を欺き、錯誤に陥らせることによって財産を交付させたり、不法な利益を得たりする犯罪。",
@@ -9042,6 +9004,120 @@
       {
         "word": "demonstrate",
         "translation": "立証する"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Crime of Receiving Stolen Property",
+    "definition": "The offense committed by receiving, transporting, storing, or brokering the disposal of property obtained through specific underlying crimes like theft, robbery, or fraud.",
+    "japaneseDefinition": "盗品その他財産に対する罪により得られた物について、これを領得、運搬、保管、またはあっせんする行為を罰する犯罪。",
+    "japaneseWordTranslation": "盗品等関与罪 (とうひんとうかんよざい)",
+    "legalContext": "Penalizes involvement with property acquired through illicit means, including the acquisition, transport, storage, or brokerage related to such property. (Criminal Code Art. 256)",
+    "japaneseLegalContext": "刑法第256条（盗品譲り受け等及び盗品等運搬等）：盗品その他財産に対する罪により得られた物を譲り受けた者、運搬した者、保管した者又は有償若しくは無償のあっせんをした者。",
+    "exampleSentence": "The defendant was charged with the Crime of Receiving Stolen Property after police discovered the stolen artworks hidden in their warehouse.",
+    "exampleTranslation": "警察が被告人の倉庫に隠された盗品美術品を発見した後、被告人は盗品等関与罪で起訴された。",
+    "vocabularyList": [
+      {
+        "word": "defendant",
+        "translation": "被告人"
+      },
+      {
+        "word": "underlying crimes",
+        "translation": "財産に対する罪 (基礎となる犯罪)"
+      },
+      {
+        "word": "acquisition",
+        "translation": "領得"
+      },
+      {
+        "word": "transport/storage",
+        "translation": "運搬・保管"
+      },
+      {
+        "word": "brokerage",
+        "translation": "あっせん"
+      },
+      {
+        "word": "stolen artworks",
+        "translation": "盗品美術品"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obstruction of Business (Force or Fraud)",
+    "definition": "The offense of intentionally obstructing the business or operational activities of another person through the use of fraudulent means (e.g., spreading false rumors) or force/intimidation.",
+    "japaneseDefinition": "虚偽の風説を流布し、または威力を用いて、人の業務を妨害する犯罪。",
+    "japaneseWordTranslation": "業務妨害罪 (ぎょうむぼうがいざい)",
+    "legalContext": "Punishes disruption of private or public business operations via fraudulent schemes (Art. 233) or intimidation/force (Art. 234). (Criminal Code Arts. 233, 234)",
+    "japaneseLegalContext": "刑法第233条（偽計業務妨害）および第234条（威力業務妨害）：虚偽の風説を流布し、又は偽計を用いて、人の信用を毀損し、又はその業務を妨害した者は、…",
+    "exampleSentence": "Spreading false rumors about a company's product quality constituted the Fraudulent Obstruction of Business, leading to significant corporate damages.",
+    "exampleTranslation": "企業の製品の品質に関する虚偽の風説を流布したことは、偽計業務妨害を構成し、会社に多大な損害をもたらした。",
+    "vocabularyList": [
+      {
+        "word": "fraudulent means",
+        "translation": "偽計"
+      },
+      {
+        "word": "force/intimidation",
+        "translation": "威力"
+      },
+      {
+        "word": "false rumors",
+        "translation": "虚偽の風説"
+      },
+      {
+        "word": "disruption",
+        "translation": "妨害"
+      },
+      {
+        "word": "business operations",
+        "translation": "業務"
+      },
+      {
+        "word": "corporate damages",
+        "translation": "会社の損害"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Counterfeiting of Negotiable Instruments",
+    "definition": "The act of illegally creating, altering, or using forged negotiable instruments, such as stocks, bonds, bills of exchange, or checks, which are legally defined instruments of value.",
+    "japaneseDefinition": "株券、公社債券、手形、小切手などの有価証券を偽造または変造する行為、またはそれらを行使する行為を罰する犯罪。",
+    "japaneseWordTranslation": "有価証券偽造罪 (ゆうかしょうけんぎぞうざい)",
+    "legalContext": "Punishes the creation, alteration, or use of forged instruments that falsely represent proprietary rights, thereby protecting the public trust in securities. (Criminal Code Art. 162)",
+    "japaneseLegalContext": "刑法第162条（有価証券偽造等）：行使の目的で、公債証書、株券その他の有価証券を偽造し、又は変造した者は、…",
+    "exampleSentence": "The financial crime unit investigated suspects involved in the Counterfeiting of Negotiable Instruments to perpetrate a large-scale investment fraud scheme.",
+    "exampleTranslation": "金融犯罪対策課は、大規模な投資詐欺計画を実行するために有価証券偽造に関与した容疑者を捜査した。",
+    "vocabularyList": [
+      {
+        "word": "negotiable instruments",
+        "translation": "有価証券"
+      },
+      {
+        "word": "forging",
+        "translation": "偽造"
+      },
+      {
+        "word": "altering",
+        "translation": "変造"
+      },
+      {
+        "word": "public trust",
+        "translation": "公共の信用"
+      },
+      {
+        "word": "investment fraud",
+        "translation": "投資詐欺"
+      },
+      {
+        "word": "bill of exchange/check",
+        "translation": "手形・小切手"
       }
     ]
   }

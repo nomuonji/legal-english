@@ -1,38 +1,38 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Objective Joinder of Claims",
-  "definition": "The procedural aggregation of multiple separate claims asserted by a single plaintiff against a single defendant within the framework of a single lawsuit.",
-  "japaneseDefinition": "原告が同一の被告に対し、一の訴訟手続の中で複数の請求を併合して提起すること。請求内容が異なる場合などに適用される。",
-  "japaneseWordTranslation": "請求の客観的併合 (せいきゅうのきゃっかんてきへいごう)",
-  "legalContext": "Code of Civil Procedure Art. 136: A plaintiff may bring several claims against a single defendant in a single action, unless the claims are subject to different types of proceedings.",
-  "japaneseLegalContext": "民事訴訟法第136条: 原告は、一個の訴えで数個の請求をすることができる。ただし、請求の目的たる事項が同種の訴訟手続によることを要しない。",
-  "exampleSentence": "The attorney recommended the objective joinder of claims for the recovery of money lent and for damages resulting from delayed performance.",
-  "exampleTranslation": "弁護士は、貸金返還請求と履行遅滞による損害賠償請求の客観的併合を推奨した。",
+  "word": "Confiscation",
+  "definition": "A supplementary punitive measure involving the compulsory deprivation of specific property related to the crime, such as objects used in the offense or those acquired through it, ordered by the court.",
+  "japaneseDefinition": "刑罰の一種であり、犯罪行為に関連する特定の物を強制的に剥奪する裁判所の処分。没収ともいう。",
+  "japaneseWordTranslation": "没収 (ぼっしゅう)",
+  "legalContext": "Criminal Code Art. 19: The following may be confiscated: 1. Objects which constituted the criminal act; 2. Objects used or intended to be used for the criminal act; 3. Objects produced by or acquired through the criminal act.",
+  "japaneseLegalContext": "刑法第19条：次に掲げる物は、没収することができる。1. 犯罪行為を組成した物。2. 犯罪行為の用に供し、又は供しようとした物。3. 犯罪行為によって生じ、若しくは取得した物。",
+  "exampleSentence": "The court ordered the confiscation of the funds derived from the illegal operation, along with the equipment used to facilitate the crime.",
+  "exampleTranslation": "裁判所は、違法な事業から得られた資金と、その犯罪を助長するために使用された設備について没収を命じた。",
   "vocabularyList": [
     {
-      "word": "Aggregation",
-      "translation": "併合 (へいごう)"
+      "word": "supplementary measure",
+      "translation": "付加刑 (付加的な処分)"
     },
     {
-      "word": "Plaintiff",
-      "translation": "原告 (げんこく)"
+      "word": "deprivation",
+      "translation": "剥奪"
     },
     {
-      "word": "Defendant",
-      "translation": "被告 (ひこく)"
+      "word": "derived from",
+      "translation": "〜から得られた"
     },
     {
-      "word": "Single action",
-      "translation": "一個の訴え (いっこのうったえ)"
+      "word": "illegal operation",
+      "translation": "違法な事業"
     },
     {
-      "word": "Recovery of money lent",
-      "translation": "貸金返還 (かしきんへんかん)"
+      "word": "to facilitate",
+      "translation": "助長する"
     },
     {
-      "word": "Delayed performance",
-      "translation": "履行遅滞 (りこうちたい)"
+      "word": "intended to be used",
+      "translation": "用に供しようとした"
     }
   ]
 }

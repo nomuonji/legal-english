@@ -10470,5 +10470,123 @@
         "translation": "本人 (ほんにん)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Tacit Declaration of Intention",
+    "definition": "A manifestation of the intent to create legal consequences, inferred from the actions, conduct, or circumstances of the party, rather than an explicit verbal or written statement.",
+    "japaneseDefinition": "当事者の行動や状況、慣習などから合理的にその意思が推定される意思表示を指す。明示的（黙秘せず）な意思表示と対比される。",
+    "japaneseWordTranslation": "黙示の意思表示 (Mokuji no Ishi Hyōji)",
+    "legalContext": "Civil Code principle recognizing that intent can be inferred from context, critical for determining the legal effects of status change or contract renewal.",
+    "japaneseLegalContext": "民法は、法律行為の成立において、明示の意思表示だけでなく、当事者の行動や状況から合理的に推測される意思も認める。",
+    "exampleSentence": "When a tenant continues to pay rent after the lease term expires without objection from the landlord, this may constitute a tacit declaration of intention to renew the contract.",
+    "exampleTranslation": "賃借人が賃貸期間満了後も賃料を支払い続け、賃貸人が異議を述べない場合、これは契約更新の黙示の意思表示を構成することがある。",
+    "vocabularyList": [
+      {
+        "word": "tenant",
+        "translation": "賃借人"
+      },
+      {
+        "word": "landlord",
+        "translation": "賃貸人"
+      },
+      {
+        "word": "manifestation",
+        "translation": "表明"
+      },
+      {
+        "word": "inferred",
+        "translation": "推定される"
+      },
+      {
+        "word": "legal consequences",
+        "translation": "法的効果"
+      },
+      {
+        "word": "constitute",
+        "translation": "構成する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Retroactive Effect",
+    "definition": "The legal principle where the effect of a juridical act or a legal event is deemed to have occurred from a point in time prior to the actual occurrence of that act or event (ex tunc).",
+    "japaneseDefinition": "法律行為の効果が、その行為が行われた時点ではなく、それより前の時点に遡って生じるという原則。",
+    "japaneseWordTranslation": "遡及効 (Sokyū-kō)",
+    "legalContext": "Civil Code Art. 127 (Effect of Suspensive Condition Fulfillment) specifies that the effect of a condition may be applied retroactively if the parties so intend or stipulate.",
+    "japaneseLegalContext": "民法第127条（停止条件付法律行為の効力）: 停止条件付法律行為は、条件が成就した時からその効力を生ずる。ただし、当事者がその成就前の時点にさかのぼってその効力を生じさせる意思を表示したときは、その意思に従う。",
+    "exampleSentence": "Unless the parties stipulate otherwise, the fulfillment of the suspensive condition provides the contract with retroactive effect back to the date of its execution.",
+    "exampleTranslation": "当事者が別段の定めをしない限り、停止条件の成就により、その契約は締結日に遡及して効力を生じる。",
+    "vocabularyList": [
+      {
+        "word": "ex tunc",
+        "translation": "遡って"
+      },
+      {
+        "word": "stipulate",
+        "translation": "規定する"
+      },
+      {
+        "word": "fulfillment",
+        "translation": "成就"
+      },
+      {
+        "word": "suspensive condition",
+        "translation": "停止条件"
+      },
+      {
+        "word": "execution",
+        "translation": "締結"
+      },
+      {
+        "word": "deemed",
+        "translation": "みなされる"
+      },
+      {
+        "word": "otherwise",
+        "translation": "別段に"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Juridical Act of Gratuitous Nature",
+    "definition": "A legal act or contract where only one party incurs an obligation or provides a benefit, and the counterparty does not provide any corresponding economic consideration (e.g., a gift or a loan for gratuitous use).",
+    "japaneseDefinition": "当事者の一方のみが義務を負うか、または経済的対価を伴わずになされる法律行為。利益供与の偏りが特徴である。",
+    "japaneseWordTranslation": "無償行為 (Mushō Kōi)",
+    "legalContext": "This concept is crucial in determining the application of the obligee's right of avoidance (fraudulent transfer) under the Civil Code.",
+    "japaneseLegalContext": "民法上の債権者取消権の行使において、債務者の無償行為は、対価を伴う行為（有償行為）よりも取消しが容易に認められる。",
+    "exampleSentence": "A juridical act of gratuitous nature, such as a large donation made shortly before bankruptcy proceedings began, is often prioritized for clawback by creditors.",
+    "exampleTranslation": "破産手続開始直前になされた多額の寄付のような無償行為は、債権者による否認権行使の対象として優先的に扱われることが多い。",
+    "vocabularyList": [
+      {
+        "word": "incurs an obligation",
+        "translation": "義務を負う"
+      },
+      {
+        "word": "corresponding consideration",
+        "translation": "対応する対価"
+      },
+      {
+        "word": "clawback",
+        "translation": "取り戻し/否認権"
+      },
+      {
+        "word": "donation",
+        "translation": "寄付"
+      },
+      {
+        "word": "bankruptcy proceedings",
+        "translation": "破産手続"
+      },
+      {
+        "word": "prioritized",
+        "translation": "優先される"
+      }
+    ]
   }
 ]

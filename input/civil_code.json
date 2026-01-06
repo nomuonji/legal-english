@@ -10978,5 +10978,123 @@
         "translation": "悪天候 (akutenkō)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legacy (Devise)",
+    "definition": "A juridical act, stipulated in a testament (will), by which a specific property is gratuitously transferred to a designated recipient (legatee) upon the death of the testator.",
+    "japaneseDefinition": "遺言によって、自己の財産の全部または一部を、無償で特定の人（受遺者）に譲与すること。相続人に対する場合も、相続人以外の第三者に対する場合もある。",
+    "japaneseWordTranslation": "遺贈 (いぞう)",
+    "legalContext": "A legacy takes effect upon the death of the testator, but the acquisition of real rights in immovable property must be registered to be asserted against third parties.",
+    "japaneseLegalContext": "遺贈は、遺言者の死亡によって効力を生ずるが、不動産に関する物権の取得は、第三者に対抗するためには登記を要する。",
+    "exampleSentence": "The legatee must accept or renounce the legacy within a reasonable period after the testator’s death, as prescribed by the Civil Code.",
+    "exampleTranslation": "民法に定めるとおり、受遺者は、遺言者の死亡後、相当の期間内に遺贈を承認するか、または放棄しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "testator",
+        "translation": "遺言者"
+      },
+      {
+        "word": "legatee",
+        "translation": "受遺者"
+      },
+      {
+        "word": "testament",
+        "translation": "遺言"
+      },
+      {
+        "word": "renounce",
+        "translation": "放棄する"
+      },
+      {
+        "word": "gratuitously transferred",
+        "translation": "無償で譲渡される"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Encumbrance (Conditional Charge)",
+    "definition": "A charge, duty, or liability imposed upon property, or a condition attached to a gratuitous juridical act (such as a gift or legacy), requiring the recipient to perform a specific action or bear a liability.",
+    "japaneseDefinition": "財産または権利に課せられた制限や義務。特に、贈与や遺贈などの無償行為において、受贈者や受遺者に課せられる何らかの給付義務。",
+    "japaneseWordTranslation": "負担 (ふたん)",
+    "legalContext": "Civil Code Art. 553 allows the donor to revoke the gift if the donee fails to perform the encumbrance imposed by the agreement.",
+    "japaneseLegalContext": "民法第553条に基づき、負担付贈与において、受贈者がその負担を履行しない場合、贈与者はその贈与を撤回することができる。",
+    "exampleSentence": "The land was sold subject to an encumbrance requiring the new owner to maintain the shared irrigation ditch for ten years.",
+    "exampleTranslation": "当該土地は、新所有者が共有の用水路を10年間維持管理するよう要求する負担を条件として売却された。",
+    "vocabularyList": [
+      {
+        "word": "donor",
+        "translation": "贈与者"
+      },
+      {
+        "word": "donee",
+        "translation": "受贈者"
+      },
+      {
+        "word": "revoke",
+        "translation": "撤回する"
+      },
+      {
+        "word": "gift",
+        "translation": "贈与"
+      },
+      {
+        "word": "liability",
+        "translation": "責任"
+      },
+      {
+        "word": "irrigation ditch",
+        "translation": "用水路"
+      },
+      {
+        "word": "subject to",
+        "translation": "〜を条件として"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Duty to Act",
+    "definition": "An obligation requiring the obligor to perform a specific, positive action (e.g., providing a service or constructing a building), as opposed to a duty to refrain from acting (duty not to act).",
+    "japaneseDefinition": "債務者が何らかの積極的な行為をすることを内容とする義務。特定物の引渡し、金銭の支払い、サービスの提供などが該当し、不作為義務と対比される。",
+    "japaneseWordTranslation": "作為義務 (さくいぎむ)",
+    "legalContext": "If the obligor breaches a duty to act, the obligee may seek specific performance or damages, depending on the substitutability of the required act.",
+    "japaneseLegalContext": "債務者が作為義務を履行しない場合、債権者は、その行為の代替性に応じて、強制履行または損害賠償を請求することができる。",
+    "exampleSentence": "The consultant's contract clearly established a non-substitutable duty to act, requiring his personal appearance at all scheduled meetings.",
+    "exampleTranslation": "当該コンサルタントの契約は、彼が予定された会議すべてに個人的に出席することを要求する、代替性のない作為義務を明確に定めていた。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "breaches",
+        "translation": "不履行する"
+      },
+      {
+        "word": "duty not to act",
+        "translation": "不作為義務"
+      },
+      {
+        "word": "positive action",
+        "translation": "積極的な行為"
+      },
+      {
+        "word": "non-substitutable",
+        "translation": "代替性のない"
+      }
+    ]
   }
 ]

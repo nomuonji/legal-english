@@ -2,44 +2,6 @@
   {
     "category": "Deposit Act (供託法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Consigned Property",
-    "definition": "The money, negotiable instruments, or other movable goods that the obligor entrusts to a governmental facility in order to release themselves from their obligation, typically due to issues such as the obligee’s refusal or unknown whereabouts.",
-    "japaneseDefinition": "債務者が、債権者の受領拒否や所在不明などの理由により、自己の債務を免れるために国の機関に委託する金銭、有価証券その他の動産。",
-    "japaneseWordTranslation": "供託物 (きょうたくぶつ)",
-    "legalContext": "Deposit Act Art. 8: Money or negotiable instruments shall be the Consigned Property in the case of judicial security or performance discharge consignment, except as otherwise provided by law.",
-    "japaneseLegalContext": "供託法第8条: 法令に別段の定めがある場合を除くほか、司法上の保証又は弁済による供託は、金銭又は有価証券をもって供託物とする。",
-    "exampleSentence": "A detailed inventory must be submitted outlining the quantity and nature of the Consigned Property before the consignment is accepted by the authorities.",
-    "exampleTranslation": "当局により供託が受理される前に、供託物の数量と性質を詳述した詳細な目録が提出されなければならない。",
-    "vocabularyList": [
-      {
-        "word": "negotiable instruments",
-        "translation": "有価証券"
-      },
-      {
-        "word": "movable goods",
-        "translation": "動産"
-      },
-      {
-        "word": "release themselves",
-        "translation": "（義務を）免れる"
-      },
-      {
-        "word": "judicial security",
-        "translation": "司法上の保証"
-      },
-      {
-        "word": "detailed inventory",
-        "translation": "詳細な目録"
-      },
-      {
-        "word": "nature",
-        "translation": "性質"
-      }
-    ]
-  },
-  {
-    "category": "Deposit Act (供託法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Recipient of Consignment",
     "definition": "The designated party for whose benefit the consignment is made and who has the legal authority to receive the Consigned Property from the managing facility.",
     "japaneseDefinition": "供託がその者の利益のために行われる、指定された当事者であり、管理施設から供託物を受領する法的な権限を有する者。",
@@ -7106,6 +7068,82 @@
       {
         "word": "sole",
         "translation": "唯一の"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Acceptance of Deposit Filing",
+    "definition": "The formal administrative act by which the Deposit Office recognizes a consignment application as meeting statutory requirements and officially takes custody of the deposited property, thereby initiating the legal effect of discharging the obligor's duty.",
+    "japaneseDefinition": "供託所が供託申請を受け付け、供託物件の保管を引き受ける旨の行政処分。これにより供託の法的効果が発生する。",
+    "japaneseWordTranslation": "供託受理 (きょうたく じゅり)",
+    "legalContext": "Deposit Act Art. 7: The Deposit Office shall reject a deposit filing if the case is not suitable for deposit or if the procedures are non-compliant with laws and regulations. If suitable, the filing shall receive acceptance.",
+    "japaneseLegalContext": "供託法第7条：供託の申請が法令に違反するとき、又は不適法な供託と認められるときは、供託官は供託を不当と処分する。受理される場合は供託受理となる。",
+    "exampleSentence": "The Deposit Office confirmed the *acceptance of deposit filing* only after verifying that the statutory requirements for consignment were fully satisfied.",
+    "exampleTranslation": "供託所は、供託の法定要件が完全に満たされていることを確認した後、初めて供託受理を確定した。",
+    "vocabularyList": [
+      {
+        "word": "Deposit Office",
+        "translation": "供託所"
+      },
+      {
+        "word": "administrative act",
+        "translation": "行政処分"
+      },
+      {
+        "word": "consignment application",
+        "translation": "供託申請"
+      },
+      {
+        "word": "statutory requirements",
+        "translation": "法定要件"
+      },
+      {
+        "word": "discharge",
+        "translation": "免責"
+      },
+      {
+        "word": "custody",
+        "translation": "保管"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reversion to the National Treasury (of Deposited Assets)",
+    "definition": "The action where deposited money or securities become the property of the Japanese government (National Treasury) because the claim right to the assets has been extinguished by prescription (typically after 10 or 20 years, depending on the deposit type).",
+    "japaneseDefinition": "供託物払渡請求権が時効期間の経過により消滅し、供託された金銭や有価証券が国庫の所有となること。",
+    "japaneseWordTranslation": "供託物国庫帰属 (きょうたくぶつ こっこ きぞく)",
+    "legalContext": "Deposit Act Art. 9: The right to claim the delivery of the deposited item shall be extinguished by prescription if not exercised within ten years from the date the deposit was made, resulting in reversion to the National Treasury.",
+    "japaneseLegalContext": "供託法第9条：供託金等の払渡請求権は、供託の日から十年を経過したときは、時効によって消滅し、その供託物は国庫に帰属する。",
+    "exampleSentence": "Failure by the entitled person to claim the deposited security within the prescribed period will automatically lead to the *reversion to the National Treasury*.",
+    "exampleTranslation": "権限を有する者が所定の期間内に供託された有価証券を請求しなかった場合、自動的に供託物国庫帰属となる。",
+    "vocabularyList": [
+      {
+        "word": "National Treasury",
+        "translation": "国庫"
+      },
+      {
+        "word": "deposited assets",
+        "translation": "供託物"
+      },
+      {
+        "word": "claim right",
+        "translation": "請求権"
+      },
+      {
+        "word": "extinguished",
+        "translation": "消滅した"
+      },
+      {
+        "word": "prescription",
+        "translation": "時効"
+      },
+      {
+        "word": "entitled person",
+        "translation": "権限を有する者"
       }
     ]
   }

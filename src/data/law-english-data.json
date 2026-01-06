@@ -1,42 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Deposit Act (供託法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Ratification",
-  "definition": "The subsequent approval by a party (or its legal successor) of a juridical act that was initially voidable or performed by a non-representative, thereby validating the act from its inception.",
-  "japaneseDefinition": "無権代理人の行為や取消し得る行為などについて、後からその行為を有効なものとして認める意思表示。",
-  "japaneseWordTranslation": "追認 (ついにん)",
-  "legalContext": "Civil Code Art. 113: If a person who performs a juridical act on behalf of another person without representative authority (non-agent) does so, the act shall be effective only if ratified by the principal.",
-  "japaneseLegalContext": "民法第113条: 代理権を有しない者が他人の代理人としてした行為は、本人がこれを追認しなければ、その本人に対して効力を生じない。",
-  "exampleSentence": "The principal may exercise the right of ratification against the third party concerning the contract performed without power of representation.",
-  "exampleTranslation": "本人は、無権代理人による契約について、第三者に対して追認の権利を行使できる。",
+  "word": "Consigned Property",
+  "definition": "The money, negotiable instruments, or other movable goods that the obligor entrusts to a governmental facility in order to release themselves from their obligation, typically due to issues such as the obligee’s refusal or unknown whereabouts.",
+  "japaneseDefinition": "債務者が、債権者の受領拒否や所在不明などの理由により、自己の債務を免れるために国の機関に委託する金銭、有価証券その他の動産。",
+  "japaneseWordTranslation": "供託物 (きょうたくぶつ)",
+  "legalContext": "Deposit Act Art. 8: Money or negotiable instruments shall be the Consigned Property in the case of judicial security or performance discharge consignment, except as otherwise provided by law.",
+  "japaneseLegalContext": "供託法第8条: 法令に別段の定めがある場合を除くほか、司法上の保証又は弁済による供託は、金銭又は有価証券をもって供託物とする。",
+  "exampleSentence": "A detailed inventory must be submitted outlining the quantity and nature of the Consigned Property before the consignment is accepted by the authorities.",
+  "exampleTranslation": "当局により供託が受理される前に、供託物の数量と性質を詳述した詳細な目録が提出されなければならない。",
   "vocabularyList": [
     {
-      "word": "principal",
-      "translation": "本人 (ほんにん)"
+      "word": "negotiable instruments",
+      "translation": "有価証券"
     },
     {
-      "word": "representative authority",
-      "translation": "代理権 (だいりけん)"
+      "word": "movable goods",
+      "translation": "動産"
     },
     {
-      "word": "non-agent",
-      "translation": "無権代理人 (むけんだいりにん)"
+      "word": "release themselves",
+      "translation": "（義務を）免れる"
     },
     {
-      "word": "juridical act",
-      "translation": "法律行為 (ほうりつこうい)"
+      "word": "judicial security",
+      "translation": "司法上の保証"
     },
     {
-      "word": "voidable",
-      "translation": "取り消し得る (とりけしうる)"
+      "word": "detailed inventory",
+      "translation": "詳細な目録"
     },
     {
-      "word": "exercise the right",
-      "translation": "権利を行使する (けんりをこうしする)"
-    },
-    {
-      "word": "effective",
-      "translation": "効力を生じる (こうりょくをしょうじる)"
+      "word": "nature",
+      "translation": "性質"
     }
   ]
 }

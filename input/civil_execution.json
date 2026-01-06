@@ -9832,5 +9832,131 @@
         "translation": "申立てに基づき (mōshitate ni motodzuki)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Net Realization Requirement",
+    "definition": "The fundamental rule in compulsory execution against real property requiring that the execution process only proceed if the expected sale proceeds, after deducting execution costs and prior-ranking encumbrances, are likely to yield a surplus for the execution obligee.",
+    "japaneseDefinition": "不動産に対する強制執行において、執行費用および優先債権を弁済した後、なお剰余を生ずる見込みがなければ、執行手続を開始しない、または取り消す原則。",
+    "japaneseWordTranslation": "剰余を生ずるための要件 (じょうよを しょうずるための ようけん)",
+    "legalContext": "A core principle governing the commencement and continuation of compulsory real property auction procedures (Civil Execution Act Arts. 63 & 91).",
+    "japaneseLegalContext": "民事執行法第63条、第91条 (不動産競売手続の開始および取消しに関する原則)",
+    "exampleSentence": "The execution court canceled the compulsory auction proceedings because the appraisal officer determined that the property did not meet the Net Realization Requirement.",
+    "exampleTranslation": "執行裁判所は、評価人によって当該不動産が剰余を生ずるための要件を満たさないと判断されたため、強制競売の手続きを取り消した。",
+    "vocabularyList": [
+      {
+        "word": "appraisal officer",
+        "translation": "評価人"
+      },
+      {
+        "word": "canceled proceedings",
+        "translation": "手続きを取り消した"
+      },
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "prior-ranking encumbrances",
+        "translation": "優先債権"
+      },
+      {
+        "word": "expected sale proceeds",
+        "translation": "見込まれる売却代金"
+      },
+      {
+        "word": "execution costs",
+        "translation": "執行費用"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Distribution Claim Filing",
+    "definition": "The formal action taken by a creditor who does not possess a seizure order (such as general creditors, tax authorities, or unregistered lien holders) to assert their right to receive a share of the proceeds generated from a civil execution sale.",
+    "japaneseDefinition": "執行手続において、差押債権者ではない債権者が、執行財産の売却代金から自己の債権の分配を受けるために、執行機関に対して行う請求行為。",
+    "japaneseWordTranslation": "配当要求の届出 (はいとう ようきゅうの とどけで)",
+    "legalContext": "Civil Execution Act Art. 87 specifies who may file a demand for distribution and the deadline for doing so in real property execution.",
+    "japaneseLegalContext": "民事執行法第87条 (配当要求をすることができる者の範囲及びその期限を定める。)",
+    "exampleSentence": "General creditors must ensure timely Distribution Claim Filing before the announced deadline to participate in the real property distribution proceedings.",
+    "exampleTranslation": "一般債権者は、不動産配当手続に参加するために、告知された期限までに配当要求の届出を確実に行う必要がある。",
+    "vocabularyList": [
+      {
+        "word": "general creditors",
+        "translation": "一般債権者"
+      },
+      {
+        "word": "seizure order",
+        "translation": "差押命令"
+      },
+      {
+        "word": "sale proceeds",
+        "translation": "売却代金"
+      },
+      {
+        "word": "distribution proceedings",
+        "translation": "配当手続"
+      },
+      {
+        "word": "announced deadline",
+        "translation": "告知された期限"
+      },
+      {
+        "word": "assert their right",
+        "translation": "権利を主張する"
+      },
+      {
+        "word": "formal action",
+        "translation": "正式な行為"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Compulsory Administration",
+    "definition": "A judicial decision by the execution court to commence the procedure of compulsory execution against real property through the appointment of an administrator, who collects the property's rents and profits to satisfy the execution obligee's claim.",
+    "japaneseDefinition": "執行裁判所が、不動産の収益（賃料など）を徴収し、執行債権者の債権の弁済に充てるために、管理者を選任して強制執行手続を開始する旨の裁判。",
+    "japaneseWordTranslation": "強制管理開始決定 (きょうせい かんり かいし けってい)",
+    "legalContext": "Civil Execution Act Art. 93 sets forth the court's authority to issue an Order for Compulsory Administration upon application by the obligee.",
+    "japaneseLegalContext": "民事執行法第93条 (債権者の申立てに基づき、裁判所が強制管理開始決定を行う権限を規定する。)",
+    "exampleSentence": "Following the issuance of the Order for Compulsory Administration, the appointed administrator immediately began collecting rent payments from the tenants of the subject apartment building.",
+    "exampleTranslation": "強制管理開始決定の発令後、選任された管理者は、直ちに当該マンションの賃借人からの賃料の徴収を開始した。",
+    "vocabularyList": [
+      {
+        "word": "judicial decision",
+        "translation": "裁判"
+      },
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "rents and profits",
+        "translation": "収益"
+      },
+      {
+        "word": "appointed administrator",
+        "translation": "選任された管理者"
+      },
+      {
+        "word": "satisfy the claim",
+        "translation": "債権の弁済に充てる"
+      },
+      {
+        "word": "subject apartment building",
+        "translation": "当該マンション"
+      },
+      {
+        "word": "commencement of execution",
+        "translation": "執行手続の開始"
+      }
+    ]
   }
 ]

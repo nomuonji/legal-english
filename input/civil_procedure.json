@@ -10154,5 +10154,85 @@
         "translation": "数個の請求 (sūko no seikyū)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Capacity to be a Party",
+    "definition": "The legal capacity of an entity (individual, corporation, or specific non-corporate association) to be a proper plaintiff or defendant in a civil lawsuit.",
+    "japaneseDefinition": "民事訴訟において、当事者として裁判を受け、また当事者として訴訟追行をする能力。民法上の権利能力を有する者または法律により当事者能力を認められた非法人組織に認められる。",
+    "japaneseWordTranslation": "当事者能力 (tōjisha nōryoku)",
+    "legalContext": "Code of Civil Procedure (Minji Soshō Hō) Art. 28: Capacity to be a Party shall be governed by the Civil Code and other laws and regulations.",
+    "japaneseLegalContext": "民事訴訟法第28条: 当事者能力は、民法その他の法令の定めるところによる。",
+    "exampleSentence": "The defendant association, lacking juridical personality, successfully proved its capacity to be a party under Article 29 of the Code of Civil Procedure, despite being an unincorporated entity.",
+    "exampleTranslation": "被告の組合は法人格を持たなかったが、民事訴訟法第29条に基づき、非法人団体であるにもかかわらず、当事者能力を立証することに成功した。",
+    "vocabularyList": [
+      {
+        "word": "juridical personality",
+        "translation": "法人格 (hōjin kaku)"
+      },
+      {
+        "word": "unincorporated entity",
+        "translation": "非法人団体 (hi-hōjin dantai)"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告 (genkoku)"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告 (hikoku)"
+      },
+      {
+        "word": "litigation (prosecution)",
+        "translation": "訴訟追行 (soshō tsuikō)"
+      },
+      {
+        "word": "Civil Code",
+        "translation": "民法 (Minpō)"
+      },
+      {
+        "word": "prove / establish",
+        "translation": "立証する (risshō suru)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Right of Clarification",
+    "definition": "The court's power, exercised through the presiding judge, to question parties or their representatives regarding statements of facts or claims that are unclear, vague, or inconsistent, in order to facilitate a fair trial.",
+    "japaneseDefinition": "裁判所または裁判長が、当事者の主張や立証が不明確、不十分である場合に、その不明点を指摘し、訂正や補充を促すことのできる権能。",
+    "japaneseWordTranslation": "釈明権 (shakumei ken)",
+    "legalContext": "Code of Civil Procedure Art. 149(1): The presiding judge may question the parties or their litigation representatives to clarify the facts or claims asserted by them.",
+    "japaneseLegalContext": "民事訴訟法第149条第1項: 裁判長は、口頭弁論の準備のため、当事者又は訴訟代理人に対し、事実上及び法律上の事項に関し、釈明を求め、又は必要な注意を与えることができる。",
+    "exampleSentence": "The judge exercised the Judicial Right of Clarification regarding the ambiguous date of contract formation, prompting the counsel to submit supplementary documentation.",
+    "exampleTranslation": "裁判官は、契約成立日の曖昧さに関して釈明権を行使し、代理人弁護士に追加の書面を提出するよう促した。",
+    "vocabularyList": [
+      {
+        "word": "presiding judge",
+        "translation": "裁判長 (saibanchō)"
+      },
+      {
+        "word": "counsel / representative",
+        "translation": "代理人 (dairinin)"
+      },
+      {
+        "word": "ambiguous",
+        "translation": "曖昧な (aimai na)"
+      },
+      {
+        "word": "supplementary documentation",
+        "translation": "追加の書面 (tsuika no shomen)"
+      },
+      {
+        "word": "asserted (claims/facts)",
+        "translation": "主張された (shuchō sareta)"
+      },
+      {
+        "word": "facilitate (a trial)",
+        "translation": "訴訟を促進する (soshō o sokushin suru)"
+      }
+    ]
   }
 ]

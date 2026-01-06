@@ -7886,5 +7886,119 @@
         "translation": "手続き上の申請"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Appurtenant Registration",
+    "definition": "A secondary registration entry made immediately below a principal registration (Main Entry) to indicate a change or disposition related to the main right, ensuring that the new entry maintains the priority ranking of the original registration.",
+    "japaneseDefinition": "主登記の順位を保つために、その主登記の後に付加して行う登記。例えば、抵当権の移転や抹消同意の登記に用いられる。",
+    "japaneseWordTranslation": "付記登記 (Fuki Tōki)",
+    "legalContext": "Real Property Registration Act, Art. 3, Para. 3: 'A right pertaining to a registered right may be registered as an Appurtenant Registration.'",
+    "japaneseLegalContext": "不動産登記法第3条第3項: 「登記した権利に関する登記は、付記登記によってすることができる。」",
+    "exampleSentence": "The transfer of the mortgage claim was finalized by filing an Appurtenant Registration, thereby preserving the security interest's initial priority ranking over subsequent encumbrances.",
+    "exampleTranslation": "抵当権債権の譲渡は付記登記の申請によって確定し、それによって当該担保権の当初の順位は後続の負担に対して維持された。",
+    "vocabularyList": [
+      {
+        "word": "principal registration",
+        "translation": "主登記 (Shu Tōki)"
+      },
+      {
+        "word": "priority ranking",
+        "translation": "順位 (Jun'i)"
+      },
+      {
+        "word": "mortgage claim",
+        "translation": "抵当権債権 (Teitōken Saiken)"
+      },
+      {
+        "word": "encumbrance",
+        "translation": "負担 (Futan)"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権 (Tanpoken)"
+      },
+      {
+        "word": "subsequent",
+        "translation": "後続の (Kōzoku no)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Closing of the Register",
+    "definition": "The official action taken by the registrar to terminate a registration record for a piece of real property (land or building) when that property has ceased to exist, or when its registration record is replaced (e.g., due to merger or division).",
+    "japaneseDefinition": "不動産（土地または建物）が滅失したり、合筆や合棟により新たな登記記録に移行したりした場合に、当該不動産に関する現行の登記記録を閉鎖する手続き。",
+    "japaneseWordTranslation": "登記簿の閉鎖 (Tōkibo no Heisa)",
+    "legalContext": "Real Property Registration Act, Art. 23 (Cancellation due to loss of property) and Art. 44 (Merger of Land, leading to closure of original register).",
+    "japaneseLegalContext": "不動産登記法第23条 (滅失による抹消) 及び第44条 (合筆の登記)",
+    "exampleSentence": "The land owner is obligated to apply for the Indication Registration of Destruction within one month of the building's demolition, which triggers the subsequent Closing of the Register procedure by the registration official.",
+    "exampleTranslation": "土地の所有者は建物の取り壊しから1ヶ月以内に滅失の表示登記を申請する義務があり、それが登記官によるその後の登記簿の閉鎖手続きを引き起こす。",
+    "vocabularyList": [
+      {
+        "word": "demolition",
+        "translation": "取壊し (Torikowashi)"
+      },
+      {
+        "word": "Indication Registration",
+        "translation": "表示登記 (Hyōdai Tōki)"
+      },
+      {
+        "word": "destruction",
+        "translation": "滅失 (Messhitsu)"
+      },
+      {
+        "word": "registration official",
+        "translation": "登記官 (Tōkikan)"
+      },
+      {
+        "word": "subsequent",
+        "translation": "その後の (Sono ato no)"
+      },
+      {
+        "word": "obligated",
+        "translation": "義務を負う (Gimu o Ou)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Formal Scrutiny",
+    "definition": "The procedural review system where the registration official examines an application solely for adherence to statutory requirements regarding documentation and form, without assessing the substantive validity or factual basis of the underlying legal transaction.",
+    "japaneseDefinition": "登記官が申請書類の内容を審査するにあたり、実体的な権利関係の真偽や基礎となる法律行為の有効性を問わず、申請が法令上の形式的な要件を満たしているかのみを確認する原則。",
+    "japaneseWordTranslation": "形式的審査 (Keishikiteki Shinsa)",
+    "legalContext": "Real Property Registration Act, Art. 25 (Grounds for rejection of application); specifically, the registrar's authority is limited to the items listed therein.",
+    "japaneseLegalContext": "不動産登記法第25条 (却下の事由)；具体的には、登記官の権限が同条に列挙された事項に限定されること。",
+    "exampleSentence": "Because Japanese registration employs Formal Scrutiny, disputes regarding the true contractual intent or capacity of the parties must be resolved through court litigation, not by the registration official.",
+    "exampleTranslation": "日本の登記は形式的審査を採用しているため、当事者の真の契約意思や行為能力に関する紛争は、登記官ではなく裁判所の訴訟を通じて解決されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "procedural review",
+        "translation": "手続き審査 (Tetsuzuki Shinsa)"
+      },
+      {
+        "word": "statutory requirements",
+        "translation": "法令上の要件 (Hōrei-jō no Yōken)"
+      },
+      {
+        "word": "substantive validity",
+        "translation": "実体的有効性 (Jittaiteki Yūkōsei)"
+      },
+      {
+        "word": "contractual intent",
+        "translation": "契約意思 (Keiyaku Ishi)"
+      },
+      {
+        "word": "capacity",
+        "translation": "行為能力 (Kōi Nōryoku)"
+      },
+      {
+        "word": "court litigation",
+        "translation": "裁判訴訟 (Saiban Soshō)"
+      }
+    ]
   }
 ]

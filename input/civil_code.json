@@ -10816,5 +10816,107 @@
         "translation": "相続 (そうぞく)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Specification (of Indeterminate Obligation)",
+    "definition": "The legal mechanism by which an obligation involving a thing of indeterminate genus (a type of thing, not a specific item) becomes fixed as a specific thing obligation, usually when the obligor performs all acts necessary for delivery or when the obligee consents to the segregation.",
+    "japaneseDefinition": "種類債権の目的物を特定の物として確定させる行為または状態を指します。これにより、目的物の品質が確定し、危険負担の原則が適用されます。",
+    "japaneseWordTranslation": "特定 (Tokutei)",
+    "legalContext": "Civil Code Art. 401: If an obligor has completed the acts necessary for performance, or with the consent of the obligee, segregated the subject matter, the obligation shall become specific.",
+    "japaneseLegalContext": "民法第401条（種類債権）：債務者が物の給付をするのに必要な行為を完了し、又は債権者の同意を得てその給付すべき物を確定したときは、以後その物をその債権の目的物とする。",
+    "exampleSentence": "Upon the specification of the goods, the risk of loss shifted from the seller to the buyer, even before physical delivery occurred.",
+    "exampleTranslation": "物品の特定が行われた時点で、物理的な引渡し前であっても、損失のリスクは売主から買主へと移転した。",
+    "vocabularyList": [
+      {
+        "word": "indeterminate genus",
+        "translation": "種類物"
+      },
+      {
+        "word": "segregated the subject matter",
+        "translation": "目的物を確定した"
+      },
+      {
+        "word": "acts necessary for performance",
+        "translation": "給付をするのに必要な行為"
+      },
+      {
+        "word": "risk of loss",
+        "translation": "危険負担 (Note: the term 'burden of loss' is prohibited, but describing the concept is necessary)"
+      },
+      {
+        "word": "shifted",
+        "translation": "移転した"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Presumption of Right (based on Possession of Movables)",
+    "definition": "A legal rule under property law that establishes a presumption that the possessor of movable property is the rightful owner or has the legitimate proprietary right over that object, placing the burden of rebuttal on adverse claimants.",
+    "japaneseDefinition": "動産の占有者は、その動産について行使する権利を適法に有するものと推定されるという原則。動産物権の公示方法としての占有の機能を示す。",
+    "japaneseWordTranslation": "占有による権利の推定 (Sen'yū ni yoru Kenri no Suitei)",
+    "legalContext": "Civil Code Art. 188: A possessor shall be presumed to possess the right which he exercises over the subject matter of possession.",
+    "japaneseLegalContext": "民法第188条（占有の態様に関する推定）：占有者が占有物について行使する権利は、適法に有するものと推定する。",
+    "exampleSentence": "Because the defendant maintained the presumption of right over the artwork, the claimant had the burden of providing clear evidence of theft or improper transfer.",
+    "exampleTranslation": "被告がその美術品に対する占有に基づく権利の推定を維持したため、原告は盗難または不適切な譲渡の明確な証拠を提出する義務を負った。",
+    "vocabularyList": [
+      {
+        "word": "possessor",
+        "translation": "占有者"
+      },
+      {
+        "word": "movable property",
+        "translation": "動産"
+      },
+      {
+        "word": "proprietary right",
+        "translation": "物権"
+      },
+      {
+        "word": "burden of rebuttal",
+        "translation": "反証の負担"
+      },
+      {
+        "word": "adverse claimants",
+        "translation": "反対の権利主張者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Assumption of Contractual Status",
+    "definition": "The comprehensive transfer of a party’s entire position (including both rights and obligations) under an existing contract to a third party, which generally requires the express consent of the counterparty to the original contract.",
+    "japaneseDefinition": "契約当事者の一方が、その契約に基づく地位（権利と義務の総体）を包括的に第三者に移転すること。原則として相手方の同意が必要です。",
+    "japaneseWordTranslation": "契約上の地位の移転 (Keiyakujō no Chii no Iten)",
+    "legalContext": "Generally governed by principles applied to assignment and delegation of obligation, but often regulated by special provisions in modern contract law or specific agreements, requiring counterparty consent for effect.",
+    "japaneseLegalContext": "判例および契約法の一般原則に基づき、既存の契約上の地位を包括的に移転するためには、契約相手方の承諾が必要とされる。",
+    "exampleSentence": "The assumption of contractual status requires a formal written agreement, particularly when dealing with long-term commercial leases.",
+    "exampleTranslation": "契約上の地位の移転は、特に長期の商業用賃貸借契約を扱う場合、正式な書面による合意が必要である。",
+    "vocabularyList": [
+      {
+        "word": "transfer",
+        "translation": "移転"
+      },
+      {
+        "word": "position",
+        "translation": "地位"
+      },
+      {
+        "word": "express consent",
+        "translation": "明示の同意"
+      },
+      {
+        "word": "counterparty",
+        "translation": "相手方"
+      },
+      {
+        "word": "long-term commercial leases",
+        "translation": "長期の商業用賃貸借"
+      }
+    ]
   }
 ]

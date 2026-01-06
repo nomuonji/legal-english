@@ -1,38 +1,42 @@
 {
-  "category": "Commercial Registration (商業登記法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Attestation of signature",
-  "definition": "The official certification or authentication by a notary public or administrative body confirming that a signature on a document is genuinely that of the person named.",
-  "japaneseDefinition": "公証人または在外公館などにより、署名が確かにその本人によってなされたものであることを証明する行為。",
-  "japaneseWordTranslation": "署名証明 (しょめいしょうめい)",
-  "legalContext": "Commercial Registration Act (Ordinances and Practice): When applying for registration of changes concerning directors or corporate structure, foreign residents or overseas companies often utilize an attestation of signature in lieu of the traditional seal certificate (Inkan Shōmei).",
-  "japaneseLegalContext": "商業登記法（関連する省令・実務）：取締役等の変更に関する登記申請を行う際、外国在住者や海外法人は、従来の印鑑証明書に代えて署名証明書を利用することが多い。",
-  "exampleSentence": "The applicant must submit an attestation of signature from the relevant authenticating body to validate the execution of the necessary application documents.",
-  "exampleTranslation": "申請者は、必要な申請書類の執行を有効にするため、関連する認証機関からの署名証明書を提出しなければならない。",
+  "word": "Ratification",
+  "definition": "The subsequent approval by a party (or its legal successor) of a juridical act that was initially voidable or performed by a non-representative, thereby validating the act from its inception.",
+  "japaneseDefinition": "無権代理人の行為や取消し得る行為などについて、後からその行為を有効なものとして認める意思表示。",
+  "japaneseWordTranslation": "追認 (ついにん)",
+  "legalContext": "Civil Code Art. 113: If a person who performs a juridical act on behalf of another person without representative authority (non-agent) does so, the act shall be effective only if ratified by the principal.",
+  "japaneseLegalContext": "民法第113条: 代理権を有しない者が他人の代理人としてした行為は、本人がこれを追認しなければ、その本人に対して効力を生じない。",
+  "exampleSentence": "The principal may exercise the right of ratification against the third party concerning the contract performed without power of representation.",
+  "exampleTranslation": "本人は、無権代理人による契約について、第三者に対して追認の権利を行使できる。",
   "vocabularyList": [
     {
-      "word": "Authenticating body",
-      "translation": "認証機関"
+      "word": "principal",
+      "translation": "本人 (ほんにん)"
     },
     {
-      "word": "Applicant",
-      "translation": "申請者"
+      "word": "representative authority",
+      "translation": "代理権 (だいりけん)"
     },
     {
-      "word": "Execution",
-      "translation": "執行（ここでは署名・押印の意）"
+      "word": "non-agent",
+      "translation": "無権代理人 (むけんだいりにん)"
     },
     {
-      "word": "In lieu of",
-      "translation": "～に代わって"
+      "word": "juridical act",
+      "translation": "法律行為 (ほうりつこうい)"
     },
     {
-      "word": "Validate",
-      "translation": "有効にする"
+      "word": "voidable",
+      "translation": "取り消し得る (とりけしうる)"
     },
     {
-      "word": "Representative Director",
-      "translation": "代表取締役"
+      "word": "exercise the right",
+      "translation": "権利を行使する (けんりをこうしする)"
+    },
+    {
+      "word": "effective",
+      "translation": "効力を生じる (こうりょくをしょうじる)"
     }
   ]
 }

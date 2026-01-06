@@ -9390,5 +9390,73 @@
         "translation": "刑事責任"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Actio Libera in Causa (ALIC)",
+    "definition": "A criminal law doctrine asserting that a defendant who intentionally or negligently brings about a state of diminished or non-culpability (e.g., extreme intoxication) in anticipation of committing a crime may still be held fully criminally responsible for the subsequent actions.",
+    "japaneseDefinition": "実行行為時に責任能力がない場合でも、その状態を故意または過失により作り出し、その状態で行為に及んだ者に刑罰責任を負わせるための構成要件論（原因において自由な行為）。",
+    "japaneseWordTranslation": "原因において自由な行為 (げんいんにおいてじゆうなこうい)",
+    "legalContext": "Japanese Criminal Code (Implied application, often discussed in relation to Art. 39 concerning mental disability and intoxication.)",
+    "japaneseLegalContext": "刑法第39条（心神喪失及び心神耗弱）に関連し、その適用を制限する理論。",
+    "exampleSentence": "The defense attempted to invoke the mental disorder defense, but the prosecutor successfully argued that the case fell under the doctrine of *actio libera in causa*.",
+    "exampleTranslation": "弁護側は心神喪失の抗弁を試みたが、検察官は、その事案が原因において自由な行為の法理に該当すると主張し、認められた。",
+    "vocabularyList": [
+      {
+        "word": "prosecutor",
+        "translation": "検察官 (けんさつかん)"
+      },
+      {
+        "word": "mental disorder defense",
+        "translation": "心神喪失の抗弁 (しんしんそうしつのこうべん)"
+      },
+      {
+        "word": "intoxication",
+        "translation": "酩酊 (めいてい)"
+      },
+      {
+        "word": "diminished culpability",
+        "translation": "限定責任能力 (げんていせきにんのうりょく)"
+      },
+      {
+        "word": "criminally responsible",
+        "translation": "刑罰責任 (けいばつせきにん)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Unity of Criminal Act",
+    "definition": "The legal principle (often termed the 'One Act, One Crime Principle') used in criminal law to determine whether multiple criminal outcomes stemming from a single behavioral event should be treated as one crime (e.g., continuous crime) or as concurrent offenses.",
+    "japaneseDefinition": "物理的または法律的に単一と評価される行為からは、原則として一つの罪しか成立しないという、併合罪の判断基準となる原則。",
+    "japaneseWordTranslation": "一行為一罪の原則 (いちこういいちざいのげんそく)",
+    "legalContext": "Principle used in applying Criminal Code Art. 54 (Ideal Concurrence) and determining the scope of sentencing for repeated or complex criminal behavior.",
+    "japaneseLegalContext": "刑法第54条（科刑上の１罪）の適用や、反復・複雑な犯罪行為の科刑範囲を定める際に用いられる原則。",
+    "exampleSentence": "The defense argued that the defendant's acts of defamation and insult, committed simultaneously through a single social media post, should be judged under the *unity of criminal act* principle.",
+    "exampleTranslation": "弁護側は、被告人が一つのSNS投稿で同時に行った名誉毀損と侮辱の行為は、一行為一罪の原則に従って判断されるべきだと主張した。",
+    "vocabularyList": [
+      {
+        "word": "criminal outcomes",
+        "translation": "犯罪の結果 (はんざいのけっか)"
+      },
+      {
+        "word": "concurrent offenses",
+        "translation": "併合罪 (へいごうざい)"
+      },
+      {
+        "word": "defamation",
+        "translation": "名誉毀損 (めいよきそん)"
+      },
+      {
+        "word": "insult",
+        "translation": "侮辱 (ぶじょく)"
+      },
+      {
+        "word": "sentencing",
+        "translation": "科刑 (かけい)"
+      }
+    ]
   }
 ]

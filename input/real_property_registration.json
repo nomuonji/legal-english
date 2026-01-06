@@ -8000,5 +8000,119 @@
         "translation": "裁判訴訟 (Saiban Soshō)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Co-Application Principle",
+    "definition": "The legal requirement that the application for registration of changes to substantive rights (such as transfer or creation of a secured claim) must generally be submitted jointly by the party acquiring the right (the registration entitled party) and the party whose right is being extinguished or modified (the registration obligated party).",
+    "japaneseDefinition": "権利に関する登記の申請は、原則として、登記により利益を受ける者(登記権利者)と不利益を受ける者(登記義務者)が共同で行わなければならないとする原則。",
+    "japaneseWordTranslation": "共同申請主義 (きょうどうしんせいしゅぎ)",
+    "legalContext": "Real Property Registration Act, Article 60: 'Registration of rights shall be applied for jointly by the person entitled to registration and the person obligated to registration.'",
+    "japaneseLegalContext": "不動産登記法第60条: 「権利に関する登記の申請は、法令に別段の定めがある場合を除き、登記権利者及び登記義務者が共同してしなければならない。」",
+    "exampleSentence": "The land transfer was delayed because the seller refused to participate in the application, violating the Co-Application Principle.",
+    "exampleTranslation": "売主が申請への参加を拒否したため、共同申請主義に反し、土地の移転が遅れた。",
+    "vocabularyList": [
+      {
+        "word": "substantive rights",
+        "translation": "実体的な権利"
+      },
+      {
+        "word": "submitted jointly",
+        "translation": "共同して申請された"
+      },
+      {
+        "word": "registration entitled party",
+        "translation": "登記権利者"
+      },
+      {
+        "word": "registration obligated party",
+        "translation": "登記義務者"
+      },
+      {
+        "word": "transfer",
+        "translation": "移転"
+      },
+      {
+        "word": "secured claim",
+        "translation": "担保債権"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Fact Record Section",
+    "definition": "The structural component of the Real Property Register that exclusively lists the physical details and legal identifier of the property, such as the registered location, size (area), land category, and building structure.",
+    "japaneseDefinition": "不動産登記記録のうち、土地や建物の所在、地目、地積、構造などの物理的な状況を記載するための部分。権利に関する事項は記載されない。",
+    "japaneseWordTranslation": "表示部 (ひょうじぶ)",
+    "legalContext": "Real Property Registration Act, Article 13: 'The Real Property Register shall be composed of the Fact Record Section and the Proprietary Rights Record Section.'",
+    "japaneseLegalContext": "不動産登記法第13条: 「不動産登記は、表示に関する登記及び権利に関する登記とする。」 (Note: Article 13 implicitly establishes the sections.)",
+    "exampleSentence": "Before purchasing the property, the lawyer confirmed that the recorded area in the Fact Record Section matched the findings of the recent land survey.",
+    "exampleTranslation": "その物件を購入する前に、弁護士は表示部に記録されている面積が最新の土地測量の結果と一致していることを確認した。",
+    "vocabularyList": [
+      {
+        "word": "structural component",
+        "translation": "構成部分"
+      },
+      {
+        "word": "physical details",
+        "translation": "物理的な詳細"
+      },
+      {
+        "word": "legal identifier",
+        "translation": "法的識別情報"
+      },
+      {
+        "word": "land category",
+        "translation": "地目"
+      },
+      {
+        "word": "building structure",
+        "translation": "建物の構造"
+      },
+      {
+        "word": "land survey",
+        "translation": "土地測量"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Boundary Determination",
+    "definition": "An official administrative procedure governed by a specialized law, whereby an administrative officer determines the location of the statutory boundary line between adjacent land parcels based on historical public documents and modern survey techniques.",
+    "japaneseDefinition": "土地の所有者間の争いとは別に、行政が公的な記録や測量に基づき、相隣接する土地の筆界（公法上の境界線）を正確に確定する手続き。",
+    "japaneseWordTranslation": "筆界特定 (ひっかいとくてい)",
+    "legalContext": "Boundary Determination Act, Article 1: 'The purpose of this Act is to contribute to the promotion of legal stability for property transactions by establishing procedures for Boundary Determination.'",
+    "japaneseLegalContext": "筆界特定制度（筆界特定の制度の創設のための不動産登記法等の改正に伴う関係法律の整備等に関する法律第1条）",
+    "exampleSentence": "Following years of dispute, the neighboring landowners agreed to submit an application for Boundary Determination to resolve the ambiguity of the property line.",
+    "exampleTranslation": "長年の紛争の後、隣接する土地所有者は、土地境界線の曖昧さを解決するため、筆界特定の手続きを申請することに合意した。",
+    "vocabularyList": [
+      {
+        "word": "administrative procedure",
+        "translation": "行政手続"
+      },
+      {
+        "word": "statutory boundary line",
+        "translation": "公法上の境界線"
+      },
+      {
+        "word": "adjacent land parcels",
+        "translation": "隣接する土地"
+      },
+      {
+        "word": "official administrative officer",
+        "translation": "行政職員"
+      },
+      {
+        "word": "historical public documents",
+        "translation": "公的記録"
+      },
+      {
+        "word": "ambiguity",
+        "translation": "曖昧さ"
+      }
+    ]
   }
 ]

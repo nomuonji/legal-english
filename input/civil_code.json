@@ -2,48 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Ratification",
-    "definition": "The subsequent approval by a party (or its legal successor) of a juridical act that was initially voidable or performed by a non-representative, thereby validating the act from its inception.",
-    "japaneseDefinition": "無権代理人の行為や取消し得る行為などについて、後からその行為を有効なものとして認める意思表示。",
-    "japaneseWordTranslation": "追認 (ついにん)",
-    "legalContext": "Civil Code Art. 113: If a person who performs a juridical act on behalf of another person without representative authority (non-agent) does so, the act shall be effective only if ratified by the principal.",
-    "japaneseLegalContext": "民法第113条: 代理権を有しない者が他人の代理人としてした行為は、本人がこれを追認しなければ、その本人に対して効力を生じない。",
-    "exampleSentence": "The principal may exercise the right of ratification against the third party concerning the contract performed without power of representation.",
-    "exampleTranslation": "本人は、無権代理人による契約について、第三者に対して追認の権利を行使できる。",
-    "vocabularyList": [
-      {
-        "word": "principal",
-        "translation": "本人 (ほんにん)"
-      },
-      {
-        "word": "representative authority",
-        "translation": "代理権 (だいりけん)"
-      },
-      {
-        "word": "non-agent",
-        "translation": "無権代理人 (むけんだいりにん)"
-      },
-      {
-        "word": "juridical act",
-        "translation": "法律行為 (ほうりつこうい)"
-      },
-      {
-        "word": "voidable",
-        "translation": "取り消し得る (とりけしうる)"
-      },
-      {
-        "word": "exercise the right",
-        "translation": "権利を行使する (けんりをこうしする)"
-      },
-      {
-        "word": "effective",
-        "translation": "効力を生じる (こうりょくをしょうじる)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Legally Reserved Share (Forced Share)",
     "definition": "The minimum portion of the deceased's estate that must be reserved for certain statutory heirs (excluding siblings) and cannot be unilaterally alienated through a will or pre-death gifts.",
     "japaneseDefinition": "兄弟姉妹以外の相続人に対し、被相続人の財産のうち、法律上必ず留保されるべき最低限の割合。",
@@ -10916,6 +10874,108 @@
       {
         "word": "long-term commercial leases",
         "translation": "長期の商業用賃貸借"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Damages",
+    "definition": "Damages arising from special circumstances that are not ordinarily expected as a result of non-performance, but which the parties foresaw or could have foreseen at the time of the contract's formation.",
+    "japaneseDefinition": "債務不履行によって通常生ずべき損害の範囲を超え、特別の事情によって生じた損害であって、当事者がその事情を予見し、又は予見することができたときに限り、賠償の対象となるもの。",
+    "japaneseWordTranslation": "とくべつのそんがい (tokubetsu no songai)",
+    "legalContext": "Civil Code Art. 416 (2): Damages arising out of special circumstances, notwithstanding the provisions of the preceding paragraph, shall only be compensable if the parties foresaw or could have foreseen the circumstances.",
+    "japaneseLegalContext": "民法第416条第2項：特別の事情によって生じた損害であっても、当事者がその事情を予見し、又は予見することができたときは、その賠償の責任を負う。",
+    "exampleSentence": "The claimant sought compensation for special damages, including lost profits resulting from the machine’s defect, as the manufacturer had prior notice of the critical production deadline.",
+    "exampleTranslation": "請求者は、機械の欠陥によって生じた逸失利益を含む特別損害の賠償を求めた。製造業者は、重大な生産期限について事前に通知を受けていたためである。",
+    "vocabularyList": [
+      {
+        "word": "non-performance",
+        "translation": "債務不履行 (saimu furikō)"
+      },
+      {
+        "word": "compensation",
+        "translation": "賠償 (baishō)"
+      },
+      {
+        "word": "foresee",
+        "translation": "予見する (yoken suru)"
+      },
+      {
+        "word": "claimant",
+        "translation": "請求者 (seikyūsha)"
+      },
+      {
+        "word": "prior notice",
+        "translation": "事前通知 (jizen tsūchi)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right of Revocation",
+    "definition": "The right held by a party (such as a person with limited capacity or a victim of fraud/duress) to nullify a juridical act retroactively, rendering it void from the beginning.",
+    "japaneseDefinition": "法律行為を遡及的に無効とするための一方的意思表示を行う権利。制限行為能力者や詐欺・強迫による意思表示の当事者等に認められる。",
+    "japaneseWordTranslation": "とりけしけん (torikeshi-ken)",
+    "legalContext": "Civil Code Art. 120 (1): A voidable juridical act may be revoked by the person with limited capacity to act or their agent, or by the victim of duress or fraud.",
+    "japaneseLegalContext": "民法第120条第1項：行為能力の制限によって取り消すことができる行為は、制限行為能力者又はその代理人、同意権者若しくは補助人に限り、取り消すことができる。",
+    "exampleSentence": "The guardian exercised the right of revocation on the sales contract due to the ward's limited capacity to enter into such an agreement independently.",
+    "exampleTranslation": "後見人は、被後見人が単独でかかる契約を締結する能力が制限されていたため、売買契約に対する取消権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "juridical act",
+        "translation": "法律行為 (hōritsu kōi)"
+      },
+      {
+        "word": "retroactively",
+        "translation": "遡及的に (sokyūteki ni)"
+      },
+      {
+        "word": "limited capacity",
+        "translation": "制限行為能力 (seigen kōi nōryoku)"
+      },
+      {
+        "word": "guardian",
+        "translation": "後見人 (kōkennin)"
+      },
+      {
+        "word": "ward",
+        "translation": "被後見人 (higōkennin)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exemption Clause",
+    "definition": "A contractual provision agreed upon by the parties that limits or entirely eliminates one party’s liability for damages resulting from certain circumstances, such as delay or non-performance.",
+    "japaneseDefinition": "契約当事者間の合意に基づき、一方の当事者が特定の状況（履行遅滞や不履行など）に起因する損害賠償責任を制限または完全に排除するために設けられる条項。",
+    "japaneseWordTranslation": "めんせきとくやく (menseki tokuyaku)",
+    "legalContext": "General principles of contract law allow for exemption clauses, provided they do not violate public order and good morals (Art. 90) or consumer contract protections.",
+    "japaneseLegalContext": "契約法の一般原則として、公序良俗（第90条）や消費者契約の保護に違反しない限り、免責特約は認められる。",
+    "exampleSentence": "The shipping agreement contained an exemption clause specifying that the carrier was not liable for delays caused by severe weather conditions.",
+    "exampleTranslation": "その運送契約には、運送業者が悪天候によって生じた遅延に対して責任を負わない旨を定める免責特約が含まれていた。",
+    "vocabularyList": [
+      {
+        "word": "contractual provision",
+        "translation": "契約条項 (keiyaku jōkō)"
+      },
+      {
+        "word": "limit liability",
+        "translation": "責任を制限する (sekinin o seigen suru)"
+      },
+      {
+        "word": "carrier",
+        "translation": "運送業者 (unsō gyōsha)"
+      },
+      {
+        "word": "public order",
+        "translation": "公序 (kōjo)"
+      },
+      {
+        "word": "severe weather conditions",
+        "translation": "悪天候 (akutenkō)"
       }
     ]
   }

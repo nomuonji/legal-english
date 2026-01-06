@@ -10040,5 +10040,119 @@
         "translation": "事由"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Transfer of Venue",
+    "definition": "The judicial decision to move a pending case from one court with jurisdiction to another court, typically for reasons of fairness, expediency, or avoiding significant hardship to a party.",
+    "japaneseDefinition": "管轄を有する裁判所が、訴訟の全部または一部を、他の裁判所へ移すことを決定すること。",
+    "japaneseWordTranslation": "管轄の移送 (Kankatsu no Isō)",
+    "legalContext": "Code of Civil Procedure Art. 5: If a court finds it appropriate, it may transfer the whole or part of the suit to a court of appropriate jurisdiction based on the overall circumstances.",
+    "japaneseLegalContext": "民事訴訟法第5条: 裁判所は、訴訟の全部または一部がその管轄に属する場合でも、審理の状況その他一切の事情を考慮し、著しい遅延を避け、または当事者間の衡平を図るため必要があると認めるときは、職権で、訴訟を管轄を有する他の裁判所に移送することができる。",
+    "exampleSentence": "The defendant successfully motioned for a transfer of venue, arguing that the majority of witnesses resided in a distant prefecture, making appearance difficult.",
+    "exampleTranslation": "被告は、証人の大半が遠隔地に住んでおり出廷が困難であることを理由として、管轄移送の申立てに成功した。",
+    "vocabularyList": [
+      {
+        "word": "venue",
+        "translation": "管轄 (kankatsu)"
+      },
+      {
+        "word": "expediency",
+        "translation": "便宜 (bengi)"
+      },
+      {
+        "word": "motioned for",
+        "translation": "申立てをした (mōshitate o shita)"
+      },
+      {
+        "word": "witnesses",
+        "translation": "証人 (shōnin)"
+      },
+      {
+        "word": "prefecture",
+        "translation": "都道府県 (todōfuken)"
+      },
+      {
+        "word": "hardship",
+        "translation": "困難 (konnan)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restriction on Judgment Exceeding Demand (Non Ultra Petita Rule)",
+    "definition": "The principle stipulating that a court may not grant the plaintiff relief that was not specifically requested in the prayer for relief (relief exceeding the demand is prohibited). This is a manifestation of the Principle of Disposition (Shobunken Shugi).",
+    "japaneseDefinition": "裁判所は、当事者が請求した事項および範囲を超えて判決を言い渡すことができないとする原則。処分権主義の現れである。",
+    "japaneseWordTranslation": "判決の請求超過禁止の原則 (Hanketsu no Seikyū Chōka Kinshi no Gensoku)",
+    "legalContext": "Code of Civil Procedure Art. 246: The court must rule on the matters requested by the parties. (Implied: The court may not grant relief outside the requested scope or amount.)",
+    "japaneseLegalContext": "民事訴訟法第246条: 裁判所は、当事者が訴訟上の請求として申し立てた事項について判決をする。",
+    "exampleSentence": "Due to the restriction on judgment exceeding demand, the court could not award $50,000 in damages when the plaintiff’s prayer for relief only requested $30,000.",
+    "exampleTranslation": "判決の請求超過禁止の原則により、原告の訴訟上の請求が3万ドルの損害賠償のみであったため、裁判所は5万ドルの賠償を命じることはできなかった。",
+    "vocabularyList": [
+      {
+        "word": "prayer for relief",
+        "translation": "請求の趣旨 (seikyū no shushi)"
+      },
+      {
+        "word": "award",
+        "translation": "認容する (nin'yō suru)"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告 (genkoku)"
+      },
+      {
+        "word": "damages",
+        "translation": "損害賠償 (songai baishō)"
+      },
+      {
+        "word": "manifestation",
+        "translation": "現れ (araware)"
+      },
+      {
+        "word": "stipulating",
+        "translation": "規定する (kitei suru)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Objective Joinder of Claims",
+    "definition": "The combination of multiple separate claims (or 'causes of action') by a single plaintiff against a single defendant into one lawsuit for the purpose of efficient adjudication.",
+    "japaneseDefinition": "一人の原告が、一人の被告に対して複数の請求を一つの訴訟手続の中で併合して提起すること。",
+    "japaneseWordTranslation": "客観的請求の併合 (Kyakkan-teki Seikyū no Heigō)",
+    "legalContext": "Code of Civil Procedure Art. 136: A plaintiff may join several claims against one defendant in one suit, unless the court is excluded from jurisdiction over any of the claims.",
+    "japaneseLegalContext": "民事訴訟法第136条: 原告は、一の訴えで数個の請求をすることができる。ただし、裁判所の管轄を異にするときは、この限りでない。",
+    "exampleSentence": "The plaintiff utilized objective joinder of claims to sue the contractor for both breach of contract and resulting tortious damages arising from the same construction project.",
+    "exampleTranslation": "原告は、同一の建設プロジェクトから生じた契約不履行と不法行為による損害賠償の両方を請負人に対して訴えるために、客観的請求の併合を利用した。",
+    "vocabularyList": [
+      {
+        "word": "adjudication",
+        "translation": "審判 (shinpan)"
+      },
+      {
+        "word": "breach of contract",
+        "translation": "契約不履行 (keiyaku furyūkō)"
+      },
+      {
+        "word": "tortious damages",
+        "translation": "不法行為による損害 (fuhō kōi ni yoru songai)"
+      },
+      {
+        "word": "efficient",
+        "translation": "効率的な (kōritsu-teki na)"
+      },
+      {
+        "word": "single plaintiff",
+        "translation": "一人の原告 (hitori no genkoku)"
+      },
+      {
+        "word": "separate claims",
+        "translation": "数個の請求 (sūko no seikyū)"
+      }
+    ]
   }
 ]

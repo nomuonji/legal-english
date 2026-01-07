@@ -2,48 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Legally Reserved Share (Forced Share)",
-    "definition": "The minimum portion of the deceased's estate that must be reserved for certain statutory heirs (excluding siblings) and cannot be unilaterally alienated through a will or pre-death gifts.",
-    "japaneseDefinition": "兄弟姉妹以外の相続人に対し、被相続人の財産のうち、法律上必ず留保されるべき最低限の割合。",
-    "japaneseWordTranslation": "遺留分 (いりゅうぶん)",
-    "legalContext": "Civil Code Art. 1042: The legally reserved share shall be calculated based on the value of the property constituting the inheritance.",
-    "japaneseLegalContext": "民法第1042条: 遺留分は、被相続人が相続開始の時において有した財産の価額に、その贈与した財産の価額を加え、債務の全額を控除して、これを算定する。",
-    "exampleSentence": "If the testator's testamentary disposition infringes upon a statutory heir's legally reserved share, the heir may claim restitution.",
-    "exampleTranslation": "遺言者の遺贈が法定相続人の遺留分を侵害する場合、その相続人は減殺請求をすることができる。",
-    "vocabularyList": [
-      {
-        "word": "testator",
-        "translation": "遺言者 (いごんしゃ)"
-      },
-      {
-        "word": "statutory heir",
-        "translation": "法定相続人 (ほうていそうぞくにん)"
-      },
-      {
-        "word": "infringe upon",
-        "translation": "侵害する (しんがいする)"
-      },
-      {
-        "word": "testamentary disposition",
-        "translation": "遺贈 (いぞう)"
-      },
-      {
-        "word": "deceased's estate",
-        "translation": "被相続人の財産 (ひそうぞくにんのざいさん)"
-      },
-      {
-        "word": "claim restitution",
-        "translation": "減殺請求をする (げんさいせいきゅうをする)"
-      },
-      {
-        "word": "property constituting the inheritance",
-        "translation": "相続財産 (そうぞくざいさん)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Easement (Servitude)",
     "definition": "A real right established for the purpose of increasing the convenience of one piece of land (dominant land) by utilizing another piece of land (servient land).",
     "japaneseDefinition": "自己の土地（要役地）の利用の便益のために、他人の土地（承役地）を利用することができる物権。",
@@ -11204,6 +11162,120 @@
       {
         "word": "Explicitly",
         "translation": "明示的に (meijiteki ni)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right of Avoidance",
+    "definition": "The legal power held by a party (or their representative) to retroactively nullify a juridical act that was concluded under specific defect grounds, such as limited capacity.",
+    "japaneseDefinition": "制限行為能力や意思表示の瑕疵など、特定の原因に基づいて成立した法律行為の効力を遡及的に消滅させる権利。",
+    "japaneseWordTranslation": "取消権 (Torikeshi-ken)",
+    "legalContext": "Civil Code Art. 120 (Persons who may avoid the juridical act): The right to avoid a juridical act may be exercised by the person with limited capacity to act or his/her agent.",
+    "japaneseLegalContext": "民法第120条（取消権者）：行為能力の制限によって取り消すことができる行為は、制限行為能力者又はその代理人等に限り、取り消すことができる。",
+    "exampleSentence": "The statutory agent exercised the right of avoidance concerning the purchase agreement due to the limited capacity of the principal.",
+    "exampleTranslation": "法定代理人は、本人の制限行為能力を理由として、当該売買契約に関する取消権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "statutory agent",
+        "translation": "法定代理人 (hōtei dairinin)"
+      },
+      {
+        "word": "principal",
+        "translation": "本人 (hon'nin)"
+      },
+      {
+        "word": "limited capacity",
+        "translation": "制限行為能力 (seigen kōi nōryoku)"
+      },
+      {
+        "word": "purchase agreement",
+        "translation": "売買契約 (baibai keiyaku)"
+      },
+      {
+        "word": "retroactively nullify",
+        "translation": "遡及的に無効にする (sokyūteki ni mukō ni suru)"
+      },
+      {
+        "word": "juridical act",
+        "translation": "法律行為 (hōritsu kōi)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Distribution of Inherited Property",
+    "definition": "The legal process, usually involving consultation among co-heirs, to allocate the individual assets and liabilities of the deceased's estate among the respective co-heirs.",
+    "japaneseDefinition": "共同相続人が、遺産に含まれる個々の財産や債務を、各相続人の間で具体的に配分し、相続財産を確定させる法的な手続き。",
+    "japaneseWordTranslation": "遺産分割 (Isan Bunkatsu)",
+    "legalContext": "Civil Code Art. 907 (Consultation for Distribution of Inherited Property): Co-heirs may at any time divide the inherited property through consultation.",
+    "japaneseLegalContext": "民法第907条（遺産の分割）：共同相続人は、いつでも、その協議で、遺産の分割をすることができる。",
+    "exampleSentence": "If the co-heirs cannot reach an agreement on the distribution of inherited property, they must petition the family court for adjudication.",
+    "exampleTranslation": "共同相続人が遺産分割について合意に至らない場合、彼らは家庭裁判所に審判を申し立てなければならない。",
+    "vocabularyList": [
+      {
+        "word": "co-heirs",
+        "translation": "共同相続人 (kyōdō sōzokunin)"
+      },
+      {
+        "word": "estate",
+        "translation": "遺産 (isan)"
+      },
+      {
+        "word": "consultation",
+        "translation": "協議 (kyōgi)"
+      },
+      {
+        "word": "family court",
+        "translation": "家庭裁判所 (katei saibansho)"
+      },
+      {
+        "word": "adjudication",
+        "translation": "審判 (shinpan)"
+      },
+      {
+        "word": "petition",
+        "translation": "申し立てる (mōshitate-ru)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Disclosure Obligation",
+    "definition": "The general duty imposed on parties in a legal relationship, particularly those involving trust or complexity, to inform the other party of facts that are material to the latter's decision-making or interests.",
+    "japaneseDefinition": "法律関係の当事者、特に信頼関係や複雑な状況を伴う関係において、相手方の意思決定や利益にとって重要となる事実を知らせる一般的な義務。",
+    "japaneseWordTranslation": "通知義務 (Tsūchi Gimu)",
+    "legalContext": "Civil Code Art. 698 (Duty to Notify): The manager of affairs without mandate shall promptly notify the principal of the commencement of the management of affairs.",
+    "japaneseLegalContext": "民法第698条（通知義務）：事務管理者は、事務の管理を始めたことを遅滞なく本人に通知しなければならない。",
+    "exampleSentence": "The agent breached its disclosure obligation by failing to inform the seller that the buyer was a related party.",
+    "exampleTranslation": "代理人は、買主が関係当事者であることを売主に通知しなかったため、通知義務に違反した。",
+    "vocabularyList": [
+      {
+        "word": "breach",
+        "translation": "違反 (ihan)"
+      },
+      {
+        "word": "agent",
+        "translation": "代理人 (dairinin)"
+      },
+      {
+        "word": "seller",
+        "translation": "売主 (urinushi)"
+      },
+      {
+        "word": "related party",
+        "translation": "関係当事者 (kankei tōjisha)"
+      },
+      {
+        "word": "material facts",
+        "translation": "重要な事実 (jūyō na jijitsu)"
+      },
+      {
+        "word": "promptly notify",
+        "translation": "遅滞なく通知する (chitai naku tsūchi suru)"
       }
     ]
   }

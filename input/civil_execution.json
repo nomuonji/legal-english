@@ -10072,5 +10072,81 @@
         "translation": "売却代金 (Baikyaku Daikin)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Conversion into Money",
+    "definition": "The essential phase of execution proceedings where seized assets (such as real estate, movable property, or secured claims) are officially liquidated or sold to generate cash for distribution to the judgment obligee(s).",
+    "japaneseDefinition": "差押えられた財産（不動産、動産、担保された債権など）を、債権者への配当のために公式に売却または処分し、現金化する執行手続の不可欠な段階。",
+    "japaneseWordTranslation": "換価 (かんか)",
+    "legalContext": "The Civil Execution Law stipulates various procedures for Conversion into Money, depending on the nature of the seized property.",
+    "japaneseLegalContext": "民事執行法は、差し押さえられた財産の性質に応じて、換価のための様々な手続を規定している。",
+    "exampleSentence": "The court ordered the Conversion into Money of the vessel immediately following its seizure due to its rapidly depreciating value.",
+    "exampleTranslation": "裁判所は、船舶の価値が急速に下落しているため、差押え直後にその換価を命じた。",
+    "vocabularyList": [
+      {
+        "word": "essential phase",
+        "translation": "不可欠な段階"
+      },
+      {
+        "word": "seized assets",
+        "translation": "差押えられた財産"
+      },
+      {
+        "word": "liquidated",
+        "translation": "処分し"
+      },
+      {
+        "word": "distribution",
+        "translation": "配当"
+      },
+      {
+        "word": "depreciating value",
+        "translation": "下落している価値"
+      },
+      {
+        "word": "stipulates",
+        "translation": "規定する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Subject to Execution",
+    "definition": "The specific items of the debtor's wealth (including real property, movables, and various rights) that are legally available to be targeted by the enforcement process, excluding those designated as non-seizable.",
+    "japaneseDefinition": "差押禁止財産として指定されたものを除き、強制執行手続の対象とすることが法的に可能な、債務者の特定の財産（不動産、動産、諸権利を含む）。",
+    "japaneseWordTranslation": "執行財産 (しっこうざいさん)",
+    "legalContext": "The determination of what constitutes Property Subject to Execution is crucial, as the seizure of non-available assets can lead to execution objection.",
+    "japaneseLegalContext": "執行財産を構成するものの決定は、差押え不可能な財産の差押えが執行異議を招く可能性があるため、極めて重要である。",
+    "exampleSentence": "The execution court must investigate the precise nature and location of the Property Subject to Execution before initiating any enforcement action.",
+    "exampleTranslation": "執行裁判所は、強制執行措置を開始する前に、執行財産の正確な性質と所在を調査しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "real property",
+        "translation": "不動産"
+      },
+      {
+        "word": "various rights",
+        "translation": "諸権利"
+      },
+      {
+        "word": "non-seizable",
+        "translation": "差押禁止の"
+      },
+      {
+        "word": "enforcement action",
+        "translation": "強制執行措置"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "execution objection",
+        "translation": "執行異議"
+      }
+    ]
   }
 ]

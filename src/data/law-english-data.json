@@ -1,38 +1,42 @@
 {
-  "category": "Deposit Act (供託法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Recipient of Consignment",
-  "definition": "The designated party for whose benefit the consignment is made and who has the legal authority to receive the Consigned Property from the managing facility.",
-  "japaneseDefinition": "供託がその者の利益のために行われる、指定された当事者であり、管理施設から供託物を受領する法的な権限を有する者。",
-  "japaneseWordTranslation": "被供託者 (ひきょうたくしゃ)",
-  "legalContext": "Deposit Act Enforcement Rules Art. 24: In cases where the Recipient of Consignment is an unknown person, the grounds for being unknown must be specified in the application.",
-  "japaneseLegalContext": "供託法施行規則第24条: 被供託者が不確知である場合には、その不確知の事由を申請書に記載しなければならない。",
-  "exampleSentence": "To claim the funds, the Recipient of Consignment must provide proof of identification and demonstrate their legal entitlement to the Consigned Property.",
-  "exampleTranslation": "資金を請求するためには、被供託者は身分証明書を提出し、供託物に対する法的資格を証明しなければならない。",
+  "word": "Legally Reserved Share (Forced Share)",
+  "definition": "The minimum portion of the deceased's estate that must be reserved for certain statutory heirs (excluding siblings) and cannot be unilaterally alienated through a will or pre-death gifts.",
+  "japaneseDefinition": "兄弟姉妹以外の相続人に対し、被相続人の財産のうち、法律上必ず留保されるべき最低限の割合。",
+  "japaneseWordTranslation": "遺留分 (いりゅうぶん)",
+  "legalContext": "Civil Code Art. 1042: The legally reserved share shall be calculated based on the value of the property constituting the inheritance.",
+  "japaneseLegalContext": "民法第1042条: 遺留分は、被相続人が相続開始の時において有した財産の価額に、その贈与した財産の価額を加え、債務の全額を控除して、これを算定する。",
+  "exampleSentence": "If the testator's testamentary disposition infringes upon a statutory heir's legally reserved share, the heir may claim restitution.",
+  "exampleTranslation": "遺言者の遺贈が法定相続人の遺留分を侵害する場合、その相続人は減殺請求をすることができる。",
   "vocabularyList": [
     {
-      "word": "designated party",
-      "translation": "指定された当事者"
+      "word": "testator",
+      "translation": "遺言者 (いごんしゃ)"
     },
     {
-      "word": "legal authority",
-      "translation": "法的権限"
+      "word": "statutory heir",
+      "translation": "法定相続人 (ほうていそうぞくにん)"
     },
     {
-      "word": "managing facility",
-      "translation": "管理施設"
+      "word": "infringe upon",
+      "translation": "侵害する (しんがいする)"
     },
     {
-      "word": "unknown person",
-      "translation": "不確知の者"
+      "word": "testamentary disposition",
+      "translation": "遺贈 (いぞう)"
     },
     {
-      "word": "application",
-      "translation": "申請書"
+      "word": "deceased's estate",
+      "translation": "被相続人の財産 (ひそうぞくにんのざいさん)"
     },
     {
-      "word": "legal entitlement",
-      "translation": "法的資格"
+      "word": "claim restitution",
+      "translation": "減殺請求をする (げんさいせいきゅうをする)"
+    },
+    {
+      "word": "property constituting the inheritance",
+      "translation": "相続財産 (そうぞくざいさん)"
     }
   ]
 }

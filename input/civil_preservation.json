@@ -8730,5 +8730,81 @@
         "translation": "終局判決 (shūkyoku hanketsu)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Tentative Proof",
+    "definition": "The standard of proof applied in civil preservation proceedings (and certain summary proceedings), where the party need only present evidence sufficient to convince the judge that the facts asserted are highly plausible, rather than establishing them with a preponderance of the evidence.",
+    "japaneseDefinition": "裁判官に対し、一応確からしいという心証を得させる程度の証明。保全命令の申立てにおいて、被保全権利及び保全の必要性の双方がこの疎明により示されなければならない。",
+    "japaneseWordTranslation": "疎明 (そめい)",
+    "legalContext": "Civil Preservation Act, Article 13(1): 'The preservation court shall, when the statement set forth in the preceding paragraph has been made, issue a preservation order if the preservable right or the necessity of preservation is supported by Tentative Proof.'",
+    "japaneseLegalContext": "民事保全法第13条第1項: 「保全裁判所は、前条の申立てに疎明を要する場合において、被保全権利又は保全の必要性の疎明があつたときに限り、保全命令を発することができる。」",
+    "exampleSentence": "The preservation creditor failed to provide sufficient Tentative Proof of the urgency required for the prohibitory provisional injunction, leading to the dismissal of the petition.",
+    "exampleTranslation": "保全債権者は、禁止的仮処分に必要な緊急性の十分な疎明を提供できなかったため、申立ては却下された。",
+    "vocabularyList": [
+      {
+        "word": "standard of proof",
+        "translation": "立証の基準"
+      },
+      {
+        "word": "preservation creditor",
+        "translation": "保全債権者"
+      },
+      {
+        "word": "plausible",
+        "translation": "確からしい"
+      },
+      {
+        "word": "prohibitory provisional injunction",
+        "translation": "禁止的仮処分"
+      },
+      {
+        "word": "dismissal of the petition",
+        "translation": "申立ての却下"
+      },
+      {
+        "word": "preponderance of the evidence",
+        "translation": "証拠の優越"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibition of Concurrent Execution",
+    "definition": "The rule preventing a subsequent provisional attachment or provisional disposition from being levied upon immovable property or registered rights that are already subject to an existing preservation measure of the same nature.",
+    "japaneseDefinition": "同一の不動産等の登録財産に対して、すでに先行する仮差押えまたは仮処分がある場合に、それと両立し得ない性質の保全執行が重ねて行われることを禁止する原則。",
+    "japaneseWordTranslation": "競合の禁止 (きょうごうのきんし)",
+    "legalContext": "Civil Preservation Act, Article 53(1) (Exclusion of Subsequent Provisional Attachment): 'When a provisional attachment has been carried out against real property, no further provisional attachment may be carried out against the same real property.'",
+    "japaneseLegalContext": "民事保全法第53条第1項（仮差押えの更なる差押えの禁止）: 「不動産について仮差押えの執行がされたときは、更に仮差押えの執行をすることができない。」",
+    "exampleSentence": "The registrar rejected the application for a second provisional attachment on the land, citing the statutory Prohibition of Concurrent Execution.",
+    "exampleTranslation": "登記官は、法令上の競合の禁止を理由に、その土地に対する二度目の仮差押えの申請を却下した。",
+    "vocabularyList": [
+      {
+        "word": "immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "levied upon",
+        "translation": "差し押さえられた"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "subsequent",
+        "translation": "後行の"
+      },
+      {
+        "word": "existing preservation measure",
+        "translation": "既存の保全措置"
+      },
+      {
+        "word": "registered rights",
+        "translation": "登録された権利"
+      }
+    ]
   }
 ]

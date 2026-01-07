@@ -9660,5 +9660,119 @@
         "translation": "違法な送金"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Subsequent Non-Punishable Act",
+    "definition": "An act committed following the completion of the constituent elements of a primary crime, but which is regarded as functionally inseparable from the primary crime and therefore does not constitute a separate punishable offense.",
+    "japaneseDefinition": "ある犯罪の構成要件の充足後に、その主要な法益侵害を伴う犯罪と一体とみなされ、別途処罰の対象とならない行為。",
+    "japaneseWordTranslation": "不可罰的事後行為 (ふかばつてきじごこうい)",
+    "legalContext": "Criminal Theory: Based on the principle of subsumption, typically applying to the use or disposal of property obtained through larceny or embezzlement.",
+    "japaneseLegalContext": "刑法解釈論: 処罰の重複を避けるための構成要件論に基づく原則（窃盗罪や横領罪で取得した物の処分等に適用される）。",
+    "exampleSentence": "The resale of the stolen vehicle by the perpetrator, subsequent to the larceny, was deemed a subsequent non-punishable act, absorbed into the original offense.",
+    "exampleTranslation": "犯人による盗難車両の転売は、窃盗後の不可罰的事後行為とみなされ、元の犯罪に吸収された。",
+    "vocabularyList": [
+      {
+        "word": "perpetrator",
+        "translation": "犯人"
+      },
+      {
+        "word": "subsumption",
+        "translation": "吸収（包摂）"
+      },
+      {
+        "word": "larceny",
+        "translation": "窃盗罪"
+      },
+      {
+        "word": "original offense",
+        "translation": "本犯"
+      },
+      {
+        "word": "constituent elements",
+        "translation": "構成要件"
+      },
+      {
+        "word": "inseparable",
+        "translation": "不可分"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "General Part (Criminal Law)",
+    "definition": "The systematic body of foundational doctrines and principles concerning the general requirements and structure of crimes (such as intent, negligence, attempt, complicity, justification, and culpability), applicable across all specific offenses.",
+    "japaneseDefinition": "刑法典の総則に規定されている、犯罪の成立および刑罰の賦課に関する共通の理論的・体系的原則。",
+    "japaneseWordTranslation": "刑法総論 (けいほうそうろん)",
+    "legalContext": "Criminal Code Book I (General Provisions) (刑法第一編: 総則): Contains the rules governing the structure of offenses and the imposition of penalties, forming the core of the General Part.",
+    "japaneseLegalContext": "刑法第一編 総則: 犯罪の成立要件や刑罰に関する共通の規定群。",
+    "exampleSentence": "A deep understanding of the General Part is essential for analyzing the exclusion of culpability due to mental disorder under Japanese Criminal Law.",
+    "exampleTranslation": "日本の刑法における心神喪失による責任の阻却を分析するには、刑法総論の深い理解が不可欠である。",
+    "vocabularyList": [
+      {
+        "word": "foundational doctrines",
+        "translation": "基礎理論"
+      },
+      {
+        "word": "specific offenses",
+        "translation": "各則の犯罪"
+      },
+      {
+        "word": "complicity",
+        "translation": "共犯"
+      },
+      {
+        "word": "culpability",
+        "translation": "責任"
+      },
+      {
+        "word": "mental disorder",
+        "translation": "心神喪失"
+      },
+      {
+        "word": "imposition of penalties",
+        "translation": "刑罰の賦課"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Mitigation for Attempted Crimes",
+    "definition": "The mandatory reduction of punishment prescribed by law for a crime that was attempted but not brought to completion, whether or not the perpetrator voluntarily abandoned the execution.",
+    "japaneseDefinition": "犯罪行為が未遂に終わった場合に、刑法によって必然的にその刑を減軽すること。特に、中止未遂（voluntary desistance）の場合に適用される。",
+    "japaneseWordTranslation": "未遂犯の必要的減軽 (みすいはんのひつようてきげんけい)",
+    "legalContext": "Criminal Code Art. 43 (Paragraph 1, Proviso): In the case of an attempted crime where the offender voluntarily desisted from execution, the punishment shall be mitigated or remitted.",
+    "japaneseLegalContext": "刑法第43条（ただし書き）: 実行に着手してこれを遂げなかった者について、自己の意思により中止したときは、その刑を減軽し、又は免除する。",
+    "exampleSentence": "The court applied the statutory mitigation for attempted crimes, reducing the sentence because the defendant voluntarily and completely withdrew from the arson attempt.",
+    "exampleTranslation": "被告人が放火の企図を自発的かつ完全に中止したため、裁判所は未遂犯の必要的減軽を適用し、刑を減じた。",
+    "vocabularyList": [
+      {
+        "word": "reduction of punishment",
+        "translation": "刑の減軽"
+      },
+      {
+        "word": "voluntarily desisted",
+        "translation": "自己の意思により中止した"
+      },
+      {
+        "word": "remitted",
+        "translation": "免除された"
+      },
+      {
+        "word": "arson attempt",
+        "translation": "放火未遂"
+      },
+      {
+        "word": "brought to completion",
+        "translation": "遂げた"
+      },
+      {
+        "word": "mandatory reduction",
+        "translation": "必要的減軽"
+      }
+    ]
   }
 ]

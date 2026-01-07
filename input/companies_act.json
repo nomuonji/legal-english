@@ -9360,5 +9360,115 @@
         "translation": "過大評価"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Bond Administrator",
+    "definition": "An entity (usually a trust bank or financial institution) appointed by a company issuing corporate bonds to manage the interests of the bondholders, including receiving payments and enforcing rights on their behalf.",
+    "japaneseDefinition": "社債権者のために、社債の管理を行い、債権の弁済を受け、または権利を実行する権限を持つ法人。",
+    "japaneseWordTranslation": "社債管理者 (しゃさいかんりしゃ)",
+    "legalContext": "Companies Act Art. 702: Appointment of Bond Administrator",
+    "japaneseLegalContext": "会社法第702条: 社債管理者の設置",
+    "exampleSentence": "The issuing company must appoint a reliable Bond Administrator if the total amount of outstanding bonds exceeds the threshold stipulated by Cabinet Order.",
+    "exampleTranslation": "社債発行会社は、発行済社債の総額が政令で定められた基準を超える場合、信頼できる社債管理者を設置しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "issuing company",
+        "translation": "発行会社"
+      },
+      {
+        "word": "corporate bond",
+        "translation": "社債"
+      },
+      {
+        "word": "bondholders",
+        "translation": "社債権者"
+      },
+      {
+        "word": "stipulated by Cabinet Order",
+        "translation": "政令で定められた"
+      },
+      {
+        "word": "enforcing rights",
+        "translation": "権利を実行する"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Public Notice of Claims",
+    "definition": "A mandatory procedure during corporate events such as dissolution, capital reduction, or organizational restructuring, requiring the company to publicly announce the event and notify known creditors to submit their claims within a fixed period.",
+    "japaneseDefinition": "会社が解散や資本減少、組織再編などの事由がある際に、債権者に一定期間内にその債権を申し出るよう促すために義務付けられた公告手続き。",
+    "japaneseWordTranslation": "債権申出の公告 (さいけんもうしでのこうこく)",
+    "legalContext": "Companies Act Art. 449, 789: Creditor Protection Procedures",
+    "japaneseLegalContext": "会社法第449条、第789条: 債権者保護手続",
+    "exampleSentence": "Failure to issue the required Public Notice of Claims during the capital reduction process can render the corporate resolution voidable by a court.",
+    "exampleTranslation": "資本減少手続きにおいて、義務付けられた債権申出の公告を怠ると、当該会社の決議は裁判所により取り消し得るものとなる。",
+    "vocabularyList": [
+      {
+        "word": "capital reduction",
+        "translation": "資本減少"
+      },
+      {
+        "word": "organizational restructuring",
+        "translation": "組織再編"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "submit claims",
+        "translation": "債権を申し出る"
+      },
+      {
+        "word": "voidable",
+        "translation": "取り消し得る"
+      },
+      {
+        "word": "mandatory procedure",
+        "translation": "義務付けられた手続"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Account for Consideration",
+    "definition": "A mandatory separate accounting ledger required when a company acquires its own shares, specifically for payments related to compensating shareholders who exercise appraisal rights during organizational restructuring.",
+    "japaneseDefinition": "組織再編時などに株式買取請求権を行使した株主への対価や金銭等の交付のために、会社法上の計算規定に従って設けられる特定の会計上の区分。",
+    "japaneseWordTranslation": "対価等交付に係る特別勘定 (たいかとうこうふにかかるとくべつかんじょう)",
+    "legalContext": "Companies Act Art. 798 (Accounting for Share Acquisition) and related provisions for distribution calculation.",
+    "japaneseLegalContext": "会社法第798条 (株式の取得に関する計上) および計算規定",
+    "exampleSentence": "The amount recorded in the Special Account for Consideration must be calculated carefully to ensure compliance with the rules on distributable amount.",
+    "exampleTranslation": "対価等交付に係る特別勘定に計上される金額は、分配可能額に関する規定を確実に遵守するために慎重に計算されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "accounting ledger",
+        "translation": "会計上の区分"
+      },
+      {
+        "word": "appraisal rights",
+        "translation": "買取請求権"
+      },
+      {
+        "word": "compensation",
+        "translation": "対価"
+      },
+      {
+        "word": "distributable amount",
+        "translation": "分配可能額"
+      },
+      {
+        "word": "compliance",
+        "translation": "遵守"
+      },
+      {
+        "word": "acquire its own shares",
+        "translation": "自己の株式を取得する"
+      }
+    ]
   }
 ]

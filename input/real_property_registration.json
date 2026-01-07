@@ -8152,5 +8152,107 @@
         "translation": "登記義務者"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Land Category Change Registration",
+    "definition": "A mandatory registration required under the Real Property Registration Act when the legal category or purpose of use (地目, chimoku) of a registered parcel of land has been physically changed (e.g., from forest to residential land).",
+    "japaneseDefinition": "登記簿上の土地の利用目的（地目）が現実の利用状況に合わせて変更された際に行う、不動産の表示に関する登記。",
+    "japaneseWordTranslation": "地目変更登記 (ちもくへんこうとうき)",
+    "legalContext": "Real Property Registration Act Art. 37 (Application for Change or Correction Registration of Property Description)",
+    "japaneseLegalContext": "不動産登記法第37条（表示に関する登記の申請）",
+    "exampleSentence": "The landowner must apply for a **Land Category Change Registration** within one month of completing the conversion of the paddy field into residential building land.",
+    "exampleTranslation": "土地所有者は、田を宅地に造成してから1ヶ月以内に、地目変更登記を申請しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "land category",
+        "translation": "地目 (ちもく)"
+      },
+      {
+        "word": "parcel of land",
+        "translation": "一筆の土地 (ひとふでのとち)"
+      },
+      {
+        "word": "mandatory registration",
+        "translation": "申請義務のある登記 (しんせいぎむのあるとうき)"
+      },
+      {
+        "word": "residential building land",
+        "translation": "宅地 (たくち)"
+      },
+      {
+        "word": "landowner",
+        "translation": "土地所有者 (とちしょゆうしゃ)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Building Floor Plan",
+    "definition": "The official registration of the floor plans (for each story of a building) and the location map, which are required documents for registering the physical description of a building under the Real Property Registration Act.",
+    "japaneseDefinition": "建物の物理的状況を登記する際に、建物所在図及び各階平面図を作成し、登記所に提出して行われる登記。建物の表示登記の必須事項。",
+    "japaneseWordTranslation": "建物の各階平面図の登記 (たてもののカクかいへいめんずのとうき)",
+    "legalContext": "Real Property Registration Act Art. 44 (Required Documents for Description Registration of Buildings)",
+    "japaneseLegalContext": "不動産登記法第44条（建物の表示の登記の申請情報）",
+    "exampleSentence": "The **Registration of Building Floor Plan** is crucial for clearly defining the physical boundaries and structure of the property in the public register.",
+    "exampleTranslation": "建物の各階平面図の登記は、公の登記簿において当該不動産の物理的な境界と構造を明確に定めるために極めて重要である。",
+    "vocabularyList": [
+      {
+        "word": "floor plan",
+        "translation": "平面図 (へいめんず)"
+      },
+      {
+        "word": "location map",
+        "translation": "所在図 (しょざいず)"
+      },
+      {
+        "word": "physical description",
+        "translation": "物理的状況 (ぶつりてきじょうきょう)"
+      },
+      {
+        "word": "required document",
+        "translation": "添付情報 (てんぷじょうほう)"
+      },
+      {
+        "word": "property",
+        "translation": "不動産 (ふどうさん)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Appearance for Identity Verification",
+    "definition": "A procedural requirement where the registrar mandates the registration obligor (usually the seller or the party losing a right) to physically appear at the registry office to confirm their identity, often used as an alternative measure when the prior notice system is utilized.",
+    "japaneseDefinition": "登記官が登記義務者本人であることを確認するため、登記義務者等に登記所に自ら出頭することを命じ、面談により本人確認を行う手続き。",
+    "japaneseWordTranslation": "出頭による本人確認 (しゅっとうによるほんにんかくにん)",
+    "legalContext": "Real Property Registration Act Art. 23(4) (Measures for Identity Verification)",
+    "japaneseLegalContext": "不動産登記法第23条第4項（申請人及びその代理人の出頭等）",
+    "exampleSentence": "If the identity verification requirements are not met through documentation, the applicant may be required to undergo an **Appearance for Identity Verification** at the registry office.",
+    "exampleTranslation": "もし本人確認要件が書類によって満たされない場合、申請人は登記所での出頭による本人確認を受けるよう要求されることがある。",
+    "vocabularyList": [
+      {
+        "word": "registration obligor",
+        "translation": "登記義務者 (とうきぎむしゃ)"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官 (とうきかん)"
+      },
+      {
+        "word": "registry office",
+        "translation": "登記所 (とうきじょ)"
+      },
+      {
+        "word": "identity verification",
+        "translation": "本人確認 (ほんにんかくにん)"
+      },
+      {
+        "word": "prior notice system",
+        "translation": "事前通知制度 (じぜんつうちせいど)"
+      }
+    ]
   }
 ]

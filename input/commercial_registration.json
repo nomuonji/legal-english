@@ -8302,5 +8302,85 @@
         "translation": "未登記事項 (mitōki jikō)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restriction on Asserting Non-Registered Matters",
+    "definition": "The legal principle stipulating that facts required to be registered in the commercial register cannot be asserted against a third party who acted in good faith, unless those facts have been properly registered.",
+    "japaneseDefinition": "登記事項を登記するまで、善意の第三者に対してその事項を主張することができないとする原則。",
+    "japaneseWordTranslation": "未登記事項の対抗制限 (みとうきじこうのたいこうせいげん)",
+    "legalContext": "Commercial Registration Act Art. 9: Unless registered, matters required to be registered may not be asserted against a third party who acted in good faith.",
+    "japaneseLegalContext": "商業登記法第９条：登記すべき事項は、登記の後でなければ、これをもって善意の第三者に対抗することができない。",
+    "exampleSentence": "Since the appointment of the new representative director was not registered, the company was subject to the restriction on asserting non-registered matters and could not invalidate the contract signed by the former director with a good faith client.",
+    "exampleTranslation": "新任の代表取締役の選任が登記されていなかったため、会社は未登記事項の対抗制限を受け、善意の顧客との間で旧取締役が署名した契約を無効にできなかった。",
+    "vocabularyList": [
+      {
+        "word": "Asserting",
+        "translation": "対抗すること"
+      },
+      {
+        "word": "Good faith",
+        "translation": "善意"
+      },
+      {
+        "word": "Representative director",
+        "translation": "代表取締役"
+      },
+      {
+        "word": "Invalidate",
+        "translation": "無効にする"
+      },
+      {
+        "word": "Third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "Appointment",
+        "translation": "選任"
+      },
+      {
+        "word": "Commercial register",
+        "translation": "商業登記簿"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Document Certifying the Basis of Registration",
+    "definition": "A document submitted with the registration application proving the existence of the legal or factual event (cause) that necessitates the registration, such as minutes of a meeting or a written agreement.",
+    "japaneseDefinition": "登記を必要とする法律上又は事実上の原因の発生を証明するために、登記申請書に添付しなければならない書面。",
+    "japaneseWordTranslation": "登記原因を証する書面 (とうきげんいんをしょうするしょめん)",
+    "legalContext": "Commercial Registration Act Art. 18: An application for registration shall be accompanied by a document certifying the cause of registration.",
+    "japaneseLegalContext": "商業登記法第１８条：登記の申請は、法令に別段の定めがある場合を除き、登記の原因を証する書面を添付しなければならない。",
+    "exampleSentence": "For the registration of the capital increase, the applicant must submit both the resolution of the shareholders' meeting and the document certifying the basis of registration, which typically includes the receipt of payment.",
+    "exampleTranslation": "増資の登記のためには、申請人は株主総会の決議と、通常支払の受領書を含む登記原因を証する書面を提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Application",
+        "translation": "申請"
+      },
+      {
+        "word": "Resolution",
+        "translation": "決議"
+      },
+      {
+        "word": "Capital increase",
+        "translation": "増資"
+      },
+      {
+        "word": "Receipt of payment",
+        "translation": "払込の受領書"
+      },
+      {
+        "word": "Submit",
+        "translation": "提出する"
+      },
+      {
+        "word": "Necessitates",
+        "translation": "必要とさせる"
+      }
+    ]
   }
 ]

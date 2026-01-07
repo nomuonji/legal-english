@@ -9774,5 +9774,107 @@
         "translation": "必要的減軽"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legal Mitigation",
+    "definition": "A mandatory reduction of a statutory penalty, applied when specific mitigating circumstances stipulated directly by the Criminal Code (or other laws) are met.",
+    "japaneseDefinition": "刑法または特別法上の規定により、裁判官の裁量によらず、法定刑が必ず減軽されること（例：中止犯や盲導犬訓練中の過失）。",
+    "japaneseWordTranslation": "法律的減軽 (ほうりつてきげんけい)",
+    "legalContext": "Criminal Code Art. 42 (Legal Mitigation): Where grounds for mitigation are specified by law, such mitigation shall be effected pursuant to the provision of the preceding Article.",
+    "japaneseLegalContext": "刑法第42条（法律上の減軽）：法律上の減軽は、前条の規定を適用する。",
+    "exampleSentence": "The attempt was subject to legal mitigation because the offender voluntarily and successfully desisted from the completion of the crime, as provided for in Article 43.",
+    "exampleTranslation": "その未遂犯は、刑法第43条に定められているように、犯罪の完成から犯人が自発的に中止したため、法律的減軽の対象となった。",
+    "vocabularyList": [
+      {
+        "word": "statutory penalty",
+        "translation": "法定刑"
+      },
+      {
+        "word": "desist",
+        "translation": "中止する"
+      },
+      {
+        "word": "mitigating circumstances",
+        "translation": "減軽事由"
+      },
+      {
+        "word": "attempt",
+        "translation": "未遂"
+      },
+      {
+        "word": "voluntarily",
+        "translation": "自発的に"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Unconscious Negligence",
+    "definition": "A form of criminal negligence (Kashitsu) where the perpetrator fails to foresee a harmful result, even though a reasonable person in their position should have been able to foresee the result and avoid it.",
+    "japaneseDefinition": "犯罪結果の発生可能性を認識しなかったが、注意義務を尽くせば認識できたはずである場合の過失。これに対し、認識していたが結果を軽視した場合を認識ある過失（意識的過失）という。",
+    "japaneseWordTranslation": "無認識過失 (むにんしきかしつ)",
+    "legalContext": "Criminal Code Art. 38 (1) (Criminal Intent, etc.): An act performed without criminal intent shall not be punishable; provided, however, that the same shall apply in cases where specially provided for in law.",
+    "japaneseLegalContext": "刑法第38条第1項（故意）：罪を犯す意思がない行為は、罰しない。ただし、法律に特別の規定がある場合は、この限りでない。",
+    "exampleSentence": "Since the defendant was operating equipment without proper maintenance checks, the resulting accident, although unintended, constituted a crime of unconscious negligence.",
+    "exampleTranslation": "被告人が適切な整備点検を行わずに機器を操作していたため、意図せぬものであったが、その結果生じた事故は無認識過失の罪を構成した。",
+    "vocabularyList": [
+      {
+        "word": "negligence",
+        "translation": "過失"
+      },
+      {
+        "word": "foresee",
+        "translation": "予見する"
+      },
+      {
+        "word": "duty of care",
+        "translation": "注意義務"
+      },
+      {
+        "word": "unintended",
+        "translation": "意図しない"
+      },
+      {
+        "word": "perpetrator",
+        "translation": "行為者"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Intent to Kill",
+    "definition": "The specific subjective state required for the crime of homicide (murder), indicating a definitive desire to cause death or an acceptance of the high probability of death as a result of the defendant's actions.",
+    "japaneseDefinition": "人を殺害するという確定的な意思、または行為の結果として死の発生を予見し、それを容認する意思。殺人の構成要件要素。",
+    "japaneseWordTranslation": "殺意 (さつい)",
+    "legalContext": "Criminal Code Art. 199 (Homicide): A person who kills another shall be punished by the death penalty, or imprisonment for life or for not less than five years.",
+    "japaneseLegalContext": "刑法第199条（殺人）：人を殺した者は、死刑又は無期若しくは五年以上の懲役に処する。",
+    "exampleSentence": "The prosecution must demonstrate the defendant possessed a clear intent to kill, either express or implied, to secure a conviction for the most severe homicide charge.",
+    "exampleTranslation": "検察は、最も重い殺人罪で有罪判決を得るために、被告人が明示的か暗示的かにかかわらず、明確な殺意を抱いていたことを立証しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "homicide",
+        "translation": "殺人（行為）"
+      },
+      {
+        "word": "subjective state",
+        "translation": "主観的状態"
+      },
+      {
+        "word": "prosecution",
+        "translation": "検察"
+      },
+      {
+        "word": "conviction",
+        "translation": "有罪判決"
+      },
+      {
+        "word": "implied",
+        "translation": "暗示された"
+      }
+    ]
   }
 ]

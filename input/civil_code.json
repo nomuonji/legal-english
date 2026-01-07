@@ -11278,5 +11278,119 @@
         "translation": "遅滞なく通知する (chitai naku tsūchi suru)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Community Property (General Ownership)",
+    "definition": "The form of ownership where property is held collectively by the members of a non-incorporated association or group, in accordance with the association's rules, without individual shares being specified or transferable.",
+    "japaneseDefinition": "法人格を有しない社団の構成員が、団体目的達成のために、団体財産を共同で所有する形態。構成員の持分権は認められず、財産の処分は総会の決議による。",
+    "japaneseWordTranslation": "総有 (そうゆう)",
+    "legalContext": "Civil Code Art. 273 (General Ownership): The property of an association which is not a juridical person shall belong to all members as general ownership.",
+    "japaneseLegalContext": "民法第273条（総有）：法人でない社団の財産は、総社員の総有に属する。",
+    "exampleSentence": "The land purchased by the neighborhood association for the community center is held as community property, requiring a general meeting resolution for its disposition.",
+    "exampleTranslation": "町内会がコミュニティセンターのために購入した土地は総有として保有されており、その処分には総会の決議が必要となる。",
+    "vocabularyList": [
+      {
+        "word": "non-incorporated association",
+        "translation": "法人格を有しない社団"
+      },
+      {
+        "word": "collectively",
+        "translation": "共同で"
+      },
+      {
+        "word": "disposition",
+        "translation": "処分"
+      },
+      {
+        "word": "general meeting",
+        "translation": "総会"
+      },
+      {
+        "word": "resolution",
+        "translation": "決議"
+      },
+      {
+        "word": "members",
+        "translation": "構成員（社員）"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legal Presumption",
+    "definition": "A rule of evidence under which a specific fact is deemed to exist until contrary evidence is produced to rebut it. It shifts the burden of proof to the party challenging the presumed fact.",
+    "japaneseDefinition": "特定の事実（主要事実）が証明された場合に、他の事実（要件事実）の存在が裁判上認められる法的な規則。反証によって覆すことが可能であり、立証責任の転換を生じさせる。",
+    "japaneseWordTranslation": "推定 (すいてい)",
+    "legalContext": "Civil Code Art. 772 (Presumption of Child in Wedlock): A child born 200 days or more after the day of the marriage, or born within 300 days of the day of the dissolution of the marriage, shall be presumed to be the child of the husband.",
+    "japaneseLegalContext": "民法第772条（嫡出の推定）：妻が婚姻中に懐胎した子は、夫の子と推定する。",
+    "exampleSentence": "Under the Civil Code, the possession of a movable property raises a legal presumption that the possessor has the right to possess, requiring the opposing party to provide rebuttal.",
+    "exampleTranslation": "民法上、動産の占有は占有者に占有権原があるとの推定を生じさせ、相手方には反証を提出する義務がある。",
+    "vocabularyList": [
+      {
+        "word": "rule of evidence",
+        "translation": "証拠法則"
+      },
+      {
+        "word": "contrary evidence",
+        "translation": "反証"
+      },
+      {
+        "word": "rebut",
+        "translation": "覆す"
+      },
+      {
+        "word": "burden of proof",
+        "translation": "立証責任"
+      },
+      {
+        "word": "possession",
+        "translation": "占有"
+      },
+      {
+        "word": "movable property",
+        "translation": "動産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Fetal Rights (Legal Personality of a Fetus)",
+    "definition": "The provision that a fetus, although not yet born, is treated as already born for the purposes of securing rights concerning inheritance, tortious acts, and gifts. The acquisition of these rights is conditioned upon subsequent live birth.",
+    "japaneseDefinition": "胎児が相続、不法行為による損害賠償請求、又は贈与について、既に生まれたものとみなされて権利能力が認められること。ただし、権利の取得は生きて生まれることを条件とする。",
+    "japaneseWordTranslation": "胎児の権利能力 (たいじのけんりのうりょく)",
+    "legalContext": "Civil Code Art. 886 (Inheritance) and Art. 721 (Damages for Tortious Act): A fetus shall be deemed to have been already born with regard to inheritance and damages for tortious acts.",
+    "japaneseLegalContext": "民法第886条（相続に関する胎児）：胎児は、相続については、既に生まれたものとみなす。民法第721条（損害賠償の請求権に関する胎児）：胎児は、損害賠償の請求権については、既に生まれたものとみなす。",
+    "exampleSentence": "The tortious act committed before birth resulted in a claim for damages, utilizing the principle of fetal rights to establish the fetus as a legally entitled party.",
+    "exampleTranslation": "出生前に犯された不法行為は損害賠償請求をもたらし、胎児の権利能力の原則を利用して、胎児を法的な権利主体として確立した。",
+    "vocabularyList": [
+      {
+        "word": "tortious act",
+        "translation": "不法行為"
+      },
+      {
+        "word": "subsequent live birth",
+        "translation": "生きて生まれること"
+      },
+      {
+        "word": "legally entitled party",
+        "translation": "法的な権利主体"
+      },
+      {
+        "word": "inheritance",
+        "translation": "相続"
+      },
+      {
+        "word": "deemed",
+        "translation": "みなす"
+      },
+      {
+        "word": "securing rights",
+        "translation": "権利の確保"
+      }
+    ]
   }
 ]

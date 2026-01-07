@@ -1,42 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Civil Preservation (民事保全法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Legally Reserved Share (Forced Share)",
-  "definition": "The minimum portion of the deceased's estate that must be reserved for certain statutory heirs (excluding siblings) and cannot be unilaterally alienated through a will or pre-death gifts.",
-  "japaneseDefinition": "兄弟姉妹以外の相続人に対し、被相続人の財産のうち、法律上必ず留保されるべき最低限の割合。",
-  "japaneseWordTranslation": "遺留分 (いりゅうぶん)",
-  "legalContext": "Civil Code Art. 1042: The legally reserved share shall be calculated based on the value of the property constituting the inheritance.",
-  "japaneseLegalContext": "民法第1042条: 遺留分は、被相続人が相続開始の時において有した財産の価額に、その贈与した財産の価額を加え、債務の全額を控除して、これを算定する。",
-  "exampleSentence": "If the testator's testamentary disposition infringes upon a statutory heir's legally reserved share, the heir may claim restitution.",
-  "exampleTranslation": "遺言者の遺贈が法定相続人の遺留分を侵害する場合、その相続人は減殺請求をすることができる。",
+  "word": "Action on the Merits",
+  "definition": "The principal lawsuit filed to obtain a final, substantive judgment confirming the existence and scope of the preserved claim or right, distinct from the preliminary preservation procedure itself.",
+  "japaneseDefinition": "保全命令が確保しようとしている請求権について、最終的な権利の存否を確定させるために提起される主要な訴訟（本訴）。",
+  "japaneseWordTranslation": "本案の訴え (ほんなんのうったえ)",
+  "legalContext": "Civil Preservation Law Art. 37(1): If the preservation obligee does not bring an action on the merits within the time period specified by the preservation order, the court shall, upon petition of the preservation debtor, revoke the preservation order.",
+  "japaneseLegalContext": "民事保全法第37条第1項：保全債権者が保全命令において定められた期間内に本案の訴えを提起しなかったときは、裁判所は、保全債務者の申立てにより、保全命令を取り消さなければならない。",
+  "exampleSentence": "The preservation court set a deadline requiring the claimant to file the **action on the merits** within thirty days.",
+  "exampleTranslation": "保全裁判所は、申立人が30日以内に本案の訴えを提起するよう期限を設定した。",
   "vocabularyList": [
     {
-      "word": "testator",
-      "translation": "遺言者 (いごんしゃ)"
+      "word": "Claimant",
+      "translation": "申立人"
     },
     {
-      "word": "statutory heir",
-      "translation": "法定相続人 (ほうていそうぞくにん)"
+      "word": "Principal lawsuit",
+      "translation": "本訴"
     },
     {
-      "word": "infringe upon",
-      "translation": "侵害する (しんがいする)"
+      "word": "Time period specified",
+      "translation": "定められた期間"
     },
     {
-      "word": "testamentary disposition",
-      "translation": "遺贈 (いぞう)"
+      "word": "Final judgment",
+      "translation": "終局判決"
     },
     {
-      "word": "deceased's estate",
-      "translation": "被相続人の財産 (ひそうぞくにんのざいさん)"
+      "word": "Substantive right",
+      "translation": "実体的な権利"
     },
     {
-      "word": "claim restitution",
-      "translation": "減殺請求をする (げんさいせいきゅうをする)"
-    },
-    {
-      "word": "property constituting the inheritance",
-      "translation": "相続財産 (そうぞくざいさん)"
+      "word": "Petition of the debtor",
+      "translation": "債務者の申立て"
     }
   ]
 }

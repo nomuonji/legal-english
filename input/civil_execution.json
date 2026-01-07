@@ -9958,5 +9958,119 @@
         "translation": "執行手続の開始"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Adjudication of Sale",
+    "definition": "A judicial decision rendered by the execution court confirming the sale of the execution property (typically immovable property) to the highest bidder or tenderer.",
+    "japaneseDefinition": "執行裁判所が、入札や競り売りの結果に基づき、最高価買受申出人に対して、売却を許可するかどうかを決定する司法処分。",
+    "japaneseWordTranslation": "売却決定 (Bai Kyaku Kettei)",
+    "legalContext": "Civil Execution Act, Article 61 (Adjudication of Sale): The execution court shall, without delay after the sale date, make a decision on the adjudication of sale, specifying the highest bid offeror as the purchaser.",
+    "japaneseLegalContext": "民事執行法 第61条（売却決定）：執行裁判所は、売却期日の終了後、遅滞なく、最高価買受申出人について売却決定をしなければならない。",
+    "exampleSentence": "Upon the expiration of the objection period, the execution court issued the Adjudication of Sale, finalizing the transfer of the seized real property.",
+    "exampleTranslation": "異議申立期間の満了に伴い、執行裁判所は売却決定を下し、差押えられた不動産の所有権移転を確定させた。",
+    "vocabularyList": [
+      {
+        "word": "execution court",
+        "translation": "執行裁判所 (Shikkō Saibansho)"
+      },
+      {
+        "word": "seized property",
+        "translation": "差押財産 (Sashiosae Zaisan)"
+      },
+      {
+        "word": "highest bid offeror",
+        "translation": "最高価買受申出人 (Saikōka Kaiuke Mōshide Nin)"
+      },
+      {
+        "word": "sale date",
+        "translation": "売却期日 (Baikyaku Kijitsu)"
+      },
+      {
+        "word": "transfer",
+        "translation": "移転 (Iten)"
+      },
+      {
+        "word": "objection period",
+        "translation": "異議申立期間 (Igi Mōshitate Kikan)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sale by Judicial Tender",
+    "definition": "A method of judicial sale of immovable execution property where prospective purchasers submit sealed written bids (tenders) within a specified period, and the highest conforming bid wins the property.",
+    "japaneseDefinition": "不動産執行における売却方法の一つで、買受申出を希望する者が所定の期間内に書面により入札を行い、最も高い価額を申し出た者に売却する手続き。",
+    "japaneseWordTranslation": "入札による売却 (Nyūsatsu ni yoru Baikyaku)",
+    "legalContext": "Civil Execution Act, Article 64: The execution court shall carry out the sale of the execution property by auction or Sale by Judicial Tender.",
+    "japaneseLegalContext": "民事執行法 第64条：執行裁判所は、競り売り又は入札の方法により執行財産の売却を行う。",
+    "exampleSentence": "The execution court decided to employ Sale by Judicial Tender for the distressed condominium, hoping to maximize the sale proceeds.",
+    "exampleTranslation": "執行裁判所は、売却代金を最大化するため、当該競売物件であるマンションについて入札による売却を採用することを決定した。",
+    "vocabularyList": [
+      {
+        "word": "judicial sale",
+        "translation": "競売 (Keibai)"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産 (Fudōsan)"
+      },
+      {
+        "word": "execution property",
+        "translation": "執行財産 (Shikkō Zaisan)"
+      },
+      {
+        "word": "maximize proceeds",
+        "translation": "代金を最大化する (Daikin o Saidaika Suru)"
+      },
+      {
+        "word": "prospective purchaser",
+        "translation": "買受申出人 (Kaiuke Mōshide Nin)"
+      },
+      {
+        "word": "written bids",
+        "translation": "書面による入札 (Shomen ni yoru Nyūsatsu)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Objection to Distribution",
+    "definition": "A formal objection filed by a party involved in the distribution proceedings (such as an obligee or the obligor) to contest the draft distribution schedule prepared by the execution court, claiming an error in the allocation of sale proceeds.",
+    "japaneseDefinition": "執行裁判所が作成した配当期日における配当表案に対し、異議のある債権者や債務者が行う、配当の順位や額に関する不服の申立て。",
+    "japaneseWordTranslation": "配当異議 (Haitō Igi)",
+    "legalContext": "Civil Execution Act, Article 89: An obligee who has made a demand for distribution or the execution obligor may file an Objection to Distribution if they have grounds to contest the draft distribution schedule.",
+    "japaneseLegalContext": "民事執行法 第89条：配当要求をした債権者又は執行債務者は、配当期日において配当表案に異議があるときは、配当異議の申立てをすることができる。",
+    "exampleSentence": "The secured creditor filed an Objection to Distribution, asserting that the draft schedule unfairly prioritized unsecured claims over their registered hypothec.",
+    "exampleTranslation": "担保権者は、配当表案が登録された抵当権よりも無担保債権を不当に優先させていると主張し、配当異議を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "distribution proceedings",
+        "translation": "配当手続 (Haitō Tetsuzuki)"
+      },
+      {
+        "word": "draft schedule",
+        "translation": "配当表案 (Haitō Hyōan)"
+      },
+      {
+        "word": "unsecured claims",
+        "translation": "無担保債権 (Mutampo Saiken)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (Saikensha)"
+      },
+      {
+        "word": "priority",
+        "translation": "優先 (Yūsen)"
+      },
+      {
+        "word": "sale proceeds",
+        "translation": "売却代金 (Baikyaku Daikin)"
+      }
+    ]
   }
 ]

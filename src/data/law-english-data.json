@@ -1,38 +1,38 @@
 {
   "category": "Deposit Act (供託法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Consigned Property",
-  "definition": "The money, negotiable instruments, or other movable goods that the obligor entrusts to a governmental facility in order to release themselves from their obligation, typically due to issues such as the obligee’s refusal or unknown whereabouts.",
-  "japaneseDefinition": "債務者が、債権者の受領拒否や所在不明などの理由により、自己の債務を免れるために国の機関に委託する金銭、有価証券その他の動産。",
-  "japaneseWordTranslation": "供託物 (きょうたくぶつ)",
-  "legalContext": "Deposit Act Art. 8: Money or negotiable instruments shall be the Consigned Property in the case of judicial security or performance discharge consignment, except as otherwise provided by law.",
-  "japaneseLegalContext": "供託法第8条: 法令に別段の定めがある場合を除くほか、司法上の保証又は弁済による供託は、金銭又は有価証券をもって供託物とする。",
-  "exampleSentence": "A detailed inventory must be submitted outlining the quantity and nature of the Consigned Property before the consignment is accepted by the authorities.",
-  "exampleTranslation": "当局により供託が受理される前に、供託物の数量と性質を詳述した詳細な目録が提出されなければならない。",
+  "word": "Recipient of Consignment",
+  "definition": "The designated party for whose benefit the consignment is made and who has the legal authority to receive the Consigned Property from the managing facility.",
+  "japaneseDefinition": "供託がその者の利益のために行われる、指定された当事者であり、管理施設から供託物を受領する法的な権限を有する者。",
+  "japaneseWordTranslation": "被供託者 (ひきょうたくしゃ)",
+  "legalContext": "Deposit Act Enforcement Rules Art. 24: In cases where the Recipient of Consignment is an unknown person, the grounds for being unknown must be specified in the application.",
+  "japaneseLegalContext": "供託法施行規則第24条: 被供託者が不確知である場合には、その不確知の事由を申請書に記載しなければならない。",
+  "exampleSentence": "To claim the funds, the Recipient of Consignment must provide proof of identification and demonstrate their legal entitlement to the Consigned Property.",
+  "exampleTranslation": "資金を請求するためには、被供託者は身分証明書を提出し、供託物に対する法的資格を証明しなければならない。",
   "vocabularyList": [
     {
-      "word": "negotiable instruments",
-      "translation": "有価証券"
+      "word": "designated party",
+      "translation": "指定された当事者"
     },
     {
-      "word": "movable goods",
-      "translation": "動産"
+      "word": "legal authority",
+      "translation": "法的権限"
     },
     {
-      "word": "release themselves",
-      "translation": "（義務を）免れる"
+      "word": "managing facility",
+      "translation": "管理施設"
     },
     {
-      "word": "judicial security",
-      "translation": "司法上の保証"
+      "word": "unknown person",
+      "translation": "不確知の者"
     },
     {
-      "word": "detailed inventory",
-      "translation": "詳細な目録"
+      "word": "application",
+      "translation": "申請書"
     },
     {
-      "word": "nature",
-      "translation": "性質"
+      "word": "legal entitlement",
+      "translation": "法的資格"
     }
   ]
 }

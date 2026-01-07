@@ -9250,5 +9250,115 @@
         "translation": "議決権"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Failure to Subscribe (Forfeiture of Shareholder Status)",
+    "definition": "The legal consequence where a person who has offered to subscribe for shares forfeits their status as a shareholder and all rights pertaining to the shares due to failure to pay the required subscription price by the designated deadline.",
+    "japaneseDefinition": "株式の引受人が払込期日までに株金の全額の払込みをしない場合に、その株式を取得する権利を失うこと。会社法上の「失権」。",
+    "japaneseWordTranslation": "失権 (しっけん)",
+    "legalContext": "Companies Act Art. 208 (2): Unless otherwise prescribed by law, the person who offered to subscribe for shares loses their rights as a shareholder if they fail to pay the subscription moneys by the deadline.",
+    "japaneseLegalContext": "会社法第208条第2項: 募集株式の引受人が、払込みを完了しなかったときは、その株式を取得する権利を失う。",
+    "exampleSentence": "Upon the expiry of the payment deadline, the subscriber's failure to subscribe resulted in the company cancelling the allotment of the shares.",
+    "exampleTranslation": "払込期日の満了に伴い、引受人が失権した結果、会社は当該株式の割当てを取り消した。",
+    "vocabularyList": [
+      {
+        "word": "subscriber",
+        "translation": "引受人"
+      },
+      {
+        "word": "payment deadline",
+        "translation": "払込期日"
+      },
+      {
+        "word": "allotment",
+        "translation": "割当て"
+      },
+      {
+        "word": "subscription price",
+        "translation": "募集金額"
+      },
+      {
+        "word": "cancel",
+        "translation": "取り消す"
+      },
+      {
+        "word": "forfeit rights",
+        "translation": "権利を失う"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Interest",
+    "definition": "An interest granted to a specific shareholder or officer that is not granted equally to all shareholders, which is often restricted or prohibited under the Companies Act to ensure the principle of equality.",
+    "japaneseDefinition": "特定の株主等に対してのみ与えられ、他の株主には平等に与えられない利益。株主平等の原則（会社法109条）により制限を受ける。",
+    "japaneseWordTranslation": "特別の利益 (とくべつのりえき)",
+    "legalContext": "Companies Act Art. 109 (1): A stock company must treat its shareholders equally in proportion to the shares they hold. The act prohibits the grant of a 'special interest' that violates this principle.",
+    "japaneseLegalContext": "会社法第109条第1項: 株式会社は、株主を、その有する株式の内容及び数に応じて、平等に取り扱わなければならない。",
+    "exampleSentence": "The approval of the transfer restriction on shares must not unjustly injure a shareholder by providing a special interest to another party.",
+    "exampleTranslation": "株式譲渡制限の承認は、他の当事者に特別の利益を供与することにより、株主を不当に害するものであってはならない。",
+    "vocabularyList": [
+      {
+        "word": "equality of shareholders",
+        "translation": "株主平等の原則"
+      },
+      {
+        "word": "unjustly injure",
+        "translation": "不当に害する"
+      },
+      {
+        "word": "transfer restriction",
+        "translation": "譲渡制限"
+      },
+      {
+        "word": "approval",
+        "translation": "承認"
+      },
+      {
+        "word": "in proportion to",
+        "translation": "に応じて"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Deficiency in the Amount Contributed",
+    "definition": "The responsibility imposed on incorporators and initial officers to compensate the company for the difference if the actual value of assets contributed during incorporation falls significantly short of the stated valuation.",
+    "japaneseDefinition": "設立時の金銭以外の財産の出資（現物出資）の価額が定款に定めた価額に著しく不足する場合に、発起人や設立時取締役が負う、その不足額を会社に填補する責任。",
+    "japaneseWordTranslation": "出資の不足額に係る責任 (しゅっしのふそくがくにかかるせきにん)",
+    "legalContext": "Companies Act Art. 52 (1): If the actual value of assets contributed in kind falls significantly short of the value prescribed in the articles of incorporation, the incorporators and initial directors shall be jointly and severally liable to compensate the company for such deficiency.",
+    "japaneseLegalContext": "会社法第52条第1項: 定款に定めた価額に著しく不足するときは、発起人及び設立時取締役は、株式会社に対し、連帯して、その不足額を支払う義務を負う。",
+    "exampleSentence": "The initial directors were found jointly and severally liable for deficiency in the amount contributed due to the excessive valuation of the real property asset.",
+    "exampleTranslation": "当該不動産資産の過大評価により、設立時取締役は出資の不足額に係る責任について連帯責任を負うこととなった。",
+    "vocabularyList": [
+      {
+        "word": "incorporators",
+        "translation": "発起人"
+      },
+      {
+        "word": "compensate",
+        "translation": "填補する"
+      },
+      {
+        "word": "stated valuation",
+        "translation": "定款に定めた価額"
+      },
+      {
+        "word": "jointly and severally liable",
+        "translation": "連帯して責任を負う"
+      },
+      {
+        "word": "articles of incorporation",
+        "translation": "定款"
+      },
+      {
+        "word": "excessive valuation",
+        "translation": "過大評価"
+      }
+    ]
   }
 ]

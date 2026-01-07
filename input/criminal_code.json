@@ -9538,5 +9538,127 @@
         "translation": "最終的に失敗する (さいしゅうてきに しっぱいする)"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Intent to Fulfill Statutory Elements",
+    "definition": "The specific mental state (intent or knowledge) required for the perpetrator to knowingly and willingly satisfy the objective constituent elements (actus reus) defined by the legal provision of the crime (Kōsei Yōken). This is the core concept of criminal intent in Japanese law.",
+    "japaneseDefinition": "犯罪の客観的構成要件要素に該当する事実の認識と認容を伴う意思。刑法における「故意」の最も重要な核となる概念。",
+    "japaneseWordTranslation": "構成要件的故意 (こうせいようけんてきこい)",
+    "legalContext": "Criminal Code Art. 38, Paragraph 1: 'An act performed without criminal intent is not punishable. However, the same shall not apply if otherwise specifically stipulated by law.'",
+    "japaneseLegalContext": "刑法第38条第1項: 罪を犯す意思がない行為は、罰しない。ただし、法律に特別の規定がある場合は、この限りでない。",
+    "exampleSentence": "Establishing the intent to fulfill statutory elements is the essential prerequisite for proving criminal liability for most offenses under the Japanese Criminal Code.",
+    "exampleTranslation": "構成要件的故意を立証することは、日本の刑法におけるほとんどの犯罪で刑事責任を問うための本質的な前提条件である。",
+    "vocabularyList": [
+      {
+        "word": "essential prerequisite",
+        "translation": "本質的な前提条件"
+      },
+      {
+        "word": "criminal liability",
+        "translation": "刑事責任"
+      },
+      {
+        "word": "proving",
+        "translation": "立証"
+      },
+      {
+        "word": "objective constituent elements",
+        "translation": "客観的構成要件要素"
+      },
+      {
+        "word": "legal provision",
+        "translation": "法律の規定"
+      },
+      {
+        "word": "mental state",
+        "translation": "精神状態"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Reduction of Penalty",
+    "definition": "A legally stipulated circumstance in the Criminal Code where the court is obliged (must) to reduce the statutory penalty for the convicted person, such as in cases of certain preparatory acts or voluntary desistance from a crime.",
+    "japaneseDefinition": "刑法または特別刑法上、裁判所が必ずその刑を軽減しなければならないと定められている事由に基づく減刑。裁量減軽と対比される。",
+    "japaneseWordTranslation": "必要的減軽 (ひつようてきげんけい)",
+    "legalContext": "Criminal Code Art. 42, Paragraph 2: 'If the offender voluntarily abandons the commission of the crime, the penalty shall be reduced or remitted.' (The 'shall be reduced' part often implies mandatory reduction, depending on the specific application.)",
+    "japaneseLegalContext": "刑法第42条第2項: 犯人が自らその行為を中止したときは、その刑を減軽し、又は免除する。",
+    "exampleSentence": "The defense successfully argued that the circumstances warranted a mandatory reduction of penalty under Article 42 because the offender abandoned the crime immediately after the commencement of execution.",
+    "exampleTranslation": "実行の着手直後に犯人が自ら犯罪を中止したため、弁護側はその状況が第42条に基づく必要的減軽を正当化すると主張し、認められた。",
+    "vocabularyList": [
+      {
+        "word": "legally stipulated",
+        "translation": "法律で規定された"
+      },
+      {
+        "word": "convicted person",
+        "translation": "有罪の者"
+      },
+      {
+        "word": "statutory penalty",
+        "translation": "法定刑"
+      },
+      {
+        "word": "voluntarily abandons",
+        "translation": "自発的に中止する"
+      },
+      {
+        "word": "defense",
+        "translation": "弁護側"
+      },
+      {
+        "word": "warranted",
+        "translation": "正当化する"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Indirect Perpetration by Duty Violation",
+    "definition": "A complex theory of criminal participation where the perpetrator uses another person (the 'tool') who lacks subjective intent or capacity, specifically leveraging the tool's failure to perform a unique legal duty (e.g., duty to protect or monitor) to bring about the criminal result.",
+    "japaneseDefinition": "責任能力や故意を欠く者を道具として利用する間接正犯の形態のうち、真の行為者が、作為義務などの自己に固有の義務違反を利用して犯罪結果を発生させる場合。",
+    "japaneseWordTranslation": "義務違反の道具犯 (ぎむいはんのどうぐはん)",
+    "legalContext": "Criminal liability theory concerning Perpetrator (正犯) and Joint Perpetration (共同正犯) in Criminal Code General Provisions.",
+    "japaneseLegalContext": "刑法総則における正犯論及び共同正犯論に関わる理論。",
+    "exampleSentence": "In the case of embezzlement, the prosecutor sought to prove indirect perpetration by duty violation, arguing the supervisor exploited his subordinate's lack of knowledge regarding illegal transfers.",
+    "exampleTranslation": "横領事件において、検察官は、上司が部下の違法な送金に関する知識不足を悪用したと主張し、義務違反の道具犯の立証を試みた。",
+    "vocabularyList": [
+      {
+        "word": "complex theory",
+        "translation": "複雑な理論"
+      },
+      {
+        "word": "criminal participation",
+        "translation": "犯罪への関与"
+      },
+      {
+        "word": "perpetrator",
+        "translation": "正犯者"
+      },
+      {
+        "word": "subjective intent",
+        "translation": "主観的故意"
+      },
+      {
+        "word": "embezzlement",
+        "translation": "横領"
+      },
+      {
+        "word": "subordinate",
+        "translation": "部下"
+      },
+      {
+        "word": "lack of knowledge",
+        "translation": "知識不足"
+      },
+      {
+        "word": "illegal transfers",
+        "translation": "違法な送金"
+      }
+    ]
   }
 ]

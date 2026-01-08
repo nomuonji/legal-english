@@ -11566,5 +11566,119 @@
         "translation": "債務を履行した"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Demand Diminution of Rent",
+    "definition": "The right held by a lessee to request the lessor to reduce the amount of rent when the leased property is partially destroyed or rendered unusable due to reasons not attributable to the lessee.",
+    "japaneseDefinition": "賃借人が、賃借物の一部が滅失その他の事由により使用及び収益をすることができなくなった場合に、賃貸人に対して賃料の減額を請求する権利。",
+    "japaneseWordTranslation": "賃料減額請求権 (Chinryō Gen’gaku Seikyūken)",
+    "legalContext": "Civil Code Art. 611: If the leased Thing is partially lost due to reasons not attributable to the lessee, the lessee may demand a diminution of rent proportionate to the part lost or rendered unusable.",
+    "japaneseLegalContext": "民法第611条: 賃借物の一部が賃借人の責めに帰することができない事由により滅失したときは、賃借人は、その滅失した部分の割合に応じて、賃料の減額を請求することができる。",
+    "exampleSentence": "Following the partial destruction of the retail space, the lessee exercised their right to demand diminution of rent from the lessor based on Article 611 of the Civil Code.",
+    "exampleTranslation": "店舗スペースの一部滅失を受け、賃借人は民法第611条に基づき、賃貸人に対して賃料減額請求権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "lessee",
+        "translation": "賃借人 (Chinshakunin)"
+      },
+      {
+        "word": "lessor",
+        "translation": "賃貸人 (Chintaishinin)"
+      },
+      {
+        "word": "proportionate",
+        "translation": "割合に応じて (Wariai ni ōjite)"
+      },
+      {
+        "word": "leased property",
+        "translation": "賃借物 (Chinshakubutsu)"
+      },
+      {
+        "word": "reasons not attributable to the lessee",
+        "translation": "責めに帰することができない事由 (Seme ni kisu-beki dekinai jiyū)"
+      },
+      {
+        "word": "partial destruction",
+        "translation": "一部滅失 (Ichibu metsushitsu)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligation to Co-reside",
+    "definition": "The legal duty imposed upon spouses under the Civil Code to live together in the same residence or household, unless there is a justifiable reason for separation.",
+    "japaneseDefinition": "夫婦が、特別な正当な理由がない限り、同じ住居で共同生活を送るべきとされる、民法上の義務。",
+    "japaneseWordTranslation": "同居義務 (Dōkyo Gimu)",
+    "legalContext": "Civil Code Art. 752: Spouses shall cooperate and assist each other, and assume the obligation to co-reside.",
+    "japaneseLegalContext": "民法第752条: 夫婦は同居し、互いに協力し扶助しなければならない。",
+    "exampleSentence": "Failure by one spouse to fulfill the obligation to co-reside without justifiable cause may constitute grounds for a judicial divorce.",
+    "exampleTranslation": "一方の配偶者が正当な理由なく同居義務を履行しない場合、それは裁判上の離婚事由を構成する可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "spouses",
+        "translation": "夫婦 (Fūfu)"
+      },
+      {
+        "word": "justifiable cause",
+        "translation": "正当な理由 (Seitō na Riyū)"
+      },
+      {
+        "word": "judicial divorce",
+        "translation": "裁判上の離婚 (Saiban-jō no Rikon)"
+      },
+      {
+        "word": "cooperate",
+        "translation": "協力する (Kyōryoku suru)"
+      },
+      {
+        "word": "assist",
+        "translation": "扶助する (Fujo suru)"
+      },
+      {
+        "word": "failure to fulfill",
+        "translation": "不履行 (Furikō)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order of Statutory Heirs",
+    "definition": "The hierarchy established by the Civil Code that determines which family members are entitled to inherit the property of the decedent when there is no valid will.",
+    "japaneseDefinition": "有効な遺言がない場合に、被相続人の財産を相続する権利を持つ親族の順序を民法が定めたもの。",
+    "japaneseWordTranslation": "法定相続人の順位 (Hōtei Sōzokunin no Jūni)",
+    "legalContext": "Civil Code Art. 887 & 889 establish the hierarchy: (1) Lineal Descendants, (2) Lineal Ascendants, and (3) Siblings, with the surviving spouse always being an heir.",
+    "japaneseLegalContext": "民法第887条及び第889条は、配偶者を常に相続人としつつ、子、直系尊属、兄弟姉妹の順序で相続人を定める。",
+    "exampleSentence": "In the absence of a will, the estate was distributed according to the Order of Statutory Heirs, prioritizing the decedent's children over their parents.",
+    "exampleTranslation": "遺言がないため、遺産は法定相続人の順位に従って分配され、被相続人の親よりも子が優先された。",
+    "vocabularyList": [
+      {
+        "word": "decedent",
+        "translation": "被相続人 (Hi-sōzokunin)"
+      },
+      {
+        "word": "estate",
+        "translation": "遺産 (Isan)"
+      },
+      {
+        "word": "lineal descendants",
+        "translation": "直系卑属 (Chokkei Hizoku)"
+      },
+      {
+        "word": "lineal ascendants",
+        "translation": "直系尊属 (Chokkei Sonzoku)"
+      },
+      {
+        "word": "siblings",
+        "translation": "兄弟姉妹 (Kyōdai Shimai)"
+      },
+      {
+        "word": "surviving spouse",
+        "translation": "生存配偶者 (Seizon Haigūsha)"
+      }
+    ]
   }
 ]

@@ -9584,5 +9584,73 @@
         "translation": "通常の業務活動 (つうじょうのぎょうむかつどう)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Period for Public Notice",
+    "definition": "The minimum mandatory duration, specified by the Companies Act, during which a company must issue a public announcement, typically required for organizational changes or capital modifications to protect creditors.",
+    "japaneseDefinition": "債権者保護手続などにおいて、組織再編や資本の変更を行う会社が、法令に基づき公告を行わなければならない最低期間。",
+    "japaneseWordTranslation": "公告期間 (こうこくきかん)",
+    "legalContext": "Companies Act Art. 789 (2) and related provisions specify that the public notice period for demanding creditors to state objections shall not be less than one month.",
+    "japaneseLegalContext": "会社法第789条第2項等：合併等における債権者異議申述の公告期間は1ヶ月を下回ることができない。",
+    "exampleSentence": "The company extended the statutory period for public notice regarding the absorption-type merger to ensure full compliance with creditor protection procedures.",
+    "exampleTranslation": "債権者保護手続を完全に遵守するため、会社は吸収合併に関する公告期間を延長した。",
+    "vocabularyList": [
+      {
+        "word": "absorption-type merger",
+        "translation": "吸収合併"
+      },
+      {
+        "word": "creditor protection procedures",
+        "translation": "債権者保護手続"
+      },
+      {
+        "word": "organizational changes",
+        "translation": "組織変更"
+      },
+      {
+        "word": "compliance",
+        "translation": "遵守"
+      },
+      {
+        "word": "demanding creditors",
+        "translation": "債権者"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Corporate Existence Prerequisite",
+    "definition": "The fundamental legal conditions, including the registration of establishment, that must be met for a corporation (such as a stock company) to acquire legal personality and thereby become a subject of rights and duties.",
+    "japaneseDefinition": "株式会社が法的な権利能力を取得し、権利義務の主体となるために充足しなければならない根本的な要件。具体的には設立の登記を指す。",
+    "japaneseWordTranslation": "会社成立の要件 (かいしゃせいりつのようけん)",
+    "legalContext": "Companies Act Art. 49 (1): A stock company is established upon the completion of its registration of establishment at the location of its head office.",
+    "japaneseLegalContext": "会社法第49条第1項：株式会社は、その本店の所在地において設立の登記をすることによって成立する。",
+    "exampleSentence": "The failure to fulfill the corporate existence prerequisite, specifically the final registration, rendered the incorporation procedure null and void.",
+    "exampleTranslation": "会社成立の要件、特に最終的な登記の不履行により、設立手続きは無効となった。",
+    "vocabularyList": [
+      {
+        "word": "stock company",
+        "translation": "株式会社"
+      },
+      {
+        "word": "legal personality",
+        "translation": "法人格"
+      },
+      {
+        "word": "registration of establishment",
+        "translation": "設立の登記"
+      },
+      {
+        "word": "head office",
+        "translation": "本店"
+      },
+      {
+        "word": "null and void",
+        "translation": "無効"
+      }
+    ]
   }
 ]

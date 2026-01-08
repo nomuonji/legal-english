@@ -1,38 +1,38 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Civil Preservation (民事保全法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Kōso Appeal",
-  "definition": "The specific type of appeal filed with a High Court (Kōto Saibansho) against a final judgment rendered by a District Court or Family Court, allowing the court of second instance to review both factual findings and application of law.",
-  "japaneseDefinition": "地方裁判所または家庭裁判所が下した終局判決に対して、事実認定と法適用を再審理させるために高等裁判所へ提起する上訴のこと。第二審の手続き。",
-  "japaneseWordTranslation": "控訴 (こうそ)",
-  "legalContext": "Code of Civil Procedure Art. 281: An appeal (kōso) may be filed against a final judgment of the court of first instance.",
-  "japaneseLegalContext": "民事訴訟法第281条: 控訴は、第一審裁判所の終局判決に対してすることができる。",
-  "exampleSentence": "Following the adverse ruling, the losing party filed a Kōso Appeal to the High Court, asserting errors in the factual findings.",
-  "exampleTranslation": "不利な判決を受け、敗訴当事者は事実認定の誤りを主張し、高等裁判所へ控訴を提起した。",
+  "word": "Examination of the Debtor",
+  "definition": "A procedural step, typically discretionary, where the preservation court questions the preservation debtor to gather facts and arguments relevant to the necessity and propriety of issuing a preservation order, especially concerning the grounds for preservation.",
+  "japaneseDefinition": "裁判所が保全命令の発令の可否を判断するにあたり、保全債務者に対し、保全の必要性や事実関係について質問し、意見を聴取する手続き。",
+  "japaneseWordTranslation": "債務者審尋 (さいむしゃしんじん)",
+  "legalContext": "Civil Preservation Law Art. 23(2): The court may issue a preservation order without hearing the preservation debtor; however, it may also question the preservation debtor if necessary.",
+  "japaneseLegalContext": "民事保全法第23条第2項：保全命令は、保全債務者を審尋しないで発することもできる。ただし、必要と認めるときは、保全債務者を審尋することができる。",
+  "exampleSentence": "The court decided against holding the **examination of the debtor** since the immediate risk of asset dissipation required swift action.",
+  "exampleTranslation": "裁判所は、資産散逸の差し迫った危険性から迅速な対応が必要であるため、債務者審尋を行わないことを決定した。",
   "vocabularyList": [
     {
-      "word": "High Court",
-      "translation": "高等裁判所 (こうとうさいばんしょ)"
+      "word": "Asset dissipation",
+      "translation": "資産の散逸"
     },
     {
-      "word": "Final judgment",
-      "translation": "終局判決 (しゅうきょくはんけつ)"
+      "word": "Propriety",
+      "translation": "正当性"
     },
     {
-      "word": "First instance",
-      "translation": "第一審 (だいいっしん)"
+      "word": "Grounds for preservation",
+      "translation": "保全の理由"
     },
     {
-      "word": "Adverse ruling",
-      "translation": "不利な判決 (ふりなはんけつ)"
+      "word": "Swift action",
+      "translation": "迅速な対応"
     },
     {
-      "word": "Factual findings",
-      "translation": "事実認定 (じじつにんてい)"
+      "word": "Discretionary",
+      "translation": "裁量的"
     },
     {
-      "word": "Losing party",
-      "translation": "敗訴当事者 (はいそとうじしゃ)"
+      "word": "Hearing",
+      "translation": "聴取"
     }
   ]
 }

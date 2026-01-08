@@ -10104,5 +10104,107 @@
         "translation": "異なる犯罪"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Indirect Perpetrator",
+    "definition": "A person who commits a crime by utilizing another individual (the 'tool') who acts without criminal intent, capacity, or knowledge of the illegality, thereby fulfilling the elements of the crime indirectly.",
+    "japaneseDefinition": "自らの犯罪的意思に基づき、犯罪意思のない者や責任能力のない者などを『道具』として利用して、間接的に犯罪を実行した者。",
+    "japaneseWordTranslation": "間接正犯 (かんせつせいはん)",
+    "legalContext": "A fundamental concept in the General Part of Criminal Law (刑法総論) concerning theories of perpetration (正犯論).",
+    "japaneseLegalContext": "刑法総論における正犯論の概念。実行行為者が道具として利用された場合、その者を実行犯とはしない。",
+    "exampleSentence": "The corporate executive was prosecuted as an indirect perpetrator for ordering a newly hired, unaware employee to falsify official corporate documents.",
+    "exampleTranslation": "その企業幹部は、新しく採用した無知な従業員に会社の公文書を偽造させたため、間接正犯として訴追された。",
+    "vocabularyList": [
+      {
+        "word": "Perpetration",
+        "translation": "正犯 (せいはん)"
+      },
+      {
+        "word": "Criminal capacity",
+        "translation": "責任能力 (せきにんのうりょく)"
+      },
+      {
+        "word": "Falsify",
+        "translation": "偽造する (ぎぞうする)"
+      },
+      {
+        "word": "Unaware employee",
+        "translation": "無知な従業員 (むちなじゅうぎょういん)"
+      },
+      {
+        "word": "Corporate executive",
+        "translation": "企業幹部 (きぎょうかんぶ)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Commutation of Penalty",
+    "definition": "The reduction of a sentence already imposed and finalized by a court, effected through a formal executive measure, such as a special pardon or amnesty, governed by the Pardon Act.",
+    "japaneseDefinition": "恩赦の一種であり、確定した刑罰の内容を軽減する行政処分。司法上の裁量による刑の減軽とは区別される。",
+    "japaneseWordTranslation": "減刑 (げんけい)",
+    "legalContext": "Pardon Act (恩赦法), Art. 3: Commutation shall reduce the penalty.",
+    "japaneseLegalContext": "恩赦法第3条: 減刑は、刑を減ずることである。",
+    "exampleSentence": "The government is considering a commutation of penalty for certain prisoners serving long terms for offenses related to economic fraud, upon the condition of good behavior.",
+    "exampleTranslation": "政府は、特定の経済犯罪で長期刑に服している受刑者に対し、品行方正を条件に減刑を検討している。",
+    "vocabularyList": [
+      {
+        "word": "Pardon Act",
+        "translation": "恩赦法 (おんしゃほう)"
+      },
+      {
+        "word": "Executive measure",
+        "translation": "行政処分 (ぎょうせいしょぶん)"
+      },
+      {
+        "word": "Serving a sentence",
+        "translation": "服役中 (ふくえきちゅう)"
+      },
+      {
+        "word": "Economic fraud",
+        "translation": "経済犯罪 (けいざいはんざい)"
+      },
+      {
+        "word": "Good behavior",
+        "translation": "品行方正 (ひんこうほうせい)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Minimum Term",
+    "definition": "The minimum punishment level established by the legislature for a given offense, which dictates the lower bound of the sentence a court can impose, absent specific statutory mitigating factors.",
+    "japaneseDefinition": "個々の犯罪について、法律で定められた刑罰の下限。裁判所は、この下限を下回る刑を科すことが原則としてできない。",
+    "japaneseWordTranslation": "法定の最低刑 (ほうていのさいていけい)",
+    "legalContext": "Criminal Code Art. 10 (Principle of Imposing Sentence within the Statutory Limit): Sentences shall be imposed within the limits prescribed by the relevant penal provisions.",
+    "japaneseLegalContext": "刑法第10条（刑の宣告の原則）：刑は、その罪について定めた刑の範囲内においてこれを定める。",
+    "exampleSentence": "Despite compelling evidence of remorse, the court was legally bound to impose the statutory minimum term of five years for the aggravated assault charge.",
+    "exampleTranslation": "反省の強い証拠があったにもかかわらず、裁判所は加重暴行罪に対して法定の最低刑である懲役5年を科す義務を負った。",
+    "vocabularyList": [
+      {
+        "word": "Statutory limit",
+        "translation": "法定の範囲 (ほうていのはんい)"
+      },
+      {
+        "word": "Mitigating factor",
+        "translation": "減軽事由 (げんけいじゆう)"
+      },
+      {
+        "word": "Aggravated assault",
+        "translation": "加重暴行罪 (かじゅうぼうこうざい)"
+      },
+      {
+        "word": "Legally bound",
+        "translation": "法的に義務付けられる (ほうてきにぎむづけられる)"
+      },
+      {
+        "word": "Penal provisions",
+        "translation": "刑罰規定 (けいばつきてい)"
+      }
+    ]
   }
 ]

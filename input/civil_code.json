@@ -2,48 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Easement (Servitude)",
-    "definition": "A real right established for the purpose of increasing the convenience of one piece of land (dominant land) by utilizing another piece of land (servient land).",
-    "japaneseDefinition": "自己の土地（要役地）の利用の便益のために、他人の土地（承役地）を利用することができる物権。",
-    "japaneseWordTranslation": "地役権 (ちえきけん)",
-    "legalContext": "Civil Code Art. 280: An obligee may establish an easement in order to use the land of another person for the purpose of increasing the convenience of his/her own land.",
-    "japaneseLegalContext": "民法第280条: 地役権者は、設定行為で定めた目的に従い、他人の土地を自己の土地の便益に供する権利を有する。",
-    "exampleSentence": "The property owner established an easement for the right to drain wastewater across the adjacent servient land.",
-    "exampleTranslation": "その土地所有者は、隣接する承役地を横断して汚水を排出する権利のための地役権を設定した。",
-    "vocabularyList": [
-      {
-        "word": "dominant land",
-        "translation": "要役地 (ようえきち)"
-      },
-      {
-        "word": "servient land",
-        "translation": "承役地 (しょうえきち)"
-      },
-      {
-        "word": "real right",
-        "translation": "物権 (ぶっけん)"
-      },
-      {
-        "word": "right to drain",
-        "translation": "排水権 (はいすいけん)"
-      },
-      {
-        "word": "convenience",
-        "translation": "便益 (べんえき)"
-      },
-      {
-        "word": "adjacent",
-        "translation": "隣接する (りんせつする)"
-      },
-      {
-        "word": "establish",
-        "translation": "設定する (せっていする)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Abuse of Rights",
     "definition": "The doctrine prohibiting the exercise of a right where the purpose is solely to inflict damage or where the exercise is contrary to the principle of good faith and public policy.",
     "japaneseDefinition": "権利の行使が、正当な利益を欠き、他者に損害を与えることのみを目的とするなど、信義則や社会通念に照らして許されない行為となること。",
@@ -11390,6 +11348,108 @@
       {
         "word": "securing rights",
         "translation": "権利の確保"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reliance Interest",
+    "definition": "Damages awarded to the injured party intended to restore them to the position they were in before the contract was made, covering expenses incurred in reliance on the contract's validity, particularly in cases of nullity or avoidance.",
+    "japaneseDefinition": "契約が有効であると信じたことによって被った損害。契約締結のために支出した費用等がこれに該当する。主に契約が不成立または無効・取消しとなった場合に問題となる。",
+    "japaneseWordTranslation": "信頼利益 (しんらいりえき)",
+    "legalContext": "Civil Code Art. 416 (Scope of Damages): Although the Civil Code's primary focus is on expectation interest (履行利益), the recovery of reliance interest is a key component of liability for failed juridical acts.",
+    "japaneseLegalContext": "民法第416条（損害賠償の範囲）：契約が無効等となった場合の損害賠償請求において、履行利益と対比される概念として適用される。",
+    "exampleSentence": "The court limited the recovery of damages to the claimant's **reliance interest** because the underlying juridical act was found to be void ab initio.",
+    "exampleTranslation": "裁判所は、根拠となる法律行為が当初から無効であったため、損害賠償の範囲を請求者の信頼利益に限定した。",
+    "vocabularyList": [
+      {
+        "word": "underlying",
+        "translation": "根拠となる"
+      },
+      {
+        "word": "recovery",
+        "translation": "回復／賠償金"
+      },
+      {
+        "word": "void ab initio",
+        "translation": "当初から無効の"
+      },
+      {
+        "word": "claimant",
+        "translation": "請求者"
+      },
+      {
+        "word": "incurred expenses",
+        "translation": "支出した費用"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Custom (Usage)",
+    "definition": "Established practices and norms widely accepted within a particular trade, location, or industry that are followed by relevant parties, used in the interpretation and supplementation of legal rules, particularly those concerning juridical acts.",
+    "japaneseDefinition": "法令または公の秩序に反しない範囲で、当事者の意思を補充し、または契約内容を解釈するために用いられる、事実上確立された社会的な慣行。",
+    "japaneseWordTranslation": "慣習 (かんしゅう)",
+    "legalContext": "Civil Code Art. 92: Where there is a custom which is not contrary to public order and which is found to have been adopted by the parties, such custom shall govern the juridical act.",
+    "japaneseLegalContext": "民法第92条（任意規定と異なる慣習）：法令中の任意規定と異なる慣習がある場合において、法律行為の当事者がその慣習による意思を有していたと認められるときは、その慣習に従う。",
+    "exampleSentence": "In interpreting the sales contract, the court held that **custom (usage)** within the logistics industry dictated the allocation of unloading costs, overriding the general statutory rules.",
+    "exampleTranslation": "売買契約の解釈において、裁判所は、物流業界における慣習が荷降ろし費用の負担を決定づけており、一般的な法定の規定に優先すると判断した。",
+    "vocabularyList": [
+      {
+        "word": "logistics industry",
+        "translation": "物流業界"
+      },
+      {
+        "word": "override",
+        "translation": "優先する"
+      },
+      {
+        "word": "statutory rules",
+        "translation": "法定の規定"
+      },
+      {
+        "word": "allocation",
+        "translation": "負担の決定／割当て"
+      },
+      {
+        "word": "unloading costs",
+        "translation": "荷降ろし費用"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Normal Damages",
+    "definition": "Losses that ordinarily and naturally arise from the non-performance of an obligation, forming the baseline calculation for compensation under the Civil Code.",
+    "japaneseDefinition": "債務不履行によって通常生ずべき損害。債務不履行と相当因果関係にあると認められる損害賠償の基本的な範囲。",
+    "japaneseWordTranslation": "通常損害 (つうじょうそんがい)",
+    "legalContext": "Civil Code Art. 416 (1): The demand for damages shall be for the compensation of **normal damages** arising from the non-performance of the obligation.",
+    "japaneseLegalContext": "民法第416条第1項：債務の不履行に対する損害賠償の請求は、これにより通常生ずべき損害の賠償をさせることを目的とする。",
+    "exampleSentence": "The delay in construction completion resulted in **normal damages** calculated based on the lost rental income for the period of the delay.",
+    "exampleTranslation": "建設の完了遅延は、その遅延期間の逸失賃料に基づいて算定された通常損害を生じさせた。",
+    "vocabularyList": [
+      {
+        "word": "non-performance",
+        "translation": "不履行"
+      },
+      {
+        "word": "compensation",
+        "translation": "賠償"
+      },
+      {
+        "word": "lost rental income",
+        "translation": "逸失賃料"
+      },
+      {
+        "word": "delay in completion",
+        "translation": "完了の遅延"
+      },
+      {
+        "word": "obligation",
+        "translation": "債務"
       }
     ]
   }

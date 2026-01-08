@@ -9876,5 +9876,119 @@
         "translation": "暗示された"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Nulla Poena Sine Lege",
+    "definition": "The foundational principle of criminal law stipulating that no act is punishable as a crime unless it is prescribed as such by a pre-existing law. This includes requirements for clear legal provisions, non-retroactivity, and prohibition of analogical extension.",
+    "japaneseDefinition": "法律なくして刑罰なし、という刑法の基本原則。刑罰法規の事後法禁止、類推解釈の禁止、および明確性の原則を含む。",
+    "japaneseWordTranslation": "罪刑法定主義 (ざいけいほうていしゅぎ)",
+    "legalContext": "Criminal Code (Keihō) and Constitutional Law principles. Keihō implicitly adheres to this principle, rooted in fundamental constitutional guarantees of due process and liberty.",
+    "japaneseLegalContext": "刑法および日本国憲法の基本原則。刑法は、適正手続や自由の保障に関する憲法上の要請に基づき、本原則を内在させている。",
+    "exampleSentence": "The court dismissed the prosecution's novel interpretation, citing the strict requirements of the principle of nulla poena sine lege in Japanese criminal jurisdiction.",
+    "exampleTranslation": "裁判所は、日本の刑事法における罪刑法定主義の厳格な要件を引用し、検察側の新たな解釈を棄却した。",
+    "vocabularyList": [
+      {
+        "word": "foundational principle",
+        "translation": "基本原則 (きほんげんそく)"
+      },
+      {
+        "word": "pre-existing law",
+        "translation": "既存の法律 (きそんのほうりつ)"
+      },
+      {
+        "word": "non-retroactivity",
+        "translation": "遡及処罰の禁止 (そきゅうしょばつのきんし)"
+      },
+      {
+        "word": "analogical extension",
+        "translation": "類推解釈 (るいすいかいしゃく)"
+      },
+      {
+        "word": "criminal jurisdiction",
+        "translation": "刑事裁判権 (けいじさいばんけん)"
+      },
+      {
+        "word": "due process",
+        "translation": "適正手続 (てきせいてつづき)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Arson of Unoccupied Structures",
+    "definition": "A crime defined in the Japanese Criminal Code involving the malicious setting fire to a building, train, ship, or mine that is not currently used as a dwelling or where people are currently present, typically carrying a lesser penalty than arson of occupied structures.",
+    "japaneseDefinition": "現在人が住居に使用せず、または、人が現在しない建造物、汽車、電車、艦船または鉱坑を放火する罪。現住建造物等放火罪よりも刑が軽い。",
+    "japaneseWordTranslation": "非現住建造物等放火 (ひげんじゅうけんぞうぶつとうほうか)",
+    "legalContext": "Criminal Code Art. 109: A person who sets fire to a structure specified in the preceding Article which is not currently used as a dwelling or where persons are not currently present shall be punished by imprisonment with labor for not less than two years.",
+    "japaneseLegalContext": "刑法第109条: 前条に規定する物であって、現に人が住居に使用せず、又は現に人がいないものに放火した者は、2年以上の有期懲役に処する。",
+    "exampleSentence": "The defendant was charged with arson of unoccupied structures after setting fire to a vacant warehouse adjacent to the main factory complex.",
+    "exampleTranslation": "被告人は、主要な工場複合施設に隣接する空の倉庫に放火した後、非現住建造物等放火の罪で起訴された。",
+    "vocabularyList": [
+      {
+        "word": "malicious setting fire",
+        "translation": "悪意の放火 (あくいのほうか)"
+      },
+      {
+        "word": "vacant warehouse",
+        "translation": "空の倉庫 (からそうこ)"
+      },
+      {
+        "word": "imprisonment with labor",
+        "translation": "懲役 (ちょうえき)"
+      },
+      {
+        "word": "dwelling",
+        "translation": "住居 (じゅうきょ)"
+      },
+      {
+        "word": "factory complex",
+        "translation": "工場複合施設 (こうじょうふくごうしせつ)"
+      },
+      {
+        "word": "preceding Article",
+        "translation": "前条 (ぜんじょう)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Commencement of Perpetration",
+    "definition": "The moment in time when the offender begins the action that is defined as the external element of the crime, thereby establishing the transition from preparatory conduct (which may be unpunishable) to an attempted offense (which is punishable).",
+    "japaneseDefinition": "行為者が、犯罪の外部的要素として定義された行動を開始する瞬間であり、これにより準備行為（通常は不可罰）から未遂罪（可罰的）へと移行する。",
+    "japaneseWordTranslation": "実行の着手 (じっこうのちゃくしゅ)",
+    "legalContext": "Criminal Code Art. 43 (Attempted Offense): If the performance of a crime is commenced but the crime is not completed, the penalty for the crime shall be reduced.",
+    "japaneseLegalContext": "刑法第43条（未遂罪）: 犯罪の実行に着手してこれを遂げなかった者は、その刑を減軽することができる。",
+    "exampleSentence": "In cases of larceny, the commencement of perpetration is often deemed to occur when the offender begins to physically move the target object, even if they have not yet successfully possessed it.",
+    "exampleTranslation": "窃盗の場合、実行の着手は、犯人がまだその対象物を完全に占有していないとしても、物理的に移動させ始めたときに生じたと見なされることが多い。",
+    "vocabularyList": [
+      {
+        "word": "offender",
+        "translation": "行為者 (こういしゃ)"
+      },
+      {
+        "word": "external element",
+        "translation": "外部的要素 (がいぶてきようそ)"
+      },
+      {
+        "word": "attempted offense",
+        "translation": "未遂罪 (みすいざい)"
+      },
+      {
+        "word": "preparatory conduct",
+        "translation": "準備行為 (じゅんびこうい)"
+      },
+      {
+        "word": "larceny",
+        "translation": "窃盗 (せっとう)"
+      },
+      {
+        "word": "transition",
+        "translation": "移行 (いこう)"
+      }
+    ]
   }
 ]

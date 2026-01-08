@@ -10148,5 +10148,119 @@
         "translation": "執行異議"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Succession of Execution",
+    "definition": "The procedural continuation of an execution case when the obligee or obligor changes after the execution title has been established or execution has commenced (e.g., due to inheritance or corporate merger).",
+    "japaneseDefinition": "債務名義の成立後または執行開始後に、債権者または債務者に変更が生じた場合に、その承継人が執行手続きを引き継ぐこと。",
+    "japaneseWordTranslation": "執行の受継 (しっこうのうけつぎ)",
+    "legalContext": "Civil Execution Act Art. 48: The execution procedure shall continue for or against the successor of the obligee or obligor, provided that a motion for the grant of an execution clause is made.",
+    "japaneseLegalContext": "民事執行法第48条: 執行手続は、執行文の付与を受けている場合に限り、債権者または債務者の承継人に対してもこれを続行することができる。",
+    "exampleSentence": "The court approved the motion for the succession of execution, allowing the judgment creditor's heir to proceed with the garnishment.",
+    "exampleTranslation": "裁判所は、執行の受継の申立てを承認し、債権者の相続人が差押え手続きを続行することを許可した。",
+    "vocabularyList": [
+      {
+        "word": "successor",
+        "translation": "承継人 (しょうけいにん)"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て (もうしたて)"
+      },
+      {
+        "word": "execution title",
+        "translation": "債務名義 (さいむめいぎ)"
+      },
+      {
+        "word": "judgment creditor",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "garnishment",
+        "translation": "差押え (さしおさえ)"
+      },
+      {
+        "word": "heir",
+        "translation": "相続人 (そうぞくにん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sale Implementation Date",
+    "definition": "The specific date designated by the Execution Court for conducting the public auction or tender sale of seized property, typically real estate.",
+    "japaneseDefinition": "執行裁判所が差し押さえた財産、特に不動産の競売または入札による売却を実施するために指定した特定の日。",
+    "japaneseWordTranslation": "売却実施期日 (ばいきゃくじっしきじつ)",
+    "legalContext": "Civil Execution Act Art. 64: The Execution Court shall designate the sale implementation date and the deadline for the submission of purchase offers.",
+    "japaneseLegalContext": "民事執行法第64条: 執行裁判所は、売却実施期日及び買受の申出の期間を定める。",
+    "exampleSentence": "Potential purchasers must submit their bidding guarantee before the designated Sale Implementation Date.",
+    "exampleTranslation": "潜在的な買受希望者は、指定された売却実施期日までに、入札保証金を提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "designated",
+        "translation": "指定された (していされた)"
+      },
+      {
+        "word": "Execution Court",
+        "translation": "執行裁判所 (しっこうさいばんしょ)"
+      },
+      {
+        "word": "purchase offer",
+        "translation": "買受の申出 (かいうけのもうしで)"
+      },
+      {
+        "word": "seized property",
+        "translation": "差押財産 (さしおさえざいさん)"
+      },
+      {
+        "word": "public auction",
+        "translation": "競売 (けいばい)"
+      },
+      {
+        "word": "tender sale",
+        "translation": "入札 (にゅうさつ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Filing of Security Enforcement",
+    "definition": "The formal notification or application made to the Execution Court by a holder of a security interest (e.g., a secured creditor) when they wish to realize their interest through the court's execution process.",
+    "japaneseDefinition": "担保権者が、その有する担保権を裁判所の執行手続を通じて実現したい場合に、執行裁判所に対して行う正式な通知または申立て。",
+    "japaneseWordTranslation": "担保権実行の届出 (たんぽけんじっこうのとどけで)",
+    "legalContext": "Civil Execution Act Art. 181 (Execution based on security interests): Execution shall commence upon the filing of the security enforcement claim.",
+    "japaneseLegalContext": "民事執行法第181条 (担保権の実行としての執行): 担保権の実行の申立てにより執行を開始する。",
+    "exampleSentence": "The mortgage holder initiated foreclosure proceedings by the filing of security enforcement with the relevant district court.",
+    "exampleTranslation": "抵当権者は、管轄の地方裁判所に担保権実行の届出を行うことにより、差押え手続きを開始した。",
+    "vocabularyList": [
+      {
+        "word": "security interest",
+        "translation": "担保権 (たんぽけん)"
+      },
+      {
+        "word": "security enforcement",
+        "translation": "担保権実行 (たんぽけんじっこう)"
+      },
+      {
+        "word": "secured creditor",
+        "translation": "担保権者 (たんぽけんしゃ)"
+      },
+      {
+        "word": "foreclosure proceedings",
+        "translation": "担保権実行手続 (たんぽけんじっこうてつづき)"
+      },
+      {
+        "word": "realize",
+        "translation": "実現する (じつげんする)"
+      },
+      {
+        "word": "district court",
+        "translation": "地方裁判所 (ちほうさいばんしょ)"
+      }
+    ]
   }
 ]

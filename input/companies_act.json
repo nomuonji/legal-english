@@ -9470,5 +9470,119 @@
         "translation": "自己の株式を取得する"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deficiency in Contribution",
+    "definition": "The shortfall that occurs when the actual value of non-cash property contributed by a founder or subscriber upon incorporation or capital increase is less than the value stipulated in the subscription requirements.",
+    "japaneseDefinition": "現物出資された財産の実際の価額が、定款または募集事項に定めた価額に満たない場合の差額。この不足額については発起人等が会社に対して填補責任を負う。",
+    "japaneseWordTranslation": "出資の不足 (しゅっしのふそく)",
+    "legalContext": "Companies Act Art. 52 (Liability when Founders fail to investigate the value of Contributions in Kind): If the actual value of the property is significantly deficient, the founders are jointly and severally liable to cover the shortfall.",
+    "japaneseLegalContext": "会社法第52条第2項 (現物出資の価額を調査しない場合等の責任): 会社に対し、連帯して、その不足額を支払う義務を負う。",
+    "exampleSentence": "A judicial inspector may be appointed to examine the valuation of property contributed in kind to ensure there is no Deficiency in Contribution.",
+    "exampleTranslation": "出資の不足がないことを確実にするため、現物出資された財産の評価を調査する検査役が選任されることがある。",
+    "vocabularyList": [
+      {
+        "word": "judicial inspector",
+        "translation": "検査役 (けんさやく)"
+      },
+      {
+        "word": "contributed in kind",
+        "translation": "現物出資された (げんぶつしゅっしされた)"
+      },
+      {
+        "word": "valuation",
+        "translation": "評価 (ひょうか)"
+      },
+      {
+        "word": "shortfall",
+        "translation": "不足額 (ふそくがく)"
+      },
+      {
+        "word": "jointly and severally liable",
+        "translation": "連帯責任を負う (れんたいせきにんをおう)"
+      },
+      {
+        "word": "incorporation",
+        "translation": "設立 (せつりつ)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Minimum Issue Price",
+    "definition": "The lowest stipulated consideration or price at which a company offers new shares for subscription, especially when the issue is not made publicly or is deemed advantageous, thereby protecting existing shareholders' equity.",
+    "japaneseDefinition": "株式を募集により発行する場合に、既存株主の保護のため、取締役会等が決定する最低限の払込金額。",
+    "japaneseWordTranslation": "最低発行価格 (さいてい はっこう かかく)",
+    "legalContext": "Companies Act Art. 199 (Decision on Subscription Requirements): When determining the terms of offering new shares, the matter of issue price must be decided by resolution of the board of directors.",
+    "japaneseLegalContext": "会社法第199条第1項 (募集事項の決定): 募集株式の払込金額は、取締役の決定により定める。",
+    "exampleSentence": "When issuing shares at a particularly favorable price, the Board must ensure that the price does not fall below the established *Minimum Issue Price* to prevent dilution of existing shareholder value.",
+    "exampleTranslation": "特に有利な価格で株式を発行する場合、既存の株主価値の希薄化を防ぐため、取締役会は価格が定められた最低発行価格を下回らないようにしなければならない。",
+    "vocabularyList": [
+      {
+        "word": "favorable price",
+        "translation": "有利な価格 (ゆうりなかかく)"
+      },
+      {
+        "word": "issuing shares",
+        "translation": "株式を発行する (かぶしきをはっこうする)"
+      },
+      {
+        "word": "dilution",
+        "translation": "希薄化 (きはくか)"
+      },
+      {
+        "word": "existing shareholder",
+        "translation": "既存株主 (きそんかぶぬし)"
+      },
+      {
+        "word": "consideration",
+        "translation": "対価 (たいか)"
+      },
+      {
+        "word": "resolution",
+        "translation": "決議 (けつぎ)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Executive Member",
+    "definition": "A member (owner) of a Gōdō Kaisha (Japanese LLC) who has the authority, by default or designation, to execute the company's business affairs and act as its representative externally.",
+    "japaneseDefinition": "合同会社（持分会社）の社員のうち、会社の業務を執行し、対外的に会社を代表する権限を有する者。",
+    "japaneseWordTranslation": "業務執行社員 (ぎょうむしっこうしゃいん)",
+    "legalContext": "Companies Act Art. 590 (Execution of Business): Unless otherwise provided by the corporate rules, every member of a Gōdō Kaisha is an Executive Member.",
+    "japaneseLegalContext": "会社法第590条 (業務の執行): 定款に別段の定めがある場合を除き、合同会社の社員は、すべて業務執行社員とする。",
+    "exampleSentence": "Decisions regarding ordinary business activities can usually be made solely by a single *Executive Member* without a full meeting of the members.",
+    "exampleTranslation": "通常の業務活動に関する決定は、通常、社員の全体会議なしに一人の業務執行社員によってのみ行われることが可能である。",
+    "vocabularyList": [
+      {
+        "word": "Gōdō Kaisha (LLC)",
+        "translation": "合同会社 (ごうどうがいしゃ)"
+      },
+      {
+        "word": "corporate rules",
+        "translation": "定款 (ていかん)"
+      },
+      {
+        "word": "by default",
+        "translation": "当然に (とうぜんに)"
+      },
+      {
+        "word": "business affairs",
+        "translation": "業務 (ぎょうむ)"
+      },
+      {
+        "word": "representative",
+        "translation": "代表者 (だいひょうしゃ)"
+      },
+      {
+        "word": "ordinary business activities",
+        "translation": "通常の業務活動 (つうじょうのぎょうむかつどう)"
+      }
+    ]
   }
 ]

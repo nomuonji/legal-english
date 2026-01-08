@@ -2,44 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Kōso Appeal",
-    "definition": "The specific type of appeal filed with a High Court (Kōto Saibansho) against a final judgment rendered by a District Court or Family Court, allowing the court of second instance to review both factual findings and application of law.",
-    "japaneseDefinition": "地方裁判所または家庭裁判所が下した終局判決に対して、事実認定と法適用を再審理させるために高等裁判所へ提起する上訴のこと。第二審の手続き。",
-    "japaneseWordTranslation": "控訴 (こうそ)",
-    "legalContext": "Code of Civil Procedure Art. 281: An appeal (kōso) may be filed against a final judgment of the court of first instance.",
-    "japaneseLegalContext": "民事訴訟法第281条: 控訴は、第一審裁判所の終局判決に対してすることができる。",
-    "exampleSentence": "Following the adverse ruling, the losing party filed a Kōso Appeal to the High Court, asserting errors in the factual findings.",
-    "exampleTranslation": "不利な判決を受け、敗訴当事者は事実認定の誤りを主張し、高等裁判所へ控訴を提起した。",
-    "vocabularyList": [
-      {
-        "word": "High Court",
-        "translation": "高等裁判所 (こうとうさいばんしょ)"
-      },
-      {
-        "word": "Final judgment",
-        "translation": "終局判決 (しゅうきょくはんけつ)"
-      },
-      {
-        "word": "First instance",
-        "translation": "第一審 (だいいっしん)"
-      },
-      {
-        "word": "Adverse ruling",
-        "translation": "不利な判決 (ふりなはんけつ)"
-      },
-      {
-        "word": "Factual findings",
-        "translation": "事実認定 (じじつにんてい)"
-      },
-      {
-        "word": "Losing party",
-        "translation": "敗訴当事者 (はいそとうじしゃ)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Principle of Disposition",
     "definition": "A fundamental procedural principle dictating that the commencement, scope, modification, and termination of a lawsuit are determined solely by the will and actions of the parties, not ex officio by the court.",
     "japaneseDefinition": "訴訟の開始、審判の対象、変更及び終了について、当事者の意思に任せるという民事訴訟の基本原則。裁判所は当事者が主張しない事項について審理することができない。",
@@ -10498,6 +10460,120 @@
       {
         "word": "underlying transaction",
         "translation": "根底にある取引"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Continuity in Judicial Handling",
+    "definition": "The procedural principle requiring, ideally, that the judicial panel or single judge who participates in the examination of evidence and substantive oral arguments must remain the same until the judgment is rendered, ensuring the judicial body has direct knowledge of the facts and evidence presented.",
+    "japaneseDefinition": "裁判の公正と充実を図るため、原則として判決をする裁判官は、口頭弁論（審理）の全過程に関与していなければならないとする民事訴訟の原則。",
+    "japaneseWordTranslation": "継続審理の原則 (Keizoku Shinri no Gensoku)",
+    "legalContext": "Code of Civil Procedure Art. 249(2): 'The court may, when a judge is replaced, order the preceding party to repeat the statement made before the replacement.' (This article provides an exception/mitigation to the principle.)",
+    "japaneseLegalContext": "民事訴訟法第249条第2項: 裁判所は、裁判官が代わった場合においても、当事者に対し、従前の口頭弁論の結果を陳述させることができる。",
+    "exampleSentence": "The application of the Principle of Continuity in Judicial Handling mandated a full resumption of oral arguments after the presiding judge was transferred to a different division.",
+    "exampleTranslation": "継続審理の原則の適用により、裁判長が他の部に転任した後、口頭弁論の完全な再開が義務付けられた。",
+    "vocabularyList": [
+      {
+        "word": "resumption",
+        "translation": "再開 (saikai)"
+      },
+      {
+        "word": "presiding judge",
+        "translation": "裁判長 (saibanchō)"
+      },
+      {
+        "word": "judicial panel",
+        "translation": "合議体 (gōgitai)"
+      },
+      {
+        "word": "oral arguments",
+        "translation": "口頭弁論 (kōtō benron)"
+      },
+      {
+        "word": "transferred",
+        "translation": "転任した (tennin shita)"
+      },
+      {
+        "word": "division (of court)",
+        "translation": "部 (bu)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Joint Litigation Representation",
+    "definition": "The situation where two or more co-litigants appoint the same attorney or litigation agent to represent them jointly in a single case, subjecting the representation to specific rules regarding the validity of procedural acts.",
+    "japaneseDefinition": "複数の共同訴訟人が同一の訴訟代理人を選任すること。特定の共同訴訟の場合、一方の共同訴訟人の行為が他方の共同訴訟人に対しても効力を及ぼす。",
+    "japaneseWordTranslation": "共同訴訟代理 (Kyōdō Soshō Dairi)",
+    "legalContext": "Code of Civil Procedure Art. 40 (Mutatis Mutandis Application): Rules regarding co-litigation representation may apply mutatis mutandis to mandatory co-litigation.",
+    "japaneseLegalContext": "民事訴訟法第40条 (準用規定): 共同訴訟に関する規定は、必要的共同訴訟について準用されることがある。",
+    "exampleSentence": "Due to the need for unified strategy, the four plaintiffs opted for joint litigation representation, allowing a single attorney to conduct procedural acts on their behalf.",
+    "exampleTranslation": "統一的な戦略の必要性から、4名の原告は共同訴訟代理を選択し、一人の弁護士が彼らに代わって訴訟行為を行うことを認めた。",
+    "vocabularyList": [
+      {
+        "word": "co-litigants",
+        "translation": "共同訴訟人 (kyōdō soshōnin)"
+      },
+      {
+        "word": "attorney",
+        "translation": "弁護士 (bengoshi)"
+      },
+      {
+        "word": "plaintiffs",
+        "translation": "原告 (genkoku)"
+      },
+      {
+        "word": "unified strategy",
+        "translation": "統一的な戦略 (tōitsu-teki na senryaku)"
+      },
+      {
+        "word": "procedural acts",
+        "translation": "訴訟行為 (soshō kōi)"
+      },
+      {
+        "word": "on their behalf",
+        "translation": "彼らに代わって (karera ni kawatte)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Procedural Estoppel of Defenses (Shadan Kō)",
+    "definition": "A procedural effect whereby a party is precluded from asserting a defense or means of attack in a subsequent proceeding (or a later stage of the current proceeding) that should have been raised and resolved in the initial oral arguments, typically stemming from the duty to concentrate litigation issues.",
+    "japaneseDefinition": "当事者が口頭弁論の終結までに主張し得た攻撃防御方法について、時機に遅れた提出を却下されるなど、一定の時期以降の主張を許さないという訴訟上の効力。",
+    "japaneseWordTranslation": "遮断効 (Shadan Kō)",
+    "legalContext": "Code of Civil Procedure Art. 157: 'The court may dismiss any means of attack or defense submitted by a party if it was submitted at a time later than the appropriate time, and if it is found that such submission was intentionally or grossly negligently delayed for the purpose of delaying the conclusion of the suit.' (Governs the immediate basis for shadan kō.)",
+    "japaneseLegalContext": "民事訴訟法第157条: 裁判所は、当事者が故意又は重大な過失により時機に後れて提出した攻撃又は防御の方法が、訴訟の完結を遅延させる目的で提出されたものと認められるときは、これを却下することができる。",
+    "exampleSentence": "The defendant's newly introduced defense regarding the contract's formation was rejected based on the principle of Procedural Estoppel of Defenses (Shadan Kō), as it was submitted without valid excuse after the issue arrangement procedure was concluded.",
+    "exampleTranslation": "契約成立に関する被告の新たな防御方法は、争点整理手続の終結後に正当な理由なく提出されたため、遮断効（シャダンコウ）の原則に基づき却下された。",
+    "vocabularyList": [
+      {
+        "word": "defense",
+        "translation": "防御方法 (bōgyo hōhō)"
+      },
+      {
+        "word": "rejected",
+        "translation": "却下された (kyakka sareta)"
+      },
+      {
+        "word": "issue arrangement procedure",
+        "translation": "争点整理手続 (sōten seiri tetsuzuki)"
+      },
+      {
+        "word": "intentionally",
+        "translation": "故意に (koi ni)"
+      },
+      {
+        "word": "grossly negligently",
+        "translation": "重大な過失により (jūdai na kashitsu ni yori)"
+      },
+      {
+        "word": "concluded",
+        "translation": "終結した (shūketsu shita)"
       }
     ]
   }

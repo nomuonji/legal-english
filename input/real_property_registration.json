@@ -8330,5 +8330,119 @@
         "translation": "影響を与える"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Record of Property Identification",
+    "definition": "The section of the real property register dedicated solely to detailing the physical aspects of the land or building, such as location, area, structure, and type.",
+    "japaneseDefinition": "不動産登記記録のうち、土地又は建物の所在、地番/家屋番号、地目/種類、地積/床面積など、物理的な状況を記録する部分。",
+    "japaneseWordTranslation": "不動産の表示の記録 (Fudōsan no Hyōji no Kiroku)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Article 20 (Record of Property Identification)",
+    "japaneseLegalContext": "不動産登記法 第20条（不動産の表示の記録）",
+    "exampleSentence": "The owner is obligated to apply for an update to the **Record of Property Identification** within one month of any factual change, such as the construction of an additional floor.",
+    "exampleTranslation": "所有者は、増築など事実の変更が生じた場合、１か月以内に不動産の表示の記録の更新を申請する義務がある。",
+    "vocabularyList": [
+      {
+        "word": "factual change",
+        "translation": "事実の変更"
+      },
+      {
+        "word": "area (land)",
+        "translation": "地積"
+      },
+      {
+        "word": "structure (building)",
+        "translation": "構造"
+      },
+      {
+        "word": "land category (type)",
+        "translation": "地目"
+      },
+      {
+        "word": "obligated to apply",
+        "translation": "申請義務がある"
+      },
+      {
+        "word": "additional floor",
+        "translation": "増築"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Record of Rights",
+    "definition": "The general section of the real property register (comprising Section A for ownership and Section B for other rights) where the creation, transfer, modification, or extinguishment of proprietary rights are documented.",
+    "japaneseDefinition": "不動産登記記録のうち、所有権、地上権、賃借権などの権利関係の設定、移転、変更又は消滅に関する事項を記載する部分。",
+    "japaneseWordTranslation": "権 利 部 (Kenri-bu)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Article 12 (Recording Method for Rights)",
+    "japaneseLegalContext": "不動産登記法 第12条（権利に関する登記の記録の方法）",
+    "exampleSentence": "A judicial lien recorded in the **Record of Rights** secures the creditor's claim against the registered title holder and ensures priority over later-filed rights.",
+    "exampleTranslation": "権利部に記録された裁判上の先取特権は、登記名義人に対する債権者の請求権を確保し、後に登記された権利よりも優先権を保証する。",
+    "vocabularyList": [
+      {
+        "word": "judicial lien",
+        "translation": "裁判上の先取特権"
+      },
+      {
+        "word": "registered title holder",
+        "translation": "登記名義人"
+      },
+      {
+        "word": "creation of rights",
+        "translation": "権利の設定"
+      },
+      {
+        "word": "extinguishment of rights",
+        "translation": "権利の消滅"
+      },
+      {
+        "word": "priority ranking",
+        "translation": "順位"
+      },
+      {
+        "word": "security interests",
+        "translation": "担保権"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Documentary Evidence of Registration Basis",
+    "definition": "Information or documents legally required to prove the underlying event (such as a sale, gift, or court decision) that necessitates the requested proprietary rights registration.",
+    "japaneseDefinition": "権利に関する登記を申請する際、当該権利の変動（設定、移転、変更など）が生じた法律上の原因を証明するために提出が求められる書面。",
+    "japaneseWordTranslation": "登記原因を証する情報 (Tōki Gen'in o Shōsuru Jōhō)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Article 61 (Documents certifying the basis of registration)",
+    "japaneseLegalContext": "不動産登記法 第61条（登記原因を証する情報の提供）",
+    "exampleSentence": "The successful completion of the application for transfer of title requires the submission of the original sales contract as **Documentary Evidence of Registration Basis**.",
+    "exampleTranslation": "所有権移転登記申請が完了するためには、売買契約書の原本を登記原因を証する情報として提出することが求められる。",
+    "vocabularyList": [
+      {
+        "word": "transfer of title",
+        "translation": "所有権移転登記"
+      },
+      {
+        "word": "underlying event",
+        "translation": "法律上の原因"
+      },
+      {
+        "word": "original sales contract",
+        "translation": "売買契約書の原本"
+      },
+      {
+        "word": "submission",
+        "translation": "提出"
+      },
+      {
+        "word": "proprietary rights",
+        "translation": "権利関係"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      }
+    ]
   }
 ]

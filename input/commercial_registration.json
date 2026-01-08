@@ -8484,5 +8484,81 @@
         "translation": "資本金"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Formal Scrutiny",
+    "definition": "The principle of review in commercial registration where the registrar examines the application solely based on the submitted documents and the commercial register, without investigating the substantive truth of the registered facts or the underlying transaction.",
+    "japaneseDefinition": "商業登記における審査原則の一つで、登記官が提出された申請書面及び登記簿のみに基づき審査を行い、登記原因となった事実の真否（実体的な真実性）については立ち入らない方式。",
+    "japaneseWordTranslation": "形式的審査 (けいしきてきしんさ)",
+    "legalContext": "Commercial Registration Act (CRA) Art. 24 (Implicit standard for rejection of application)",
+    "japaneseLegalContext": "商業登記法第24条（申請の却下事由に関する規定により定まる審査権限）",
+    "exampleSentence": "Due to the standard of **formal scrutiny**, the registrar only reviewed whether the applicant had submitted the necessary certified copies and documents required by statute, not the legitimacy of the company determination itself.",
+    "exampleTranslation": "形式的審査の基準により、登記官は、申請者が法令で要求される必要な認証謄本や書類を提出したかのみを審査し、会社決定自体の正当性は審査しなかった。",
+    "vocabularyList": [
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
+      },
+      {
+        "word": "certified copy",
+        "translation": "認証謄本"
+      },
+      {
+        "word": "company determination",
+        "translation": "会社決定"
+      },
+      {
+        "word": "substantive truth",
+        "translation": "実体的真実"
+      },
+      {
+        "word": "rejection",
+        "translation": "却下"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Document Evidencing the Basis of Registration",
+    "definition": "A legally required document submitted with the registration application that proves the existence and validity of the event or action (such as a corporate determination or change in business particulars) which serves as the statutory ground for the registration entry.",
+    "japaneseDefinition": "登記の申請に際して提出が義務付けられる書面で、商業登記の記載の根拠となる事実または法律行為（会社の決定や営業内容の変更など）の存在と有効性を証明するもの。",
+    "japaneseWordTranslation": "登記原因証明情報 (とうきげんいんしょうめいじょうほう)",
+    "legalContext": "Commercial Registration Act (CRA) Art. 36 (Applied mutatis mutandis from Real Property Registration Act Art. 22)",
+    "japaneseLegalContext": "商業登記法第36条（不動産登記法第22条の準用）",
+    "exampleSentence": "The filing requires a **document evidencing the basis of registration**, which, in this case of increasing company capital, consisted of the official record of the shareholders' meeting determination on the matter.",
+    "exampleTranslation": "本件の会社資本増額の申請には、登記原因証明情報が必要であり、この場合は株主総会の当該事項に関する決定の公式記録で構成されていた。",
+    "vocabularyList": [
+      {
+        "word": "application",
+        "translation": "申請"
+      },
+      {
+        "word": "corporate determination",
+        "translation": "会社の決定"
+      },
+      {
+        "word": "statutory ground",
+        "translation": "法定の根拠"
+      },
+      {
+        "word": "official record",
+        "translation": "公式記録"
+      },
+      {
+        "word": "shareholders' meeting",
+        "translation": "株主総会"
+      },
+      {
+        "word": "business particulars",
+        "translation": "登記事項"
+      }
+    ]
   }
 ]

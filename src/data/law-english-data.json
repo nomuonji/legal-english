@@ -1,42 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Easement (Servitude)",
-  "definition": "A real right established for the purpose of increasing the convenience of one piece of land (dominant land) by utilizing another piece of land (servient land).",
-  "japaneseDefinition": "自己の土地（要役地）の利用の便益のために、他人の土地（承役地）を利用することができる物権。",
-  "japaneseWordTranslation": "地役権 (ちえきけん)",
-  "legalContext": "Civil Code Art. 280: An obligee may establish an easement in order to use the land of another person for the purpose of increasing the convenience of his/her own land.",
-  "japaneseLegalContext": "民法第280条: 地役権者は、設定行為で定めた目的に従い、他人の土地を自己の土地の便益に供する権利を有する。",
-  "exampleSentence": "The property owner established an easement for the right to drain wastewater across the adjacent servient land.",
-  "exampleTranslation": "その土地所有者は、隣接する承役地を横断して汚水を排出する権利のための地役権を設定した。",
+  "word": "Kōso Appeal",
+  "definition": "The specific type of appeal filed with a High Court (Kōto Saibansho) against a final judgment rendered by a District Court or Family Court, allowing the court of second instance to review both factual findings and application of law.",
+  "japaneseDefinition": "地方裁判所または家庭裁判所が下した終局判決に対して、事実認定と法適用を再審理させるために高等裁判所へ提起する上訴のこと。第二審の手続き。",
+  "japaneseWordTranslation": "控訴 (こうそ)",
+  "legalContext": "Code of Civil Procedure Art. 281: An appeal (kōso) may be filed against a final judgment of the court of first instance.",
+  "japaneseLegalContext": "民事訴訟法第281条: 控訴は、第一審裁判所の終局判決に対してすることができる。",
+  "exampleSentence": "Following the adverse ruling, the losing party filed a Kōso Appeal to the High Court, asserting errors in the factual findings.",
+  "exampleTranslation": "不利な判決を受け、敗訴当事者は事実認定の誤りを主張し、高等裁判所へ控訴を提起した。",
   "vocabularyList": [
     {
-      "word": "dominant land",
-      "translation": "要役地 (ようえきち)"
+      "word": "High Court",
+      "translation": "高等裁判所 (こうとうさいばんしょ)"
     },
     {
-      "word": "servient land",
-      "translation": "承役地 (しょうえきち)"
+      "word": "Final judgment",
+      "translation": "終局判決 (しゅうきょくはんけつ)"
     },
     {
-      "word": "real right",
-      "translation": "物権 (ぶっけん)"
+      "word": "First instance",
+      "translation": "第一審 (だいいっしん)"
     },
     {
-      "word": "right to drain",
-      "translation": "排水権 (はいすいけん)"
+      "word": "Adverse ruling",
+      "translation": "不利な判決 (ふりなはんけつ)"
     },
     {
-      "word": "convenience",
-      "translation": "便益 (べんえき)"
+      "word": "Factual findings",
+      "translation": "事実認定 (じじつにんてい)"
     },
     {
-      "word": "adjacent",
-      "translation": "隣接する (りんせつする)"
-    },
-    {
-      "word": "establish",
-      "translation": "設定する (せっていする)"
+      "word": "Losing party",
+      "translation": "敗訴当事者 (はいそとうじしゃ)"
     }
   ]
 }

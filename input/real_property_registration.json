@@ -8558,5 +8558,81 @@
         "translation": "行政区"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation of Priority Rank",
+    "definition": "The legal mechanism, typically achieved through preliminary registration (仮登記), that ensures the priority of a future full registration is determined by the timing of the initial preliminary registration filing.",
+    "japaneseDefinition": "将来行うべき本登記に備えて、その権利の順位を保全する行為であり、通常、仮登記によってその効果が得られる。",
+    "japaneseWordTranslation": "順位保全 (Jun'i Hozen)",
+    "legalContext": "Real Property Registration Act, Article 105 (Preliminary Registration): 'Preliminary registration may be effected to preserve the priority rank of a claim for registration...' and '...the rank of the full registration shall be based on the rank of the preliminary registration.'",
+    "japaneseLegalContext": "不動産登記法 第105条 (仮登記): 「仮登記は、登記の請求権を保全するためにすることができる。」及び「本登記の順位は、仮登記の順位による。」",
+    "exampleSentence": "The buyer filed a preliminary registration to ensure the Preservation of Priority Rank for the transfer of ownership, thereby securing their future position against potential intervening claims.",
+    "exampleTranslation": "買主は所有権移転の順位保全を確実にするため仮登記を行い、潜在的な中間請求から将来の地位を確保した。",
+    "vocabularyList": [
+      {
+        "word": "preliminary registration",
+        "translation": "仮登記 (Karitōki)"
+      },
+      {
+        "word": "full registration",
+        "translation": "本登記 (Hontōki)"
+      },
+      {
+        "word": "claim for registration",
+        "translation": "登記の請求権 (Tōki no Seikyūken)"
+      },
+      {
+        "word": "intervening claims",
+        "translation": "中間請求 (Chūkan Seikyū)"
+      },
+      {
+        "word": "securing position",
+        "translation": "地位の確保 (Chii no Kakuho)"
+      },
+      {
+        "word": "transfer of ownership",
+        "translation": "所有権移転 (Shoyūken Iten)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Condition for Assertion Against Third Parties",
+    "definition": "A required external condition, specifically the recording of proprietary rights in the real property register, necessary for a title holder to assert or enforce their right against persons other than the parties directly involved in the creation or transfer of that right.",
+    "japaneseDefinition": "法律行為による不動産に関する権利の得喪及び変更を第三者に対抗するために要求される要件。不動産登記法においては、登記を具備することがこれにあたる。",
+    "japaneseWordTranslation": "対抗要件 (Taikō Yōken)",
+    "legalContext": "Civil Code, Article 177: 'Acquisition, loss, and modification of a real right concerning immovable property based on a juridical act cannot be asserted against a third party unless the registration thereof has been completed.'",
+    "japaneseLegalContext": "民法 第177条: 「不動産に関する物権の得喪及び変更は、登記法に従いその登記をしなければ、第三者に対抗することができない。」",
+    "exampleSentence": "Without registration, the acquisition of a proprietary right is incomplete, as the buyer cannot satisfy the Condition for Assertion Against Third Parties.",
+    "exampleTranslation": "登記がなければ、買主は対抗要件を満たすことができないため、物権の取得は不完全となる。",
+    "vocabularyList": [
+      {
+        "word": "assertion",
+        "translation": "対抗 (Taikō)"
+      },
+      {
+        "word": "acquisition of a right",
+        "translation": "権利の取得 (Kenri no Shutoku)"
+      },
+      {
+        "word": "proprietary right",
+        "translation": "物権 (Bukken)"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産 (Fudōsan)"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者 (Daisansha)"
+      },
+      {
+        "word": "recording",
+        "translation": "具備 (Gubi) / 登記 (Tōki)"
+      }
+    ]
   }
 ]

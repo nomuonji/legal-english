@@ -10566,5 +10566,81 @@
         "translation": "確保する (かくほする)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Inventory Submission",
+    "definition": "The formal requirement for an execution debtor, especially in asset disclosure proceedings, to create and submit a comprehensive list detailing the status and location of their property.",
+    "japaneseDefinition": "執行債務者が財産開示手続において、自己の財産状況を記載した目録を作成し、執行裁判所に提出すること。",
+    "japaneseWordTranslation": "財産目録の提出 (Zaisan Mokuroku no Teishutsu)",
+    "legalContext": "Civil Execution Act, Art. 197 (Submission of Property Inventory): 'The Execution Court shall order the execution obligor to submit the property inventory on the appointed date.'",
+    "japaneseLegalContext": "民事執行法第197条（財産目録の提出）：執行裁判所は、執行債務者に対し、指定した期日に財産目録を提出することを命ずる。",
+    "exampleSentence": "Failure by the debtor to cooperate with the Property Inventory Submission order can result in non-penal fines.",
+    "exampleTranslation": "債務者が財産目録の提出命令に協力しない場合、過料に処される可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "Execution debtor",
+        "translation": "執行債務者"
+      },
+      {
+        "word": "Asset disclosure proceedings",
+        "translation": "財産開示手続"
+      },
+      {
+        "word": "Non-penal fine",
+        "translation": "過料"
+      },
+      {
+        "word": "Comprehensive list",
+        "translation": "包括的な目録"
+      },
+      {
+        "word": "Appointed date",
+        "translation": "指定された期日"
+      },
+      {
+        "word": "Execution Court",
+        "translation": "執行裁判所"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Duty to State Facts (Third Party Debtor)",
+    "definition": "The statutory obligation placed upon a third-party debtor (garnishee) in claim seizure to provide a statement to the Execution Court regarding the existence, amount, and conditions of the claim subject to seizure.",
+    "japaneseDefinition": "債権差押えにおいて、第三債務者が、差し押さえられた債権の存否、額、弁済期などの事項について、執行裁判所の調査に対し陳述する義務。",
+    "japaneseWordTranslation": "第三債務者の陳述義務 (Daisansha Saimusha no Chinjutsu Gimu)",
+    "legalContext": "Civil Execution Act, Art. 147 (Duty of Third Party Debtor to State Facts): The Execution Court may, upon motion by the obligee, order the third party debtor to state the facts necessary for execution within one week.",
+    "japaneseLegalContext": "民事執行法第147条（第三債務者の陳述義務）：執行裁判所は、差押債権者の申立てにより、第三債務者に対し、差押えに係る債権の存否その他の執行に必要となる事項について、一週間以内に陳述をすべきことを命ずることができる。",
+    "exampleSentence": "The judgment creditor submitted a motion to enforce the Third Party Debtor's Duty to State Facts to ascertain the liquidity of the seized claim.",
+    "exampleTranslation": "債権者は、差し押さえられた債権の流動性を確認するため、第三債務者の陳述義務の履行を求める申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "Third-party debtor (Garnishee)",
+        "translation": "第三債務者"
+      },
+      {
+        "word": "Claim seizure",
+        "translation": "債権差押え"
+      },
+      {
+        "word": "Liquidity",
+        "translation": "流動性"
+      },
+      {
+        "word": "Judgment creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "Maturity of the claim",
+        "translation": "債権の弁済期"
+      },
+      {
+        "word": "Enforce the duty",
+        "translation": "義務の履行を求める"
+      }
+    ]
   }
 ]

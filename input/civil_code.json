@@ -11794,5 +11794,119 @@
         "translation": "進行を中断する"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligor",
+    "definition": "A person who is bound to another (the obligee) to perform a specific act or forbearance, typically arising from a contract or statute; the debtor in a legal relationship.",
+    "japaneseDefinition": "契約や法律の規定などにより、特定の行為（給付）をすべき義務を負う者。債務を負っている人。",
+    "japaneseWordTranslation": "債務者 (さいむしゃ)",
+    "legalContext": "Civil Code, Book III (Obligations) General Provisions: Defines the nature of obligations and the relationship between the obligor and obligee.",
+    "japaneseLegalContext": "民法第3編（債権）総則：債権債務関係の主体として規定される。",
+    "exampleSentence": "The obligor failed to tender performance on the agreed-upon date, resulting in a delay of several days.",
+    "exampleTranslation": "債務者は合意された期日に弁済の提供を怠り、その結果、数日間の遅延が生じた。",
+    "vocabularyList": [
+      {
+        "word": "tender performance",
+        "translation": "弁済の提供"
+      },
+      {
+        "word": "result in",
+        "translation": "〜の結果となる"
+      },
+      {
+        "word": "delay",
+        "translation": "遅延"
+      },
+      {
+        "word": "agreed-upon date",
+        "translation": "合意された期日"
+      },
+      {
+        "word": "statute",
+        "translation": "法令"
+      },
+      {
+        "word": "forbearance",
+        "translation": "不作為（作為をしないこと）"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Delivery",
+    "definition": "The act of physically transferring the possession of a thing from one party to another, especially in the context of sales or obligations to transfer ownership.",
+    "japaneseDefinition": "物の占有を、ある者から他の者に移転させる行為。特に売買契約や所有権移転義務の履行において用いられる。",
+    "japaneseWordTranslation": "引渡し (ひきわたし)",
+    "legalContext": "Civil Code Art. 182, 183: Specifies the methods by which possession is acquired or transferred, including physical transfer and transfer by simplified delivery (簡易の引渡し).",
+    "japaneseLegalContext": "民法第182条、第183条：占有権の取得方法、特に現実の引渡しや簡易の引渡しについて規定する。",
+    "exampleSentence": "In a sale contract, the vendor must warrant the property and effect the delivery of the goods to the purchaser.",
+    "exampleTranslation": "売買契約において、売主は目的物の瑕疵を担保し、かつ買主に対しその物の引渡しを行わなければならない。",
+    "vocabularyList": [
+      {
+        "word": "vendor",
+        "translation": "売主"
+      },
+      {
+        "word": "purchaser",
+        "translation": "買主"
+      },
+      {
+        "word": "transfer ownership",
+        "translation": "所有権を移転する"
+      },
+      {
+        "word": "possession",
+        "translation": "占有"
+      },
+      {
+        "word": "effect the delivery",
+        "translation": "引渡しを実行する"
+      },
+      {
+        "word": "warrant the property",
+        "translation": "（目的物の）瑕疵を担保する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Presumption of Paternity",
+    "definition": "A legal rule stating that a child conceived during a marriage or born within a specific period after the dissolution of marriage is legally presumed to be the child of the husband.",
+    "japaneseDefinition": "婚姻中に懐胎した子、または婚姻解消後200日以降、若しくは婚姻成立後300日以内に生まれた子は、夫の子であると推定されるという民事法の原則。",
+    "japaneseWordTranslation": "嫡出推定 (ちゃくしゅつすいてい)",
+    "legalContext": "Civil Code Art. 772: Defines the scope and time limits of the legal presumption of paternity regarding children born in wedlock.",
+    "japaneseLegalContext": "民法第772条：婚姻関係にある夫婦の間に生まれた子に対する嫡出推定の範囲と期間を定める。",
+    "exampleSentence": "Due to the presumption of paternity, the husband must initiate an action to disavow paternity if he wishes to negate the legal relationship.",
+    "exampleTranslation": "嫡出推定により、夫が法的な親子関係を否定したい場合、嫡出否認の訴えを提起しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "child born in wedlock",
+        "translation": "嫡出子"
+      },
+      {
+        "word": "dissolution of marriage",
+        "translation": "婚姻の解消"
+      },
+      {
+        "word": "conceive",
+        "translation": "懐胎する"
+      },
+      {
+        "word": "initiate an action",
+        "translation": "訴えを提起する"
+      },
+      {
+        "word": "disavow paternity",
+        "translation": "嫡出を否認する"
+      },
+      {
+        "word": "negate the legal relationship",
+        "translation": "法的関係を否定する"
+      }
+    ]
   }
 ]

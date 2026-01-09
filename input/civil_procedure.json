@@ -10736,5 +10736,81 @@
         "translation": "通知 (tsūchi)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Standing to Sue",
+    "definition": "The status of being qualified as a proper party to bring or defend a lawsuit, based on having a direct legal interest in the subject matter of the dispute.",
+    "japaneseDefinition": "特定の訴訟物につき、本案判決を求める資格を当事者に与える法律上の地位。原告が判決の効力を受けるべき者を指す。",
+    "japaneseWordTranslation": "当事者適格 (Tōjisha Tekkaku)",
+    "legalContext": "The determination of Standing to Sue is a fundamental prerequisite for a judgment on the merits (本案判決).",
+    "japaneseLegalContext": "当事者適格の判断は、本案判決を行うための基本的な訴訟要件である。",
+    "exampleSentence": "The court dismissed the claim because the plaintiff lacked standing to sue, as the asserted right belonged to a different legal entity.",
+    "exampleTranslation": "原告は訴訟を提起する当事者適格を欠いていたため、裁判所はその訴えを却下した。なぜなら、主張された権利は別の法人に帰属していたからである。",
+    "vocabularyList": [
+      {
+        "word": "plaintiff",
+        "translation": "原告 (Gankoku)"
+      },
+      {
+        "word": "dismissed the claim",
+        "translation": "訴えを却下した (Uttae o Kyakka shita)"
+      },
+      {
+        "word": "legal entity",
+        "translation": "法人 (Hōjin)"
+      },
+      {
+        "word": "prerequisite",
+        "translation": "要件 (Yōken)"
+      },
+      {
+        "word": "asserted right",
+        "translation": "主張された権利 (Shuchō sareta kenri)"
+      },
+      {
+        "word": "judgment on the merits",
+        "translation": "本案判決 (Hon'an hanketsu)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Examination of Documents",
+    "definition": "The procedural step in which documents are presented to the court as evidence and their contents examined in order to establish facts relevant to the dispute.",
+    "japaneseDefinition": "裁判所が文書を取り調べ、その記載された内容を証拠資料として、裁判官の心証形成に供する訴訟上の行為。",
+    "japaneseWordTranslation": "書証 (Shoshō)",
+    "legalContext": "Code of Civil Procedure Art. 219 governs the use of documentary evidence (書証) and its examination during trial proceedings.",
+    "japaneseLegalContext": "民事訴訟法第219条は、裁判手続における書証の使用とその取調べについて定める。",
+    "exampleSentence": "During the third hearing, the defense counsel objected to the late submission and examination of documents by the opposing party.",
+    "exampleTranslation": "第三回期日において、弁護士は、相手方による文書の遅延提出および書証の取調べに異議を唱えた。",
+    "vocabularyList": [
+      {
+        "word": "documentary evidence",
+        "translation": "文書 (Bunsho)"
+      },
+      {
+        "word": "hearing",
+        "translation": "期日 (Kijitsu)"
+      },
+      {
+        "word": "defense counsel",
+        "translation": "弁護士 (Bengoshi)"
+      },
+      {
+        "word": "objection",
+        "translation": "異議 (Igi)"
+      },
+      {
+        "word": "opposing party",
+        "translation": "相手方 (Aitegata)"
+      },
+      {
+        "word": "establish facts",
+        "translation": "事実を立証する (Jijitsu o risshō suru)"
+      }
+    ]
   }
 ]

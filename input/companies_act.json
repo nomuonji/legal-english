@@ -9766,5 +9766,81 @@
         "translation": "義務的登記 (ぎむてき とうき)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Pre-disclosure Documents (for Restructuring)",
+    "definition": "Statutory documents related to organizational restructuring (such as mergers or company splits) that must be prepared and kept available for public inspection at the head office prior to the date of the shareholder vote or the effective date.",
+    "japaneseDefinition": "合併や会社分割などの組織再編行為に関して、株主総会決議日や効力発生日より前に作成され、株主や債権者の閲覧に供されるべき法定書類。",
+    "japaneseWordTranslation": "事前開示書類 (jizen kaiji shorui)",
+    "legalContext": "Companies Act Art. 782: A Company executing an absorption-type merger shall keep documents stating matters concerning the absorption-type merger available for inspection at its head office.",
+    "japaneseLegalContext": "会社法第782条：吸収合併存続会社は、その本店に吸収合併に関する事項を記載した書面を備え置かなければならない。",
+    "exampleSentence": "Shareholders are entitled to inspect the pre-disclosure documents for the restructuring at the head office starting two weeks before the general meeting resolution.",
+    "exampleTranslation": "株主は、株主総会決議日の2週間前より、組織再編に関する事前開示書類を本店で閲覧する権利を有する。",
+    "vocabularyList": [
+      {
+        "word": "organizational restructuring",
+        "translation": "組織再編 (soshiki saihen)"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者 (saikensha)"
+      },
+      {
+        "word": "inspection",
+        "translation": "閲覧 (etsuran)"
+      },
+      {
+        "word": "absorption-type merger",
+        "translation": "吸収合併 (kyūshū gappei)"
+      },
+      {
+        "word": "statutory documents",
+        "translation": "法定書類 (hōtei shorui)"
+      },
+      {
+        "word": "head office",
+        "translation": "本店 (honten)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Shares Subject to a Mandatory Acquisition Clause",
+    "definition": "A specific type of stock that includes a provision in the Articles of Incorporation allowing the company to acquire all shares of that type upon a supermajority vote of the shareholders, commonly used for the purpose of a squeeze-out.",
+    "japaneseDefinition": "定款に規定を設けることにより、株主の特別決議によって会社がその種類の株式の全部を取得できる旨の定めのある株式。MBOなどの際に、少数株主を排除するためによく利用される。",
+    "japaneseWordTranslation": "全部取得条項付種類株式 (zenbu shutoku jōkō-tsuki shurui kabushiki)",
+    "legalContext": "Companies Act Art. 171: A Stock Company may, pursuant to the provisions of its Articles of Incorporation, acquire all shares of a certain type of stock subject to a clause providing for such acquisition.",
+    "japaneseLegalContext": "会社法第171条：株式会社は、定款の定めるところにより、全部取得条項付種類株式の全部を取得することができる。",
+    "exampleSentence": "The conversion into shares subject to a mandatory acquisition clause requires a supermajority vote in the general meeting of shareholders.",
+    "exampleTranslation": "全部取得条項付種類株式への転換は、株主総会における特別多数決の可決を要する。",
+    "vocabularyList": [
+      {
+        "word": "supermajority vote",
+        "translation": "特別多数決 (tokubetsu tasūketsu)"
+      },
+      {
+        "word": "provision",
+        "translation": "条項 (jōkō)"
+      },
+      {
+        "word": "conversion",
+        "translation": "転換 (tenkan)"
+      },
+      {
+        "word": "squeeze-out",
+        "translation": "スクイーズ・アウト (sukuīzu auto)"
+      },
+      {
+        "word": "type of stock",
+        "translation": "種類株式 (shurui kabushiki)"
+      },
+      {
+        "word": "acquire",
+        "translation": "取得する (shutoku suru)"
+      }
+    ]
   }
 ]

@@ -2,40 +2,6 @@
   {
     "category": "Judicial Scrivener Act (司法書士法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Claim Amount Ceiling",
-    "definition": "The maximum monetary value of the subject matter of a civil dispute (currently ¥1,400,000) for which a certified legal expert may represent a client in summary court proceedings, alternative dispute resolution (ADR), or conciliation.",
-    "japaneseDefinition": "認定を受けた特定の法律専門家が、簡易裁判所における訴訟手続、または裁判外紛争解決手続（ADR）において、依頼者を代理できる訴訟の目的の価額の上限。",
-    "japaneseWordTranslation": "訴訟物価額の制限 (そしょうぶつかかくのせいげん)",
-    "legalContext": "Judicial Scrivener Act, Art. 3, Paragraph 1, Item 6: 'Matters handled by professionals regarding civil lawsuits, etc., in summary courts, where the value of the subject matter of the claim does not exceed the amount specified by Cabinet Order (currently 1,400,000 yen).'",
-    "japaneseLegalContext": "司法書士法第3条第1項第6号: 簡易裁判所における訴訟手続等についての業務であって、訴訟の目的の価額が政令で定める額（140万円）を超えないもの。",
-    "exampleSentence": "The firm declined to take the case because the value exceeded the claim amount ceiling applicable to the certified professional.",
-    "exampleTranslation": "その請求価額が認定を受けた専門家に適用される訴訟物価額の制限を超えていたため、その事務所はその案件を引き受けることを辞退した。",
-    "vocabularyList": [
-      {
-        "word": "certified legal expert",
-        "translation": "認定を受けた専門家"
-      },
-      {
-        "word": "subject matter",
-        "translation": "訴訟の目的"
-      },
-      {
-        "word": "summary court",
-        "translation": "簡易裁判所"
-      },
-      {
-        "word": "alternative dispute resolution (ADR)",
-        "translation": "裁判外紛争解決手続"
-      },
-      {
-        "word": "Cabinet Order",
-        "translation": "政令"
-      }
-    ]
-  },
-  {
-    "category": "Judicial Scrivener Act (司法書士法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Professional Register",
     "definition": "The official, mandatory list maintained by the national professional federation or local association, containing the name, address, and qualification details of all individuals authorized to practice legal documentation services and related procedural work.",
     "japaneseDefinition": "国が定める専門家団体が管理する公的な名簿であり、法律文書作成および関連する手続業務を行う権限を有する全ての個人の氏名、住所、資格情報を含むもの。",
@@ -7794,6 +7760,108 @@
       {
         "word": "proceed with",
         "translation": "手続きを進める"
+      }
+    ]
+  },
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certified Judicial Scrivener (Summary Court Agent)",
+    "definition": "A Judicial Scrivener who has undergone special training and successfully passed a certification examination, allowing them to represent clients in summary court proceedings and handle related out-of-court dispute resolution procedures, provided the claim value does not exceed the statutory maximum.",
+    "japaneseDefinition": "簡易裁判所における訴訟手続や裁判外の和解などの代理業務を行うために、日本司法書士会連合会の研修を受け、法務大臣の認定を受けた司法書士。",
+    "japaneseWordTranslation": "簡裁訴訟代理等関係業務を行うことができる司法書士 (Kansai Soshō Dairi-tō Kankei Gyōmu o Okonau Koto ga Dekiru Shishōshi)",
+    "legalContext": "Judicial Scrivener Act, Art. 3, Para. 2: Defines the scope of 'Summary Court Agency and Related Services' (簡裁訴訟代理等関係業務) exclusively for certified judicial scriveners.",
+    "japaneseLegalContext": "司法書士法第3条第2項: 簡裁訴訟代理等関係業務は、特別な認定を受けた司法書士に限り行うことができる。",
+    "exampleSentence": "The client required a Certified Judicial Scrivener (Summary Court Agent) to manage the civil suit for return of a security deposit, as the claim was within the jurisdictional monetary maximum.",
+    "exampleTranslation": "依頼人は、その請求額が簡易裁判所の管轄金額の最大限度内であったため、敷金返還を求める民事訴訟の手続きを行うために認定司法書士を必要とした。",
+    "vocabularyList": [
+      {
+        "word": "certification examination",
+        "translation": "認定試験"
+      },
+      {
+        "word": "summary court proceedings",
+        "translation": "簡易裁判所の手続"
+      },
+      {
+        "word": "out-of-court dispute resolution",
+        "translation": "裁判外紛争解決手続"
+      },
+      {
+        "word": "client representation",
+        "translation": "依頼者の代理"
+      },
+      {
+        "word": "statutory maximum",
+        "translation": "法令上の上限額"
+      }
+    ]
+  },
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Professional Roll Registration Obligation",
+    "definition": "The mandatory duty imposed on any individual who has qualified as a judicial scrivener to register their professional status in the Judicial Scrivener Roll (名簿) maintained by the local Judicial Scrivener Association before commencing practice.",
+    "japaneseDefinition": "司法書士となる資格を有する者が、その業務を開始するにあたり、所属する司法書士会に備え付けられた名簿に、自己の氏名、事務所の所在地等の事項を登録しなければならない法的な義務。",
+    "japaneseWordTranslation": "司法書士名簿への登録義務 (Shishōshi Meibo e no Tōroku Gimu)",
+    "legalContext": "Judicial Scrivener Act, Art. 8, Para. 1: Requires individuals who intend to practice as a judicial scrivener to register their name and office location in the roll (名簿) of the association with jurisdiction over the office.",
+    "japaneseLegalContext": "司法書士法第8条第1項: 司法書士となる資格を有する者が、司法書士の業務を行うには、その事務所を定め、司法書士会連合会に備える司法書士名簿に登録を受けなければならない。",
+    "exampleSentence": "Failure to fulfill the Professional Roll Registration Obligation prior to commencing business activities constitutes a violation of the Judicial Scrivener Act and subjects the practitioner to sanctions.",
+    "exampleTranslation": "業務活動を開始する前に司法書士名簿への登録義務を履行しないことは、司法書士法違反にあたり、当該業務を行う者は制裁の対象となる。",
+    "vocabularyList": [
+      {
+        "word": "qualified as a judicial scrivener",
+        "translation": "司法書士の資格を有する"
+      },
+      {
+        "word": "commencing practice",
+        "translation": "業務を開始する"
+      },
+      {
+        "word": "roster",
+        "translation": "名簿"
+      },
+      {
+        "word": "office location",
+        "translation": "事務所の所在地"
+      },
+      {
+        "word": "sanctions",
+        "translation": "制裁"
+      }
+    ]
+  },
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Oversight and Supervision by the Minister of Justice",
+    "definition": "The statutory authority vested in the Minister of Justice to oversee and regulate the activities of judicial scriveners and their professional associations, including issuing necessary orders and imposing disciplinary actions to ensure proper professional conduct and the public interest.",
+    "japaneseDefinition": "法務大臣が司法書士及び司法書士会に対し、その適正な運営を確保するため、必要な命令を発し、業務に関する指導監督を行う権限。",
+    "japaneseWordTranslation": "法務大臣による監督 (Hōmu Daijin ni yoru Kantoku)",
+    "legalContext": "Judicial Scrivener Act, Art. 58: Stipulates that the Minister of Justice shall oversee and supervise judicial scriveners and their professional associations to ensure the proper functioning of the business.",
+    "japaneseLegalContext": "司法書士法第58条: 司法書士及び司法書士会は、法務大臣の監督に服する。",
+    "exampleSentence": "Following a complaint, the Minister of Justice exercised his Oversight and Supervision authority to investigate the professional corporation's compliance with accounting regulations.",
+    "exampleTranslation": "苦情の申し立てを受け、法務大臣は、その監督権限を行使し、当該司法書士法人が会計規定を遵守しているか調査した。",
+    "vocabularyList": [
+      {
+        "word": "statutory authority",
+        "translation": "法令上の権限"
+      },
+      {
+        "word": "regulate",
+        "translation": "規制する"
+      },
+      {
+        "word": "proper professional conduct",
+        "translation": "適正な職務執行"
+      },
+      {
+        "word": "professional corporation",
+        "translation": "司法書士法人"
+      },
+      {
+        "word": "public interest",
+        "translation": "公共の利益"
       }
     ]
   }

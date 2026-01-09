@@ -7146,5 +7146,119 @@
         "translation": "申請を行う"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Formal Instrument of Deposit Basis",
+    "definition": "The official document or set of documents required to be submitted upon filing for consignment, proving the legal grounds (e.g., obligee's absence, refusal of receipt, or statutory requirement) that necessitate the deposit.",
+    "japaneseDefinition": "供託申請に際し、供託原因（債権者の受領拒否、所在不明、法令による義務など）が存在することを証明するために添付が必要とされる書面。",
+    "japaneseWordTranslation": "供託原因を証する書面 (きょうたくげんいんをしょうするしょめん)",
+    "legalContext": "Deposit Act (供託法) Art. 3-3: An application for consignment must be accompanied by a document evidencing the grounds for the consignment.",
+    "japaneseLegalContext": "供託法第3条第3項: 供託の申請書には、供託の原因を証する書面を添付しなければならない。",
+    "exampleSentence": "The Consignor was unable to proceed with the filing because they failed to attach the necessary Formal Instrument of Deposit Basis to the application.",
+    "exampleTranslation": "供託者は、申請書に必要な供託原因を証する書面を添付しなかったため、手続きを進めることができなかった。",
+    "vocabularyList": [
+      {
+        "word": "Consignor",
+        "translation": "供託者 (きょうたくしゃ)"
+      },
+      {
+        "word": "Consignment",
+        "translation": "供託 (きょうたく)"
+      },
+      {
+        "word": "grounds for the consignment",
+        "translation": "供託原因 (きょうたくげんいん)"
+      },
+      {
+        "word": "application",
+        "translation": "申請書 (しんせいしょ)"
+      },
+      {
+        "word": "accompany",
+        "translation": "添付する (てんぷする)"
+      },
+      {
+        "word": "statutory requirement",
+        "translation": "法令上の要件 (ほうれいじょうのようけん)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registrar's Disallowance Decision",
+    "definition": "The formal administrative decision made by the competent authority (registrar) to reject a deposit application, typically due to procedural defects, non-compliance with the Deposit Act, or lack of proper basis for consignment.",
+    "japaneseDefinition": "供託官が、供託の申請書について法令の規定に適合しない点がある場合や、供託原因がない場合に、その申請を拒否する旨の行政処分。",
+    "japaneseWordTranslation": "供託却下決定 (きょうたくきゃっかけってい)",
+    "legalContext": "Deposit Act (供託法) Art. 4: If a consignment application does not comply with the law, the Registrar shall issue a disallowance decision.",
+    "japaneseLegalContext": "供託法第4条: 供託官は、供託の申請を不適法と認めるときは、却下の決定をしなければならない。",
+    "exampleSentence": "The applicant filed a petition for administrative review against the Registrar's Disallowance Decision, arguing that the alleged defects were curative.",
+    "exampleTranslation": "申請者は、指摘された不備が補正可能であると主張し、供託官の却下決定に対して行政上の不服申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "disallowance",
+        "translation": "却下 (きゃっか)"
+      },
+      {
+        "word": "administrative review",
+        "translation": "行政上の不服申立て (ぎょうせいじょうのふふくもうしたて)"
+      },
+      {
+        "word": "procedural defects",
+        "translation": "手続上の不備 (てつづきじょうのふび)"
+      },
+      {
+        "word": "comply with the law",
+        "translation": "法令に適合する (ほうれいにてきごうする)"
+      },
+      {
+        "word": "competent authority",
+        "translation": "権限のある官庁 (けんげんのあるかんちょう)"
+      },
+      {
+        "word": "curative",
+        "translation": "補正可能 (ほせいかのう)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Substitution Mandate",
+    "definition": "A court order or administrative instruction compelling or permitting the replacement of the original deposited asset (e.g., specific goods or non-fungible property) with an equivalent monetary value, typically when the original asset is subject to deterioration or required to be converted to cash.",
+    "japaneseDefinition": "供託された目的物（例：特定の動産）が滅失・毀損のおそれがある場合や、換価処分が必要な場合に、その目的物を金銭や有価証券で代替させる権限又は命令。",
+    "japaneseWordTranslation": "供託物の代替処分 (きょうたくぶつのだいたいしょぶん)",
+    "legalContext": "Civil Code (民法) Art. 498-2: The court may permit the obligor to take measures for the substitution of deposited property, such as conversion into money, if necessary for preservation or administration.",
+    "japaneseLegalContext": "民法第498条の2: 供託物がその保存又は管理に不適当であるときは、供託をした者の請求又は裁判所の命令により金銭への換価など代替の措置をとることができる。",
+    "exampleSentence": "Given the perishable nature of the goods, the court issued a Deposit Substitution Mandate to convert the consigned inventory into monetary funds for security.",
+    "exampleTranslation": "物品が腐敗する性質であったため、裁判所は供託された在庫を金銭に換価し保全するための供託物の代替処分命令を発出した。",
+    "vocabularyList": [
+      {
+        "word": "substitution",
+        "translation": "代替 (だいたい)"
+      },
+      {
+        "word": "perishable nature",
+        "translation": "腐敗性 (ふはいせい)"
+      },
+      {
+        "word": "inventory",
+        "translation": "在庫 (ざいこ)"
+      },
+      {
+        "word": "conversion into money",
+        "translation": "金銭への換価 (きんせんへのかんか)"
+      },
+      {
+        "word": "preservation",
+        "translation": "保存 (ほぞん)"
+      },
+      {
+        "word": "compelling",
+        "translation": "強制する (きょうせいする)"
+      }
+    ]
   }
 ]

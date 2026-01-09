@@ -1,38 +1,34 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Judicial Scrivener Act (司法書士法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Principle of Disposition",
-  "definition": "A fundamental procedural principle dictating that the commencement, scope, modification, and termination of a lawsuit are determined solely by the will and actions of the parties, not ex officio by the court.",
-  "japaneseDefinition": "訴訟の開始、審判の対象、変更及び終了について、当事者の意思に任せるという民事訴訟の基本原則。裁判所は当事者が主張しない事項について審理することができない。",
-  "japaneseWordTranslation": "処分権主義 (しょぶんけんしゅぎ)",
-  "legalContext": "Code of Civil Procedure Art. 246: The court may not render judgment on a matter concerning which no claim has been made by the parties.",
-  "japaneseLegalContext": "民事訴訟法第246条: 裁判所は、当事者が申し立てていない事項について、判決をすることができない。",
-  "exampleSentence": "Because of the Principle of Disposition, the court is limited to ruling on the exact scope of the monetary relief requested in the plaintiff's petition.",
-  "exampleTranslation": "処分権主義により、裁判所は原告の訴状で要求された金銭的救済の厳密な範囲に限定して判決を下す。",
+  "word": "Claim Amount Ceiling",
+  "definition": "The maximum monetary value of the subject matter of a civil dispute (currently ¥1,400,000) for which a certified legal expert may represent a client in summary court proceedings, alternative dispute resolution (ADR), or conciliation.",
+  "japaneseDefinition": "認定を受けた特定の法律専門家が、簡易裁判所における訴訟手続、または裁判外紛争解決手続（ADR）において、依頼者を代理できる訴訟の目的の価額の上限。",
+  "japaneseWordTranslation": "訴訟物価額の制限 (そしょうぶつかかくのせいげん)",
+  "legalContext": "Judicial Scrivener Act, Art. 3, Paragraph 1, Item 6: 'Matters handled by professionals regarding civil lawsuits, etc., in summary courts, where the value of the subject matter of the claim does not exceed the amount specified by Cabinet Order (currently 1,400,000 yen).'",
+  "japaneseLegalContext": "司法書士法第3条第1項第6号: 簡易裁判所における訴訟手続等についての業務であって、訴訟の目的の価額が政令で定める額（140万円）を超えないもの。",
+  "exampleSentence": "The firm declined to take the case because the value exceeded the claim amount ceiling applicable to the certified professional.",
+  "exampleTranslation": "その請求価額が認定を受けた専門家に適用される訴訟物価額の制限を超えていたため、その事務所はその案件を引き受けることを辞退した。",
   "vocabularyList": [
     {
-      "word": "Commencement",
-      "translation": "開始 (かいし)"
+      "word": "certified legal expert",
+      "translation": "認定を受けた専門家"
     },
     {
-      "word": "Scope",
-      "translation": "範囲 (はんい)"
+      "word": "subject matter",
+      "translation": "訴訟の目的"
     },
     {
-      "word": "Ex officio",
-      "translation": "職権で (しょっけんで)"
+      "word": "summary court",
+      "translation": "簡易裁判所"
     },
     {
-      "word": "Monetary relief",
-      "translation": "金銭的救済 (きんせんてききゅうさい)"
+      "word": "alternative dispute resolution (ADR)",
+      "translation": "裁判外紛争解決手続"
     },
     {
-      "word": "Petition (Complaint)",
-      "translation": "訴状 (そじょう)"
-    },
-    {
-      "word": "Modification",
-      "translation": "変更 (へんこう)"
+      "word": "Cabinet Order",
+      "translation": "政令"
     }
   ]
 }

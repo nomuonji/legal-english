@@ -8958,5 +8958,123 @@
         "translation": "敷地 (しきち)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Claim Regarding Subject Matter of Litigation",
+    "definition": "A claim underlying a provisional disposition (injunction) whose purpose is to prevent changes to a specific item (asset or property) currently involved in a dispute, ensuring its availability for eventual judgment enforcement.",
+    "japaneseDefinition": "権利に関する争いの対象となっている物に対する請求。特に、民事保全法上の仮処分命令の対象となる請求の一種を指す。",
+    "japaneseWordTranslation": "係争物に関する請求 (けいそうぶつにかんするせいきゅう)",
+    "legalContext": "Civil Preservation Act, Article 23(2) (Classification of Provisional Dispositions: Injunctions concerning the subject matter of the dispute).",
+    "japaneseLegalContext": "民事保全法 第23条第2項 (係争物に関する仮処分)",
+    "exampleSentence": "The plaintiff sought a provisional disposition based on a claim regarding the subject matter of litigation to prevent the defendant from selling the disputed land.",
+    "exampleTranslation": "原告は、被告が係争中の土地を売却するのを防ぐため、係争物に関する請求に基づき仮処分を求めた。",
+    "vocabularyList": [
+      {
+        "word": "disputed land",
+        "translation": "係争中の土地"
+      },
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告"
+      },
+      {
+        "word": "judgment enforcement",
+        "translation": "判決の執行"
+      },
+      {
+        "word": "asset",
+        "translation": "資産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Period for Commencement of the Main Action",
+    "definition": "The statutory deadline, usually stipulated by the preservation court, within which the preservation creditor must file the substantive lawsuit (the main action) after a preservation order has been issued, failing which the order may be revoked.",
+    "japaneseDefinition": "保全命令の発令後、その命令の根拠となった実体的な権利の実現を図るための訴訟（本案の訴え）を提起しなければならない法定の期間。",
+    "japaneseWordTranslation": "本案の訴えの提起期間 (ほんあんのうったいのていききかん)",
+    "legalContext": "Civil Preservation Act, Article 37(1) (Revocation of Preservation Order due to Non-Commencement of Main Action).",
+    "japaneseLegalContext": "民事保全法 第37条第1項 (本案の不提起による保全取消し)",
+    "exampleSentence": "If the obligee fails to initiate the main suit within the period for commencement of the main action designated by the court, the provisional attachment order will be subject to revocation.",
+    "exampleTranslation": "債権者が裁判所が指定した本案の訴えの提起期間内に本案訴訟を開始しない場合、仮差押命令は取り消しの対象となる。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "main suit",
+        "translation": "本案訴訟"
+      },
+      {
+        "word": "provisional attachment order",
+        "translation": "仮差押命令"
+      },
+      {
+        "word": "revocation",
+        "translation": "取消し"
+      },
+      {
+        "word": "statutory deadline",
+        "translation": "法定の期限"
+      },
+      {
+        "word": "designated by the court",
+        "translation": "裁判所が指定した"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Risk of Prejudicial Change in Status",
+    "definition": "The fundamental requirement for issuing a preservation order, where the obligee must demonstrate that waiting for a final judgment would make the enforcement of their claim impossible or significantly difficult due to the debtor's potential actions or changes in the property's condition.",
+    "japaneseDefinition": "債権の執行を将来的に不可能または著しく困難にさせるような、債務者または係争物の現状の変更が生じるおそれがあること。保全の必要性の根拠となる。",
+    "japaneseWordTranslation": "権利の実行を著しく困難にするおそれ (けんりのじっこうをいちじるしくこんなんにするおそれ)",
+    "legalContext": "Civil Preservation Act, Article 13(1) (Requirement for Preservation Necessity).",
+    "japaneseLegalContext": "民事保全法 第13条第1項 (保全の必要性)",
+    "exampleSentence": "The court granted the injunction because the applicant successfully demonstrated the risk of prejudicial change in status to the disputed assets.",
+    "exampleTranslation": "申立人が係争資産の権利の実行を著しく困難にするおそれがあることを首尾よく疎明したため、裁判所は差止命令を認めた。",
+    "vocabularyList": [
+      {
+        "word": "applicant",
+        "translation": "申立人"
+      },
+      {
+        "word": "injunction",
+        "translation": "差止命令"
+      },
+      {
+        "word": "final judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "demonstrate",
+        "translation": "疎明する"
+      },
+      {
+        "word": "disputed assets",
+        "translation": "係争資産"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "preservation order",
+        "translation": "保全命令"
+      }
+    ]
   }
 ]

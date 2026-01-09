@@ -2,44 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Principle of Disposition",
-    "definition": "A fundamental procedural principle dictating that the commencement, scope, modification, and termination of a lawsuit are determined solely by the will and actions of the parties, not ex officio by the court.",
-    "japaneseDefinition": "訴訟の開始、審判の対象、変更及び終了について、当事者の意思に任せるという民事訴訟の基本原則。裁判所は当事者が主張しない事項について審理することができない。",
-    "japaneseWordTranslation": "処分権主義 (しょぶんけんしゅぎ)",
-    "legalContext": "Code of Civil Procedure Art. 246: The court may not render judgment on a matter concerning which no claim has been made by the parties.",
-    "japaneseLegalContext": "民事訴訟法第246条: 裁判所は、当事者が申し立てていない事項について、判決をすることができない。",
-    "exampleSentence": "Because of the Principle of Disposition, the court is limited to ruling on the exact scope of the monetary relief requested in the plaintiff's petition.",
-    "exampleTranslation": "処分権主義により、裁判所は原告の訴状で要求された金銭的救済の厳密な範囲に限定して判決を下す。",
-    "vocabularyList": [
-      {
-        "word": "Commencement",
-        "translation": "開始 (かいし)"
-      },
-      {
-        "word": "Scope",
-        "translation": "範囲 (はんい)"
-      },
-      {
-        "word": "Ex officio",
-        "translation": "職権で (しょっけんで)"
-      },
-      {
-        "word": "Monetary relief",
-        "translation": "金銭的救済 (きんせんてききゅうさい)"
-      },
-      {
-        "word": "Petition (Complaint)",
-        "translation": "訴状 (そじょう)"
-      },
-      {
-        "word": "Modification",
-        "translation": "変更 (へんこう)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Succession of Litigation",
     "definition": "The transfer of the position of a party in a pending lawsuit to a third party or a successor (such as an heir, or an assignee of the subject matter of the dispute).",
     "japaneseDefinition": "訴訟が係属している間に、当事者の地位が、当事者の死亡や訴訟の目的物の譲渡などによって第三者または承継人に移転すること。",
@@ -10658,6 +10620,120 @@
       {
         "word": "written submission",
         "translation": "書面提出"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Rendition of Judgment",
+    "definition": "The formal act by which the court publicly pronounces its final decision (judgment) after the conclusion of the oral arguments, marking the end of the judicial process at that instance.",
+    "japaneseDefinition": "口頭弁論の終結後、裁判所が判決の内容を公に読み上げる手続き。これにより当該審級での司法手続きが形式的に終了する。",
+    "japaneseWordTranslation": "判決の言渡し (hanketsu no iiwatashi)",
+    "legalContext": "Code of Civil Procedure (Minji Soshō Hō) Art. 251: Rendition of Judgment shall be made by giving notice of the text of the judgment.",
+    "japaneseLegalContext": "民事訴訟法第251条: 判決の言渡しは、判決書の原本に基づいてする。",
+    "exampleSentence": "The presiding judge set the date for the rendition of judgment exactly four weeks after the conclusion of the final oral arguments.",
+    "exampleTranslation": "裁判長は、最終口頭弁論の終結からちょうど４週間後に判決言渡しの期日を設定した。",
+    "vocabularyList": [
+      {
+        "word": "presiding judge",
+        "translation": "裁判長 (saibanchō)"
+      },
+      {
+        "word": "final oral arguments",
+        "translation": "最終口頭弁論 (saishū kōtō benron)"
+      },
+      {
+        "word": "set the date",
+        "translation": "期日を設定する (kijitsu o settei suru)"
+      },
+      {
+        "word": "conclusion",
+        "translation": "終結 (shūketsu)"
+      },
+      {
+        "word": "judicial process",
+        "translation": "司法手続き (shihō tetsuzuki)"
+      },
+      {
+        "word": "text of the judgment",
+        "translation": "判決書の原本 (hanketsusho no genpon)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibition of Litigation in Bad Faith",
+    "definition": "A procedural mandate derived from the principle of trust and good faith, authorizing the court to restrict or reject procedural acts (such as untimely submissions, redundant motions, or unwarranted delay tactics) that constitute an abuse of the litigation process.",
+    "japaneseDefinition": "訴訟手続において、当事者が信義誠実の原則に違反し、訴訟の進行を不当に遅延させる目的や権利の濫用を意図して行った手続き的行為を裁判所が制限または排斥する原則。",
+    "japaneseWordTranslation": "信義則違反の訴訟行為の禁止 (shin-gisoku ihan no soshō kōi no kinshi)",
+    "legalContext": "Code of Civil Procedure (Minji Soshō Hō) Art. 2: The litigation shall be conducted in accordance with the principle of trust and good faith.",
+    "japaneseLegalContext": "民事訴訟法第2条: 訴訟手続は、信義に従い、誠実に進行しなければならない。",
+    "exampleSentence": "The court applied the prohibition of litigation in bad faith to exclude evidence submitted by the defendant at the final preparatory stage without justifiable cause.",
+    "exampleTranslation": "裁判所は、正当な理由なく最終準備段階で被告が提出した証拠を排除するために、信義則違反の訴訟行為の禁止を適用した。",
+    "vocabularyList": [
+      {
+        "word": "procedural mandate",
+        "translation": "手続上の命令 (tetsuzuki-jō no meirei)"
+      },
+      {
+        "word": "restrict or reject",
+        "translation": "制限または排斥する (seigen matawa haiseki suru)"
+      },
+      {
+        "word": "redundant motions",
+        "translation": "重複する申立て (chōfuku suru mōshitate)"
+      },
+      {
+        "word": "unwarranted delay",
+        "translation": "不当な遅延 (futō na chien)"
+      },
+      {
+        "word": "justifiable cause",
+        "translation": "正当な理由 (seitō na riyū)"
+      },
+      {
+        "word": "procedural acts",
+        "translation": "手続き的行為 (tetsuzuki-teki kōi)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designation of Trial Date",
+    "definition": "The official power and act of the court, typically exercised by the chief judge, to set the specific date and time for the commencement or continuation of oral arguments (trial hearings) and to ensure proper notification to all parties involved.",
+    "japaneseDefinition": "裁判所が、口頭弁論（審理期日）を開始または続行するための具体的な日時を指定し、関係当事者にその旨を適正に通知する行為。",
+    "japaneseWordTranslation": "口頭弁論期日の指定 (kōtō benron kijitsu no shitei)",
+    "legalContext": "Code of Civil Procedure (Minji Soshō Hō) Art. 93: The trial date shall be designated by the presiding judge and notice thereof shall be given to the parties.",
+    "japaneseLegalContext": "民事訴訟法第93条: 期日は、裁判長が指定し、当事者に通知する。",
+    "exampleSentence": "The plaintiff submitted a motion requesting the prompt designation of a trial date following the completion of the preliminary document preparation process.",
+    "exampleTranslation": "原告は、予備的な書面準備手続きの完了後、速やかな口頭弁論期日の指定を求める申立てを提出した。",
+    "vocabularyList": [
+      {
+        "word": "presiding judge",
+        "translation": "裁判長 (saibanchō)"
+      },
+      {
+        "word": "commencement",
+        "translation": "開始 (kaishi)"
+      },
+      {
+        "word": "continuation",
+        "translation": "続行 (zokkō)"
+      },
+      {
+        "word": "oral arguments",
+        "translation": "口頭弁論 (kōtō benron)"
+      },
+      {
+        "word": "preliminary preparation",
+        "translation": "予備的準備 (yobi-teki junbi)"
+      },
+      {
+        "word": "notification",
+        "translation": "通知 (tsūchi)"
       }
     ]
   }

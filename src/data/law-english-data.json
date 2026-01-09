@@ -1,38 +1,38 @@
 {
-  "category": "Civil Preservation (民事保全法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Examination of the Debtor",
-  "definition": "A procedural step, typically discretionary, where the preservation court questions the preservation debtor to gather facts and arguments relevant to the necessity and propriety of issuing a preservation order, especially concerning the grounds for preservation.",
-  "japaneseDefinition": "裁判所が保全命令の発令の可否を判断するにあたり、保全債務者に対し、保全の必要性や事実関係について質問し、意見を聴取する手続き。",
-  "japaneseWordTranslation": "債務者審尋 (さいむしゃしんじん)",
-  "legalContext": "Civil Preservation Law Art. 23(2): The court may issue a preservation order without hearing the preservation debtor; however, it may also question the preservation debtor if necessary.",
-  "japaneseLegalContext": "民事保全法第23条第2項：保全命令は、保全債務者を審尋しないで発することもできる。ただし、必要と認めるときは、保全債務者を審尋することができる。",
-  "exampleSentence": "The court decided against holding the **examination of the debtor** since the immediate risk of asset dissipation required swift action.",
-  "exampleTranslation": "裁判所は、資産散逸の差し迫った危険性から迅速な対応が必要であるため、債務者審尋を行わないことを決定した。",
+  "word": "Principle of Disposition",
+  "definition": "A fundamental procedural principle dictating that the commencement, scope, modification, and termination of a lawsuit are determined solely by the will and actions of the parties, not ex officio by the court.",
+  "japaneseDefinition": "訴訟の開始、審判の対象、変更及び終了について、当事者の意思に任せるという民事訴訟の基本原則。裁判所は当事者が主張しない事項について審理することができない。",
+  "japaneseWordTranslation": "処分権主義 (しょぶんけんしゅぎ)",
+  "legalContext": "Code of Civil Procedure Art. 246: The court may not render judgment on a matter concerning which no claim has been made by the parties.",
+  "japaneseLegalContext": "民事訴訟法第246条: 裁判所は、当事者が申し立てていない事項について、判決をすることができない。",
+  "exampleSentence": "Because of the Principle of Disposition, the court is limited to ruling on the exact scope of the monetary relief requested in the plaintiff's petition.",
+  "exampleTranslation": "処分権主義により、裁判所は原告の訴状で要求された金銭的救済の厳密な範囲に限定して判決を下す。",
   "vocabularyList": [
     {
-      "word": "Asset dissipation",
-      "translation": "資産の散逸"
+      "word": "Commencement",
+      "translation": "開始 (かいし)"
     },
     {
-      "word": "Propriety",
-      "translation": "正当性"
+      "word": "Scope",
+      "translation": "範囲 (はんい)"
     },
     {
-      "word": "Grounds for preservation",
-      "translation": "保全の理由"
+      "word": "Ex officio",
+      "translation": "職権で (しょっけんで)"
     },
     {
-      "word": "Swift action",
-      "translation": "迅速な対応"
+      "word": "Monetary relief",
+      "translation": "金銭的救済 (きんせんてききゅうさい)"
     },
     {
-      "word": "Discretionary",
-      "translation": "裁量的"
+      "word": "Petition (Complaint)",
+      "translation": "訴状 (そじょう)"
     },
     {
-      "word": "Hearing",
-      "translation": "聴取"
+      "word": "Modification",
+      "translation": "変更 (へんこう)"
     }
   ]
 }

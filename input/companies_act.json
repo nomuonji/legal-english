@@ -9652,5 +9652,119 @@
         "translation": "無効"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Procedure for Capital Decrease",
+    "definition": "The mandatory steps a company must follow, including creditor protection measures and special resolutions, to formally reduce its stated capital amount.",
+    "japaneseDefinition": "会社がその資本金の額を減少させるために踏むべき、債権者保護手続や株主の特別決議を含む法定の手順。",
+    "japaneseWordTranslation": "資本減少の手続 (しほん げんしょう の てつづき)",
+    "legalContext": "Companies Act Art. 447 & 449: Requires a special resolution and the implementation of creditor protection procedures (public notice and individual demand).",
+    "japaneseLegalContext": "会社法第447条および第449条: 株主総会の特別決議及び債権者保護手続（公告及び個別催告）の実施を要求する。",
+    "exampleSentence": "The company was legally required to undergo the **Statutory Procedure for Capital Decrease** before effecting its proposed share consolidation.",
+    "exampleTranslation": "当該会社は、提案された株式併合を実施する前に、法的に**資本減少の手続**を経る必要があった。",
+    "vocabularyList": [
+      {
+        "word": "share consolidation",
+        "translation": "株式併合 (かぶしき へいごう)"
+      },
+      {
+        "word": "stated capital",
+        "translation": "資本金 (しほんきん)"
+      },
+      {
+        "word": "special resolution",
+        "translation": "特別決議 (とくべつ けつぎ)"
+      },
+      {
+        "word": "creditor protection measures",
+        "translation": "債権者保護措置 (さいけんしゃ ほご そち)"
+      },
+      {
+        "word": "public notice",
+        "translation": "公告 (こうこく)"
+      },
+      {
+        "word": "individual demand",
+        "translation": "個別催告 (こべつ さいこく)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Acquisition of Own Shares via Tender Offer",
+    "definition": "A specific method where a company offers to purchase its own shares from existing shareholders at a set price over a defined period, subject to financial instrument regulations.",
+    "japaneseDefinition": "会社が既存の株主から一定の価格で、かつ定められた期間内に、自社の株式を買い付ける旨を申し出る特定の自己株式取得方法。金融商品取引法の規制も受ける。",
+    "japaneseWordTranslation": "自己株式の公開買付け (じこ かぶしき の こうかい かいつけ)",
+    "legalContext": "Companies Act Art. 156 and Financial Instruments and Exchange Act: Governs the methods and regulatory requirements for self-acquisition, particularly when conducted as a tender offer (TOB).",
+    "japaneseLegalContext": "会社法第156条及び金融商品取引法: 公開買付けとして行われる場合の自己株式取得の方法と規制要件を定める。",
+    "exampleSentence": "Due to the tight market valuation, the Board approved the **Acquisition of Own Shares via Tender Offer** to enhance shareholder value.",
+    "exampleTranslation": "厳しい市場評価のため、取締役会は株主価値向上のため、**自己株式の公開買付け**による自己株式取得を承認した。",
+    "vocabularyList": [
+      {
+        "word": "tender offer (TOB)",
+        "translation": "公開買付け (こうかい かいつけ)"
+      },
+      {
+        "word": "shareholder value",
+        "translation": "株主価値 (かぶぬし かち)"
+      },
+      {
+        "word": "financial instruments and exchange act",
+        "translation": "金融商品取引法 (きんゆう しょうひん とりひきほう)"
+      },
+      {
+        "word": "market valuation",
+        "translation": "市場評価 (しじょう ひょうか)"
+      },
+      {
+        "word": "board of directors",
+        "translation": "取締役会 (とりしまりやくかい)"
+      },
+      {
+        "word": "existing shareholders",
+        "translation": "既存株主 (きそん かぶぬし)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Default in Registration",
+    "definition": "The administrative or financial penalty imposed on officers or the company when mandatory commercial registration (e.g., changes in officers or capital) is not performed within the statutory deadline.",
+    "japaneseDefinition": "役員変更や資本金の変更など、会社法上の義務的な商業登記が法定の期限内に行われなかった場合に、会社または役員に課される行政上または金銭上の責任（過料）。",
+    "japaneseWordTranslation": "登記懈怠による責任 (とうき けたい に よる せきにん)",
+    "legalContext": "Companies Act Art. 976: Imposes a non-penal fine (過料, karyō) upon the company's officer responsible for neglecting registration duties.",
+    "japaneseLegalContext": "会社法第976条: 登記義務を怠った会社の役員等に対し、過料を科すことを定めている。",
+    "exampleSentence": "Failure by the representative director to register the transfer of the head office within two weeks resulted in **Liability for Default in Registration**.",
+    "exampleTranslation": "代表取締役が本店移転の登記を2週間以内に行わなかったため、**登記懈怠による責任**が発生した。",
+    "vocabularyList": [
+      {
+        "word": "non-penal fine",
+        "translation": "過料 (かりょう)"
+      },
+      {
+        "word": "statutory deadline",
+        "translation": "法定期限 (ほうてい きげん)"
+      },
+      {
+        "word": "transfer of the head office",
+        "translation": "本店移転 (ほんてん いてん)"
+      },
+      {
+        "word": "commercial registration",
+        "translation": "商業登記 (しょうぎょう とうき)"
+      },
+      {
+        "word": "representative director",
+        "translation": "代表取締役 (だいひょう とりしまりやく)"
+      },
+      {
+        "word": "mandatory registration",
+        "translation": "義務的登記 (ぎむてき とうき)"
+      }
+    ]
   }
 ]

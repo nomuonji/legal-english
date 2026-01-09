@@ -8560,5 +8560,43 @@
         "translation": "登記事項"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Inactive Company Status",
+    "definition": "The legal status of a joint-stock company (Kabushiki Kaisha) that has not filed any registration change for a period of twelve consecutive years, subjecting it to a disposition where the registrar may issue notice regarding its continued existence.",
+    "japaneseDefinition": "株式会社が12年間継続して登記申請を行わない場合に生じる法的状態。この状態にあると、登記官は事業継続の意思を確認するための通知を行う。",
+    "japaneseWordTranslation": "休眠会社 (Kyūmin Gaisha)",
+    "legalContext": "Company Act Art. 472: If a joint-stock company has not registered any change for a period of 12 years, the company shall be deemed dissolved at the expiration of two months from the public notice by the Minister of Justice, unless notification of continuation is registered.",
+    "japaneseLegalContext": "会社法第472条: 株式会社が12年間登記をしていないときは、法務大臣による公告から2箇月を経過した時に解散したものとみなされる。ただし、事業を継続する旨の登記をしたときは、この限りでない。",
+    "exampleSentence": "Due to its Inactive Company Status, the corporation received a notice from the registrar requiring it to register a continuation of business or face deemed dissolution.",
+    "exampleTranslation": "その法人は休眠会社となったため、事業継続の登記を行うか、みなし解散に直面するかの通知を登記官から受けた。",
+    "vocabularyList": [
+      {
+        "word": "joint-stock company",
+        "translation": "株式会社 (kabushiki kaisha)"
+      },
+      {
+        "word": "consecutive years",
+        "translation": "継続した年数 (keizoku shita nensū)"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官 (tōkikan)"
+      },
+      {
+        "word": "deemed dissolution",
+        "translation": "みなし解散 (minashi kaisan)"
+      },
+      {
+        "word": "notification of continuation",
+        "translation": "継続の届出 (keizoku no todokede)"
+      },
+      {
+        "word": "public notice",
+        "translation": "公告 (kōkoku)"
+      }
+    ]
   }
 ]

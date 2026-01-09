@@ -11680,5 +11680,119 @@
         "translation": "生存配偶者 (Seizon Haigūsha)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Breach of Contract",
+    "definition": "The failure by an obligor to perform an obligation arising from a contract or statute in accordance with its tenor, typically giving rise to a claim for damages.",
+    "japaneseDefinition": "債務者がその債務の本旨に従った履行をしないこと。これにより、債権者は損害賠償を請求できる。",
+    "japaneseWordTranslation": "債務不履行 (さいむふりこう)",
+    "legalContext": "Civil Code Art. 415: If an obligor fails to perform the obligation in accordance with its tenor, the obligee may demand compensation for damages resulting therefrom.",
+    "japaneseLegalContext": "民法第四百十五条: 債務者がその債務の本旨に従った履行をしないときは、債権者は、これによって生じた損害の賠償を請求することができる。",
+    "exampleSentence": "The purchaser claimed damages due to the seller's fundamental breach of contract regarding the quality and specifications of the delivered goods.",
+    "exampleTranslation": "買主は、売主が納品した商品の品質及び仕様に関する根本的な債務不履行を理由に損害賠償を請求した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "tenor",
+        "translation": "趣旨 / 内容"
+      },
+      {
+        "word": "compensation for damages",
+        "translation": "損害賠償"
+      },
+      {
+        "word": "fundamental breach",
+        "translation": "根本的な不履行"
+      },
+      {
+        "word": "specifications",
+        "translation": "仕様"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Integral Component",
+    "definition": "A part of a principal thing that cannot be separated without destroying or altering the essential nature or utility of either the component or the principal thing.",
+    "japaneseDefinition": "主物に合体し、分離することで主物または合体した物の効用を害するに至る要素。原則として主物の所有者に帰属する。",
+    "japaneseWordTranslation": "構成部分 (こうせいぶぶん)",
+    "legalContext": "Civil Code Art. 242 (Principle concerning ownership acquisition through accession): Unless otherwise stipulated, integral components of immovable property belong to the owner of the immovable property.",
+    "japaneseLegalContext": "民法第二百四十二条（不動産の付合の趣旨）：別段の定めがない限り、不動産の構成部分は、その不動産の所有者に帰属する。",
+    "exampleSentence": "The newly installed HVAC unit in the condominium complex was deemed an integral component, thereby falling under the co-ownership of all unit owners.",
+    "exampleTranslation": "マンション棟に新設されたHVACユニットは構成部分とみなされ、それゆえ全区分所有者の共有に帰属することになった。",
+    "vocabularyList": [
+      {
+        "word": "principal thing",
+        "translation": "主物"
+      },
+      {
+        "word": "utility",
+        "translation": "効用"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "condominium complex",
+        "translation": "マンション棟"
+      },
+      {
+        "word": "co-ownership",
+        "translation": "共有"
+      },
+      {
+        "word": "unit owner",
+        "translation": "区分所有者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Quasi-Juridical Act",
+    "definition": "An act (such as notification or acknowledgment) that produces a legal effect predetermined by law, irrespective of the actor's intention regarding that legal effect.",
+    "japaneseDefinition": "人の精神作用を要素とするが、行為者の意図とは無関係に、法律の規定によってその法律効果が発生する行為。",
+    "japaneseWordTranslation": "準法律行為 (じゅんほうりつこうい)",
+    "legalContext": "Classification Theory: Quasi-juridical acts, such as a formal demand for performance (催告), trigger specific legal consequences set forth in the Civil Code, unlike juridical acts, which rely on the declaration of intention.",
+    "japaneseLegalContext": "法理上の分類: 履行の催告のような準法律行為は、意思表示に依存する法律行為とは異なり、民法に定められた特定の法律効果を発生させる。",
+    "exampleSentence": "The sending of a statutory notice demanding payment constitutes a quasi-juridical act which often serves to interrupt the running of the prescriptive period.",
+    "exampleTranslation": "支払いを要求する法定の催告書を送付することは、時効期間の進行を中断させる効果を持つ準法律行為である。",
+    "vocabularyList": [
+      {
+        "word": "notification",
+        "translation": "通知"
+      },
+      {
+        "word": "acknowledgment",
+        "translation": "承認"
+      },
+      {
+        "word": "legal effect",
+        "translation": "法律効果"
+      },
+      {
+        "word": "statutory notice",
+        "translation": "法定の催告書"
+      },
+      {
+        "word": "prescriptive period",
+        "translation": "時効期間"
+      },
+      {
+        "word": "interrupt the running",
+        "translation": "進行を中断する"
+      }
+    ]
   }
 ]

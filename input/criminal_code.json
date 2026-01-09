@@ -10206,5 +10206,119 @@
         "translation": "刑罰規定 (けいばつきてい)"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Dual Punishment Rule (Entity Liability)",
+    "definition": "A legislative principle, primarily found in ancillary criminal statutes (not the main Penal Code), which imposes criminal responsibility and corresponding sanctions (usually a fine) upon a juridical entity (e.g., a corporation) for crimes committed by its employees, agents, or representatives during the course of their business.",
+    "japaneseDefinition": "法人の役員又は従業員などが、その業務に関して法令違反行為を行った場合、行為者である個人だけでなく、当該法人に対しても罰金刑などを科すことを定めた規定。",
+    "japaneseWordTranslation": "両罰規定 (りょうばつきてい)",
+    "legalContext": "Generally applies across specific regulatory acts (e.g., Tax Law, Environmental Law) rather than the general Criminal Code, holding the corporation responsible for supervisory failure.",
+    "japaneseLegalContext": "刑法ではなく、特別刑法や行政刑罰法規において、法人に対する責任追及のために広く採用されている原則。",
+    "exampleSentence": "Under the Dual Punishment Rule, the manufacturing company received a substantial monetary sanction following the conviction of its employee for illegal waste disposal.",
+    "exampleTranslation": "両罰規定に基づき、その製造会社は、従業員が違法な廃棄物投棄で有罪判決を受けた後、多額の罰金を科された。",
+    "vocabularyList": [
+      {
+        "word": "sanction",
+        "translation": "制裁"
+      },
+      {
+        "word": "monetary sanction",
+        "translation": "罰金刑"
+      },
+      {
+        "word": "juridical entity",
+        "translation": "法人格"
+      },
+      {
+        "word": "ancillary statutes",
+        "translation": "付属法規"
+      },
+      {
+        "word": "illegal disposal",
+        "translation": "違法投棄"
+      },
+      {
+        "word": "responsibility",
+        "translation": "責務"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Concurrence Principle (Mental State and Conduct)",
+    "definition": "The requirement in criminal jurisprudence that the defendant’s necessary subjective mental state (the element of culpability or intent) must exist at the precise moment the objective criminal conduct (the act or omission) constituting the crime is committed.",
+    "japaneseDefinition": "犯罪の成立要件として、刑罰責任を負うための主観的要素（故意や過失など）と、構成要件に該当する客観的な行為が、時間的に一致していなければならないという原則。",
+    "japaneseWordTranslation": "責任と行為の同時性の原則 (せきにん と こうい の どうじせい の げんそく)",
+    "legalContext": "Criminal Code General Provisions: Doctrine concerning the identity and timing of required elements for the commission of an offense.",
+    "japaneseLegalContext": "刑法総論における、犯罪行為の実行と責任要素の存在時期に関する基本的な法理。",
+    "exampleSentence": "The prosecution struggled to establish the concurrence principle, as evidence suggested the defendant lacked the requisite mental state at the time the prohibited conduct was completed.",
+    "exampleTranslation": "被告人が禁止された行為を完遂した時点で必要な主観的要素を欠いていたことが示唆されたため、検察側は同時性の原則の立証に苦慮した。",
+    "vocabularyList": [
+      {
+        "word": "prosecution",
+        "translation": "検察"
+      },
+      {
+        "word": "subjective mental state",
+        "translation": "主観的な心理状態"
+      },
+      {
+        "word": "objective conduct",
+        "translation": "客観的な行為"
+      },
+      {
+        "word": "jurisprudence",
+        "translation": "法理"
+      },
+      {
+        "word": "requisite",
+        "translation": "必要な"
+      },
+      {
+        "word": "constituting the crime",
+        "translation": "犯罪を構成する"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sentencing Mitigation based on Extenuating Circumstances",
+    "definition": "A discretionary power held by the court to reduce a prescribed statutory sentence below the legally defined minimum when there are special, extenuating factors related to the crime or the offender, such as deep remorse or proactive efforts to compensate the victim.",
+    "japaneseDefinition": "犯罪の動機、犯行後の情況、被告人の性格や環境などの「情状」を考慮し、裁判所が裁量によって法定刑を軽減する権限。",
+    "japaneseWordTranslation": "情状酌量 (じょうじょうしゃくりょう)",
+    "legalContext": "Criminal Code Art. 66: 'When there are extenuating circumstances to be considered in relation to the offense, the court may reduce the sentence.'",
+    "japaneseLegalContext": "刑法第66条: 「犯罪の情状に酌量すべきものがあるときは、刑を減軽することができる。」",
+    "exampleSentence": "The judge applied Sentencing Mitigation based on Extenuating Circumstances, noting the defendant's immediate surrender and complete financial compensation to the injured party.",
+    "exampleTranslation": "裁判官は、被告人が直ちに自首し、負傷者に対し完全に金銭的な弁償を行ったことを理由に、情状酌量による刑の減軽を適用した。",
+    "vocabularyList": [
+      {
+        "word": "discretionary power",
+        "translation": "裁量権"
+      },
+      {
+        "word": "extenuating factors",
+        "translation": "酌量すべき事情"
+      },
+      {
+        "word": "statutory sentence",
+        "translation": "法定刑"
+      },
+      {
+        "word": "financial compensation",
+        "translation": "金銭的賠償"
+      },
+      {
+        "word": "injured party",
+        "translation": "被害者"
+      },
+      {
+        "word": "remorse",
+        "translation": "悔悟の情"
+      }
+    ]
   }
 ]

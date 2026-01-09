@@ -7260,5 +7260,81 @@
         "translation": "強制する (きょうせいする)"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligation Discharge by Consignment",
+    "definition": "The legal effect specified in the Civil Code whereby the tendering of performance via deposit of the subject matter with the Deposit Office releases the obligor from their liability, provided the consignment is based on legal grounds.",
+    "japaneseDefinition": "債権者が弁済の受領を拒否、または受領できない等の場合に、債務者が弁済の目的物を供託所に供託することで、その債務から免れる法的効力。",
+    "japaneseWordTranslation": "弁済供託による債務の免責 (べんさいきょうたくによるさいむのめんせき)",
+    "legalContext": "Civil Code (民法) Art. 494: ...the obligor shall be discharged from liability for the obligation.",
+    "japaneseLegalContext": "民法第494条：…その債務を免れる。",
+    "exampleSentence": "Due to the creditor’s refusal to accept the payment, the obligor executed the consignment to achieve the obligation discharge by consignment.",
+    "exampleTranslation": "債権者が弁済の受領を拒否したため、債務者は供託を行い、弁済供託による債務の免責を実現した。",
+    "vocabularyList": [
+      {
+        "word": "tendering of performance",
+        "translation": "弁済の提供"
+      },
+      {
+        "word": "subject matter",
+        "translation": "目的物"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "refusal to accept",
+        "translation": "受領拒否"
+      },
+      {
+        "word": "liability",
+        "translation": "責任"
+      },
+      {
+        "word": "legal grounds",
+        "translation": "法律上の原因"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reversion of Deposited Assets",
+    "definition": "The transfer of ownership of the deposited money or securities to the State, occurring when the person entitled to withdrawal fails to assert their claim within the legally prescribed claim period following the deposit's commencement.",
+    "japaneseDefinition": "供託された金銭または有価証券について、払渡しの請求権を有する者が、法が定める請求期間内に行使しなかった場合に、その財産が国に帰属すること。",
+    "japaneseWordTranslation": "供託物の国庫帰属 (きょうたくぶつのこっこきぞく)",
+    "legalContext": "Deposit Act (供託法) Art. 7: The right to reclaim deposited property shall be extinguished by prescription if it is not exercised within ten years from the date the deposit commenced.",
+    "japaneseLegalContext": "供託法第7条：供託物の払渡請求権は、供託の日から十年を経過することによつて、時効により消滅する。",
+    "exampleSentence": "If the entitlement holder does not claim the funds within the statutory period, the Deposit Office will proceed with the reversion of deposited assets to the National Treasury.",
+    "exampleTranslation": "権利者が法定期間内に資金を請求しない場合、供託所は供託物の国庫帰属の手続きを進める。",
+    "vocabularyList": [
+      {
+        "word": "deposited assets",
+        "translation": "供託物"
+      },
+      {
+        "word": "entitlement holder",
+        "translation": "払渡請求権者"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "prescription",
+        "translation": "時効"
+      },
+      {
+        "word": "commenced",
+        "translation": "開始した"
+      },
+      {
+        "word": "National Treasury",
+        "translation": "国庫"
+      }
+    ]
   }
 ]

@@ -2,44 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Conspiracy",
-    "definition": "A mutual agreement or meeting of minds between two or more persons to commit a specific crime, forming the basis for establishing joint principal liability (Kyoritsu).",
-    "japaneseDefinition": "二人以上の者が特定の犯罪を実行する意思を相互に合致させ、共同正犯の基礎を築くこと。",
-    "japaneseWordTranslation": "共謀 (きょうぼう)",
-    "legalContext": "Japanese Penal Code Art. 60 (Joint Principal): When two or more persons jointly commit a crime, they shall all be deemed joint principals.",
-    "japaneseLegalContext": "刑法 第60条（共同正犯）：二人以上共同して犯罪を実行した者は、すべて正犯とする。",
-    "exampleSentence": "The prosecution established that the three defendants engaged in conspiracy prior to the commission of the bank robbery, proving joint principal liability.",
-    "exampleTranslation": "検察は、３人の被告人が銀行強盗の実行前に共謀していたことを立証し、共同正犯の責任を証明した。",
-    "vocabularyList": [
-      {
-        "word": "joint principal liability",
-        "translation": "共同正犯責任 (きょうどうせいはんせきにん)"
-      },
-      {
-        "word": "commission of the robbery",
-        "translation": "強盗の実行 (ごうとうのじっこう)"
-      },
-      {
-        "word": "prosecution",
-        "translation": "検察 (けんさつ)"
-      },
-      {
-        "word": "established",
-        "translation": "立証した (りっしょうした)"
-      },
-      {
-        "word": "defendants",
-        "translation": "被告人 (ひこくにん)"
-      },
-      {
-        "word": "meeting of minds",
-        "translation": "意思の合致 (いしのごうち)"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Acceptance of a Bribe",
     "definition": "The crime committed by a public official (or a person deemed a public official) who accepts, demands, or promises to accept a bribe in connection with their official duties.",
     "japaneseDefinition": "公務員（または公務員とみなされる者）が、その職務に関して賄賂を収受、要求、又は約束することによって成立する犯罪。",
@@ -10432,6 +10394,120 @@
       {
         "word": "organized fraud",
         "translation": "組織的詐欺"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Limit on Aggregation of Punishments",
+    "definition": "The legal maximum sentence imposed when a person is convicted of multiple crimes (concurrent offenses) for which separate sentences must be aggregated, generally restricted to the longest term plus one half of that term.",
+    "japaneseDefinition": "併合罪として複数の刑が科される場合、その処断刑の期間を最も重い刑期の長さにその二分の一を加えた期間に制限すること。",
+    "japaneseWordTranslation": "刑の併合の制限 (けいのへいごうのせいげん)",
+    "legalContext": "Criminal Code Art. 47: Where both imprisonment with or without labor for a limited term and a fine are to be imposed for concurrent crimes, the maximum term of the imprisonment shall be determined in accordance with the preceding two Articles.",
+    "japaneseLegalContext": "刑法第47条: 併合罪について有期の懲役又は禁錮と罰金とを併科するときは、懲役又は禁錮の期間については、前二条の規定による。",
+    "exampleSentence": "Due to the statutory limit on aggregation of punishments, the defendant’s maximum combined sentence for the two distinct crimes was capped at 15 years, notwithstanding the aggregate term being potentially longer.",
+    "exampleTranslation": "刑の併合の制限により、被告人が犯した2つの別個の罪に対する合計刑期は、本来の合算期間よりも長くなる可能性があったにもかかわらず、最大で15年に制限された。",
+    "vocabularyList": [
+      {
+        "word": "Aggregation of Punishments",
+        "translation": "刑の併合"
+      },
+      {
+        "word": "Concurrent offenses",
+        "translation": "併合罪"
+      },
+      {
+        "word": "Limited term",
+        "translation": "有期"
+      },
+      {
+        "word": "Combined sentence",
+        "translation": "合計刑期"
+      },
+      {
+        "word": "Imprisonment with labor",
+        "translation": "懲役"
+      },
+      {
+        "word": "Notwithstanding",
+        "translation": "〜にかかわらず"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Flag State Jurisdiction Principle",
+    "definition": "The principle asserting jurisdiction over crimes committed outside Japanese territory, specifically if the crime was committed aboard a Japanese vessel or aircraft.",
+    "japaneseDefinition": "自国外で発生した犯罪について、それが日本の船舶または航空機内で犯された場合に、日本国の刑法を適用するという原則。",
+    "japaneseWordTranslation": "旗国主義 (きこくしゅぎ)",
+    "legalContext": "Criminal Code Art. 2: This Code shall apply to any person who commits any of the following crimes outside Japan: (i) crimes committed aboard a Japanese vessel or aircraft...",
+    "japaneseLegalContext": "刑法第2条: この法律は、日本国外において次に掲げる罪を犯したすべての者に適用する。一 日本の船舶又は航空機内において犯した罪",
+    "exampleSentence": "The Flag State Jurisdiction Principle allowed Japanese prosecutors to indict the suspect for the serious offense committed entirely on board a registered Japanese cruise ship while in international waters.",
+    "exampleTranslation": "旗国主義の原則により、日本の検察官は、国際水域で登録された日本のクルーズ船内において完全に犯された重大な犯罪について、被疑者を起訴することが可能となった。",
+    "vocabularyList": [
+      {
+        "word": "Jurisdiction",
+        "translation": "管轄権"
+      },
+      {
+        "word": "Japanese vessel",
+        "translation": "日本の船舶"
+      },
+      {
+        "word": "Aircraft",
+        "translation": "航空機"
+      },
+      {
+        "word": "Indict the suspect",
+        "translation": "被疑者を起訴する"
+      },
+      {
+        "word": "International waters",
+        "translation": "国際水域"
+      },
+      {
+        "word": "Extraterritorial",
+        "translation": "国外犯"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Confiscation of Instruments of Crime",
+    "definition": "The compulsory seizure and disposal of property belonging to the offender (or a third party in certain cases) that was used in the commission of a crime or resulted directly from the criminal act (contraband or proceeds).",
+    "japaneseDefinition": "犯罪行為に用いられた物、または犯罪行為により生じた物（不法所持物や収益）を、犯人から強制的に没収し、処分すること。",
+    "japaneseWordTranslation": "犯行供用物等の没収 (はんこうきょうようぶつとうのぼっしゅう)",
+    "legalContext": "Criminal Code Art. 19, Par. 1: The following may be confiscated: (i) Things that are used or intended to be used in the commission of a crime; (ii) Things produced by the commission of a crime; (iii) Things obtained through the commission of a crime.",
+    "japaneseLegalContext": "刑法第19条第1項: 次に掲げる物は、没収することができる。一 犯罪行為を組成した物又は犯罪行為の用に供し、若しくは供しようとした物、二 犯罪行為から生じ、若しくはこれによって得た物、三 犯罪行為の報酬として得た物。",
+    "exampleSentence": "The court ordered the confiscation of instruments of crime, including the specialized tools used to unlawfully access the electronic computer system and the funds directly resulting from the fraudulent transaction.",
+    "exampleTranslation": "裁判所は、電子計算機組織への不正アクセスに用いられた特殊なツールや、詐欺的取引から直接生じた資金を含む犯行供用物の没収を命じた。",
+    "vocabularyList": [
+      {
+        "word": "Compulsory seizure",
+        "translation": "強制的な差し押さえ"
+      },
+      {
+        "word": "Commission of a crime",
+        "translation": "犯罪の実行"
+      },
+      {
+        "word": "Proceeds",
+        "translation": "収益"
+      },
+      {
+        "word": "Unlawfully access",
+        "translation": "不正にアクセスする"
+      },
+      {
+        "word": "Fraudulent transaction",
+        "translation": "詐欺的取引"
+      },
+      {
+        "word": "Contraband",
+        "translation": "不法所持物"
       }
     ]
   }

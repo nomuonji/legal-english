@@ -10642,5 +10642,81 @@
         "translation": "義務の履行を求める"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Enforcement of Declarations of Intent",
+    "definition": "A type of non-monetary compulsory execution where, if an obligor fails to make a declaration of intent as stipulated in an executory title, the final judgment or notarial deed itself is deemed to constitute that declaration.",
+    "japaneseDefinition": "債務者が債務名義に表示された意思表示をすべきであるにもかかわらずこれを行わない場合に、確定判決や公正証書等がその意思表示自体を擬制する非金銭執行の手続き。",
+    "japaneseWordTranslation": "意思表示の実現の強制執行 (いしひょうじのじつげんのきょうせいしっこう)",
+    "legalContext": "CEC Art. 174: If an obligor's obligation is to make a declaration of intent, the final judgment stating this obligation shall be deemed to constitute the obligor's declaration of intent upon becoming final and binding.",
+    "japaneseLegalContext": "民事執行法第174条：債務者の債務が意思表示をすべきものであるときは、その意思表示を命ずる確定判決は、確定したときに、債務者の意思表示があったものとみなす。",
+    "exampleSentence": "The obligee initiated the Enforcement of Declarations of Intent to legally complete the transfer registration after the obligor failed to sign the necessary deed.",
+    "exampleTranslation": "債務者が必要な証書に署名しなかった後、債権者は法的に移転登記を完了させるために意思表示の実現の強制執行を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "final judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "executory title",
+        "translation": "債務名義"
+      },
+      {
+        "word": "non-pecuniary claim",
+        "translation": "非金銭債権"
+      },
+      {
+        "word": "obligor refusal",
+        "translation": "債務者の拒否"
+      },
+      {
+        "word": "judicial declaration",
+        "translation": "裁判による意思表示"
+      },
+      {
+        "word": "transfer registration",
+        "translation": "移転登記"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Motion for Extinguishment of Encumbrances",
+    "definition": "A procedural motion allowing the execution court to extinguish existing security interests on the auctioned property, even if the sale price is insufficient to satisfy those claims, typically when the security interest holder receives no distribution.",
+    "japaneseDefinition": "売却された不動産上の担保権について、売却代金が債権を満足させるのに不十分であっても、担保権者が配当を受けられない場合などに、執行裁判所に対しその権利の消滅を求める手続き上の申立て。",
+    "japaneseWordTranslation": "抵当権等の消滅の申立て (ていとうけんとうのしょうめつのもうしたて)",
+    "legalContext": "CEC Art. 188 (Application of provisions concerning the clearing of encumbrances): Governs the application of the clearing mechanism to quasi-real property execution (e.g., vessel execution).",
+    "japaneseLegalContext": "民事執行法第188条（負担の消滅に関する規定の準用）：準不動産執行（船舶執行など）への負担の消滅に関する規定の適用。",
+    "exampleSentence": "The execution court granted the Motion for Extinguishment of Encumbrances, thereby enabling the Acquirer to obtain clear title despite the remaining low-ranking security interest.",
+    "exampleTranslation": "執行裁判所は、抵当権等の消滅の申立てを認め、これにより買受人は、残存する低順位の担保権にもかかわらず、きれいな所有権を取得することができた。",
+    "vocabularyList": [
+      {
+        "word": "secured creditor",
+        "translation": "担保権者"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権"
+      },
+      {
+        "word": "provisional registration",
+        "translation": "仮登記"
+      },
+      {
+        "word": "property appraisal",
+        "translation": "不動産評価"
+      },
+      {
+        "word": "debt collection",
+        "translation": "債権の回収"
+      },
+      {
+        "word": "sale proceeding",
+        "translation": "売却手続き"
+      }
+    ]
   }
 ]

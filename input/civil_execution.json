@@ -10820,5 +10820,123 @@
         "translation": "差し押さえられた資金 (さしおさえられたしきん)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Minimum Bid Price",
+    "definition": "The base price determined by the execution court based on appraisal, serving as the required minimum threshold for bidding in a compulsory auction of real property.",
+    "japaneseDefinition": "執行裁判所が不動産の評価に基づいて定める、強制競売における入札の最低基準となる価格。",
+    "japaneseWordTranslation": "売却基準価額 (ばいきゃくきじゅんかがく)",
+    "legalContext": "Civil Execution Act, Article 60 (Setting the Minimum Bid Price): The Execution Court shall determine the Standard Sale Price (Minimum Bid Price) for the real property....",
+    "japaneseLegalContext": "民事執行法第60条（売却基準価額の決定等）：執行裁判所は、不動産の評価を基として、売却基準価額を定めなければならない。",
+    "exampleSentence": "The execution court set the Minimum Bid Price at 70% of the appraisal value after considering prevailing market conditions.",
+    "exampleTranslation": "執行裁判所は、市場の状況を考慮した後、評価額の70%に売却基準価額を設定した。",
+    "vocabularyList": [
+      {
+        "word": "appraisal value",
+        "translation": "評価額 (ひょうかがく)"
+      },
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売 (きょうせいけいばい)"
+      },
+      {
+        "word": "bidding",
+        "translation": "入札 (にゅうさつ)"
+      },
+      {
+        "word": "threshold",
+        "translation": "基準 (きじゅん)"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所 (しっこうさいばんしょ)"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産 (ふどうさん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Waiver of Surplus Requirement",
+    "definition": "A formal declaration by the execution obligee indicating that they will accept the compulsory sale outcome even if the proceeds fail to cover execution costs and prior secured claims, thereby preventing the execution court from cancelling the sale process.",
+    "japaneseDefinition": "執行債権者が、売却代金が執行費用及び先行する担保権を弁済するのに不足する場合であっても、売却処分を容認し、競売手続の取消しを防ぐ旨の意思表示。",
+    "japaneseWordTranslation": "剰余を要しない旨の申出 (じょうよをようしないむねのもうしで)",
+    "legalContext": "Civil Execution Act, Article 63, Paragraph 2 (Conditions for Cancellation of Compulsory Auction): ...the court must cancel the commencement of the execution unless the execution obligee makes a statement that the proceeds need not yield a surplus.",
+    "japaneseLegalContext": "民事執行法第63条第2項（競売手続の取消し）：...執行裁判所は、その競売の手続を取り消さなければならない。ただし、執行債権者が剰余を要しない旨の申出をした場合は、この限りでない。",
+    "exampleSentence": "Because the mortgage amount exceeded the appraisal value, the creditor submitted a Waiver of Surplus Requirement to ensure the continuation of the compulsory auction.",
+    "exampleTranslation": "住宅ローンの額が評価額を超えていたため、債権者は強制競売の続行を確実にするために、剰余を要しない旨の申出を提出した。",
+    "vocabularyList": [
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者 (しっこうさいけんしゃ)"
+      },
+      {
+        "word": "secured claims",
+        "translation": "担保権 (たんぽけん)"
+      },
+      {
+        "word": "proceeds",
+        "translation": "売却代金 (ばいきゃくだいきん)"
+      },
+      {
+        "word": "cancellation",
+        "translation": "取消し (とりけし)"
+      },
+      {
+        "word": "mortgage",
+        "translation": "抵当権 (ていとうけん)"
+      },
+      {
+        "word": "continuation",
+        "translation": "続行 (ぞっこう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Real Property Delivery Enforcement",
+    "definition": "The compulsory procedure whereby an execution officer, based on a title of execution, removes the obligor or any occupant from a property and ensures the obligee obtains physical possession.",
+    "japaneseDefinition": "執行官が債務名義に基づき、債務者や占有者を不動産から強制的に排除し、債権者にその占有を引き渡す執行手続。",
+    "japaneseWordTranslation": "不動産引渡し執行 (ふどうさんひきわたししっこう)",
+    "legalContext": "Civil Execution Act, Article 168 (Execution against Delivery/Surrender of Real Property): An execution based on a title of execution pertaining to the delivery or surrender of real property shall be implemented by an execution officer.",
+    "japaneseLegalContext": "民事執行法第168条（不動産等の引渡しの執行）：不動産の引渡し又は明渡しの債務名義による執行は、執行官が行う。",
+    "exampleSentence": "After successfully purchasing the land in a judicial auction, the client immediately sought Real Property Delivery Enforcement against the tenant refusing to move out.",
+    "exampleTranslation": "裁判上の競売で土地を無事落札した後、依頼人は退去を拒否する賃借人に対し直ちに不動産引渡し執行を求めた。",
+    "vocabularyList": [
+      {
+        "word": "execution officer",
+        "translation": "執行官 (しっこうかん)"
+      },
+      {
+        "word": "title of execution",
+        "translation": "債務名義 (さいむめいぎ)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "occupant",
+        "translation": "占有者 (せんゆうしゃ)"
+      },
+      {
+        "word": "possession",
+        "translation": "占有 (せんゆう)"
+      },
+      {
+        "word": "judicial auction",
+        "translation": "裁判上の競売 (さいばんじょうのけいばい)"
+      },
+      {
+        "word": "tenant",
+        "translation": "賃借人 (ちんしゃくにん)"
+      }
+    ]
   }
 ]

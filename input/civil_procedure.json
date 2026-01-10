@@ -11044,5 +11044,107 @@
         "translation": "管轄違いの申立て"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Alternative Joinder of Claims",
+    "definition": "A form of objective joinder (請求の客観的併合) where the plaintiff asserts two or more claims that are mutually exclusive, requesting the court to grant only one of them, thereby allowing the court discretion in selecting the appropriate claim to satisfy the plaintiff's interest.",
+    "japaneseDefinition": "原告が複数の請求を提起し、そのうちのいずれかの請求についてのみ判決を求める訴えの併合の形態。請求が両立しない場合（択一的関係）に、裁判所に選択権を与えて審判させることを目的とする。",
+    "japaneseWordTranslation": "選択的併合 (せんたくてきへいごう)",
+    "legalContext": "Japanese Civil Procedure Code Art. 136 (Implied by provisions on objective joinder): The joinder of claims must be procedurally compatible and within the jurisdiction of a single court.",
+    "japaneseLegalContext": "民事訴訟法第136条（請求の客観的併合の要件）",
+    "exampleSentence": "The claimant utilized the **alternative joinder of claims**, seeking either the cancellation of the contract based on fraudulent inducement or, in the alternative, monetary damages for the subsequent breach.",
+    "exampleTranslation": "原告は、詐欺による契約取消し、または、代替としてその後の不履行による金銭的損害賠償のいずれかを求める、選択的併合を利用した。",
+    "vocabularyList": [
+      {
+        "word": "objective joinder",
+        "translation": "客観的併合 (kyakkanteki heigō)"
+      },
+      {
+        "word": "mutually exclusive",
+        "translation": "両立しない (ryōritsu shinai)"
+      },
+      {
+        "word": "cancellation",
+        "translation": "取消し (torikeshi)"
+      },
+      {
+        "word": "monetary damages",
+        "translation": "金銭的損害賠償 (kinsenteki songai baishō)"
+      },
+      {
+        "word": "fraudulent inducement",
+        "translation": "詐欺による誘引 (sagi ni yoru yūin)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Continuity (of Trial Hearings)",
+    "definition": "A fundamental rule in the civil trial process, known as 続行主義 (zokkō shugi), which mandates that hearings should proceed continuously or on consecutive days to ensure concentrated examination and prevent delays in reaching a conclusion.",
+    "japaneseDefinition": "口頭弁論期日を、できる限り間隔を置かずに連続して指定し、集中的な審理を行うことで、訴訟の進行を促進するという民事訴訟の原則。",
+    "japaneseWordTranslation": "続行主義 (ぞっこうしゅぎ)",
+    "legalContext": "Japanese Civil Procedure Code Art. 148 (Implementation of Issue Arrangement Procedure): The court shall make efforts to clarify issues and arrange evidence efficiently, reflecting the principle of continuity.",
+    "japaneseLegalContext": "民事訴訟法第148条（争点及び証拠の整理）",
+    "exampleSentence": "The court enforced the **Principle of Continuity** by scheduling three consecutive hearing dates for the cross-examination of the primary expert witnesses and the closing arguments.",
+    "exampleTranslation": "裁判所は、主要な専門家証人の反対尋問と最終弁論のために３日間連続で期日を設けることで、続行主義を徹底した。",
+    "vocabularyList": [
+      {
+        "word": "consecutive days",
+        "translation": "連続した期日 (renzoku shita kijitsu)"
+      },
+      {
+        "word": "concentrated examination",
+        "translation": "集中的な審理 (shūchūteki na shinri)"
+      },
+      {
+        "word": "cross-examination",
+        "translation": "反対尋問 (hantai jinmon)"
+      },
+      {
+        "word": "expert witnesses",
+        "translation": "専門家証人 (senmonka shōnin)"
+      },
+      {
+        "word": "closing arguments",
+        "translation": "最終弁論 (saishū benron)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Intervention for Assumption of Suit",
+    "definition": "A specific type of mandatory third-party participation where a non-party (the intervenor) claims the right to the subject matter of the dispute and petitions the court to take over the existing suit from either the plaintiff or the defendant. The resulting judgment binds the original parties.",
+    "japaneseDefinition": "係属中の訴訟の目的である権利関係について、自己が当事者であると主張する第三者が、既存の原告又は被告の地位を引き受けることを目的として訴訟に参加すること。これにより、元の当事者に対する判決の効力が第三者に及ぶ。",
+    "japaneseWordTranslation": "引受参加 (ひきうけさんか)",
+    "legalContext": "Japanese Civil Procedure Code Art. 50 (Intervention by a Third Party for the Purpose of Assuming Suit): A third party who claims that the subject matter of the litigation should be wholly attributable to him/herself may intervene to assume the suit.",
+    "japaneseLegalContext": "民事訴訟法第50条（訴訟の引受け）",
+    "exampleSentence": "In the property dispute between the siblings, the mortgage holder filed a motion for **intervention for assumption of suit**, arguing they had the sole proprietary interest in the contested land.",
+    "exampleTranslation": "兄弟間の財産紛争において、抵当権者が、争点となっている土地に対する唯一の所有権を主張し、引受参加の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "mandatory participation",
+        "translation": "必要的参加 (hitsuyōteki sanka)"
+      },
+      {
+        "word": "intervenor",
+        "translation": "参加人 (sankanin)"
+      },
+      {
+        "word": "subject matter of the dispute",
+        "translation": "紛争の目的 (funsō no mokuteki)"
+      },
+      {
+        "word": "sole proprietary interest",
+        "translation": "唯一の所有権 (yuiitsu no shoyūken)"
+      },
+      {
+        "word": "collateral rights",
+        "translation": "担保権 (tanpoken)"
+      }
+    ]
   }
 ]

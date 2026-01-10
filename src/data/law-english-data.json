@@ -1,34 +1,42 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Succession of Litigation",
-  "definition": "The transfer of the position of a party in a pending lawsuit to a third party or a successor (such as an heir, or an assignee of the subject matter of the dispute).",
-  "japaneseDefinition": "訴訟が係属している間に、当事者の地位が、当事者の死亡や訴訟の目的物の譲渡などによって第三者または承継人に移転すること。",
-  "japaneseWordTranslation": "訴訟承継 (そしょうしょうけい)",
-  "legalContext": "Code of Civil Procedure Art. 124 (Assumption of Litigation by the Successor): 'If a party to a lawsuit dies, the litigation shall be assumed by the heir, administrator of the estate, or other person who is required to assume the litigation....'",
-  "japaneseLegalContext": "民事訴訟法第124条（承継人による訴訟の受継）：当事者が死亡したときは、訴訟手続は、相続人、相続財産管理人その他法令により訴訟を承継すべき者がこれを受け継がなければならない。",
-  "exampleSentence": "Upon the death of the plaintiff, the court issued an order for the heir to assume the **succession of litigation** according to the statutory provisions.",
-  "exampleTranslation": "原告の死亡を受け、裁判所は法令の規定に従い、相続人に対し**訴訟承継**を命じる決定を出した。",
+  "word": "Assignment of Claim",
+  "definition": "The transfer of a monetary claim or other claim (obligation) by the current creditor (assignor) to a third party (assignee).",
+  "japaneseDefinition": "債権者が自己の有する債権を、その同一性を維持したまま、第三者に移転させる行為。",
+  "japaneseWordTranslation": "債権譲渡 (さいけんじょうと)",
+  "legalContext": "Civil Code Art. 466: 'A claim may be assigned; provided, however, that this shall not apply if the nature of the claim does not permit it.'",
+  "japaneseLegalContext": "民法第466条: 「債権は、譲り渡すことができる。ただし、その性質がこれを許さないときは、この限りでない。」",
+  "exampleSentence": "The effectiveness of an Assignment of Claim against the debtor requires that the assignor give notice to the debtor or obtain the debtor's consent thereto.",
+  "exampleTranslation": "債務者に対する債権譲渡の対抗要件としては、譲渡人が債務者に通知をするか、または債務者の承諾を得る必要がある。",
   "vocabularyList": [
     {
-      "word": "heir",
-      "translation": "相続人"
+      "word": "monetary claim",
+      "translation": "金銭債権"
     },
     {
-      "word": "assume the litigation",
-      "translation": "訴訟を受け継ぐ"
+      "word": "assignor",
+      "translation": "譲渡人"
     },
     {
-      "word": "administrator of the estate",
-      "translation": "相続財産管理人"
+      "word": "assignee",
+      "translation": "譲受人"
     },
     {
-      "word": "statutory provisions",
-      "translation": "法令の規定"
+      "word": "effectiveness",
+      "translation": "有効性"
     },
     {
-      "word": "pending lawsuit",
-      "translation": "係属中の訴訟"
+      "word": "against the debtor",
+      "translation": "債務者に対する対抗要件として"
+    },
+    {
+      "word": "give notice",
+      "translation": "通知する"
+    },
+    {
+      "word": "consent",
+      "translation": "承諾"
     }
   ]
 }

@@ -10730,5 +10730,119 @@
         "translation": "海外に送金された"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Factual Elements (of an offense)",
+    "definition": "The set of objective and subjective circumstances defined by statute that must be proven to establish that an act falls within the scope of a specific crime. This is the first step in the tripartite structure of criminal liability.",
+    "japaneseDefinition": "ある行為が特定の犯罪類型に該当するために、刑法典によって要求される客観的及び主観的な事実の総体。刑法理論における犯罪成立要件の第一段階。",
+    "japaneseWordTranslation": "構成要件 (こうせいようけん)",
+    "legalContext": "Criminal Law General Principles: Requirements that must be met for an act to constitute a crime, preceding Unlawfulness (違法性) and Culpability (責任).",
+    "japaneseLegalContext": "刑法総論：構成要件該当性の原則。",
+    "exampleSentence": "The prosecution must demonstrate all Factual Elements of the fraud offense, including the deception and the resulting disposition of property, beyond a reasonable doubt.",
+    "exampleTranslation": "検察は、詐欺罪のすべての構成要件、すなわち欺罔行為とそれによる財産処分を含む要素を、合理的な疑いを超えて証明しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "prosecution",
+        "translation": "検察"
+      },
+      {
+        "word": "fraud offense",
+        "translation": "詐欺罪"
+      },
+      {
+        "word": "deception",
+        "translation": "欺罔行為 (ぎもうこうい)"
+      },
+      {
+        "word": "disposition of property",
+        "translation": "財産処分"
+      },
+      {
+        "word": "beyond a reasonable doubt",
+        "translation": "合理的な疑いを超えて"
+      },
+      {
+        "word": "subjective circumstances",
+        "translation": "主観的な事情"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Protected Legal Interest",
+    "definition": "The specific legal value or social good (e.g., life, bodily integrity, privacy, public safety) that a particular criminal law provision is designed to defend from harm or danger. It forms the rationale for criminalization.",
+    "japaneseDefinition": "特定の犯罪規定が、侵害または危険から守ろうとしている生命、身体、財産、社会的信用などの法的な価値や利益。犯罪化の根拠となる。",
+    "japaneseWordTranslation": "法益 (ほうえき)",
+    "legalContext": "Criminal Law General Principles: The principle of protection of legal interests (法益保護の原則) guides the interpretation and application of penal statutes.",
+    "japaneseLegalContext": "刑法総論：法益保護の原則。",
+    "exampleSentence": "When evaluating justification defenses, the court often engages in a balancing test of the Protected Legal Interest infringed upon versus the interest secured by the defensive act.",
+    "exampleTranslation": "正当化の抗弁を評価する際、裁判所は、侵害された法益と防衛行為によって確保された利益との比較衡量を行うことが多い。",
+    "vocabularyList": [
+      {
+        "word": "justification defenses",
+        "translation": "正当化の抗弁 (せいとうかのこうべん)"
+      },
+      {
+        "word": "balancing test",
+        "translation": "比較衡量 (ひかくこうりょう)"
+      },
+      {
+        "word": "infringed upon",
+        "translation": "侵害された"
+      },
+      {
+        "word": "secured",
+        "translation": "確保された"
+      },
+      {
+        "word": "penal statutes",
+        "translation": "刑罰法規"
+      },
+      {
+        "word": "rationale",
+        "translation": "根拠"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Criminal Conduct",
+    "definition": "The specific, immediate action or behavior undertaken by the offender that directly implements the risk designated by the Factual Elements of the crime. This constitutes the 'act' component of the crime (Actus Reus) and triggers the phase of attempt.",
+    "japaneseDefinition": "犯罪者が構成要件が定める危険を直接的に実現するために行う特定の行為。これは犯罪の「実行の着手」にあたり、未遂犯の成立の基礎となる。",
+    "japaneseWordTranslation": "実行行為 (じっこうこうい)",
+    "legalContext": "Criminal Code Art. 43 (Attempted Offense): Punishability begins when a person 'commences the execution' (実行に着手) of the crime. This is defined by Criminal Conduct.",
+    "japaneseLegalContext": "刑法第43条（未遂）：犯罪の実行に着手してこれを遂げなかった者は... (実行行為の開始)",
+    "exampleSentence": "The line between a mere preparatory act and Criminal Conduct is critical for determining whether a suspect can be charged with an attempted offense.",
+    "exampleTranslation": "単なる予備行為と実行行為との境界線は、被疑者が未遂罪で訴追されるかどうかを決定する上で極めて重要である。",
+    "vocabularyList": [
+      {
+        "word": "offender",
+        "translation": "犯罪者"
+      },
+      {
+        "word": "commences the execution",
+        "translation": "実行に着手する"
+      },
+      {
+        "word": "attempted offense",
+        "translation": "未遂罪"
+      },
+      {
+        "word": "suspect",
+        "translation": "被疑者"
+      },
+      {
+        "word": "preparatory act",
+        "translation": "予備行為"
+      },
+      {
+        "word": "Actus Reus",
+        "translation": "構成要件的行為"
+      }
+    ]
   }
 ]

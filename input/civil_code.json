@@ -2,48 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Assignment of Claim",
-    "definition": "The transfer of a monetary claim or other claim (obligation) by the current creditor (assignor) to a third party (assignee).",
-    "japaneseDefinition": "債権者が自己の有する債権を、その同一性を維持したまま、第三者に移転させる行為。",
-    "japaneseWordTranslation": "債権譲渡 (さいけんじょうと)",
-    "legalContext": "Civil Code Art. 466: 'A claim may be assigned; provided, however, that this shall not apply if the nature of the claim does not permit it.'",
-    "japaneseLegalContext": "民法第466条: 「債権は、譲り渡すことができる。ただし、その性質がこれを許さないときは、この限りでない。」",
-    "exampleSentence": "The effectiveness of an Assignment of Claim against the debtor requires that the assignor give notice to the debtor or obtain the debtor's consent thereto.",
-    "exampleTranslation": "債務者に対する債権譲渡の対抗要件としては、譲渡人が債務者に通知をするか、または債務者の承諾を得る必要がある。",
-    "vocabularyList": [
-      {
-        "word": "monetary claim",
-        "translation": "金銭債権"
-      },
-      {
-        "word": "assignor",
-        "translation": "譲渡人"
-      },
-      {
-        "word": "assignee",
-        "translation": "譲受人"
-      },
-      {
-        "word": "effectiveness",
-        "translation": "有効性"
-      },
-      {
-        "word": "against the debtor",
-        "translation": "債務者に対する対抗要件として"
-      },
-      {
-        "word": "give notice",
-        "translation": "通知する"
-      },
-      {
-        "word": "consent",
-        "translation": "承諾"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Mental Reservation",
     "definition": "A declaration of intention made by a party who knows that the intention expressed in the declaration is not their true intent (a joke or simulated declaration).",
     "japaneseDefinition": "表意者が真意ではないことを知りながら、その意思を表示すること（冗談や仮装行為）。",
@@ -12202,6 +12160,120 @@
       {
         "word": "compulsory execution",
         "translation": "強制執行"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interim Interest",
+    "definition": "The interest accrued on future loss amounts (such as lost future earnings) that must be deducted from the lump-sum compensation payment to arrive at the present value, reflecting the time value of money.",
+    "japaneseDefinition": "将来の損害額（逸失利益など）を一括して支払う場合に、前倒しで支払いを受けることによって生じる利息分を現在価値に引き直すために控除すること。",
+    "japaneseWordTranslation": "中間利息 (ちゅうかん りそく)",
+    "legalContext": "Calculation method for future damages in tort and contract cases, utilizing the provisions related to discounting the principal amount (Civil Code principles related to compensation).",
+    "japaneseLegalContext": "損害賠償額算定において、将来の利益を現在価値に引き直す際の算定方法。",
+    "exampleSentence": "The court applied an annual discount rate of 3% to calculate the present value of the claimant's lost future earnings by deducting the interim interest.",
+    "exampleTranslation": "裁判所は、逸失利益の現在価値を算出するため、中間利息を控除し、年3%の割引率を適用した。",
+    "vocabularyList": [
+      {
+        "word": "Discount rate",
+        "translation": "割引率 (わりびきりつ)"
+      },
+      {
+        "word": "Lost future earnings",
+        "translation": "逸失利益 (いっしつりえき)"
+      },
+      {
+        "word": "Compensation for damages",
+        "translation": "損害賠償 (そんがいばいしょう)"
+      },
+      {
+        "word": "Present value",
+        "translation": "現在価値 (げんざいかち)"
+      },
+      {
+        "word": "Deduction",
+        "translation": "控除 (こうじょ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Donation with Burden",
+    "definition": "A specific type of gratuitous contract where the donor transfers property to the donee, and in return, the donee assumes an obligation or charge (burden) toward the donor or a third party.",
+    "japaneseDefinition": "受贈者が一定の債務や義務（負担）を負うことを条件として、贈与者が財産を譲渡する契約。",
+    "japaneseWordTranslation": "負担付贈与 (ふたんつき ぞうよ)",
+    "legalContext": "Civil Code Art. 553: Application of rules for onerous juridical acts. The provisions on synallagmatic contracts apply mutatis mutandis to a donation with burden, to the extent of the burden.",
+    "japaneseLegalContext": "民法第553条：負担付贈与については、その負担の限度において、有償契約に関する規定を準用する。",
+    "exampleSentence": "If the donee fails to perform the burden attached to the donation with burden, the donor may demand the return of the property or rescind the contract.",
+    "exampleTranslation": "受贈者が負担付贈与に付された負担を履行しない場合、贈与者は財産の返還を要求するか、契約を解除することができる。",
+    "vocabularyList": [
+      {
+        "word": "Donor",
+        "translation": "贈与者 (ぞうよしゃ)"
+      },
+      {
+        "word": "Donee",
+        "translation": "受贈者 (じゅぞうしゃ)"
+      },
+      {
+        "word": "Obligation",
+        "translation": "義務 (ぎむ)"
+      },
+      {
+        "word": "Onerous contract",
+        "translation": "有償契約 (ゆうしょうけいやく)"
+      },
+      {
+        "word": "Rescind the contract",
+        "translation": "契約を解除する (けいやくをかいじょする)"
+      },
+      {
+        "word": "Apply mutatis mutandis",
+        "translation": "準用する (じゅんようする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Intent-Based Transfer",
+    "definition": "The fundamental rule under Japanese property law that the transfer of real rights (such as ownership) becomes effective solely upon the declaration of intent between the parties, without the necessity of physical delivery or registration.",
+    "japaneseDefinition": "物権の変動（所有権移転など）は、当事者の意思表示のみによって効力を生じ、引渡しや登記を要しないという民法の原則。",
+    "japaneseWordTranslation": "意思主義 (いししゅぎ)",
+    "legalContext": "Civil Code Art. 176: The creation and transfer of real rights (物権) take effect merely by the manifestation of the intention of the parties.",
+    "japaneseLegalContext": "民法第176条：物権の設定及び移転は、当事者の意思表示のみによって、その効力を生ずる。",
+    "exampleSentence": "Pursuant to the Principle of Intent-Based Transfer, ownership of the land passed to the buyer immediately upon the execution of the sales contract, even before registration.",
+    "exampleTranslation": "意思主義に基づき、売買契約の締結と同時に、登記前であっても土地の所有権は買主に移転した。",
+    "vocabularyList": [
+      {
+        "word": "Real right",
+        "translation": "物権 (ぶっけん)"
+      },
+      {
+        "word": "Manifestation of intent",
+        "translation": "意思表示 (いしひょうじ)"
+      },
+      {
+        "word": "Transfer of ownership",
+        "translation": "所有権移転 (しょゆうけんいてん)"
+      },
+      {
+        "word": "Take effect",
+        "translation": "効力を生ずる (こうりょくをしょうずる)"
+      },
+      {
+        "word": "Registration",
+        "translation": "登記 (とうき)"
+      },
+      {
+        "word": "Execution of the contract",
+        "translation": "契約の締結 (けいやくのていけつ)"
+      },
+      {
+        "word": "Sales contract",
+        "translation": "売買契約 (ばいばいけいやく)"
       }
     ]
   }

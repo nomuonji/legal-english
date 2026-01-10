@@ -9842,5 +9842,85 @@
         "translation": "取得する (shutoku suru)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Company with Three Committees",
+    "definition": "A stock company structure where the board of directors delegates significant authority for business execution to executive officers, and appoints three committees: the Nominating Committee, the Audit Committee, and the Compensation Committee.",
+    "japaneseDefinition": "取締役会が業務執行の決定権限を執行役に大幅に委譲し、指名委員会、監査委員会、報酬委員会の3委員会を置く株式会社の機関設計。",
+    "japaneseWordTranslation": "指名委員会等設置会社 (Shimei Iinkai Tō Secchi Kaisha)",
+    "legalContext": "Companies Act, Article 2, Paragraph 1, Item 12: 'A Stock Company which establishes a Nominating Committee, Audit Committee, and Compensation Committee.'",
+    "japaneseLegalContext": "会社法第2条第1項第12号：「指名委員会、監査委員会及び報酬委員会を置く株式会社をいう。」",
+    "exampleSentence": "The company resolved to transition into a Company with Three Committees structure to strengthen corporate governance and enhance the separation of supervision and execution.",
+    "exampleTranslation": "その会社は、コーポレートガバナンスを強化し、監督と執行の分離を進めるため、指名委員会等設置会社体制への移行を決議した。",
+    "vocabularyList": [
+      {
+        "word": "executive officer",
+        "translation": "執行役"
+      },
+      {
+        "word": "corporate governance",
+        "translation": "コーポレートガバナンス"
+      },
+      {
+        "word": "Audit Committee",
+        "translation": "監査委員会"
+      },
+      {
+        "word": "Nominating Committee",
+        "translation": "指名委員会"
+      },
+      {
+        "word": "Compensation Committee",
+        "translation": "報酬委員会"
+      },
+      {
+        "word": "separation of supervision and execution",
+        "translation": "監督と執行の分離"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Incorporation-Type Company Split",
+    "definition": "A form of corporate restructuring where a company transfers all or part of its business rights and obligations to a newly established company, typically requiring approval by special resolution.",
+    "japaneseDefinition": "会社がその事業に関して有する権利義務の全部または一部を新しく設立する会社に承継させる会社再編行為。通常、株主総会の特別決議が必要。",
+    "japaneseWordTranslation": "新設分割 (Shinsetsu Bunkatsu)",
+    "legalContext": "Companies Act, Article 763 (Definition and Effect: governs the drafting and adoption of the company split plan)",
+    "japaneseLegalContext": "会社法第763条（新設分割計画：会社分割計画の作成及び承認を定める）",
+    "exampleSentence": "The Incorporation-Type Company Split requires the splitting company to draft a specific company split plan detailing the assets and liabilities to be transferred to the new entity.",
+    "exampleTranslation": "新設分割を行うには、分割会社は、新設法人に移転される資産及び負債を詳細に記載した特定の会社分割計画を策定する必要がある。",
+    "vocabularyList": [
+      {
+        "word": "corporate restructuring",
+        "translation": "会社再編"
+      },
+      {
+        "word": "splitting company",
+        "translation": "分割会社"
+      },
+      {
+        "word": "newly established company",
+        "translation": "新設会社"
+      },
+      {
+        "word": "company split plan",
+        "translation": "会社分割計画"
+      },
+      {
+        "word": "rights and obligations",
+        "translation": "権利義務"
+      },
+      {
+        "word": "special resolution",
+        "translation": "特別決議"
+      },
+      {
+        "word": "transfer of assets and liabilities",
+        "translation": "資産及び負債の移転"
+      }
+    ]
   }
 ]

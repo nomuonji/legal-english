@@ -2,52 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Abuse of Rights",
-    "definition": "The doctrine prohibiting the exercise of a right where the purpose is solely to inflict damage or where the exercise is contrary to the principle of good faith and public policy.",
-    "japaneseDefinition": "権利の行使が、正当な利益を欠き、他者に損害を与えることのみを目的とするなど、信義則や社会通念に照らして許されない行為となること。",
-    "japaneseWordTranslation": "権利の濫用 (けんりのらんよう)",
-    "legalContext": "Civil Code Art. 1, Paragraph 3: 'No abuse of rights shall be permitted.'",
-    "japaneseLegalContext": "民法第1条第3項: 「権利の濫用は、これを許さない。」",
-    "exampleSentence": "The court ruled that while the creditor held a valid security interest, foreclosing on the property at this juncture constituted an Abuse of Rights due to the disproportionate harm caused.",
-    "exampleTranslation": "裁判所は、債権者が有効な担保権を有していたとしても、この時点での不動産の差押えは、生じる不均衡な損害を理由に権利の濫用にあたると判断した。",
-    "vocabularyList": [
-      {
-        "word": "doctrine",
-        "translation": "法理"
-      },
-      {
-        "word": "prohibiting",
-        "translation": "禁止する"
-      },
-      {
-        "word": "solely",
-        "translation": "専ら"
-      },
-      {
-        "word": "contrary to",
-        "translation": "違反して"
-      },
-      {
-        "word": "good faith",
-        "translation": "信義誠実の原則"
-      },
-      {
-        "word": "creditor",
-        "translation": "債権者"
-      },
-      {
-        "word": "security interest",
-        "translation": "担保権"
-      },
-      {
-        "word": "disproportionate harm",
-        "translation": "不均衡な損害"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Assignment of Claim",
     "definition": "The transfer of a monetary claim or other claim (obligation) by the current creditor (assignor) to a third party (assignee).",
     "japaneseDefinition": "債権者が自己の有する債権を、その同一性を維持したまま、第三者に移転させる行為。",
@@ -12020,6 +11974,120 @@
       {
         "word": "Validate",
         "translation": "有効と認める"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Dissolution (of a Legal Entity)",
+    "definition": "The formal termination of the existence of a corporate body or non-profit association, usually followed by liquidation proceedings.",
+    "japaneseDefinition": "法律上の組織体（法人）の存在を終了させること。通常は、財産を整理する清算手続きに移行する。",
+    "japaneseWordTranslation": "解散 (かいさん)",
+    "legalContext": "Civil Code Art. 68: Grounds for dissolution of an Incorporated Association or Foundation include impossibility of achieving the purpose for which it was established.",
+    "japaneseLegalContext": "民法第68条 (法人の解散事由): 設立した目的を達成することが不能となったときを含む。",
+    "exampleSentence": "Following a court order due to organizational restructuring, the incorporated association entered formal **dissolution** procedures.",
+    "exampleTranslation": "組織再編に関する裁判所の命令を受けて、その社団法人は正式な**解散**手続きに入った。",
+    "vocabularyList": [
+      {
+        "word": "incorporated association",
+        "translation": "社団法人"
+      },
+      {
+        "word": "legal entity",
+        "translation": "法人"
+      },
+      {
+        "word": "termination",
+        "translation": "終了"
+      },
+      {
+        "word": "liquidation",
+        "translation": "清算"
+      },
+      {
+        "word": "restructuring",
+        "translation": "再編"
+      },
+      {
+        "word": "court order",
+        "translation": "裁判所の命令"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Defense of Simultaneous Performance",
+    "definition": "A right of defense held by one party to a reciprocal contract (one involving mutual obligations) to refuse its performance until the other party offers its performance.",
+    "japaneseDefinition": "双務契約の当事者が、相手方から債務の履行提供があるまで、自己の債務の履行を拒絶できる権利。",
+    "japaneseWordTranslation": "同時履行の抗弁権 (どうじりこうのこうべんけん)",
+    "legalContext": "Civil Code Art. 533: Unless there is a special stipulation, a party to a reciprocal contract may refuse performance until the other party performs or tenders performance.",
+    "japaneseLegalContext": "民法第533条 (同時履行の抗弁): 特別な定めがない限り、双務契約の当事者は、相手方がその債務の履行を提供するまでは、自己の債務の履行を拒むことができる。",
+    "exampleSentence": "The buyer invoked the **defense of simultaneous performance** when the seller demanded payment prior to the scheduled delivery of the custom-made machinery.",
+    "exampleTranslation": "売主が特注の機械の予定された引渡しより前に支払いを請求した際、買主は**同時履行の抗弁権**を行使した。",
+    "vocabularyList": [
+      {
+        "word": "reciprocal contract",
+        "translation": "双務契約"
+      },
+      {
+        "word": "mutual obligations",
+        "translation": "相互の債務"
+      },
+      {
+        "word": "invoke",
+        "translation": "行使する"
+      },
+      {
+        "word": "tender performance",
+        "translation": "履行を提供する"
+      },
+      {
+        "word": "scheduled delivery",
+        "translation": "予定された引渡し"
+      },
+      {
+        "word": "custom-made machinery",
+        "translation": "特注の機械"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Voidable Act",
+    "definition": "A legal transaction that, while initially effective, is subject to subsequent cancellation by a specific party (such as one with limited capacity) which, if exercised, nullifies the act retroactively.",
+    "japaneseDefinition": "法律行為として一旦は有効に成立するが、特定の者（制限行為能力者など）が権利を行使することにより遡及的に無効となる行為。",
+    "japaneseWordTranslation": "取消し得る行為 (とりけしうるこうい)",
+    "legalContext": "Civil Code Art. 120: Acts performed by persons with limited capacity may be avoided by them, their legal representatives, or successors.",
+    "japaneseLegalContext": "民法第120条 (取消権者): 制限行為能力者が行った行為は、本人、法定代理人又は承継人が取り消すことができる。",
+    "exampleSentence": "Since the contract involved significant financial risk and was concluded by a minor, it was categorized as a **voidable act**.",
+    "exampleTranslation": "その契約は重大な財政的リスクを伴い、未成年者によって締結されたため、**取消し得る行為**として分類された。",
+    "vocabularyList": [
+      {
+        "word": "legal transaction",
+        "translation": "法律行為"
+      },
+      {
+        "word": "subsequent cancellation",
+        "translation": "後からの取消し"
+      },
+      {
+        "word": "retroactively",
+        "translation": "遡及的に"
+      },
+      {
+        "word": "minor",
+        "translation": "未成年者"
+      },
+      {
+        "word": "legal representatives",
+        "translation": "法定代理人"
+      },
+      {
+        "word": "successors",
+        "translation": "承継人"
       }
     ]
   }

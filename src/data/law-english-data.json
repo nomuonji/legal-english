@@ -1,38 +1,46 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Conspiracy",
-  "definition": "A mutual agreement or meeting of minds between two or more persons to commit a specific crime, forming the basis for establishing joint principal liability (Kyoritsu).",
-  "japaneseDefinition": "二人以上の者が特定の犯罪を実行する意思を相互に合致させ、共同正犯の基礎を築くこと。",
-  "japaneseWordTranslation": "共謀 (きょうぼう)",
-  "legalContext": "Japanese Penal Code Art. 60 (Joint Principal): When two or more persons jointly commit a crime, they shall all be deemed joint principals.",
-  "japaneseLegalContext": "刑法 第60条（共同正犯）：二人以上共同して犯罪を実行した者は、すべて正犯とする。",
-  "exampleSentence": "The prosecution established that the three defendants engaged in conspiracy prior to the commission of the bank robbery, proving joint principal liability.",
-  "exampleTranslation": "検察は、３人の被告人が銀行強盗の実行前に共謀していたことを立証し、共同正犯の責任を証明した。",
+  "word": "Abuse of Rights",
+  "definition": "The doctrine prohibiting the exercise of a right where the purpose is solely to inflict damage or where the exercise is contrary to the principle of good faith and public policy.",
+  "japaneseDefinition": "権利の行使が、正当な利益を欠き、他者に損害を与えることのみを目的とするなど、信義則や社会通念に照らして許されない行為となること。",
+  "japaneseWordTranslation": "権利の濫用 (けんりのらんよう)",
+  "legalContext": "Civil Code Art. 1, Paragraph 3: 'No abuse of rights shall be permitted.'",
+  "japaneseLegalContext": "民法第1条第3項: 「権利の濫用は、これを許さない。」",
+  "exampleSentence": "The court ruled that while the creditor held a valid security interest, foreclosing on the property at this juncture constituted an Abuse of Rights due to the disproportionate harm caused.",
+  "exampleTranslation": "裁判所は、債権者が有効な担保権を有していたとしても、この時点での不動産の差押えは、生じる不均衡な損害を理由に権利の濫用にあたると判断した。",
   "vocabularyList": [
     {
-      "word": "joint principal liability",
-      "translation": "共同正犯責任 (きょうどうせいはんせきにん)"
+      "word": "doctrine",
+      "translation": "法理"
     },
     {
-      "word": "commission of the robbery",
-      "translation": "強盗の実行 (ごうとうのじっこう)"
+      "word": "prohibiting",
+      "translation": "禁止する"
     },
     {
-      "word": "prosecution",
-      "translation": "検察 (けんさつ)"
+      "word": "solely",
+      "translation": "専ら"
     },
     {
-      "word": "established",
-      "translation": "立証した (りっしょうした)"
+      "word": "contrary to",
+      "translation": "違反して"
     },
     {
-      "word": "defendants",
-      "translation": "被告人 (ひこくにん)"
+      "word": "good faith",
+      "translation": "信義誠実の原則"
     },
     {
-      "word": "meeting of minds",
-      "translation": "意思の合致 (いしのごうち)"
+      "word": "creditor",
+      "translation": "債権者"
+    },
+    {
+      "word": "security interest",
+      "translation": "担保権"
+    },
+    {
+      "word": "disproportionate harm",
+      "translation": "不均衡な損害"
     }
   ]
 }

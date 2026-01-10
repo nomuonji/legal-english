@@ -8752,5 +8752,81 @@
         "translation": "縮尺の記載 (Shakushaku no Kisai)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Verification Key",
+    "definition": "A 12-digit sequence of alphanumeric characters provided only to the registered title holder, serving as the official authentication method when they subsequently apply for rights-related entries.",
+    "japaneseDefinition": "登記名義人に対して通知される、12桁の符号であり、その者が登記申請を行う際の本人確認手段として用いられる。",
+    "japaneseWordTranslation": "登記識別情報 (tōki shikibetsu jōhō)",
+    "legalContext": "Real Property Registration Act, Article 21 (Notification of the Registration Verification Key).",
+    "japaneseLegalContext": "不動産登記法第21条（登記識別情報の通知）。",
+    "exampleSentence": "Loss of the Registration Verification Key requires the applicant to utilize a pre-confirmation system or verification via notary to proceed with the rights entry application.",
+    "exampleTranslation": "登記識別情報を紛失した場合、申請人は権利の登記申請を進めるために、事前通知制度または公証人による本人確認を利用しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "sequence",
+        "translation": "符号 (fugō)"
+      },
+      {
+        "word": "authentication",
+        "translation": "本人確認 (honnin kakunin)"
+      },
+      {
+        "word": "title holder",
+        "translation": "名義人 (meiginin)"
+      },
+      {
+        "word": "notary",
+        "translation": "公証人 (kōshōnin)"
+      },
+      {
+        "word": "pre-confirmation system",
+        "translation": "事前通知制度 (jizen tsūchi seido)"
+      },
+      {
+        "word": "rights entry",
+        "translation": "権利に関する登記 (kenri ni kansuru tōki)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Priority of Entry Based on Reception Time",
+    "definition": "The fundamental rule that the ranking of rights recorded in the register is determined by the specific moment the corresponding registration application was officially accepted by the registry office.",
+    "japaneseDefinition": "法令に別段の定めがある場合を除き、登記簿に記載された権利の順位が、申請が登記所に受け付けられた時刻の前後によって決定される原則。",
+    "japaneseWordTranslation": "受付の前後による登記の順位 (uketsuke no zenngo ni yoru tōki no jun'i)",
+    "legalContext": "Real Property Registration Act, Article 8 (General rule on rank).",
+    "japaneseLegalContext": "不動産登記法第8条（登記の順位）。",
+    "exampleSentence": "The Registry Office must strictly adhere to the Priority of Entry Based on Reception Time when multiple security interests are applied for on the same day, determining their ranking by the minute of acceptance.",
+    "exampleTranslation": "同一日に複数の担保権が申請された場合、登記所は受付の前後による登記の順位を厳守し、受付時刻によってそれらの順位を決定しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "ranking",
+        "translation": "順位 (jun'i)"
+      },
+      {
+        "word": "registry office",
+        "translation": "登記所 (tōkijo)"
+      },
+      {
+        "word": "security interests",
+        "translation": "担保権 (tanpoken)"
+      },
+      {
+        "word": "adhere to",
+        "translation": "厳守する (genshu suru)"
+      },
+      {
+        "word": "reception time",
+        "translation": "受付時刻 (uketsuke jikoku)"
+      },
+      {
+        "word": "application",
+        "translation": "申請 (shinsei)"
+      }
+    ]
   }
 ]

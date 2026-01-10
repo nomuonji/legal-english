@@ -10510,5 +10510,123 @@
         "translation": "不法所持物"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Crimes Requiring Ulterior Purpose",
+    "definition": "Offenses where, in addition to the standard criminal intent (dolus), the perpetrator must possess a specific goal or motive (an ulterior purpose) beyond the mere physical result of the act, such as the purpose of unlawful enrichment or putting a counterfeit object into circulation.",
+    "japaneseDefinition": "行為の実行により構成要件的結果を発生させることとは別に、加害者が更なる特定の目的（不法な利益を得る目的など）を有していることを要件とする犯罪。",
+    "japaneseWordTranslation": "目的犯 (もくてきはん)",
+    "legalContext": "Criminal Code Art. 192 (Counterfeiting of Currency): 'A person who counterfeits or alters currency... for the purpose of putting it into circulation...'",
+    "japaneseLegalContext": "刑法第192条（通貨偽造）：『行使の目的をもって…通貨を偽造し、又は変造した者…』",
+    "exampleSentence": "The crime of counterfeiting currency is a crime requiring ulterior purpose, specifically the intent to put the fake money into circulation.",
+    "exampleTranslation": "通貨偽造罪は、偽造した貨幣を行使する目的を具体的に要求する目的犯である。",
+    "vocabularyList": [
+      {
+        "word": "ulterior purpose",
+        "translation": "更なる目的"
+      },
+      {
+        "word": "criminal intent",
+        "translation": "犯罪の意思"
+      },
+      {
+        "word": "counterfeiting of currency",
+        "translation": "通貨偽造"
+      },
+      {
+        "word": "unlawful enrichment",
+        "translation": "不法な利益"
+      },
+      {
+        "word": "standard mental element",
+        "translation": "標準的な主観的構成要件"
+      },
+      {
+        "word": "put into circulation",
+        "translation": "行使する"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Confiscation (Criminal Penalty)",
+    "definition": "A mandatory or discretionary supplementary penalty stipulated in the Criminal Code, involving the compulsory deprivation of specific property related to the commission of a crime, such as instruments used in the crime, products of the crime, or property acquired in exchange thereof.",
+    "japaneseDefinition": "犯罪に関係する特定の物（犯罪に使用された道具、犯罪の産出物、それらの対価として得られた物など）を、国庫に帰属させる目的で強制的に剥奪する付加刑。",
+    "japaneseWordTranslation": "没収 (ぼっしゅう)",
+    "legalContext": "Criminal Code Art. 19 (Items subject to confiscation): 'A thing which was used, or was intended to be used, in the commission of a crime... may be confiscated.'",
+    "japaneseLegalContext": "刑法第19条（没収）：『犯罪行為に供し、又は供しようとした物…は、これを没収することができる。』",
+    "exampleSentence": "The court ordered the confiscation of the funds acquired through the breach of trust, as they constituted the product of the crime.",
+    "exampleTranslation": "裁判所は、背任によって得られた資金が犯罪の産出物を構成するため、その没収を命じた。",
+    "vocabularyList": [
+      {
+        "word": "supplementary penalty",
+        "translation": "付加刑"
+      },
+      {
+        "word": "compulsory deprivation",
+        "translation": "強制的な剥奪"
+      },
+      {
+        "word": "product of the crime",
+        "translation": "犯罪の産出物"
+      },
+      {
+        "word": "instruments used",
+        "translation": "使用された道具"
+      },
+      {
+        "word": "breach of trust",
+        "translation": "背任"
+      },
+      {
+        "word": "stipulated",
+        "translation": "規定された"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exempting Circumstances (of Punishment)",
+    "definition": "Legal grounds which, even when all substantive requirements for establishing a crime (actus reus, unlawfulness, and culpability) are satisfied, legally prevent the court from imposing a penalty on the perpetrator based on specific policy or legal provisions.",
+    "japaneseDefinition": "犯罪の成立要件（構成要件該当性、違法性、有責性）が全て満たされているにもかかわらず、特定の政策的または法的な理由に基づき、加害者に対して刑罰を科すことを排除する法律上の事由。",
+    "japaneseWordTranslation": "処罰阻却事由 (しょばつそきゃくじゆう)",
+    "legalContext": "Criminal Law Theory: These circumstances operate externally to the core elements of the crime, contrasting with justification and grounds precluding culpability.",
+    "japaneseLegalContext": "刑法総論の概念。違法性や有責性を排除する事由とは異なり、犯罪成立後の段階で刑罰の科罰を阻む。",
+    "exampleSentence": "The Public Prosecutor decided not to press charges against the suspect, citing the existence of exempting circumstances of punishment specified in the Criminal Code regarding property offenses between relatives.",
+    "exampleTranslation": "検察官は、親族間の財産犯に関する刑法上の処罰阻却事由が存在することを挙げて、被疑者に対する起訴を見送った。",
+    "vocabularyList": [
+      {
+        "word": "substantive requirements",
+        "translation": "実質的な要件"
+      },
+      {
+        "word": "actus reus",
+        "translation": "構成要件該当性"
+      },
+      {
+        "word": "culpability",
+        "translation": "有責性"
+      },
+      {
+        "word": "imposing a penalty",
+        "translation": "刑罰を科すこと"
+      },
+      {
+        "word": "property offenses",
+        "translation": "財産犯"
+      },
+      {
+        "word": "justification",
+        "translation": "正当化事由"
+      },
+      {
+        "word": "unlawfulness",
+        "translation": "違法性"
+      }
+    ]
   }
 ]

@@ -12090,5 +12090,119 @@
         "translation": "承継人"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Abuse of Rights",
+    "definition": "The exercise of a private right in a manner that excessively violates the social interests or damages others, resulting in the denial of its legal effectiveness, based on the fundamental principle that rights must be exercised fairly and honestly.",
+    "japaneseDefinition": "権利の行使が社会生活上許容される範囲を超え、他人に損害を与えるような場合、その権利行使の法的効力が否定されるという原則。信義誠実の原則から派生する、権利行使の制限規範。",
+    "japaneseWordTranslation": "権利の濫用 (Kenri no Ranyō)",
+    "legalContext": "Civil Code Art. 1, Paragraph 3: The exercise of rights must not be abused.",
+    "japaneseLegalContext": "民法第1条第3項: 権利の行使は、これを濫用することができない。",
+    "exampleSentence": "The court ruled that the landlord's demand for the demolition of the tenant's minor improvement, despite the expiration of the lease, constituted an **abuse of rights**.",
+    "exampleTranslation": "裁判所は、賃貸人が賃貸借期間満了後になされた借主の軽微な改良物について、その除去を要求することは権利の濫用にあたると判示した。",
+    "vocabularyList": [
+      {
+        "word": "landlord",
+        "translation": "賃貸人"
+      },
+      {
+        "word": "demolition",
+        "translation": "除去/取り壊し"
+      },
+      {
+        "word": "tenant",
+        "translation": "借主"
+      },
+      {
+        "word": "minor improvement",
+        "translation": "軽微な改良物"
+      },
+      {
+        "word": "expiration",
+        "translation": "満了"
+      },
+      {
+        "word": "constituted",
+        "translation": "〜にあたる/構成する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Separate Obligation",
+    "definition": "The default rule for plural obligations where there are multiple obligors or obligees, stipulating that the claim or debt is divided into equal proportionate shares among the parties, with each party responsible only for their respective share.",
+    "japaneseDefinition": "複数の債務者又は債権者が存在する際に、特段の合意がない限り、債権又は債務が当事者の間で等しい割合に分割され、各自がその持分についてのみ責任を負うとされる原則（連帯債務の対概念）。",
+    "japaneseWordTranslation": "分割債務 (Bunkatsu Saimu)",
+    "legalContext": "Civil Code Art. 427: If there are multiple obligors or obligees and there is no special provision to the contrary, the obligation shall be divided in equal shares.",
+    "japaneseLegalContext": "民法第427条: 債権者が数人ある場合又は債務者が数人ある場合において、別段の意思表示がないときは、各債権者又は各債務者は、それぞれ等しい割合で権利を有し、又は義務を負う。",
+    "exampleSentence": "Under the principle of **separate obligation**, the two guarantors for the business loan were each required to perform only one-half of the outstanding amount owed by the principal debtor.",
+    "exampleTranslation": "分割債務の原則に基づき、事業融資の2名の保証人は、主債務者が負う未払い金額のそれぞれ半分の履行のみを求められた。",
+    "vocabularyList": [
+      {
+        "word": "guarantors",
+        "translation": "保証人"
+      },
+      {
+        "word": "business loan",
+        "translation": "事業融資"
+      },
+      {
+        "word": "required to perform",
+        "translation": "履行を求められた"
+      },
+      {
+        "word": "outstanding amount",
+        "translation": "未払い金額"
+      },
+      {
+        "word": "principal debtor",
+        "translation": "主債務者"
+      },
+      {
+        "word": "proportionate shares",
+        "translation": "等しい割合"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "General Security",
+    "definition": "The fundamental legal concept that the entire property of the debtor, present and future, serves as the common pool (security) from which all ordinary creditors may seek satisfaction of their claims through compulsory execution.",
+    "japaneseDefinition": "債務者の責任財産、すなわち総財産が、すべての債権者の債権を担保するための一般的な引き当てとなるという民法の原則。",
+    "japaneseWordTranslation": "一般担保 (Ippan Tanpo)",
+    "legalContext": "Civil Code Art. 423 (Relates to the principle that a debtor's property is the common security for all creditors): A creditor may exercise the rights belonging to the obligor...",
+    "japaneseLegalContext": "民法第423条（債権者代位権：債務者の財産が債権者の共同担保であることの現れ）: 債権者は、自己の債権を保全するため、債務者に属する権利を行使することができる。",
+    "exampleSentence": "Since the bank did not establish a specific mortgage, its recovery of the commercial debt relied solely on the principle of **general security** over the debtor's remaining assets.",
+    "exampleTranslation": "銀行が特定の抵当権を設定しなかったため、その商業上の債務の回収は、債務者の残余財産に対する一般担保の原則にのみ依拠した。",
+    "vocabularyList": [
+      {
+        "word": "bank",
+        "translation": "銀行"
+      },
+      {
+        "word": "specific mortgage",
+        "translation": "特定の抵当権"
+      },
+      {
+        "word": "recovery",
+        "translation": "回収"
+      },
+      {
+        "word": "commercial debt",
+        "translation": "商業上の債務"
+      },
+      {
+        "word": "remaining assets",
+        "translation": "残余財産"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      }
+    ]
   }
 ]

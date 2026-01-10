@@ -9922,5 +9922,107 @@
         "translation": "資産及び負債の移転"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Limitation of Liability Agreement",
+    "definition": "An agreement stipulated under CA Art. 427, allowing a company to limit the amount of damages payable by certain non-executive officers (such as Outside Directors or Outside Statutory Auditors) to a minimum statutory amount, provided specific requirements are met.",
+    "japaneseDefinition": "会社法第427条に基づき、業務執行しない役員等（社外取締役や社外監査役など）が負う損害賠償責任の額を、法令で定める最低限度額に限定することを可能とする契約。",
+    "japaneseWordTranslation": "責任限定契約 (Sekinin gentei keiyaku)",
+    "legalContext": "Companies Act Art. 427 (1): A Company with a Board of Directors ... may enter into an agreement with an Outside Director... to limit the amount of his/her liability to the amount specified by the Ministry of Justice Ordinance.",
+    "japaneseLegalContext": "会社法第427条第1項: 取締役会設置会社は、その設立時役員等又は役員等と、その責任について、法務省令で定める額を限度とする旨の契約を締結することができる。",
+    "exampleSentence": "The company entered into a Statutory Limitation of Liability Agreement with all its outside officers to ensure they were willing to serve.",
+    "exampleTranslation": "その会社は、役員の就任を確実にするため、全ての社外役員と責任限定契約を締結した。",
+    "vocabularyList": [
+      {
+        "word": "Outside Officer",
+        "translation": "社外役員"
+      },
+      {
+        "word": "damages payable",
+        "translation": "支払われる損害賠償額"
+      },
+      {
+        "word": "minimum statutory amount",
+        "translation": "法定の最低限度額"
+      },
+      {
+        "word": "breach of duty",
+        "translation": "任務懈怠 (にんむけたい)"
+      },
+      {
+        "word": "Ministry of Justice Ordinance",
+        "translation": "法務省令"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Review of Incorporation Procedures",
+    "definition": "The formal process where the District Court investigates the legality and fairness of a Stock Company's formation, especially focusing on whether the valuation of non-cash contributions or special benefits to promoters was appropriate, often leading to the appointment of an inspector.",
+    "japaneseDefinition": "株式会社の設立手続における公正性を確保するため、特に現物出資や発起人への特別の利益の評価が適正であったかについて、裁判所が検査役を選任するなどして行う調査。",
+    "japaneseWordTranslation": "設立手続の裁判所による調査 (Setsuritsu tetsuzuki no saibansho ni yoru chōsa)",
+    "legalContext": "Companies Act Art. 33 (10): The court, upon the petition of an incorporator, Director at Incorporation, or Statutory Auditor at Incorporation, shall investigate matters concerning the incorporation.",
+    "japaneseLegalContext": "会社法第33条第10項: 裁判所は、発起人、設立時取締役又は設立時監査役の申立てにより、設立に関する事項を調査する。",
+    "exampleSentence": "Due to the complexity of the asset transfers, the incorporation process was subject to Judicial Review of Incorporation Procedures, delaying the final registration.",
+    "exampleTranslation": "資産譲渡の複雑さから、設立手続は裁判所による調査の対象となり、最終登記が遅延した。",
+    "vocabularyList": [
+      {
+        "word": "District Court",
+        "translation": "地方裁判所"
+      },
+      {
+        "word": "fairness",
+        "translation": "公正性"
+      },
+      {
+        "word": "promoter benefit",
+        "translation": "発起人への特別の利益"
+      },
+      {
+        "word": "appropriateness",
+        "translation": "適正"
+      },
+      {
+        "word": "asset transfer",
+        "translation": "資産譲渡"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Shareholder Consent for Capital Diminution",
+    "definition": "The act of securing the approval of shareholders, generally requiring a special voting majority (two-thirds or more of the votes present, representing over half of the total voting rights), in order to legally decrease the amount of the company's stated capital.",
+    "japaneseDefinition": "会社の資本金の額を法的に減額するために、株主から承認を得る行為。通常、議決権を行使できる株主の議決権の過半数を有する株主が出席し、出席株主の議決権の3分の2以上の賛成を必要とする特別決議が要求される。",
+    "japaneseWordTranslation": "資本金の額の減少の同意 (Shihonkin no gaku no genshō no dōi)",
+    "legalContext": "Companies Act Art. 447 (1) & 309 (2)(ix): A Stock Company must obtain a special resolution of a General Meeting of Shareholders to reduce the stated capital.",
+    "japaneseLegalContext": "会社法第447条第1項及び第309条第2項第9号: 株式会社は、株主総会の特別決議により、資本金の額を減少することができる。",
+    "exampleSentence": "The Resolution for Shareholder Consent for Capital Diminution was passed, paving the way for financial restructuring and subsequent creditor procedures.",
+    "exampleTranslation": "資本金の額の減少に関する株主の同意決議が可決され、財務再構築とそれに続く債権者手続への道が開かれた。",
+    "vocabularyList": [
+      {
+        "word": "Stated Capital",
+        "translation": "資本金"
+      },
+      {
+        "word": "Diminution",
+        "translation": "減少"
+      },
+      {
+        "word": "special voting majority",
+        "translation": "特別多数決"
+      },
+      {
+        "word": "General Meeting",
+        "translation": "株主総会"
+      },
+      {
+        "word": "financial restructuring",
+        "translation": "財務再構築"
+      }
+    ]
   }
 ]

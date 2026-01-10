@@ -1,46 +1,34 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Abuse of Rights",
-  "definition": "The doctrine prohibiting the exercise of a right where the purpose is solely to inflict damage or where the exercise is contrary to the principle of good faith and public policy.",
-  "japaneseDefinition": "権利の行使が、正当な利益を欠き、他者に損害を与えることのみを目的とするなど、信義則や社会通念に照らして許されない行為となること。",
-  "japaneseWordTranslation": "権利の濫用 (けんりのらんよう)",
-  "legalContext": "Civil Code Art. 1, Paragraph 3: 'No abuse of rights shall be permitted.'",
-  "japaneseLegalContext": "民法第1条第3項: 「権利の濫用は、これを許さない。」",
-  "exampleSentence": "The court ruled that while the creditor held a valid security interest, foreclosing on the property at this juncture constituted an Abuse of Rights due to the disproportionate harm caused.",
-  "exampleTranslation": "裁判所は、債権者が有効な担保権を有していたとしても、この時点での不動産の差押えは、生じる不均衡な損害を理由に権利の濫用にあたると判断した。",
+  "word": "Succession of Litigation",
+  "definition": "The transfer of the position of a party in a pending lawsuit to a third party or a successor (such as an heir, or an assignee of the subject matter of the dispute).",
+  "japaneseDefinition": "訴訟が係属している間に、当事者の地位が、当事者の死亡や訴訟の目的物の譲渡などによって第三者または承継人に移転すること。",
+  "japaneseWordTranslation": "訴訟承継 (そしょうしょうけい)",
+  "legalContext": "Code of Civil Procedure Art. 124 (Assumption of Litigation by the Successor): 'If a party to a lawsuit dies, the litigation shall be assumed by the heir, administrator of the estate, or other person who is required to assume the litigation....'",
+  "japaneseLegalContext": "民事訴訟法第124条（承継人による訴訟の受継）：当事者が死亡したときは、訴訟手続は、相続人、相続財産管理人その他法令により訴訟を承継すべき者がこれを受け継がなければならない。",
+  "exampleSentence": "Upon the death of the plaintiff, the court issued an order for the heir to assume the **succession of litigation** according to the statutory provisions.",
+  "exampleTranslation": "原告の死亡を受け、裁判所は法令の規定に従い、相続人に対し**訴訟承継**を命じる決定を出した。",
   "vocabularyList": [
     {
-      "word": "doctrine",
-      "translation": "法理"
+      "word": "heir",
+      "translation": "相続人"
     },
     {
-      "word": "prohibiting",
-      "translation": "禁止する"
+      "word": "assume the litigation",
+      "translation": "訴訟を受け継ぐ"
     },
     {
-      "word": "solely",
-      "translation": "専ら"
+      "word": "administrator of the estate",
+      "translation": "相続財産管理人"
     },
     {
-      "word": "contrary to",
-      "translation": "違反して"
+      "word": "statutory provisions",
+      "translation": "法令の規定"
     },
     {
-      "word": "good faith",
-      "translation": "信義誠実の原則"
-    },
-    {
-      "word": "creditor",
-      "translation": "債権者"
-    },
-    {
-      "word": "security interest",
-      "translation": "担保権"
-    },
-    {
-      "word": "disproportionate harm",
-      "translation": "不均衡な損害"
+      "word": "pending lawsuit",
+      "translation": "係属中の訴訟"
     }
   ]
 }

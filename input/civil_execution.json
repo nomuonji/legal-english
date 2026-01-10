@@ -10752,5 +10752,73 @@
         "translation": "執行文 (しっこうぶん)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution against Claims Relating to Vessels",
+    "definition": "The specific procedures under the Civil Execution Law used to seize and collect monetary claims that are secured by or related to a vessel (ship), often involving the relevant District Court having jurisdiction over the ship’s location or registration.",
+    "japaneseDefinition": "船舶の差押えに関連する債権（用益債権など）を対象とする強制執行の手続。船舶の登録地を管轄する地方裁判所が執行機関となる。",
+    "japaneseWordTranslation": "船舶に関する債権に対する執行 (せんぱくにかんするさいけんにたいするしっこう)",
+    "legalContext": "Civil Execution Act, Article 181 (1): 'Execution against claims relating to vessels shall be carried out by a district court having jurisdiction over the location of the vessel or the place of the vessel's registration...'",
+    "japaneseLegalContext": "民事執行法第181条第1項：「船舶に関する債権に対する執行は、船舶の所在地又は船籍の所在地を管轄する地方裁判所が、これを行う。」",
+    "exampleSentence": "The execution obligee initiated execution against claims relating to vessels, targeting the charter fees receivable by the judgment debtor.",
+    "exampleTranslation": "執行債権者は、判決債務者が受け取るべき用船料を対象として、船舶に関する債権に対する執行を開始した。",
+    "vocabularyList": [
+      {
+        "word": "vessel",
+        "translation": "船舶 (せんぱく)"
+      },
+      {
+        "word": "charter fees",
+        "translation": "用船料 (ようせんりょう)"
+      },
+      {
+        "word": "monetary claims",
+        "translation": "金銭債権 (きんせんさいけん)"
+      },
+      {
+        "word": "district court",
+        "translation": "地方裁判所 (ちほうさいばんしょ)"
+      },
+      {
+        "word": "judgment debtor",
+        "translation": "判決債務者 (はんけつさいむしゃ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order of Payment to Execution Obligee",
+    "definition": "A court order issued in the execution process, particularly for claims (garnishment), directing the third party debtor (garnishee) to directly pay the seized funds to the execution obligee, bypassing the distribution procedure.",
+    "japaneseDefinition": "債権執行手続において、裁判所が第三債務者に対し、差し押さえられた債権額を執行債権者へ直接支払うよう命じる決定。取立権の行使を伴う。",
+    "japaneseWordTranslation": "執行債権者への支払命令 (しっこうさいけんしゃへのしはらいめいれい)",
+    "legalContext": "Civil Execution Act, Article 155 (1): Where a claim has been seized and collected, the court shall issue an order permitting the execution obligee to collect the claim from the third party debtor.",
+    "japaneseLegalContext": "民事執行法第155条第1項：債権が差し押さえられ、かつ、その取立てが命じられたときは、裁判所は、執行債権者が第三債務者からその債権を取り立てることを許す命令を発する。",
+    "exampleSentence": "Following the seizure of the obligor's bank account, the court issued an Order of Payment to Execution Obligee, allowing the creditor to receive the funds directly from the bank.",
+    "exampleTranslation": "債務者の銀行口座の差押え後、裁判所は執行債権者への支払命令を発し、債権者が銀行から直接資金を受け取ることを許可した。",
+    "vocabularyList": [
+      {
+        "word": "garnishment",
+        "translation": "差押え (さしおさえ)"
+      },
+      {
+        "word": "third party debtor",
+        "translation": "第三債務者 (だいさんさいむしゃ)"
+      },
+      {
+        "word": "collection order",
+        "translation": "取立命令 (とりたてめいれい)"
+      },
+      {
+        "word": "bypass",
+        "translation": "経由しない (けいゆしない)"
+      },
+      {
+        "word": "seized funds",
+        "translation": "差し押さえられた資金 (さしおさえられたしきん)"
+      }
+    ]
   }
 ]

@@ -10628,5 +10628,107 @@
         "translation": "違法性"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of the Last Resort",
+    "definition": "A fundamental principle of criminal policy (subsidiarity) stating that criminal penalties should only be employed as a measure of last resort, when the protected legal interests cannot be sufficiently secured by non-penal measures like civil or administrative law.",
+    "japaneseDefinition": "刑法は、他の手段（民事法、行政法、懲戒処分など）によっては法益保護が達成できない場合に限り、謙抑的に適用されるべきであるとする刑法政策上の大原則。",
+    "japaneseWordTranslation": "刑法の謙抑性 (けいほうのけんよくせい)",
+    "legalContext": "General Principle of Criminal Policy and Interpretation (刑法解釈の一般原則)",
+    "japaneseLegalContext": "刑法学における謙抑性の原則 (犯罪と刑罰を規定する刑法の適用限界を示す)",
+    "exampleSentence": "The interpretation of new offenses must adhere strictly to the Principle of the Last Resort, ensuring that criminalization is truly necessary.",
+    "exampleTranslation": "新たな犯罪の解釈は、刑法の謙抑性の原則を厳格に守り、犯罪化が真に必要であることを担保しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "subsidiarity",
+        "translation": "補充性"
+      },
+      {
+        "word": "criminal policy",
+        "translation": "刑法政策"
+      },
+      {
+        "word": "non-penal measures",
+        "translation": "非刑罰的措置"
+      },
+      {
+        "word": "criminalization",
+        "translation": "犯罪化"
+      },
+      {
+        "word": "legal interests",
+        "translation": "法益"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Punishment Aggravation",
+    "definition": "The statutory increase in the severity or length of the penalty prescribed for a crime when specific aggravating factors, such as recidivism or the combination of certain concurrent offenses, are legally present.",
+    "japaneseDefinition": "法定された刑罰の範囲内で、再犯や併合罪など特定の加重事由が存在する場合に、刑罰の重さや期間を法律に基づき引き上げること、またはそのように引き上げられた刑罰。",
+    "japaneseWordTranslation": "加重刑 (かじゅうけい)",
+    "legalContext": "Criminal Code Art. 47 (Aggravation of Punishment for Concurrent Offenses): When a sentence is aggregated for concurrent offenses, the prescribed maximum term of imprisonment with or without labor shall be increased...",
+    "japaneseLegalContext": "刑法第47条（併合罪の加重）：併合罪につき二個以上の有期懲役又は禁錮に処するときは、その最も重い刑につき...",
+    "exampleSentence": "The defendant faced a statutory Punishment Aggravation due to his previous conviction for a similar offense, resulting in an extended term of imprisonment.",
+    "exampleTranslation": "被告人は、同種の犯罪による前科があるため、法的な加重刑に直面し、その結果、懲役期間が延長された。",
+    "vocabularyList": [
+      {
+        "word": "severity",
+        "translation": "厳しさ"
+      },
+      {
+        "word": "recidivism",
+        "translation": "累犯 (再犯)"
+      },
+      {
+        "word": "concurrent offenses",
+        "translation": "併合罪"
+      },
+      {
+        "word": "statutory penalty",
+        "translation": "法定刑"
+      },
+      {
+        "word": "extended term",
+        "translation": "延長された期間"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Forfeiture of Equivalent Value",
+    "definition": "The compulsory collection by the State of an amount of money equivalent to the value of property that should have been forfeited (confiscated) but could not be, because the property was consumed, hidden, transferred, or otherwise impossible to seize.",
+    "japaneseDefinition": "没収すべき物（犯罪の収益や器具など）が、消費、譲渡、隠匿その他の理由により没収できない場合に、その物の価額に相当する額を強制的に徴収すること。",
+    "japaneseWordTranslation": "没収の追徴 (ぼっしゅうのついちょう)",
+    "legalContext": "Criminal Code Art. 19-2 (Forfeiture of Equivalent Value): If, in a case where the entire or a part of the object subject to forfeiture cannot be forfeited, the equivalent value thereof shall be collected.",
+    "japaneseLegalContext": "刑法第19条の2（追徴）：没収すべき物を既に消費した等によりその全部又は一部を没収することができないときは、その価額を追徴する。",
+    "exampleSentence": "Since the proceeds from the illegal transaction were immediately wired overseas, the court ordered the Forfeiture of Equivalent Value instead of the physical confiscation of the cash.",
+    "exampleTranslation": "違法な取引による収益は即座に海外へ送金されたため、裁判所は現金の物理的な没収の代わりに没収の追徴を命じた。",
+    "vocabularyList": [
+      {
+        "word": "compulsory collection",
+        "translation": "強制徴収"
+      },
+      {
+        "word": "proceeds",
+        "translation": "収益"
+      },
+      {
+        "word": "seize",
+        "translation": "差し押さえる"
+      },
+      {
+        "word": "confiscation",
+        "translation": "没収 (刑罰としての)"
+      },
+      {
+        "word": "wired overseas",
+        "translation": "海外に送金された"
+      }
+    ]
   }
 ]

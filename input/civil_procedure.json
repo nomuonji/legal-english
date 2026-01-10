@@ -2,40 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Succession of Litigation",
-    "definition": "The transfer of the position of a party in a pending lawsuit to a third party or a successor (such as an heir, or an assignee of the subject matter of the dispute).",
-    "japaneseDefinition": "訴訟が係属している間に、当事者の地位が、当事者の死亡や訴訟の目的物の譲渡などによって第三者または承継人に移転すること。",
-    "japaneseWordTranslation": "訴訟承継 (そしょうしょうけい)",
-    "legalContext": "Code of Civil Procedure Art. 124 (Assumption of Litigation by the Successor): 'If a party to a lawsuit dies, the litigation shall be assumed by the heir, administrator of the estate, or other person who is required to assume the litigation....'",
-    "japaneseLegalContext": "民事訴訟法第124条（承継人による訴訟の受継）：当事者が死亡したときは、訴訟手続は、相続人、相続財産管理人その他法令により訴訟を承継すべき者がこれを受け継がなければならない。",
-    "exampleSentence": "Upon the death of the plaintiff, the court issued an order for the heir to assume the **succession of litigation** according to the statutory provisions.",
-    "exampleTranslation": "原告の死亡を受け、裁判所は法令の規定に従い、相続人に対し**訴訟承継**を命じる決定を出した。",
-    "vocabularyList": [
-      {
-        "word": "heir",
-        "translation": "相続人"
-      },
-      {
-        "word": "assume the litigation",
-        "translation": "訴訟を受け継ぐ"
-      },
-      {
-        "word": "administrator of the estate",
-        "translation": "相続財産管理人"
-      },
-      {
-        "word": "statutory provisions",
-        "translation": "法令の規定"
-      },
-      {
-        "word": "pending lawsuit",
-        "translation": "係属中の訴訟"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Withdrawal of Suit",
     "definition": "A unilateral declaration by the plaintiff to abandon the pending litigation, which, if finalized, results in the lawsuit being deemed never to have been pending.",
     "japaneseDefinition": "原告が係属中の訴訟を終了させるために一方的に行う行為。これにより訴訟は係属しなかったものとみなされる。",
@@ -10962,6 +10928,120 @@
       {
         "word": "counsel",
         "translation": "弁護士（団）"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Effect upon Third Parties (of a judgment)",
+    "definition": "The principle that the legal effects of a final and binding judgment extend beyond the formal parties to the lawsuit (plaintiff and defendant) to specific non-parties, particularly in cases involving collective legal relationships (e.g., actions to declare the nullity of a corporate resolution).",
+    "japaneseDefinition": "判決の効力が訴訟の当事者以外の第三者にも及ぶとする原則。特に、会社決議の無効確認訴訟など、集団的な法律関係に関する訴訟で適用される。",
+    "japaneseWordTranslation": "判決の非当事者に対する効力 (はんけつのひとうじしゃにたいするこうりょく)",
+    "legalContext": "Civil Procedure Act (民事訴訟法) Art. 115: Scope of Effect of Judgment on Third Parties",
+    "japaneseLegalContext": "民事訴訟法第115条: 判決の第三者に対する効力",
+    "exampleSentence": "In an action seeking nullity of a corporate resolution, the judgment's effect upon third parties ensures that the finding binds all shareholders, even those who were non-parties to the suit.",
+    "exampleTranslation": "会社決議の無効を求める訴訟においては、判決の第三者への効力によって、訴訟の非当事者である株主も含め、全ての株主がその判断に拘束される。",
+    "vocabularyList": [
+      {
+        "word": "corporate resolution",
+        "translation": "会社決議"
+      },
+      {
+        "word": "nullity",
+        "translation": "無効"
+      },
+      {
+        "word": "shareholder",
+        "translation": "株主"
+      },
+      {
+        "word": "non-party",
+        "translation": "非当事者"
+      },
+      {
+        "word": "binding force",
+        "translation": "拘束力"
+      },
+      {
+        "word": "collective legal relationship",
+        "translation": "集団的な法律関係"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "High Degree of Probability",
+    "definition": "The standard of proof applied in Japanese civil litigation, requiring that a court finds the existence of an asserted fact to be substantially more likely than its non-existence, often translated as a ‘high degree of probability’ or ‘high likelihood.’",
+    "japaneseDefinition": "民事訴訟における事実認定の基準。裁判所が、当事者が主張する主要な事実の真偽について、その事実が存在することの確からしさが、存在しないことの確からしさを優越する程度に達していると判断すること。",
+    "japaneseWordTranslation": "高度の蓋然性 (こうどのがいぜんせい)",
+    "legalContext": "Civil Procedure Act (民事訴訟法) Art. 247: Judicial Discretion in Evidence Evaluation",
+    "japaneseLegalContext": "民事訴訟法第247条: 証拠の評価に関する裁判所の自由心証主義",
+    "exampleSentence": "To satisfy the burden of proof, the plaintiff must establish the material facts of the claim by demonstrating a high degree of probability based on the evidence presented.",
+    "exampleTranslation": "立証責任を満たすためには、原告は提出された証拠に基づき、請求の主要な事実について高度の蓋然性を証明しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "standard of proof",
+        "translation": "証明の基準"
+      },
+      {
+        "word": "asserted fact",
+        "translation": "主張された事実"
+      },
+      {
+        "word": "fact-finding",
+        "translation": "事実認定"
+      },
+      {
+        "word": "material facts",
+        "translation": "主要な事実"
+      },
+      {
+        "word": "evidence evaluation",
+        "translation": "証拠評価"
+      },
+      {
+        "word": "judicial discretion",
+        "translation": "自由心証"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Jurisdiction by Acceptance",
+    "definition": "A rule of civil procedure whereby a court acquires territorial jurisdiction over a case, even if it lacked it initially, provided the defendant proceeds to oral arguments or submits written statements regarding the merits of the case without entering an explicit objection to the venue.",
+    "japaneseDefinition": "被告が、管轄権のない裁判所において本案について弁論を行ったり、弁論準備手続きで陳述したりした際に、その裁判所が管轄権を持つことになるという原則。被告による管轄違いの申立てがない場合に成立する。",
+    "japaneseWordTranslation": "応訴管轄 (おうそかんかつ)",
+    "legalContext": "Civil Procedure Act (民事訴訟法) Art. 12: Jurisdiction by Acceptance",
+    "japaneseLegalContext": "民事訴訟法第12条: 応訴による管轄",
+    "exampleSentence": "The defendant's failure to file a timely motion challenging the venue meant that the court acquired jurisdiction by acceptance, despite the lack of initial territorial jurisdiction.",
+    "exampleTranslation": "被告が管轄を争う申立てを期限内に行わなかったため、当初の土地管轄がなかったにもかかわらず、裁判所は応訴管轄を取得した。",
+    "vocabularyList": [
+      {
+        "word": "territorial jurisdiction",
+        "translation": "土地管轄"
+      },
+      {
+        "word": "merits of the case",
+        "translation": "本案"
+      },
+      {
+        "word": "objection",
+        "translation": "異議"
+      },
+      {
+        "word": "venue",
+        "translation": "管轄"
+      },
+      {
+        "word": "oral arguments",
+        "translation": "弁論"
+      },
+      {
+        "word": "motion challenging the venue",
+        "translation": "管轄違いの申立て"
       }
     ]
   }

@@ -11040,5 +11040,81 @@
         "translation": "隠蔽した資産"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Title of Execution",
+    "definition": "A formal document or instrument (such as a final judgment, judicial settlement, or notarized deed stipulating payment) that legally substantiates the existence of a claim and is required to commence compulsory execution proceedings.",
+    "japaneseDefinition": "私法上の給付請求権の存在及び内容を公に証明し、強制執行手続を開始するための前提要件となる文書（確定判決、和解調書、強制執行認諾文言付公正証書など）。",
+    "japaneseWordTranslation": "債務名義 (さいむめいぎ)",
+    "legalContext": "Civil Execution Act Art. 22: The Titles of Execution shall be as follows: ... (enumerating types of documents).",
+    "japaneseLegalContext": "民事執行法第22条: 債務名義は、次に掲げるものとする。...（文書の種類の列挙）",
+    "exampleSentence": "The arbitral award, once authenticated by the court, functions as a Title of Execution, enabling the creditor to initiate enforcement proceedings against the debtor's assets.",
+    "exampleTranslation": "仲裁判断は、裁判所による認証がなされれば債務名義として機能し、債権者が債務者の財産に対する執行手続を開始することを可能にする。",
+    "vocabularyList": [
+      {
+        "word": "arbitral award",
+        "translation": "仲裁判断"
+      },
+      {
+        "word": "authenticated",
+        "translation": "認証された"
+      },
+      {
+        "word": "functions as",
+        "translation": "〜として機能する"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "initiate",
+        "translation": "開始する"
+      },
+      {
+        "word": "enforcement proceedings",
+        "translation": "執行手続"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action by Third Party to Contest Execution",
+    "definition": "A lawsuit filed by a third party against the execution obligee (creditor) to prevent compulsory execution on specific property, asserting that the property belongs to the third party or that the third party possesses a superior right preventing the execution.",
+    "japaneseDefinition": "執行対象の財産が自己の所有に属すること、または執行を許さない権利を有することを主張する第三者が、執行債権者を被告として提起する訴訟。",
+    "japaneseWordTranslation": "第三者異議の訴え (だいさんしゃいぎのうったえ)",
+    "legalContext": "Civil Execution Act Art. 38(1): A third party who owns the object of execution or has a right that prevents the execution... may file an action objecting to the execution against the execution obligee.",
+    "japaneseLegalContext": "民事執行法第38条第1項: 執行の目的物について所有権その他執行を妨げる権利を有する第三者は、債権者に対し、執行異議の訴えをもって、その執行の不許を求めることができる。",
+    "exampleSentence": "The warehouse owner filed an Action by Third Party to Contest Execution when the debtor's seized inventory was mistakenly located within the owner's separately owned storage unit.",
+    "exampleTranslation": "倉庫の所有者は、債務者の差押えられた在庫品が誤って所有者自身の別途所有する保管ユニット内に所在していたため、第三者異議の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "lawsuit",
+        "translation": "訴訟"
+      },
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "superior right",
+        "translation": "優越的な権利"
+      },
+      {
+        "word": "seized inventory",
+        "translation": "差し押さえられた在庫品"
+      },
+      {
+        "word": "separately owned",
+        "translation": "別途所有の"
+      }
+    ]
   }
 ]

@@ -10138,5 +10138,107 @@
         "translation": "遵守する (じゅんしゅする)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Appointment of Director",
+    "definition": "A temporary judicial measure where the court appoints an individual (a provisional director) to execute the company's business affairs when the number of serving directors falls below the statutory or charter-mandated minimum, thus ensuring the continuity of management.",
+    "japaneseDefinition": "取締役の欠員により会社法または定款で定められた員数を満たさない場合に、利害関係人の申立てに基づき、裁判所が一時的に会社の業務執行を行う取締役を選任すること。",
+    "japaneseWordTranslation": "一時取締役の選任 (いちじ とりしまりやく の せんにん)",
+    "legalContext": "Companies Act Art. 346(2): When a director is lacking... the court may appoint a provisional director upon petition by an interested party.",
+    "japaneseLegalContext": "会社法第346条第2項: 取締役が欠けた場合又はこの法律若しくは定款で定めた取締役の員数を欠くに至った場合における一時取締役の選任。",
+    "exampleSentence": "Following the unexpected bankruptcy filing of two executive officers, the supervisory board successfully petitioned the court for the **provisional appointment of a director** to maintain operational stability.",
+    "exampleTranslation": "執行役員2名の予期せぬ破産申立てを受け、監査役会は裁判所に対し業務の安定性を維持するための**一時取締役の選任**を申し立て、承認された。",
+    "vocabularyList": [
+      {
+        "word": "Petition",
+        "translation": "申立て"
+      },
+      {
+        "word": "Vacancy",
+        "translation": "欠員"
+      },
+      {
+        "word": "Interested party",
+        "translation": "利害関係人"
+      },
+      {
+        "word": "Operational stability",
+        "translation": "業務の安定性"
+      },
+      {
+        "word": "Supervisory board",
+        "translation": "監査役会"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Shortfall in Non-Cash Consideration Value",
+    "definition": "The obligation imposed primarily on incorporators and certain directors to compensate the company for any deficit if the fair market value of assets contributed in kind (non-cash consideration) at the time of incorporation or new share issuance is less than the value stipulated in the Articles of Incorporation.",
+    "japaneseDefinition": "会社設立時や新株発行時において、現物出資された財産の実際の価額が定款等に定められた価額に著しく不足する場合に、発起人や取締役等が会社に対しその不足額を填補する責任を負うこと。",
+    "japaneseWordTranslation": "財産引継ぎにおける価額不足責任 (ざいさん ひきつぎ における かがく ふそく せきにん)",
+    "legalContext": "Companies Act Art. 52(1): Liability of incorporators to pay the difference when the value of property received by the company falls short of the stated amount.",
+    "japaneseLegalContext": "会社法第52条第1項: 会社が承継した財産の価額が定款に記載された価額に著しく不足する場合の発起人の支払責任。",
+    "exampleSentence": "The auditor identified significant overvaluation of the patents during the incorporation process, leading to a claim against the incorporators based on the **liability for shortfall in non-cash consideration value**.",
+    "exampleTranslation": "監査役は設立プロセスにおける特許権の過大評価を指摘し、発起人に対して**財産引継ぎにおける価額不足責任**に基づく請求を行った。",
+    "vocabularyList": [
+      {
+        "word": "Non-cash consideration",
+        "translation": "現物出資"
+      },
+      {
+        "word": "Deficit / Shortfall",
+        "translation": "不足額"
+      },
+      {
+        "word": "Incorporation process",
+        "translation": "設立手続"
+      },
+      {
+        "word": "Stipulated value",
+        "translation": "定められた価額"
+      },
+      {
+        "word": "Overvaluation",
+        "translation": "過大評価"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Suspension of Officer Duties",
+    "definition": "A legal proceeding initiated by a shareholder or creditor seeking a provisional disposition from the court to temporarily suspend a company officer (such as a director or executive officer) from executing their official duties due to evidence of serious breaches of law or the company's Articles of Incorporation.",
+    "japaneseDefinition": "株主や債権者などが、法令や定款に違反する行為等の不正行為を理由として、裁判所に対し、会社の役員（取締役等）の職務執行を一時的に停止させるよう求める訴訟手続（仮処分）。",
+    "japaneseWordTranslation": "職務執行停止の申立て (しょくむ しっこう ていし の もうしたて)",
+    "legalContext": "Companies Act Art. 854: Grounds for an action to demand suspension of duties for officers who have committed illegal acts or acts contrary to the Articles of Incorporation.",
+    "japaneseLegalContext": "会社法第854条: 法令若しくは定款に違反する行為をし、又はするおそれがある場合の、職務執行停止の訴えの根拠。",
+    "exampleSentence": "The hedge fund, a major shareholder, filed an **action for suspension of officer duties** against the CEO after he diverted significant corporate assets to a related entity without proper board approval.",
+    "exampleTranslation": "大株主であるヘッジファンドは、CEOが適切な取締役会の承認なしに多額の会社資産を関連会社に流用した後、**職務執行停止の申立て**を行った。",
+    "vocabularyList": [
+      {
+        "word": "Provisional disposition",
+        "translation": "仮処分"
+      },
+      {
+        "word": "Breach of law",
+        "translation": "法令違反"
+      },
+      {
+        "word": "Related entity",
+        "translation": "関連会社"
+      },
+      {
+        "word": "Executive officer",
+        "translation": "執行役"
+      },
+      {
+        "word": "Filing an action",
+        "translation": "訴えを提起する"
+      }
+    ]
   }
 ]

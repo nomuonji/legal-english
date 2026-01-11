@@ -10996,5 +10996,139 @@
         "translation": "刑法総則"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicially Determined Punishment",
+    "definition": "The specific term and type of punishment (e.g., length of imprisonment, amount of fine) imposed by the court on an offender, calculated after considering statutory penalty ranges, judicial/statutory mitigations, and aggravating circumstances.",
+    "japaneseDefinition": "裁判所が、法定刑の範囲内で、法律上の加減（減軽、加重など）を経た後に、最終的に個別の犯罪者に科す刑罰の種類と量。",
+    "japaneseWordTranslation": "処断刑 (しょだんけい)",
+    "legalContext": "Criminal Code, General Provisions regarding Sentencing (e.g., CC Art. 68-72 establish rules for calculating the final range before imposition).",
+    "japaneseLegalContext": "刑法総則（刑の量定に関する規定）",
+    "exampleSentence": "The court examined the mitigating and aggravating factors before calculating the **judicially determined punishment** within the adjusted statutory range.",
+    "exampleTranslation": "裁判所は、法定刑を調整した範囲内で**処断刑**を算定する前に、酌量の余地のある事情と加重事情を検討した。",
+    "vocabularyList": [
+      {
+        "word": "statutory range",
+        "translation": "法定刑の範囲"
+      },
+      {
+        "word": "mitigating factors",
+        "translation": "酌量の余地のある事情"
+      },
+      {
+        "word": "aggravating circumstances",
+        "translation": "加重事情"
+      },
+      {
+        "word": "imposition",
+        "translation": "科すこと"
+      },
+      {
+        "word": "sentencing",
+        "translation": "量刑"
+      },
+      {
+        "word": "adjusted",
+        "translation": "調整された"
+      },
+      {
+        "word": "calculation",
+        "translation": "算定"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Punishment of Legal Entities",
+    "definition": "The system under which a corporation or other legal body is held criminally liable and subjected to penalties (usually fines) for the criminal acts committed by its representatives, agents, or employees in the course of business, often alongside the individual offender's liability.",
+    "japaneseDefinition": "法人の役員、従業員等がその業務に関して行った犯罪行為について、行為者個人に加えて当該法人自体にも刑罰（通常は罰金刑）を科す制度。両罰規定に基づいて運用されることが多い。",
+    "japaneseWordTranslation": "法人の処罰 (ほうじんのしょばつ)",
+    "legalContext": "Specific provisions in various special criminal laws that establish corporate liability, typically based on the Dual Liability Principle (両罰規定).",
+    "japaneseLegalContext": "各種特別刑法における両罰規定（刑法典自体には原則規定なし）",
+    "exampleSentence": "The **punishment of legal entities** ensures that corporate management exercises due diligence to prevent offenses committed by employees for the benefit of the company.",
+    "exampleTranslation": "**法人の処罰**は、会社のために従業員によって行われた犯罪を防止するため、企業経営者が適切な注意義務を果たすことを確実にする。",
+    "vocabularyList": [
+      {
+        "word": "corporate management",
+        "translation": "企業経営者"
+      },
+      {
+        "word": "criminally liable",
+        "translation": "刑事責任を負う"
+      },
+      {
+        "word": "special criminal laws",
+        "translation": "特別刑法"
+      },
+      {
+        "word": "due diligence",
+        "translation": "適切な注意義務"
+      },
+      {
+        "word": "representatives",
+        "translation": "代表者"
+      },
+      {
+        "word": "agents",
+        "translation": "代理人"
+      },
+      {
+        "word": "subjected to penalties",
+        "translation": "刑罰を科される"
+      },
+      {
+        "word": "individual offender",
+        "translation": "行為者個人"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Complaint-Based Offense",
+    "definition": "An offense for which the Public Prosecutor cannot initiate formal prosecution unless the victim or another person entitled to file a complaint (the accuser) formally lodges a petition within a specified period.",
+    "japaneseDefinition": "告訴権者（通常は被害者）による告訴がなければ、公訴を提起することができない犯罪。名誉毀損罪などがこれにあたる。",
+    "japaneseWordTranslation": "親告罪 (しんこくざい)",
+    "legalContext": "Code of Criminal Procedure, defining the requirement for a complaint (e.g., CCP Art. 232 concerning grounds for prosecution).",
+    "japaneseLegalContext": "刑事訴訟法第232条、刑法第232条（親告罪の規定）",
+    "exampleSentence": "Because defamation is a **complaint-based offense**, the prosecutor cannot pursue charges unless the injured party officially files a petition.",
+    "exampleTranslation": "名誉毀損罪は**親告罪**であるため、被害者が正式に告訴を提出しない限り、検察官は起訴を追行することができない。",
+    "vocabularyList": [
+      {
+        "word": "Public Prosecutor",
+        "translation": "検察官"
+      },
+      {
+        "word": "prosecution",
+        "translation": "公訴の提起"
+      },
+      {
+        "word": "defamation",
+        "translation": "名誉毀損罪"
+      },
+      {
+        "word": "victim",
+        "translation": "被害者"
+      },
+      {
+        "word": "petition",
+        "translation": "告訴状"
+      },
+      {
+        "word": "accuser",
+        "translation": "告訴権者"
+      },
+      {
+        "word": "formally lodges",
+        "translation": "正式に提出する"
+      },
+      {
+        "word": "injured party",
+        "translation": "被害を受けた者"
+      }
+    ]
   }
 ]

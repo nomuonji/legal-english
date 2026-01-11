@@ -9266,5 +9266,81 @@
         "translation": "現状 (げんじょう)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consent to Withdraw Security Deposit",
+    "definition": "The formal agreement, typically from the preservation debtor, or a judicial decision confirming that the purpose of the security has been fulfilled, allowing the preservation creditor to reclaim the security deposit furnished for a provisional measure.",
+    "japaneseDefinition": "保全命令のために提供された担保の目的が消滅したとき、または保全債務者の同意などにより、担保提供者がその担保金を取り戻す手続き。",
+    "japaneseWordTranslation": "担保取下げの同意 (たんぽとりさげのどうい)",
+    "legalContext": "Code of Civil Procedure Art. 79, para. 2 (Applied mutatis mutandis pursuant to Civil Preservation Act)",
+    "japaneseLegalContext": "民事訴訟法第79条第2項（民事保全法による準用）",
+    "exampleSentence": "The Preservation Creditor applied for the cancellation of security, submitting a document confirming the Preservation Debtor’s Consent to Withdraw Security Deposit.",
+    "exampleTranslation": "保全債権者は、保全債務者の担保取下げの同意書を提出し、担保取消しを申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "cancellation of security",
+        "translation": "担保取消し (たんぽとりけし)"
+      },
+      {
+        "word": "reclaim",
+        "translation": "取り戻す (とりもどす)"
+      },
+      {
+        "word": "security deposit",
+        "translation": "担保金 (たんぽきん)"
+      },
+      {
+        "word": "provisional measure",
+        "translation": "保全処分 (ほぜんしょぶん)"
+      },
+      {
+        "word": "preservation creditor",
+        "translation": "保全債権者 (ほぜんさいけんしゃ)"
+      },
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者 (ほぜんさいむしゃ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Concurrence of Preservation Measures",
+    "definition": "A procedural situation where multiple preservation orders (such as provisional attachments) issued by different courts or based on different execution titles target the same property of the debtor, necessitating rules for coordination during subsequent compulsory execution.",
+    "japaneseDefinition": "同一の保全債務者の財産に対して、複数の保全債権者による保全命令が発令され、その効力が及ぶ状態。その後の強制執行における手続調整が必要となる。",
+    "japaneseWordTranslation": "保全の競合 (ほぜんのきょうごう)",
+    "legalContext": "Civil Preservation Act Art. 49, para. 3 (Coordination upon subsequent seizure)",
+    "japaneseLegalContext": "民事保全法第49条第3項（後の差押えにおける調整）",
+    "exampleSentence": "When the Concurrence of Preservation Measures occurs on the same real property, the execution court handles the distribution of proceeds according to statutory priority rules.",
+    "exampleTranslation": "同一の不動産に保全の競合が発生した場合、執行裁判所は、法定の優先順位規則に従って売却代金の配当を行う。",
+    "vocabularyList": [
+      {
+        "word": "execution court",
+        "translation": "執行裁判所 (しっこうさいばんしょ)"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え (かりさしおさえ)"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行 (きょうせいしっこう)"
+      },
+      {
+        "word": "statutory priority rules",
+        "translation": "法定の優先順位規則 (ほうていのゆうせんじゅんいきそく)"
+      },
+      {
+        "word": "debtor's property",
+        "translation": "債務者の財産 (さいむしゃのざいさん)"
+      },
+      {
+        "word": "distribution of proceeds",
+        "translation": "売却代金の配当 (ばいきゃくだいきんのはいとう)"
+      }
+    ]
   }
 ]

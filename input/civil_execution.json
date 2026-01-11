@@ -10938,5 +10938,107 @@
         "translation": "賃借人 (ちんしゃくにん)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Standard Sale Price",
+    "definition": "The benchmark price for real property set by the execution court, based on appraisal, which serves as the basis for calculating the minimum bid price in a compulsory auction.",
+    "japaneseDefinition": "執行裁判所が不動産の鑑定評価に基づき定め、強制競売における買受可能価額（最低入札価格）を算出するための基準となる価格。",
+    "japaneseWordTranslation": "売却基準価額 (ばいきゃく きじゅん かがく)",
+    "legalContext": "Civil Execution Act Art. 60(1): If the court orders a compulsory auction of real property, it shall determine the Standard Sale Price based on the appraisal value.",
+    "japaneseLegalContext": "民事執行法 第60条第1項：強制競売の開始決定がされたときは、裁判所は、評価人に対し、不動産を評価させ、その評価に基づき、売却基準価額を定めなければならない。",
+    "exampleSentence": "The execution court adjusted the Standard Sale Price downwards due to significant deterioration discovered during the second appraisal.",
+    "exampleTranslation": "執行裁判所は、二度目の鑑定中に発見された重大な劣化を理由に、売却基準価額を下方修正した。",
+    "vocabularyList": [
+      {
+        "word": "appraisal",
+        "translation": "鑑定評価"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売"
+      },
+      {
+        "word": "deterioration",
+        "translation": "劣化"
+      },
+      {
+        "word": "minimum bid price",
+        "translation": "買受可能価額"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Delivery Order (Post-Sale)",
+    "definition": "A judicial order issued by the execution court, upon motion by the successful bidder, compelling the former possessor (such as the debtor or a tenant) of the executed real property to surrender possession to the acquirer.",
+    "japaneseDefinition": "執行裁判所が、強制競売により不動産を取得した者（買受人）の申立てに基づき、従来の占有者（債務者や占有者等）に対し、その不動産を引渡すよう命じる裁判。",
+    "japaneseWordTranslation": "引渡命令 (ひきわたし めいれい)",
+    "legalContext": "Civil Execution Act Art. 83(1): The execution court shall, upon motion by the acquirer, issue a Delivery Order against the execution obligor or possessor of the real property.",
+    "japaneseLegalContext": "民事執行法 第83条第1項：裁判所は、買受人の申立てにより、債務者又は不動産の占有者に対し、不動産を買受人に引き渡すよう命じなければならない。",
+    "exampleSentence": "The successful bidder received the Delivery Order 90 days after the payment date, enabling forced eviction of the unauthorized occupant.",
+    "exampleTranslation": "買受人は、代金納付日から90日後に引渡命令を受け、それによって無権原の占有者の強制的な立退きが可能となった。",
+    "vocabularyList": [
+      {
+        "word": "successful bidder",
+        "translation": "買受人"
+      },
+      {
+        "word": "surrender possession",
+        "translation": "引渡し"
+      },
+      {
+        "word": "former possessor",
+        "translation": "従来の占有者"
+      },
+      {
+        "word": "forced eviction",
+        "translation": "強制的な立退き"
+      },
+      {
+        "word": "unauthorized occupant",
+        "translation": "無権原の占有者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Third Party Information Acquisition",
+    "definition": "A formal procedural mechanism allowing the execution obligee to request that specified third parties (e.g., banks or public agencies) provide information regarding the execution obligor's assets to the court.",
+    "japaneseDefinition": "執行債権者が、特定の第三者（例えば、銀行や公的機関）に対して、執行債務者の財産に関する情報を提供するよう裁判所に申し立てる正式な手続。",
+    "japaneseWordTranslation": "第三者からの情報取得 (だいさんしゃ からの じょうほう しゅとく)",
+    "legalContext": "Civil Execution Act Art. 204: A person who has obtained a judgment concerning a claim may file a motion requesting the court to order a third party to provide information regarding the obligor's proprietary interests.",
+    "japaneseLegalContext": "民事執行法 第204条：債権に関する確定判決を得た者は、裁判所に対し、第三者に対し債務者の財産に関する情報を提供するよう命じる申立てをすることができる。",
+    "exampleSentence": "The execution obligee resorted to Third Party Information Acquisition after determining the obligor had concealed significant assets held at financial institutions.",
+    "exampleTranslation": "執行債権者は、債務者が金融機関に保有する重要な資産を隠蔽したと判断した後、第三者からの情報取得の手続に訴えた。",
+    "vocabularyList": [
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "execution obligor",
+        "translation": "執行債務者"
+      },
+      {
+        "word": "proprietary interests",
+        "translation": "財産に関する権利"
+      },
+      {
+        "word": "financial institutions",
+        "translation": "金融機関"
+      },
+      {
+        "word": "concealed assets",
+        "translation": "隠蔽した資産"
+      }
+    ]
   }
 ]

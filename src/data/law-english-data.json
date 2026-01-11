@@ -1,42 +1,46 @@
 {
   "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Assignment of Claim",
-  "definition": "The transfer of a monetary claim or other claim (obligation) by the current creditor (assignor) to a third party (assignee).",
-  "japaneseDefinition": "債権者が自己の有する債権を、その同一性を維持したまま、第三者に移転させる行為。",
-  "japaneseWordTranslation": "債権譲渡 (さいけんじょうと)",
-  "legalContext": "Civil Code Art. 466: 'A claim may be assigned; provided, however, that this shall not apply if the nature of the claim does not permit it.'",
-  "japaneseLegalContext": "民法第466条: 「債権は、譲り渡すことができる。ただし、その性質がこれを許さないときは、この限りでない。」",
-  "exampleSentence": "The effectiveness of an Assignment of Claim against the debtor requires that the assignor give notice to the debtor or obtain the debtor's consent thereto.",
-  "exampleTranslation": "債務者に対する債権譲渡の対抗要件としては、譲渡人が債務者に通知をするか、または債務者の承諾を得る必要がある。",
+  "word": "Mental Reservation",
+  "definition": "A declaration of intention made by a party who knows that the intention expressed in the declaration is not their true intent (a joke or simulated declaration).",
+  "japaneseDefinition": "表意者が真意ではないことを知りながら、その意思を表示すること（冗談や仮装行為）。",
+  "japaneseWordTranslation": "心裡留保 (しんりりゅうほ)",
+  "legalContext": "Civil Code Art. 93: 'A declaration of intention shall be effective even if the declarant intended to reserve his/her true intention, except where the other party knew, or should have known, of the declarant’s reservation.'",
+  "japaneseLegalContext": "民法第93条: 「意思表示は、表意者がその真意ではないことを知ってしたときであっても、そのためにその効力を妨げられない。ただし、相手方がその意思表示が表意者の真意ではないことを知り、又は知ることができたときは、その効力を生じない。」",
+  "exampleSentence": "If the recipient of the offer was unaware of the declarant's Mental Reservation, the declaration stands as a binding juridical act.",
+  "exampleTranslation": "もし、申し出の受領者が、表明者の心裡留保を知らなかった場合、その意思表示は拘束力のある法律行為として成立する。",
   "vocabularyList": [
     {
-      "word": "monetary claim",
-      "translation": "金銭債権"
+      "word": "declaration of intention",
+      "translation": "意思表示"
     },
     {
-      "word": "assignor",
-      "translation": "譲渡人"
+      "word": "declarant",
+      "translation": "表意者"
     },
     {
-      "word": "assignee",
-      "translation": "譲受人"
+      "word": "true intent",
+      "translation": "真意"
     },
     {
-      "word": "effectiveness",
-      "translation": "有効性"
+      "word": "simulated declaration",
+      "translation": "仮装行為"
     },
     {
-      "word": "against the debtor",
-      "translation": "債務者に対する対抗要件として"
+      "word": "recipient of the offer",
+      "translation": "申出の受領者"
     },
     {
-      "word": "give notice",
-      "translation": "通知する"
+      "word": "unaware",
+      "translation": "知らなかった"
     },
     {
-      "word": "consent",
-      "translation": "承諾"
+      "word": "binding",
+      "translation": "拘束力のある"
+    },
+    {
+      "word": "juridical act",
+      "translation": "法律行為"
     }
   ]
 }

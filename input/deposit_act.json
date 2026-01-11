@@ -7336,5 +7336,81 @@
         "translation": "国庫"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consignment (of the Subject Matter)",
+    "definition": "The formal procedure of entrusting the object of a debt to a legally authorized repository (deposit office) to terminate the duty owed by the debtor, typically invoked when the recipient of the thing declines or cannot accept delivery.",
+    "japaneseDefinition": "債権者が弁済の受領を拒否、または受領できない場合に、債務者が弁済の目的物を供託所に預け入れ、債務を消滅させる行為。",
+    "japaneseWordTranslation": "履行の供託 (Rikō no kyōtaku)",
+    "legalContext": "Deposit Act Art. 1: (Scope of Application)",
+    "japaneseLegalContext": "供託法第１条（適用範囲）",
+    "exampleSentence": "The obligor initiated *consignment of the subject matter* after documenting the creditor's refusal to accept the tendered funds at the agreed time and location.",
+    "exampleTranslation": "債務者は、債権者が合意された日時および場所で提供された資金の受領を拒否したことを文書で確認した後、履行の供託を開始した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "deposit office",
+        "translation": "供託所"
+      },
+      {
+        "word": "tendered funds",
+        "translation": "提供された資金"
+      },
+      {
+        "word": "refusal to accept",
+        "translation": "受領拒否"
+      },
+      {
+        "word": "documenting",
+        "translation": "文書で確認する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Entitlement Holder (Deposit)",
+    "definition": "The person who possesses the statutory right to request the withdrawal or delivery of the deposited property (money or securities) from the competent deposit office.",
+    "japaneseDefinition": "供託所に対し、供託された金銭または有価証券の払渡しを請求する法的権利を有する者。通常は供託によって弁済を受けるべき債権者である。",
+    "japaneseWordTranslation": "供託物受領権者 (Kyōtakubutsu juryō kenja)",
+    "legalContext": "Deposit Act Art. 25: (Payment of Deposited Property)",
+    "japaneseLegalContext": "供託法第２５条（供託物の払渡し）",
+    "exampleSentence": "Identification as the *Entitlement Holder (Deposit)* requires the presentation of a specific certificate or a judicial order confirming the right to receive the deposited funds.",
+    "exampleTranslation": "供託物受領権者としての身元確認には、特定の証明書、または供託された資金を受け取る権利を確定させる裁判所の決定書の提出が必要である。",
+    "vocabularyList": [
+      {
+        "word": "withdrawal",
+        "translation": "取戻し"
+      },
+      {
+        "word": "deposited property",
+        "translation": "供託物"
+      },
+      {
+        "word": "competent",
+        "translation": "管轄の"
+      },
+      {
+        "word": "securities",
+        "translation": "有価証券"
+      },
+      {
+        "word": "presentation",
+        "translation": "提示"
+      },
+      {
+        "word": "judicial order",
+        "translation": "裁判所の決定"
+      }
+    ]
   }
 ]

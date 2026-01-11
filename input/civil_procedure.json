@@ -11146,5 +11146,119 @@
         "translation": "担保権 (tanpoken)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "The Dispositif",
+    "definition": "The operative and conclusive section of a judicial judgment (判決), containing the court's definitive ruling, command, or disposition of the case, which obtains the binding force (res judicata).",
+    "japaneseDefinition": "判決書の末尾に記載される、訴えに対する裁判所の最終的かつ決定的な判断を示す部分。既判力の対象となる。",
+    "japaneseWordTranslation": "主文 (しゅぶん)",
+    "legalContext": "Code of Civil Procedure (CCP) Art. 252 (Contents of Judgment): The text of the judgment shall include the statement of the claim (dispositif) and the grounds.",
+    "japaneseLegalContext": "民事訴訟法第252条（判決の方式）：判決書には、主文及び理由を記載し、裁判長及び裁判官がこれに署名押印しなければならない。",
+    "exampleSentence": "The court's decision was contained solely within the dispositif, which declared the termination of the obligation between the parties.",
+    "exampleTranslation": "裁判所の決定は、当事者間の債務の消滅を宣言した主文のみに含まれていた。",
+    "vocabularyList": [
+      {
+        "word": "Operative clause",
+        "translation": "主文条項"
+      },
+      {
+        "word": "Judicial judgment",
+        "translation": "裁判判決"
+      },
+      {
+        "word": "Binding force",
+        "translation": "拘束力"
+      },
+      {
+        "word": "Ruling",
+        "translation": "裁定"
+      },
+      {
+        "word": "Appeal",
+        "translation": "上訴"
+      },
+      {
+        "word": "Termination",
+        "translation": "終了"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Litigation Security",
+    "definition": "A mandatory or voluntary provision of funds, bonds, or other guarantee required by the court, typically to ensure the opposing party is indemnified for potential litigation-related losses or enforcement expenses should the claim fail.",
+    "japaneseDefinition": "訴訟費用の支払いや、仮差押え・仮処分によって相手方に生じうる損害を担保するために、原告等に裁判所が命じる金銭等の提供。",
+    "japaneseWordTranslation": "訴訟担保 (そしょうたんぽ)",
+    "legalContext": "CCP Art. 75 (Provision of Security for Litigation Costs): Where the plaintiff is a non-resident who does not possess assets subject to execution within Japan, the court may order the provision of security for litigation costs upon motion by the defendant.",
+    "japaneseLegalContext": "民事訴訟法第75条（訴訟費用の担保）：原告が日本国内に執行すべき財産を有しない場合において、被告の申立てがあったときは、裁判所は、決定で、訴訟費用の担保を立てるべきことを原告に命じなければならない。",
+    "exampleSentence": "The plaintiff was ordered to provide 5 million yen as litigation security prior to the provisional attachment being confirmed.",
+    "exampleTranslation": "原告は、仮差押えが確定する前に、訴訟担保として500万円を提供するよう命じられた。",
+    "vocabularyList": [
+      {
+        "word": "Provision of funds",
+        "translation": "資金の提供"
+      },
+      {
+        "word": "Indemnified",
+        "translation": "補償された"
+      },
+      {
+        "word": "Enforcement expenses",
+        "translation": "執行費用"
+      },
+      {
+        "word": "Non-resident",
+        "translation": "非居住者"
+      },
+      {
+        "word": "Provisional attachment",
+        "translation": "仮差押え"
+      },
+      {
+        "word": "Upon motion",
+        "translation": "申立てに基づき"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Formal Party",
+    "definition": "A person or entity that acts in the name of the suit as the plaintiff or defendant based on specific statutory designation, even though the actual right or legal interest subject to the dispute belongs to a different person (the substantive party).",
+    "japaneseDefinition": "実体法上の権利義務の帰属主体ではないが、法律の定めにより、自己の名で訴訟を追行する資格を与えられた者。",
+    "japaneseWordTranslation": "形式的当事者 (けいしきてき とうじしゃ)",
+    "legalContext": "This concept is a general principle applied where a procedural law (such as the Civil Execution Act or Corporate Law) designates a specific party to maintain the action, displacing the true rights holder in the procedural framework.",
+    "japaneseLegalContext": "民事執行法や会社法などの手続法において、実体上の権利者ではなく、法律の指定により訴訟追行権を付与された当事者を指す法原則。",
+    "exampleSentence": "In an execution objection suit concerning seized property, the execution obligee acts as the formal party, representing the interest in the secured property.",
+    "exampleTranslation": "差押えられた財産に関する執行異議の訴えにおいて、執行債権者は、担保された利益を代表する形式的当事者として行為する。",
+    "vocabularyList": [
+      {
+        "word": "Nominal role",
+        "translation": "名目上の役割"
+      },
+      {
+        "word": "Statutory designation",
+        "translation": "法令による指定"
+      },
+      {
+        "word": "Actual rights holder",
+        "translation": "実質的権利者"
+      },
+      {
+        "word": "Execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "Execution objection suit",
+        "translation": "執行異議の訴え"
+      },
+      {
+        "word": "Procedural framework",
+        "translation": "手続的枠組み"
+      }
+    ]
   }
 ]

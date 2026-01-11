@@ -7412,5 +7412,119 @@
         "translation": "裁判所の決定"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consignment for Exoneration",
+    "definition": "The act by which an obligor transfers the subject matter of performance (usually money or securities) to a statutory office to be held for the obligee, thereby extinguishing the underlying liability, typically due to the obligee's refusal or inability to accept the tender.",
+    "japaneseDefinition": "債務者が、債権者の受領拒否や受領不能を原因として、債務を免れるために弁済の目的物を法務局などの供託機関に預け入れる行為。",
+    "japaneseWordTranslation": "弁済のための供託 (Bensai no tame no kyōtaku)",
+    "legalContext": "Civil Code Art. 494 (Effect of Consignment): The consignment shall cause the extinguishment of the obligation.",
+    "japaneseLegalContext": "民法第494条（供託の効果）：供託は、債権者がこれを受諾し、又は供託を有効とする判決が確定した時に、その債務を消滅させる。",
+    "exampleSentence": "In cases of creditor's delay, the debtor must make a Consignment for Exoneration at the appropriate repository to avoid ongoing liability for delay.",
+    "exampleTranslation": "債権者遅滞の場合、債務者は遅延責任を免れるため、適切な供託所に弁済のための供託をしなければならない。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者 (saimusha)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (saikensha)"
+      },
+      {
+        "word": "tender",
+        "translation": "提供 (teikyō)"
+      },
+      {
+        "word": "creditor's delay",
+        "translation": "債権者遅滞 (saikensha chitai)"
+      },
+      {
+        "word": "underlying liability",
+        "translation": "基礎となる責任 (kiso to naru sekinin)"
+      },
+      {
+        "word": "extinguishing",
+        "translation": "消滅させる (shōmetsu saseru)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Retrieval of Consigned Assets",
+    "definition": "The action or right of the consignor (depositor) to regain possession of the assets placed in the statutory repository, provided that the legal basis for the consignment has ceased to exist or the period for the entitled party to claim the assets has not yet expired.",
+    "japaneseDefinition": "供託物取戻請求権の行使などにより、供託された金銭や有価証券を供託者（元々の債務者）が取り戻すこと。",
+    "japaneseWordTranslation": "供託物の取戻し (Kyōtaku-butsu no torimodosh)",
+    "legalContext": "Deposit Act Art. 36 Para. 1: The depositor may recover the consigned property, except when the facts constituting the reason for the consignment cease to exist, or in other cases specified by Cabinet Order.",
+    "japaneseLegalContext": "供託法第36条第1項：供託者は、供託物を取り戻すことができる。ただし、供託をした際に、その理由となっていた事実が消滅したとき、その他政令で定める場合は、この限りでない。",
+    "exampleSentence": "The company filed a petition for Retrieval of Consigned Assets after the court invalidated the underlying sales agreement that necessitated the original consignment.",
+    "exampleTranslation": "裁判所が当初の供託を必要とした売買契約の根拠を無効としたため、その会社は供託物の取戻しを申請した。",
+    "vocabularyList": [
+      {
+        "word": "consignor",
+        "translation": "供託者 (kyōtakusha)"
+      },
+      {
+        "word": "entitled party",
+        "translation": "受領権者 (juryō kensha)"
+      },
+      {
+        "word": "legal basis",
+        "translation": "法律上の根拠 (hōritsu-jō no konkyo)"
+      },
+      {
+        "word": "underlying agreement",
+        "translation": "基礎となる契約 (kiso to naru keiyaku)"
+      },
+      {
+        "word": "invalidated",
+        "translation": "無効にした (mukō ni shita)"
+      },
+      {
+        "word": "cessation",
+        "translation": "消滅 (shōmetsu)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Consignment Repository",
+    "definition": "The official governmental facility, typically managed by the Legal Affairs Bureau, legally designated to receive, administer, and maintain custody of money, securities, or other objects transferred pursuant to the Deposit Act or other legal mandates.",
+    "japaneseDefinition": "法務局など、法務大臣が指定し、法律に基づき金銭、有価証券その他の物品の供託に関する事務を取り扱う国の機関。",
+    "japaneseWordTranslation": "供託所 (Kyōtaku-jo)",
+    "legalContext": "Deposit Act Art. 1: The Deposit Office shall handle the business concerning the deposit of money, securities, and other objects.",
+    "japaneseLegalContext": "供託法第1条（供託所の設置）：供託所は、金銭、有価証券その他の物品の供託に関する事務を取り扱う。",
+    "exampleSentence": "All formal applications for consignment must be submitted to the competent Statutory Consignment Repository having jurisdiction over the location of performance.",
+    "exampleTranslation": "供託に関するすべての正式な申請は、弁済地の管轄権を有する所管の供託所に提出されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "competent",
+        "translation": "所管の (shokan no)"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄 (kankatsu)"
+      },
+      {
+        "word": "Legal Affairs Bureau",
+        "translation": "法務局 (Hōmukyoku)"
+      },
+      {
+        "word": "custody",
+        "translation": "保管 (hokan)"
+      },
+      {
+        "word": "legal mandates",
+        "translation": "法的義務 (hōteki gimu)"
+      },
+      {
+        "word": "location of performance",
+        "translation": "弁済地 (bensai chi)"
+      }
+    ]
   }
 ]

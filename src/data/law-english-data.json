@@ -1,46 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Mental Reservation",
-  "definition": "A declaration of intention made by a party who knows that the intention expressed in the declaration is not their true intent (a joke or simulated declaration).",
-  "japaneseDefinition": "表意者が真意ではないことを知りながら、その意思を表示すること（冗談や仮装行為）。",
-  "japaneseWordTranslation": "心裡留保 (しんりりゅうほ)",
-  "legalContext": "Civil Code Art. 93: 'A declaration of intention shall be effective even if the declarant intended to reserve his/her true intention, except where the other party knew, or should have known, of the declarant’s reservation.'",
-  "japaneseLegalContext": "民法第93条: 「意思表示は、表意者がその真意ではないことを知ってしたときであっても、そのためにその効力を妨げられない。ただし、相手方がその意思表示が表意者の真意ではないことを知り、又は知ることができたときは、その効力を生じない。」",
-  "exampleSentence": "If the recipient of the offer was unaware of the declarant's Mental Reservation, the declaration stands as a binding juridical act.",
-  "exampleTranslation": "もし、申し出の受領者が、表明者の心裡留保を知らなかった場合、その意思表示は拘束力のある法律行為として成立する。",
+  "word": "Withdrawal of Suit",
+  "definition": "A unilateral declaration by the plaintiff to abandon the pending litigation, which, if finalized, results in the lawsuit being deemed never to have been pending.",
+  "japaneseDefinition": "原告が係属中の訴訟を終了させるために一方的に行う行為。これにより訴訟は係属しなかったものとみなされる。",
+  "japaneseWordTranslation": "訴えの取下げ (うったえのとりさげ)",
+  "legalContext": "Code of Civil Procedure Art. 261 (Effect of Withdrawal): 'The litigation shall be deemed never to have been pending when a withdrawal of suit is made....'",
+  "japaneseLegalContext": "民事訴訟法第261条（訴えの取下げの効力）：訴えの取下げがあったときは、訴訟は、初めから係属していなかったものとみなされる。",
+  "exampleSentence": "The defendant consented to the **withdrawal of suit** after the parties successfully negotiated a confidential settlement agreement outside of court.",
+  "exampleTranslation": "当事者が裁判外で秘密裏の和解契約を締結した後、被告は**訴えの取下げ**に同意した。",
   "vocabularyList": [
     {
-      "word": "declaration of intention",
-      "translation": "意思表示"
+      "word": "unilateral declaration",
+      "translation": "一方的な意思表示"
     },
     {
-      "word": "declarant",
-      "translation": "表意者"
+      "word": "confidential settlement",
+      "translation": "秘密裏の和解"
     },
     {
-      "word": "true intent",
-      "translation": "真意"
+      "word": "deemed",
+      "translation": "みなされる"
     },
     {
-      "word": "simulated declaration",
-      "translation": "仮装行為"
+      "word": "consent",
+      "translation": "同意する"
     },
     {
-      "word": "recipient of the offer",
-      "translation": "申出の受領者"
+      "word": "pending",
+      "translation": "係属している"
     },
     {
-      "word": "unaware",
-      "translation": "知らなかった"
-    },
-    {
-      "word": "binding",
-      "translation": "拘束力のある"
-    },
-    {
-      "word": "juridical act",
-      "translation": "法律行為"
+      "word": "negotiated",
+      "translation": "交渉した"
     }
   ]
 }

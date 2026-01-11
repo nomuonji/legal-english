@@ -9152,5 +9152,119 @@
         "translation": "必要条件"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exemption Fund",
+    "definition": "The money deposited by a preservation debtor pursuant to Article 25 of the Civil Preservation Act to obtain the suspension or discharge (revocation) of a provisional attachment measure. This fund substitutes the attached property.",
+    "japaneseDefinition": "民事保全法第25条に基づき、保全債務者が仮差押えの執行の停止又は取消しを得るために供託する金銭。供託された金銭は、差し押さえられた財産に代わるものとして扱われる。",
+    "japaneseWordTranslation": "解放金 (かいほうきん)",
+    "legalContext": "Civil Preservation Act, Article 25 (Discharge of Provisional Attachment by Debtor’s Deposit): 'A provisional attachment shall be revoked if the preservation debtor deposits the amount specified in the provisional attachment order...' (Trans. summary)",
+    "japaneseLegalContext": "民事保全法第25条（仮差押えの執行の停止及び取消し）：『仮差押えの執行は、仮差押命令において定められた額の金銭が供託されたときは、これを取り消すことができる。』",
+    "exampleSentence": "The debtor opted to deposit the Exemption Fund instead of allowing the attachment of the factory equipment, thereby ensuring continued business operations.",
+    "exampleTranslation": "債務者は、工場の設備が差し押さえられることを避けるため、事業の継続を確実にする目的で解放金を供託することを選択した。",
+    "vocabularyList": [
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え (かりさしおさえ)"
+      },
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者 (ほぜんさいむしゃ)"
+      },
+      {
+        "word": "deposit",
+        "translation": "供託 (きょうたく)"
+      },
+      {
+        "word": "suspension of execution",
+        "translation": "執行の停止 (しっこうのていし)"
+      },
+      {
+        "word": "revocation",
+        "translation": "取消し (とりけし)"
+      },
+      {
+        "word": "factory equipment",
+        "translation": "工場設備 (こうじょうせつび)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "The Claim to be Secured",
+    "definition": "The underlying substantive right or claim held by the preservation creditor (obligee) for which judicial preservation measures (provisional attachment or provisional disposition) are sought to ensure that future compulsory execution is possible or meaningful.",
+    "japaneseDefinition": "保全債権者が、将来の強制執行を可能または有意義にするために、民事保全措置（仮差押えまたは仮処分）を求める根拠となる実体上の権利または請求権。",
+    "japaneseWordTranslation": "被保全権利 (ひほぜんけんり)",
+    "legalContext": "Civil Preservation Act, Article 13(1): 'A motion for a Preservation Order shall clearly specify the Claim to be Secured and the grounds for preservation.'",
+    "japaneseLegalContext": "民事保全法第13条第1項：『保全命令の申立ては、被保全権利及び保全の必要性を明らかにして、これをしなければならない。』",
+    "exampleSentence": "In the petition for the provisional measure, the obligee must demonstrate both the plausibility of The Claim to be Secured and the necessity for immediate relief.",
+    "exampleTranslation": "仮保全の申立てにおいて、債権者は被保全権利の疎明と、直ちに必要な救済措置の必要性の両方を示さなければならない。",
+    "vocabularyList": [
+      {
+        "word": "preservation creditor",
+        "translation": "保全債権者 (ほぜんさいけんしゃ)"
+      },
+      {
+        "word": "provisional measure",
+        "translation": "保全措置 (ほぜんそち)"
+      },
+      {
+        "word": "grounds for preservation",
+        "translation": "保全の必要性 (ほぜんのひつようせい)"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行 (きょうせいしっこう)"
+      },
+      {
+        "word": "petition",
+        "translation": "申立て (もうしたて)"
+      },
+      {
+        "word": "plausibility",
+        "translation": "疎明 (そめい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interim Injunction on Litigated Property",
+    "definition": "A type of provisional disposition (status quo preservation) aimed at restricting the debtor’s actions concerning a specific piece of property that is the subject matter of the main underlying lawsuit, typically by prohibiting the transfer or modification of that property.",
+    "japaneseDefinition": "本案訴訟の目的となっている特定の財産について、債務者がその現状を変更したり、譲渡したりすることを禁止するなど、その現状維持を目的とする仮処分の一種。",
+    "japaneseWordTranslation": "係争物に関する仮処分 (けいそうぶつにかんするかりしょぶん)",
+    "legalContext": "Civil Preservation Act, Article 23(1) (Provisional Disposition): 'A provisional disposition concerning the subject matter of litigation shall be issued when there is a risk that the execution of a judgment concerning the subject matter of litigation will become impossible or extremely difficult due to a change in the status quo.'",
+    "japaneseLegalContext": "民事保全法第23条第1項（仮処分）：『係争物に関する仮処分は、その現状の変更により、裁判の執行が不能になり、又は著しく困難となるおそれがあるときに発することができる。』",
+    "exampleSentence": "The court issued an Interim Injunction on Litigated Property, forbidding the defendant from selling the real estate until the ownership dispute was resolved in the main action.",
+    "exampleTranslation": "裁判所は、所有権紛争が本案訴訟で解決されるまで、被告がその不動産を売却することを禁じる係争物に関する仮処分を発した。",
+    "vocabularyList": [
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分 (かりしょぶん)"
+      },
+      {
+        "word": "subject matter of litigation",
+        "translation": "係争物 (けいそうぶつ)"
+      },
+      {
+        "word": "main action",
+        "translation": "本案訴訟 (ほんなんそしょう)"
+      },
+      {
+        "word": "restricting actions",
+        "translation": "行為の制限 (こういのせいげん)"
+      },
+      {
+        "word": "transfer",
+        "translation": "譲渡 (じょうと)"
+      },
+      {
+        "word": "status quo",
+        "translation": "現状 (げんじょう)"
+      }
+    ]
   }
 ]

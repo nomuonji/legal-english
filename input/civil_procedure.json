@@ -2,44 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Withdrawal of Suit",
-    "definition": "A unilateral declaration by the plaintiff to abandon the pending litigation, which, if finalized, results in the lawsuit being deemed never to have been pending.",
-    "japaneseDefinition": "原告が係属中の訴訟を終了させるために一方的に行う行為。これにより訴訟は係属しなかったものとみなされる。",
-    "japaneseWordTranslation": "訴えの取下げ (うったえのとりさげ)",
-    "legalContext": "Code of Civil Procedure Art. 261 (Effect of Withdrawal): 'The litigation shall be deemed never to have been pending when a withdrawal of suit is made....'",
-    "japaneseLegalContext": "民事訴訟法第261条（訴えの取下げの効力）：訴えの取下げがあったときは、訴訟は、初めから係属していなかったものとみなされる。",
-    "exampleSentence": "The defendant consented to the **withdrawal of suit** after the parties successfully negotiated a confidential settlement agreement outside of court.",
-    "exampleTranslation": "当事者が裁判外で秘密裏の和解契約を締結した後、被告は**訴えの取下げ**に同意した。",
-    "vocabularyList": [
-      {
-        "word": "unilateral declaration",
-        "translation": "一方的な意思表示"
-      },
-      {
-        "word": "confidential settlement",
-        "translation": "秘密裏の和解"
-      },
-      {
-        "word": "deemed",
-        "translation": "みなされる"
-      },
-      {
-        "word": "consent",
-        "translation": "同意する"
-      },
-      {
-        "word": "pending",
-        "translation": "係属している"
-      },
-      {
-        "word": "negotiated",
-        "translation": "交渉した"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Necessary Co-litigation",
     "definition": "A form of co-litigation where the judgment must be rendered uniformly for all joint parties because the subject matter concerns a unified legal relationship, requiring all essential parties to participate.",
     "japaneseDefinition": "訴訟の目的である権利関係が共同当事者の全員について合一に確定されなければならないため、全員を当事者として訴訟追行することが要求される共同訴訟。",
@@ -11258,6 +11220,78 @@
       {
         "word": "Procedural framework",
         "translation": "手続的枠組み"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Conviction",
+    "definition": "The degree of certainty achieved by the court regarding the truth or falsity of material facts after evaluating the evidence presented, which must reach the level of the judge's personal belief (conviction). This forms the basis for factual findings.",
+    "japaneseDefinition": "裁判官が提出された証拠を評価した上で、主要事実の真偽について到達した確信の程度。事実認定の基礎となる。",
+    "japaneseWordTranslation": "心証 (Shinshō)",
+    "legalContext": "Code of Civil Procedure Art. 247: The court shall establish facts based on its judicial conviction obtained through a general consideration of the entire import of the oral arguments and the result of the examination of evidence.",
+    "japaneseLegalContext": "民事訴訟法第247条: 裁判所は、口頭弁論の全趣旨及び証拠調べの結果を総合して、自由な心証により事実を認定する。",
+    "exampleSentence": "The judge ultimately dismissed the claim because the plaintiff failed to establish a strong enough *judicial conviction* regarding the causal link between the defendant's actions and the alleged loss.",
+    "exampleTranslation": "裁判官は最終的に請求を棄却した。なぜなら、原告が被告の行為と申し立てられた損害との間の因果関係について十分な心証を確立できなかったためである。",
+    "vocabularyList": [
+      {
+        "word": "establish facts",
+        "translation": "事実を認定する (Jijitsu o nintei suru)"
+      },
+      {
+        "word": "oral arguments",
+        "translation": "口頭弁論 (Kōtō benron)"
+      },
+      {
+        "word": "examination of evidence",
+        "translation": "証拠調べ (Shōko shirabe)"
+      },
+      {
+        "word": "causal link",
+        "translation": "因果関係 (Inga kankei)"
+      },
+      {
+        "word": "dismissed the claim",
+        "translation": "請求を棄却した (Seikyū o kikyaku shita)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Doctrine of the Subject Matter of the Suit",
+    "definition": "A foundational concept defining the specific legal dispute (the 'object of the suit') submitted for the court’s adjudication. It dictates what constitutes the same claim across different stages of litigation.",
+    "japaneseDefinition": "訴訟において裁判所の審判の対象となる特定の法律紛争（訴訟物）を画定するための基礎的な概念。請求の同一性や審判対象の範囲を決定する。",
+    "japaneseWordTranslation": "訴訟物理論 (Soshōbutsu Riron)",
+    "legalContext": "CCP General Principle: Governs the limits of the court’s judgment authority and the binding nature of the judgment on subsequent litigation (a major focus of academic debate in Japanese civil procedure).",
+    "japaneseLegalContext": "民事訴訟法総則: 裁判所の判決権限の限界及び後訴に対する判決の拘束力（既判力）の範囲を定める（日本の民事訴訟法学における主要な論点）。",
+    "exampleSentence": "The defense argued that the plaintiff’s current assertion was barred because it involved the identical *subject matter of the suit* previously adjudicated by another court.",
+    "exampleTranslation": "被告は、原告の現在の主張は、既に別の裁判所によって審判された訴訟物と同一であったため、遮断されるべきだと主張した。",
+    "vocabularyList": [
+      {
+        "word": "legal dispute",
+        "translation": "法律紛争 (Hōritsu funsō)"
+      },
+      {
+        "word": "adjudication",
+        "translation": "審判 (Shinpan)"
+      },
+      {
+        "word": "claim identity",
+        "translation": "請求の同一性 (Seikyū no dōitsusei)"
+      },
+      {
+        "word": "subsequent litigation",
+        "translation": "後訴 (Kōso)"
+      },
+      {
+        "word": "barred",
+        "translation": "遮断される (Shadan sareru)"
+      },
+      {
+        "word": "adjudicated",
+        "translation": "審判された (Shinpan sareta)"
       }
     ]
   }

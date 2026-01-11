@@ -8856,5 +8856,81 @@
         "translation": "必要な登記を申請する"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Assertion Bar (against Third Parties)",
+    "definition": "The principle that facts required to be registered cannot be asserted against a third party until registration is complete, unless that third party knew of the unregistered fact.",
+    "japaneseDefinition": "商業登記簿に登録すべき事項は、登記されるまでは善意の第三者に対抗できないという原則。",
+    "japaneseWordTranslation": "未登記事項の対抗制限 (Mitōki jitkō no taikō seigen)",
+    "legalContext": "Commercial Registration Act Art. 9 (Effect of Registration): 'Matters required to be registered cannot be asserted against a third party acting in good faith until registration has been made.'",
+    "japaneseLegalContext": "商業登記法第9条（登記の効力）：登記すべき事項は、登記の後でなければ、これをもって善意の第三者に対抗することができない。",
+    "exampleSentence": "The newly appointed director's authority was subject to the Assertion Bar until the registration of the change was completed, meaning the contract signed prior to registration was contestable by a third party.",
+    "exampleTranslation": "新任取締役の権限は、変更登記が完了するまで対抗制限の対象であり、登記前に締結された契約は第三者によって争われる可能性があった。",
+    "vocabularyList": [
+      {
+        "word": "Newly appointed director",
+        "translation": "新任取締役 (Shinnin torishimariyaku)"
+      },
+      {
+        "word": "Registration of the change",
+        "translation": "変更の登記 (Henkō no tōki)"
+      },
+      {
+        "word": "Contestable",
+        "translation": "争われ得る (Arasoware-uru)"
+      },
+      {
+        "word": "Acting in good faith",
+        "translation": "善意 (Zen’i)"
+      },
+      {
+        "word": "Required to be registered",
+        "translation": "登記すべき事項 (Tōki subeki jikō)"
+      },
+      {
+        "word": "Completed",
+        "translation": "完了する (Kanryō suru)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Time of Reception (of Application)",
+    "definition": "The precise moment when a registration application is received by the competent authority. This determines the chronological priority of entries affecting the same registered property or right.",
+    "japaneseDefinition": "登記の申請書を登記官が受理した正確な時点。特に権利の順位を決定する際に重要となる。",
+    "japaneseWordTranslation": "受付の時 (Uketsuke no toki)",
+    "legalContext": "Commercial Registration Act Art. 21 (Order of Priority): 'The order of priority of registrations shall be determined by the time of reception of the application.'",
+    "japaneseLegalContext": "商業登記法第21条（順位の決定）：登記の順位は、申請書を受理した時間によって定める。",
+    "exampleSentence": "Since the company's capital increase application had an earlier Time of Reception, it took priority over the concurrent application for the change of the corporate domicile.",
+    "exampleTranslation": "会社の増資申請の受付の時が早かったため、同時になされた本店移転の申請よりも優先された。",
+    "vocabularyList": [
+      {
+        "word": "Chronological priority",
+        "translation": "時間的な優先順位 (Jikanteki na yūsen jun’i)"
+      },
+      {
+        "word": "Capital increase",
+        "translation": "増資 (Zōshi)"
+      },
+      {
+        "word": "Concurrent application",
+        "translation": "同時になされた申請 (Dōji ni nasareta shinsei)"
+      },
+      {
+        "word": "Corporate domicile",
+        "translation": "会社の本店 (Kaisha no honten)"
+      },
+      {
+        "word": "Order of priority",
+        "translation": "順位 (Jun’i)"
+      },
+      {
+        "word": "Receiving office",
+        "translation": "受付庁 (Uketsuke-chō)"
+      }
+    ]
   }
 ]

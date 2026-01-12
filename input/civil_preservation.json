@@ -9342,5 +9342,107 @@
         "translation": "売却代金の配当 (ばいきゃくだいきんのはいとう)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Seizure of Claims",
+    "definition": "A preservation measure where a monetary claim (such as a bank deposit or receivable) held by the preservation debtor against a third party (the third-party obligor) is seized to secure future compulsory execution.",
+    "japaneseDefinition": "金銭債権を保全債務者が第三債務者に対して有している場合において、その債権について将来の強制執行を確保するために行われる仮差押え。",
+    "japaneseWordTranslation": "債権仮差押え (さいけんかりさしおさえ)",
+    "legalContext": "Civil Preservation Act (民事保全法) governs the seizure of claims as a form of provisional attachment, particularly concerning the effect on the third-party obligor.",
+    "japaneseLegalContext": "民事保全法は、金銭債権に対する仮差押えの手続きを定める。特に、第三債務者に対する効力について規定されている。",
+    "exampleSentence": "The obligee obtained an order for the **Provisional Seizure of Claims** against the debtor's account held at the commercial bank.",
+    "exampleTranslation": "債権者は、商業銀行に保有されている債務者の口座に対する債権仮差押えの命令を取得した。",
+    "vocabularyList": [
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権 (kinsen saiken)"
+      },
+      {
+        "word": "third-party obligor",
+        "translation": "第三債務者 (daisan saimusha)"
+      },
+      {
+        "word": "deposit account",
+        "translation": "預金口座 (yokin kōza)"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行 (kyōsei shikkō)"
+      },
+      {
+        "word": "commercial bank",
+        "translation": "商業銀行 (shōgyō ginkō)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Status Investigation Report",
+    "definition": "A document prepared by a court official, such as an execution officer or licensed surveyor, detailing the current physical status, structure, occupancy, and boundaries of real property subject to preservation enforcement.",
+    "japaneseDefinition": "保全執行の対象となる不動産の現在の物理的な状態、構造、占有状況、及び境界を詳細に記載した、裁判所の職員または指定された調査員によって作成される文書。",
+    "japaneseWordTranslation": "現況調査報告書 (げんきょうちょうさほうこくしょ)",
+    "legalContext": "This report is a procedural requirement in the execution of provisional dispositions concerning the object of dispute, ensuring the court has an accurate description of the preserved asset.",
+    "japaneseLegalContext": "本報告書は、係争物に関する仮処分の執行における手続上の要件であり、保全対象財産の正確な記述を裁判所に提供する。",
+    "exampleSentence": "The court reviewed the **Property Status Investigation Report** before issuing the order to execute the provisional disposition regarding the warehouse.",
+    "exampleTranslation": "裁判所は、倉庫に関する仮処分を執行する命令を発する前に、現況調査報告書を審査した。",
+    "vocabularyList": [
+      {
+        "word": "licensed surveyor",
+        "translation": "土地家屋調査士 (tochi kaoku chōsashi)"
+      },
+      {
+        "word": "occupancy",
+        "translation": "占有状況 (sen'yū jōkyō)"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産 (fudōsan)"
+      },
+      {
+        "word": "court official",
+        "translation": "裁判所職員 (saibansho shokuin)"
+      },
+      {
+        "word": "warehouse",
+        "translation": "倉庫 (sōko)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Writ of Preservation Enforcement",
+    "definition": "The formal, certified document issued by the preservation court that confirms the preservation order and grants authority to the enforcement agent (execution officer) to implement the specific preservation measure.",
+    "japaneseDefinition": "保全裁判所によって発行される正式な認証文書であり、保全命令を確定させ、執行官に特定の保全措置を実行する権限を付与するもの。",
+    "japaneseWordTranslation": "保全執行文書 (ほぜんしっこうぶんしょ)",
+    "legalContext": "Civil Preservation Act Art. 52 requires the obligee to present this formal document to the execution officer when applying for the enforcement of the preservation order.",
+    "japaneseLegalContext": "民事保全法第52条は、保全債権者が保全命令の執行を申し立てる際、執行官に対しこの正式文書を提示することを要求している。",
+    "exampleSentence": "Following the grant of the preservation order, the obligee immediately sought the issuance of the **Writ of Preservation Enforcement** from the court clerk.",
+    "exampleTranslation": "保全命令が認められた後、債権者は直ちに裁判所書記官に対し保全執行文書の発行を求めた。",
+    "vocabularyList": [
+      {
+        "word": "certified document",
+        "translation": "認証文書 (ninshō bunsho)"
+      },
+      {
+        "word": "preservation court",
+        "translation": "保全裁判所 (hozen saibansho)"
+      },
+      {
+        "word": "court clerk",
+        "translation": "裁判所書記官 (saibansho shokikan)"
+      },
+      {
+        "word": "implement the measure",
+        "translation": "措置を実行する (sochi o jikkō suru)"
+      },
+      {
+        "word": "enforcement agent",
+        "translation": "執行官 (shikkōkan)"
+      }
+    ]
   }
 ]

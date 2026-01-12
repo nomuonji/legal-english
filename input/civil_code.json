@@ -12572,5 +12572,115 @@
         "translation": "変更"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Dissolution",
+    "definition": "A judicial decree mandating the winding up and liquidation of a juridical person (legal entity) due to specific violations of law or articles of incorporation, particularly those concerning public policy.",
+    "japaneseDefinition": "法人が民法その他の法令に違反した場合に、裁判所が下す解散を命じる処分。特定の事由に基づいて、法人の解散及び清算を命じる裁判所の決定。",
+    "japaneseWordTranslation": "法人の解散命令 (Hōjin no kaisan meirei)",
+    "legalContext": "Civil Code Art. 70 (Judicial Dissolution): If a juridical person has acted contrary to public order and good morals or has violated the conditions for its establishment, the court may issue an order for its dissolution upon the application of an interested party or the Public Prosecutor.",
+    "japaneseLegalContext": "民法第70条（解散の命令）：法人が公益を害する行為をし、又は設立の目的以外の事業をしたときは、裁判所は、理事、監事又は社員の請求により、その解散を命ずることができる。",
+    "exampleSentence": "The court issued the order for dissolution after finding the charitable foundation repeatedly acted contrary to the established public policy goals defined in its charter.",
+    "exampleTranslation": "裁判所は、その定款に定められた公共政策の目標に慈善財団が繰り返し反する行為を行ったと認め、解散命令を下した。",
+    "vocabularyList": [
+      {
+        "word": "Judicial decree",
+        "translation": "司法上の命令"
+      },
+      {
+        "word": "Winding up",
+        "translation": "清算"
+      },
+      {
+        "word": "Liquidation",
+        "translation": "解散"
+      },
+      {
+        "word": "Charitable foundation",
+        "translation": "慈善財団"
+      },
+      {
+        "word": "Charter",
+        "translation": "定款"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Constructive Delivery",
+    "definition": "A legal method of transferring possession of movable property where the transferee is already in actual custody of the property (e.g., as a bailee or agent), and the transfer of possessory right is effected solely by a declaration of intention (agreement) between the parties.",
+    "japaneseDefinition": "動産の占有権を移転させる方法の一つで、譲受人（買い手など）がすでにその物を所持している場合に、当事者間の合意（意思表示）のみによって占有を移転させること。簡易な引渡し。",
+    "japaneseWordTranslation": "簡易な引渡し (Kan'i na hikkiwatashi)",
+    "legalContext": "Civil Code Art. 183 (Constructive Delivery): If the transferee is already in possession of the movable property, the transfer of possession is effected merely by the declaration of intention of the parties to the effect that the right of possession shall be transferred to the transferee.",
+    "japaneseLegalContext": "民法第183条（簡易の引渡し）：譲受人又はその代理人が現に占有物（動産）を所持する場合に、占有権の譲渡は、当事者の意思表示のみによってその効力を生ずる。",
+    "exampleSentence": "Because the purchaser was already storing the equipment as the seller’s bailee, the parties completed the transfer of possession via constructive delivery.",
+    "exampleTranslation": "買主がすでに売主の受寄者としてその設備を保管していたため、当事者は意思表示による簡易な引渡しを通じて占有権の移転を完了した。",
+    "vocabularyList": [
+      {
+        "word": "Possessory right",
+        "translation": "占有権"
+      },
+      {
+        "word": "Movable property",
+        "translation": "動産"
+      },
+      {
+        "word": "Transferee",
+        "translation": "譲受人"
+      },
+      {
+        "word": "Bailee",
+        "translation": "受寄者"
+      },
+      {
+        "word": "Declaration of intention",
+        "translation": "意思表示"
+      },
+      {
+        "word": "Transfer of possession",
+        "translation": "占有の移転"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Management of Undivided Property",
+    "definition": "Actions taken concerning the administration, utilization, or preservation of property owned jointly by multiple parties (co-owners). Such actions are generally decided by the majority of co-owners based on the value of their respective shares.",
+    "japaneseDefinition": "複数人が共同で所有する財産（共有物）について、その利用、改良、保存などを行うための行為。持分の価格に応じた過半数の同意により決定される。",
+    "japaneseWordTranslation": "共有物の管理 (Kyōyūbutsu no kanri)",
+    "legalContext": "Civil Code Art. 252 (Management of Co-owned Property): Decisions relating to the management of co-owned property shall be made by a majority of the co-owners based on the value of their respective shares.",
+    "japaneseLegalContext": "民法第252条（共有物の管理）：共有物の管理に関する事項は、共有者各自の持分の価格に従い、その過半数で決する。",
+    "exampleSentence": "The co-owners disputed whether renovating the shared entrance fell under the category of the management of undivided property or an alteration requiring unanimous consent.",
+    "exampleTranslation": "共有者たちは、共有の玄関の改修が共有物の管理に当たるのか、それとも全員の同意を要する変更行為に当たるのかを巡って争った。",
+    "vocabularyList": [
+      {
+        "word": "Co-owners",
+        "translation": "共有者"
+      },
+      {
+        "word": "Utilization",
+        "translation": "利用"
+      },
+      {
+        "word": "Preservation",
+        "translation": "保存"
+      },
+      {
+        "word": "Shares (ownership)",
+        "translation": "持分"
+      },
+      {
+        "word": "Unanimous consent",
+        "translation": "全員の同意"
+      },
+      {
+        "word": "Alteration",
+        "translation": "変更行為"
+      }
+    ]
   }
 ]

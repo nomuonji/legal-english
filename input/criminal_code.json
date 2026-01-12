@@ -2,44 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Acceptance of a Bribe",
-    "definition": "The crime committed by a public official (or a person deemed a public official) who accepts, demands, or promises to accept a bribe in connection with their official duties.",
-    "japaneseDefinition": "公務員（または公務員とみなされる者）が、その職務に関して賄賂を収受、要求、又は約束することによって成立する犯罪。",
-    "japaneseWordTranslation": "収賄 (しゅうわい)",
-    "legalContext": "Japanese Penal Code Art. 197 (Acceptance of Bribe by Public Official): A public official who accepts, demands, or promises to accept a bribe in connection with their duties shall be punished...",
-    "japaneseLegalContext": "刑法 第197条（収賄）：公務員が、その職務に関し、賄賂を収受し、又はその要求若しくは約束をしたときは、罰する。",
-    "exampleSentence": "The former city council member was indicted on two counts of acceptance of a bribe regarding favorable treatment in zoning applications.",
-    "exampleTranslation": "元市議会議員は、用途地域指定申請における便宜供与に関し、２件の収賄罪で起訴された。",
-    "vocabularyList": [
-      {
-        "word": "public official",
-        "translation": "公務員 (こうむいん)"
-      },
-      {
-        "word": "indicted",
-        "translation": "起訴された (きそされた)"
-      },
-      {
-        "word": "favorable treatment",
-        "translation": "便宜供与 (べんぎきょうよ)"
-      },
-      {
-        "word": "zoning applications",
-        "translation": "用途地域指定申請 (ようとちいきしていしんせい)"
-      },
-      {
-        "word": "in connection with their duties",
-        "translation": "職務に関し (しょくむにかんし)"
-      },
-      {
-        "word": "two counts",
-        "translation": "２件 (にけん)"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Remission of Penalty",
     "definition": "The legal act of granting a full or partial exemption from the execution of a penalty already imposed by a final judgment, often through the mechanism of pardon (onsha).",
     "japaneseDefinition": "既に確定判決により科された刑罰の全部または一部の執行を免除する法的行為。通常、恩赦の制度を通じて行われる。",
@@ -11128,6 +11090,120 @@
       {
         "word": "injured party",
         "translation": "被害を受けた者"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Part (of the Criminal Code)",
+    "definition": "The section of the Criminal Code detailing the constituent elements, specific names, and penalties for individual crimes, contrasted with the General Provisions.",
+    "japaneseDefinition": "刑法の構成要件や具体的な罪名、刑罰を規定する部分。総則に対して用いられる用語。",
+    "japaneseWordTranslation": "各論 (かくろん)",
+    "legalContext": "Japanese Criminal Code: Structure of the Statute (General Provisions vs. Special Part)",
+    "japaneseLegalContext": "刑法：法令の構造（総則と各論）",
+    "exampleSentence": "The Special Part of the Criminal Code covers diverse offenses ranging from crimes against property to crimes against the state.",
+    "exampleTranslation": "刑法各論は、財産犯から国家に対する罪に至るまで、多岐にわたる犯罪を規定している。",
+    "vocabularyList": [
+      {
+        "word": "General Provisions",
+        "translation": "総則 (そうそく)"
+      },
+      {
+        "word": "constituent elements",
+        "translation": "構成要件 (こうせいようけん)"
+      },
+      {
+        "word": "specific names of crimes",
+        "translation": "具体的な罪名 (ぐたいてきなざいめい)"
+      },
+      {
+        "word": "crimes against property",
+        "translation": "財産犯 (ざいさんはん)"
+      },
+      {
+        "word": "offenses",
+        "translation": "犯罪 (はんざい)"
+      },
+      {
+        "word": "statute",
+        "translation": "法令 (ほうれい)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legal Concurrence for Sentencing",
+    "definition": "A doctrine, often derived from Continuous Crime or Ideal Concurrence, where multiple distinct criminal acts or elements are treated as a single offense for the purpose of sentencing, punished by the severest penalty applicable.",
+    "japaneseDefinition": "複数の実行行為が一罪として扱われ、最も重い刑で処断される罪の態様。科刑上の便宜のために認められる。",
+    "japaneseWordTranslation": "科刑上一罪 (かけいじょういちざい)",
+    "legalContext": "Criminal Code Art. 54 para. 1: (Treatment of Ideal Concurrence)",
+    "japaneseLegalContext": "刑法第54条第1項（観念的競合の処理）",
+    "exampleSentence": "In cases of continuous crime, the court often applies the principle of Legal Concurrence for Sentencing, punishing the series of acts as one offense under the maximum penalty.",
+    "exampleTranslation": "連鎖犯の場合、裁判所は科刑上一罪の原則を適用し、一連の行為を最も重い刑罰の一罪として処罰することが多い。",
+    "vocabularyList": [
+      {
+        "word": "sentencing",
+        "translation": "量刑 (りょうけい)"
+      },
+      {
+        "word": "single offense",
+        "translation": "一罪 (いちざい)"
+      },
+      {
+        "word": "maximum penalty",
+        "translation": "最も重い刑罰 (もっともおもいけいばつ)"
+      },
+      {
+        "word": "series of acts",
+        "translation": "一連の行為 (いちれんのこうい)"
+      },
+      {
+        "word": "Ideal Concurrence",
+        "translation": "観念的競合 (かんねんてききょうごう)"
+      },
+      {
+        "word": "Continuous Crime",
+        "translation": "連鎖犯 (れんさはん)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Objective Unlawfulness",
+    "definition": "The objective component of an offense structure, referring to the characteristic of an act that violates the legal order, independent of the perpetrator’s subjective state (intent or fault).",
+    "japaneseDefinition": "法秩序に反するという行為の客観的な属性。行為者の主観的要素（故意や過失）から切り離して判断される。",
+    "japaneseWordTranslation": "行為の違法性 (こういのいほうせい)",
+    "legalContext": "Tripartite structure of crime (構成要件, 違法性, 責任) in German-Japanese criminal law theory.",
+    "japaneseLegalContext": "刑法学における犯罪の三段階構造（構成要件、違法性、責任）",
+    "exampleSentence": "The assessment of Objective Unlawfulness precedes the consideration of the perpetrator’s culpability and is precluded if a justification ground, such as self-defense, is found.",
+    "exampleTranslation": "行為の違法性の判断は、行為者の責任の検討に先行し、正当防衛などの正当化根拠が見いだされれば阻却される。",
+    "vocabularyList": [
+      {
+        "word": "objective component",
+        "translation": "客観的属性 (きゃっかんてきぞくせい)"
+      },
+      {
+        "word": "legal order",
+        "translation": "法秩序 (ほうちつじょ)"
+      },
+      {
+        "word": "subjective state",
+        "translation": "主観的要素 (しゅかんてきようそ)"
+      },
+      {
+        "word": "precedes",
+        "translation": "先行する (せんこうする)"
+      },
+      {
+        "word": "justification ground",
+        "translation": "正当化根拠 (せいとうかこんきょ)"
+      },
+      {
+        "word": "culpability",
+        "translation": "責任 (せきにん)"
       }
     ]
   }

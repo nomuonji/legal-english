@@ -11154,5 +11154,119 @@
         "translation": "換金資金"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Acquisition of Property via Sale Procedure",
+    "definition": "The legal mechanism under civil execution whereby ownership (or other real rights) is mandatorily transferred from the execution debtor to the successful bidder upon the full payment of the sales price, concluding the realization stage of enforcement.",
+    "japaneseDefinition": "強制執行手続において、最高価買受申出人が売却代金を全額納付したときに、債務者から当該財産の権利を取得する法律上の仕組み。",
+    "japaneseWordTranslation": "売却による権利の取得 (Baikyaku ni yoru Kenri no Shutoku)",
+    "legalContext": "Civil Execution Act Art. 79 (Real Property Execution): If the purchaser pays the purchase price, they acquire the rights related to the real property.",
+    "japaneseLegalContext": "民事執行法第79条（不動産執行）：買受人が代金を納付したときは、その不動産の権利を取得する。",
+    "exampleSentence": "The payment of the purchase price resulted in the acquisition of property via sale procedure, transferring the apartment's title immediately to the new owner.",
+    "exampleTranslation": "売却代金の納付により売却による権利の取得が生じ、そのマンションの所有権は直ちに新所有者に移転した。",
+    "vocabularyList": [
+      {
+        "word": "execution debtor",
+        "translation": "執行債務者"
+      },
+      {
+        "word": "successful bidder",
+        "translation": "最高価買受申出人"
+      },
+      {
+        "word": "real rights",
+        "translation": "物権"
+      },
+      {
+        "word": "sales price",
+        "translation": "売却代金"
+      },
+      {
+        "word": "realization stage",
+        "translation": "換価段階"
+      },
+      {
+        "word": "transferring the title",
+        "translation": "所有権を移転する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Pro Rata Allocation Calculation",
+    "definition": "The procedural step in which funds realized through execution, after deducting costs and payments to secured parties, are mathematically divided among general creditors in proportion to the amount of their established claims.",
+    "japaneseDefinition": "執行費用及び優先権を有する債権者への弁済後に残った配当金について、一般債権者間で、それぞれの債権額に応じて比例的に分割する計算方法。",
+    "japaneseWordTranslation": "按分計算 (Anbun Keisan)",
+    "legalContext": "Civil Execution Act Art. 84, Art. 108: If the proceeds remaining after the payment of execution costs and claims having priority are insufficient to satisfy all ordinary execution claims, the amount shall be distributed proportionally.",
+    "japaneseLegalContext": "民事執行法第84条、第108条：執行費用及び優先的に弁済を受けるべき債権の弁済に充て、なお残余がある場合に、残余額が執行債権の総額に満たないときは、その残余額を各債権者の債権額に応じて按分して弁済する。",
+    "exampleSentence": "The judicial clerk performed the pro rata allocation calculation to ensure equitable distribution of the residual funds among the concurrent unsecured claimants.",
+    "exampleTranslation": "裁判所書記官は、併合された無担保の請求権者の間で残余資金の公平な分配を確実にするため、按分計算を実施した。",
+    "vocabularyList": [
+      {
+        "word": "procedural step",
+        "translation": "手続段階"
+      },
+      {
+        "word": "funds realized",
+        "translation": "換価された金銭"
+      },
+      {
+        "word": "secured parties",
+        "translation": "担保を有する者"
+      },
+      {
+        "word": "ordinary execution claims",
+        "translation": "一般の執行債権"
+      },
+      {
+        "word": "residual funds",
+        "translation": "残余資金"
+      },
+      {
+        "word": "unsecured claimants",
+        "translation": "無担保の債権者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Third Party Obligor Information Requirement",
+    "definition": "A system wherein the execution court may compel specified third parties, such as banks or governmental organizations, to provide information regarding the assets or income of the execution obligor, particularly when voluntary disclosure fails.",
+    "japaneseDefinition": "執行裁判所が、債務者の財産に関する情報を保有すると認められる第三者（金融機関や公的機関）に対し、その情報を裁判所に提供するよう命じる制度。",
+    "japaneseWordTranslation": "第三者からの債務者情報取得 (Daisansha kara no Saimusha Jōhō Shutoku)",
+    "legalContext": "Civil Execution Act Art. 204: The execution court may issue an order to specified third parties, compelling the provision of information on the status of assets held by the obligor.",
+    "japaneseLegalContext": "民事執行法第204条：執行裁判所は、債務者が保有する財産についての情報を提供することを特定第三者に対して命ずる処分をすることができる。",
+    "exampleSentence": "Due to the difficulty in locating the debtor’s bank accounts, the obligee utilized the third party obligor information requirement to obtain crucial financial data from the tax authority.",
+    "exampleTranslation": "債務者の銀行口座を特定することが困難であったため、債権者は税務当局から重要な財務データを取得するために、第三者からの債務者情報取得の制度を利用した。",
+    "vocabularyList": [
+      {
+        "word": "compel",
+        "translation": "強制する"
+      },
+      {
+        "word": "specified third parties",
+        "translation": "特定第三者"
+      },
+      {
+        "word": "governmental organizations",
+        "translation": "公的機関"
+      },
+      {
+        "word": "voluntary disclosure",
+        "translation": "任意の開示"
+      },
+      {
+        "word": "financial data",
+        "translation": "財務データ"
+      },
+      {
+        "word": "tax authority",
+        "translation": "税務当局"
+      }
+    ]
   }
 ]

@@ -2,44 +2,6 @@
   {
     "category": "Real Property Registration (不動産登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Joint Security Register",
-    "definition": "An auxiliary document (Mokuroku) maintained by the registrar, which comprehensively lists multiple distinct parcels of real property that are pledged as security for a single underlying claim or debt.",
-    "japaneseDefinition": "単一の債権または債務に対して担保として差し出されている、複数の個別の不動産を包括的に一覧化した、登記官によって作成・管理される付属文書（目録）。",
-    "japaneseWordTranslation": "共同担保目録 (きょうどうたんぽもくろく)",
-    "legalContext": "Real Property Registration Act Art. 73, Par. 1 (Requirement for preparation of the register)",
-    "japaneseLegalContext": "不動産登記法 第73条 第1項 (目録作成の要件)",
-    "exampleSentence": "Because the borrower used three houses and two separate plots of land as collateral for the business loan, the registrar attached a **Joint Security Register** to the main hypothecation entry.",
-    "exampleTranslation": "借主が事業融資の担保として3棟の家屋と2区画の土地を使用したため、登記官は主たる抵当権設定登記に共同担保目録を添付した。",
-    "vocabularyList": [
-      {
-        "word": "auxiliary document",
-        "translation": "付属文書"
-      },
-      {
-        "word": "registrar",
-        "translation": "登記官"
-      },
-      {
-        "word": "comprehensively lists",
-        "translation": "包括的に一覧化する"
-      },
-      {
-        "word": "pledged as security",
-        "translation": "担保として差し出された"
-      },
-      {
-        "word": "collateral",
-        "translation": "担保"
-      },
-      {
-        "word": "plots of land",
-        "translation": "土地の区画"
-      }
-    ]
-  },
-  {
-    "category": "Real Property Registration (不動産登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Lot Number",
     "definition": "The unique numerical identifier assigned to a parcel of land in the cadastral registry, defining its specific location and boundaries for registration purposes.",
     "japaneseDefinition": "法務局において地積測量図に基づき土地の一筆ごとに定められる固有の番号。登記簿の表題部に記載される。",
@@ -9012,6 +8974,120 @@
       {
         "word": "statutory reasons",
         "translation": "法定の事由 (ほうていのじゆう)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ownership Entry Section",
+    "definition": "The first section (Kō-ku) of the Real Property Register that exclusively records matters concerning ownership rights, including the name of the current registered title holder and the history of ownership transfers.",
+    "japaneseDefinition": "不動産登記記録のうち、所有権に関する事項が記載される部分（甲区）。現在の登記名義人や所有権移転の経緯などが記録される。",
+    "japaneseWordTranslation": "甲区 (こうく)",
+    "legalContext": "Real Property Registration Act (RPR Act) Art. 25, Clause 1, Item 4: Specifies the required particulars to be recorded in the section concerning ownership.",
+    "japaneseLegalContext": "不動産登記法第25条第1項第4号：所有権に関する事項を記録する欄に記録すべき事項を定める。",
+    "exampleSentence": "Before purchasing the residence, the counsel examined the Ownership Entry Section to confirm the registered title holder.",
+    "exampleTranslation": "住居を購入する前に、弁護士は登記名義人を確認するために甲区を調べた。",
+    "vocabularyList": [
+      {
+        "word": "Registered title holder",
+        "translation": "登記名義人"
+      },
+      {
+        "word": "Residence",
+        "translation": "住居"
+      },
+      {
+        "word": "Examine",
+        "translation": "調べる"
+      },
+      {
+        "word": "Ownership rights",
+        "translation": "所有権"
+      },
+      {
+        "word": "Transfers",
+        "translation": "移転"
+      },
+      {
+        "word": "Counsel",
+        "translation": "弁護士"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Official Boundary Survey Map",
+    "definition": "A legally mandated drawing prepared by a qualified land and house investigator detailing the exact measurements, area, and spatial relationships of a land parcel, required when applying for description changes.",
+    "japaneseDefinition": "土地の正確な面積、形状、境界の位置を示すために、土地家屋調査士が作成する図面。地積に関する登記の申請には添付が義務付けられている。",
+    "japaneseWordTranslation": "地積測量図 (ちせきそくりょうず)",
+    "legalContext": "Real Property Registration Act (RPR Act) Art. 36: Requires the attachment of the Official Boundary Survey Map when applying for changes to the land area registration.",
+    "japaneseLegalContext": "不動産登記法第36条：地積に関する登記の申請には、地積測量図を添付しなければならないと定める。",
+    "exampleSentence": "The land and house investigator submitted the Official Boundary Survey Map to the registry office to register the consolidation of two parcels.",
+    "exampleTranslation": "土地家屋調査士は、2筆の土地の合筆登記を行うために、地積測量図を登記所に提出した。",
+    "vocabularyList": [
+      {
+        "word": "Land and house investigator",
+        "translation": "土地家屋調査士"
+      },
+      {
+        "word": "Drawing",
+        "translation": "図面"
+      },
+      {
+        "word": "Registry office",
+        "translation": "登記所"
+      },
+      {
+        "word": "Consolidation",
+        "translation": "合筆"
+      },
+      {
+        "word": "Spatial relationships",
+        "translation": "空間的な関係"
+      },
+      {
+        "word": "Mandated",
+        "translation": "義務付けられた"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Real Property Identification Number",
+    "definition": "A unique administrative code assigned to each distinct land parcel or building within the registry system, enabling efficient and error-free retrieval of registration records.",
+    "japaneseDefinition": "登記システム内で、個別の土地や建物を明確かつ効率的に識別し、登記記録を検索するために付与される固有の行政コード。",
+    "japaneseWordTranslation": "不動産番号 (ふどうさんばんごう)",
+    "legalContext": "RPR Act Enforcement Regulations Art. 18, Clause 2: Prescribes that the Real Property Register must include the property's identification number.",
+    "japaneseLegalContext": "不動産登記規則第18条第2項：不動産登記簿には、不動産番号を含めなければならないと定める。",
+    "exampleSentence": "The application was rejected because the applicant failed to specify the correct Real Property Identification Number in the required field.",
+    "exampleTranslation": "申請者が必須欄に正しい不動産番号を明記しなかったため、その申請は却下された。",
+    "vocabularyList": [
+      {
+        "word": "Administrative code",
+        "translation": "行政コード"
+      },
+      {
+        "word": "Unambiguous",
+        "translation": "明確な"
+      },
+      {
+        "word": "Retrieval",
+        "translation": "検索"
+      },
+      {
+        "word": "Rejected",
+        "translation": "却下された"
+      },
+      {
+        "word": "Specify",
+        "translation": "明記する"
+      },
+      {
+        "word": "Distinct",
+        "translation": "個別の"
       }
     ]
   }

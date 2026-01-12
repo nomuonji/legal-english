@@ -11446,5 +11446,123 @@
         "translation": "主文"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Declaratory Judgment",
+    "definition": "A lawsuit seeking a judicial ruling that affirms the existence or non-existence of a specific legal relationship or document, requiring the plaintiff to demonstrate a current and specific legal interest in confirmation.",
+    "japaneseDefinition": "特定の法律関係または権利の存在・非存在、あるいは文書の真否について、その確認を求める訴訟。",
+    "japaneseWordTranslation": "確認の訴え (かくにんのうったえ)",
+    "legalContext": "Code of Civil Procedure Art. 134: An action for declaratory judgment can only be brought when there is a current and concrete legal interest in confirmation.",
+    "japaneseLegalContext": "民事訴訟法第134条: 確認の訴えは、法律関係の存否、または証書の真否について、その確認の利益がある場合に限り、提起することができる。",
+    "exampleSentence": "The company filed an action for declaratory judgment to confirm the nullity of the opposing party's asserted intellectual property right.",
+    "exampleTranslation": "その会社は、相手方が主張する知的財産権の無効を確認するための確認の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "nullity",
+        "translation": "無効"
+      },
+      {
+        "word": "intellectual property right",
+        "translation": "知的財産権"
+      },
+      {
+        "word": "legal relationship",
+        "translation": "法律関係"
+      },
+      {
+        "word": "current legal interest",
+        "translation": "現在の確認の利益"
+      },
+      {
+        "word": "affirming",
+        "translation": "確認する"
+      },
+      {
+        "word": "asserted",
+        "translation": "主張された"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Admission of Facts",
+    "definition": "A procedural statement made by one party during oral arguments or preparations that acknowledges the truthfulness of a fact asserted by the opposing party, which generally binds the court and relieves the asserting party of the burden of proving that fact.",
+    "japaneseDefinition": "口頭弁論または準備手続において、相手方が主張した自己に不利益な事実を認める陳述。これにより当該事実は証明されたものとして扱われる。",
+    "japaneseWordTranslation": "自白 (じはく)",
+    "legalContext": "Code of Civil Procedure Art. 179: Facts admitted by the parties in the oral arguments or preparation proceedings shall be binding upon the court.",
+    "japaneseLegalContext": "民事訴訟法第179条: 口頭弁論又は弁論準備手続において当事者が自白した事実は、裁判所を拘束する。",
+    "exampleSentence": "The defendant's counsel withdrew the initial denial and made a formal admission of facts regarding the date of delivery, thereby limiting the scope of subsequent evidence examination.",
+    "exampleTranslation": "被告側の弁護人は、当初の否認を撤回し、引渡日に関する事実について正式な自白を行い、その後の証拠調べの範囲を限定した。",
+    "vocabularyList": [
+      {
+        "word": "counsel",
+        "translation": "弁護人"
+      },
+      {
+        "word": "denial",
+        "translation": "否認"
+      },
+      {
+        "word": "oral arguments",
+        "translation": "口頭弁論"
+      },
+      {
+        "word": "binding upon the court",
+        "translation": "裁判所を拘束する"
+      },
+      {
+        "word": "evidence examination",
+        "translation": "証拠調べ"
+      },
+      {
+        "word": "veracity",
+        "translation": "真実性"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Joinder of Claims",
+    "definition": "The procedural device allowing a plaintiff to combine multiple causes of action against a defendant, or against multiple defendants, into a single lawsuit, often to promote procedural efficiency.",
+    "japaneseDefinition": "原告が複数の請求を一つの訴訟でまとめて審理・判決を求めること。関連性などの一定の要件を満たす場合に認められる。",
+    "japaneseWordTranslation": "請求の併合 (せいきゅうのへいごう)",
+    "legalContext": "Code of Civil Procedure Art. 136: A plaintiff may join several claims in one suit against one defendant, provided that the claims are consistent with each other and the court has jurisdiction over all of them.",
+    "japaneseLegalContext": "民事訴訟法第136条: 原告は、一個の訴えで数個の請求を併合することができる。ただし、それらの請求が両立し、かつ、裁判所がすべての請求について管轄権を有するときに限る。",
+    "exampleSentence": "Due to the common factual basis, the court permitted the joinder of claims for outstanding invoices and the recovery of property collateral.",
+    "exampleTranslation": "共通する事実関係に基づき、裁判所は未払い請求書と担保物件の回復に関する請求の併合を許可した。",
+    "vocabularyList": [
+      {
+        "word": "causes of action",
+        "translation": "訴訟原因 (請求原因)"
+      },
+      {
+        "word": "procedural efficiency",
+        "translation": "訴訟手続の効率"
+      },
+      {
+        "word": "consistent",
+        "translation": "両立する"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄権"
+      },
+      {
+        "word": "outstanding invoices",
+        "translation": "未処理の請求書"
+      },
+      {
+        "word": "collateral",
+        "translation": "担保"
+      },
+      {
+        "word": "common factual basis",
+        "translation": "共通する事実関係"
+      }
+    ]
   }
 ]

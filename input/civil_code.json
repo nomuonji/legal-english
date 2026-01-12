@@ -12682,5 +12682,85 @@
         "translation": "変更行為"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Revolving Hypothec",
+    "definition": "A specific type of security interest over immovable property where the collateral secures an indefinite series of obligations arising from a specific ongoing transaction up to a predetermined maximum secured amount.",
+    "japaneseDefinition": "不動産を担保として、特定の継続的取引関係から生じる不特定の債権を、予め定めた極度額の範囲内で担保する権利。",
+    "japaneseWordTranslation": "根抵当権 (ねていとうけん)",
+    "legalContext": "Requires registration of the maximum secured amount, the range of claims, and the date of fixation of the claim. (Civil Code Art. 398-2)",
+    "japaneseLegalContext": "極度額、債権の範囲、および元本確定日を登記する必要がある。（民法第398条の2）",
+    "exampleSentence": "The bank established a revolving hypothec on the company's factory land to secure all future liabilities arising from the operational loan agreement, limited to 500 million yen.",
+    "exampleTranslation": "銀行は、運転資金貸付契約から生じる将来のすべての債務を担保するため、5億円を限度として、会社の工場敷地に根抵当権を設定した。",
+    "vocabularyList": [
+      {
+        "word": "security interest",
+        "translation": "担保権"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "maximum secured amount",
+        "translation": "極度額"
+      },
+      {
+        "word": "ongoing transaction",
+        "translation": "継続的取引"
+      },
+      {
+        "word": "liability",
+        "translation": "債務"
+      },
+      {
+        "word": "fixation of the claim",
+        "translation": "元本確定"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Doctrine of Irretrievable Breakdown",
+    "definition": "A jurisprudential principle applied in judicial divorce cases, holding that a marriage may be dissolved if the matrimonial relationship has fundamentally and irrecoverably failed, provided the party seeking divorce is not solely responsible for the breakdown.",
+    "japaneseDefinition": "婚姻関係が回復不可能なまでに破綻している場合、民法に列挙された特定の事由によらずとも、離婚を認めるという判例上の原則。ただし、離婚を求める側が専ら破綻の責任を負う場合は適用が制限される。",
+    "japaneseWordTranslation": "破綻主義 (はたんしゅぎ)",
+    "legalContext": "Although not explicitly codified, this doctrine heavily influences the judicial interpretation of Civil Code Art. 770 Para. 1, Item 5 (\"Any other grave cause\").",
+    "japaneseLegalContext": "明文の規定はないが、民法第770条第1項第5号（「その他婚姻を継続し難い重大な事由」）の解釈に大きく影響を与える判例法理。",
+    "exampleSentence": "The court, applying the doctrine of irretrievable breakdown, granted the divorce because the couple had lived separately for two decades, proving the matrimonial relationship was functionally extinct.",
+    "exampleTranslation": "裁判所は、夫婦が20年間別居しており、婚姻関係が機能的に消滅していることを理由に、破綻主義を適用して離婚を認めた。",
+    "vocabularyList": [
+      {
+        "word": "jurisprudential principle",
+        "translation": "判例上の原則"
+      },
+      {
+        "word": "judicial divorce",
+        "translation": "裁判上の離婚"
+      },
+      {
+        "word": "matrimonial relationship",
+        "translation": "婚姻関係"
+      },
+      {
+        "word": "irrecoverably",
+        "translation": "回復不可能に"
+      },
+      {
+        "word": "solely responsible",
+        "translation": "専ら責任を負う"
+      },
+      {
+        "word": "grave cause",
+        "translation": "重大な事由"
+      },
+      {
+        "word": "functionally extinct",
+        "translation": "機能的に消滅"
+      }
+    ]
   }
 ]

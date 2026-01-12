@@ -1,38 +1,38 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Real Property Registration (不動産登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Acceptance of a Bribe",
-  "definition": "The crime committed by a public official (or a person deemed a public official) who accepts, demands, or promises to accept a bribe in connection with their official duties.",
-  "japaneseDefinition": "公務員（または公務員とみなされる者）が、その職務に関して賄賂を収受、要求、又は約束することによって成立する犯罪。",
-  "japaneseWordTranslation": "収賄 (しゅうわい)",
-  "legalContext": "Japanese Penal Code Art. 197 (Acceptance of Bribe by Public Official): A public official who accepts, demands, or promises to accept a bribe in connection with their duties shall be punished...",
-  "japaneseLegalContext": "刑法 第197条（収賄）：公務員が、その職務に関し、賄賂を収受し、又はその要求若しくは約束をしたときは、罰する。",
-  "exampleSentence": "The former city council member was indicted on two counts of acceptance of a bribe regarding favorable treatment in zoning applications.",
-  "exampleTranslation": "元市議会議員は、用途地域指定申請における便宜供与に関し、２件の収賄罪で起訴された。",
+  "word": "Joint Security Register",
+  "definition": "An auxiliary document (Mokuroku) maintained by the registrar, which comprehensively lists multiple distinct parcels of real property that are pledged as security for a single underlying claim or debt.",
+  "japaneseDefinition": "単一の債権または債務に対して担保として差し出されている、複数の個別の不動産を包括的に一覧化した、登記官によって作成・管理される付属文書（目録）。",
+  "japaneseWordTranslation": "共同担保目録 (きょうどうたんぽもくろく)",
+  "legalContext": "Real Property Registration Act Art. 73, Par. 1 (Requirement for preparation of the register)",
+  "japaneseLegalContext": "不動産登記法 第73条 第1項 (目録作成の要件)",
+  "exampleSentence": "Because the borrower used three houses and two separate plots of land as collateral for the business loan, the registrar attached a **Joint Security Register** to the main hypothecation entry.",
+  "exampleTranslation": "借主が事業融資の担保として3棟の家屋と2区画の土地を使用したため、登記官は主たる抵当権設定登記に共同担保目録を添付した。",
   "vocabularyList": [
     {
-      "word": "public official",
-      "translation": "公務員 (こうむいん)"
+      "word": "auxiliary document",
+      "translation": "付属文書"
     },
     {
-      "word": "indicted",
-      "translation": "起訴された (きそされた)"
+      "word": "registrar",
+      "translation": "登記官"
     },
     {
-      "word": "favorable treatment",
-      "translation": "便宜供与 (べんぎきょうよ)"
+      "word": "comprehensively lists",
+      "translation": "包括的に一覧化する"
     },
     {
-      "word": "zoning applications",
-      "translation": "用途地域指定申請 (ようとちいきしていしんせい)"
+      "word": "pledged as security",
+      "translation": "担保として差し出された"
     },
     {
-      "word": "in connection with their duties",
-      "translation": "職務に関し (しょくむにかんし)"
+      "word": "collateral",
+      "translation": "担保"
     },
     {
-      "word": "two counts",
-      "translation": "２件 (にけん)"
+      "word": "plots of land",
+      "translation": "土地の区画"
     }
   ]
 }

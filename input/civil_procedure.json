@@ -2,44 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Necessary Co-litigation",
-    "definition": "A form of co-litigation where the judgment must be rendered uniformly for all joint parties because the subject matter concerns a unified legal relationship, requiring all essential parties to participate.",
-    "japaneseDefinition": "訴訟の目的である権利関係が共同当事者の全員について合一に確定されなければならないため、全員を当事者として訴訟追行することが要求される共同訴訟。",
-    "japaneseWordTranslation": "必要的共同訴訟 (ひつようてききょうどうそしょう)",
-    "legalContext": "Code of Civil Procedure Art. 38 (Procedural Acts of Necessary Co-litigation): 'If the procedural act of one co-litigant is disadvantageous to the others, such act shall have no effect for the others.'",
-    "japaneseLegalContext": "民事訴訟法第38条（必要的共同訴訟における手続行為）：共同訴訟人の一人の行為が他の共同訴訟人にとって不利益であるときは、その効力を生じない。",
-    "exampleSentence": "The action to nullify a resolution passed by the corporate shareholders required the inclusion of all relevant parties, falling under the rules of **necessary co-litigation**.",
-    "exampleTranslation": "株主によって可決された決議の無効を主張する訴えは、全ての関係当事者を含める必要があり、**必要的共同訴訟**の規定が適用される。",
-    "vocabularyList": [
-      {
-        "word": "joint parties",
-        "translation": "共同当事者"
-      },
-      {
-        "word": "uniform judgment",
-        "translation": "合一の判決"
-      },
-      {
-        "word": "nullify a resolution",
-        "translation": "決議を無効にする"
-      },
-      {
-        "word": "procedural act",
-        "translation": "手続行為"
-      },
-      {
-        "word": "disadvantageous",
-        "translation": "不利益な"
-      },
-      {
-        "word": "legal relationship",
-        "translation": "権利関係"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Declaratory Judgment",
     "definition": "A lawsuit seeking a judicial declaration as to the existence or non-existence of a specific legal relationship or legal fact.",
     "japaneseDefinition": "特定の法律関係または法律事実の存否について、裁判所にその確認を求める訴訟。",
@@ -11562,6 +11524,144 @@
       {
         "word": "common factual basis",
         "translation": "共通する事実関係"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order of Transfer",
+    "definition": "A judicial decision (Kettei) ordering a case to be moved from the currently seized court to another court, often due to lack of proper venue, agreement, or for substantial procedural convenience.",
+    "japaneseDefinition": "裁判所が、訴訟を現在の裁判所から他の裁判所へ移すことを命じる決定。管轄違い、または審理の著しい不便さを理由とすることが多い。",
+    "japaneseWordTranslation": "移送決定 (いそうけってい)",
+    "legalContext": "Code of Civil Procedure Art. 19 (Transfer for Convenience, etc.): 'A court may, even if it has jurisdiction over the case, transfer the case to another competent court, upon petition or ex officio, if it finds it necessary to avoid substantial delay or achieve equity between the parties.'",
+    "japaneseLegalContext": "民事訴訟法第19条（裁量移送等）：裁判所は、訴訟がその管轄に属する場合でも、審理の遅延を避け、又は当事者間の衡平を図るため必要があると認めるときは、申立てにより又は職権で、訴訟の全部又は一部を他の管轄裁判所に移送することができる。",
+    "exampleSentence": "The Tokyo District Court issued an Order of Transfer to the Yokohama District Court, citing the primary residence of the majority of witnesses in the latter's jurisdiction.",
+    "exampleTranslation": "東京地方裁判所は、証人の大半が後者の管轄区域内に居住していることを理由に、横浜地方裁判所への移送決定を下した。",
+    "vocabularyList": [
+      {
+        "word": "Kettei (決定)",
+        "translation": "Judicial decision (non-judgment)"
+      },
+      {
+        "word": "venue",
+        "translation": "管轄(地)"
+      },
+      {
+        "word": "ex officio",
+        "translation": "職権で"
+      },
+      {
+        "word": "equity",
+        "translation": "衡平"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄"
+      },
+      {
+        "word": "witnesses",
+        "translation": "証人"
+      },
+      {
+        "word": "primary residence",
+        "translation": "主たる居所"
+      },
+      {
+        "word": "citing",
+        "translation": "引用して／理由として"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Rebuttal of Presumption",
+    "definition": "The act of introducing evidence sufficient to disprove or overcome a fact that is provisionally accepted as true, either due to a legal mandate or a factual inference (presumption).",
+    "japaneseDefinition": "法律上の規定や事実上の推論によって真実と推定されている事実に対し、反証を提出してその推定を覆す行為。",
+    "japaneseWordTranslation": "推定の覆滅 (すいていのふくめつ)",
+    "legalContext": "The principle applies generally to evidential rules, requiring the party against whom the presumption operates to introduce evidence to satisfy their burden of persuasion against the presumed fact.",
+    "japaneseLegalContext": "この原則は一般的な証拠規則に適用され、推定を受ける側に対し、推定された事実に反論するための説得責任を果たすに足る証拠の提出を求める。",
+    "exampleSentence": "In the case of service by mail, the defendant successfully presented a Rebuttal of Presumption by demonstrating they had relocated before the service notice was sent.",
+    "exampleTranslation": "郵送による送達の事例において、被告は、送達通知が発送される前に転居していたことを証明することにより、推定の覆滅に成功した。",
+    "vocabularyList": [
+      {
+        "word": "presumption",
+        "translation": "推定"
+      },
+      {
+        "word": "evidential rules",
+        "translation": "証拠規則"
+      },
+      {
+        "word": "burden of persuasion",
+        "translation": "説得責任"
+      },
+      {
+        "word": "service by mail",
+        "translation": "郵送による送達"
+      },
+      {
+        "word": "demonstrating",
+        "translation": "証明する"
+      },
+      {
+        "word": "relocated",
+        "translation": "転居した"
+      },
+      {
+        "word": "provisionally accepted",
+        "translation": "暫定的に承認される"
+      },
+      {
+        "word": "disprove",
+        "translation": "反証する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Invalidity of Procedural Acts",
+    "definition": "The consequence that a formal act performed during the course of a lawsuit (e.g., filing, motion, appearance) fails to produce the intended legal effect because it substantially violates mandatory procedural forms or requirements.",
+    "japaneseDefinition": "訴訟の過程でなされた形式的な行為（申立て、出頭など）が、必須の訴訟手続の方式や要件に重大な違反があるために、意図した法的効果を生じないという結果。",
+    "japaneseWordTranslation": "訴訟行為の無効 (そしょうこういのむこう)",
+    "legalContext": "Code of Civil Procedure Art. 93 (Principle of Curing Defects): Invalidity of procedural acts is generally subject to curing mechanisms (e.g., rectification of formal defects) where possible, to maintain litigation efficiency.",
+    "japaneseLegalContext": "民事訴訟法第93条（欠缺の治癒の原則）：訴訟行為の無効は、一般的に訴訟の能率を維持するため、可能な限り瑕疵の治癒（形式的欠陥の訂正など）の仕組みの対象となる。",
+    "exampleSentence": "The petitioner's failure to properly designate the defendant, despite receiving a judicial clarification, resulted in the Invalidity of Procedural Acts relating to the suit's commencement.",
+    "exampleTranslation": "申立人が司法の釈明を受けたにもかかわらず、被告を適切に特定しなかったため、訴訟の開始に関する訴訟行為の無効という結果を招いた。",
+    "vocabularyList": [
+      {
+        "word": "petitioner",
+        "translation": "申立人"
+      },
+      {
+        "word": "designate",
+        "translation": "特定する"
+      },
+      {
+        "word": "commencement of the suit",
+        "translation": "訴訟の開始"
+      },
+      {
+        "word": "curing mechanisms",
+        "translation": "治癒の仕組み"
+      },
+      {
+        "word": "rectification",
+        "translation": "訂正"
+      },
+      {
+        "word": "litigation efficiency",
+        "translation": "訴訟の能率"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "violation",
+        "translation": "違反"
       }
     ]
   }

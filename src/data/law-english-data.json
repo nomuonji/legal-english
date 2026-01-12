@@ -1,38 +1,38 @@
 {
-  "category": "Real Property Registration (不動産登記法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Joint Security Register",
-  "definition": "An auxiliary document (Mokuroku) maintained by the registrar, which comprehensively lists multiple distinct parcels of real property that are pledged as security for a single underlying claim or debt.",
-  "japaneseDefinition": "単一の債権または債務に対して担保として差し出されている、複数の個別の不動産を包括的に一覧化した、登記官によって作成・管理される付属文書（目録）。",
-  "japaneseWordTranslation": "共同担保目録 (きょうどうたんぽもくろく)",
-  "legalContext": "Real Property Registration Act Art. 73, Par. 1 (Requirement for preparation of the register)",
-  "japaneseLegalContext": "不動産登記法 第73条 第1項 (目録作成の要件)",
-  "exampleSentence": "Because the borrower used three houses and two separate plots of land as collateral for the business loan, the registrar attached a **Joint Security Register** to the main hypothecation entry.",
-  "exampleTranslation": "借主が事業融資の担保として3棟の家屋と2区画の土地を使用したため、登記官は主たる抵当権設定登記に共同担保目録を添付した。",
+  "word": "Necessary Co-litigation",
+  "definition": "A form of co-litigation where the judgment must be rendered uniformly for all joint parties because the subject matter concerns a unified legal relationship, requiring all essential parties to participate.",
+  "japaneseDefinition": "訴訟の目的である権利関係が共同当事者の全員について合一に確定されなければならないため、全員を当事者として訴訟追行することが要求される共同訴訟。",
+  "japaneseWordTranslation": "必要的共同訴訟 (ひつようてききょうどうそしょう)",
+  "legalContext": "Code of Civil Procedure Art. 38 (Procedural Acts of Necessary Co-litigation): 'If the procedural act of one co-litigant is disadvantageous to the others, such act shall have no effect for the others.'",
+  "japaneseLegalContext": "民事訴訟法第38条（必要的共同訴訟における手続行為）：共同訴訟人の一人の行為が他の共同訴訟人にとって不利益であるときは、その効力を生じない。",
+  "exampleSentence": "The action to nullify a resolution passed by the corporate shareholders required the inclusion of all relevant parties, falling under the rules of **necessary co-litigation**.",
+  "exampleTranslation": "株主によって可決された決議の無効を主張する訴えは、全ての関係当事者を含める必要があり、**必要的共同訴訟**の規定が適用される。",
   "vocabularyList": [
     {
-      "word": "auxiliary document",
-      "translation": "付属文書"
+      "word": "joint parties",
+      "translation": "共同当事者"
     },
     {
-      "word": "registrar",
-      "translation": "登記官"
+      "word": "uniform judgment",
+      "translation": "合一の判決"
     },
     {
-      "word": "comprehensively lists",
-      "translation": "包括的に一覧化する"
+      "word": "nullify a resolution",
+      "translation": "決議を無効にする"
     },
     {
-      "word": "pledged as security",
-      "translation": "担保として差し出された"
+      "word": "procedural act",
+      "translation": "手続行為"
     },
     {
-      "word": "collateral",
-      "translation": "担保"
+      "word": "disadvantageous",
+      "translation": "不利益な"
     },
     {
-      "word": "plots of land",
-      "translation": "土地の区画"
+      "word": "legal relationship",
+      "translation": "権利関係"
     }
   ]
 }

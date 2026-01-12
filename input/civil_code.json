@@ -12762,5 +12762,119 @@
         "translation": "機能的に消滅"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Claim for Inclusion in Estate Distribution",
+    "definition": "A legal claim filed by an heir to have property acquired by another heir through an inter vivos gift from the decedent (often substantial) treated as an advancement on the statutory share, thereby including its value in the calculation of the estate subject to division.",
+    "japaneseDefinition": "相続人が被相続人から生前に受けた、特定の財産（特に多額の贈与）を、相続財産の分割計算に際して、その相続分の前渡しとして算入するよう求める請求。",
+    "japaneseWordTranslation": "いさんぶんかつへのくみいれせいきゅう (遺産分割への組入れ請求)",
+    "legalContext": "Civil Code Art. 903 (Special benefit received by an heir; applies when a claim is made to include the gift amount in the estate calculation).",
+    "japaneseLegalContext": "民法第903条（特別受益者の相続分; 生前贈与等を遺産に組み入れる請求の根拠）",
+    "exampleSentence": "The court approved the surviving spouse's *claim for inclusion in estate distribution* regarding the residential property the decedent had gifted to his daughter ten years prior.",
+    "exampleTranslation": "裁判所は、被相続人が10年前に娘に贈与した居住用不動産について、生存配偶者の遺産分割への組入れ請求を認めた。",
+    "vocabularyList": [
+      {
+        "word": "heir",
+        "translation": "相続人"
+      },
+      {
+        "word": "decedent",
+        "translation": "被相続人"
+      },
+      {
+        "word": "inter vivos gift",
+        "translation": "生前贈与"
+      },
+      {
+        "word": "statutory share",
+        "translation": "法定相続分"
+      },
+      {
+        "word": "advancement",
+        "translation": "前渡し"
+      },
+      {
+        "word": "surviving spouse",
+        "translation": "生存配偶者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Duty of Notification (of Assignment)",
+    "definition": "The legal obligation imposed on the assignor of a claim to formally inform the obligor of the transfer of the claim in order to make the assignment legally binding (perfected) against the obligor and other third parties.",
+    "japaneseDefinition": "債権を譲渡する者が、その譲渡の事実を債務者に正式に知らせる法的義務。これは、譲渡を債務者及び第三者に対抗するために必要とされる。",
+    "japaneseWordTranslation": "つうちぎむ (通知義務)",
+    "legalContext": "Civil Code Art. 467 (Requirement for opposability of claim assignment: Notification must be made by the assignor or accepted by the obligor).",
+    "japaneseLegalContext": "民法第467条（指名債権の譲渡の対抗要件）",
+    "exampleSentence": "The financing company failed to discharge its *duty of notification* to the debtor, rendering the assignment of the loan claim ineffective against him.",
+    "exampleTranslation": "その金融会社は債務者に対する通知義務を履行しなかったため、当該の貸付債権の譲渡は彼に対して効力を生じなかった。",
+    "vocabularyList": [
+      {
+        "word": "assignor",
+        "translation": "譲渡人"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "transfer",
+        "translation": "譲渡"
+      },
+      {
+        "word": "legally binding",
+        "translation": "対抗力を有する"
+      },
+      {
+        "word": "receivables",
+        "translation": "売掛金"
+      },
+      {
+        "word": "ineffective",
+        "translation": "無効な"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability Exemption Clause",
+    "definition": "A contractual stipulation designed to preclude or limit the liability of one or both parties for damages that might arise from certain future events, such as non-performance or certain torts, within the permissible scope of contractual freedom.",
+    "japaneseDefinition": "契約当事者の一方または双方が、将来発生し得る契約不履行や不法行為などに基づく損害賠償責任を、一定の範囲で免除または制限することを定めた契約条項。",
+    "japaneseWordTranslation": "めんせきとくやく (免責特約)",
+    "legalContext": "General principles of Contract Law (Civil Code Arts. 521 and 548-2), subject to limitations regarding gross negligence or intentional fault.",
+    "japaneseLegalContext": "契約法の一般原則（民法第521条、第548条の2等）に基づき、故意または重過失の場合の制限を受ける。",
+    "exampleSentence": "The commercial lease contained a broad *liability exemption clause*, but the court held it unenforceable because the damage resulted from the lessor's intentional neglect of maintenance.",
+    "exampleTranslation": "その商業賃貸借契約には広範な免責特約が含まれていたが、損害は賃貸人の故意による維持管理の怠慢から生じたため、裁判所はその特約を執行不能と判断した。",
+    "vocabularyList": [
+      {
+        "word": "contractual stipulation",
+        "translation": "契約上の定め"
+      },
+      {
+        "word": "preclude",
+        "translation": "排除する"
+      },
+      {
+        "word": "intentional fault",
+        "translation": "故意による過失"
+      },
+      {
+        "word": "commercial lease",
+        "translation": "商業賃貸借契約"
+      },
+      {
+        "word": "unenforceable",
+        "translation": "執行不能の"
+      },
+      {
+        "word": "lessor",
+        "translation": "賃貸人"
+      }
+    ]
   }
 ]

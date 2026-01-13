@@ -9520,5 +9520,81 @@
         "translation": "金銭の回収"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Risk of execution impairment",
+    "definition": "The legal requirement for a provisional attachment (Kari sashiosae), where the creditor must demonstrate that without the measure, compulsory execution of the final judgment would be impossible or extremely difficult.",
+    "japaneseDefinition": "債権者が本案訴訟に勝訴した場合に、その強制執行が著しく困難となる、または不能となるおそれがあること。仮差押え命令発令の要件の一つ。",
+    "japaneseWordTranslation": "執行を困難にするおそれ (しっこうをこんなんにするおそれ)",
+    "legalContext": "Civil Preservation Act, Art. 13(1) (Requirement for Provisional Attachment): A provisional attachment shall be ordered when there is a risk that compulsory execution will become impossible or extremely difficult.",
+    "japaneseLegalContext": "民事保全法第13条第1項: 仮差押えは、金銭の支払を目的とする債権について、強制執行をすることができなくなるおそれがあるとき、又は強制執行をするのに著しい困難を生ずるおそれがあるときに、これをすることができる。",
+    "exampleSentence": "The motion for provisional attachment was granted based on the clear demonstration of the debtor’s attempts to conceal assets, establishing a significant risk of execution impairment.",
+    "exampleTranslation": "債務者が資産を隠蔽しようとする明確な試みが認められたため、執行を困難にするおそれが十分に立証され、仮差押えの申立ては認められた。",
+    "vocabularyList": [
+      {
+        "word": "motion for provisional attachment",
+        "translation": "仮差押えの申立て (かりさしおさえのもうしたて)"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え (かりさしおさえ)"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行 (きょうせいしっこう)"
+      },
+      {
+        "word": "conceal assets",
+        "translation": "資産を隠蔽する (しさんをいんぺいする)"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者 (さいけんしゃ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Injunction establishing temporary status",
+    "definition": "A type of provisional disposition (Kari shobun) designed to provisionally set or regulate the legal relationship or temporary status of the parties concerning the object of the dispute until the final judgment is rendered.",
+    "japaneseDefinition": "紛争の目的たる係争中の権利関係について、本案訴訟が確定するまでの間、一時的に当事者の地位を定めることを目的とする仮処分。",
+    "japaneseWordTranslation": "仮の地位を定める仮処分 (かりのちいをさだめるかりしょぶん)",
+    "legalContext": "Civil Preservation Act, Art. 23(2) (Provisional Disposition Concerning Status Quo): A provisional disposition may be ordered concerning a legal relationship in dispute in order to establish a temporary status quo in respect of that legal relationship.",
+    "japaneseLegalContext": "民事保全法第23条第2項: 仮処分は、争いがある権利関係について、債権者に生ずる著しい損害又は急迫の危険を避けるためこれを必要とするとき、その他現状の変更を避けるためこれを必要とするときにも、することができる。",
+    "exampleSentence": "The company filed an application for an **injunction establishing temporary status** to prohibit the unauthorized use of its trade secrets by a former employee during the pendency of the main action.",
+    "exampleTranslation": "本案訴訟の継続中、その会社は元従業員による企業秘密の不正使用を禁止するための仮の地位を定める仮処分の申請を行った。",
+    "vocabularyList": [
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分 (かりしょぶん)"
+      },
+      {
+        "word": "subject matter of the dispute",
+        "translation": "紛争の目的 (ふんそうのもくてき)"
+      },
+      {
+        "word": "main action",
+        "translation": "本案訴訟 (ほんなんそしょう)"
+      },
+      {
+        "word": "unauthorized use",
+        "translation": "不正使用 (ふせいしよう)"
+      },
+      {
+        "word": "trade secrets",
+        "translation": "企業秘密 (きぎょうひみつ)"
+      },
+      {
+        "word": "pendency",
+        "translation": "継続中 (けいぞくちゅう)"
+      }
+    ]
   }
 ]

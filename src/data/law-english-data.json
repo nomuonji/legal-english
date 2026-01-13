@@ -1,42 +1,34 @@
 {
-  "category": "Constitution (憲法)",
+  "category": "Judicial Scrivener Act (司法書士法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Adjudication of Member Qualification Disputes",
-  "definition": "The exclusive constitutional authority of the House concerned (either the House of Representatives or the House of Councillors) to judge disputes regarding the qualifications of its own elected members, a judgment which is final and not subject to judicial review.",
-  "japaneseDefinition": "国会議員（衆議院議員又は参議院議員）の資格に関する争いを、その議員が所属する議院が排他的に裁判し決定する権能。",
-  "japaneseWordTranslation": "議員の資格争訟 (ぎいんの しかくそうしょう)",
-  "legalContext": "Constitution of Japan, Article 55: Each House shall judge disputes related to the qualifications of its members.",
-  "japaneseLegalContext": "日本国憲法 第55条: 両議院は、各々その議員の資格に関する争訟を裁判する。",
-  "exampleSentence": "The principle of separation of powers dictates that the Diet holds the exclusive authority concerning the **Adjudication of Member Qualification Disputes** and this determination cannot be appealed to the courts.",
-  "exampleTranslation": "権力分立の原則に基づき、国会は議員の資格争訟に関する排他的な権限を有しており、その決定は裁判所に上訴することはできない。",
+  "word": "Professional Register",
+  "definition": "The official, mandatory list maintained by the national professional federation or local association, containing the name, address, and qualification details of all individuals authorized to practice legal documentation services and related procedural work.",
+  "japaneseDefinition": "国が定める専門家団体が管理する公的な名簿であり、法律文書作成および関連する手続業務を行う権限を有する全ての個人の氏名、住所、資格情報を含むもの。",
+  "japaneseWordTranslation": "司法書士名簿 (しほうしょしめいぼ)",
+  "legalContext": "Judicial Scrivener Act, Art. 25: Stipulates that the Federation must maintain the Professional Register (Nihon Shihōshoshikai Rengōkai Meibo) and record mandatory items.",
+  "japaneseLegalContext": "司法書士法第25条: 連合会は、司法書士名簿を備え、これに定められた事項を登録しなければならない。",
+  "exampleSentence": "In order to commence practice, the newly qualified individual must apply for entry into the Professional Register managed by the national federation.",
+  "exampleTranslation": "業務を開始するためには、新たに資格を得た個人は、全国連合会によって管理されている専門家名簿への登録を申請しなければならない。",
   "vocabularyList": [
     {
-      "word": "House of Representatives",
-      "translation": "衆議院"
+      "word": "commence practice",
+      "translation": "業務を開始する"
     },
     {
-      "word": "House of Councillors",
-      "translation": "参議院"
+      "word": "national federation",
+      "translation": "全国連合会"
     },
     {
-      "word": "exclusive authority",
-      "translation": "排他的権限"
+      "word": "qualification details",
+      "translation": "資格情報"
     },
     {
-      "word": "elected members",
-      "translation": "選出された議員"
+      "word": "mandatory list",
+      "translation": "義務付けられた名簿"
     },
     {
-      "word": "judicial review",
-      "translation": "司法審査"
-    },
-    {
-      "word": "determination",
-      "translation": "決定"
-    },
-    {
-      "word": "separation of powers",
-      "translation": "権力分立"
+      "word": "apply for entry",
+      "translation": "登録を申請する"
     }
   ]
 }

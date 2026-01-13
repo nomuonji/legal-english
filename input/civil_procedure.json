@@ -11782,5 +11782,119 @@
         "translation": "不服申立て"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Adjudication of Litigation Costs",
+    "definition": "The procedural decision or ruling made by the court regarding which party must ultimately bear the expenses (such as filing fees, witness travel expenses, etc.) incurred in conducting the lawsuit.",
+    "japaneseDefinition": "裁判所が訴訟の当事者の間で、訴訟遂行に要した費用（訴訟費用）を最終的にどのように負担させるかを決定すること。原則として敗訴者が負担する。",
+    "japaneseWordTranslation": "訴訟費用の負担の裁判 (そしょうひようの ふたんの さいばん)",
+    "legalContext": "Code of Civil Procedure Art. 61: Principle that the losing party bears the costs (敗訴者負担の原則).",
+    "japaneseLegalContext": "民事訴訟法第61条: 敗訴者負担の原則",
+    "exampleSentence": "The court issued an Adjudication of Litigation Costs ordering the plaintiff, who lost the case, to bear the entirety of the defendant's necessary procedural expenses.",
+    "exampleTranslation": "裁判所は、敗訴した原告に対し、被告の必要な訴訟費用をすべて負担するよう命じる訴訟費用の負担の裁判を下した。",
+    "vocabularyList": [
+      {
+        "word": "losing party",
+        "translation": "敗訴者 (はいそしゃ)"
+      },
+      {
+        "word": "bear the costs",
+        "translation": "費用を負担する (ひようを ふたんする)"
+      },
+      {
+        "word": "filing fees",
+        "translation": "手数料 (てすうりょう)"
+      },
+      {
+        "word": "procedural expenses",
+        "translation": "手続費用 (てつづきひよう)"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告 (げんこく)"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告 (ひこく)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Motion to Transfer Venue",
+    "definition": "A formal application filed by a party objecting to the current court's jurisdiction (or venue) and requesting that the case be moved to another competent court.",
+    "japaneseDefinition": "当事者が、係属している裁判所には管轄がないとして、管轄権を有する他の裁判所へ訴訟の移送を求める申立て。",
+    "japaneseWordTranslation": "管轄異議の申立て (かんかついぎの もうしたて)",
+    "legalContext": "Code of Civil Procedure Art. 16: Provisions regarding the grounds and timing for filing an objection to venue based on implied consent (応訴管轄).",
+    "japaneseLegalContext": "民事訴訟法第16条: 応訴管轄の規定と異議申立て",
+    "exampleSentence": "The defendant filed a Motion to Transfer Venue, arguing that the contract stipulated an exclusive forum in Osaka, not Tokyo.",
+    "exampleTranslation": "被告は、本件契約において東京ではなく大阪で専属的な裁判籍が定められているとして、管轄異議の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "venue",
+        "translation": "裁判籍 (さいばんせき) / 管轄 (かんかつ)"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄権 (かんかつけん)"
+      },
+      {
+        "word": "transfer",
+        "translation": "移送 (いそう)"
+      },
+      {
+        "word": "exclusive forum",
+        "translation": "専属的裁判籍 (せんぞくてき さいばんせき)"
+      },
+      {
+        "word": "formal application",
+        "translation": "正式な申立て (せいしきな もうしたて)"
+      },
+      {
+        "word": "stipulated",
+        "translation": "規定する (きていする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Requirements for Judgment on the Merits",
+    "definition": "The set of conditions relating to the substance of the dispute that must be met for a court to render a final judgment that resolves the parties' rights and obligations (e.g., that the asserted facts support the legal claim). Contrast with 'Requirements for Suit' (訴訟要件).",
+    "japaneseDefinition": "裁判所が訴訟の内容（本案）について審理し、原告の請求を認容または棄却するために満たされなければならない、実体的な要件。訴訟要件が充足されて初めて本案審理に進む。",
+    "japaneseWordTranslation": "本案判決の要件 (ほんあんはんけつの ようけん)",
+    "legalContext": "Procedural Doctrine related to the principle of judicial review of the substance of the claim, following the verification of all basic litigation prerequisites (訴訟要件).",
+    "japaneseLegalContext": "民事訴訟法上の訴訟要件及び本案審理の原則",
+    "exampleSentence": "Even if all Requirements for Suit are satisfied, the court must still determine if the facts presented satisfy the **Requirements for Judgment on the Merits** before ruling in favor of the claimant.",
+    "exampleTranslation": "全ての訴訟要件が満たされたとしても、裁判所は請求人の有利に判決を下す前に、提出された事実が本案判決の要件を満たすかどうかを判断しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "substance of the dispute",
+        "translation": "本案 (ほんあん)"
+      },
+      {
+        "word": "judgment",
+        "translation": "判決 (はんけつ)"
+      },
+      {
+        "word": "ruling in favor of",
+        "translation": "認容する (にんようする)"
+      },
+      {
+        "word": "claimant",
+        "translation": "請求人 (せいきゅうにん)"
+      },
+      {
+        "word": "Requirements for Suit",
+        "translation": "訴訟要件 (そしょうようけん)"
+      },
+      {
+        "word": "prerequisites",
+        "translation": "前提条件 (ぜんていじょうけん)"
+      }
+    ]
   }
 ]

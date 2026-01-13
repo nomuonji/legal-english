@@ -1,34 +1,42 @@
 {
-  "category": "Judicial Scrivener Act (司法書士法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Professional Register",
-  "definition": "The official, mandatory list maintained by the national professional federation or local association, containing the name, address, and qualification details of all individuals authorized to practice legal documentation services and related procedural work.",
-  "japaneseDefinition": "国が定める専門家団体が管理する公的な名簿であり、法律文書作成および関連する手続業務を行う権限を有する全ての個人の氏名、住所、資格情報を含むもの。",
-  "japaneseWordTranslation": "司法書士名簿 (しほうしょしめいぼ)",
-  "legalContext": "Judicial Scrivener Act, Art. 25: Stipulates that the Federation must maintain the Professional Register (Nihon Shihōshoshikai Rengōkai Meibo) and record mandatory items.",
-  "japaneseLegalContext": "司法書士法第25条: 連合会は、司法書士名簿を備え、これに定められた事項を登録しなければならない。",
-  "exampleSentence": "In order to commence practice, the newly qualified individual must apply for entry into the Professional Register managed by the national federation.",
-  "exampleTranslation": "業務を開始するためには、新たに資格を得た個人は、全国連合会によって管理されている専門家名簿への登録を申請しなければならない。",
+  "word": "Demand for Inclusion in Distribution",
+  "definition": "A formal procedure whereby a creditor who does not have an attachment order on the property but possesses an execution title or other statutory grounds requests the execution officer to include their claim in the proceeds distribution.",
+  "japaneseDefinition": "差押えをしていないが執行名義などの法定の根拠を持つ債権者が、執行官に対し、売却代金の配当手続きに自己の債権を含めるよう要求する手続き。",
+  "japaneseWordTranslation": "配当要求 (はいとうようきゅう)",
+  "legalContext": "Civil Execution Act Art. 87 (1): A creditor who has a right to demand distribution may make a demand for inclusion in distribution by the deadline set forth in the following paragraph.",
+  "japaneseLegalContext": "民事執行法第87条第1項: 配当を請求する権利を有する債権者は、次項に定める期限までに、配当要求をすることができる。",
+  "exampleSentence": "Failure by the junior creditor to submit a **demand for inclusion in distribution** by the deadline meant they forfeited their right to the surplus funds.",
+  "exampleTranslation": "期限までに後順位の債権者が配当要求を提出しなかったことは、彼らが剰余金に対する権利を喪失したことを意味した。",
   "vocabularyList": [
     {
-      "word": "commence practice",
-      "translation": "業務を開始する"
+      "word": "creditor",
+      "translation": "債権者"
     },
     {
-      "word": "national federation",
-      "translation": "全国連合会"
+      "word": "attachment order",
+      "translation": "差押命令"
     },
     {
-      "word": "qualification details",
-      "translation": "資格情報"
+      "word": "statutory grounds",
+      "translation": "法定の根拠"
     },
     {
-      "word": "mandatory list",
-      "translation": "義務付けられた名簿"
+      "word": "execution officer",
+      "translation": "執行官"
     },
     {
-      "word": "apply for entry",
-      "translation": "登録を申請する"
+      "word": "proceeds distribution",
+      "translation": "売却代金の配当"
+    },
+    {
+      "word": "surplus funds",
+      "translation": "剰余金"
+    },
+    {
+      "word": "junior creditor",
+      "translation": "後順位の債権者"
     }
   ]
 }

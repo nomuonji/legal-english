@@ -11896,5 +11896,115 @@
         "translation": "前提条件 (ぜんていじょうけん)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action to Contest the Executory Title",
+    "definition": "A lawsuit filed by the judgment debtor to challenge the substantive existence or scope of the claim cited in the execution title (e.g., that the debt has already been paid or extinguished).",
+    "japaneseDefinition": "執行名義に表示された請求権の存在、内容又は範囲を争うために債務者が提起する訴え。債務が弁済等により消滅した場合などに用いられる。",
+    "japaneseWordTranslation": "請求異議の訴え (せいきゅう いぎ の うったえ)",
+    "legalContext": "Civil Execution Act, Article 35 (Action to contest the claim)",
+    "japaneseLegalContext": "民事執行法第35条（請求異議の訴え）",
+    "exampleSentence": "The obligor filed an Action to Contest the Executory Title, asserting that the underlying monetary obligation had been extinguished through a prior settlement agreement.",
+    "exampleTranslation": "債務者は、根底にある金銭債務が事前の和解契約によって消滅したと主張し、請求異議の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "execution title",
+        "translation": "執行名義"
+      },
+      {
+        "word": "substantive existence",
+        "translation": "実体的な存在"
+      },
+      {
+        "word": "extinguished",
+        "translation": "消滅した"
+      },
+      {
+        "word": "settlement agreement",
+        "translation": "和解契約"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Motion for Re-Opening of Oral Arguments",
+    "definition": "A formal request submitted by a litigant asking the court to rescind its decision to conclude the trial hearing and resume oral arguments, typically because new, crucial evidence or assertions have emerged.",
+    "japaneseDefinition": "裁判所が終結した口頭弁論を再度開くよう当事者が申立てること。通常、新たな重要な証拠や主張が出てきた場合に、裁決権を持つ裁判所に対して行う。",
+    "japaneseWordTranslation": "口頭弁論の再開の申立て (こうとう べんろん の さいかい の もうしたて)",
+    "legalContext": "Code of Civil Procedure, Article 153 (Re-opening of oral arguments)",
+    "japaneseLegalContext": "民事訴訟法第153条（口頭弁論の再開）",
+    "exampleSentence": "Following the discovery of previously undisclosed email correspondence, the plaintiff immediately filed a Motion for Re-Opening of Oral Arguments to present the fresh documentary evidence.",
+    "exampleTranslation": "原告は、以前は開示されていなかった電子メールのやり取りを発見した後、直ちに新たな書証を提出するために口頭弁論の再開の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "rescind",
+        "translation": "取り消す"
+      },
+      {
+        "word": "litigant",
+        "translation": "訴訟当事者"
+      },
+      {
+        "word": "crucial evidence",
+        "translation": "重要な証拠"
+      },
+      {
+        "word": "undisclosed",
+        "translation": "未開示の"
+      },
+      {
+        "word": "documentary evidence",
+        "translation": "書証"
+      },
+      {
+        "word": "present",
+        "translation": "提出する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deemed Withdrawal of Suit",
+    "definition": "A procedural mechanism where a lawsuit is treated as having been withdrawn if both parties fail to appear on a hearing date or fail to request continuation of the proceedings within a stipulated period after a non-appearance.",
+    "japaneseDefinition": "当事者の双方が口頭弁論期日に出頭せず、かつ、その日から1月以内に期日指定の申立てをしない場合に、訴えが取り下げられたものとみなされる制度。",
+    "japaneseWordTranslation": "訴えの取下げの擬制 (うったえ の とりさげ の ぎせい)",
+    "legalContext": "Code of Civil Procedure, Article 263 (Deemed withdrawal of suit)",
+    "japaneseLegalContext": "民事訴訟法第263条（訴えの取下げの擬制）",
+    "exampleSentence": "Since the defendant failed to appear for the second consecutive trial hearing and the plaintiff did not petition for a new hearing date, the court invoked the rule regarding Deemed Withdrawal of Suit.",
+    "exampleTranslation": "被告が2回連続で公判期日に出頭せず、かつ、原告も新たな期日指定を申し立てなかったため、裁判所は訴えの取下げの擬制に関する規定を適用した。",
+    "vocabularyList": [
+      {
+        "word": "procedural mechanism",
+        "translation": "手続上の仕組み"
+      },
+      {
+        "word": "consecutive",
+        "translation": "連続した"
+      },
+      {
+        "word": "non-appearance",
+        "translation": "不出頭"
+      },
+      {
+        "word": "stipulated period",
+        "translation": "定められた期間"
+      },
+      {
+        "word": "petition for",
+        "translation": "申し立てる"
+      },
+      {
+        "word": "invoke the rule",
+        "translation": "規定を適用する"
+      }
+    ]
   }
 ]

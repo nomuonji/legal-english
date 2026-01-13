@@ -2,48 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Demand for Inclusion in Distribution",
-    "definition": "A formal procedure whereby a creditor who does not have an attachment order on the property but possesses an execution title or other statutory grounds requests the execution officer to include their claim in the proceeds distribution.",
-    "japaneseDefinition": "差押えをしていないが執行名義などの法定の根拠を持つ債権者が、執行官に対し、売却代金の配当手続きに自己の債権を含めるよう要求する手続き。",
-    "japaneseWordTranslation": "配当要求 (はいとうようきゅう)",
-    "legalContext": "Civil Execution Act Art. 87 (1): A creditor who has a right to demand distribution may make a demand for inclusion in distribution by the deadline set forth in the following paragraph.",
-    "japaneseLegalContext": "民事執行法第87条第1項: 配当を請求する権利を有する債権者は、次項に定める期限までに、配当要求をすることができる。",
-    "exampleSentence": "Failure by the junior creditor to submit a **demand for inclusion in distribution** by the deadline meant they forfeited their right to the surplus funds.",
-    "exampleTranslation": "期限までに後順位の債権者が配当要求を提出しなかったことは、彼らが剰余金に対する権利を喪失したことを意味した。",
-    "vocabularyList": [
-      {
-        "word": "creditor",
-        "translation": "債権者"
-      },
-      {
-        "word": "attachment order",
-        "translation": "差押命令"
-      },
-      {
-        "word": "statutory grounds",
-        "translation": "法定の根拠"
-      },
-      {
-        "word": "execution officer",
-        "translation": "執行官"
-      },
-      {
-        "word": "proceeds distribution",
-        "translation": "売却代金の配当"
-      },
-      {
-        "word": "surplus funds",
-        "translation": "剰余金"
-      },
-      {
-        "word": "junior creditor",
-        "translation": "後順位の債権者"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Execution Obligor",
     "definition": "The person against whom the compulsory execution procedure is commenced, defined as the party obliged to perform the duty specified in the execution title.",
     "japaneseDefinition": "強制執行手続が開始される相手方であり、執行名義に記載された義務を履行すべき当事者。",
@@ -11342,6 +11300,74 @@
       {
         "word": "legality of execution",
         "translation": "執行の不許 (しっこうのふきょ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Debt Execution",
+    "definition": "The legal procedure for compulsory collection of monetary claims, involving the seizure, realization (conversion into cash), and distribution of the debtor's property.",
+    "japaneseDefinition": "金銭債権を強制的に実現するための手続であり、債務者の財産を差し押さえ、換価し、債権者に分配すること。",
+    "japaneseWordTranslation": "金銭執行 (きんせんしっこう)",
+    "legalContext": "Civil Execution Act, Part II, Chapter 1 (Articles 43–192): Execution against property (monetary claims)",
+    "japaneseLegalContext": "民事執行法 第二編 第一章 (第四十三条から第百九十二条): 財産に対する執行（金銭債権）",
+    "exampleSentence": "The execution court initiated debt execution proceedings against the company's real estate assets following the unfulfilled payment order.",
+    "exampleTranslation": "履行されなかった支払命令を受けて、執行裁判所は会社の不動産資産に対して金銭執行手続を開始した。",
+    "vocabularyList": [
+      {
+        "word": "compulsory collection",
+        "translation": "強制的な取立て (きょうせいてきなとりたて)"
+      },
+      {
+        "word": "monetary claims",
+        "translation": "金銭債権 (きんせんさいけん)"
+      },
+      {
+        "word": "realization (conversion)",
+        "translation": "換価 (かんか)"
+      },
+      {
+        "word": "unfulfilled payment order",
+        "translation": "不履行の支払命令 (ふりこうのしはらいめいれい)"
+      },
+      {
+        "word": "real estate assets",
+        "translation": "不動産資産 (ふどうさんしさん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Possession Transfer Prohibition Order",
+    "definition": "A provisional disposition order issued by the court during real property execution proceedings, prohibiting the obligor or third party possessor from transferring or establishing encumbrances (e.g., leases) on the possession of the property.",
+    "japaneseDefinition": "不動産執行手続中に裁判所が出す保全処分の一つであり、債務者や第三者占有者に対し、当該不動産の占有移転や賃借権等の設定を禁じる命令。",
+    "japaneseWordTranslation": "占有移転禁止の保全処分 (せんゆいてんきんしのほぜんしょぶん)",
+    "legalContext": "Civil Execution Act Art. 55: Provisional disposition to prohibit the transfer of possession (Real Property Execution)",
+    "japaneseLegalContext": "民事執行法 第五十五条: 占有移転の禁止の保全処分（不動産執行）",
+    "exampleSentence": "To prevent the debtor from frustrating the upcoming judicial sale, the obligee applied for a Possession Transfer Prohibition Order on the seized apartment building.",
+    "exampleTranslation": "債務者が差し押さえられたマンションの競売を妨害するのを防ぐため、債権者は占有移転禁止の保全処分を申請した。",
+    "vocabularyList": [
+      {
+        "word": "provisional disposition",
+        "translation": "保全処分 (ほぜんしょぶん)"
+      },
+      {
+        "word": "real property execution",
+        "translation": "不動産執行 (ふどうさんしっこう)"
+      },
+      {
+        "word": "third party possessor",
+        "translation": "第三者占有者 (だいさんしゃせんゆうしゃ)"
+      },
+      {
+        "word": "establishing encumbrances",
+        "translation": "負担の設定 (ふたんのせってい)"
+      },
+      {
+        "word": "judicial sale",
+        "translation": "競売 (けいばい)"
       }
     ]
   }

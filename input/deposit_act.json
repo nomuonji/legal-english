@@ -7564,5 +7564,81 @@
         "translation": "法定原因"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Entitled Deposit Recipient",
+    "definition": "The individual or entity designated by law or a court order who holds the exclusive right to claim and receive the deposited funds or items from the deposit authority.",
+    "japaneseDefinition": "法律または裁判所の命令により指定され、供託所に預けられた金銭または有価証券の受け取りを請求する権利を有する者。",
+    "japaneseWordTranslation": "供託物受領権者 (きょうたくぶつ じゅりょう けんしゃ)",
+    "legalContext": "Deposit Act Art. 8: Governs the claim for delivery of the deposited property.",
+    "japaneseLegalContext": "供託法第8条: 供託物の交付請求権に関する事項を規定する。",
+    "exampleSentence": "The deposit office confirmed that the insurance company was the sole Entitled Deposit Recipient regarding the business guarantee deposit.",
+    "exampleTranslation": "供託所は、その保険会社が営業保証供託に関する唯一の供託物受領権者であることを確認した。",
+    "vocabularyList": [
+      {
+        "word": "sole",
+        "translation": "唯一の"
+      },
+      {
+        "word": "court order",
+        "translation": "裁判所の命令"
+      },
+      {
+        "word": "exclusive right",
+        "translation": "排他的な権利"
+      },
+      {
+        "word": "deposited property",
+        "translation": "供託物"
+      },
+      {
+        "word": "insurance company",
+        "translation": "保険会社"
+      },
+      {
+        "word": "business guarantee deposit",
+        "translation": "営業保証供託"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Discharge of Debt by Consignment",
+    "definition": "The legal consequence specified in the Civil Code where a debtor's debt to a claim holder is extinguished upon the completion of a valid deposit, typically due to the claim holder's inability or refusal to accept performance.",
+    "japaneseDefinition": "債権者が弁済の受領を拒否、または受領できない場合に、有効な供託の完了をもって債務者の債権者に対する債務が消滅する民法上の効果。",
+    "japaneseWordTranslation": "供託による債務の消滅 (きょうたくによる さいむの しょうめつ)",
+    "legalContext": "Civil Code Art. 494: Stipulates the effect of consignment for performance.",
+    "japaneseLegalContext": "民法第494条: 弁済の供託の効果について規定する。",
+    "exampleSentence": "The execution of the Deposit Filing resulted in the immediate Discharge of Debt by Consignment, thereby stopping the accumulation of default charges.",
+    "exampleTranslation": "供託の申請の実行により、直ちに供託による債務の消滅が生じ、それによって遅延損害金の蓄積が停止した。",
+    "vocabularyList": [
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "claim holder",
+        "translation": "債権者"
+      },
+      {
+        "word": "valid deposit",
+        "translation": "有効な供託"
+      },
+      {
+        "word": "refusal to accept performance",
+        "translation": "受領拒否"
+      },
+      {
+        "word": "accumulation",
+        "translation": "蓄積"
+      },
+      {
+        "word": "default charges",
+        "translation": "遅延損害金"
+      }
+    ]
   }
 ]

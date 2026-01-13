@@ -1,38 +1,42 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Constitution (憲法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Necessary Co-litigation",
-  "definition": "A form of co-litigation where the judgment must be rendered uniformly for all joint parties because the subject matter concerns a unified legal relationship, requiring all essential parties to participate.",
-  "japaneseDefinition": "訴訟の目的である権利関係が共同当事者の全員について合一に確定されなければならないため、全員を当事者として訴訟追行することが要求される共同訴訟。",
-  "japaneseWordTranslation": "必要的共同訴訟 (ひつようてききょうどうそしょう)",
-  "legalContext": "Code of Civil Procedure Art. 38 (Procedural Acts of Necessary Co-litigation): 'If the procedural act of one co-litigant is disadvantageous to the others, such act shall have no effect for the others.'",
-  "japaneseLegalContext": "民事訴訟法第38条（必要的共同訴訟における手続行為）：共同訴訟人の一人の行為が他の共同訴訟人にとって不利益であるときは、その効力を生じない。",
-  "exampleSentence": "The action to nullify a resolution passed by the corporate shareholders required the inclusion of all relevant parties, falling under the rules of **necessary co-litigation**.",
-  "exampleTranslation": "株主によって可決された決議の無効を主張する訴えは、全ての関係当事者を含める必要があり、**必要的共同訴訟**の規定が適用される。",
+  "word": "Adjudication of Member Qualification Disputes",
+  "definition": "The exclusive constitutional authority of the House concerned (either the House of Representatives or the House of Councillors) to judge disputes regarding the qualifications of its own elected members, a judgment which is final and not subject to judicial review.",
+  "japaneseDefinition": "国会議員（衆議院議員又は参議院議員）の資格に関する争いを、その議員が所属する議院が排他的に裁判し決定する権能。",
+  "japaneseWordTranslation": "議員の資格争訟 (ぎいんの しかくそうしょう)",
+  "legalContext": "Constitution of Japan, Article 55: Each House shall judge disputes related to the qualifications of its members.",
+  "japaneseLegalContext": "日本国憲法 第55条: 両議院は、各々その議員の資格に関する争訟を裁判する。",
+  "exampleSentence": "The principle of separation of powers dictates that the Diet holds the exclusive authority concerning the **Adjudication of Member Qualification Disputes** and this determination cannot be appealed to the courts.",
+  "exampleTranslation": "権力分立の原則に基づき、国会は議員の資格争訟に関する排他的な権限を有しており、その決定は裁判所に上訴することはできない。",
   "vocabularyList": [
     {
-      "word": "joint parties",
-      "translation": "共同当事者"
+      "word": "House of Representatives",
+      "translation": "衆議院"
     },
     {
-      "word": "uniform judgment",
-      "translation": "合一の判決"
+      "word": "House of Councillors",
+      "translation": "参議院"
     },
     {
-      "word": "nullify a resolution",
-      "translation": "決議を無効にする"
+      "word": "exclusive authority",
+      "translation": "排他的権限"
     },
     {
-      "word": "procedural act",
-      "translation": "手続行為"
+      "word": "elected members",
+      "translation": "選出された議員"
     },
     {
-      "word": "disadvantageous",
-      "translation": "不利益な"
+      "word": "judicial review",
+      "translation": "司法審査"
     },
     {
-      "word": "legal relationship",
-      "translation": "権利関係"
+      "word": "determination",
+      "translation": "決定"
+    },
+    {
+      "word": "separation of powers",
+      "translation": "権力分立"
     }
   ]
 }

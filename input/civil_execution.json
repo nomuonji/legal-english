@@ -11268,5 +11268,81 @@
         "translation": "税務当局"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "The Surplus Rule",
+    "definition": "The fundamental principle in execution against real property that mandates the execution court to cancel the sale procedure if the expected sale proceeds, after deducting execution costs and prior secured claims, will not generate any surplus for the executing creditor.",
+    "japaneseDefinition": "不動産執行において、執行費用及び執行債権者に優先する債権の額を弁済した後に剰余を生じる見込みがない場合、執行裁判所が売却手続を中止・取消しなければならない原則。",
+    "japaneseWordTranslation": "剰余主義 (じょうよしゅぎ)",
+    "legalContext": "Civil Execution Act, Article 63 (Requirement for Execution Against Immovable Property: '...the execution court shall cancel the commencement decision... if it finds that the sale proceeds will not exceed the total of the execution costs and the amount of the secured claims...').",
+    "japaneseLegalContext": "民事執行法第63条（不動産執行の要件：『...執行裁判所は、売却による剰余を生ずる見込みがないと認めるときは...当該開始決定を取り消さなければならない。』）",
+    "exampleSentence": "Due to the existence of a high-ranking hypothec, the execution court applied the Surplus Rule and cancelled the compulsory auction proceedings.",
+    "exampleTranslation": "高順位の抵当権が存在したため、執行裁判所は剰余主義を適用し、強制競売手続を取り消した。",
+    "vocabularyList": [
+      {
+        "word": "high-ranking hypothec",
+        "translation": "高順位の抵当権 (こうじゅんいのていとうけん)"
+      },
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売 (きょうせいけいばい)"
+      },
+      {
+        "word": "secured claims",
+        "translation": "優先する債権 (ゆうせんするさいけん)"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所 (しっこうさいばんしょ)"
+      },
+      {
+        "word": "sale proceeds",
+        "translation": "売却代金 (ばいきゃくだいきん)"
+      },
+      {
+        "word": "execution costs",
+        "translation": "執行費用 (しっこうひよう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Third-Party Objection",
+    "definition": "A civil lawsuit filed by a third party against the executing creditor and the execution debtor to object to the execution of a specific piece of property, claiming that the property belongs to the third party and execution must be stopped.",
+    "japaneseDefinition": "執行の対象とされた財産について、自己の所有権など、譲渡や引渡しを妨げる権原を主張する第三者が、執行債権者及び執行債務者を相手取って、その財産に対する執行の不許を求める訴え。",
+    "japaneseWordTranslation": "第三者異議の訴え (だいさんしゃいぎのうったえ)",
+    "legalContext": "Civil Execution Act, Article 38 (Action for Third-Party Objection: '...a third party who claims ownership of the seized property... may file an action against the execution obligee to object to the execution of the property.').",
+    "japaneseLegalContext": "民事執行法第38条（第三者異議の訴え：『差押えの目的物について所有権その他引渡し又は引渡しを妨げる権利を主張する第三者は、執行債権者を相手方として、その執行の不許を求める訴えを提起することができる。』）",
+    "exampleSentence": "The company filed an Action for Third-Party Objection asserting that the machinery seized by the creditor was their own property, not that of the execution debtor.",
+    "exampleTranslation": "債権者に差し押さえられた機械は執行債務者のものではなく、自社の財産であると主張し、当該会社は第三者異議の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "civil lawsuit",
+        "translation": "民事訴訟 (みんじそしょう)"
+      },
+      {
+        "word": "seized property",
+        "translation": "差押えの目的物 (さしおさえのもくてきぶつ)"
+      },
+      {
+        "word": "execution debtor",
+        "translation": "執行債務者 (しっこうさいむしゃ)"
+      },
+      {
+        "word": "ownership",
+        "translation": "所有権 (しょゆうけん)"
+      },
+      {
+        "word": "executing creditor",
+        "translation": "執行債権者 (しっこうさいけんしゃ)"
+      },
+      {
+        "word": "legality of execution",
+        "translation": "執行の不許 (しっこうのふきょ)"
+      }
+    ]
   }
 ]

@@ -9444,5 +9444,81 @@
         "translation": "執行官 (shikkōkan)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Tentative Proof Requirement",
+    "definition": "The standard of evidence required in Civil Preservation proceedings where the petitioner must submit documentation or information sufficient to convince the judge of the *likelihood* of the facts asserted (both the claim and the need for preservation), without meeting the strict standard of full proof.",
+    "japaneseDefinition": "民事保全手続きにおいて、保全の権利と保全の必要性の存在について、裁判官に確信を与えるまでではないが、一応確からしいとの心証を与える程度の証明。",
+    "japaneseWordTranslation": "疎明 (そめい)",
+    "legalContext": "Civil Preservation Act, Art. 13: The existence of a right to be secured and the necessity for preservation must be shown by tentative proof.",
+    "japaneseLegalContext": "民事保全法第13条: 保全すべき権利及び保全の必要性は、疎明しなければならない。",
+    "exampleSentence": "The preservation order was granted because the applicant successfully met the *Tentative Proof Requirement* regarding the debtor’s intention to conceal assets.",
+    "exampleTranslation": "債務者が財産を隠匿する意図があることについて、申立人が疎明の要件を満たしたため、保全命令が認められた。",
+    "vocabularyList": [
+      {
+        "word": "standard of evidence",
+        "translation": "証拠の基準"
+      },
+      {
+        "word": "petitioner",
+        "translation": "申立人"
+      },
+      {
+        "word": "existence of a right",
+        "translation": "権利の存在"
+      },
+      {
+        "word": "full proof",
+        "translation": "本証（完全な証明）"
+      },
+      {
+        "word": "judicial proceedings",
+        "translation": "裁判手続"
+      },
+      {
+        "word": "conceal assets",
+        "translation": "財産を隠匿する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandate to Commence Principal Suit",
+    "definition": "A court order compelling a preservation creditor to file the substantive lawsuit (the case determining the actual rights and obligations) within a specified time limit, failure of which may result in the revocation of the preservation order.",
+    "japaneseDefinition": "保全債権者に対し、保全命令の発令後、一定期間内に本案の訴えを提起することを命じる裁判所の命令。",
+    "japaneseWordTranslation": "本案の訴えを提起すべき命令 (ほんなんのうったえをていきすべきめいれい)",
+    "legalContext": "Civil Preservation Act, Art. 37(1): If the preservation order has been issued before the commencement of the principal suit, the court may, upon petition by the preservation debtor, issue a Mandate to Commence Principal Suit.",
+    "japaneseLegalContext": "民事保全法第37条第1項: 本案の訴えの提起前に保全命令が発せられた場合において、保全債務者の申立てがあったときは、裁判所は、保全債権者に対し、本案の訴えを提起すべき期間を定めることができる。",
+    "exampleSentence": "Upon receiving the *Mandate to Commence Principal Suit*, the creditor was required to file their claim for monetary recovery within a fourteen-day deadline.",
+    "exampleTranslation": "本案の訴えを提起すべき命令を受け取った際、債権者は14日間の期限内に金銭の回収を求める訴えを提起することが義務付けられた。",
+    "vocabularyList": [
+      {
+        "word": "preservation creditor",
+        "translation": "保全債権者"
+      },
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者"
+      },
+      {
+        "word": "substantive lawsuit",
+        "translation": "本案の訴訟"
+      },
+      {
+        "word": "specified time limit",
+        "translation": "特定された期間"
+      },
+      {
+        "word": "revocation of the order",
+        "translation": "命令の取消し"
+      },
+      {
+        "word": "monetary recovery",
+        "translation": "金銭の回収"
+      }
+    ]
   }
 ]

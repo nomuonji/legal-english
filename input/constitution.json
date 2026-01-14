@@ -2,48 +2,6 @@
   {
     "category": "Constitution (憲法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Motion of No-Confidence (in the Cabinet)",
-    "definition": "A resolution passed by the House of Representatives expressing a lack of confidence in the incumbent Cabinet, which, if passed, obligates the Cabinet to either resign en masse or dissolve the House of Representatives within ten days.",
-    "japaneseDefinition": "衆議院が内閣の責任追及として、内閣に対する信任を失ったことを表明する決議。可決された場合、内閣は総辞職するか、10日以内に衆議院を解散しなければならない。",
-    "japaneseWordTranslation": "内閣不信任決議 (ないかく ふしんにんけつぎ)",
-    "legalContext": "Constitution of Japan, Article 69: If the House of Representatives passes a motion of no-confidence, the Cabinet shall resign en masse, unless the House of Representatives is dissolved within ten days.",
-    "japaneseLegalContext": "日本国憲法 第69条: 内閣は、衆議院で不信任の決議案を可決し、又は信任の決議案を否決したときは、十日以内に衆議院が解散されない限り、総辞職をしなければならない。",
-    "exampleSentence": "The threat of a **Motion of No-Confidence** serves as a vital tool for the legislature to maintain control over the Executive branch’s political accountability.",
-    "exampleTranslation": "内閣不信任決議の脅威は、立法府が行政部門の政治的責任を維持するための重要な手段として機能する。",
-    "vocabularyList": [
-      {
-        "word": "Executive branch",
-        "translation": "行政府"
-      },
-      {
-        "word": "legislature",
-        "translation": "立法府"
-      },
-      {
-        "word": "resign en masse",
-        "translation": "総辞職する"
-      },
-      {
-        "word": "political accountability",
-        "translation": "政治的責任"
-      },
-      {
-        "word": "resolution",
-        "translation": "決議"
-      },
-      {
-        "word": "incumbent Cabinet",
-        "translation": "現職の内閣"
-      },
-      {
-        "word": "dissolve the House",
-        "translation": "議院を解散する"
-      }
-    ]
-  },
-  {
-    "category": "Constitution (憲法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Responsibility for Maintaining Freedoms and Rights",
     "definition": "The constitutional mandate imposing upon the Japanese people the inherent duty to hold and utilize the fundamental human rights granted to them as a 'sacred trust' for the public good, preventing their misuse.",
     "japaneseDefinition": "国民に対し、憲法が保障する自由及び権利を、公共の福祉のために濫用することなく保持し、これを擁護する義務。",
@@ -11088,6 +11046,120 @@
       {
         "word": "necessitated by",
         "translation": "～によって必要とされた"
+      }
+    ]
+  },
+  {
+    "category": "Constitution (憲法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Authorization (for Executive Action)",
+    "definition": "The principle defining the scope and limitations under which the National Diet may delegate legislative details and implementation authority to the Executive branch (e.g., Cabinet Orders or ordinances).",
+    "japaneseDefinition": "国会が定めた法律の具体的な実施内容や細則の決定権限を、内閣などの行政機関に委ねる（委任する）こと、およびその限界に関する憲法上の原則。",
+    "japaneseWordTranslation": "法律の委任 (ほうりつのいにん)",
+    "legalContext": "Constitution Art. 41: 'The Diet shall be the sole law-making organ of the State, and shall be the highest organ of state power.' (Implies limits on delegation.)",
+    "japaneseLegalContext": "憲法第41条: 国会は、国権の最高機関であつて、国の唯一の立法機関である。（委任の限界を示唆）",
+    "exampleSentence": "The Supreme Court has established strict standards regarding the breadth of Statutory Authorization, requiring the primary legal framework to be sufficiently clear.",
+    "exampleTranslation": "最高裁判所は、法律の委任の幅に関して厳格な基準を確立しており、基本的な法的枠組みが十分に明確であることを求めている。",
+    "vocabularyList": [
+      {
+        "word": "delegate",
+        "translation": "委任する"
+      },
+      {
+        "word": "Executive branch",
+        "translation": "行政機関"
+      },
+      {
+        "word": "Cabinet Orders",
+        "translation": "政令"
+      },
+      {
+        "word": "scope",
+        "translation": "範囲"
+      },
+      {
+        "word": "primary legal framework",
+        "translation": "基本的な法的枠組み"
+      },
+      {
+        "word": "sufficiently clear",
+        "translation": "十分に明確な"
+      }
+    ]
+  },
+  {
+    "category": "Constitution (憲法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legislative Enactment (Resolution)",
+    "definition": "The formal decision-making process or formal determination (resolution) made by the Diet, such as passing a bill, approving a budget, or ratifying a treaty.",
+    "japaneseDefinition": "国会が法律の成立、予算の承認、条約の批准など、公式な意思決定を行う行為、またはその決定自体。",
+    "japaneseWordTranslation": "議決 (ぎけつ)",
+    "legalContext": "Constitution Art. 59 Par. 1: 'A bill becomes a law on passage by both Houses, except as otherwise provided for by the Constitution.'",
+    "japaneseLegalContext": "憲法第59条第1項: 法律は、両議院で可決したとき、国会が法律となるところにより確定する。",
+    "exampleSentence": "The Legislative Enactment to implement tax cuts required a simple majority in both the House of Representatives and the House of Councillors.",
+    "exampleTranslation": "減税を実施するための立法上の議決は、衆議院及び参議院の両院における単純多数を必要とした。",
+    "vocabularyList": [
+      {
+        "word": "formal determination",
+        "translation": "公式な意思決定"
+      },
+      {
+        "word": "passing a bill",
+        "translation": "法案の可決"
+      },
+      {
+        "word": "ratifying a treaty",
+        "translation": "条約の批准"
+      },
+      {
+        "word": "simple majority",
+        "translation": "単純多数"
+      },
+      {
+        "word": "House of Representatives",
+        "translation": "衆議院"
+      },
+      {
+        "word": "House of Councillors",
+        "translation": "参議院"
+      }
+    ]
+  },
+  {
+    "category": "Constitution (憲法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Objective Constitutional Value System",
+    "definition": "A major interpretative doctrine asserting that fundamental rights are not merely defenses for individuals against the state, but establish an objective system of values binding all public powers (legislative, executive, and judicial).",
+    "japaneseDefinition": "基本的人権が、単に個人を国家権力から守るための主観的権利であるだけでなく、立法、行政、司法の全権力を拘束する客観的な価値秩序を形成しているとする解釈理論。",
+    "japaneseWordTranslation": "客観的価値秩序 (きゃっかんてきかちちつじょ)",
+    "legalContext": "This concept underlies the modern theory of the horizontal application of fundamental rights (Drittwirkung theory).",
+    "japaneseLegalContext": "基本的人権の私人間効力（第三者効力）を基礎づける現代的な解釈理論である。",
+    "exampleSentence": "Under the Objective Constitutional Value System, state organs have an active duty to realize the guarantees stipulated by the Constitution, rather than merely refraining from infringement.",
+    "exampleTranslation": "客観的価値秩序の考え方に基づけば、国家機関は単に権利侵害を差し控えるだけでなく、憲法が定める保障を実現するために積極的に行動する義務を負う。",
+    "vocabularyList": [
+      {
+        "word": "interpretative doctrine",
+        "translation": "解釈理論"
+      },
+      {
+        "word": "fundamental rights",
+        "translation": "基本的人権"
+      },
+      {
+        "word": "binding",
+        "translation": "拘束する"
+      },
+      {
+        "word": "public powers",
+        "translation": "公権力"
+      },
+      {
+        "word": "active duty",
+        "translation": "積極的な義務"
+      },
+      {
+        "word": "refraining from infringement",
+        "translation": "権利侵害を差し控える"
       }
     ]
   }

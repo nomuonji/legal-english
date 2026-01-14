@@ -1,42 +1,42 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Constitution (憲法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Declaratory Judgment",
-  "definition": "A lawsuit seeking a judicial declaration as to the existence or non-existence of a specific legal relationship or legal fact.",
-  "japaneseDefinition": "特定の法律関係または法律事実の存否について、裁判所にその確認を求める訴訟。",
-  "japaneseWordTranslation": "確認の訴え (かくにんのうったえ)",
-  "legalContext": "Japanese Code of Civil Procedure (Minji Soshō Hō) implicitly governs these actions, requiring the necessity for confirmation (確認の利益) for the suit to be admissible.",
-  "japaneseLegalContext": "民事訴訟法: 訴えの利益（確認の利益）",
-  "exampleSentence": "The plaintiff filed a declaratory judgment action to confirm the non-existence of a debt obligation alleged by the defendant.",
-  "exampleTranslation": "原告は、被告が主張する債務の不存在を確認するための確認の訴えを提起した。",
+  "word": "Motion of No-Confidence (in the Cabinet)",
+  "definition": "A resolution passed by the House of Representatives expressing a lack of confidence in the incumbent Cabinet, which, if passed, obligates the Cabinet to either resign en masse or dissolve the House of Representatives within ten days.",
+  "japaneseDefinition": "衆議院が内閣の責任追及として、内閣に対する信任を失ったことを表明する決議。可決された場合、内閣は総辞職するか、10日以内に衆議院を解散しなければならない。",
+  "japaneseWordTranslation": "内閣不信任決議 (ないかく ふしんにんけつぎ)",
+  "legalContext": "Constitution of Japan, Article 69: If the House of Representatives passes a motion of no-confidence, the Cabinet shall resign en masse, unless the House of Representatives is dissolved within ten days.",
+  "japaneseLegalContext": "日本国憲法 第69条: 内閣は、衆議院で不信任の決議案を可決し、又は信任の決議案を否決したときは、十日以内に衆議院が解散されない限り、総辞職をしなければならない。",
+  "exampleSentence": "The threat of a **Motion of No-Confidence** serves as a vital tool for the legislature to maintain control over the Executive branch’s political accountability.",
+  "exampleTranslation": "内閣不信任決議の脅威は、立法府が行政部門の政治的責任を維持するための重要な手段として機能する。",
   "vocabularyList": [
     {
-      "word": "non-existence",
-      "translation": "不存在 (ふそんざい)"
+      "word": "Executive branch",
+      "translation": "行政府"
     },
     {
-      "word": "legal relationship",
-      "translation": "法律関係 (ほうりつかんけい)"
+      "word": "legislature",
+      "translation": "立法府"
     },
     {
-      "word": "admissible",
-      "translation": "適法である (てきほうである)"
+      "word": "resign en masse",
+      "translation": "総辞職する"
     },
     {
-      "word": "debt obligation",
-      "translation": "債務 (さいむ)"
+      "word": "political accountability",
+      "translation": "政治的責任"
     },
     {
-      "word": "plaintiff",
-      "translation": "原告 (げんこく)"
+      "word": "resolution",
+      "translation": "決議"
     },
     {
-      "word": "defendant",
-      "translation": "被告 (ひこく)"
+      "word": "incumbent Cabinet",
+      "translation": "現職の内閣"
     },
     {
-      "word": "necessity for confirmation",
-      "translation": "確認の利益 (かくにんのりえき)"
+      "word": "dissolve the House",
+      "translation": "議院を解散する"
     }
   ]
 }

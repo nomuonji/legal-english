@@ -10586,5 +10586,115 @@
         "translation": "裁判所の監督 (Saibansho no Kantoku)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deemed Dividend",
+    "definition": "The classification, typically for tax purposes, of a distribution of assets or money arising from a capital transaction (such as a capital reduction, share buyback, or corporate reorganization) that exceeds the amount of capital or capital surplus, treating the excess portion as a taxable dividend distribution.",
+    "japaneseDefinition": "資本取引（資本金の減少や自己株式の取得など）の結果として株主等に交付された金銭その他の財産のうち、資本の払い戻し部分を超過する金額が、配当とみなされ課税対象となること。",
+    "japaneseWordTranslation": "みなし配当 (Minashi Haitō)",
+    "legalContext": "Companies Act provisions related to capital reduction and surplus distribution, read in conjunction with Corporate Tax Law (Hōjinzei Hō) Art. 24.",
+    "japaneseLegalContext": "法人税法第24条及び会社法における資本減少及び剰余金の配当に関する規定",
+    "exampleSentence": "The distribution resulting from the company's redemption of its own shares was classified as a deemed dividend to the extent that it exceeded the paid-in capital corresponding to those shares.",
+    "exampleTranslation": "会社が自己株式を償還した結果の分配金は、当該株式に対応する払込資本金を超過する部分について、みなし配当として分類された。",
+    "vocabularyList": [
+      {
+        "word": "redemption",
+        "translation": "償還 (Shōkan)"
+      },
+      {
+        "word": "capital transaction",
+        "translation": "資本取引 (Shihon Torihiki)"
+      },
+      {
+        "word": "paid-in capital",
+        "translation": "払込資本金 (Haraikomi Shihonkin)"
+      },
+      {
+        "word": "capital surplus",
+        "translation": "資本剰余金 (Shihon Jōyokin)"
+      },
+      {
+        "word": "corporate reorganization",
+        "translation": "組織再編 (Soshiki Saihen)"
+      },
+      {
+        "word": "taxable dividend",
+        "translation": "課税配当 (Kazei Haitō)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Concurrent Directorship",
+    "definition": "The act of a director holding a position in another company, often one that competes with the primary company, which may trigger a conflict of interest and requires specific approval from the board of directors or shareholders under the Companies Act.",
+    "japaneseDefinition": "取締役が自己又は第三者のために会社との間で競業取引を行うこと。競業避止義務に基づき、取締役会の承認が必要となる。",
+    "japaneseWordTranslation": "兼任取締役 (Ken'nin Torishimariyaku)",
+    "legalContext": "Companies Act Art. 356 (Transaction between Director and Company) & Art. 365 (Application to Indirect Transactions): Requires board approval for competitive transactions.",
+    "japaneseLegalContext": "会社法第356条（取締役の会社との取引）及び第365条（間接取引）",
+    "exampleSentence": "Because the director's new position constituted a concurrent directorship in a competing firm, the board of directors required a special resolution to grant specific approval for the appointment.",
+    "exampleTranslation": "その取締役の新しい役職は競合他社における兼任取締役を構成するため、取締役会は任命に特段の承認を与えるための特別決議を必要とした。",
+    "vocabularyList": [
+      {
+        "word": "competing firm",
+        "translation": "競合会社 (Kyōgō Kaisha)"
+      },
+      {
+        "word": "conflict of interest",
+        "translation": "利益相反 (Rieki Sōhan)"
+      },
+      {
+        "word": "special resolution",
+        "translation": "特別決議 (Tokubetsu Ketsugi)"
+      },
+      {
+        "word": "competitive transaction",
+        "translation": "競業取引 (Kyōgyō Torihiki)"
+      },
+      {
+        "word": "board approval",
+        "translation": "取締役会の承認 (Torishimariyaku-kai no Shōnin)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Inspect Accounting Documents",
+    "definition": "The statutory right of minority stockholders (or corporate creditors, depending on the document type and company status) to demand review and duplication of specified financial statements, business reports, and supporting materials of the company.",
+    "japaneseDefinition": "会社の少数株主または会社債権者等が、会社の計算書類、事業報告及びこれらの附属明細書等の閲覧及び謄写を請求できる権利。",
+    "japaneseWordTranslation": "計算書類等閲覧請求権 (Keisan Shorui tō Etsuran Seikyūken)",
+    "legalContext": "Companies Act Art. 442 (Keeping and Inspection of Financial Statements, etc.) and Art. 447 (Maintenance and Inspection of Accounting Documents).",
+    "japaneseLegalContext": "会社法第442条（計算書類等の備置及び閲覧等）及び第447条（会計帳簿の作成及び保存）",
+    "exampleSentence": "The stockholder, owning more than three percent of the total issued shares, exercised their right to inspect accounting documents after suspecting fraudulent misrepresentation in the annual report.",
+    "exampleTranslation": "発行済株式総数の3パーセント超を所有する株主は、年次報告書における詐欺的な虚偽表示を疑い、計算書類等閲覧請求権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "minority stockholder",
+        "translation": "少数株主 (Shōsū Kabunushi)"
+      },
+      {
+        "word": "business report",
+        "translation": "事業報告 (Jigyō Hōkoku)"
+      },
+      {
+        "word": "financial statements",
+        "translation": "計算書類 (Keisan Shorui)"
+      },
+      {
+        "word": "fraudulent misrepresentation",
+        "translation": "詐欺的な虚偽表示 (Sagiteki na Kyogi Hyōji)"
+      },
+      {
+        "word": "annual report",
+        "translation": "年次報告書 (Nenji Hōkokusho)"
+      },
+      {
+        "word": "duplication",
+        "translation": "謄写 (Tōsha)"
+      }
+    ]
   }
 ]

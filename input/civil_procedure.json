@@ -12180,5 +12180,127 @@
         "translation": "作成が完了した (sakusei ga kanryō shita)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Investigation of Evidence",
+    "definition": "The court's authority, exercised under exceptional circumstances, to examine evidence not requested by the parties, typically limited to matters concerning litigation requirements or procedural formalities.",
+    "japaneseDefinition": "裁判所が当事者の申し出を待たずに、職権で証拠の収集・調査を行うこと。原則として、訴訟要件に関する事実の認定に限定される。",
+    "japaneseWordTranslation": "職権証拠調べ (しょっけんしょうこしらべ)",
+    "legalContext": "Code of Civil Procedure Art. 197 (Implicitly restricting evidence taking to the parties' requests, except where provided by law).",
+    "japaneseLegalContext": "民事訴訟法第197条 (原則としての当事者の申出による証拠調べ)",
+    "exampleSentence": "The court rarely exercises its power of judicial investigation of evidence, adhering instead to the principle that parties must present their own evidence.",
+    "exampleTranslation": "裁判所は、当事者が自ら証拠を提出すべき原則に従い、職権証拠調べの権限を行使することは稀である。",
+    "vocabularyList": [
+      {
+        "word": "adhering to",
+        "translation": "〜に従い"
+      },
+      {
+        "word": "rarely exercises",
+        "translation": "行使することは稀である"
+      },
+      {
+        "word": "申し出 (Moushide)",
+        "translation": "Motion/Request"
+      },
+      {
+        "word": "調査 (Chōsa)",
+        "translation": "Investigation"
+      },
+      {
+        "word": "原則 (Gensoku)",
+        "translation": "Principle"
+      },
+      {
+        "word": "限定 (Gentei)",
+        "translation": "Limitation"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Procedural Subrogation",
+    "definition": "The procedural status enabling a third party (such as a creditor invoking the right of subrogation under Civil Code Art. 423) to pursue litigation regarding a right belonging to another party.",
+    "japaneseDefinition": "第三者が自己の権利を行使するために、他人の有する権利に関する訴訟を当事者として追行すること。主に債権者代位訴訟等で問題となる。",
+    "japaneseWordTranslation": "訴訟上の代位 (そしょうじょうのだいい)",
+    "legalContext": "Civil Code Art. 423 (Creditor's Subrogation Right, which forms the legal basis for procedural standing).",
+    "japaneseLegalContext": "民法第423条 (債権者代位権が訴訟上の代位の根拠となる)",
+    "exampleSentence": "In cases of inaction by the debtor, the creditor may use procedural subrogation to enforce the claim against the sub-debtor.",
+    "exampleTranslation": "債務者が訴訟を提起しない場合、債権者は劣後債務者に対する請求権を行使するために、訴訟上の代位を用いることができる。",
+    "vocabularyList": [
+      {
+        "word": "inaction",
+        "translation": "不作為"
+      },
+      {
+        "word": "enforce the claim",
+        "translation": "請求権を行使する"
+      },
+      {
+        "word": "sub-debtor",
+        "translation": "劣後債務者"
+      },
+      {
+        "word": "他人 (Tanin)",
+        "translation": "Another person"
+      },
+      {
+        "word": "追行 (Tsuikō)",
+        "translation": "Pursue/Prosecute"
+      },
+      {
+        "word": "債権者 (Saikensha)",
+        "translation": "Creditor"
+      },
+      {
+        "word": "訴訟 (Soshō)",
+        "translation": "Lawsuit/Litigation"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judgment of Inadmissibility",
+    "definition": "A final judgment issued by the court dismissing a lawsuit because it fails to satisfy mandatory procedural prerequisites, without reaching a conclusion on the substantive merits of the claim.",
+    "japaneseDefinition": "訴訟要件の欠如等、訴えが不適法であることを理由に、請求の当否を判断せずに行われる終局判決。",
+    "japaneseWordTranslation": "訴え却下の判決 (うったえきゃっかのはんけつ)",
+    "legalContext": "Code of Civil Procedure Art. 135 (If conditions for suit are not met or defects are uncured, the action must be rejected by a judicial decision).",
+    "japaneseLegalContext": "民事訴訟法第135条 (訴訟要件が満たされない場合の却下決定)",
+    "exampleSentence": "The appeal court upheld the judgment of inadmissibility after confirming that the plaintiff lacked sufficient legal interest to bring the action.",
+    "exampleTranslation": "控訴裁判所は、原告が訴えの提起に十分な法律上の利益を欠いていたことを確認し、訴え却下の判決を支持した。",
+    "vocabularyList": [
+      {
+        "word": "upheld",
+        "translation": "支持した"
+      },
+      {
+        "word": "sufficient legal interest",
+        "translation": "十分な法律上の利益"
+      },
+      {
+        "word": "不適法 (Futekihō)",
+        "translation": "Inadmissible"
+      },
+      {
+        "word": "終局判決 (Shūkyoku Hanketsu)",
+        "translation": "Final judgment"
+      },
+      {
+        "word": "却下 (Kyakka)",
+        "translation": "Rejection/Dismissal"
+      },
+      {
+        "word": "審理 (Shinri)",
+        "translation": "Examination (Trial)"
+      },
+      {
+        "word": "欠如 (Ketsujo)",
+        "translation": "Lack/Absence"
+      }
+    ]
   }
 ]

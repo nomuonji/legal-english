@@ -10472,5 +10472,119 @@
         "translation": "種類の株式"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "General Partnership Company",
+    "definition": "A type of company (Kabushiki Kaisha equivalent) under Japanese law where all members (partners) bear unlimited joint and several liability for the company's debts.",
+    "japaneseDefinition": "社員（構成員）の全員が会社債務につき無限連帯責任を負う持分会社の一種。",
+    "japaneseWordTranslation": "合名会社 (Gōmei Kaisha)",
+    "legalContext": "Companies Act Art. 576(1): General Partnership Companies shall be formed by two or more members.",
+    "japaneseLegalContext": "会社法第576条第1項: 合名会社は、二人以上の社員で設立する。",
+    "exampleSentence": "In a General Partnership Company, the personal assets of the members are subject to execution if the company's assets are insufficient to cover its liabilities.",
+    "exampleTranslation": "合名会社においては、会社の資産が負債をまかないきれない場合、社員の個人資産が差押えの対象となる。",
+    "vocabularyList": [
+      {
+        "word": "member (of a partnership)",
+        "translation": "社員 (Shain)"
+      },
+      {
+        "word": "unlimited liability",
+        "translation": "無限責任 (Mugen Sekinin)"
+      },
+      {
+        "word": "joint and several liability",
+        "translation": "連帯責任 (Rentai Sekinin)"
+      },
+      {
+        "word": "execution (seizure)",
+        "translation": "差押え (Sashiosae)"
+      },
+      {
+        "word": "company's assets",
+        "translation": "会社財産 (Kaisha Zaisan)"
+      },
+      {
+        "word": "to cover (debts)",
+        "translation": "弁済する (Bensai suru)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deficiency in Value of Contribution in Kind",
+    "definition": "The difference between the value assigned to an asset contributed in kind upon incorporation or capital increase and its actual market or appraised value, potentially leading to director/promoter liability.",
+    "japaneseDefinition": "設立または新株発行時の現物出資財産の評価額が、定められた価額に達しない場合の不足分。発起人等の責任を伴う。",
+    "japaneseWordTranslation": "現物出資の価額の不足額 (Genbutsu Shusshi no Kagaku no Fusoku-gaku)",
+    "legalContext": "Companies Act Art. 52: Promoters and Directors are liable to the company for the Deficiency in Value of Contribution in Kind.",
+    "japaneseLegalContext": "会社法第52条: 発起人及び取締役は、現物出資の価額の不足額について会社に対し連帯して支払う義務を負う。",
+    "exampleSentence": "The auditor identified a significant Deficiency in Value of Contribution in Kind regarding the real estate asset transferred to the newly formed company.",
+    "exampleTranslation": "監査役は、新設会社に移転された不動産資産に関し、現物出資の価額の重大な不足額を指摘した。",
+    "vocabularyList": [
+      {
+        "word": "contribution in kind",
+        "translation": "現物出資 (Genbutsu Shusshi)"
+      },
+      {
+        "word": "promoter",
+        "translation": "発起人 (Hokkinin)"
+      },
+      {
+        "word": "appraised value",
+        "translation": "評価額 (Hyōka-gaku)"
+      },
+      {
+        "word": "incorporation",
+        "translation": "設立 (Setsuritsu)"
+      },
+      {
+        "word": "auditor",
+        "translation": "監査役 (Kansayaku)"
+      },
+      {
+        "word": "to incur liability",
+        "translation": "責任を負う (Sekinin o Ou)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Corporate Reorganization Plan",
+    "definition": "A comprehensive, court-approved plan detailing the restructuring of a financially distressed stock company (Kabushiki Kaisha) under the provisions of the Corporate Reorganization Act (Kaisha Kōsei Hō).",
+    "japaneseDefinition": "会社の財政破綻時、裁判所の監督のもとで株式会社を再建するための包括的な計画。会社更生法に基づき策定される。",
+    "japaneseWordTranslation": "会社更生計画 (Kaisha Kōsei Keikaku)",
+    "legalContext": "Corporate Reorganization Act Art. 2: The purpose of this Act is to achieve the rehabilitation of a stock company facing financial difficulty through the formulation and execution of a Corporate Reorganization Plan.",
+    "japaneseLegalContext": "会社更生法第2条: この法律は、窮境にある株式会社について、会社更生計画の策定及び遂行を通じて、その事業の更生を図ることを目的とする。",
+    "exampleSentence": "The court ordered the company to submit its draft Corporate Reorganization Plan within 60 days to commence formal rehabilitation proceedings.",
+    "exampleTranslation": "裁判所は、正式な更生手続を開始するため、会社に対し60日以内に会社更生計画の草案を提出するよう命じた。",
+    "vocabularyList": [
+      {
+        "word": "rehabilitation/restructuring",
+        "translation": "更生 (Kōsei)"
+      },
+      {
+        "word": "financially distressed",
+        "translation": "窮境にある (Kyūkyō ni aru)"
+      },
+      {
+        "word": "stock company",
+        "translation": "株式会社 (Kabushiki Kaisha)"
+      },
+      {
+        "word": "draft plan",
+        "translation": "草案 (Sōan)"
+      },
+      {
+        "word": "execution (of a plan)",
+        "translation": "遂行 (Suikō)"
+      },
+      {
+        "word": "court supervision",
+        "translation": "裁判所の監督 (Saibansho no Kantoku)"
+      }
+    ]
   }
 ]

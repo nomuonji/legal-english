@@ -9696,5 +9696,81 @@
         "translation": "古い記録 (furui kiroku)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Assertion Bar (of unregistered facts)",
+    "definition": "The principle that facts or changes required to be recorded in the commercial register cannot be used to the detriment of a third party who relied on the registered information, prior to the actual registration.",
+    "japaneseDefinition": "商業登記法上、登記すべき事項は、登記が完了するまでは、それを知らなかった第三者に対して、その事項を主張したり、あるいはその事項に基づき不利益を負わせたりすることができないという原則。",
+    "japaneseWordTranslation": "未登記事項の対抗制限 (mitōkijikō no taikō seigen)",
+    "legalContext": "Commercial Registration Act Art. 9: Matters required to be registered under this Act may not be asserted against a third party until after they have been registered.",
+    "japaneseLegalContext": "商業登記法第9条：この法律の規定により登記すべき事項は、登記の後でなければ、第三者に対抗することができない。",
+    "exampleSentence": "Due to the assertion bar, the company's internal change in business objectives, though formally decided, could not invalidate a transaction executed by a third party who relied on the previous registration.",
+    "exampleTranslation": "未登記事項の対抗制限があるため、会社の内部的な事業目的の変更は、正式に決定されたものであっても、以前の登記に依拠した第三者が実行した取引を無効にすることはできなかった。",
+    "vocabularyList": [
+      {
+        "word": "to the detriment of",
+        "translation": "不利益に"
+      },
+      {
+        "word": "formally decided",
+        "translation": "正式に決定された"
+      },
+      {
+        "word": "invalidate a transaction",
+        "translation": "取引を無効にする"
+      },
+      {
+        "word": "relied on",
+        "translation": "依拠した"
+      },
+      {
+        "word": "business objectives",
+        "translation": "事業目的"
+      },
+      {
+        "word": "prior to registration",
+        "translation": "登記前に"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Inactivity Sweep",
+    "definition": "The administrative procedure carried out by the registry office to clear or delete records of companies that appear dormant, specifically those that have failed to perform required filings or business activities for a significant, statutorily defined duration.",
+    "japaneseDefinition": "長期間にわたり法令で定められた登記や事業活動を行っていない休眠状態にある企業について、法務局がその記録を整理または抹消するために行う行政的な手続き。",
+    "japaneseWordTranslation": "休眠会社整理 (kyūmin kaisha seiri)",
+    "legalContext": "Companies Act Art. 472 (Deemed Dissolution): If a Stock Company fails to conduct any registration or file a report for a period exceeding a statutory number of years, the competent authority may initiate administrative procedures for deletion.",
+    "japaneseLegalContext": "会社法第472条（みなし解散）：株式会社が、法定の年数を超えて登記をせず、又は届出をしないときは、管轄当局は抹消のための行政手続を開始することができる。",
+    "exampleSentence": "Following the mandated public notification of dormancy, the registry office completed the inactivity sweep, removing the subject company from the active commercial register.",
+    "exampleTranslation": "休眠に関する法定の公告後、登記所は休眠会社整理を完了させ、当該会社を現行の商業登記簿から削除した。",
+    "vocabularyList": [
+      {
+        "word": "dormant",
+        "translation": "休眠状態の"
+      },
+      {
+        "word": "statutorily defined duration",
+        "translation": "法令で定められた期間"
+      },
+      {
+        "word": "mandated public notification",
+        "translation": "法定の公告"
+      },
+      {
+        "word": "registry office",
+        "translation": "登記所 (法務局)"
+      },
+      {
+        "word": "deemed dissolution",
+        "translation": "みなし解散"
+      },
+      {
+        "word": "administrative procedure",
+        "translation": "行政的手続き"
+      }
+    ]
   }
 ]

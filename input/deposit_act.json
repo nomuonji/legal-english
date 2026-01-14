@@ -7834,5 +7834,119 @@
         "translation": "供託の効力を認めた"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legal Consignment",
+    "definition": "The act of depositing money, securities, or other specified property with a designated public office (Deposit Office) to discharge a liability or secure a right, in cases where direct settlement with the entitled party is impossible.",
+    "japaneseDefinition": "債務者が弁済のために、金銭や有価証券、その他の物件を供託所に寄託すること。債権者が弁済の受領を拒否、または受領できない場合などに、債務の履行に代わる措置として行われる。",
+    "japaneseWordTranslation": "供託 (きょうたく)",
+    "legalContext": "Civil Code Art. 494: If the obligee refuses to accept performance, or cannot accept it, the obligor may be discharged from his liability by consigning the subject matter of the performance.",
+    "japaneseLegalContext": "民法第494条: 債権者が弁済の受領を拒み、又はこれを受領することができないときは、弁済をしようとする者は、債権者のためにその弁済の目的物を供託して、その債務を免れることができる。",
+    "exampleSentence": "The developer initiated legal consignment of the remaining construction fees after the contractor refused payment due to a dispute over final quality assessment.",
+    "exampleTranslation": "請負業者が最終的な品質査定をめぐる紛争を理由に支払いを拒否した後、開発業者は残りの建設費用の供託を開始した。",
+    "vocabularyList": [
+      {
+        "word": "Consignment",
+        "translation": "供託"
+      },
+      {
+        "word": "Discharge a liability",
+        "translation": "責任を免れる"
+      },
+      {
+        "word": "Deposit Office",
+        "translation": "供託所"
+      },
+      {
+        "word": "Securities",
+        "translation": "有価証券"
+      },
+      {
+        "word": "Entitled party",
+        "translation": "受領権者"
+      },
+      {
+        "word": "Assessment",
+        "translation": "査定"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Entitled Recipient",
+    "definition": "The person designated by law or by the consignor to receive the consigned assets (money or property) from the Deposit Office, thereby resolving the underlying debt or dispute.",
+    "japaneseDefinition": "供託された財産（供託物）を受け取ることができると法律上定められた者。債務の弁済を目的とする供託においては、本来の債権者がこれにあたる。",
+    "japaneseWordTranslation": "供託物受領権者 (きょうたくぶつじゅりょうけんしゃ)",
+    "legalContext": "Deposit Act Art. 2, Section 1: Money, etc., to be deposited shall be deposited with the Deposit Office exercising jurisdiction over the place of performance or the location of the property.",
+    "japaneseLegalContext": "供託法第2条第1項: 供託は、弁済をすべき地又は供託をすべき物を保管すべき地を管轄する供託所にする。",
+    "exampleSentence": "The Entitled Recipient must submit documentation proving their right to the funds before the Deposit Office authorizes withdrawal.",
+    "exampleTranslation": "供託所が払戻しを承認する前に、供託物受領権者はその資金に対する権利を証明する書類を提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Consignor",
+        "translation": "供託者"
+      },
+      {
+        "word": "Consigned assets",
+        "translation": "供託財産"
+      },
+      {
+        "word": "Underlying debt",
+        "translation": "原債務"
+      },
+      {
+        "word": "Authorizes withdrawal",
+        "translation": "払戻しを承認する"
+      },
+      {
+        "word": "Documentation",
+        "translation": "書類"
+      },
+      {
+        "word": "Submit",
+        "translation": "提出する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Vesting in the State Treasury",
+    "definition": "The statutory procedure under the Deposit Act where the legal claim to recover deposited money or property lapses due to the passage of a prescribed statutory period, causing the assets to be absorbed and owned by the national government.",
+    "japaneseDefinition": "供託されている金銭又は有価証券が、供託法に定められた一定の期間（通常10年）が経過し、取戻しを請求する権利が消滅した後に、国の所有に帰すること。",
+    "japaneseWordTranslation": "国庫帰属 (こっこきぞく)",
+    "legalContext": "Deposit Act Art. 49: The right to demand restoration of a deposit shall be extinguished by prescription if not exercised within ten years from the date of the Deposit.",
+    "japaneseLegalContext": "供託法第49条: 供託物の取戻しを請求する権利は、供託の日から十年を経過したときは、時効によって消滅する。",
+    "exampleSentence": "If the Entitled Recipient fails to claim the deposit within the statutory period, the money will proceed to vesting in the State Treasury.",
+    "exampleTranslation": "もし供託物受領権者が法定期間内に供託物を請求しなかった場合、その資金は国庫帰属の手続きに進む。",
+    "vocabularyList": [
+      {
+        "word": "Statutory procedure",
+        "translation": "法定手続"
+      },
+      {
+        "word": "Legal claim",
+        "translation": "法的請求権"
+      },
+      {
+        "word": "Prescribed period",
+        "translation": "定められた期間"
+      },
+      {
+        "word": "Lapses",
+        "translation": "消滅する"
+      },
+      {
+        "word": "National government",
+        "translation": "国"
+      },
+      {
+        "word": "Restoration",
+        "translation": "取戻し"
+      }
+    ]
   }
 ]

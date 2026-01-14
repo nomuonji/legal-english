@@ -2,48 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Declaratory Judgment",
-    "definition": "A lawsuit seeking a judicial declaration as to the existence or non-existence of a specific legal relationship or legal fact.",
-    "japaneseDefinition": "特定の法律関係または法律事実の存否について、裁判所にその確認を求める訴訟。",
-    "japaneseWordTranslation": "確認の訴え (かくにんのうったえ)",
-    "legalContext": "Japanese Code of Civil Procedure (Minji Soshō Hō) implicitly governs these actions, requiring the necessity for confirmation (確認の利益) for the suit to be admissible.",
-    "japaneseLegalContext": "民事訴訟法: 訴えの利益（確認の利益）",
-    "exampleSentence": "The plaintiff filed a declaratory judgment action to confirm the non-existence of a debt obligation alleged by the defendant.",
-    "exampleTranslation": "原告は、被告が主張する債務の不存在を確認するための確認の訴えを提起した。",
-    "vocabularyList": [
-      {
-        "word": "non-existence",
-        "translation": "不存在 (ふそんざい)"
-      },
-      {
-        "word": "legal relationship",
-        "translation": "法律関係 (ほうりつかんけい)"
-      },
-      {
-        "word": "admissible",
-        "translation": "適法である (てきほうである)"
-      },
-      {
-        "word": "debt obligation",
-        "translation": "債務 (さいむ)"
-      },
-      {
-        "word": "plaintiff",
-        "translation": "原告 (げんこく)"
-      },
-      {
-        "word": "defendant",
-        "translation": "被告 (ひこく)"
-      },
-      {
-        "word": "necessity for confirmation",
-        "translation": "確認の利益 (かくにんのりえき)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Document Production Order",
     "definition": "A binding court order compelling a party to the suit or a third party to submit specific documents essential for the examination of evidence.",
     "japaneseDefinition": "訴訟の当事者または第三者に対し、証拠調べのために必要な特定の文書の提出を命じる裁判所の決定。",
@@ -12106,6 +12064,120 @@
       {
         "word": "Prescribed Time Limit",
         "translation": "所定の期間"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Presumption of Authority to Use a Seal",
+    "definition": "A rule of evidence in Japanese civil procedure whereby if a private document bears a seal or signature acknowledged to belong to the purported signatory, it is presumed that the document was executed based on the signatory's intention, thus establishing its authenticity.",
+    "japaneseDefinition": "私文書が、本人または代理人の署名または押印があるときは、真正に成立したものと推定されるという、民事訴訟法上の文書の成立の真正を巡る推定規定。",
+    "japaneseWordTranslation": "押印の真正の推定 (ōin no shinsei no suitei)",
+    "legalContext": "Code of Civil Procedure Art. 228(4): \"A private document is presumed to be genuine if it bears the signature or seal of the person or his/her representative.\"",
+    "japaneseLegalContext": "民事訴訟法第228条第4項：「私文書は、本人又はその代理人の署名又は押印があるときは、真正に成立したものと推定する。」",
+    "exampleSentence": "The plaintiff relied on the presumption of authority to use a seal to prove the authenticity of the contract submitted as documentary evidence.",
+    "exampleTranslation": "原告は、証拠書類として提出された契約書の真正性を証明するため、押印の真正の推定に依拠した。",
+    "vocabularyList": [
+      {
+        "word": "documentary evidence",
+        "translation": "書証 (shoshō)"
+      },
+      {
+        "word": "private document",
+        "translation": "私文書 (shibunsho)"
+      },
+      {
+        "word": "authenticity",
+        "translation": "真正性 (shinseisei)"
+      },
+      {
+        "word": "purported signatory",
+        "translation": "押印者とされる者 (ōinsha to sareru mono)"
+      },
+      {
+        "word": "executed",
+        "translation": "作成された (sakusei sareta)"
+      },
+      {
+        "word": "rule of evidence",
+        "translation": "証拠規則 (shōko kisoku)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order to State Facts",
+    "definition": "A measure taken by the court, often a panel of judges, to request or compel a party to clarify their ambiguous assertions, to inquire about relevant facts, or to submit necessary materials to facilitate the arrangement of issues and the examination of evidence.",
+    "japaneseDefinition": "裁判所が、当事者に対して、争点整理や立証活動を円滑にするため、主張や証拠について説明を求めたり、必要な資料の提出を命じたりする職権上の措置。",
+    "japaneseWordTranslation": "釈明処分 (shakumei shobun)",
+    "legalContext": "Code of Civil Procedure Art. 149(3): \"The court may, upon finding it necessary for clarification, take measures such as ordering a party or a third party to state facts or to submit documents.\"",
+    "japaneseLegalContext": "民事訴訟法第149条第3項：「裁判所は、釈明のため必要があると認めるときは、当事者に対し、事実の陳述を求め、又は書類を提出させることができる。」",
+    "exampleSentence": "The presiding judge issued an order to state facts regarding the calculations underpinning the plaintiff's claim for lost income.",
+    "exampleTranslation": "裁判長は、原告の逸失利益の請求を裏付ける計算に関する釈明処分を発した。",
+    "vocabularyList": [
+      {
+        "word": "presiding judge",
+        "translation": "裁判長 (saibanchō)"
+      },
+      {
+        "word": "assertions",
+        "translation": "主張 (shuchō)"
+      },
+      {
+        "word": "ambiguous",
+        "translation": "不明確な (fumeikaku na)"
+      },
+      {
+        "word": "facilitate",
+        "translation": "円滑にする (enkatsu ni suru)"
+      },
+      {
+        "word": "arrangement of issues",
+        "translation": "争点整理 (sōten seiri)"
+      },
+      {
+        "word": "lost income",
+        "translation": "逸失利益 (ishshitsu rieki)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Settlement Document",
+    "definition": "The formal record prepared by the court clerk when the parties successfully conclude a settlement (compromise) during litigation. This document possesses the same enforceability as a final judgment, making it an executable instrument.",
+    "japaneseDefinition": "訴訟係属中に当事者が和解を成立させた際に、裁判所書記官によって作成される調書。確定判決と同一の効力を持ち、執行力のある債務名義となる。",
+    "japaneseWordTranslation": "和解調書 (wakai chōsho)",
+    "legalContext": "Code of Civil Procedure Art. 267: \"A judicial settlement shall have the same effect as a final and binding judgment.\"",
+    "japaneseLegalContext": "民事訴訟法第267条：「和解は、確定判決と同一の効力を有する。」",
+    "exampleSentence": "The defendant complied immediately after the Judicial Settlement Document was finalized, knowing that the plaintiff could otherwise seek compulsory execution.",
+    "exampleTranslation": "被告は、和解調書が確定した後、原告が強制執行を求める可能性があることを理解し、直ちに履行した。",
+    "vocabularyList": [
+      {
+        "word": "settlement (compromise)",
+        "translation": "和解 (wakai)"
+      },
+      {
+        "word": "enforceability",
+        "translation": "執行力 (shikkōryoku)"
+      },
+      {
+        "word": "executable instrument",
+        "translation": "債務名義 (saimu meigi)"
+      },
+      {
+        "word": "court clerk",
+        "translation": "裁判所書記官 (saibansho shokikan)"
+      },
+      {
+        "word": "during litigation",
+        "translation": "訴訟係属中 (soshō keizokuchū)"
+      },
+      {
+        "word": "finalized",
+        "translation": "作成が完了した (sakusei ga kanryō shita)"
       }
     ]
   }

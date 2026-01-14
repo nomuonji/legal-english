@@ -13310,5 +13310,119 @@
         "translation": "損害賠償を請求する (そんがいばいしょうをせいきゅうする)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restoration of Capacity to Act",
+    "definition": "The formal termination of a judicial order (such as commencement of guardianship or curatorship) that had restricted an individual's capacity to perform legally binding acts, thereby restoring their full legal capacity.",
+    "japaneseDefinition": "制限行為能力者に対する後見開始の審判などの効力を裁判所が取り消し、その者の完全な行為能力を回復させる手続き。",
+    "japaneseWordTranslation": "行為能力の回復 (Kōi nōryoku no kaifuku)",
+    "legalContext": "Civil Code Art. 10 (Revocation of Guardianship Commencement Order): The family court shall revoke the commencement order if the grounds for the order have ceased to exist.",
+    "japaneseLegalContext": "民法第10条（後見開始の審判の取消し）：家庭裁判所は、後見開始の原因が消滅したときは、後見開始の審判を取り消さなければならない。",
+    "exampleSentence": "Following his rehabilitation, the individual successfully petitioned the family court for the **restoration of capacity to act** under Article 10.",
+    "exampleTranslation": "リハビリテーションの後、その個人は民法第10条に基づき、行為能力の回復を求める申立てを家庭裁判所に提出し、認められた。",
+    "vocabularyList": [
+      {
+        "word": "Petition",
+        "translation": "申立て (Mōshitate)"
+      },
+      {
+        "word": "Revocation",
+        "translation": "取消し (Torikeshi)"
+      },
+      {
+        "word": "Family court",
+        "translation": "家庭裁判所 (Katei saibansho)"
+      },
+      {
+        "word": "Commencement order",
+        "translation": "開始の審判 (Kaishi no shinpan)"
+      },
+      {
+        "word": "Legal capacity",
+        "translation": "行為能力 (Kōi nōryoku)"
+      },
+      {
+        "word": "Grounds for the order",
+        "translation": "開始の原因 (Kaishi no gen'in)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right of Separation of Property",
+    "definition": "A right granted to one spouse, or the creditors of one spouse, to petition the family court to mandate the segregation and separate administration of the couple's matrimonial assets when the existing statutory property regime is deemed insufficient or poses a risk.",
+    "japaneseDefinition": "夫婦の一方又はその債権者が、法定財産制度の下での財産管理が不適切である場合に、夫婦の財産を分離して管理するよう家庭裁判所に求める権利。",
+    "japaneseWordTranslation": "財産分離請求権 (Zaisan bunri seikyūken)",
+    "legalContext": "Civil Code Art. 755 (Request for Separate Administration of Property): If the property of one spouse is managed by the other spouse, and there is a risk of impairment, the former may request the court to order the separation of property.",
+    "japaneseLegalContext": "民法第755条（財産分離の請求）：夫婦の一方の財産が他の一方に管理され、その財産を危うくするおそれがあるときは、他の一方は、家庭裁判所にその財産の分離を請求することができる。",
+    "exampleSentence": "The wife exercised her **right of separation of property** after discovering her husband's substantial undisclosed debts threatened their shared assets.",
+    "exampleTranslation": "夫が多額の未公開債務を抱え、共有財産を脅かしていることが判明した後、妻は財産分離請求権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "Segregation",
+        "translation": "分離 (Bunri)"
+      },
+      {
+        "word": "Petition",
+        "translation": "請求 (Seikyū)"
+      },
+      {
+        "word": "Matrimonial assets",
+        "translation": "夫婦財産 (Fūfu zaisan)"
+      },
+      {
+        "word": "Impairment",
+        "translation": "危うくする (Ayauku suru)"
+      },
+      {
+        "word": "Creditor",
+        "translation": "債権者 (Saikensha)"
+      },
+      {
+        "word": "Statutory property regime",
+        "translation": "法定財産制度 (Hōtei zaisan seido)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Duty to Cooperate in Boundary Determination",
+    "definition": "The legal obligation placed on adjacent landowners to actively and constructively participate in the procedures necessary to survey, establish, and define the precise legal border between their respective parcels of land.",
+    "japaneseDefinition": "隣接する土地所有者が、それぞれの土地の正確な境界線を測量し確立するために必要な手続きに、積極的かつ建設的に参加しなければならない法的な義務。",
+    "japaneseWordTranslation": "境界確定協力義務 (Kyōkai kakutei kyōryoku gimu)",
+    "legalContext": "Civil Code Art. 224 (Cost of Boundary Markers and Preservation): Adjacent landowners must cooperate in procedures related to survey and boundary establishment.",
+    "japaneseLegalContext": "民法第224条（境界標の設置及び保存の費用）：相隣者（隣接する土地所有者）は、測量及び境界の確定に関する手続に協力しなければならない。",
+    "exampleSentence": "When the official boundary was disputed, the court reiterated the defendant's **duty to cooperate in boundary determination** before ordering a compulsory survey.",
+    "exampleTranslation": "公の境界が争われた際、裁判所は強制測量を命じる前に、被告に対し境界確定協力義務があることを改めて述べた。",
+    "vocabularyList": [
+      {
+        "word": "Adjacent landowners",
+        "translation": "相隣者 (Sōrinsha)"
+      },
+      {
+        "word": "Survey",
+        "translation": "測量 (Sokuryō)"
+      },
+      {
+        "word": "Establishment",
+        "translation": "確定 (Kakutei)"
+      },
+      {
+        "word": "Legal border",
+        "translation": "境界線 (Kyōkaisen)"
+      },
+      {
+        "word": "Compulsory survey",
+        "translation": "強制測量 (Kyōsei sokuryō)"
+      },
+      {
+        "word": "Disputed",
+        "translation": "争われた (Arasowareta)"
+      }
+    ]
   }
 ]

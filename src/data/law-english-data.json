@@ -1,38 +1,42 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Impossibility of Performance",
-  "definition": "A state where the fulfillment of an obligation has become impossible due to circumstances attributable to the obligor or events for which neither party is responsible, thereby releasing the obligor from the duty of performance, though potentially incurring liability for damages or resulting in termination.",
-  "japaneseDefinition": "債務者または当事者のいずれの責にも帰すことができない事由により、債務の本旨に従った履行が客観的かつ永久的にできなくなった状態。これにより債務は消滅するが、債務者の帰責事由がある場合は損害賠償義務が発生する。",
-  "japaneseWordTranslation": "履行不能 (りこうふのう)",
-  "legalContext": "Civil Code Art. 412-2 (1): If an obligation becomes impossible to perform, the obligee may immediately terminate the obligation.",
-  "japaneseLegalContext": "民法第412条の2第1項: 債務の履行が不能となったときは、債権者は、催告をすることなく、直ちに契約の解除をすることができる。",
-  "exampleSentence": "Because the specific item that was the subject of the sale was destroyed by fire, the seller faced the legal consequence of impossibility of performance.",
-  "exampleTranslation": "売買の目的物であった特定物が火災で滅失したため、売主は履行不能という法的結果に直面した。",
+  "word": "Declaratory Judgment",
+  "definition": "A lawsuit seeking a judicial declaration as to the existence or non-existence of a specific legal relationship or legal fact.",
+  "japaneseDefinition": "特定の法律関係または法律事実の存否について、裁判所にその確認を求める訴訟。",
+  "japaneseWordTranslation": "確認の訴え (かくにんのうったえ)",
+  "legalContext": "Japanese Code of Civil Procedure (Minji Soshō Hō) implicitly governs these actions, requiring the necessity for confirmation (確認の利益) for the suit to be admissible.",
+  "japaneseLegalContext": "民事訴訟法: 訴えの利益（確認の利益）",
+  "exampleSentence": "The plaintiff filed a declaratory judgment action to confirm the non-existence of a debt obligation alleged by the defendant.",
+  "exampleTranslation": "原告は、被告が主張する債務の不存在を確認するための確認の訴えを提起した。",
   "vocabularyList": [
     {
-      "word": "obligee",
-      "translation": "債権者"
+      "word": "non-existence",
+      "translation": "不存在 (ふそんざい)"
     },
     {
-      "word": "obligor",
-      "translation": "債務者"
+      "word": "legal relationship",
+      "translation": "法律関係 (ほうりつかんけい)"
     },
     {
-      "word": "fulfillment",
-      "translation": "履行"
+      "word": "admissible",
+      "translation": "適法である (てきほうである)"
     },
     {
-      "word": "attributable to",
-      "translation": "〜に帰責すべき"
+      "word": "debt obligation",
+      "translation": "債務 (さいむ)"
     },
     {
-      "word": "termination",
-      "translation": "解除"
+      "word": "plaintiff",
+      "translation": "原告 (げんこく)"
     },
     {
-      "word": "liability for damages",
-      "translation": "損害賠償責任"
+      "word": "defendant",
+      "translation": "被告 (ひこく)"
+    },
+    {
+      "word": "necessity for confirmation",
+      "translation": "確認の利益 (かくにんのりえき)"
     }
   ]
 }

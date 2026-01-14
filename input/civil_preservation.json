@@ -9634,5 +9634,119 @@
         "translation": "本裁判"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Measure to Secure Legal Standing",
+    "definition": "A type of provisional disposition (injunction) used to temporarily maintain or establish a disputed legal relationship or position (e.g., employment contract status, corporate director position) pending the outcome of the substantive litigation.",
+    "japaneseDefinition": "係争中の法的地位や関係を一時的に保全し、本案訴訟の判決が出るまでの間、権利者が不利益を被ることを防ぐために発せられる暫定的な裁判所の命令。",
+    "japaneseWordTranslation": "地位保全のための暫定措置 (ちいほぜんのためざんていそち)",
+    "legalContext": "Civil Preservation Act, Article 23(2) (Provisional Disposition Concerning the Object of Dispute and Provisional Disposition Securing Temporary Status): \"... a provisional disposition may be ordered to temporarily determine the relationship of the parties with regard to the subject matter of the dispute.\"",
+    "japaneseLegalContext": "民事保全法 第23条第2項 (係争物に関する仮処分及び仮の地位を定める仮処分)：「争いがある権利関係について、債権者に生ずる著しい損害又は急迫の危険を避けるために必要があるときは、仮の地位を定める仮処分を命ずることができる。」",
+    "exampleSentence": "The former employee filed a motion for a Provisional Measure to Secure Legal Standing to maintain his employment status until the conclusion of the litigation concerning unfair dismissal.",
+    "exampleTranslation": "元従業員は、不当解雇に関する訴訟が終結するまで雇用上の地位を維持するため、地位保全のための暫定措置の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分"
+      },
+      {
+        "word": "substantive litigation",
+        "translation": "本案訴訟"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "unfair dismissal",
+        "translation": "不当解雇"
+      },
+      {
+        "word": "disputed relationship",
+        "translation": "争いがある権利関係"
+      },
+      {
+        "word": "temporary determination",
+        "translation": "仮の決定"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order Mandating Commencement Period",
+    "definition": "A court order specifying a period (usually 2 weeks or less) within which the preservation obligee, having obtained a preservation order, must file the principal action on the merits, failure of which will result in the revocation of the preservation order.",
+    "japaneseDefinition": "保全命令を発した保全裁判所が、保全債権者に対し、本案の訴えを提起すべき期間を定める命令。この期間内に訴えが提起されない場合、保全命令は取り消される。",
+    "japaneseWordTranslation": "本案訴訟提起期間の指定 (ほんあんそしょうていききかんのしてい)",
+    "legalContext": "Civil Preservation Act, Article 37(1) (Revocation of Preservation Order Based on Failure to Commence the Action on the Merits): \"If the Preservation Court specifies a period within which the preservation obligee shall commence the action on the merits...\"",
+    "japaneseLegalContext": "民事保全法 第37条第1項 (本案の訴えを提起しないことによる保全命令の取消し)： 「保全裁判所が保全債権者に対し本案の訴えを提起すべき期間を定めた場合において…」",
+    "exampleSentence": "Upon granting the provisional attachment, the court simultaneously issued an Order Mandating Commencement Period of 14 days for filing the underlying debt collection lawsuit.",
+    "exampleTranslation": "裁判所は仮差押えを認めるのと同時に、基礎となる債権回収訴訟を提起するための14日間の本案訴訟提起期間の指定を発した。",
+    "vocabularyList": [
+      {
+        "word": "preservation court",
+        "translation": "保全裁判所"
+      },
+      {
+        "word": "principal action",
+        "translation": "本案の訴え"
+      },
+      {
+        "word": "revocation",
+        "translation": "取消し"
+      },
+      {
+        "word": "underlying lawsuit",
+        "translation": "基礎となる訴訟"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え"
+      },
+      {
+        "word": "preservation obligee",
+        "translation": "保全債権者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Confidentiality Principle in Preservation",
+    "definition": "The fundamental procedural rule in civil preservation where the court typically conducts the examination and adjudication of a preservation petition ex parte (without hearing the debtor) and maintains secrecy until the order is executed, to prevent the debtor from preemptively hiding or disposing of assets.",
+    "japaneseDefinition": "保全手続において、債務者が事前に資産を隠匿・処分することを防ぐため、原則として債権者のみを審尋し、命令が執行されるまで手続の内容を非公開とする原則。",
+    "japaneseWordTranslation": "保全手続の非公開の原則 (ほぜんてつづきのひこうかいのげんそく)",
+    "legalContext": "Civil Preservation Act, Article 3(2) (Principle of Adjudication): The adjudication of preservation proceedings is typically conducted by document examination (書面審理) and involves expedited, summary review, emphasizing the need for swift action and confidentiality.",
+    "japaneseLegalContext": "民事保全法 第3条第2項 (保全命令の審理)：保全命令の申立てについての審理は、口頭弁論を経ないですることができる。",
+    "exampleSentence": "The Confidentiality Principle in Preservation justifies the court's refusal to notify the preservation debtor of the pending petition before the provisional attachment order is issued.",
+    "exampleTranslation": "保全手続の非公開の原則は、仮差押命令が発せられる前に裁判所が保全債務者に対して係属中の申立てを通知しないことの正当化根拠となる。",
+    "vocabularyList": [
+      {
+        "word": "adjudication",
+        "translation": "審理/裁判"
+      },
+      {
+        "word": "ex parte",
+        "translation": "一方的な/相手方不在で"
+      },
+      {
+        "word": "pending petition",
+        "translation": "係属中の申立て"
+      },
+      {
+        "word": "preemptively",
+        "translation": "先んじて"
+      },
+      {
+        "word": "preserve assets",
+        "translation": "財産を保全する"
+      },
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者"
+      }
+    ]
   }
 ]

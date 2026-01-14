@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Impossibility of Performance",
-    "definition": "A state where the fulfillment of an obligation has become impossible due to circumstances attributable to the obligor or events for which neither party is responsible, thereby releasing the obligor from the duty of performance, though potentially incurring liability for damages or resulting in termination.",
-    "japaneseDefinition": "債務者または当事者のいずれの責にも帰すことができない事由により、債務の本旨に従った履行が客観的かつ永久的にできなくなった状態。これにより債務は消滅するが、債務者の帰責事由がある場合は損害賠償義務が発生する。",
-    "japaneseWordTranslation": "履行不能 (りこうふのう)",
-    "legalContext": "Civil Code Art. 412-2 (1): If an obligation becomes impossible to perform, the obligee may immediately terminate the obligation.",
-    "japaneseLegalContext": "民法第412条の2第1項: 債務の履行が不能となったときは、債権者は、催告をすることなく、直ちに契約の解除をすることができる。",
-    "exampleSentence": "Because the specific item that was the subject of the sale was destroyed by fire, the seller faced the legal consequence of impossibility of performance.",
-    "exampleTranslation": "売買の目的物であった特定物が火災で滅失したため、売主は履行不能という法的結果に直面した。",
-    "vocabularyList": [
-      {
-        "word": "obligee",
-        "translation": "債権者"
-      },
-      {
-        "word": "obligor",
-        "translation": "債務者"
-      },
-      {
-        "word": "fulfillment",
-        "translation": "履行"
-      },
-      {
-        "word": "attributable to",
-        "translation": "〜に帰責すべき"
-      },
-      {
-        "word": "termination",
-        "translation": "解除"
-      },
-      {
-        "word": "liability for damages",
-        "translation": "損害賠償責任"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Division of Co-owned Property",
     "definition": "The act of partitioning jointly held assets among the co-owners, which can be accomplished either through mutual agreement (division by agreement) or, if agreement fails, through a judicial action seeking a court partition order.",
     "japaneseDefinition": "複数の共有者が共同で所有する財産（共有物）を、各共有者の持分に応じて現物で分割するか、または競売による換価を行い金銭で分配する手続き。協議による分割が原則だが、協議が調わない場合は裁判による分割が行われる。",
@@ -13232,6 +13194,120 @@
       {
         "word": "defendant",
         "translation": "被告"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Undivided Share",
+    "definition": "The fractional portion of ownership that a co-owner holds in jointly owned property, where the property itself is not physically partitioned.",
+    "japaneseDefinition": "共有物全体に対する各共有者の権利の割合。共有物の分割がなされていない状態における各共有者の抽象的な所有権の割合。",
+    "japaneseWordTranslation": "持分 (もちぶん / Mochibun)",
+    "legalContext": "Civil Code Art. 250: Undivided shares of co-owners are presumed to be equal.",
+    "japaneseLegalContext": "民法第250条: 各共有者の持分は、相等しいものと推定する。",
+    "exampleSentence": "Unless otherwise stipulated in the title deed, the undivided share of each co-owner in the inherited real property is presumed to be equal.",
+    "exampleTranslation": "権利証に別段の定めがない限り、相続した不動産における各共有者の持分は、等しいものと推定される。",
+    "vocabularyList": [
+      {
+        "word": "co-owner",
+        "translation": "共有者 (きょうゆうしゃ)"
+      },
+      {
+        "word": "jointly owned property",
+        "translation": "共有物 (きょうゆうぶつ)"
+      },
+      {
+        "word": "presumed",
+        "translation": "推定される (すいていされる)"
+      },
+      {
+        "word": "inherited property",
+        "translation": "相続した財産 (そうぞくしたざいさん)"
+      },
+      {
+        "word": "fractional portion",
+        "translation": "割合 (わりあい)"
+      },
+      {
+        "word": "title deed",
+        "translation": "権利証 (けんりしょう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Implied Consent",
+    "definition": "Consent that is not expressly stated in words or writing but is inferred from the conduct or circumstances of the party involved in a juridical act.",
+    "japaneseDefinition": "明示的に言語や書面で示されないが、当事者の行為や状況から間接的に推察される承諾の意思表示。",
+    "japaneseWordTranslation": "黙示の承諾 (もくしのしょうだく / Mokuji no Shōdaku)",
+    "legalContext": "Civil Code Art. 619: If a tenant continues using the property after the lease term expires, and the lessor does not object immediately, implied consent for tacit renewal is established.",
+    "japaneseLegalContext": "民法第619条: 賃借人が期間満了後も使用を継続し、賃貸人が直ちに異議を述べなかった場合、黙示の承諾による法定更新が成立する。",
+    "exampleSentence": "The continued payment of a reduced fee by the obligor for six months established the obligee's implied consent to the modification of the payment terms.",
+    "exampleTranslation": "債務者が減額された代金を6か月にわたって支払い続けたことで、債権者は支払条件の変更に黙示の承諾をしたと認められた。",
+    "vocabularyList": [
+      {
+        "word": "expressly stated",
+        "translation": "明示的 (めいじてき)"
+      },
+      {
+        "word": "inferred from conduct",
+        "translation": "行為から推察される (こういからすいさつされる)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "modification of terms",
+        "translation": "条件の変更 (じょうけんのへんこう)"
+      },
+      {
+        "word": "juridical act",
+        "translation": "法律行為 (ほうりつこうい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligation to Repair",
+    "definition": "The duty, particularly of a lessor in a lease contract, to make necessary repairs to the subject matter of the lease so that the lessee may use and take profit from it as intended.",
+    "japaneseDefinition": "賃貸借契約等において、賃貸人が賃借人に目的物を使用収益させるために必要な修繕をなすべき義務。",
+    "japaneseWordTranslation": "修繕義務 (しゅうぜんぎむ / Shūzen Gimu)",
+    "legalContext": "Civil Code Art. 606 (1): The lessor shall be responsible for making necessary repairs to the leased thing for the use and profit thereof by the lessee.",
+    "japaneseLegalContext": "民法第606条第1項: 賃貸人は、賃貸物の使用及び収益に必要な修繕をする義務を負う。",
+    "exampleSentence": "The lessor's breach of the statutory obligation to repair the faulty water heater entitled the tenant to terminate the agreement and claim damages.",
+    "exampleTranslation": "賃貸人が故障した給湯器を修繕する法定の義務に違反したため、賃借人は契約を解除し、損害賠償を請求する権利を得た。",
+    "vocabularyList": [
+      {
+        "word": "lessor",
+        "translation": "賃貸人 (ちんたいにん)"
+      },
+      {
+        "word": "lessee",
+        "translation": "賃借人 (ちんしゃくにん)"
+      },
+      {
+        "word": "statutory duty",
+        "translation": "法定の義務 (ほうていのぎむ)"
+      },
+      {
+        "word": "breach of contract",
+        "translation": "契約違反 (けいやくいはん)"
+      },
+      {
+        "word": "terminate the agreement",
+        "translation": "契約を解除する (けいやくをかいじょする)"
+      },
+      {
+        "word": "claim damages",
+        "translation": "損害賠償を請求する (そんがいばいしょうをせいきゅうする)"
       }
     ]
   }

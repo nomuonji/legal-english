@@ -7796,5 +7796,43 @@
         "translation": "受領を拒否する"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Retrieval Right of Depositor",
+    "definition": "The right of the obligor who made the deposit to recover the deposited property from the Deposit Office, provided the entitled obligee has not yet accepted the deposit or consented to the deposit's effect.",
+    "japaneseDefinition": "供託者が、供託の受諾または裁判上の決定があるまでの間、供託物を取り戻す権利。",
+    "japaneseWordTranslation": "供託者の取戻権 (きょうたくしゃのとりもどしけん)",
+    "legalContext": "Deposit Act Art. 9, Para. 1: A depositor may retrieve the deposited property only if the entitled person has not consented to the deposit.",
+    "japaneseLegalContext": "供託法第9条第1項: 供託者は、被供託者が供託を受諾していないとき等に限り、供託物を取り戻すことができる。",
+    "exampleSentence": "Exercising the retrieval right of the depositor nullifies the consignment, thereby restoring the existence of the underlying obligation.",
+    "exampleTranslation": "供託者の取戻権を行使することは、供託を無効にし、それによって基礎となる債務の存続を回復させる。",
+    "vocabularyList": [
+      {
+        "word": "deposited property",
+        "translation": "供託物"
+      },
+      {
+        "word": "nullifies",
+        "translation": "無効にする"
+      },
+      {
+        "word": "consignment",
+        "translation": "寄託 (供託)"
+      },
+      {
+        "word": "underlying obligation",
+        "translation": "基礎となる債務"
+      },
+      {
+        "word": "entitled obligee",
+        "translation": "権利を有する債権者 (被供託者)"
+      },
+      {
+        "word": "consented to the deposit's effect",
+        "translation": "供託の効力を認めた"
+      }
+    ]
   }
 ]

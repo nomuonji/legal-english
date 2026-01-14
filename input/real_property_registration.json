@@ -9326,5 +9326,81 @@
         "translation": "登記の変更申請"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Description Section (of the Real Property Register)",
+    "definition": "The introductory part of the real estate ledger that records the physical particulars of the property, such as the parcel number, type (for land or structure), address, and calculated size.",
+    "japaneseDefinition": "不動産登記記録のうち、土地または建物の物理的な状況（所在、地番、地目、面積、建物の構造など）を記録する部分で、権利に関する登記の前提となる。",
+    "japaneseWordTranslation": "表題部 (ひょうだいぶ)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Art. 14, which mandates the structure of the registry record.",
+    "japaneseLegalContext": "不動産登記法 第14条 （登記記録）",
+    "exampleSentence": "Any entry concerning the physical status of the structure must be filed solely in the Description Section, which differs from the proprietary rights records.",
+    "exampleTranslation": "建物の物理的な状態に関する記録は、権利に関する記録とは異なり、表題部にのみ申請されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Physical particulars",
+        "translation": "物理的な詳細 (Butsuri-teki na shōsai)"
+      },
+      {
+        "word": "Parcel number",
+        "translation": "地番 (Chiban)"
+      },
+      {
+        "word": "Proprietary rights records",
+        "translation": "権利に関する記録 (Kenri ni kansuru kiroku)"
+      },
+      {
+        "word": "Structure",
+        "translation": "建物 (Tatemono)"
+      },
+      {
+        "word": "Entry",
+        "translation": "記入事項 (Kinyū jikō)"
+      },
+      {
+        "word": "Real estate ledger",
+        "translation": "不動産登記簿 (Fudōsan tōkibo)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Land Area Survey Drawing",
+    "definition": "A legally mandated drawing detailing the location and calculation of the area of a parcel of earth, required for applications concerning changes in the physical description of the parcel, such as division or correction of size.",
+    "japaneseDefinition": "土地の分筆や地積の更正等の表示に関する登記を申請する際に添付が義務付けられている、筆の形状、測量の基準点、面積の計算結果などを詳細に示した図面。",
+    "japaneseWordTranslation": "地積測量図 (ちせきそくりょうず)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Art. 37, specifying documents required for changes in the indication of land.",
+    "japaneseLegalContext": "不動産登記法 第37条 （地積に関する変更の登記等の申請）",
+    "exampleSentence": "The applicant must submit the certified Land Area Survey Drawing, prepared by a certified land and house investigator, to verify the new dimensions of the segmented parcel.",
+    "exampleTranslation": "申請者は、分筆された筆の新しい寸法を証明するために、公認された土地家屋調査士によって作成された地積測量図を提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Parcel of earth",
+        "translation": "筆 (Hitsu)"
+      },
+      {
+        "word": "Segmented parcel",
+        "translation": "分筆された筆 (Būnpitsu sareta hitsu)"
+      },
+      {
+        "word": "Certified land and house investigator",
+        "translation": "土地家屋調査士 (Tochi kaoku chōsashi)"
+      },
+      {
+        "word": "Dimension",
+        "translation": "寸法 (Sunpō)"
+      },
+      {
+        "word": "Indication of land",
+        "translation": "土地の表示 (Tochi no hyōji)"
+      },
+      {
+        "word": "Correction of size",
+        "translation": "地積の更正 (Chiseki no kōsei)"
+      }
+    ]
   }
 ]

@@ -1,42 +1,38 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Demand for Inclusion in Distribution",
-  "definition": "A formal procedure whereby a creditor who does not have an attachment order on the property but possesses an execution title or other statutory grounds requests the execution officer to include their claim in the proceeds distribution.",
-  "japaneseDefinition": "差押えをしていないが執行名義などの法定の根拠を持つ債権者が、執行官に対し、売却代金の配当手続きに自己の債権を含めるよう要求する手続き。",
-  "japaneseWordTranslation": "配当要求 (はいとうようきゅう)",
-  "legalContext": "Civil Execution Act Art. 87 (1): A creditor who has a right to demand distribution may make a demand for inclusion in distribution by the deadline set forth in the following paragraph.",
-  "japaneseLegalContext": "民事執行法第87条第1項: 配当を請求する権利を有する債権者は、次項に定める期限までに、配当要求をすることができる。",
-  "exampleSentence": "Failure by the junior creditor to submit a **demand for inclusion in distribution** by the deadline meant they forfeited their right to the surplus funds.",
-  "exampleTranslation": "期限までに後順位の債権者が配当要求を提出しなかったことは、彼らが剰余金に対する権利を喪失したことを意味した。",
+  "word": "Impossibility of Performance",
+  "definition": "A state where the fulfillment of an obligation has become impossible due to circumstances attributable to the obligor or events for which neither party is responsible, thereby releasing the obligor from the duty of performance, though potentially incurring liability for damages or resulting in termination.",
+  "japaneseDefinition": "債務者または当事者のいずれの責にも帰すことができない事由により、債務の本旨に従った履行が客観的かつ永久的にできなくなった状態。これにより債務は消滅するが、債務者の帰責事由がある場合は損害賠償義務が発生する。",
+  "japaneseWordTranslation": "履行不能 (りこうふのう)",
+  "legalContext": "Civil Code Art. 412-2 (1): If an obligation becomes impossible to perform, the obligee may immediately terminate the obligation.",
+  "japaneseLegalContext": "民法第412条の2第1項: 債務の履行が不能となったときは、債権者は、催告をすることなく、直ちに契約の解除をすることができる。",
+  "exampleSentence": "Because the specific item that was the subject of the sale was destroyed by fire, the seller faced the legal consequence of impossibility of performance.",
+  "exampleTranslation": "売買の目的物であった特定物が火災で滅失したため、売主は履行不能という法的結果に直面した。",
   "vocabularyList": [
     {
-      "word": "creditor",
+      "word": "obligee",
       "translation": "債権者"
     },
     {
-      "word": "attachment order",
-      "translation": "差押命令"
+      "word": "obligor",
+      "translation": "債務者"
     },
     {
-      "word": "statutory grounds",
-      "translation": "法定の根拠"
+      "word": "fulfillment",
+      "translation": "履行"
     },
     {
-      "word": "execution officer",
-      "translation": "執行官"
+      "word": "attributable to",
+      "translation": "〜に帰責すべき"
     },
     {
-      "word": "proceeds distribution",
-      "translation": "売却代金の配当"
+      "word": "termination",
+      "translation": "解除"
     },
     {
-      "word": "surplus funds",
-      "translation": "剰余金"
-    },
-    {
-      "word": "junior creditor",
-      "translation": "後順位の債権者"
+      "word": "liability for damages",
+      "translation": "損害賠償責任"
     }
   ]
 }

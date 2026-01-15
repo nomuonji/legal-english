@@ -2,52 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Execution Obligor",
-    "definition": "The person against whom the compulsory execution procedure is commenced, defined as the party obliged to perform the duty specified in the execution title.",
-    "japaneseDefinition": "強制執行手続が開始される相手方であり、執行名義に記載された義務を履行すべき当事者。",
-    "japaneseWordTranslation": "執行債務者 (しっこうさいむしゃ)",
-    "legalContext": "Civil Execution Act Art. 2: The procedures for compulsory execution shall be commenced upon application by the obligee against the execution obligor.",
-    "japaneseLegalContext": "民事執行法第2条: 強制執行の手続は、債権者の申立てにより、執行債務者に対して開始される。",
-    "exampleSentence": "When immovable property is subject to a judicial auction, the **execution obligor** retains possession until the delivery order is issued to the successful bidder.",
-    "exampleTranslation": "不動産が競売に付された場合、引渡命令が落札者に発せられるまで、執行債務者は占有を維持する。",
-    "vocabularyList": [
-      {
-        "word": "immovable property",
-        "translation": "不動産"
-      },
-      {
-        "word": "judicial auction",
-        "translation": "競売"
-      },
-      {
-        "word": "possession",
-        "translation": "占有"
-      },
-      {
-        "word": "delivery order",
-        "translation": "引渡命令"
-      },
-      {
-        "word": "successful bidder",
-        "translation": "落札者"
-      },
-      {
-        "word": "commence",
-        "translation": "開始する"
-      },
-      {
-        "word": "duty",
-        "translation": "義務"
-      },
-      {
-        "word": "application",
-        "translation": "申立て"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Third Party Debtor",
     "definition": "In the execution of a monetary claim (such as wages or bank deposits), this refers to the natural or legal person who owes the money directly to the judgment debtor. They are obligated to make payment to the execution obligee upon receipt of a seizure order (garnishment).",
     "japaneseDefinition": "債権執行において、債務者に対して金銭債務を負う者（例：銀行、雇用主）を指す。差押命令を受けると、執行債権者に対して弁済する義務を負う。",
@@ -11402,6 +11356,40 @@
       {
         "word": "designate",
         "translation": "指定する (していする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for the Surrender of Property",
+    "definition": "A summary judicial ruling issued by the execution court, mandating the possessor of executed real property (usually the execution obligor or their successor) to hand the property over to the successful purchaser.",
+    "japaneseDefinition": "執行裁判所が、強制執行により売却された不動産の占有者（通常は執行債務者やその承継人）に対し、買受人への不動産の引渡しを命じる略式の裁判。",
+    "japaneseWordTranslation": "引渡命令 (ひきわたしめいれい)",
+    "legalContext": "Civil Execution Act Art. 83 (不動産の引渡し) stipulates that the execution court may issue the Order for the Surrender of Property upon petition by the purchaser.",
+    "japaneseLegalContext": "民事執行法第83条 (不動産の引渡し) は、買受人の申立てにより、執行裁判所が引渡命令を発することができる旨を定める。",
+    "exampleSentence": "Upon the former possessor's refusal to vacate the premises, the successful purchaser applied to the court for an Order for the Surrender of Property.",
+    "exampleTranslation": "元の占有者が敷地からの退去を拒否したため、買受人は裁判所に引渡命令を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "successful purchaser",
+        "translation": "買受人"
+      },
+      {
+        "word": "execution judgment",
+        "translation": "執行裁判"
+      },
+      {
+        "word": "execution object",
+        "translation": "執行対象物"
+      },
+      {
+        "word": "former possessor",
+        "translation": "元の占有者"
+      },
+      {
+        "word": "property delivery",
+        "translation": "物件の引渡し"
       }
     ]
   }

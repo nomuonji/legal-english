@@ -9626,5 +9626,81 @@
         "translation": "敷地利用権"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Building Indication Registration",
+    "definition": "The mandatory registration pertaining to the physical description of a building, including its structure, floor area, location, and type, filed by the owner usually within one month of construction or significant change.",
+    "japaneseDefinition": "新築された建物や、構造・面積等に大きな変更があった建物について、その物理的な状況（所在、構造、床面積、種類など）を登記簿の表題部に記録する登記。",
+    "japaneseWordTranslation": "建物表示登記 (たてものひょうじとうき)",
+    "legalContext": "Real Property Registration Act Art. 27: Registration concerning the description of a building shall be made based on the application of the owner thereof.",
+    "japaneseLegalContext": "不動産登記法第27条: 建物の表示に関する登記は、表題部所有者の申請によってする。",
+    "exampleSentence": "The owner failed to file the Building Indication Registration within the statutory one-month period following the completion of the new house, potentially incurring a non-penal fine.",
+    "exampleTranslation": "所有者は新築の家屋の完成後、法定の一ヶ月以内に建物表示登記を申請しなかったため、過料に処される可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "physical description",
+        "translation": "物理的状況"
+      },
+      {
+        "word": "floor area",
+        "translation": "床面積"
+      },
+      {
+        "word": "owner",
+        "translation": "所有者"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "non-penal fine",
+        "translation": "過料"
+      },
+      {
+        "word": "description section (of the register)",
+        "translation": "表題部"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Completion Notification",
+    "definition": "A formal notice issued by the registrar to the applicant after the requested registration procedure has been completed, serving as confirmation of the entry into the Real Property Register.",
+    "japaneseDefinition": "登記官が申請された登記の手続きを完了した際に、申請人に対して発行する、登記が完了した旨を通知する書面。",
+    "japaneseWordTranslation": "登記完了通知 (とうきかんりょうつうち)",
+    "legalContext": "Real Property Registration Act Art. 23: The registrar shall notify the applicant and the registered title holder of the completion of registration without delay.",
+    "japaneseLegalContext": "不動産登記法第23条: 登記官は、登記を完了したときは、遅滞なく、登記権利者及び登記義務者にその旨を通知しなければならない。",
+    "exampleSentence": "Upon receiving the Registration Completion Notification, the applicant confirmed the creation of the right of lease in Section B of the register, thereby perfecting the right against third parties.",
+    "exampleTranslation": "登記完了通知を受け取った後、申請人は登記簿の権利部乙区における賃借権の設定を確認し、これにより第三者に対抗できる権利を完備した。",
+    "vocabularyList": [
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "applicant",
+        "translation": "申請人"
+      },
+      {
+        "word": "registered title holder",
+        "translation": "登記名義人"
+      },
+      {
+        "word": "right of lease",
+        "translation": "賃借権"
+      },
+      {
+        "word": "Section B (of the register)",
+        "translation": "権利部乙区"
+      },
+      {
+        "word": "perfecting the right",
+        "translation": "対抗要件を具備すること"
+      }
+    ]
   }
 ]

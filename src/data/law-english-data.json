@@ -1,42 +1,46 @@
 {
-  "category": "Constitution (憲法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Motion of No-Confidence (in the Cabinet)",
-  "definition": "A resolution passed by the House of Representatives expressing a lack of confidence in the incumbent Cabinet, which, if passed, obligates the Cabinet to either resign en masse or dissolve the House of Representatives within ten days.",
-  "japaneseDefinition": "衆議院が内閣の責任追及として、内閣に対する信任を失ったことを表明する決議。可決された場合、内閣は総辞職するか、10日以内に衆議院を解散しなければならない。",
-  "japaneseWordTranslation": "内閣不信任決議 (ないかく ふしんにんけつぎ)",
-  "legalContext": "Constitution of Japan, Article 69: If the House of Representatives passes a motion of no-confidence, the Cabinet shall resign en masse, unless the House of Representatives is dissolved within ten days.",
-  "japaneseLegalContext": "日本国憲法 第69条: 内閣は、衆議院で不信任の決議案を可決し、又は信任の決議案を否決したときは、十日以内に衆議院が解散されない限り、総辞職をしなければならない。",
-  "exampleSentence": "The threat of a **Motion of No-Confidence** serves as a vital tool for the legislature to maintain control over the Executive branch’s political accountability.",
-  "exampleTranslation": "内閣不信任決議の脅威は、立法府が行政部門の政治的責任を維持するための重要な手段として機能する。",
+  "word": "Execution Obligor",
+  "definition": "The person against whom the compulsory execution procedure is commenced, defined as the party obliged to perform the duty specified in the execution title.",
+  "japaneseDefinition": "強制執行手続が開始される相手方であり、執行名義に記載された義務を履行すべき当事者。",
+  "japaneseWordTranslation": "執行債務者 (しっこうさいむしゃ)",
+  "legalContext": "Civil Execution Act Art. 2: The procedures for compulsory execution shall be commenced upon application by the obligee against the execution obligor.",
+  "japaneseLegalContext": "民事執行法第2条: 強制執行の手続は、債権者の申立てにより、執行債務者に対して開始される。",
+  "exampleSentence": "When immovable property is subject to a judicial auction, the **execution obligor** retains possession until the delivery order is issued to the successful bidder.",
+  "exampleTranslation": "不動産が競売に付された場合、引渡命令が落札者に発せられるまで、執行債務者は占有を維持する。",
   "vocabularyList": [
     {
-      "word": "Executive branch",
-      "translation": "行政府"
+      "word": "immovable property",
+      "translation": "不動産"
     },
     {
-      "word": "legislature",
-      "translation": "立法府"
+      "word": "judicial auction",
+      "translation": "競売"
     },
     {
-      "word": "resign en masse",
-      "translation": "総辞職する"
+      "word": "possession",
+      "translation": "占有"
     },
     {
-      "word": "political accountability",
-      "translation": "政治的責任"
+      "word": "delivery order",
+      "translation": "引渡命令"
     },
     {
-      "word": "resolution",
-      "translation": "決議"
+      "word": "successful bidder",
+      "translation": "落札者"
     },
     {
-      "word": "incumbent Cabinet",
-      "translation": "現職の内閣"
+      "word": "commence",
+      "translation": "開始する"
     },
     {
-      "word": "dissolve the House",
-      "translation": "議院を解散する"
+      "word": "duty",
+      "translation": "義務"
+    },
+    {
+      "word": "application",
+      "translation": "申立て"
     }
   ]
 }

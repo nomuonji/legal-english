@@ -11670,5 +11670,81 @@
         "translation": "司法命令"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ulterior Intent (Specific Intent Requirement)",
+    "definition": "A category of crimes (目的犯) that requires, in addition to the standard criminal intent (dolus), a specific, further illicit purpose or motivation on the part of the perpetrator for the crime to be established.",
+    "japaneseDefinition": "構成要件として、通常の故意の他に、特定の違法な目的や動機を要求する犯罪。例えば、偽造文書を『行使する目的』で作成する罪など。",
+    "japaneseWordTranslation": "目的犯 (もくてきはん)",
+    "legalContext": "Criminal Code Art. 159 (Falsification of Private Documents): Requires the purpose of exercise (行使の目的) as an element of the offense.",
+    "japaneseLegalContext": "刑法第159条（私文書偽造等）：行使の目的を要件とする。",
+    "exampleSentence": "In crimes requiring ulterior intent, the prosecution must prove that the defendant acted not merely with knowledge, but also with the specific purpose defined by the statutory elements.",
+    "exampleTranslation": "目的犯を要件とする犯罪においては、検察は、被告人が単に認識を持って行動しただけでなく、法定された構成要件で定義される特定の目的も有していたことを立証しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "perpetrator",
+        "translation": "行為者 (こういしゃ)"
+      },
+      {
+        "word": "criminal intent (dolus)",
+        "translation": "故意 (こい)"
+      },
+      {
+        "word": "prosecution",
+        "translation": "検察 (けんさつ)"
+      },
+      {
+        "word": "statutory elements",
+        "translation": "構成要件 (こうせいようけん)"
+      },
+      {
+        "word": "illicit purpose",
+        "translation": "違法な目的 (いほうなもくてき)"
+      },
+      {
+        "word": "falsification",
+        "translation": "偽造 (ぎぞう)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reduction Based on Extenuating Circumstances",
+    "definition": "The discretionary judicial power to mitigate a statutory penalty based on subjective factors (情状), such as the offender’s character, motive, or post-offense remorse, even if the strict legal requirements for mandatory mitigation are not met.",
+    "japaneseDefinition": "裁判所が犯罪の情状を斟酌し、法令に定められた減軽事由がない場合でも、その裁量によって刑を軽減する権限。",
+    "japaneseWordTranslation": "酌量減軽 (しゃくりょうげんけい)",
+    "legalContext": "Criminal Code Art. 66: If there are extenuating circumstances, the punishment may be reduced.",
+    "japaneseLegalContext": "刑法第66条：酌量すべき情状があるときは、刑を減軽することができる。",
+    "exampleSentence": "The court applied a reduction based on extenuating circumstances, citing the defendant's sincere remorse and voluntary payment of restitution to the victim.",
+    "exampleTranslation": "裁判所は、被告人の心からの反省と被害者への自発的な賠償金の支払いを挙げて、酌量減軽を適用した。",
+    "vocabularyList": [
+      {
+        "word": "mitigate a penalty",
+        "translation": "刑を軽減する (けいをけいげんする)"
+      },
+      {
+        "word": "statutory penalty",
+        "translation": "法定刑 (ほうていけい)"
+      },
+      {
+        "word": "discretionary judicial power",
+        "translation": "裁判官の裁量権 (さいばんかんのさいりょうけん)"
+      },
+      {
+        "word": "extenuating circumstances",
+        "translation": "酌量すべき情状 (しゃくりょうすべきじょうじょう)"
+      },
+      {
+        "word": "sincere remorse",
+        "translation": "心からの反省 (こころからのはんせい)"
+      },
+      {
+        "word": "restitution",
+        "translation": "賠償金 (ばいしょうきん)"
+      }
+    ]
   }
 ]

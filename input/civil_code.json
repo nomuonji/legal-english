@@ -13538,5 +13538,123 @@
         "translation": "水平的範囲 (すいへいてきはんい)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Notice by Instrument Bearing a Fixed Date",
+    "definition": "The method required for the assignor of a nominated claim (a claim not represented by securities) to assert the assignment against the obligor and other third parties, specifically by providing written notice authenticated by a public office or notary, thereby proving the certain date of the notification.",
+    "japaneseDefinition": "指名債権の譲渡を債務者及びその他の第三者に対抗するために、譲渡人が確定日付（公証人または公的機関により日付が証明されたもの）のある証書をもって債務者に通知すること。",
+    "japaneseWordTranslation": "確定日付ある証書による通知 (かくていひづけあるしょうしょによるつうち)",
+    "legalContext": "Civil Code Art. 467 (対抗要件): The assignment of a nominated claim cannot be asserted against the obligor or any other third party unless the assignor gives notice to the obligor...",
+    "japaneseLegalContext": "民法第467条: 指名債権の譲渡は、債務者その他の第三者に対抗するためには、譲渡人が債務者に通知をし、又は債務者が承諾をしなければ、その効力を生じない。",
+    "exampleSentence": "The bank failed to perfect the claim assignment because the notice provided to the obligor did not constitute a notice by instrument bearing a fixed date.",
+    "exampleTranslation": "その銀行は、債務者に提供された通知が確定日付ある証書による通知の要件を満たさなかったため、債権譲渡の対抗要件を具備できなかった。",
+    "vocabularyList": [
+      {
+        "word": "claim assignment",
+        "translation": "債権譲渡"
+      },
+      {
+        "word": "nominated claim",
+        "translation": "指名債権"
+      },
+      {
+        "word": "assert",
+        "translation": "対抗する"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "fixed date",
+        "translation": "確定日付"
+      },
+      {
+        "word": "perfection",
+        "translation": "対抗要件の具備"
+      },
+      {
+        "word": "assignor",
+        "translation": "譲渡人"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Dissolution of Engagement",
+    "definition": "The lawful or unlawful termination of an agreement to marry (engagement) made between two individuals. Unlawful dissolution may result in liability for breach of contract or an unlawful act, including damages for emotional distress.",
+    "japaneseDefinition": "当事者間で成立した婚姻の予約（婚約）を解消すること。不当な解消は、債務不履行または不法行為として、精神的苦痛に対する損害賠償責任を生じさせ得る。",
+    "japaneseWordTranslation": "婚約の解消 (こんやくのかいしょう)",
+    "legalContext": "Civil Code Art. 709 and Art. 415 (Liability for unlawful act or non-performance of contract): The unjustified dissolution of an engagement is typically treated as an unlawful act.",
+    "japaneseLegalContext": "民法第709条及び第415条（不法行為または債務不履行責任）: 正当な理由のない婚約の解消は、不法行為として処理されるのが通例である。",
+    "exampleSentence": "The plaintiff sought damages from her former fiancé for the unlawful dissolution of engagement, arguing that his conduct constituted emotional distress.",
+    "exampleTranslation": "原告は、元婚約者の行為が精神的苦痛を構成すると主張し、不当な婚約の解消に対して損害賠償を求めた。",
+    "vocabularyList": [
+      {
+        "word": "agreement to marry",
+        "translation": "婚姻の予約"
+      },
+      {
+        "word": "termination",
+        "translation": "解消"
+      },
+      {
+        "word": "unlawful dissolution",
+        "translation": "不当な解消"
+      },
+      {
+        "word": "emotional distress",
+        "translation": "精神的苦痛"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "fiancé",
+        "translation": "婚約者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Act",
+    "definition": "In property law (especially concerning co-ownership or inheritance), an act taken solely by one co-owner or heir to maintain the integrity or value of the shared property, which does not require the consent of the other parties.",
+    "japaneseDefinition": "共有物または共同相続財産の現状を維持するために行う行為。他の共有者や相続人の同意を得ることなく、各共有者または相続人が単独で実行できる（例：時効の中断、共有物の修繕）。",
+    "japaneseWordTranslation": "保存行為 (ほぞんこうい)",
+    "legalContext": "Civil Code Art. 252 (共有物の管理): Regarding co-owned property, a co-owner may independently perform a preservation act without the consent of the others.",
+    "japaneseLegalContext": "民法第252条: 共有物の管理に関する事項（中略）保存行為は、各共有者がすることができる。",
+    "exampleSentence": "The co-owner performed a Preservation Act by filing suit against a third party who was illegally occupying the property, even without his partner’s authorization.",
+    "exampleTranslation": "その共有者は、パートナーの許可を得ることなく、不法に占有していた第三者に対して訴訟を提起するという保存行為を行った。",
+    "vocabularyList": [
+      {
+        "word": "co-owner",
+        "translation": "共有者"
+      },
+      {
+        "word": "integrity",
+        "translation": "現状"
+      },
+      {
+        "word": "unilaterally",
+        "translation": "単独で"
+      },
+      {
+        "word": "co-owned property",
+        "translation": "共有物"
+      },
+      {
+        "word": "filing suit",
+        "translation": "訴訟の提起"
+      },
+      {
+        "word": "authorization",
+        "translation": "同意"
+      }
+    ]
   }
 ]

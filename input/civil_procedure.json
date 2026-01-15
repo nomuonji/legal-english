@@ -12302,5 +12302,107 @@
         "translation": "Lack/Absence"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Settlement Protocol",
+    "definition": "A document officially recording the terms agreed upon by the parties during a judicial settlement procedure, which, upon creation, has the same effect as a final and binding judgment.",
+    "japaneseDefinition": "裁判上の和解手続において当事者間で合意された内容を公式に記録した文書。作成されると、確定判決と同一の効力を有する。",
+    "japaneseWordTranslation": "和解調書 (わかいちょうしょ)",
+    "legalContext": "Civil Procedure Code Art. 267 (Effect of Judicial Settlement): A judicial settlement... shall have the same effect as a final and binding judgment.",
+    "japaneseLegalContext": "民事訴訟法第267条（和解の効力）：裁判上の和解は、確定判決と同一の効力を有する。",
+    "exampleSentence": "The defendant promptly signed the Judicial Settlement Protocol, thereby immediately granting the plaintiff an executable title without the need for a trial.",
+    "exampleTranslation": "被告は直ちに和解調書に署名し、これにより原告は裁判を経ることなく直ちに執行力を有する債務名義を得た。",
+    "vocabularyList": [
+      {
+        "word": "executable title",
+        "translation": "執行力のある債務名義"
+      },
+      {
+        "word": "judicial settlement",
+        "translation": "裁判上の和解"
+      },
+      {
+        "word": "final and binding judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "promptly",
+        "translation": "直ちに"
+      },
+      {
+        "word": "thereby",
+        "translation": "これにより"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Dismissal of Late Allegations",
+    "definition": "A court order rejecting the submission of claims, defenses, or evidence that were presented too late, thereby hindering the progress of the litigation, based on the principle of prompt proceedings.",
+    "japaneseDefinition": "訴訟の進行を遅延させる目的、または重大な過失によって時機に遅れて提出された攻撃防御方法や証拠を、裁判所が排除する決定。",
+    "japaneseWordTranslation": "攻撃防御方法の却下 (こうげきぼうぎょほうほうのきゃっか)",
+    "legalContext": "Civil Procedure Code Art. 157 (Exclusion of Untimely Claims and Defenses): The court may dismiss any claim, defense, or evidence submitted too late, thereby hindering the conclusion of the suit.",
+    "japaneseLegalContext": "民事訴訟法第157条（時機に後れた攻撃防御方法の却下）：裁判所は、当事者が故意又は重過失により時機に後れて提出した攻撃又は防御の方法が訴訟の完結を遅延させるときは、これを却下することができる。",
+    "exampleSentence": "The judge issued a Dismissal of Late Allegations after the defense counsel attempted to introduce five new witnesses just days before the scheduled conclusion of oral arguments.",
+    "exampleTranslation": "裁判官は、弁護人が口頭弁論終結予定日のわずか数日前に5人の新たな証人を導入しようとしたため、時機に遅れた攻撃防御方法の却下を下した。",
+    "vocabularyList": [
+      {
+        "word": "submission",
+        "translation": "提出"
+      },
+      {
+        "word": "defenses",
+        "translation": "防御方法"
+      },
+      {
+        "word": "hinder the progress",
+        "translation": "進行を妨げる"
+      },
+      {
+        "word": "counsel",
+        "translation": "弁護人/弁護士"
+      },
+      {
+        "word": "conclusion of oral arguments",
+        "translation": "口頭弁論の終結"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Summary Court Monetary Jurisdiction",
+    "definition": "The statutory rule that limits the competence of a Summary Court to hear civil cases where the value of the subject matter of the suit (soshōbutsu) does not exceed 1,400,000 yen.",
+    "japaneseDefinition": "簡易裁判所が民事訴訟を扱うことのできる範囲を、訴訟物の価額が法令で定められた額（140万円）を超えない場合に限定する規定。",
+    "japaneseWordTranslation": "簡易裁判所の訴訟物価額管轄 (かんいさいばんしょのそしょうぶつかがくかんかつ)",
+    "legalContext": "Court Organization Act Art. 33(1)(i) (Jurisdiction of Summary Courts): Summary Courts shall have jurisdiction over civil cases concerning claims where the value of the subject matter does not exceed 1,400,000 yen.",
+    "japaneseLegalContext": "裁判所法第33条第1項第1号（簡易裁判所の権限）：簡易裁判所は、訴訟の目的の価額が140万円を超えない請求に関する訴訟について、第一審の管轄権を有する。",
+    "exampleSentence": "Because the plaintiff’s claim for recovery of a debt was 2 million yen, the case fell outside the Summary Court Monetary Jurisdiction and had to be filed in the District Court.",
+    "exampleTranslation": "原告の債権回収請求額が200万円だったため、その事件は簡易裁判所の訴訟物価額管轄の範囲外であり、地方裁判所に提訴されなければならなかった。",
+    "vocabularyList": [
+      {
+        "word": "statutory rule",
+        "translation": "法令上の規定"
+      },
+      {
+        "word": "competence",
+        "translation": "権限"
+      },
+      {
+        "word": "subject matter of the suit",
+        "translation": "訴訟物"
+      },
+      {
+        "word": "District Court",
+        "translation": "地方裁判所"
+      },
+      {
+        "word": "recovery of a debt",
+        "translation": "債権回収"
+      }
+    ]
   }
 ]

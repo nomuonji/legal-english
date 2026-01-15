@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Division of Co-owned Property",
-    "definition": "The act of partitioning jointly held assets among the co-owners, which can be accomplished either through mutual agreement (division by agreement) or, if agreement fails, through a judicial action seeking a court partition order.",
-    "japaneseDefinition": "複数の共有者が共同で所有する財産（共有物）を、各共有者の持分に応じて現物で分割するか、または競売による換価を行い金銭で分配する手続き。協議による分割が原則だが、協議が調わない場合は裁判による分割が行われる。",
-    "japaneseWordTranslation": "共有物の分割 (きょうゆうぶつのぶんかつ)",
-    "legalContext": "Civil Code Art. 256 (1): Each co-owner may demand the division of the co-owned property at any time.",
-    "japaneseLegalContext": "民法第256条第1項: 各共有者は、いつでも共有物の分割を請求することができる。",
-    "exampleSentence": "Following years of dispute, the co-owners filed a judicial action seeking the division of the co-owned property, a large tract of real property.",
-    "exampleTranslation": "長年にわたる紛争の後、共有者たちは、広大な不動産である共有物の分割を求める訴訟を提起した。",
-    "vocabularyList": [
-      {
-        "word": "partition",
-        "translation": "分割"
-      },
-      {
-        "word": "co-owner",
-        "translation": "共有者"
-      },
-      {
-        "word": "jointly held assets",
-        "translation": "共有財産"
-      },
-      {
-        "word": "judicial action",
-        "translation": "裁判上の訴訟"
-      },
-      {
-        "word": "court partition order",
-        "translation": "裁判による分割命令"
-      },
-      {
-        "word": "by agreement",
-        "translation": "協議により"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Separate Property",
     "definition": "Under the statutory marital property system in Japan, property that belongs exclusively to one spouse, acquired either before marriage or during marriage in the name of that spouse, which is kept distinct from property jointly managed by the couple.",
     "japaneseDefinition": "日本の法定財産制において、夫婦の一方にのみ帰属する財産であり、婚姻前から有していた財産、または婚姻中自己の名で取得した財産を指す。夫婦共同財産とは区別され、その配偶者が単独で管理する。",
@@ -13768,6 +13730,132 @@
       {
         "word": "Indemnification",
         "translation": "補償"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Conformity to Contract Liability",
+    "definition": "The seller's liability for delivering goods or performance that does not conform to the terms of the contract (e.g., regarding type, quality, or quantity). This concept replaced the previous 'warranty against defects' (瑕疵担保責任) system under the Civil Code revision.",
+    "japaneseDefinition": "売買契約において、引き渡された目的物などが種類、品質または数量に関して契約の内容に適合しない場合に売主が負う責任。",
+    "japaneseWordTranslation": "契約不適合責任 (けいやく ふてきごう せきにん)",
+    "legalContext": "Civil Code Art. 562 et seq.: The revised Civil Code introduced the concept of Conformity to Contract Liability, allowing the buyer remedies such as demand for repair, price reduction, or damages, regardless of fault.",
+    "japaneseLegalContext": "民法第562条以下：改正民法において導入された概念であり、買主は売主に対し、無過失で履行の追完請求、代金減額請求、又は損害賠償請求などが可能となる。",
+    "exampleSentence": "The contractor was subject to Conformity to Contract Liability after the structure failed to meet the agreed-upon seismic resilience specifications.",
+    "exampleTranslation": "その請負人は、建物が合意された耐震仕様を満たさなかったため、契約不適合責任を負うこととなった。",
+    "vocabularyList": [
+      {
+        "word": "seller",
+        "translation": "売主"
+      },
+      {
+        "word": "buyer",
+        "translation": "買主"
+      },
+      {
+        "word": "remedy",
+        "translation": "救済措置"
+      },
+      {
+        "word": "demand for repair",
+        "translation": "修補請求"
+      },
+      {
+        "word": "price reduction",
+        "translation": "代金減額"
+      },
+      {
+        "word": "specifications",
+        "translation": "仕様"
+      },
+      {
+        "word": "regardless of fault",
+        "translation": "無過失で"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Elective Share Abatement Claim",
+    "definition": "The statutory right of an heir to demand a monetary payment equivalent to the infringement on their minimum statutory share of the inheritance, primarily caused by gifts or testamentary dispositions.",
+    "japaneseDefinition": "遺留分権利者が、相続財産に対する贈与や遺贈によって自己の遺留分を侵害された場合に、金銭の支払を請求する権利。",
+    "japaneseWordTranslation": "遺留分侵害額請求権 (いりゅうぶん しんがいがく せいきゅうけん)",
+    "legalContext": "Civil Code Art. 1046: The system was reformed in 2019, converting the previous right to recover specific property (遺留分減殺請求権) into a monetary claim, prioritizing monetization over property division.",
+    "japaneseLegalContext": "民法第1046条：2019年の相続法改正により、従来の物件返還請求権から金銭債権へと性質が変更され、遺産の分割よりも金銭による清算が優先されるようになった。",
+    "exampleSentence": "The widow filed an Elective Share Abatement Claim against the children from her husband's first marriage, seeking the monetary equivalent of her infringed share.",
+    "exampleTranslation": "その未亡人は、夫の先妻の子らに対し、侵害された持分の金銭的価値を求めて遺留分侵害額請求権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "statutory right",
+        "translation": "法定の権利"
+      },
+      {
+        "word": "heir",
+        "translation": "相続人"
+      },
+      {
+        "word": "inheritance",
+        "translation": "相続財産"
+      },
+      {
+        "word": "gift",
+        "translation": "贈与"
+      },
+      {
+        "word": "testamentary disposition",
+        "translation": "遺贈"
+      },
+      {
+        "word": "monetary equivalent",
+        "translation": "金銭的価値"
+      },
+      {
+        "word": "prioritizing monetization",
+        "translation": "金銭による清算の優先"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Transfer of Title Security",
+    "definition": "A judicially recognized, non-statutory security arrangement where the debtor transfers the legal title (ownership) of property, typically movable assets or claims, to the creditor as security for an obligation, while the debtor retains possession and use.",
+    "japaneseDefinition": "債務者が債権者に目的物の所有権を移転し、その目的物を担保として提供する、判例法理によって確立された非典型担保。",
+    "japaneseWordTranslation": "譲渡担保 (じょうと たんぽ)",
+    "legalContext": "Recognized by judicial precedent, often utilized where the statutory security interests (like hypothec or pledge) are impractical for movable assets or claims, functioning similarly to a general floating charge.",
+    "japaneseLegalContext": "判例によって認められ、特に動産や債権について、民法上の担保物権（抵当権や質権）の利用が困難な場合に用いられ、集合動産への設定により集合担保的な機能も果たす。",
+    "exampleSentence": "In modern financing, **Transfer of Title Security** is frequently used to secure large loans by utilizing a company's fluctuating inventory as collateral.",
+    "exampleTranslation": "現代の融資では、変動する企業の在庫を担保として利用することにより、多額の融資を確保するために譲渡担保が頻繁に用いられる。",
+    "vocabularyList": [
+      {
+        "word": "security arrangement",
+        "translation": "担保の仕組み"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "movable assets",
+        "translation": "動産"
+      },
+      {
+        "word": "judicial precedent",
+        "translation": "判例法理"
+      },
+      {
+        "word": "collateral",
+        "translation": "担保物"
+      },
+      {
+        "word": "inventory",
+        "translation": "在庫"
       }
     ]
   }

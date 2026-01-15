@@ -9740,5 +9740,111 @@
         "translation": "改築"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certificate of Registration Completion",
+    "definition": "A document issued by the registrar to the applicant confirming that the requested registration procedures have been duly executed and completed.",
+    "japaneseDefinition": "登記手続が完了した際に、法務局（登記所）が申請人に対して交付する書面。これは登記識別情報とは別の、手続き完了を証明する通知である。",
+    "japaneseWordTranslation": "登記完了証 (Tōki Kanryōshō)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Art. 9: Specifies that the registrar must notify the applicant of the completion of registration.",
+    "japaneseLegalContext": "不動産登記法第9条：登記官は、登記が完了したときは、登記を申請した者にその旨を通知しなければならない。",
+    "exampleSentence": "Upon the successful transfer of the property, the buyer received the Certificate of Registration Completion from the Registry Office.",
+    "exampleTranslation": "財産の譲渡が成功した後、買主は登記所から登記完了証を受け取った。",
+    "vocabularyList": [
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "applicant",
+        "translation": "申請人"
+      },
+      {
+        "word": "duly executed",
+        "translation": "適正に実行された"
+      },
+      {
+        "word": "transfer of the property",
+        "translation": "財産の譲渡"
+      },
+      {
+        "word": "Registry Office",
+        "translation": "登記所（法務局）"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Grounds for Disallowance of Registration",
+    "definition": "The specific list of statutory defects or reasons which legally mandate the registrar to reject a registration application without conducting a substantive examination of the facts.",
+    "japaneseDefinition": "法令に定められた、登記申請を却下しなければならない法定の事由。申請書式、添付情報、管轄などに形式的な不備がある場合に適用される。",
+    "japaneseWordTranslation": "却下事由 (Kyakka Jiyū)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Art. 25: Enumerates the exhaustive list of reasons for disallowance, such as non-compliance with statutory requirements or lack of jurisdiction.",
+    "japaneseLegalContext": "不動産登記法第25条：登記官が登記の申請を却下すべき事由（管轄外の申請、手数料の不払い等）を列挙している。",
+    "exampleSentence": "If the application contained defects in the required attached documents, the registrar would reject it on the basis of statutory Grounds for Disallowance.",
+    "exampleTranslation": "もし申請書に必要な添付書類に不備があった場合、登記官は法定の却下事由に基づき、それを却下することになる。",
+    "vocabularyList": [
+      {
+        "word": "statutory defects",
+        "translation": "法令上の不備"
+      },
+      {
+        "word": "mandate",
+        "translation": "義務づける"
+      },
+      {
+        "word": "rejection",
+        "translation": "却下"
+      },
+      {
+        "word": "non-compliance",
+        "translation": "不遵守"
+      },
+      {
+        "word": "attached documents",
+        "translation": "添付書類"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Order to Suspend Registration Procedure",
+    "definition": "A temporary order issued by a court (often in the context of civil execution or preservation proceedings) instructing the registrar to halt or refrain from processing a specific pending registration application.",
+    "japaneseDefinition": "裁判所が発する、係属中の登記申請の手続を停止させる旨を命じる決定。民事保全手続や強制執行手続の一環として行われる。",
+    "japaneseWordTranslation": "登記手続中止命令 (Tōki Tetsuzuki Chūshi Meirei)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Art. 127: Provides that the registrar must comply with a court's order concerning the suspension of registration procedures.",
+    "japaneseLegalContext": "不動産登記法第127条：裁判所が登記手続の中止を命じた場合には、登記官はそれに従わなければならない旨を規定している。",
+    "exampleSentence": "The execution creditor secured a Judicial Order to Suspend Registration Procedure against the debtor to prevent the fraudulent transfer of the land title.",
+    "exampleTranslation": "強制執行債権者は、土地の所有権の詐害的な譲渡を防ぐため、債務者に対し登記手続中止命令を確保した。",
+    "vocabularyList": [
+      {
+        "word": "temporary order",
+        "translation": "一時的な命令"
+      },
+      {
+        "word": "refrain from processing",
+        "translation": "処理を差し控える"
+      },
+      {
+        "word": "pending registration",
+        "translation": "係属中の登記"
+      },
+      {
+        "word": "execution creditor",
+        "translation": "強制執行債権者"
+      },
+      {
+        "word": "fraudulent transfer",
+        "translation": "詐害的な譲渡"
+      }
+    ]
   }
 ]

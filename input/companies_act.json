@@ -10798,5 +10798,107 @@
         "translation": "著しい職務懈怠 (ichijirushii shokumu ketsutai)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Fictitious Payment",
+    "definition": "The illicit act, often conducted during company incorporation, where funds are temporarily loaned to subscribers or used in a circular scheme to simulate the payment of share subscription moneys, violating the principle of capital realization.",
+    "japaneseDefinition": "会社設立時または新株発行時に、株主が払込金を実際には支払っていないにもかかわらず、第三者からの借入金などを利用して払込があったように偽装する行為。",
+    "japaneseWordTranslation": "架空払込 (かくうはらいこみ)",
+    "legalContext": "Companies Act Art. 102 (Liability of Incorporators and Directors): Establishes liability for promoters and directors related to fictitious payments at incorporation.",
+    "japaneseLegalContext": "会社法第102条（設立時発行株式の引受人の権利、取締役等の責任）：設立時の架空払込に関する発起人及び取締役の責任を定める。",
+    "exampleSentence": "The court found the promoters jointly and severally liable for damages to the company arising from the use of a major fictitious payment scheme during its establishment.",
+    "exampleTranslation": "裁判所は、会社設立時における大規模な架空払込スキームの使用に起因する損害について、発起人らが会社に対し連帯して賠償責任を負うと認定した。",
+    "vocabularyList": [
+      {
+        "word": "Promoters",
+        "translation": "発起人"
+      },
+      {
+        "word": "Jointly and severally liable",
+        "translation": "連帯責任を負う"
+      },
+      {
+        "word": "Scheme",
+        "translation": "スキーム（企図、計画）"
+      },
+      {
+        "word": "Share subscription moneys",
+        "translation": "株式の払込金"
+      },
+      {
+        "word": "Capital realization",
+        "translation": "資本の現実化"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ostensible Representative Director",
+    "definition": "A director who is not legally the Representative Director but is permitted by the company to use titles (e.g., Vice President or Chairman) suggesting that they possess representative authority, thereby binding the company to a bona fide third party under the doctrine of apparent authority.",
+    "japaneseDefinition": "代表権のない取締役が、会社から代表取締役であると誤認させるような名称（会長、副社長など）の使用を許され、善意の第三者との間では会社を代表する権限を持つとみなされる者。",
+    "japaneseWordTranslation": "表見代表取締役 (ひょうけん だいひょう とりしまりやく)",
+    "legalContext": "Companies Act Art. 9: Provides that a company is liable to a third party for the acts of an Ostensible Representative Director, provided the third party acted without knowledge of the lack of authority.",
+    "japaneseLegalContext": "会社法第9条（会社と誤認させる名称の使用の差止請求）：会社を代表する権限がないにもかかわらず、代表取締役と誤認させる名称を使用した者の行為についての会社の責任。",
+    "exampleSentence": "The company could not deny liability for the contract because the officer was permitted to act as an **Ostensible Representative Director**, misleading the counterparty.",
+    "exampleTranslation": "その役員が表見代表取締役として行動することを会社が許容していたため、会社は契約に対する責任を否定することができず、相手方を誤解させた。",
+    "vocabularyList": [
+      {
+        "word": "Representative authority",
+        "translation": "代表権"
+      },
+      {
+        "word": "Bona fide third party",
+        "translation": "善意の第三者"
+      },
+      {
+        "word": "Counterparty",
+        "translation": "相手方"
+      },
+      {
+        "word": "Doctrine of apparent authority",
+        "translation": "表見代理の法理"
+      },
+      {
+        "word": "Deny liability",
+        "translation": "責任を否定する"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Formal Capital Decrease Procedures",
+    "definition": "The set of mandatory statutory steps, including obtaining a special resolution from the shareholders and providing public notice and individual notice to creditors, required to lawfully effect a reduction in the company's stated capital.",
+    "japaneseDefinition": "会社の資本金の額を法的に減少させるために、株主総会の特別決議を得ること、並びに官報公告や債権者への個別催告を含む債権者保護手続を履行することなど、会社法が義務付ける一連の手順。",
+    "japaneseWordTranslation": "資本金の額の減少の手続 (しほんきんのがくのげんしょうのてつづき)",
+    "legalContext": "Companies Act Art. 447 and 449: Prescribes the necessity of a special resolution for capital decrease and the subsequent creditor protection procedures.",
+    "japaneseLegalContext": "会社法第447条及び第449条：資本金の減少には株主の特別決議が必要であり、それに続く債権者保護手続を規定する。",
+    "exampleSentence": "Failure to complete the **Formal Capital Decrease Procedures** correctly can lead to the nullification of the capital reduction resolution and potential liability for the directors.",
+    "exampleTranslation": "正式な資本金の額の減少の手続を正しく完了しなかった場合、減資決議の無効、及び取締役の潜在的な責任につながる可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "Statutory steps",
+        "translation": "法定の手順"
+      },
+      {
+        "word": "Public notice",
+        "translation": "官報公告"
+      },
+      {
+        "word": "Creditor protection",
+        "translation": "債権者保護"
+      },
+      {
+        "word": "Nullification",
+        "translation": "無効"
+      },
+      {
+        "word": "Special resolution",
+        "translation": "特別決議"
+      }
+    ]
   }
 ]

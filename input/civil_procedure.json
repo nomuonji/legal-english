@@ -12522,5 +12522,119 @@
         "translation": "訴訟手続 (そしょうてつづき)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Venue (Jurisdiction)",
+    "definition": "The specific court that has the competence to hear a case, determined typically by geographical rules or the nature/value of the dispute, as distinct from general subject-matter jurisdiction.",
+    "japaneseDefinition": "訴訟の審理を行う特定の裁判所を決定するための基準。主に地理的要因や事件の性質・価額に基づいて定められる。",
+    "japaneseWordTranslation": "管轄 (かんかつ - Kankatsu)",
+    "legalContext": "Code of Civil Procedure Art. 4: General Venue for Ordinary Actions",
+    "japaneseLegalContext": "民事訴訟法第4条: 普通裁判籍による管轄",
+    "exampleSentence": "The plaintiff must file the statement of claim in a court that has statutory venue over the defendant’s domicile or place of business.",
+    "exampleTranslation": "原告は、被告の住所地または営業所に対し、法定の管轄権を有する裁判所に訴状を提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "statutory venue",
+        "translation": "法定管轄 (hōtei kankatsu)"
+      },
+      {
+        "word": "domicile",
+        "translation": "住所 (jūsho)"
+      },
+      {
+        "word": "place of business",
+        "translation": "営業所 (eigōsho)"
+      },
+      {
+        "word": "statement of claim",
+        "translation": "訴状 (sojō)"
+      },
+      {
+        "word": "prerequisite",
+        "translation": "要件 (yōken)"
+      },
+      {
+        "word": "file",
+        "translation": "提出する (teishutsu suru)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exclusion of a Judge",
+    "definition": "A mandatory procedural requirement that a judge or court official cannot participate in a case when specific legal grounds exist, such as a direct relationship to a party or prior involvement as a witness.",
+    "japaneseDefinition": "裁判官または裁判所書記官が、当事者との親族関係や証人としての関与など、公正な審判を妨げる特定の法定事由がある場合に、職務執行から除外されること。",
+    "japaneseWordTranslation": "除斥 (じょせき - Joseki)",
+    "legalContext": "Code of Civil Procedure Art. 23: Grounds for Exclusion",
+    "japaneseLegalContext": "民事訴訟法第23条: 除斥の理由",
+    "exampleSentence": "If a judge previously served as a litigation representative for one of the parties, this constitutes a clear ground for the exclusion of the judge from the proceedings.",
+    "exampleTranslation": "裁判官が以前に当事者の一方の訴訟代理人を務めていた場合、これは当該裁判官が手続きから除斥される明確な根拠となる。",
+    "vocabularyList": [
+      {
+        "word": "procedural requirement",
+        "translation": "手続要件 (tetsuzuki yōken)"
+      },
+      {
+        "word": "conflict of interest",
+        "translation": "利害対立 (rīgai tairitsu)"
+      },
+      {
+        "word": "litigation representative",
+        "translation": "訴訟代理人 (soshō dainin)"
+      },
+      {
+        "word": "proceedings",
+        "translation": "手続 (tetsuzuki)"
+      },
+      {
+        "word": "impartiality",
+        "translation": "公平性 (kōhei sei)"
+      },
+      {
+        "word": "grounds",
+        "translation": "根拠 (konkyo)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Kōkoku Appeal (Interlocutory Appeal)",
+    "definition": "A specific type of appeal provided in Japanese civil procedure against a court's procedural ruling or order, which does not terminate the case (e.g., a decision on objection to evidence), as opposed to an appeal against a final judgment.",
+    "japaneseDefinition": "判決ではなく、裁判所の決定または命令（例：証拠に対する異議決定）に対して提起される、日本の民事訴訟法における特別な不服申立て手続き。",
+    "japaneseWordTranslation": "抗告 (こうこく - Kōkoku)",
+    "legalContext": "Code of Civil Procedure Art. 328: Appeal against Rulings and Orders (Kōkoku Appeal)",
+    "japaneseLegalContext": "民事訴訟法第328条: 決定及び命令に対する抗告",
+    "exampleSentence": "The losing party decided to file a Kōkoku Appeal challenging the lower court’s ruling regarding the extension of the evidence submission deadline, arguing it prejudiced their ability to defend the claim.",
+    "exampleTranslation": "敗訴した当事者は、下級裁判所の証拠提出期限延長に関する決定が、自己の請求防御能力を害すると主張し、抗告を申し立てることを決定した。",
+    "vocabularyList": [
+      {
+        "word": "procedural ruling",
+        "translation": "手続的決定 (tetsuzuki teki kettei)"
+      },
+      {
+        "word": "order",
+        "translation": "命令 (meirei)"
+      },
+      {
+        "word": "challenging",
+        "translation": "争う (arasou)"
+      },
+      {
+        "word": "evidence submission deadline",
+        "translation": "証拠提出期限 (shōko teishutsu kigen)"
+      },
+      {
+        "word": "prejudiced",
+        "translation": "損なわれた (sokonawareta)"
+      },
+      {
+        "word": "lower court",
+        "translation": "下級裁判所 (kakyū saibansho)"
+      }
+    ]
   }
 ]

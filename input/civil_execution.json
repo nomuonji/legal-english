@@ -11392,5 +11392,81 @@
         "translation": "物件の引渡し"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exempt Assets Determination",
+    "definition": "A judicial decision made by the execution court to specify which assets held by the obligor are protected from seizure, typically necessary for the maintenance of a minimum standard of living.",
+    "japaneseDefinition": "債務者の生活維持のために、民事執行法に基づき、裁判所が差押えを禁止する財産を定める決定。",
+    "japaneseWordTranslation": "差押禁止財産の決定 (Sashiosae Kinshi Zaisan no Kettei)",
+    "legalContext": "Civil Execution Act Art. 131: Specifies assets necessary for the obligor’s livelihood, which are exempt from seizure.",
+    "japaneseLegalContext": "民事執行法第131条: 債務者の生活に欠くことのできない金銭等の差押禁止財産を定める。",
+    "exampleSentence": "The obligor filed a motion requesting an **Exempt Assets Determination** regarding a portion of their bank account balance required for medical bills.",
+    "exampleTranslation": "債務者は、医療費に必要な銀行口座の残高の一部について、差押禁止財産の決定を求める申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "minimum standard of living",
+        "translation": "最低限度の生活水準"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "bank account balance",
+        "translation": "銀行口座の残高"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Motion to Contest Sale Permission",
+    "definition": "A legal challenge filed by an interested party (such as the obligor, execution obligee, or highest bidder) against the execution court's decision to grant permission for the judicial auction sale of real property.",
+    "japaneseDefinition": "裁判所による不動産競売の売却許可決定に対して、利害関係人が不服を申し立てる手続き。",
+    "japaneseWordTranslation": "売却許可決定に対する異議申立て (Baikyaku Kyoka Kettei ni Taisuru Igi Mōshitate)",
+    "legalContext": "Civil Execution Act Art. 71: Specifies the limited grounds upon which a motion to contest the order granting sale permission may be filed, such as defects in the sale procedure.",
+    "japaneseLegalContext": "民事執行法第71条: 売却許可決定に対する異議申立ての事由について定める。",
+    "exampleSentence": "The execution obligor filed a **Motion to Contest Sale Permission**, alleging that the proper notification procedure regarding the sale date had not been followed by the execution court.",
+    "exampleTranslation": "執行債務者は、売却日に関する適正な通知手続が執行裁判所によって遵守されなかったとして、売却許可決定に対する異議申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "interested party",
+        "translation": "利害関係人"
+      },
+      {
+        "word": "judicial auction",
+        "translation": "競売"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      },
+      {
+        "word": "execution obligor",
+        "translation": "執行債務者"
+      },
+      {
+        "word": "defects in procedure",
+        "translation": "手続上の瑕疵"
+      },
+      {
+        "word": "order granting sale permission",
+        "translation": "売却許可決定"
+      }
+    ]
   }
 ]

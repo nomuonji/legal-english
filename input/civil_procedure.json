@@ -12404,5 +12404,123 @@
         "translation": "債権回収"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restriction on Claim Modification in Appellate Court",
+    "definition": "The procedural rule preventing the introduction of entirely new claims (as opposed to amending existing ones) by the plaintiff in the appellate stage (Kōso-shin), unless the claim arises from the same factual basis as the original suit.",
+    "japaneseDefinition": "控訴審において、当事者が新たな請求を提起すること、または訴訟物を変更することを原則として禁止する手続き上の制限。",
+    "japaneseWordTranslation": "控訴審における請求の変更制限 (こうそしんにおけるせいきゅうのへんこうせいげん)",
+    "legalContext": "Civil Procedure Act, Art. 297 (Restriction on New Means of Attack or Defense in the Court of Second Instance)",
+    "japaneseLegalContext": "民事訴訟法第297条（控訴審における攻撃防御方法の提出の制限）",
+    "exampleSentence": "The appellate court applied the **restriction on claim modification in appellate court** because the plaintiff attempted to assert a contractual claim entirely unrelated to the original tort claim.",
+    "exampleTranslation": "原告が当初の不法行為に基づく請求とは全く関係のない契約上の請求を主張しようとしたため、控訴裁判所は**控訴審における請求の変更制限**を適用した。",
+    "vocabularyList": [
+      {
+        "word": "appellate court",
+        "translation": "控訴裁判所 (こうそさいばんしょ)"
+      },
+      {
+        "word": "contractual claim",
+        "translation": "契約上の請求 (けいやくじょうのせいきゅう)"
+      },
+      {
+        "word": "tort claim",
+        "translation": "不法行為に基づく請求 (ふほうこういに もとづく せいきゅう)"
+      },
+      {
+        "word": "original suit",
+        "translation": "原訴 (げんそ)"
+      },
+      {
+        "word": "procedural rule",
+        "translation": "手続き規定 (てつづききてい)"
+      },
+      {
+        "word": "factual basis",
+        "translation": "事実上の根拠 (じじつじょうのこんきょ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Standing to Litigate (Proper Party Status)",
+    "definition": "The requisite legal status of a party to prosecute or defend a specific case on its merits, confirming they are the proper person to seek or resist the legal relief sought.",
+    "japaneseDefinition": "訴訟の本体について、原告が請求している権利義務の主体として、または被告がその相手方として、当該訴訟を遂行する資格。",
+    "japaneseWordTranslation": "当事者適格 (とうじしゃてきかく)",
+    "legalContext": "Prerequisite for a judgment on the merits (Hon'an Hanketsu); established through interpretation of the general conditions for a lawsuit.",
+    "japaneseLegalContext": "本案判決の要件として、訴訟要件の一つとして解釈上認められる。",
+    "exampleSentence": "The court dismissed the case because the plaintiff lacked **standing to litigate (proper party status)**, as the right being asserted belonged to a separate corporate entity.",
+    "exampleTranslation": "主張されている権利が別の法人格に属していたため、原告に**当事者適格**がないとして、裁判所は訴えを却下した。",
+    "vocabularyList": [
+      {
+        "word": "requisite legal status",
+        "translation": "必要な法的地位 (ひつようなほうてきちい)"
+      },
+      {
+        "word": "prosecute or defend",
+        "translation": "遂行または防御する (すいこうまたはぼうぎょする)"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告 (げんこく)"
+      },
+      {
+        "word": "legal relief sought",
+        "translation": "求める法的救済 (もとめるほうてききゅうさい)"
+      },
+      {
+        "word": "corporate entity",
+        "translation": "法人格 (ほうじんかく)"
+      },
+      {
+        "word": "prerequisite",
+        "translation": "要件 (ようけん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Court's Interlocutory Order for Clarification",
+    "definition": "A specific action taken by the presiding judge or a commissioned judge, based on the statutory duty of clarification, to demand the parties or their agents supplement or correct unclear assertions or evidence submissions during the proceedings.",
+    "japaneseDefinition": "裁判所が当事者に対し、主張または証拠提出の不明確な点を補完・訂正するよう促すために行う具体的行為または指示。",
+    "japaneseWordTranslation": "釈明処分 (しゃくめいしょぶん)",
+    "legalContext": "Civil Procedure Act, Art. 149, Para. 1 (Duty to Clarify)",
+    "japaneseLegalContext": "民事訴訟法第149条第1項（釈明権及び釈明義務）",
+    "exampleSentence": "Due to the ambiguity of the damage calculation method, the judge issued a **court's interlocutory order for clarification** requiring the plaintiff's attorney to submit supplemental financial data.",
+    "exampleTranslation": "損害算定方法の不明確性のため、裁判官は原告代理人に対し、補足の財務資料を提出するよう求める**釈明処分**を発した。",
+    "vocabularyList": [
+      {
+        "word": "presiding judge",
+        "translation": "裁判長 (さいばんちょう)"
+      },
+      {
+        "word": "commissioned judge",
+        "translation": "受命裁判官 (じゅめいさいばんかん)"
+      },
+      {
+        "word": "statutory duty",
+        "translation": "法定の義務 (ほうていのぎむ)"
+      },
+      {
+        "word": "supplement or correct",
+        "translation": "補完または訂正する (ほかんまたはていせいする)"
+      },
+      {
+        "word": "ambiguity",
+        "translation": "不明確性 (ふめいかくせい)"
+      },
+      {
+        "word": "interlocutory order",
+        "translation": "中間的命令 (ちゅうかんてきめいれい)"
+      },
+      {
+        "word": "proceedings",
+        "translation": "訴訟手続 (そしょうてつづき)"
+      }
+    ]
   }
 ]

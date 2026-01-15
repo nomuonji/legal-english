@@ -2,44 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Remission of Penalty",
-    "definition": "The legal act of granting a full or partial exemption from the execution of a penalty already imposed by a final judgment, often through the mechanism of pardon (onsha).",
-    "japaneseDefinition": "既に確定判決により科された刑罰の全部または一部の執行を免除する法的行為。通常、恩赦の制度を通じて行われる。",
-    "japaneseWordTranslation": "寛宥 (かんゆう)",
-    "legalContext": "Amnesty Law (Onsha Hō) Art. 2 (General Amnesty): A person who has been subject to General Amnesty shall be deemed not to have been sentenced.",
-    "japaneseLegalContext": "恩赦法 第2条（大赦）：大赦があったときは、その者は刑の言渡しを受けなかったものとみなす。",
-    "exampleSentence": "The defense counsel submitted a special petition seeking the remission of the penalty based on the defendant's exemplary behavior and rehabilitation efforts.",
-    "exampleTranslation": "弁護人は、被告人の模範的な態度と更生努力に基づき、刑の寛宥を求める特別の嘆願書を提出した。",
-    "vocabularyList": [
-      {
-        "word": "final judgment",
-        "translation": "確定判決 (かくていはんけつ)"
-      },
-      {
-        "word": "exemplary behavior",
-        "translation": "模範的な態度 (もはんてきなたいど)"
-      },
-      {
-        "word": "rehabilitation efforts",
-        "translation": "更生努力 (こうせいどりょく)"
-      },
-      {
-        "word": "special petition",
-        "translation": "特別の嘆願書 (とくべつのたんがんしょ)"
-      },
-      {
-        "word": "execution of a penalty",
-        "translation": "刑の執行 (けいのしっこう)"
-      },
-      {
-        "word": "Amnesty Law",
-        "translation": "恩赦法 (おんしゃほう)"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Omission Crime",
     "definition": "A crime established by the failure to perform a legally required action, thereby resulting in the prohibited outcome, provided the individual had a legal duty and the physical ability to act (Fusaķuhan).",
     "japaneseDefinition": "行為者が法的な作為義務と行為能力を有していながら、その作為を行わなかったことにより、結果として犯罪が成立すること。",
@@ -11744,6 +11706,90 @@
       {
         "word": "restitution",
         "translation": "賠償金 (ばいしょうきん)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Aggravation of Punishment",
+    "definition": "The statutory increase of the penalty or severity of the sentence based on circumstances defined by law, such as resulting aggravated offenses (e.g., causing death or injury) or repetitive commission of certain crimes.",
+    "japaneseDefinition": "法定刑の刑罰が、犯罪の類型や特定の加重要件（結果的加重犯、常習性など）に基づいて重くされること。",
+    "japaneseWordTranslation": "加重 (かじゅう)",
+    "legalContext": "Criminal Code Art. 205 (Injury Resulting in Death): A person who causes the death of another through the commission of an injury shall be punished by imprisonment with labor...",
+    "japaneseLegalContext": "刑法 第205条（傷害致死）：人を傷害し、よって死亡させた者は、一年以上の有期懲役又は無期懲役若しくは三年以上の有期禁錮に処する。",
+    "exampleSentence": "The prosecution argued for an **aggravation of punishment** against the defendant, citing their prior conviction for a similar violent crime.",
+    "exampleTranslation": "検察は、被告人の過去の同様の暴力犯罪の有罪判決を引用し、刑の加重を主張した。",
+    "vocabularyList": [
+      {
+        "word": "Prosecution",
+        "translation": "検察 (けんさつ)"
+      },
+      {
+        "word": "Defendant",
+        "translation": "被告人 (ひこくにん)"
+      },
+      {
+        "word": "Prior conviction",
+        "translation": "前科 (ぜんか)"
+      },
+      {
+        "word": "Violent crime",
+        "translation": "暴力犯罪 (ぼうりょくはんざい)"
+      },
+      {
+        "word": "Statutory penalty",
+        "translation": "法定刑 (ほうていけい)"
+      },
+      {
+        "word": "Imprisonment with labor",
+        "translation": "懲役 (ちょうえき)"
+      },
+      {
+        "word": "Arguing for",
+        "translation": "主張する (しゅちょうする)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exemption from Forfeiture",
+    "definition": "A discretionary judicial decision to exempt certain property—even if otherwise subject to mandatory forfeiture as proceeds or instruments of crime—if the court deems the forfeiture inappropriate due to mitigating circumstances or proportionality concerns.",
+    "japaneseDefinition": "犯罪の収益または手段として本来没収されるべき財産について、情状や相当性を考慮し、裁判所が没収を不適当と判断した場合に、その執行を免除する裁量的な決定。",
+    "japaneseWordTranslation": "没収の免除 (ぼっしゅう の めんじょ)",
+    "legalContext": "Criminal Code Art. 19(2): Forfeiture may be wholly or partially exempted when the circumstances make the forfeiture of the object inappropriate.",
+    "japaneseLegalContext": "刑法 第19条第2項：没収は、その物の没収を不適当と認めるときは、これを免除することができる。",
+    "exampleSentence": "Despite the evidence that the funds were criminal proceeds, the judge granted a partial **exemption from forfeiture** to cover the victim's immediate medical expenses.",
+    "exampleTranslation": "その資金が犯罪収益であったという証拠にもかかわらず、裁判官は被害者の当座の医療費を賄うために、部分的な没収の免除を認めた。",
+    "vocabularyList": [
+      {
+        "word": "Forfeiture",
+        "translation": "没収 (ぼっしゅう)"
+      },
+      {
+        "word": "Discretionary decision",
+        "translation": "裁量的な決定 (さいりょうてきなけってい)"
+      },
+      {
+        "word": "Criminal proceeds",
+        "translation": "犯罪収益 (はんざいしゅうえき)"
+      },
+      {
+        "word": "Mitigating circumstances",
+        "translation": "情状 (じょうじょう)"
+      },
+      {
+        "word": "Proportionality",
+        "translation": "相当性 (そうとうせい)"
+      },
+      {
+        "word": "Victim",
+        "translation": "被害者 (ひがいしゃ)"
+      },
+      {
+        "word": "Medical expenses",
+        "translation": "医療費 (いりょうひ)"
       }
     ]
   }

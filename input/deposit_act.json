@@ -7948,5 +7948,111 @@
         "translation": "取戻し"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposited Assets Subject to Public Notice",
+    "definition": "Money or securities deposited which, due to the elapse of a certain statutory period without being claimed, become eligible for public notification by the deposit office before reverting to the national treasury.",
+    "japaneseDefinition": "供託された金銭又は有価証券であって、所定の期間経過後、国庫に帰属させる前に供託所が公告の対象とするもの。",
+    "japaneseWordTranslation": "公告対象供託物 (こうこくたいしょうきょうたくぶつ)",
+    "legalContext": "Deposit Act, Art. 32 (1): If the right to claim deposited money or securities has not been exercised for ten years, the deposit office shall issue a public notice concerning the assets.",
+    "japaneseLegalContext": "供託法第三十二条第一項: 金銭又は有価証券の供託物について、供託した時から十年を経過しても取戻しの権利が行使されないときは、供託所は、その旨の公告をしなければならない。",
+    "exampleSentence": "The Deposit Office initiated the procedure by identifying the **deposited assets subject to public notice** after the ten-year period expired.",
+    "exampleTranslation": "供託所は、10年の期間が経過した後、**公告対象供託物**を特定することにより手続を開始した。",
+    "vocabularyList": [
+      {
+        "word": "Deposit Office",
+        "translation": "供託所"
+      },
+      {
+        "word": "securities",
+        "translation": "有価証券"
+      },
+      {
+        "word": "national treasury",
+        "translation": "国庫"
+      },
+      {
+        "word": "elapse",
+        "translation": "経過"
+      },
+      {
+        "word": "claim",
+        "translation": "取戻し"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit for Uncertain Obligee",
+    "definition": "A type of statutory deposit made by the obligor when they are unable to identify who the rightful creditor is (e.g., when the claim has been assigned but notice of assignment is disputed or unclear).",
+    "japaneseDefinition": "債務者が正当な債権者を特定できない場合に、債務を免れるために行う法定の供託。",
+    "japaneseWordTranslation": "債権者不確知の供託 (さいけんしゃふかくちのきょうたく)",
+    "legalContext": "Civil Code Art. 494 (1): If the obligee cannot be ascertained without the obligor's negligence, the obligor may deposit the subject matter of the obligation...",
+    "japaneseLegalContext": "民法第四百九十四条第一項: 債権者が確知することができない場合（債務者の過失なくしてその確知をすることができない場合に限る。）には、債務者は、給付の目的物を供託することができる。",
+    "exampleSentence": "Faced with conflicting notices of claim assignment, the debtor proceeded with a **deposit for uncertain obligee** to discharge its contractual debt.",
+    "exampleTranslation": "債務者は、債権譲渡の通知が相反していたため、契約上の債務を免れるために**債権者不確知の供託**を行った。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "rightful creditor",
+        "translation": "正当な債権者"
+      },
+      {
+        "word": "assignment",
+        "translation": "譲渡"
+      },
+      {
+        "word": "ascertain",
+        "translation": "確知する"
+      },
+      {
+        "word": "statutory deposit",
+        "translation": "法定の供託"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Acceptance Decision",
+    "definition": "The formal administrative determination made by the deposit registrar that a submitted deposit application satisfies all the statutory requirements and procedures, thus allowing the deposit to take legal effect.",
+    "japaneseDefinition": "供託官が、提出された供託申請が法定の要件及び手続をすべて満たしていると判断し、供託に法的効力を発生させるための行政上の正式な決定。",
+    "japaneseWordTranslation": "供託の受理決定 (きょうたくのじゅりけってい)",
+    "legalContext": "Deposit Act Art. 8: The deposit registrar shall accept a deposit application if it is legally sufficient; otherwise, the registrar shall reject it.",
+    "japaneseLegalContext": "供託法第八条: 供託官は、供託の申請を調査し、これを適法と認めるときは、受理の決定をし、不適法と認めるときは、却下の決定をしなければならない。",
+    "exampleSentence": "Following the **Deposit Acceptance Decision**, the deposited sum was officially recorded in the deposit ledger, and the obligor was relieved of their duty.",
+    "exampleTranslation": "**供託の受理決定**を受けて、供託金は正式に供託簿に記録され、債務者はその義務を免れた。",
+    "vocabularyList": [
+      {
+        "word": "deposit registrar",
+        "translation": "供託官"
+      },
+      {
+        "word": "administrative determination",
+        "translation": "行政上の決定"
+      },
+      {
+        "word": "legally sufficient",
+        "translation": "適法"
+      },
+      {
+        "word": "deposit ledger",
+        "translation": "供託簿"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
+      },
+      {
+        "word": "reject",
+        "translation": "却下する"
+      }
+    ]
   }
 ]

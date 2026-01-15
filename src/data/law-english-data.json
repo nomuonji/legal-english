@@ -1,46 +1,38 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Execution Obligor",
-  "definition": "The person against whom the compulsory execution procedure is commenced, defined as the party obliged to perform the duty specified in the execution title.",
-  "japaneseDefinition": "強制執行手続が開始される相手方であり、執行名義に記載された義務を履行すべき当事者。",
-  "japaneseWordTranslation": "執行債務者 (しっこうさいむしゃ)",
-  "legalContext": "Civil Execution Act Art. 2: The procedures for compulsory execution shall be commenced upon application by the obligee against the execution obligor.",
-  "japaneseLegalContext": "民事執行法第2条: 強制執行の手続は、債権者の申立てにより、執行債務者に対して開始される。",
-  "exampleSentence": "When immovable property is subject to a judicial auction, the **execution obligor** retains possession until the delivery order is issued to the successful bidder.",
-  "exampleTranslation": "不動産が競売に付された場合、引渡命令が落札者に発せられるまで、執行債務者は占有を維持する。",
+  "word": "Remission of Penalty",
+  "definition": "The legal act of granting a full or partial exemption from the execution of a penalty already imposed by a final judgment, often through the mechanism of pardon (onsha).",
+  "japaneseDefinition": "既に確定判決により科された刑罰の全部または一部の執行を免除する法的行為。通常、恩赦の制度を通じて行われる。",
+  "japaneseWordTranslation": "寛宥 (かんゆう)",
+  "legalContext": "Amnesty Law (Onsha Hō) Art. 2 (General Amnesty): A person who has been subject to General Amnesty shall be deemed not to have been sentenced.",
+  "japaneseLegalContext": "恩赦法 第2条（大赦）：大赦があったときは、その者は刑の言渡しを受けなかったものとみなす。",
+  "exampleSentence": "The defense counsel submitted a special petition seeking the remission of the penalty based on the defendant's exemplary behavior and rehabilitation efforts.",
+  "exampleTranslation": "弁護人は、被告人の模範的な態度と更生努力に基づき、刑の寛宥を求める特別の嘆願書を提出した。",
   "vocabularyList": [
     {
-      "word": "immovable property",
-      "translation": "不動産"
+      "word": "final judgment",
+      "translation": "確定判決 (かくていはんけつ)"
     },
     {
-      "word": "judicial auction",
-      "translation": "競売"
+      "word": "exemplary behavior",
+      "translation": "模範的な態度 (もはんてきなたいど)"
     },
     {
-      "word": "possession",
-      "translation": "占有"
+      "word": "rehabilitation efforts",
+      "translation": "更生努力 (こうせいどりょく)"
     },
     {
-      "word": "delivery order",
-      "translation": "引渡命令"
+      "word": "special petition",
+      "translation": "特別の嘆願書 (とくべつのたんがんしょ)"
     },
     {
-      "word": "successful bidder",
-      "translation": "落札者"
+      "word": "execution of a penalty",
+      "translation": "刑の執行 (けいのしっこう)"
     },
     {
-      "word": "commence",
-      "translation": "開始する"
-    },
-    {
-      "word": "duty",
-      "translation": "義務"
-    },
-    {
-      "word": "application",
-      "translation": "申立て"
+      "word": "Amnesty Law",
+      "translation": "恩赦法 (おんしゃほう)"
     }
   ]
 }

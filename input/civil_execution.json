@@ -11582,5 +11582,115 @@
         "translation": "裁定された損害賠償金 (Saitei Sareta Songai Baishōkin)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Property Auction",
+    "definition": "The standardized court procedure under the Civil Execution Act for the compulsory sale of seized real property or vessels to convert the assets into money for creditor distribution.",
+    "japaneseDefinition": "債務の弁済のため、差し押さえた不動産等を裁判所の指揮のもとで強制的に売却し、金銭に換価する手続き。",
+    "japaneseWordTranslation": "競売手続 (きょうばいてつづき)",
+    "legalContext": "Civil Execution Act, Part II, Chapter 2 (Monetary Execution against Real Property).",
+    "japaneseLegalContext": "民事執行法第43条以下（不動産に対する強制執行）",
+    "exampleSentence": "The court issued an order for the commencement of the Judicial Property Auction following the obligee's application.",
+    "exampleTranslation": "債権者の申立てに基づき、裁判所は競売手続開始決定を出した。",
+    "vocabularyList": [
+      {
+        "word": "seized real property",
+        "translation": "差し押さえた不動産"
+      },
+      {
+        "word": "obligee's application",
+        "translation": "債権者の申立て"
+      },
+      {
+        "word": "compulsory sale",
+        "translation": "強制的な売却"
+      },
+      {
+        "word": "conversion into money",
+        "translation": "金銭に換価"
+      },
+      {
+        "word": "creditor distribution",
+        "translation": "債権者への配当"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Debtor Property Disclosure",
+    "definition": "A mandatory judicial procedure (Asset Disclosure Procedure) requiring an execution obligor to appear before the execution court to submit a detailed, sworn inventory of all their assets, intended to identify suitable property for execution.",
+    "japaneseDefinition": "執行債務者が裁判所に出頭し、自身の財産状況に関する宣誓供述を含む財産目録を提出することを義務付ける手続き。",
+    "japaneseWordTranslation": "債務者財産開示 (さいむしゃざいさんかいじ)",
+    "legalContext": "Civil Execution Act, Art. 196 (Asset Disclosure Procedure).",
+    "japaneseLegalContext": "民事執行法第196条（財産開示手続）",
+    "exampleSentence": "If the obligor fails to appear for the Debtor Property Disclosure hearing without a valid reason, they may be subject to a commitment order.",
+    "exampleTranslation": "債務者が正当な理由なく財産開示期日に出頭しない場合、監置決定の対象となることがある。",
+    "vocabularyList": [
+      {
+        "word": "execution obligor",
+        "translation": "執行債務者"
+      },
+      {
+        "word": "sworn statement",
+        "translation": "宣誓供述"
+      },
+      {
+        "word": "asset inventory",
+        "translation": "財産目録"
+      },
+      {
+        "word": "hearing",
+        "translation": "期日"
+      },
+      {
+        "word": "commitment order",
+        "translation": "監置決定"
+      },
+      {
+        "word": "valid reason",
+        "translation": "正当な理由"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Successful Bidder's Title Acquisition",
+    "definition": "The point in the judicial property auction process when the successful bidder legally acquires ownership of the real property, which is perfected upon payment of the full purchase price to the execution court.",
+    "japaneseDefinition": "裁判所の競売で不動産を買い受けた者が、売却代金を全額納付したときに、その不動産の所有権を法律上取得すること。",
+    "japaneseWordTranslation": "買受人の所有権取得 (かいうけにんのしょゆうけんしゅとく)",
+    "legalContext": "Civil Execution Act, Art. 82, para. 1.",
+    "japaneseLegalContext": "民事執行法第82条第1項",
+    "exampleSentence": "Upon full payment of the price, the Successful Bidder's Title Acquisition is perfected, and the court registers the transfer of ownership.",
+    "exampleTranslation": "代金が全額納付されれば、買受人の所有権取得は完了し、裁判所が所有権移転の登記を行う。",
+    "vocabularyList": [
+      {
+        "word": "successful bidder",
+        "translation": "買受人"
+      },
+      {
+        "word": "full payment",
+        "translation": "全額納付"
+      },
+      {
+        "word": "legally acquires",
+        "translation": "法律上取得する"
+      },
+      {
+        "word": "purchase price",
+        "translation": "売却代金"
+      },
+      {
+        "word": "transfer of ownership",
+        "translation": "所有権移転"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      }
+    ]
   }
 ]

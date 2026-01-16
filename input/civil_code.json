@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Separate Property",
-    "definition": "Under the statutory marital property system in Japan, property that belongs exclusively to one spouse, acquired either before marriage or during marriage in the name of that spouse, which is kept distinct from property jointly managed by the couple.",
-    "japaneseDefinition": "日本の法定財産制において、夫婦の一方にのみ帰属する財産であり、婚姻前から有していた財産、または婚姻中自己の名で取得した財産を指す。夫婦共同財産とは区別され、その配偶者が単独で管理する。",
-    "japaneseWordTranslation": "特有財産 (とくゆうざいさん)",
-    "legalContext": "Civil Code Art. 762 (1): Any property owned by either husband or wife from before the marriage or acquired during the marriage in his or her own name shall be his or her separate property.",
-    "japaneseLegalContext": "民法第762条第1項: 夫婦の一方が婚姻前から有する財産及び婚姻中自己の名で取得した財産は、その特有財産とする。",
-    "exampleSentence": "The investment assets inherited by the wife are legally deemed her separate property and are not subject to division upon divorce unless specifically commingled.",
-    "exampleTranslation": "妻が相続した投資資産は、法的に彼女の特有財産とみなされ、特に混同されていない限り、離婚時の分割の対象とはならない。",
-    "vocabularyList": [
-      {
-        "word": "spouse",
-        "translation": "配偶者"
-      },
-      {
-        "word": "statutory marital property system",
-        "translation": "法定財産制"
-      },
-      {
-        "word": "acquired",
-        "translation": "取得した"
-      },
-      {
-        "word": "commingled",
-        "translation": "混同された"
-      },
-      {
-        "word": "division upon divorce",
-        "translation": "離婚時の財産分与"
-      },
-      {
-        "word": "in his or her own name",
-        "translation": "自己の名義で"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Principle of Good Faith and Fair Dealing",
     "definition": "A fundamental principle in civil law requiring parties to exercise their rights and perform their obligations in good faith and with integrity, aiming to preserve the trust established between them.",
     "japaneseDefinition": "権利の行使及び義務の履行は、信義を重んじ、誠実に行わなければならないという民法の基本原則。",
@@ -13856,6 +13818,124 @@
       {
         "word": "inventory",
         "translation": "在庫"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Age of Majority",
+    "definition": "The age at which a person attains full legal capacity (legal competence) to perform juridical acts independently.",
+    "japaneseDefinition": "単独で法律行為を行うことができる完全な行為能力を取得する年齢。",
+    "japaneseWordTranslation": "成年 (せいねん)",
+    "legalContext": "Civil Code Art. 4: The age of majority is eighteen years.",
+    "japaneseLegalContext": "民法第４条: 成年ノ年齢ハ十八歳トス。",
+    "exampleSentence": "Upon reaching the age of majority, the minor acquired the capacity to enter into binding contracts without parental consent.",
+    "exampleTranslation": "成年年齢に達すると、未成年者は親権者の同意なしに拘束力のある契約を締結する能力を取得した。",
+    "vocabularyList": [
+      {
+        "word": "minor",
+        "translation": "未成年者"
+      },
+      {
+        "word": "full legal capacity",
+        "translation": "完全な行為能力"
+      },
+      {
+        "word": "juridical acts",
+        "translation": "法律行為"
+      },
+      {
+        "word": "binding contracts",
+        "translation": "拘束力のある契約"
+      },
+      {
+        "word": "parental consent",
+        "translation": "親権者の同意"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Impossibility of Performance",
+    "definition": "A state where the obligor cannot fulfill their obligation due to physical or legal reasons attributable to the obligor, resulting in non-performance.",
+    "japaneseDefinition": "債務者の責めに帰すべき事由により、債務の履行が物理的または法律的にできなくなった状態。",
+    "japaneseWordTranslation": "履行不能 (りこうふのう)",
+    "legalContext": "Civil Code Art. 412-2: Where performance of an obligation has become impossible, the obligee may demand damages.",
+    "japaneseLegalContext": "民法第４１２条の２: 債務の履行が不能となったときは、債権者は、これによって生じた損害の賠償を請求することができる。",
+    "exampleSentence": "Due to the total destruction of the unique antique vase, the obligor was deemed in a state of impossibility of performance.",
+    "exampleTranslation": "その唯一の骨董品の花瓶が全部滅失したため、債務者は履行不能の状態にあるとみなされた。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "fulfill",
+        "translation": "履行する"
+      },
+      {
+        "word": "attributable to",
+        "translation": "帰責性のある"
+      },
+      {
+        "word": "damages",
+        "translation": "損害賠償"
+      },
+      {
+        "word": "total destruction",
+        "translation": "全部滅失"
+      },
+      {
+        "word": "unique",
+        "translation": "特定物"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Heir",
+    "definition": "A person designated by law to succeed to the estate of the deceased in the absence of a will, or to claim a legally reserved share.",
+    "japaneseDefinition": "遺言がない場合に、被相続人の財産を承継するために法律によって指定された者。",
+    "japaneseWordTranslation": "法定相続人 (ほうていそうぞくにん)",
+    "legalContext": "Civil Code Art. 887 et seq.: Defines the categories and priority order of persons who become statutory heirs.",
+    "japaneseLegalContext": "民法第８８７条以下: 法定相続人となる者の範囲及び順位を定める。",
+    "exampleSentence": "As the deceased left no valid testament, the spouse and children were determined to be the statutory heirs entitled to the estate distribution.",
+    "exampleTranslation": "被相続人が有効な遺言を残さなかったため、配偶者と子供たちが遺産分割を受ける法定相続人であると決定された。",
+    "vocabularyList": [
+      {
+        "word": "deceased",
+        "translation": "被相続人"
+      },
+      {
+        "word": "succeed to the estate",
+        "translation": "遺産を承継する"
+      },
+      {
+        "word": "testament",
+        "translation": "遺言"
+      },
+      {
+        "word": "spouse",
+        "translation": "配偶者"
+      },
+      {
+        "word": "inheritance rights",
+        "translation": "相続権"
+      },
+      {
+        "word": "estate distribution",
+        "translation": "遺産分割"
+      },
+      {
+        "word": "priority order",
+        "translation": "順位"
       }
     ]
   }

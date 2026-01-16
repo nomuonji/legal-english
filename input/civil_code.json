@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Principle of Good Faith and Fair Dealing",
-    "definition": "A fundamental principle in civil law requiring parties to exercise their rights and perform their obligations in good faith and with integrity, aiming to preserve the trust established between them.",
-    "japaneseDefinition": "権利の行使及び義務の履行は、信義を重んじ、誠実に行わなければならないという民法の基本原則。",
-    "japaneseWordTranslation": "信義誠実の原則 (しんぎせいじつのげんそく)",
-    "legalContext": "Civil Code Art. 1, Para. 2: “The exercise of rights and performance of duties must be conducted in good faith.”",
-    "japaneseLegalContext": "民法第1条第2項: 権利の行使及び義務の履行は、信義を重んじ、誠実に行わなければならない。",
-    "exampleSentence": "The court applied the Principle of Good Faith and Fair Dealing to prevent the obligee from exercising a highly inequitable termination right.",
-    "exampleTranslation": "裁判所は、債権者が著しく不公平な解除権を行使するのを阻止するため、信義誠実の原則を適用した。",
-    "vocabularyList": [
-      {
-        "word": "obligee",
-        "translation": "債権者"
-      },
-      {
-        "word": "inequitable",
-        "translation": "不公平な"
-      },
-      {
-        "word": "termination right",
-        "translation": "解除権"
-      },
-      {
-        "word": "fundamental principle",
-        "translation": "基本原則"
-      },
-      {
-        "word": "exercise of rights",
-        "translation": "権利の行使"
-      },
-      {
-        "word": "performance of duties",
-        "translation": "義務の履行"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Unauthorized Representation",
     "definition": "A legal act performed by a person who purports to act as an agent for another party but lacks the necessary power of representation (authority) to bind the principal.",
     "japaneseDefinition": "代理権がないにもかかわらず、本人のためにしたと称して行う法律行為。原則として本人に対して効力を生じない。",
@@ -13936,6 +13898,120 @@
       {
         "word": "priority order",
         "translation": "順位"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Undivided Inheritance Share",
+    "definition": "The legal proportion of the decedent's estate to which a statutory heir is entitled, calculated before the actual division and distribution of the assets.",
+    "japaneseDefinition": "遺産分割前の、各共同相続人が有する相続財産全体に対する抽象的な持分割合。",
+    "japaneseWordTranslation": "相続分 (そうぞくぶん)",
+    "legalContext": "Civil Code Art. 900: Statutory shares in co-inheritance (prescribes the baseline shares for different classes of heirs).",
+    "japaneseLegalContext": "民法第900条：法定相続分（異なる順位の相続人の基本的持分を定める。）",
+    "exampleSentence": "The court determined the validity of the holographic will only after calculating the statutory undivided inheritance share of each presumptive heir.",
+    "exampleTranslation": "裁判所は、推定相続人それぞれの法定相続分を算定した後でなければ、自筆証書の遺言の有効性を決定しなかった。",
+    "vocabularyList": [
+      {
+        "word": "Decedent",
+        "translation": "被相続人"
+      },
+      {
+        "word": "Statutory heir",
+        "translation": "法定相続人"
+      },
+      {
+        "word": "Estate",
+        "translation": "相続財産（遺産）"
+      },
+      {
+        "word": "Holographic will",
+        "translation": "自筆証書遺言"
+      },
+      {
+        "word": "Validity",
+        "translation": "有効性"
+      },
+      {
+        "word": "Calculation",
+        "translation": "算定"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Management Expenses",
+    "definition": "Costs necessary for the maintenance, preservation, and general administration of property, particularly relevant when the property is jointly owned or managed by an estate administrator.",
+    "japaneseDefinition": "財産の維持、保存、または一般的な管理のために必要な費用。",
+    "japaneseWordTranslation": "管理費用 (かんりひよう)",
+    "legalContext": "Civil Code Art. 253: Each co-owner bears the expenses relating to the co-owned property in proportion to his/her share.",
+    "japaneseLegalContext": "民法第253条：共有物に関する費用は、各共有者がその持分に応じて負担する。",
+    "exampleSentence": "The co-owners must jointly bear the management expenses for the necessary repairs to the roof of the common building.",
+    "exampleTranslation": "共有者は、共有建物の屋根に必要な修繕のための管理費用を共同で負担しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Co-owners",
+        "translation": "共有者"
+      },
+      {
+        "word": "Jointly bear",
+        "translation": "共同で負担する"
+      },
+      {
+        "word": "Repairs",
+        "translation": "修繕"
+      },
+      {
+        "word": "Common building",
+        "translation": "共有建物"
+      },
+      {
+        "word": "Maintenance",
+        "translation": "維持"
+      },
+      {
+        "word": "Proportion",
+        "translation": "割合"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligation to Maintain the Same Surname",
+    "definition": "The legal requirement for a marrying couple in Japan to choose one spouse's surname as their common surname, which must then be maintained throughout the marriage.",
+    "japaneseDefinition": "夫婦が婚姻の際に、夫または妻の氏を選んで共通の氏とし、婚姻期間中その氏を維持しなければならない法的な要請。",
+    "japaneseWordTranslation": "同氏の義務 (どうじのぎむ)",
+    "legalContext": "Civil Code Art. 750: Requirement that husband and wife adopt a common surname upon marriage.",
+    "japaneseLegalContext": "民法第750条：婚姻に際し、夫婦は共通の氏を称しなければならないという規定。",
+    "exampleSentence": "The Obligation to Maintain the Same Surname is mandatory upon filing a marriage registration, reflecting Japan's unique approach to family law status.",
+    "exampleTranslation": "同氏の義務は、婚姻届出の際に義務的であり、日本の家族法の身分関係に対する独自のアプローチを反映している。",
+    "vocabularyList": [
+      {
+        "word": "Marrying couple",
+        "translation": "婚姻する夫婦"
+      },
+      {
+        "word": "Surname",
+        "translation": "氏"
+      },
+      {
+        "word": "Mandatory",
+        "translation": "義務的"
+      },
+      {
+        "word": "Filing",
+        "translation": "届出（提出）"
+      },
+      {
+        "word": "Spouse",
+        "translation": "配偶者"
+      },
+      {
+        "word": "Family law",
+        "translation": "家族法"
       }
     ]
   }

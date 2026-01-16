@@ -10126,5 +10126,119 @@
         "translation": "終結"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Assertion Bar Against Non-Registered Facts",
+    "definition": "The principle under Japanese Commercial Registration Law (Article 9) that prevents a company or other entity required to register commercial particulars from asserting unregistered facts (such as changes in officers or organizational structure) against a bona fide third party.",
+    "japaneseDefinition": "商業登記法に基づき、登記が必要な事項を登記しなかった場合、その事実を善意の第三者に対抗することができないとする原則（商業登記法第9条）。",
+    "japaneseWordTranslation": "不登記事項の対抗制限 (ふとうきじこうのたいこうせいげん)",
+    "legalContext": "Commercial Registration Act, Article 9: Matters that are required to be registered shall not be asserted against a third party acting in good faith unless they have been registered.",
+    "japaneseLegalContext": "商業登記法第9条：登記をすべき事項は、登記の後でなければ、これをもって善意の第三者に対抗することができない。",
+    "exampleSentence": "The company failed to register the resignation of its director, so the Assertion Bar Against Non-Registered Facts applied, and the company was held liable for the contract concluded by the former director with a party unaware of the change.",
+    "exampleTranslation": "その会社は取締役の辞任を登記しなかったため、不登記事項の対抗制限が適用され、変更を知らない相手方との間で旧取締役が締結した契約について責任を負わされた。",
+    "vocabularyList": [
+      {
+        "word": "resignation",
+        "translation": "辞任 (じにん)"
+      },
+      {
+        "word": "commercial particulars",
+        "translation": "商業登記事項 (しょうぎょうとうきじこう)"
+      },
+      {
+        "word": "held liable",
+        "translation": "責任を負わされる (せきにんをおわされる)"
+      },
+      {
+        "word": "organizational structure",
+        "translation": "組織構造 (そしきこうぞう)"
+      },
+      {
+        "word": "required to be registered",
+        "translation": "登記をすべき (とうきをすべき)"
+      },
+      {
+        "word": "contract concluded",
+        "translation": "契約締結 (けいやくていけつ)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registrar's Ex Officio Entry",
+    "definition": "A registration entry made by the registrar independently (without a formal application from the registering party) when the legal basis for the change is derived from specific statutory provisions or official notifications (e.g., notification from a court or another administrative agency).",
+    "japaneseDefinition": "登記官が、申請によらず、法律の規定や裁判所等の公的機関からの通知に基づいて、職務上の権限により自ら行う登記手続を指す。",
+    "japaneseWordTranslation": "職権登記 (しょっけんとうき)",
+    "legalContext": "Commercial Registration Act, Article 110: If a court or administrative agency notifies the registrar of a fact that necessitates a registration, the registrar must carry out the registration ex officio.",
+    "japaneseLegalContext": "商業登記法第110条：裁判所その他の官庁が登記すべき事項の通知をしたときは、登記官は、職権で、その登記をしなければならない。",
+    "exampleSentence": "Following the court's decree confirming the company's dissolution, the registrar executed an Ex Officio Entry to update the commercial records accordingly.",
+    "exampleTranslation": "裁判所が会社の解散を確定する決定を下した後、登記官は職権登記を行い、商業記録をそれに応じて更新した。",
+    "vocabularyList": [
+      {
+        "word": "court's decree",
+        "translation": "裁判所の決定 (さいばんしょのけってい)"
+      },
+      {
+        "word": "administrative agency",
+        "translation": "行政機関 (ぎょうせいきかん)"
+      },
+      {
+        "word": "commercial records",
+        "translation": "商業記録 (しょうぎょうきろく)"
+      },
+      {
+        "word": "formal application",
+        "translation": "正式な申請 (せいしきなしんせい)"
+      },
+      {
+        "word": "statutory provisions",
+        "translation": "法令の規定 (ほうれいのきてい)"
+      },
+      {
+        "word": "necessitates",
+        "translation": "必要とする (ひつようとする)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Attesting Instrument for Registration Cause",
+    "definition": "Documentation required to be attached to a registration application that legally certifies the facts (the 'cause') giving rise to the need for the entry, such as minutes of a shareholder meeting, a merger agreement, or a document certifying the transfer of shares.",
+    "japaneseDefinition": "登記の申請に添付が義務付けられている書類で、その登記の変更や発生の法的根拠となる事実を証明する情報（例えば、株主総会議事録や合併契約書など）。",
+    "japaneseWordTranslation": "登記原因証明情報 (とうきげんいんしょうめいじょうほう)",
+    "legalContext": "Commercial Registration Act, Article 18: An application for registration must be accompanied by an attesting instrument certifying the cause of the registration.",
+    "japaneseLegalContext": "商業登記法第18条：登記の申請をするには、法令に別段の定めがある場合を除き、登記の原因を証する情報を提供しなければならない。",
+    "exampleSentence": "During the capital increase procedure, the application required the submission of the Attesting Instrument for Registration Cause, which included the resolution of the board of directors regarding the allotment of new shares.",
+    "exampleTranslation": "増資手続きの際、申請には、新株割当に関する取締役会の決議を含む登記原因証明情報の提出が必要であった。",
+    "vocabularyList": [
+      {
+        "word": "registration application",
+        "translation": "登記申請 (とうきしんせい)"
+      },
+      {
+        "word": "attached to",
+        "translation": "添付する (てんぷする)"
+      },
+      {
+        "word": "capital increase",
+        "translation": "増資 (ぞうし)"
+      },
+      {
+        "word": "resolution of the board",
+        "translation": "取締役会の決議 (とりしまりやくかいのけつぎ)"
+      },
+      {
+        "word": "allotment of new shares",
+        "translation": "新株割当 (しんかぶわりあて)"
+      },
+      {
+        "word": "legally certifies",
+        "translation": "法的に証明する (ほうてきにしょうめいする)"
+      }
+    ]
   }
 ]

@@ -14246,5 +14246,119 @@
         "translation": "黙示の (もくしの)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Fictitious Fulfillment of Condition",
+    "definition": "A principle stipulated in the Civil Code by which a condition on a legal act is deemed legally fulfilled if an interested party, acting contrary to good faith, wrongfully prevents the contingency from occurring.",
+    "japaneseDefinition": "法律行為の条件に関し、その条件の成就によって不利益を受ける当事者が、信義に反してその成就を妨げたとき、法律上、その条件が成就したものとみなされること。",
+    "japaneseWordTranslation": "条件の成就の擬制 (じょうけんのじょうじゅのぎせい)",
+    "legalContext": "Civil Code Art. 130: 'If a party whose interest is adversely affected by the fulfillment of a condition wrongfully prevents the fulfillment, the condition shall be deemed fulfilled.'",
+    "japaneseLegalContext": "民法第130条: 「条件の成就により不利益を受ける当事者が故意にその成就を妨げたときは、相手方は、その条件が成就したものとみなすことができる。」",
+    "exampleSentence": "The defendant's refusal to provide necessary documentation constituted a fictitious fulfillment of the condition precedent, thus allowing the contract to take effect.",
+    "exampleTranslation": "被告が要求された書類の提供を拒否した行為は、停止条件の成就の擬制を構成し、契約が効力を生じることを認めた。",
+    "vocabularyList": [
+      {
+        "word": "Interested party",
+        "translation": "利害関係人"
+      },
+      {
+        "word": "Contingency",
+        "translation": "偶発事由"
+      },
+      {
+        "word": "Adversely affected",
+        "translation": "不利益を受ける"
+      },
+      {
+        "word": "Condition precedent",
+        "translation": "停止条件"
+      },
+      {
+        "word": "Contrary to good faith",
+        "translation": "信義に反して"
+      },
+      {
+        "word": "Legally deemed",
+        "translation": "法律上みなされる"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Co-Suretyship",
+    "definition": "A legal arrangement where two or more persons act as guarantors for the same principal obligation, providing security to the creditor. Co-sureties have a statutory right to obtain contribution from each other for amounts paid in excess of their proportionate share.",
+    "japaneseDefinition": "同一の主たる債務について、数人が保証人となること。債権者に対しては各保証人が全額の責任を負い、保証人相互間では求償権や分担の規定が適用される。",
+    "japaneseWordTranslation": "共同保証 (きょうどうほしょう)",
+    "legalContext": "Civil Code Arts. 456-464: Provisions concerning the liability and internal relations among multiple guarantors of the same obligation.",
+    "japaneseLegalContext": "民法第456条～464条: 同一債務の保証人が数人ある場合の、各保証人の責任及び保証人相互間の関係に関する規定。",
+    "exampleSentence": "In a case of co-suretyship, if one guarantor pays the full amount of the debt, they may exercise the right to obtain contribution against the remaining co-sureties.",
+    "exampleTranslation": "共同保証の場合において、一人の保証人が債務の全額を弁済したときは、他の共同保証人に対して分担額の求償権を行使することができる。",
+    "vocabularyList": [
+      {
+        "word": "Guarantor",
+        "translation": "保証人"
+      },
+      {
+        "word": "Principal Obligor",
+        "translation": "主たる債務者"
+      },
+      {
+        "word": "Undertake liability",
+        "translation": "責任を負う"
+      },
+      {
+        "word": "Statutory right",
+        "translation": "法定の権利"
+      },
+      {
+        "word": "Proportionate share",
+        "translation": "分担部分"
+      },
+      {
+        "word": "Right to obtain contribution",
+        "translation": "分担額請求権"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Gift in Contemplation of Death",
+    "definition": "A contract made between a donor and a donee in which the donor promises to transfer property to the donee, effective only upon the donor's death. It is treated similarly to a testament, particularly regarding revocation and legally reserved shares.",
+    "japaneseDefinition": "贈与者の死亡によって効力を生ずる贈与契約。契約である点では普通の贈与と同じだが、遺言に関する規定が準用されるため、単なる贈与とは区別される。",
+    "japaneseWordTranslation": "死因贈与 (しいんぞうよ)",
+    "legalContext": "Civil Code Art. 554: 'The provisions concerning testaments shall apply mutatis mutandis to a gift which is to take effect upon the death of the donor.'",
+    "japaneseLegalContext": "民法第554条: 「贈与者の死亡によって効力を生ずる贈与については、その性質に反しない限り、遺言に関する規定を準用する。」",
+    "exampleSentence": "Since a Gift in Contemplation of Death is a contract, it requires the mutual consent of both the donor and the donee, unlike a unilateral will.",
+    "exampleTranslation": "死因贈与は契約であるため、一方的な遺言とは異なり、贈与者と受贈者双方の合意を要する。",
+    "vocabularyList": [
+      {
+        "word": "Donor",
+        "translation": "贈与者"
+      },
+      {
+        "word": "Donee",
+        "translation": "受贈者"
+      },
+      {
+        "word": "Transfer of property",
+        "translation": "財産の移転"
+      },
+      {
+        "word": "Mutual consent",
+        "translation": "双方の合意"
+      },
+      {
+        "word": "Mutatis mutandis application",
+        "translation": "準用"
+      },
+      {
+        "word": "Taking effect",
+        "translation": "効力の発生"
+      }
+    ]
   }
 ]

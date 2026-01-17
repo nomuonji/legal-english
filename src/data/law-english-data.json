@@ -1,38 +1,38 @@
 {
-  "category": "Civil Preservation (民事保全法)",
+  "category": "Deposit Act (供託法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Right to Be Preserved",
-  "definition": "The substantive legal right or claim (e.g., a monetary claim or a claim for specific performance) that the obligee asserts and seeks to secure protection for through a civil preservation measure.",
-  "japaneseDefinition": "保全命令によってその実現を将来確保しようとする債権者の具体的な権利（金銭債権、給付請求権など）。",
-  "japaneseWordTranslation": "被保全権利 (ひほぜんけんり)",
-  "legalContext": "Civil Preservation Act Art. 13: A preservation order shall be issued when a right to be preserved is recognized, and there is a necessity for preservation.",
-  "japaneseLegalContext": "民事保全法第13条: 保全命令は、被保全権利が認められ、かつ、保全の必要性があるときに発せられる。",
-  "exampleSentence": "The court must examine whether the applicant has sufficiently substantiated the existence of the Right to Be Preserved before issuing any relief.",
-  "exampleTranslation": "裁判所は、救済を発する前に、申立人が被保全権利の存在を十分に立証したかどうかを審査しなければならない。",
+  "word": "Statutory Cause for Consignment",
+  "definition": "The specific legal ground or prerequisite, stipulated usually under the Civil Code, that authorizes a debtor to extinguish their obligation by placing the subject matter of performance with the administrative authority.",
+  "japaneseDefinition": "債務者がその債務の履行の目的物を行政機関に寄託し、債務を消滅させることを正当化する、民法その他の法令に定められた特定の法的根拠または要件。",
+  "japaneseWordTranslation": "供託原因 (きょうたくげんいん)",
+  "legalContext": "Civil Code Art. 494 (Conditions for Consignment): If the obligee refuses to accept performance, or is unable to accept performance, or if the obligor cannot determine who the obligee is without fault, the obligor may be relieved of their obligation by consigning the subject matter of the performance.",
+  "japaneseLegalContext": "民法第494条（供託）：債権者が弁済の受領を拒み、又はこれを受領することができないとき、弁済者が過失なく債権者を確知することができないときも、同様とする。",
+  "exampleSentence": "The consignor must clearly state the Statutory Cause for Consignment, such as uncertainty of the obligee, in the required documentation.",
+  "exampleTranslation": "供託者は、債権者不確知などの供託原因を、必要書類に明確に記載しなければならない。",
   "vocabularyList": [
     {
-      "word": "substantiate",
-      "translation": "立証する"
+      "word": "prerequisite",
+      "translation": "要件"
     },
     {
-      "word": "relief",
-      "translation": "救済、法的救済"
+      "word": "debtor",
+      "translation": "債務者"
     },
     {
-      "word": "applicant",
-      "translation": "申立人"
+      "word": "extinguish the obligation",
+      "translation": "債務を消滅させる"
     },
     {
-      "word": "monetary claim",
-      "translation": "金銭債権"
+      "word": "subject matter of performance",
+      "translation": "履行の目的物"
     },
     {
-      "word": "specific performance",
-      "translation": "特定履行"
+      "word": "uncertainty of the obligee",
+      "translation": "債権者不確知"
     },
     {
-      "word": "obligee",
-      "translation": "債権者"
+      "word": "consignor",
+      "translation": "供託者"
     }
   ]
 }

@@ -10086,5 +10086,81 @@
         "translation": "取立て (toritate)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Filing Period (Preservation)",
+    "definition": "The fixed period, usually specified by law or judicial order, within which a party who has obtained a preservation order must initiate the principal legal proceedings to substantiate the underlying claim, on pain of the order's revocation.",
+    "japaneseDefinition": "保全命令が発せられた後、その命令の効力を維持するために保全債権者が本訴訟を提起しなければならない、法律または裁判所によって定められた期間。",
+    "japaneseWordTranslation": "保全命令後の本案訴訟提起期間 (Hozen Meirei-go no Hon'an Soshō Teiki Kikan)",
+    "legalContext": "Civil Preservation Law, Article 37(1): If the court, upon granting a preservation order, specifies a period of time, the preservation obligee shall be obliged to commence the principal case within that period.",
+    "japaneseLegalContext": "民事保全法第37条第1項: 裁判所は、保全命令を発するに際し、保全債権者に対し、本案の訴えを一定の期間内に提起することを命ずることができる。",
+    "exampleSentence": "The preservation obligee must file the substantive lawsuit promptly, ensuring compliance with the prescribed **statutory filing period (preservation)** to avoid the interim protection being lifted.",
+    "exampleTranslation": "保全債権者は、暫定的な保護措置が解除されるのを避けるため、定められた保全命令後の本案訴訟提起期間を遵守し、本訴を速やかに提起しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "preservation obligee",
+        "translation": "保全債権者"
+      },
+      {
+        "word": "substantive lawsuit",
+        "translation": "本案訴訟"
+      },
+      {
+        "word": "promptly",
+        "translation": "速やかに"
+      },
+      {
+        "word": "compliance",
+        "translation": "遵守"
+      },
+      {
+        "word": "underlying claim",
+        "translation": "基礎となる請求"
+      },
+      {
+        "word": "revocation",
+        "translation": "取り消し"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interim Mandatory Order (Status Quo)",
+    "definition": "A form of provisional disposition used to compel the opposing party to perform an active duty (or restrain from an action) necessary to provisionally set a legal position or relationship, often used in disputes over continuing rights or status.",
+    "japaneseDefinition": "争いのある権利関係について、本案判決までの間に、当事者に暫定的な作為（または不作為）を強制することによって、仮の法律上の地位を確立するよう命じる裁判所の指示。",
+    "japaneseWordTranslation": "仮の地位を定める暫定的な強制指示 (Kari no Chii o Sadameru Zantei-teki na Kyōsei Shiji)",
+    "legalContext": "Civil Preservation Law, Article 23(3): A provisional disposition may be issued to provisionally determine a temporary status concerning a right relationship for which a dispute exists.",
+    "japaneseLegalContext": "民事保全法第23条第3項: 争いのある権利関係について、仮に、その地位を定める必要がある場合において、特にその必要を認めるときは、仮処分を命じることができる。",
+    "exampleSentence": "In the intellectual property dispute, the court issued an **interim mandatory order (status quo)** requiring the cessation of product sales pending the full trial of the infringement claim.",
+    "exampleTranslation": "知的財産権の紛争において、裁判所は、侵害請求の本裁判が係属するまで製品販売の停止を命じる仮の地位を定める暫定的な強制指示を発した。",
+    "vocabularyList": [
+      {
+        "word": "intellectual property",
+        "translation": "知的財産権"
+      },
+      {
+        "word": "cessation",
+        "translation": "停止"
+      },
+      {
+        "word": "product sales",
+        "translation": "製品販売"
+      },
+      {
+        "word": "infringement claim",
+        "translation": "侵害請求"
+      },
+      {
+        "word": "active duty",
+        "translation": "作為義務"
+      },
+      {
+        "word": "full trial",
+        "translation": "本裁判"
+      }
+    ]
   }
 ]

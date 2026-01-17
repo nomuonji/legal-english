@@ -12004,5 +12004,73 @@
         "translation": "有罪判決を受けた"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Justifying Circumstance",
+    "definition": "A legal condition or situation (such as self-defense or necessity) under which an act that otherwise satisfies the constituent elements of a crime is deemed not unlawful and is therefore exempt from punishment.",
+    "japaneseDefinition": "ある行為が犯罪の構成要件に該当するにもかかわらず、その行為の違法性を否定する法的・事実的な状況。正当防衛や緊急避難などがこれにあたる。",
+    "japaneseWordTranslation": "正当化事由 (せいとうかじゆう)",
+    "legalContext": "Principle of Justification (違法性阻却事由): An act that infringes upon a legally protected interest may be deemed lawful if performed under specific statutory conditions (e.g., necessity, self-defense).",
+    "japaneseLegalContext": "刑法35条, 36条, 37条: 正当行為、正当防衛、緊急避難などの違法性阻却事由は刑法に規定されている。",
+    "exampleSentence": "The defendant's action was initially viewed as battery, but was ultimately excluded from criminal liability due to the presence of a justifying circumstance.",
+    "exampleTranslation": "被告人の行為は当初、暴行と見なされたが、正当化事由の存在により最終的に刑事責任を免れた。",
+    "vocabularyList": [
+      {
+        "word": "battery",
+        "translation": "暴行罪"
+      },
+      {
+        "word": "excluded from liability",
+        "translation": "責任を免除される"
+      },
+      {
+        "word": "unlawful",
+        "translation": "違法な"
+      },
+      {
+        "word": "necessity",
+        "translation": "緊急避難"
+      },
+      {
+        "word": "self-defense",
+        "translation": "正当防衛"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Garantor Position",
+    "definition": "The specific legal status or relationship that imposes a duty upon an individual to prevent a particular harm or outcome, thereby creating the prerequisite for commission by omission.",
+    "japaneseDefinition": "特定の法益を保護し、または危険源を監督すべき法的義務を負う地位。不作為犯において、結果発生を防ぐ作為義務の根拠となる。",
+    "japaneseWordTranslation": "保証人的地位 (ほしょうじんてきちい)",
+    "legalContext": "Doctrine of Crimes of Omission (不作為犯): An omission is punishable as a crime of commission only when the defendant was in a Garantor Position imposing a duty to act (e.g., parents protecting their child).",
+    "japaneseLegalContext": "刑法総論：不作為犯における実行行為の認定要件として、保証人的地位に基づく作為義務の存在が求められる。",
+    "exampleSentence": "The court examined whether the corporate officer held a Garantor Position regarding the security of the company’s data center, thereby determining liability for the data breach by omission.",
+    "exampleTranslation": "裁判所は、当該役員が会社のデータセンターのセキュリティに関して保証人的地位を有していたか否かを検討し、それによって不作為によるデータ漏洩の責任を判断した。",
+    "vocabularyList": [
+      {
+        "word": "corporate officer",
+        "translation": "会社役員"
+      },
+      {
+        "word": "duty to act",
+        "translation": "作為義務"
+      },
+      {
+        "word": "data breach",
+        "translation": "データ漏洩"
+      },
+      {
+        "word": "omission",
+        "translation": "不作為"
+      },
+      {
+        "word": "prerequisite",
+        "translation": "前提条件"
+      }
+    ]
   }
 ]

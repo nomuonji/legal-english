@@ -13004,5 +13004,119 @@
         "translation": "文書を提出する"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Essential Facts",
+    "definition": "Facts that constitute the legal elements (requisites) of a substantive right or legal relationship being claimed or disputed by the parties, distinguished from merely indirect or evidentiary facts.",
+    "japaneseDefinition": "当事者が主張する権利または法律関係の発生、変更、消滅を直接基礎づける法規の要件を充足する事実。法規の要件事実とも呼ばれる。",
+    "japaneseWordTranslation": "主要事実 (Shuyō Jijitsu)",
+    "legalContext": "Governed by the Principle of Pleading (弁論主義), where courts base their judgments only on facts asserted by the parties, focusing heavily on these essential facts.",
+    "japaneseLegalContext": "民事訴訟規則 第53条: 訴えの提起において、請求を特定するのに必要な事実の主張。",
+    "exampleSentence": "Under the Japanese Civil Procedure Code, the burden lies on the plaintiff to plead the Essential Facts necessary to establish their cause of action.",
+    "exampleTranslation": "日本の民事訴訟法では、訴訟原因を立証するために必要な主要事実を主張する責任は原告にある。",
+    "vocabularyList": [
+      {
+        "word": "Plead",
+        "translation": "主張する (Shuchō suru)"
+      },
+      {
+        "word": "Statutory elements",
+        "translation": "法規の要件 (Hōki no Yōken)"
+      },
+      {
+        "word": "Substantive right",
+        "translation": "実体的な権利 (Jittai-teki na Kenri)"
+      },
+      {
+        "word": "Cause of action",
+        "translation": "訴訟原因 (Soshō Gen'in)"
+      },
+      {
+        "word": "Indirect facts",
+        "translation": "間接事実 (Kansetsu Jijitsu)"
+      },
+      {
+        "word": "Plaintiff",
+        "translation": "原告 (Gankoku)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Expert Opinion",
+    "definition": "A form of evidence obtained when the court commissions a person with specialized knowledge or experience to offer their scientific or technical judgment regarding specific facts or issues relevant to the dispute.",
+    "japaneseDefinition": "裁判所が、特別の学識経験を有する第三者に対し、訴訟上の争点に関する専門的な意見または判断を報告させる証拠調べ手続。",
+    "japaneseWordTranslation": "鑑定 (Kantei)",
+    "legalContext": "Code of Civil Procedure Art. 212: Governs the procedure for procuring an expert opinion where specialized knowledge is required for fact-finding.",
+    "japaneseLegalContext": "民事訴訟法 第212条: 裁判所は、学識経験を有する者に意見を求め、鑑定を命ずることができる。",
+    "exampleSentence": "The judge deemed it necessary to obtain an Expert Opinion on the fair market value of the complex financial instrument involved in the lawsuit.",
+    "exampleTranslation": "裁判官は、訴訟に関わる複雑な金融商品の公正市場価値について、鑑定を得る必要があると判断した。",
+    "vocabularyList": [
+      {
+        "word": "Commission",
+        "translation": "命ずる (Meizuru)"
+      },
+      {
+        "word": "Specialized knowledge",
+        "translation": "学識経験 (Gakushiki Keiken)"
+      },
+      {
+        "word": "Fair market value",
+        "translation": "公正な市場価値 (Kōsei na Shijō Kachi)"
+      },
+      {
+        "word": "Dispute",
+        "translation": "争点 (Sōten)"
+      },
+      {
+        "word": "Fact-finding",
+        "translation": "事実認定 (Jijitsu Nintei)"
+      },
+      {
+        "word": "Lawsuit",
+        "translation": "訴訟 (Soshō)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Remand",
+    "definition": "A procedure in appellate jurisdiction where the higher court reverses the judgment of the lower court and sends the case back to that lower court (or a court of equivalent jurisdiction) for a new trial or further proceedings.",
+    "japaneseDefinition": "上訴裁判所が原判決を取り消し、事件を原審裁判所または同等の裁判所に差し戻して、改めて審理・裁判を行わせること。",
+    "japaneseWordTranslation": "差戻し (Sashimodoshi)",
+    "legalContext": "Code of Civil Procedure Art. 396: The Supreme Court may Remand the case when the lower court’s procedure violates the Constitution or other laws.",
+    "japaneseLegalContext": "民事訴訟法 第396条: 最高裁判所は、原判決の法令違反が重大である場合に差戻しをすることができる。",
+    "exampleSentence": "The High Court ordered a Remand because the District Court had failed to properly examine critical documentary evidence submitted by the defendant.",
+    "exampleTranslation": "地方裁判所が被告から提出された重要な書証を適切に調べなかったため、高等裁判所は差戻しを命じた。",
+    "vocabularyList": [
+      {
+        "word": "Appellate jurisdiction",
+        "translation": "上訴審 (Jōso-shin)"
+      },
+      {
+        "word": "Reverse (a judgment)",
+        "translation": "取り消す (Torikesu)"
+      },
+      {
+        "word": "Lower court",
+        "translation": "原審裁判所 (Genshin Saibansho)"
+      },
+      {
+        "word": "New trial",
+        "translation": "再審理 (Saishinri)"
+      },
+      {
+        "word": "Procedural error",
+        "translation": "手続上の瑕疵 (Tetsuzuki-jō no Kashi)"
+      },
+      {
+        "word": "Defendant",
+        "translation": "被告 (Hikoku)"
+      }
+    ]
   }
 ]

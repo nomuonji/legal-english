@@ -11818,5 +11818,119 @@
         "translation": "配当手続"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "The Obligation Title",
+    "definition": "The formal document (e.g., a final decision, a record of judicial settlement, or a notarized deed containing a declaration of submission to execution) that establishes the existence and scope of a private law obligation, serving as the necessary foundation for commencing compulsory execution.",
+    "japaneseDefinition": "強制執行を開始するために必要な根拠となる文書であり、債務の存在及び内容を確定させる公的な文書（確定判決、和解調書、執行受諾文言付公正証書など）。",
+    "japaneseWordTranslation": "債務名義 (さいむめいぎ)",
+    "legalContext": "Civil Execution Law Art. 22: Specifies the various types of documents that qualify as 'The Obligation Title' necessary for the execution process.",
+    "japaneseLegalContext": "民事執行法第22条: 執行機関が強制執行を実施する根拠となる債務名義の種類を定める。",
+    "exampleSentence": "The obligee must obtain a valid Obligation Title and an execution writ before filing a petition for compulsory enforcement.",
+    "exampleTranslation": "債権者は、強制執行の申立てを行う前に、有効な債務名義と執行文を取得しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "final decision",
+        "translation": "最終決定"
+      },
+      {
+        "word": "settlement record",
+        "translation": "和解記録"
+      },
+      {
+        "word": "notarial deed",
+        "translation": "公証証書"
+      },
+      {
+        "word": "execution writ",
+        "translation": "執行文"
+      },
+      {
+        "word": "private law obligation",
+        "translation": "私法上の債務"
+      },
+      {
+        "word": "compulsory enforcement",
+        "translation": "強制執行の実施"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Real Property Auction",
+    "definition": "A major category of compulsory execution for monetary claims, where the court orders the seizure and subsequent public sale (auction) of the debtor's real estate (land and buildings) to convert its value into money for distribution to creditors.",
+    "japaneseDefinition": "金銭債権を満足させるための強制執行手続きの一種で、裁判所が債務者の不動産（土地や建物）を差し押さえ、公的な競売手続を通じてその価値を現金化する手続。",
+    "japaneseWordTranslation": "不動産競売 (ふどうさんきょうばい)",
+    "legalContext": "Civil Execution Law Chapter 4, Section 1: Governs the procedures and requirements for execution against immovable assets, including the specific rules for public auction and sale.",
+    "japaneseLegalContext": "民事執行法第4章第1節: 不動産に対する執行の手続、特に公売及び売却に関する具体的な規定を定める。",
+    "exampleSentence": "The creditor initiated the Real Property Auction procedure after the debtor defaulted on the mortgage, using the judgment as the basis for the enforcement action.",
+    "exampleTranslation": "債務者が住宅ローンを滞納した後、債権者は判決を執行措置の根拠として不動産競売手続を開始した。",
+    "vocabularyList": [
+      {
+        "word": "real estate",
+        "translation": "不動産"
+      },
+      {
+        "word": "monetary claims",
+        "translation": "金銭債権"
+      },
+      {
+        "word": "conversion of assets",
+        "translation": "資産の現金化"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "mortgage",
+        "translation": "担保権"
+      },
+      {
+        "word": "distribution to creditors",
+        "translation": "債権者への分配"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Enforcement Agent",
+    "definition": "A state official operating under the supervision of the execution court, primarily responsible for conducting the physical acts required for execution, such as carrying out attachments, executing delivery or handover orders, and administering auction sales of movable property.",
+    "japaneseDefinition": "執行裁判所の監督下で活動する国の職員であり、主に差押えの実施、目的物の引渡しまたは明渡しの執行、動産の競売などの執行に必要な事実上の行為を担当する。",
+    "japaneseWordTranslation": "執行官 (しっこうかん)",
+    "legalContext": "Civil Execution Law Art. 3: Stipulates that compulsory execution shall be carried out by the Execution Court or the Enforcement Agent, defining their respective roles and jurisdictions.",
+    "japaneseLegalContext": "民事執行法第3条: 強制執行は執行裁判所又は執行官がこれを行うものとし、それぞれの役割と管轄を定める。",
+    "exampleSentence": "The Enforcement Agent proceeded with the attachment of the heavy machinery following the issuance of the delivery order by the court.",
+    "exampleTranslation": "裁判所による引渡命令の発出後、執行官は重機に対する差押えを続行した。",
+    "vocabularyList": [
+      {
+        "word": "state official",
+        "translation": "国の職員"
+      },
+      {
+        "word": "attachments",
+        "translation": "アタッチメント"
+      },
+      {
+        "word": "handover orders",
+        "translation": "引渡命令"
+      },
+      {
+        "word": "movable property",
+        "translation": "動産"
+      },
+      {
+        "word": "physical acts",
+        "translation": "物理的行為"
+      },
+      {
+        "word": "court supervision",
+        "translation": "裁判所の監督"
+      }
+    ]
   }
 ]

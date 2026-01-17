@@ -11730,5 +11730,93 @@
         "translation": "手続"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Title of Obligation",
+    "definition": "A legally formalized document that certifies the existence and scope of a private law claim, serving as the necessary foundation for commencing compulsory execution.",
+    "japaneseDefinition": "私法上の請求権の存在および内容を公的に証明し、強制執行の開始に必要な法的根拠となる文書。",
+    "japaneseWordTranslation": "債務名義 (さいむめいぎ)",
+    "legalContext": "Civil Execution Act, Article 22 (Titles of Obligation): 'Compulsory execution shall be effected on the basis of a Title of Obligation.'",
+    "japaneseLegalContext": "民事執行法第22条（債務名義）：『強制執行は、債務名義に基づき、これを行う。』",
+    "exampleSentence": "The obligee must obtain a Title of Obligation, such as an authenticated judgment or a judicial settlement record, before applying for compulsory execution against the obligor's assets.",
+    "exampleTranslation": "債権者は、認証された判決や裁判上の和解調書などの債務名義を取得してからでなければ、債務者の財産に対する強制執行を申し立てることはできない。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "legal basis",
+        "translation": "法的根拠"
+      },
+      {
+        "word": "private law",
+        "translation": "私法"
+      },
+      {
+        "word": "applying for",
+        "translation": "申し立てる"
+      },
+      {
+        "word": "assets",
+        "translation": "財産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Distribution (of Proceeds)",
+    "definition": "The formal procedure mandated by the execution court to allocate the monetary funds obtained from the execution sale of the obligor's assets among the multiple obligees or secured parties according to their legal priority.",
+    "japaneseDefinition": "執行裁判所が、債務者の財産の執行売却によって得られた金銭を、複数の債権者や担保権者に対し、その法定の優先順位に従って分配するための正式な手続。",
+    "japaneseWordTranslation": "配当 (はいとう)",
+    "legalContext": "Civil Execution Act, Article 84 (Distribution): 'The execution court shall allocate the funds realized through the sale... in accordance with the provisions of Articles 85 and 86.'",
+    "japaneseLegalContext": "民事執行法第84条（配当）：『執行裁判所は、売却によつて生じた金銭について…第85条及び第86条の規定に従い、配当を実施しなければならない。』",
+    "exampleSentence": "The execution court holds a Distribution Procedure to satisfy the claims of multiple execution obligees proportionally or based on their established priority rankings, such as those secured by a hypothec.",
+    "exampleTranslation": "執行裁判所は、複数の執行債権者の請求を、按分して、または抵当権などによって確立された優先順位に従って満たすために、配当手続を実施する。",
+    "vocabularyList": [
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "allocates",
+        "translation": "分配する"
+      },
+      {
+        "word": "execution property",
+        "translation": "執行財産"
+      },
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "proportionally",
+        "translation": "按分して"
+      },
+      {
+        "word": "priority rankings",
+        "translation": "優先順位"
+      },
+      {
+        "word": "satisfy the claims",
+        "translation": "請求を満たす"
+      },
+      {
+        "word": "distribution procedure",
+        "translation": "配当手続"
+      }
+    ]
   }
 ]

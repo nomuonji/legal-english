@@ -10274,5 +10274,119 @@
         "translation": "債権者 (saikensha)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registrar-Initiated Amendment",
+    "definition": "The power and duty of the registrar to correct minor clerical errors or omissions in the commercial register ex officio, without requiring a formal application from the company.",
+    "japaneseDefinition": "商業登記簿上の軽微な錯誤又は遺漏を、登記官が申請なしに職権で是正する権限及び義務。",
+    "japaneseWordTranslation": "職権更正 (しょっけんこうせい)",
+    "legalContext": "Commercial Registration Regulation Art. 134: Stipulates the procedure for correcting errors in the register.",
+    "japaneseLegalContext": "商業登記規則第134条 (登記官は、申請書の記載又は添付書類と登記簿の記載とが符合しないときは、職権でこれを更正することができる。)",
+    "exampleSentence": "The company received notice that the registrar performed a Registrar-Initiated Amendment to correct a typographical error in the registered capital amount.",
+    "exampleTranslation": "会社は、登記官が登録資本金の金額の誤記を訂正するために職権更正を行った旨の通知を受け取った。",
+    "vocabularyList": [
+      {
+        "word": "clerical errors",
+        "translation": "誤記"
+      },
+      {
+        "word": "omissions",
+        "translation": "遺漏"
+      },
+      {
+        "word": "ex officio",
+        "translation": "職権で"
+      },
+      {
+        "word": "registered capital",
+        "translation": "登録資本金"
+      },
+      {
+        "word": "commercial register",
+        "translation": "商業登記簿"
+      },
+      {
+        "word": "typographical error",
+        "translation": "タイプミス"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Application Reception Time Rule",
+    "definition": "The procedural principle under the Commercial Registration Act whereby the priority rank of multiple competing registration applications is determined strictly by the time (minute and second) the applications were physically received by the registry office.",
+    "japaneseDefinition": "複数の登記申請が競合した場合に、その優先順位が法務局によって申請書が物理的に受領された時刻（分及び秒）の順序によって厳密に決定される商業登記法上の手続原則。",
+    "japaneseWordTranslation": "受付時間による優先順位 (うけつけじかんによるゆうせんじゅんい)",
+    "legalContext": "Commercial Registration Act Art. 29: Regarding the sequence and priority of registrations.",
+    "japaneseLegalContext": "商業登記法第29条 (登記の効力の発生時期を規律する。)",
+    "exampleSentence": "Due to the Application Reception Time Rule, the security interest that arrived at 10:00:01 AM took priority over the subsequent filing arriving only one second later.",
+    "exampleTranslation": "受付時間による優先順位の原則に基づき、午前10時00分01秒に到着した担保権の登記は、その1秒後に到着した次の申請よりも優先権を得た。",
+    "vocabularyList": [
+      {
+        "word": "procedural principle",
+        "translation": "手続原則"
+      },
+      {
+        "word": "priority rank",
+        "translation": "優先順位"
+      },
+      {
+        "word": "competing applications",
+        "translation": "競合する申請"
+      },
+      {
+        "word": "registry office",
+        "translation": "登記所（法務局）"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権"
+      },
+      {
+        "word": "subsequent filing",
+        "translation": "後の申請"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Documentary Examination Standard",
+    "definition": "The principle that the commercial registrar must only examine the legality of a registration application based on the documents submitted, and is not authorized to investigate the substantive truth of the registered facts or the merits of the underlying corporate action.",
+    "japaneseDefinition": "商業登記官が、提出された書類に基づいてのみ登記申請の適法性を審査し、登録される事実の実質的な真実性や基礎となる会社行為の正当性を調査する権限を有しないという原則。",
+    "japaneseWordTranslation": "形式審査主義 (けいしきしんさしゅぎ)",
+    "legalContext": "Commercial Registration Act principle (The registrar focuses on compliance with legal form).",
+    "japaneseLegalContext": "商業登記法上の原則 (登記官は申請書及び添付書類から、登記が法令に適合しているか否かを審査する。)",
+    "exampleSentence": "Under the Documentary Examination Standard, the registrar does not verify the authenticity of the purported board resolution but merely confirms that the accompanying minutes are properly formatted and attested.",
+    "exampleTranslation": "形式審査主義の下では、登記官は提出された取締役会決議の真正性を検証せず、添付された議事録が適切に整形式され、認証されていることを確認するにとどまる。",
+    "vocabularyList": [
+      {
+        "word": "legality",
+        "translation": "適法性"
+      },
+      {
+        "word": "substantive truth",
+        "translation": "実質的な真実性"
+      },
+      {
+        "word": "corporate action",
+        "translation": "会社行為"
+      },
+      {
+        "word": "board resolution",
+        "translation": "取締役会決議"
+      },
+      {
+        "word": "formatted",
+        "translation": "整形式された"
+      },
+      {
+        "word": "attested",
+        "translation": "認証された"
+      }
+    ]
   }
 ]

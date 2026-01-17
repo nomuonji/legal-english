@@ -12902,5 +12902,107 @@
         "translation": "主張 (Shuchō)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Party Presentation Principle",
+    "definition": "The fundamental rule in civil litigation stipulating that the court must base its judgment only on the facts and evidence presented and asserted by the parties themselves, restricting the court's authority to independently investigate facts.",
+    "japaneseDefinition": "民事訴訟において、裁判所は当事者の主張しない事実を判決の基礎としてはならず、裁判所自身の職権による事実の探知を制限するという原則。",
+    "japaneseWordTranslation": "弁論主義 (Benron Shugi)",
+    "legalContext": "A fundamental principle of Japanese Civil Procedure, contrasted with the Ex Officio Investigation Principle (職権探知主義) used primarily in criminal and administrative cases.",
+    "japaneseLegalContext": "日本の民事訴訟法の基本原則の一つであり、刑事訴訟等で用いられる職権探知主義と対比される。",
+    "exampleSentence": "Under the Party Presentation Principle, the plaintiff bears the burden of asserting all material facts necessary to establish the cause of action.",
+    "exampleTranslation": "弁論主義の下では、原告は訴訟原因を立証するために必要なすべての主要事実を主張する責任を負う。",
+    "vocabularyList": [
+      {
+        "word": "Asserting facts",
+        "translation": "事実を主張すること"
+      },
+      {
+        "word": "Cause of action",
+        "translation": "訴訟原因"
+      },
+      {
+        "word": "Material facts",
+        "translation": "主要事実"
+      },
+      {
+        "word": "Adjudication",
+        "translation": "裁判／判決"
+      },
+      {
+        "word": "Litigation",
+        "translation": "訴訟"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Free Evaluation of Evidence",
+    "definition": "The principle that the court is not bound by rigid rules regarding the probative value or credibility of evidence but may freely assess its findings based on its own conviction, considering the entire import of the oral arguments.",
+    "japaneseDefinition": "裁判官は、証拠の証明力や信用性を評価するにあたり、法律上の規定に拘束されず、口頭弁論の全趣旨及び証拠調べの結果に基づき、自由に自己の確信を形成して事実認定を行う原則。",
+    "japaneseWordTranslation": "自由心証主義 (Jiyū Shinshō Shugi)",
+    "legalContext": "Code of Civil Procedure Art. 247: 'The court shall determine the facts from the entire import of the oral arguments and the results of the examination of evidence, according to its conviction.'",
+    "japaneseLegalContext": "民事訴訟法第247条：「裁判所は、口頭弁論の全趣旨及び証拠調べの結果を考慮して、自由な心証により、事実の真否を判断する。」",
+    "exampleSentence": "The judge applied the principle of Free Evaluation of Evidence when determining that the witness's testimony lacked sufficient credibility due to inconsistencies.",
+    "exampleTranslation": "裁判官は、証人の証言に矛盾があるため十分な信用性がないと判断する際、自由心証主義の原則を適用した。",
+    "vocabularyList": [
+      {
+        "word": "Probative value",
+        "translation": "証明力"
+      },
+      {
+        "word": "Credibility",
+        "translation": "信用性"
+      },
+      {
+        "word": "Oral arguments",
+        "translation": "口頭弁論"
+      },
+      {
+        "word": "Examination of evidence",
+        "translation": "証拠調べ"
+      },
+      {
+        "word": "Conviction",
+        "translation": "心証／確信"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Production of Documents",
+    "definition": "A court order requiring a party or a third party to submit a specific document to the court when that document is deemed necessary for the examination of evidence, subject to certain statutory exceptions allowing refusal.",
+    "japaneseDefinition": "当事者または第三者に対し、訴訟上の証拠調べの必要性がある場合に、特定の文書を裁判所に提出するよう命じる裁判所の命令。",
+    "japaneseWordTranslation": "文書提出命令 (Bunsho Teishutsu Meirei)",
+    "legalContext": "Code of Civil Procedure Art. 219: 'The court may, upon application by a party, order the other party to produce documents.' (Subsequent articles cover third parties and grounds for refusal).",
+    "japaneseLegalContext": "民事訴訟法第219条：「裁判所は、当事者の申立てにより、相手方に対し、文書の提出を命ずることができる。」（後続条文で第三者及び提出拒否事由を規定。）",
+    "exampleSentence": "The defendant was compelled to comply with the Order for Production of Documents regarding internal audit reports relevant to the claim of breach of fiduciary duty.",
+    "exampleTranslation": "被告は、受託者責任違反の訴えに関連する内部監査報告書について、文書提出命令に従うことを強制された。",
+    "vocabularyList": [
+      {
+        "word": "Compelled to comply",
+        "translation": "強制的に従う"
+      },
+      {
+        "word": "Internal audit reports",
+        "translation": "内部監査報告書"
+      },
+      {
+        "word": "Breach of fiduciary duty",
+        "translation": "受託者責任違反"
+      },
+      {
+        "word": "Statutory exceptions",
+        "translation": "法律上の例外"
+      },
+      {
+        "word": "Submit documents",
+        "translation": "文書を提出する"
+      }
+    ]
   }
 ]

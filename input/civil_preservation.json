@@ -2,44 +2,6 @@
   {
     "category": "Civil Preservation (民事保全法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Revocation of the Preservation Order",
-    "definition": "The formal termination and nullification of an issued preservation order, typically triggered by the preservation debtor based on statutorily defined grounds, such as failure to file the principal lawsuit or a change in the circumstances justifying the preservation.",
-    "japaneseDefinition": "既に出された保全命令の効力を法的に失わせる手続き。本案の不提起、事情の変更、または債務者による取り消しのための担保提供などの法定事由に基づいて行われる。",
-    "japaneseWordTranslation": "保全命令の取消し (ほぜんめいれいのとりけし)",
-    "legalContext": "Civil Preservation Law Art. 42(1): When the grounds for the preservation order cease to exist or circumstances change, the court that issued the preservation order shall, upon petition of the preservation debtor, revoke the preservation order.",
-    "japaneseLegalContext": "民事保全法第42条第1項：保全命令の理由が消滅したとき、又は事情が変更したときは、保全命令を発した裁判所は、保全債務者の申立てにより、その保全命令を取り消すことができる。",
-    "exampleSentence": "The debtor petitioned for the **revocation of the preservation order** arguing that the alleged financial distress had been remedied.",
-    "exampleTranslation": "債務者は、申立てられた財政難が既に是正されたと主張し、保全命令の取消しを申し立てた。",
-    "vocabularyList": [
-      {
-        "word": "Termination",
-        "translation": "終了"
-      },
-      {
-        "word": "Nullification",
-        "translation": "無効化"
-      },
-      {
-        "word": "Statutorily defined grounds",
-        "translation": "法定の事由"
-      },
-      {
-        "word": "Cease to exist",
-        "translation": "消滅する"
-      },
-      {
-        "word": "Change in circumstances",
-        "translation": "事情の変更"
-      },
-      {
-        "word": "Alleged distress",
-        "translation": "申立てられた窮状"
-      }
-    ]
-  },
-  {
-    "category": "Civil Preservation (民事保全法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Right to Be Preserved",
     "definition": "The substantive legal right or claim (e.g., a monetary claim or a claim for specific performance) that the obligee asserts and seeks to secure protection for through a civil preservation measure.",
     "japaneseDefinition": "保全命令によってその実現を将来確保しようとする債権者の具体的な権利（金銭債権、給付請求権など）。",
@@ -10084,6 +10046,82 @@
       {
         "word": "To cease to exist",
         "translation": "消滅する (しょうめつする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Danger of Future Enforcement Frustration",
+    "definition": "The requirement in civil preservation proceedings that the applicant demonstrate that, without immediate interim measures, the subsequent compulsory enforcement of the judgment on the merits would become impossible or significantly difficult.",
+    "japaneseDefinition": "債権者が本案の訴訟に勝訴したとしても、その後の強制執行が、相手方の財産の処分等によって不能になるか、または著しく困難になるおそれ。",
+    "japaneseWordTranslation": "後の強制執行が困難となるおそれ (Ato no kyōsei shikkō ga konnan to naru osore)",
+    "legalContext": "Civil Preservation Act, Art. 20 (Requirement for the issuance of an interim asset attachment order) and Art. 23(1).",
+    "japaneseLegalContext": "民事保全法第20条、第23条第1項（保全の必要性として）",
+    "exampleSentence": "The court requires solid evidence demonstrating the **danger of future enforcement frustration** before issuing an interim measure against the opposing party's assets.",
+    "exampleTranslation": "裁判所は、相手方の資産に対して保全命令を発する前に、後の強制執行が困難となるおそれを証明する確固たる証拠を要求する。",
+    "vocabularyList": [
+      {
+        "word": "compulsory enforcement",
+        "translation": "強制執行 (kyōsei shikkō)"
+      },
+      {
+        "word": "judgment on the merits",
+        "translation": "本案判決 (hon'an hanketsu)"
+      },
+      {
+        "word": "interim measure",
+        "translation": "暫定措置 (zantei措置)"
+      },
+      {
+        "word": "solid evidence",
+        "translation": "確固たる証拠 (kakko taru shōko)"
+      },
+      {
+        "word": "opposing party",
+        "translation": "相手方 (aitegata)"
+      },
+      {
+        "word": "asset disposal",
+        "translation": "財産処分 (zaisan shobun)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Secured Pecuniary Claim",
+    "definition": "The underlying claim for the payment of money that the preservation procedure (specifically, interim asset attachment) is intended to protect, ensuring the claimant can eventually collect the debt.",
+    "japaneseDefinition": "金銭の給付を目的とする請求権。民事保全法に基づき、仮差押えの対象となる債権。",
+    "japaneseWordTranslation": "金銭の給付を目的とする請求権 (Kinsen no kyūfu o mokuteki to suru seikyūken)",
+    "legalContext": "Civil Preservation Act, Art. 19 (Scope of application for interim asset attachment) and Art. 20.",
+    "japaneseLegalContext": "民事保全法第19条（金銭の給付を目的とする請求権の保全）",
+    "exampleSentence": "The claimant filed an application for interim asset attachment to secure their **secured pecuniary claim** arising from a breached commercial transaction contract.",
+    "exampleTranslation": "申立人は、契約違反の商取引から生じた金銭の給付を目的とする請求権を保全するため、暫定的な財産差押えの申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "claimant",
+        "translation": "申立人 (mōshitate-nin)"
+      },
+      {
+        "word": "interim asset attachment",
+        "translation": "財産の暫定的差押え (zaisan no zantei-teki sashiosae)"
+      },
+      {
+        "word": "breached contract",
+        "translation": "契約違反 (keiyaku ihan)"
+      },
+      {
+        "word": "commercial transaction",
+        "translation": "商取引 (shōtorihiki)"
+      },
+      {
+        "word": "underlying claim",
+        "translation": "本案の請求 (hon'an no seikyū)"
+      },
+      {
+        "word": "collection (of debt)",
+        "translation": "取立て (toritate)"
       }
     ]
   }

@@ -12788,5 +12788,119 @@
         "translation": "事実認定 (jijitsu nintei)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Dispositive Facts",
+    "definition": "The fundamental principle in Japanese civil procedure whereby the court must base its judgment only on the facts asserted and evidence submitted by the parties, and cannot rely on facts known ex officio, except for publicly known facts.",
+    "japaneseDefinition": "裁判所は、当事者が主張した事実及び提出した証拠に基づいて判決をしなければならないという民事訴訟における基本原則。職権探知主義と対立する。",
+    "japaneseWordTranslation": "弁論主義 (Benron Shugi)",
+    "legalContext": "Code of Civil Procedure Art. 247: The court shall certify the facts based on the facts asserted by the parties and the evidence investigated by the court itself, considering the entire import of the oral arguments and the free conviction thereof.",
+    "japaneseLegalContext": "民事訴訟法第247条: 裁判所は、当事者が主張した事実及び自ら調査した証拠に基づき、弁論の全趣旨を考慮して、自由な心証によって事実を認定する。",
+    "exampleSentence": "Under the Principle of Dispositive Facts, if the defendant fails to assert payment, the court cannot dismiss the claim even if the judge personally knows the debt was settled.",
+    "exampleTranslation": "弁論主義の下では、被告が弁済を主張しなかった場合、たとえ裁判官が個人的にその債務が決済されたことを知っていても、裁判所は請求を棄却することはできない。",
+    "vocabularyList": [
+      {
+        "word": "Assert",
+        "translation": "主張する (Shuchō suru)"
+      },
+      {
+        "word": "Defendant",
+        "translation": "被告 (Hikoku)"
+      },
+      {
+        "word": "Claim",
+        "translation": "請求 (Seikyū)"
+      },
+      {
+        "word": "Dismiss",
+        "translation": "棄却する (Kikyaku suru)"
+      },
+      {
+        "word": "Free conviction",
+        "translation": "自由な心証 (Jiyū na Shinshō)"
+      },
+      {
+        "word": "Evidence",
+        "translation": "証拠 (Shōko)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Lack of Conditions for Suit",
+    "definition": "The absence of essential procedural prerequisites (such as proper jurisdiction, legal standing, or interest in bringing the action) necessary for the court to proceed to a judgment on the merits.",
+    "japaneseDefinition": "裁判所が本案判決を下すために必要な、管轄、当事者適格、訴えの利益などの訴訟法上の前提条件が欠けていること。この場合、裁判所は訴えを却下する。",
+    "japaneseWordTranslation": "訴訟要件の欠如 (Soshō Yōken no Ketsujo)",
+    "legalContext": "Code of Civil Procedure Art. 135: If the action lacks the interest in bringing the action or other conditions for suit, the court shall dismiss the action by judicial decision.",
+    "japaneseLegalContext": "民事訴訟法第135条: 訴えの利益又は訴訟要件を欠くときは、裁判所は、訴えを却下する。",
+    "exampleSentence": "The court examined the jurisdictional requirement ex officio and found a Lack of Conditions for Suit, resulting in the immediate rejection of the petition.",
+    "exampleTranslation": "裁判所は職権で管轄要件を調査し、訴訟要件の欠如を認めたため、申立ては即座に却下された。",
+    "vocabularyList": [
+      {
+        "word": "Jurisdictional requirement",
+        "translation": "管轄要件 (Kankatsu Yōken)"
+      },
+      {
+        "word": "Legal standing",
+        "translation": "当事者適格 (Tōjisha Tekkaku)"
+      },
+      {
+        "word": "Rejection",
+        "translation": "却下 (Kyakka)"
+      },
+      {
+        "word": "Petition / Action",
+        "translation": "訴え (Uttae)"
+      },
+      {
+        "word": "Merits of the case",
+        "translation": "本案 (Hon'an)"
+      },
+      {
+        "word": "Procedural prerequisites",
+        "translation": "訴訟法上の前提条件 (Soshō-hō-jō no Zentei Jōken)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Binding Effect of Admission",
+    "definition": "The procedural consequence where a fact that has been clearly asserted by one party and admitted by the opposing party during the trial proceedings is conclusively presumed to be true, legally binding the court and preventing the parties from presenting contradictory evidence.",
+    "japaneseDefinition": "弁論過程において当事者間で争いのない事実について、裁判所及び当事者がそれに拘束され、反対の証拠提出や主張を排除する効力。",
+    "japaneseWordTranslation": "自白の拘束力 (Jihaku no Kōsokuryoku)",
+    "legalContext": "Code of Civil Procedure Art. 179: If the opposing party does not dispute the facts asserted by a party, those facts shall not require evidence.",
+    "japaneseLegalContext": "民事訴訟法第179条: 当事者が主張した事実につき相手方がこれを争わないときは、証拠を要しない。",
+    "exampleSentence": "Once the calculation of the debt amount was subject to the Binding Effect of Admission, the creditor was prohibited from submitting new documentary evidence claiming a higher sum.",
+    "exampleTranslation": "債務額の算定が自白の拘束力の対象となった後は、債権者はより高額な金額を主張する新たな証拠書類を提出することを禁止された。",
+    "vocabularyList": [
+      {
+        "word": "Opposing party",
+        "translation": "相手方 (Aitegata)"
+      },
+      {
+        "word": "Contradictory evidence",
+        "translation": "反対の証拠 (Hantai no Shōko)"
+      },
+      {
+        "word": "Creditor",
+        "translation": "債権者 (Saikensha)"
+      },
+      {
+        "word": "Debt amount",
+        "translation": "債務額 (Saimu-gaku)"
+      },
+      {
+        "word": "Prohibited",
+        "translation": "禁止される (Kinshi sareru)"
+      },
+      {
+        "word": "Assertion",
+        "translation": "主張 (Shuchō)"
+      }
+    ]
   }
 ]

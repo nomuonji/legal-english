@@ -9918,5 +9918,123 @@
         "translation": "境界確定訴訟"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registry Office Map",
+    "definition": "The official map (often referred to as '14-jō map') of land parcels prepared, maintained, and publicly displayed by the registry office, which serves as the primary and authoritative record for the delineation of boundaries (hikkai).",
+    "japaneseDefinition": "不動産登記法第14条に基づき、登記所に備え付けられ、土地の区画及び地番を明らかにするための公的な地図であり、筆界特定のための権威ある記録となるもの。",
+    "japaneseWordTranslation": "登記所備付地図 (とうきじょびつけちず)",
+    "legalContext": "Real Property Registration Law Art. 14 (1): The registrar shall prepare and maintain maps indicating the location and size of land parcels and buildings within the area under their jurisdiction.",
+    "japaneseLegalContext": "不動産登記法第14条第1項: 登記所には、地図及び建物所在図を備え付ける。",
+    "exampleSentence": "The engineer requested a copy of the Registry Office Map to verify the precise dimensions and boundaries of the client’s industrial site before starting construction.",
+    "exampleTranslation": "技師は、建設を開始する前に依頼主の工業用地の正確な寸法と境界線を確認するため、登記所備付地図の写しを請求した。",
+    "vocabularyList": [
+      {
+        "word": "dimensions",
+        "translation": "寸法"
+      },
+      {
+        "word": "verify",
+        "translation": "検証する"
+      },
+      {
+        "word": "delineation",
+        "translation": "境界確定"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "authoritative",
+        "translation": "権威のある"
+      },
+      {
+        "word": "land parcels",
+        "translation": "土地の区画"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registered Particulars Update",
+    "definition": "The formal application for registration required when certain non-substantive administrative facts recorded in the register change, particularly the name, address, or designation of the registered right holder.",
+    "japaneseDefinition": "登記名義人の氏名又は住所の変更など、登記簿に記載された権利に関する行政的な事実が変更された際に申請する登記手続き。権利変動（譲渡など）を伴わない。",
+    "japaneseWordTranslation": "登記事項の変更 (とうきじこうのへんこう)",
+    "legalContext": "Real Property Registration Law Art. 64: When there is a change in the name or address of the registered right holder, the application for registration of such change may be filed.",
+    "japaneseLegalContext": "不動産登記法第64条: 登記名義人の氏名若しくは名称又は住所について変更があったときは、当該登記名義人は、その変更の登記を申請することができる。",
+    "exampleSentence": "Our client, having recently changed its corporate name, is obligated to file a Registered Particulars Update for all properties it currently holds title to.",
+    "exampleTranslation": "当社の依頼主は、最近商号を変更したため、現在権利を保有するすべての不動産について登記事項の変更を申請する義務がある。",
+    "vocabularyList": [
+      {
+        "word": "non-substantive",
+        "translation": "非実体的な"
+      },
+      {
+        "word": "corporate name",
+        "translation": "商号"
+      },
+      {
+        "word": "obligated",
+        "translation": "義務を負う"
+      },
+      {
+        "word": "file (an application)",
+        "translation": "申請する"
+      },
+      {
+        "word": "holds title to",
+        "translation": "権利を保有する"
+      },
+      {
+        "word": "administrative facts",
+        "translation": "行政的な事実"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designation of Registry Jurisdiction",
+    "definition": "The legal procedure by which a superior judicial or administrative body (such as the Minister of Justice) officially determines which registry office is competent to handle the registration application for a piece of real property when there is uncertainty or conflict regarding the appropriate jurisdiction.",
+    "japaneseDefinition": "不動産の所在地が複数の登記所の管轄区域にまたがる場合や管轄が不明確な場合に、上級庁（法務大臣など）が職権で管轄登記所を決定する手続き。",
+    "japaneseWordTranslation": "管轄登記所の指定 (かんかつとうきじょのしてい)",
+    "legalContext": "Real Property Registration Law Art. 7: If the area over which two or more registry offices have jurisdiction is unclear, the supervising district court or the Minister of Justice shall designate the competent registry office.",
+    "japaneseLegalContext": "不動産登記法第7条: 二以上の登記所の管轄に属する不動産があるとき、又はその管轄が明らかでないときは、管轄法務局又は地方法務局の上級庁又は法務大臣は、管轄登記所を指定する。",
+    "exampleSentence": "The attorneys had to petition the Minister of Justice for a Designation of Registry Jurisdiction because the newly constructed condominium spanned the boundary between two registry districts.",
+    "exampleTranslation": "新築された分譲マンションが二つの登記管轄区域の境界にまたがっていたため、弁護士たちは法務大臣に管轄登記所の指定を請求しなければならなかった。",
+    "vocabularyList": [
+      {
+        "word": "petition",
+        "translation": "請求する"
+      },
+      {
+        "word": "condominium",
+        "translation": "分譲マンション"
+      },
+      {
+        "word": "registry district",
+        "translation": "登記管轄区域"
+      },
+      {
+        "word": "competent",
+        "translation": "管轄権を有する"
+      },
+      {
+        "word": "Minister of Justice",
+        "translation": "法務大臣"
+      },
+      {
+        "word": "jurisdictional conflict",
+        "translation": "管轄の競合"
+      },
+      {
+        "word": "uncertainty",
+        "translation": "不明確な点"
+      }
+    ]
   }
 ]

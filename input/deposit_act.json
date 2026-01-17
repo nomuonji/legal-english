@@ -8252,5 +8252,81 @@
         "translation": "要求された"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Payee of Consignment",
+    "definition": "The designated person or entity identified in the deposit application who has the legal authority to receive (withdraw) the deposited money or goods from the Deposit Office.",
+    "japaneseDefinition": "供託された金銭その他の供託物を受け取るべき者として供託申請書に記載された者。通常、供託の原因となった債権者。",
+    "japaneseWordTranslation": "供託物受領者 (きょうたくぶつじゅりょうしゃ)",
+    "legalContext": "Deposit Act Art. 10: Procedures for the withdrawal of deposited property by the person entitled to receive it.",
+    "japaneseLegalContext": "供託法第10条: 供託物を取り戻すことができる者に関する規定。",
+    "exampleSentence": "The Deposit Office requires official identification and necessary documents to confirm the status of the Payee of Consignment before authorizing withdrawal.",
+    "exampleTranslation": "供託所は、払戻しを承認する前に、供託物受領者の地位を確認するため、公的な身分証明書と必要書類を要求する。",
+    "vocabularyList": [
+      {
+        "word": "designated person",
+        "translation": "指定された者"
+      },
+      {
+        "word": "receive (withdraw)",
+        "translation": "受領する（取り戻す）"
+      },
+      {
+        "word": "legal authority",
+        "translation": "法的権限"
+      },
+      {
+        "word": "official identification",
+        "translation": "公的な身分証明書"
+      },
+      {
+        "word": "authorizing withdrawal",
+        "translation": "払戻しを承認する"
+      },
+      {
+        "word": "status",
+        "translation": "地位"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Escheatment to the State",
+    "definition": "The formal transfer of ownership of deposited assets (money or securities) to the national treasury when the statutory retrieval period has lapsed without the rightful party exercising their right to claim the property.",
+    "japaneseDefinition": "供託された金銭等が、法定の取戻し請求期間が経過した後、正当な権限を持つ者から請求がない場合に、国の所有に移転する法的な措置。",
+    "japaneseWordTranslation": "国庫帰属 (こっこきぞく)",
+    "legalContext": "Deposit Act Art. 36: The deposited property is allocated to the national treasury if the retrieval right is not exercised within ten years from the date of deposit.",
+    "japaneseLegalContext": "供託法第36条: 供託物の取戻しの権利は、供託の日から十年を経過したときは、時効によって消滅する。（消滅した場合は国庫に帰属する。）",
+    "exampleSentence": "The Deposit Office commenced the procedure for escheatment to the State after the ten-year retrieval period lapsed without any withdrawal request from the payee.",
+    "exampleTranslation": "払戻し受領者からの払戻し請求がないまま10年の取戻し期間が経過したため、供託所は国庫帰属の手続を開始した。",
+    "vocabularyList": [
+      {
+        "word": "deposited assets",
+        "translation": "供託物"
+      },
+      {
+        "word": "national treasury",
+        "translation": "国庫"
+      },
+      {
+        "word": "statutory retrieval period",
+        "translation": "法定の取戻し期間"
+      },
+      {
+        "word": "lapsed",
+        "translation": "消滅した"
+      },
+      {
+        "word": "withdrawal request",
+        "translation": "払戻し請求"
+      },
+      {
+        "word": "rightful party",
+        "translation": "正当な権限を持つ者"
+      }
+    ]
   }
 ]

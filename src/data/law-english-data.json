@@ -1,38 +1,38 @@
 {
-  "category": "Deposit Act (供託法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Statutory Cause for Consignment",
-  "definition": "The specific legal ground or prerequisite, stipulated usually under the Civil Code, that authorizes a debtor to extinguish their obligation by placing the subject matter of performance with the administrative authority.",
-  "japaneseDefinition": "債務者がその債務の履行の目的物を行政機関に寄託し、債務を消滅させることを正当化する、民法その他の法令に定められた特定の法的根拠または要件。",
-  "japaneseWordTranslation": "供託原因 (きょうたくげんいん)",
-  "legalContext": "Civil Code Art. 494 (Conditions for Consignment): If the obligee refuses to accept performance, or is unable to accept performance, or if the obligor cannot determine who the obligee is without fault, the obligor may be relieved of their obligation by consigning the subject matter of the performance.",
-  "japaneseLegalContext": "民法第494条（供託）：債権者が弁済の受領を拒み、又はこれを受領することができないとき、弁済者が過失なく債権者を確知することができないときも、同様とする。",
-  "exampleSentence": "The consignor must clearly state the Statutory Cause for Consignment, such as uncertainty of the obligee, in the required documentation.",
-  "exampleTranslation": "供託者は、債権者不確知などの供託原因を、必要書類に明確に記載しなければならない。",
+  "word": "Unauthorized Representation",
+  "definition": "A legal act performed by a person who purports to act as an agent for another party but lacks the necessary power of representation (authority) to bind the principal.",
+  "japaneseDefinition": "代理権がないにもかかわらず、本人のためにしたと称して行う法律行為。原則として本人に対して効力を生じない。",
+  "japaneseWordTranslation": "無権代理 (むけんだいり)",
+  "legalContext": "Civil Code Art. 113, Para. 1: “An act performed by a person who has no power of representation shall not take effect against the principal, unless the principal ratifies it.”",
+  "japaneseLegalContext": "民法第113条第1項: 代理権を有しない者が他人の代理人としてした行為は、本人がその行為を追認しなければ、本人に対してその効力を生じない。",
+  "exampleSentence": "The claimant argued that the real estate purchase was void because the signatory lacked authority and constituted Unauthorized Representation.",
+  "exampleTranslation": "署名者が権限を欠いており、無権代理に該当するため、不動産購入は無効であると請求者は主張した。",
   "vocabularyList": [
     {
-      "word": "prerequisite",
-      "translation": "要件"
+      "word": "principal",
+      "translation": "本人"
     },
     {
-      "word": "debtor",
-      "translation": "債務者"
+      "word": "power of representation",
+      "translation": "代理権"
     },
     {
-      "word": "extinguish the obligation",
-      "translation": "債務を消滅させる"
+      "word": "signatory",
+      "translation": "署名者"
     },
     {
-      "word": "subject matter of performance",
-      "translation": "履行の目的物"
+      "word": "void",
+      "translation": "無効な"
     },
     {
-      "word": "uncertainty of the obligee",
-      "translation": "債権者不確知"
+      "word": "legal act",
+      "translation": "法律行為"
     },
     {
-      "word": "consignor",
-      "translation": "供託者"
+      "word": "take effect",
+      "translation": "効力を生じる"
     }
   ]
 }

@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Unauthorized Representation",
-    "definition": "A legal act performed by a person who purports to act as an agent for another party but lacks the necessary power of representation (authority) to bind the principal.",
-    "japaneseDefinition": "代理権がないにもかかわらず、本人のためにしたと称して行う法律行為。原則として本人に対して効力を生じない。",
-    "japaneseWordTranslation": "無権代理 (むけんだいり)",
-    "legalContext": "Civil Code Art. 113, Para. 1: “An act performed by a person who has no power of representation shall not take effect against the principal, unless the principal ratifies it.”",
-    "japaneseLegalContext": "民法第113条第1項: 代理権を有しない者が他人の代理人としてした行為は、本人がその行為を追認しなければ、本人に対してその効力を生じない。",
-    "exampleSentence": "The claimant argued that the real estate purchase was void because the signatory lacked authority and constituted Unauthorized Representation.",
-    "exampleTranslation": "署名者が権限を欠いており、無権代理に該当するため、不動産購入は無効であると請求者は主張した。",
-    "vocabularyList": [
-      {
-        "word": "principal",
-        "translation": "本人"
-      },
-      {
-        "word": "power of representation",
-        "translation": "代理権"
-      },
-      {
-        "word": "signatory",
-        "translation": "署名者"
-      },
-      {
-        "word": "void",
-        "translation": "無効な"
-      },
-      {
-        "word": "legal act",
-        "translation": "法律行為"
-      },
-      {
-        "word": "take effect",
-        "translation": "効力を生じる"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Right of Access to Neighboring Land",
     "definition": "The right of a land owner whose property is enclosed by other land and lacks access to a public road to pass through the surrounding land, typically requiring compensation for any resulting damage.",
     "japaneseDefinition": "公道に至らない土地の所有者が、その土地を囲んでいる他の土地を通行できる権利。通行される土地の所有者に損害が生じた場合は、償金を支払う必要がある。",
@@ -14358,6 +14320,120 @@
       {
         "word": "Taking effect",
         "translation": "効力の発生"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Conditional Legal Act",
+    "definition": "A declaration of intention whose legal effect (commencement or termination) is dependent upon the occurrence or non-occurrence of a future, uncertain event.",
+    "japaneseDefinition": "効力の発生または消滅を、将来発生するかどうかが不確実な事実にかからせる意思表示。",
+    "japaneseWordTranslation": "条件付法律行為 (じょうけんつきほうりつこうい)",
+    "legalContext": "Civil Code Art. 127: Stipulates that a condition precedent causes the legal act to take effect upon the fulfillment of the condition.",
+    "japaneseLegalContext": "民法第127条: 停止条件付法律行為は、条件が成就した時からその効力を生ずる旨を規定。",
+    "exampleSentence": "The execution of the commercial lease contract was structured as a Conditional Legal Act, contingent upon the tenant obtaining the necessary governmental permit.",
+    "exampleTranslation": "その商業賃貸借契約の締結は、借主が必要な行政許可を取得することを停止条件とする条件付法律行為として構成された。",
+    "vocabularyList": [
+      {
+        "word": "Declaration of intention",
+        "translation": "意思表示"
+      },
+      {
+        "word": "Condition precedent",
+        "translation": "停止条件"
+      },
+      {
+        "word": "Legal effect",
+        "translation": "効力"
+      },
+      {
+        "word": "Contingent upon",
+        "translation": "～に依存して"
+      },
+      {
+        "word": "Fulfillment of the condition",
+        "translation": "条件の成就"
+      },
+      {
+        "word": "Commercial lease",
+        "translation": "商業賃貸借"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Partnership Contract",
+    "definition": "A contract under which two or more parties agree to contribute capital, skills, or labor to engage in a joint undertaking and govern the resulting property relationship.",
+    "japaneseDefinition": "当事者が出資をして、共同の事業を営むことを約する契約。共同事業とその出資によって形成される財産の合有関係を規律する。",
+    "japaneseWordTranslation": "組合契約 (くみあいけいやく)",
+    "legalContext": "Civil Code Art. 667: Defines the Partnership Contract (Kumiai Keiyaku) as an agreement to engage in a joint undertaking.",
+    "japaneseLegalContext": "民法第667条: 組合契約を、当事者が出資をして共同の事業を営むことを約する契約と定義。",
+    "exampleSentence": "The engineers entered into a Partnership Contract to equally share the profits and losses derived from the new software development project.",
+    "exampleTranslation": "その技術者たちは、新規ソフトウェア開発プロジェクトから生じる利益と損失を均等に分担するため、組合契約を締結した。",
+    "vocabularyList": [
+      {
+        "word": "Joint undertaking",
+        "translation": "共同の事業"
+      },
+      {
+        "word": "Contribute capital",
+        "translation": "出資する"
+      },
+      {
+        "word": "Property relationship",
+        "translation": "財産関係"
+      },
+      {
+        "word": "Share the profits",
+        "translation": "利益を分担する"
+      },
+      {
+        "word": "Derived from",
+        "translation": "～から生じる"
+      },
+      {
+        "word": "Losses",
+        "translation": "損失"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Superficies Right",
+    "definition": "A right of superficies deemed to be automatically established when a security interest is enforced against land and a building owned by the same person, resulting in the separation of their ownership.",
+    "japaneseDefinition": "土地と建物が同一所有者に属している状態で担保権が設定・実行された結果、土地と建物の所有者が別々になった場合に、建物のために法律上当然に成立するとみなされる地上権。",
+    "japaneseWordTranslation": "法定地上権 (ほうていちじょうけん)",
+    "legalContext": "Civil Code Art. 388: Prescribes the conditions under which a Statutory Superficies Right arises to protect the building owner in the event of separation of ownership through security enforcement.",
+    "japaneseLegalContext": "民法第388条: 担保権の実行により所有権が分離した場合に建物所有者を保護するために法定地上権が成立する条件を規定。",
+    "exampleSentence": "When the bank foreclosed on the property, the new owner of the building obtained a Statutory Superficies Right to avoid having to demolish the structure.",
+    "exampleTranslation": "銀行がその不動産を競売にかけた際、建物の新たな所有者は、その構造物を取り壊す必要を避けるため、法定地上権を取得した。",
+    "vocabularyList": [
+      {
+        "word": "Deemed to be established",
+        "translation": "成立したものとみなされる"
+      },
+      {
+        "word": "Security interest",
+        "translation": "担保権"
+      },
+      {
+        "word": "Enforced against",
+        "translation": "～に対して実行される"
+      },
+      {
+        "word": "Separation of ownership",
+        "translation": "所有権の分離"
+      },
+      {
+        "word": "Foreclosed on",
+        "translation": "競売にかけて処分した"
+      },
+      {
+        "word": "Demolish the structure",
+        "translation": "構造物を取り壊す"
       }
     ]
   }

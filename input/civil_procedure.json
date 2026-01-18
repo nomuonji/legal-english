@@ -13118,5 +13118,119 @@
         "translation": "被告 (Hikoku)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deemed Service",
+    "definition": "A procedural legal fiction where the transmission of a document is considered legally completed, typically because the recipient's address is unknown, by using a statutory substitute method (like publication).",
+    "japaneseDefinition": "相手方の住所や居所が不明な場合など、公示の方法を用いて送達書類を交付したとみなす制度。これにより、実際の交付がなくとも送達の効力が生じる。",
+    "japaneseWordTranslation": "擬制送達 (ぎせいそうたつ)",
+    "legalContext": "Civil Procedure Code (CCP) Art. 110 (Service by Publication): Where the place of service is unknown, the court may effect service by publication.",
+    "japaneseLegalContext": "民事訴訟法第110条（公示送達）：送達をすべき場所が知れない場合その他法令で定める場合に、裁判所書記官の処分により公示の方法をもってする送達。",
+    "exampleSentence": "Since the defendant's whereabouts remained entirely unknown despite diligent inquiry, the court granted the plaintiff's motion for service by publication, resulting in **deemed service** on the scheduled date.",
+    "exampleTranslation": "被告の居所が丹念な調査にもかかわらず全く不明であったため、裁判所は公示送達の申立てを認め、予定日に**擬制送達**が完了した。",
+    "vocabularyList": [
+      {
+        "word": "legal fiction",
+        "translation": "擬制 (gisei)"
+      },
+      {
+        "word": "publication",
+        "translation": "公示 (kōji)"
+      },
+      {
+        "word": "whereabouts",
+        "translation": "居所 (kyosho)"
+      },
+      {
+        "word": "diligent inquiry",
+        "translation": "丹念な調査 (tan’nen na chōsa)"
+      },
+      {
+        "word": "court clerk",
+        "translation": "裁判所書記官 (saibansho shokikan)"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て (mōshitate)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Duty to Respond Specifically",
+    "definition": "The procedural obligation imposed on a litigant, particularly the defendant, to clearly state whether they admit or deny the specific material facts asserted by the opposing party in their written pleadings or oral arguments.",
+    "japaneseDefinition": "訴訟において、当事者（特に被告）が相手方から主張された重要な事実に、曖昧な否認ではなく、具体的かつ明確に認否（応答）しなければならない義務。",
+    "japaneseWordTranslation": "具体的応答義務 (ぐたいてきおうとうぎむ)",
+    "legalContext": "CCP Art. 159(1) (Deemed Admission): A party who has received the opponent’s assertions but fails to explicitly deny them at the oral arguments shall be deemed to have admitted them.",
+    "japaneseLegalContext": "民事訴訟法第159条第1項（擬制自白）：相手方の主張した事実を口頭弁論において明らかに争わなかった当事者は、その事実を自白したものとみなす。",
+    "exampleSentence": "The new rules reinforce the **duty to respond specifically**, meaning generalized denials like 'the plaintiff's claim is rejected' are insufficient to avert the consequence of deemed admission.",
+    "exampleTranslation": "新しい規則は**具体的応答義務**を強化しており、「原告の主張は却下される」といった包括的な否認では、擬制自白の結果を回避するのに不十分である。",
+    "vocabularyList": [
+      {
+        "word": "litigant",
+        "translation": "当事者 (tōjisha)"
+      },
+      {
+        "word": "material facts",
+        "translation": "重要な事実 (jūyō na jijitsu)"
+      },
+      {
+        "word": "written pleadings",
+        "translation": "書面 (shomen)"
+      },
+      {
+        "word": "denial",
+        "translation": "否認 (hinin)"
+      },
+      {
+        "word": "deemed admission",
+        "translation": "擬制自白 (gisei jihaku)"
+      },
+      {
+        "word": "oral arguments",
+        "translation": "口頭弁論 (kōtō benron)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Affirmation of Litigated Facts",
+    "definition": "The formal introduction of facts relevant to the legal claims by the parties during civil proceedings, which, under the Principle of Party Presentation, typically constitutes the factual basis upon which the court bases its judgment.",
+    "japaneseDefinition": "民事訴訟において、当事者が自己の請求または防御を裏付けるために、口頭弁論等で裁判所に提出する事実の主張。裁判所の判決の事実上の基礎となる。",
+    "japaneseWordTranslation": "訴訟上の主張 (そしょうじょうのしゅちょう)",
+    "legalContext": "Principle of Party Presentation (弁論主義): The court must rely solely on the facts and evidence formally presented (affirmed) by the parties, subject to limited exceptions.",
+    "japaneseLegalContext": "弁論主義：裁判所は、当事者が弁論において主張しなかった事実を判決の基礎として認定することができないという原則。",
+    "exampleSentence": "Under the Principle of Party Presentation, the court is confined to evaluating the evidence related to the specific **affirmation of litigated facts** made by the plaintiff and defendant.",
+    "exampleTranslation": "弁論主義の下では、裁判所は、原告と被告がなした特定の**訴訟上の主張**に関連する証拠を評価することに限定される。",
+    "vocabularyList": [
+      {
+        "word": "civil proceedings",
+        "translation": "民事手続 (minji tetsuzuki)"
+      },
+      {
+        "word": "factual basis",
+        "translation": "事実上の基礎 (jijitsu-jō no kiso)"
+      },
+      {
+        "word": "Principle of Party Presentation",
+        "translation": "弁論主義 (benron shugi)"
+      },
+      {
+        "word": "defense",
+        "translation": "防御 (bōgyo)"
+      },
+      {
+        "word": "confined to",
+        "translation": "限定される (gentei sareru)"
+      },
+      {
+        "word": "judgment",
+        "translation": "判決 (hanketsu)"
+      }
+    ]
   }
 ]

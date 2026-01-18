@@ -12072,5 +12072,81 @@
         "translation": "前提条件"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Punishable Unlawfulness",
+    "definition": "The requirement that an unlawful act must possess sufficient social harm or deviation from the legal norm to warrant criminal punishment, excluding trivial offenses (the doctrine of 'Kabasuteki Ihōsei').",
+    "japaneseDefinition": "行為の違法性が、刑罰を科すに値する程度に社会的法益を侵害しているという要件。軽微な行為を除外する機能を持つ。",
+    "japaneseWordTranslation": "可罰的違法性 (かばつてきいほうせい)",
+    "legalContext": "A fundamental principle of criminal law interpretation and application used to limit the scope of criminal liability (General Part of Criminal Law).",
+    "japaneseLegalContext": "刑法の解釈・適用における基本原則（刑法総論）。",
+    "exampleSentence": "The court determined that the petty theft of a discarded newspaper lacked sufficient punishable unlawfulness and therefore dismissed the indictment against the suspect.",
+    "exampleTranslation": "裁判所は、捨てられた新聞を盗んだ微罪行為には、可罰的違法性が欠けており、容疑者に対する起訴を棄却したと判断した。",
+    "vocabularyList": [
+      {
+        "word": "Petty theft",
+        "translation": "微罪"
+      },
+      {
+        "word": "Social harm",
+        "translation": "社会的法益"
+      },
+      {
+        "word": "Unlawful act",
+        "translation": "違法な行為"
+      },
+      {
+        "word": "Warrant",
+        "translation": "正当化する／保証する"
+      },
+      {
+        "word": "Indictment",
+        "translation": "起訴"
+      },
+      {
+        "word": "Criminal liability",
+        "translation": "刑事責任"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mistaken Justification",
+    "definition": "A doctrine concerning an error of fact where the perpetrator erroneously believes that circumstances justifying their defensive action (such as self-defense or necessity) exist, when in reality those circumstances are absent.",
+    "japaneseDefinition": "行為者が自己の行為を正当化する状況（正当防衛や緊急避難など）が誤って存在すると信じて行為に及んだ場合の錯誤。",
+    "japaneseWordTranslation": "誤想防衛 (ごそうぼうえい)",
+    "legalContext": "Criminal Code Art. 38 (Mistake of Fact): Generally treated as a case of mistake concerning the elements of justification, leading to potential mitigation or acquittal depending on the foreseeability of the mistake.",
+    "japaneseLegalContext": "刑法第38条（錯誤）：一般に、違法性阻却事由の錯誤として扱われ、その錯誤が予見可能であったかによって減軽または無罪となる。",
+    "exampleSentence": "Because the defendant acted under the misapprehension of an immediate armed threat, his action constituted mistaken justification, potentially leading to a substantial reduction in the sentence imposed.",
+    "exampleTranslation": "被告人が、差し迫った武装した脅威の誤認の下で行動したため、その行為は誤想防衛と見なされ、科される刑罰の大幅な減軽につながる可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "Misapprehension",
+        "translation": "誤認"
+      },
+      {
+        "word": "Acquittal",
+        "translation": "無罪"
+      },
+      {
+        "word": "Substantial reduction",
+        "translation": "大幅な減軽"
+      },
+      {
+        "word": "Immediate threat",
+        "translation": "急迫した脅威"
+      },
+      {
+        "word": "Self-defense",
+        "translation": "正当防衛"
+      },
+      {
+        "word": "Foreseeability",
+        "translation": "予見可能性"
+      }
+    ]
   }
 ]

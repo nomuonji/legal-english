@@ -10464,5 +10464,119 @@
         "translation": "資本金 (しほんきん)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Bar to Assertion Against Fictitious Entry",
+    "definition": "The legal principle that prohibits a person who knowingly or negligently registered false commercial particulars from asserting the truth of that registered information against a third party who acted in good faith.",
+    "japaneseDefinition": "商業登記簿に虚偽の事項を登記した者は、その登記が事実に反することを善意の第三者に対し主張（対抗）することができないという原則（商業登記法第9条）。",
+    "japaneseWordTranslation": "虚偽の登記の対抗禁止 (Kyogi no Tōki no Taikō Kinshi)",
+    "legalContext": "Commercial Registration Act, Art. 9: A person who has registered a fictitious matter shall not assert that such matter is fictitious against a third party acting in good faith.",
+    "japaneseLegalContext": "商業登記法 第9条: 登記は、正当な事由がなければ、その登記の後においては、これをもって第三者に対抗することができない。",
+    "exampleSentence": "Due to the bar to assertion against fictitious entry, the company could not deny the authority of the purported representative whose termination had been knowingly left unregistered.",
+    "exampleTranslation": "虚偽の登記の対抗禁止の原則により、会社は、意図的に抹消登記が放置されていた見せかけの代表者の権限を否認することができなかった。",
+    "vocabularyList": [
+      {
+        "word": "fictitious",
+        "translation": "虚偽の (kyogi no)"
+      },
+      {
+        "word": "assert",
+        "translation": "主張する (shuchō suru)"
+      },
+      {
+        "word": "purported representative",
+        "translation": "見せかけの代表者 (misekake no daihyōsha)"
+      },
+      {
+        "word": "in good faith",
+        "translation": "善意で (zen'i de)"
+      },
+      {
+        "word": "deny authority",
+        "translation": "権限を否認する (kengen o hinin suru)"
+      },
+      {
+        "word": "unregistered",
+        "translation": "未登記の (mitōki no)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registrar's Order to Remedy Defects",
+    "definition": "An administrative directive issued by the registrar requiring a registration applicant to correct deficiencies, errors, or omissions in the application documents or accompanying information within a specified period.",
+    "japaneseDefinition": "登記官が登記の申請人に対し、申請書類の記載や添付された書面等の不備を指摘し、期限を定めて修正を求める行政上の命令。",
+    "japaneseWordTranslation": "登記官の補正命令 (Tōkikan no Hosei Meirei)",
+    "legalContext": "Commercial Registration Act, Art. 25, Item 11: The registrar must reject an application if the applicant fails to remedy defects pursuant to the registrar's requirement.",
+    "japaneseLegalContext": "商業登記法 第25条第11号: 申請書若しくはその添付書面が第十七条から第二十一条までの規定又は他の法令の規定に違反しているとき。ただし、その違反が補正することができるものである場合において、登記官が定めた期間内にこれを補正しないとき。",
+    "exampleSentence": "Since the articles of incorporation contained errors regarding the company’s stated capital, the applicant received the registrar's order to remedy defects and was given three days to resubmit the corrected documents.",
+    "exampleTranslation": "会社の資本金に関する記載が定款に誤って含まれていたため、申請人は登記官の補正命令を受け、3日以内に修正された書類を再提出するよう求められた。",
+    "vocabularyList": [
+      {
+        "word": "remedy defects",
+        "translation": "不備を補正する (fubi o hosei suru)"
+      },
+      {
+        "word": "administrative directive",
+        "translation": "行政上の指示 (gyōsei-jō no shiji)"
+      },
+      {
+        "word": "applicant",
+        "translation": "申請人 (shinseinin)"
+      },
+      {
+        "word": "articles of incorporation",
+        "translation": "定款 (teikan)"
+      },
+      {
+        "word": "specified period",
+        "translation": "指定された期間 (shitei sareta kikan)"
+      },
+      {
+        "word": "resubmit",
+        "translation": "再提出する (sai teishutsu suru)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Correction Commission",
+    "definition": "A formal administrative directive or instruction issued by a governmental entity, such as a court or a superior registry office, mandating a specific registry office to make a necessary entry or correction to the commercial register.",
+    "japaneseDefinition": "裁判所や他の官庁、または同一の管轄内で上位の登記所などが、下位の登記所に対して、商業登記簿の記載を訂正・修正するための登記行為を命令すること。",
+    "japaneseWordTranslation": "更正の嘱託 (Kōsei no Shokutaku)",
+    "legalContext": "Commercial Registration Act, Art. 137: If a judicial decision or administrative disposition concerning a matter required to be registered is rendered, the court or governmental entity shall commission the registration to the appropriate registry office.",
+    "japaneseLegalContext": "商業登記法 第137条: 登記すべき事項について裁判又は官庁の処分があったときは、当該官庁は、職権で、遅滞なく、登記所にその登記を嘱託しなければならない。",
+    "exampleSentence": "Following the final judgment declaring the company's organizational change null, the court issued a correction commission to the registry office to reverse the entry.",
+    "exampleTranslation": "会社の組織変更を無効とする確定判決が下された後、裁判所は登記所に対し、その記載を取り消すための更正の嘱託を行った。",
+    "vocabularyList": [
+      {
+        "word": "commission",
+        "translation": "嘱託 (shokutaku)"
+      },
+      {
+        "word": "directive",
+        "translation": "指示 (shiji)"
+      },
+      {
+        "word": "governmental entity",
+        "translation": "官庁 (kanchō)"
+      },
+      {
+        "word": "organizational change",
+        "translation": "組織変更 (soshiki henkō)"
+      },
+      {
+        "word": "null",
+        "translation": "無効 (mukō)"
+      },
+      {
+        "word": "final judgment",
+        "translation": "確定判決 (kakutei hanketsu)"
+      }
+    ]
   }
 ]

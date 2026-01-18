@@ -2,44 +2,6 @@
   {
     "category": "Real Property Registration (不動産登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Lot Number",
-    "definition": "The unique numerical identifier assigned to a parcel of land in the cadastral registry, defining its specific location and boundaries for registration purposes.",
-    "japaneseDefinition": "法務局において地積測量図に基づき土地の一筆ごとに定められる固有の番号。登記簿の表題部に記載される。",
-    "japaneseWordTranslation": "地番 (ちばん)",
-    "legalContext": "Real Property Registration Act (不動産登記法) Art. 34: Details required for land registration, including lot number, land category (地目), and acreage (地積).",
-    "japaneseLegalContext": "不動産登記法 第34条: 土地の登記の申請情報としては、地番、地目及び地積を提供しなければならない。",
-    "exampleSentence": "The applicant must clearly specify the Lot Number and the registered acreage when filing an application for registration of title establishment.",
-    "exampleTranslation": "所有権保存登記の申請を提出する際、申請人は地番と登記されている地積を明確に特定しなければならない。",
-    "vocabularyList": [
-      {
-        "word": "parcel of land",
-        "translation": "一筆の土地"
-      },
-      {
-        "word": "cadastral registry",
-        "translation": "公図/地籍簿"
-      },
-      {
-        "word": "acreage",
-        "translation": "地積"
-      },
-      {
-        "word": "registration of title establishment",
-        "translation": "所有権保存登記"
-      },
-      {
-        "word": "registered",
-        "translation": "登記されている"
-      },
-      {
-        "word": "filing an application",
-        "translation": "申請を提出する"
-      }
-    ]
-  },
-  {
-    "category": "Real Property Registration (不動産登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Registration Identifier",
     "definition": "A 12-digit security code issued by the registry office to the registered right holder, which must be provided to the registrar upon applying for subsequent registrations concerning that right.",
     "japaneseDefinition": "登記官が登記を完了したときに、登記名義人に対して発行する12桁の符号。権利に関する登記の申請時に本人確認情報として提供される。",
@@ -10190,6 +10152,82 @@
       {
         "word": "factual registration",
         "translation": "表示の登記"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Registration Legality",
+    "definition": "The requirement that a real property registration application must strictly conform, in both its form and content, to the substantive and procedural requirements stipulated in the Real Property Registration Act and other related laws.",
+    "japaneseDefinition": "不動産登記の申請が、不動産登記法及び関連法令に規定された実体的要件及び手続的要件に厳格に合致していなければならないという原則。",
+    "japaneseWordTranslation": "登記の適法性の原則 (Tōki no Tekihōsei no Gensoku)",
+    "legalContext": "Underlying principle of the Real Property Registration Act (不動産登記法), ensuring the accuracy and validity of the public register.",
+    "japaneseLegalContext": "不動産登記法における根幹的な原則であり、公簿の正確性・有効性を担保する。",
+    "exampleSentence": "The registrar must reject any application found to be in violation of the Principle of Registration Legality, even if the defect is only procedural.",
+    "exampleTranslation": "登記官は、たとえ手続上の欠陥であっても、登記の適法性の原則に違反していることが判明した申請を却下しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "reject",
+        "translation": "却下する"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
+      },
+      {
+        "word": "violation",
+        "translation": "違反"
+      },
+      {
+        "word": "procedural defect",
+        "translation": "手続上の欠陥"
+      },
+      {
+        "word": "substantive requirements",
+        "translation": "実体的要件"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Identity Verification Information",
+    "definition": "A document or set of documents prepared by a certified legal professional (lawyer or judicial scrivener) to certify the identity of the registration obligor when the obligor does not present the registration security code (registration identification information) during a joint application process.",
+    "japaneseDefinition": "共同申請手続において、登記義務者が登記識別情報を提供しない場合に、資格者代理人（弁護士又は司法書士）が、その登記義務者の本人確認を行ったことを証するために作成する書面または情報。",
+    "japaneseWordTranslation": "本人確認情報 (Honnin Kakunin Jōhō)",
+    "legalContext": "Real Property Registration Act Art. 23(4): Allows Identity Verification Information to substitute for the registration identification information in certain cases.",
+    "japaneseLegalContext": "不動産登記法第23条第4項：特定の状況において、登記識別情報の提供に代えて本人確認情報を提供することができると定める。",
+    "exampleSentence": "Since the seller could not locate the registration security code, the judicial scrivener prepared the required Identity Verification Information to proceed with the transfer registration.",
+    "exampleTranslation": "売主が登記識別情報を見つけることができなかったため、司法書士は、移転登記を進めるために必要な本人確認情報を作成した。",
+    "vocabularyList": [
+      {
+        "word": "judicial scrivener",
+        "translation": "司法書士"
+      },
+      {
+        "word": "registration obligor",
+        "translation": "登記義務者"
+      },
+      {
+        "word": "substitute for",
+        "translation": "〜の代わりとなる"
+      },
+      {
+        "word": "transfer registration",
+        "translation": "移転登記"
+      },
+      {
+        "word": "joint application process",
+        "translation": "共同申請手続"
+      },
+      {
+        "word": "security code",
+        "translation": "識別情報（暗号）"
       }
     ]
   }

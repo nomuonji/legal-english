@@ -13232,5 +13232,81 @@
         "translation": "判決 (hanketsu)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Party Autonomy Principle",
+    "definition": "The fundamental principle in civil procedure dictating that the commencement, scope, modification, and termination of a lawsuit are controlled entirely by the parties, reflecting the idea that private rights are disposable by their holders.",
+    "japaneseDefinition": "民事訴訟において、訴訟の開始、審判の対象・範囲、および終結を当事者の意思に委ねる原則。これは、私権の処分は権利者に委ねられるという民法上の処分権能を訴訟法上反映させたものである。",
+    "japaneseWordTranslation": "当事者主義 (Tōjisha Shugi)",
+    "legalContext": "Under the Party Autonomy Principle, the court cannot decide on matters not submitted by the parties or award a greater amount than claimed.",
+    "japaneseLegalContext": "当事者主義の下では、裁判所は当事者が提出していない事項について判決を下すことはできず、請求された額以上の金額を裁定することもできない。",
+    "exampleSentence": "The efficacy of the litigation heavily relies upon the Party Autonomy Principle, necessitating diligent efforts by the litigants to establish the asserted facts.",
+    "exampleTranslation": "訴訟の有効性は当事者主義に大きく依存しており、訴訟当事者が主張された事実を立証するための勤勉な努力を必要とする。",
+    "vocabularyList": [
+      {
+        "word": "commencement",
+        "translation": "開始"
+      },
+      {
+        "word": "scope",
+        "translation": "範囲"
+      },
+      {
+        "word": "litigants",
+        "translation": "訴訟当事者"
+      },
+      {
+        "word": "asserted facts",
+        "translation": "主張された事実"
+      },
+      {
+        "word": "efficacy",
+        "translation": "有効性"
+      },
+      {
+        "word": "disposable",
+        "translation": "処分可能"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Inquiry on Legal Grounds",
+    "definition": "The authority and duty of the court, particularly in the appellate process, to examine the applicability of legal provisions and interpretations to the established facts, regardless of whether the parties specifically asserted those legal grounds.",
+    "japaneseDefinition": "特に上訴審において、裁判所が当事者の具体的な主張の有無にかかわらず、認定された事実に適用されるべき法規や法解釈を職権で探究する権能および義務。",
+    "japaneseWordTranslation": "職権による法の探究 (Shokken ni yoru Hō no Tankyū)",
+    "legalContext": "The Inquiry on Legal Grounds means that while the court is bound by the factual findings presented by the parties (Party Autonomy), it is not bound by their legal arguments (jura novit curia).",
+    "japaneseLegalContext": "職権による法の探究とは、裁判所が当事者の提出した事実認定には拘束されるが、法律的解釈については拘束されないことを意味する（jura novit curia）。",
+    "exampleSentence": "The appellate court exercised its Inquiry on Legal Grounds to apply a different statutory provision than the one cited by the lower court, as the facts supported its application.",
+    "exampleTranslation": "上訴裁判所は、当該事実がその適用を裏付けていたため、職権による法の探究を行使し、原審が引用したものとは異なる法条を適用した。",
+    "vocabularyList": [
+      {
+        "word": "appellate court",
+        "translation": "上訴裁判所"
+      },
+      {
+        "word": "statutory provision",
+        "translation": "法条 (法令の規定)"
+      },
+      {
+        "word": "cited",
+        "translation": "引用した"
+      },
+      {
+        "word": "lower court",
+        "translation": "原審"
+      },
+      {
+        "word": "jura novit curia",
+        "translation": "裁判所は法を知る"
+      },
+      {
+        "word": "applicability",
+        "translation": "適用可能性"
+      }
+    ]
   }
 ]

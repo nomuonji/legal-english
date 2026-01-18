@@ -12148,5 +12148,119 @@
         "translation": "予見可能性"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Subjective Elements (of an offense)",
+    "definition": "The mental or internal components required for criminal liability, typically referring to criminal intent (dolus) or any specific purpose required by the statutory definition of the offense.",
+    "japaneseDefinition": "犯罪の成立要件のうち、行為者の内心の状態、すなわち故意や特定の目的などを指すもの。",
+    "japaneseWordTranslation": "主観的要素 (しゅかんてき ようそ)",
+    "legalContext": "Japanese Criminal Law Theory: The requirement that both objective (actus reus) and subjective (mens rea) elements must be met for an offense to be constituted.",
+    "japaneseLegalContext": "刑法総論における構成要件論（犯罪が成立するためには、客観的要素と主観的要素の双方が満たされる必要がある）",
+    "exampleSentence": "In cases of fraud, proving the subjective elements, particularly the specific intent to deceive and acquire property, is paramount.",
+    "exampleTranslation": "詐欺罪の事件においては、騙して財物を取得しようとする特定の目的など、主観的要素の立証が最も重要である。",
+    "vocabularyList": [
+      {
+        "word": "criminal liability",
+        "translation": "刑事責任 (keiji sekinin)"
+      },
+      {
+        "word": "specific intent",
+        "translation": "特定目的 (tokutei mokuteki)"
+      },
+      {
+        "word": "constituted (of an offense)",
+        "translation": "成立する (seiritsu suru)"
+      },
+      {
+        "word": "fraud",
+        "translation": "詐欺罪 (sagi-zai)"
+      },
+      {
+        "word": "objective elements",
+        "translation": "客観的要素 (kyakkanteki yōso)"
+      },
+      {
+        "word": "acquiring property",
+        "translation": "財物の取得 (zaibutsu no shutoku)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consummation (of a crime)",
+    "definition": "The final stage of an offense where all the constituent elements required by the law are fulfilled, thereby completing the crime (referred to as Kisui in Japanese criminal law).",
+    "japaneseDefinition": "犯罪の構成要件の全てが実現され、犯罪が完成した時点。未遂と対比される。",
+    "japaneseWordTranslation": "既遂 (きすい)",
+    "legalContext": "Criminal Code Art. 43 (Provisions regarding Attempt): A distinction is made between an attempted offense (Mizui) and a consummated offense (Kisui) for sentencing purposes.",
+    "japaneseLegalContext": "刑法第43条（未遂）：未遂と既遂は量刑の基準において区別される。",
+    "exampleSentence": "While the defendant began to open the safe, the police intervened, preventing the consummation of the burglary.",
+    "exampleTranslation": "被告人は金庫を開け始めたが、警察が介入したため、窃盗罪の既遂には至らなかった。",
+    "vocabularyList": [
+      {
+        "word": "constituent elements",
+        "translation": "構成要件 (kōsei yōken)"
+      },
+      {
+        "word": "attempted offense",
+        "translation": "未遂罪 (misui-zai)"
+      },
+      {
+        "word": "sentencing purposes",
+        "translation": "量刑目的 (ryōkei mokuteki)"
+      },
+      {
+        "word": "burglary",
+        "translation": "窃盗罪 (settō-zai)"
+      },
+      {
+        "word": "intervened",
+        "translation": "介入した (kainyū shita)"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告人 (hikokunin)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Rehabilitation of Rights",
+    "definition": "The formal restoration of rights and qualifications (e.g., eligibility for public office) that an individual lost as a consequence of a criminal conviction, usually granted after the completion of the sentence execution or exemption.",
+    "japaneseDefinition": "刑の執行を終えた者、又は執行の免除を受けた者に対し、刑の言渡しにより失った資格や権利を回復させる措置（主に公権の回復）。",
+    "japaneseWordTranslation": "復権 (ふっけん)",
+    "legalContext": "Criminal Code Art. 34-2 (Rehabilitation of Rights): Stipulates that persons who have completed or been exempted from the execution of imprisonment (with or without labor) or fines shall be rehabilitated.",
+    "japaneseLegalContext": "刑法第34条の2（復権）：「懲役又ハ禁錮ノ刑ノ執行ヲ終リ又ハ執行ノ免除ヲ得タル者ハ、罰金又ハ科料ノ刑ノ執行ヲ終リ又ハ執行ノ免除ヲ得タル者ハ、復権ス。」",
+    "exampleSentence": "The former executive sought rehabilitation of rights five years after his release, allowing him to regain eligibility to serve on a corporate board.",
+    "exampleTranslation": "元役員は釈放から5年後に復権を求め、会社の取締役会で務める資格を回復することができた。",
+    "vocabularyList": [
+      {
+        "word": "qualifications",
+        "translation": "資格 (shikaku)"
+      },
+      {
+        "word": "criminal conviction",
+        "translation": "有罪判決 (yūzai hanketsu)"
+      },
+      {
+        "word": "execution of imprisonment",
+        "translation": "刑の執行 (kei no shikkō)"
+      },
+      {
+        "word": "corporate board",
+        "translation": "取締役会 (torishimariyaku-kai)"
+      },
+      {
+        "word": "exemption",
+        "translation": "免除 (menjo)"
+      },
+      {
+        "word": "restoration",
+        "translation": "回復 (kaifuku)"
+      }
+    ]
   }
 ]

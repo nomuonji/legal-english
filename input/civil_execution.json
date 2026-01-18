@@ -11970,5 +11970,119 @@
         "translation": "申立て"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Vesting of Title Day",
+    "definition": "The designated date on which the judicial sale of immovable property is formally concluded, generally coinciding with the time the successful buyer submits the full sale price and ownership is legally transferred.",
+    "japaneseDefinition": "競売手続において、裁判所が定める売却実施期日のこと。通常、買受人が売却代金を納付し、所有権を取得する日を指す。",
+    "japaneseWordTranslation": "換価期日 (かんかきじつ)",
+    "legalContext": "Civil Execution Act Art. 64: The execution court shall designate the date and time for implementing the sale.",
+    "japaneseLegalContext": "民事執行法第64条: 執行裁判所は、売却を実施すべき日時を定める。",
+    "exampleSentence": "The execution court announced the Vesting of Title Day for the foreclosed commercial building following the final adjudication of sale.",
+    "exampleTranslation": "執行裁判所は、売却許可決定の確定後、担保権実行された商業ビルに関する換価期日を公告した。",
+    "vocabularyList": [
+      {
+        "word": "Adjudication of sale",
+        "translation": "売却許可決定"
+      },
+      {
+        "word": "Immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "Foreclosed",
+        "translation": "担保権実行された"
+      },
+      {
+        "word": "Sale price",
+        "translation": "売却代金"
+      },
+      {
+        "word": "Execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "Ownership is transferred",
+        "translation": "所有権が移転する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Writ Endorsement Mandate",
+    "definition": "A special lawsuit filed by an obligee seeking a judicial mandate for the court clerk to grant an execution clause (writ of enforcement) when the obligor disputes the formal conditions for its issuance (e.g., succession by the obligee or maturity of the underlying obligation).",
+    "japaneseDefinition": "執行証書に基づく強制執行において、執行文付与の条件の成否につき債務者との間に争いがある場合、債権者がその付与を命じる判決を求めて提起する訴訟。",
+    "japaneseWordTranslation": "執行文付与の訴え (しっこうぶんふよのうったえ)",
+    "legalContext": "Civil Execution Act Art. 28: If there is a dispute over the conditions prescribed in Article 27, the obligee may file a suit for grant of an execution clause.",
+    "japaneseLegalContext": "民事執行法第28条: 第27条に規定する条件の成否につき争いがあるときは、債権者は執行文付与の訴えを提起することができる。",
+    "exampleSentence": "The bank, having succeeded to the original obligee's claim, initiated an Action for Writ Endorsement Mandate after the debtor refused payment claiming the succession was invalid.",
+    "exampleTranslation": "銀行は、元の債権者の債権を承継した後、債務者が承継が無効であるとして支払いを拒否したため、執行文付与の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "Writ of enforcement",
+        "translation": "執行文"
+      },
+      {
+        "word": "Execution clause",
+        "translation": "執行文"
+      },
+      {
+        "word": "Obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "Obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "Judicial mandate",
+        "translation": "司法的な命令"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action to Dispute Execution on Third-Party Assets",
+    "definition": "A lawsuit filed by a non-debtor party (third party) against both the execution obligee and the execution obligor, claiming that the seized property belongs to the third party and should be excluded from execution proceedings.",
+    "japaneseDefinition": "執行の目的物について、所有権その他の執行を妨げる権利を有する第三者が、執行債権者及び執行債務者を相手方として、当該財産に対する強制執行の排除を求めるために提起する訴訟。",
+    "japaneseWordTranslation": "第三者異議の訴え (だいさんしゃいぎのうったえ)",
+    "legalContext": "Civil Execution Act Art. 38: A third party who has ownership or any other right preventing the execution on the object of execution may file a suit against the execution obligee and the execution obligor, seeking objection to the execution.",
+    "japaneseLegalContext": "民事執行法第38条: 執行の目的物について所有権その他執行を妨げる権利を有する第三者は、執行債権者及び執行債務者を相手方として、執行の不許を求める訴えを提起することができる。",
+    "exampleSentence": "The co-owner of the antique collection filed an Action to Dispute Execution on Third-Party Assets immediately after the property was subjected to the levy.",
+    "exampleTranslation": "骨董品コレクションの共有者は、その財産が差し押さえられた直後に、第三者異議の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "Co-owner",
+        "translation": "共有者"
+      },
+      {
+        "word": "Seized property",
+        "translation": "差し押さえられた財産"
+      },
+      {
+        "word": "Execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "Execution obligor",
+        "translation": "執行債務者"
+      },
+      {
+        "word": "Lawsuit",
+        "translation": "訴訟"
+      },
+      {
+        "word": "Levy",
+        "translation": "差押え"
+      }
+    ]
   }
 ]

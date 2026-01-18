@@ -10230,5 +10230,119 @@
         "translation": "急迫の危険 (きゅうはく の きけん)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Discharge of Preservation Enforcement upon Provision of Counter-Security",
+    "definition": "A procedure under the Civil Preservation Act where the preservation obligor can halt the enforcement measures of a provisional attachment or disposition by depositing security (usually money) equivalent to the amount of the secured claim.",
+    "japaneseDefinition": "保全債務者が、担保を供託することにより、仮差押え又は仮処分の執行手続を停止し、又はその執行の取消しを求めることができる制度。",
+    "japaneseWordTranslation": "担保を立てることによる保全執行の取消し (たんぽをたてることによるほぜんしっこうのとりけし)",
+    "legalContext": "Civil Preservation Act Art. 44, Paragraph 1: When a Provisional Attachment Order is issued, the Preservaton Obligor may request the cancellation of the Provisional Attachment Enforcement by depositing the amount specified by the court as security.",
+    "japaneseLegalContext": "民事保全法第44条第1項: 仮差押えの命令が発せられた場合において、保全債務者は、裁判所が定めた額の金銭を供託して、仮差押えの執行の取消しを求めることができる。",
+    "exampleSentence": "The company successfully applied for the discharge of preservation enforcement upon provision of counter-security, allowing it to continue operating its assets during the litigation.",
+    "exampleTranslation": "その会社は、担保を立てることによる保全執行の取消しを申し立て、係争期間中も資産を運用し続けることができた。",
+    "vocabularyList": [
+      {
+        "word": "counter-security",
+        "translation": "供託担保金"
+      },
+      {
+        "word": "preservation obligor",
+        "translation": "保全債務者"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え"
+      },
+      {
+        "word": "enforcement",
+        "translation": "執行"
+      },
+      {
+        "word": "secured claim",
+        "translation": "被保全債権"
+      },
+      {
+        "word": "litigation",
+        "translation": "訴訟"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Disposition Mandating or Prohibiting an Act",
+    "definition": "A type of provisional disposition (injunction) concerning non-pecuniary claims, specifically compelling the obligor to perform a certain action (mandating) or refrain from a certain action (prohibiting), typically to secure the subject matter of a dispute or establish a temporary legal status.",
+    "japaneseDefinition": "金銭債権以外の請求権を保全するため、債務者に対し、一定の行為（作為）又は不作為を命じる内容の仮処分。",
+    "japaneseWordTranslation": "作為または不作為を命ずる仮処分 (さくいまたはふさくいをめいずるかりしょぶん)",
+    "legalContext": "Civil Preservation Act Art. 23, Paragraph 2: A provisional disposition may be issued mandating or prohibiting a specific act by the obligor to secure the performance of a non-pecuniary claim.",
+    "japaneseLegalContext": "民事保全法第23条第2項: 非金銭債権の履行を確保するため、債務者に対し特定の作為又は不作為を命ずる仮処分をすることができる。",
+    "exampleSentence": "The court issued a provisional disposition mandating or prohibiting an act, compelling the developer to cease construction noise until the environmental assessment was completed.",
+    "exampleTranslation": "裁判所は、環境アセスメントが完了するまで開発業者に対し建設騒音を中止するよう、作為または不作為を命ずる仮処分を発した。",
+    "vocabularyList": [
+      {
+        "word": "mandating",
+        "translation": "作為を命じる"
+      },
+      {
+        "word": "prohibiting",
+        "translation": "不作為を命じる"
+      },
+      {
+        "word": "non-pecuniary claims",
+        "translation": "非金銭債権"
+      },
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分"
+      },
+      {
+        "word": "compelling",
+        "translation": "強制する"
+      },
+      {
+        "word": "cease construction",
+        "translation": "工事を中止する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Jurisdiction over Preservation Cases",
+    "definition": "The legal authority of a court to hear and determine a petition for a preservation order (provisional attachment or provisional disposition), typically vested in the court having jurisdiction over the principal action or the location of the property subject to preservation.",
+    "japaneseDefinition": "保全命令（仮差押え命令または仮処分命令）の申立てを受理し、審理・決定を行う裁判所の権限。",
+    "japaneseWordTranslation": "保全事件の管轄 (ほぜんじけんのかんかつ)",
+    "legalContext": "Civil Preservation Act Art. 12: A petition for a preservation order shall be filed with the court having jurisdiction over the principal action or the district court having jurisdiction over the location of the property subject to preservation.",
+    "japaneseLegalContext": "民事保全法第12条: 保全命令の申立ては、本案の訴えの管轄裁判所又は保全の目的である物の所在地を管轄する地方裁判所が管轄する。",
+    "exampleSentence": "The applicant first confirmed the jurisdiction over preservation cases before filing the petition for provisional attachment in the Tokyo District Court.",
+    "exampleTranslation": "申立人は、東京地方裁判所に仮差押えの申立てをする前に、保全事件の管轄をまず確認した。",
+    "vocabularyList": [
+      {
+        "word": "petition",
+        "translation": "申立て"
+      },
+      {
+        "word": "district court",
+        "translation": "地方裁判所"
+      },
+      {
+        "word": "preservation order",
+        "translation": "保全命令"
+      },
+      {
+        "word": "principal action",
+        "translation": "本案の訴え"
+      },
+      {
+        "word": "location of the property",
+        "translation": "物の所在地"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え"
+      }
+    ]
   }
 ]

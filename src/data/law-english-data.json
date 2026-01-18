@@ -1,38 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Real Property Registration (不動産登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Unauthorized Representation",
-  "definition": "A legal act performed by a person who purports to act as an agent for another party but lacks the necessary power of representation (authority) to bind the principal.",
-  "japaneseDefinition": "代理権がないにもかかわらず、本人のためにしたと称して行う法律行為。原則として本人に対して効力を生じない。",
-  "japaneseWordTranslation": "無権代理 (むけんだいり)",
-  "legalContext": "Civil Code Art. 113, Para. 1: “An act performed by a person who has no power of representation shall not take effect against the principal, unless the principal ratifies it.”",
-  "japaneseLegalContext": "民法第113条第1項: 代理権を有しない者が他人の代理人としてした行為は、本人がその行為を追認しなければ、本人に対してその効力を生じない。",
-  "exampleSentence": "The claimant argued that the real estate purchase was void because the signatory lacked authority and constituted Unauthorized Representation.",
-  "exampleTranslation": "署名者が権限を欠いており、無権代理に該当するため、不動産購入は無効であると請求者は主張した。",
+  "word": "Lot Number",
+  "definition": "The unique numerical identifier assigned to a parcel of land in the cadastral registry, defining its specific location and boundaries for registration purposes.",
+  "japaneseDefinition": "法務局において地積測量図に基づき土地の一筆ごとに定められる固有の番号。登記簿の表題部に記載される。",
+  "japaneseWordTranslation": "地番 (ちばん)",
+  "legalContext": "Real Property Registration Act (不動産登記法) Art. 34: Details required for land registration, including lot number, land category (地目), and acreage (地積).",
+  "japaneseLegalContext": "不動産登記法 第34条: 土地の登記の申請情報としては、地番、地目及び地積を提供しなければならない。",
+  "exampleSentence": "The applicant must clearly specify the Lot Number and the registered acreage when filing an application for registration of title establishment.",
+  "exampleTranslation": "所有権保存登記の申請を提出する際、申請人は地番と登記されている地積を明確に特定しなければならない。",
   "vocabularyList": [
     {
-      "word": "principal",
-      "translation": "本人"
+      "word": "parcel of land",
+      "translation": "一筆の土地"
     },
     {
-      "word": "power of representation",
-      "translation": "代理権"
+      "word": "cadastral registry",
+      "translation": "公図/地籍簿"
     },
     {
-      "word": "signatory",
-      "translation": "署名者"
+      "word": "acreage",
+      "translation": "地積"
     },
     {
-      "word": "void",
-      "translation": "無効な"
+      "word": "registration of title establishment",
+      "translation": "所有権保存登記"
     },
     {
-      "word": "legal act",
-      "translation": "法律行為"
+      "word": "registered",
+      "translation": "登記されている"
     },
     {
-      "word": "take effect",
-      "translation": "効力を生じる"
+      "word": "filing an application",
+      "translation": "申請を提出する"
     }
   ]
 }

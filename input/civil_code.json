@@ -14436,5 +14436,119 @@
         "translation": "構造物を取り壊す"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Support Obligation",
+    "definition": "A legal obligation among certain relatives (e.g., lineal blood relatives, spouses, and siblings) to provide necessary financial and physical support for the maintenance of their kin who cannot sustain themselves.",
+    "japaneseDefinition": "親族間において、生活の維持に必要な援助を行う義務。特に、生活保持義務としての夫婦間の扶助と、生活扶助義務としての親族間の扶養を含む。",
+    "japaneseWordTranslation": "扶養義務 (ふようぎむ)",
+    "legalContext": "Civil Code Art. 877: Lineal blood relatives, spouses, and siblings have the obligation to support each other. The extent of support shall be determined by mutual consultation or by the family court.",
+    "japaneseLegalContext": "民法第877条: 直系血族及び兄弟姉妹は、互いに扶養をする義務がある。扶養の程度は当事者の協議又は家庭裁判所が定める。",
+    "exampleSentence": "The court determined the monthly amount required to fulfill the support obligation based on the economic capacity of the obligor.",
+    "exampleTranslation": "裁判所は、扶養義務者の経済的能力に基づき、扶養義務を履行するために必要な月額を決定した。",
+    "vocabularyList": [
+      {
+        "word": "lineal blood relative",
+        "translation": "直系血族"
+      },
+      {
+        "word": "extent of support",
+        "translation": "扶養の程度"
+      },
+      {
+        "word": "obligor",
+        "translation": "義務者"
+      },
+      {
+        "word": "mutual consultation",
+        "translation": "協議"
+      },
+      {
+        "word": "family court",
+        "translation": "家庭裁判所"
+      },
+      {
+        "word": "maintenance",
+        "translation": "維持"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order of Performance",
+    "definition": "The sequence in which the respective duties of contracting parties must be fulfilled, determined either by explicit agreement, commercial custom, or the inherent nature of the contractual promises.",
+    "japaneseDefinition": "契約上の義務を果たすべき順番。特に当事者間に特約がない双務契約において、いずれの義務が先に履行されるべきかという順序。",
+    "japaneseWordTranslation": "履行の順序 (りこうのじゅんじょ)",
+    "legalContext": "In the absence of a clear agreement on the order of performance, the Civil Code generally presumes that counter-performances should occur simultaneously.",
+    "japaneseLegalContext": "履行の順序について当事者間に別段の定めがない場合、民法上は一般的に反対給付の同時履行が原則とされる。",
+    "exampleSentence": "Determining the order of performance was critical because the purchaser required the inspection report before completing the final payment.",
+    "exampleTranslation": "履行の順序を決定することは、買主が最終的な支払いを行う前に検査報告書を要求していたため、極めて重要であった。",
+    "vocabularyList": [
+      {
+        "word": "contractual duty",
+        "translation": "契約上の義務"
+      },
+      {
+        "word": "explicit agreement",
+        "translation": "明示的な合意"
+      },
+      {
+        "word": "counter-performance",
+        "translation": "反対給付"
+      },
+      {
+        "word": "simultaneously",
+        "translation": "同時に"
+      },
+      {
+        "word": "prerequisite",
+        "translation": "前提条件"
+      },
+      {
+        "word": "final payment",
+        "translation": "最終的な支払い"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Apportionment of Loss",
+    "definition": "The division of responsibility for damages or loss between parties, often utilized by courts under the principle of fairness to equitably allocate the economic burden, even in situations falling outside strict liability rules.",
+    "japaneseDefinition": "損害の公平な負担を目的として、当事者の事情や損害発生への寄与度を考慮し、損害額を分割して負担させること。",
+    "japaneseWordTranslation": "損害の分担 (そんがいのぶんたん)",
+    "legalContext": "Apportionment of loss is a judicial tool used to apply the principle of good faith and fair dealing, particularly when adjusting damages where both parties contributed to the outcome, or where a party is only partially at fault.",
+    "japaneseLegalContext": "公平の原則及び信義誠実の原則に基づき、当事者の寄与度に応じて損害賠償額を調整するために用いられる裁判上の手法。",
+    "exampleSentence": "The court ordered an apportionment of loss of 30% to the plaintiff due to their failure to mitigate damages after the initial incident.",
+    "exampleTranslation": "裁判所は、当初の事故後の損害軽減措置を怠ったため、原告に対し30％の損害の分担を命じた。",
+    "vocabularyList": [
+      {
+        "word": "judicial tool",
+        "translation": "裁判上の手法"
+      },
+      {
+        "word": "principle of fairness",
+        "translation": "公平の原則"
+      },
+      {
+        "word": "equitably allocate",
+        "translation": "公平に分配する"
+      },
+      {
+        "word": "mitigate damages",
+        "translation": "損害を軽減する"
+      },
+      {
+        "word": "initial incident",
+        "translation": "当初の事故"
+      },
+      {
+        "word": "economic burden",
+        "translation": "経済的負担"
+      }
+    ]
   }
 ]

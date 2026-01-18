@@ -10230,5 +10230,85 @@
         "translation": "識別情報（暗号）"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Land Parcel Integration",
+    "definition": "The procedure merging two or more contiguous land parcels recorded under the same registered title holder and having the same land category into a single new parcel.",
+    "japaneseDefinition": "同一の登記名義人及び同一の地目である二以上の土地を併合して一個の土地とする登記手続。",
+    "japaneseWordTranslation": "合筆の登記 (がっぴつのとうき)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Art. 41: Mandates the application for factual registration concerning changes to the physical status of land, including integration.",
+    "japaneseLegalContext": "不動産登記法第41条: 土地の表示に関する登記の申請（合筆の登記を含む。）は、その登記原因が生じた日から一月以内にしなければならない。",
+    "exampleSentence": "The owner filed an application for the **Registration of Land Parcel Integration** for two adjacent parcels to combine them before submitting the large-scale construction permit.",
+    "exampleTranslation": "所有者は、大規模な建築許可を申請する前に、隣接する二筆の土地を合併させるための合筆の登記の申請を提出した。",
+    "vocabularyList": [
+      {
+        "word": "contiguous",
+        "translation": "隣接した"
+      },
+      {
+        "word": "land parcels",
+        "translation": "土地 (筆)"
+      },
+      {
+        "word": "registered title holder",
+        "translation": "登記名義人"
+      },
+      {
+        "word": "land category",
+        "translation": "地目"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
+      },
+      {
+        "word": "physical status",
+        "translation": "表示（の登記）"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Land Survey Map/Drawing",
+    "definition": "A mandatory document submitted to the registry office when applying for land descriptions registration (e.g., division or correction), showing the boundaries, angles, and calculated acreage of the property.",
+    "japaneseDefinition": "土地の分筆、地積の更正又は表示の登記の際、筆界点、求積方法及び地積を明らかにするために提出が義務付けられている図面。",
+    "japaneseWordTranslation": "地積測量図 (ちせきそくりょうず)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Art. 47: Specifies the necessary appended documents for factual registration applications, including the map/drawing.",
+    "japaneseLegalContext": "不動産登記法第47条: 土地の地積に関する登記を申請する場合においては、地積測量図を添付しなければならない。",
+    "exampleSentence": "A professional land and house investigator must prepare the **Land Survey Map/Drawing** before filing for land category correction registration.",
+    "exampleTranslation": "土地家屋調査士は、地目更正の登記を申請する前に、地積測量図を作成しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "registry office",
+        "translation": "登記所"
+      },
+      {
+        "word": "division",
+        "translation": "分筆"
+      },
+      {
+        "word": "correction",
+        "translation": "更正"
+      },
+      {
+        "word": "boundaries",
+        "translation": "筆界"
+      },
+      {
+        "word": "acreage",
+        "translation": "地積"
+      },
+      {
+        "word": "land and house investigator",
+        "translation": "土地家屋調査士"
+      },
+      {
+        "word": "appended documents",
+        "translation": "添付書類"
+      }
+    ]
   }
 ]

@@ -12084,5 +12084,135 @@
         "translation": "差押え"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Exempt Scope",
+    "definition": "The legally protected minimum amount or range of assets (such as essential wages or household goods) that cannot be seized during monetary execution to ensure the debtor's basic livelihood.",
+    "japaneseDefinition": "債務者の生活保障のため、強制執行の対象から除外されるべき財産の最低限度の範囲。主に給与債権の一部や生活必需品に適用される。",
+    "japaneseWordTranslation": "しっこうめんじょのはんい (執行免除の範囲)",
+    "legalContext": "Civil Execution Act, Art. 152 (Non-seizable amount of salary claim): The portion of the obligor's periodic claim for salary, etc., equivalent to three-quarters of the amount shall not be seized.",
+    "japaneseLegalContext": "民事執行法第152条（給与債権の差押禁止額）：債務者の給料等に係る定期的な給付を目的とする債権については、その金額の四分の三に相当する部分の差押えを禁止する。",
+    "exampleSentence": "The court reviewed the petition to ensure that the seizure of the obligor’s bank account did not exceed the **Execution Exempt Scope** necessary for subsistence.",
+    "exampleTranslation": "裁判所は、債務者の銀行口座の差押えが、生計に必要な**執行免除の範囲**を超えないことを確認するために申立てを審査した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え (さしおさえ)"
+      },
+      {
+        "word": "subsistence",
+        "translation": "生計 (せいけい)"
+      },
+      {
+        "word": "bank account",
+        "translation": "銀行口座 (ぎんこうこうざ)"
+      },
+      {
+        "word": "petition",
+        "translation": "申立て (もうしたて)"
+      },
+      {
+        "word": "claim",
+        "translation": "債権 (さいけん)"
+      },
+      {
+        "word": "review",
+        "translation": "審査 (しんさ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Garnishee's Duty of Disclosure",
+    "definition": "The statutory obligation imposed on a third-party debtor (garnishee) upon receiving a claim garnishment order, requiring them to inform the court whether they acknowledge the existence and amount of the seized claim.",
+    "japaneseDefinition": "差押命令を受けた第三債務者が、差押えられた債権の存否や金額について、裁判所に対して書面で回答しなければならない義務。",
+    "japaneseWordTranslation": "だいさんさいむしゃのちんじゅつぎむ (第三債務者の陳述義務)",
+    "legalContext": "Civil Execution Act, Art. 147 (Garnishee's Duty to State Facts): The Execution Court may order the third party obligor, upon motion, to state facts concerning the claim, such as whether they acknowledge the existence of the claim.",
+    "japaneseLegalContext": "民事執行法第147条（第三債務者の陳述の義務）：執行裁判所は、申立てにより、第三債務者に対し、差押えに係る債権の存否その他の事項について陳述すべきことを命ずることができる。",
+    "exampleSentence": "Failure to comply with the **Garnishee's Duty of Disclosure** may result in legal sanctions against the financial institution acting as the third-party debtor.",
+    "exampleTranslation": "**第三債務者の陳述義務**に従わない場合、第三債務者である金融機関に対して法的制裁が科される可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "garnishee",
+        "translation": "第三債務者 (だいさんさいむしゃ)"
+      },
+      {
+        "word": "garnishment order",
+        "translation": "差押命令 (さしおさえめいれい)"
+      },
+      {
+        "word": "financial institution",
+        "translation": "金融機関 (きんゆうきかん)"
+      },
+      {
+        "word": "legal sanction",
+        "translation": "法的制裁 (ほうてきせいさい)"
+      },
+      {
+        "word": "existence",
+        "translation": "存否 (そんぴ)"
+      },
+      {
+        "word": "comply with",
+        "translation": "遵守する (じゅんしゅする)"
+      },
+      {
+        "word": "court",
+        "translation": "裁判所 (さいばんしょ)"
+      },
+      {
+        "word": "claim",
+        "translation": "債権 (さいけん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designation of Standard Sale Value",
+    "definition": "The formal court decision, based on the appraisal officer’s assessment, setting the baseline value for real property in a compulsory auction, from which the minimum sale price (最低売却価額) is then calculated.",
+    "japaneseDefinition": "不動産強制競売において、評価人の評価に基づき、裁判所が定める売却の基準となる価額。この価額を基に最低売却価額が設定される。",
+    "japaneseWordTranslation": "ばいきゃくきじゅんかがくのけってい (売却基準価額の決定)",
+    "legalContext": "Civil Execution Act, Art. 60 (Determination of Standard Sale Value): The execution court shall determine the standard sale value based on the appraisal officer's assessment, following the commencement of the auction procedure.",
+    "japaneseLegalContext": "民事執行法第60条（売却基準価額の決定）：執行裁判所は、競売手続の開始後、評価人の評価に基づき、売却基準価額を定めなければならない。",
+    "exampleSentence": "The **Designation of Standard Sale Value** must be publicly notified before the commencement of the bidding period for the compulsory auction.",
+    "exampleTranslation": "強制競売の入札期間開始前に、**売却基準価額の決定**が公示されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売 (きょうせいけいばい)"
+      },
+      {
+        "word": "appraisal officer",
+        "translation": "評価人 (ひょうかにん)"
+      },
+      {
+        "word": "baseline value",
+        "translation": "基準となる価額 (きじゅんとなるかがく)"
+      },
+      {
+        "word": "minimum sale price",
+        "translation": "最低売却価額 (さいていばいきゃくかがく)"
+      },
+      {
+        "word": "bidding period",
+        "translation": "入札期間 (にゅうさつきかん)"
+      },
+      {
+        "word": "publicly notified",
+        "translation": "公示される (こうじされる)"
+      },
+      {
+        "word": "assessment",
+        "translation": "評価 (ひょうか)"
+      }
+    ]
   }
 ]

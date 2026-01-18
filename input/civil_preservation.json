@@ -10344,5 +10344,81 @@
         "translation": "仮差押え"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Disposition Regarding Property in Dispute",
+    "definition": "A non-monetary preservation measure issued by a court aimed at maintaining the status quo or establishing a temporary relationship concerning a specific property or right that is the subject of litigation.",
+    "japaneseDefinition": "係争中の物や権利関係に関して、現状を維持したり、暫定的な地位を定めたりするために裁判所が行う金銭債権以外の保全措置。",
+    "japaneseWordTranslation": "係争物に関する仮処分 (けいそうぶつにかんするかりしょぶん)",
+    "legalContext": "Civil Preservation Act, Art. 23(2): 'Provisional disposition may also be ordered concerning the subject matter of the dispute if it is necessary to prevent significant detriment resulting from a change in the status quo concerning the subject matter of the dispute.'",
+    "japaneseLegalContext": "民事保全法第23条第2項: 「争いがある権利関係について、現状の変更により、債権者が著しい損害又は急迫の危険を避けるため、これを必要とするときも、仮処分を命ずることができる。」",
+    "exampleSentence": "The court granted a Provisional Disposition Regarding Property in Dispute to prevent the defendant from demolishing the building that was the central issue in the title claim.",
+    "exampleTranslation": "裁判所は、所有権請求の中心的な問題である建物の解体を被告が阻止するよう、係争物に関する仮処分を認めた。",
+    "vocabularyList": [
+      {
+        "word": "Status Quo",
+        "translation": "現状"
+      },
+      {
+        "word": "Subject Matter of Litigation",
+        "translation": "訴訟の目的物"
+      },
+      {
+        "word": "Title Claim",
+        "translation": "所有権請求"
+      },
+      {
+        "word": "Defendant",
+        "translation": "被告"
+      },
+      {
+        "word": "Detriment",
+        "translation": "損害"
+      },
+      {
+        "word": "Demolishing",
+        "translation": "解体"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Action Filing Period",
+    "definition": "The fixed period specified by the preservation court within which the preservation creditor must initiate the underlying main suit (substantive action) asserting the secured claim, usually resulting in the revocation of the preservation order if missed.",
+    "japaneseDefinition": "保全命令を発令した裁判所が、保全債権者に対し、被保全権利を主張する本案の訴えを提起するよう命じる際に指定する期間。この期間内に提訴しない場合、保全命令は取り消される。",
+    "japaneseWordTranslation": "本案の訴えを提起すべき期間 (ほんあんのうったえをていきすべききかん)",
+    "legalContext": "Civil Preservation Act, Art. 37(1): 'Where the preservation court has ordered the preservation creditor to commence the principal action within a specified period, the court shall rescind the preservation order if the action is not commenced within that period.'",
+    "japaneseLegalContext": "民事保全法第37条第1項: 「保全命令を発した裁判所は、保全債権者に対し、相当の期間を定めて本案の訴えを提起すべきことを命ずることができる。この場合において、保全債権者がその期間内に本案の訴えを提起したことを証明する書面を提出しないときは、裁判所は、被保全権利の消滅を原因とする保全命令の取消しの決定をすることができる。」",
+    "exampleSentence": "Failure to commence the principal action within the Mandatory Action Filing Period, typically 14 days, provides grounds for the debtor to seek cancellation of the provisional measure.",
+    "exampleTranslation": "通常14日である本案の訴えを提起すべき期間内に主たる訴訟を開始しない場合、債務者が保全措置の取消しを求める根拠となる。",
+    "vocabularyList": [
+      {
+        "word": "Preservation Court",
+        "translation": "保全裁判所"
+      },
+      {
+        "word": "Principal Action",
+        "translation": "本案の訴え"
+      },
+      {
+        "word": "Preservation Creditor",
+        "translation": "保全債権者"
+      },
+      {
+        "word": "Provisional Measure",
+        "translation": "保全措置"
+      },
+      {
+        "word": "Rescind",
+        "translation": "取り消す (取消しをする)"
+      },
+      {
+        "word": "Specified Period",
+        "translation": "指定期間"
+      }
+    ]
   }
 ]

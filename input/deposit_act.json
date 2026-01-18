@@ -8450,5 +8450,85 @@
         "translation": "資産"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Uncertainty of the Person Entitled",
+    "definition": "A legally recognized ground for making a judicial deposit (consignment of performance) when the individual who is authorized to receive the performance cannot be identified, is unknown, or their entitlement is in dispute.",
+    "japaneseDefinition": "弁済を受領すべき者が誰であるかを確知できない場合など、その者に対する弁済を目的とした供託を行うことのできる原因の一つ。",
+    "japaneseWordTranslation": "権利者の不明 (けんりしゃのふめい)",
+    "legalContext": "Civil Code Art. 494 (Grounds for Deposit): If the person entitled refuses to accept performance, or cannot accept it, or if, without fault on the part of the debtor, it is impossible to identify the person entitled, the debtor may be relieved of their duty by depositing the subject matter of the performance.",
+    "japaneseLegalContext": "民法第494条（供託）：債権者が弁済の受領を拒み、又はこれを受領することができないとき、弁済者が過失なく債権者を確知することができないとき、弁済者は、債権者のために弁済の目的物を供託し、その債務を免れることができる。",
+    "exampleSentence": "The company consigned the severance funds to the deposit office citing the **uncertainty of the person entitled** following an unforeseen administrative conflict.",
+    "exampleTranslation": "同社は、予期せぬ行政上の紛争を受け、権利者の不明を理由として、退職金を供託所に供託した。",
+    "vocabularyList": [
+      {
+        "word": "judicial deposit",
+        "translation": "供託"
+      },
+      {
+        "word": "severance funds",
+        "translation": "退職金"
+      },
+      {
+        "word": "deposit office",
+        "translation": "供託所"
+      },
+      {
+        "word": "consign",
+        "translation": "供託する"
+      },
+      {
+        "word": "administrative conflict",
+        "translation": "行政上の紛争"
+      },
+      {
+        "word": "performance (tender)",
+        "translation": "弁済"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consignor's Right to Recovery",
+    "definition": "The ability of the party who consigned the subject matter to retrieve it from the deposit office, provided that the intended recipient has not accepted the consignment or if the original ground for the deposit has ceased to exist.",
+    "japaneseDefinition": "供託者が、供託の受領者から承諾を得ていないか、または供託の原因が消滅した場合に、供託した財産を取り戻すことができる権能。",
+    "japaneseWordTranslation": "供託者の取戻権 (きょうたくしゃのとりもどしけん)",
+    "legalContext": "Civil Code Art. 498 (Recovery of Deposited Property): The person who made the deposit may recover the deposited property only with the consent of the person entitled or if the provisional seizure or provisional disposition against the deposited property is terminated.",
+    "japaneseLegalContext": "民法第498条（供託物の取戻し）：供託者は、債権者の承諾を得、又は供託をしたことを証する書面を提出して供託物に対する差押え若しくは仮差押えの執行がその効力を失ったときに限り、供託物を取り戻すことができる。",
+    "exampleSentence": "Before the intended recipient provides approval, the party that made the tender may, under certain conditions, exercise the **Consignor's Right to Recovery**.",
+    "exampleTranslation": "意図された受領者が承諾を与える前に、履行の提供を行った当事者は、一定の条件の下、供託者の取戻権を行使できる。",
+    "vocabularyList": [
+      {
+        "word": "consignor",
+        "translation": "供託者"
+      },
+      {
+        "word": "intended recipient",
+        "translation": "被供託者（受領権者）"
+      },
+      {
+        "word": "tender",
+        "translation": "履行の提供"
+      },
+      {
+        "word": "exercise (a right)",
+        "translation": "行使する"
+      },
+      {
+        "word": "deposited property",
+        "translation": "供託財産"
+      },
+      {
+        "word": "consent / approval",
+        "translation": "承諾"
+      },
+      {
+        "word": "retrieve",
+        "translation": "取り戻す"
+      }
+    ]
   }
 ]

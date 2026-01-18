@@ -1,38 +1,46 @@
 {
-  "category": "Real Property Registration (不動産登記法)",
+  "category": "Companies Act (会社法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Lot Number",
-  "definition": "The unique numerical identifier assigned to a parcel of land in the cadastral registry, defining its specific location and boundaries for registration purposes.",
-  "japaneseDefinition": "法務局において地積測量図に基づき土地の一筆ごとに定められる固有の番号。登記簿の表題部に記載される。",
-  "japaneseWordTranslation": "地番 (ちばん)",
-  "legalContext": "Real Property Registration Act (不動産登記法) Art. 34: Details required for land registration, including lot number, land category (地目), and acreage (地積).",
-  "japaneseLegalContext": "不動産登記法 第34条: 土地の登記の申請情報としては、地番、地目及び地積を提供しなければならない。",
-  "exampleSentence": "The applicant must clearly specify the Lot Number and the registered acreage when filing an application for registration of title establishment.",
-  "exampleTranslation": "所有権保存登記の申請を提出する際、申請人は地番と登記されている地積を明確に特定しなければならない。",
+  "word": "Stock Acquisition Rights",
+  "definition": "The right granted to the holder to acquire shares of the company pursuant to the terms determined in advance, often utilized for employee incentives or financing.",
+  "japaneseDefinition": "会社に対し、あらかじめ定められた条件に従い、会社の株式の交付を受けることができる権利。通常、従業員へのインセンティブや資金調達のために用いられる。",
+  "japaneseWordTranslation": "新株予約権 (しんかぶよやくけん)",
+  "legalContext": "Companies Act Art. 236 (1): A Company may, pursuant to the provisions of the articles of incorporation, issue Stock Acquisition Rights.",
+  "japaneseLegalContext": "会社法第236条第1項：会社は、定款の定めるところにより、新株予約権を発行することができる。",
+  "exampleSentence": "The issuance of Stock Acquisition Rights must be approved by a special resolution, unless the power to decide such matters is delegated.",
+  "exampleTranslation": "新株予約権の発行は、その事項を決定する権限が委任されていない限り、特別決議によって承認を得なければならない。",
   "vocabularyList": [
     {
-      "word": "parcel of land",
-      "translation": "一筆の土地"
+      "word": "issuance",
+      "translation": "発行"
     },
     {
-      "word": "cadastral registry",
-      "translation": "公図/地籍簿"
+      "word": "pursuant to",
+      "translation": "〜に従い"
     },
     {
-      "word": "acreage",
-      "translation": "地積"
+      "word": "resolution",
+      "translation": "決議"
     },
     {
-      "word": "registration of title establishment",
-      "translation": "所有権保存登記"
+      "word": "delegated",
+      "translation": "委任された"
     },
     {
-      "word": "registered",
-      "translation": "登記されている"
+      "word": "acquire",
+      "translation": "取得する"
     },
     {
-      "word": "filing an application",
-      "translation": "申請を提出する"
+      "word": "incentives",
+      "translation": "インセンティブ（報奨）"
+    },
+    {
+      "word": "terms",
+      "translation": "条件"
+    },
+    {
+      "word": "financing",
+      "translation": "資金調達"
     }
   ]
 }

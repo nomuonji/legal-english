@@ -8530,5 +8530,81 @@
         "translation": "取り戻す"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Entitlement to Recover Deposited Funds",
+    "definition": "The statutory qualification or legal capacity granted to the depositor (the obligor) to nullify the effect of the deposit and reclaim the deposited assets, provided certain statutory requirements are met (e.g., the recipient has not yet accepted the deposit).",
+    "japaneseDefinition": "供託者が供託の効力を消滅させ、供託した財産を取り戻すことができる法的な資格。これは、供託の受領者が供託を受諾していないなどの法定要件を満たす場合に発生する。",
+    "japaneseWordTranslation": "供託金取戻資格 (きょうたくきんとりもどししかく)",
+    "legalContext": "Deposit Act, Article 14, Paragraph 1 specifies conditions under which the depositor may obtain the release of the deposited property.",
+    "japaneseLegalContext": "供託法第14条第1項は、供託者が供託物を取り戻すことができる条件を規定している。",
+    "exampleSentence": "The depositor lost the entitlement to recover deposited funds when the designated recipient notified the Deposit Office of their unconditional acceptance of the consignment.",
+    "exampleTranslation": "指定された受領者が供託所に対し、無条件の供託受諾を通知した時点で、供託者は供託金取戻資格を喪失した。",
+    "vocabularyList": [
+      {
+        "word": "statutory qualification",
+        "translation": "法的な資格"
+      },
+      {
+        "word": "nullify the effect",
+        "translation": "効力を無効にする"
+      },
+      {
+        "word": "designated recipient",
+        "translation": "指定された受領者"
+      },
+      {
+        "word": "unconditional acceptance",
+        "translation": "無条件の受諾"
+      },
+      {
+        "word": "consignment",
+        "translation": "供託 / 寄託"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prescribed Period for Withdrawal Application",
+    "definition": "The legally stipulated timeframe within which the party entitled to the deposited property must apply to the Deposit Office for its receipt; failure to act within this timeframe (currently 10 years) results in the permanent loss of the ability to claim the property.",
+    "japaneseDefinition": "供託物受領資格者が供託金を受領するために供託所に申請しなければならない法的に定められた期間。この期間（現行法では10年）内に手続きを行わない場合、財産に対する請求能力を永続的に失う。",
+    "japaneseWordTranslation": "取戻し申請の法定期間 (とりもどししんせいのほうていきかん)",
+    "legalContext": "Deposit Act, Article 39 stipulates that the depositor's entitlement to recover the deposited property ceases if not exercised within ten years from the date the deposit cause ceased to exist.",
+    "japaneseLegalContext": "供託法第39条は、供託者が供託物を取り戻すことができる資格が、供託原因が消滅した日から10年以内にこれを行使しない場合に消滅すると規定している。",
+    "exampleSentence": "If the entitled party fails to submit the withdrawal application within the prescribed period for withdrawal application, the deposited funds are transferred to the general account of the state.",
+    "exampleTranslation": "資格者が取戻し申請の法定期間内に払戻し申請を提出しない場合、供託金は国の一般会計に振り替えられる。",
+    "vocabularyList": [
+      {
+        "word": "stipulated timeframe",
+        "translation": "定められた期間"
+      },
+      {
+        "word": "party entitled",
+        "translation": "資格者（しかくしゃ）"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
+      },
+      {
+        "word": "receipt",
+        "translation": "受領"
+      },
+      {
+        "word": "transferred to",
+        "translation": "振り替えられる"
+      },
+      {
+        "word": "general account of the state",
+        "translation": "国の一般会計"
+      }
+    ]
   }
 ]

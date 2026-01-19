@@ -10310,5 +10310,115 @@
         "translation": "添付書類"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligation for Building Description Registration",
+    "definition": "The statutory duty incumbent upon the property owner to apply for the registration of changes in the physical characteristics of a building (e.g., new construction, destruction, or alteration of structure/use) within one month of the change occurring.",
+    "japaneseDefinition": "建物の新築、滅失、または構造・用途の変更など、不動産の物理的状況に変化が生じた際に、所有者がその変更を登記するよう義務付けられていること。",
+    "japaneseWordTranslation": "建物表示登記の義務 (Tatemono Hyōji Tōki no Gimu)",
+    "legalContext": "Real Property Registration Act (R.P.R.A.) Art. 37(1): When a new building is constructed, the owner must apply for the description registration within one month from the date of construction.",
+    "japaneseLegalContext": "不動産登記法第37条第1項: 新築した建物について表題登記を申請しなければならない。",
+    "exampleSentence": "Failure to fulfill the **obligation for building description registration** within the statutory period may result in a non-penal fine.",
+    "exampleTranslation": "法定期間内に**建物表示登記の義務**を履行しなかった場合、過料に処される可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "Statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "Non-penal fine",
+        "translation": "過料"
+      },
+      {
+        "word": "New construction",
+        "translation": "新築"
+      },
+      {
+        "word": "Owner",
+        "translation": "所有者"
+      },
+      {
+        "word": "Physical characteristics",
+        "translation": "物理的状況"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Main Registration based on Provisional Registration",
+    "definition": "The final, legally binding registration completed subsequent to a provisional registration, which secures the original priority rank of the right when the legal conditions for full registration are met.",
+    "japaneseDefinition": "仮登記により順位を保全されていた権利について、その条件が成就するなどして、本質的な権利に関する登記が実行されること。",
+    "japaneseWordTranslation": "仮登記に基づく本登記 (Kari Tōki ni Motozuku Hon Tōki)",
+    "legalContext": "R.P.R.A. Art. 106: The rank of a right recorded via main registration based on provisional registration shall be determined by the time of the provisional registration.",
+    "japaneseLegalContext": "不動産登記法第106条: 仮登記に基づく本登記をすることにより、当該権利の順位は仮登記の時に遡る。",
+    "exampleSentence": "The creditor successfully executed the **main registration based on provisional registration** after the suspensive condition of the sales contract was satisfied.",
+    "exampleTranslation": "売買契約の停止条件が満たされた後、債権者は**仮登記に基づく本登記**の実行に成功した。",
+    "vocabularyList": [
+      {
+        "word": "Provisional registration",
+        "translation": "仮登記"
+      },
+      {
+        "word": "Priority rank",
+        "translation": "順位"
+      },
+      {
+        "word": "Suspensive condition",
+        "translation": "停止条件"
+      },
+      {
+        "word": "Secured right",
+        "translation": "保全された権利"
+      },
+      {
+        "word": "Sales contract",
+        "translation": "売買契約"
+      },
+      {
+        "word": "Creditor",
+        "translation": "債権者"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Transfer of Registration Records",
+    "definition": "The procedure carried out by the Registrar to transfer the registry book information for a property when the jurisdictional boundary of the registry office changes, or when the property’s location changes jurisdictions.",
+    "japaneseDefinition": "不動産の所在地が登記所の管轄区域外に移転した際、管轄登記所が変更され、当該不動産に関する登記記録が新しい管轄登記所に移される手続き。",
+    "japaneseWordTranslation": "登記記録の移送 (Tōki Kiroku no Isō)",
+    "legalContext": "R.P.R.A. Art. 12(1): When the location of a piece of real property changes jurisdictions due to boundary alteration or other reasons, the previous Registrar shall transfer the registration records to the new Registrar.",
+    "japaneseLegalContext": "不動産登記法第12条第1項: 不動産の所在地が管轄区域外に属することとなったときは、従前の登記官は、遅滞なく登記記録を新しい管轄登記所に移送しなければならない。",
+    "exampleSentence": "Due to the municipal boundary change, the Registrar initiated the **transfer of registration records** for all affected properties.",
+    "exampleTranslation": "市町村の境界変更により、登記官は影響を受ける全ての不動産について**登記記録の移送**を開始した。",
+    "vocabularyList": [
+      {
+        "word": "Registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "Jurisdiction",
+        "translation": "管轄区域"
+      },
+      {
+        "word": "Boundary alteration",
+        "translation": "境界変更"
+      },
+      {
+        "word": "Registry office",
+        "translation": "登記所"
+      },
+      {
+        "word": "Real property location",
+        "translation": "不動産の所在地"
+      },
+      {
+        "word": "Initiated",
+        "translation": "開始した"
+      }
+    ]
   }
 ]

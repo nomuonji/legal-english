@@ -2,44 +2,6 @@
   {
     "category": "Civil Preservation (民事保全法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Preservation Enforcement",
-    "definition": "The official act of implementing or carrying out the dictates of a preservation order (e.g., freezing assets or prohibiting a specific action) by a judicial enforcement officer or other competent authority.",
-    "japaneseDefinition": "保全命令の内容を具体的に実現するための行為であり、裁判所の執行官またはその他の権限ある機関によって行われるもの。",
-    "japaneseWordTranslation": "保全執行 (ほぜんしっこう)",
-    "legalContext": "Civil Preservation Act Art. 43: Preservation Enforcement shall commence upon the obligee obtaining the preservation order and requesting the enforcement officer to implement the measure.",
-    "japaneseLegalContext": "民事保全法第43条: 保全執行は、債権者が保全命令を取得し、かつ、執行官に対し保全処分の実施を申し立てることにより開始する。",
-    "exampleSentence": "The period for Preservation Enforcement is often strictly limited under Japanese law, requiring the obligee to act swiftly upon receipt of the order.",
-    "exampleTranslation": "日本の法律では、保全執行の期間は厳しく制限されることが多く、債権者は命令受領後速やかに行動することが求められる。",
-    "vocabularyList": [
-      {
-        "word": "enforcement officer",
-        "translation": "執行官"
-      },
-      {
-        "word": "competent authority",
-        "translation": "権限ある機関"
-      },
-      {
-        "word": "dictates",
-        "translation": "指示、命令の内容"
-      },
-      {
-        "word": "act swiftly",
-        "translation": "速やかに行動する"
-      },
-      {
-        "word": "implement",
-        "translation": "実施する"
-      },
-      {
-        "word": "upon receipt",
-        "translation": "受領次第"
-      }
-    ]
-  },
-  {
-    "category": "Civil Preservation (民事保全法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Disposition on Movable Property",
     "definition": "A preservation measure aimed at maintaining the status quo or temporarily securing the future enforcement of a claim, specifically concerning the control or transfer of physical, movable assets (not real estate).",
     "japaneseDefinition": "将来の債権の強制的な実現を確保するため、または現状を維持するために、不動産以外の有体動産に対する占有や処分を制限する保全措置。",
@@ -10418,6 +10380,120 @@
       {
         "word": "Specified Period",
         "translation": "指定期間"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interim Relief Target Specification",
+    "definition": "The statutory requirement in Civil Preservation Law that the applicant must clearly delineate the specific subject matter (e.g., movable assets, real assets, or a specific status) that the preservation aims to protect.",
+    "japaneseDefinition": "民事保全の申立てにおいて、その対象となる具体的な財産や地位を明確に指定すること。",
+    "japaneseWordTranslation": "保全の目的物の特定 (ほぜんのもくてきぶつのとくてい)",
+    "legalContext": "Civil Preservation Law Art. 12 (Specification of object of preservation).",
+    "japaneseLegalContext": "民事保全法第12条（保全の目的物の特定）",
+    "exampleSentence": "The application was dismissed due to failure in the Interim Relief Target Specification, as the protected funds were described too vaguely.",
+    "exampleTranslation": "保全対象の資金があまりにも曖昧に記述されていたため、中間的救済対象の特定に失敗し、申立ては却下された。",
+    "vocabularyList": [
+      {
+        "word": "application",
+        "translation": "申立て"
+      },
+      {
+        "word": "dismissed",
+        "translation": "却下された"
+      },
+      {
+        "word": "statutory requirement",
+        "translation": "法定の要件"
+      },
+      {
+        "word": "real assets",
+        "translation": "不動産"
+      },
+      {
+        "word": "vaguely",
+        "translation": "曖昧に"
+      },
+      {
+        "word": "delineate",
+        "translation": "明確に定める"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Danger of Adverse Change",
+    "definition": "The standard of urgency required for granting an interim status-securing measure, meaning that without the measure, the prevailing party risks suffering significant, irreversible harm.",
+    "japaneseDefinition": "保全処分の要件として、対象となる法律関係について現状を維持しないことにより、当事者にとって著しく不利益な事態が発生する切迫した危険。",
+    "japaneseWordTranslation": "著しい変更を生ずるおそれ (いちじるしいへんこうをしょうずるおそれ)",
+    "legalContext": "Civil Preservation Law Art. 23(2) (Grounds for interim status-securing measure).",
+    "japaneseLegalContext": "民事保全法第23条第2項（仮の地位を定める保全の必要性）",
+    "exampleSentence": "The petitioner demonstrated a clear Danger of Adverse Change, successfully arguing that they would lose their business license before the main dispute resolution was finalized.",
+    "exampleTranslation": "申立人は、主要な紛争解決が確定する前に事業許可を失うであろうと主張し、著しい変更を生ずるおそれがあることを明確に示した。",
+    "vocabularyList": [
+      {
+        "word": "petitioner",
+        "translation": "申立人"
+      },
+      {
+        "word": "urgency",
+        "translation": "切迫した状況"
+      },
+      {
+        "word": "business license",
+        "translation": "事業許可"
+      },
+      {
+        "word": "main dispute resolution",
+        "translation": "主要な紛争解決"
+      },
+      {
+        "word": "irreversible harm",
+        "translation": "回復不能の損害"
+      },
+      {
+        "word": "prevailing party",
+        "translation": "勝訴の見込みのある者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Temporary Status Quo Configuration",
+    "definition": "An interim measure aimed at provisionally setting the legal relationship or position between parties in order to prevent irreparable harm during the pendency of a substantive legal contest.",
+    "japaneseDefinition": "争いのある法律関係について、本案の紛争が解決するまで、当事者間の暫定的な地位や関係を定めるための法的な措置。",
+    "japaneseWordTranslation": "仮の地位の確保 (かりのちいのかくほ)",
+    "legalContext": "Civil Preservation Law Art. 23(2) (Measures to establish temporary status).",
+    "japaneseLegalContext": "民事保全法第23条第2項（仮の地位を定める措置）",
+    "exampleSentence": "The judicial official granted the Temporary Status Quo Configuration, compelling the company to temporarily reinstate the dismissed director pending the outcome of the substantive deliberation.",
+    "exampleTranslation": "裁判上の機関は、本案の審理が完了するまで、会社に解雇された取締役を一時的に復職させることを強制する仮の地位の確保を許可した。",
+    "vocabularyList": [
+      {
+        "word": "judicial official",
+        "translation": "裁判上の機関"
+      },
+      {
+        "word": "substantive deliberation",
+        "translation": "本案の審理"
+      },
+      {
+        "word": "temporarily reinstate",
+        "translation": "一時的に復職させる"
+      },
+      {
+        "word": "dismissed director",
+        "translation": "解雇された取締役"
+      },
+      {
+        "word": "irreparable harm",
+        "translation": "回復不能な不利益"
+      },
+      {
+        "word": "legal contest",
+        "translation": "法的な争い"
       }
     ]
   }

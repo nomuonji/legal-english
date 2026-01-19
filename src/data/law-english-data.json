@@ -1,46 +1,38 @@
 {
-  "category": "Companies Act (会社法)",
+  "category": "Civil Preservation (民事保全法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Stock Acquisition Rights",
-  "definition": "The right granted to the holder to acquire shares of the company pursuant to the terms determined in advance, often utilized for employee incentives or financing.",
-  "japaneseDefinition": "会社に対し、あらかじめ定められた条件に従い、会社の株式の交付を受けることができる権利。通常、従業員へのインセンティブや資金調達のために用いられる。",
-  "japaneseWordTranslation": "新株予約権 (しんかぶよやくけん)",
-  "legalContext": "Companies Act Art. 236 (1): A Company may, pursuant to the provisions of the articles of incorporation, issue Stock Acquisition Rights.",
-  "japaneseLegalContext": "会社法第236条第1項：会社は、定款の定めるところにより、新株予約権を発行することができる。",
-  "exampleSentence": "The issuance of Stock Acquisition Rights must be approved by a special resolution, unless the power to decide such matters is delegated.",
-  "exampleTranslation": "新株予約権の発行は、その事項を決定する権限が委任されていない限り、特別決議によって承認を得なければならない。",
+  "word": "Preservation Enforcement",
+  "definition": "The official act of implementing or carrying out the dictates of a preservation order (e.g., freezing assets or prohibiting a specific action) by a judicial enforcement officer or other competent authority.",
+  "japaneseDefinition": "保全命令の内容を具体的に実現するための行為であり、裁判所の執行官またはその他の権限ある機関によって行われるもの。",
+  "japaneseWordTranslation": "保全執行 (ほぜんしっこう)",
+  "legalContext": "Civil Preservation Act Art. 43: Preservation Enforcement shall commence upon the obligee obtaining the preservation order and requesting the enforcement officer to implement the measure.",
+  "japaneseLegalContext": "民事保全法第43条: 保全執行は、債権者が保全命令を取得し、かつ、執行官に対し保全処分の実施を申し立てることにより開始する。",
+  "exampleSentence": "The period for Preservation Enforcement is often strictly limited under Japanese law, requiring the obligee to act swiftly upon receipt of the order.",
+  "exampleTranslation": "日本の法律では、保全執行の期間は厳しく制限されることが多く、債権者は命令受領後速やかに行動することが求められる。",
   "vocabularyList": [
     {
-      "word": "issuance",
-      "translation": "発行"
+      "word": "enforcement officer",
+      "translation": "執行官"
     },
     {
-      "word": "pursuant to",
-      "translation": "〜に従い"
+      "word": "competent authority",
+      "translation": "権限ある機関"
     },
     {
-      "word": "resolution",
-      "translation": "決議"
+      "word": "dictates",
+      "translation": "指示、命令の内容"
     },
     {
-      "word": "delegated",
-      "translation": "委任された"
+      "word": "act swiftly",
+      "translation": "速やかに行動する"
     },
     {
-      "word": "acquire",
-      "translation": "取得する"
+      "word": "implement",
+      "translation": "実施する"
     },
     {
-      "word": "incentives",
-      "translation": "インセンティブ（報奨）"
-    },
-    {
-      "word": "terms",
-      "translation": "条件"
-    },
-    {
-      "word": "financing",
-      "translation": "資金調達"
+      "word": "upon receipt",
+      "translation": "受領次第"
     }
   ]
 }

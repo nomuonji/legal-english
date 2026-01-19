@@ -10692,5 +10692,81 @@
         "translation": "主張する"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Custodian Certificate for Paid-in Capital",
+    "definition": "A document issued by a financial institution certifying that the capital contributions for the establishment or capital increase of a stock company have been fully paid and are being held securely by the institution.",
+    "japaneseDefinition": "株式会社の設立または増資に際し、払込金が金融機関に全額払い込まれ、保管されていることを証明するために発行される書面。",
+    "japaneseWordTranslation": "払込金等の保管証明書 (haraikomikin-tō no hokanshōmeisho)",
+    "legalContext": "Companies Act Art. 34, para. 1: For the registration of incorporation, the application must be accompanied by the document certifying the payment of the subscription price.",
+    "japaneseLegalContext": "会社法第34条第1項: 設立の登記の申請書には、出資に係る払込みがあったことを証する書面を添付しなければならない。",
+    "exampleSentence": "The registration application for the capital increase was rejected because the submitted custodian certificate for paid-in capital lacked the necessary seals and date stamps.",
+    "exampleTranslation": "提出された払込金等の保管証明書に必要な押印や日付印が欠けていたため、増資の登記申請は却下された。",
+    "vocabularyList": [
+      {
+        "word": "Financial institution",
+        "translation": "金融機関 (kin'yū kikan)"
+      },
+      {
+        "word": "Capital increase",
+        "translation": "増資 (zōshi)"
+      },
+      {
+        "word": "Stock company",
+        "translation": "株式会社 (kabushiki kaisha)"
+      },
+      {
+        "word": "Subscription price",
+        "translation": "払込金額 (haraikomikinjō)"
+      },
+      {
+        "word": "Registration application",
+        "translation": "登記申請 (tōki shinsei)"
+      },
+      {
+        "word": "Establishment",
+        "translation": "設立 (setsuritsu)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Priority Based on Acceptance Time",
+    "definition": "The rule stipulating that the rank (priority) of registered matters is determined by the date and time the registration application was formally accepted by the Registrar's Office.",
+    "japaneseDefinition": "登記された事項の順位が、登記申請書が登記所に受理された年月日及び時刻によって決定されるという原則。",
+    "japaneseWordTranslation": "申請の受付時刻による順位 (shinsei no uketsuke jikoku ni yoru jun'i)",
+    "legalContext": "Commercial Registration Act Art. 26: The rank of registered matters shall be determined by the date and time of acceptance of the application.",
+    "japaneseLegalContext": "商業登記法第26条: 登記の順位は、申請の受付の年月日及び時刻による。",
+    "exampleSentence": "In case of conflicting registrations filed on the same day, the dispute over priority was resolved by determining the priority based on acceptance time, noted precisely in the register.",
+    "exampleTranslation": "同日に提出された競合する登記の場合、優先順位に関する紛争は、登記簿に正確に記録された受付時刻による順位を決定することで解決された。",
+    "vocabularyList": [
+      {
+        "word": "Rank / Priority",
+        "translation": "順位 (jun'i)"
+      },
+      {
+        "word": "Conflicting registrations",
+        "translation": "競合する登記 (kyōgō suru tōki)"
+      },
+      {
+        "word": "Registrar's Office",
+        "translation": "登記所 (tōkisho)"
+      },
+      {
+        "word": "Resolved",
+        "translation": "解決された (kaiketsu sareta)"
+      },
+      {
+        "word": "Application",
+        "translation": "申請 (shinsei)"
+      },
+      {
+        "word": "Accepted",
+        "translation": "受理された (juri sareta)"
+      }
+    ]
   }
 ]

@@ -12214,5 +12214,107 @@
         "translation": "評価 (ひょうか)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Tribunal",
+    "definition": "The judicial body designated under the Civil Execution Act (usually the District Court) responsible for handling, directing, and supervising the various procedures of compulsory execution, such as those involving real property, vessels, and claims.",
+    "japaneseDefinition": "民事執行法に基づき、不動産、船舶、債権などに対する強制執行の手続きを管轄し、指揮監督する裁判所（主に地方裁判所）。",
+    "japaneseWordTranslation": "執行裁判所 (しっこうさいばんしょ)",
+    "legalContext": "Civil Execution Act Art. 47(1): 'Execution against immovable property shall be administered by the district court having jurisdiction over the location of the immovable property.'",
+    "japaneseLegalContext": "民事執行法第47条第1項: 「不動産に対する強制執行は、その所在地を管轄する地方裁判所が執行裁判所として実施する。」",
+    "exampleSentence": "The Execution Tribunal must assess whether the prerequisites for the commencement of execution have been formally satisfied before issuing the order.",
+    "exampleTranslation": "執行裁判所は、開始決定を出す前に、執行開始の要件が形式的に満たされているかどうかを審査しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "prerequisites",
+        "translation": "要件 (ようけん)"
+      },
+      {
+        "word": "formally satisfied",
+        "translation": "形式的に満たされた (けいしきてきにみたされた)"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行 (きょうせいしっこう)"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産 (ふどうさん)"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄 (かんかつ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Necessary Daily Use Items Exemption",
+    "definition": "A statutory exclusion under the Civil Execution Act prohibiting the seizure of certain items and funds that are essential for the debtor and their dependent family members to maintain a minimal standard of daily living.",
+    "japaneseDefinition": "債務者及びその同居の親族の生活に必要不可欠な物品や金銭（例：生活必需品、一定額以下の現金、給与の一部）について、差押えを禁止する規定。",
+    "japaneseWordTranslation": "生活必需品差押禁止 (せいかつひつじゅひんさしおさえきんし)",
+    "legalContext": "Civil Execution Act Art. 131: 'The following property shall not be seized: 1. Clothes, bedding, kitchen utensils... and other items that are indispensable for the lives of the obligor and their relatives living together.'",
+    "japaneseLegalContext": "民事執行法第131条: 「次に掲げる動産は、差し押さえてはならない。一　債務者及びその親族その他の者で債務者と共同して生活を営むもの必要な衣服、寝具、台所用具…その他の生活に欠くことのできない物」",
+    "exampleSentence": "The enforcement agent determined that the antique clock was not covered by the necessary daily use items exemption and proceeded with its seizure.",
+    "exampleTranslation": "執行官は、その骨董品の時計が生活必需品差押禁止の対象外であると判断し、差押えを進めた。",
+    "vocabularyList": [
+      {
+        "word": "statutory exclusion",
+        "translation": "法的除外 (ほうてきじょがい)"
+      },
+      {
+        "word": "dependent family members",
+        "translation": "扶養家族 (ふようかぞく)"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え (さしおさえ)"
+      },
+      {
+        "word": "enforcement agent",
+        "translation": "執行官 (しっこうかん)"
+      },
+      {
+        "word": "antique",
+        "translation": "骨董品 (こっとうひん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Succession to Execution Obligation",
+    "definition": "The legal mechanism required to make an existing execution title enforceable against a person who has succeeded to the execution obligation of the original judgment debtor, typically due to inheritance or organizational restructuring.",
+    "japaneseDefinition": "既存の執行債務が、相続や法人合併などによって第三者に移転した場合に、その承継人に対して執行力を及ぼすために必要な法的な手続き。",
+    "japaneseWordTranslation": "執行債務の承継 (しっこうさいむのしょうけい)",
+    "legalContext": "Civil Execution Act Art. 23: Specifies the requirements for the grant of an execution clause against the successor to the obligor, enabling succession to execution obligation.",
+    "japaneseLegalContext": "民事執行法第23条: 債務者の承継人に対する執行文の付与の要件を規定し、執行債務の承継を可能にする。",
+    "exampleSentence": "The creditor filed a petition demonstrating the obligor's death and the heir's succession to execution obligation before resuming the garnishment proceedings.",
+    "exampleTranslation": "債権者は、差押え手続を再開する前に、債務者の死亡と相続人による執行債務の承継を証明する申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "execution title",
+        "translation": "債務名義 (さいむめいぎ)"
+      },
+      {
+        "word": "heir",
+        "translation": "相続人 (そうぞくにん)"
+      },
+      {
+        "word": "organizational restructuring",
+        "translation": "組織再編 (そしきさいへん)"
+      },
+      {
+        "word": "garnishment proceedings",
+        "translation": "差押手続 (さしおさえしゅつづき)"
+      },
+      {
+        "word": "to file a petition",
+        "translation": "申立てを行う (もうしたてをおこなう)"
+      }
+    ]
   }
 ]

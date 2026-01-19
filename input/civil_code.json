@@ -14664,5 +14664,119 @@
         "translation": "返還 (へんかん)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Unauthorized Representation",
+    "definition": "An act performed by an individual representing another without holding the necessary power of agency (authority). Such an act is typically ineffective against the principal unless ratified.",
+    "japaneseDefinition": "代理権のない者が他人の代理人としてした行為。本人が追認しない限り、本人に対してその効力を生じない。",
+    "japaneseWordTranslation": "無権代理 (むけんだいり)",
+    "legalContext": "Civil Code Art. 113: A contract concluded by a person who does not have power of agency as an agent of another person shall not be effective against the principal, unless ratified by the principal.",
+    "japaneseLegalContext": "民法第113条: 代理権を有しない者が他人の代理人としてした契約は、本人がこれを追認しなければ、本人に対してその効力を生じない。",
+    "exampleSentence": "The contract signed by the employee was an act of unauthorized representation, requiring the subsequent ratification by the company’s Board of Directors to become effective.",
+    "exampleTranslation": "その従業員が署名した契約は無権代理行為であり、効力を生じさせるには、会社の取締役会による事後の追認が必要である。",
+    "vocabularyList": [
+      {
+        "word": "principal",
+        "translation": "本人"
+      },
+      {
+        "word": "ratification",
+        "translation": "追認"
+      },
+      {
+        "word": "power of agency",
+        "translation": "代理権"
+      },
+      {
+        "word": "ineffective",
+        "translation": "効力を生じない"
+      },
+      {
+        "word": "subsequent",
+        "translation": "事後の"
+      },
+      {
+        "word": "Board of Directors",
+        "translation": "取締役会"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution of a Will",
+    "definition": "The legal process of ensuring that the provisions set forth in a valid testament (will) are carried out as intended by the deceased, typically managed by a designated executor.",
+    "japaneseDefinition": "遺言の内容を具体的に実現するための行為。遺言執行者が財産の管理や名義変更などを行う。",
+    "japaneseWordTranslation": "遺言の執行 (いごんのしっこう)",
+    "legalContext": "Civil Code Art. 1006: An executor of a will must immediately perform the duties related to the execution of the will upon the commencement of succession.",
+    "japaneseLegalContext": "民法第1006条: 遺言執行者は、相続の開始後直ちにその職務を行わなければならない。",
+    "exampleSentence": "The execution of a will requires the executor to first prepare an inventory of the decedent’s assets and liabilities before distribution to the heirs.",
+    "exampleTranslation": "遺言の執行には、遺言執行者が相続人への分配の前に、まず被相続人の資産及び負債の目録を作成することが必要となる。",
+    "vocabularyList": [
+      {
+        "word": "executor",
+        "translation": "遺言執行者"
+      },
+      {
+        "word": "provisions",
+        "translation": "規定（内容）"
+      },
+      {
+        "word": "decedent",
+        "translation": "被相続人"
+      },
+      {
+        "word": "inventory",
+        "translation": "目録"
+      },
+      {
+        "word": "liabilities",
+        "translation": "負債"
+      },
+      {
+        "word": "heirs",
+        "translation": "相続人"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Place of Performance",
+    "definition": "The specific location where the obligor (debtor) is required to render performance of the obligation, determined by agreement, custom, or statutory default rules.",
+    "japaneseDefinition": "債務者が債務の本旨に従った給付（履行）をすべき場所。特約や慣習がない場合、民法の原則により定められる。",
+    "japaneseWordTranslation": "履行地 (りこうち)",
+    "legalContext": "Civil Code Art. 484: If there is no manifestation of intention regarding the place of performance, performance of an obligation other than the delivery of a specific thing shall be made at the current domicile of the obligee.",
+    "japaneseLegalContext": "民法第484条: 弁済をすべき場所について別段の意思表示がないときは、特定物の引渡し以外の債務については、債権者の現在の住所においてするものとする。",
+    "exampleSentence": "In the absence of a contractual clause specifying the place of performance, the payment obligation must be fulfilled at the creditor's business address.",
+    "exampleTranslation": "履行地を特定する契約条項がない場合、支払義務は債権者の営業所住所において履行されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "render performance",
+        "translation": "履行する"
+      },
+      {
+        "word": "domicile",
+        "translation": "住所"
+      },
+      {
+        "word": "contractual clause",
+        "translation": "契約条項"
+      },
+      {
+        "word": "business address",
+        "translation": "営業所住所"
+      }
+    ]
   }
 ]

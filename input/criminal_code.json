@@ -2,44 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Omission Crime",
-    "definition": "A crime established by the failure to perform a legally required action, thereby resulting in the prohibited outcome, provided the individual had a legal duty and the physical ability to act (Fusaķuhan).",
-    "japaneseDefinition": "行為者が法的な作為義務と行為能力を有していながら、その作為を行わなかったことにより、結果として犯罪が成立すること。",
-    "japaneseWordTranslation": "不作為犯 (ふさくい はん)",
-    "legalContext": "Criminal Code: While the Code does not explicitly define 'omission crime,' the concept is derived through judicial interpretation relating to duties arising from law, contract, or prior conduct.",
-    "japaneseLegalContext": "刑法：不作為犯の規定は明文化されていないが、法令、契約、または先行行為に基づく作為義務が判例を通じて確立されている。",
-    "exampleSentence": "The caretaker was charged with an omission crime, specifically abandonment causing death, due to her deliberate failure to provide necessary medical care.",
-    "exampleTranslation": "その介護人は、意図的に必要な医療ケアを提供しなかったため、不作為犯、具体的には保護責任者遺棄致死罪で起訴された。",
-    "vocabularyList": [
-      {
-        "word": "legally required action",
-        "translation": "法的に要求される行為"
-      },
-      {
-        "word": "prohibited outcome",
-        "translation": "禁止された結果"
-      },
-      {
-        "word": "legal duty",
-        "translation": "作為義務"
-      },
-      {
-        "word": "caretaker",
-        "translation": "介護人"
-      },
-      {
-        "word": "abandonment causing death",
-        "translation": "保護責任者遺棄致死罪"
-      },
-      {
-        "word": "judicial interpretation",
-        "translation": "判例による解釈"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Destruction of Evidence",
     "definition": "The crime committed by a person who destroys, damages, conceals, or falsifies evidence related to the criminal case of another person, with the intent to hamper judicial proceedings or investigation.",
     "japaneseDefinition": "他人の刑事事件に関する証拠を、捜査や司法手続を妨害する目的で、隠滅、損壊、変造、または偽造する罪。",
@@ -12590,6 +12552,120 @@
       {
         "word": "imprisonment with labor",
         "translation": "懲役"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Crime of Disclosure of Secrets",
+    "definition": "The offense committed by a physician, pharmacist, lawyer, or other professional who, without justifiable grounds, discloses a secret learned in the course of professional duties.",
+    "japaneseDefinition": "医師、薬剤師、弁護士等の職務上知り得た他人の秘密を、正当な理由なく漏らす行為を処罰する犯罪。",
+    "japaneseWordTranslation": "秘密漏示罪 (ひみつろうじざい)",
+    "legalContext": "Criminal Code Art. 134 (刑法第134条): 'A doctor, pharmacist, seller of medicine, midwife, lawyer, counsel, notary public or person who was formerly engaged in such profession, who without justifiable ground discloses a secret of another person learned in the course of his or her duties, shall be punished...'",
+    "japaneseLegalContext": "刑法第134条: 医師、薬剤師、医薬品販売業者、助産師、弁護士、弁護人、公証人又はこれらの職にあった者が、正当な理由がないのに、その業務上取り扱ったことについて知り得た人の秘密を漏らしたときは…",
+    "exampleSentence": "The former employee faced criminal charges for the crime of disclosure of secrets after leaking confidential client medical records.",
+    "exampleTranslation": "その元従業員は、機密の患者医療記録を漏洩したため、秘密漏示罪で刑事告発された。",
+    "vocabularyList": [
+      {
+        "word": "physician",
+        "translation": "医師 (いし)"
+      },
+      {
+        "word": "disclose",
+        "translation": "漏らす (もらす)"
+      },
+      {
+        "word": "professional duties",
+        "translation": "職務 (しょくむ)"
+      },
+      {
+        "word": "justifiable grounds",
+        "translation": "正当な理由 (せいとうな りゆう)"
+      },
+      {
+        "word": "confidential",
+        "translation": "機密の (きみつの)"
+      },
+      {
+        "word": "criminal charges",
+        "translation": "刑事告発 (けいじこくはつ)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Objective Elements of an Offense",
+    "definition": "The objective components of a criminal statute that must be fulfilled by the perpetrator’s conduct for the act to qualify as a specific crime (e.g., the required conduct, resulting harm, and the object of the crime).",
+    "japaneseDefinition": "特定の犯罪を成立させるために、実行行為者が満たさなければならない客観的な要件（行為、結果、対象など）のこと。",
+    "japaneseWordTranslation": "構成要件要素 (こうせいようけんようそ)",
+    "legalContext": "General Principles of Keihō (刑法総論の基本原則): The objective elements must correspond to the subjective elements (criminal intent) for criminal liability to arise, following the three-stage theory of crime (objective elements -> unlawfulness -> culpability).",
+    "japaneseLegalContext": "刑法総論の基本原則: 犯罪は、構成要件の要素が主観的要素（犯罪意思）に対応し、さらに違法性、責任の段階を経て成立する。",
+    "exampleSentence": "In an assault case, the objective elements of the offense include the physical act of using force against the victim and the resulting injury.",
+    "exampleTranslation": "暴行事件では、構成要件要素には、被害者に対する物理的な力を行使する行為と、その結果としての傷害が含まれる。",
+    "vocabularyList": [
+      {
+        "word": "statute",
+        "translation": "法令 (ほうれい)"
+      },
+      {
+        "word": "perpetrator",
+        "translation": "実行行為者 (じっこうこういしゃ)"
+      },
+      {
+        "word": "conduct",
+        "translation": "行為 (こうい)"
+      },
+      {
+        "word": "resulting harm",
+        "translation": "結果的損害 (けっかてきそんがい)"
+      },
+      {
+        "word": "criminal liability",
+        "translation": "刑事責任 (けいじせきにん)"
+      },
+      {
+        "word": "three-stage theory",
+        "translation": "三段階理論 (さんだんかいりろん)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Universal Jurisdiction",
+    "definition": "A principle of international criminal jurisdiction allowing a state to prosecute individuals for certain serious crimes, such as war crimes or piracy, regardless of where the crime took place or the nationality of the offender/victim.",
+    "japaneseDefinition": "戦争犯罪や海賊行為など、国際的に重大な犯罪について、犯罪地や犯人・被害者の国籍に関わらず、各国が裁判権を行使できるとする原則。",
+    "japaneseWordTranslation": "世界主義 (せかいしゅぎ)",
+    "legalContext": "Criminal Code Art. 4-2 (刑法第4条の2): Japan adopts this principle for specific grave offenses designated by treaty, such as offenses related to aircraft hijacking or terrorism.",
+    "japaneseLegalContext": "刑法第4条の2: 日本は、条約により指定された特定の重大犯罪（航空機強取、テロリズム等）について、この原則を採用している。",
+    "exampleSentence": "Under the principle of universal jurisdiction, a Japanese court may potentially try a non-national suspect for genocide committed outside Japanese territory.",
+    "exampleTranslation": "世界主義の原則に基づき、日本の裁判所は、日本国外で発生したジェノサイドの非国民容疑者を審理する可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "international jurisdiction",
+        "translation": "国際裁判権 (こくさいさいばんけん)"
+      },
+      {
+        "word": "prosecute",
+        "translation": "訴追する (そついする)"
+      },
+      {
+        "word": "grave offenses",
+        "translation": "重大犯罪 (じゅうだいはんざい)"
+      },
+      {
+        "word": "treaty",
+        "translation": "条約 (じょうやく)"
+      },
+      {
+        "word": "aircraft hijacking",
+        "translation": "航空機強取 (こうくうききょうしゅ)"
+      },
+      {
+        "word": "genocide",
+        "translation": "集団殺害 (しゅうだんさつがい)"
       }
     ]
   }

@@ -12426,5 +12426,81 @@
         "translation": "強制執行"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Description Statement",
+    "definition": "A document prepared by the execution court regarding real property subject to compulsory auction or compulsory administration, detailing the physical status, boundary surveys, legal relations (leases, liens), and relevant appraisal findings, serving as essential information for prospective bidders.",
+    "japaneseDefinition": "強制競売又は強制管理の対象となる不動産について、執行裁判所が作成する文書。物件の物理的状況、権利関係、公法上の制限、評価に関する事項などを記載し、入札希望者に対する情報提供を目的とする。",
+    "japaneseWordTranslation": "物件明細書 (ぶっけんめいさいしょ)",
+    "legalContext": "Civil Execution Act Art. 62: The execution court shall prepare a Property Description Statement concerning the real property subject to compulsory auction.",
+    "japaneseLegalContext": "民事執行法第62条：執行裁判所は、強制競売の対象となる不動産について、物件明細書を作成しなければならない。",
+    "exampleSentence": "Potential bidders must thoroughly review the Property Description Statement before participating in a compulsory auction to understand the property's liabilities and encumbrances.",
+    "exampleTranslation": "入札希望者は、不動産の負債や負担を理解するため、強制競売に参加する前に物件明細書を詳細に確認しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      },
+      {
+        "word": "prospective bidders",
+        "translation": "入札希望者"
+      },
+      {
+        "word": "appraisal findings",
+        "translation": "評価結果"
+      },
+      {
+        "word": "compulsory administration",
+        "translation": "強制管理"
+      },
+      {
+        "word": "encumbrances",
+        "translation": "負担"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Distribution Contest Action",
+    "definition": "A formal action brought by an execution creditor or the judgment debtor against another creditor listed in the distribution schedule, aiming to object to the ranking, amount, or inclusion of the disputed claim in the distribution of execution proceeds.",
+    "japaneseDefinition": "執行債権者または執行債務者が、作成された配当表に記載された他の債権者に対し、配当の順位、金額、または債権の存在自体に異議を唱えるために提起する訴訟。",
+    "japaneseWordTranslation": "配当異議の訴え (はいとういぎのうったえ)",
+    "legalContext": "Civil Execution Act Art. 89: An obligee or the obligor who has raised an objection to the distribution schedule must file a Distribution Contest Action within seven days from the date of the distribution proceeding.",
+    "japaneseLegalContext": "民事執行法第89条：配当期日において配当表に対する異議を述べた債権者又は債務者は、配当期日から一週間以内に配当異議の訴えを提起しなければならない。",
+    "exampleSentence": "The subsequent mortgagee filed a Distribution Contest Action, arguing that the prior lienholder’s claim was overstated and should be reduced in the final distribution schedule.",
+    "exampleTranslation": "後順位の抵当権者は、先行する担保権者の債権額が過大であり、最終的な配当表において減額されるべきだと主張し、配当異議の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "distribution schedule",
+        "translation": "配当表"
+      },
+      {
+        "word": "judgment debtor",
+        "translation": "執行債務者"
+      },
+      {
+        "word": "execution proceeds",
+        "translation": "執行による売得金"
+      },
+      {
+        "word": "mortgagee",
+        "translation": "抵当権者"
+      },
+      {
+        "word": "lienholder",
+        "translation": "先取特権者"
+      },
+      {
+        "word": "distribution proceeding",
+        "translation": "配当期日"
+      }
+    ]
   }
 ]

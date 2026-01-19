@@ -14892,5 +14892,97 @@
         "translation": "債権の弁済に充てる"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Duty to Mitigate Damages",
+    "definition": "A principle that requires the injured party (obligee) to take reasonable steps to minimize their losses following a breach of contract or tort, such that the obligor is not liable for losses that could have been reasonably avoided.",
+    "japaneseDefinition": "債務不履行や不法行為により損害を被った者が、その損害を拡大させないよう合理的な手段を講じるべき義務。加害者側はその義務を怠ったことで拡大した損害について責任を負わない。",
+    "japaneseWordTranslation": "損害軽減義務 (そんがいけいげんぎむ)",
+    "legalContext": "Civil Code Art. 416 (Scope of Damages) (This principle is derived from interpretations of causation and foreseeability under this article.)",
+    "japaneseLegalContext": "民法第416条（損害賠償の範囲）の解釈に基づく。",
+    "exampleSentence": "Because the obligee failed to take reasonable steps to find a replacement supplier, the court reduced the damages awarded due to the breach of the duty to mitigate damages.",
+    "exampleTranslation": "債権者が合理的な手段を講じて代替の供給業者を見つけようとしなかったため、裁判所は損害軽減義務の違反を理由として、裁定された損害賠償額を減額した。",
+    "vocabularyList": [
+      {
+        "word": "injured party",
+        "translation": "被侵害当事者"
+      },
+      {
+        "word": "breach of contract",
+        "translation": "契約不履行"
+      },
+      {
+        "word": "tort",
+        "translation": "不法行為"
+      },
+      {
+        "word": "reasonable steps",
+        "translation": "合理的な手段"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "damages awarded",
+        "translation": "裁定された損害賠償額"
+      },
+      {
+        "word": "replacement supplier",
+        "translation": "代替の供給業者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Warranty against Eviction",
+    "definition": "In a contract for sale, the seller's legal liability to the purchaser when a third party asserts a proprietary claim over the purchased property, resulting in the purchaser losing ownership or possession.",
+    "japaneseDefinition": "売買契約において、売主が買主に対し、目的物について第三者が所有権その他の権利を主張し、買主がその権利を失うことのないよう保証する責任。",
+    "japaneseWordTranslation": "追奪担保責任 (ついだつたんぽせきにん)",
+    "legalContext": "Civil Code Art. 562 (Buyer's Right to Demand Non-conformity Cure) and Art. 563 (Right of Demand for Compensation when Obligee has Lost Rights)",
+    "japaneseLegalContext": "民法第562条（買主の追完請求権）及び第563条（代金減額請求権）",
+    "exampleSentence": "When the third party successfully proved prior ownership of the land, the purchaser asserted the seller's warranty against eviction to claim compensation for the resulting loss.",
+    "exampleTranslation": "第三者がその土地の先行する所有権を証明したとき、買主は売主に対し、結果として生じた損失の補償を求めて追奪担保責任を主張した。",
+    "vocabularyList": [
+      {
+        "word": "contract for sale",
+        "translation": "売買契約"
+      },
+      {
+        "word": "seller",
+        "translation": "売主"
+      },
+      {
+        "word": "purchaser",
+        "translation": "買主"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "proprietary claim",
+        "translation": "所有権に基づく請求"
+      },
+      {
+        "word": "compensation",
+        "translation": "補償"
+      },
+      {
+        "word": "non-conformity",
+        "translation": "契約不適合"
+      },
+      {
+        "word": "resulting loss",
+        "translation": "結果として生じた損失"
+      }
+    ]
   }
 ]

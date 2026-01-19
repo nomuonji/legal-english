@@ -10420,5 +10420,47 @@
         "translation": "開始した"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ex Officio Factual Registration",
+    "definition": "A registration concerning the physical characteristics or status (description) of real property (e.g., completion of a new building, or demolition) carried out by the Registrar based on their own authority, without requiring an application from the property owner.",
+    "japaneseDefinition": "登記官が、申請を待たずに、職権をもって不動産の物理的状況（表示）に関する登記を行うこと。申請義務の不履行や、登記官が自ら事実を発見した場合に適用される。",
+    "japaneseWordTranslation": "職権による表示の登記 (Shokken ni yoru hyōji no tōki)",
+    "legalContext": "Real Property Registration Act Art. 28: If the Registrar finds any omission or error in the property description, they may make an ex officio factual registration after notifying the registered title holder.",
+    "japaneseLegalContext": "不動産登記法第２８条: 登記官は、表示の登記に錯誤又は遺漏があることを発見したときは、職権で、表示の登記の更正をすることができる。ただし、当該不動産の所有権の登記名義人に対し、あらかじめ、その旨を通知しなければならない。",
+    "exampleSentence": "The Registrar implemented an **ex officio factual registration** after receiving an administrative report confirming the building’s irreversible destruction by fire.",
+    "exampleTranslation": "登記官は、火災による建物の回復不能な全損を確認する行政報告を受け、職権による表示の登記を実施した。",
+    "vocabularyList": [
+      {
+        "word": "Registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "property description",
+        "translation": "表示"
+      },
+      {
+        "word": "demolition",
+        "translation": "滅失"
+      },
+      {
+        "word": "omission",
+        "translation": "遺漏"
+      },
+      {
+        "word": "title holder",
+        "translation": "登記名義人"
+      },
+      {
+        "word": "administrative report",
+        "translation": "行政報告"
+      },
+      {
+        "word": "irreversible destruction",
+        "translation": "回復不能な全損"
+      }
+    ]
   }
 ]

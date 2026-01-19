@@ -12316,5 +12316,115 @@
         "translation": "申立てを行う (もうしたてをおこなう)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution for Vacancy",
+    "definition": "A non-monetary execution procedure used to compel a debtor (or current possessor) to vacate and surrender possession of real property to the judgment obligee, typically following a judicial sale or legal dispute resolution.",
+    "japaneseDefinition": "債務者または占有者が不動産の引渡し義務を負っている場合に、強制的にその不動産の占有を執行債権者に移転させる手続。",
+    "japaneseWordTranslation": "明渡執行 (あけわたししっこう)",
+    "legalContext": "Civil Execution Act Art. 168: Compulsory execution for the delivery or surrender of real property.",
+    "japaneseLegalContext": "民事執行法第168条（不動産等の引渡しの強制執行）。",
+    "exampleSentence": "Following the compulsory auction of the apartment, the new owner filed a motion for **Execution for Vacancy** to remove the previous resident who refused to surrender possession.",
+    "exampleTranslation": "アパートの強制競売後、新所有者は、占有の明け渡しを拒否した前の居住者を退去させるために、明渡執行の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売"
+      },
+      {
+        "word": "previous resident",
+        "translation": "前の居住者"
+      },
+      {
+        "word": "surrender possession",
+        "translation": "占有を明け渡す"
+      },
+      {
+        "word": "new owner",
+        "translation": "新所有者"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Claim Vesting Order",
+    "definition": "A judicial order used in execution against claims (garnishment) that transfers the garnished claim directly to the execution obligee up to the amount of the judgment debt and execution costs, replacing the standard collection procedure.",
+    "japaneseDefinition": "差押えられた金銭債権を、執行債権者の債権額及び執行費用を限度として、執行債権者に移転させる旨の裁判所の命令。",
+    "japaneseWordTranslation": "転付命令 (てんぷめいれい)",
+    "legalContext": "Civil Execution Act Art. 159: Procedure and requirements for Assignment/Vesting Orders concerning claims.",
+    "japaneseLegalContext": "民事執行法第159条（転付命令の要件）。",
+    "exampleSentence": "The creditor requested a **Claim Vesting Order** to obtain immediate satisfaction by substituting the debtor's receivable against a major corporation for the monetary judgment.",
+    "exampleTranslation": "債権者は、主要な法人に対する債務者の売掛金を金銭判決の代わりとすることで、直ちに満足を得るため、転付命令を請求した。",
+    "vocabularyList": [
+      {
+        "word": "garnishment",
+        "translation": "差押え"
+      },
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "judgment debt",
+        "translation": "判決債務"
+      },
+      {
+        "word": "receivable",
+        "translation": "売掛金"
+      },
+      {
+        "word": "satisfaction",
+        "translation": "満足（弁済）"
+      },
+      {
+        "word": "execution costs",
+        "translation": "執行費用"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Against Incorporeal Assets",
+    "definition": "The compulsory execution procedures directed against proprietary rights that are neither real property, movable property, nor claims, such as intellectual property rights, partnership interests, or transferable membership rights.",
+    "japaneseDefinition": "不動産、動産、金銭債権以外の財産権（特許権、著作権、株式等の権利）に対する強制執行。通常、裁判所の命令に基づき特別の換価方法が採られる。",
+    "japaneseWordTranslation": "権利に対する執行 (けんりにたいするしっこう)",
+    "legalContext": "Civil Execution Act Art. 167: General provisions regarding execution against other proprietary rights.",
+    "japaneseLegalContext": "民事執行法第167条（その他の財産権に対する執行）。",
+    "exampleSentence": "In cases where the debtor’s tangible wealth is limited, the court may authorize **Execution Against Incorporeal Assets** by appointing an administrator to sell the debtor’s patent rights.",
+    "exampleTranslation": "債務者の有形財産が限られている場合、裁判所は、管理人の選任を通じて債務者の特許権を売却する、権利に対する執行を許可することがある。",
+    "vocabularyList": [
+      {
+        "word": "tangible wealth",
+        "translation": "有形財産"
+      },
+      {
+        "word": "patent rights",
+        "translation": "特許権"
+      },
+      {
+        "word": "appointing an administrator",
+        "translation": "管理人の選任"
+      },
+      {
+        "word": "proprietary rights",
+        "translation": "財産権"
+      },
+      {
+        "word": "transferable rights",
+        "translation": "譲渡可能な権利"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      }
+    ]
   }
 ]

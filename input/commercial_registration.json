@@ -10768,5 +10768,81 @@
         "translation": "受理された (juri sareta)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Assertion Restriction Principle (of unregistered matters)",
+    "definition": "The principle under Commercial Registration Law that certain matters required to be registered cannot be asserted against a good faith third party unless they have been registered.",
+    "japaneseDefinition": "商業登記法上、登記すべき事項は、登記をしていなければ善意の第三者に対抗できないという原則。",
+    "japaneseWordTranslation": "不登録事項の対抗制限の原則 (ふとうろくじこうのたいこうせいげんのげんそく)",
+    "legalContext": "Commercial Registration Act Art. 9: Matters that are required to be registered may not be asserted against a third party acting in good faith unless they have been registered.",
+    "japaneseLegalContext": "商業登記法第9条: 登記すべき事項は、登記の後でなければ、善意の第三者に対抗することができない。",
+    "exampleSentence": "Pursuant to the Assertion Restriction Principle, a company cannot rely on an unregistered change in its representative director to defend a claim brought by a third party unaware of the change.",
+    "exampleTranslation": "対抗制限の原則に基づき、会社は、代表取締役の未登記の変更を、その変更を知らない第三者からの請求に対して主張することはできない。",
+    "vocabularyList": [
+      {
+        "word": "asserted against",
+        "translation": "対抗する (たいこうする)"
+      },
+      {
+        "word": "good faith third party",
+        "translation": "善意の第三者 (ぜんいの だいさんしゃ)"
+      },
+      {
+        "word": "unregistered change",
+        "translation": "未登記の変更 (みとうきの へんこう)"
+      },
+      {
+        "word": "representative director",
+        "translation": "代表取締役 (だいひょう とりしまりやく)"
+      },
+      {
+        "word": "defend a claim",
+        "translation": "請求を防ぐ (せいきゅうを ふせぐ)"
+      },
+      {
+        "word": "rely on",
+        "translation": "依拠する (いきょする)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deemed Dissolution (due to inactivity)",
+    "definition": "A statutory measure by which the Registrar can administratively dissolve a stock company or other corporation if it has been inactive for a specified long period (usually 12 years) without filing certain required registrations.",
+    "japaneseDefinition": "長期間（通常12年間）登記の変更をしていない会社に対し、職権で解散の登記を行い、登録を抹消する法的な措置。",
+    "japaneseWordTranslation": "休眠会社のみなし解散 (きゅうみんかいしゃのみなし かいさん)",
+    "legalContext": "Commercial Registration Act Art. 472: If a stock company has not made any registration of change for twelve years, the Registrar shall, through public notice, notify the company that it will be deemed dissolved unless a notice of continuation is filed.",
+    "japaneseLegalContext": "商業登記法第472条: 株式会社が最後の登記の後12年を経過したときは、登記官は、官報による公告をすることにより、継続する旨の届出がない場合には解散したものとみなしてその登記をする旨を通知しなければならない。",
+    "exampleSentence": "The Registrar initiated the Deemed Dissolution procedure for the company after 12 years elapsed since the last registration of an officer change, as no notice of continuation of operation was filed.",
+    "exampleTranslation": "役員変更の最後の登記から12年が経過し、事業継続の届出がなかったため、登記官は当該会社に対し、みなし解散の手続きを開始した。",
+    "vocabularyList": [
+      {
+        "word": "Registrar",
+        "translation": "登記官 (とうきかん)"
+      },
+      {
+        "word": "stock company",
+        "translation": "株式会社 (かぶしきがいしゃ)"
+      },
+      {
+        "word": "inactivity",
+        "translation": "休眠 (きゅうみん)"
+      },
+      {
+        "word": "public notice",
+        "translation": "公告 (こうこく)"
+      },
+      {
+        "word": "statutory measure",
+        "translation": "法的な措置 (ほうてきな そち)"
+      },
+      {
+        "word": "notice of continuation",
+        "translation": "継続の届出 (けいぞくの とどけで)"
+      }
+    ]
   }
 ]

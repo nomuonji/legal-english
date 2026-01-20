@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Right of Access to Neighboring Land",
-    "definition": "The right of a land owner whose property is enclosed by other land and lacks access to a public road to pass through the surrounding land, typically requiring compensation for any resulting damage.",
-    "japaneseDefinition": "公道に至らない土地の所有者が、その土地を囲んでいる他の土地を通行できる権利。通行される土地の所有者に損害が生じた場合は、償金を支払う必要がある。",
-    "japaneseWordTranslation": "周囲地通行権 (しゅういちつうこうけん)",
-    "legalContext": "Civil Code Art. 210, Para. 1: “If a parcel of land has no access to a public road, the owner of the land may pass through the surrounding land owned by others to access the public road.”",
-    "japaneseLegalContext": "民法第210条第1項: 他の土地に囲まれて公道に通じない土地の所有者は、公道に至るため、その土地を囲んでいる他の土地を通行することができる。",
-    "exampleSentence": "The plaintiff sought judicial confirmation of their Right of Access to Neighboring Land after the defendant erected a fence blocking all public road access.",
-    "exampleTranslation": "被告が公道へのすべてのアクセスを遮断する塀を建設した後、原告は周囲地通行権の司法的確認を求めた。",
-    "vocabularyList": [
-      {
-        "word": "parcel of land",
-        "translation": "一筆の土地"
-      },
-      {
-        "word": "enclosed",
-        "translation": "囲まれた"
-      },
-      {
-        "word": "public road",
-        "translation": "公道"
-      },
-      {
-        "word": "compensation",
-        "translation": "償金 (又は補償)"
-      },
-      {
-        "word": "judicial confirmation",
-        "translation": "司法的確認"
-      },
-      {
-        "word": "erected a fence",
-        "translation": "塀を建設した"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Right of Retention",
     "definition": "A statutory security right allowing a lawful possessor of a movable or immovable property belonging to an obligor to retain that object until the obligor's claim arising out of the object is satisfied.",
     "japaneseDefinition": "他人の物を占有している者が、その物に関して生じた債権を有している場合に、債権の弁済を受けるまでその物を留置できる権利。",
@@ -14982,6 +14944,128 @@
       {
         "word": "resulting loss",
         "translation": "結果として生じた損失"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Contract for Sale on Trial",
+    "definition": "A sales contract stipulating that the agreement is complete only after the buyer has inspected the item and expressed their intent to purchase, or if a specified period for trial expires without refusal.",
+    "japaneseDefinition": "買主が目的物を試用し、その上で最終的な購入意思を決定する種類の売買契約。買主が定めた期間内に拒絶の意思表示をしない場合、購入の意思表示をしたものと見なされる。",
+    "japaneseWordTranslation": "試用売買 (しようばいばい)",
+    "legalContext": "Civil Code Art. 557: A contract for sale on trial is effective as a sale if the buyer accepts the offer.",
+    "japaneseLegalContext": "民法第557条: 試用売買については、買主が目的物を試用している間は、売買は、その効力を生じない。",
+    "exampleSentence": "The distributor entered into a contract for sale on trial, which stipulated a 30-day inspection period, after which acceptance would be presumed.",
+    "exampleTranslation": "販売業者は試用売買契約を締結し、そこには30日間の検査期間が定められており、その期間の経過後には承諾が推定されることになっていた。",
+    "vocabularyList": [
+      {
+        "word": "distributor",
+        "translation": "販売業者"
+      },
+      {
+        "word": "stipulated",
+        "translation": "規定された"
+      },
+      {
+        "word": "inspection period",
+        "translation": "検査期間"
+      },
+      {
+        "word": "acceptance",
+        "translation": "承諾"
+      },
+      {
+        "word": "presumed",
+        "translation": "推定される"
+      },
+      {
+        "word": "effective",
+        "translation": "効力を生ずる"
+      },
+      {
+        "word": "refusal",
+        "translation": "拒絶"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reservation of Ownership",
+    "definition": "A contractual clause, typically in installment sales, where the seller retains the legal title to the goods until the buyer has fulfilled all payment obligations, despite immediate delivery of possession.",
+    "japaneseDefinition": "売買契約において、目的物を買主に引き渡した後も、代金の完済があるまで売主がその所有権を留保する特約。担保目的で利用される。",
+    "japaneseWordTranslation": "所有権留保 (しょゆうけんりゅうほ)",
+    "legalContext": "General Principle (Interpretation of Obligation): Used primarily as a security measure, establishing a special condition for the transfer of ownership under Civil Code principles.",
+    "japaneseLegalContext": "一般原則 (債権の解釈): 民法上の所有権移転原則に対する特約として、主に担保目的で利用される。",
+    "exampleSentence": "The bank required the equipment lease to include a clear reservation of ownership clause until the final balloon payment was received.",
+    "exampleTranslation": "銀行は、最終の一括払いが受領されるまで、機器リース契約に明確な所有権留保条項を含めるよう要求した。",
+    "vocabularyList": [
+      {
+        "word": "contractual clause",
+        "translation": "契約条項"
+      },
+      {
+        "word": "installment sales",
+        "translation": "割賦販売"
+      },
+      {
+        "word": "legal title",
+        "translation": "法的権原（所有権）"
+      },
+      {
+        "word": "payment obligations",
+        "translation": "支払い義務"
+      },
+      {
+        "word": "delivery of possession",
+        "translation": "占有の引渡し"
+      },
+      {
+        "word": "security measure",
+        "translation": "担保手段"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Contract of Settlement",
+    "definition": "A type of contract (compromise) defined in the Civil Code where the parties agree to terminate a dispute or litigation by making mutual concessions.",
+    "japaneseDefinition": "当事者が互いに譲歩をして、その間に存在する争いをやめさせることを約することによって成立する契約。",
+    "japaneseWordTranslation": "和解契約 (わかいけいやく)",
+    "legalContext": "Civil Code Art. 695: The effect of compromise shall be to cause the legal relations which are the subject of the dispute to be fixed according to the contents of the compromise.",
+    "japaneseLegalContext": "民法第695条: 和解は、当事者間に存する争いをやめることを約し、互いに譲歩をすることによって、その効力を生ずる。",
+    "exampleSentence": "A contract of settlement was executed to resolve the property boundary dispute, fixing the previously contested legal relations between the neighbors.",
+    "exampleTranslation": "隣人間の係争中の法的関係を確定させるため、財産境界紛争を解決するための和解契約が締結された。",
+    "vocabularyList": [
+      {
+        "word": "compromise",
+        "translation": "譲歩"
+      },
+      {
+        "word": "dispute",
+        "translation": "争い"
+      },
+      {
+        "word": "executed",
+        "translation": "締結された"
+      },
+      {
+        "word": "resolve",
+        "translation": "解決する"
+      },
+      {
+        "word": "legal relations",
+        "translation": "法的関係"
+      },
+      {
+        "word": "contested",
+        "translation": "争われていた"
+      },
+      {
+        "word": "mutual concessions",
+        "translation": "互いの譲歩"
       }
     ]
   }

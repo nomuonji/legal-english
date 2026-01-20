@@ -13608,5 +13608,119 @@
         "translation": "裁判所書記官"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligation to Affirm or Deny Allegations",
+    "definition": "The procedural duty incumbent upon a party to clearly state whether they admit or deny the truth of the opponent's alleged material facts, or whether they lack knowledge of them, under penalty of deemed admission.",
+    "japaneseDefinition": "相手方が主張した事実に対し、その真否（認否）を明らかにする義務。これを怠ると、原則としてその事実を認めたものとみなされる。",
+    "japaneseWordTranslation": "認否義務 (にんぴぎむ)",
+    "legalContext": "Code of Civil Procedure Art. 159 (1): 'The party who has received the allegations of the opposing party shall respond specifically to whether the allegations are true or not.'",
+    "japaneseLegalContext": "民事訴訟法第159条第1項: 相手方の主張した事実を受けた当事者は、その事実が真実であるかどうかを具体的に応答しなければならない。",
+    "exampleSentence": "The defendant's failure to adhere to the obligation to affirm or deny allegations regarding the contract date resulted in the deemed admission of that fact.",
+    "exampleTranslation": "契約の日付に関する認否義務を怠った結果、被告はその事実を擬制自白したものとされた。",
+    "vocabularyList": [
+      {
+        "word": "adhere to",
+        "translation": "遵守する"
+      },
+      {
+        "word": "allegations",
+        "translation": "主張された事実"
+      },
+      {
+        "word": "resulted in",
+        "translation": "結果として生じた"
+      },
+      {
+        "word": "deemed admission",
+        "translation": "擬制自白"
+      },
+      {
+        "word": "contract date",
+        "translation": "契約日"
+      },
+      {
+        "word": "procedural duty",
+        "translation": "手続上の義務"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deemed Admission of Litigated Facts",
+    "definition": "A procedural sanction where the court treats an alleged fact as admitted by the opposing party if they fail to specifically affirm or deny it, or if they fail to appear at the oral arguments without providing a preparatory document.",
+    "japaneseDefinition": "相手方の主張する事実に対し、特定の状況（例えば、口頭弁論期日への不出頭や具体的な認否の欠如）において、その事実を争わないものとみなす制度。",
+    "japaneseWordTranslation": "訴訟上の擬制自白 (そしょうじょうのぎせいじはく)",
+    "legalContext": "Code of Civil Procedure Art. 159 (3): 'If a party fails to make a specific response... the party shall be deemed to have admitted the facts.' (This applies unless the facts are clearly unbelievable.)",
+    "japaneseLegalContext": "民事訴訟法第159条第3項: 当事者が口頭弁論において相手方の主張した事実を争うことを明らかにしないときは、その事実を自白したものとみなす。ただし、口頭弁論の全趣旨により争うことが明らかであるときは、この限りでない。",
+    "exampleSentence": "Due to the defendant's repeated non-appearance at the designated hearings, the court invoked the rule of deemed admission of litigated facts regarding the quantum of damages.",
+    "exampleTranslation": "被告が指定された期日に繰り返し不出頭したため、裁判所は損害額に関する訴訟上の擬制自白の規定を適用した。",
+    "vocabularyList": [
+      {
+        "word": "procedural sanction",
+        "translation": "手続上の制裁"
+      },
+      {
+        "word": "invoked the rule",
+        "translation": "規定を発動した"
+      },
+      {
+        "word": "non-appearance",
+        "translation": "不出頭"
+      },
+      {
+        "word": "quantum of damages",
+        "translation": "損害額"
+      },
+      {
+        "word": "alleged fact",
+        "translation": "主張された事実"
+      },
+      {
+        "word": "designated hearings",
+        "translation": "指定された期日"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Binding Effect of Judicially Noticed Facts",
+    "definition": "The principle that facts which are commonly known or officially documented (judicially noticed facts) do not require formal presentation of evidence and are binding upon the parties and the court.",
+    "japaneseDefinition": "裁判所が職務上当然に知っている事実や、一般に顕著な事実について、当事者による主張や証拠調べを要せず、かつ当事者および裁判所を拘束する効力。",
+    "japaneseWordTranslation": "裁判上の常識の拘束力 (さいばんじょうのじょうしきんのこうそくりょく)",
+    "legalContext": "Code of Civil Procedure Art. 179: 'The court may take judicial notice of facts that are obvious.' (This article establishes the basis for the effect without requiring proof.)",
+    "japaneseLegalContext": "民事訴訟法第179条: 裁判所は、顕著な事実には、職権でこれを認めることができる。",
+    "exampleSentence": "The court relied on the binding effect of judicially noticed facts regarding the official interest rates published by the central bank last year, eliminating the need for formal documentary evidence.",
+    "exampleTranslation": "裁判所は、昨年の中央銀行が公表した公定金利に関する裁判上の常識の拘束力に依拠し、正式な書証の必要性を排除した。",
+    "vocabularyList": [
+      {
+        "word": "commonly known",
+        "translation": "一般に知られた"
+      },
+      {
+        "word": "eliminating the need",
+        "translation": "必要性を排除する"
+      },
+      {
+        "word": "central bank",
+        "translation": "中央銀行"
+      },
+      {
+        "word": "official interest rates",
+        "translation": "公定金利"
+      },
+      {
+        "word": "formal documentary evidence",
+        "translation": "正式な書証"
+      },
+      {
+        "word": "binding upon",
+        "translation": "〜を拘束する"
+      }
+    ]
   }
 ]

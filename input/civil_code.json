@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Right of Retention",
-    "definition": "A statutory security right allowing a lawful possessor of a movable or immovable property belonging to an obligor to retain that object until the obligor's claim arising out of the object is satisfied.",
-    "japaneseDefinition": "他人の物を占有している者が、その物に関して生じた債権を有している場合に、債権の弁済を受けるまでその物を留置できる権利。",
-    "japaneseWordTranslation": "留置権 (りゅうちけん)",
-    "legalContext": "Civil Code Art. 295, Para. 1: 'Where a person is in possession of an object belonging to another person and has a claim which arose with respect to that object, that person may retain the object until the claim has been satisfied...'",
-    "japaneseLegalContext": "民法第295条第1項: 「他人の物を占有している者は、その物に関して生じた債権を有するときは、その債権の弁済を受けるまで、その物を留置することができる。」",
-    "exampleSentence": "The contractor exercised its right of retention over the constructed warehouse until the final payment for materials and labor was made by the client.",
-    "exampleTranslation": "請負人は、資材と労務に対する最終支払いが依頼人によってなされるまで、建設した倉庫に対する留置権を行使した。",
-    "vocabularyList": [
-      {
-        "word": "statutory security right",
-        "translation": "法定担保物権"
-      },
-      {
-        "word": "lawful possessor",
-        "translation": "適法な占有者"
-      },
-      {
-        "word": "obligor",
-        "translation": "債務者"
-      },
-      {
-        "word": "satisfied",
-        "translation": "弁済される"
-      },
-      {
-        "word": "contractor",
-        "translation": "請負人"
-      },
-      {
-        "word": "final payment",
-        "translation": "最終支払い"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Avoidance based on Fraud",
     "definition": "The ability of a party to annul a juristic act (such as a sale or gift) if their declaration of intent was induced by the opposing party’s intentional deception (fraudulent misrepresentation).",
     "japaneseDefinition": "意思表示が、相手方の欺罔行為（詐欺）によってなされた場合に、その意思表示を取り消すことができる権利。",
@@ -15066,6 +15028,124 @@
       {
         "word": "mutual concessions",
         "translation": "互いの譲歩"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Maximum Amount Guarantee",
+    "definition": "A type of suretyship contract where the guarantor assumes liability for an indeterminate range of future principal obligations arising between the obligor and the obligee, up to a pre-determined maximum amount (the security limit).",
+    "japaneseDefinition": "債務者と債権者の間に生じる不特定の将来債務を、あらかじめ定められた上限額（極度額）の範囲内で保証する契約。",
+    "japaneseWordTranslation": "根保証 (ねほしょう)",
+    "legalContext": "Civil Code Art. 465-2: A revolving personal guarantee contract shall not be valid unless the maximum amount is specified.",
+    "japaneseLegalContext": "民法第465条の2（個人根保証契約の極度額）：個人根保証契約は、極度額を定めなければ、その効力を生じない。",
+    "exampleSentence": "The bank required a personal **maximum amount guarantee** specifying a security limit of 100 million yen to cover all future business debts.",
+    "exampleTranslation": "銀行は、将来の事業債務すべてをカバーするため、1億円の極度額を定めた個人**根保証**を要求した。",
+    "vocabularyList": [
+      {
+        "word": "suretyship contract",
+        "translation": "保証契約"
+      },
+      {
+        "word": "security limit",
+        "translation": "極度額 (きょくどがく)"
+      },
+      {
+        "word": "revolving personal guarantee",
+        "translation": "個人根保証契約"
+      },
+      {
+        "word": "principal obligations",
+        "translation": "元本債務"
+      },
+      {
+        "word": "indeterminate range",
+        "translation": "不特定の範囲"
+      },
+      {
+        "word": "validity",
+        "translation": "効力"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Commencement of Assistance",
+    "definition": "A judicial decision issued by the Family Court to place an individual whose capacity to manage their affairs is significantly diminished under a legal assistance regime (Hosa), limiting their ability to engage in certain major juridical acts without a designated assistant's consent.",
+    "japaneseDefinition": "事務処理能力が著しく不十分な者について、特定の重要な法律行為を行う能力を制限し、保佐人による援助を付与する家庭裁判所の決定。",
+    "japaneseWordTranslation": "保佐開始 (ほさかいし)",
+    "legalContext": "Civil Code Art. 11: A motion for the commencement of assistance shall be filed with respect to a person whose capacity to manage their affairs is significantly diminished.",
+    "japaneseLegalContext": "民法第11条（保佐開始の審判）：精神上の障害により、事理を弁識する能力が著しく不十分である者については、保佐開始の審判をすることができる。",
+    "exampleSentence": "The court decided on the **commencement of assistance** for the respondent, limiting their capacity to contract loans exceeding 3 million yen.",
+    "exampleTranslation": "裁判所は、答弁者に対し、300万円を超える融資契約を結ぶ能力を制限する**保佐開始**の決定を下した。",
+    "vocabularyList": [
+      {
+        "word": "judicial decision",
+        "translation": "審判 (しんぱん)"
+      },
+      {
+        "word": "Family Court",
+        "translation": "家庭裁判所"
+      },
+      {
+        "word": "designated assistant",
+        "translation": "保佐人 (ほさにん)"
+      },
+      {
+        "word": "manage their affairs",
+        "translation": "事務を処理する"
+      },
+      {
+        "word": "significantly diminished",
+        "translation": "著しく不十分な"
+      },
+      {
+        "word": "respondent",
+        "translation": "答弁者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Assignment of Nominal Claim",
+    "definition": "The transfer of a claim where the obligee is specified by name (non-bearer instrument). Assertion of this assignment against the obligor or a third party requires notification to the obligor or the obligor's consent, typically using an instrument bearing a fixed date.",
+    "japaneseDefinition": "債権者が特定人として指定されている債権（記名債権）の譲渡。債務者及び第三者に対抗するためには、債務者への通知または債務者の承諾が必要であり、通常は確定日付証書による。",
+    "japaneseWordTranslation": "指名債権の譲渡 (しめいさいけんのじょうと)",
+    "legalContext": "Civil Code Art. 467(1): The assignment of a nominal claim cannot be duly asserted against the debtor unless the assignor has given notice thereof to the debtor or the debtor has consented thereto.",
+    "japaneseLegalContext": "民法第467条第1項（指名債権の譲渡の対抗要件）：指名債権の譲渡は、譲渡人が債務者に通知をし、又は債務者が承諾をしなければ、債務者その他の第三者に対抗することができない。",
+    "exampleSentence": "The due process for the **assignment of a nominal claim** requires obtaining authenticated consent from the obligor to ensure opposability against other potential creditors.",
+    "exampleTranslation": "**指名債権の譲渡**における適正な手続きは、他の潜在的な債権者に対抗要件を確保するため、債務者から確定日付のある承諾を得ることを要する。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "assignor",
+        "translation": "譲渡人 (じょうとにん)"
+      },
+      {
+        "word": "non-bearer instrument",
+        "translation": "記名債権"
+      },
+      {
+        "word": "authenticated consent",
+        "translation": "確定日付のある承諾"
+      },
+      {
+        "word": "duly asserted",
+        "translation": "対抗することができる"
+      },
+      {
+        "word": "potential creditors",
+        "translation": "潜在的な債権者"
+      },
+      {
+        "word": "due process",
+        "translation": "適正な手続き"
       }
     ]
   }

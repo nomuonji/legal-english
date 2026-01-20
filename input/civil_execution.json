@@ -12540,5 +12540,81 @@
         "translation": "不動産 (ふどうさん)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligor's Asset Disclosure System",
+    "definition": "A mechanism established to improve the efficacy of execution, whereby a judgment obligor is compelled by court order to appear and swear to the accuracy of a statement detailing their assets, under penalty of a commitment order for non-compliance or false statement.",
+    "japaneseDefinition": "債務者がその財産の状況について執行裁判所に出頭し、陳述することを命じられる制度。2020年民事執行法改正により拡充され、不履行や虚偽陳述に対しては監置の制裁が科される。",
+    "japaneseWordTranslation": "債務者の財産開示制度 (さいむしゃのざいさんかいじせいど)",
+    "legalContext": "Civil Execution Act, Part IV (Arts. 196 to 205): Provisions regarding the Asset Disclosure System.",
+    "japaneseLegalContext": "民事執行法 第四章（第196条以下）：財産開示手続に関する規定。",
+    "exampleSentence": "The obligee filed a petition for the Obligor's Asset Disclosure System after repeated attempts to seize the debtor's bank accounts proved unsuccessful.",
+    "exampleTranslation": "債権者は、債務者の銀行口座の差押えを繰り返し試みたが不成功に終わったため、債務者の財産開示制度を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "Obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "Execution court",
+        "translation": "執行裁判所 (しっこうさいばんしょ)"
+      },
+      {
+        "word": "Commitment order",
+        "translation": "監置決定 (かんちけってい)"
+      },
+      {
+        "word": "Petition",
+        "translation": "申立て (もうしたて)"
+      },
+      {
+        "word": "Seize",
+        "translation": "差押える (さしおさえる)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Information Acquisition from Third Parties",
+    "definition": "A special procedure introduced in the 2020 reforms allowing the execution court, upon the obligee's motion, to order third parties (e.g., financial institutions, governmental agencies) to provide information necessary to identify the obligor's property.",
+    "japaneseDefinition": "債権執行の準備として、執行裁判所が債務者の財産に関する情報（銀行口座や給与情報など）を、金融機関や官公庁などの第三者から取得するよう命じる手続。",
+    "japaneseWordTranslation": "第三者からの情報取得手続 (だいさんしゃからのじょうほうしゅとくてつづき)",
+    "legalContext": "Civil Execution Act, Arts. 206 to 207: Procedure for Information Acquisition from Third Parties.",
+    "japaneseLegalContext": "民事執行法 第206条・207条：第三者からの情報取得手続。",
+    "exampleSentence": "In modern enforcement, utilizing the Information Acquisition from Third Parties procedure is often crucial for locating intangible assets that the debtor has concealed.",
+    "exampleTranslation": "現代の強制執行においては、第三者からの情報取得手続を利用することが、債務者が隠蔽した無体財産を突き止める上でしばしば決定的に重要となる。",
+    "vocabularyList": [
+      {
+        "word": "Intangible assets",
+        "translation": "無体財産 (むたいざいさん)"
+      },
+      {
+        "word": "Enforcement",
+        "translation": "強制執行 (きょうせいしっこう)"
+      },
+      {
+        "word": "Financial institutions",
+        "translation": "金融機関 (きんゆうきかん)"
+      },
+      {
+        "word": "Governmental agencies",
+        "translation": "官公庁 (かんこうちょう)"
+      },
+      {
+        "word": "Locating",
+        "translation": "突き止める (つきとめる)"
+      },
+      {
+        "word": "Motion",
+        "translation": "申立て (もうしたて)"
+      }
+    ]
   }
 ]

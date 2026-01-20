@@ -12782,5 +12782,131 @@
         "translation": "規定する (kitei suru)"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Attempt by unsuitable means",
+    "definition": "An act executed with criminal intent that fails to achieve the criminal result because the means employed were fundamentally incapable of producing the danger required for the crime (a form of impossibility under JCP Art. 43).",
+    "japaneseDefinition": "行為者が犯罪の意思をもって行為に及んだにもかかわらず、その用いた手段や客体によって結果発生の危険性がなく、犯罪が完成しなかった場合。",
+    "japaneseWordTranslation": "不能の結果を生ずる行為 (Funō no kekka o shōzuru kōi)",
+    "legalContext": "Japanese Criminal Code, Article 43 (Attempted Crimes and Impossibility): ... where the objective elements of the crime are not met due to impossibility stemming from the means or object used, the punishment may be reduced or the offender may be exempted from punishment.",
+    "japaneseLegalContext": "刑法第43条（中止犯及び不能犯）：実行に着手してこれを遂げなかった者でも、その行為が不能の結果を生ずべきものであつたときは、刑を減軽し、又は免除することができる。",
+    "exampleSentence": "The defense argued that administering a trivial amount of a harmless substance, believing it to be poison, was merely an **attempt by unsuitable means** and lacked the requisite objective dangerousness.",
+    "exampleTranslation": "弁護側は、それが毒薬であると信じて無害な物質の微量を投与した行為は、単に不能の結果を生ずる行為であり、必要な客観的な危険性を欠くと主張した。",
+    "vocabularyList": [
+      {
+        "word": "criminal intent",
+        "translation": "犯罪の意思"
+      },
+      {
+        "word": "requisite dangerousness",
+        "translation": "必要な危険性"
+      },
+      {
+        "word": "impossibility of crime",
+        "translation": "不能犯"
+      },
+      {
+        "word": "administer",
+        "translation": "投与する"
+      },
+      {
+        "word": "objective elements",
+        "translation": "客観的構成要件"
+      },
+      {
+        "word": "exemption from punishment",
+        "translation": "刑の免除"
+      },
+      {
+        "word": "trivial amount",
+        "translation": "微量"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Foreseeability of result",
+    "definition": "The objective standard used primarily in negligence offenses (過失犯) to determine whether the perpetrator had the capacity to anticipate the eventual criminal result based on the objective circumstances of their conduct.",
+    "japaneseDefinition": "行為者がその行為から発生する結果を、客観的な状況に基づき事前に予測できたかどうかという、過失犯における注意義務違反を判断する核心的な基準。",
+    "japaneseWordTranslation": "結果予見可能性 (Kekka yoken kanōsei)",
+    "legalContext": "General Principle of Culpability: A requirement for criminal liability is that the perpetrator must have culpability (有責性), which necessitates that the result of the act was objectively foreseeable.",
+    "japaneseLegalContext": "刑法総論における過失犯の成立要件（注意義務違反の判断基準）：過失は、結果発生の予見可能性と、結果を回避すべき義務（結果回避義務）の違反によって成立する。",
+    "exampleSentence": "To prove professional negligence resulting in death, the prosecution must demonstrate that the doctor had the **foreseeability of result** regarding the patient's deterioration if the proper procedure was not followed.",
+    "exampleTranslation": "業務上過失致死を立証するためには、適切な手順が踏まれなかった場合、その医師に患者の悪化に対する結果予見可能性があったことを検察側が立証しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "negligence offenses",
+        "translation": "過失犯"
+      },
+      {
+        "word": "culpability",
+        "translation": "有責性"
+      },
+      {
+        "word": "professional negligence",
+        "translation": "業務上過失"
+      },
+      {
+        "word": "patient's deterioration",
+        "translation": "患者の悪化"
+      },
+      {
+        "word": "proper procedure",
+        "translation": "適切な手順"
+      },
+      {
+        "word": "duty to avoid the result",
+        "translation": "結果回避義務"
+      },
+      {
+        "word": "prosecution",
+        "translation": "検察側"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Performance of duties (as justification)",
+    "definition": "A ground for justification (違法性阻却事由) where an act that otherwise constitutes a crime is deemed lawful because it was conducted by a public official or professional strictly in accordance with law or established legitimate business practices.",
+    "japaneseDefinition": "形式的には犯罪の構成要件に該当する行為であっても、法令や正当な業務に基づいて行われたため、違法性が阻却される行為。",
+    "japaneseWordTranslation": "正当行為 (Seitō kōi) / 業務に基づく行為 (Gyōmu ni motozuku kōi)",
+    "legalContext": "Japanese Criminal Code, Article 35 (Acts in Accordance with Law or in the Course of Business): Acts done in accordance with laws and regulations or in the course of legitimate business are not punishable.",
+    "japaneseLegalContext": "刑法第35条（正当行為）：法令又は正当な業務による行為は、罰しない。",
+    "exampleSentence": "The security guards' use of restraint, which would otherwise be considered confinement, was recognized by the court as a justifiable **performance of duties** necessary to protect the premises.",
+    "exampleTranslation": "警備員の拘束行為は、そうでなければ監禁と見なされるところ、施設を保護するために必要な、正当行為としての業務の遂行であると裁判所によって認められた。",
+    "vocabularyList": [
+      {
+        "word": "ground for justification",
+        "translation": "違法性阻却事由"
+      },
+      {
+        "word": "constitutes a crime",
+        "translation": "犯罪の構成要件に該当する"
+      },
+      {
+        "word": "confinement",
+        "translation": "監禁"
+      },
+      {
+        "word": "restraint",
+        "translation": "拘束"
+      },
+      {
+        "word": "legitimate business",
+        "translation": "正当な業務"
+      },
+      {
+        "word": "public official",
+        "translation": "公務員"
+      },
+      {
+        "word": "in accordance with law",
+        "translation": "法令に従って"
+      }
+    ]
   }
 ]

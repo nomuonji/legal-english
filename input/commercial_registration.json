@@ -10958,5 +10958,115 @@
         "translation": "代表取締役"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Constructive Notice (of Registered Matters)",
+    "definition": "The legal principle that once a prescribed matter is registered in the commercial register, all third parties are deemed to have knowledge of that fact, regardless of whether they actually checked the register.",
+    "japaneseDefinition": "登記された事項について、実際には知らなくても、第三者に対抗上、知っているものとして扱われるという原則。",
+    "japaneseWordTranslation": "登記の公示力 (tōki no kōjiryoku)",
+    "legalContext": "Commercial Registration Act Article 9 (Public Disclosure Effect): Registered matters shall be deemed to have come into existence upon registration, and shall not be asserted against a third party acting in good faith.",
+    "japaneseLegalContext": "商業登記法第９条（公示力）：登記した事項は、登記の後でなければ、これをもって善意の第三者に対抗することができない。",
+    "exampleSentence": "Due to the principle of constructive notice, the change in the company's stated capital became effective against the new investor immediately upon registration.",
+    "exampleTranslation": "公示力の原則により、会社の資本金の変更は、登記が完了した時点で直ちに新規の投資家に対して効力を生じた。",
+    "vocabularyList": [
+      {
+        "word": "Public Disclosure Effect",
+        "translation": "公示力 (kōjiryoku)"
+      },
+      {
+        "word": "Stated Capital",
+        "translation": "資本金 (shihonkin)"
+      },
+      {
+        "word": "Investor",
+        "translation": "投資家 (tōshika)"
+      },
+      {
+        "word": "Commercial Register",
+        "translation": "商業登記簿 (shōgyō tōkibo)"
+      },
+      {
+        "word": "Become effective",
+        "translation": "効力を生じる (kōryoku o shōjiru)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order to Supplement Defects (of Registration Application)",
+    "definition": "An administrative action by the Registrar instructing the applicant to correct deficiencies or errors in a commercial registration filing within a specified period, typically instead of immediate rejection.",
+    "japaneseDefinition": "登記官が、申請書に軽微な不備がある場合に、申請人に相当の期間を定めてその補正を命じる行政上の措置。",
+    "japaneseWordTranslation": "補正命令 (hosei meirei)",
+    "legalContext": "Commercial Registration Act Article 25 (Order to Supplement Defects): When a registration application has a defect that can be supplemented, the Registrar shall order the applicant to supplement it by designating a reasonable period.",
+    "japaneseLegalContext": "商業登記法第２５条（補正命令）：登記の申請に補正することができる欠陥があるときは、登記官は、相当の期間を定めて、申請人にこれを補正すべきことを命じなければならない。",
+    "exampleSentence": "If the submitted documentation for the officer appointment fails to comply with legal requirements, the Registrar will issue an order to supplement defects.",
+    "exampleTranslation": "役員選任のために提出された書類が法定要件を満たさない場合、登記官は補正命令を出す。",
+    "vocabularyList": [
+      {
+        "word": "Registrar",
+        "translation": "登記官 (tōkikan)"
+      },
+      {
+        "word": "Defects / Deficiencies",
+        "translation": "不備 (fubi)"
+      },
+      {
+        "word": "Application / Filing",
+        "translation": "申請 (shinsei)"
+      },
+      {
+        "word": "Applicant",
+        "translation": "申請人 (shinseinin)"
+      },
+      {
+        "word": "Rejection",
+        "translation": "却下 (kyakka)"
+      },
+      {
+        "word": "Specified Period",
+        "translation": "相当の期間 (sōtō no kikan)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cause for Registration Entry (Registration Trigger)",
+    "definition": "The specific legal event or fact (such as a corporate resolution, transfer of business, or change of address) that legally obligates a company to file for a change in the commercial register.",
+    "japaneseDefinition": "商業登記簿に記載すべき事項の変動を生じさせる法律上の原因となる事実。この事実の発生により登記義務が生じる。",
+    "japaneseWordTranslation": "登記すべき事由 (tōki subeki jiyū)",
+    "legalContext": "Commercial Registration Act Article 18 (Obligation to Register Changes in Particulars): If any registered particular changes, registration of the change must be filed within the statutory period from the date the cause for registration entry occurred.",
+    "japaneseLegalContext": "商業登記法第１８条（変更の登記）：登記した事項に変更が生じたときは、変更の登記をすべき事由が発生した日から法定の期間内に、その登記をしなければならない。",
+    "exampleSentence": "The resolution passed at the extraordinary shareholder meeting constitutes the cause for registration entry regarding the capital reduction.",
+    "exampleTranslation": "臨時株主総会で可決された決議は、資本金の額の減少に関する登記すべき事由を構成する。",
+    "vocabularyList": [
+      {
+        "word": "Resolution",
+        "translation": "決議 (ketsugi)"
+      },
+      {
+        "word": "Shareholder Meeting",
+        "translation": "株主総会 (kabunushi sōkai)"
+      },
+      {
+        "word": "Capital Reduction",
+        "translation": "資本金の額の減少 (shihonkin no gaku no genshō)"
+      },
+      {
+        "word": "Statutory Period",
+        "translation": "法定期間 (hōtei kikan)"
+      },
+      {
+        "word": "Obligation",
+        "translation": "義務 (gimu)"
+      },
+      {
+        "word": "Registered Particulars",
+        "translation": "記載事項 (kisai jikō)"
+      }
+    ]
   }
 ]

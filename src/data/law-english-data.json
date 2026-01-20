@@ -1,38 +1,38 @@
 {
   "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Right of Access to Neighboring Land",
-  "definition": "The right of a land owner whose property is enclosed by other land and lacks access to a public road to pass through the surrounding land, typically requiring compensation for any resulting damage.",
-  "japaneseDefinition": "公道に至らない土地の所有者が、その土地を囲んでいる他の土地を通行できる権利。通行される土地の所有者に損害が生じた場合は、償金を支払う必要がある。",
-  "japaneseWordTranslation": "周囲地通行権 (しゅういちつうこうけん)",
-  "legalContext": "Civil Code Art. 210, Para. 1: “If a parcel of land has no access to a public road, the owner of the land may pass through the surrounding land owned by others to access the public road.”",
-  "japaneseLegalContext": "民法第210条第1項: 他の土地に囲まれて公道に通じない土地の所有者は、公道に至るため、その土地を囲んでいる他の土地を通行することができる。",
-  "exampleSentence": "The plaintiff sought judicial confirmation of their Right of Access to Neighboring Land after the defendant erected a fence blocking all public road access.",
-  "exampleTranslation": "被告が公道へのすべてのアクセスを遮断する塀を建設した後、原告は周囲地通行権の司法的確認を求めた。",
+  "word": "Right of Retention",
+  "definition": "A statutory security right allowing a lawful possessor of a movable or immovable property belonging to an obligor to retain that object until the obligor's claim arising out of the object is satisfied.",
+  "japaneseDefinition": "他人の物を占有している者が、その物に関して生じた債権を有している場合に、債権の弁済を受けるまでその物を留置できる権利。",
+  "japaneseWordTranslation": "留置権 (りゅうちけん)",
+  "legalContext": "Civil Code Art. 295, Para. 1: 'Where a person is in possession of an object belonging to another person and has a claim which arose with respect to that object, that person may retain the object until the claim has been satisfied...'",
+  "japaneseLegalContext": "民法第295条第1項: 「他人の物を占有している者は、その物に関して生じた債権を有するときは、その債権の弁済を受けるまで、その物を留置することができる。」",
+  "exampleSentence": "The contractor exercised its right of retention over the constructed warehouse until the final payment for materials and labor was made by the client.",
+  "exampleTranslation": "請負人は、資材と労務に対する最終支払いが依頼人によってなされるまで、建設した倉庫に対する留置権を行使した。",
   "vocabularyList": [
     {
-      "word": "parcel of land",
-      "translation": "一筆の土地"
+      "word": "statutory security right",
+      "translation": "法定担保物権"
     },
     {
-      "word": "enclosed",
-      "translation": "囲まれた"
+      "word": "lawful possessor",
+      "translation": "適法な占有者"
     },
     {
-      "word": "public road",
-      "translation": "公道"
+      "word": "obligor",
+      "translation": "債務者"
     },
     {
-      "word": "compensation",
-      "translation": "償金 (又は補償)"
+      "word": "satisfied",
+      "translation": "弁済される"
     },
     {
-      "word": "judicial confirmation",
-      "translation": "司法的確認"
+      "word": "contractor",
+      "translation": "請負人"
     },
     {
-      "word": "erected a fence",
-      "translation": "塀を建設した"
+      "word": "final payment",
+      "translation": "最終支払い"
     }
   ]
 }

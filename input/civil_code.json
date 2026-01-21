@@ -15258,5 +15258,123 @@
         "translation": "双務契約"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exclusion Period",
+    "definition": "A statutory period (time limit) established to quickly settle or extinguish a specific right or legal relationship, often applied to formative rights. Unlike prescription, this period typically begins immediately upon the creation of the right and is neither suspended nor renewed.",
+    "japaneseDefinition": "ある種の権利または法律関係を早期に確定・消滅させるために設けられた期間であり、主に形成権に適用される。時効とは異なり、原則として期間の停止や更新の概念がない。",
+    "japaneseWordTranslation": "除斥期間 (じょせききかん)",
+    "legalContext": "Civil Code Art. 167 (2) (Specific application of period to rights derived from family/succession law, often interpreted as an exclusion period unless otherwise specified.)",
+    "japaneseLegalContext": "民法第167条第2項 (家族法・相続法上の権利行使期間への適用。特に形成権の行使期間として重要。)",
+    "exampleSentence": "The obligee’s right of avoidance must be exercised within an exclusion period of six months from the time the cause for avoidance became known.",
+    "exampleTranslation": "債権者の取消権は、取消しの原因を知った時から6か月間の除斥期間内に行使しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "formative right",
+        "translation": "形成権"
+      },
+      {
+        "word": "extinguish",
+        "translation": "消滅させる"
+      },
+      {
+        "word": "avoidance",
+        "translation": "取消し"
+      },
+      {
+        "word": "suspended",
+        "translation": "停止される"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Double Transferee",
+    "definition": "A person who is the second recipient of a real right (such as ownership) to the same property from the same transferor. Conflicts often arise regarding which transferee has priority based on whether they have satisfied the requirement for perfection.",
+    "japaneseDefinition": "同一の譲渡人から同一の不動産について所有権などの物権を二重に譲り受けた第二の買主。登記などの対抗要件の具備を巡って、最初の譲受人との権利の優劣が問題となる。",
+    "japaneseWordTranslation": "二重譲受人 (にじゅうじょうじゅにん)",
+    "legalContext": "Civil Code Art. 177 (Registration of acquisition of real rights is required to assert it against a third party).",
+    "japaneseLegalContext": "民法第177条 (不動産に関する物権の得喪及び変更は、登記をしなければ、第三者に対抗することができない。)",
+    "exampleSentence": "In a case of double transferee involving land, the party who perfects their acquisition by registration, regardless of the timing of the contract, generally prevails.",
+    "exampleTranslation": "土地に関する二重譲受の事案では、契約時期に関わらず、登記によってその取得を完成させた当事者が一般に優越する。",
+    "vocabularyList": [
+      {
+        "word": "real right",
+        "translation": "物権"
+      },
+      {
+        "word": "transferor",
+        "translation": "譲渡人"
+      },
+      {
+        "word": "property",
+        "translation": "不動産"
+      },
+      {
+        "word": "perfection",
+        "translation": "対抗要件の具備"
+      },
+      {
+        "word": "prevails",
+        "translation": "優越する"
+      },
+      {
+        "word": "acquisition",
+        "translation": "取得"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Demand Property Separation",
+    "definition": "A right granted to a decedent's creditors or legatees to treat the inherited property as separate from the inheritor’s inherent property, ensuring that estate debts are settled preferentially from the inherited assets.",
+    "japaneseDefinition": "被相続人の債権者または受遺者に認められる権利であり、相続財産と相続人固有の財産を分離して扱い、相続財産から優先的に弁済を受けることを目的とする。",
+    "japaneseWordTranslation": "財産分離請求権 (ざいさんぶんりせいきゅうけん)",
+    "legalContext": "Civil Code Art. 941 (If a demand for property separation is made, inherited property shall be deemed separate from the inheritor’s inherent property for the benefit of the decedent’s creditors and legatees.)",
+    "japaneseLegalContext": "民法第941条 (財産分離の請求があったときは、相続財産は、被相続人の債権者又は受遺者のために、相続人の固有財産と分離されたものと見なされる。)",
+    "exampleSentence": "The decedent’s creditors exercised their right to demand property separation after discovering the inheritor was heavily indebted, thereby safeguarding the estate assets.",
+    "exampleTranslation": "被相続人の債権者は、相続人が多額の負債を抱えていることを知り、財産分離請求権を行使して相続財産を保全した。",
+    "vocabularyList": [
+      {
+        "word": "decedent",
+        "translation": "被相続人"
+      },
+      {
+        "word": "legatee",
+        "translation": "受遺者"
+      },
+      {
+        "word": "inherited property",
+        "translation": "相続財産"
+      },
+      {
+        "word": "inheritor",
+        "translation": "相続人"
+      },
+      {
+        "word": "settled preferentially",
+        "translation": "優先的に弁済される"
+      },
+      {
+        "word": "safeguarding",
+        "translation": "保全"
+      },
+      {
+        "word": "inherent property",
+        "translation": "固有財産"
+      }
+    ]
   }
 ]

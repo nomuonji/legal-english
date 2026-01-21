@@ -1,38 +1,38 @@
 {
-  "category": "Real Property Registration (不動産登記法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Registration Identifier",
-  "definition": "A 12-digit security code issued by the registry office to the registered right holder, which must be provided to the registrar upon applying for subsequent registrations concerning that right.",
-  "japaneseDefinition": "登記官が登記を完了したときに、登記名義人に対して発行する12桁の符号。権利に関する登記の申請時に本人確認情報として提供される。",
-  "japaneseWordTranslation": "登記識別情報 (とうきしきべつじょうほう)",
-  "legalContext": "Real Property Registration Act (不動産登記法) Art. 21: The registrar shall issue a Registration Identifier to the registered right holder when the registration of a right has been completed.",
-  "japaneseLegalContext": "不動産登記法 第21条: 登記官は、権利に関する登記を完了したときは、登記名義人となるべき者に登記識別情報を通知しなければならない。",
-  "exampleSentence": "The new system mandates the use of the Registration Identifier instead of the traditional registration certificate (権利証) for electronic application verification.",
-  "exampleTranslation": "新制度では、電子申請の本人確認のため、従来の権利証に代わって登記識別情報の使用が義務付けられている。",
+  "word": "Third Party Debtor",
+  "definition": "In the execution of a monetary claim (such as wages or bank deposits), this refers to the natural or legal person who owes the money directly to the judgment debtor. They are obligated to make payment to the execution obligee upon receipt of a seizure order (garnishment).",
+  "japaneseDefinition": "債権執行において、債務者に対して金銭債務を負う者（例：銀行、雇用主）を指す。差押命令を受けると、執行債権者に対して弁済する義務を負う。",
+  "japaneseWordTranslation": "第三債務者 (だいさんさいむしゃ)",
+  "legalContext": "Civil Execution Act Art. 145 (1): Where a monetary claim is seized, the court shall issue an order prohibiting the judgment debtor from performing collection and disposition of the claim and prohibiting the third party debtor from performing performance to the judgment debtor.",
+  "japaneseLegalContext": "民事執行法第145条第1項：金銭の支払を目的とする債権を差し押さえる場合においては、執行裁判所は、差押命令において、債務者に対しその債権の取立てその他の処分を、第三債務者に対し債務者への弁済を、それぞれ禁止しなければならない。",
+  "exampleSentence": "The bank, acting as the Third Party Debtor, was served with a seizure order concerning the obligor's checking account balance.",
+  "exampleTranslation": "銀行は第三債務者として、債務者の当座預金残高に関する差押命令を送達された。",
   "vocabularyList": [
     {
-      "word": "security code",
-      "translation": "符号/暗証コード"
+      "word": "monetary claim",
+      "translation": "金銭債権"
     },
     {
-      "word": "registered right holder",
-      "translation": "登記名義人"
+      "word": "judgment debtor",
+      "translation": "債務者"
     },
     {
-      "word": "registrar",
-      "translation": "登記官"
+      "word": "seizure order",
+      "translation": "差押命令"
     },
     {
-      "word": "electronic application",
-      "translation": "電子申請"
+      "word": "garnishment",
+      "translation": "差押え"
     },
     {
-      "word": "verification",
-      "translation": "確認/認証"
+      "word": "checking account balance",
+      "translation": "当座預金残高"
     },
     {
-      "word": "mandates the use",
-      "translation": "使用を義務付ける"
+      "word": "obligor",
+      "translation": "債務者"
     }
   ]
 }

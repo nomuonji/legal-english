@@ -2,44 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Third Party Debtor",
-    "definition": "In the execution of a monetary claim (such as wages or bank deposits), this refers to the natural or legal person who owes the money directly to the judgment debtor. They are obligated to make payment to the execution obligee upon receipt of a seizure order (garnishment).",
-    "japaneseDefinition": "債権執行において、債務者に対して金銭債務を負う者（例：銀行、雇用主）を指す。差押命令を受けると、執行債権者に対して弁済する義務を負う。",
-    "japaneseWordTranslation": "第三債務者 (だいさんさいむしゃ)",
-    "legalContext": "Civil Execution Act Art. 145 (1): Where a monetary claim is seized, the court shall issue an order prohibiting the judgment debtor from performing collection and disposition of the claim and prohibiting the third party debtor from performing performance to the judgment debtor.",
-    "japaneseLegalContext": "民事執行法第145条第1項：金銭の支払を目的とする債権を差し押さえる場合においては、執行裁判所は、差押命令において、債務者に対しその債権の取立てその他の処分を、第三債務者に対し債務者への弁済を、それぞれ禁止しなければならない。",
-    "exampleSentence": "The bank, acting as the Third Party Debtor, was served with a seizure order concerning the obligor's checking account balance.",
-    "exampleTranslation": "銀行は第三債務者として、債務者の当座預金残高に関する差押命令を送達された。",
-    "vocabularyList": [
-      {
-        "word": "monetary claim",
-        "translation": "金銭債権"
-      },
-      {
-        "word": "judgment debtor",
-        "translation": "債務者"
-      },
-      {
-        "word": "seizure order",
-        "translation": "差押命令"
-      },
-      {
-        "word": "garnishment",
-        "translation": "差押え"
-      },
-      {
-        "word": "checking account balance",
-        "translation": "当座預金残高"
-      },
-      {
-        "word": "obligor",
-        "translation": "債務者"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Liquidation",
     "definition": "The procedural step in execution law where the seized assets—such as real property, movable assets, or ships—are converted into cash (sale proceeds) to satisfy the claims of the execution obligee. This usually involves an auction or public tender.",
     "japaneseDefinition": "差し押さえた財産（不動産、動産、船舶等）を金銭（売却代金）に換えて、執行債権者の債権を充足するために充てる手続き上の行為。通常、競売または入札によって行われる。",
@@ -12728,6 +12690,112 @@
       {
         "word": "statutory requirement",
         "translation": "法定の要件 (ほうていのようけん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Officer's Right of Entry",
+    "definition": "The statutory authority vested in an Execution Officer to enter premises (including the debtor's residence) for the purpose of commencing, carrying out, or inspecting execution measures.",
+    "japaneseDefinition": "執行官が執行行為を開始、実施、または調査するために、債務者の住居その他の場所に立ち入る法定の権限。",
+    "japaneseWordTranslation": "執行官の立入権 (しっこうかんのたちいりけん)",
+    "legalContext": "Civil Execution Act Art. 123 (Entry into Premises, etc.): The execution officer may, if necessary for performing the execution, enter premises, etc. where the obligor or third party is located...",
+    "japaneseLegalContext": "民事執行法第123条（場所への立入り等）：執行官は、執行の実施に必要なときは、債務者又は第三者の占有する場所に立ち入り、...",
+    "exampleSentence": "The Execution Officer exercised their **Execution Officer's Right of Entry** to inspect the movable property designated for seizure at the obligor’s warehouse.",
+    "exampleTranslation": "執行官は、債務者の倉庫で差押えの対象となる動産を調査するため、**執行官の立入権**を行使した。",
+    "vocabularyList": [
+      {
+        "word": "Execution Officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "premises",
+        "translation": "場所/敷地"
+      },
+      {
+        "word": "movable property",
+        "translation": "動産"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Decision Designating Exempt Property Scope",
+    "definition": "A judicial decision by the execution court to alter the legal scope of monetary claims (such as wages or deposits) that are exempt from seizure, either expanding or limiting the protected amount based on the specific circumstances of the obligor and obligee.",
+    "japaneseDefinition": "債務者及び債権者の生活状況等を考慮し、差押えが禁止されている金銭債権（給与債権など）の範囲を、執行裁判所が変更する決定。",
+    "japaneseWordTranslation": "差押禁止債権の範囲変更の決定 (さしおさえきんしさいけんのはんいへんこうのけってい)",
+    "legalContext": "Civil Execution Act Art. 153(1): The execution court may, upon petition by the obligor or obligee, designate the scope of the claim... to be excluded from seizure...",
+    "japaneseLegalContext": "民事執行法第153条第1項：執行裁判所は、債務者又は債権者の申立てにより、差押えを禁止する債権の範囲を定めることができる...",
+    "exampleSentence": "The obligor filed a petition for a **Decision Designating Exempt Property Scope** to prevent the seizure of an excessive portion of their monthly salary necessary for supporting their family.",
+    "exampleTranslation": "債務者は、家族扶養に必要な月給の過度な部分が差し押さえられるのを防ぐため、**差押禁止債権の範囲変更の決定**を求める申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "petition",
+        "translation": "申立て"
+      },
+      {
+        "word": "monetary claims",
+        "translation": "金銭債権"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "wages",
+        "translation": "給与"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Payment of Acquisition Price",
+    "definition": "The procedure in compulsory auction where the successful bidder deposits the full bid amount with the execution court, thereby causing the immediate vesting of the property title and extinguishing specific encumbrances.",
+    "japaneseDefinition": "強制競売手続において、最高価買受申出人が裁判所が定める期限までに、落札代金の全額を納付する手続き。これにより、所有権が確定的に移転する。",
+    "japaneseWordTranslation": "代金の納付 (だいきんのうふ)",
+    "legalContext": "Civil Execution Act Art. 82 (Payment of Acquisition Price): The successful bidder shall pay the acquisition price to the execution court within the period specified by the court.",
+    "japaneseLegalContext": "民事執行法第82条（代金の納付）：最高価買受申出人は、裁判所が定める期限までに、その代金を執行裁判所に納付しなければならない。",
+    "exampleSentence": "Upon **Payment of Acquisition Price**, the successful bidder was immediately deemed to have acquired ownership of the foreclosed real property, regardless of the registration transfer.",
+    "exampleTranslation": "**代金の納付**をもって、落札者は登記移転にかかわらず、直ちに差し押さえられた不動産の所有権を取得したものとみなされた。",
+    "vocabularyList": [
+      {
+        "word": "successful bidder",
+        "translation": "最高価買受申出人"
+      },
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売"
+      },
+      {
+        "word": "foreclosed real property",
+        "translation": "差し押さえられた不動産"
+      },
+      {
+        "word": "vesting of title",
+        "translation": "所有権の移転"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
       }
     ]
   }

@@ -13836,5 +13836,81 @@
         "translation": "事実認定"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Confirmation",
+    "definition": "A lawsuit filed to obtain a judgment confirming the existence or non-existence of a specific legal relationship (right or obligation) or the authenticity of a legal document.",
+    "japaneseDefinition": "現在の法律関係の存否、または証書の真否の確認を求める訴訟類型。原告に確認の利益がある場合に限って許される。",
+    "japaneseWordTranslation": "確認の訴え (Kakunin no uttae)",
+    "legalContext": "Code of Civil Procedure Art. 326: 'An action for confirmation may be brought to confirm the existence or non-existence of a legal relationship; provided, however, that this shall not apply where there is no immediate interest in confirmation.'",
+    "japaneseLegalContext": "民事訴訟法第326条: 確認の訴えは、法律関係の存否又は証書の真否の確認を求めるについて即時の利益があるものに限り、提起することができる。",
+    "exampleSentence": "The plaintiff filed an Action for Confirmation to verify the non-existence of the mortgage claim registered against their ancestral property.",
+    "exampleTranslation": "原告は、先祖伝来の不動産に登録された抵当権請求権の不存在を確認するため、確認の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "judgment",
+        "translation": "判決 (hanketsu)"
+      },
+      {
+        "word": "authenticity",
+        "translation": "真否 (shinpi)"
+      },
+      {
+        "word": "immediate interest in confirmation",
+        "translation": "即時の利益 (sokuji no rieki)"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告 (genkoku)"
+      },
+      {
+        "word": "ancestral property",
+        "translation": "先祖伝来の不動産 (senzo denrai no fudōsan)"
+      },
+      {
+        "word": "to verify",
+        "translation": "確認する (kakunin suru)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Service of Process by Public Notice",
+    "definition": "A substituted method of judicial service used when the party to be served (e.g., the defendant) has an unknown domicile or whereabouts, effected by posting a notice on the court bulletin board.",
+    "japaneseDefinition": "送達を受けるべき者の住所等が不明な場合に、裁判所書記官の職権で裁判所掲示場に掲示すること等により行う送達方法。掲示開始から2週間で効力が発生する。",
+    "japaneseWordTranslation": "公示送達 (Kōji Sōtatsu)",
+    "legalContext": "Code of Civil Procedure Art. 110: A court clerk shall effect service by public notice upon request of a party if the whereabouts of the person to be served are unknown.",
+    "japaneseLegalContext": "民事訴訟法第110条: 裁判所書記官は、次に掲げる場合に限り、当事者の申立てにより、公示送達をすることができる。一 送達を受けるべき者の住所、居所その他送達をすべき場所が知れない場合。",
+    "exampleSentence": "Since the defendant's current residence was indeterminable after diligent inquiry, the court ordered Service of Process by Public Notice, thereby advancing the litigation.",
+    "exampleTranslation": "被告の現在の居所が綿密な調査の後も判明しなかったため、裁判所は公示送達を命じ、これにより訴訟を進行させた。",
+    "vocabularyList": [
+      {
+        "word": "judicial service",
+        "translation": "送達 (sōtatsu)"
+      },
+      {
+        "word": "court clerk",
+        "translation": "裁判所書記官 (saibansho shokikan)"
+      },
+      {
+        "word": "court bulletin board",
+        "translation": "裁判所掲示場 (saibansho keijijō)"
+      },
+      {
+        "word": "whereabouts",
+        "translation": "居所 (kyosho)"
+      },
+      {
+        "word": "diligent inquiry",
+        "translation": "綿密な調査 (menmitsu na chōsa)"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告 (hikoku)"
+      }
+    ]
   }
 ]

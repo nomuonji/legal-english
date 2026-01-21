@@ -12908,5 +12908,119 @@
         "translation": "法令に従って"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Expectation of Lawful Conduct",
+    "definition": "A requisite element of criminal culpability (responsibility) in Japanese criminal law, focusing on whether the offender, under the specific circumstances, could reasonably have been expected to act in conformity with the law.",
+    "japaneseDefinition": "行為者が置かれた状況下で、法的な規範を順守する別の行為をとることが可能であったと期待しうるかという、責任非難の基礎となる要件。",
+    "japaneseWordTranslation": "期待可能性 (きたいかのうせい)",
+    "legalContext": "Criminal Law Doctrine: A fundamental prerequisite for imposing criminal responsibility (culpability), alongside capacity for responsibility.",
+    "japaneseLegalContext": "刑法上の責任論：責任非難の根拠となる要件であり、行為者の規範意識の欠如を非難できるかの判断基準。",
+    "exampleSentence": "Lack of Expectation of Lawful Conduct is a grounds for the exclusion of criminal responsibility, typically applied in rare cases of extreme duress or unavoidable necessity.",
+    "exampleTranslation": "期待可能性の欠如は刑責阻却事由であり、通常、極度の強要や避けることのできない窮迫といった稀なケースに適用される。",
+    "vocabularyList": [
+      {
+        "word": "requisite element",
+        "translation": "必須要件"
+      },
+      {
+        "word": "culpability",
+        "translation": "責任"
+      },
+      {
+        "word": "conformity with the law",
+        "translation": "法規範の順守"
+      },
+      {
+        "word": "exclusion of criminal responsibility",
+        "translation": "刑責阻却"
+      },
+      {
+        "word": "duress",
+        "translation": "強要"
+      },
+      {
+        "word": "unavoidable necessity",
+        "translation": "避けることのできない窮迫"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Theory of Act Unworthiness",
+    "definition": "A major doctrinal view in Japanese criminal law that places primary emphasis on the inherent societal unworthiness and anti-social nature of the conduct itself, rather than solely focusing on the result of the act, in assessing the unlawfulness of the crime.",
+    "japaneseDefinition": "犯罪を、法益侵害や危険性の有無よりも、法秩序に対する行為者の態度（行為の反価値性）を重視して把握する刑法学上の見解。結果無価値論と対立する。",
+    "japaneseWordTranslation": "行為無価値論 (こういむかちろん)",
+    "legalContext": "Criminal Law Doctrine: Focuses on the objective element of the offense (unlawfulness) and the necessary definition of 'act' (Kōi-ron, 行為論).",
+    "japaneseLegalContext": "刑法学上の教義：犯罪の違法性の本質を、法益侵害の結果ではなく、行為者の法規範に反する行為そのものに求める考え方。",
+    "exampleSentence": "Under the Theory of Act Unworthiness, the analysis shifts from whether the victim suffered a tangible loss to whether the perpetrator’s conduct manifested a disregard for protected legal interests.",
+    "exampleTranslation": "行為無価値論のもとでは、分析の焦点は、被害者が具体的な損害を被ったかどうかから、行為者の振る舞いが保護法益に対する軽視を示したかどうかに移る。",
+    "vocabularyList": [
+      {
+        "word": "doctrinal view",
+        "translation": "学説"
+      },
+      {
+        "word": "unworthiness",
+        "translation": "反価値性"
+      },
+      {
+        "word": "unlawfulness",
+        "translation": "違法性"
+      },
+      {
+        "word": "perpetrator",
+        "translation": "行為者"
+      },
+      {
+        "word": "tangible loss",
+        "translation": "具体的な損害"
+      },
+      {
+        "word": "protected legal interests",
+        "translation": "保護法益"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-Punishable Subsequent Act",
+    "definition": "An act following the completion of a crime (typically a property offense) that, although technically fulfilling the elements of a separate minor offense, is considered an extension of the principal crime and is therefore not independently subject to separate punishment, its unlawfulness being subsumed.",
+    "japaneseDefinition": "ある犯罪が既に成立した後、その犯罪によって得られた結果（財物など）を利用・処分・隠匿する目的で行われる行為で、先行する犯罪に違法性が吸収され、別に処罰されない行為。",
+    "japaneseWordTranslation": "不可罰的事後行為 (ふかばつてきじごこうい)",
+    "legalContext": "Criminal Law Doctrine: Rule governing the crime count theory (Zaisū-ron, 罪数論), preventing multiple prosecutions for what is essentially one continuous criminal episode.",
+    "japaneseLegalContext": "罪数論上の原則：先行犯罪の違法性が事後行為の違法性を吸収し、一個の犯罪として評価されるための原則。",
+    "exampleSentence": "The simple act of consuming counterfeit medicine after the offense of producing it was completed is generally treated as a Non-Punishable Subsequent Act, provided no new legal interest is impaired.",
+    "exampleTranslation": "製造罪の完了後に偽造薬を服用する単純な行為は、新たな法益侵害がない限り、一般的に不可罰的事後行為として扱われる。",
+    "vocabularyList": [
+      {
+        "word": "completion of a crime",
+        "translation": "犯罪の成立"
+      },
+      {
+        "word": "property offense",
+        "translation": "財産犯"
+      },
+      {
+        "word": "subsumed",
+        "translation": "吸収される"
+      },
+      {
+        "word": "principal crime",
+        "translation": "本犯"
+      },
+      {
+        "word": "counterfeit medicine",
+        "translation": "偽造薬"
+      },
+      {
+        "word": "impairment",
+        "translation": "侵害"
+      }
+    ]
   }
 ]

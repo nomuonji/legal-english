@@ -11688,5 +11688,81 @@
         "translation": "必要性を省略する (Hitsuyōsei o Shōryaku Suru)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Incorporation by Founding",
+    "definition": "A method of establishing a Stock Company (Kabushiki Kaisha) where all shares issued upon incorporation are subscribed to solely by the founders (promoters), without soliciting subscriptions from the public.",
+    "japaneseDefinition": "設立に際して発行される株式のすべてを、発起人のみが引き受けることにより会社を設立する方法。",
+    "japaneseWordTranslation": "発起設立 (Hokki Setsuritsu)",
+    "legalContext": "Companies Act Art. 25, 30: Requirements and procedures for incorporation when shares are entirely taken by founders.",
+    "japaneseLegalContext": "会社法第25条、30条：発起人が設立時に発行される株式のすべてを引き受ける場合の設立手続。",
+    "exampleSentence": "In cases of Incorporation by Founding, the inspection procedures concerning contributions in kind are simplified, provided there are no concerns regarding valuation.",
+    "exampleTranslation": "発起設立の場合、現物出資に関する検査手続きは、価額に問題がない限り、簡略化される。",
+    "vocabularyList": [
+      {
+        "word": "founders (promoters)",
+        "translation": "発起人 (Hokkinin)"
+      },
+      {
+        "word": "contributions in kind",
+        "translation": "現物出資 (Genbutsu Shusshi)"
+      },
+      {
+        "word": "inspection procedures",
+        "translation": "検査手続き (Kensa Tetsuzuki)"
+      },
+      {
+        "word": "valuation",
+        "translation": "価額 (Kagaku)"
+      },
+      {
+        "word": "Stock Company",
+        "translation": "株式会社 (Kabushiki Kaisha)"
+      },
+      {
+        "word": "are simplified",
+        "translation": "簡略化される (Kanryakuka sareru)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Self-Share Acquisition via Tender Offer",
+    "definition": "The method by which a company purchases its own shares from existing shareholders on the market using a publicly announced tender offer, subject to strict procedural and financial regulations.",
+    "japaneseDefinition": "会社が自己の株式を既存株主から買い取る際に、公開買付け（TOB）の手続きを利用する方法。厳格な手続き及び財源規制が適用される。",
+    "japaneseWordTranslation": "自己株式取得のための公開買付け (Jiko Kabushiki Shutoku no tame no Kōkai Kaitsuke)",
+    "legalContext": "Companies Act Art. 156, Financial Instruments and Exchange Act: Stipulates procedures and conditions for acquisition of own shares using a tender offer.",
+    "japaneseLegalContext": "会社法第156条、金融商品取引法：公開買付けを利用した自己株式の取得に関する手続き及び要件。",
+    "exampleSentence": "The board approved the use of a Self-Share Acquisition via Tender Offer to manage capital structure, provided the total acquisition price did not exceed the distributable amount.",
+    "exampleTranslation": "取締役会は、総取得価格が分配可能額を超過しないことを条件に、資本構成を調整するために自己株式取得のための公開買付けの利用を承認した。",
+    "vocabularyList": [
+      {
+        "word": "self-share acquisition",
+        "translation": "自己株式取得 (Jiko Kabushiki Shutoku)"
+      },
+      {
+        "word": "tender offer",
+        "translation": "公開買付け (Kōkai Kaitsuke)"
+      },
+      {
+        "word": "capital structure",
+        "translation": "資本構成 (Shihon Kōsei)"
+      },
+      {
+        "word": "acquisition price",
+        "translation": "取得価格 (Shutoku Kakaku)"
+      },
+      {
+        "word": "distributable amount",
+        "translation": "分配可能額 (Bunpai Kanōgaku)"
+      },
+      {
+        "word": "approved",
+        "translation": "承認した (Shōnin shita)"
+      }
+    ]
   }
 ]

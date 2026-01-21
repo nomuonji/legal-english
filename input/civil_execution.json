@@ -12616,5 +12616,119 @@
         "translation": "申立て (もうしたて)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Garnishment and Assignment Order",
+    "definition": "A combined court order (pursuant to Civil Execution Act) where the executing obligee (creditor) seizes a claim against a third party debtor and is subsequently assigned that seized claim at its face value, thereby extinguishing the obligee's original claim against the obligor up to that amount.",
+    "japaneseDefinition": "債権執行において、執行裁判所が、債務者の第三債務者に対する債権を差し押さえ、かつ、その債権を執行債権者の弁済に代えてその者に移転させる旨を命ずる決定。",
+    "japaneseWordTranslation": "差押え及び転付命令 (さしおさえおよびてんぷめいれい)",
+    "legalContext": "Civil Execution Act, Article 159: Effect of Assignment Order",
+    "japaneseLegalContext": "民事執行法第159条（転付命令の効力）",
+    "exampleSentence": "The execution court issued a Garnishment and Assignment Order, allowing the obligee to take over the claim held by the obligor against the third party debtor for 5 million yen.",
+    "exampleTranslation": "執行裁判所は差押え及び転付命令を発し、債権者が債務者の第三債務者に対する500万円の債権を代位取得することを認めた。",
+    "vocabularyList": [
+      {
+        "word": "executing obligee",
+        "translation": "執行債権者 (しっこうさいけんしゃ)"
+      },
+      {
+        "word": "seized claim",
+        "translation": "差押債権 (さしおさえさいけん)"
+      },
+      {
+        "word": "third party debtor",
+        "translation": "第三債務者 (だいさんさいむしゃ)"
+      },
+      {
+        "word": "face value",
+        "translation": "額面額 (がくめんがく)"
+      },
+      {
+        "word": "extinguish the claim",
+        "translation": "債権を消滅させる (さいけんをしょうめつさせる)"
+      },
+      {
+        "word": "in lieu of payment",
+        "translation": "弁済に代えて (べんさいにかえて)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Debtor Asset Disclosure System",
+    "definition": "A statutory procedural framework that allows an obligee holding an execution title (judgment) to petition the execution court to order the defaulting obligor to appear and disclose the full status of their financial assets under oath.",
+    "japaneseDefinition": "執行債権者が債務者に対し、執行裁判所に出頭し、その財産状況について陳述することを命ずるよう申し立てることができる制度。主に強制執行が不奏功に終わった後に利用される。",
+    "japaneseWordTranslation": "債務者財産開示制度 (さいむしゃざいさんかいじせいど)",
+    "legalContext": "Civil Execution Act, Articles 196 to 205 (Property Disclosure Procedure)",
+    "japaneseLegalContext": "民事執行法第196条〜第205条（財産開示手続）",
+    "exampleSentence": "Due to the lack of seizable assets, the creditor initiated the Debtor Asset Disclosure System to determine if the debtor had hidden assets abroad.",
+    "exampleTranslation": "差し押さえるべき財産が不足していたため、債権者は、債務者が海外に隠し財産を持っているか否かを判断するため、債務者財産開示制度を開始した。",
+    "vocabularyList": [
+      {
+        "word": "execution title",
+        "translation": "債務名義 (さいむめいぎ)"
+      },
+      {
+        "word": "defaulting obligor",
+        "translation": "債務不履行債務者 (さいむふりこうさいむしゃ)"
+      },
+      {
+        "word": "petition the court",
+        "translation": "裁判所に申し立てる (さいばんしょにもうしたてる)"
+      },
+      {
+        "word": "disclose assets",
+        "translation": "財産を開示する (ざいさんをかいじする)"
+      },
+      {
+        "word": "under oath",
+        "translation": "宣誓の下で (せんせいのしたで)"
+      },
+      {
+        "word": "seizable assets",
+        "translation": "差押え可能な財産 (さしおさえかのうなざいさん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action to Contest the Grant of an Execution Clause",
+    "definition": "A specific legal action filed by the judgment obligor (debtor) against the obligee (creditor) to challenge the court's prior decision to affix an execution clause (writ of execution) to the executory title, typically on grounds that the conditions for granting the clause were not met.",
+    "japaneseDefinition": "債務者が、執行機関が債務名義の正本に執行文を付与したことに対し、その付与の要件に欠陥があることを理由として、執行債権者を被告として提起する訴訟。",
+    "japaneseWordTranslation": "執行文付与に対する異議の訴え (しっこうぶんふよにたいするいぎのうったえ)",
+    "legalContext": "Civil Execution Act, Article 34 (Action to Object to the Grant of an Execution Clause)",
+    "japaneseLegalContext": "民事執行法第34条（執行文付与の訴え）",
+    "exampleSentence": "The defendant filed an Action to Contest the Grant of an Execution Clause, arguing that the conditional performance specified in the judgment had not yet been fulfilled by the plaintiff.",
+    "exampleTranslation": "被告は、判決に定められた条件付きの給付が原告によって未だ履行されていないことを理由に、執行文付与に対する異議の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "judgment obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "affix",
+        "translation": "付与する (ふよする)"
+      },
+      {
+        "word": "executory title",
+        "translation": "債務名義 (さいむめいぎ)"
+      },
+      {
+        "word": "writ of execution",
+        "translation": "執行文 (しっこうぶん)"
+      },
+      {
+        "word": "conditional performance",
+        "translation": "条件付きの給付 (じょうけんつきのきゅうふ)"
+      },
+      {
+        "word": "statutory requirement",
+        "translation": "法定の要件 (ほうていのようけん)"
+      }
+    ]
   }
 ]

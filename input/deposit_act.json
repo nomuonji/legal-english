@@ -8724,5 +8724,73 @@
         "translation": "相手方"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consigned Property",
+    "definition": "The money, securities, or tangible goods (excluding real property) that are placed in the custody of a Deposit Office pursuant to the Deposit Act, typically to discharge an obligation.",
+    "japaneseDefinition": "債務の消滅等のために、供託法に基づき供託所に預け入れられた金銭、有価証券その他の物件（不動産を除く）。",
+    "japaneseWordTranslation": "供託物 (きょうたくぶつ)",
+    "legalContext": "Deposit Act Art. 1: (Scope of Consignable Property). The Deposit Act specifies the types of assets that may be accepted by the Deposit Office.",
+    "japaneseLegalContext": "供託法第1条（供託し得る財産の範囲）。供託法は、供託所が受入れ可能な財産の種類を規定している。",
+    "exampleSentence": "If the obligee unjustifiably refuses the tender of payment, the obligor may effect the discharge by consigning the Consigned Property to the appropriate Deposit Office.",
+    "exampleTranslation": "債権者が正当な理由なく弁済の提供を拒否する場合、債務者は、適切な供託所に供託物を供託することで、債務の消滅を成立させることができる。",
+    "vocabularyList": [
+      {
+        "word": "Obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "Tender of payment",
+        "translation": "弁済の提供 (べんさいのていきょう)"
+      },
+      {
+        "word": "Discharge",
+        "translation": "債務の消滅 (さいむのしょうめつ)"
+      },
+      {
+        "word": "Securities",
+        "translation": "有価証券 (ゆうかしょうけん)"
+      },
+      {
+        "word": "Custody",
+        "translation": "保管 (ほかん)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Filer of Deposit",
+    "definition": "The party (e.g., an obligor or a security provider) who makes the application and submits the assets to the Deposit Office to effect a consignment under the Deposit Act.",
+    "japaneseDefinition": "供託法に基づき、供託を実行するために申請を行い、供託所に対して供託物を提出する当事者（例：債務者や担保提供者）。",
+    "japaneseWordTranslation": "供託者 (きょうたくしゃ)",
+    "legalContext": "Deposit Act Art. 2: (Filing Requirement). The act of consignment must be initiated by the Filer of Deposit through a written application.",
+    "japaneseLegalContext": "供託法第2条（供託の要件）。供託の行為は、供託者による書面での申請をもって開始されなければならない。",
+    "exampleSentence": "The Filer of Deposit must clearly identify the intended recipient of the Consigned Property and the legal cause of the consignment in the filing document.",
+    "exampleTranslation": "供託者は、供託書類において、供託物の被供託者（受け取るべき者）と供託の法的な原因を明確に特定しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Application",
+        "translation": "申請 (しんせい)"
+      },
+      {
+        "word": "Security provider",
+        "translation": "担保提供者 (たんぽていきょうしゃ)"
+      },
+      {
+        "word": "Consignment",
+        "translation": "供託 (きょうたく)"
+      },
+      {
+        "word": "Intended recipient",
+        "translation": "被供託者 (ひきょうたくしゃ)"
+      },
+      {
+        "word": "Filing document",
+        "translation": "供託書類 (きょうたくしょるい)"
+      }
+    ]
   }
 ]

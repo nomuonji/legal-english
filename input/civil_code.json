@@ -15148,5 +15148,115 @@
         "translation": "適正な手続き"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Aggregate Thing",
+    "definition": "A legally recognized collection or mass of movable or immovable things (such as livestock, inventory, or a library) that is treated as a single entity for purposes such as ownership transfer or security interests, even though its individual components may change.",
+    "japaneseDefinition": "多数の独立した物が、経済的な一体性により、法律上、一個の物として取り扱われる集合体。特に動産の所有権移転や担保設定の対象となる場合に用いられる法理。",
+    "japaneseWordTranslation": "集合物 (しゅうごうぶつ)",
+    "legalContext": "Principle applied in determining the scope of ownership or security interests over interchangeable assets (e.g., inventory) where the identity of the mass is maintained (often related to chattel mortgages).",
+    "japaneseLegalContext": "動産譲渡担保の設定において、目的物を特定し、一つの財産として扱うための法理。",
+    "exampleSentence": "The bank secured a floating charge over the debtor’s entire inventory, which is legally recognized as an aggregate thing, ensuring the security interest remains valid despite the rotation of stock.",
+    "exampleTranslation": "銀行は、債務者の全在庫品に対して変動担保を設定したが、これは法的に集合物として認められており、在庫の入れ替わりにもかかわらず担保権が有効に保たれる。",
+    "vocabularyList": [
+      {
+        "word": "floating charge",
+        "translation": "変動担保"
+      },
+      {
+        "word": "inventory",
+        "translation": "在庫品"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権"
+      },
+      {
+        "word": "rotation of stock",
+        "translation": "在庫の入れ替わり"
+      },
+      {
+        "word": "movable things",
+        "translation": "動産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Liability",
+    "definition": "Liability that is imposed directly by a statute (such as the Civil Code) rather than arising from a specific contractual agreement between parties. This primarily encompasses tort liability (unlawful acts) and specific no-fault liabilities.",
+    "japaneseDefinition": "当事者間の契約に基づくものではなく、法律の規定に基づいて当然に発生する責任。不法行為責任や特定の場合の無過失責任などがこれにあたる。",
+    "japaneseWordTranslation": "法定責任 (ほうていせきにん)",
+    "legalContext": "Contrast with contractual liability (債務不履行責任). Often used in reference to liability for unlawful acts (torts) under Civil Code Art. 709 et seq.",
+    "japaneseLegalContext": "契約責任（債務不履行責任）と対比される概念。民法第709条以下の不法行為責任など。",
+    "exampleSentence": "The company faced statutory liability for the environmental contamination caused by its operations, irrespective of any specific contractual obligations to the local residents.",
+    "exampleTranslation": "その会社は、地域住民に対する特定の契約上の義務とは無関係に、操業によって引き起こされた環境汚染に対して法定責任を負った。",
+    "vocabularyList": [
+      {
+        "word": "contractual liability",
+        "translation": "契約責任"
+      },
+      {
+        "word": "unlawful act",
+        "translation": "不法行為"
+      },
+      {
+        "word": "no-fault liability",
+        "translation": "無過失責任"
+      },
+      {
+        "word": "environmental contamination",
+        "translation": "環境汚染"
+      },
+      {
+        "word": "irrespective of",
+        "translation": "〜にかかわらず"
+      },
+      {
+        "word": "statute",
+        "translation": "法令"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consideration",
+    "definition": "In the context of Japanese Civil Law (which does not use the common law doctrine of consideration), this term refers to the equivalent value or counter-performance exchanged in a contract, distinguishing onerous (synallagmatic) contracts from gratuitous acts.",
+    "japaneseDefinition": "双務契約において、一方当事者が相手方から得る反対給付または等価の価値。有償行為（対価性のある行為）と無償行為を区別する概念。",
+    "japaneseWordTranslation": "対価 (たいか)",
+    "legalContext": "Crucial concept in defining the nature of bilateral contracts (synallagmatic contracts), such as sales (Civil Code Art. 555), where performance is exchanged for consideration.",
+    "japaneseLegalContext": "双務契約、特に売買契約（民法555条）などの有償行為の性質を定める上で重要な概念。反対給付。",
+    "exampleSentence": "A donee in a gift contract is generally not required to provide any consideration, unless the gift is one with a burden attached (donation with burden).",
+    "exampleTranslation": "受贈者は、贈与に負担が付されている場合（負担付贈与）を除き、一般的に、対価を提供することは要求されない。",
+    "vocabularyList": [
+      {
+        "word": "donee",
+        "translation": "受贈者"
+      },
+      {
+        "word": "gift contract",
+        "translation": "贈与契約"
+      },
+      {
+        "word": "counter-performance",
+        "translation": "反対給付"
+      },
+      {
+        "word": "onerous contract",
+        "translation": "有償契約"
+      },
+      {
+        "word": "donation with burden",
+        "translation": "負担付贈与"
+      },
+      {
+        "word": "synallagmatic contract",
+        "translation": "双務契約"
+      }
+    ]
   }
 ]

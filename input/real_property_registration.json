@@ -2,44 +2,6 @@
   {
     "category": "Real Property Registration (不動産登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Registration Identifier",
-    "definition": "A 12-digit security code issued by the registry office to the registered right holder, which must be provided to the registrar upon applying for subsequent registrations concerning that right.",
-    "japaneseDefinition": "登記官が登記を完了したときに、登記名義人に対して発行する12桁の符号。権利に関する登記の申請時に本人確認情報として提供される。",
-    "japaneseWordTranslation": "登記識別情報 (とうきしきべつじょうほう)",
-    "legalContext": "Real Property Registration Act (不動産登記法) Art. 21: The registrar shall issue a Registration Identifier to the registered right holder when the registration of a right has been completed.",
-    "japaneseLegalContext": "不動産登記法 第21条: 登記官は、権利に関する登記を完了したときは、登記名義人となるべき者に登記識別情報を通知しなければならない。",
-    "exampleSentence": "The new system mandates the use of the Registration Identifier instead of the traditional registration certificate (権利証) for electronic application verification.",
-    "exampleTranslation": "新制度では、電子申請の本人確認のため、従来の権利証に代わって登記識別情報の使用が義務付けられている。",
-    "vocabularyList": [
-      {
-        "word": "security code",
-        "translation": "符号/暗証コード"
-      },
-      {
-        "word": "registered right holder",
-        "translation": "登記名義人"
-      },
-      {
-        "word": "registrar",
-        "translation": "登記官"
-      },
-      {
-        "word": "electronic application",
-        "translation": "電子申請"
-      },
-      {
-        "word": "verification",
-        "translation": "確認/認証"
-      },
-      {
-        "word": "mandates the use",
-        "translation": "使用を義務付ける"
-      }
-    ]
-  },
-  {
-    "category": "Real Property Registration (不動産登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Ancillary Registration",
     "definition": "A supplementary registration performed beneath the main (principal) registration entry, which shares the same rank of priority as the principal registration and is typically used for changes to the details of the right or transfers of security interests.",
     "japaneseDefinition": "主登記の順位を保つために、主登記の欄の下に付記して行われる登記。権利の変更や担保権の移転などに行われる。",
@@ -10722,6 +10684,120 @@
       {
         "word": "fixed",
         "translation": "画定された (かくていされた)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Priority Rule",
+    "definition": "The principle establishing the hierarchy of registered rights (such as mortgages or superficies) on the same real property, determined strictly by the time and order in which the registration applications were received by the registry office.",
+    "japaneseDefinition": "同一の不動産上に登記された複数の権利（抵当権や地上権など）の優劣を決める原則であり、登記申請書が登記所に受け付けられた時間の前後によって順位が決定されるもの。",
+    "japaneseWordTranslation": "登記の順位 (Tōki no Jun'i)",
+    "legalContext": "Real Property Registration Act, Article 5, Paragraph 1: 'The priority of registrations concerning rights shall be determined according to the order of acceptance.'",
+    "japaneseLegalContext": "不動産登記法第5条第1項: 権利に関する登記の順位は、法令に別段の定めがある場合を除き、登記の前後による。",
+    "exampleSentence": "Under the Registration Priority Rule, the second mortgage filed, even if securing a larger debt, is subordinate to the first mortgage.",
+    "exampleTranslation": "登記の順位の原則に基づき、より大きな債務を担保する第二抵当権であっても、第一抵当権に対しては劣後する。",
+    "vocabularyList": [
+      {
+        "word": "hierarchy",
+        "translation": "優劣関係"
+      },
+      {
+        "word": "subordinate",
+        "translation": "劣後する"
+      },
+      {
+        "word": "superficies",
+        "translation": "地上権"
+      },
+      {
+        "word": "mortgage",
+        "translation": "抵当権"
+      },
+      {
+        "word": "acceptance",
+        "translation": "受付"
+      },
+      {
+        "word": "registered rights",
+        "translation": "登記された権利"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Factual Status",
+    "definition": "The legal term referring to the physical and objective attributes of a piece of real property (land or building), including its location, area, type (for land), structure, and usage (for buildings), which are recorded in the indication section of the registry.",
+    "japaneseDefinition": "不動産（土地または建物）の物理的かつ客観的な属性を示す法律用語であり、所在地、地積（面積）、地目（土地の用途）、建物の構造や種類などが登記記録の表示に関する登記に記録される事項。",
+    "japaneseWordTranslation": "不動産の物理的状況 (Fudōsan no Butsuri-teki Jōkyō)",
+    "legalContext": "Real Property Registration Act, Article 27, 35: The registration concerning the Property Factual Status must be filed within one month of the change occurring.",
+    "japaneseLegalContext": "不動産登記法第27条、第35条: 不動産の物理的状況に関する登記は、その変更が生じた日から一月以内に申請しなければならない。",
+    "exampleSentence": "The owner failed to observe the statutory deadline for filing the application when the dwelling’s Property Factual Status changed following an addition of a new wing.",
+    "exampleTranslation": "増築により居住用建物の不動産の物理的状況が変更した後、所有者は登記申請の法定期限を守れなかった。",
+    "vocabularyList": [
+      {
+        "word": "objective attributes",
+        "translation": "客観的な属性"
+      },
+      {
+        "word": "statutory deadline",
+        "translation": "法定期限"
+      },
+      {
+        "word": "land category",
+        "translation": "地目"
+      },
+      {
+        "word": "structure",
+        "translation": "構造"
+      },
+      {
+        "word": "indication section",
+        "translation": "表示の登記（記録）"
+      },
+      {
+        "word": "demolition",
+        "translation": "取り壊し"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Binding Judgment Mandate",
+    "definition": "A final and conclusive judicial decision that, when cooperation from the other party (the registration obligor or obligee) is required but refused, allows the prevailing party to unilaterally apply for the registration necessary to perfect their proprietary right.",
+    "japaneseDefinition": "登記手続において相手方（登記義務者または登記権利者）の協力が必要であるにもかかわらず、その協力が得られない場合に、勝訴した当事者が単独で権利の登記を申請することを可能にする、確定した裁判所の決定。",
+    "japaneseWordTranslation": "登記を命ずる確定判決 (Tōki o Meizuru Kakutei Kanketsu)",
+    "legalContext": "Real Property Registration Act, Article 63, Paragraph 1: An application for registration based on a final and binding judgment may be filed solely by the prevailing party.",
+    "japaneseLegalContext": "不動産登記法第63条第1項: 判決に基づく登記は、当該登記を申請する者が勝訴した登記権利者又は登記義務者である場合に限り、単独で申請することができる。",
+    "exampleSentence": "To resolve the impasse over the inheritance property, the heir obtained a Binding Judgment Mandate compelling the other co-heir to effectuate the transfer of the undivided share.",
+    "exampleTranslation": "相続財産に関する膠着状態を解決するため、相続人は、他の共同相続人に持分の移転を履行させる登記を命ずる確定判決を得た。",
+    "vocabularyList": [
+      {
+        "word": "conclusive",
+        "translation": "確定的な"
+      },
+      {
+        "word": "prevailing party",
+        "translation": "勝訴当事者"
+      },
+      {
+        "word": "impasse",
+        "translation": "膠着状態"
+      },
+      {
+        "word": "unilaterally",
+        "translation": "単独で"
+      },
+      {
+        "word": "effectuate",
+        "translation": "実現させる"
+      },
+      {
+        "word": "transfer of share",
+        "translation": "持分の移転"
       }
     ]
   }

@@ -1,38 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Real Property Registration (不動産登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Right of Retention",
-  "definition": "A statutory security right allowing a lawful possessor of a movable or immovable property belonging to an obligor to retain that object until the obligor's claim arising out of the object is satisfied.",
-  "japaneseDefinition": "他人の物を占有している者が、その物に関して生じた債権を有している場合に、債権の弁済を受けるまでその物を留置できる権利。",
-  "japaneseWordTranslation": "留置権 (りゅうちけん)",
-  "legalContext": "Civil Code Art. 295, Para. 1: 'Where a person is in possession of an object belonging to another person and has a claim which arose with respect to that object, that person may retain the object until the claim has been satisfied...'",
-  "japaneseLegalContext": "民法第295条第1項: 「他人の物を占有している者は、その物に関して生じた債権を有するときは、その債権の弁済を受けるまで、その物を留置することができる。」",
-  "exampleSentence": "The contractor exercised its right of retention over the constructed warehouse until the final payment for materials and labor was made by the client.",
-  "exampleTranslation": "請負人は、資材と労務に対する最終支払いが依頼人によってなされるまで、建設した倉庫に対する留置権を行使した。",
+  "word": "Registration Identifier",
+  "definition": "A 12-digit security code issued by the registry office to the registered right holder, which must be provided to the registrar upon applying for subsequent registrations concerning that right.",
+  "japaneseDefinition": "登記官が登記を完了したときに、登記名義人に対して発行する12桁の符号。権利に関する登記の申請時に本人確認情報として提供される。",
+  "japaneseWordTranslation": "登記識別情報 (とうきしきべつじょうほう)",
+  "legalContext": "Real Property Registration Act (不動産登記法) Art. 21: The registrar shall issue a Registration Identifier to the registered right holder when the registration of a right has been completed.",
+  "japaneseLegalContext": "不動産登記法 第21条: 登記官は、権利に関する登記を完了したときは、登記名義人となるべき者に登記識別情報を通知しなければならない。",
+  "exampleSentence": "The new system mandates the use of the Registration Identifier instead of the traditional registration certificate (権利証) for electronic application verification.",
+  "exampleTranslation": "新制度では、電子申請の本人確認のため、従来の権利証に代わって登記識別情報の使用が義務付けられている。",
   "vocabularyList": [
     {
-      "word": "statutory security right",
-      "translation": "法定担保物権"
+      "word": "security code",
+      "translation": "符号/暗証コード"
     },
     {
-      "word": "lawful possessor",
-      "translation": "適法な占有者"
+      "word": "registered right holder",
+      "translation": "登記名義人"
     },
     {
-      "word": "obligor",
-      "translation": "債務者"
+      "word": "registrar",
+      "translation": "登記官"
     },
     {
-      "word": "satisfied",
-      "translation": "弁済される"
+      "word": "electronic application",
+      "translation": "電子申請"
     },
     {
-      "word": "contractor",
-      "translation": "請負人"
+      "word": "verification",
+      "translation": "確認/認証"
     },
     {
-      "word": "final payment",
-      "translation": "最終支払い"
+      "word": "mandates the use",
+      "translation": "使用を義務付ける"
     }
   ]
 }

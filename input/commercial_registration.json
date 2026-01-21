@@ -11220,5 +11220,107 @@
         "translation": "長期の不活動 (ちょうきのふかつどう)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-assertability of Unregistered Particulars",
+    "definition": "The legal principle in commercial registration stating that matters required to be registered, even if they have occurred, cannot be asserted against a third party until the registration is officially completed (Negative Effect Principle).",
+    "japaneseDefinition": "商業登記すべき事項について、登記が完了するまでは、その事項の発生を知らない第三者に対し、その事項をもって対抗することができない原則（消極的効力）。",
+    "japaneseWordTranslation": "未登記事項の不対抗 (Mitōki jikō no futaikō)",
+    "legalContext": "Commercial Registration Act, Article 9: A registered matter shall be effective against a third party from the time of registration.",
+    "japaneseLegalContext": "商業登記法第9条: 登記は、登記をした事項につき、第三者に対抗することができる。",
+    "exampleSentence": "The company was unable to assert the removal of its former representative director against the counterparty because of the **non-assertability of unregistered particulars**.",
+    "exampleTranslation": "会社は、未登記事項の不対抗の原則により、相手方に対し、旧代表取締役の解任を主張することができなかった。",
+    "vocabularyList": [
+      {
+        "word": "Registered matter",
+        "translation": "登記事項 (Tōki jikō)"
+      },
+      {
+        "word": "Assert",
+        "translation": "対抗する (Taikō suru)"
+      },
+      {
+        "word": "Representative director",
+        "translation": "代表取締役 (Daihyō Torishimariyaku)"
+      },
+      {
+        "word": "Counterparty",
+        "translation": "相手方 (Aitegata)"
+      },
+      {
+        "word": "Negative Effect Principle",
+        "translation": "消極的効力 (Shōkyokuteki kōryoku)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Registration Period",
+    "definition": "The legally prescribed time limit within which the registration duty holder must apply for the registration of changes in corporate particulars, generally two weeks from the date the change occurred.",
+    "japaneseDefinition": "会社の登記義務者が、登記すべき事項の変更が生じた日から、法律で定められた期間内に変更登記を申請しなければならない期間。",
+    "japaneseWordTranslation": "登記申請期間 (Tōki shinsei kikan)",
+    "legalContext": "Commercial Registration Act, Article 26 (and general provisions of the Companies Act requiring registration within two weeks): Registration must be filed within two weeks from the date the cause arose.",
+    "japaneseLegalContext": "商業登記法第26条: 会社は、設立の登記のほか、登記すべき事項について変更が生じたときは、当該変更の日から二週間以内に、その本店の所在地において、変更の登記をしなければならない。",
+    "exampleSentence": "Failure to comply with the **mandatory registration period** for the capital increase resulted in an administrative penalty (*karyō*) being levied against the company's officer.",
+    "exampleTranslation": "増資に関する強制的な登記期間を遵守しなかったため、会社の役員に対して過料の行政罰が科された。",
+    "vocabularyList": [
+      {
+        "word": "Registration duty holder",
+        "translation": "登記義務者 (Tōki gīmusha)"
+      },
+      {
+        "word": "Corporate particulars",
+        "translation": "会社の登記事項 (Kaisha no tōki jikō)"
+      },
+      {
+        "word": "Administrative penalty (*karyō*)",
+        "translation": "過料 (Karyō)"
+      },
+      {
+        "word": "Capital increase",
+        "translation": "増資 (Zōshi)"
+      },
+      {
+        "word": "Levied against",
+        "translation": "科される (Kasareru)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registrar's Ex Officio Rectification",
+    "definition": "A procedure where the registrar corrects an error or omission in the commercial register on their own initiative, without requiring a formal application from the company, to ensure the accuracy of the record.",
+    "japaneseDefinition": "登記官が、商業登記簿の記載に錯誤又は遺漏を発見した場合に、当事者の申請を待つことなく、職権をもって登記の是正を行う手続き。",
+    "japaneseWordTranslation": "登記官の職権による更正 (Tōkikan no shokken ni yoru kōsei)",
+    "legalContext": "Commercial Registration Act, Article 132: If the registrar finds an error or omission in the registration, he shall rectify it ex officio.",
+    "japaneseLegalContext": "商業登記法第132条: 登記官は、登記に錯誤又は遺漏があることを発見したときは、職権でこれを更正しなければならない。",
+    "exampleSentence": "Following an internal review, the registrar initiated a **registrar's ex officio rectification** to fix the typo in the company's registered address.",
+    "exampleTranslation": "内部調査の後、登記官は会社の登記された住所の誤植を直すために職権による更正を開始した。",
+    "vocabularyList": [
+      {
+        "word": "Registrar",
+        "translation": "登記官 (Tōkikan)"
+      },
+      {
+        "word": "Error or omission",
+        "translation": "錯誤又は遺漏 (Sakugo mata wa irō)"
+      },
+      {
+        "word": "Rectification",
+        "translation": "更正 (Kōsei)"
+      },
+      {
+        "word": "Commercial register",
+        "translation": "商業登記簿 (Shōgyō tōkibo)"
+      },
+      {
+        "word": "On their own initiative (Ex officio)",
+        "translation": "職権で (Shokken de)"
+      }
+    ]
   }
 ]

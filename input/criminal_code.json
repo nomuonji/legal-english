@@ -13136,5 +13136,107 @@
         "translation": "量刑 (ryōkei)"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Aiding and Abetting",
+    "definition": "The act of providing assistance or facilitating the commission of a principal offense, distinguishing it from joint commission or instigation, resulting in punishment that is mitigated relative to the principal offender.",
+    "japaneseDefinition": "正犯者の実行行為を容易にするため、精神的または物理的な援助を与えること。原則として正犯の刑を減軽する。",
+    "japaneseWordTranslation": "従犯（じゅうはん）",
+    "legalContext": "Criminal Code Art. 62 (Aiding and Abetting): A person who aids and abets the commission of an offense shall be sentenced by reducing the principal's penalty.",
+    "japaneseLegalContext": "刑法第62条（従犯）: 正犯を幇助した者は、正犯の刑を減軽する。",
+    "exampleSentence": "The court found the defendant guilty of aiding and abetting the offense by providing logistical support, although he did not directly participate in the primary act.",
+    "exampleTranslation": "裁判所は、被告が主要な行為に直接関与しなかったものの、後方支援を提供したことにより従犯として有罪と認定した。",
+    "vocabularyList": [
+      {
+        "word": "principal offense",
+        "translation": "正犯（せいはん）"
+      },
+      {
+        "word": "logistical support",
+        "translation": "後方支援（こうほうしえん）"
+      },
+      {
+        "word": "facilitating",
+        "translation": "容易にする（よういにする）"
+      },
+      {
+        "word": "sentenced",
+        "translation": "刑に処する（けいにしょする）"
+      },
+      {
+        "word": "reducing the penalty",
+        "translation": "刑を減軽する（けいをげんけいする）"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Voluntary Desistance from Attempt",
+    "definition": "A provision in criminal law granting mandatory mitigation or exemption from punishment to an offender who, after commencing the execution of a crime, voluntarily abandons the commission thereof or prevents the result from occurring.",
+    "japaneseDefinition": "犯罪の実行に着手した後、自己の意思により犯罪を中止したり、結果の発生を防止した者について、刑を必ず減軽または免除する制度。",
+    "japaneseWordTranslation": "中止未遂（ちゅうし みすい）",
+    "legalContext": "Criminal Code Art. 43 (Provisions for Attempted Offenses): If an offender voluntarily desists from the commission of an offense, the penalty shall be mandatorily reduced or remitted.",
+    "japaneseLegalContext": "刑法第43条（未遂罪）: 犯罪を中止した者については、その刑を減軽し、又は免除する。",
+    "exampleSentence": "The prosecutor argued that the defendant was not eligible for voluntary desistance from attempt because the failure to complete the crime was due to external factors, not his own free will.",
+    "exampleTranslation": "検察官は、犯罪が完遂されなかったのが被告自身の自由な意思ではなく外部要因によるため、被告には中止未遂の適用資格がないと主張した。",
+    "vocabularyList": [
+      {
+        "word": "remitted",
+        "translation": "免除される（めんじょされる）"
+      },
+      {
+        "word": "external factors",
+        "translation": "外部要因（がいぶよういん）"
+      },
+      {
+        "word": "free will",
+        "translation": "自由な意思（じゆうないし）"
+      },
+      {
+        "word": "commencing the execution",
+        "translation": "実行に着手する（じっこうにちゃくしゅする）"
+      },
+      {
+        "word": "eligible",
+        "translation": "適用資格がある（てきようしかくがある）"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Aggravation of Punishment for Repeat Offense",
+    "definition": "The statutory requirement to impose a heavier penalty on an offender who commits a second specified crime within a prescribed period after having completed the service of a previous sentence of imprisonment.",
+    "japaneseDefinition": "禁錮以上の刑の執行を終えてから一定期間内に再び禁錮以上の罪を犯した者に対し、法定刑をさらに加重すること。",
+    "japaneseWordTranslation": "累犯加重（るいはん かじゅう）",
+    "legalContext": "Criminal Code Art. 56 (Punishment of Repeat Offenders): The penalty for a person who commits a second offense falling under the scope of this provision shall be aggravated.",
+    "japaneseLegalContext": "刑法第56条（累犯の加重）：この規定に該当する再犯者の刑は加重される。",
+    "exampleSentence": "Due to the application of the aggravation of punishment for repeat offense, the defendant's minimum sentence was doubled compared to the standard penalty for that crime.",
+    "exampleTranslation": "累犯加重の適用により、被告人の最低刑期は、その犯罪の標準的な刑罰と比較して倍になった。",
+    "vocabularyList": [
+      {
+        "word": "repeat offenders",
+        "translation": "再犯者（さいはんしゃ）"
+      },
+      {
+        "word": "imprisonment",
+        "translation": "禁錮（きんこ）"
+      },
+      {
+        "word": "standard penalty",
+        "translation": "標準的な刑罰（ひょうじゅんてきなけいばつ）"
+      },
+      {
+        "word": "prescribed period",
+        "translation": "一定期間（いっていきかん）"
+      },
+      {
+        "word": "minimum sentence",
+        "translation": "最低刑期（さいていけいき）"
+      }
+    ]
   }
 ]

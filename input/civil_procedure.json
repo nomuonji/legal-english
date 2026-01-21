@@ -14026,5 +14026,119 @@
         "translation": "適正手続"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Fact Determination Instance",
+    "definition": "The level of court proceedings (the first and second instances) where the court examines both questions of fact and questions of law, taking evidence and conducting a comprehensive review.",
+    "japaneseDefinition": "裁判所が証拠調べを行い、法律問題のみならず事実の存否についても審理・判断を行う審級のこと（第一審及び控訴審）。",
+    "japaneseWordTranslation": "事実審 (Jijitsu-shin)",
+    "legalContext": "Code of Civil Procedure Principle: The High Court (Kōso-shin) functions as a fact determination instance, distinguishing it from the Supreme Court (Jōkoku-shin).",
+    "japaneseLegalContext": "民事訴訟法の原則: 控訴審は、最高裁判所（上告審）とは異なり、事実審として機能する。",
+    "exampleSentence": "In Japan, the High Court functions as the second instance fact determination instance, allowing appellants to submit new facts and evidence.",
+    "exampleTranslation": "日本では、高等裁判所は第二審の事実審として機能し、控訴人が新たな事実や証拠を提出することが許される。",
+    "vocabularyList": [
+      {
+        "word": "appellant",
+        "translation": "控訴人"
+      },
+      {
+        "word": "second instance",
+        "translation": "第二審"
+      },
+      {
+        "word": "evidence",
+        "translation": "証拠"
+      },
+      {
+        "word": "High Court",
+        "translation": "高等裁判所"
+      },
+      {
+        "word": "Jōkoku-shin",
+        "translation": "上告審 (Court of Final Appeal)"
+      },
+      {
+        "word": "comprehensive review",
+        "translation": "包括的な審査"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Procedural Admission of Claim",
+    "definition": "A procedural act by the defendant, formally recorded in court minutes, wherein the defendant accepts the plaintiff’s claim in its entirety, which has the same effect as a final judgment.",
+    "japaneseDefinition": "被告が原告の請求を全面的に認める旨を裁判上の調書に記載させる行為。確定判決と同一の効力を有する。",
+    "japaneseWordTranslation": "請求認諾 (Seikyū Nindaku)",
+    "legalContext": "Code of Civil Procedure Art. 267: Judicial admission of a claim shall have the same effect as a final and binding judgment.",
+    "japaneseLegalContext": "民事訴訟法第267条: 請求の認諾は、確定判決と同一の効力を有する。",
+    "exampleSentence": "Following the defendant’s procedural admission of claim, the court minutes were drawn up, immediately concluding the lawsuit and granting the relief sought.",
+    "exampleTranslation": "被告による請求認諾の後、裁判調書が作成され、訴訟は直ちに終結し、求められた救済が認められた。",
+    "vocabularyList": [
+      {
+        "word": "defendant",
+        "translation": "被告"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "court minutes",
+        "translation": "裁判調書"
+      },
+      {
+        "word": "final judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "procedural act",
+        "translation": "訴訟行為"
+      },
+      {
+        "word": "relief sought",
+        "translation": "請求の趣旨"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Essential Joint Litigation",
+    "definition": "A form of co-litigation where the subject matter of the suit is a legal relationship that must be determined uniformly for all parties, compelling all interested persons to be joined as necessary co-litigants.",
+    "japaneseDefinition": "訴訟の目的である法律関係が共同訴訟人全員について合一に確定されなければならない性質上、全員が共同して訴訟を行わなければならない共同訴訟。",
+    "japaneseWordTranslation": "固有必要的共同訴訟 (Koyu Hitsuyōteki Kyōdō Soshō)",
+    "legalContext": "Code of Civil Procedure Art. 40: Necessary co-litigation is required when the legal relationship, by its nature, demands a uniform determination concerning all co-litigants.",
+    "japaneseLegalContext": "民事訴訟法第40条: 訴訟の目的が共同訴訟人の全員について合一に確定すべき場合、当該法律関係の性質上、必要的共同訴訟となる。",
+    "exampleSentence": "Actions concerning the declaration of non-existence of a partnership constitute essential joint litigation, meaning every partner must participate in the suit.",
+    "exampleTranslation": "組合の不存在確認に関する訴えは、固有必要的共同訴訟を構成し、全ての組合員が訴訟に参加しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "co-litigation",
+        "translation": "共同訴訟"
+      },
+      {
+        "word": "legal relationship",
+        "translation": "法律関係"
+      },
+      {
+        "word": "uniformly determined",
+        "translation": "合一に確定される"
+      },
+      {
+        "word": "co-litigants",
+        "translation": "共同訴訟人"
+      },
+      {
+        "word": "partnership",
+        "translation": "組合"
+      },
+      {
+        "word": "declaration of non-existence",
+        "translation": "不存在確認"
+      }
+    ]
   }
 ]

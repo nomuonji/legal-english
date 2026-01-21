@@ -12798,5 +12798,119 @@
         "translation": "執行裁判所"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Official Certification of Executory Force",
+    "definition": "The procedural requirement wherein the execution court clerk, upon the obligee's motion, affixes a special clause (執行文, shikkōbun) to the enforceable instrument (execution title), verifying that the instrument is valid and any condition precedent to execution has been satisfied.",
+    "japaneseDefinition": "債務名義が執行力を有すること、及び執行開始の条件が満たされていることを証明するため、執行裁判所書記官が債務名義の正本に執行文を付記する行為。",
+    "japaneseWordTranslation": "執行文の付与 (Shikkōbun no Fuyo)",
+    "legalContext": "Civil Execution Act (民事執行法) Article 26 (Requirements for Commencement of Compulsory Execution): Execution shall be commenced upon application of the obligee in possession of the executory instrument affixed with an Official Certification of Executory Force.",
+    "japaneseLegalContext": "民事執行法第26条（強制執行開始の要件）: 強制執行は、執行文の付された債務名義の正本に基づいて行われる。",
+    "exampleSentence": "The obligee must obtain the Official Certification of Executory Force for the certified copy of the judgment before applying to the enforcement agent for physical execution.",
+    "exampleTranslation": "債権者は、執行官に現物執行の申立てを行う前に、判決正本について執行文の付与を得なければならない。",
+    "vocabularyList": [
+      {
+        "word": "enforceable instrument",
+        "translation": "債務名義 (Saimu Meigi)"
+      },
+      {
+        "word": "court clerk",
+        "translation": "裁判所書記官 (Saibansho Shokikan)"
+      },
+      {
+        "word": "condition precedent",
+        "translation": "停止条件 (Teishi Jōken)"
+      },
+      {
+        "word": "certified copy",
+        "translation": "正本 (Seihon)"
+      },
+      {
+        "word": "application",
+        "translation": "申立て (Mōshitate)"
+      },
+      {
+        "word": "physical execution",
+        "translation": "現物執行 (Genbutsu Shikkō)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Garnishment of Receivables",
+    "definition": "A form of monetary compulsory execution in which the execution court issues a levy order against the monetary claims (receivables) held by the obligor against a third party (the garnishee), thereby enabling the execution obligee to collect the debt directly.",
+    "japaneseDefinition": "金銭執行の一種で、債務者が第三債務者に対して有する金銭債権を執行裁判所が差し押さえ、執行債権者が直接その債権を取り立てることを可能にする手続。",
+    "japaneseWordTranslation": "債権差押え (Saiken Sashiosae)",
+    "legalContext": "Civil Execution Act (民事執行法) Article 145: The order of levy against a claim shall prohibit the obligor from assigning the claim and the third party debtor from effecting performance.",
+    "japaneseLegalContext": "民事執行法第145条: 差押命令は、債務者に対して債権の処分を禁止し、第三債務者に対して債務者への弁済を禁止する。",
+    "exampleSentence": "In order to secure payment, the execution obligee applied for Garnishment of Receivables against the obligor's bank deposit accounts and salary.",
+    "exampleTranslation": "支払いを確保するため、執行債権者は債務者の銀行預金口座と給与に対する債権差押えを申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "garnishee",
+        "translation": "第三債務者 (Daisan Saimusha)"
+      },
+      {
+        "word": "monetary compulsory execution",
+        "translation": "金銭強制執行 (Kinsen Kyōsei Shikkō)"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所 (Shikkō Saibansho)"
+      },
+      {
+        "word": "levy order",
+        "translation": "差押命令 (Sashiosae Meirei)"
+      },
+      {
+        "word": "bank deposit account",
+        "translation": "預金口座 (Yokin Kōza)"
+      },
+      {
+        "word": "salary",
+        "translation": "給与 (Kyūyo)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Compulsory Real Estate Judicial Auction",
+    "definition": "The formal procedure overseen by the execution court for realizing monetary value from a debtor’s immovable property (land or buildings) through a mandatory sale, typically involving appraisal, designation of a minimum value, bidding, and title transfer to the purchaser.",
+    "japaneseDefinition": "執行裁判所が主宰する、債務者の不動産（土地や建物）を強制的に売却して金銭的価値を実現するための手続。評価、最低売却価額の決定、入札、買受人への所有権移転を含む。",
+    "japaneseWordTranslation": "強制不動産競売 (Kyōsei Fudosan Kyōbai)",
+    "legalContext": "Civil Execution Act (民事執行法) Article 45 (Method of Monetary Execution): Compulsory execution against immovable property shall be carried out by compulsory judicial auction or compulsory administration.",
+    "japaneseLegalContext": "民事執行法第45条（金銭執行の方法）: 不動産に対する強制執行は、強制競売又は強制管理の方法により行う。",
+    "exampleSentence": "The execution court initiated the Compulsory Real Estate Judicial Auction proceedings after verifying the validity of the secured monetary claim.",
+    "exampleTranslation": "執行裁判所は、担保された金銭債権の有効性を確認した後、強制不動産競売の手続を開始した。",
+    "vocabularyList": [
+      {
+        "word": "immovable property",
+        "translation": "不動産 (Fudosan)"
+      },
+      {
+        "word": "realizing monetary value",
+        "translation": "金銭的価値の実現 (Kinsen-teki Kachi no Jitsugen)"
+      },
+      {
+        "word": "appraisal",
+        "translation": "評価 (Hyōka)"
+      },
+      {
+        "word": "compulsory judicial auction",
+        "translation": "強制競売 (Kyōsei Kyōbai)"
+      },
+      {
+        "word": "bidding",
+        "translation": "入札 (Nyūsatsu)"
+      },
+      {
+        "word": "purchaser",
+        "translation": "買受人 (Kaiuken-nin)"
+      }
+    ]
   }
 ]

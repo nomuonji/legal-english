@@ -10914,5 +10914,119 @@
         "translation": "前回の権利証"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registered Title Name Holder",
+    "definition": "The person or entity whose name is currently recorded in the property register (Section A or B) as holding the relevant right (e.g., ownership, hypothec). This refers to the factual name recorded, distinct from the registration applicant.",
+    "japaneseDefinition": "不動産登記記録の権利部（甲区または乙区）に権利者として氏名・名称が記録されている者。登記の申請者とは異なり、登記が完了した後の権利の帰属を示す。",
+    "japaneseWordTranslation": "登記名義人 (とうきめいぎにん)",
+    "legalContext": "Real Property Registration Act Article 59: The registrar shall record the address and name of the Registered Title Name Holder when executing a registration.",
+    "japaneseLegalContext": "不動産登記法第59条: 登記官は、登記をするときは、登記名義人の氏名又は名称及び住所を記録しなければならない。",
+    "exampleSentence": "The Registered Title Name Holder is presumed to be the true holder of the registered right unless evidence to the contrary is presented.",
+    "exampleTranslation": "登記名義人は、反証が提示されない限り、登記された権利の真の権利者であると推定される。",
+    "vocabularyList": [
+      {
+        "word": "property register",
+        "translation": "不動産登記記録"
+      },
+      {
+        "word": "Section A",
+        "translation": "甲区 (こうく)"
+      },
+      {
+        "word": "Section B",
+        "translation": "乙区 (おつく)"
+      },
+      {
+        "word": "presumed to be",
+        "translation": "～と推定される"
+      },
+      {
+        "word": "hypothec",
+        "translation": "抵当権"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration upon Governmental Mandate",
+    "definition": "A type of registration procedure where a public office, governmental agency, or court requests the Registrar to execute the registration, bypassing the standard private application process by the parties involved.",
+    "japaneseDefinition": "官庁又は公署が登記所に依頼して行う登記。強制的な権利変動や公的処分の公示のために行われるものであり、一般的な登記申請主義の例外である。",
+    "japaneseWordTranslation": "嘱託登記 (しょくたくとうき)",
+    "legalContext": "Real Property Registration Act Article 16: Registration upon the commission (shokutaku) of a public office or government agency shall have the same effect as a registration application.",
+    "japaneseLegalContext": "不動産登記法第16条: 官庁又は公署が登記の嘱託をする場合には、申請情報を提供することを要しない。",
+    "exampleSentence": "The judicial execution court initiates Registration upon Governmental Mandate for the registration of seizure related to compulsory auction proceedings.",
+    "exampleTranslation": "裁判所の執行機関は、強制競売手続に関連する差押えの登記のため、嘱託登記を開始する。",
+    "vocabularyList": [
+      {
+        "word": "public office",
+        "translation": "官庁又は公署"
+      },
+      {
+        "word": "judicial execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え"
+      },
+      {
+        "word": "compulsory auction proceedings",
+        "translation": "強制競売手続"
+      },
+      {
+        "word": "registration application",
+        "translation": "登記申請"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Closure of Registration Record",
+    "definition": "The administrative action taken by a registrar to officially cease the current registration record for a piece of real property, usually because the property ceases to exist (e.g., demolition) or its legal definition changes (e.g., division or consolidation).",
+    "japaneseDefinition": "不動産登記記録が、滅失、合筆、合体等の理由により、その効力を失い、登記官によって当該登記記録が使用停止され、保存される手続。",
+    "japaneseWordTranslation": "登記記録の閉鎖 (とうききろくのへいさ)",
+    "legalContext": "Real Property Registration Act Article 23: The registrar shall implement the Closure of Registration Record for the original parcels when executing registration of land consolidation.",
+    "japaneseLegalContext": "不動産登記法第23条: 登記官は、土地の合筆の登記をする場合において、合筆後の土地の登記記録以外の登記記録を閉鎖しなければならない。",
+    "exampleSentence": "Following the division of a single parcel into two new parcels, the registrar performed the Closure of Registration Record for the original parcel and established two new records.",
+    "exampleTranslation": "単一の筆を二つの新しい筆に分筆した後、登記官は元の筆について登記記録の閉鎖を行い、二つの新しい記録を設立した。",
+    "vocabularyList": [
+      {
+        "word": "parcel",
+        "translation": "筆 (ひつ)"
+      },
+      {
+        "word": "consolidation",
+        "translation": "合筆 (ごうぴつ)"
+      },
+      {
+        "word": "division",
+        "translation": "分筆 (ぶんぴつ)"
+      },
+      {
+        "word": "demolition",
+        "translation": "滅失 (めっしつ)"
+      },
+      {
+        "word": "original parcel",
+        "translation": "元の筆"
+      },
+      {
+        "word": "registration record",
+        "translation": "登記記録"
+      }
+    ]
   }
 ]

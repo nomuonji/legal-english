@@ -2,44 +2,6 @@
   {
     "category": "Judicial Scrivener Act (司法書士法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Representation in Summary Court Procedures",
-    "definition": "The authorization granted to certified Judicial Scriveners (certified by the Minister of Justice) to act as legal agents for clients in civil actions, conciliation, and other procedures before a Summary Court, provided the claim amount does not exceed 1,400,000 yen.",
-    "japaneseDefinition": "法務大臣の認定を受けた司法書士が、請求の価額が140万円を超えない簡易裁判所における民事訴訟、調停その他の手続について、当事者を代理すること。",
-    "japaneseWordTranslation": "簡易裁判所における訴訟代理 (かんいさいばんしょにおけるそしょうだいり)",
-    "legalContext": "Judicial Scrivener Act, Art. 3, Paragraph 1, Item 6: Representation in the procedures of a Summary Court, etc.",
-    "japaneseLegalContext": "司法書士法第3条第1項第6号: 簡易裁判所における手続の代理等",
-    "exampleSentence": "A certified judicial scrivener handled the client's debt collection matter through representation in summary court procedures, as the principal amount was below the statutory limit.",
-    "exampleTranslation": "認定司法書士は、元本金額が法定限度額を下回っていたため、簡易裁判所における訴訟代理を通じて依頼人の債権回収案件を処理した。",
-    "vocabularyList": [
-      {
-        "word": "Certified Judicial Scrivener",
-        "translation": "認定司法書士"
-      },
-      {
-        "word": "Summary Court",
-        "translation": "簡易裁判所"
-      },
-      {
-        "word": "Civil Action",
-        "translation": "民事訴訟"
-      },
-      {
-        "word": "Conciliation",
-        "translation": "調停"
-      },
-      {
-        "word": "Statutory limit",
-        "translation": "法定限度額"
-      },
-      {
-        "word": "Principal amount",
-        "translation": "元本金額"
-      }
-    ]
-  },
-  {
-    "category": "Judicial Scrivener Act (司法書士法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Preparation of Submissions to Public Agencies",
     "definition": "The professional duty of a Judicial Scrivener involving the drafting of documents to be filed with national or local government offices (excluding courts and registry offices, which are covered separately) concerning rights, obligations, or factual relations.",
     "japaneseDefinition": "権利義務又は事実証明に関する書類を、裁判所若しくは検察庁又は法務局若しくは地方法務局に提出する書類以外の官公署に提出するために作成する業務。",
@@ -9672,6 +9634,40 @@
       {
         "word": "mandated",
         "translation": "義務付けられた"
+      }
+    ]
+  },
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certified Judicial Scrivener (Nintei)",
+    "definition": "A Judicial Scrivener who has obtained special authorization from the Minister of Justice, enabling them to handle certain legal procedures—specifically, serving as an agent in civil proceedings before a Summary Court.",
+    "japaneseDefinition": "司法書士法上の特別の能力認定を受けた司法書士。簡易裁判所における訴訟手続等の代理業務を行うことができる。",
+    "japaneseWordTranslation": "認定司法書士 (にんていしほうしょし)",
+    "legalContext": "Judicial Scrivener Act, Article 3, Paragraph 1, Item 6: Defines the scope of business for a Certified Judicial Scrivener regarding civil proceedings and related dispute resolution (provided the value of the subject matter does not exceed the statutory maximum).",
+    "japaneseLegalContext": "司法書士法第3条第1項第6号: 認定司法書士の簡易裁判所における訴訟代理等に関する業務範囲の規定。",
+    "exampleSentence": "Only a Certified Judicial Scrivener is entitled to act as a procedural representative for a plaintiff in a Summary Court matter, subject to the statutory monetary cap.",
+    "exampleTranslation": "認定司法書士のみが、法定の金額上限に従い、簡易裁判所における原告の訴訟代理人となる資格を有する。",
+    "vocabularyList": [
+      {
+        "word": "special authorization",
+        "translation": "特別の認定"
+      },
+      {
+        "word": "Minister of Justice",
+        "translation": "法務大臣"
+      },
+      {
+        "word": "procedural representative",
+        "translation": "手続代理人"
+      },
+      {
+        "word": "Summary Court",
+        "translation": "簡易裁判所"
+      },
+      {
+        "word": "statutory monetary cap",
+        "translation": "法定の金額上限"
       }
     ]
   }

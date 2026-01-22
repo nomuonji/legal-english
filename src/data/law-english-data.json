@@ -1,38 +1,42 @@
 {
-  "category": "Commercial Registration (商業登記法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Transfer of business",
-  "definition": "The act by which a company transfers all or a significant part of its business assets, operational structure, goodwill, and obligations to another entity.",
-  "japaneseDefinition": "会社がその事業の全部または重要な一部を、営業資産、営業組織、のれん、および債務とともに他の法人に移転させる行為。",
-  "japaneseWordTranslation": "事業譲渡 (じぎょうじょうと)",
-  "legalContext": "Commercial Registration Act Art. 77: Registration is required when a company undergoes a corporate change such as the transfer of its business, affecting the recorded scope and nature of its operations.",
-  "japaneseLegalContext": "商業登記法第77条：会社が事業譲渡のような企業組織の変更を行う場合、登記された事業の範囲と性質に影響を与えるため、その登記が義務付けられている。",
-  "exampleSentence": "The transfer of business requires entry in the register to establish its effectuation against third parties regarding the assumption of obligations and transfer of assets.",
-  "exampleTranslation": "事業譲渡は、債務の引き受けと資産の移転に関して、第三者に対する効力発生を確立するために登記簿への記載が必要である。",
+  "word": "Document Production Order",
+  "definition": "A binding court order compelling a party to the suit or a third party to submit specific documents essential for the examination of evidence.",
+  "japaneseDefinition": "訴訟の当事者または第三者に対し、証拠調べのために必要な特定の文書の提出を命じる裁判所の決定。",
+  "japaneseWordTranslation": "文書提出命令 (ぶんしょていしゅつめいれい)",
+  "legalContext": "Code of Civil Procedure Art. 220: Obligations of Document Holder (文書提出義務). The court may impose fines if the order is disregarded.",
+  "japaneseLegalContext": "民事訴訟法第220条: 文書提出義務。命令に従わない場合、過料の制裁がある。",
+  "exampleSentence": "The court issued a document production order against the opposing party regarding the minutes of the board meeting relevant to the contractual formation.",
+  "exampleTranslation": "裁判所は、契約成立に関連する取締役会の議事録に関して、相手方当事者に対し文書提出命令を発した。",
   "vocabularyList": [
     {
-      "word": "Transferor",
-      "translation": "譲渡会社"
+      "word": "binding court order",
+      "translation": "拘束力のある裁判所命令 (こうそくりょくのあるさいばんしょめいれい)"
     },
     {
-      "word": "Transferee",
-      "translation": "譲受会社"
+      "word": "third party",
+      "translation": "第三者 (だいさんしゃ)"
     },
     {
-      "word": "Assumption of obligations",
-      "translation": "債務の引受け"
+      "word": "opposing party",
+      "translation": "相手方当事者 (あいてがたとうじしゃ)"
     },
     {
-      "word": "Goodwill",
-      "translation": "のれん（営業上の信用）"
+      "word": "minutes",
+      "translation": "議事録 (ぎじろく)"
     },
     {
-      "word": "Effectuation",
-      "translation": "効力の発生"
+      "word": "contractual formation",
+      "translation": "契約の成立 (けいやくのせいりつ)"
     },
     {
-      "word": "Corporate reorganization",
-      "translation": "企業組織の再編"
+      "word": "disregarded",
+      "translation": "無視された (むしされた)"
+    },
+    {
+      "word": "obligation",
+      "translation": "義務 (ぎむ)"
     }
   ]
 }

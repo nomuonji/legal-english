@@ -2,48 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Document Production Order",
-    "definition": "A binding court order compelling a party to the suit or a third party to submit specific documents essential for the examination of evidence.",
-    "japaneseDefinition": "訴訟の当事者または第三者に対し、証拠調べのために必要な特定の文書の提出を命じる裁判所の決定。",
-    "japaneseWordTranslation": "文書提出命令 (ぶんしょていしゅつめいれい)",
-    "legalContext": "Code of Civil Procedure Art. 220: Obligations of Document Holder (文書提出義務). The court may impose fines if the order is disregarded.",
-    "japaneseLegalContext": "民事訴訟法第220条: 文書提出義務。命令に従わない場合、過料の制裁がある。",
-    "exampleSentence": "The court issued a document production order against the opposing party regarding the minutes of the board meeting relevant to the contractual formation.",
-    "exampleTranslation": "裁判所は、契約成立に関連する取締役会の議事録に関して、相手方当事者に対し文書提出命令を発した。",
-    "vocabularyList": [
-      {
-        "word": "binding court order",
-        "translation": "拘束力のある裁判所命令 (こうそくりょくのあるさいばんしょめいれい)"
-      },
-      {
-        "word": "third party",
-        "translation": "第三者 (だいさんしゃ)"
-      },
-      {
-        "word": "opposing party",
-        "translation": "相手方当事者 (あいてがたとうじしゃ)"
-      },
-      {
-        "word": "minutes",
-        "translation": "議事録 (ぎじろく)"
-      },
-      {
-        "word": "contractual formation",
-        "translation": "契約の成立 (けいやくのせいりつ)"
-      },
-      {
-        "word": "disregarded",
-        "translation": "無視された (むしされた)"
-      },
-      {
-        "word": "obligation",
-        "translation": "義務 (ぎむ)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Action for Retrial",
     "definition": "An extraordinary remedy challenging a final and conclusive judgment on narrowly defined statutory grounds, such as evidence fabrication or gross error in fact-finding.",
     "japaneseDefinition": "確定した終局判決に対し、証拠の偽造や重大な事実誤認など、法律で定められた限定的な事由に基づいてその取消しを求める訴訟。",
@@ -14214,6 +14172,82 @@
       {
         "word": "strict scrutiny",
         "translation": "厳格な審査 (genkaku na shinsa)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Dispositive Power Principle",
+    "definition": "The fundamental principle of civil procedure establishing that the parties, not the court, determine the initiation, termination, and objective scope (the object and amount) of the lawsuit. The court may not render judgment on a matter not sought by the claimant or grant relief exceeding the claimant's request.",
+    "japaneseDefinition": "民事訴訟の開始、審判の対象、及び終了について、当事者に決定権を認め、裁判所は当事者の処分を尊重しなければならないとする原則。裁判所は、当事者の請求しない事項について判決をしたり、請求の範囲を超えて判決を言い渡すことはできない。",
+    "japaneseWordTranslation": "処分権主義 (Shobunken Shugi)",
+    "legalContext": "Code of Civil Procedure Art. 246 (Scope of Judgment): 'A court shall not deliver a judgment on a matter not sought by the parties.'",
+    "japaneseLegalContext": "民事訴訟法第246条 (判決の範囲): 「裁判所は、当事者が申し立てない事項について、判決をすることができない。」",
+    "exampleSentence": "The Dispositive Power Principle ensures that the court respects the claimant's autonomy in defining the limits of the dispute, particularly regarding the prayer for relief.",
+    "exampleTranslation": "処分権主義により、裁判所は、特に請求の趣旨に関して、紛争の範囲を定める原告の自己決定権を尊重することが保証される。",
+    "vocabularyList": [
+      {
+        "word": "claimant",
+        "translation": "原告 (genkoku)"
+      },
+      {
+        "word": "autonomy",
+        "translation": "自己決定権 (jiko ketteiken)"
+      },
+      {
+        "word": "prayer for relief",
+        "translation": "請求の趣旨 (seikyū no shushi)"
+      },
+      {
+        "word": "render judgment",
+        "translation": "判決を下す (hanketsu o kudasu)"
+      },
+      {
+        "word": "objective scope",
+        "translation": "客観的範囲 (kyakkanteki han'i)"
+      },
+      {
+        "word": "dispute",
+        "translation": "紛争 (funsō)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Binding Effect of Procedural Admission",
+    "definition": "The mandatory legal consequence in which a fact admitted by a party in court is conclusively deemed true for the purpose of the current litigation, preventing the party from subsequently withdrawing or contradicting that admission without a showing of fraud or error.",
+    "japaneseDefinition": "当事者が口頭弁論または準備手続において相手方の主張する事実を自己に不利益な形で真実であると認めること。これにより、その事実は裁判所を拘束し、当事者はその自白を撤回できない。",
+    "japaneseWordTranslation": "裁判上の自白の拘束力 (Saiban-jō no Jihaku no Kōsokuryoku)",
+    "legalContext": "Derived from the Principle of Party Presentation and judicial precedent, governing the effect of admissions made during trial proceedings.",
+    "japaneseLegalContext": "弁論主義および判例によって導かれる原則。口頭弁論や準備手続における自白の効力を定める。",
+    "exampleSentence": "The defendant's admission that the contract had been properly formed created a binding effect, removing the necessity for the plaintiff to present evidence on that specific factual point.",
+    "exampleTranslation": "被告が契約が適法に成立したことを認めたことは、裁判上の自白の拘束力を生じさせ、原告がその特定の事実について証拠を提出する必要性を排除した。",
+    "vocabularyList": [
+      {
+        "word": "admission",
+        "translation": "自白 (jihaku)"
+      },
+      {
+        "word": "conclusively deemed",
+        "translation": "確定的に見なされる (kakuteiteki ni minasareru)"
+      },
+      {
+        "word": "withdraw",
+        "translation": "撤回する (tekkai suru)"
+      },
+      {
+        "word": "fraud or error",
+        "translation": "詐欺または錯誤 (sagi matawa sakugo)"
+      },
+      {
+        "word": "precedent",
+        "translation": "判例 (hanrei)"
+      },
+      {
+        "word": "factual point",
+        "translation": "事実上の論点 (jijitsu-jō no ronten)"
       }
     ]
   }

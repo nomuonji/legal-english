@@ -8792,5 +8792,123 @@
         "translation": "供託書類 (きょうたくしょるい)"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consignment Instrument",
+    "definition": "The mandatory document filed with the competent Deposit Office that specifies the particulars necessary when making a deposit of the subject matter of an obligation to legally resolve the underlying debt.",
+    "japaneseDefinition": "債務者が債務を法的に解消するために、その目的物を供託する際に、必要事項を記載して管轄の供託所に提出する必須の書類。",
+    "japaneseWordTranslation": "供託書 (きょうたくしょ)",
+    "legalContext": "Deposit Act, Article 3: Requirements and particulars specified in the Consignment Instrument.",
+    "japaneseLegalContext": "供託法第三条：供託書に記載すべき事項及び要件。",
+    "exampleSentence": "The failure to properly specify the legal basis for the deposit in the Consignment Instrument may lead to refusal of acceptance by the deposit registrar.",
+    "exampleTranslation": "供託書に供託の法的根拠を適切に明記しなかった場合、供託登記官による受理の拒否につながる可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "filed",
+        "translation": "提出された"
+      },
+      {
+        "word": "competent",
+        "translation": "管轄の"
+      },
+      {
+        "word": "legal basis",
+        "translation": "法的根拠"
+      },
+      {
+        "word": "specify",
+        "translation": "明記する"
+      },
+      {
+        "word": "refusal of acceptance",
+        "translation": "受理の拒否"
+      },
+      {
+        "word": "subject matter",
+        "translation": "目的物"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Risk Transfer Upon Consignment",
+    "definition": "The legal principle stipulating that once a deposit is validly made, the risk associated with the deposited asset, such as potential damage or diminution in value, transfers from the consignor to the entitled recipient.",
+    "japaneseDefinition": "供託が有効になされた場合、供託された財産に関する危険（例えば、潜在的な損害や価値の減少など）が、供託者から受領権者に移転することを定める法原則。",
+    "japaneseWordTranslation": "供託による危険の移転 (きょうたくによるきけんのいてん)",
+    "legalContext": "Civil Code Art. 494 (Application by analogy based on the effect of consignment).",
+    "japaneseLegalContext": "民法第494条（供託の効力による類推適用）。",
+    "exampleSentence": "Following the Risk Transfer Upon Consignment, the consignor is absolved from the costs and liabilities associated with the accidental destruction of the consigned property.",
+    "exampleTranslation": "供託による危険の移転後、供託者は、委託された財産の偶発的な滅失に関連する費用と責任から免責される。",
+    "vocabularyList": [
+      {
+        "word": "validly made",
+        "translation": "有効になされた"
+      },
+      {
+        "word": "stipulating",
+        "translation": "規定する"
+      },
+      {
+        "word": "diminution in value",
+        "translation": "価値の減少"
+      },
+      {
+        "word": "consignor",
+        "translation": "供託者"
+      },
+      {
+        "word": "entitled recipient",
+        "translation": "受領権者"
+      },
+      {
+        "word": "accidental destruction",
+        "translation": "偶発的な滅失"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Entitlement to Acceptance",
+    "definition": "The exclusive legal authority vested in the person designated as the recipient of the deposited property, enabling them to obtain actual disbursement of the deposited funds or securities from the Deposit Office.",
+    "japaneseDefinition": "供託された財産の受領者として指定された者に与えられた排他的な法的権限であり、供託所から供託金や有価証券の実際の支払いを受けることを可能にするもの。",
+    "japaneseWordTranslation": "供託物受領権 (きょうたくぶつじゅりょうけん)",
+    "legalContext": "Deposit Act, Article 9: Matters related to the Entitlement to Acceptance.",
+    "japaneseLegalContext": "供託法第九条：供託物受領権に関する事項。",
+    "exampleSentence": "The Entitlement to Acceptance is the crucial prerequisite for the obligee to finalize the transfer of deposited assets and complete the original transaction.",
+    "exampleTranslation": "供託物受領権は、債権者が供託された財産の移転を確定させ、元の取引を完了するための重要な前提条件である。",
+    "vocabularyList": [
+      {
+        "word": "exclusive legal authority",
+        "translation": "排他的な法的権限"
+      },
+      {
+        "word": "vested in",
+        "translation": "付与された"
+      },
+      {
+        "word": "disbursement",
+        "translation": "払い渡し"
+      },
+      {
+        "word": "designated",
+        "translation": "指定された"
+      },
+      {
+        "word": "prerequisite",
+        "translation": "前提条件"
+      },
+      {
+        "word": "finalize the transfer",
+        "translation": "移転を確定させる"
+      },
+      {
+        "word": "original transaction",
+        "translation": "元の取引"
+      }
+    ]
   }
 ]

@@ -12014,5 +12014,81 @@
         "translation": "資本維持 (しほんいじ)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Corporate Entity Disregard Doctrine",
+    "definition": "A judicial doctrine allowing courts to ignore the separate legal personality of a company when its corporate form is abused (e.g., used to evade obligations or commit fraud), holding shareholders or controllers personally liable.",
+    "japaneseDefinition": "会社が法人格を濫用した場合や、個人が会社を単なる道具として利用した場合など、法人と株主・支配者が実質的に一体であると評価されるときに、会社の法人格を否定し、株主等に会社の責任を負わせる法理。",
+    "japaneseWordTranslation": "法人格否認の法理 (hōjin kaku hinin no hōri)",
+    "legalContext": "Judge-made law (判例法理) applied in Japanese corporate litigation, based on the principle of good faith (民法1条2項) and abuse of rights (民法1条3項).",
+    "japaneseLegalContext": "判例法理（信義則及び権利濫用に基づく）",
+    "exampleSentence": "The court applied the Corporate Entity Disregard Doctrine to hold the sole shareholder personally liable for the company's debts after finding the company was merely a shell used for tax evasion.",
+    "exampleTranslation": "裁判所は、その会社が単なる脱税のためのペーパーカンパニーとして利用されていたと認定し、法人格否認の法理を適用して、単独株主に対し会社の債務について個人的な責任を負わせた。",
+    "vocabularyList": [
+      {
+        "word": "judicial doctrine",
+        "translation": "判例法理"
+      },
+      {
+        "word": "legal personality",
+        "translation": "法人格"
+      },
+      {
+        "word": "abuse of rights",
+        "translation": "権利濫用"
+      },
+      {
+        "word": "sole shareholder",
+        "translation": "単独株主"
+      },
+      {
+        "word": "personally liable",
+        "translation": "個人的な責任を負う"
+      },
+      {
+        "word": "shell company",
+        "translation": "ペーパーカンパニー"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Capital Surplus Reserve Reduction Resolution",
+    "definition": "A resolution passed by the general meeting of shareholders to decrease the amount of the capital surplus reserve (a type of statutory reserve) in order to transfer the funds to earned surplus or stated capital.",
+    "japaneseDefinition": "法定準備金の一つである資本準備金の額を減少させ、その減少分を利益準備金や資本金へ振り替えることを目的とする株主総会の決議。",
+    "japaneseWordTranslation": "資本準備金減少決議 (shihon junbikin genshō ketsugi)",
+    "legalContext": "Companies Act Art. 448 (Reduction of Reserves). This resolution is usually an ordinary resolution unless the capital surplus reserve is being eliminated entirely for specific purposes.",
+    "japaneseLegalContext": "会社法第448条（準備金の額の減少）。通常は株主の普通決議が必要とされる。",
+    "exampleSentence": "The company convened an extraordinary general meeting to approve the Capital Surplus Reserve Reduction Resolution, enabling the transfer of funds to the earned surplus reserve for future dividend payments.",
+    "exampleTranslation": "当社は、臨時株主総会を招集し、資本準備金減少決議を承認して、将来の配当支払いのためにその資金を利益準備金へ振り替えられるようにした。",
+    "vocabularyList": [
+      {
+        "word": "statutory reserve",
+        "translation": "法定準備金"
+      },
+      {
+        "word": "extraordinary general meeting",
+        "translation": "臨時株主総会"
+      },
+      {
+        "word": "earned surplus",
+        "translation": "利益剰余金"
+      },
+      {
+        "word": "transfer of funds",
+        "translation": "資金の振替"
+      },
+      {
+        "word": "ordinary resolution",
+        "translation": "普通決議"
+      },
+      {
+        "word": "stated capital",
+        "translation": "資本金"
+      }
+    ]
   }
 ]

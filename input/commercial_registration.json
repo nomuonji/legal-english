@@ -11386,5 +11386,81 @@
         "translation": "登記簿 (とうきぼ)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibition of Identical Commercial Names",
+    "definition": "A rule in commercial law that restricts a person from registering or using a commercial name (trade name) that is identical to one already registered by another party in the same municipality for the same type of business.",
+    "japaneseDefinition": "同一の営業のために、同一の市町村内で、すでに他人が登記している商号と同一の商号を使用することを禁止する原則。",
+    "japaneseWordTranslation": "商号の同一禁止 (shōgō no dōitsu kinshi)",
+    "legalContext": "Commercial Registration Act Art. 27 and Companies Act Art. 8 (The broader prohibition on using confusingly similar names remains, but the specific restriction on identity is codified in the registration context).",
+    "japaneseLegalContext": "商業登記法 第27条, 会社法 第8条（商号の選定及び使用に関する規定）",
+    "exampleSentence": "The application for registration was rejected immediately because it violated the **Prohibition of Identical Commercial Names** in the Shibuya ward.",
+    "exampleTranslation": "渋谷区において商号の同一禁止に違反していたため、その登記申請は直ちに却下された。",
+    "vocabularyList": [
+      {
+        "word": "commercial name",
+        "translation": "商号"
+      },
+      {
+        "word": "municipality",
+        "translation": "市町村"
+      },
+      {
+        "word": "rejected",
+        "translation": "却下された"
+      },
+      {
+        "word": "Shibuya ward",
+        "translation": "渋谷区"
+      },
+      {
+        "word": "registration application",
+        "translation": "登記申請"
+      },
+      {
+        "word": "commercial law",
+        "translation": "商法"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Formal Examination Standard",
+    "definition": "The legal standard requiring the Registrar to examine a commercial registration application based strictly on the formal criteria and submitted documents, without investigating the substantive validity or truth of the underlying facts or resolution content.",
+    "japaneseDefinition": "商業登記法における原則の一つで、登記官は提出された書類と法令が定める形式的な要件のみに基づいて申請を審査し、その登記原因となる事実関係の真偽を実質的に審査しないという基準。",
+    "japaneseWordTranslation": "形式的審査基準 (keishikiteki shinsa kijun)",
+    "legalContext": "Commercial Registration Act Art. 25, which limits the Registrar's authority to rejection only based on statutory grounds (e.g., formal deficiencies or lack of necessary attachments).",
+    "japaneseLegalContext": "商業登記法 第25条（登記官の審査権限を法定の却下事由に限定し、実質的な審査を許さない規定）",
+    "exampleSentence": "Under the **Formal Examination Standard**, the Registrar confirmed that the minutes of the shareholders' meeting were duly executed and signed, but did not verify whether the meeting was actually convened.",
+    "exampleTranslation": "形式的審査基準の下で、登記官は株主総会の議事録が正式に作成され署名されていることを確認したが、実際に総会が招集されたかどうかは検証しなかった。",
+    "vocabularyList": [
+      {
+        "word": "formal criteria",
+        "translation": "形式的な要件"
+      },
+      {
+        "word": "substantive validity",
+        "translation": "実質的な有効性"
+      },
+      {
+        "word": "duly executed",
+        "translation": "正式に作成された"
+      },
+      {
+        "word": "underlying facts",
+        "translation": "基礎となる事実"
+      },
+      {
+        "word": "statutory grounds",
+        "translation": "法定の事由"
+      },
+      {
+        "word": "minutes",
+        "translation": "議事録"
+      }
+    ]
   }
 ]

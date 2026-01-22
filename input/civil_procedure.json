@@ -14140,5 +14140,81 @@
         "translation": "不存在確認"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Accessory Appeal",
+    "definition": "An appeal filed by the appellee (the party who was successful in the court of first instance but did not initially appeal) within the period specified by the Code of Civil Procedure, typically filed in response to the principal appeal, allowing the appellee to seek changes favorable to them on points where they lost or failed to obtain relief.",
+    "japaneseDefinition": "控訴審において、被控訴人（第一審で勝訴したが、自らは控訴しなかった当事者）が、相手方からの控訴提起後に、自己に不利益な判断を下された部分について、独立の控訴期間を徒過した後でも提起できる控訴。",
+    "japaneseWordTranslation": "付帯控訴 (ふたいこうそ)",
+    "legalContext": "Code of Civil Procedure (MSH) Art. 293: An appellee may file an accessory appeal even after the period for filing an ordinary appeal has elapsed, provided it is filed before the conclusion of the oral arguments in the appellate court.",
+    "japaneseLegalContext": "民事訴訟法第293条: 控訴の申立ては、口頭弁論の終結に至るまで、これをすることができる。",
+    "exampleSentence": "The defendant filed an accessory appeal challenging the calculation of interest, subsequent to the plaintiff's principal appeal concerning liability.",
+    "exampleTranslation": "原告が責任に関する本控訴を提起した後、被告は利息の算定に異議を唱える付帯控訴を提出した。",
+    "vocabularyList": [
+      {
+        "word": "appellee",
+        "translation": "被控訴人 (hikōsonin)"
+      },
+      {
+        "word": "principal appeal",
+        "translation": "本控訴 (hon kōso)"
+      },
+      {
+        "word": "oral arguments",
+        "translation": "口頭弁論 (kōtō benron)"
+      },
+      {
+        "word": "appellate court",
+        "translation": "控訴審 (kōso shin)"
+      },
+      {
+        "word": "liability",
+        "translation": "責任 (sekinin)"
+      },
+      {
+        "word": "filing an appeal",
+        "translation": "控訴提起 (kōso teiki)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Hearsay Rule",
+    "definition": "The rule governing the admissibility of testimonial evidence in court where the witness is recounting a statement made outside of court by a third party, used to prove the truth of the matter asserted in the statement. Although generally associated with criminal law, Japan’s Civil Procedure generally permits such evidence but the courts often apply stricter scrutiny to its probative value.",
+    "japaneseDefinition": "法廷外でなされた第三者の供述を、その供述内容の真実性を証明するために証拠として用いることを規制する原則。民事訴訟法では、刑事訴訟法ほど厳格に適用されないが、証拠の証明力は慎重に判断される。",
+    "japaneseWordTranslation": "伝聞法則 (でんぶんほうそく)",
+    "legalContext": "Code of Civil Procedure Art. 247 (Principle of Free Evaluation of Evidence): The probative value of hearsay evidence is evaluated freely by the court based on all surrounding circumstances, unlike the strict exclusionary application often seen in criminal procedure.",
+    "japaneseLegalContext": "民事訴訟法第247条（自由心証主義）: 伝聞証拠の証明力は、刑事訴訟法における厳格な排除とは異なり、全ての状況を考慮して裁判所が自由に評価する。",
+    "exampleSentence": "The court admitted the police officer’s testimony concerning the victim’s spontaneous declaration, but its probative value was limited by the inherent concerns of the hearsay rule.",
+    "exampleTranslation": "裁判所は、被害者の自発的な供述に関する警察官の証言を認めたが、その証明力は伝聞法則の持つ内在的な懸念によって限定された。",
+    "vocabularyList": [
+      {
+        "word": "admissibility of evidence",
+        "translation": "証拠能力 (shōko nōryoku)"
+      },
+      {
+        "word": "testimonial evidence",
+        "translation": "供述証拠 (kyōjutsu shōko)"
+      },
+      {
+        "word": "probative value",
+        "translation": "証明力 (shōmei-ryoku)"
+      },
+      {
+        "word": "spontaneous declaration",
+        "translation": "自発的な供述 (jihatsuteki na kyōjutsu)"
+      },
+      {
+        "word": "exhibit / evidence",
+        "translation": "証拠 (shōko)"
+      },
+      {
+        "word": "strict scrutiny",
+        "translation": "厳格な審査 (genkaku na shinsa)"
+      }
+    ]
   }
 ]

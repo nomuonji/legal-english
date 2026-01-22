@@ -2,44 +2,6 @@
   {
     "category": "Commercial Registration (商業登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Transfer of business",
-    "definition": "The act by which a company transfers all or a significant part of its business assets, operational structure, goodwill, and obligations to another entity.",
-    "japaneseDefinition": "会社がその事業の全部または重要な一部を、営業資産、営業組織、のれん、および債務とともに他の法人に移転させる行為。",
-    "japaneseWordTranslation": "事業譲渡 (じぎょうじょうと)",
-    "legalContext": "Commercial Registration Act Art. 77: Registration is required when a company undergoes a corporate change such as the transfer of its business, affecting the recorded scope and nature of its operations.",
-    "japaneseLegalContext": "商業登記法第77条：会社が事業譲渡のような企業組織の変更を行う場合、登記された事業の範囲と性質に影響を与えるため、その登記が義務付けられている。",
-    "exampleSentence": "The transfer of business requires entry in the register to establish its effectuation against third parties regarding the assumption of obligations and transfer of assets.",
-    "exampleTranslation": "事業譲渡は、債務の引き受けと資産の移転に関して、第三者に対する効力発生を確立するために登記簿への記載が必要である。",
-    "vocabularyList": [
-      {
-        "word": "Transferor",
-        "translation": "譲渡会社"
-      },
-      {
-        "word": "Transferee",
-        "translation": "譲受会社"
-      },
-      {
-        "word": "Assumption of obligations",
-        "translation": "債務の引受け"
-      },
-      {
-        "word": "Goodwill",
-        "translation": "のれん（営業上の信用）"
-      },
-      {
-        "word": "Effectuation",
-        "translation": "効力の発生"
-      },
-      {
-        "word": "Corporate reorganization",
-        "translation": "企業組織の再編"
-      }
-    ]
-  },
-  {
-    "category": "Commercial Registration (商業登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Deemed dissolution",
     "definition": "A legal fiction under which a company that has failed to file any mandatory registration for a specified long period (usually 12 consecutive years) is presumed to be dormant and administratively dissolved by the registrar.",
     "japaneseDefinition": "長期間（通常12年間）にわたり義務付けられた登記を一度も行わなかった会社が、休眠状態にあると推定され、登記官によって職権で解散させられる法的な擬制。",
@@ -11320,6 +11282,108 @@
       {
         "word": "On their own initiative (Ex officio)",
         "translation": "職権で (Shokken de)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Registration Sanction",
+    "definition": "A non-penal financial sanction (administrative fine) imposed upon a duty bearer (such as a director) for failing to execute legally required commercial registrations within the statutory deadline.",
+    "japaneseDefinition": "法定の商業登記を怠った者に対し、裁判所が科す非訟事件手続法に基づく金銭的な制裁。",
+    "japaneseWordTranslation": "過料 (かりょう)",
+    "legalContext": "Commercial Registration Act stipulates that if a registration required by law is not effected within the statutory period, the person responsible may be subject to a non-penal fine (Karyō).",
+    "japaneseLegalContext": "商業登記法上、法律により登記すべき事項につき登記を怠った場合には、その責任者に対し過料が課される。(会社法第976条準用)",
+    "exampleSentence": "The former representative director received a **Mandatory Registration Sanction** for the delay in filing the registration of the company's capital reduction, which was 40 days overdue.",
+    "exampleTranslation": "前代表取締役は、会社の減資登記の届出が40日遅れたため、登記懈怠に対する過料処分を受けた。",
+    "vocabularyList": [
+      {
+        "word": "non-penal financial sanction",
+        "translation": "非訟的制裁金 (ひしょうてきせいさいきん)"
+      },
+      {
+        "word": "duty bearer",
+        "translation": "義務者 (ぎむしゃ)"
+      },
+      {
+        "word": "statutory deadline",
+        "translation": "法定の期限 (ほうていのきげん)"
+      },
+      {
+        "word": "registration of capital reduction",
+        "translation": "減資登記 (げんしとうき)"
+      },
+      {
+        "word": "overdue",
+        "translation": "遅延している (ちえんしている)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Constructive Notice of Registered Matters",
+    "definition": "The principle (rooted in the concept of *Kōshinryoku*) that a third party who relies in good faith on the truthfulness of a registered commercial matter is protected, even if the registered fact was false or non-existent.",
+    "japaneseDefinition": "商業登記簿に記載された事項について、それが虚偽であったとしても、それを信頼して取引した善意の第三者が保護される効力。（広義の公信力）",
+    "japaneseWordTranslation": "登記の公信力 (とうきのこうしんりょく)",
+    "legalContext": "While the Commercial Registration Act primarily focuses on the restriction of asserting non-registered facts, the broader concept of public faith (*Kōshinryoku*) ensures the stability of commercial transactions by protecting reliance on the register's contents.",
+    "japaneseLegalContext": "商業登記法は登記の公信力に関する直接の規定を置かないが、取引の安全を確保する趣旨のもと、登録内容への信頼を保護する考え方が存在する。",
+    "exampleSentence": "A creditor benefited from the **Constructive Notice of Registered Matters** concerning the apparent authority of the company’s manager and was protected when the internal limitation was later revealed.",
+    "exampleTranslation": "ある債権者は、会社支配人の表見的な権限に関する登記の公信力から利益を得て、後に内部的な権限制限が判明した際にも保護された。",
+    "vocabularyList": [
+      {
+        "word": "third party",
+        "translation": "第三者 (だいさんしゃ)"
+      },
+      {
+        "word": "good faith",
+        "translation": "善意 (ぜんい)"
+      },
+      {
+        "word": "truthfulness",
+        "translation": "真実性 (しんじつせい)"
+      },
+      {
+        "word": "apparent authority",
+        "translation": "表見的権限 (ひょうけんてきけんげん)"
+      },
+      {
+        "word": "internal limitation",
+        "translation": "内部的な制限 (ないぶてきなせいげん)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Removal Based on Prolonged Inactivity",
+    "definition": "The administrative procedure by which a stock company, failing to register any required changes for twelve or more consecutive years, is legally assumed to have dissolved, facilitating the administrative clearing of the registry.",
+    "japaneseDefinition": "株式会社が12年間登記を行わず、かつ法務大臣による照会に対しても応答しない場合に、登記官が職権により解散したものとみなして行う登記整理手続き。",
+    "japaneseWordTranslation": "休眠会社の整理 (きゅうみんかいしゃのせいり)",
+    "legalContext": "Companies Act Article 472 (Deemed Dissolution of Dormant Companies), invoked via the Commercial Registration Act, allows the registrar to proceed with the dissolution entry if the company fails to respond to a ministerial inquiry regarding the continuation of its business.",
+    "japaneseLegalContext": "会社法第472条（休眠会社の解散の登記）に基づき、会社が法務大臣の事業継続の有無の照会に応じない場合、登記官は職権で解散の登記を行うことができる。",
+    "exampleSentence": "The firm avoided **Removal Based on Prolonged Inactivity** only by submitting a late registration of its officer change immediately after receiving the ministerial inquiry.",
+    "exampleTranslation": "その会社は、法務大臣による照会を受けた直後に役員変更登記を遅れて提出したことによってのみ、休眠会社の整理を免れた。",
+    "vocabularyList": [
+      {
+        "word": "prolonged inactivity",
+        "translation": "長期間の不活動 (ちょうきかんのふかつどう)"
+      },
+      {
+        "word": "legally assumed",
+        "translation": "法的に推定される (ほうてきにすいていされる)"
+      },
+      {
+        "word": "ministerial inquiry",
+        "translation": "法務大臣による照会 (ほうむだいじんによるしょうかい)"
+      },
+      {
+        "word": "officer change",
+        "translation": "役員変更 (やくいんへんこう)"
+      },
+      {
+        "word": "registry",
+        "translation": "登記簿 (とうきぼ)"
       }
     ]
   }

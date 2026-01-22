@@ -11900,5 +11900,119 @@
         "translation": "配分する"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action to Void Share Issue",
+    "definition": "A lawsuit filed by specific parties (such as shareholders or directors) seeking the judicial declaration that a company's issuance of new shares is void due to serious legal or statutory defects.",
+    "japaneseDefinition": "新株発行手続きに法令違反や定款違反等の重大な瑕疵がある場合に、一定の利害関係者が提起する、その新株発行が無効であることを宣言するための訴訟。",
+    "japaneseWordTranslation": "新株発行無効の訴え (しんかぶはっこうむこうのうったえ)",
+    "legalContext": "Companies Act Art. 828(1)(ii) (Action Seeking Invalidation of New Share Issue). Only specific organizational restructuring procedures or capital increases can be challenged through such an action.",
+    "japaneseLegalContext": "会社法第828条第1項第2号（新株発行等の無効の訴え）",
+    "exampleSentence": "The minority shareholder filed an action to void the share issue, claiming the valuation of the non-cash consideration was grossly unfair, constituting a serious defect.",
+    "exampleTranslation": "少数株主は、非現金出資の評価が著しく不公正であり、重大な瑕疵を構成すると主張し、新株発行無効の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "minority shareholder",
+        "translation": "少数株主 (しょうすうかぶぬし)"
+      },
+      {
+        "word": "non-cash consideration",
+        "translation": "非現金出資 (ひげんきんしゅっし)"
+      },
+      {
+        "word": "valuation",
+        "translation": "評価 (ひょうか)"
+      },
+      {
+        "word": "serious defect",
+        "translation": "重大な瑕疵 (じゅうだいなかかし)"
+      },
+      {
+        "word": "judicial declaration",
+        "translation": "司法上の宣言 (しほうじょうのせんげん)"
+      },
+      {
+        "word": "issuance of shares",
+        "translation": "新株発行 (しんかぶはっこう)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deregistration for Inactivity",
+    "definition": "The administrative process in which a company that has not filed registration changes for a long statutory period (e.g., 12 years for Stock Companies) is deemed dissolved by law unless it notifies the Minister of Justice of its intent to continue business.",
+    "japaneseDefinition": "長期間（株式会社では12年間）登記がなされていない会社を対象に、法務大臣による公告・通知を経て、引き続き事業を継続する旨の届出がない場合に、会社が解散したものとみなされる制度。",
+    "japaneseWordTranslation": "休眠会社のみなし解散 (きゅうみんかいしゃのみなし かいさん)",
+    "legalContext": "Companies Act Art. 472 (Deemed Dissolution of Dormant Companies). This provision ensures the integrity of the commercial register by eliminating defunct companies.",
+    "japaneseLegalContext": "会社法第472条（休眠会社のみなし解散）",
+    "exampleSentence": "After 12 years without filing any registration updates, the company was subject to deregistration for inactivity, necessitating a formal notification of business continuation to avoid dissolution.",
+    "exampleTranslation": "12年間、登記の更新がなかったため、その会社は休眠会社のみなし解散の対象となり、解散を避けるためには事業継続の正式な届出が必要となった。",
+    "vocabularyList": [
+      {
+        "word": "dormant company",
+        "translation": "休眠会社 (きゅうみんかいしゃ)"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間 (ほうていきかん)"
+      },
+      {
+        "word": "commercial register",
+        "translation": "商業登記 (しょうぎょうとうき)"
+      },
+      {
+        "word": "notification",
+        "translation": "届出 (とどけで)"
+      },
+      {
+        "word": "deemed dissolved",
+        "translation": "解散したものとみなす (かいさんしたものとみなす)"
+      },
+      {
+        "word": "integrity",
+        "translation": "正確性 (せいかくせい)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Deficiency in Contribution",
+    "definition": "The obligation imposed on incorporators and certain officers to pay the company the shortfall when the actual value of non-cash contributions (contribution in kind) is found to be substantially less than the value stated in the Articles of Incorporation.",
+    "japaneseDefinition": "現物出資財産の価額が定款に定めた価額に著しく不足する場合に、発起人や設立時取締役などが、会社に対してその不足額を支払うことを義務付けられる責任。",
+    "japaneseWordTranslation": "出資の価額の不足額についての責任 (しゅっしのさすがくのふそくがくについて のせきにん)",
+    "legalContext": "Companies Act Art. 52 and Art. 103 address the liability of incorporators and officers for the shortfall in the value of contributed assets, safeguarding the principle of capital maintenance.",
+    "japaneseLegalContext": "会社法第52条、第103条（発起人等の価額の不足額についての責任）",
+    "exampleSentence": "The auditor identified a significant disparity in the value of the contributed machinery, triggering the promoter’s liability for deficiency in contribution under the Companies Act.",
+    "exampleTranslation": "監査役は、出資された機械の価額に重大な不均衡を指摘し、会社法に基づく発起人の出資の価額の不足額についての責任を発生させた。",
+    "vocabularyList": [
+      {
+        "word": "incorporator",
+        "translation": "発起人 (ほっきにん)"
+      },
+      {
+        "word": "non-cash contributions",
+        "translation": "現物出資 (げんぶつしゅっし)"
+      },
+      {
+        "word": "shortfall",
+        "translation": "不足額 (ふそくがく)"
+      },
+      {
+        "word": "auditor",
+        "translation": "監査役 (かんさやく)"
+      },
+      {
+        "word": "disparity",
+        "translation": "不均衡 (ふきんこう)"
+      },
+      {
+        "word": "capital maintenance",
+        "translation": "資本維持 (しほんいじ)"
+      }
+    ]
   }
 ]

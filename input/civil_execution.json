@@ -12912,5 +12912,43 @@
         "translation": "買受人 (Kaiuken-nin)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Assignment Order (Tenpu Meirei)",
+    "definition": "A judicial order issued in execution against claims (receivables) whereby the seized claim is transferred (assigned) directly from the execution debtor to the execution creditor in satisfaction of the debt, up to the amount of the claim, eliminating the need for a separate collection proceeding.",
+    "japaneseDefinition": "金銭債権に対する強制執行において、差し押さえた債権を、その券面額で執行債務者から執行債権者へ、債務の支払いに代えて移転させる旨の裁判所の命令。",
+    "japaneseWordTranslation": "転付命令 (てんぷ めいれい)",
+    "legalContext": "Civil Execution Act Art. 159: Establishes the procedures and effect of the Assignment Order, specifying that the claim is transferred when the order becomes final and binding.",
+    "japaneseLegalContext": "民事執行法第159条: 転付命令の手続及び効力を規定し、命令が確定したときに被差押債権が移転することを定める。",
+    "exampleSentence": "The execution creditor preferred an Assignment Order over a Collection Order because it allowed immediate appropriation of the garnishee’s debt without competition from other creditors demanding distribution.",
+    "exampleTranslation": "執行債権者は、配当要求をする他の債権者との競合を避け、差押えられた債務を直ちに取得できるため、取立命令よりも転付命令を望んだ。",
+    "vocabularyList": [
+      {
+        "word": "execution creditor",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "seized claim",
+        "translation": "差押債権"
+      },
+      {
+        "word": "satisfaction of the debt",
+        "translation": "債務の弁済に代えて"
+      },
+      {
+        "word": "garnishee",
+        "translation": "第三債務者"
+      },
+      {
+        "word": "Collection Order",
+        "translation": "取立命令"
+      },
+      {
+        "word": "appropriation",
+        "translation": "充当"
+      }
+    ]
   }
 ]

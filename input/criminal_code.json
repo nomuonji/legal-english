@@ -13238,5 +13238,107 @@
         "translation": "最低刑期（さいていけいき）"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Criminal Subjective Elements",
+    "definition": "The mental state or internal psychological factors required by a criminal statute, typically encompassing criminal intent (dolus) or, where applicable, specific purpose or criminal negligence.",
+    "japaneseDefinition": "刑法の構成要件に該当するために、行為者に要求される内面的な精神状態や意図（故意、特定の目的、過失など）。",
+    "japaneseWordTranslation": "構成要件の主観的側面 (Kōsei Yōken no Shukanteki Sokumen)",
+    "legalContext": "Generally, the subjective elements of a crime (mens rea equivalent) must be proven beyond a reasonable doubt to establish culpability, except in cases of regulatory offenses.",
+    "japaneseLegalContext": "刑法38条: 罪を犯す意思がない行為は、罰しない。ただし、法律に特別の規定がある場合は、この限りでない。",
+    "exampleSentence": "The prosecution struggled to prove the necessary criminal subjective elements, specifically the required intention to possess the illicit goods for sale.",
+    "exampleTranslation": "検察は、必要な構成要件の主観的側面、とりわけ違法な商品を販売目的で所持する意思を立証するのに苦労した。",
+    "vocabularyList": [
+      {
+        "word": "prosecution",
+        "translation": "検察 (kensatsu)"
+      },
+      {
+        "word": "illicit goods",
+        "translation": "違法な商品 (ihō na shōhin)"
+      },
+      {
+        "word": "criminal intent",
+        "translation": "故意 (koi)"
+      },
+      {
+        "word": "statute",
+        "translation": "法令 (hōrei)"
+      },
+      {
+        "word": "culpability",
+        "translation": "有責性 (yūsekisei)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Grounds Negating Illegality",
+    "definition": "Legal conditions or circumstances under which an act, though fulfilling the constituent elements of an offense, is deemed lawful and therefore not criminal (e.g., performing a duty or acting under extreme necessity).",
+    "japaneseDefinition": "行為が犯罪の構成要件に該当するものの、特定の状況下でその行為の違法性が失われ、処罰の対象とならない根拠。",
+    "japaneseWordTranslation": "違法性阻却事由 (Ihōsei Sokyaku Jiyū)",
+    "legalContext": "Criminal Code Chapter 2, Section 35: Lawful conduct based on laws or ordinances, or necessary business, is not punishable.",
+    "japaneseLegalContext": "刑法35条: 法令又は正当な業務による行為は、罰しない。",
+    "exampleSentence": "The defense argued that the defendant's actions fell under the grounds negating illegality because they were strictly necessary to prevent greater imminent harm.",
+    "exampleTranslation": "被告の行為は、より大きな差し迫った危害を防ぐために厳密に必要であったため、違法性阻却事由に該当すると弁護側は主張した。",
+    "vocabularyList": [
+      {
+        "word": "defense",
+        "translation": "弁護 (bengo)"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告人 (hikokunin)"
+      },
+      {
+        "word": "lawful conduct",
+        "translation": "適法行為 (tekihō kōi)"
+      },
+      {
+        "word": "imminent harm",
+        "translation": "差し迫った危害 (sashisematta kigai)"
+      },
+      {
+        "word": "constituent elements",
+        "translation": "構成要件 (kōsei yōken)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Theory of Objective Imputation",
+    "definition": "A theoretical framework in criminal law used to determine whether a result (e.g., death or injury) can be legally attributed to a perpetrator's conduct, even if factual causality is present, ensuring the result falls within the scope of the rule intended to be violated.",
+    "japaneseDefinition": "結果犯において、行為と結果の間に事実的な因果関係があるだけでなく、その結果が行為者の危険行為の実現と評価され得るかを判断するための学説。",
+    "japaneseWordTranslation": "客観的帰属論 (Kyakkanteki Kizoku Ron)",
+    "legalContext": "This theory is utilized primarily in crimes of result to narrow the scope of criminal liability, ensuring that only consequences directly related to the created unlawful risk are imputed to the actor.",
+    "japaneseLegalContext": "刑法総論における学説であり、行為者の行為が法的に非難されるべき結果を招いたか否かを判定する際に用いられる。",
+    "exampleSentence": "In the case of vehicular injury, the Theory of Objective Imputation was crucial in determining whether the victim's subsequent self-inflicted injuries were legally attributable to the original dangerous driving.",
+    "exampleTranslation": "車両による傷害の事案において、被害者のその後の自傷行為が、もともとの危険運転に法的に帰属し得るかを判断する上で、客観的帰属論が重要であった。",
+    "vocabularyList": [
+      {
+        "word": "vehicular injury",
+        "translation": "車両による傷害 (sharyō ni yoru shōgai)"
+      },
+      {
+        "word": "criminal liability",
+        "translation": "刑事責任 (keiji sekinin)"
+      },
+      {
+        "word": "unlawful risk",
+        "translation": "違法な危険 (ihō na kiken)"
+      },
+      {
+        "word": "causality",
+        "translation": "因果関係 (inga kankei)"
+      },
+      {
+        "word": "crimes of result",
+        "translation": "結果犯 (kekka han)"
+      }
+    ]
   }
 ]

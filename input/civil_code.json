@@ -15490,5 +15490,119 @@
         "translation": "金銭借用 (きんせんしゃくよう)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligation to Indemnify",
+    "definition": "The duty to reimburse or secure another party against a loss, expense, or liability incurred or to be incurred.",
+    "japaneseDefinition": "他の者が被った損害や負担した費用、または債務について、これを補償・弁済する義務。",
+    "japaneseWordTranslation": "償還義務 (しょうかんぎむ)",
+    "legalContext": "Civil Code Art. 650 (Indemnification of expenses and recovery of losses in Mandate): The mandatary may demand that the principal indemnify costs and advance funds necessary for the administration of the affairs entrusted to him/her.",
+    "japaneseLegalContext": "民法第650条（受任者による費用等の償還請求等）：受任者は、委任事務を処理するについて必要と認められる費用を支出したときは、委任者に対し、その費用及び支出の日以後における利息の償還を請求することができる。",
+    "exampleSentence": "The unauthorized representative assumed an obligation to indemnify the principal for all resultant damages and costs under the terms of the implied mandate.",
+    "exampleTranslation": "無権代理人は、黙示の委任の条件に基づき、結果として生じた一切の損害と費用について本人に償還する義務を負った。",
+    "vocabularyList": [
+      {
+        "word": "Mandatary",
+        "translation": "受任者"
+      },
+      {
+        "word": "Principal",
+        "translation": "委任者（本人）"
+      },
+      {
+        "word": "Unauthorized representative",
+        "translation": "無権代理人"
+      },
+      {
+        "word": "Implied mandate",
+        "translation": "黙示の委任"
+      },
+      {
+        "word": "Resultant damages",
+        "translation": "結果として生じた損害"
+      },
+      {
+        "word": "Reimburse",
+        "translation": "弁済する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Maturity",
+    "definition": "The time when the performance of an obligation becomes due, enforceable, and demandable.",
+    "japaneseDefinition": "債務の履行が求められ、債権者がその履行を強制できる時期。",
+    "japaneseWordTranslation": "履行期 (りこうき)",
+    "legalContext": "Civil Code Art. 412 (Timing of performance): When there is no specific time limit prescribed for the performance of an obligation, the obligor shall be liable for delay from the time the obligee demands performance.",
+    "japaneseLegalContext": "民法第412条（履行期）：債務の履行について確定期限があるときは、債務者は、その期限の到来した時から遅滞の責任を負う。",
+    "exampleSentence": "Upon reaching the maturity of the loan, the obligee immediately issued a demand for payment, placing the obligor in delay of performance.",
+    "exampleTranslation": "ローンの履行期が到来したため、債権者は直ちに履行の請求を行い、債務者は履行遅滞に陥った。",
+    "vocabularyList": [
+      {
+        "word": "Obligation",
+        "translation": "債務"
+      },
+      {
+        "word": "Obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "Obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Demand for payment",
+        "translation": "支払いの請求"
+      },
+      {
+        "word": "Delay of performance",
+        "translation": "履行遅滞"
+      },
+      {
+        "word": "Time limit",
+        "translation": "期限"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Disaffirmance",
+    "definition": "The unilateral power of a party (or their statutory agent) to nullify a voidable juridical act, typically exercised by a person with limited legal capacity.",
+    "japaneseDefinition": "制限行為能力者またはその法定代理人が、取り消し可能な法律行為を遡及的に無効とする単独行為。",
+    "japaneseWordTranslation": "取消権の行使 (とりけしけんのこうし) / 取消し (とりけし)",
+    "legalContext": "Civil Code Art. 121-2 (Effect of avoidance/disaffirmance): A voidable juridical act is deemed void ab initio.",
+    "japaneseLegalContext": "民法第121条の2（取消しの効果）：取り消された行為は、初めから無効であったものとみなす。",
+    "exampleSentence": "Because the contract was executed by a person lacking full mental capacity, the court granted the right of disaffirmance to the curator.",
+    "exampleTranslation": "その契約は完全な精神能力を欠く者によって締結されたため、裁判所は保佐人に対し取消権の行使を認めた。",
+    "vocabularyList": [
+      {
+        "word": "Voidable act",
+        "translation": "取り消し可能な行為"
+      },
+      {
+        "word": "Limited legal capacity",
+        "translation": "制限行為能力"
+      },
+      {
+        "word": "Statutory agent",
+        "translation": "法定代理人"
+      },
+      {
+        "word": "Unilateral power",
+        "translation": "単独の権限"
+      },
+      {
+        "word": "Curator",
+        "translation": "保佐人"
+      },
+      {
+        "word": "Void ab initio",
+        "translation": "初めから無効"
+      }
+    ]
   }
 ]

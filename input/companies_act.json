@@ -2,48 +2,6 @@
   {
     "category": "Companies Act (会社法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Business Transfer",
-    "definition": "The transfer of an entire business enterprise or a significant part thereof to another entity, requiring specific procedural requirements for corporate restructuring.",
-    "japaneseDefinition": "会社が行う事業の全部または重要な一部を他の会社に譲り渡す行為。組織再編のための特定の手続き要件が必要とされる。",
-    "japaneseWordTranslation": "事業譲渡 (じぎょうじょうと)",
-    "legalContext": "Companies Act Art. 467 (1): A Company shall obtain a special resolution from the general assembly of its members for the transfer of its entire business.",
-    "japaneseLegalContext": "会社法第467条第1項：会社は、その事業の全部の譲渡をするには、社員総会の特別決議を得なければならない。",
-    "exampleSentence": "Due diligence conducted prior to the Business Transfer focused heavily on the assignment of existing intellectual property rights and client contracts.",
-    "exampleTranslation": "事業譲渡に先立って実施されたデューデリジェンスは、既存の知的財産権および顧客との契約の譲渡に重点が置かれた。",
-    "vocabularyList": [
-      {
-        "word": "due diligence",
-        "translation": "適正評価手続き"
-      },
-      {
-        "word": "assignment",
-        "translation": "譲渡"
-      },
-      {
-        "word": "intellectual property",
-        "translation": "知的財産"
-      },
-      {
-        "word": "enterprise",
-        "translation": "企業（事業体）"
-      },
-      {
-        "word": "procedural requirements",
-        "translation": "手続き要件"
-      },
-      {
-        "word": "conducted",
-        "translation": "実施された"
-      },
-      {
-        "word": "client contracts",
-        "translation": "顧客との契約"
-      }
-    ]
-  },
-  {
-    "category": "Companies Act (会社法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Appraisal Demand for Shares",
     "definition": "A dissenting shareholder's statutory right to demand that the company purchase their shares at a fair price following a major corporate transaction, such as a merger or consolidation.",
     "japaneseDefinition": "合併や組織統合などの重要な企業取引に反対する株主が、会社に対して公正な価格で自己の株式を買い取るよう請求できる法定の権利。",
@@ -12088,6 +12046,44 @@
       {
         "word": "stated capital",
         "translation": "資本金"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Share Transfer",
+    "definition": "A corporate restructuring procedure under the Companies Act where a stock company transfers all its issued shares to a newly established or existing company, resulting in the original company becoming a wholly-owned subsidiary.",
+    "japaneseDefinition": "会社法上の組織再編手法の一つで、株式会社がその発行済株式の全部を、新たに設立する会社や既存の会社に移転させ、完全親子会社関係を構築すること。",
+    "japaneseWordTranslation": "株式移転 (かぶしきいてん)",
+    "legalContext": "Companies Act, Arts. 773 et seq.: Stipulates the procedures and requirements for establishing a wholly-owning parent company through Share Transfer.",
+    "japaneseLegalContext": "会社法第773条以下: 株式移転による完全親会社の設立手続と要件を規定する。",
+    "exampleSentence": "The company utilized a Share Transfer to consolidate its group structure, making the operating entity a wholly-owned subsidiary of the holding company.",
+    "exampleTranslation": "その会社はグループ体制を統合するため、株式移転を利用し、事業実施会社を持株会社の完全子会社とした。",
+    "vocabularyList": [
+      {
+        "word": "restructuring procedure",
+        "translation": "組織再編手続"
+      },
+      {
+        "word": "issued shares",
+        "translation": "発行済株式"
+      },
+      {
+        "word": "wholly-owned subsidiary",
+        "translation": "完全子会社"
+      },
+      {
+        "word": "consolidate",
+        "translation": "統合する"
+      },
+      {
+        "word": "holding company",
+        "translation": "持株会社"
+      },
+      {
+        "word": "stock company",
+        "translation": "株式会社"
       }
     ]
   }

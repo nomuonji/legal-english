@@ -1,42 +1,42 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Companies Act (会社法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Document Production Order",
-  "definition": "A binding court order compelling a party to the suit or a third party to submit specific documents essential for the examination of evidence.",
-  "japaneseDefinition": "訴訟の当事者または第三者に対し、証拠調べのために必要な特定の文書の提出を命じる裁判所の決定。",
-  "japaneseWordTranslation": "文書提出命令 (ぶんしょていしゅつめいれい)",
-  "legalContext": "Code of Civil Procedure Art. 220: Obligations of Document Holder (文書提出義務). The court may impose fines if the order is disregarded.",
-  "japaneseLegalContext": "民事訴訟法第220条: 文書提出義務。命令に従わない場合、過料の制裁がある。",
-  "exampleSentence": "The court issued a document production order against the opposing party regarding the minutes of the board meeting relevant to the contractual formation.",
-  "exampleTranslation": "裁判所は、契約成立に関連する取締役会の議事録に関して、相手方当事者に対し文書提出命令を発した。",
+  "word": "Business Transfer",
+  "definition": "The transfer of an entire business enterprise or a significant part thereof to another entity, requiring specific procedural requirements for corporate restructuring.",
+  "japaneseDefinition": "会社が行う事業の全部または重要な一部を他の会社に譲り渡す行為。組織再編のための特定の手続き要件が必要とされる。",
+  "japaneseWordTranslation": "事業譲渡 (じぎょうじょうと)",
+  "legalContext": "Companies Act Art. 467 (1): A Company shall obtain a special resolution from the general assembly of its members for the transfer of its entire business.",
+  "japaneseLegalContext": "会社法第467条第1項：会社は、その事業の全部の譲渡をするには、社員総会の特別決議を得なければならない。",
+  "exampleSentence": "Due diligence conducted prior to the Business Transfer focused heavily on the assignment of existing intellectual property rights and client contracts.",
+  "exampleTranslation": "事業譲渡に先立って実施されたデューデリジェンスは、既存の知的財産権および顧客との契約の譲渡に重点が置かれた。",
   "vocabularyList": [
     {
-      "word": "binding court order",
-      "translation": "拘束力のある裁判所命令 (こうそくりょくのあるさいばんしょめいれい)"
+      "word": "due diligence",
+      "translation": "適正評価手続き"
     },
     {
-      "word": "third party",
-      "translation": "第三者 (だいさんしゃ)"
+      "word": "assignment",
+      "translation": "譲渡"
     },
     {
-      "word": "opposing party",
-      "translation": "相手方当事者 (あいてがたとうじしゃ)"
+      "word": "intellectual property",
+      "translation": "知的財産"
     },
     {
-      "word": "minutes",
-      "translation": "議事録 (ぎじろく)"
+      "word": "enterprise",
+      "translation": "企業（事業体）"
     },
     {
-      "word": "contractual formation",
-      "translation": "契約の成立 (けいやくのせいりつ)"
+      "word": "procedural requirements",
+      "translation": "手続き要件"
     },
     {
-      "word": "disregarded",
-      "translation": "無視された (むしされた)"
+      "word": "conducted",
+      "translation": "実施された"
     },
     {
-      "word": "obligation",
-      "translation": "義務 (ぎむ)"
+      "word": "client contracts",
+      "translation": "顧客との契約"
     }
   ]
 }

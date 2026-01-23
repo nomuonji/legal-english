@@ -12988,5 +12988,81 @@
         "translation": "債務の履行 (さいむのりこう)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Custody Order",
+    "definition": "A judicial or execution officer's order instructing a third party or the judgment debtor to hold seized movable property under custody, typically awaiting realization through sale.",
+    "japaneseDefinition": "執行官又は裁判所が、換価のために差押えられた動産を、執行官自身や第三者に保管させるために発する命令。動産執行における重要な段階。",
+    "japaneseWordTranslation": "保管命令 (Hokan Meirei)",
+    "legalContext": "Civil Execution Act Art. 124(1): Regulations concerning the storage of seized movable property.",
+    "japaneseLegalContext": "民事執行法第124条第1項: 差押えられた動産の保管に関する規定。",
+    "exampleSentence": "Following the seizure of valuable equipment, the Execution Officer issued a **Property Custody Order** to a designated custodian to prevent disposal or deterioration until the auction date.",
+    "exampleTranslation": "高価な機材の差押え後、執行官は競売の日まで処分や劣化を防ぐため、指定された保管人に対して**保管命令**を発した。",
+    "vocabularyList": [
+      {
+        "word": "custodian",
+        "translation": "保管人"
+      },
+      {
+        "word": "seize",
+        "translation": "差押える"
+      },
+      {
+        "word": "movable property",
+        "translation": "動産"
+      },
+      {
+        "word": "execution official",
+        "translation": "執行官"
+      },
+      {
+        "word": "realization",
+        "translation": "換価"
+      },
+      {
+        "word": "deterioration",
+        "translation": "劣化"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statement of Submission to Compulsory Execution",
+    "definition": "The specific declaration written into a notarized deed (Kōsei Shōsho), wherein the obligor consents to immediate compulsory enforcement in the event of failure to perform a monetary obligation, thereby granting the deed executory force.",
+    "japaneseDefinition": "公正証書を作成する際に、債務者が金銭債務不履行の場合に直ちに強制執行に服する旨を述べる文言。執行証書としての効力を生じさせるために必須とされる。",
+    "japaneseWordTranslation": "執行受諾文言 (Shikkō Junō Mongon)",
+    "legalContext": "Civil Execution Act Art. 22(5): Specifies notarized deeds containing this statement as execution titles.",
+    "japaneseLegalContext": "民事執行法第22条第5号: 当該文言を含む公正証書を執行力のある債務名義として定める規定。",
+    "exampleSentence": "A notarized deed lacking the requisite **Statement of Submission to Compulsory Execution** cannot be utilized as an execution title for debt recovery without first obtaining a separate judgment.",
+    "exampleTranslation": "必要な**執行受諾文言**を欠く公正証書は、別途判決を得ずに債権回収のための債務名義として利用することはできない。",
+    "vocabularyList": [
+      {
+        "word": "notarized deed",
+        "translation": "公正証書"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "executory force",
+        "translation": "執行力"
+      },
+      {
+        "word": "debt recovery",
+        "translation": "債権回収"
+      },
+      {
+        "word": "monetary obligation",
+        "translation": "金銭債務"
+      },
+      {
+        "word": "separate judgment",
+        "translation": "別途の判決"
+      }
+    ]
   }
 ]

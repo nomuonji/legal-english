@@ -1,42 +1,38 @@
 {
-  "category": "Companies Act (会社法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Business Transfer",
-  "definition": "The transfer of an entire business enterprise or a significant part thereof to another entity, requiring specific procedural requirements for corporate restructuring.",
-  "japaneseDefinition": "会社が行う事業の全部または重要な一部を他の会社に譲り渡す行為。組織再編のための特定の手続き要件が必要とされる。",
-  "japaneseWordTranslation": "事業譲渡 (じぎょうじょうと)",
-  "legalContext": "Companies Act Art. 467 (1): A Company shall obtain a special resolution from the general assembly of its members for the transfer of its entire business.",
-  "japaneseLegalContext": "会社法第467条第1項：会社は、その事業の全部の譲渡をするには、社員総会の特別決議を得なければならない。",
-  "exampleSentence": "Due diligence conducted prior to the Business Transfer focused heavily on the assignment of existing intellectual property rights and client contracts.",
-  "exampleTranslation": "事業譲渡に先立って実施されたデューデリジェンスは、既存の知的財産権および顧客との契約の譲渡に重点が置かれた。",
+  "word": "Avoidance based on Fraud",
+  "definition": "The ability of a party to annul a juristic act (such as a sale or gift) if their declaration of intent was induced by the opposing party’s intentional deception (fraudulent misrepresentation).",
+  "japaneseDefinition": "意思表示が、相手方の欺罔行為（詐欺）によってなされた場合に、その意思表示を取り消すことができる権利。",
+  "japaneseWordTranslation": "詐欺による取消し (さぎによるとりけし)",
+  "legalContext": "Civil Code Art. 96, Para. 1: 'A juristic act induced by fraud or duress may be rescinded (avoided).' ",
+  "japaneseLegalContext": "民法第96条第1項: 「詐欺又は強迫による意思表示は、取り消すことができる。」",
+  "exampleSentence": "The plaintiff sought avoidance based on fraud, alleging that the defendant misrepresented the financial condition of the company during the merger negotiation.",
+  "exampleTranslation": "原告は、合併交渉中に被告が会社の財務状況について虚偽の表示をしたと主張し、詐欺による取消しを求めた。",
   "vocabularyList": [
     {
-      "word": "due diligence",
-      "translation": "適正評価手続き"
+      "word": "annul",
+      "translation": "無効にする／取り消す"
     },
     {
-      "word": "assignment",
-      "translation": "譲渡"
+      "word": "juristic act",
+      "translation": "法律行為"
     },
     {
-      "word": "intellectual property",
-      "translation": "知的財産"
+      "word": "declaration of intent",
+      "translation": "意思表示"
     },
     {
-      "word": "enterprise",
-      "translation": "企業（事業体）"
+      "word": "intentional deception",
+      "translation": "故意の欺罔行為"
     },
     {
-      "word": "procedural requirements",
-      "translation": "手続き要件"
+      "word": "misrepresented",
+      "translation": "虚偽の表示をした"
     },
     {
-      "word": "conducted",
-      "translation": "実施された"
-    },
-    {
-      "word": "client contracts",
-      "translation": "顧客との契約"
+      "word": "duress",
+      "translation": "強迫"
     }
   ]
 }

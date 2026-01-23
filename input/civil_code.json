@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Avoidance based on Fraud",
-    "definition": "The ability of a party to annul a juristic act (such as a sale or gift) if their declaration of intent was induced by the opposing party’s intentional deception (fraudulent misrepresentation).",
-    "japaneseDefinition": "意思表示が、相手方の欺罔行為（詐欺）によってなされた場合に、その意思表示を取り消すことができる権利。",
-    "japaneseWordTranslation": "詐欺による取消し (さぎによるとりけし)",
-    "legalContext": "Civil Code Art. 96, Para. 1: 'A juristic act induced by fraud or duress may be rescinded (avoided).' ",
-    "japaneseLegalContext": "民法第96条第1項: 「詐欺又は強迫による意思表示は、取り消すことができる。」",
-    "exampleSentence": "The plaintiff sought avoidance based on fraud, alleging that the defendant misrepresented the financial condition of the company during the merger negotiation.",
-    "exampleTranslation": "原告は、合併交渉中に被告が会社の財務状況について虚偽の表示をしたと主張し、詐欺による取消しを求めた。",
-    "vocabularyList": [
-      {
-        "word": "annul",
-        "translation": "無効にする／取り消す"
-      },
-      {
-        "word": "juristic act",
-        "translation": "法律行為"
-      },
-      {
-        "word": "declaration of intent",
-        "translation": "意思表示"
-      },
-      {
-        "word": "intentional deception",
-        "translation": "故意の欺罔行為"
-      },
-      {
-        "word": "misrepresented",
-        "translation": "虚偽の表示をした"
-      },
-      {
-        "word": "duress",
-        "translation": "強迫"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Rights of Demand and Search",
     "definition": "Defenses available only to an ordinary surety (not a joint and several guarantor) which allow the surety to resist the obligee’s demand for performance until the obligee has first pressed the principal obligor (Demand) or sought execution against the principal obligor’s property (Search).",
     "japaneseDefinition": "通常の保証人が債権者からの履行請求に対し、主たる債務者への催告（催告の抗弁権）や主たる債務者の財産への強制執行（検索の抗弁権）を先に求めることができる権利。",
@@ -15830,6 +15792,108 @@
       {
         "word": "Performance",
         "translation": "履行"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of One Thing, One Right",
+    "definition": "A fundamental principle of property law stating that a single proprietary right (real right) can only exist over a single, distinct physical object (thing). It ensures clarity and uniqueness in the definition of the subject matter of real rights.",
+    "japaneseDefinition": "一個の物に対して、一個の物権が成立するという原則であり、物権の客体となる物の独立性を要求する物権法の基本原則。",
+    "japaneseWordTranslation": "一物一権主義 (いちぶついっけんしゅぎ)",
+    "legalContext": "Fundamental principle governing the scope and identification of real rights (物権), derived from the structure of Civil Code provisions concerning things.",
+    "japaneseLegalContext": "物権の客体の範囲と特定を規律する基本原則（民法典の物権に関する規定の構造から導かれる）。",
+    "exampleSentence": "The Principle of One Thing, One Right dictates that a mortgage established on a building cannot automatically extend to an adjoining piece of land unless the properties are legally merged.",
+    "exampleTranslation": "一物一権主義により、建物に設定された抵当権は、その不動産が法的に合体されない限り、隣接する土地に自動的に及ぶことはない。",
+    "vocabularyList": [
+      {
+        "word": "proprietary right",
+        "translation": "物権"
+      },
+      {
+        "word": "physical object",
+        "translation": "物"
+      },
+      {
+        "word": "subject matter",
+        "translation": "客体"
+      },
+      {
+        "word": "mortgage",
+        "translation": "抵当権"
+      },
+      {
+        "word": "legally merged",
+        "translation": "法的に合体された"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibition of Self-Contract",
+    "definition": "A rule in agency law preventing an agent from acting as a party to a contract with their principal (self-contract), or representing both parties to a transaction (dual representation), without specific permission or legal basis, to avoid conflicts of interest.",
+    "japaneseDefinition": "代理人が、本人を代理して自らと契約を締結すること（自己契約）、または契約の相手方双方を代理すること（双方代理）を、原則として禁止するルール。",
+    "japaneseWordTranslation": "自己契約の禁止 (じこけいやくのきんし)",
+    "legalContext": "Civil Code Art. 108: 'An agent shall not make a Juridical Act with the principal on his or her own behalf, or act as an agent for both parties...'",
+    "japaneseLegalContext": "民法第108条:「同一の法律行為について、相手方の代理人となり、又は当事者双方の代理人となることはできない。」",
+    "exampleSentence": "Due to the Prohibition of Self-Contract, the agent could not legally execute the sales contract where they were simultaneously the seller (acting for the principal) and the buyer (acting for themselves).",
+    "exampleTranslation": "自己契約の禁止により、その代理人は、本人のために売主として、また自分のために買主として同時に機能する売買契約を法的に執行することはできなかった。",
+    "vocabularyList": [
+      {
+        "word": "agent",
+        "translation": "代理人"
+      },
+      {
+        "word": "principal",
+        "translation": "本人"
+      },
+      {
+        "word": "dual representation",
+        "translation": "双方代理"
+      },
+      {
+        "word": "Juridical Act",
+        "translation": "法律行為"
+      },
+      {
+        "word": "conflict of interest",
+        "translation": "利益相反"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Distribution to Special Claimants",
+    "definition": "A procedure in succession law where, after the liquidation of an estate and confirmation that no legal heirs exist, a portion or the entirety of the remaining assets may be distributed to persons who have a special, substantial connection (claimants) to the deceased, such as those who provided care or support.",
+    "japaneseDefinition": "相続人の不存在が確定し、相続財産の清算を経た後、被相続人に対して生計を同じくし、療養看護に努めた者などの特別の縁故者に、残余財産の全部または一部を分与する手続き。",
+    "japaneseWordTranslation": "特別縁故者への財産分与 (とくべつえんこしゃへのざいさんぶんよ)",
+    "legalContext": "Civil Code Art. 958-3: This procedure occurs when assets remain after the administration of an estate without heirs and creditor claims are settled.",
+    "japaneseLegalContext": "民法第958条の3: 相続人の不存在が確定し、債権者への弁済が完了した後になお残余財産がある場合に適用される。",
+    "exampleSentence": "Following the administrator's final report, the court ordered the Distribution to Special Claimants, granting the deceased's long-term caregiver a portion of the residual estate.",
+    "exampleTranslation": "裁判所は、相続財産管理人の最終報告を受け、特別縁故者への財産分与を命じ、被相続人の長期間の介護者に残余財産の一部を付与した。",
+    "vocabularyList": [
+      {
+        "word": "claimants",
+        "translation": "縁故者"
+      },
+      {
+        "word": "liquidation of an estate",
+        "translation": "相続財産の清算"
+      },
+      {
+        "word": "legal heirs",
+        "translation": "法定相続人"
+      },
+      {
+        "word": "residual estate",
+        "translation": "残余財産"
+      },
+      {
+        "word": "administrator's report",
+        "translation": "管理人の報告"
       }
     ]
   }

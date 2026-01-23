@@ -2,44 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Destruction of Evidence",
-    "definition": "The crime committed by a person who destroys, damages, conceals, or falsifies evidence related to the criminal case of another person, with the intent to hamper judicial proceedings or investigation.",
-    "japaneseDefinition": "他人の刑事事件に関する証拠を、捜査や司法手続を妨害する目的で、隠滅、損壊、変造、または偽造する罪。",
-    "japaneseWordTranslation": "証拠隠滅罪 (しょうこ いんめつ ざい)",
-    "legalContext": "Penal Code Art. 104 (Concealment of Evidence): A person who conceals, destroys, falsifies or fabricates evidence relating to the criminal case of another person shall be punished by imprisonment...",
-    "japaneseLegalContext": "刑法第104条（証拠隠滅等）：他人の刑事事件に関する証拠を隠滅し、偽造し、若しくは変造し、又は偽造若しくは変造の証拠を使用した者は、〜懲役に処する。",
-    "exampleSentence": "The defendant’s accomplice was arrested for destruction of evidence after attempting to erase security footage crucial to the ongoing robbery investigation.",
-    "exampleTranslation": "進行中の強盗捜査に不可欠な監視カメラの映像を消去しようとした後、被告人の共犯者が証拠隠滅罪で逮捕された。",
-    "vocabularyList": [
-      {
-        "word": "hamper judicial proceedings",
-        "translation": "司法手続を妨害する"
-      },
-      {
-        "word": "falsifies or fabricates",
-        "translation": "偽造し、若しくは変造する"
-      },
-      {
-        "word": "criminal case of another person",
-        "translation": "他人の刑事事件"
-      },
-      {
-        "word": "accomplice",
-        "translation": "共犯者"
-      },
-      {
-        "word": "security footage",
-        "translation": "監視カメラの映像"
-      },
-      {
-        "word": "imprisonment",
-        "translation": "懲役"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Diminished Capacity",
     "definition": "A state where a person's mental capacity to discern right from wrong (cognitive ability) or to act according to that discernment (volitional ability) is significantly impaired, leading to a mandatory mitigation of punishment.",
     "japaneseDefinition": "是非を弁別する能力（認識能力）またはそれに従って行動する能力（意思能力）が著しく減退している状態を指し、刑の必要的減軽事由となる。",
@@ -13562,6 +13524,120 @@
       {
         "word": "summoned aid",
         "translation": "救助を呼んだ"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Extraterritorial Application to Japanese Nationals",
+    "definition": "The rule under Japanese criminal jurisdiction whereby the Criminal Code applies to Japanese citizens who commit specific offenses (such as homicide, fraud, or robbery) outside the territory of Japan (Active Personality Principle).",
+    "japaneseDefinition": "日本国民が国外で特定の犯罪を犯した場合に日本の刑法を適用する規定（属人主義の積極的側面）。",
+    "japaneseWordTranslation": "自国民国外犯規定 (じこくみんこくがいはんきてい)",
+    "legalContext": "Criminal Code Art. 3 (Crimes Outside Japan by Japanese Nationals): “This Code shall apply to a Japanese national who commits a crime specified in Chapter... outside the territory of Japan.”",
+    "japaneseLegalContext": "刑法第3条（国外犯）：「この法律は、日本国外において次に掲げる罪を犯した日本国民に適用する。」",
+    "exampleSentence": "The Public Prosecutor’s Office invoked the extraterritorial application to Japanese nationals provision to prosecute a suspect who committed bank fraud in Southeast Asia.",
+    "exampleTranslation": "検察庁は、東南アジアで銀行詐欺を犯した容疑者を訴追するために、自国民国外犯規定を適用した。",
+    "vocabularyList": [
+      {
+        "word": "invoked",
+        "translation": "発動した"
+      },
+      {
+        "word": "Public Prosecutor’s Office",
+        "translation": "検察庁"
+      },
+      {
+        "word": "prosecute",
+        "translation": "訴追する"
+      },
+      {
+        "word": "suspect",
+        "translation": "容疑者"
+      },
+      {
+        "word": "bank fraud",
+        "translation": "銀行詐欺"
+      },
+      {
+        "word": "territory",
+        "translation": "領域"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Calculation of Combined Sentences (Concurrent Offenses)",
+    "definition": "The statutory method for determining the sentence when a person is convicted of multiple offenses (concurrent offenses), where the aggregate penalty is limited by specific statutory caps, such as the maximum term of imprisonment being 30 years.",
+    "japaneseDefinition": "複数の罪を併合して審理する場合に、量刑の合計期間が法定の最大限度を超えないように刑の総体を決定する方法。",
+    "japaneseWordTranslation": "併合罪の処断刑の算定 (へいごうざいのしょだんけいのさんてい)",
+    "legalContext": "Criminal Code Art. 47 (Maximum Term of Imprisonment): “The term of imprisonment with or without labor shall not exceed 30 years.” (Also Art. 48 concerning calculating aggregate fines.)",
+    "japaneseLegalContext": "刑法第47条（有期の懲役又は禁錮の最大限度）：有期の懲役又は禁錮は、30年を超えることができない。（第48条は罰金の算定について規定）",
+    "exampleSentence": "The court applied the calculation of combined sentences rules, resulting in a maximum aggregate imprisonment term of 25 years for the four concurrent offenses.",
+    "exampleTranslation": "裁判所は併合罪の処断刑の算定に関する規則を適用し、その結果、四つの併合罪に対する有期懲役の合計は最大25年となった。",
+    "vocabularyList": [
+      {
+        "word": "concurrent offenses",
+        "translation": "併合罪"
+      },
+      {
+        "word": "aggregate imprisonment term",
+        "translation": "合計された懲役期間"
+      },
+      {
+        "word": "statutory caps",
+        "translation": "法定の制限"
+      },
+      {
+        "word": "aggregate penalty",
+        "translation": "総体的な刑罰"
+      },
+      {
+        "word": "term of imprisonment",
+        "translation": "懲役期間"
+      },
+      {
+        "word": "convicted of",
+        "translation": "有罪判決を受けた"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Concrete Danger Crime",
+    "definition": "A crime classification where the completion of the offense requires not just the prohibited act, but also proof that a specific and identifiable danger to the legally protected interest actually materialized.",
+    "japaneseDefinition": "犯罪の成立要件として、構成要件に該当する行為によって、法益に対する現実的かつ特定の危険が生じたことを必要とする犯罪類型。",
+    "japaneseWordTranslation": "具体的な危険犯 (ぐたいてきなきけんはん)",
+    "legalContext": "Criminal Code Art. 125 (Endangering General Traffic): Requires 'danger to the passage of trains, electric trains, or vessels,' demonstrating a concrete danger requirement.",
+    "japaneseLegalContext": "刑法第125条（往来危険）：『汽車、電車若しくは船舶の往来の危険を生じさせた』ことを要件とし、具体的な危険を要求している。",
+    "exampleSentence": "Unlike an abstract danger crime, the prosecution for a concrete danger crime must prove that the defendant’s actions specifically jeopardized the safety of individuals or property.",
+    "exampleTranslation": "抽象的な危険犯とは異なり、具体的な危険犯に対する訴追は、被告人の行為が個人または財産の安全を具体的に危うくしたことを証明しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "abstract danger crime",
+        "translation": "抽象的な危険犯"
+      },
+      {
+        "word": "jeopardized",
+        "translation": "危うくした"
+      },
+      {
+        "word": "prohibited act",
+        "translation": "禁止された行為"
+      },
+      {
+        "word": "prosecution",
+        "translation": "訴追"
+      },
+      {
+        "word": "legally protected interest",
+        "translation": "法益"
+      },
+      {
+        "word": "materialized",
+        "translation": "現実化した"
       }
     ]
   }

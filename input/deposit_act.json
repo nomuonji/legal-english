@@ -9062,5 +9062,81 @@
         "translation": "経過"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Depositor's Retrieval Claim",
+    "definition": "The right of the consignor (obligor) to reclaim the deposited property before the obligee (deposit recipient) accepts the deposit or a judicial decision establishes the obligee's right to receive it.",
+    "japaneseDefinition": "供託者が、被供託者が供託を受諾しない間、又は供託を有効とする判決が確定しない間において、供託物を取り戻すことができる権利。",
+    "japaneseWordTranslation": "供託物取戻請求権 (きょうたくぶつ とりもどし せいきゅうけん)",
+    "legalContext": "Deposit Act Art. 9, Para. 2: The consignor may retrieve the deposited property until the deposit recipient accepts the consignment or the judgment validating the deposit becomes final and binding.",
+    "japaneseLegalContext": "供託法第9条第2項：「供託者は、被供託者が供託を受諾し、又は供託を有効とする判決が確定するまでの間は、供託物を取り戻すことができる。」",
+    "exampleSentence": "The obligor exercised the Depositor's Retrieval Claim after the creditor failed to state an intention regarding the deposited funds within the prescribed timeframe, thereby dissolving the initial consignment.",
+    "exampleTranslation": "債務者は、債権者が所定期間内に供託金について意思を表明しなかったため、供託物取戻請求権を行使し、それにより当初の供託は解消された。",
+    "vocabularyList": [
+      {
+        "word": "consignor",
+        "translation": "供託者"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "deposited funds",
+        "translation": "供託金"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "prescribed timeframe",
+        "translation": "所定期間"
+      },
+      {
+        "word": "judicial decision",
+        "translation": "判決/裁判"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reversion to the State Treasury",
+    "definition": "The legal outcome where deposited property becomes the property of the national government if the rightful entitlement holder fails to exercise their claim for a specific statutory period, typically 20 years in civil deposits.",
+    "japaneseDefinition": "供託された財産につき、正当な権利を有する者が法定の期間（民事供託の場合は原則20年）内に払渡請求権を行使しない場合に、当該供託物が国のものとなること。",
+    "japaneseWordTranslation": "国庫帰属 (こっこ きぞく)",
+    "legalContext": "Deposit Act Art. 49, Para. 1 (read in conjunction with the Civil Code’s provisions on extinctive prescription): The deposited property claim becomes void if not exercised within 20 years from the date of deposit, leading to reversion.",
+    "japaneseLegalContext": "供託法第49条第1項：「供託物取戻請求権又は供託物払渡請求権は、供託の日から二十年間行使しないときは、時効によって消滅する。」",
+    "exampleSentence": "Due to the lapse of the statutory period without any claim being made, the security deposit was deemed subject to Reversion to the State Treasury.",
+    "exampleTranslation": "法定期間が経過し、何の請求もなされなかったため、その保証供託金は国庫帰属の対象と見なされた。",
+    "vocabularyList": [
+      {
+        "word": "deposited property",
+        "translation": "供託物"
+      },
+      {
+        "word": "rightful entitlement holder",
+        "translation": "正当な権利者"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "security deposit",
+        "translation": "保証供託金"
+      },
+      {
+        "word": "claim being made",
+        "translation": "請求がなされること"
+      },
+      {
+        "word": "lapse",
+        "translation": "経過"
+      }
+    ]
   }
 ]

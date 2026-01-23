@@ -1,38 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Avoidance based on Fraud",
-  "definition": "The ability of a party to annul a juristic act (such as a sale or gift) if their declaration of intent was induced by the opposing party’s intentional deception (fraudulent misrepresentation).",
-  "japaneseDefinition": "意思表示が、相手方の欺罔行為（詐欺）によってなされた場合に、その意思表示を取り消すことができる権利。",
-  "japaneseWordTranslation": "詐欺による取消し (さぎによるとりけし)",
-  "legalContext": "Civil Code Art. 96, Para. 1: 'A juristic act induced by fraud or duress may be rescinded (avoided).' ",
-  "japaneseLegalContext": "民法第96条第1項: 「詐欺又は強迫による意思表示は、取り消すことができる。」",
-  "exampleSentence": "The plaintiff sought avoidance based on fraud, alleging that the defendant misrepresented the financial condition of the company during the merger negotiation.",
-  "exampleTranslation": "原告は、合併交渉中に被告が会社の財務状況について虚偽の表示をしたと主張し、詐欺による取消しを求めた。",
+  "word": "Destruction of Evidence",
+  "definition": "The crime committed by a person who destroys, damages, conceals, or falsifies evidence related to the criminal case of another person, with the intent to hamper judicial proceedings or investigation.",
+  "japaneseDefinition": "他人の刑事事件に関する証拠を、捜査や司法手続を妨害する目的で、隠滅、損壊、変造、または偽造する罪。",
+  "japaneseWordTranslation": "証拠隠滅罪 (しょうこ いんめつ ざい)",
+  "legalContext": "Penal Code Art. 104 (Concealment of Evidence): A person who conceals, destroys, falsifies or fabricates evidence relating to the criminal case of another person shall be punished by imprisonment...",
+  "japaneseLegalContext": "刑法第104条（証拠隠滅等）：他人の刑事事件に関する証拠を隠滅し、偽造し、若しくは変造し、又は偽造若しくは変造の証拠を使用した者は、〜懲役に処する。",
+  "exampleSentence": "The defendant’s accomplice was arrested for destruction of evidence after attempting to erase security footage crucial to the ongoing robbery investigation.",
+  "exampleTranslation": "進行中の強盗捜査に不可欠な監視カメラの映像を消去しようとした後、被告人の共犯者が証拠隠滅罪で逮捕された。",
   "vocabularyList": [
     {
-      "word": "annul",
-      "translation": "無効にする／取り消す"
+      "word": "hamper judicial proceedings",
+      "translation": "司法手続を妨害する"
     },
     {
-      "word": "juristic act",
-      "translation": "法律行為"
+      "word": "falsifies or fabricates",
+      "translation": "偽造し、若しくは変造する"
     },
     {
-      "word": "declaration of intent",
-      "translation": "意思表示"
+      "word": "criminal case of another person",
+      "translation": "他人の刑事事件"
     },
     {
-      "word": "intentional deception",
-      "translation": "故意の欺罔行為"
+      "word": "accomplice",
+      "translation": "共犯者"
     },
     {
-      "word": "misrepresented",
-      "translation": "虚偽の表示をした"
+      "word": "security footage",
+      "translation": "監視カメラの映像"
     },
     {
-      "word": "duress",
-      "translation": "強迫"
+      "word": "imprisonment",
+      "translation": "懲役"
     }
   ]
 }

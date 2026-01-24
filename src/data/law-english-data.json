@@ -1,38 +1,38 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Destruction of Evidence",
-  "definition": "The crime committed by a person who destroys, damages, conceals, or falsifies evidence related to the criminal case of another person, with the intent to hamper judicial proceedings or investigation.",
-  "japaneseDefinition": "他人の刑事事件に関する証拠を、捜査や司法手続を妨害する目的で、隠滅、損壊、変造、または偽造する罪。",
-  "japaneseWordTranslation": "証拠隠滅罪 (しょうこ いんめつ ざい)",
-  "legalContext": "Penal Code Art. 104 (Concealment of Evidence): A person who conceals, destroys, falsifies or fabricates evidence relating to the criminal case of another person shall be punished by imprisonment...",
-  "japaneseLegalContext": "刑法第104条（証拠隠滅等）：他人の刑事事件に関する証拠を隠滅し、偽造し、若しくは変造し、又は偽造若しくは変造の証拠を使用した者は、〜懲役に処する。",
-  "exampleSentence": "The defendant’s accomplice was arrested for destruction of evidence after attempting to erase security footage crucial to the ongoing robbery investigation.",
-  "exampleTranslation": "進行中の強盗捜査に不可欠な監視カメラの映像を消去しようとした後、被告人の共犯者が証拠隠滅罪で逮捕された。",
+  "word": "Liquidation",
+  "definition": "The procedural step in execution law where the seized assets—such as real property, movable assets, or ships—are converted into cash (sale proceeds) to satisfy the claims of the execution obligee. This usually involves an auction or public tender.",
+  "japaneseDefinition": "差し押さえた財産（不動産、動産、船舶等）を金銭（売却代金）に換えて、執行債権者の債権を充足するために充てる手続き上の行為。通常、競売または入札によって行われる。",
+  "japaneseWordTranslation": "換価 (かんか)",
+  "legalContext": "Civil Execution Act Part III, Chapter I, Section 2: Liquidation of Seized Real Property. The Act stipulates detailed methods for valuation and sale.",
+  "japaneseLegalContext": "民事執行法第3編第1章第2節：差し押さえられた不動産の換価。本法は評価や売却に関する詳細な手法を定めている。",
+  "exampleSentence": "Following the unsuccessful private sale attempts, the execution court moved forward with the public auction for the liquidation of the seized vessel.",
+  "exampleTranslation": "私的売却の試みが不調に終わったため、執行裁判所は、差し押さえた船舶の換価のための公売手続きを進めた。",
   "vocabularyList": [
     {
-      "word": "hamper judicial proceedings",
-      "translation": "司法手続を妨害する"
+      "word": "sale proceeds",
+      "translation": "売却代金"
     },
     {
-      "word": "falsifies or fabricates",
-      "translation": "偽造し、若しくは変造する"
+      "word": "seized assets",
+      "translation": "差押財産"
     },
     {
-      "word": "criminal case of another person",
-      "translation": "他人の刑事事件"
+      "word": "public auction",
+      "translation": "公売"
     },
     {
-      "word": "accomplice",
-      "translation": "共犯者"
+      "word": "valuation",
+      "translation": "評価"
     },
     {
-      "word": "security footage",
-      "translation": "監視カメラの映像"
+      "word": "vessel",
+      "translation": "船舶"
     },
     {
-      "word": "imprisonment",
-      "translation": "懲役"
+      "word": "private sale",
+      "translation": "私的売却"
     }
   ]
 }

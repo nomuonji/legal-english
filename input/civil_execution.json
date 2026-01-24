@@ -2,44 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Liquidation",
-    "definition": "The procedural step in execution law where the seized assets—such as real property, movable assets, or ships—are converted into cash (sale proceeds) to satisfy the claims of the execution obligee. This usually involves an auction or public tender.",
-    "japaneseDefinition": "差し押さえた財産（不動産、動産、船舶等）を金銭（売却代金）に換えて、執行債権者の債権を充足するために充てる手続き上の行為。通常、競売または入札によって行われる。",
-    "japaneseWordTranslation": "換価 (かんか)",
-    "legalContext": "Civil Execution Act Part III, Chapter I, Section 2: Liquidation of Seized Real Property. The Act stipulates detailed methods for valuation and sale.",
-    "japaneseLegalContext": "民事執行法第3編第1章第2節：差し押さえられた不動産の換価。本法は評価や売却に関する詳細な手法を定めている。",
-    "exampleSentence": "Following the unsuccessful private sale attempts, the execution court moved forward with the public auction for the liquidation of the seized vessel.",
-    "exampleTranslation": "私的売却の試みが不調に終わったため、執行裁判所は、差し押さえた船舶の換価のための公売手続きを進めた。",
-    "vocabularyList": [
-      {
-        "word": "sale proceeds",
-        "translation": "売却代金"
-      },
-      {
-        "word": "seized assets",
-        "translation": "差押財産"
-      },
-      {
-        "word": "public auction",
-        "translation": "公売"
-      },
-      {
-        "word": "valuation",
-        "translation": "評価"
-      },
-      {
-        "word": "vessel",
-        "translation": "船舶"
-      },
-      {
-        "word": "private sale",
-        "translation": "私的売却"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Successful Bidder",
     "definition": "The person who is declared the buyer of property (typically real estate or movables) at a compulsory sale conducted by the execution court, usually because they submitted the highest bid. Upon payment of the purchase price, they acquire ownership of the property.",
     "japaneseDefinition": "執行裁判所が行う強制的な売却手続き（通常は競売）において、最も高い入札額を提示した結果、財産（主に不動産や動産）の買い手として決定された者。代金を納付することにより、その財産の所有権を取得する。",
@@ -13100,6 +13062,120 @@
       {
         "word": "Unencumbered Title",
         "translation": "無負担の所有権 (Mufutan no Shoyūken)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Non-Seizure Provision",
+    "definition": "A legal rule established primarily to protect the minimum living standards of the judgment debtor and their family by exempting certain essential assets (like necessary furniture or a portion of wages) from seizure and execution.",
+    "japaneseDefinition": "債務者やその家族の最低限度の生活維持を保護するため、特定の財産（生活に必要な家財や給与の一部など）を強制執行による差押えから除外する旨を定めた法令上の規定。",
+    "japaneseWordTranslation": "差押禁止規定 (Sashiosae Kinshi Kitei)",
+    "legalContext": "Civil Execution Law, Article 131, detailing the types of property that cannot be seized, such as clothing, bedding, and certain furniture required for daily life.",
+    "japaneseLegalContext": "民事執行法第131条（差押禁止動産）：債務者及びその者と生計を共にする者の生活に欠くことのできない衣服、寝具、台所用具、その他家具等。",
+    "exampleSentence": "The court approved the obligor's motion to apply the Statutory Non-Seizure Provision to protect his vehicle, arguing it was essential for maintaining his livelihood.",
+    "exampleTranslation": "裁判所は、債務者の生計維持に不可欠であると主張されたため、その車両に差押禁止規定を適用する申立てを承認した。",
+    "vocabularyList": [
+      {
+        "word": "obligor's motion",
+        "translation": "債務者の申立て (Saimusha no mōshitate)"
+      },
+      {
+        "word": "livelihood",
+        "translation": "生計 (Seikei)"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え (Sashiosae)"
+      },
+      {
+        "word": "legal rule",
+        "translation": "法規定 (Hō kitei)"
+      },
+      {
+        "word": "essential assets",
+        "translation": "必要財産 (Hitsuyō zaisan)"
+      },
+      {
+        "word": "minimum living standards",
+        "translation": "最低限度の生活水準 (Saiteigendo no seikatsu suijun)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Security Interest Discharge",
+    "definition": "The principle that certain registered security interests or usage rights affecting real estate are automatically removed or extinguished by the court upon the completion of a compulsory auction sale, ensuring the buyer receives clear title.",
+    "japaneseDefinition": "強制競売の売却手続完了時に、不動産に設定された特定の登記された担保物権や用益権などが、裁判所の職権により当然に抹消または消滅する原則。",
+    "japaneseWordTranslation": "担保権の職権抹消 (Tanpoken no Shokken Masshō)",
+    "legalContext": "Civil Execution Law, Article 188 (applied mutatis mutandis from the provisions regarding secured real property auction), concerning the extinguishment of security interests upon sale.",
+    "japaneseLegalContext": "民事執行法第188条（担保不動産競売の規定の準用）：売却により担保権が消滅すること。",
+    "exampleSentence": "The successful acquisition of the land via compulsory auction was contingent upon the Mandatory Security Interest Discharge of a junior hypothecation that existed prior to the seizure.",
+    "exampleTranslation": "強制競売による土地の取得は、差押え以前に存在した劣後抵当権の担保権の職権抹消を条件としていた。",
+    "vocabularyList": [
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売 (Kyōsei keibai)"
+      },
+      {
+        "word": "real estate",
+        "translation": "不動産 (Fudōsan)"
+      },
+      {
+        "word": "registered",
+        "translation": "登記された (Tōki sareta)"
+      },
+      {
+        "word": "junior hypothecation",
+        "translation": "劣後抵当権 (Retsugo teitōken)"
+      },
+      {
+        "word": "clear title",
+        "translation": "完全な所有権 (Kanzen na shoyūken)"
+      },
+      {
+        "word": "upon completion",
+        "translation": "完了時 (Kanryōji)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Succession Enforcement Endorsement",
+    "definition": "A specific type of judicial certification placed on an executable legal document (like a final judgment) when the execution is to be initiated against a party who succeeded to the original obligor's legal standing (e.g., an inheritance recipient).",
+    "japaneseDefinition": "確定判決などの執行力ある文書に付される、特定の裁判所による証明書。元の債務者の地位を承継した者（相続人など）に対して執行を開始する際に必要とされる。",
+    "japaneseWordTranslation": "承継執行文 (Shōkei Shikkōbun)",
+    "legalContext": "Civil Execution Law, Article 27, establishing the requirement for obtaining a succession execution clause when the execution creditor or debtor changes due to succession.",
+    "japaneseLegalContext": "民事執行法第27条（承継執行文）：執行文の付与の要件として、債権者又は債務者の承継があった場合に必要となる執行文。",
+    "exampleSentence": "Following the debtor’s passing, the creditor was required to obtain a Succession Enforcement Endorsement before proceeding with execution against the property now managed by the recipient of the inheritance.",
+    "exampleTranslation": "債務者の逝去後、債権者は相続財産管理人となった者に対して執行を進める前に、承継執行文を取得する必要があった。",
+    "vocabularyList": [
+      {
+        "word": "judicial certification",
+        "translation": "裁判上の証明 (Saiban-jō no shōmei)"
+      },
+      {
+        "word": "executable legal document",
+        "translation": "執行力ある法文書 (Shikkōryoku aru hōbunsho)"
+      },
+      {
+        "word": "obligor's legal standing",
+        "translation": "債務者の法的地位 (Saimusha no hōteki chii)"
+      },
+      {
+        "word": "proceeding with execution",
+        "translation": "執行を進める (Shikkō o susumeru)"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者 (Saikensha)"
+      },
+      {
+        "word": "inheritance recipient",
+        "translation": "相続財産管理人 (Sōzoku zaisan kanrinin)"
       }
     ]
   }

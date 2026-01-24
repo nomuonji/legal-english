@@ -11183,5 +11183,119 @@
         "translation": "条件"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-Submission of Title ID Data",
+    "definition": "A procedural option allowing a registering party to bypass the submission of the confidential registration identification code by appearing in person before the designated official for identity confirmation.",
+    "japaneseDefinition": "登記識別情報を申請時に提供しない場合に、申請人が登記官の面前で本人であることを確認してもらう制度。権利変動の真正を担保するための手段である。",
+    "japaneseWordTranslation": "登記識別情報提供の省略 (とうきしきべつじょうほうていきょうのしょうりゃく)",
+    "legalContext": "Real Property Registration Act Art. 23 (4) (Substitutive Confirmation System)",
+    "japaneseLegalContext": "不動産登記法第23条第4項（本人確認情報の提供）",
+    "exampleSentence": "Due to the risk of code loss, the applicant opted for the **Non-Submission of Title ID Data** procedure, requiring the execution of an identity certificate by the designated official.",
+    "exampleTranslation": "コード紛失のリスクから、申請者は登記識別情報提供の省略手続きを選択し、指定された登記官による本人確認証明書の作成が必要となった。",
+    "vocabularyList": [
+      {
+        "word": "confidential",
+        "translation": "秘密の"
+      },
+      {
+        "word": "identity confirmation",
+        "translation": "本人確認"
+      },
+      {
+        "word": "authenticity",
+        "translation": "真正"
+      },
+      {
+        "word": "applicant",
+        "translation": "申請者"
+      },
+      {
+        "word": "designated official",
+        "translation": "指定された登記官"
+      },
+      {
+        "word": "certificate",
+        "translation": "証明書"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Secondary Rights Segment",
+    "definition": "The distinct segment within a real property registration record (register) dedicated to recording claims and interests other than full ownership, such as secured lending arrangements and beneficial usage rights.",
+    "japaneseDefinition": "不動産登記記録の権利部のうち、所有権以外の権利（担保権や用益権など）を記録するために設けられている部分。通称「乙区」と呼ばれる。",
+    "japaneseWordTranslation": "権利部の乙区 (けんりぶのおつく)",
+    "legalContext": "Real Property Registration Act Art. 20 (Structure of the Register)",
+    "japaneseLegalContext": "不動産登記法第20条（登記記録の構成）",
+    "exampleSentence": "The bank's collateral interest was successfully documented in the **Secondary Rights Segment**, ensuring its priority against subsequently registered burdens.",
+    "exampleTranslation": "銀行の担保権は二次的権利記録区に適切に記録され、後から登記された負担に対するその優先順位が確保された。",
+    "vocabularyList": [
+      {
+        "word": "distinct segment",
+        "translation": "区別された部分"
+      },
+      {
+        "word": "claims and interests",
+        "translation": "請求権と利益"
+      },
+      {
+        "word": "secured lending",
+        "translation": "担保付き貸付"
+      },
+      {
+        "word": "collateral interest",
+        "translation": "担保権益"
+      },
+      {
+        "word": "priority",
+        "translation": "優先順位"
+      },
+      {
+        "word": "subsequently registered",
+        "translation": "後に登記された"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Property Destruction",
+    "definition": "The mandatory registration procedure initiated by the property owner when a building is physically lost, demolished, or destroyed entirely, resulting in the cessation of the corresponding register record.",
+    "japaneseDefinition": "建物が滅失したことなど、不動産の物理的状況がなくなった際に、所有者が行わなければならない表示に関する登記手続き。これにより登記記録は閉鎖される。",
+    "japaneseWordTranslation": "滅失の登記 (めっしつのとうき)",
+    "legalContext": "Real Property Registration Act Art. 57 (Mandatory Factual Registration for Buildings)",
+    "japaneseLegalContext": "不動産登記法第57条（建物の滅失の登記）",
+    "exampleSentence": "After the fire rendered the structure irreparable, the municipality mandated the owner file a **Registration of Property Destruction** within four weeks.",
+    "exampleTranslation": "火災によりその建物が修復不可能となった後、市町村は所有者に対し4週間以内に滅失の登記を申請するよう命じた。",
+    "vocabularyList": [
+      {
+        "word": "mandatory registration",
+        "translation": "義務的な登記"
+      },
+      {
+        "word": "demolished",
+        "translation": "解体された"
+      },
+      {
+        "word": "cessation",
+        "translation": "終了"
+      },
+      {
+        "word": "rendered irreparable",
+        "translation": "修復不可能にした"
+      },
+      {
+        "word": "municipality",
+        "translation": "市町村"
+      },
+      {
+        "word": "structure",
+        "translation": "建物"
+      }
+    ]
   }
 ]

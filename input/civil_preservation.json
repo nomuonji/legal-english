@@ -10990,5 +10990,81 @@
         "translation": "工場建物"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Counter-Security Deposit",
+    "definition": "A deposit of money or securities provided by the preservation debtor to the court in order to seek the cancellation or discharge of an existing preservation order (such as a provisional attachment) against their property.",
+    "japaneseDefinition": "保全債務者が、既に発せられた保全命令（仮差押えなど）の執行を取り消し、または執行を免れるために、裁判所に供託する金銭または有価証券。",
+    "japaneseWordTranslation": "反担保供託 (はんたんぽきょうたく)",
+    "legalContext": "Civil Preservation Act Art. 44 (Cancellation of preservation execution): A court may, upon petition by the debtor, cancel the preservation execution upon the debtor providing a Counter-Security Deposit.",
+    "japaneseLegalContext": "民事保全法第44条（保全執行の取消し）：裁判所は、債務者の申立てにより、その債務者が反担保供託を提供したときは、保全執行を取り消すことができる。",
+    "exampleSentence": "The preservation debtor was able to lift the provisional attachment on his bank account by making a Counter-Security Deposit equivalent to the claim amount.",
+    "exampleTranslation": "保全債務者は、請求額に相当する反担保供託を行うことで、銀行口座に対する仮差押えを解除することができた。",
+    "vocabularyList": [
+      {
+        "word": "Preservation debtor",
+        "translation": "保全債務者 (ほぜんさいむしゃ)"
+      },
+      {
+        "word": "Preservation order",
+        "translation": "保全命令 (ほぜんめいれい)"
+      },
+      {
+        "word": "Cancellation",
+        "translation": "取消し (とりけし)"
+      },
+      {
+        "word": "Discharge",
+        "translation": "解除 (かいじょ)"
+      },
+      {
+        "word": "Bank account",
+        "translation": "銀行口座 (ぎんこうこうざ)"
+      },
+      {
+        "word": "Equivalent to",
+        "translation": "〜に相当する (にそうとうする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Period for Filing Substantive Proceedings",
+    "definition": "The statutory period, often directed by the preservation court, within which the Preservation Creditor must formally initiate the underlying main lawsuit (the action on the merits) that the preservation order is intended to secure.",
+    "japaneseDefinition": "保全命令を発令した裁判所が定める、保全債権者がその保全命令の被保全権利に関する本案訴訟（訴訟そのもの）を提起しなければならない期間。",
+    "japaneseWordTranslation": "本案訴訟提起期間 (ほんあんそしょうていききかん)",
+    "legalContext": "Civil Preservation Act Art. 37 Paragraph 2: If the Preservation Creditor fails to commence the action on the merits within the stipulated Period for Filing Substantive Proceedings, the preservation order may be revoked upon petition.",
+    "japaneseLegalContext": "民事保全法第37条第2項：保全債権者が定められた本案訴訟提起期間内に訴えを提起しないときは、保全命令は、申立てにより取り消されることがある。",
+    "exampleSentence": "The court specified a two-week Period for Filing Substantive Proceedings, and the failure to meet this deadline resulted in the revocation of the provisional injunction.",
+    "exampleTranslation": "裁判所は本案訴訟提起期間として二週間を指定し、この期限を守れなかったため、仮処分の命令は取り消された。",
+    "vocabularyList": [
+      {
+        "word": "Stipulated",
+        "translation": "定められた (さだめられた)"
+      },
+      {
+        "word": "Underlying main lawsuit",
+        "translation": "本案訴訟 (ほんあんそしょう)"
+      },
+      {
+        "word": "Preservation court",
+        "translation": "保全裁判所 (ほぜんさいばんしょ)"
+      },
+      {
+        "word": "Revocation",
+        "translation": "取消し (とりけし)"
+      },
+      {
+        "word": "Provisional injunction",
+        "translation": "仮処分 (かりしょぶん)"
+      },
+      {
+        "word": "Deadline",
+        "translation": "期限 (きげん)"
+      }
+    ]
   }
 ]

@@ -11682,5 +11682,81 @@
         "translation": "管轄の地方裁判所"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-Opposability of Unregistered Mandatory Particulars",
+    "definition": "The principle that mandatory particulars (matters required to be registered by law) that have not been registered cannot be asserted or opposed against any third party acting in good faith.",
+    "japaneseDefinition": "商業登記法により登記が義務付けられている事項について、登記が完了していない場合、善意の第三者に対してその事項をもって対抗することができない原則。",
+    "japaneseWordTranslation": "未登記事項の対抗不能 (みとうきじこうの たいこうふのう)",
+    "legalContext": "Commercial Registration Act (商業登記法) Article 9: Matters required to be registered under this Act may not be asserted against a third party acting in good faith.",
+    "japaneseLegalContext": "商業登記法 第九条: この法律の規定により登記すべき事項は、登記の後でなければ、これをもって善意の第三者に対抗することができない。",
+    "exampleSentence": "Due to the Non-Opposability of Unregistered Mandatory Particulars, the newly resolved restriction on the representative director's authority was ineffective against the contracted counterparty.",
+    "exampleTranslation": "未登記事項の対抗不能の原則により、新たに決議された代表取締役の権限制限は、契約相手方に対して効力を主張できなかった。",
+    "vocabularyList": [
+      {
+        "word": "Mandatory particulars",
+        "translation": "登記すべき事項 (とうきすべきじこう)"
+      },
+      {
+        "word": "Opposability",
+        "translation": "対抗力 (たいこうりょく)"
+      },
+      {
+        "word": "In good faith",
+        "translation": "善意で (ぜんい で)"
+      },
+      {
+        "word": "Restriction on authority",
+        "translation": "権限の制限 (けんげんのせいげん)"
+      },
+      {
+        "word": "Representative director",
+        "translation": "代表取締役 (だいひょうとりしまりやく)"
+      },
+      {
+        "word": "Ineffective",
+        "translation": "効力がない (こうりょくがない)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Priority Determined by Application Reception Time",
+    "definition": "The rule establishing that the legal priority and order of entry for multiple registration applications filed for the same company or matter are determined by the exact time and date the application was received by the Registry Office.",
+    "japaneseDefinition": "同一の会社又は事項について複数の登記申請があった場合、登記簿への記載順位および法律上の優先順位は、登記所が申請書を受理した正確な日時によって決定される規則。",
+    "japaneseWordTranslation": "申請の受付の時間による順位 (しんせいの うけつけの じかんによる じゅんい)",
+    "legalContext": "Commercial Registration Act (商業登記法) Article 29: The order of registration shall be determined by the time of reception of the application.",
+    "japaneseLegalContext": "商業登記法 第二十九条: 登記の順序は、申請書の受付の順序による。",
+    "exampleSentence": "The dispute over the rank of the share issuance was resolved by referring to the Priority Determined by Application Reception Time stamped on the respective documents.",
+    "exampleTranslation": "株式発行の順位をめぐる紛争は、それぞれの書類に押された申請の受付の時間による順位を参照することで解決された。",
+    "vocabularyList": [
+      {
+        "word": "Order of entry",
+        "translation": "記載順位 (きさいじゅんい)"
+      },
+      {
+        "word": "Registry Office",
+        "translation": "登記所 (とうきじょ)"
+      },
+      {
+        "word": "Share issuance",
+        "translation": "株式発行 (かぶしきはっこう)"
+      },
+      {
+        "word": "Dispute",
+        "translation": "紛争 (ふんそう)"
+      },
+      {
+        "word": "Stamped",
+        "translation": "押された (おされた)"
+      },
+      {
+        "word": "Application",
+        "translation": "申請 (しんせい)"
+      }
+    ]
   }
 ]

@@ -16250,5 +16250,127 @@
         "translation": "違反が故意である"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Provisions",
+    "definition": "Statutory requirements (規定) that cannot be overridden or excluded by an agreement between the parties, typically established to protect public policy or the interests of a vulnerable party.",
+    "japaneseDefinition": "当事者の合意によってもその適用を排除することができない法令の規定。公共の秩序や社会的に弱い立場にある当事者を保護するために定められる。",
+    "japaneseWordTranslation": "強行規定 (きょうこうきてい)",
+    "legalContext": "Contrasted with Optional Provisions (任意規定), which allow parties to enter into agreements that differ from the statutory rule.",
+    "japaneseLegalContext": "任意規定と対比され、当事者の意思表示と異なる合意をしても無効とならない規定。",
+    "exampleSentence": "The term regarding the buyer's right to warranty was deemed void because it attempted to derogate from mandatory provisions set forth in the Civil Code.",
+    "exampleTranslation": "買い主の担保責任に関する条項は、民法に定める強行規定から逸脱しようとしたため、無効と見なされた。",
+    "vocabularyList": [
+      {
+        "word": "Optional Provisions",
+        "translation": "任意規定"
+      },
+      {
+        "word": "derogate from",
+        "translation": "逸脱する"
+      },
+      {
+        "word": "public policy",
+        "translation": "公の秩序"
+      },
+      {
+        "word": "warranty",
+        "translation": "担保責任"
+      },
+      {
+        "word": "void",
+        "translation": "無効"
+      },
+      {
+        "word": "statutory requirements",
+        "translation": "法令上の要件"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Proprietary Interest",
+    "definition": "A legally recognized interest or right that has economic value, encompassing both real rights (物権) and rights of claim (債権) arising from contracts or other sources.",
+    "japaneseDefinition": "経済的価値を有し、法律によって認められた権利または利益の総称。物権及び債権を含む。",
+    "japaneseWordTranslation": "財産権 (ざいさんけん)",
+    "legalContext": "Civil Code Art. 248: Regarding the manner in which expenses are shared among parties holding a proprietary interest in an asset.",
+    "japaneseLegalContext": "民法第248条：物件の共有者がその持分に応じて費用を負担する旨を定める。",
+    "exampleSentence": "To settle the dispute, the court ordered the evaluation and division of the proprietary interest held by the partners in the joint venture.",
+    "exampleTranslation": "紛争を解決するため、裁判所は共同事業におけるパートナーが有する財産権の評価と分割を命じた。",
+    "vocabularyList": [
+      {
+        "word": "real rights",
+        "translation": "物権"
+      },
+      {
+        "word": "rights of claim",
+        "translation": "債権"
+      },
+      {
+        "word": "economic value",
+        "translation": "経済的価値"
+      },
+      {
+        "word": "joint venture",
+        "translation": "共同事業"
+      },
+      {
+        "word": "evaluation",
+        "translation": "評価"
+      },
+      {
+        "word": "settle the dispute",
+        "translation": "紛争を解決する"
+      },
+      {
+        "word": "division",
+        "translation": "分割"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Culpable Liability",
+    "definition": "A fundamental principle governing obligation law, holding that an obligor is liable for damages arising from non-performance only when the failure is attributable to their fault (intentional or negligent conduct).",
+    "japaneseDefinition": "債務者が債務不履行による損害賠償責任を負うのは、その不履行が債務者の故意または過失（帰責事由）による場合に限るという債権法の基本原則。",
+    "japaneseWordTranslation": "帰責の原則 (きせきのげんそく)",
+    "legalContext": "Civil Code Art. 415 (Non-performance Liability): Liability arises if non-performance is 'due to a cause attributable to the obligor.'",
+    "japaneseLegalContext": "民法第415条（債務不履行による損害賠償）：債務者の責めに帰すべき事由によって履行がされない場合に責任が生じる。",
+    "exampleSentence": "The defendant successfully invoked the principle of culpable liability, proving that the destruction of the goods was caused by an unforeseeable natural disaster, not negligence.",
+    "exampleTranslation": "被告は帰責の原則を援用することに成功し、商品の滅失が過失ではなく予見不可能な自然災害によって引き起こされたことを立証した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "non-performance",
+        "translation": "債務不履行"
+      },
+      {
+        "word": "attributable to",
+        "translation": "責めに帰すべき"
+      },
+      {
+        "word": "fault",
+        "translation": "帰責事由（過失・故意）"
+      },
+      {
+        "word": "unforeseeable",
+        "translation": "予見不可能な"
+      },
+      {
+        "word": "natural disaster",
+        "translation": "自然災害"
+      },
+      {
+        "word": "negligence",
+        "translation": "過失"
+      }
+    ]
   }
 ]

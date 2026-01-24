@@ -11568,5 +11568,119 @@
         "translation": "現実の認識 (げんじつのにんしき)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Duty to Effect Entry",
+    "definition": "The statutory obligation imposed on a company or its representative to apply for the registration of specific legal facts (e.g., changes in officers, capital, or location) within a fixed period after the event occurs.",
+    "japaneseDefinition": "法令に基づき、商業登記簿に登載すべき事項が発生した場合に、会社またはその代表者が一定期間内に登記申請を行わなければならない義務。",
+    "japaneseWordTranslation": "登記義務 (とうきぎむ)",
+    "legalContext": "Commercial Registration Act Art. 26: 'If any matter required to be registered under the provisions of this Act has arisen, the application for registration shall be filed by the company within two weeks from the date when such matter arose.'",
+    "japaneseLegalContext": "商業登記法第26条: 「この法律の規定により登記すべき事項につき変更が生じたときは、会社は、その変更が生じた日から二週間以内に、その登記をしなければならない。」",
+    "exampleSentence": "Failure to comply with the **Mandatory Duty to Effect Entry** regarding the appointment of a new representative director subjects the incumbent officer to an administrative penalty.",
+    "exampleTranslation": "新しい代表取締役の選任に関する**登記義務**の履行を怠ると、現任の役員は過料の対象となる。",
+    "vocabularyList": [
+      {
+        "word": "incumbent officer",
+        "translation": "現任の役員"
+      },
+      {
+        "word": "appointment",
+        "translation": "選任"
+      },
+      {
+        "word": "subject to",
+        "translation": "〜の対象となる"
+      },
+      {
+        "word": "administrative penalty",
+        "translation": "行政上の制裁/過料"
+      },
+      {
+        "word": "fixed period",
+        "translation": "一定期間"
+      },
+      {
+        "word": "relocation",
+        "translation": "移転"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registrar's Final Rejection Decision",
+    "definition": "The official ruling by a registrar to deny a commercial registration application, typically due to fundamental statutory defects (such as lack of jurisdiction or non-registerable content) that cannot be cured by the applicant.",
+    "japaneseDefinition": "登記官が、申請された登記について、法令上の却下事由（管轄違い、添付書類の不備等）が存在し、補正も不能であるとして、最終的に申請を拒否する処分。",
+    "japaneseWordTranslation": "登記官の却下処分 (とうきかんのきゃっかしょぶん)",
+    "legalContext": "Commercial Registration Act Art. 24: (Specifies grounds for rejection, including non-compliance with formal requirements, lack of necessary documents, or non-registerable matters).",
+    "japaneseLegalContext": "商業登記法第24条: (登記官が申請を却下すべき事由について規定する。例：管轄に属しないとき、登記をすることができる事項でないときなど。)",
+    "exampleSentence": "The applicant received a **Registrar's Final Rejection Decision** because the submitted corporate resolution document was fundamentally defective and could not be remedied within the specified period.",
+    "exampleTranslation": "提出された会社の決議書類に本質的な瑕疵があり、定められた期間内に補正できなかったため、申請者は**登記官の却下処分**を受けた。",
+    "vocabularyList": [
+      {
+        "word": "defective",
+        "translation": "瑕疵がある"
+      },
+      {
+        "word": "remedied",
+        "translation": "補正された/是正された"
+      },
+      {
+        "word": "statutory defects",
+        "translation": "法令上の瑕疵"
+      },
+      {
+        "word": "non-registerable matter",
+        "translation": "登記することができない事項"
+      },
+      {
+        "word": "administrative review",
+        "translation": "行政上の審査請求"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-Compliance Administrative Fine",
+    "definition": "A monetary administrative penalty (Karyō) imposed by the competent district court on a director, statutory auditor, or liquidator of a company for failing to fulfill their mandatory duty to apply for commercial registration or for filing a false registration.",
+    "japaneseDefinition": "会社役員等が、法令上の義務である商業登記の申請を怠った場合、または虚偽の登記申請を行った場合に、管轄の地方裁判所によって科される金銭的な行政罰。",
+    "japaneseWordTranslation": "懈怠による過料 (かたいによるかりょう)",
+    "legalContext": "Companies Act Art. 976 (Act Subject to Administrative Fine): 'A person who fails to make registration... without justifiable grounds shall be subject to a fine (karyō) not exceeding 1 million yen.'",
+    "japaneseLegalContext": "会社法第976条 (過料に処すべき行為): 「正当な理由がないのに、この法律の規定による登記をすることを怠った者は、百万円以下の過料に処する。」",
+    "exampleSentence": "The former president was held liable for the **Non-Compliance Administrative Fine** after failing to register the company's capital reduction within the two-week statutory time limit.",
+    "exampleTranslation": "前社長は、会社の減資を法定の2週間以内に登記しなかったため、**懈怠による過料**の責任を負った。",
+    "vocabularyList": [
+      {
+        "word": "liquidator",
+        "translation": "清算人"
+      },
+      {
+        "word": "justifiable grounds",
+        "translation": "正当な理由"
+      },
+      {
+        "word": "capital reduction",
+        "translation": "減資"
+      },
+      {
+        "word": "statutory time limit",
+        "translation": "法定の期限"
+      },
+      {
+        "word": "held liable",
+        "translation": "責任を負う"
+      },
+      {
+        "word": "competent district court",
+        "translation": "管轄の地方裁判所"
+      }
+    ]
   }
 ]

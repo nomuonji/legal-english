@@ -1,38 +1,38 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Liquidation",
-  "definition": "The procedural step in execution law where the seized assets—such as real property, movable assets, or ships—are converted into cash (sale proceeds) to satisfy the claims of the execution obligee. This usually involves an auction or public tender.",
-  "japaneseDefinition": "差し押さえた財産（不動産、動産、船舶等）を金銭（売却代金）に換えて、執行債権者の債権を充足するために充てる手続き上の行為。通常、競売または入札によって行われる。",
-  "japaneseWordTranslation": "換価 (かんか)",
-  "legalContext": "Civil Execution Act Part III, Chapter I, Section 2: Liquidation of Seized Real Property. The Act stipulates detailed methods for valuation and sale.",
-  "japaneseLegalContext": "民事執行法第3編第1章第2節：差し押さえられた不動産の換価。本法は評価や売却に関する詳細な手法を定めている。",
-  "exampleSentence": "Following the unsuccessful private sale attempts, the execution court moved forward with the public auction for the liquidation of the seized vessel.",
-  "exampleTranslation": "私的売却の試みが不調に終わったため、執行裁判所は、差し押さえた船舶の換価のための公売手続きを進めた。",
+  "word": "Diminished Capacity",
+  "definition": "A state where a person's mental capacity to discern right from wrong (cognitive ability) or to act according to that discernment (volitional ability) is significantly impaired, leading to a mandatory mitigation of punishment.",
+  "japaneseDefinition": "是非を弁別する能力（認識能力）またはそれに従って行動する能力（意思能力）が著しく減退している状態を指し、刑の必要的減軽事由となる。",
+  "japaneseWordTranslation": "心神耗弱 (しんしん こうじゃく)",
+  "legalContext": "Penal Code Art. 39, Para. 2: The punishment shall be mitigated for an act committed by a person who is in a state of diminished capacity.",
+  "japaneseLegalContext": "刑法第39条第2項：心神耗弱者の行為は、その刑を軽減する。",
+  "exampleSentence": "The defense attorney argued that the defendant was suffering from temporary diminished capacity due to severe prescribed medication when the crime was committed.",
+  "exampleTranslation": "弁護人は、犯行時、被告人が重度の処方薬の影響による一時的な心神耗弱の状態にあったと主張した。",
   "vocabularyList": [
     {
-      "word": "sale proceeds",
-      "translation": "売却代金"
+      "word": "cognitive ability",
+      "translation": "認識能力"
     },
     {
-      "word": "seized assets",
-      "translation": "差押財産"
+      "word": "volitional ability",
+      "translation": "意思能力"
     },
     {
-      "word": "public auction",
-      "translation": "公売"
+      "word": "mitigation of punishment",
+      "translation": "刑の軽減"
     },
     {
-      "word": "valuation",
-      "translation": "評価"
+      "word": "mandatory mitigation",
+      "translation": "必要的減軽"
     },
     {
-      "word": "vessel",
-      "translation": "船舶"
+      "word": "prescribed medication",
+      "translation": "処方薬"
     },
     {
-      "word": "private sale",
-      "translation": "私的売却"
+      "word": "defense attorney",
+      "translation": "弁護人"
     }
   ]
 }

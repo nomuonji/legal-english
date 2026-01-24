@@ -16136,5 +16136,119 @@
         "translation": "負担の分割"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Separation of Patrimony",
+    "definition": "A statutory procedure available to an obligee of the decedent (or a legatee) under the Civil Code, allowing the obligee to separate the inherited property from the heir's own property, thereby protecting the inherited property from the heir's personal obligees and ensuring payment of the decedent’s debts.",
+    "japaneseDefinition": "相続財産と相続人の固有財産とを分離し、相続債権者及び受遺者の権利を確保する制度。",
+    "japaneseWordTranslation": "財産分離 (ざいさんぶんり)",
+    "legalContext": "Civil Code Art. 941 (Effect of Separation of Patrimony): The obligee of the decedent who filed the claim for the separation of patrimony may receive payment in priority over the heir’s obligees from the inherited property.",
+    "japaneseLegalContext": "民法第941条（財産分離の効力）：財産分離を請求した相続債権者及び受遺者は、相続人の債権者に先立って、相続財産から弁済を受ける。",
+    "exampleSentence": "The decedent’s creditor petitioned the family court for the separation of patrimony to ensure their claim was satisfied by the estate before the heir's personal debts.",
+    "exampleTranslation": "被相続人の債権者は、相続財産が相続人の個人的な負債によって侵される前に、自己の債権を確実に回収するために、家庭裁判所に財産分離の請求を行った。",
+    "vocabularyList": [
+      {
+        "word": "decedent",
+        "translation": "被相続人"
+      },
+      {
+        "word": "legatee",
+        "translation": "受遺者"
+      },
+      {
+        "word": "inherited property",
+        "translation": "相続財産"
+      },
+      {
+        "word": "heir's obligees",
+        "translation": "相続人の債権者"
+      },
+      {
+        "word": "satisfy the claim",
+        "translation": "債権を満足させる"
+      },
+      {
+        "word": "in priority over",
+        "translation": "～に先立って、優先して"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibition of Set-Off",
+    "definition": "A legal restriction preventing the use of a claim, typically one arising from an unlawful act, as grounds for set-off against a mutual obligation, thereby ensuring that the tort victim receives full compensation.",
+    "japaneseDefinition": "特に不法行為によって生じた債権を、相殺を主張する側がその債務を負っている場合の相殺を禁じる規定。不法行為による被害者の保護を目的とする。",
+    "japaneseWordTranslation": "相殺の禁止 (そうさいのきんし)",
+    "legalContext": "Civil Code Art. 510: If a claim arises from an unlawful act, the obligor who incurred the liability for the unlawful act cannot use that claim for set-off against the obligee.",
+    "japaneseLegalContext": "民法第510条：不法行為によって生じた債権を受働債権とする相殺は、その債務を負う者が相殺をもって債権者に対抗したときであっても、これをすることができない。",
+    "exampleSentence": "The defendant, having caused damage through an unlawful act, attempted to assert the prohibition of set-off defense when the victim tried to use the damages claim to offset a separate debt.",
+    "exampleTranslation": "不法行為によって損害を与えた被告は、被害者が損害賠償請求権を別の債務と相殺しようとした際に、相殺禁止の抗弁を主張しようとした。",
+    "vocabularyList": [
+      {
+        "word": "tort victim",
+        "translation": "不法行為の被害者"
+      },
+      {
+        "word": "unlawful act",
+        "translation": "不法行為"
+      },
+      {
+        "word": "mutual obligation",
+        "translation": "対立する債務"
+      },
+      {
+        "word": "incurred the liability",
+        "translation": "責任を負った"
+      },
+      {
+        "word": "damages claim",
+        "translation": "損害賠償請求権"
+      },
+      {
+        "word": "set-off defense",
+        "translation": "相殺の抗弁"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Marital Duties of Co-residence, Cooperation, and Support",
+    "definition": "The legal duty imposed upon spouses under the Civil Code, requiring them to live together, cooperate in their marital life, and mutually provide financial and non-financial support necessary for maintaining their joint standard of living.",
+    "japaneseDefinition": "夫婦が同居し、互いに協力し、婚姻生活を維持するために必要な扶助を分担する法律上の義務。",
+    "japaneseWordTranslation": "同居協力扶助義務 (どうきょきょうりょくふじょぎむ)",
+    "legalContext": "Civil Code Art. 752: Husband and wife shall co-reside, cooperate, and assist each other.",
+    "japaneseLegalContext": "民法第752条：夫婦は同居し、互いに協力し扶助しなければならない。",
+    "exampleSentence": "Failure to fulfill the marital duties of co-residence, cooperation, and support often constitutes a ground for judicial divorce, particularly if the breach is willful or egregious.",
+    "exampleTranslation": "同居協力扶助義務の不履行は、特にその義務違反が故意または著しい場合には、しばしば裁判上の離婚原因となる。",
+    "vocabularyList": [
+      {
+        "word": "spouses",
+        "translation": "夫婦"
+      },
+      {
+        "word": "joint standard of living",
+        "translation": "共同生活の生活水準"
+      },
+      {
+        "word": "co-reside",
+        "translation": "同居する"
+      },
+      {
+        "word": "assist each other",
+        "translation": "互いに扶助する"
+      },
+      {
+        "word": "judicial divorce",
+        "translation": "裁判上の離婚"
+      },
+      {
+        "word": "breach is willful",
+        "translation": "違反が故意である"
+      }
+    ]
   }
 ]

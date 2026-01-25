@@ -1,38 +1,38 @@
 {
-  "category": "Companies Act (会社法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Allotment of Shares to Third Parties",
-  "definition": "The issuance of new shares by a company to specific persons or entities other than existing shareholders, typically utilized for fundraising, strategic alliances, or mergers and acquisitions.",
-  "japaneseDefinition": "既存の株主以外の特定の個人または法人に対して、会社が新株を発行すること。資金調達、戦略的提携、M&Aなどの目的で用いられる。",
-  "japaneseWordTranslation": "第三者割当増資 (だいさんしゃわりあてぞうし)",
-  "legalContext": "Companies Act Art. 199: Matters subject to determination regarding subscription requirements for shares for subscription.",
-  "japaneseLegalContext": "会社法第199条: 募集株式の引受人の募集に関する事項の決定。",
-  "exampleSentence": "The startup company resolved to execute an allotment of shares to third parties to secure necessary growth capital from a venture fund.",
-  "exampleTranslation": "そのスタートアップ企業は、ベンチャーファンドから必要な成長資金を確保するため、第三者割当増資の実行を決議した。",
+  "word": "Conditional Suspension of Execution of Sentence",
+  "definition": "A judicial decision allowing the convicted person to remain free without serving the imposed sentence, provided they do not commit another crime during a specified suspension period (usually 1 to 5 years).",
+  "japaneseDefinition": "刑の言渡しを受けた者に対し、一定期間（1年以上5年以下）、その刑の執行を猶予し、その期間を無事に経過したときは、刑の言渡しの効力を消滅させる制度。",
+  "japaneseWordTranslation": "執行猶予 (shikkō yūyo)",
+  "legalContext": "Criminal Code (刑法) Art. 25 (Requirements and Effect of Conditional Suspension of Execution of Sentence).",
+  "japaneseLegalContext": "刑法第25条（執行猶予の要件及び効力）。",
+  "exampleSentence": "The court imposed a three-year sentence but granted a five-year conditional suspension of execution of the sentence, noting the defendant's genuine remorse and first-time offense status.",
+  "exampleTranslation": "裁判所は懲役三年の判決を下したが、被告人の真摯な反省と初犯であるという理由から、五年間の執行猶予を付した。",
   "vocabularyList": [
     {
-      "word": "Issuance of shares",
-      "translation": "株式の発行 (かぶしきのはっこう)"
+      "word": "imposed sentence",
+      "translation": "下された刑"
     },
     {
-      "word": "Subscription requirements",
-      "translation": "募集事項 (ぼしゅうじこう)"
+      "word": "convicted person",
+      "translation": "有罪の言渡しを受けた者"
     },
     {
-      "word": "Venture fund",
-      "translation": "ベンチャーファンド"
+      "word": "suspension period",
+      "translation": "猶予期間"
     },
     {
-      "word": "Growth capital",
-      "translation": "成長資金 (せいちょうしきん)"
+      "word": "genuine remorse",
+      "translation": "真摯な反省"
     },
     {
-      "word": "Existing shareholders",
-      "translation": "既存株主 (きそんかぶぬし)"
+      "word": "first-time offense status",
+      "translation": "初犯であること"
     },
     {
-      "word": "Strategic alliances",
-      "translation": "戦略的提携 (せんりゃくてきていけい)"
+      "word": "grant a suspension",
+      "translation": "猶予を付す"
     }
   ]
 }

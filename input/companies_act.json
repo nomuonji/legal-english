@@ -12420,5 +12420,119 @@
         "translation": "承認"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Transfer Agent",
+    "definition": "An institution (usually a trust bank) appointed by a company to manage the shareholder registry, process requests for changes in registered ownership, and handle matters related to share administration, particularly for public companies.",
+    "japaneseDefinition": "株主名簿の管理、株主名義の書換、株券の発行事務など、株式に関する事務を代行する者（主に信託銀行）を指す。",
+    "japaneseWordTranslation": "名義書換代理人 (meigi kakikae dairinin)",
+    "legalContext": "Companies Act Art. 165, Paragraph 3: Regulations regarding companies appointing an agent to handle the shareholder registry and related administrative tasks.",
+    "japaneseLegalContext": "会社法第165条第3項: 株主名簿管理人を置く会社の規定。",
+    "exampleSentence": "The Public Company appointed a trust bank to serve as its Transfer Agent to ensure the proper management of share transfers and dividend payments.",
+    "exampleTranslation": "その公開会社は、株式譲渡および配当金の支払いの適切な管理を確実にするため、信託銀行を名義書換代理人として選任した。",
+    "vocabularyList": [
+      {
+        "word": "appointed",
+        "translation": "選任された"
+      },
+      {
+        "word": "shareholder registry",
+        "translation": "株主名簿"
+      },
+      {
+        "word": "share administration",
+        "translation": "株式事務"
+      },
+      {
+        "word": "dividend payments",
+        "translation": "配当金の支払い"
+      },
+      {
+        "word": "trust bank",
+        "translation": "信託銀行"
+      },
+      {
+        "word": "public company",
+        "translation": "公開会社"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Order for Share Acquisition",
+    "definition": "A court order rendered under the Companies Act compelling a shareholder to sell their shares to the company, typically used to facilitate a mandatory acquisition process (squeeze-out) initiated by a special controlling shareholder.",
+    "japaneseDefinition": "特定の支配株主が少数株主の株式を強制的に取得する際、裁判所が発行する、株式の売却を会社に強制する決定。全部取得条項付株式の活用時などに用いられる。",
+    "japaneseWordTranslation": "株式取得決定 (kabushiki shutoku kettei)",
+    "legalContext": "Companies Act Art. 179-8, Paragraph 1: Specifies the judicial decision necessary when a special controlling shareholder initiates the mandatory acquisition of all shares.",
+    "japaneseLegalContext": "会社法第179条の8第1項: 特別支配株主による株式等売渡請求における裁判所の決定。",
+    "exampleSentence": "Following the petition, the court issued a Judicial Order for Share Acquisition, finalizing the mandatory transfer of the remaining minority shares to the parent company.",
+    "exampleTranslation": "申立て後、裁判所は株式取得決定を発令し、残りの少数株主の株式を親会社へ強制的に譲渡する手続を完了させた。",
+    "vocabularyList": [
+      {
+        "word": "compelling",
+        "translation": "強制する"
+      },
+      {
+        "word": "mandatory acquisition",
+        "translation": "強制取得"
+      },
+      {
+        "word": "petition",
+        "translation": "申立て"
+      },
+      {
+        "word": "minority shares",
+        "translation": "少数株主の株式"
+      },
+      {
+        "word": "special controlling shareholder",
+        "translation": "特別支配株主"
+      },
+      {
+        "word": "transfer",
+        "translation": "譲渡"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Post-Disclosure Documents",
+    "definition": "Documents that must be prepared and kept available for public inspection by a company for a specified period after an organizational restructuring (such as a merger or company split), detailing the effects and financial calculations of the transaction.",
+    "japaneseDefinition": "組織再編行為（合併や会社分割など）の効力発生後に、再編の経過や財務状態の変化を記載し、会社が一定期間備え置くべき書類。",
+    "japaneseWordTranslation": "事後開示書類 (jigo kaiji shorui)",
+    "legalContext": "Companies Act Art. 801, Paragraph 1: Requirement for the successor company in an absorption-type company split to prepare and retain documents regarding the post-transaction status.",
+    "japaneseLegalContext": "会社法第801条第1項: 吸収分割承継会社における事後開示書類の作成及び備置義務。",
+    "exampleSentence": "The successor company must retain the Post-Disclosure Documents for six months following the effective date of the absorption-type company split, ensuring transparency for affected parties.",
+    "exampleTranslation": "承継会社は、吸収分割の効力発生日後6ヶ月間、事後開示書類を備え置かなければならず、関係者に対する透明性を確保する。",
+    "vocabularyList": [
+      {
+        "word": "organizational restructuring",
+        "translation": "組織再編"
+      },
+      {
+        "word": "successor company",
+        "translation": "承継会社"
+      },
+      {
+        "word": "absorption-type company split",
+        "translation": "吸収分割"
+      },
+      {
+        "word": "effective date",
+        "translation": "効力発生日"
+      },
+      {
+        "word": "specified period",
+        "translation": "一定期間"
+      },
+      {
+        "word": "transparency",
+        "translation": "透明性"
+      }
+    ]
   }
 ]

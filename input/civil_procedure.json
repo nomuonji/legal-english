@@ -14786,5 +14786,119 @@
         "translation": "未払い債権 (みばらいさいけん)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Pleadings Requirement",
+    "definition": "The fundamental principle in civil litigation where the court relies only on the facts asserted (pleaded) by the litigants for its decision, and may not independently investigate facts or accept unasserted facts as a basis for judgment.",
+    "japaneseDefinition": "裁判所は、訴訟当事者によって主張された事実のみを判決の基礎とし、職権で事実を収集したり、当事者が主張しない事実を認定したりすることはできないという原則。",
+    "japaneseWordTranslation": "弁論主義 (べんろんしゅぎ)",
+    "legalContext": "Code of Civil Procedure: Fundamental principle governing judicial fact-finding based on party submissions.",
+    "japaneseLegalContext": "民事訴訟法上の基本原則。",
+    "exampleSentence": "Pursuant to the Pleadings Requirement, the court disregarded the evidence related to an unasserted oral agreement between the parties.",
+    "exampleTranslation": "弁論主義に従い、裁判所は当事者間で主張されなかった口頭での合意に関する証拠を考慮しなかった。",
+    "vocabularyList": [
+      {
+        "word": "disregarded",
+        "translation": "考慮しなかった"
+      },
+      {
+        "word": "unasserted",
+        "translation": "主張されなかった"
+      },
+      {
+        "word": "oral agreement",
+        "translation": "口頭での合意"
+      },
+      {
+        "word": "litigants",
+        "translation": "訴訟当事者"
+      },
+      {
+        "word": "judicial fact-finding",
+        "translation": "裁判所の事実認定"
+      },
+      {
+        "word": "principle",
+        "translation": "原則"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Concentration Principle",
+    "definition": "A procedural rule mandating that parties submit all necessary claims, defenses, and evidence within specific, concentrated periods early in the litigation process to prevent undue delay and ensure efficient judicial process.",
+    "japaneseDefinition": "審理の遅延を防ぎ、訴訟を能率的に進行させるため、攻撃防御方法及び証拠方法を特定の期間に集中して提出することを当事者に義務付ける手続原則。",
+    "japaneseWordTranslation": "集中審理主義 (しゅうちゅうしんりしゅぎ)",
+    "legalContext": "Code of Civil Procedure Art. 157: Provision regarding rejection of submissions filed too late that may delay the conclusion of the suit.",
+    "japaneseLegalContext": "民事訴訟法第157条（時期に後れた攻撃防御方法の却下）",
+    "exampleSentence": "The judge applied the Concentration Principle to reject the defendant's new expert report, as it was submitted after the designated period for evidence exchange without due reason.",
+    "exampleTranslation": "裁判官は集中審理主義を適用し、被告が証拠交換の指定期間後に正当な理由なく提出した新たな専門家報告書を却下した。",
+    "vocabularyList": [
+      {
+        "word": "procedural rule",
+        "translation": "手続原則"
+      },
+      {
+        "word": "undue delay",
+        "translation": "不当な遅延"
+      },
+      {
+        "word": "efficient judicial process",
+        "translation": "効率的な司法手続"
+      },
+      {
+        "word": "expert report",
+        "translation": "専門家報告書"
+      },
+      {
+        "word": "evidence exchange",
+        "translation": "証拠交換"
+      },
+      {
+        "word": "designated period",
+        "translation": "指定された期間"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Restriction on Judgment beyond Claim",
+    "definition": "The doctrine stipulating that a court may not grant the plaintiff relief that exceeds the scope or amount specifically requested in the initial application or amended claim.",
+    "japaneseDefinition": "裁判所は、原告が訴状またはその後の主張によって求めた請求の範囲や数量を超えて、原告に救済を与える判決をすることができないという原則。",
+    "japaneseWordTranslation": "請求の範囲内の審判の原則 (せいきゅうのはんいないのしんぱんのげんそく)",
+    "legalContext": "Code of Civil Procedure Art. 246: The court must render judgment within the scope of the claim.",
+    "japaneseLegalContext": "民事訴訟法第246条（請求の範囲内の判決）。",
+    "exampleSentence": "The court, abiding by the Principle of Restriction on Judgment beyond Claim, ruled only for the recovery of 10 million yen, even though the evidence suggested the plaintiff was owed 12 million yen.",
+    "exampleTranslation": "裁判所は、請求の範囲内の審判の原則を遵守し、証拠が原告に1,200万円の債務があることを示唆していたにもかかわらず、1,000万円の回収のみを命じる判決を下した。",
+    "vocabularyList": [
+      {
+        "word": "doctrine",
+        "translation": "法理"
+      },
+      {
+        "word": "relief",
+        "translation": "救済"
+      },
+      {
+        "word": "exceeds the scope",
+        "translation": "範囲を超えて"
+      },
+      {
+        "word": "initial application",
+        "translation": "最初の申立て（訴状）"
+      },
+      {
+        "word": "recovery",
+        "translation": "回収"
+      },
+      {
+        "word": "abiding by",
+        "translation": "遵守して"
+      }
+    ]
   }
 ]

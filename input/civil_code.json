@@ -16486,5 +16486,119 @@
         "translation": "必要とされる (ひつようとされる)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibition of Exemption for Willful Misconduct",
+    "definition": "A statutory principle in obligation law declaring that any contractual clause purporting to exempt an obligor from accountability for damages caused by their own intentional acts or gross negligence shall be ineffective.",
+    "japaneseDefinition": "債務者が故意または重過失によって生じた損害に対する責任を免除する旨の特約は、無効とする民法の規定。契約責任の根幹に関わる原則。",
+    "japaneseWordTranslation": "故意免責の禁止 (こいめんせきのきんし)",
+    "legalContext": "Civil Code Art. 420, Paragraph 2 (as of pre-2020 revision; subsequently incorporated into 420-2): A provision which provides for non-liability for damage caused by intentional act or gross negligence shall be void.",
+    "japaneseLegalContext": "民法第420条第2項: 故意又は重大な過失によって生じた損害について責任を負わない旨の特約は、その効力を生じない。",
+    "exampleSentence": "The court invalidated the limitation of liability clause, finding that the 'Prohibition of Exemption for Willful Misconduct' applied due to the obligor's intentional failure to disclose material defects.",
+    "exampleTranslation": "裁判所は、債務者が重要な瑕疵を故意に開示しなかったため、「故意免責の禁止」が適用されるとし、責任制限条項を無効とした。",
+    "vocabularyList": [
+      {
+        "word": "intentional act",
+        "translation": "故意の行為"
+      },
+      {
+        "word": "gross negligence",
+        "translation": "重大な過失"
+      },
+      {
+        "word": "invalidated",
+        "translation": "無効にした"
+      },
+      {
+        "word": "limitation of liability clause",
+        "translation": "責任制限条項"
+      },
+      {
+        "word": "material defects",
+        "translation": "重要な瑕疵"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Fixed Uncertain Due Date",
+    "definition": "A type of due date for performance where the time of occurrence is definite (it will certainly happen), but the exact date or time of the occurrence is not yet fixed or known.",
+    "japaneseDefinition": "履行の期限の一種で、将来到来することが確実ではあるが、その到来する時期が不確定なものを指す。（例：人が死亡した時、など）",
+    "japaneseWordTranslation": "不確定期限 (ふかくていきげん)",
+    "legalContext": "Civil Code Art. 412, Paragraph 1: If a definite due date is attached to an obligation, the obligor shall be liable for non-performance from the time of the arrival of that due date.",
+    "japaneseLegalContext": "民法第412条第1項: 確定期限のある債務は、その期限の到来した時から履行の遅滞に陥る。",
+    "exampleSentence": "In the case of a 'Fixed Uncertain Due Date,' delay of performance does not begin until the event occurs and the obligee demands performance or a reasonable time passes after the occurrence.",
+    "exampleTranslation": "「不確定期限」の場合、履行の遅滞は、その事象が発生し、債権者が履行を請求するか、発生から合理的な期間が経過するまで始まらない。",
+    "vocabularyList": [
+      {
+        "word": "occurrence",
+        "translation": "到来／発生"
+      },
+      {
+        "word": "definite due date",
+        "translation": "確定期限"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "delay of performance",
+        "translation": "履行の遅滞"
+      },
+      {
+        "word": "reasonable time",
+        "translation": "相当な期間"
+      },
+      {
+        "word": "non-performance",
+        "translation": "不履行"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Demand Installation of Privacy Screens",
+    "definition": "The right held by the owner of adjacent land to demand that a neighbor who establishes windows or verandas within one meter of the boundary line install appropriate screens or blinders to protect privacy.",
+    "japaneseDefinition": "境界線から1メートル未満の距離に隣地を眺望できる窓や縁側を設けた隣地の所有者に対し、目隠しを設置することを請求できる権利。",
+    "japaneseWordTranslation": "目隠し設置請求権 (めかくしせっちせいきゅうけん)",
+    "legalContext": "Civil Code Art. 235, Paragraph 1: A person who intends to construct windows or verandas from which the adjacent land may be overlooked, within a distance of less than one meter from the boundary line, shall install appropriate screens.",
+    "japaneseLegalContext": "民法第235条第1項: 境界線から一メートル未満の距離において他人の宅地を望み得る窓又は縁側を設ける者は、目隠しを付けなければならない。",
+    "exampleSentence": "The plaintiff exercised the 'Right to Demand Installation of Privacy Screens' against the defendant after they installed large, uncovered windows overlooking the plaintiff's garden and residence.",
+    "exampleTranslation": "被告が原告の庭と住居を見下ろす大きな覆いのない窓を設置した後、原告は「目隠し設置請求権」を行使した。",
+    "vocabularyList": [
+      {
+        "word": "adjacent land",
+        "translation": "隣地"
+      },
+      {
+        "word": "boundary line",
+        "translation": "境界線"
+      },
+      {
+        "word": "verandas",
+        "translation": "縁側"
+      },
+      {
+        "word": "overlooked",
+        "translation": "眺望できる"
+      },
+      {
+        "word": "uncovered windows",
+        "translation": "覆いのない窓"
+      },
+      {
+        "word": "residence",
+        "translation": "住居"
+      }
+    ]
   }
 ]

@@ -11150,5 +11150,85 @@
         "translation": "申立て"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Plausibility (of the Secured Claim)",
+    "definition": "The standard of proof required in preservation proceedings, meaning the existence of the secured claim must be tentatively demonstrated to the court's satisfaction through summary evidence, a lower threshold than full proof.",
+    "japaneseDefinition": "保全すべき権利の存在につき、証拠資料によって裁判官に一応確からしいとの心証を抱かせる程度の立証。厳格な証明（ полной proof）よりも低い立証程度。",
+    "japaneseWordTranslation": "被保全権利の疎明 (ひほぜんけんりのそめい)",
+    "legalContext": "Civil Preservation Act Art. 13(2): 'The plausibility of the claim shall be shown by the movant.'",
+    "japaneseLegalContext": "民事保全法第13条第2項：「保全すべき権利は、申立人が疎明しなければならない。」",
+    "exampleSentence": "Although the obligee provided documentary evidence of the contract, the court found the plausibility of the secured claim insufficient due to conflicting counter-evidence.",
+    "exampleTranslation": "債権者は契約に関する文書証拠を提出したが、裁判所は、相反する反証があるため、被保全権利の疎明が不十分であると判断した。",
+    "vocabularyList": [
+      {
+        "word": "Summary evidence",
+        "translation": "疎明資料"
+      },
+      {
+        "word": "Obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "Documentary evidence",
+        "translation": "文書証拠"
+      },
+      {
+        "word": "Conflicting counter-evidence",
+        "translation": "相反する反証"
+      },
+      {
+        "word": "Standard of proof",
+        "translation": "立証程度"
+      },
+      {
+        "word": "Tentatively demonstrated",
+        "translation": "一応示された"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Injunction to Secure the Subject Matter of Litigation",
+    "definition": "A type of provisional disposition that aims to preserve the current status of the property (the subject matter) related to the underlying principal action, often by prohibiting changes or disposal.",
+    "japaneseDefinition": "紛争の対象となっている物（係争物）について、その現状の維持を目的として、債務者に対し処分や現状変更を禁止する等の命令を発する仮処分。",
+    "japaneseWordTranslation": "係争物に関する仮処分 (けいそうぶつにかんするかりしょぶん)",
+    "legalContext": "Civil Preservation Act Art. 23(1): 'The court may issue a provisional disposition concerning the subject matter of litigation... to secure the enforceability of the final judgment.'",
+    "japaneseLegalContext": "民事保全法第23条第1項：「裁判所は、…係争物に関する仮処分として、現状の変更を禁止し、又は給付を命ずる処分をすることができる。」",
+    "exampleSentence": "The preservation creditor obtained an injunction to secure the subject matter of litigation, prohibiting the defendant from transferring the contested artwork pending the final outcome of the ownership suit.",
+    "exampleTranslation": "保全債権者は、所有権訴訟の最終結果が出るまで、被告が係争中の美術品を譲渡することを禁じる係争物に関する仮処分を得た。",
+    "vocabularyList": [
+      {
+        "word": "Provisional Disposition",
+        "translation": "仮処分"
+      },
+      {
+        "word": "Principal action",
+        "translation": "本案訴訟"
+      },
+      {
+        "word": "Preservation creditor",
+        "translation": "保全債権者"
+      },
+      {
+        "word": "Contested artwork",
+        "translation": "係争中の美術品"
+      },
+      {
+        "word": "Transferring",
+        "translation": "譲渡すること"
+      },
+      {
+        "word": "Ownership suit",
+        "translation": "所有権訴訟"
+      },
+      {
+        "word": "Status quo",
+        "translation": "現状"
+      }
+    ]
   }
 ]

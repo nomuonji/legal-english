@@ -2,44 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Conditional Suspension of Execution of Sentence",
-    "definition": "A judicial decision allowing the convicted person to remain free without serving the imposed sentence, provided they do not commit another crime during a specified suspension period (usually 1 to 5 years).",
-    "japaneseDefinition": "刑の言渡しを受けた者に対し、一定期間（1年以上5年以下）、その刑の執行を猶予し、その期間を無事に経過したときは、刑の言渡しの効力を消滅させる制度。",
-    "japaneseWordTranslation": "執行猶予 (shikkō yūyo)",
-    "legalContext": "Criminal Code (刑法) Art. 25 (Requirements and Effect of Conditional Suspension of Execution of Sentence).",
-    "japaneseLegalContext": "刑法第25条（執行猶予の要件及び効力）。",
-    "exampleSentence": "The court imposed a three-year sentence but granted a five-year conditional suspension of execution of the sentence, noting the defendant's genuine remorse and first-time offense status.",
-    "exampleTranslation": "裁判所は懲役三年の判決を下したが、被告人の真摯な反省と初犯であるという理由から、五年間の執行猶予を付した。",
-    "vocabularyList": [
-      {
-        "word": "imposed sentence",
-        "translation": "下された刑"
-      },
-      {
-        "word": "convicted person",
-        "translation": "有罪の言渡しを受けた者"
-      },
-      {
-        "word": "suspension period",
-        "translation": "猶予期間"
-      },
-      {
-        "word": "genuine remorse",
-        "translation": "真摯な反省"
-      },
-      {
-        "word": "first-time offense status",
-        "translation": "初犯であること"
-      },
-      {
-        "word": "grant a suspension",
-        "translation": "猶予を付す"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Elements Constituting a Crime",
     "definition": "The specific set of objective and subjective elements defined by law that must be proven to establish the legality, culpability, and punishability of an action as a particular crime.",
     "japaneseDefinition": "犯罪が成立するための、刑罰法規に規定された客観的及び主観的な要件の総体。特に、刑罰法規の文言に具体的に該当する事実。",
@@ -13718,6 +13680,120 @@
       {
         "word": "Fulfillment",
         "translation": "充足"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Crime of Disclosure of Confidential Information",
+    "definition": "The offense committed by a person who, being a professional such as a doctor, pharmacist, lawyer, or priest, discloses the secrets of others learned in the course of their professional duties without justifiable reason.",
+    "japaneseDefinition": "医師、薬剤師、弁護士、宗教家などの職務を行う者が、正当な理由なく、その職務上知り得た他人の秘密を漏らす行為を処罰する罪。",
+    "japaneseWordTranslation": "秘密漏示罪 (ひみつろうじざい)",
+    "legalContext": "Criminal Code Article 134 (Disclosure of Secrets): 'A doctor, pharmacist, dealer in medicines, midwife, lawyer, notary, or a person formerly engaged in such profession, who discloses a secret of another person that he or she became aware of in the course of their duties, shall be punished...'",
+    "japaneseLegalContext": "刑法第134条（秘密漏示）：医師、薬剤師、医薬品販売業者、助産師、弁護士、公証人又はこれらの職にあった者が、正当な理由がないのに、その業務上取り扱ったことについて知り得た人の秘密を漏らしたときは、...",
+    "exampleSentence": "The ethics committee recommended disciplinary action, noting the attorney's egregious violation amounted to the Crime of Disclosure of Confidential Information.",
+    "exampleTranslation": "倫理委員会は、当該弁護士の甚だしい違反行為が秘密漏示罪に相当するとして、懲戒処分を勧告した。",
+    "vocabularyList": [
+      {
+        "word": "attorney",
+        "translation": "弁護士 (bengoshi)"
+      },
+      {
+        "word": "discloses a secret",
+        "translation": "秘密を漏らす (himitsu o morasu)"
+      },
+      {
+        "word": "professional duties",
+        "translation": "職務上 (shokumujō)"
+      },
+      {
+        "word": "justifiable reason",
+        "translation": "正当な理由 (seitō na riyū)"
+      },
+      {
+        "word": "ethics committee",
+        "translation": "倫理委員会 (rinri iinkai)"
+      },
+      {
+        "word": "disciplinary action",
+        "translation": "懲戒処分 (chōkai shobun)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Suspension of Qualification (Criminal Penalty)",
+    "definition": "A form of supplementary penalty in Japanese criminal law that temporarily restricts a convicted person from holding public office, certain government positions, or acquiring specific licenses or public qualifications.",
+    "japaneseDefinition": "刑法に定められた付加刑の一種であり、有罪判決を受けた者に対して、公職への就任や特定の公的な免許・資格の取得を一定期間、一時的に制限する刑罰。",
+    "japaneseWordTranslation": "資格停止 (しかくていし)",
+    "legalContext": "Criminal Code Article 34-2 (Restriction on Rights): 'Any person who has received a penalty shall be subject to the restrictions on rights stipulated in other laws and regulations concerning the holding of public office, acquisition of qualification, or business operation, etc.' (Referring to specific supplementary restrictions established elsewhere, often invoked after a sentence of imprisonment or heavier penalty).",
+    "japaneseLegalContext": "刑法第34条の2（権利の制限）：刑を受けた者については、法令の定めるところにより、公職への就任、資格の取得又は業務の遂行等に関する制限を受ける。（刑法の規定自体ではなく、他の法令による資格制限が適用される根拠となる）",
+    "exampleSentence": "In addition to imprisonment, the corrupt mayor was sentenced to a five-year Suspension of Qualification, preventing him from running for any public office during that period.",
+    "exampleTranslation": "収監に加え、その腐敗した市長には5年間の資格停止が言い渡され、その期間中、公職に立候補することを禁じられた。",
+    "vocabularyList": [
+      {
+        "word": "supplementary penalty",
+        "translation": "付加刑 (fukakei)"
+      },
+      {
+        "word": "convicted person",
+        "translation": "有罪判決を受けた者 (yūzai hanketsu o uketa mono)"
+      },
+      {
+        "word": "public office",
+        "translation": "公職 (kōshoku)"
+      },
+      {
+        "word": "restrictions on rights",
+        "translation": "権利の制限 (kenri no seigen)"
+      },
+      {
+        "word": "imprisonment",
+        "translation": "収監 (shūkan)"
+      },
+      {
+        "word": "corrupt",
+        "translation": "腐敗した (fuhai shita)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Crime of Non-Performance of Duty by Public Officials",
+    "definition": "The offense committed by a public official engaged in judicial, prosecutorial, or police duties who fails to perform their duties without justifiable grounds, particularly concerning the custody of a person or property, resulting in escape or loss.",
+    "japaneseDefinition": "裁判、検察又は警察の職務を行う公務員が、正当な理由なく職務の執行をせず、人の逃走や物の滅失等を招いた場合に成立する罪。",
+    "japaneseWordTranslation": "公務員職務不履行罪 (こうむいんしょくむふりこうざい)",
+    "legalContext": "Criminal Code Article 193 (Crime of Non-Performance of Duty by Public Officials): 'A public official engaged in the duties of judgment, prosecution or police, who fails to perform his or her duty without justifiable grounds, shall be punished by imprisonment with or without labor for not more than one year or a fine of not more than 200,000 yen.'",
+    "japaneseLegalContext": "刑法第193条（公務員職務不履行罪）：裁判、検察又は警察の職務を行う公務員が、正当な理由がないのにその職務の執行をしないときは、一年以下の懲役若しくは禁錮又は二十万円以下の罰金に処する。",
+    "exampleSentence": "Due to insufficient grounds for immediate detention, the indictment against the officer was reduced from abuse of authority to the Crime of Non-Performance of Duty by Public Officials.",
+    "exampleTranslation": "直ちに勾留するに足る根拠が不十分であったため、当該警察官に対する起訴は、職権濫用から公務員職務不履行罪に減軽された。",
+    "vocabularyList": [
+      {
+        "word": "public official",
+        "translation": "公務員 (kōmuin)"
+      },
+      {
+        "word": "prosecution",
+        "translation": "検察 (kensatsu)"
+      },
+      {
+        "word": "indictment",
+        "translation": "起訴 (kiso)"
+      },
+      {
+        "word": "insufficient grounds",
+        "translation": "不十分な根拠 (fujūbun na konkyo)"
+      },
+      {
+        "word": "fails to perform duty",
+        "translation": "職務の執行をしない (shokumu no shikkō o shinai)"
+      },
+      {
+        "word": "imprisonment with or without labor",
+        "translation": "懲役若しくは禁錮 (chōeki moshiku wa kinko)"
       }
     ]
   }

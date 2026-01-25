@@ -11521,5 +11521,119 @@
         "translation": "却下される (kyakka sareru)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interested Party in Registration",
+    "definition": "A third party whose existing registered status may be extinguished or significantly impaired by a requested registration, requiring their written consent or a judgment against them for the registration to be completed.",
+    "japaneseDefinition": "登記の実行により、既存の登記上の地位が不利益を受けることとなる第三者。その地位を抹消する等の登記を行うためには、この者の承諾書又はこれに対抗できる確定判決が必要となる。",
+    "japaneseWordTranslation": "登記上の利害関係人 (とうきじょうのりがいかんけいにん)",
+    "legalContext": "Fudōsan Tōkihō (Real Property Registration Act) Art. 68: Where an application is filed for the cancellation of a right that involves a third party, the registration of cancellation shall be made only with the written consent of such third party.",
+    "japaneseLegalContext": "不動産登記法第68条: 権利の抹消を申請する場合において、その権利の登記が利害関係を有する第三者の権利に関するものであるときは、当該第三者の承諾を得なければならない。",
+    "exampleSentence": "The cancellation of the existing security interest could not be executed without the signed consent of the Interested Party in Registration.",
+    "exampleTranslation": "既存の担保権の抹消は、登記上の利害関係人の署名入り承諾書がなければ実行できなかった。",
+    "vocabularyList": [
+      {
+        "word": "cancellation",
+        "translation": "抹消 (まっしょう)"
+      },
+      {
+        "word": "extinguished",
+        "translation": "消滅させられた (しょうめつさせられた)"
+      },
+      {
+        "word": "existing status",
+        "translation": "既存の地位 (きそんのちい)"
+      },
+      {
+        "word": "judgment",
+        "translation": "確定判決 (かくていはんけつ)"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権 (たんぽけん)"
+      },
+      {
+        "word": "written consent",
+        "translation": "承諾書 (しょうだくしょ)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Clerical Error Correction Registration",
+    "definition": "A registration made to amend an error or omission in the register record that resulted from a mistake by the registry official or a discrepancy in the application documents, provided the discrepancy is purely formal and does not affect the substance of the registered rights.",
+    "japaneseDefinition": "登記簿上の記録に誤りや遺漏がある場合に、それを是正するために行う登記。誤りが申請書または登記機関の過失によるものである場合に適用され、権利の同一性を害さないことが条件とされる。",
+    "japaneseWordTranslation": "登記の過誤による更正登記 (とうきのかごによるこうせいとうき)",
+    "legalContext": "Fudōsan Tōkihō (Real Property Registration Act) Art. 66: If there is an error or omission in the registration, the registrar shall correct it if the error or omission originated in the process of registration.",
+    "japaneseLegalContext": "不動産登記法第66条: 登記に錯誤又は遺漏があるときは、登記官は、職権をもって、これを更正しなければならない。",
+    "exampleSentence": "The registrar performed a Clerical Error Correction Registration after discovering a mistake in the recorded area of the land parcel.",
+    "exampleTranslation": "登記官は、土地の筆の記録された面積に間違いを発見した後、登記の過誤による更正登記を実行した。",
+    "vocabularyList": [
+      {
+        "word": "amend",
+        "translation": "是正する (ぜせいする)"
+      },
+      {
+        "word": "registry official",
+        "translation": "登記官 (とうきかん)"
+      },
+      {
+        "word": "omission",
+        "translation": "遺漏 (いろう)"
+      },
+      {
+        "word": "discrepancy",
+        "translation": "不一致 (ふいっち)"
+      },
+      {
+        "word": "land parcel",
+        "translation": "土地の筆 (とちのひつ)"
+      },
+      {
+        "word": "registered rights",
+        "translation": "登記された権利 (とうきされたけんり)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Effectuation of Priority Secured by Preliminary Filing",
+    "definition": "The formal act of completing the registration of a right that was previously noted via a preliminary filing, ensuring that the rank of the right dates back to the preliminary filing date, thereby overcoming any intervening registrations.",
+    "japaneseDefinition": "仮に記入された登記に基づいて権利の登記を正式に完了する行為。これにより、その権利の順位が仮の記入の日付に遡り、間に存在する登記よりも優先する地位を確立する。",
+    "japaneseWordTranslation": "仮登記に基づく本登記の実行 (かりとうきにもとづくほんとうきのじっこう)",
+    "legalContext": "Fudōsan Tōkihō (Real Property Registration Act) Art. 106: The rank of a registration completed based on a preliminary filing shall follow the rank of said preliminary filing.",
+    "japaneseLegalContext": "不動産登記法第106条: 仮登記に基づいて本登記をした場合は、本登記の順位は、仮登記の順位による。",
+    "exampleSentence": "Upon the Effectuation of Priority Secured by Preliminary Filing, the claimant’s newly registered mortgage immediately obtained a superior rank over the secondary lien recorded last year.",
+    "exampleTranslation": "仮登記に基づく本登記の実行により、申請人の新規に登記された抵当権は、昨年記録された二次的な先取特権よりも直ちに上位の順位を獲得した。",
+    "vocabularyList": [
+      {
+        "word": "formal act",
+        "translation": "正式な行為 (せいしきなこうい)"
+      },
+      {
+        "word": "preliminary filing",
+        "translation": "仮記入 (かりきにゅう)"
+      },
+      {
+        "word": "superior rank",
+        "translation": "上位の順位 (じょういのじゅんい)"
+      },
+      {
+        "word": "intervening registrations",
+        "translation": "間に存在する登記 (あいだにそんざいするとうき)"
+      },
+      {
+        "word": "lien",
+        "translation": "先取特権 (さきどりとっけん)"
+      },
+      {
+        "word": "claimant",
+        "translation": "申請人 (しんせいにん)"
+      }
+    ]
   }
 ]

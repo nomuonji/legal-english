@@ -1,42 +1,38 @@
 {
   "category": "Companies Act (会社法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Appraisal Demand for Shares",
-  "definition": "A dissenting shareholder's statutory right to demand that the company purchase their shares at a fair price following a major corporate transaction, such as a merger or consolidation.",
-  "japaneseDefinition": "合併や組織統合などの重要な企業取引に反対する株主が、会社に対して公正な価格で自己の株式を買い取るよう請求できる法定の権利。",
-  "japaneseWordTranslation": "株式買取請求権 (かぶしきかいとりせいきゅうけん)",
-  "legalContext": "Companies Act Art. 469 (1): Shareholders who object to certain organizational restructuring shall have the right to make an Appraisal Demand for Shares.",
-  "japaneseLegalContext": "会社法第469条第1項：一定の組織再編行為に反対する株主は、株式買取請求権を有する。",
-  "exampleSentence": "When the company fails to agree on the fair price of the shares demanded, the Appraisal Demand for Shares must proceed to judicial price determination.",
-  "exampleTranslation": "会社が請求された株式の公正な価格に合意できない場合、株式買取請求は司法による価格決定の手続きに進まなければならない。",
+  "word": "Allotment of Shares to Third Parties",
+  "definition": "The issuance of new shares by a company to specific persons or entities other than existing shareholders, typically utilized for fundraising, strategic alliances, or mergers and acquisitions.",
+  "japaneseDefinition": "既存の株主以外の特定の個人または法人に対して、会社が新株を発行すること。資金調達、戦略的提携、M&Aなどの目的で用いられる。",
+  "japaneseWordTranslation": "第三者割当増資 (だいさんしゃわりあてぞうし)",
+  "legalContext": "Companies Act Art. 199: Matters subject to determination regarding subscription requirements for shares for subscription.",
+  "japaneseLegalContext": "会社法第199条: 募集株式の引受人の募集に関する事項の決定。",
+  "exampleSentence": "The startup company resolved to execute an allotment of shares to third parties to secure necessary growth capital from a venture fund.",
+  "exampleTranslation": "そのスタートアップ企業は、ベンチャーファンドから必要な成長資金を確保するため、第三者割当増資の実行を決議した。",
   "vocabularyList": [
     {
-      "word": "dissenting shareholder",
-      "translation": "反対株主"
+      "word": "Issuance of shares",
+      "translation": "株式の発行 (かぶしきのはっこう)"
     },
     {
-      "word": "statutory right",
-      "translation": "法定の権利"
+      "word": "Subscription requirements",
+      "translation": "募集事項 (ぼしゅうじこう)"
     },
     {
-      "word": "consolidation",
-      "translation": "組織統合"
+      "word": "Venture fund",
+      "translation": "ベンチャーファンド"
     },
     {
-      "word": "fair price",
-      "translation": "公正な価格"
+      "word": "Growth capital",
+      "translation": "成長資金 (せいちょうしきん)"
     },
     {
-      "word": "judicial price determination",
-      "translation": "司法による価格決定"
+      "word": "Existing shareholders",
+      "translation": "既存株主 (きそんかぶぬし)"
     },
     {
-      "word": "object to",
-      "translation": "反対する"
-    },
-    {
-      "word": "proceed to",
-      "translation": "〜へ移行する"
+      "word": "Strategic alliances",
+      "translation": "戦略的提携 (せんりゃくてきていけい)"
     }
   ]
 }

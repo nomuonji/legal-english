@@ -11758,5 +11758,119 @@
         "translation": "申請 (しんせい)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Particulars",
+    "definition": "The specific, mandatory facts (such as the corporate name, location of the head office, stated capital, and the names of the representative directors) that a company is legally obligated to record in the commercial register.",
+    "japaneseDefinition": "商業登記簿に記載することが義務付けられている、法人に関する一定の事実（商号、本店所在地、資本金、代表取締役の氏名など）。",
+    "japaneseWordTranslation": "登記事項 (Tōki Jikō)",
+    "legalContext": "Commercial Registration Act Art. 11 and relevant provisions of the Companies Act.",
+    "japaneseLegalContext": "商業登記法第11条及び会社法の関連規定。",
+    "exampleSentence": "Failure to register changes to the Registration Particulars within the statutory period may result in an administrative penalty being imposed on the officers.",
+    "exampleTranslation": "法定期間内に登記事項の変更を登録しなかった場合、役員に対し行政上の過料が科される可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "Mandatory facts",
+        "translation": "強行的な事実 (Kyōkō-teki na jijitsu)"
+      },
+      {
+        "word": "Stated capital",
+        "translation": "記載された資本金 (Kisai sareta shihonkin)"
+      },
+      {
+        "word": "Head office",
+        "translation": "本店 (Honten)"
+      },
+      {
+        "word": "Administrative penalty",
+        "translation": "行政罰 (Gyōseibatsu)"
+      },
+      {
+        "word": "Statutory period",
+        "translation": "法定期間 (Hōtei kikan)"
+      },
+      {
+        "word": "Corporate name",
+        "translation": "商号 (Shōgō)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-Assertion Principle",
+    "definition": "The legal rule that prevents a company from asserting or counter-claiming a fact (specifically, the creation or change of a registered matter) against a third party who has dealt with the company in good faith, unless that fact has been formally recorded in the Commercial Register.",
+    "japaneseDefinition": "登記すべき事項の発生または変更が商業登記簿に記録されていない場合、善意の第三者に対してその事実を主張できないという原則。",
+    "japaneseWordTranslation": "不登記事項の不主張原則 (Futōki Jikō no Fushuchō Gensoku)",
+    "legalContext": "Commercial Registration Act Art. 9 (Limitation on effect against a third party).",
+    "japaneseLegalContext": "商業登記法第9条（第三者に対する効力の制限）。",
+    "exampleSentence": "Under the Non-Assertion Principle, the newly appointed director cannot claim his authority against a client who, relying on the register, paid the former director.",
+    "exampleTranslation": "不主張原則に基づき、新任の取締役は、登記簿を信頼して旧取締役に支払いを行った顧客に対し、自己の権限を主張することはできない。",
+    "vocabularyList": [
+      {
+        "word": "Counter-claiming",
+        "translation": "対抗主張 (Taikō shuchō)"
+      },
+      {
+        "word": "Dealt with",
+        "translation": "取引した (Torihiki shita)"
+      },
+      {
+        "word": "In good faith",
+        "translation": "善意で (Zen'i de)"
+      },
+      {
+        "word": "Formally recorded",
+        "translation": "正式に記録された (Seishiki ni kiroku sareta)"
+      },
+      {
+        "word": "Claim his authority",
+        "translation": "自己の権限を主張する (Jiko no kengen o shuchō suru)"
+      },
+      {
+        "word": "Client",
+        "translation": "顧客 (Kokyaku)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Apparent Representative Director Doctrine",
+    "definition": "The legal doctrine that holds a company liable to a third party when the company has allowed an individual to use the title or designation suggesting they are a representative director, thereby justifying the third party's reasonable reliance on the apparent authority.",
+    "japaneseDefinition": "会社が特定の者に代表取締役であると誤認させるような名称の使用を許容した結果、その者を代表取締役と信じて取引した第三者に対して、会社が責任を負うことになる法理。",
+    "japaneseWordTranslation": "表見代表取締役の法理 (Hyōken Daihyō Torishimariyaku no Hōri)",
+    "legalContext": "Companies Act Art. 9 (Applied mutatis mutandis from the expression of intention provisions).",
+    "japaneseLegalContext": "会社法第9条（意思表示の規定の準用）。",
+    "exampleSentence": "The company was found liable under the Apparent Representative Director Doctrine after it failed to diligently remove the former CEO's name from the company register and related signage.",
+    "exampleTranslation": "会社は、元の最高経営責任者の名前を会社登記簿および関連看板から注意深く削除しなかったため、表見代表取締役の法理に基づき責任を負うことになった。",
+    "vocabularyList": [
+      {
+        "word": "Held liable",
+        "translation": "責任を負わされた (Sekinin o owasareta)"
+      },
+      {
+        "word": "Legal doctrine",
+        "translation": "法理 (Hōri)"
+      },
+      {
+        "word": "Use the title",
+        "translation": "名称を使用する (Meishō o shiyō suru)"
+      },
+      {
+        "word": "Apparent authority",
+        "translation": "表見的な権限 (Hyōken-teki na kengen)"
+      },
+      {
+        "word": "Diligently remove",
+        "translation": "注意深く削除する (Chūibukaku sakujo suru)"
+      },
+      {
+        "word": "Signage",
+        "translation": "看板 (Kanban)"
+      }
+    ]
   }
 ]

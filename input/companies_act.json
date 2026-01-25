@@ -2,44 +2,6 @@
   {
     "category": "Companies Act (会社法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Allotment of Shares to Third Parties",
-    "definition": "The issuance of new shares by a company to specific persons or entities other than existing shareholders, typically utilized for fundraising, strategic alliances, or mergers and acquisitions.",
-    "japaneseDefinition": "既存の株主以外の特定の個人または法人に対して、会社が新株を発行すること。資金調達、戦略的提携、M&Aなどの目的で用いられる。",
-    "japaneseWordTranslation": "第三者割当増資 (だいさんしゃわりあてぞうし)",
-    "legalContext": "Companies Act Art. 199: Matters subject to determination regarding subscription requirements for shares for subscription.",
-    "japaneseLegalContext": "会社法第199条: 募集株式の引受人の募集に関する事項の決定。",
-    "exampleSentence": "The startup company resolved to execute an allotment of shares to third parties to secure necessary growth capital from a venture fund.",
-    "exampleTranslation": "そのスタートアップ企業は、ベンチャーファンドから必要な成長資金を確保するため、第三者割当増資の実行を決議した。",
-    "vocabularyList": [
-      {
-        "word": "Issuance of shares",
-        "translation": "株式の発行 (かぶしきのはっこう)"
-      },
-      {
-        "word": "Subscription requirements",
-        "translation": "募集事項 (ぼしゅうじこう)"
-      },
-      {
-        "word": "Venture fund",
-        "translation": "ベンチャーファンド"
-      },
-      {
-        "word": "Growth capital",
-        "translation": "成長資金 (せいちょうしきん)"
-      },
-      {
-        "word": "Existing shareholders",
-        "translation": "既存株主 (きそんかぶぬし)"
-      },
-      {
-        "word": "Strategic alliances",
-        "translation": "戦略的提携 (せんりゃくてきていけい)"
-      }
-    ]
-  },
-  {
-    "category": "Companies Act (会社法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Company with an Audit and Supervisory Committee",
     "definition": "A corporate governance structure defined under the Companies Act where the company has an Audit and Supervisory Committee responsible for auditing the execution of duties by directors.",
     "japaneseDefinition": "会社法に定められた企業統治の形態の一つで、取締役の職務の執行を監査する職務を担う監査等委員会を設置する会社。",
@@ -12342,6 +12304,120 @@
       {
         "word": "deliver/provide",
         "translation": "交付する"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Director's Duty to Report Competition",
+    "definition": "The obligation imposed on a director who intends to engage in a competing business activity for their own account or a third party's account to disclose the material facts of that transaction to the corporate decision-making body and obtain its approval.",
+    "japaneseDefinition": "取締役が自己または第三者のために会社の事業の部類に属する取引を行う場合、当該取引の重要な事実を開示し、決定機関の承認を得なければならない義務。",
+    "japaneseWordTranslation": "競業取引報告義務 (きょうぎょうとりひきほうこくぎむ)",
+    "legalContext": "Companies Act, Article 356, Paragraph 1, Item 1 and Article 365, Paragraph 1 (Obligation to Obtain Approval and Report).",
+    "japaneseLegalContext": "会社法第356条第1項第1号及び第365条第1項（承認及び報告の義務）",
+    "exampleSentence": "Failure to comply with the Director's Duty to Report Competition may result in the corporation claiming damages against the breaching director under the Companies Act.",
+    "exampleTranslation": "競業取引報告義務を遵守しなかった場合、会社法に基づき、当該義務違反の取締役に損害賠償を請求する可能性があります。",
+    "vocabularyList": [
+      {
+        "word": "engage in",
+        "translation": "〜を営む"
+      },
+      {
+        "word": "competing business activity",
+        "translation": "競業取引"
+      },
+      {
+        "word": "material facts",
+        "translation": "重要な事実"
+      },
+      {
+        "word": "corporate decision-making body",
+        "translation": "会社の意思決定機関"
+      },
+      {
+        "word": "breaching director",
+        "translation": "義務違反の取締役"
+      },
+      {
+        "word": "obtain approval",
+        "translation": "承認を得る"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability of Incorporators to the Corporation",
+    "definition": "The responsibility borne by individuals who establish a stock company (incorporators) to the company for damages arising from neglect of their duties or specific deficiencies (such as failure to subscribe for all shares or misvaluation of non-cash assets) during the formation process.",
+    "japaneseDefinition": "株式会を設立する者が、その職務の執行を怠ったこと、または財産引受けや現物出資の価額の不足など設立に関する特定の欠陥により会社に生じた損害を賠償する責任。",
+    "japaneseWordTranslation": "発起人の会社に対する責任 (ほっきにんのかいしゃにたいするせきにん)",
+    "legalContext": "Companies Act, Article 52 (Liability for Damages) and Article 54 (Liability for Shortfall in Contribution Amount).",
+    "japaneseLegalContext": "会社法第52条（損害賠償責任）及び第54条（出資不足額填補責任）",
+    "exampleSentence": "The Liability of Incorporators to the Corporation ensures proper capital adequacy and prevents fraudulent practices during the corporate formation process.",
+    "exampleTranslation": "発起人の会社に対する責任は、適切な資本充実を確保し、会社設立プロセスにおける不正行為を防止します。",
+    "vocabularyList": [
+      {
+        "word": "incorporator",
+        "translation": "発起人"
+      },
+      {
+        "word": "stock company",
+        "translation": "株式会社"
+      },
+      {
+        "word": "neglect of duties",
+        "translation": "職務懈怠"
+      },
+      {
+        "word": "non-cash assets",
+        "translation": "現物出資財産"
+      },
+      {
+        "word": "capital adequacy",
+        "translation": "資本充実"
+      },
+      {
+        "word": "corporate formation process",
+        "translation": "会社設立手続"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Shareholder Written Resolution Substitute",
+    "definition": "A mechanism allowing the company to deem a matter to have been resolved by the shareholder assembly, provided that all shareholders entitled to exercise voting rights provide their written consent or approval to the proposal.",
+    "japaneseDefinition": "議決権を行使することができる株主の全員が、株主総会の目的である事項について書面又は電磁的記録により同意の意思を表示したとき、当該事項の決議があったものとみなす制度。",
+    "japaneseWordTranslation": "書面決議 (しょめんけつぎ)",
+    "legalContext": "Companies Act, Article 319, Paragraph 1 (Omission of Resolution by Documents, etc.).",
+    "japaneseLegalContext": "会社法第319条第1項（書面等による決議の省略）",
+    "exampleSentence": "The company utilized the Shareholder Written Resolution Substitute to swiftly approve the organizational restructuring without holding a physical assembly.",
+    "exampleTranslation": "会社は、物理的な集会を開催せずに組織再編を迅速に承認するため、株主の書面決議省略の仕組みを利用しました。",
+    "vocabularyList": [
+      {
+        "word": "deem",
+        "translation": "とみなす"
+      },
+      {
+        "word": "shareholder assembly",
+        "translation": "株主総会"
+      },
+      {
+        "word": "entitled to exercise",
+        "translation": "行使することができる"
+      },
+      {
+        "word": "written consent",
+        "translation": "書面による同意"
+      },
+      {
+        "word": "organizational restructuring",
+        "translation": "組織再編"
+      },
+      {
+        "word": "approval",
+        "translation": "承認"
       }
     ]
   }

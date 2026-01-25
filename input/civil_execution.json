@@ -13212,5 +13212,127 @@
         "translation": "定められた期限"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Disclosure of Property",
+    "definition": "A mandatory legal procedure under the Civil Execution Act requiring the judgment debtor to appear before the court and disclose the status of their assets under oath, typically initiated when enforcement against known property fails.",
+    "japaneseDefinition": "債務者が裁判所に出頭し、自己の財産状況について宣誓の上で開示することを強制する手続。通常、既知の財産に対する執行が不奏功に終わった場合に申立てられる。",
+    "japaneseWordTranslation": "財産開示 (ざいさんかいじ)",
+    "legalContext": "Civil Execution Act Art. 197 (Order for Disclosure of Property).",
+    "japaneseLegalContext": "民事執行法第197条（財産開示手続の実施に関する裁判）。",
+    "exampleSentence": "The obligee filed a motion for **Disclosure of Property** after exhausting attempts to levy execution against the debtor's bank accounts.",
+    "exampleTranslation": "債権者は、債務者の銀行口座に対する執行の試みを使い果たした後、財産開示の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "levy execution",
+        "translation": "執行をかける"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "under oath",
+        "translation": "宣誓の上で"
+      },
+      {
+        "word": "enforcement",
+        "translation": "強制執行"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Objection to Claim",
+    "definition": "A lawsuit filed by the execution obligor (debtor) against the execution obligee (creditor) to dispute the existence, scope, or enforceability of the substantive claim (the right underlying the execution title).",
+    "japaneseDefinition": "執行債務者が執行債権者に対し、執行権原の基礎となっている請求権の実体的な存否、範囲、または執行力の排除を主張するために提起する訴訟。",
+    "japaneseWordTranslation": "請求異議の訴え (せいきゅういぎのうったえ)",
+    "legalContext": "Civil Execution Act Art. 35 (Action for Objection to Claim).",
+    "japaneseLegalContext": "民事執行法第35条（請求異議の訴え）。",
+    "exampleSentence": "The judgment debtor brought an **Action for Objection to Claim**, asserting that the underlying debt had been fully satisfied prior to the enforcement proceedings.",
+    "exampleTranslation": "判決債務者は、執行手続の前に原債務が完全に履行されていたと主張し、請求異議の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "lawsuit",
+        "translation": "訴訟"
+      },
+      {
+        "word": "execution obligor",
+        "translation": "執行債務者"
+      },
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "execution title",
+        "translation": "執行権原"
+      },
+      {
+        "word": "substantive claim",
+        "translation": "実体的な請求権"
+      },
+      {
+        "word": "fully satisfied",
+        "translation": "完全に履行された"
+      },
+      {
+        "word": "enforcement proceedings",
+        "translation": "執行手続"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Distribution (of Execution Proceeds)",
+    "definition": "The procedure by which the execution court allocates the funds realized from the sale of the execution property (e.g., auctioned real estate) among the execution obligees and other preferred claimants.",
+    "japaneseDefinition": "執行裁判所が、執行財産の売却（競売された不動産など）により金銭化された代金を、執行債権者やその他の優先権を有する債権者の間で配分する手続。",
+    "japaneseWordTranslation": "配当 (はいとう)",
+    "legalContext": "Civil Execution Act Art. 84 (Distribution Procedures).",
+    "japaneseLegalContext": "民事執行法第84条（配当等の手続）。",
+    "exampleSentence": "Following the compulsory auction of the land, the court scheduled the **Distribution of Execution Proceeds** to ensure all creditors received their due shares.",
+    "exampleTranslation": "土地の強制競売後、裁判所は全ての債権者が当然の取り分を受け取ることを確実にするため、配当手続を予定した。",
+    "vocabularyList": [
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "allocates",
+        "translation": "配分する"
+      },
+      {
+        "word": "realized (funds)",
+        "translation": "金銭化された"
+      },
+      {
+        "word": "execution property",
+        "translation": "執行財産"
+      },
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売"
+      },
+      {
+        "word": "preferred claimants",
+        "translation": "優先権を有する債権者"
+      },
+      {
+        "word": "due shares",
+        "translation": "当然の取り分"
+      }
+    ]
   }
 ]

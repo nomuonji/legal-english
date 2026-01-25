@@ -11066,5 +11066,89 @@
         "translation": "期限 (きげん)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Claim for Damages Following Preservation Cancellation",
+    "definition": "The potential claim for compensation that the preservation debtor may assert against the preservation creditor if the preservation order is later revoked, typically secured by the preservation security deposit.",
+    "japaneseDefinition": "保全命令が後に取り消された場合に、保全債務者が保全債権者に対して請求し得る損害賠償請求権（通常、保全担保によって担保される）。",
+    "japaneseWordTranslation": "保全命令の取消しによる損害賠償請求権 (ほぜんめいれいのとりけしによるそんがいばいしょうせいきゅうけん)",
+    "legalContext": "Civil Preservation Law Art. 27, Paragraph 1 specifies the grounds for demanding security for preservation costs and potential damages.",
+    "japaneseLegalContext": "民事保全法第27条第1項（保全命令申立ての担保）",
+    "exampleSentence": "The debtor sought relief, arguing that the security deposit must adequately cover the potential Claim for Damages Following Preservation Cancellation due to the risk of the original order being set aside.",
+    "exampleTranslation": "債務者は、最初の命令が取り消されるリスクがあるため、供託された担保金が、保全命令の取消しによる損害賠償請求権を適切にカバーすべきだと主張して救済を求めた。",
+    "vocabularyList": [
+      {
+        "word": "preservation creditor",
+        "translation": "保全債権者"
+      },
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者"
+      },
+      {
+        "word": "security deposit",
+        "translation": "担保供託"
+      },
+      {
+        "word": "revoked",
+        "translation": "取り消された"
+      },
+      {
+        "word": "set aside",
+        "translation": "却下された"
+      },
+      {
+        "word": "adequately cover",
+        "translation": "適切に填補する"
+      },
+      {
+        "word": "potential claim",
+        "translation": "潜在的な請求権"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Individual Specification of Preserved Property",
+    "definition": "The principle requiring the preservation creditor to clearly and individually specify the property (real estate, movables, or claims) subject to provisional attachment or disposition when applying for a preservation order, ensuring clarity for execution.",
+    "japaneseDefinition": "保全債権者が保全命令を申し立てる際、仮差押えまたは仮処分の対象となる財産（不動産、動産、債権など）を明確かつ個別に特定しなければならないという原則。執行の明確性を確保するために必要とされる。",
+    "japaneseWordTranslation": "保全対象財産の個別的特定 (ほぜんたいしょうざいさんのこべつてきとくてい)",
+    "legalContext": "Civil Preservation Law Art. 21 and the principle derived from its application, demanding clarity in the property description for effective enforcement.",
+    "japaneseLegalContext": "民事保全法第21条（仮差押命令の要件）および保全執行の明確性の原則",
+    "exampleSentence": "Failure to meet the Individual Specification of Preserved Property requirement resulted in the rejection of the initial application for provisional attachment of the debtor's bank accounts.",
+    "exampleTranslation": "保全対象財産の個別的特定要件を満たさなかったため、債務者の銀行口座に対する仮差押えの最初の申立ては却下された。",
+    "vocabularyList": [
+      {
+        "word": "principle",
+        "translation": "原則"
+      },
+      {
+        "word": "clearly specify",
+        "translation": "明確に特定する"
+      },
+      {
+        "word": "movables",
+        "translation": "動産"
+      },
+      {
+        "word": "claims",
+        "translation": "債権"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え"
+      },
+      {
+        "word": "rejection",
+        "translation": "却下"
+      },
+      {
+        "word": "application",
+        "translation": "申立て"
+      }
+    ]
   }
 ]

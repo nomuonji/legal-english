@@ -14672,5 +14672,119 @@
         "translation": "依頼人 (Irainin)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Period Restriction on Assertion and Evidence Submission",
+    "definition": "The judicial authority to set a specific deadline for the parties to submit necessary factual claims (assertions) and corresponding evidence, thereby ensuring the concentration of the trial and promoting procedural efficiency.",
+    "japaneseDefinition": "裁判所が、訴訟の集中審理を実現し、手続の遅延を防ぐために、当事者に対して主張（攻撃防御方法）や証拠の提出をすべき期間を定める権能。",
+    "japaneseWordTranslation": "主張・証拠提出期間の制限 (しゅちょう・しょうこていしゅつきかんのせいげん)",
+    "legalContext": "Code of Civil Procedure Art. 147: Restriction on Submission of Means of Attack or Defense (Manner of Exercise of Judicial Power).",
+    "japaneseLegalContext": "民事訴訟法第147条 (攻撃防御方法の提出期間の制限：訴訟指揮権の行使方法)",
+    "exampleSentence": "The court imposed a period restriction on assertion and evidence submission to expedite the trial, warning that late submissions may be excluded based on the principle of preclusion.",
+    "exampleTranslation": "裁判所は、審理を迅速化するため主張・証拠提出期間の制限を課し、期間経過後の提出は却下される可能性がある旨を警告した。",
+    "vocabularyList": [
+      {
+        "word": "Procedural efficiency",
+        "translation": "手続の効率化 (てつづきのこうりつか)"
+      },
+      {
+        "word": "Concentration of trial",
+        "translation": "集中審理 (しゅうちゅうしんり)"
+      },
+      {
+        "word": "Judicial authority",
+        "translation": "訴訟指揮権 (そしょうしきけん)"
+      },
+      {
+        "word": "Expedite the trial",
+        "translation": "審理を迅速化する (しんりをじんそくかする)"
+      },
+      {
+        "word": "Late submissions",
+        "translation": "遅延した提出 (ちえんしたていしゅつ)"
+      },
+      {
+        "word": "Principle of preclusion",
+        "translation": "遮断効の原則 (しゃだんこうのげんそく)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Appealable Interest",
+    "definition": "The requisite legal standing for a party to file an appeal (kōso or jōkoku), which is generally met when the party has received an adverse or unfavorable judgment in the preceding instance and seeks its revocation or modification.",
+    "japaneseDefinition": "当事者が上訴（控訴または上告）を提起するために必要な訴訟上の利益。通常、前審の判決によって敗訴し、その判決の取消し又は変更を求める場合に認められる。",
+    "japaneseWordTranslation": "上訴の利益 (じょうそのりえき)",
+    "legalContext": "Civil Procedure: General requirement for the exercise of appellate remedies, ensuring that only aggrieved parties utilize the appellate mechanism.",
+    "japaneseLegalContext": "民事訴訟法：上訴権行使の一般要件 (不利益を受けた当事者のみが上訴手続を利用することを担保する原則)",
+    "exampleSentence": "Since the plaintiff received a judgment fully granting their claim, they lack the necessary appealable interest to challenge the ruling.",
+    "exampleTranslation": "原告は請求を全面的に認容する判決を受けたため、当該判決に異議を唱えるために必要な上訴の利益を欠く。",
+    "vocabularyList": [
+      {
+        "word": "Appellate remedies",
+        "translation": "上訴手段 (じょうそしゅだん)"
+      },
+      {
+        "word": "Adverse judgment",
+        "translation": "不利益な判決 (ふりえきなはんけつ)"
+      },
+      {
+        "word": "Preceding instance",
+        "translation": "前審 (ぜんしん)"
+      },
+      {
+        "word": "Revocation or modification",
+        "translation": "取消し又は変更 (とりけしまたはへんこう)"
+      },
+      {
+        "word": "Fully granting the claim",
+        "translation": "請求を全面的に認容する (せいきゅうをぜんめんてきににんようする)"
+      },
+      {
+        "word": "Legal standing",
+        "translation": "訴訟上の地位 (そしょうじょうのちい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Demand for Payment Procedure",
+    "definition": "A swift, document-based summary procedure available to creditors (obligee) for the collection of monetary claims, where a court clerk (not a judge) issues an order for payment against the obligor, which becomes an execution title if not objected to within a statutory period.",
+    "japaneseDefinition": "金銭債権の債権者が、裁判所書記官に対し申立てを行い、書記官が債務者に対して支払督促を発する、書面審査のみに基づく迅速な略式手続。債務者が法定期間内に異議を申し立てない場合、確定した債務名義となる。",
+    "japaneseWordTranslation": "支払督促手続 (しはらいとくそくてつづき)",
+    "legalContext": "Code of Civil Procedure Art. 382: Procedure for Demand for Payment (Summary debt collection mechanism).",
+    "japaneseLegalContext": "民事訴訟法第382条 (支払督促の申立て：簡易な債権回収手続)",
+    "exampleSentence": "The creditor initiated the Demand for Payment Procedure through the court clerk instead of a full lawsuit due to the absence of disputes over the outstanding monetary claim.",
+    "exampleTranslation": "債権者は、未払いの金銭債権について紛争がないため、正式な訴訟ではなく裁判所書記官を通じた支払督促手続を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Court clerk",
+        "translation": "裁判所書記官 (さいばんしょしょきかん)"
+      },
+      {
+        "word": "Monetary claims",
+        "translation": "金銭債権 (きんせんさいけん)"
+      },
+      {
+        "word": "Summary procedure",
+        "translation": "略式手続 (りゃくしきてつづき)"
+      },
+      {
+        "word": "Obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "Statutory period",
+        "translation": "法定期間 (ほうていきかん)"
+      },
+      {
+        "word": "Outstanding claim",
+        "translation": "未払い債権 (みばらいさいけん)"
+      }
+    ]
   }
 ]

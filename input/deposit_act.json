@@ -9214,5 +9214,111 @@
         "translation": "正式な申立て (せいしきなもうしたて)"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Impairment of Acceptance",
+    "definition": "The legal ground for consignment where the designated receiver of performance refuses acceptance, or due to circumstances (such as absence or inability), acceptance of performance is difficult or impossible.",
+    "japaneseDefinition": "弁済の受領が拒絶されたり、債権者が受領不能であるため、債務者が供託を行うことができる原因。",
+    "japaneseWordTranslation": "受領不能・受領拒否 (Juryō Funō / Juryō Kyohi)",
+    "legalContext": "Deposit Act, based on Civil Code Art. 494, which permits consignment in cases of inability or refusal of acceptance.",
+    "japaneseLegalContext": "民法第494条に基づき、供託法に規定される供託原因の一つ。",
+    "exampleSentence": "When the intended payee exhibited an impairment of acceptance without just cause, the payer exercised the right to discharge the duty through consignment of the subject matter.",
+    "exampleTranslation": "意図された受取人が正当な理由なく受領不能を示したため、支払者は目的物を供託することにより、債務を免れる権利を行使した。",
+    "vocabularyList": [
+      {
+        "word": "Payee",
+        "translation": "受取人"
+      },
+      {
+        "word": "Payer",
+        "translation": "支払者"
+      },
+      {
+        "word": "Consignment",
+        "translation": "供託"
+      },
+      {
+        "word": "Discharge the duty",
+        "translation": "債務を履行する"
+      },
+      {
+        "word": "Subject matter",
+        "translation": "目的物"
+      },
+      {
+        "word": "Just cause",
+        "translation": "正当な理由"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Instrument Evidencing the Deposit Basis",
+    "definition": "A mandatory document submitted with the application for consignment, verifying the existence of the legal fact or ground (such as the death of the entitled party or refusal by the creditor) that necessitates the deposit.",
+    "japaneseDefinition": "供託申請時に提出が義務付けられる書面であり、供託を行う法的な理由（原因）が存在することを証明するもの。",
+    "japaneseWordTranslation": "供託原因を証する書面 (Kyōtaku Gen'in o Shō Suru Shomen)",
+    "legalContext": "Deposit Act Art. 3, Item 2: The application must be accompanied by documents proving the facts constituting the basis for the consignment.",
+    "japaneseLegalContext": "供託法第3条第2項：供託の申請には、供託の事由を証明する書面を添付しなければならない。",
+    "exampleSentence": "The application for judicial consignment was rejected due to the applicant's failure to provide a sufficient Instrument Evidencing the Deposit Basis, specifically the proof of the payee’s whereabouts being unknown.",
+    "exampleTranslation": "受取人の所在が不明であることの証明など、供託原因を証する書面が不十分であったため、裁判上の供託申請は却下された。",
+    "vocabularyList": [
+      {
+        "word": "Judicial consignment",
+        "translation": "裁判上の供託"
+      },
+      {
+        "word": "Application",
+        "translation": "申請"
+      },
+      {
+        "word": "Payee",
+        "translation": "被供託者"
+      },
+      {
+        "word": "Rejection",
+        "translation": "却下"
+      },
+      {
+        "word": "Sufficient",
+        "translation": "十分な"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Reclaim Period",
+    "definition": "The prescribed duration (typically ten years for monetary deposits) during which the deposit applicant or the rightful recipient may request the withdrawal of the deposited assets before they become subject to state acquisition.",
+    "japaneseDefinition": "供託された金銭等について、供託者または被供託者が払い渡しを請求する権利を行使できる法定の期間。",
+    "japaneseWordTranslation": "供託物払渡請求権の時効期間 (Kyōtakubutsu Haraiwatashi Seikyūken no Jikō Kikan)",
+    "legalContext": "Deposit Act Art. 9-2: Stipulates that the claim for withdrawal is extinguished by prescription if not exercised within 10 years.",
+    "japaneseLegalContext": "供託法第9条の2：供託金の払渡請求権が10年間行使されない場合に時効により消滅すると定める。",
+    "exampleSentence": "Failure to initiate the withdrawal application within the Statutory Reclaim Period results in the deposited monetary funds being deemed property subject to state acquisition.",
+    "exampleTranslation": "法定の払渡請求期間内に払渡申請を開始しなかった場合、供託された金銭は国の取得の対象となる財産とみなされる。",
+    "vocabularyList": [
+      {
+        "word": "Monetary funds",
+        "translation": "金銭"
+      },
+      {
+        "word": "Deposit applicant",
+        "translation": "供託者"
+      },
+      {
+        "word": "Rightful recipient",
+        "translation": "正当な受領権者"
+      },
+      {
+        "word": "Withdrawal application",
+        "translation": "払渡し申請"
+      },
+      {
+        "word": "State acquisition",
+        "translation": "国の取得"
+      }
+    ]
   }
 ]

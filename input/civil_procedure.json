@@ -15038,5 +15038,77 @@
         "translation": "対審手続"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Service by Registered Mail",
+    "definition": "A special method of service where judicial documents are mailed via registered mail, and service is deemed complete upon mailing, primarily used when the recipient's address is known but delivery cannot be confirmed.",
+    "japaneseDefinition": "送達すべき書類を郵便に付した時点で送達の効力が生じる送達方法。受取人の住所が判明しているが通常の送達が困難な場合に用いられる。",
+    "japaneseWordTranslation": "付郵便送達 (ふゆうびんそうたつ)",
+    "legalContext": "Code of Civil Procedure Art. 107 (Manner of Service by Mail)",
+    "japaneseLegalContext": "民事訴訟法第107条（郵便による送達等の方法）",
+    "exampleSentence": "Since the ordinary methods failed to effect service, the court clerk proceeded with **service by registered mail** based on the presumption of receipt.",
+    "exampleTranslation": "通常の手段で送達が完了しなかったため、裁判所書記官は受領の推定に基づき、付郵便送達の手続きを進めた。",
+    "vocabularyList": [
+      {
+        "word": "effect service",
+        "translation": "送達を完了する"
+      },
+      {
+        "word": "court clerk",
+        "translation": "裁判所書記官"
+      },
+      {
+        "word": "presumption of receipt",
+        "translation": "受領の推定"
+      },
+      {
+        "word": "ordinary methods",
+        "translation": "通常の手段"
+      },
+      {
+        "word": "judicial documents",
+        "translation": "司法文書（裁判書類）"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cross-Examination",
+    "definition": "The questioning of a witness by the opposing party (the party who did not call the witness) following the direct examination, aimed at testing the witness's credibility or eliciting favorable facts.",
+    "japaneseDefinition": "証人尋問において、証人を請求した当事者（主尋問者）による尋問が終了した後、相手方当事者が行う尋問。",
+    "japaneseWordTranslation": "反対尋問 (はんたいじんもん)",
+    "legalContext": "Code of Civil Procedure Art. 295 (Method of Examination)",
+    "japaneseLegalContext": "民事訴訟法第295条（尋問の方法）",
+    "exampleSentence": "The opposing counsel sought to undermine the expert's testimony regarding causation through a vigorous **cross-examination** on his methodology.",
+    "exampleTranslation": "相手方代理人は、専門家の因果関係に関する証言を、その方法論についての厳格な反対尋問を通じて信用性を損なおうとした。",
+    "vocabularyList": [
+      {
+        "word": "opposing counsel",
+        "translation": "相手方代理人"
+      },
+      {
+        "word": "expert's testimony",
+        "translation": "専門家の証言"
+      },
+      {
+        "word": "causation",
+        "translation": "因果関係"
+      },
+      {
+        "word": "credibility",
+        "translation": "信用性"
+      },
+      {
+        "word": "methodology",
+        "translation": "方法論"
+      },
+      {
+        "word": "direct examination",
+        "translation": "主尋問"
+      }
+    ]
   }
 ]

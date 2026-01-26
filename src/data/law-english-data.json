@@ -1,38 +1,42 @@
 {
-  "category": "Commercial Registration (商業登記法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Deemed dissolution",
-  "definition": "A legal fiction under which a company that has failed to file any mandatory registration for a specified long period (usually 12 consecutive years) is presumed to be dormant and administratively dissolved by the registrar.",
-  "japaneseDefinition": "長期間（通常12年間）にわたり義務付けられた登記を一度も行わなかった会社が、休眠状態にあると推定され、登記官によって職権で解散させられる法的な擬制。",
-  "japaneseWordTranslation": "みなし解散 (みなしかいさん)",
-  "legalContext": "Commercial Registration Act Art. 47: If a stock company fails to register any changes for a period of twelve years, the supervising authority may issue a final warning notice, and if no application is subsequently filed, the company is deemed dissolved.",
-  "japaneseLegalContext": "商業登記法第47条：株式会社が12年間登記を行わない場合、管轄当局が催告を行い、その後も申請がないときは、その会社は解散したものとみなされる。",
-  "exampleSentence": "Before issuing a notice of deemed dissolution, the registrar must confirm that the dormant entity has not conducted any relevant corporate activity requiring an entry in the public records.",
-  "exampleTranslation": "登記官は、みなし解散の催告を発する前に、その休眠状態の法人が公的記録への記載を要する関連する企業活動を行っていないことを確認しなければならない。",
+  "word": "Elements Constituting a Crime",
+  "definition": "The specific set of objective and subjective elements defined by law that must be proven to establish the legality, culpability, and punishability of an action as a particular crime.",
+  "japaneseDefinition": "犯罪が成立するための、刑罰法規に規定された客観的及び主観的な要件の総体。特に、刑罰法規の文言に具体的に該当する事実。",
+  "japaneseWordTranslation": "構成要件 (kōsei yōken)",
+  "legalContext": "General Principle based on the Principle of Legality (Nulla poena sine lege), fundamental to the interpretation of the Criminal Code.",
+  "japaneseLegalContext": "罪刑法定主義に基づく一般原則（刑法の解釈の基礎）。",
+  "exampleSentence": "For a conviction of fraud, the prosecution must prove beyond a reasonable doubt that all the elements constituting the crime, including the deceptive act and the resulting pecuniary harm, were present.",
+  "exampleTranslation": "詐欺罪で有罪判決を得るためには、検察官は、欺罔行為や結果としての財産上の損害など、構成要件の全てが満たされていることを合理的な疑いを超えて立証しなければならない。",
   "vocabularyList": [
     {
-      "word": "Legal fiction",
-      "translation": "法的擬制"
+      "word": "objective elements",
+      "translation": "客観的構成要件"
     },
     {
-      "word": "Dormant entity",
-      "translation": "休眠会社"
+      "word": "subjective elements",
+      "translation": "主観的構成要件"
     },
     {
-      "word": "Final warning notice",
-      "translation": "最終の催告"
+      "word": "prosecution",
+      "translation": "検察官、訴追側"
     },
     {
-      "word": "Liquidation",
-      "translation": "清算"
+      "word": "pecuniary harm",
+      "translation": "財産上の損害"
     },
     {
-      "word": "Reinstatement",
-      "translation": "復活（清算結了前の場合）"
+      "word": "culpability",
+      "translation": "有責性"
     },
     {
-      "word": "Supervising authority",
-      "translation": "管轄当局"
+      "word": "deceptive act",
+      "translation": "欺罔行為（ぎもうこうい）"
+    },
+    {
+      "word": "beyond a reasonable doubt",
+      "translation": "合理的な疑いを超えて"
     }
   ]
 }

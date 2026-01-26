@@ -2,48 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Elements Constituting a Crime",
-    "definition": "The specific set of objective and subjective elements defined by law that must be proven to establish the legality, culpability, and punishability of an action as a particular crime.",
-    "japaneseDefinition": "犯罪が成立するための、刑罰法規に規定された客観的及び主観的な要件の総体。特に、刑罰法規の文言に具体的に該当する事実。",
-    "japaneseWordTranslation": "構成要件 (kōsei yōken)",
-    "legalContext": "General Principle based on the Principle of Legality (Nulla poena sine lege), fundamental to the interpretation of the Criminal Code.",
-    "japaneseLegalContext": "罪刑法定主義に基づく一般原則（刑法の解釈の基礎）。",
-    "exampleSentence": "For a conviction of fraud, the prosecution must prove beyond a reasonable doubt that all the elements constituting the crime, including the deceptive act and the resulting pecuniary harm, were present.",
-    "exampleTranslation": "詐欺罪で有罪判決を得るためには、検察官は、欺罔行為や結果としての財産上の損害など、構成要件の全てが満たされていることを合理的な疑いを超えて立証しなければならない。",
-    "vocabularyList": [
-      {
-        "word": "objective elements",
-        "translation": "客観的構成要件"
-      },
-      {
-        "word": "subjective elements",
-        "translation": "主観的構成要件"
-      },
-      {
-        "word": "prosecution",
-        "translation": "検察官、訴追側"
-      },
-      {
-        "word": "pecuniary harm",
-        "translation": "財産上の損害"
-      },
-      {
-        "word": "culpability",
-        "translation": "有責性"
-      },
-      {
-        "word": "deceptive act",
-        "translation": "欺罔行為（ぎもうこうい）"
-      },
-      {
-        "word": "beyond a reasonable doubt",
-        "translation": "合理的な疑いを超えて"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Joint Principal",
     "definition": "A legal concept stipulated in Japanese criminal law where multiple individuals collaborate with a shared criminal intent to execute a crime, resulting in each participant being held liable as a principal for the entirety of the offense.",
     "japaneseDefinition": "二人以上の者が共同して犯罪を実行した場合に、各自を正犯として処罰する法理。行為の分担にかかわらず、全員が全体の実行行為について責任を負う。",
@@ -13794,6 +13752,120 @@
       {
         "word": "imprisonment with or without labor",
         "translation": "懲役若しくは禁錮 (chōeki moshiku wa kinko)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Proximate Cause Theory",
+    "definition": "The doctrinal position in criminal law that limits the scope of legal causation, holding that a result is attributable to an act only if the relationship between the act and the result is typically predictable (i.e., 'adequate' or 'proximate').",
+    "japaneseDefinition": "犯罪の成立要件である行為と結果の間の因果関係を判断する学説の一つ。行為から結果が発生することが、社会通念上、相当な蓋然性をもって認められる場合にのみ、因果関係を肯定するという考え方。",
+    "japaneseWordTranslation": "相当因果関係説 (そうとういんがかんけいせつ)",
+    "legalContext": "Criminal General Theory: Causation (因果関係) is established when the act is a conditio sine qua non and also meets the requirements of foreseeability or proximity (相当性).",
+    "japaneseLegalContext": "刑法総論：因果関係は、行為がなければ結果が生じなかったという事実的因果関係に加え、相当性（予見可能性）の要件を満たす場合に成立するとされる。",
+    "exampleSentence": "Under the Proximate Cause Theory, if the victim's death resulted from exceptionally unusual medical negligence following a minor assault, the original actor might not be held responsible for homicide.",
+    "exampleTranslation": "相当因果関係説によれば、軽微な暴行の後に被害者の死が例外的な医療過誤によって生じた場合、最初の行為者は殺人罪の責任を問われない可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "causation",
+        "translation": "因果関係"
+      },
+      {
+        "word": "conditio sine qua non",
+        "translation": "あれなければこれなしの条件"
+      },
+      {
+        "word": "attributable",
+        "translation": "帰属する"
+      },
+      {
+        "word": "homicide",
+        "translation": "殺人"
+      },
+      {
+        "word": "assault",
+        "translation": "暴行"
+      },
+      {
+        "word": "foreseeability",
+        "translation": "予見可能性"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Offense of Harm to Public Health",
+    "definition": "The crime of harming public health by actions such as unlawfully polluting water supplies or distributing contaminated food or drinks, stipulated under Articles 157 to 159 of the Japanese Criminal Code.",
+    "japaneseDefinition": "公衆が使用する水道水源を汚染したり、公衆に危害を及ぼす飲食物を供給したりするなど、公衆の衛生を害する行為を罰する犯罪。",
+    "japaneseWordTranslation": "公衆衛生危害罪 (こうしゅうえいせい きがいざい)",
+    "legalContext": "Criminal Code Art. 157 (Crime of Pollution of Waterworks): A person who pollutes water used for waterworks that supplies water to the public shall be punished...",
+    "japaneseLegalContext": "刑法第157条 (水道汚染罪)：公衆の飲用に供する水道の水源を汚染した者は、〇〇に処する。",
+    "exampleSentence": "The company president was prosecuted for the Offense of Harm to Public Health after deliberately disposing of industrial waste into the city's main water source.",
+    "exampleTranslation": "その会社の社長は、意図的に産業廃棄物を市の主要な水源に投棄した後、公衆衛生危害罪で起訴された。",
+    "vocabularyList": [
+      {
+        "word": "pollute",
+        "translation": "汚染する"
+      },
+      {
+        "word": "waterworks",
+        "translation": "水道施設"
+      },
+      {
+        "word": "industrial waste",
+        "translation": "産業廃棄物"
+      },
+      {
+        "word": "prosecuted",
+        "translation": "起訴された"
+      },
+      {
+        "word": "dispose of",
+        "translation": "投棄する/処分する"
+      },
+      {
+        "word": "deliberately",
+        "translation": "意図的に"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Protection of Possession (Penal Law)",
+    "definition": "The principle that offenses such as Larceny (Theft) and Robbery are aimed primarily at protecting the physical possession of property, regardless of whether the possessor has legal ownership or a formal right to possession.",
+    "japaneseDefinition": "窃盗罪や強盗罪などの財産犯が、所有権といった本権ではなく、事実上の財物の占有状態を保護法益としているという考え方。",
+    "japaneseWordTranslation": "占有保護 (せんゆうほご)",
+    "legalContext": "Criminal Code Art. 235 (Larceny): A person who steals the property of another shall be punished.... The underlying object is the actual possession.",
+    "japaneseLegalContext": "刑法第235条 (窃盗罪)：他人の財物を窃取した者は、〇〇に処する。...その根底にある保護法益は事実上の占有である。",
+    "exampleSentence": "The key consequence of the principle of Protection of Possession is that even a thief can be the victim of robbery, as the law protects the factual control over the stolen item.",
+    "exampleTranslation": "占有保護の原則の主な結果として、たとえ泥棒であっても強盗の被害者になり得るのは、法律が盗品に対する事実上の支配を保護するためである。",
+    "vocabularyList": [
+      {
+        "word": "larceny",
+        "translation": "窃盗罪"
+      },
+      {
+        "word": "robbery",
+        "translation": "強盗罪"
+      },
+      {
+        "word": "factual control",
+        "translation": "事実上の支配"
+      },
+      {
+        "word": "legal ownership",
+        "translation": "法律上の所有権"
+      },
+      {
+        "word": "victim",
+        "translation": "被害者"
+      },
+      {
+        "word": "stolen item",
+        "translation": "盗品"
       }
     ]
   }

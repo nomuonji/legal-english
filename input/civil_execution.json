@@ -13498,5 +13498,107 @@
         "translation": "弁済された（債務）"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certificate of Failure to Collect",
+    "definition": "A document issued by the execution officer or the execution court certifying that compulsory execution has been attempted against the debtor’s property but has failed to satisfy the obligee’s claim, either entirely or partially.",
+    "japaneseDefinition": "債務者に対する強制執行が実施されたが、債権の全部または一部について弁済を得られなかったことを執行官または執行裁判所が証明する文書。",
+    "japaneseWordTranslation": "不奏功証明書 (ふそうこうしょうめいしょ)",
+    "legalContext": "Civil Execution Act Art. 30: 'Upon demand by the obligee, the execution officer shall issue a certificate stating the lack of property subject to execution or the failure to satisfy the claim.'",
+    "japaneseLegalContext": "民事執行法第30条：「債権者の請求により、執行官は、執行すべき財産がないとき、又は執行しても弁済を得られなかったときは、その旨を記載した証明書を交付しなければならない。」",
+    "exampleSentence": "The obligee submitted the Certificate of Failure to Collect in order to commence property disclosure proceedings against the judgment debtor.",
+    "exampleTranslation": "債権者は、債務者に対する財産開示手続を開始するため、不奏功証明書を提出した。",
+    "vocabularyList": [
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行 (きょうせいしっこう)"
+      },
+      {
+        "word": "obligee’s claim",
+        "translation": "債権者の請求 (さいけんしゃのせいきゅう)"
+      },
+      {
+        "word": "judgment debtor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "commence proceedings",
+        "translation": "手続を開始する (てつづきをかいしする)"
+      },
+      {
+        "word": "execution officer",
+        "translation": "執行官 (しっこうかん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registered Seizure",
+    "definition": "The official act of registering the commencement of a compulsory execution procedure against specific real property in the registry book, which is necessary to establish the priority and opposability of the execution against third parties.",
+    "japaneseDefinition": "特定の不動産に対して強制執行手続が開始されたことを、登記簿に公式に記録する行為。これにより、執行の効力を第三者に対しても主張できるようになる。",
+    "japaneseWordTranslation": "登記された差押え (とうきされたさしおさえ)",
+    "legalContext": "Civil Execution Act Art. 48(1): 'The court shall commission the registration of the seizure when executing against real property.'",
+    "japaneseLegalContext": "民事執行法第48条第1項：「不動産に対する強制執行は、裁判所が差押えの登記を嘱託することによってする。」",
+    "exampleSentence": "The Registered Seizure serves as public notice, restricting the judgment debtor's ability to dispose of or encumber the land after the commencement of the auction.",
+    "exampleTranslation": "登記された差押えは、公の通知として機能し、競売開始後の債務者による土地の処分や負担の設定を制限する。",
+    "vocabularyList": [
+      {
+        "word": "registry book",
+        "translation": "登記簿 (とうきぼ)"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産 (ふどうさん)"
+      },
+      {
+        "word": "public notice",
+        "translation": "公示 (こうじ)"
+      },
+      {
+        "word": "restricting disposition",
+        "translation": "処分を制限する (しょぶんをせいげんする)"
+      },
+      {
+        "word": "encumber the land",
+        "translation": "土地に負担をかける (とちにふたんをかける)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Lowest Acceptable Bid Price",
+    "definition": "The minimum price at which the property subject to judicial auction can be sold. This price is designated by the execution court based on the property’s appraisal value, usually set at 80% of that value.",
+    "japaneseDefinition": "競売の対象となる財産を売却できる最低の価格。執行裁判所が不動産の評価額に基づいて定めるもので、通常は評価額の8割程度に設定される。",
+    "japaneseWordTranslation": "買受可能価額 (かいうけかのうかがく)",
+    "legalContext": "Civil Execution Act Art. 60(1): 'The execution court shall determine the minimum sale price (lowest acceptable bid price) for the real property subject to the execution.'",
+    "japaneseLegalContext": "民事執行法第60条第1項：「執行裁判所は、執行裁判所に対し、執行される不動産の買受可能価額を定めなければならない。」",
+    "exampleSentence": "The court set the Lowest Acceptable Bid Price at ¥20 million, significantly lower than the market appraisal due to outstanding encumbrances.",
+    "exampleTranslation": "裁判所は、残存する担保物件のために、買受可能価額を市場評価額より大幅に低い2000万円に設定した。",
+    "vocabularyList": [
+      {
+        "word": "judicial auction",
+        "translation": "裁判所による競売 (さいばんしょによるきょうばい)"
+      },
+      {
+        "word": "appraisal value",
+        "translation": "評価額 (ひょうかがく)"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所 (しっこうさいばんしょ)"
+      },
+      {
+        "word": "outstanding encumbrances",
+        "translation": "残存する負担 (ざんぞんするふたん)"
+      },
+      {
+        "word": "property subject to execution",
+        "translation": "執行の対象となる財産 (しっこうのたいしょうとなるざいさん)"
+      }
+    ]
   }
 ]

@@ -11635,5 +11635,107 @@
         "translation": "申請人 (しんせいにん)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Application Docket (Reception Register)",
+    "definition": "The ledger or record maintained by the registry office to chronologically record incoming registration applications, noting the date, time, and application number, which determines the priority rank of the application.",
+    "japaneseDefinition": "登記の申請がされた際に、登記官がその申請の年月日、受付時刻、及び受付番号を記載するために備える帳簿。登記の順位を確定する基礎となる。",
+    "japaneseWordTranslation": "受付帳 (うけつけちょう)",
+    "legalContext": "Real Property Registration Act Article 18 (Reception and Recording). The priority of registration ranks among rights of the same type is determined by the reception number in the Application Docket.",
+    "japaneseLegalContext": "不動産登記法第18条（受付及び記録）。同種の権利の登記の順位は、受付帳に記録された受付番号によって定まる。",
+    "exampleSentence": "The priority of the mortgage registration was determined by the entry time noted in the Application Docket, establishing its superior rank over a later-filed lien.",
+    "exampleTranslation": "抵当権登記の順位は、受付帳に記録された受付時刻によって決定され、それにより後から申請された先取特権に対する優位性が確立された。",
+    "vocabularyList": [
+      {
+        "word": "chronologically",
+        "translation": "時系列で"
+      },
+      {
+        "word": "priority rank",
+        "translation": "順位"
+      },
+      {
+        "word": "incoming application",
+        "translation": "申請（の受付）"
+      },
+      {
+        "word": "registry office",
+        "translation": "登記所"
+      },
+      {
+        "word": "ledger",
+        "translation": "台帳"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cadastral Area Measurement Drawing",
+    "definition": "A mandatory map filed with the registry when applying for new land registration, boundary correction, or land division, which shows the parcel boundaries, precise land area measurement (chiseki), and corner points based on an accurate survey.",
+    "japaneseDefinition": "土地の表示に関する登記を申請する際に提出が義務付けられる図面であり、地積（土地の面積）、境界、及び測量の基準点を示したもの。正確な測量に基づいて作成される。",
+    "japaneseWordTranslation": "地積測量図 (ちせきそくりょうず)",
+    "legalContext": "Real Property Registration Act Article 36 (Attachment of Survey Map for Land Registration) stipulates the requirements for filing this drawing to ensure accuracy in the indication record.",
+    "japaneseLegalContext": "不動産登記法第36条（土地の登記の申請情報）は、表示の登記の正確性を確保するために、この図面を提出する要件を定めている。",
+    "exampleSentence": "The land and house investigator refused to submit the application for parcel integration without a revised Cadastral Area Measurement Drawing showing the unified boundaries.",
+    "exampleTranslation": "土地家屋調査士は、統合された境界を示す改訂された地積測量図なしには、合筆登記の申請書の提出を拒否した。",
+    "vocabularyList": [
+      {
+        "word": "parcel boundaries",
+        "translation": "筆界"
+      },
+      {
+        "word": "land division",
+        "translation": "分筆"
+      },
+      {
+        "word": "land and house investigator",
+        "translation": "土地家屋調査士"
+      },
+      {
+        "word": "land area measurement",
+        "translation": "地積"
+      },
+      {
+        "word": "indication record",
+        "translation": "表示の登記"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Proprietary Record Section I (Kō-ku)",
+    "definition": "The first section of the rights part of a real property registration record, dedicated exclusively to registering matters concerning ownership, including the initial registration, transfers, and security interests related to the ownership right itself.",
+    "japaneseDefinition": "不動産登記記録の権利部において、所有権に関する事項のみを記録する部分。所有権の保存、移転、及び所有権を目的とする担保権などが記録される。",
+    "japaneseWordTranslation": "甲区 (こうく)",
+    "legalContext": "Real Property Registration Act Article 25 (Structure of the Registration Record) defines the two parts of the rights record: Kō-ku (Ownership) and Otsu-ku (Other Rights).",
+    "japaneseLegalContext": "不動産登記法第25条（登記記録の構成）は、権利部の二つの部分、甲区（所有権）及び乙区（その他の権利）を定義している。",
+    "exampleSentence": "The purchaser checked the Proprietary Record Section I (Kō-ku) to confirm the seller's clear ownership title and the absence of any preserved claims against the title.",
+    "exampleTranslation": "買主は、売主が明確な所有権原を有し、所有権に対する保全のための仮登記がないことを確認するために、権利部甲区を調査した。",
+    "vocabularyList": [
+      {
+        "word": "rights part",
+        "translation": "権利部"
+      },
+      {
+        "word": "security interests",
+        "translation": "担保権"
+      },
+      {
+        "word": "initial registration",
+        "translation": "保存登記"
+      },
+      {
+        "word": "ownership title",
+        "translation": "所有権原"
+      },
+      {
+        "word": "Otsu-ku",
+        "translation": "乙区（権利部乙区）"
+      }
+    ]
   }
 ]

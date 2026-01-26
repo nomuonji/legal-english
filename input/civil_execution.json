@@ -13372,5 +13372,131 @@
         "translation": "強制執行 (Kyōsei Shikkō)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Security Interest Realization Procedure",
+    "definition": "The judicial process whereby a creditor enforces a security interest (such as a mortgage or hypothec) against property to realize its monetary value, typically through a compulsory auction.",
+    "japaneseDefinition": "担保権者が担保権に基づき、裁判所を介して担保目的物を換価し、その代金から優先的な弁済を受けるための法的手続。",
+    "japaneseWordTranslation": "担保権実行手続 (たんぽけんじっこうてつづき)",
+    "legalContext": "Civil Execution Act, Part IV (Articles 180-203), governing the enforcement of security interests against real and movable property.",
+    "japaneseLegalContext": "民事執行法第4編（第180条以下）は、不動産、動産等に対する担保権の実行手続について規定する。",
+    "exampleSentence": "The bank initiated the security interest realization procedure after the obligor defaulted on the mortgage payments.",
+    "exampleTranslation": "債務者が住宅ローンの支払いを怠った後、銀行は担保権実行手続を開始した。",
+    "vocabularyList": [
+      {
+        "word": "security interest",
+        "translation": "担保権"
+      },
+      {
+        "word": "realization",
+        "translation": "換価"
+      },
+      {
+        "word": "mortgage",
+        "translation": "抵当権"
+      },
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売"
+      },
+      {
+        "word": "defaulted (on payments)",
+        "translation": "支払いを怠った"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "prioritized satisfaction",
+        "translation": "優先弁済"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Compulsory Fulfillment of Mandatory Act",
+    "definition": "The process for compelling an obligor to perform a specific, non-monetary act (a 'mandatory act' or 'act obligation'), excluding the delivery of property or the formation of an intention.",
+    "japaneseDefinition": "非金銭債務のうち、債務者の行為（作為）を目的とする債務の強制的な実現手続。特に、代替性の有無により代替執行と非代替執行に分かれる。",
+    "japaneseWordTranslation": "作為義務の執行 (さくいぎむのしっこう)",
+    "legalContext": "Civil Execution Act Art. 41 and 42 specify procedures for execution of obligations concerning actions, distinguishing between substitutable and non-substitutable acts.",
+    "japaneseLegalContext": "民事執行法第41条および第42条は、作為義務の執行手続を規定し、代替的作為と非代替的作為とを区別する。",
+    "exampleSentence": "In cases of substitutable mandatory acts, the court orders the compulsory fulfillment of the mandatory act by permitting a third party to perform the action at the obligor’s expense.",
+    "exampleTranslation": "代替的作為義務の場合、裁判所は、債務者の費用で第三者にその行為をさせることを許可することで、作為義務の強制的な履行を命じる。",
+    "vocabularyList": [
+      {
+        "word": "mandatory act",
+        "translation": "作為義務"
+      },
+      {
+        "word": "substitutable",
+        "translation": "代替性がある"
+      },
+      {
+        "word": "non-monetary obligation",
+        "translation": "非金銭債務"
+      },
+      {
+        "word": "act obligation",
+        "translation": "行為債務"
+      },
+      {
+        "word": "at the obligor’s expense",
+        "translation": "債務者の費用で"
+      },
+      {
+        "word": "performance (of an act)",
+        "translation": "履行"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action Challenging the Claim",
+    "definition": "A lawsuit filed by the obligor (judgment debtor) against the obligee (judgment creditor) seeking to preclude or restrict execution based on reasons concerning the existence, scope, or maturity of the underlying claim.",
+    "japaneseDefinition": "債務者が債務名義の示す請求権の存在や内容を争うために、執行債権者を相手取って提起する訴訟。執行の排除または制限を求める。",
+    "japaneseWordTranslation": "請求異議の訴え (せいきゅういぎのうったえ)",
+    "legalContext": "Civil Execution Act Art. 35 provides the basis for the obligor's Action Challenging the Claim, which must be filed with the execution court.",
+    "japaneseLegalContext": "民事執行法第35条は、債務者の請求異議の訴えの根拠を定め、執行裁判所に提訴される。",
+    "exampleSentence": "The obligor filed an Action Challenging the Claim, asserting that the debt had already been satisfied subsequent to the judgment being rendered.",
+    "exampleTranslation": "債務者は、判決が下された後に既に債務が弁済されていると主張し、請求異議の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "judgment debtor",
+        "translation": "執行債務者"
+      },
+      {
+        "word": "judgment creditor",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "preclude execution",
+        "translation": "執行を排除する"
+      },
+      {
+        "word": "underlying claim",
+        "translation": "基礎となる請求権"
+      },
+      {
+        "word": "subsequent (to the judgment)",
+        "translation": "判決後"
+      },
+      {
+        "word": "satisfied (debt)",
+        "translation": "弁済された（債務）"
+      }
+    ]
   }
 ]

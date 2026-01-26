@@ -14900,5 +14900,143 @@
         "translation": "遵守して"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Petition for Acceptance of Final Appeal",
+    "definition": "A specific motion filed with the Supreme Court, requesting that the court accept a case for final appeal based on important issues concerning the interpretation of laws or ordinances, even if the statutory grounds for appeal are not met (a discretionary appeal mechanism).",
+    "japaneseDefinition": "最高裁判所に対して、判例違反や法令解釈の重要性など、特定の理由に基づき、法定の上告理由がない場合でも審理を受理するよう求める申立て。",
+    "japaneseWordTranslation": "上告受理の申立て (じょうこくじゅりのもうしたて)",
+    "legalContext": "Code of Civil Procedure (Minji Soshō Hō) Art. 318 (Petition for Acceptance of Final Appeal): 'If the grounds... relate to the violation of judicial precedent, the court of final instance may accept the final appeal upon petition.'",
+    "japaneseLegalContext": "民事訴訟法 第318条 (上告受理の申立て): 「前条の場合において、訴訟記録に現れている事由であって、法令の解釈に関する重要な事項を含むものにつき、原判決の破棄を必要とするときは、最高裁判所は、上告を理由があると認めることができる。」",
+    "exampleSentence": "The losing party filed a Petition for Acceptance of Final Appeal, arguing that the High Court's ruling conflicted with established Supreme Court precedent.",
+    "exampleTranslation": "敗訴した当事者は、高等裁判所の判決が確立された最高裁判所の判例と矛盾していると主張し、上告受理の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "Supreme Court",
+        "translation": "最高裁判所"
+      },
+      {
+        "word": "ordinances",
+        "translation": "法令"
+      },
+      {
+        "word": "judicial precedent",
+        "translation": "判例"
+      },
+      {
+        "word": "High Court",
+        "translation": "高等裁判所"
+      },
+      {
+        "word": "ruling",
+        "translation": "判決"
+      },
+      {
+        "word": "discretionary appeal",
+        "translation": "裁量上告"
+      },
+      {
+        "word": "losing party",
+        "translation": "敗訴当事者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Litigation Takeover",
+    "definition": "The procedural act whereby a third party formally succeeds the status of a litigant (e.g., following the party's death, or the assignment of the subject matter of the suit) and continues the proceedings.",
+    "japaneseDefinition": "訴訟係属中に、当事者の死亡や訴訟の目的である権利義務の承継などの事由により、訴訟上の地位が第三者に引き継がれ、その者が訴訟手続を続行すること。",
+    "japaneseWordTranslation": "訴訟承継 (そしょうしょうけい)",
+    "legalContext": "Code of Civil Procedure (Minji Soshō Hō) Art. 124 (Takeover by Universal Successor): 'If a party dies or loses its status as a juridical person... the universal successor shall take over the proceedings.'",
+    "japaneseLegalContext": "民事訴訟法 第124条 (当然の承継): 「当事者が死亡したとき、又は当事者である法人が合併以外の理由により消滅したときは、訴訟手続は、中断する。この場合においては、その訴訟を承継すべき者があるときは、その者が訴訟手続を受け継がなければならない。」",
+    "exampleSentence": "Upon the death of the plaintiff, his heir was required to effect the Litigation Takeover to continue the claim against the defendant.",
+    "exampleTranslation": "原告の死亡を受け、その相続人は被告に対する請求を続行するために訴訟承継を行う必要があった。",
+    "vocabularyList": [
+      {
+        "word": "litigant",
+        "translation": "訴訟当事者"
+      },
+      {
+        "word": "procedural act",
+        "translation": "訴訟行為"
+      },
+      {
+        "word": "assignment",
+        "translation": "譲渡"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "heir",
+        "translation": "相続人"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告"
+      },
+      {
+        "word": "universal successor",
+        "translation": "包括承継人"
+      },
+      {
+        "word": "subject matter of the suit",
+        "translation": "訴訟の目的"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Relative Effect of Judgments",
+    "definition": "The fundamental principle that a court judgment, and particularly its binding force (res judicata), generally only affects the parties to the suit and those who succeed their procedural status, and does not directly affect third parties.",
+    "japaneseDefinition": "判決の効力、特に既判力は、原則として訴訟当事者およびその承継人にのみ及び、第三者に直接的な影響を及ぼさないという原則。",
+    "japaneseWordTranslation": "判決の相対効の原則 (はんけつのそうたいこうのげんそく)",
+    "legalContext": "Principle of the Adversarial System (Buntai Shugi): This procedural principle dictates that the legal effect of a judgment (binding force) is confined to the parties of the action who participated in the adversarial proceedings.",
+    "japaneseLegalContext": "判決の対人効の原則 (対審構造の原則): 既判力等の判決の効力は、対審手続に参加した当事者及びその承継人に限定されるという訴訟構造上の原則。",
+    "exampleSentence": "Due to the Principle of Relative Effect of Judgments, the court's finding of fact in the divorce proceeding could not automatically bind a bank in a separate asset dispute.",
+    "exampleTranslation": "判決の相対効の原則により、離婚訴訟における裁判所の事実認定は、別の財産紛争における銀行を自動的に拘束することはできなかった。",
+    "vocabularyList": [
+      {
+        "word": "binding force",
+        "translation": "拘束力"
+      },
+      {
+        "word": "procedural status",
+        "translation": "訴訟上の地位"
+      },
+      {
+        "word": "third parties",
+        "translation": "第三者"
+      },
+      {
+        "word": "divorce proceeding",
+        "translation": "離婚訴訟"
+      },
+      {
+        "word": "asset dispute",
+        "translation": "財産紛争"
+      },
+      {
+        "word": "finding of fact",
+        "translation": "事実認定"
+      },
+      {
+        "word": "confined to the parties",
+        "translation": "当事者に限定される"
+      },
+      {
+        "word": "adversarial proceedings",
+        "translation": "対審手続"
+      }
+    ]
   }
 ]

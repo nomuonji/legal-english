@@ -16600,5 +16600,115 @@
         "translation": "住居"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-assertability to Good Faith Third Parties",
+    "definition": "A legal principle, primarily applied to declarations of intention (such as fictitious declarations or those based on error), stating that the invalidity or voidability of the act cannot be asserted against a third party who acquired a right based on that act without knowledge of its defect.",
+    "japaneseDefinition": "意思表示の瑕疵（特に通謀虚偽表示や錯誤など）による無効や取消しの効果を、その瑕疵を知らない善意の第三者に対して主張できないとする民法上の原則。",
+    "japaneseWordTranslation": "善意の第三者への対抗制限 (Zen'i no Daisansha e no Taikō Seigen)",
+    "legalContext": "Civil Code Art. 94 para. 2 (Fictitious declarations of intention, where nullity cannot be asserted against a good faith third party.)",
+    "japaneseLegalContext": "民法第94条第2項（虚偽表示による無効は、善意の第三者に対抗することができない。）",
+    "exampleSentence": "The court ruled that the nullity of the contract based on a fictitious declaration could not be invoked against the buyer, who was a good faith third party.",
+    "exampleTranslation": "裁判所は、虚偽の意思表示に基づく契約の無効を、善意の第三者である買主に対抗することはできないと判示した。",
+    "vocabularyList": [
+      {
+        "word": "fictitious declaration",
+        "translation": "虚偽表示 (Kyogi Hyōji)"
+      },
+      {
+        "word": "invoked against",
+        "translation": "対抗する (Taikō suru)"
+      },
+      {
+        "word": "good faith",
+        "translation": "善意 (Zen'i)"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者 (Daisansha)"
+      },
+      {
+        "word": "nullity",
+        "translation": "無効 (Mukō)"
+      },
+      {
+        "word": "declared void",
+        "translation": "無効と判断された (Mukō to handan sareta)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Defense of Insecurity",
+    "definition": "A right held by a party to a synallagmatic contract (one with reciprocal obligations) to refuse its own performance if the counterparty's financial situation has substantially deteriorated, rendering their future counter-performance insecure, even if the counterparty’s time for performance has not yet arrived.",
+    "japaneseDefinition": "双務契約において、相手方の履行期が到来していない場合でも、相手方の財産状態が悪化し、反対給付を受ける見込みがなくなったときに、自己の履行を拒絶できる権利。",
+    "japaneseWordTranslation": "不安の抗弁権 (Fuan no Kōbenken)",
+    "legalContext": "Civil Code Art. 536 para. 2 (Analogous application, derived from the exception to the defense of simultaneous performance.)",
+    "japaneseLegalContext": "民法第536条第2項（同時履行の抗弁権の例外から類推適用される。）",
+    "exampleSentence": "The supplier raised the defense of insecurity, suspending the delivery of goods after the buyer filed for bankruptcy protection.",
+    "exampleTranslation": "買主が破産保護を申請した後、供給業者は不安の抗弁権を主張し、商品の引き渡しを停止した。",
+    "vocabularyList": [
+      {
+        "word": "synallagmatic contract",
+        "translation": "双務契約 (Sōmu Keiyaku)"
+      },
+      {
+        "word": "counter-performance",
+        "translation": "反対給付 (Hantai Kyūfu)"
+      },
+      {
+        "word": "suspending the delivery",
+        "translation": "引き渡しを停止する (Hikishitashi o Teishi suru)"
+      },
+      {
+        "word": "filed for bankruptcy protection",
+        "translation": "破産保護を申請した (Hasan Hogo o Shinsei shita)"
+      },
+      {
+        "word": "refuse performance",
+        "translation": "履行を拒絶する (Rikō o Kyozetsu suru)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Capacity to Discern Intent",
+    "definition": "The mental capability required of a person to rationally understand the legal significance and consequences of their declaration of intention or juridical act. The absence of this capacity results in the absolute nullity of the act.",
+    "japaneseDefinition": "自己の意思表示や法律行為がどのような法的効果をもたらすかを弁識し、合理的に判断できる精神的な能力。これが欠如している場合の行為は絶対的に無効となる。",
+    "japaneseWordTranslation": "意思能力 (Ishi Nōryoku)",
+    "legalContext": "Civil Code General Principle (A person lacking capacity to discern intent is considered to have made no declaration of intention, rendering the juridical act void.)",
+    "japaneseLegalContext": "民法上の一般原則（意思能力を欠く者の意思表示は、無効とされる。）",
+    "exampleSentence": "Because the elderly seller temporarily lacked the capacity to discern intent due to dementia when signing the deed, the contract of sale was deemed absolutely void.",
+    "exampleTranslation": "高齢の売主は、契約書に署名した際、認知症のため一時的に意思能力を欠いていたので、売買契約は絶対的に無効とみなされた。",
+    "vocabularyList": [
+      {
+        "word": "juridical act",
+        "translation": "法律行為 (Hōritsu Kōi)"
+      },
+      {
+        "word": "declaration of intention",
+        "translation": "意思表示 (Ishi Hyōji)"
+      },
+      {
+        "word": "absolutely void",
+        "translation": "絶対的に無効 (Zettaiteki ni Mukō)"
+      },
+      {
+        "word": "legal significance",
+        "translation": "法的意義 (Hōteki Igi)"
+      },
+      {
+        "word": "lacked the capacity",
+        "translation": "能力を欠いた (Nōryoku o Kaita)"
+      },
+      {
+        "word": "deemed void",
+        "translation": "無効とみなされた (Mukō to minasareta)"
+      }
+    ]
   }
 ]

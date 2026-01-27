@@ -9472,5 +9472,119 @@
         "translation": "所定の期間"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Reclaim Deposited Property",
+    "definition": "The legal entitlement of the obligor (depositor) to demand the return of the consigned property, provided that the creditor has not yet accepted the deposit or a judgment confirming its validity has not become final.",
+    "japaneseDefinition": "供託者である債務者が、債権者が供託を受諾する前、または供託が有効である旨の判決が確定するまでの間に限り、供託物を引き渡すよう請求できる権利。",
+    "japaneseWordTranslation": "供託物取戻請求権 (きょうたくぶつとりもどしせいきゅうけん)",
+    "legalContext": "Civil Code Art. 498, Para 2: The obligor may reclaim the deposited Subject Matter of Performance until the obligee accepts the deposit or a judgment establishing the validity of the deposit becomes final.",
+    "japaneseLegalContext": "民法第498条第2項：「債務者は、債権者が供託を受諾し、又は供託を有効とする判決が確定するまでは、供託物を取り戻すことができる。」",
+    "exampleSentence": "The obligor must ensure the creditor's refusal to accept performance is recorded before exercising the **Right to Reclaim Deposited Property**.",
+    "exampleTranslation": "債務者は、供託物取戻請求権を行使する前に、債権者が履行の受領を拒否したことを記録しておく必要がある。",
+    "vocabularyList": [
+      {
+        "word": "Obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "Creditor",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "Accept performance",
+        "translation": "履行を受諾する (りこうをじゅだくする)"
+      },
+      {
+        "word": "Consigned property",
+        "translation": "供託物 (きょうたくぶつ)"
+      },
+      {
+        "word": "Validity",
+        "translation": "有効性 (ゆうこうせい)"
+      },
+      {
+        "word": "Judgment",
+        "translation": "判決 (はんけつ)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Decision of Non-Acceptance (of Deposit)",
+    "definition": "A formal administrative ruling by the Deposit Registrar refusing the acceptance of an application for deposit because the necessary legal requirements or documentation are insufficient or improper.",
+    "japaneseDefinition": "供託官が、供託の申請が法令に定める要件を満たさないとして、その受理を拒否する正式な行政処分。",
+    "japaneseWordTranslation": "供託不諾処分 (きょうたくふのうしょぶん)",
+    "legalContext": "Deposit Act Art. 8 (Objection to disposition by Registrar): A person dissatisfied with a disposition may file a written objection with the competent supervising Legal Affairs Bureau Chief.",
+    "japaneseLegalContext": "供託法第8条第1項（示唆）：供託官ノ為シタル処分ニ不服アル者ハ書面ヲ以テ監督法務局又ハ地方法務局ノ長ニ異議ヲ申立ツルコトヲ得。",
+    "exampleSentence": "The **Decision of Non-Acceptance (of Deposit)** was issued because the applicant failed to submit the requisite documentation proving the grounds for consignment.",
+    "exampleTranslation": "申請者が供託の根拠を証明する必須書類の提出を怠ったため、**供託不諾処分**が下された。",
+    "vocabularyList": [
+      {
+        "word": "Registrar",
+        "translation": "供託官 (きょうたくかん)"
+      },
+      {
+        "word": "Administrative ruling",
+        "translation": "行政裁決 (ぎょうせいさいけつ)"
+      },
+      {
+        "word": "Application",
+        "translation": "申請 (しんせい)"
+      },
+      {
+        "word": "Legal requirements",
+        "translation": "法令上の要件 (ほうれいじょうのようけん)"
+      },
+      {
+        "word": "Grounds for consignment",
+        "translation": "供託原因 (きょうたくげんいん)"
+      },
+      {
+        "word": "Documentation",
+        "translation": "書類 (しょるい)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Administrative Review of Deposit Disposition",
+    "definition": "The formal process, typically initiated by filing a written objection, to challenge the administrative actions or rulings (dispositions) made by the Deposit Registrar under the Deposit Act.",
+    "japaneseDefinition": "供託官による供託に関する処分（受理の拒否など）に対して、供託法の定めに基づき、上級官庁に対して不服を申し立てる正式な手続き。",
+    "japaneseWordTranslation": "供託処分に対する行政不服審査 (きょうたくしょぶん に たいする ぎょうせいふふくしんさ)",
+    "legalContext": "Deposit Act Art. 8, Para 1: A person who is dissatisfied with a disposition made by the Registrar concerning a deposit may file a written objection with the chief of the supervising Legal Affairs Bureau or District Legal Affairs Bureau.",
+    "japaneseLegalContext": "供託法第8条第1項：「供託官ノ為シタル処分ニ不服アル者ハ書面ヲ以テ監督法務局又ハ地方法務局ノ長ニ異議ヲ申立ツルコトヲ得。」",
+    "exampleSentence": "The applicant initiated an **Administrative Review of Deposit Disposition** following the Registrar’s determination that the submitted fungible property was improperly valued.",
+    "exampleTranslation": "供託官が、提出された代替可能物の評価が不適切であると判断した後、申請者は**供託処分に対する行政不服審査**を開始した。",
+    "vocabularyList": [
+      {
+        "word": "Disposition",
+        "translation": "処分 (しょぶん)"
+      },
+      {
+        "word": "Registrar",
+        "translation": "供託官 (きょうたくかん)"
+      },
+      {
+        "word": "Written objection",
+        "translation": "異議申立て (いぎもうしたて)"
+      },
+      {
+        "word": "Supervising bureau",
+        "translation": "監督法務局 (かんとくほうむきょく)"
+      },
+      {
+        "word": "Fungible property",
+        "translation": "代替可能物 (だいたいかのうぶつ)"
+      },
+      {
+        "word": "Improperly valued",
+        "translation": "不適切に評価された (ふてきせつにひょうかされた)"
+      }
+    ]
   }
 ]

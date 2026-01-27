@@ -11500,5 +11500,81 @@
         "translation": "命令を発する (meirei o hassuru)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Injunction concerning the object of litigation",
+    "definition": "A type of provisional disposition measure aimed at provisionally securing the subject matter of the dispute until the main action is concluded, often by prohibiting its disposition, transfer, or alteration.",
+    "japaneseDefinition": "裁判で争われている物（土地、建物など）について、本案の判決確定までの間、その現状を維持するために、譲渡や処分などの行為を暫定的に禁止する措置。",
+    "japaneseWordTranslation": "けいそうぶつにかんするかりしょぶん (Keisōbutsu ni kansuru kari-shobun)",
+    "legalContext": "Civil Preservation Act, Art. 23(2) (concerning provisional disposition): 'A provisional disposition concerning the subject matter of the dispute is an order that establishes a provisional status concerning the relationship of the parties with regard to the subject matter of the dispute.'",
+    "japaneseLegalContext": "民事保全法第23条第2項: 「係争物に関する仮処分は、争いがある権利関係について、当事者の現状を定める措置を命ずるものとする。」",
+    "exampleSentence": "The court granted an injunction concerning the object of litigation to prevent the defendant from developing the disputed land while the substantive action was ongoing.",
+    "exampleTranslation": "裁判所は、本案訴訟が係属している間、被告が係争中の土地を開発することを防ぐための係争物に関する仮処分を認めた。",
+    "vocabularyList": [
+      {
+        "word": "Preservation measures",
+        "translation": "保全措置"
+      },
+      {
+        "word": "Substantive action",
+        "translation": "本案の訴え"
+      },
+      {
+        "word": "Disposition",
+        "translation": "処分"
+      },
+      {
+        "word": "Real property",
+        "translation": "不動産"
+      },
+      {
+        "word": "Temporary restriction",
+        "translation": "一時的な制限"
+      },
+      {
+        "word": "Subject matter of the dispute",
+        "translation": "係争物"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Securing a non-pecuniary claim",
+    "definition": "The use of provisional disposition procedures to provide temporary protection when the underlying claim is not a monetary obligation, such as a claim for property delivery, cessation of interference, or the establishment of a status.",
+    "japaneseDefinition": "金銭の支払いを目的としない請求権（例えば、不動産の引渡し請求や、妨害の停止請求など）について、将来の執行を可能にするために暫定的な措置を講じること。",
+    "japaneseWordTranslation": "ひきんせんさいけんのほぜん (Hikinzen saiken no hozen)",
+    "legalContext": "Civil Preservation Act, Art. 23(1): 'A provisional disposition is granted in cases where it is necessary to secure the enforceability of the judgment on the merits concerning a claim other than a monetary claim.'",
+    "japaneseLegalContext": "民事保全法第23条第1項: 「仮処分は、金銭の請求を目的としない請求権について、その権利の実行を保全する必要がある場合に発令する。」",
+    "exampleSentence": "Securing a non-pecuniary claim often requires the court to issue a temporary measure mandating or prohibiting a specific action by the preservation debtor.",
+    "exampleTranslation": "非金銭債権の保全には、通常、保全債務者に対し特定の行為を命じたり禁止したりする暫定的な措置を裁判所が発令することが必要となる。",
+    "vocabularyList": [
+      {
+        "word": "Provisional disposition order",
+        "translation": "仮処分命令"
+      },
+      {
+        "word": "Transfer of ownership",
+        "translation": "所有権移転"
+      },
+      {
+        "word": "Cessation of infringement",
+        "translation": "妨害の停止"
+      },
+      {
+        "word": "Specific property",
+        "translation": "特定物"
+      },
+      {
+        "word": "Underlying claim",
+        "translation": "被保全債権"
+      },
+      {
+        "word": "Prohibitory order",
+        "translation": "禁止命令"
+      }
+    ]
   }
 ]

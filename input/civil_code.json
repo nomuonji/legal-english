@@ -17026,5 +17026,123 @@
         "translation": "債務を負担する"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right of Prior Notice (Defense of Demand)",
+    "definition": "A defense available to a non-joint surety, allowing them to refuse the obligee's demand for performance until the obligee first demands performance from the principal obligor.",
+    "japaneseDefinition": "連帯の定めがない保証人が、債権者から履行の請求を受けた場合に、まず主たる債務者に請求するように求めることができる権利。",
+    "japaneseWordTranslation": "催告の抗弁権 (Saikoku no Kōbenken)",
+    "legalContext": "Civil Code Art. 452 (Right of Defense of Prior Notice and Investigation)",
+    "japaneseLegalContext": "民法第452条（催告の抗弁）",
+    "exampleSentence": "The surety invoked the Right of Prior Notice, requesting the creditor to pursue payment from the principal obligor first.",
+    "exampleTranslation": "保証人は、まず主たる債務者に支払いを求めるよう債権者に要求し、催告の抗弁権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "surety",
+        "translation": "保証人"
+      },
+      {
+        "word": "principal obligor",
+        "translation": "主たる債務者"
+      },
+      {
+        "word": "performance",
+        "translation": "履行"
+      },
+      {
+        "word": "non-joint surety",
+        "translation": "連帯保証人でない保証人"
+      },
+      {
+        "word": "invoke (a right)",
+        "translation": "行使する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right of Pursuit (Real Right Effect)",
+    "definition": "A fundamental characteristic of a real right (proprietary right) whereby the right holder can assert their control over the subject matter, irrespective of who holds subsequent possession or title.",
+    "japaneseDefinition": "物権が有する効力の一つで、その客体たる物が第三者に移転した場合でも、物権者がその物に対する権利を主張し、回復できる効力。",
+    "japaneseWordTranslation": "追及権 (Tsui kyūken)",
+    "legalContext": "Principle inherent to the concept of Real Rights (物権), contrasted with obligational rights.",
+    "japaneseLegalContext": "物権の基本的な効力（対世効）",
+    "exampleSentence": "Due to the Right of Pursuit inherent in the hypothec, the secured creditor could exercise their security interest against the new owner of the real property.",
+    "exampleTranslation": "抵当権に固有の追及権により、担保権者は、不動産の新たな所有者に対しても担保権を行使することができた。",
+    "vocabularyList": [
+      {
+        "word": "real right",
+        "translation": "物権"
+      },
+      {
+        "word": "subject matter",
+        "translation": "客体"
+      },
+      {
+        "word": "assert",
+        "translation": "主張する"
+      },
+      {
+        "word": "hypothec",
+        "translation": "抵当権"
+      },
+      {
+        "word": "secured creditor",
+        "translation": "担保債権者"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right of Recourse for Advance Performance",
+    "definition": "The right of a surety to demand reimbursement from the principal obligor *before* performing the guaranteed obligation, exercisable only under specific circumstances defined by law (e.g., maturity of the principal debt or insolvency of the obligor).",
+    "japaneseDefinition": "保証人が主たる債務者のために弁済する前に、主たる債務者に対して償還を求めることができる権利。法定の一定条件の下でのみ発生する。",
+    "japaneseWordTranslation": "事前求償権 (Jizen Kyūshōken)",
+    "legalContext": "Civil Code Art. 459 (Right of Recourse Prior to Performance).",
+    "japaneseLegalContext": "民法第459条（受託保証人の事前求償権）",
+    "exampleSentence": "The surety exercised the Right of Recourse for Advance Performance after the principal obligation matured and the principal obligor declared bankruptcy.",
+    "exampleTranslation": "主たる債務が履行期を迎え、かつ主たる債務者が破産宣告を受けたため、保証人は事前求償権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "surety",
+        "translation": "保証人"
+      },
+      {
+        "word": "principal obligor",
+        "translation": "主たる債務者"
+      },
+      {
+        "word": "reimbursement",
+        "translation": "償還"
+      },
+      {
+        "word": "matured",
+        "translation": "履行期を迎えた"
+      },
+      {
+        "word": "guaranteed obligation",
+        "translation": "保証債務"
+      },
+      {
+        "word": "declared bankruptcy",
+        "translation": "破産宣告を受けた"
+      },
+      {
+        "word": "perform (an obligation)",
+        "translation": "弁済する"
+      }
+    ]
   }
 ]

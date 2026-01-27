@@ -2,48 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Action for Retrial",
-    "definition": "An extraordinary remedy challenging a final and conclusive judgment on narrowly defined statutory grounds, such as evidence fabrication or gross error in fact-finding.",
-    "japaneseDefinition": "確定した終局判決に対し、証拠の偽造や重大な事実誤認など、法律で定められた限定的な事由に基づいてその取消しを求める訴訟。",
-    "japaneseWordTranslation": "再審の訴え (さいしんのうったえ)",
-    "legalContext": "Code of Civil Procedure Art. 338: Grounds for Retrial (再審の事由). These grounds include perjury and judicial corruption.",
-    "japaneseLegalContext": "民事訴訟法第338条: 再審の事由。これには、偽証や裁判官の職務に関する罪などが含まれる。",
-    "exampleSentence": "The losing party initiated an action for retrial after it was proven that the primary evidence used against them had been fabricated by the key witness.",
-    "exampleTranslation": "敗訴した当事者は、自身に不利な主要な証拠が重要証人によって偽造されていたことが証明された後、再審の訴えを起こした。",
-    "vocabularyList": [
-      {
-        "word": "extraordinary remedy",
-        "translation": "非常手段 (ひじょうしゅだん)"
-      },
-      {
-        "word": "conclusive judgment",
-        "translation": "終局判決 (しゅうきょくはんけつ)"
-      },
-      {
-        "word": "statutory grounds",
-        "translation": "法律上の事由 (ほうりつじょうのじゆう)"
-      },
-      {
-        "word": "evidence fabrication",
-        "translation": "証拠の偽造 (しょうこのぎぞう)"
-      },
-      {
-        "word": "perjury",
-        "translation": "偽証 (ぎしょう)"
-      },
-      {
-        "word": "losing party",
-        "translation": "敗訴した当事者 (はいそしたとうじしゃ)"
-      },
-      {
-        "word": "key witness",
-        "translation": "重要証人 (じゅうようしょうにん)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Prayer for Relief",
     "definition": "The specific formal demand or request made by the claimant in their complaint, setting forth exactly what judgment or remedy they seek from the court (e.g., payment of a specific sum, specific performance, or declaratory recognition of a status).",
     "japaneseDefinition": "原告が訴状において、裁判所に対してどのような内容の判決を求めているかを具体的に示す部分。請求の趣旨とも呼ばれる。",
@@ -15298,6 +15256,120 @@
       {
         "word": "structural elements",
         "translation": "構造部材 (Kōzō Buzai)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Separate Adjudication of Arguments",
+    "definition": "The court's discretionary power, granted to the presiding judge, to order that arguments or trial proceedings relating to one or more claims or defenses, although joined in a single action, be conducted and decided separately for reasons of efficiency or complexity.",
+    "japaneseDefinition": "同一の訴訟手続内に併合されている複数の請求や防御方法について、審理の効率化のため、裁判所が個別に弁論およびその終結を命じること。",
+    "japaneseWordTranslation": "弁論の分離 (benron no bunri)",
+    "legalContext": "Code of Civil Procedure Art. 153 (Separation and Consolidation of Arguments): The presiding judge may order the separation or consolidation of arguments.",
+    "japaneseLegalContext": "民事訴訟法第153条（弁論の分離及び併合）: 裁判長は、口頭弁論の分離又は併合を命ずることができる。",
+    "exampleSentence": "The court ordered the separate adjudication of arguments concerning the contractual claim and the subsequent tort claim to prevent undue delay in the primary case.",
+    "exampleTranslation": "裁判所は、主要な訴訟の不当な遅延を防ぐため、契約上の請求とそれに続く不法行為上の請求に関する弁論の分離を命じた。",
+    "vocabularyList": [
+      {
+        "word": "Discretionary power",
+        "translation": "裁量権"
+      },
+      {
+        "word": "Contractual claim",
+        "translation": "契約上の請求"
+      },
+      {
+        "word": "Tort claim",
+        "translation": "不法行為上の請求"
+      },
+      {
+        "word": "Joined claims",
+        "translation": "併合された請求"
+      },
+      {
+        "word": "Presiding judge",
+        "translation": "裁判長"
+      },
+      {
+        "word": "Undue delay",
+        "translation": "不当な遅延"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Conduct of Proceedings",
+    "definition": "The authority of the presiding judge to direct and manage the flow, scheduling, and structure of the trial and its related preparatory procedures to ensure the timely and fair resolution of the dispute.",
+    "japaneseDefinition": "裁判長が、公正かつ迅速な紛争解決を実現するために、口頭弁論期日や準備手続の進行、順序、日程などを決定し、訴訟全体を管理する権限。",
+    "japaneseWordTranslation": "訴訟指揮 (soshō shiki)",
+    "legalContext": "Code of Civil Procedure Art. 148: The presiding judge shall conduct the proceedings appropriately and swiftly.",
+    "japaneseLegalContext": "民事訴訟法第148条: 裁判長は、訴訟手続を指揮し、適正かつ迅速な審理の実現に努めなければならない。",
+    "exampleSentence": "Effective conduct of proceedings by the judge is essential for concentrating the contested issues and evidence in a complex commercial litigation.",
+    "exampleTranslation": "複雑な商事訴訟において、争点の整理と証拠の集中を図るためには、裁判官による適切な訴訟指揮が不可欠である。",
+    "vocabularyList": [
+      {
+        "word": "Authority",
+        "translation": "権限"
+      },
+      {
+        "word": "Direct and manage",
+        "translation": "指揮する"
+      },
+      {
+        "word": "Timely resolution",
+        "translation": "迅速な解決"
+      },
+      {
+        "word": "Contested issues",
+        "translation": "争点"
+      },
+      {
+        "word": "Commercial litigation",
+        "translation": "商事訴訟"
+      },
+      {
+        "word": "Procedural management",
+        "translation": "手続管理"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Handover Service",
+    "definition": "The most common method of service of process, where the court clerk or execution officer delivers the legal documents by hand directly to the recipient at their residence, office, or place of business.",
+    "japaneseDefinition": "裁判所書記官または執行官が、送達を受けるべき者に対し、送達すべき書類をその住所、居所または営業所等において現実に交付する方法による送達。",
+    "japaneseWordTranslation": "交付送達 (kōfu sōtatsu)",
+    "legalContext": "Code of Civil Procedure Art. 101: Service shall be effected by handing the document to the person who is to receive the service.",
+    "japaneseLegalContext": "民事訴訟法第101条: 送達は、送達を受けるべき者に書類を交付してするものとする。",
+    "exampleSentence": "If handover service is successfully completed at the defendant’s registered address, the suit is deemed properly instituted and procedural deadlines commence.",
+    "exampleTranslation": "被告の登録住所において交付送達が適切に完了した場合、訴訟は正式に提起されたとみなされ、手続上の期限が開始される。",
+    "vocabularyList": [
+      {
+        "word": "Service of process",
+        "translation": "訴訟書類の送達"
+      },
+      {
+        "word": "Execution officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "Court clerk",
+        "translation": "裁判所書記官"
+      },
+      {
+        "word": "Recipient",
+        "translation": "受送達者"
+      },
+      {
+        "word": "Registered address",
+        "translation": "登録住所"
+      },
+      {
+        "word": "Procedural deadlines",
+        "translation": "手続上の期限"
       }
     ]
   }

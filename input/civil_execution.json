@@ -13760,5 +13760,107 @@
         "translation": "強制執行に服する (きょうせいしっこうにふくする)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Denial of Claim Validity",
+    "definition": "A lawsuit filed by the obligor (judgment debtor) seeking the extinguishment or modification of the executory force of the Title of Execution (債務名義) based on facts that occurred after the title was issued.",
+    "japaneseDefinition": "債務者（執行をされる者）が、債務名義が成立した後に生じた事由に基づき、その執行力を排除または変更するために提起する訴訟。",
+    "japaneseWordTranslation": "請求異議の訴え (Seikyū Igi no Uttae)",
+    "legalContext": "Civil Execution Act Art. 35, Para. 1: When a claim underlying the title of execution has been extinguished or grounds for preventing its enforcement have occurred after the issuance of the title...",
+    "japaneseLegalContext": "民事執行法第35条第1項: 債務名義に表示された請求権について、その成立後に生じた異議の事由があるときは、債務者は、執行裁判所に対し、執行を排除すべきことを求めて訴えを提起することができる。",
+    "exampleSentence": "The defendant filed an Action for Denial of Claim Validity, arguing that the underlying debt had been fully settled by subsequent performance.",
+    "exampleTranslation": "被告は、根拠となる債務がその後の履行によって完全に弁済されたと主張し、請求異議の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "judgment debtor",
+        "translation": "執行される者"
+      },
+      {
+        "word": "executory force",
+        "translation": "執行力"
+      },
+      {
+        "word": "Title of Execution",
+        "translation": "債務名義"
+      },
+      {
+        "word": "subsequent performance",
+        "translation": "その後の履行"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order Mandating Submission of Property Inventory",
+    "definition": "A judicial order issued within the property disclosure procedure (財産開示手続), compelling the obligor to appear before the court on a designated date and submit a detailed written inventory of all their assets.",
+    "japaneseDefinition": "財産開示手続において、債務者に対し、指定された期日に出頭し、その財産に関する詳細な書面（財産目録）を提出することを命じる裁判所の決定。",
+    "japaneseWordTranslation": "財産目録の提出命令 (Zaisan Mokuroku no Teishutsu Meirei)",
+    "legalContext": "Civil Execution Act Art. 197, Para. 1: The execution court may, upon motion by the execution obligee, issue an Order Mandating Submission of Property Inventory to the obligor.",
+    "japaneseLegalContext": "民事執行法第197条第1項: 執行裁判所は、執行債権者の申立てにより、債務者に対し、財産目録の提出を命ずる決定をすることができる。",
+    "exampleSentence": "Due to the failure of prior garnishment attempts, the obligee moved the court for an Order Mandating Submission of Property Inventory.",
+    "exampleTranslation": "事前の差押えの試みが失敗したため、債権者は、裁判所に対し財産目録の提出命令を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "garnishment attempts",
+        "translation": "差押えの試み"
+      },
+      {
+        "word": "property disclosure procedure",
+        "translation": "財産開示手続"
+      },
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Appraiser",
+    "definition": "An expert appointed by the execution court to assess the monetary value of property (especially real estate or vessels) subject to compulsory execution, which forms the basis for setting the standard sale price.",
+    "japaneseDefinition": "執行裁判所が選任する専門家であり、強制執行の対象となる財産（特に不動産や船舶）の金銭的価値を評価し、基準となる売却価格を設定するための基礎を提供する。",
+    "japaneseWordTranslation": "評価人 (Hyōkanin)",
+    "legalContext": "Civil Execution Act Art. 68: In the case of execution against real property, the execution court shall appoint a judicial appraiser and have the appraised value reported.",
+    "japaneseLegalContext": "民事執行法第68条: 不動産に対する執行においては、執行裁判所は、評価人を命じて、その不動産の価額を評価させ、その評価額を裁判所に届け出させなければならない。",
+    "exampleSentence": "The Judicial Appraiser's valuation determined that the apartment building's standard sale price should be set at ¥50 million.",
+    "exampleTranslation": "評価人の鑑定により、その集合住宅の基準売却価額は5,000万円に設定されることになった。",
+    "vocabularyList": [
+      {
+        "word": "appointed",
+        "translation": "選任された"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      },
+      {
+        "word": "appraised value",
+        "translation": "評価額"
+      },
+      {
+        "word": "standard sale price",
+        "translation": "基準売却価格"
+      }
+    ]
   }
 ]

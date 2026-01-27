@@ -12686,5 +12686,119 @@
         "translation": "振替口座簿システム"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Indemnification Cap",
+    "definition": "A statutory ceiling placed on the liability of certain company officers (such as external directors or auditors) to the company for damages resulting from negligence, established through a liability limitation agreement authorized by the Articles of Incorporation.",
+    "japaneseDefinition": "外部役員等の会社に対する損害賠償責任について、定款の定めに従い、その責任の限度額を限定する制度。",
+    "japaneseWordTranslation": "役員等の責任の限度額 (Yakuin tō no sekinin no gendo-gaku)",
+    "legalContext": "Companies Act, Art. 427 (Limitation of Liability Agreement with External Directors, etc.)",
+    "japaneseLegalContext": "会社法第427条（社外取締役等との責任限定契約）",
+    "exampleSentence": "The company's Articles of Incorporation stipulated an indemnification cap for non-executive directors set at twice their annual remuneration.",
+    "exampleTranslation": "その会社の定款は、非業務執行取締役に対する責任の限度額を、年間の報酬額の2倍と規定した。",
+    "vocabularyList": [
+      {
+        "word": "stipulated",
+        "translation": "規定した"
+      },
+      {
+        "word": "non-executive director",
+        "translation": "非業務執行取締役"
+      },
+      {
+        "word": "Articles of Incorporation",
+        "translation": "定款"
+      },
+      {
+        "word": "liability",
+        "translation": "責任"
+      },
+      {
+        "word": "annual remuneration",
+        "translation": "年間報酬額"
+      },
+      {
+        "word": "damages",
+        "translation": "損害賠償"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-Cash Consideration Appraisal",
+    "definition": "The legal requirement for mandatory inspection and valuation of assets contributed to a stock company in lieu of cash (contribution in kind), typically performed by a court-appointed inspector to ensure accuracy.",
+    "japaneseDefinition": "株式会社の設立または新株発行の際、金銭以外の財産を資本の拠出（現物出資）として充てる場合に、その価額の妥当性を評価・調査すること。",
+    "japaneseWordTranslation": "現物出資の価額査定 (Genbutsu shusshi no kagaku satei)",
+    "legalContext": "Companies Act, Art. 207 (Investigation of Value of Property Contributed)",
+    "japaneseLegalContext": "会社法第207条（出資された財産等の価額の調査）",
+    "exampleSentence": "The auditor requested a third-party non-cash consideration appraisal to verify the declared value of the intellectual property contributed during the corporate establishment.",
+    "exampleTranslation": "監査役は、会社設立時に出資された知的財産の申告価値を確認するため、第三者による現物出資の価額査定を要請した。",
+    "vocabularyList": [
+      {
+        "word": "contribution in kind",
+        "translation": "現物出資"
+      },
+      {
+        "word": "auditor",
+        "translation": "監査役"
+      },
+      {
+        "word": "intellectual property",
+        "translation": "知的財産"
+      },
+      {
+        "word": "corporate establishment",
+        "translation": "会社設立"
+      },
+      {
+        "word": "declared value",
+        "translation": "申告価値"
+      },
+      {
+        "word": "valuation",
+        "translation": "価額評価"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cumulative Voting",
+    "definition": "A shareholder voting mechanism, applicable to the election of directors unless excluded by the Articles of Incorporation, where a shareholder casts votes equal to their shareholding multiplied by the number of directors to be elected, often promoting minority representation.",
+    "japaneseDefinition": "取締役の選任議案に関して、株主が持つ議決権を、選任すべき取締役の人数で乗じた票数を各候補者に自由に集中投下できる投票方式。少数株主の意見反映を目的とする。",
+    "japaneseWordTranslation": "累積投票 (Ruiseki tōhyō)",
+    "legalContext": "Companies Act, Art. 342 (Cumulative Voting)",
+    "japaneseLegalContext": "会社法第342条（累積投票）",
+    "exampleSentence": "Upon the request of a 10% shareholder, the company must adopt cumulative voting for the election of all directors at the annual general meeting.",
+    "exampleTranslation": "10%の株式を保有する株主の請求に基づき、会社は年次株主総会における全取締役の選任に際して累積投票を採用しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "shareholder voting mechanism",
+        "translation": "株主投票制度"
+      },
+      {
+        "word": "election of directors",
+        "translation": "取締役の選任"
+      },
+      {
+        "word": "Articles of Incorporation",
+        "translation": "定款"
+      },
+      {
+        "word": "annual general meeting",
+        "translation": "年次株主総会"
+      },
+      {
+        "word": "minority representation",
+        "translation": "少数株主の意見反映"
+      },
+      {
+        "word": "adopt",
+        "translation": "採用する"
+      }
+    ]
   }
 ]

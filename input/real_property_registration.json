@@ -11889,5 +11889,81 @@
         "translation": "所有権"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Proprietary Record Section A",
+    "definition": "The section of the Real Property Register dedicated exclusively to matters concerning the creation, change, transfer, or extinguishment of ownership rights (excluding matters recorded in Section B).",
+    "japaneseDefinition": "不動産登記簿の権利部において、所有権の保存、移転、変更、又は消滅に関する事項を記録する箇所（乙区に記録されるものを除く）。",
+    "japaneseWordTranslation": "甲区 (こうく)",
+    "legalContext": "Real Property Registration Act, Article 25 (Structure of the Register): The rights record shall be divided into the Proprietary Record Section A (concerning ownership) and the Proprietary Record Section B (concerning rights other than ownership).",
+    "japaneseLegalContext": "不動産登記法第25条（登記記録の構成）：権利部に、甲区（所有権に関する登記の登記事項を記録する部分）及び乙区（所有権以外の権利に関する登記の登記事項を記録する部分）を設ける。",
+    "exampleSentence": "The new owner’s title must be entered in the Proprietary Record Section A of the register for the transfer to become legally effective against third parties.",
+    "exampleTranslation": "新たな所有者の権利は、当該譲渡を第三者に対して法的に有効とするために、登記簿の甲区に記入されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "creation",
+        "translation": "設定"
+      },
+      {
+        "word": "extinguishment",
+        "translation": "消滅"
+      },
+      {
+        "word": "title",
+        "translation": "権原（けんげん）"
+      },
+      {
+        "word": "enter",
+        "translation": "記入する"
+      },
+      {
+        "word": "ownership rights",
+        "translation": "所有権"
+      },
+      {
+        "word": "legally effective",
+        "translation": "法的に有効な"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sectional Ownership Register",
+    "definition": "The comprehensive register established for sectional ownership buildings (e.g., condominiums), which includes records for the building's entirety, the individual units, and the corresponding site use rights.",
+    "japaneseDefinition": "区分所有建物（マンション等）のために作成される登記簿であり、建物の全体、専有部分、及びこれに対応する敷地利用権に関する記録を含む。",
+    "japaneseWordTranslation": "区分建物登記 (くぶんたてものとうき)",
+    "legalContext": "Real Property Registration Act, Article 77 (Registration of Sectional Ownership Buildings): Sectional ownership buildings shall be registered on one registration record per building.",
+    "japaneseLegalContext": "不動産登記法第77条（区分建物）：区分建物については、一棟の建物ごとに一の登記記録を設ける。",
+    "exampleSentence": "The registration application for a new high-rise residential building required the creation of over two hundred entries in the Sectional Ownership Register.",
+    "exampleTranslation": "新しい高層住宅の登記申請には、区分建物登記に200件以上の記録を作成する必要があった。",
+    "vocabularyList": [
+      {
+        "word": "sectional ownership building",
+        "translation": "区分所有建物"
+      },
+      {
+        "word": "comprehensive register",
+        "translation": "包括的な登記簿"
+      },
+      {
+        "word": "building's entirety",
+        "translation": "建物の全体"
+      },
+      {
+        "word": "individual units",
+        "translation": "個々の専有部分"
+      },
+      {
+        "word": "site use rights",
+        "translation": "敷地利用権"
+      },
+      {
+        "word": "registration application",
+        "translation": "登記申請"
+      }
+    ]
   }
 ]

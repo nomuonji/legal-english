@@ -1,42 +1,38 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Commercial Registration (商業登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Elements Constituting a Crime",
-  "definition": "The specific set of objective and subjective elements defined by law that must be proven to establish the legality, culpability, and punishability of an action as a particular crime.",
-  "japaneseDefinition": "犯罪が成立するための、刑罰法規に規定された客観的及び主観的な要件の総体。特に、刑罰法規の文言に具体的に該当する事実。",
-  "japaneseWordTranslation": "構成要件 (kōsei yōken)",
-  "legalContext": "General Principle based on the Principle of Legality (Nulla poena sine lege), fundamental to the interpretation of the Criminal Code.",
-  "japaneseLegalContext": "罪刑法定主義に基づく一般原則（刑法の解釈の基礎）。",
-  "exampleSentence": "For a conviction of fraud, the prosecution must prove beyond a reasonable doubt that all the elements constituting the crime, including the deceptive act and the resulting pecuniary harm, were present.",
-  "exampleTranslation": "詐欺罪で有罪判決を得るためには、検察官は、欺罔行為や結果としての財産上の損害など、構成要件の全てが満たされていることを合理的な疑いを超えて立証しなければならない。",
+  "word": "Principal Office",
+  "definition": "The official location of the company's main operations and administration, which is a fundamental matter required to be recorded in the commercial register pursuant to the Company Act.",
+  "japaneseDefinition": "会社運営の主たる場所として、定款に定められ、会社法に基づき商業登記簿に記載することが義務付けられている場所。",
+  "japaneseWordTranslation": "本店 (Honten)",
+  "legalContext": "Company Act, Art. 911 (3): The location of the principal office shall be registered.",
+  "japaneseLegalContext": "会社法第911条第3項: 会社の登記には、本店の所在地を登記しなければならない。",
+  "exampleSentence": "Any change to the location of the Principal Office necessitates a registration amendment within two weeks of the change.",
+  "exampleTranslation": "本店の所在地にいかなる変更があった場合も、その変更から二週間以内に登記の変更を要する。",
   "vocabularyList": [
     {
-      "word": "objective elements",
-      "translation": "客観的構成要件"
+      "word": "location",
+      "translation": "所在地 (shozaichi)"
     },
     {
-      "word": "subjective elements",
-      "translation": "主観的構成要件"
+      "word": "operations",
+      "translation": "運営 (un'ei)"
     },
     {
-      "word": "prosecution",
-      "translation": "検察官、訴追側"
+      "word": "administration",
+      "translation": "管理 (kanri)"
     },
     {
-      "word": "pecuniary harm",
-      "translation": "財産上の損害"
+      "word": "fundamental matter",
+      "translation": "基本的事項 (kihonteki jikō)"
     },
     {
-      "word": "culpability",
-      "translation": "有責性"
+      "word": "necessitates",
+      "translation": "必要とする (hitsuyō to suru)"
     },
     {
-      "word": "deceptive act",
-      "translation": "欺罔行為（ぎもうこうい）"
-    },
-    {
-      "word": "beyond a reasonable doubt",
-      "translation": "合理的な疑いを超えて"
+      "word": "registration amendment",
+      "translation": "登記の変更 (tōki no henkō)"
     }
   ]
 }

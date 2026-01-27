@@ -2,44 +2,6 @@
   {
     "category": "Commercial Registration (商業登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Principal Office",
-    "definition": "The official location of the company's main operations and administration, which is a fundamental matter required to be recorded in the commercial register pursuant to the Company Act.",
-    "japaneseDefinition": "会社運営の主たる場所として、定款に定められ、会社法に基づき商業登記簿に記載することが義務付けられている場所。",
-    "japaneseWordTranslation": "本店 (Honten)",
-    "legalContext": "Company Act, Art. 911 (3): The location of the principal office shall be registered.",
-    "japaneseLegalContext": "会社法第911条第3項: 会社の登記には、本店の所在地を登記しなければならない。",
-    "exampleSentence": "Any change to the location of the Principal Office necessitates a registration amendment within two weeks of the change.",
-    "exampleTranslation": "本店の所在地にいかなる変更があった場合も、その変更から二週間以内に登記の変更を要する。",
-    "vocabularyList": [
-      {
-        "word": "location",
-        "translation": "所在地 (shozaichi)"
-      },
-      {
-        "word": "operations",
-        "translation": "運営 (un'ei)"
-      },
-      {
-        "word": "administration",
-        "translation": "管理 (kanri)"
-      },
-      {
-        "word": "fundamental matter",
-        "translation": "基本的事項 (kihonteki jikō)"
-      },
-      {
-        "word": "necessitates",
-        "translation": "必要とする (hitsuyō to suru)"
-      },
-      {
-        "word": "registration amendment",
-        "translation": "登記の変更 (tōki no henkō)"
-      }
-    ]
-  },
-  {
-    "category": "Commercial Registration (商業登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Registration of a Foreign Company's Office",
     "definition": "The compulsory registration procedure under the Commercial Registration Law that a foreign company must undertake upon establishing a continuous business base (office) in Japan, listing specific items such as the representative in Japan and the governing law.",
     "japaneseDefinition": "外国会社が日本国内に継続的な営業拠点（営業所）を設けた際に、日本の代表者や準拠法など特定の事項を登録することが商業登記法上義務付けられている手続。",
@@ -12102,6 +12064,82 @@
       {
         "word": "actual knowledge",
         "translation": "現実の認識 (げんじつのにんしき)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Filing Fee Payment Instrument",
+    "definition": "The specific document, typically a revenue stamp (印紙) or a confirmation of electronic payment, that must be affixed to or accompany the commercial registration application to demonstrate the payment of the Registration and License Tax.",
+    "japaneseDefinition": "登録免許税の納付を確認するために、商業登記の申請書に添付または貼付される、収入印紙等による支払証明書。",
+    "japaneseWordTranslation": "登録免許税の納付書 (とうろくめんきょぜいのうふしょ)",
+    "legalContext": "Commercial Registration Act Art. 17 (Grounds for Rejection) & Registration and License Tax Act: Applications lacking the Filing Fee Payment Instrument, or if the fee is insufficient, must be rejected by the registrar.",
+    "japaneseLegalContext": "商業登記法第17条（却下の事由）及び登録免許税法: 登録免許税の納付書が添付されていない場合、または納付額が不足している場合、登記官は申請を却下しなければならない。",
+    "exampleSentence": "When applying for a capital increase registration, the application must be accompanied by the Filing Fee Payment Instrument corresponding to the amount of the capital change.",
+    "exampleTranslation": "増資の登記を申請する際、申請書には資本変更額に応じた登録免許税の納付書が添えられなければならない。",
+    "vocabularyList": [
+      {
+        "word": "revenue stamp",
+        "translation": "収入印紙 (shūnyū inshi)"
+      },
+      {
+        "word": "Registration and License Tax",
+        "translation": "登録免許税 (tōroku menkyozei)"
+      },
+      {
+        "word": "application",
+        "translation": "申請 (shinsei)"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官 (tōkikan)"
+      },
+      {
+        "word": "capital increase",
+        "translation": "増資 (zōshi)"
+      },
+      {
+        "word": "to be accompanied by",
+        "translation": "添えられる (soerareru)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deemed Withdrawal of Registration Application",
+    "definition": "A legal fiction stipulating that if an applicant fails to comply with a registrar’s remedial order (an instruction to correct defects in the application) within a specified period, the application is automatically treated as if it were withdrawn by the applicant.",
+    "japaneseDefinition": "申請書の欠陥を補正するための登記官の命令に対し、申請人が指定期間内に応じなかった場合、その登記申請が申請人によって取り下げられたものと法的にみなされること。",
+    "japaneseWordTranslation": "登記申請の取下げ擬制 (とうきしんせいのとりさげぎせい)",
+    "legalContext": "Commercial Registration Act Art. 24: If an applicant fails to follow an order for the correction of defects (under Art. 23) by the deadline, the registrar shall deem the application withdrawn.",
+    "japaneseLegalContext": "商業登記法第24条: 登記官が第23条の規定により補正を命じた場合において、申請人が指定された期間内に補正をしないときは、登記官は、申請を取り下げたものとみなすことができる。",
+    "exampleSentence": "Due to the applicant’s failure to submit the written consent of the audit and supervisory board within the mandated period, the application was subject to Deemed Withdrawal of Registration Application.",
+    "exampleTranslation": "申請人が指定期間内に監査役会の同意書を提出しなかったため、その申請は登記申請の取下げ擬制の対象となった。",
+    "vocabularyList": [
+      {
+        "word": "legal fiction",
+        "translation": "擬制 (gisei)"
+      },
+      {
+        "word": "remedial order",
+        "translation": "補正命令 (hosei meirei)"
+      },
+      {
+        "word": "defect",
+        "translation": "欠陥 (kekkan)"
+      },
+      {
+        "word": "specified period",
+        "translation": "指定期間 (shitei kikan)"
+      },
+      {
+        "word": "to be treated as / deemed",
+        "translation": "みなされる (minasareru)"
+      },
+      {
+        "word": "consent",
+        "translation": "同意書 (dōi sho)"
       }
     ]
   }

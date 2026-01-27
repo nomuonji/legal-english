@@ -11813,5 +11813,119 @@
         "translation": "付属施設"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Unilateral Application for Property Description Registration",
+    "definition": "The procedure where the registration application concerning the physical status (e.g., area, structure, type) of the real property can be filed solely by the property owner, without requiring a joint application with a counterpart.",
+    "japaneseDefinition": "不動産の物理的現況（地積、構造、種類など）の変更に関する登記申請を、登記権利者と登記義務者の共同申請によらず、不動産の所有者が単独で行える手続き。",
+    "japaneseWordTranslation": "不動産の表示に関する登記の単独申請 (ふどうさんのひょうじにかんするとうきのたんどくしんせい)",
+    "legalContext": "Real Property Registration Act Art. 28: 'The application for the registration concerning the indication of real property shall be filed by the owner of the real property...' (in contrast to rights registration).",
+    "japaneseLegalContext": "不動産登記法第28条:「表示に関する登記の申請は、当該不動産の所有者からしなければならない。」",
+    "exampleSentence": "Since the Unilateral Application for Property Description Registration deals solely with the physical status, the principle of joint application for rights registration does not apply.",
+    "exampleTranslation": "不動産の表示に関する登記の単独申請は、純粋に物理的現況を扱うため、権利の登記における共同申請の原則は適用されない。",
+    "vocabularyList": [
+      {
+        "word": "physical status",
+        "translation": "物理的現況"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      },
+      {
+        "word": "joint application",
+        "translation": "共同申請"
+      },
+      {
+        "word": "rights registration",
+        "translation": "権利の登記"
+      },
+      {
+        "word": "property owner",
+        "translation": "不動産の所有者"
+      },
+      {
+        "word": "principle",
+        "translation": "原則"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registrar's Formal Examination Authority",
+    "definition": "The scope of review exercised by a registrar, limited to verifying that the application and accompanying documents satisfy statutory formal requirements (e.g., completeness, necessary signatures) without investigating the actual substantive truth of the underlying transaction.",
+    "japaneseDefinition": "登記官が行う審査の範囲のことであり、申請書や添付書類が法令上の形式的な要件（記載事項、添付義務など）を満たしているかを確認するにとどまり、申請内容の真実性までは審査しない権限。",
+    "japaneseWordTranslation": "登記官の形式的審査権 (とうきかんのけいしきてきしんさけん)",
+    "legalContext": "Under the Japanese Real Property Registration System, the Registrar's Formal Examination Authority is the standard, meaning applications are dismissed only for formal deficiencies (Real Property Registration Act Art. 25).",
+    "japaneseLegalContext": "日本の不動産登記制度では、登記官の形式的審査権が原則であり、申請は形式的な欠陥がある場合にのみ却下される（不動産登記法第25条）。",
+    "exampleSentence": "The registrar must exercise the Registrar's Formal Examination Authority to ensure that the application is not subject to dismissal grounds, even if the underlying transaction is suspicious.",
+    "exampleTranslation": "登記官は、たとえ基礎となる取引が疑わしい場合でも、申請が却下事由に該当しないことを確認するために、形式的審査権を行使しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "scope of review",
+        "translation": "審査の範囲"
+      },
+      {
+        "word": "statutory requirements",
+        "translation": "法令上の要件"
+      },
+      {
+        "word": "formal deficiencies",
+        "translation": "形式的な欠陥"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
+      },
+      {
+        "word": "underlying transaction",
+        "translation": "基礎となる取引"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Cause Document Submission Requirement",
+    "definition": "The statutory obligation, applicable primarily to registration of rights, requiring the applicant to provide documented evidence that verifies the existence and nature of the legal act or event (e.g., sale, gift, or judicial decision) that necessitates the registration.",
+    "japaneseDefinition": "主に権利の登記において、登記の必要性をもたらした法律行為や事実（売買、贈与、裁判所の決定など）の存在と内容を証明する書面を申請人が提供しなければならないという法令上の義務。",
+    "japaneseWordTranslation": "登記原因証明情報提供義務 (とうきげんいんしょうめいじょうほうていきょうぎむ)",
+    "legalContext": "Real Property Registration Act Art. 61: 'An application for the registration of rights shall be accompanied by documentation certifying the cause of registration.'",
+    "japaneseLegalContext": "不動産登記法第61条:「権利に関する登記の申請は、申請情報と併せて登記原因を証する情報を提供しなければならない。」",
+    "exampleSentence": "The Registration Cause Document Submission Requirement ensures that the registrar has sufficient evidentiary material to record the change in proprietary rights accurately.",
+    "exampleTranslation": "登記原因証明情報提供義務は、登記官が所有権の変更を正確に記録するために十分な証拠資料を持つことを保証する。",
+    "vocabularyList": [
+      {
+        "word": "statutory obligation",
+        "translation": "法令上の義務"
+      },
+      {
+        "word": "legal act",
+        "translation": "法律行為"
+      },
+      {
+        "word": "documented evidence",
+        "translation": "証明する書面"
+      },
+      {
+        "word": "registration of rights",
+        "translation": "権利の登記"
+      },
+      {
+        "word": "evidentiary material",
+        "translation": "証拠資料"
+      },
+      {
+        "word": "proprietary rights",
+        "translation": "所有権"
+      }
+    ]
   }
 ]

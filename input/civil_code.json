@@ -16824,5 +16824,131 @@
         "translation": "相続の熟慮"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Waiver of Priority",
+    "definition": "The legal act by which a secured obligee (such as a mortgagee or hypothecary obligee) voluntarily relinquishes the superior ranking of their security interest relative to another secured obligee's interest in the same collateral, effectively subordinating their claim.",
+    "japaneseDefinition": "同一の不動産上に複数の担保物権が設定されている場合に、ある担保物権者がその順位を他の担保物権者に対して譲渡または放棄する行為を指す。これにより、当該物権者の優先弁済を受ける順位が変動する。",
+    "japaneseWordTranslation": "順位の放棄 (じゅんいのほうき)",
+    "legalContext": "Civil Code Art. 386 (Disposition of Hypothec's Priority): A person who holds a hypothec may surrender the priority of the hypothec to other obligees.",
+    "japaneseLegalContext": "民法第386条（抵当権の順位の譲渡又は放棄）：抵当権者は、その抵当権の順位を他の債権者のために譲渡し、又は放棄することができる。",
+    "exampleSentence": "The first mortgagee executed a Waiver of Priority in favor of the subsequent creditor, allowing the latter to collect first from the sale proceeds of the encumbered real property.",
+    "exampleTranslation": "第一抵当権者は、後順位の債権者のために順位の放棄を実行し、その債権者が担保された不動産の売却代金から先に弁済を受けることを許可した。",
+    "vocabularyList": [
+      {
+        "word": "mortgagee",
+        "translation": "抵当権者"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保物権"
+      },
+      {
+        "word": "collateral",
+        "translation": "担保物"
+      },
+      {
+        "word": "subordination",
+        "translation": "劣後化 / 順位の変更"
+      },
+      {
+        "word": "sale proceeds",
+        "translation": "売却代金"
+      },
+      {
+        "word": "encumbered real property",
+        "translation": "担保の付された不動産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Successive Acquisition",
+    "definition": "A foundational concept in property law where a right is acquired from a predecessor (a previous right holder), meaning the scope and limitations of the newly acquired right are inherited from the former holder.",
+    "japaneseDefinition": "権利が、前の権利主体から引き継がれる形で取得されること。前主の有していた権利の範囲や制限がそのまま新主へ承継される点で、原始取得と対比される。",
+    "japaneseWordTranslation": "承継取得 (しょうけいしゅとく)",
+    "legalContext": "Successive acquisition is broadly classified into 'universal succession' (where all rights and duties are transferred, such as inheritance) and 'special succession' (where only specific rights are transferred, such as sale).",
+    "japaneseLegalContext": "承継取得は、包括承継（相続など、権利義務の全部が移転）と、特定承継（売買など、個別の権利のみが移転）に大別される。",
+    "exampleSentence": "The purchase of a used automobile represents a Successive Acquisition, where the buyer assumes the ownership title previously held by the seller.",
+    "exampleTranslation": "中古車の購入は承継取得に該当し、買主は売主が以前に有していた所有権の権原を引き継ぐ。",
+    "vocabularyList": [
+      {
+        "word": "predecessor",
+        "translation": "前主"
+      },
+      {
+        "word": "right holder",
+        "translation": "権利者"
+      },
+      {
+        "word": "property law",
+        "translation": "物権法"
+      },
+      {
+        "word": "universal succession",
+        "translation": "包括承継"
+      },
+      {
+        "word": "special succession",
+        "translation": "特定承継"
+      },
+      {
+        "word": "ownership title",
+        "translation": "所有権の権原"
+      },
+      {
+        "word": "derived from",
+        "translation": "由来する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Non-Performance",
+    "definition": "The legal responsibility of a debtor (obligor) to pay damages to the creditor (obligee) when the debtor fails to execute the obligation as agreed, whether due to delay, defective performance, or complete impossibility, provided the failure is attributable to the debtor.",
+    "japaneseDefinition": "債務者が、その債務の本旨に従った履行をしない場合に、これによって生じた損害を債権者に賠償する責任。遅延、不完全履行、履行不能を含む、債務者の帰責事由に基づく責任である。",
+    "japaneseWordTranslation": "履行責任 (りこうせきにん)",
+    "legalContext": "Civil Code Art. 415 (Liability for Non-performance): If an obligor fails to perform an obligation in accordance with the tenor and purpose of the obligation, the obligee may demand damages arising therefrom.",
+    "japaneseLegalContext": "民法第415条（債務不履行による損害賠償）：債務者がその債務の本旨に従った履行をしないときは、債権者は、これによって生じた損害の賠償を請求することができる。",
+    "exampleSentence": "The developer incurred Liability for Non-Performance after submitting building plans that did not conform to the agreed-upon specifications, forcing them to pay compensation for the rectification costs.",
+    "exampleTranslation": "開発業者は、合意された仕様に適合しない建築計画を提出したため、履行責任を負い、是正費用に対する賠償金を支払うことを余儀なくされた。",
+    "vocabularyList": [
+      {
+        "word": "debtor (obligor)",
+        "translation": "債務者"
+      },
+      {
+        "word": "creditor (obligee)",
+        "translation": "債権者"
+      },
+      {
+        "word": "attributable",
+        "translation": "帰責事由のある"
+      },
+      {
+        "word": "tenor and purpose",
+        "translation": "本旨（と目的）"
+      },
+      {
+        "word": "defective performance",
+        "translation": "不完全履行"
+      },
+      {
+        "word": "compensation",
+        "translation": "賠償金"
+      },
+      {
+        "word": "rectification costs",
+        "translation": "是正費用"
+      }
+    ]
   }
 ]

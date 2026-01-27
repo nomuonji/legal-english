@@ -11268,5 +11268,119 @@
         "translation": "解雇に異議を申し立てる"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Seizure for Pecuniary Claim",
+    "definition": "An interim measure ordered by a court to secure the future compulsory execution of a claim for a specific amount of money by restricting the disposition of the debtor's assets.",
+    "japaneseDefinition": "金銭債権の将来の強制執行を確実にするため、裁判所が債務者の特定の財産についてその処分を禁止する保全命令（民事保全法20条）。",
+    "japaneseWordTranslation": "仮差押え (kari-sashiosae)",
+    "legalContext": "Civil Preservation Act Art. 20(1): A provisional attachment shall be ordered when it is necessary to preserve a claim for money or for a thing fungible in nature.",
+    "japaneseLegalContext": "民事保全法第20条第1項：仮差押えは、金銭の請求権を保全するため、又は金銭に換えることができる請求権を保全するために、これをすることができる。",
+    "exampleSentence": "The claimant filed a motion for a Seizure for Pecuniary Claim against the debtor's real property located in Tokyo.",
+    "exampleTranslation": "請求権者は、債務者の東京に所在する不動産に対し、金銭債権を保全するための差押えの申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "claimant",
+        "translation": "債権者"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "assets",
+        "translation": "財産"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "court order",
+        "translation": "裁判所の命令"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interim Status Securing Measure",
+    "definition": "A court-ordered provisional measure designed to prevent changes to the current status of the object of a dispute, ensuring that a future performance judgment can be effectively executed.",
+    "japaneseDefinition": "裁判所が、紛争の対象となっている物について、将来の給付判決の執行を確実にするため、現状の変更を禁ずるなどの暫定的な措置。",
+    "japaneseWordTranslation": "係争物に関する仮処分 (keisōbutsu ni kansuru kari-shobun)",
+    "legalContext": "Civil Preservation Act Art. 23(1) and (2) govern the court's authority to issue interim orders regarding the subject matter of litigation.",
+    "japaneseLegalContext": "民事保全法第23条第1項・第2項は、係争物に関する保全命令の発令権限について規定する。",
+    "exampleSentence": "The plaintiff sought an Interim Status Securing Measure to prohibit the defendant from transferring the disputed artwork during the ongoing litigation.",
+    "exampleTranslation": "原告は、係属中の訴訟期間中、被告が紛争の対象となっている美術品を譲渡することを禁止する暫定的な地位保全措置を求めた。",
+    "vocabularyList": [
+      {
+        "word": "subject matter of dispute",
+        "translation": "係争物"
+      },
+      {
+        "word": "preliminary measure",
+        "translation": "暫定措置"
+      },
+      {
+        "word": "transfer",
+        "translation": "譲渡"
+      },
+      {
+        "word": "enforcement",
+        "translation": "執行"
+      },
+      {
+        "word": "performance judgment",
+        "translation": "給付判決"
+      },
+      {
+        "word": "object of litigation",
+        "translation": "訴訟の目的"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Tentative Proof of Claim",
+    "definition": "The requirement imposed on a preservation applicant to present sufficient evidence to the court to show the secured claim and the preservation requirement are highly plausible, falling short of the strict evidentiary standard required for a final trial judgment.",
+    "japaneseDefinition": "保全手続において、保全されるべき権利と保全の必要性について、一応確からしいという心証を得るための立証活動。本案の訴訟で求められる厳格な証明は不要とされる。",
+    "japaneseWordTranslation": "疎明 (sōmei)",
+    "legalContext": "Civil Preservation Act Art. 13(1): The existence of a right to be preserved and the necessity of preservation must be tentatively proved by the applicant.",
+    "japaneseLegalContext": "民事保全法第13条第1項：保全すべき権利及び保全の必要性は、疎明しなければならない。",
+    "exampleSentence": "Since the applicant failed to provide Tentative Proof of Claim regarding the urgency of the matter, the preservation court dismissed the motion.",
+    "exampleTranslation": "申立人が、事案の緊急性に関する権利の疎明を提供できなかったため、保全裁判所はその申立てを却下した。",
+    "vocabularyList": [
+      {
+        "word": "secured claim",
+        "translation": "被保全債権"
+      },
+      {
+        "word": "preservation necessity",
+        "translation": "保全の必要性"
+      },
+      {
+        "word": "evidentiary standard",
+        "translation": "立証の基準"
+      },
+      {
+        "word": "final judgment",
+        "translation": "本案の判決"
+      },
+      {
+        "word": "judicial decision",
+        "translation": "決定"
+      },
+      {
+        "word": "applicant",
+        "translation": "申立人"
+      }
+    ]
   }
 ]

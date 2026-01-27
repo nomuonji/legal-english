@@ -13868,5 +13868,89 @@
         "translation": "盗品"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Subjective Liability",
+    "definition": "The fundamental doctrine in criminal law asserting that punishment must be based on the offender's subjective mental state (e.g., intent or negligence), thereby precluding liability based solely on the result.",
+    "japaneseDefinition": "刑罰を科すには、行為者の故意や過失といった主観的な要素の存在を必要とし、結果責任を否定する刑法上の基本原則。",
+    "japaneseWordTranslation": "主観主義の原則 (Shukan Shugi no Gensoku)",
+    "legalContext": "Criminal Law General Principle: No punishment without culpability (Nulla poena sine culpa).",
+    "japaneseLegalContext": "刑法総論の基本原則: 責任なくして刑罰なし。",
+    "exampleSentence": "The prosecution bore the heavy burden of demonstrating the required criminal intent, consistent with the Principle of Subjective Liability.",
+    "exampleTranslation": "検察側は、主観主義の原則に基づき、要求される犯罪の故意を立証する重い責務を負った。",
+    "vocabularyList": [
+      {
+        "word": "subjective mental state",
+        "translation": "主観的な心理状態"
+      },
+      {
+        "word": "precluding liability",
+        "translation": "責任を排除する"
+      },
+      {
+        "word": "prosecution",
+        "translation": "検察側"
+      },
+      {
+        "word": "criminal intent",
+        "translation": "犯罪の故意"
+      },
+      {
+        "word": "doctrine",
+        "translation": "原則"
+      },
+      {
+        "word": "negligence",
+        "translation": "過失"
+      },
+      {
+        "word": "burden of demonstrating",
+        "translation": "立証の責務"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "The Act Requirement",
+    "definition": "Refers to the specific physical conduct (action or omission) of the offender that directly implements the statutory elements of an offense, differentiating it from preparatory behavior.",
+    "japaneseDefinition": "犯罪の構成要件を直接的に実現する行為であり、単なる予備行為と区別される、犯罪実行の開始と認められるための要件。",
+    "japaneseWordTranslation": "実行行為 (Jikkō Kōi)",
+    "legalContext": "Criminal Code Art. 43 (Attempt): A person who commences the execution of a crime but does not consummate it shall be punished...",
+    "japaneseLegalContext": "刑法第43条 (未遂罪): 罪を犯す意思をもって、実行に着手したが、これを遂げなかった者は罰する。",
+    "exampleSentence": "The court ruled that the defendant's act of aiming the weapon satisfied the Act Requirement, even though the intended victim escaped harm.",
+    "exampleTranslation": "裁判所は、被告人が銃器を構えた行為が実行行為の要件を満たしており、たとえ意図した被害者が危害を免れたとしても、これに当たると判断した。",
+    "vocabularyList": [
+      {
+        "word": "implements",
+        "translation": "実現する"
+      },
+      {
+        "word": "statutory elements",
+        "translation": "構成要件"
+      },
+      {
+        "word": "commences the execution",
+        "translation": "実行に着手する"
+      },
+      {
+        "word": "preparatory behavior",
+        "translation": "予備行為"
+      },
+      {
+        "word": "consummate",
+        "translation": "遂げる (完了する)"
+      },
+      {
+        "word": "aiming the weapon",
+        "translation": "銃器を構える"
+      },
+      {
+        "word": "offender",
+        "translation": "行為者"
+      }
+    ]
   }
 ]

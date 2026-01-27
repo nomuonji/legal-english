@@ -1,38 +1,38 @@
 {
-  "category": "Commercial Registration (商業登記法)",
+  "category": "Real Property Registration (不動産登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Principal Office",
-  "definition": "The official location of the company's main operations and administration, which is a fundamental matter required to be recorded in the commercial register pursuant to the Company Act.",
-  "japaneseDefinition": "会社運営の主たる場所として、定款に定められ、会社法に基づき商業登記簿に記載することが義務付けられている場所。",
-  "japaneseWordTranslation": "本店 (Honten)",
-  "legalContext": "Company Act, Art. 911 (3): The location of the principal office shall be registered.",
-  "japaneseLegalContext": "会社法第911条第3項: 会社の登記には、本店の所在地を登記しなければならない。",
-  "exampleSentence": "Any change to the location of the Principal Office necessitates a registration amendment within two weeks of the change.",
-  "exampleTranslation": "本店の所在地にいかなる変更があった場合も、その変更から二週間以内に登記の変更を要する。",
+  "word": "Ancillary Registration",
+  "definition": "A supplementary registration performed beneath the main (principal) registration entry, which shares the same rank of priority as the principal registration and is typically used for changes to the details of the right or transfers of security interests.",
+  "japaneseDefinition": "主登記の順位を保つために、主登記の欄の下に付記して行われる登記。権利の変更や担保権の移転などに行われる。",
+  "japaneseWordTranslation": "付記登記 (ふきとうき)",
+  "legalContext": "Real Property Registration Act (不動産登記法) Art. 51: Ancillary registration shall have the same priority as the principal registration.",
+  "japaneseLegalContext": "不動産登記法 第51条: 付記登記の順位は、その主登記の順位による。",
+  "exampleSentence": "The transfer of the registered mortgage to a new creditor must be recorded as an Ancillary Registration to maintain the original priority ranking.",
+  "exampleTranslation": "登記された抵当権を新しい債権者に移転する際は、元の順位を維持するために付記登記として記録されなければならない。",
   "vocabularyList": [
     {
-      "word": "location",
-      "translation": "所在地 (shozaichi)"
+      "word": "supplementary",
+      "translation": "補足的な"
     },
     {
-      "word": "operations",
-      "translation": "運営 (un'ei)"
+      "word": "principal registration",
+      "translation": "主登記"
     },
     {
-      "word": "administration",
-      "translation": "管理 (kanri)"
+      "word": "priority ranking",
+      "translation": "順位/優先順位"
     },
     {
-      "word": "fundamental matter",
-      "translation": "基本的事項 (kihonteki jikō)"
+      "word": "transfer of security interests",
+      "translation": "担保権の移転"
     },
     {
-      "word": "necessitates",
-      "translation": "必要とする (hitsuyō to suru)"
+      "word": "mortgage",
+      "translation": "抵当権"
     },
     {
-      "word": "registration amendment",
-      "translation": "登記の変更 (tōki no henkō)"
+      "word": "new creditor",
+      "translation": "新しい債権者"
     }
   ]
 }

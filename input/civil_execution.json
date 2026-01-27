@@ -13646,5 +13646,119 @@
         "translation": "最高価買受申出人"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Third Party Action to Set Aside Execution",
+    "definition": "A lawsuit filed by a third party who claims ownership or proprietary rights over the property currently subject to execution, seeking to prevent or halt the enforcement procedure against that specific asset.",
+    "japaneseDefinition": "強制執行の目的物について所有権その他の権利を有する第三者が、その権利を根拠として、当該目的物に対する執行の排除を求めるために提起する訴訟。",
+    "japaneseWordTranslation": "第三者異議の訴え (だいさんしゃいぎのうったえ)",
+    "legalContext": "Civil Execution Act Art. 38: '... A third party who owns the object of execution... may file an action against the obligee to exclude the execution.'",
+    "japaneseLegalContext": "民事執行法 第38条：「執行の目的物について所有権その他目的物の譲渡を妨げる権利を有する第三者は、債権者に対し、その執行の排除を求める訴えを提起することができる。」",
+    "exampleSentence": "The company filed a Third Party Action to Set Aside Execution, asserting that the seized machinery was held under a reservation of ownership clause, not belonging to the judgment debtor.",
+    "exampleTranslation": "その会社は、差し押さえられた機械が債務者に属するものではなく、所有権留保条項に基づいて保有されているとして、第三者異議の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "judgment debtor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "proprietary rights",
+        "translation": "所有権その他の権利 (しょゆうけん そのたの けんり)"
+      },
+      {
+        "word": "execution procedure",
+        "translation": "執行手続 (しっこうてつづき)"
+      },
+      {
+        "word": "reservation of ownership",
+        "translation": "所有権留保 (しょゆうけんりゅうほ)"
+      },
+      {
+        "word": "exclude the execution",
+        "translation": "執行の排除 (しっこうのはいじょ)"
+      },
+      {
+        "word": "seized machinery",
+        "translation": "差し押さえられた機械 (さしおさえられたきかい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Clearing of Encumbrances",
+    "definition": "A judicial decision issued by the execution court that cancels security interests (e.g., mortgages or preferential rights) on the real property under execution, provided the security holder receives compensation from the sale proceeds.",
+    "japaneseDefinition": "競売される不動産上の抵当権などの担保権について、その権利者が売却代金から弁済を受けることを条件に、裁判所が当該担保権を抹消するために出す決定。",
+    "japaneseWordTranslation": "剰余金に係る担保権消滅の決定 (じょうよきんにかかる たんぽけんしょうめつのけってい)",
+    "legalContext": "Civil Execution Act Art. 87: The execution court shall issue an order to cancel the security interest if the security holder receives distribution from the sale proceeds.",
+    "japaneseLegalContext": "民事執行法 第87条: 裁判所は、担保権を有する者がその売却代金から弁済を受ける見込みがあるときは、その担保権を消滅させる旨の決定をしなければならない。",
+    "exampleSentence": "The execution court issued an Order for Clearing of Encumbrances, ensuring the successful bidder would acquire clear title by having the mortgage satisfied from the realized proceeds.",
+    "exampleTranslation": "執行裁判所は、売却代金から抵当権が充当されることにより、落札者が完全な所有権を取得できるよう、担保権消滅の決定を出した。",
+    "vocabularyList": [
+      {
+        "word": "execution court",
+        "translation": "執行裁判所 (しっこうさいばんしょ)"
+      },
+      {
+        "word": "security interests",
+        "translation": "担保権 (たんぽけん)"
+      },
+      {
+        "word": "successful bidder",
+        "translation": "落札者 (らくさつしゃ)"
+      },
+      {
+        "word": "realized proceeds",
+        "translation": "売却代金 (ばいきゃくだいきん)"
+      },
+      {
+        "word": "clear title",
+        "translation": "完全な所有権 (かんぜんなしょゆうけん)"
+      },
+      {
+        "word": "mortgage",
+        "translation": "抵当権 (ていとうけん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Notarized Deed Stipulating Execution",
+    "definition": "A notarized deed regarding a monetary claim where the obligor has explicitly stated their intent to submit to compulsory execution, thereby serving as an execution title without requiring a prior judgment.",
+    "japaneseDefinition": "金銭債権について、債務者が直ちに強制執行に服する旨の陳述を記載した公正証書。判決を経ずに執行手続を開始できる債務名義となる。",
+    "japaneseWordTranslation": "執行受諾文言付公正証書 (しっこうじゅだくもんごんつき こうせいしょうしょ)",
+    "legalContext": "Civil Execution Act Art. 22 (V): Notarized deeds containing a clause that the obligor will immediately submit to compulsory execution.",
+    "japaneseLegalContext": "民事執行法 第22条第5号：債務者が直ちに強制執行に服する旨の陳述が記載されている公正証書。",
+    "exampleSentence": "Since the loan agreement was formalized as a Notarized Deed Stipulating Execution, the creditor was able to skip the litigation phase and immediately apply for execution against the obligor’s assets.",
+    "exampleTranslation": "当該貸付契約は執行受諾文言付公正証書として正式化されていたため、債権者は訴訟段階を省略し、直ちに債務者の財産に対する執行を申し立てることができた。",
+    "vocabularyList": [
+      {
+        "word": "monetary claim",
+        "translation": "金銭債権 (きんせんさいけん)"
+      },
+      {
+        "word": "notarized deed",
+        "translation": "公正証書 (こうせいしょうしょ)"
+      },
+      {
+        "word": "litigation phase",
+        "translation": "訴訟段階 (そしょうだんかい)"
+      },
+      {
+        "word": "obligor’s assets",
+        "translation": "債務者の財産 (さいむしゃのざいさん)"
+      },
+      {
+        "word": "apply for execution",
+        "translation": "執行を申し立てる (しっこうをもうしたてる)"
+      },
+      {
+        "word": "submit to execution",
+        "translation": "強制執行に服する (きょうせいしっこうにふくする)"
+      }
+    ]
   }
 ]

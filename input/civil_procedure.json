@@ -15224,5 +15224,81 @@
         "translation": "申立て"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Scope of Litigation Agent's Authority",
+    "definition": "The extent of procedural powers conferred upon an agent (usually an attorney-at-law) who represents a party in a civil suit, governing which actions they can undertake without requiring special authorization from the principal.",
+    "japaneseDefinition": "民事訴訟において当事者を代理する者（弁護士など）に与えられる訴訟行為の権限の範囲であり、本人の特別の委任を要さずに行える行為の限界を定めるもの。",
+    "japaneseWordTranslation": "訴訟代理権の範囲 (Soshō Dairiken no Han'i)",
+    "legalContext": "Code of Civil Procedure Art. 55: The litigation agent's authority extends to all procedural acts relating to the suit, except for certain actions requiring specific authorization.",
+    "japaneseLegalContext": "民事訴訟法第55条: 訴訟代理権は、特別の委任を要する行為を除き、その訴訟に関する一切の行為につき及ぶ。",
+    "exampleSentence": "While a litigation agent generally has broad authority, actions like withdrawing the suit or entering a cross-appeal require exceeding the standard scope of litigation agent's authority.",
+    "exampleTranslation": "訴訟代理人は通常広範な権限を有するが、訴えの取下げや付帯的な上訴の提起のような行為は、標準的な訴訟代理権の範囲を超える。",
+    "vocabularyList": [
+      {
+        "word": "agent",
+        "translation": "代理人 (Dairinin)"
+      },
+      {
+        "word": "procedural powers",
+        "translation": "訴訟行為の権限 (Soshō Kōi no Kengen)"
+      },
+      {
+        "word": "attorney-at-law",
+        "translation": "弁護士 (Bengoshi)"
+      },
+      {
+        "word": "special authorization",
+        "translation": "特別の委任 (Tokubetsu no Inin)"
+      },
+      {
+        "word": "principal",
+        "translation": "本人 (Hon'nin)"
+      },
+      {
+        "word": "cross-appeal",
+        "translation": "付帯上訴 (Futai Jōso)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Judicial Inspection",
+    "definition": "A formal mandate issued by the court during the evidence collection stage, requiring a holder (a party or a third party) to produce an object, document, or physical location for the court to inspect as part of the fact-finding process.",
+    "japaneseDefinition": "証拠調べの段階において、裁判所が当事者や第三者に対し、事実認定のために必要な物、文書、または場所を提示あるいは立ち入りを許可することを命じる公式な裁判所の命令。",
+    "japaneseWordTranslation": "検証命令 (Kenshō Meirei)",
+    "legalContext": "Code of Civil Procedure Art. 234: The court may conduct an inspection of any matter or object that is necessary for fact-finding.",
+    "japaneseLegalContext": "民事訴訟法第234条: 裁判所は、事実の認定のために必要と認めるときは、検証をすることができる。",
+    "exampleSentence": "In the construction defect case, the court issued an Order for Judicial Inspection compelling the defendant to allow access to the allegedly defective structural elements.",
+    "exampleTranslation": "建設瑕疵事件において、裁判所は、被告に対し、欠陥があるとされる構造部材への立ち入りを強制するため、検証命令を発出した。",
+    "vocabularyList": [
+      {
+        "word": "formal mandate",
+        "translation": "公式な命令 (Kōshiki na Meirei)"
+      },
+      {
+        "word": "evidence collection",
+        "translation": "証拠調べ (Shōko Shirabe)"
+      },
+      {
+        "word": "holder",
+        "translation": "占有者 (Sen'yūsha)"
+      },
+      {
+        "word": "fact-finding",
+        "translation": "事実認定 (Jijitsu Nintei)"
+      },
+      {
+        "word": "compelling",
+        "translation": "強制する (Kyōsei suru)"
+      },
+      {
+        "word": "structural elements",
+        "translation": "構造部材 (Kōzō Buzai)"
+      }
+    ]
   }
 ]

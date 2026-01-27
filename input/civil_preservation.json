@@ -11382,5 +11382,123 @@
         "translation": "申立人"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Revocation via Counter-Security Deposit",
+    "definition": "The procedure under the Civil Preservation Act (CPA) where the preservation debtor deposits a legally determined sum of money or securities (counter-security) with the court to have the existing preservation order (provisional attachment or disposition) canceled, thereby freeing the property.",
+    "japaneseDefinition": "債務者が一定の担保金（解放金）を供託することで、保全命令（仮差押え・仮処分）を取り消し、目的財産の処分制限を解除する制度。",
+    "japaneseWordTranslation": "担保を立てたことによる保全命令の取消し (tanpo o tateta koto ni yoru hozen meirei no torikeshi)",
+    "legalContext": "Civil Preservation Act Art. 25(2) and Art. 38(1): The court must, upon motion by the debtor, revoke a preservation order if the debtor deposits the required amount (Counter-security for revocation).",
+    "japaneseLegalContext": "民事保全法第25条第2項、第38条第1項：保全命令は、債務者が担保を立てたことによる保全命令の取消しの申立てをするときは、裁判所は、これを取り消さなければならない。",
+    "exampleSentence": "The defendant filed a motion for the revocation via counter-security deposit immediately after the real estate property had been subjected to provisional attachment.",
+    "exampleTranslation": "被告は、不動産が仮差押えを受けた直後、担保を立てたことによる保全命令の取消しの申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "Provisional Attachment",
+        "translation": "仮差押え (kari-sashiosae)"
+      },
+      {
+        "word": "Real Estate Property",
+        "translation": "不動産 (fudōsan)"
+      },
+      {
+        "word": "To free (property)",
+        "translation": "解除する (kaijo suru)"
+      },
+      {
+        "word": "Debtor",
+        "translation": "債務者 (saimusha)"
+      },
+      {
+        "word": "Security amount",
+        "translation": "担保金額 (tanpo kingaku)"
+      },
+      {
+        "word": "Deposit Office",
+        "translation": "供託所 (kyōtakusho)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designation of Preservation Means",
+    "definition": "The judicial decision, primarily in non-monetary provisional disposition cases, where the court specifies the particular method or manner by which the preservation measure is to be implemented by the enforcement officer, ensuring the effectiveness of the preservation.",
+    "japaneseDefinition": "主に仮処分手続において、保全命令の実行（執行）を確実にするため、裁判所が執行機関に対し、具体的な執行方法を決定し指示すること。",
+    "japaneseWordTranslation": "執行方法の指定 (shikkō hōhō no shitei)",
+    "legalContext": "Civil Preservation Act Art. 51: The court granting the preservation order may, when necessary, designate the preservation means to ensure that the preservation order achieves its purpose.",
+    "japaneseLegalContext": "民事保全法第51条：保全命令を発令した裁判所は、保全命令の目的を達するため必要と認めるときは、保全執行の方法を定めることができる。",
+    "exampleSentence": "The court issued a designation of preservation means, compelling the defendant to immediately cease dismantling the disputed factory equipment.",
+    "exampleTranslation": "裁判所は執行方法の指定を発し、被告に対し、係争中の工場設備を直ちに解体することを中止するよう命じた。",
+    "vocabularyList": [
+      {
+        "word": "Provisional Disposition",
+        "translation": "仮処分 (kari-shobun)"
+      },
+      {
+        "word": "To specify/designate",
+        "translation": "指定する (shitei suru)"
+      },
+      {
+        "word": "Enforcement Officer",
+        "translation": "執行官 (shikkōkan)"
+      },
+      {
+        "word": "To cease/suspend",
+        "translation": "中止する (chūshi suru)"
+      },
+      {
+        "word": "Granting court",
+        "translation": "発令裁判所 (hatsurei saibansho)"
+      },
+      {
+        "word": "Disputed property",
+        "translation": "係争物 (keisōbutsu)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Debtor's Right to Security Modification",
+    "definition": "The right of the preservation debtor, under the Civil Preservation Act, to petition the court to change the security provided by the preservation creditor (usually a deposit made when the preservation order was first sought), typically requesting that the security be substituted with other types of assets or cash.",
+    "japaneseDefinition": "保全債務者が、保全債権者が提供した担保（供託金）について、その提供方法又は担保物を変更するよう裁判所に申し立てる権利。",
+    "japaneseWordTranslation": "債務者の担保変更権 (saimusha no tanpo henkōken)",
+    "legalContext": "Civil Preservation Act Art. 37(1): The court may, upon motion by the preservation debtor and if it deems appropriate, issue an order to the preservation creditor to change the method of providing the security or the property offered as security.",
+    "japaneseLegalContext": "民事保全法第37条第1項：裁判所は、保全債務者の申立てにより、必要があると認めるときは、保全債権者に対し、担保の提供の方法又は担保物の変更を命ずることができる。",
+    "exampleSentence": "The debtor exercised the right to security modification, arguing that the creditor's deposited security was in an illiquid form, causing undue business harm.",
+    "exampleTranslation": "債務者は、債権者が供託した担保の形式が現金化しにくいものであり、不当な事業損害を与えているとして、担保変更権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "Petitioner",
+        "translation": "申立人 (mōshitate-nin)"
+      },
+      {
+        "word": "Preservation Creditor",
+        "translation": "保全債権者 (hozen saikensha)"
+      },
+      {
+        "word": "To deem appropriate",
+        "translation": "認める (mitomeru)"
+      },
+      {
+        "word": "Undue harm",
+        "translation": "不当な損害 (futō na songai)"
+      },
+      {
+        "word": "Illiquid form",
+        "translation": "現金化しにくい形式 (genkinka shi-nikui keishiki)"
+      },
+      {
+        "word": "Method of provision",
+        "translation": "提供の方法 (teikyō no hōhō)"
+      },
+      {
+        "word": "To issue an order",
+        "translation": "命令を発する (meirei o hassuru)"
+      }
+    ]
   }
 ]

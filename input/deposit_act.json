@@ -2,48 +2,6 @@
   {
     "category": "Deposit Act (供託法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Claim for Delivery of Consigned Property",
-    "definition": "A formal administrative petition submitted to the administrative authority requesting the release and transfer of the funds or goods held under consignment, filed by the party entitled to receive the property.",
-    "japaneseDefinition": "寄託されている金銭または物品の解放および移転を、当該財産を受け取る権利を有する当事者によって提出される、行政機関に対する正式な行政上の申請。",
-    "japaneseWordTranslation": "供託物払渡請求 (きょうたくぶつ はらいわたし せいきゅう)",
-    "legalContext": "Deposit Act Art. 9 (Procedure for Delivery): A person seeking the delivery of the consigned property must submit a written claim to the administrative office.",
-    "japaneseLegalContext": "供託法第9条（払渡しの手続）：供託物の払渡しを受けようとする者は、供託所に書面で請求しなければならない。",
-    "exampleSentence": "Following a court judgment confirming their status as the rightful obligee, the plaintiff submitted a Claim for Delivery of Consigned Property to the administrative office.",
-    "exampleTranslation": "原告は、正当な債権者としての地位を確定する判決後、行政機関に供託物払渡請求を提出した。",
-    "vocabularyList": [
-      {
-        "word": "administrative petition",
-        "translation": "行政上の申請"
-      },
-      {
-        "word": "release and transfer",
-        "translation": "解放および移転"
-      },
-      {
-        "word": "party entitled",
-        "translation": "権利を有する当事者"
-      },
-      {
-        "word": "written claim",
-        "translation": "書面で請求"
-      },
-      {
-        "word": "court judgment",
-        "translation": "裁判の判決"
-      },
-      {
-        "word": "rightful obligee",
-        "translation": "正当な債権者"
-      },
-      {
-        "word": "submitted",
-        "translation": "提出した"
-      }
-    ]
-  },
-  {
-    "category": "Deposit Act (供託法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Deposit for Release",
     "definition": "A type of deposit made by an obligor (debtor) when they are unable to perform their obligation directly to the obligee (creditor), often due to the obligee’s refusal to accept performance or inability to do so, which results in the extinguishment of the obligation.",
     "japaneseDefinition": "債務者（弁済者）が、債権者の受領拒否、受領不能、または過失なく債権者を特定できない場合に、債務を消滅させるために行う供託。弁済供託とも呼ばれる。",
@@ -9736,6 +9694,82 @@
       {
         "word": "to file documents",
         "translation": "書類を提出する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Acceptance of Deposit Submission",
+    "definition": "The formal act by the Deposit Official (供託官) of receiving and confirming that the application for deposit complies with all legal requirements, thereby initiating the legal effect of the deposit and discharging the debt (if applicable).",
+    "japaneseDefinition": "供託官が供託申請を受理し、法令の要件に適合することを確認し、供託の法的効力を発生させ、債務（該当する場合）を消滅させる行為。",
+    "japaneseWordTranslation": "供託受理 (きょうたくじゅり)",
+    "legalContext": "Deposit Act Art. 7: The Deposit Official shall review the application documents and if the requirements of the law are satisfied, accept the submission.",
+    "japaneseLegalContext": "供託法第7条: 供託官は、供託の申請書を審査し、法令の定める要件が満たされているときは、これを受理しなければならない。",
+    "exampleSentence": "If the application documents are incomplete, the Deposit Office will refuse the Acceptance of Deposit Submission, meaning the debt remains undischarged.",
+    "exampleTranslation": "申請書類に不備がある場合、供託所は供託受理を拒否し、その結果、債務は依然として消滅しない。",
+    "vocabularyList": [
+      {
+        "word": "Deposit Official",
+        "translation": "供託官"
+      },
+      {
+        "word": "legal requirements",
+        "translation": "法令の要件"
+      },
+      {
+        "word": "application documents",
+        "translation": "申請書類"
+      },
+      {
+        "word": "incomplete",
+        "translation": "不備"
+      },
+      {
+        "word": "undischarged",
+        "translation": "消滅していない"
+      },
+      {
+        "word": "Deposit Office",
+        "translation": "供託所"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Uncertainty of Deposit Recipient",
+    "definition": "A legal basis for consignment (deposit) where the person entitled to receive the funds or property is unknown to the obligor, or where multiple parties claim the entitlement, making it impossible for the obligor to safely fulfill the debt.",
+    "japaneseDefinition": "金銭又は物品の受領権者が債務者にとって不明である場合、又は複数の当事者が受領権を主張し、債務者が安全に債務を履行することが不可能である場合の、供託を行うための法的根拠。",
+    "japaneseWordTranslation": "受領権者不確知 (じゅりょうけんりしゃふかくち)",
+    "legalContext": "Civil Code Art. 494: If the obligee refuses or is unable to accept performance, or if the obligor is unable to identify the obligee due to Uncertainty of Deposit Recipient, the obligor may be discharged by making a deposit.",
+    "japaneseLegalContext": "民法第494条: 債権者が弁済の受領を拒み、又は受領することができないとき、若しくは債務者が受領権者不確知のために弁済をすることができないときは、供託によってその債務を免れることができる。",
+    "exampleSentence": "The defendant initiated a deposit procedure based on the **Uncertainty of Deposit Recipient** after two different companies submitted competing claims for the settlement amount.",
+    "exampleTranslation": "二つの異なる会社が和解金額の競合する請求を提出した後、被告は受領権者不確知に基づき供託手続を開始した。",
+    "vocabularyList": [
+      {
+        "word": "legal basis",
+        "translation": "法的根拠"
+      },
+      {
+        "word": "consignment",
+        "translation": "供託"
+      },
+      {
+        "word": "entitled to receive",
+        "translation": "受領権を有する"
+      },
+      {
+        "word": "competing claims",
+        "translation": "競合する請求"
+      },
+      {
+        "word": "settlement amount",
+        "translation": "和解金額"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
       }
     ]
   }

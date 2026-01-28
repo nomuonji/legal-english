@@ -12332,5 +12332,81 @@
         "translation": "取引を制限する"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Filing Sequence Priority Rule",
+    "definition": "The legal principle establishing that, when multiple registration applications are submitted for the same company or subject matter, their rank and effect are determined strictly by the time and sequence of their reception by the registry office.",
+    "japaneseDefinition": "同一の会社または事項について複数の登記申請があった場合、その登記の効力や順位は、登記所による受付の時刻および順序によって厳格に定められる原則。",
+    "japaneseWordTranslation": "申請の順位規定 (Shinsei no Jun'i Kitei)",
+    "legalContext": "Commercial Registration Act Article 25 (Priority of Registration).",
+    "japaneseLegalContext": "商業登記法第25条（登記の順序）",
+    "exampleSentence": "Pursuant to the **Filing Sequence Priority Rule**, a registration received at 9:00 AM takes precedence over a conflicting application received at 9:01 AM, regardless of the cause date.",
+    "exampleTranslation": "**申請の順位規定**に従い、午前9時00分に受け付けられた登記は、原因日付にかかわらず、9時01分に受け付けられた競合する申請に優先する。",
+    "vocabularyList": [
+      {
+        "word": "rank and effect",
+        "translation": "順位及び効力"
+      },
+      {
+        "word": "reception time",
+        "translation": "受付時刻"
+      },
+      {
+        "word": "take precedence",
+        "translation": "優先する"
+      },
+      {
+        "word": "conflicting application",
+        "translation": "競合する申請"
+      },
+      {
+        "word": "subject matter",
+        "translation": "登記事項"
+      },
+      {
+        "word": "registry office",
+        "translation": "登記所"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Change Registration Duty",
+    "definition": "The statutory obligation imposed on the representative of a company to apply for the registration of changes in required registered particulars (such as officers, trade name, or scope of business) within a fixed period, the failure of which can incur an administrative penalty.",
+    "japaneseDefinition": "会社代表者に対し、役員、商号、または事業目的などの登記事項の変更が生じた際に、一定期間内に登記申請を行うよう課される法令上の義務。違反時には過料が科されうる。",
+    "japaneseWordTranslation": "変更登記の義務 (Henkō Tōki no Gimu)",
+    "legalContext": "Companies Act (Act No. 86 of 2005) Article 915 (Registration of Changes); Commercial Registration Act Article 136 (Administrative Fine).",
+    "japaneseLegalContext": "会社法第915条（変更の登記等）、商業登記法第136条（過料）",
+    "exampleSentence": "Directors must adhere strictly to the time limits imposed by the **Mandatory Change Registration Duty** to ensure the public accuracy of the commercial register and avoid administrative fines.",
+    "exampleTranslation": "商業登記簿の公的な正確性を確保し、過料を避けるため、取締役は**変更登記の義務**によって課された期限を厳守しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "statutory obligation",
+        "translation": "法令上の義務"
+      },
+      {
+        "word": "scope of business",
+        "translation": "事業目的"
+      },
+      {
+        "word": "fixed period",
+        "translation": "一定期間"
+      },
+      {
+        "word": "incur",
+        "translation": "負う"
+      },
+      {
+        "word": "public accuracy",
+        "translation": "公的な正確性"
+      },
+      {
+        "word": "commercial register",
+        "translation": "商業登記簿"
+      }
+    ]
   }
 ]

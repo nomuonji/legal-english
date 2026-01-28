@@ -17258,5 +17258,119 @@
         "translation": "取引の安全 (Torihiki no anzen)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Compensation in Money",
+    "definition": "The principle under Japanese Civil Code that damages arising from a breach of contract or unlawful act must primarily be assessed and rendered in monetary form.",
+    "japaneseDefinition": "債務不履行や不法行為によって生じた損害の賠償は、原則として金銭をもってなされるべきであるという民法の原則。",
+    "japaneseWordTranslation": "金銭賠償 (きんせん ばいしょう)",
+    "legalContext": "Civil Code Art. 417 (Method of Compensation): 'Unless otherwise provided in this Act or any other law, compensation for damages shall be effected in money.'",
+    "japaneseLegalContext": "民法第417条（損害賠償の方法）: 「損害賠償は、別段の意思表示がない限り、金銭をもってその額を定める。」",
+    "exampleSentence": "Under Civil Code 417, the claimant sought compensation in money rather than specific performance or restoration of the original state of the damaged property.",
+    "exampleTranslation": "民法第417条に基づき、請求者は損害を受けた財産の原状回復や特定履行ではなく、金銭による賠償を求めた。",
+    "vocabularyList": [
+      {
+        "word": "claimant",
+        "translation": "請求者"
+      },
+      {
+        "word": "damages",
+        "translation": "損害"
+      },
+      {
+        "word": "breach of contract",
+        "translation": "契約違反 / 債務不履行"
+      },
+      {
+        "word": "unlawful act",
+        "translation": "不法行為"
+      },
+      {
+        "word": "specific performance",
+        "translation": "特定履行"
+      },
+      {
+        "word": "restoration",
+        "translation": "回復"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Motive",
+    "definition": "The internal psychological cause or reason that prompts a person to perform a specific juridical act. Although generally irrelevant to the act’s validity, it becomes relevant if it is the object of fraudulent conduct or is manifested as a condition.",
+    "japaneseDefinition": "法律行為を行う際の当事者の内面的な原因や目的。通常は法律行為の有効性に影響しないが、詐欺の対象となったり、条件として外部に表示されたりした場合に考慮される。",
+    "japaneseWordTranslation": "動機 (どうき)",
+    "legalContext": "Principle relating to vitiated consent (fraud/error). Motive is generally irrelevant unless it is expressed or induced by the other party's unlawful behavior.",
+    "japaneseLegalContext": "意思の瑕疵（錯誤・詐欺）に関する原則。動機は原則として無関係だが、表示されたり相手方の不法な行為により誘導されたりした場合は法律上考慮される。",
+    "exampleSentence": "The court examined the purchaser's motive for acquisition, determining that the failure to disclose the environmental contamination rendered the juridical act voidable due to fraud concerning the motive.",
+    "exampleTranslation": "裁判所は買主の取得動機を審査し、環境汚染の不告知が動機に関する詐欺にあたるため、その法律行為は取り消し可能であると判断した。",
+    "vocabularyList": [
+      {
+        "word": "juridical act",
+        "translation": "法律行為"
+      },
+      {
+        "word": "validity",
+        "translation": "有効性"
+      },
+      {
+        "word": "vitiated consent",
+        "translation": "意思の瑕疵"
+      },
+      {
+        "word": "fraudulent conduct",
+        "translation": "詐欺行為"
+      },
+      {
+        "word": "voidable",
+        "translation": "取り消し可能"
+      },
+      {
+        "word": "environmental contamination",
+        "translation": "環境汚染"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legal Relations Based on Property",
+    "definition": "The segment of legal relationships concerning economic matters, involving rights and obligations related to things or valuable interests, primarily governing property, contracts, and torts, as opposed to family or status relations.",
+    "japaneseDefinition": "財産や経済的な利益を目的とする権利義務に関する法的関係。民法典においては、物権、債権、不法行為など、財産的価値を有する事項を規律する分野を指す。",
+    "japaneseWordTranslation": "財産上の法律関係 (ざいさんじょうの ほうりつかんけい)",
+    "legalContext": "Civil Code General Provisions (Book I) and subsequent Books (Property and Obligations) govern these relations, distinguishing them from the final books (Family and Succession) which govern status relations.",
+    "japaneseLegalContext": "民法典の総則（第1編）および物権・債権（第2編、第3編）がこの関係を規律し、身分関係を規律する家族法（第4編、第5編）と区別される。",
+    "exampleSentence": "Disputes arising from a share transfer agreement fall under legal relations based on property, regulated primarily by the Civil Code and Commercial Code.",
+    "exampleTranslation": "株式譲渡契約から生じる紛争は財産上の法律関係に属し、主に民法及び商法によって規律される。",
+    "vocabularyList": [
+      {
+        "word": "segment",
+        "translation": "分野"
+      },
+      {
+        "word": "rights and obligations",
+        "translation": "権利義務"
+      },
+      {
+        "word": "property",
+        "translation": "財産 / 物権"
+      },
+      {
+        "word": "status relations",
+        "translation": "身分関係"
+      },
+      {
+        "word": "Commercial Code",
+        "translation": "商法"
+      },
+      {
+        "word": "governing",
+        "translation": "規律する"
+      }
+    ]
   }
 ]

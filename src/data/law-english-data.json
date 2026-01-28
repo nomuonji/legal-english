@@ -1,38 +1,38 @@
 {
-  "category": "Companies Act (会社法)",
+  "category": "Deposit Act (供託法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Company with an Audit and Supervisory Committee",
-  "definition": "A corporate governance structure defined under the Companies Act where the company has an Audit and Supervisory Committee responsible for auditing the execution of duties by directors.",
-  "japaneseDefinition": "会社法に定められた企業統治の形態の一つで、取締役の職務の執行を監査する職務を担う監査等委員会を設置する会社。",
-  "japaneseWordTranslation": "監査等委員会設置会社 (かんさとういいんかいせっちかいしゃ)",
-  "legalContext": "Companies Act Art. 2 (x): Definition of a Company with an Audit and Supervisory Committee.",
-  "japaneseLegalContext": "会社法第2条第10号: 監査等委員会設置会社の定義。",
-  "exampleSentence": "The transition to a Company with an Audit and Supervisory Committee aims to strengthen corporate governance and increase the transparency of management.",
-  "exampleTranslation": "監査等委員会設置会社への移行は、企業統治を強化し、経営の透明性を高めることを目的としている。",
+  "word": "Deposit Ledger",
+  "definition": "The official registry or record book maintained by the designated administrative office detailing the particulars of all legal consignments made, including the identities of the parties, the grounds for consignment, and the type of consigned property.",
+  "japaneseDefinition": "指定された行政機関が維持する公式の台帳または記録簿であり、なされた全ての法的寄託の詳細（当事者の身元、寄託の根拠、寄託物の種類など）を詳述するもの。",
+  "japaneseWordTranslation": "供託簿 (きょうたくぼ)",
+  "legalContext": "Deposit Act Art. 4 (Maintenance of Records and Ledgers): The administrative office shall prepare and maintain ledgers and other records necessary for handling consignments, as specified by ministerial ordinance.",
+  "japaneseLegalContext": "供託法第4条（簿冊の調製）：供託所には、供託事務を処理するため、法務省令で定めるところにより、供託簿その他の帳簿を備える。",
+  "exampleSentence": "A certified copy of the entry in the Deposit Ledger is often required when submitting a Claim for Delivery of Consigned Property.",
+  "exampleTranslation": "供託物払渡請求を提出する際には、供託簿の記載事項の証明書が必要となることが多い。",
   "vocabularyList": [
     {
-      "word": "Corporate governance",
-      "translation": "企業統治 (きぎょうとうち)"
+      "word": "registry",
+      "translation": "台帳"
     },
     {
-      "word": "Execution of duties",
-      "translation": "職務の執行 (しょくむのしっこう)"
+      "word": "administrative office",
+      "translation": "行政機関"
     },
     {
-      "word": "Director",
-      "translation": "取締役 (とりしまりやく)"
+      "word": "identity of the parties",
+      "translation": "当事者の身元"
     },
     {
-      "word": "Oversight function",
-      "translation": "監査機能 (かんさきのう)"
+      "word": "ministerial ordinance",
+      "translation": "法務省令"
     },
     {
-      "word": "Transition",
-      "translation": "移行 (いこう)"
+      "word": "certified copy",
+      "translation": "証明書"
     },
     {
-      "word": "Transparency of management",
-      "translation": "経営の透明性 (けいえいのとうめいせい)"
+      "word": "handling consignments",
+      "translation": "供託事務の処理"
     }
   ]
 }

@@ -14176,5 +14176,119 @@
         "translation": "刑罰の賦課"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Specific Intent Crime",
+    "definition": "A type of criminal offense requiring not only general criminal intent regarding the act (dolus generalis) but also a specific, ultimate subjective intention (ulterior purpose) beyond the completion of the constituent act.",
+    "japaneseDefinition": "構成要件の実現を超えた、行為者の特定の目的（特定の利益を意図するなど）を必要とする犯罪類型。",
+    "japaneseWordTranslation": "目的犯 (もくてきはん / Mokuteki-han)",
+    "legalContext": "Japanese Criminal Code (Keihō) Art. 177: Forcible Sexual Intercourse (requires the purpose of satisfying carnal desire).",
+    "japaneseLegalContext": "刑法第177条（強制わいせつ等、わいせつな行為をする目的を要する）",
+    "exampleSentence": "In prosecuting the crime of forgery, proving the defendant possessed the necessary specific intent crime element—namely, the intent to use the document unlawfully—is crucial.",
+    "exampleTranslation": "偽造の罪を訴追する場合、被告人が必要とされる目的犯の構成要件要素、すなわちその文書を不法に使用する意図を有していたことを立証することが極めて重要である。",
+    "vocabularyList": [
+      {
+        "word": "ulterior purpose",
+        "translation": "超越的構成要件要素"
+      },
+      {
+        "word": "prosecuting",
+        "translation": "訴追する"
+      },
+      {
+        "word": "forgery",
+        "translation": "偽造"
+      },
+      {
+        "word": "unlawfully",
+        "translation": "不法に"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告人"
+      },
+      {
+        "word": "carnal desire",
+        "translation": "わいせつな目的"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Extraterritorial Jurisdiction",
+    "definition": "The authority of a state to apply its criminal laws and prosecute certain offenses committed outside its physical territory, particularly when involving its nationals or vital national interests.",
+    "japaneseDefinition": "自国の領域外で発生した犯罪に対して、自国の刑法を適用し、処罰する権限。",
+    "japaneseWordTranslation": "国外犯管轄 (こくがいはんかんかつ / Kokugai-han Kankatsu)",
+    "legalContext": "Criminal Code Art. 3: Crimes committed outside Japan by Japanese nationals (based on the active personality principle).",
+    "japaneseLegalContext": "刑法第3条（日本国民が国外で犯した罪。属人主義に基づき適用）",
+    "exampleSentence": "The Japanese Criminal Code asserts extraterritorial jurisdiction over Japanese nationals who commit serious felonies, such as homicide or arson, even if the acts occur entirely in a foreign country.",
+    "exampleTranslation": "日本の刑法は、殺人や放火などの重大な重罪を国外で完全に犯した場合であっても、日本国民に対して国外犯管轄を主張する。",
+    "vocabularyList": [
+      {
+        "word": "felonies",
+        "translation": "重罪"
+      },
+      {
+        "word": "territory",
+        "translation": "領域"
+      },
+      {
+        "word": "apply its criminal laws",
+        "translation": "刑法を適用する"
+      },
+      {
+        "word": "Japanese nationals",
+        "translation": "日本国民"
+      },
+      {
+        "word": "homicide",
+        "translation": "殺人"
+      },
+      {
+        "word": "arson",
+        "translation": "放火"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reciprocity Requirement",
+    "definition": "A jurisdictional condition stipulated in certain Criminal Code articles, mandating that jurisdiction over a foreign national for a crime committed abroad only applies if the offender's home country would similarly punish a Japanese national for that same offense.",
+    "japaneseDefinition": "特定の国外犯について、犯人の国籍国が同様の行為を処罰する法律がある場合に限り、日本も処罰できるとする、刑法が定める管轄権の要件。",
+    "japaneseWordTranslation": "相互主義 (そうごしゅぎ / Sōgo Shugi)",
+    "legalContext": "Criminal Code Art. 4-2: Reciprocity required for certain crimes committed by foreigners outside Japan (e.g., specific offenses related to forgery and fraud).",
+    "japaneseLegalContext": "刑法第4条の2（国外犯についての相互主義。特定の偽造や詐欺等の罪に適用）",
+    "exampleSentence": "Since the theft committed by the foreign national did not meet the reciprocity requirement, the Japanese court lacked jurisdiction to hear the case, despite the victim being a Japanese citizen.",
+    "exampleTranslation": "外国人による窃盗は相互主義の要件を満たさなかったため、被害者が日本国民であったにもかかわらず、日本の裁判所は事件を審理する管轄権を欠いた。",
+    "vocabularyList": [
+      {
+        "word": "jurisdictional condition",
+        "translation": "管轄権の要件"
+      },
+      {
+        "word": "stipulated",
+        "translation": "規定された"
+      },
+      {
+        "word": "foreign national",
+        "translation": "外国人"
+      },
+      {
+        "word": "offender's home country",
+        "translation": "犯人の国籍国"
+      },
+      {
+        "word": "lacked jurisdiction",
+        "translation": "管轄権を欠いた"
+      },
+      {
+        "word": "theft",
+        "translation": "窃盗"
+      }
+    ]
   }
 ]

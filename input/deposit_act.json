@@ -2,44 +2,6 @@
   {
     "category": "Deposit Act (供託法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Deposit Ledger",
-    "definition": "The official registry or record book maintained by the designated administrative office detailing the particulars of all legal consignments made, including the identities of the parties, the grounds for consignment, and the type of consigned property.",
-    "japaneseDefinition": "指定された行政機関が維持する公式の台帳または記録簿であり、なされた全ての法的寄託の詳細（当事者の身元、寄託の根拠、寄託物の種類など）を詳述するもの。",
-    "japaneseWordTranslation": "供託簿 (きょうたくぼ)",
-    "legalContext": "Deposit Act Art. 4 (Maintenance of Records and Ledgers): The administrative office shall prepare and maintain ledgers and other records necessary for handling consignments, as specified by ministerial ordinance.",
-    "japaneseLegalContext": "供託法第4条（簿冊の調製）：供託所には、供託事務を処理するため、法務省令で定めるところにより、供託簿その他の帳簿を備える。",
-    "exampleSentence": "A certified copy of the entry in the Deposit Ledger is often required when submitting a Claim for Delivery of Consigned Property.",
-    "exampleTranslation": "供託物払渡請求を提出する際には、供託簿の記載事項の証明書が必要となることが多い。",
-    "vocabularyList": [
-      {
-        "word": "registry",
-        "translation": "台帳"
-      },
-      {
-        "word": "administrative office",
-        "translation": "行政機関"
-      },
-      {
-        "word": "identity of the parties",
-        "translation": "当事者の身元"
-      },
-      {
-        "word": "ministerial ordinance",
-        "translation": "法務省令"
-      },
-      {
-        "word": "certified copy",
-        "translation": "証明書"
-      },
-      {
-        "word": "handling consignments",
-        "translation": "供託事務の処理"
-      }
-    ]
-  },
-  {
-    "category": "Deposit Act (供託法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Claim for Delivery of Consigned Property",
     "definition": "A formal administrative petition submitted to the administrative authority requesting the release and transfer of the funds or goods held under consignment, filed by the party entitled to receive the property.",
     "japaneseDefinition": "寄託されている金銭または物品の解放および移転を、当該財産を受け取る権利を有する当事者によって提出される、行政機関に対する正式な行政上の申請。",
@@ -9698,6 +9660,82 @@
       {
         "word": "monetary assets",
         "translation": "金銭資産"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Notice of Consignment",
+    "definition": "The statutory requirement that an obligor who has deposited the subject matter of the obligation must notify the obligee (creditor) of the consignment, which is necessary for the obligation to be extinguished.",
+    "japaneseDefinition": "債務者が債務の目的物を供託した場合、その事実を債権者に対して通知する法定の義務。これにより債務消滅の効果が生じる。",
+    "japaneseWordTranslation": "供託の通知 (きょうたくのつうち)",
+    "legalContext": "Civil Code Art. 495, Para. 2: (Effect of Consignment)",
+    "japaneseLegalContext": "民法第495条第2項: （供託の効果）",
+    "exampleSentence": "In cases where the consignment is made due to the obligee’s failure to accept performance, the obligor must effect the Notice of Consignment to achieve the full discharge of the debt.",
+    "exampleTranslation": "債権者が弁済を受領しないために供託が行われた場合、債務者は債務の完全な免責を達成するために供託の通知を行わなければならない。",
+    "vocabularyList": [
+      {
+        "word": "subject matter",
+        "translation": "目的物"
+      },
+      {
+        "word": "statutory requirement",
+        "translation": "法定要件"
+      },
+      {
+        "word": "discharge of the debt",
+        "translation": "債務の免責"
+      },
+      {
+        "word": "failure to accept performance",
+        "translation": "受領不能"
+      },
+      {
+        "word": "extinguished",
+        "translation": "消滅した"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Application",
+    "definition": "The formal procedure initiated by the obligor or designated agent to file documents with the competent Deposit Office seeking to effect a statutory consignment, usually involving specifying the cause and recipient.",
+    "japaneseDefinition": "債務者または指定代理人が、法令に基づく供託を実施するために、所轄の供託所へ提出する正式な手続。原因と受領者を明記する。",
+    "japaneseWordTranslation": "供託申請 (きょうたくしんせい)",
+    "legalContext": "Deposit Act Art. 2: (Competent Deposit Office and Procedures)",
+    "japaneseLegalContext": "供託法第2条: （供託所の管轄及び手続）",
+    "exampleSentence": "The Deposit Application must be accompanied by documentation detailing the legal basis for the consignment, such as uncertainty regarding the entitled party.",
+    "exampleTranslation": "供託申請には、供託の法的根拠、例えば権利者の不確知に関する文書を添付しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "formal procedure",
+        "translation": "正式な手続"
+      },
+      {
+        "word": "competent",
+        "translation": "所轄の"
+      },
+      {
+        "word": "legal basis",
+        "translation": "法的根拠"
+      },
+      {
+        "word": "designated agent",
+        "translation": "指定代理人"
+      },
+      {
+        "word": "uncertainty",
+        "translation": "不確知"
+      },
+      {
+        "word": "to file documents",
+        "translation": "書類を提出する"
       }
     ]
   }

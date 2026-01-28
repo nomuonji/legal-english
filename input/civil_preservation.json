@@ -11576,5 +11576,77 @@
         "translation": "禁止命令"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certified Copy of Preservation Order",
+    "definition": "The authenticated original copy of the judicial decision granting a provisional attachment or disposition, which serves as the legal instrument required by the creditor to commence enforcement.",
+    "japaneseDefinition": "保全決定を命ずる裁判書のうち、執行手続を開始するために債権者に交付される正本。",
+    "japaneseWordTranslation": "保全命令正本 (Hozen meirei seihon)",
+    "legalContext": "Civil Preservation Act Art. 43(1) (Application of Civil Execution Law mutatis mutandis regarding the commencement of enforcement based on the execution title).",
+    "japaneseLegalContext": "民事保全法第43条第1項 (執行開始の要件としての執行力のある債務名義の正本に準ずる)",
+    "exampleSentence": "To initiate the seizure, the preservation creditor must present the Certified Copy of Preservation Order to the Preservation Enforcement Agent within the statutory period.",
+    "exampleTranslation": "差押えを開始するために、保全債権者は法定期間内に保全命令正本を保全執行官に提示しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "preservation creditor",
+        "translation": "保全債権者 (Hozen saikensha)"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え (Sashiosae)"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間 (Hōtei kikan)"
+      },
+      {
+        "word": "to present",
+        "translation": "提示する (Teijisuru)"
+      },
+      {
+        "word": "commence enforcement",
+        "translation": "執行を開始する (Shikkō o kaishisuru)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Restitution of Security",
+    "definition": "A final judicial decision issued when the preservation measure is cancelled or the underlying litigation is concluded, authorizing the preservation creditor to recover the security deposit (guarantee money) provided to the court.",
+    "japaneseDefinition": "保全命令の取消しや、本案訴訟の終結などにより、供託された保証金を債権者に返還する旨を決定する裁判所の処分。",
+    "japaneseWordTranslation": "担保取戻しの決定 (Tanpo torimodoshi no kettei)",
+    "legalContext": "Civil Preservation Act Art. 49(1) (Stipulating conditions for the restitution of security deposit following the revocation of a preservation decision).",
+    "japaneseLegalContext": "民事保全法第49条第1項 (保全決定の取消しによる担保の取戻しの要件)",
+    "exampleSentence": "Upon winning the substantive lawsuit and having the preservation order revoked, the creditor promptly filed a motion seeking an Order for Restitution of Security.",
+    "exampleTranslation": "本案訴訟で勝訴し、保全命令が取り消されたため、債権者は直ちに担保取戻しの決定を求める申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "provided as security",
+        "translation": "供託された (Kyōtakusareta)"
+      },
+      {
+        "word": "to return",
+        "translation": "返還する (Henkan suru)"
+      },
+      {
+        "word": "motion/petition",
+        "translation": "申立て (Mōshitate)"
+      },
+      {
+        "word": "substantive lawsuit",
+        "translation": "本案訴訟 (Hon'an soshō)"
+      },
+      {
+        "word": "to win a lawsuit",
+        "translation": "勝訴する (Shōso suru)"
+      },
+      {
+        "word": "revoked",
+        "translation": "取り消された (Torikesareta)"
+      }
+    ]
   }
 ]

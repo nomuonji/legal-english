@@ -1,42 +1,38 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Companies Act (会社法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Action for Retrial",
-  "definition": "An extraordinary remedy challenging a final and conclusive judgment on narrowly defined statutory grounds, such as evidence fabrication or gross error in fact-finding.",
-  "japaneseDefinition": "確定した終局判決に対し、証拠の偽造や重大な事実誤認など、法律で定められた限定的な事由に基づいてその取消しを求める訴訟。",
-  "japaneseWordTranslation": "再審の訴え (さいしんのうったえ)",
-  "legalContext": "Code of Civil Procedure Art. 338: Grounds for Retrial (再審の事由). These grounds include perjury and judicial corruption.",
-  "japaneseLegalContext": "民事訴訟法第338条: 再審の事由。これには、偽証や裁判官の職務に関する罪などが含まれる。",
-  "exampleSentence": "The losing party initiated an action for retrial after it was proven that the primary evidence used against them had been fabricated by the key witness.",
-  "exampleTranslation": "敗訴した当事者は、自身に不利な主要な証拠が重要証人によって偽造されていたことが証明された後、再審の訴えを起こした。",
+  "word": "Company with an Audit and Supervisory Committee",
+  "definition": "A corporate governance structure defined under the Companies Act where the company has an Audit and Supervisory Committee responsible for auditing the execution of duties by directors.",
+  "japaneseDefinition": "会社法に定められた企業統治の形態の一つで、取締役の職務の執行を監査する職務を担う監査等委員会を設置する会社。",
+  "japaneseWordTranslation": "監査等委員会設置会社 (かんさとういいんかいせっちかいしゃ)",
+  "legalContext": "Companies Act Art. 2 (x): Definition of a Company with an Audit and Supervisory Committee.",
+  "japaneseLegalContext": "会社法第2条第10号: 監査等委員会設置会社の定義。",
+  "exampleSentence": "The transition to a Company with an Audit and Supervisory Committee aims to strengthen corporate governance and increase the transparency of management.",
+  "exampleTranslation": "監査等委員会設置会社への移行は、企業統治を強化し、経営の透明性を高めることを目的としている。",
   "vocabularyList": [
     {
-      "word": "extraordinary remedy",
-      "translation": "非常手段 (ひじょうしゅだん)"
+      "word": "Corporate governance",
+      "translation": "企業統治 (きぎょうとうち)"
     },
     {
-      "word": "conclusive judgment",
-      "translation": "終局判決 (しゅうきょくはんけつ)"
+      "word": "Execution of duties",
+      "translation": "職務の執行 (しょくむのしっこう)"
     },
     {
-      "word": "statutory grounds",
-      "translation": "法律上の事由 (ほうりつじょうのじゆう)"
+      "word": "Director",
+      "translation": "取締役 (とりしまりやく)"
     },
     {
-      "word": "evidence fabrication",
-      "translation": "証拠の偽造 (しょうこのぎぞう)"
+      "word": "Oversight function",
+      "translation": "監査機能 (かんさきのう)"
     },
     {
-      "word": "perjury",
-      "translation": "偽証 (ぎしょう)"
+      "word": "Transition",
+      "translation": "移行 (いこう)"
     },
     {
-      "word": "losing party",
-      "translation": "敗訴した当事者 (はいそしたとうじしゃ)"
-    },
-    {
-      "word": "key witness",
-      "translation": "重要証人 (じゅうようしょうにん)"
+      "word": "Transparency of management",
+      "translation": "経営の透明性 (けいえいのとうめいせい)"
     }
   ]
 }

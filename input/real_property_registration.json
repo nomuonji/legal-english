@@ -11965,5 +11965,81 @@
         "translation": "登記申請"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Application Deadline for Property Description Registration",
+    "definition": "The statutory time limit imposed on the owner to apply for registration concerning changes to the physical description of the real property, such as new construction or destruction of a building.",
+    "japaneseDefinition": "不動産の物理的現況（新築、滅失、地目変更など）に変更が生じた際に、その登記の申請を義務付けられている期間（通常1か月以内）。",
+    "japaneseWordTranslation": "表示の登記の申請期間 (Hyōji no Tōki no Shinsei Kikan)",
+    "legalContext": "Real Property Registration Act, Art. 47(1): An application for the registration of a newly constructed building must be filed by the owner within one month from the day of establishment.",
+    "japaneseLegalContext": "不動産登記法第47条第1項: 新築した建物の所有権の登記の申請は、その所有権を取得した日から一月以内にしなければならない。",
+    "exampleSentence": "Failure to observe the Application Deadline for Property Description Registration may result in an administrative penalty in the form of a non-penal fine.",
+    "exampleTranslation": "表示の登記の申請期間を遵守しない場合、過料の形式で行政罰が科される可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "statutory time limit",
+        "translation": "法令上の期間制限"
+      },
+      {
+        "word": "physical description",
+        "translation": "物理的現況"
+      },
+      {
+        "word": "newly constructed building",
+        "translation": "新築建物"
+      },
+      {
+        "word": "non-penal fine",
+        "translation": "過料"
+      },
+      {
+        "word": "administrative penalty",
+        "translation": "行政罰"
+      },
+      {
+        "word": "establishment",
+        "translation": "成立"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ex Officio Registration of Extinguishment",
+    "definition": "The registrar’s authority to unilaterally execute the registration of the extinguishment (deletion) of a registered right when the underlying cause for extinguishment is clearly evidenced, such as in cases where a preservation registration secures a right that has since become legally void.",
+    "japaneseDefinition": "登記官が、登記上の権利が消滅したことが明白である場合に、申請を待たずに職権によりその権利の登記を抹消すること。通常、権利消滅の原因が公的な証拠で示された場合に行われる。",
+    "japaneseWordTranslation": "権利消滅の職権登記 (Kenri Shōmetsu no Shokken Tōki)",
+    "legalContext": "Real Property Registration Act, Art. 76(1): If the registrar registers the transfer of ownership based on a final and binding judgment ordering the transfer of ownership, the registrar shall ex officio delete the preliminary registration of preservation of ownership.",
+    "japaneseLegalContext": "不動産登記法第76条第1項: 登記官は、所有権の移転を命ずる確定判決に基づく所有権の移転の登記をしたときは、所有権の保存の仮登記を職権で抹消しなければならない。",
+    "exampleSentence": "The registrar executed the Ex Officio Registration of Extinguishment for the provisional attachment when the securing creditor submitted documentation confirming the settlement of the debt.",
+    "exampleTranslation": "担保債権者が債務の和解を証明する文書を提出した際、登記官は仮差押えに関する権利消滅の職権登記を実行した。",
+    "vocabularyList": [
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "unilaterally execute",
+        "translation": "一方的に実行する"
+      },
+      {
+        "word": "underlying cause",
+        "translation": "基礎となる原因"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え"
+      },
+      {
+        "word": "final and binding judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "securing creditor",
+        "translation": "担保債権者"
+      }
+    ]
   }
 ]

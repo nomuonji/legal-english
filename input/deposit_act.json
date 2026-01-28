@@ -9586,5 +9586,119 @@
         "translation": "不適切に評価された (ふてきせつにひょうかされた)"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Fulfillment Deposit",
+    "definition": "A deposit of the subject matter of an obligation with a Deposit Office when the creditor refuses or is unable to accept performance, thereby legally satisfying the debtor's duty.",
+    "japaneseDefinition": "債権者が弁済の受領を拒否、または受領できない場合に、債務者が債務の目的物を供託所に寄託し、債務を消滅させる行為。",
+    "japaneseWordTranslation": "弁済供託 (べんさい きょうたく)",
+    "legalContext": "Deposit Act Art. 49: 'A deposit shall be made with a Deposit Office having jurisdiction over the place of performance...'",
+    "japaneseLegalContext": "供託法 第四十九条: 「供託は、弁済地の供託所にすべきである...」",
+    "exampleSentence": "The debtor made a fulfillment deposit because the creditor repeatedly refused the lawful tender, ensuring the obligation was discharged.",
+    "exampleTranslation": "債務者は、債権者が適法な提供を繰り返し拒否したため、弁済供託を行い、債務が消滅したことを確実にした。",
+    "vocabularyList": [
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "refused",
+        "translation": "拒否した"
+      },
+      {
+        "word": "Deposit Office",
+        "translation": "供託所"
+      },
+      {
+        "word": "obligation",
+        "translation": "債務"
+      },
+      {
+        "word": "performance",
+        "translation": "弁済"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Depositor's Right of Recovery",
+    "definition": "The legal authority held by the depositor to reclaim the deposited property if the underlying reason for the deposit ceases to exist (e.g., the creditor waives their right to the deposited funds).",
+    "japaneseDefinition": "供託がその効力を失った場合など、特定の事由があるときに、供託者（またはその一般承継人）が供託物を取り戻すことができる権利。",
+    "japaneseWordTranslation": "供託物取戻権 (きょうたくぶつ とりもどしけん)",
+    "legalContext": "Deposit Act Art. 36: The depositor may recover the deposited property when the grounds for deposit cease to exist.",
+    "japaneseLegalContext": "供託法 第三十六条: 供託者は、供託の原因が消滅したときは、供託物を取り戻すことができる。",
+    "exampleSentence": "Since the intended creditor failed to accept the deposit within the prescribed time, the original payer exercised the Depositor's Right of Recovery.",
+    "exampleTranslation": "意図された債権者が所定の期間内に供託を受諾しなかったため、元の支払者は供託物取戻権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "reclaim",
+        "translation": "取り戻す"
+      },
+      {
+        "word": "deposited property",
+        "translation": "供託物"
+      },
+      {
+        "word": "original payer",
+        "translation": "元の支払者"
+      },
+      {
+        "word": "cease to exist",
+        "translation": "消滅する"
+      },
+      {
+        "word": "grounds for deposit",
+        "translation": "供託の原因"
+      },
+      {
+        "word": "exercise",
+        "translation": "行使する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Forfeiture of Deposit to the State",
+    "definition": "The legal consequence whereby deposited money or securities become the property of the national treasury if the rightful claimant fails to assert their claim within the statutory period, typically ten years.",
+    "japaneseDefinition": "供託金または供託有価証券の取戻し請求権が、一定期間（通常十年）行使されなかった結果、供託物が国の財産となること。",
+    "japaneseWordTranslation": "供託金の国庫帰属 (きょうたくきん の こっこ きぞく)",
+    "legalContext": "Deposit Act Art. 37: If the reclaim right for monetary deposited assets is not exercised within ten years from the day of deposit, the assets shall revert to the National Treasury.",
+    "japaneseLegalContext": "供託法 第三十七条: 金銭を目的とする供託物の取戻しに係る権利が供託の日から十年を経過しても行使されないときは、当該供託物は国庫に帰属する。",
+    "exampleSentence": "After the statutory ten-year window closed without the claimant taking action, the deposit was subjected to Forfeiture of Deposit to the State.",
+    "exampleTranslation": "債権者が行動を起こすことなく法定の十年間の期間が過ぎた後、その供託金は供託金の国庫帰属の対象となった。",
+    "vocabularyList": [
+      {
+        "word": "securities",
+        "translation": "有価証券"
+      },
+      {
+        "word": "national treasury",
+        "translation": "国庫"
+      },
+      {
+        "word": "rightful claimant",
+        "translation": "正当な請求権者"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "revert",
+        "translation": "帰属する"
+      },
+      {
+        "word": "monetary assets",
+        "translation": "金銭資産"
+      }
+    ]
   }
 ]

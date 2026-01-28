@@ -2,44 +2,6 @@
   {
     "category": "Companies Act (会社法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Company with an Audit and Supervisory Committee",
-    "definition": "A corporate governance structure defined under the Companies Act where the company has an Audit and Supervisory Committee responsible for auditing the execution of duties by directors.",
-    "japaneseDefinition": "会社法に定められた企業統治の形態の一つで、取締役の職務の執行を監査する職務を担う監査等委員会を設置する会社。",
-    "japaneseWordTranslation": "監査等委員会設置会社 (かんさとういいんかいせっちかいしゃ)",
-    "legalContext": "Companies Act Art. 2 (x): Definition of a Company with an Audit and Supervisory Committee.",
-    "japaneseLegalContext": "会社法第2条第10号: 監査等委員会設置会社の定義。",
-    "exampleSentence": "The transition to a Company with an Audit and Supervisory Committee aims to strengthen corporate governance and increase the transparency of management.",
-    "exampleTranslation": "監査等委員会設置会社への移行は、企業統治を強化し、経営の透明性を高めることを目的としている。",
-    "vocabularyList": [
-      {
-        "word": "Corporate governance",
-        "translation": "企業統治 (きぎょうとうち)"
-      },
-      {
-        "word": "Execution of duties",
-        "translation": "職務の執行 (しょくむのしっこう)"
-      },
-      {
-        "word": "Director",
-        "translation": "取締役 (とりしまりやく)"
-      },
-      {
-        "word": "Oversight function",
-        "translation": "監査機能 (かんさきのう)"
-      },
-      {
-        "word": "Transition",
-        "translation": "移行 (いこう)"
-      },
-      {
-        "word": "Transparency of management",
-        "translation": "経営の透明性 (けいえいのとうめいせい)"
-      }
-    ]
-  },
-  {
-    "category": "Companies Act (会社法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Financial Statements",
     "definition": "The formal reports mandated by the Companies Act, which include the balance sheet, income statement, statement of changes in net assets, and associated schedules, detailing a company's financial status and operating performance for a specific fiscal year.",
     "japaneseDefinition": "会社法で義務付けられている、貸借対照表、損益計算書、株主資本等変動計算書及び付属明細書を含み、特定の事業年度の会社の財産及び損益の状況を明らかにする書類。",
@@ -12798,6 +12760,82 @@
       {
         "word": "adopt",
         "translation": "採用する"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Account Documents",
+    "definition": "Financial statements (such as the balance sheet and income statement), business reports, and annexed detailed statements that companies are obligated to prepare at the end of each fiscal year for disclosure and audit purposes.",
+    "japaneseDefinition": "株式会社が各事業年度の終わりに作成を義務付けられる計算書類（貸借対照表、損益計算書等）及び事業報告、附属明細書などの書類。",
+    "japaneseWordTranslation": "計算書類等 (けいさんしょるいとう)",
+    "legalContext": "Companies Act Art. 435: Preparation of Statutory Account Documents, etc.",
+    "japaneseLegalContext": "会社法第435条：計算書類等の作成",
+    "exampleSentence": "The Company must keep the Statutory Account Documents at its main office for public inspection immediately after they are approved by the relevant corporate body.",
+    "exampleTranslation": "会社は、計算書類等が関係する機関によって承認された後、直ちに本店に備え置き、公衆の閲覧に供しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "main office",
+        "translation": "本店"
+      },
+      {
+        "word": "public inspection",
+        "translation": "公衆の閲覧"
+      },
+      {
+        "word": "approved",
+        "translation": "承認された"
+      },
+      {
+        "word": "corporate body",
+        "translation": "会社機関"
+      },
+      {
+        "word": "keep",
+        "translation": "備え置く"
+      },
+      {
+        "word": "fiscal year",
+        "translation": "事業年度"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution of Business",
+    "definition": "The concrete, routine management activities, and operational decision-making required to run a company and fulfill its purposes, performed by management personnel.",
+    "japaneseDefinition": "会社の目的を達成するために、取締役や執行役など経営陣が行う日常的な経営活動や業務上の意思決定。",
+    "japaneseWordTranslation": "業務執行 (ぎょうむしっこう)",
+    "legalContext": "Companies Act Art. 362, para. 4: Authority of the Management Body",
+    "japaneseLegalContext": "会社法第362条第4項：取締役会の権限等",
+    "exampleSentence": "The designated corporate body may entrust crucial authority concerning the Execution of Business to a specific officer, provided such action is permitted by the corporate charter.",
+    "exampleTranslation": "当該会社機関は、その行為が会社憲章に許容されている限りにおいて、業務執行に関する重要な権限を特定の役員に委任することができる。",
+    "vocabularyList": [
+      {
+        "word": "designated corporate body",
+        "translation": "指定会社機関"
+      },
+      {
+        "word": "entrust",
+        "translation": "委任する"
+      },
+      {
+        "word": "officer",
+        "translation": "役員"
+      },
+      {
+        "word": "crucial authority",
+        "translation": "重要な権限"
+      },
+      {
+        "word": "corporate charter",
+        "translation": "会社憲章（定款）"
+      },
+      {
+        "word": "operational decision-making",
+        "translation": "業務上の意思決定"
       }
     ]
   }

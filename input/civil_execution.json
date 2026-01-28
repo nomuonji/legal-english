@@ -13862,5 +13862,127 @@
         "translation": "基準売却価格"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reserve Price",
+    "definition": "The minimum price at which execution property, particularly immovable property, must be offered for sale in a compulsory auction or tender, set by the execution court based on the appraisal value.",
+    "japaneseDefinition": "執行裁判所が競売または入札による売却を実施する際に、不動産の評価額を基に定める、最も低い売却開始価格。",
+    "japaneseWordTranslation": "最低売却価額 (Saitei baikyaku kagaku)",
+    "legalContext": "Civil Execution Act Art. 60(1): The execution court shall specify the reserve price after calculating the average of the appraisal value.",
+    "japaneseLegalContext": "民事執行法第60条第1項: 執行裁判所は、評価人による評価を参考に、最低売却価額を定めなければならない。",
+    "exampleSentence": "The execution court lowered the reserve price for the apartment after the initial compulsory auction failed to attract bidders.",
+    "exampleTranslation": "執行裁判所は、最初の強制競売で入札者が現れなかったため、そのマンションの最低売却価額を引き下げた。",
+    "vocabularyList": [
+      {
+        "word": "Compulsory auction",
+        "translation": "強制競売"
+      },
+      {
+        "word": "Immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "Appraisal value",
+        "translation": "評価額"
+      },
+      {
+        "word": "Execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "Bidders",
+        "translation": "入札者"
+      },
+      {
+        "word": "Lowered",
+        "translation": "引き下げた"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Demand for Distribution",
+    "definition": "A procedural act by a creditor (who did not initiate the execution) to request participation in the distribution of the proceeds generated from the compulsory execution.",
+    "japaneseDefinition": "既に開始された強制執行の手続に参加し、その売却代金の配当を受けたい旨を申し出る、執行債権者以外の債権者の行為。",
+    "japaneseWordTranslation": "配当要求 (Haitō yōkyū)",
+    "legalContext": "Civil Execution Act Art. 87(1): Creditors who may file a demand for distribution include unsecured creditors holding an execution title and creditors with preferential rights requiring official notice.",
+    "japaneseLegalContext": "民事執行法第87条第1項: 配当要求をすることができる債権者は、執行力のある債務名義を有する一般債権者及び差押えの登記前に登記された優先権を有する債権者等である。",
+    "exampleSentence": "The junior mortgagee filed a timely demand for distribution after the senior creditor commenced foreclosure proceedings.",
+    "exampleTranslation": "先行債権者が担保権実行の手続を開始した後、劣後抵当権者は期限内に配当要求を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "Procedural act",
+        "translation": "手続行為"
+      },
+      {
+        "word": "Execution title",
+        "translation": "執行名義"
+      },
+      {
+        "word": "Unsecured creditors",
+        "translation": "一般債権者"
+      },
+      {
+        "word": "Foreclosure proceedings",
+        "translation": "担保権実行手続"
+      },
+      {
+        "word": "Junior mortgagee",
+        "translation": "劣後抵当権者"
+      },
+      {
+        "word": "Proceeds",
+        "translation": "売却代金"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Pro Rata Satisfaction",
+    "definition": "The principle where the net proceeds of execution, after satisfying secured or preferential creditors, are distributed among general creditors in proportion to the amount of their respective claims.",
+    "japaneseDefinition": "執行の目的物の売却代金が、担保権者や優先権者に支払われた後、残額を一般債権者間で債権額に応じて比例配分して弁済する原則。",
+    "japaneseWordTranslation": "按分弁済 (Anbun bensai)",
+    "legalContext": "This principle governs distribution proceedings under the Civil Execution Act, typically applied when the net realization proceeds are insufficient to fully cover all general claims.",
+    "japaneseLegalContext": "民事執行法における配当手続において適用される原則であり、換価代金が一般債権者全ての債権額を満たさない場合に適用される。",
+    "exampleSentence": "Since the realization proceeds were insufficient to cover all general debts, the execution court applied the principle of pro rata satisfaction to calculate the distribution amounts.",
+    "exampleTranslation": "換価代金が全ての一般債務を賄うには不足していたため、執行裁判所は按分弁済の原則を適用して配当額を算定した。",
+    "vocabularyList": [
+      {
+        "word": "Net proceeds",
+        "translation": "換価代金"
+      },
+      {
+        "word": "General creditors",
+        "translation": "一般債権者"
+      },
+      {
+        "word": "In proportion",
+        "translation": "比例して"
+      },
+      {
+        "word": "Insufficient",
+        "translation": "不足していた"
+      },
+      {
+        "word": "Distribution amounts",
+        "translation": "配当額"
+      },
+      {
+        "word": "Realization",
+        "translation": "換価"
+      },
+      {
+        "word": "Satisfying",
+        "translation": "弁済する"
+      }
+    ]
   }
 ]

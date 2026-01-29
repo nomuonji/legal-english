@@ -14102,5 +14102,131 @@
         "translation": "取得する"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Third Party Obligor",
+    "definition": "In garnishment proceedings, a third party who owes a debt to the judgment debtor and is consequently prohibited from paying the debt to the debtor after receiving the seizure order.",
+    "japaneseDefinition": "差押債権の債務者であり、債権執行手続において執行裁判所から差押命令を受けた後、債務者への弁済を禁止される者。",
+    "japaneseWordTranslation": "第三債務者 (だいさんさいむしゃ)",
+    "legalContext": "Civil Execution Act Art. 145 (1): The seizure order shall prohibit the judgment debtor from receiving the claim and the Third Party Obligor from performing the obligation.",
+    "japaneseLegalContext": "民事執行法第145条第1項: 差押命令は、債務者に対しては差押えに係る債権の取立て等を、第三債務者に対しては債務者への弁済を禁止する。",
+    "exampleSentence": "Upon receiving the garnishment order, the bank, acting as the Third Party Obligor, must cease processing all payment requests from the judgment debtor.",
+    "exampleTranslation": "差押命令を受け取ると、銀行は第三債務者として、債務者からの全ての支払請求の処理を停止しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "garnishment proceedings",
+        "translation": "債権執行手続 (さいけんしっこうてつづき)"
+      },
+      {
+        "word": "judgment debtor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "seizure order",
+        "translation": "差押命令 (さしおさえめいれい)"
+      },
+      {
+        "word": "performing the obligation",
+        "translation": "弁済 (べんさい)"
+      },
+      {
+        "word": "cease processing",
+        "translation": "処理を停止する (しょりをていしする)"
+      },
+      {
+        "word": "claim",
+        "translation": "債権 (さいけん)"
+      },
+      {
+        "word": "receive the claim",
+        "translation": "債権の取立て (さいけんのとりたて)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Handover Directive",
+    "definition": "A court order issued by the execution court to the acquirer of real property (or the execution obligee) requiring the occupant to surrender possession of the property after a compulsory sale.",
+    "japaneseDefinition": "強制競売による売却後に、買受人や差押債権者の申立てに基づき、占有者に対し不動産の引渡しを命じる執行裁判所の裁判。",
+    "japaneseWordTranslation": "引渡命令 (ひきわたしめいれい)",
+    "legalContext": "Civil Execution Act Art. 83 (1): An acquirer may file a motion with the execution court to issue a Handover Directive against the occupant of the real property.",
+    "japaneseLegalContext": "民事執行法第83条第1項: 買受人は、執行裁判所に対し、不動産の占有者に対する引渡命令を発することを申し立てることができる。",
+    "exampleSentence": "If the previous owner remains in the property after the sale, the acquirer must obtain a Handover Directive to enforce the eviction.",
+    "exampleTranslation": "もし売却後も旧所有者が不動産に留まる場合、買受人は明渡しを強制するために引渡命令を取得しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "acquirer",
+        "translation": "買受人 (かいうけにん)"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産 (ふどうさん)"
+      },
+      {
+        "word": "compulsory sale",
+        "translation": "強制売却 (きょうせいばいきゃく)"
+      },
+      {
+        "word": "occupant",
+        "translation": "占有者 (せんゆうしゃ)"
+      },
+      {
+        "word": "surrender possession",
+        "translation": "占有を明け渡す (せんゆうをあけわたす)"
+      },
+      {
+        "word": "file a motion",
+        "translation": "申立てを行う (もうしたてをおこなう)"
+      },
+      {
+        "word": "eviction",
+        "translation": "明渡し (あけわたし)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cancellation of Execution",
+    "definition": "The judicial act of revoking the execution procedures or the seizure when statutory grounds, such as the full satisfaction of the claim or the dissolution of the judgment title, occur.",
+    "japaneseDefinition": "執行手続の根拠となる債務名義の効力消滅や、債務の全額弁済など、法定の事由が発生した場合に、執行手続または差押えを撤回する司法行為。",
+    "japaneseWordTranslation": "執行の取消し (しっこうのとりけし)",
+    "legalContext": "Civil Execution Act Art. 39: If the execution obligor provides a document certifying that the judgment title has ceased to be effective, the execution court shall order the Cancellation of Execution.",
+    "japaneseLegalContext": "民事執行法第39条: 執行債務者が債務名義の効力が消滅したことを証する文書を提出したときは、執行裁判所は、執行の取消しを命じなければならない。",
+    "exampleSentence": "The obligor successfully secured the Cancellation of Execution by proving that the underlying debt had already been satisfied.",
+    "exampleTranslation": "債務者は、原債務が既に履行されたことを証明することで、執行の取消しを確保することに成功した。",
+    "vocabularyList": [
+      {
+        "word": "execution obligor",
+        "translation": "執行債務者 (しっこうさいむしゃ)"
+      },
+      {
+        "word": "judgment title",
+        "translation": "債務名義 (さいむめいぎ)"
+      },
+      {
+        "word": "statutory grounds",
+        "translation": "法定の事由 (ほうていのじゆう)"
+      },
+      {
+        "word": "revoking the procedures",
+        "translation": "手続を撤回する (てつづきをてっかいする)"
+      },
+      {
+        "word": "full satisfaction",
+        "translation": "全額弁済 (ぜんがくべんさい)"
+      },
+      {
+        "word": "underlying debt",
+        "translation": "原債務 (げんさいむ)"
+      },
+      {
+        "word": "certifying",
+        "translation": "証する (しょうする)"
+      }
+    ]
   }
 ]

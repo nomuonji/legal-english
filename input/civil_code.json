@@ -17486,5 +17486,81 @@
         "translation": "身分変更"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Limited Real Right",
+    "definition": "A real right that grants the holder only specific powers over an object owned by another, such as use, profit, or security, but not full ownership.",
+    "japaneseDefinition": "所有権の権能の一部を制限的に支配する物権。用益物権と担保物権に分類される。",
+    "japaneseWordTranslation": "制限物権 (せいげんぶっけん)",
+    "legalContext": "Civil Code classifies real rights into ownership and limited real rights (e.g., usufructuary rights or security interests).",
+    "japaneseLegalContext": "民法（物権編）：物権は、所有権と、これに制限を加える制限物権に大別される。",
+    "exampleSentence": "The creation of a limited real right effectively restricts the owner's free use or disposal of the secured property.",
+    "exampleTranslation": "制限物権の設定は、所有者による担保された財産の自由な使用または処分を事実上制限する。",
+    "vocabularyList": [
+      {
+        "word": "ownership",
+        "translation": "所有権"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権"
+      },
+      {
+        "word": "disposal",
+        "translation": "処分"
+      },
+      {
+        "word": "secured property",
+        "translation": "担保財産"
+      },
+      {
+        "word": "use",
+        "translation": "使用"
+      },
+      {
+        "word": "profit",
+        "translation": "収益"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Claim Substitute Compensation",
+    "definition": "The right of an obligee to demand the transfer of an asset (compensation or damages) that the obligor received due to the impossibility of performance of the original obligation, based on the principle of equitable substitution.",
+    "japaneseDefinition": "債務の履行が不能となった際に、債務者がその不能の原因である事由によって取得した金銭その他の利益を、債権者が代わりに請求できる権利。",
+    "japaneseWordTranslation": "代償請求権 (だいしょうせいきゅうけん)",
+    "legalContext": "Civil Code Art. 422-2: If performance becomes impossible due to an event for which the obligor is not responsible, the obligee may claim the consideration the obligor received for the destruction of the object.",
+    "japaneseLegalContext": "民法第422条の2：債務の履行が不能となった場合において、債務者がその不能と引換えに得た利益を債権者が代わって請求できる権利。",
+    "exampleSentence": "When the specific machinery subject to the contract was destroyed by fire, the buyer exercised the right to claim substitute compensation for the insurance payout received by the seller.",
+    "exampleTranslation": "契約の目的物であった特定の機械が火災により滅失した際、買主は売主が受領した保険金支払いについて代償請求権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "impossibility of performance",
+        "translation": "履行不能"
+      },
+      {
+        "word": "specific machinery",
+        "translation": "特定の機械"
+      },
+      {
+        "word": "insurance payout",
+        "translation": "保険金支払い"
+      },
+      {
+        "word": "equitable substitution",
+        "translation": "公平な代償の原則"
+      }
+    ]
   }
 ]

@@ -1,42 +1,38 @@
 {
   "category": "Deposit Act (供託法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Claim for Delivery of Consigned Property",
-  "definition": "A formal administrative petition submitted to the administrative authority requesting the release and transfer of the funds or goods held under consignment, filed by the party entitled to receive the property.",
-  "japaneseDefinition": "寄託されている金銭または物品の解放および移転を、当該財産を受け取る権利を有する当事者によって提出される、行政機関に対する正式な行政上の申請。",
-  "japaneseWordTranslation": "供託物払渡請求 (きょうたくぶつ はらいわたし せいきゅう)",
-  "legalContext": "Deposit Act Art. 9 (Procedure for Delivery): A person seeking the delivery of the consigned property must submit a written claim to the administrative office.",
-  "japaneseLegalContext": "供託法第9条（払渡しの手続）：供託物の払渡しを受けようとする者は、供託所に書面で請求しなければならない。",
-  "exampleSentence": "Following a court judgment confirming their status as the rightful obligee, the plaintiff submitted a Claim for Delivery of Consigned Property to the administrative office.",
-  "exampleTranslation": "原告は、正当な債権者としての地位を確定する判決後、行政機関に供託物払渡請求を提出した。",
+  "word": "Deposit for Release",
+  "definition": "A type of deposit made by an obligor (debtor) when they are unable to perform their obligation directly to the obligee (creditor), often due to the obligee’s refusal to accept performance or inability to do so, which results in the extinguishment of the obligation.",
+  "japaneseDefinition": "債務者（弁済者）が、債権者の受領拒否、受領不能、または過失なく債権者を特定できない場合に、債務を消滅させるために行う供託。弁済供託とも呼ばれる。",
+  "japaneseWordTranslation": "弁済のための供託 (べんさいのためのきょうたく)",
+  "legalContext": "Civil Code Art. 494: If the obligee refuses to accept performance, or cannot accept performance, the obligor may be discharged from the obligation by depositing the subject matter of the performance.",
+  "japaneseLegalContext": "民法第494条: 債権者が弁済の受領を拒み、又はこれを受領することができないときは、弁済者は、債権者を 위하여その弁済の目的物を供託して、その債務を免れることができる。",
+  "exampleSentence": "The defendant made a Deposit for Release after the plaintiff repeatedly failed to designate a valid bank account for the settlement funds.",
+  "exampleTranslation": "原告が和解金の有効な銀行口座を指定することを繰り返し怠ったため、被告は弁済のための供託を行った。",
   "vocabularyList": [
     {
-      "word": "administrative petition",
-      "translation": "行政上の申請"
+      "word": "obligor",
+      "translation": "債務者"
     },
     {
-      "word": "release and transfer",
-      "translation": "解放および移転"
+      "word": "obligee",
+      "translation": "債権者"
     },
     {
-      "word": "party entitled",
-      "translation": "権利を有する当事者"
+      "word": "extinguishment of the obligation",
+      "translation": "債務の消滅"
     },
     {
-      "word": "written claim",
-      "translation": "書面で請求"
+      "word": "settlement funds",
+      "translation": "和解金"
     },
     {
-      "word": "court judgment",
-      "translation": "裁判の判決"
+      "word": "refusal to accept performance",
+      "translation": "受領拒否"
     },
     {
-      "word": "rightful obligee",
-      "translation": "正当な債権者"
-    },
-    {
-      "word": "submitted",
-      "translation": "提出した"
+      "word": "designate",
+      "translation": "指定する"
     }
   ]
 }

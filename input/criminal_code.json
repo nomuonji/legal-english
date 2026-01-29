@@ -14366,5 +14366,107 @@
         "translation": "免除する"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Aggregate Punishment Rule",
+    "definition": "The statutory or jurisprudential rule dictating how multiple punishments are combined or limited when an offender is convicted of several separate, concurrent offenses.",
+    "japaneseDefinition": "刑法上の併合罪（一人の行為者が複数の罪を犯した場合）に対する刑の科し方を定める原則。",
+    "japaneseWordTranslation": "併合罪の処断 (heigōzai no shodan)",
+    "legalContext": "Criminal Code Art. 47 & 48 (These articles establish the general method and limits for aggregating sentences for concurrent offenses).",
+    "japaneseLegalContext": "刑法第47条、48条（併合罪における刑の処断方法及び加重の限度を定める）",
+    "exampleSentence": "The judge invoked the *Aggregate Punishment Rule* to limit the total term of imprisonment to twenty years, despite the combined maximum sentences exceeding that limit.",
+    "exampleTranslation": "裁判官は、合計の最高刑期がその制限を超えるにもかかわらず、併合罪の処断規定を適用し、総刑期を20年に制限した。",
+    "vocabularyList": [
+      {
+        "word": "jurisprudential rule",
+        "translation": "判例法上の原則"
+      },
+      {
+        "word": "concurrent offenses",
+        "translation": "併合罪"
+      },
+      {
+        "word": "offender",
+        "translation": "犯人"
+      },
+      {
+        "word": "term of imprisonment",
+        "translation": "懲役の期間"
+      },
+      {
+        "word": "limit",
+        "translation": "制限する"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Unattainable Offense Doctrine",
+    "definition": "A major doctrine concerning the non-punishability of an attempted crime where, due to the nature of the means employed or the object targeted, the completed crime was factually impossible to achieve, often focusing on the objective danger (or lack thereof) posed by the act.",
+    "japaneseDefinition": "実行行為がなされたが、手段または対象の性質上、客観的に結果発生の可能性がなく、それゆえ犯罪が成立しないとされる場合の法理。日本刑法では危険性の有無が判断基準とされる。",
+    "japaneseWordTranslation": "不能犯論 (funōhan ron)",
+    "legalContext": "Criminal Code Art. 43 (Interpretative doctrine applied to determine the punishability of attempts where consummation is impossible).",
+    "japaneseLegalContext": "刑法第43条（結果が不可能であった未遂の可罰性を判断する際に適用される解釈上の法理）",
+    "exampleSentence": "The defense counsel argued for acquittal based on the *Unattainable Offense Doctrine*, asserting that the low dosage of the substance used posed no objective danger to life.",
+    "exampleTranslation": "弁護人は、使用された物質の量が微量であり、生命に対する客観的な危険性がなかったと主張し、不能犯論に基づき無罪を主張した。",
+    "vocabularyList": [
+      {
+        "word": "acquittal",
+        "translation": "無罪の判決"
+      },
+      {
+        "word": "consummation",
+        "translation": "既遂（の達成）"
+      },
+      {
+        "word": "inadequacy of the means",
+        "translation": "手段の不適当"
+      },
+      {
+        "word": "objective danger",
+        "translation": "客観的な危険性"
+      },
+      {
+        "word": "non-punishability",
+        "translation": "不可罰性"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Reduction for Attempt",
+    "definition": "The requirement that the court must reduce the statutory penalty of a crime if the offense was merely attempted, unless the offender voluntarily desisted from the completion of the act (in which case the penalty may be waived entirely).",
+    "japaneseDefinition": "犯罪が未遂に終わった場合、刑法上、その刑を減軽しなければならないとする規定（ただし、中止犯を除く）。",
+    "japaneseWordTranslation": "未遂罪の必要的減軽 (misuizai no hitsuyōteki genkei)",
+    "legalContext": "Criminal Code Art. 43, Paragraph 1 (Attempted Crimes: 'Punishment for an attempted crime may be reduced.' Jurisprudence interprets 'may' as 'must' unless voluntary desistance applies).",
+    "japaneseLegalContext": "刑法第43条第1項（未遂罪：「未遂を犯した者の刑は、減軽することができる。」判例上は中止犯でない限り必要的と解される。）",
+    "exampleSentence": "Due to the application of the *Mandatory Reduction for Attempt*, the defendant received a maximum sentence of five years instead of the prescribed seven years for the completed offense.",
+    "exampleTranslation": "未遂罪の必要的減軽が適用されたため、被告人は既遂罪に定められた7年ではなく、最高で5年の刑に処せられた。",
+    "vocabularyList": [
+      {
+        "word": "statutory penalty",
+        "translation": "法定刑"
+      },
+      {
+        "word": "merely attempted",
+        "translation": "単に未遂に終わった"
+      },
+      {
+        "word": "voluntarily desisted",
+        "translation": "自ら中止した"
+      },
+      {
+        "word": "waived entirely",
+        "translation": "完全に免除される"
+      },
+      {
+        "word": "mitigate the sentence",
+        "translation": "刑を軽減する"
+      }
+    ]
   }
 ]

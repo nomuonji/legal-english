@@ -12117,5 +12117,47 @@
         "translation": "建物の構造 (たてもののこうぞう)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Secured Obligation Succession",
+    "definition": "The procedure for updating the Real Property Register when the underlying obligation secured by a registered security right (such as a claim secured by an encumbrance) has transferred or been succeeded to by a new obligee.",
+    "japaneseDefinition": "登記されている担保物権（抵当権等）によって担保されている債権が譲渡又は承継された場合に、新しい債権者への権利の移転を記録する登記手続。",
+    "japaneseWordTranslation": "被担保債権の移転の登記 (ひたんぽさいけんのいてんのとうき)",
+    "legalContext": "Real Property Registration Act, Article 83, Paragraph 1: Registration of the transfer or alteration of a hypothec shall be effectuated by making an entry subordinate to the hypothec registration.",
+    "japaneseLegalContext": "不動産登記法第83条第1項: 抵当権の移転の登記又は抵当権の変更の登記は、当該抵当権の登記に付記してする。",
+    "exampleSentence": "The Registration of Secured Obligation Succession is essential to assert the security right's rank against third parties following the sale of the underlying debt.",
+    "exampleTranslation": "被担保債権の譲渡後、第三者に対して担保権の順位を主張するためには、被担保債権の移転の登記が不可欠である。",
+    "vocabularyList": [
+      {
+        "word": "secured obligation",
+        "translation": "被担保債権 (ひたんぽさいけん)"
+      },
+      {
+        "word": "security right",
+        "translation": "担保権 (たんぽけん)"
+      },
+      {
+        "word": "rank",
+        "translation": "順位 (じゅんい)"
+      },
+      {
+        "word": "underlying debt",
+        "translation": "原債務 (げんさいむ)"
+      },
+      {
+        "word": "subordinate entry",
+        "translation": "付記登記 (ふきとうき)"
+      },
+      {
+        "word": "transfer",
+        "translation": "移転 (いてん)"
+      },
+      {
+        "word": "assert",
+        "translation": "主張する (しゅちょうする)"
+      }
+    ]
   }
 ]

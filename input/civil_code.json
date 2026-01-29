@@ -17562,5 +17562,123 @@
         "translation": "公平な代償の原則"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Definite Due Date",
+    "definition": "A specific, fixed calendar date on which performance of an obligation is due, the arrival of which automatically triggers the maturity of the obligation and puts the obligor in default.",
+    "japaneseDefinition": "債務の履行期日として特定の日付が定められている期限。期日が到来すれば、履行の催告なしに債務者は履行遅滞となる。",
+    "japaneseWordTranslation": "確定期日 (かくていきじつ)",
+    "legalContext": "Civil Code Art. 412 (2): If a time for performance is fixed and the time has elapsed, the obligor is in default from the time when the time for performance arrived.",
+    "japaneseLegalContext": "民法第412条第2項: 債務の履行について確定期限があるときは、債務者は、その期限の到来した時から遅滞の責任を負う。",
+    "exampleSentence": "The contract specified a payment deadline of December 31st, making it a definite due date, and failure to pay results in immediate default.",
+    "exampleTranslation": "契約書には支払い期限が12月31日と明記されており、これは確定期日であり、不払いの場合、直ちに債務不履行となる。",
+    "vocabularyList": [
+      {
+        "word": "Performance",
+        "translation": "履行 (りこう)"
+      },
+      {
+        "word": "Obligation",
+        "translation": "債務 (さいむ)"
+      },
+      {
+        "word": "Maturity",
+        "translation": "到来 (とうらい)"
+      },
+      {
+        "word": "Default",
+        "translation": "債務不履行 (さいむふりこう)"
+      },
+      {
+        "word": "Time for performance",
+        "translation": "履行期 (りこうき)"
+      },
+      {
+        "word": "Liability",
+        "translation": "責任 (せきにん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Contract Formation by Realization of Intent",
+    "definition": "A method of contract formation where the offeree, without formally communicating acceptance, performs an action that manifests the intention to accept the offer, establishing the contract at the time of that action.",
+    "japaneseDefinition": "承諾の意思表示を必要とせず、申込を受けた者が承諾の意思を実現する行為をしたときに、その行為の時をもって契約が成立すること。",
+    "japaneseWordTranslation": "意思実現による契約成立 (いしじつげんによるけいやくせいりつ)",
+    "legalContext": "Civil Code Art. 527 (1): If, in cases where a declaration of intention of acceptance is not necessary pursuant to custom or by reason of the nature of the offer, the offeree performs an act that should be deemed to indicate his/her intention of acceptance, the contract shall be formed at the time when such act took place.",
+    "japaneseLegalContext": "民法第527条第1項: 申込者の意思表示又は取引上の慣習により承諾を必要としない場合には、契約は、承諾の意思表示と認めるべき事実があった時に成立する。",
+    "exampleSentence": "When the customer began using the complimentary product trial after receiving the terms, the contract was deemed formed by realization of intent.",
+    "exampleTranslation": "顧客が規約を受け取った後に無償の製品トライアルの利用を開始した時点で、契約は意思実現による成立とみなされた。",
+    "vocabularyList": [
+      {
+        "word": "Offeree",
+        "translation": "申込を受けた者 (もうしうけたもの)"
+      },
+      {
+        "word": "Offer",
+        "translation": "申込 (もうしこみ)"
+      },
+      {
+        "word": "Acceptance",
+        "translation": "承諾 (しょうだく)"
+      },
+      {
+        "word": "Manifestation",
+        "translation": "実現 (じつげん)"
+      },
+      {
+        "word": "Custom",
+        "translation": "慣習 (かんしゅう)"
+      },
+      {
+        "word": "Complimentary",
+        "translation": "無償 (むしょう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Priority Effect of Real Rights",
+    "definition": "The legal principle that a real right (proprietary right) takes precedence over subsequently established real rights and, generally, over personal claims, derived from the exclusivity and opposability inherent in real rights.",
+    "japaneseDefinition": "同一の物に対し複数の物権が成立する場合、先に成立した物権が後の物権に優先し、また、物権は債権に対して原則として優先する効力のこと。",
+    "japaneseWordTranslation": "物権の優先的効力 (ぶっけんのゆうせんてきこうりょく)",
+    "legalContext": "General principle of property law derived from Civil Code Art. 176 (Creation and Transfer of Real Rights) and the principle of public disclosure (公示の原則), requiring perfection for assertion.",
+    "japaneseLegalContext": "民法第176条等に由来する物権法の一般原則であり、排他性と公示を要件とする。",
+    "exampleSentence": "Due to the priority effect of real rights, the previously registered security interest takes precedence over the later unregistered lease agreement when the property is foreclosed.",
+    "exampleTranslation": "物権の優先的効力により、先に登記された担保権が、物件が差し押さえられた際に、後から登録されていない賃貸借契約に優先する。",
+    "vocabularyList": [
+      {
+        "word": "Real right",
+        "translation": "物権 (ぶっけん)"
+      },
+      {
+        "word": "Precedence",
+        "translation": "優先 (ゆうせん)"
+      },
+      {
+        "word": "Personal claim",
+        "translation": "債権 (さいけん)"
+      },
+      {
+        "word": "Registered",
+        "translation": "登記された (とうきされた)"
+      },
+      {
+        "word": "Security Interest",
+        "translation": "担保権 (たんぽけん)"
+      },
+      {
+        "word": "Opposability",
+        "translation": "対抗力 (たいこうりょく)"
+      },
+      {
+        "word": "Exclusivity",
+        "translation": "排他性 (はいたせい)"
+      }
+    ]
   }
 ]

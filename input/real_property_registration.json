@@ -12159,5 +12159,119 @@
         "translation": "主張する (しゅちょうする)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration by Subrogation of Obligee",
+    "definition": "An application for registration filed by an obligee on behalf of their obligor, concerning real property where the obligor has delayed or failed to perform a necessary registration to secure the obligee's claim.",
+    "japaneseDefinition": "債権を保全するために、債務者が行うべき登記の申請を、債務者に代わって債権者が行うことを指す。",
+    "japaneseWordTranslation": "債権者代位登記 (saikensha daii tōki)",
+    "legalContext": "Real Property Registration Act, Article 52, Paragraph 1: 'An obligee may file an application for registration which the obligor is entitled to file, for the preservation of the obligee's claim, in the obligor's stead.'",
+    "japaneseLegalContext": "不動産登記法第52条第1項: 「債権者は、債権を保全するため、債務者に代わって登記を申請することができる。」",
+    "exampleSentence": "The creditor initiated the registration by subrogation of obligee to perfect the transfer of title that the debtor had neglected to record.",
+    "exampleTranslation": "債権者は、債務者が記録を怠っていた所有権移転を完全にするために、債権者代位登記を行った。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "application for registration",
+        "translation": "登記申請"
+      },
+      {
+        "word": "transfer of title",
+        "translation": "権原の移転"
+      },
+      {
+        "word": "neglected to record",
+        "translation": "記録を怠った"
+      },
+      {
+        "word": "preservation of claim",
+        "translation": "債権の保全"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Document Evidencing Registration Basis",
+    "definition": "A document submitted to the registry office that demonstrates the legal foundation (e.g., sales contract, resolution, or court order) that establishes or modifies the property rights specified in the registration application.",
+    "japaneseDefinition": "登記の申請書に添付する書類の一つであり、登記の原因となる事実又は法律行為（売買、贈与、裁判など）があったことを証明する書面。",
+    "japaneseWordTranslation": "登記原因を証する情報 (tōki gen'in o shō suru jōhō)",
+    "legalContext": "Real Property Registration Act, Article 61: 'An application for registration of rights shall be filed with a document evidencing the registration basis.'",
+    "japaneseLegalContext": "不動産登記法第61条: 「権利に関する登記の申請は、法令に別段の定めがある場合を除き、登記原因を証する情報を提供してしなければならない。」",
+    "exampleSentence": "The Document Evidencing Registration Basis must be submitted to the Registry Office to validate the transaction leading to the change in property rights.",
+    "exampleTranslation": "不動産権利の変更をもたらした取引を有効にするためには、登記原因を証する情報を法務局に提出しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "registry office",
+        "translation": "法務局"
+      },
+      {
+        "word": "legal foundation",
+        "translation": "法的根拠"
+      },
+      {
+        "word": "sales contract",
+        "translation": "売買契約"
+      },
+      {
+        "word": "modify",
+        "translation": "変更する"
+      },
+      {
+        "word": "property rights",
+        "translation": "不動産権利"
+      },
+      {
+        "word": "validate the transaction",
+        "translation": "取引を有効にする"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Verification of Identity via Personal Appearance",
+    "definition": "A procedural safeguard where the applicant, typically the registration obligor, is required to present themselves physically at the registry office to have their identity confirmed by the registrar, particularly when required registration documents (like the registration identification code) are not provided.",
+    "japaneseDefinition": "登記識別情報を提供できない場合に、登記官が登記義務者に対し、本人であることの確認のため、法務局に出頭を求めて直接面談を行う手続き。",
+    "japaneseWordTranslation": "出頭による本人確認 (shuttō ni yoru honnin kakunin)",
+    "legalContext": "Real Property Registration Act, Article 23, Paragraph 4: (Outlines the special procedure for verification in lieu of registration identification information.)",
+    "japaneseLegalContext": "不動産登記法第23条第4項: （登記識別情報の提供ができない場合の特例的な本人確認手続について規定する。）",
+    "exampleSentence": "Since the seller could not locate the registration identification code, the registrar mandated verification of identity via personal appearance before proceeding with the transfer.",
+    "exampleTranslation": "売主が登記識別情報を見つけられなかったため、登記官は移転手続きを進める前に出頭による本人確認を義務付けた。",
+    "vocabularyList": [
+      {
+        "word": "procedural safeguard",
+        "translation": "手続上の保護措置"
+      },
+      {
+        "word": "applicant",
+        "translation": "申請人"
+      },
+      {
+        "word": "registration obligor",
+        "translation": "登記義務者"
+      },
+      {
+        "word": "physically present",
+        "translation": "現実に存在する"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "mandated",
+        "translation": "義務付けられた"
+      }
+    ]
   }
 ]

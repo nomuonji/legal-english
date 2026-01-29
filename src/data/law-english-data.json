@@ -1,38 +1,42 @@
 {
-  "category": "Deposit Act (供託法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Deposit for Release",
-  "definition": "A type of deposit made by an obligor (debtor) when they are unable to perform their obligation directly to the obligee (creditor), often due to the obligee’s refusal to accept performance or inability to do so, which results in the extinguishment of the obligation.",
-  "japaneseDefinition": "債務者（弁済者）が、債権者の受領拒否、受領不能、または過失なく債権者を特定できない場合に、債務を消滅させるために行う供託。弁済供託とも呼ばれる。",
-  "japaneseWordTranslation": "弁済のための供託 (べんさいのためのきょうたく)",
-  "legalContext": "Civil Code Art. 494: If the obligee refuses to accept performance, or cannot accept performance, the obligor may be discharged from the obligation by depositing the subject matter of the performance.",
-  "japaneseLegalContext": "民法第494条: 債権者が弁済の受領を拒み、又はこれを受領することができないときは、弁済者は、債権者を 위하여その弁済の目的物を供託して、その債務を免れることができる。",
-  "exampleSentence": "The defendant made a Deposit for Release after the plaintiff repeatedly failed to designate a valid bank account for the settlement funds.",
-  "exampleTranslation": "原告が和解金の有効な銀行口座を指定することを繰り返し怠ったため、被告は弁済のための供託を行った。",
+  "word": "Prayer for Relief",
+  "definition": "The specific formal demand or request made by the claimant in their complaint, setting forth exactly what judgment or remedy they seek from the court (e.g., payment of a specific sum, specific performance, or declaratory recognition of a status).",
+  "japaneseDefinition": "原告が訴状において、裁判所に対してどのような内容の判決を求めているかを具体的に示す部分。請求の趣旨とも呼ばれる。",
+  "japaneseWordTranslation": "請求の趣旨 (せいきゅうのしゅし)",
+  "legalContext": "Code of Civil Procedure Art. 133(2)(ii): Matters to be entered in a complaint—the substance of the claim and the cause of the claim.",
+  "japaneseLegalContext": "民事訴訟法第133条第2項第2号: 訴状に記載すべき事項として、請求の趣旨及び請求の原因。",
+  "exampleSentence": "The claimant amended the complaint to clarify the exact sum of money demanded in the **prayer for relief**.",
+  "exampleTranslation": "原告は、請求の趣旨において要求する正確な金額を明確にするため、訴状を補正した。",
   "vocabularyList": [
     {
-      "word": "obligor",
-      "translation": "債務者"
+      "word": "claimant",
+      "translation": "原告"
     },
     {
-      "word": "obligee",
-      "translation": "債権者"
+      "word": "complaint",
+      "translation": "訴状"
     },
     {
-      "word": "extinguishment of the obligation",
-      "translation": "債務の消滅"
+      "word": "remedy",
+      "translation": "救済"
     },
     {
-      "word": "settlement funds",
-      "translation": "和解金"
+      "word": "specific performance",
+      "translation": "特定履行"
     },
     {
-      "word": "refusal to accept performance",
-      "translation": "受領拒否"
+      "word": "substance of the claim",
+      "translation": "請求の趣旨"
     },
     {
-      "word": "designate",
-      "translation": "指定する"
+      "word": "cause of the claim",
+      "translation": "請求の原因"
+    },
+    {
+      "word": "amend",
+      "translation": "補正する"
     }
   ]
 }

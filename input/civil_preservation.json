@@ -11770,5 +11770,119 @@
         "translation": "非金銭債権"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restriction on Dual Application",
+    "definition": "A procedural rule that prevents a preservation obligee from filing a new application for a preservation order if an application concerning the same claim and object has already been dismissed or if an existing order is already in force.",
+    "japaneseDefinition": "同一の被保全債権及び保全の目的物について、既に保全命令の申立てが却下された場合や、既存の保全命令が発せられている場合に、重ねて申立てを行うことを制限する規定。",
+    "japaneseWordTranslation": "重複申請の制限 (Chōfuku Shinsei no Seigen)",
+    "legalContext": "Civil Preservation Act, principles of judicial economy and procedural fairness.",
+    "japaneseLegalContext": "民事保全法及び訴訟経済・手続公正の原則",
+    "exampleSentence": "The court dismissed the second motion for provisional attachment based on the restriction on dual application, finding the two applications to be substantially identical.",
+    "exampleTranslation": "裁判所は、二つの申立てが実質的に同一であると判断し、重複申請の制限に基づき、仮差押えの再度の申立てを却下した。",
+    "vocabularyList": [
+      {
+        "word": "motion",
+        "translation": "申立て (mōshitate)"
+      },
+      {
+        "word": "substantially identical",
+        "translation": "実質的に同一 (jisshitsuteki ni dōitsu)"
+      },
+      {
+        "word": "dismissed",
+        "translation": "却下された (kyakka sareta)"
+      },
+      {
+        "word": "procedural rule",
+        "translation": "手続規定 (tetsuzuki kitei)"
+      },
+      {
+        "word": "preservation order",
+        "translation": "保全命令 (hozen meirei)"
+      },
+      {
+        "word": "judicial economy",
+        "translation": "訴訟経済 (soshō keizai)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Court of Principal Action Jurisdiction",
+    "definition": "The judicial authority that has geographical and substantive competency to handle the main lawsuit (principal action) related to the claim sought to be preserved; this court is typically where the application for a preservation order must be filed.",
+    "japaneseDefinition": "被保全権利に関する本案訴訟（主要な訴訟）を管轄する裁判所。保全命令の申立ては、通常、この裁判所に対して行うことが要求される。",
+    "japaneseWordTranslation": "本案の管轄裁判所 (Hon'an no Kankatsu Saibansho)",
+    "legalContext": "Civil Preservation Act Art. 12 (Jurisdiction over Preservation Cases): A motion for a preservation order shall be filed with the court of principal action jurisdiction.",
+    "japaneseLegalContext": "民事保全法第12条（保全事件の管轄）：保全命令の申立ては、本案の管轄裁判所又は保全の目的物若しくは係争物の所在地を管轄する地方裁判所に提出するものとする。",
+    "exampleSentence": "The obligee filed the preservation application in the Court of Principal Action Jurisdiction, anticipating that the ensuing litigation would commence there.",
+    "exampleTranslation": "債権者は、それに続く訴訟がそこで開始されることを見越して、本案の管轄裁判所に保全の申立てを提出した。",
+    "vocabularyList": [
+      {
+        "word": "geographical competency",
+        "translation": "土地管轄 (tochi kankatsu)"
+      },
+      {
+        "word": "substantive competency",
+        "translation": "事物管轄 (jibutsu kankatsu)"
+      },
+      {
+        "word": "ensuing litigation",
+        "translation": "それに続く訴訟 (sore ni tsuzuku soshō)"
+      },
+      {
+        "word": "main lawsuit",
+        "translation": "主要な訴訟 (shuyō na soshō)"
+      },
+      {
+        "word": "application",
+        "translation": "申立て (mōshitate)"
+      },
+      {
+        "word": "be filed with",
+        "translation": "〜に提出する (ni teishutsu suru)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Declaration of Exigency",
+    "definition": "A specific finding by the court, stated within a provisional disposition order, certifying that there is an extremely urgent need for the preservation measure, which typically allows the execution of the order without prior service upon the preservation debtor.",
+    "japaneseDefinition": "仮処分命令の中で裁判所が示す、保全の必要性が極めて切迫しているという認定。通常、債務者への事前送達なしに執行を可能にする根拠となる。",
+    "japaneseWordTranslation": "急迫の事由の宣言 (Kyūhaku no Jiyū no Sengen)",
+    "legalContext": "Civil Preservation Act Art. 24 (Urgency): In cases of extreme urgency, the provisional disposition may be implemented immediately.",
+    "japaneseLegalContext": "民事保全法第24条（急迫）：急迫の事由があるときは、仮処分は、直ちにこれを実行することができる。",
+    "exampleSentence": "Due to the Declaration of Exigency, the court granted the execution of the injunction immediately after issuance to prevent the imminent removal of the disputed assets.",
+    "exampleTranslation": "急迫の事由の宣言により、裁判所は、係争物の緊急の移動を防ぐため、発令後直ちに差止め命令の執行を許可した。",
+    "vocabularyList": [
+      {
+        "word": "finding by the court",
+        "translation": "裁判所の認定 (saibansho no nintei)"
+      },
+      {
+        "word": "extremely urgent need",
+        "translation": "極めて切迫した必要性 (kiwamete seppaku shita hitsuyōsei)"
+      },
+      {
+        "word": "provisional disposition order",
+        "translation": "仮処分命令 (kari-shobun meirei)"
+      },
+      {
+        "word": "issuance",
+        "translation": "発令 (hatsurei)"
+      },
+      {
+        "word": "imminent removal",
+        "translation": "緊急の移動 (kinkyū no idō)"
+      },
+      {
+        "word": "execution of the injunction",
+        "translation": "差止め命令の執行 (sashitome meirei no shikkō)"
+      }
+    ]
   }
 ]

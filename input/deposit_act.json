@@ -9734,5 +9734,119 @@
         "translation": "債務者"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Compulsory Execution Deposit",
+    "definition": "A deposit made by a third party (such as a garnishee or purchaser) to a designated deposit office, typically during civil execution proceedings, to ensure the security and proper distribution of monetary assets subject to seizure or auction.",
+    "japaneseDefinition": "強制執行の手続（特に債権執行や不動産競売）において、第三債務者などが執行機関の命令または法令の規定に基づき、金銭等を供託所に預け入れること。",
+    "japaneseWordTranslation": "強制執行供託 (きょうせいしっこうきょうたく)",
+    "legalContext": "Civil Execution Act Art. 155(3): The third party obligor may deposit the amount of the obligation if the claim is subject to multiple seizures or provisional attachments.",
+    "japaneseLegalContext": "民事執行法第155条第3項: 第三債務者の供託（複数の差押え等が競合する場合の免責供託）。",
+    "exampleSentence": "The garnishee chose to make a **Compulsory Execution Deposit** immediately after receiving the seizure and assignment orders, thereby discharging their debt to the original obligor.",
+    "exampleTranslation": "差押え及び転付命令を受け取った後、第三債務者は直ちに強制執行供託を行うことを選択し、それによって元の債務者に対する債務を免れた。",
+    "vocabularyList": [
+      {
+        "word": "garnishee",
+        "translation": "第三債務者"
+      },
+      {
+        "word": "civil execution",
+        "translation": "民事執行"
+      },
+      {
+        "word": "assignment order",
+        "translation": "転付命令"
+      },
+      {
+        "word": "seizure order",
+        "translation": "差押命令"
+      },
+      {
+        "word": "designated deposit office",
+        "translation": "供託所"
+      },
+      {
+        "word": "discharging their debt",
+        "translation": "債務を免れる"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cause of Deposit Extinction",
+    "definition": "The legal circumstance or factual event which renders the original justification for the deposit null or obsolete, allowing the depositor (or the entitled party) to retrieve the deposited property.",
+    "japaneseDefinition": "供託をしなければならなかった根拠となる事由や法律関係が、後発的な事由により消滅すること。これにより供託物を返還請求できる要件が満たされる。",
+    "japaneseWordTranslation": "供託原因消滅 (きょうたくげんいんしょうめつ)",
+    "legalContext": "Deposit Act Art. 9: The depositor may reclaim the deposited property if the cause for the deposit has ceased to exist.",
+    "japaneseLegalContext": "供託法第9条: 供託者は供託の原因が消滅したときは、供託物を取り戻すことができる。",
+    "exampleSentence": "Because the creditor eventually accepted the delayed payment, the situation constituted a **Cause of Deposit Extinction**, enabling the obligor to file for the retrieval of the consigned funds.",
+    "exampleTranslation": "債権者が最終的に遅延した弁済を受け入れたため、この状況は供託原因消滅となり、債務者は供託された金銭の払渡しを請求できるようになった。",
+    "vocabularyList": [
+      {
+        "word": "justification",
+        "translation": "根拠"
+      },
+      {
+        "word": "null or obsolete",
+        "translation": "無効または陳腐化する"
+      },
+      {
+        "word": "retrieve",
+        "translation": "取り戻す"
+      },
+      {
+        "word": "delayed payment",
+        "translation": "遅延した弁済"
+      },
+      {
+        "word": "consigned funds",
+        "translation": "供託された金銭"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Due to Security Interest Extinction",
+    "definition": "A statutory deposit procedure enabling the purchaser of encumbered real property to unilaterally extinguish the registered security interest (e.g., a hypothec) by depositing a prescribed amount of money, thereby obtaining clean title.",
+    "japaneseDefinition": "不動産の買受人が、担保権者（抵当権者等）の同意を得ることなく、その不動産上の担保権を消滅させるために、代金を指定の供託所に預け入れる手続。",
+    "japaneseWordTranslation": "担保権消滅供託 (たんぽけんしょうめつきょうたく)",
+    "legalContext": "Civil Execution Act Art. 188 (as applied to voluntary sale procedures of real property subject to security interests).",
+    "japaneseLegalContext": "民事執行法第188条（担保権が設定された不動産の任意売却等に準じて適用）。",
+    "exampleSentence": "The company utilized the **Deposit Due to Security Interest Extinction** procedure to promptly finalize the acquisition of the factory premises without needing individual negotiations with every lien holder.",
+    "exampleTranslation": "その会社は、個々の先取特権者との交渉を必要とせずに工場敷地の取得を迅速に完了するため、担保権消滅供託の手続を利用した。",
+    "vocabularyList": [
+      {
+        "word": "encumbered real property",
+        "translation": "担保権の負担がある不動産"
+      },
+      {
+        "word": "unilaterally extinguish",
+        "translation": "一方的に消滅させる"
+      },
+      {
+        "word": "prescribed amount",
+        "translation": "定められた金額"
+      },
+      {
+        "word": "clean title",
+        "translation": "完全な権原（無担保権の所有権）"
+      },
+      {
+        "word": "lien holder",
+        "translation": "先取特権者"
+      },
+      {
+        "word": "acquisition",
+        "translation": "取得"
+      }
+    ]
   }
 ]

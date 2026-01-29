@@ -14468,5 +14468,119 @@
         "translation": "刑を軽減する"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Subjective Elements of an Offense",
+    "definition": "The mental components required by the definition of a crime, primarily criminal intent (dolus) or negligence (culpa), necessary for establishing criminal culpability.",
+    "japaneseDefinition": "犯罪の構成要件のうち、故意や過失など、行為者の内面的な心理状態に関する要素。客観的構成要件と対をなす概念。",
+    "japaneseWordTranslation": "主観的構成要件 (しゅかんてきこうせいようけん)",
+    "legalContext": "Japanese criminal theory defines the structure of a crime in three layers: constituent elements, unlawfulness, and culpability. Subjective elements belong to the first layer.",
+    "japaneseLegalContext": "犯罪論の体系において、構成要件に属する行為者の主観的な側面を指す。",
+    "exampleSentence": "Establishing the subjective elements of an offense, such as the specific intent to defraud, is the primary burden of proof for the prosecution.",
+    "exampleTranslation": "欺罔する特別の故意といった主観的構成要件の立証は、検察側の第一の立証責任である。",
+    "vocabularyList": [
+      {
+        "word": "criminal intent",
+        "translation": "故意"
+      },
+      {
+        "word": "negligence",
+        "translation": "過失"
+      },
+      {
+        "word": "culpability",
+        "translation": "有責性"
+      },
+      {
+        "word": "burden of proof",
+        "translation": "立証責任"
+      },
+      {
+        "word": "defraud",
+        "translation": "欺罔する"
+      },
+      {
+        "word": "constituent elements",
+        "translation": "構成要件"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Unlawfulness Excluding Factors",
+    "definition": "Circumstances stipulated by law (or common law principles) that negate the illegality of an act that otherwise fulfills the constituent elements of a crime, rendering the act justified.",
+    "japaneseDefinition": "構成要件に該当する行為であっても、その行為の違法性を阻却し、適法な行為とする法定の事由。",
+    "japaneseWordTranslation": "違法性阻却事由 (いほうせいそきゃくじゆう)",
+    "legalContext": "Penal Code Art. 35 (Justifiable Business/Official Act), Art. 36 (Self-Defense), and Art. 37 (Necessity) are the typical statutory examples.",
+    "japaneseLegalContext": "刑法第35条（正当業務行為）や第36条（正当防衛）、第37条（緊急避難）などが法定の例である。",
+    "exampleSentence": "If the defendant can demonstrate that their actions constituted a response under the necessity provision, they may utilize unlawfulness excluding factors as a defense.",
+    "exampleTranslation": "被告人がその行為が緊急避難の規定の下での対応であったことを証明できれば、違法性阻却事由を防御として利用できる。",
+    "vocabularyList": [
+      {
+        "word": "negate",
+        "translation": "阻却する"
+      },
+      {
+        "word": "illegality",
+        "translation": "違法性"
+      },
+      {
+        "word": "justified",
+        "translation": "適法な"
+      },
+      {
+        "word": "defense",
+        "translation": "防御"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告人"
+      },
+      {
+        "word": "necessity provision",
+        "translation": "緊急避難の規定"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sentence Determination",
+    "definition": "The judicial process by which the court assesses the appropriate penalty (type and duration/amount) for a convicted offender, considering statutory limits and mitigating/aggravating circumstances.",
+    "japaneseDefinition": "裁判所が、法定刑の範囲内で、犯罪の動機、態様、被告人の情状を考慮して刑罰の重さや種類を決定する司法作用。",
+    "japaneseWordTranslation": "量刑 (りょうけい)",
+    "legalContext": "Penal Code Art. 66 (Judicial reduction/mitigation based on circumstances) provides broad discretion for sentence determination.",
+    "japaneseLegalContext": "刑法第66条（酌量減軽）は、量刑に関して裁判所に広範な裁量権を認めている。",
+    "exampleSentence": "The court considered the defendant’s sincere repentance and voluntary surrender as significant mitigating factors during the sentence determination.",
+    "exampleTranslation": "裁判所は、被告人の誠実な反省と自首を、量刑における重要な酌量すべき事情として考慮した。",
+    "vocabularyList": [
+      {
+        "word": "statutory limits",
+        "translation": "法定刑の範囲"
+      },
+      {
+        "word": "convicted offender",
+        "translation": "有罪判決を受けた者"
+      },
+      {
+        "word": "mitigating factors",
+        "translation": "酌量すべき事情"
+      },
+      {
+        "word": "aggravating circumstances",
+        "translation": "加重事由"
+      },
+      {
+        "word": "sincere repentance",
+        "translation": "誠実な反省"
+      },
+      {
+        "word": "judicial discretion",
+        "translation": "司法裁量"
+      }
+    ]
   }
 ]

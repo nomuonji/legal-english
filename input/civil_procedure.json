@@ -2,48 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Prayer for Relief",
-    "definition": "The specific formal demand or request made by the claimant in their complaint, setting forth exactly what judgment or remedy they seek from the court (e.g., payment of a specific sum, specific performance, or declaratory recognition of a status).",
-    "japaneseDefinition": "原告が訴状において、裁判所に対してどのような内容の判決を求めているかを具体的に示す部分。請求の趣旨とも呼ばれる。",
-    "japaneseWordTranslation": "請求の趣旨 (せいきゅうのしゅし)",
-    "legalContext": "Code of Civil Procedure Art. 133(2)(ii): Matters to be entered in a complaint—the substance of the claim and the cause of the claim.",
-    "japaneseLegalContext": "民事訴訟法第133条第2項第2号: 訴状に記載すべき事項として、請求の趣旨及び請求の原因。",
-    "exampleSentence": "The claimant amended the complaint to clarify the exact sum of money demanded in the **prayer for relief**.",
-    "exampleTranslation": "原告は、請求の趣旨において要求する正確な金額を明確にするため、訴状を補正した。",
-    "vocabularyList": [
-      {
-        "word": "claimant",
-        "translation": "原告"
-      },
-      {
-        "word": "complaint",
-        "translation": "訴状"
-      },
-      {
-        "word": "remedy",
-        "translation": "救済"
-      },
-      {
-        "word": "specific performance",
-        "translation": "特定履行"
-      },
-      {
-        "word": "substance of the claim",
-        "translation": "請求の趣旨"
-      },
-      {
-        "word": "cause of the claim",
-        "translation": "請求の原因"
-      },
-      {
-        "word": "amend",
-        "translation": "補正する"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Special Appeal",
     "definition": "An extraordinary appeal procedure, available only against judicial decisions (rulings or orders, but not judgments) of high courts or district courts, where the grounds allege a constitutional violation or a major error in the interpretation of law affecting the proceedings.",
     "japaneseDefinition": "高等裁判所または地方裁判所の決定・命令に対する不服申し立てのうち、憲法違反や法令解釈の誤りが訴訟手続に影響を与えた場合に限り、最高裁判所に認められる特別な上訴手段。",
@@ -15780,6 +15738,44 @@
       {
         "word": "victorious party",
         "translation": "勝訴当事者 (shōso tōjisha)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "The Moment of Conclusion Rule",
+    "definition": "The principle that the judgment of the court must be based exclusively on the factual status and legal relations existing at the time the oral arguments were concluded (or the preparatory proceedings were closed).",
+    "japaneseDefinition": "裁判所が判決を下す際、口頭弁論終結時（または準備手続終了時）の事実状態と法律関係に基づいて判断しなければならないという原則。",
+    "japaneseWordTranslation": "判決時を基準とする原則 (はんけつじをきじゅんとするげんそく)",
+    "legalContext": "Civil Procedure Theory: This is a fundamental principle derived from the nature of the trial process (Kōtō Benron Shugi), ensuring fairness and finality.",
+    "japaneseLegalContext": "民事訴訟理論: 公平性と確定性を確保するための、口頭弁論主義の性質から導かれる基本的な原則。",
+    "exampleSentence": "Under the Moment of Conclusion Rule, facts occurring subsequent to the final trial date cannot be considered by the court in rendering its initial judgment.",
+    "exampleTranslation": "判決時を基準とする原則に基づき、最終審理期日後に発生した事実は、裁判所が最初の判決を下す際に考慮されることはできない。",
+    "vocabularyList": [
+      {
+        "word": "finality",
+        "translation": "確定性 (kakutei sei)"
+      },
+      {
+        "word": "oral arguments",
+        "translation": "口頭弁論 (kōtō benron)"
+      },
+      {
+        "word": "subsequent",
+        "translation": "その後の (sonogo no)"
+      },
+      {
+        "word": "rendering a judgment",
+        "translation": "判決を下す (hanketsu o kudasu)"
+      },
+      {
+        "word": "factual status",
+        "translation": "事実状態 (jijitsu jōtai)"
+      },
+      {
+        "word": "concluded",
+        "translation": "終結した (shūketsu shita)"
       }
     ]
   }

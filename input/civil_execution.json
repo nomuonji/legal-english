@@ -14342,5 +14342,115 @@
         "translation": "引受"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cancellation due to Lack of Surplus Proceeds",
+    "definition": "The mandatory cancellation of a compulsory execution procedure (particularly against real property or vessels) when the sale proceeds, after deducting the execution costs, will not exceed the amount necessary to satisfy the claim of the senior secured obligee.",
+    "japaneseDefinition": "配当等によって、差押債権者へ配当される見込みのない場合に、裁判所が行う執行手続の取消し。",
+    "japaneseWordTranslation": "無剰余取消し (むじょうよとりけし)",
+    "legalContext": "Civil Execution Act Art. 63, Art. 188 (Cancellation due to Lack of Surplus Proceeds): The execution court must cancel the execution procedure if, after deduction of execution costs, the remaining amount will not exceed the priority claim amount.",
+    "japaneseLegalContext": "民事執行法第63条、第188条（無剰余による取消し）：執行裁判所は、売却基準額から手続費用を控除した額が先順位債権者の債権に優先する債権及び執行費用の合計額を超えないときは、執行を取り消さなければならない。",
+    "exampleSentence": "The execution court issued a notice of **Cancellation due to Lack of Surplus Proceeds** after the appraisal revealed insufficient value to cover the prior mortgage.",
+    "exampleTranslation": "評価の結果、先行する抵当権をまかなうに足る価値がないことが判明した後、執行裁判所は無剰余取消しの通知を出した。",
+    "vocabularyList": [
+      {
+        "word": "mandatory",
+        "translation": "義務的な"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "sale proceeds",
+        "translation": "売却代金"
+      },
+      {
+        "word": "execution costs",
+        "translation": "執行費用"
+      },
+      {
+        "word": "senior secured obligee",
+        "translation": "先順位担保権者"
+      },
+      {
+        "word": "appraisal",
+        "translation": "評価"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Garnishee’s Disclosure Obligation",
+    "definition": "The duty of the third party debtor (garnishee), upon request by the execution obligee, to submit a written statement to the execution court regarding the existence of the claim being seized, its maturity, and any conditions attached to it.",
+    "japaneseDefinition": "差押債権者の申立てに基づき、執行裁判所が第三債務者に対し、差し押さえられた債権の存否や弁済期、条件等について書面で回答するよう命じる制度。",
+    "japaneseWordTranslation": "第三債務者の供述義務 (だいさんさいむしゃのきょうじゅつぎむ)",
+    "legalContext": "Civil Execution Act Art. 147 (Third Party Debtor’s Disclosure): The execution court may, upon motion by the execution obligee, order the third party debtor to state the facts concerning the claim.",
+    "japaneseLegalContext": "民事執行法第147条（第三債務者の供述）：執行裁判所は、差押債権者の申立てにより、第三債務者に対し、差押えに係る債権の存否等について供述を命ずることができる。",
+    "exampleSentence": "To clarify the conditions of the lease agreement, the obligee submitted a motion to enforce the **Garnishee’s Disclosure Obligation** against the property manager.",
+    "exampleTranslation": "賃貸借契約の条件を明確にするため、債権者は、物件管理人に対して第三債務者の供述義務の履行を求める申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "third party debtor (garnishee)",
+        "translation": "第三債務者"
+      },
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "existence of the claim",
+        "translation": "債権の存否"
+      },
+      {
+        "word": "maturity",
+        "translation": "弁済期"
+      },
+      {
+        "word": "conditions attached",
+        "translation": "付された条件"
+      },
+      {
+        "word": "property manager",
+        "translation": "物件管理人"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Seizure of Unmatured Claims",
+    "definition": "The process of placing a claim under seizure even though the deadline for performance (the maturity date) of that claim has not yet arrived, thereby preserving the claim for future collection.",
+    "japaneseDefinition": "弁済期がまだ到来していない債権を、将来の取立てに備えて差し押さえること。債権の発生が不確実な場合にも認められる。",
+    "japaneseWordTranslation": "未到来の債権の差押え (みとうらいのさいけんのさしおさえ)",
+    "legalContext": "Civil Execution Act Art. 145(1) (Seizure of Claims): A monetary claim may be seized even if its due date has not arrived or if a condition precedent is attached.",
+    "japaneseLegalContext": "民事執行法第145条第1項（債権の差押え）：金銭債権を差し押さえるには、その弁済期が到来しないとき、又は条件付若しくは期限付であるときも、その差押えをすることができる。",
+    "exampleSentence": "The judgment creditor applied for the **Seizure of Unmatured Claims** pertaining to the debtor's six months of forthcoming salary payments.",
+    "exampleTranslation": "判決債権者は、債務者の今後６ヶ月分の給与支払いに係る未到来の債権の差押えを申請した。",
+    "vocabularyList": [
+      {
+        "word": "deadline for performance",
+        "translation": "弁済期限"
+      },
+      {
+        "word": "maturity date",
+        "translation": "弁済期日"
+      },
+      {
+        "word": "collection",
+        "translation": "取立て"
+      },
+      {
+        "word": "judgment creditor",
+        "translation": "判決債権者"
+      },
+      {
+        "word": "forthcoming salary payments",
+        "translation": "今後発生する給与の支払い"
+      }
+    ]
   }
 ]

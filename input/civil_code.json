@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Rights of Demand and Search",
-    "definition": "Defenses available only to an ordinary surety (not a joint and several guarantor) which allow the surety to resist the obligee’s demand for performance until the obligee has first pressed the principal obligor (Demand) or sought execution against the principal obligor’s property (Search).",
-    "japaneseDefinition": "通常の保証人が債権者からの履行請求に対し、主たる債務者への催告（催告の抗弁権）や主たる債務者の財産への強制執行（検索の抗弁権）を先に求めることができる権利。",
-    "japaneseWordTranslation": "催告・検索の抗弁権 (さいこく・けんさくのこうべんけん)",
-    "legalContext": "Civil Code Art. 452 (Right of Demand); Art. 453 (Right of Search). These rights are extinguished if the surety assumes the status of a joint and several guarantor.",
-    "japaneseLegalContext": "民法第452条（催告の抗弁）、第453条（検索の抗弁）。これらの権利は連帯保証人には認められない。",
-    "exampleSentence": "The surety successfully invoked the rights of demand and search, compelling the creditor to confirm that the principal obligor lacked sufficient attachable assets before proceeding against the surety’s own collateral.",
-    "exampleTranslation": "保証人は、催告・検索の抗弁権を行使し、債権者が保証人自身の担保に対して手続きを進める前に、主たる債務者に十分な差押可能な財産がないことを確認するよう強制した。",
-    "vocabularyList": [
-      {
-        "word": "ordinary surety",
-        "translation": "通常の保証人"
-      },
-      {
-        "word": "principal obligor",
-        "translation": "主たる債務者"
-      },
-      {
-        "word": "compelling",
-        "translation": "強制する"
-      },
-      {
-        "word": "creditor",
-        "translation": "債権者"
-      },
-      {
-        "word": "demand for performance",
-        "translation": "履行の請求"
-      },
-      {
-        "word": "collateral",
-        "translation": "担保"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Presumption of Death",
     "definition": "A declaration by the Family Court that determines a person whose whereabouts have been unknown for a specific statutory period (typically seven years) is deemed to have died at the expiration of that period.",
     "japaneseDefinition": "ある人の生死が一定期間（通常７年間）不明である場合に、家庭裁判所が行う、その人を死亡したものとみなす宣言。",
@@ -17678,6 +17640,132 @@
       {
         "word": "Exclusivity",
         "translation": "排他性 (はいたせい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right of Refusal of Performance",
+    "definition": "The right of an obligor to temporarily refuse to fulfill their obligation until a legitimate counter-condition or requirement (such as the performance by the obligee or the provision of security) is met.",
+    "japaneseDefinition": "債務者が、債権者が反対給付を行わない場合や、先に弁済しなければならない債務について債権者が担保を提供しない場合などに、自己の履行を拒否できる権利。",
+    "japaneseWordTranslation": "履行拒絶権 (りこうきょぜつけん)",
+    "legalContext": "Civil Code Art. 533 (Defense of Simultaneous Performance): 'Unless the parties have agreed otherwise, one party cannot demand the performance of the other party until he has tendered his own performance.'",
+    "japaneseLegalContext": "民法第533条（同時履行の抗弁権）：当事者の一方は、相手方がその債務の履行を提供するまでは、自己の債務の履行を拒むことができる。",
+    "exampleSentence": "The defendant invoked the right of refusal of performance, arguing that the obligee had failed to tender the required payment guarantee.",
+    "exampleTranslation": "被告は、債権者が要求された支払保証を提供しなかったとして、履行拒絶権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "tender",
+        "translation": "提供する"
+      },
+      {
+        "word": "payment guarantee",
+        "translation": "支払保証"
+      },
+      {
+        "word": "invoke",
+        "translation": "行使する"
+      },
+      {
+        "word": "obligation",
+        "translation": "債務"
+      },
+      {
+        "word": "security",
+        "translation": "担保"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Separate Property System",
+    "definition": "The default statutory system governing marital property in Japan, where property acquired by either spouse before marriage or during marriage under their own name is considered their separate individual property.",
+    "japaneseDefinition": "夫婦の財産関係につき、婚姻前から有していた財産及び婚姻中に自己の名で得た財産を、それぞれの夫婦の固有財産として扱う法定制。",
+    "japaneseWordTranslation": "夫婦別産制 (ふうふべっさんせい)",
+    "legalContext": "Civil Code Art. 762 (1): 'Property owned by one spouse prior to marriage and property acquired in his or her own name during the marriage is his or her separate property.'",
+    "japaneseLegalContext": "民法第762条第1項：夫婦の一方が婚姻前から有する財産及び婚姻中自己の名で得た財産は、その特有財産（別産）とする。",
+    "exampleSentence": "Under the Separate Property System, assets acquired by the husband through investment during the marriage are treated as his individual assets, provided they are in his name.",
+    "exampleTranslation": "夫婦別産制のもとでは、婚姻中に夫が投資によって取得した資産は、その名義である限り、夫の固有財産として扱われる。",
+    "vocabularyList": [
+      {
+        "word": "marital property",
+        "translation": "夫婦財産"
+      },
+      {
+        "word": "spouse",
+        "translation": "配偶者"
+      },
+      {
+        "word": "statutory system",
+        "translation": "法定制"
+      },
+      {
+        "word": "acquisition",
+        "translation": "取得"
+      },
+      {
+        "word": "individual assets",
+        "translation": "固有財産"
+      },
+      {
+        "word": "provided that",
+        "translation": "〜である限り"
+      },
+      {
+        "word": "investment",
+        "translation": "投資"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Boundary Determination Action",
+    "definition": "A special form of suit filed in court for the objective confirmation and official determination of the precise location of the statutory boundary (hikkai) between adjoining pieces of land when those boundaries are uncertain.",
+    "japaneseDefinition": "隣接する土地の境界が不明確な場合に、裁判所に対し、その公法上の境界（筆界）の正確な位置を客観的に確定することを求める特殊な訴訟形式。",
+    "japaneseWordTranslation": "境界確定の訴え (きょうかいかくていのうったえ)",
+    "legalContext": "This action relates to the scope of ownership of land (Civil Code Art. 206) and is governed by special procedural rules, as it is a non-contentious action concerning a public law boundary.",
+    "japaneseLegalContext": "民法第206条（所有権の内容）の土地所有権の範囲に関わり、公法上の境界をめぐる非訟事件的な訴訟であるため、特殊な訴訟手続きによって規律される。",
+    "exampleSentence": "The landowner initiated a Boundary Determination Action after mediation failed to resolve the dispute over the legal line between his parcel and the neighboring property.",
+    "exampleTranslation": "調停が、彼の区画と隣接する不動産との間の法的な境界線を解決できなかったため、土地所有者は境界確定の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "statutory boundary",
+        "translation": "筆界"
+      },
+      {
+        "word": "adjoining land",
+        "translation": "隣接する土地"
+      },
+      {
+        "word": "non-contentious action",
+        "translation": "非訟事件"
+      },
+      {
+        "word": "parcel",
+        "translation": "区画（筆）"
+      },
+      {
+        "word": "mediation",
+        "translation": "調停"
+      },
+      {
+        "word": "encroachment",
+        "translation": "越境"
+      },
+      {
+        "word": "dispute",
+        "translation": "紛争"
       }
     ]
   }

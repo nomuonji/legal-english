@@ -9848,5 +9848,81 @@
         "translation": "取得"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consignment of the Subject Matter",
+    "definition": "The formal act of depositing the specific money, securities, or goods related to a duty (or obligation) with the competent Deposit Office, which results in the cessation of the duty holder’s responsibility for that subject matter.",
+    "japaneseDefinition": "債務者が債権者不明等の理由により、その債務の目的物である金銭、有価証券その他の物件を供託所に預け入れ、債務を免れる行為。",
+    "japaneseWordTranslation": "目的物の供託 (もくてきぶつのきょうたく)",
+    "legalContext": "Civil Code Article 494: 'The consignment of the subject matter of the duty shall cause the duty to cease.'",
+    "japaneseLegalContext": "民法第494条: 「供託は、債権者がこれを受諾し、又は供託を有効とする判決が確定した時に、その効力を生ずる。」 (Note: Using the modern phrasing of the effect for accuracy, even if the primary effect is cessation of duty)",
+    "exampleSentence": "Due to the uncertainty regarding the intended recipient, the company opted for the consignment of the subject matter to legally terminate its financial responsibilities.",
+    "exampleTranslation": "意図された受取人に関する不確実性のため、その会社は財政的な責任を法的に終了させるために目的物の供託を選択した。",
+    "vocabularyList": [
+      {
+        "word": "competent",
+        "translation": "管轄の"
+      },
+      {
+        "word": "duty holder",
+        "translation": "債務者"
+      },
+      {
+        "word": "cease",
+        "translation": "消滅する"
+      },
+      {
+        "word": "uncertainty",
+        "translation": "不確実性"
+      },
+      {
+        "word": "terminate",
+        "translation": "終了させる"
+      },
+      {
+        "word": "financial responsibilities",
+        "translation": "財政的な責任"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Depositor's Right to Revoke Consignment",
+    "definition": "The statutory privilege allowing the individual who made the consignment to retrieve the deposited assets, provided that the beneficiary has not yet accepted the deposit or obtained a judicial affirmation of entitlement, effectively nullifying the consignment.",
+    "japaneseDefinition": "供託者が供託物を受け戻すことができる権利。債権者が供託を受諾していないか、または供託を有効とする判決が確定していない場合に限り、供託者が行使可能。",
+    "japaneseWordTranslation": "供託者による取戻し権 (きょうたくしゃによるとりもどしけん)",
+    "legalContext": "Civil Code Article 496, Paragraph 1: 'Until the beneficiary has accepted the deposit or a judgment affirming the validity of the deposit has become final and binding, the depositor may reclaim the deposited item.'",
+    "japaneseLegalContext": "民法第496条第1項: 「債権者が供託を受諾せず、又は供託を有効と宣告した判決が確定しない間は、供託者は、供託物を取り戻すことができる。」",
+    "exampleSentence": "The depositor exercised his Right to Revoke Consignment when the uncertainty regarding the rightful beneficiary was finally resolved through negotiation.",
+    "exampleTranslation": "正当な受給者に関する不確実性が交渉を通じて最終的に解決されたため、供託者は供託者による取戻し権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "statutory privilege",
+        "translation": "法令上の特権"
+      },
+      {
+        "word": "beneficiary",
+        "translation": "供託受領者 (受給者)"
+      },
+      {
+        "word": "judicial affirmation",
+        "translation": "司法上の確認"
+      },
+      {
+        "word": "final and binding",
+        "translation": "確定した"
+      },
+      {
+        "word": "nullifying",
+        "translation": "無効にする"
+      },
+      {
+        "word": "rightful",
+        "translation": "正当な"
+      }
+    ]
   }
 ]

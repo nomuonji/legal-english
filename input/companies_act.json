@@ -13142,5 +13142,119 @@
         "translation": "勘定"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Independent Auditor",
+    "definition": "An external auditor (usually a certified public accountant or auditing firm) statutorily required for large stock companies to audit the financial statements and attached supplementary schedules.",
+    "japaneseDefinition": "大会社などの株式会社に設置が義務づけられる、計算書類や事業報告などの監査を行う外部の専門家（公認会計士または監査法人）。",
+    "japaneseWordTranslation": "会計監査人 (Kaikei Kansanin)",
+    "legalContext": "Companies Act Art. 396: Duties of the Accounting Auditor (Independent Auditor).",
+    "japaneseLegalContext": "会社法第396条（会計監査人の職務）",
+    "exampleSentence": "The appointment or dismissal of an Independent Auditor requires a special resolution passed at the General Meeting of Shareholders.",
+    "exampleTranslation": "会計監査人の選任または解任には、株主総会における特別決議が必要である。",
+    "vocabularyList": [
+      {
+        "word": "stock company",
+        "translation": "株式会社 (kabushiki kaisha)"
+      },
+      {
+        "word": "certified public accountant",
+        "translation": "公認会計士 (kōnin kaikeishi)"
+      },
+      {
+        "word": "auditing firm",
+        "translation": "監査法人 (kansa hōjin)"
+      },
+      {
+        "word": "financial statements",
+        "translation": "計算書類 (keisan shorui)"
+      },
+      {
+        "word": "appointment",
+        "translation": "選任 (sennin)"
+      },
+      {
+        "word": "dismissal",
+        "translation": "解任 (kainin)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Act Beyond Corporate Purpose",
+    "definition": "An action taken by a company or its representative organs that falls outside the scope of the objectives explicitly stipulated in its Articles of Incorporation.",
+    "japaneseDefinition": "会社が、定款に定められた目的の範囲外で行う行為。代表取締役などがこれを行った場合、会社および第三者に損害を与える責任が発生しうる。",
+    "japaneseWordTranslation": "目的外行為 (Mokutekigai Kōi)",
+    "legalContext": "Companies Act Art. 350: Liability for acts of the representative director (may be applied to acts exceeding the corporate purpose, creating liability to third parties).",
+    "japaneseLegalContext": "会社法第350条（代表取締役の行為）",
+    "exampleSentence": "If the representative director executes a contract constituting an Act Beyond Corporate Purpose, the company may still be held liable to the third party under certain conditions.",
+    "exampleTranslation": "代表取締役が目的外行為となる契約を締結した場合でも、特定の条件下で会社は第三者に対して責任を負う可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "Articles of Incorporation",
+        "translation": "定款 (teikan)"
+      },
+      {
+        "word": "scope of objectives",
+        "translation": "目的の範囲 (mokuteki no han'i)"
+      },
+      {
+        "word": "representative organs",
+        "translation": "代表機関 (daihyō kikan)"
+      },
+      {
+        "word": "executes a contract",
+        "translation": "契約を締結する (keiyaku o tēketsu suru)"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者 (daisansha)"
+      },
+      {
+        "word": "held liable",
+        "translation": "責任を負う (sekinin o ou)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Share Allotment Right",
+    "definition": "The right granted to existing shareholders, allowing them to subscribe for new shares in proportion to their current holdings when the company issues new shares.",
+    "japaneseDefinition": "株式会社が新たに株式を発行する際に、既存の株主に対して、その持株比率に応じて新株の割当を受ける権利。",
+    "japaneseWordTranslation": "株主割当権 (Kabunushi Wariateken)",
+    "legalContext": "Companies Act Art. 202: Cases where shareholders are granted the right to be allotted shares (Share Allotment Right).",
+    "japaneseLegalContext": "会社法第202条（株主に株式の割当てを受ける権利を与える場合）",
+    "exampleSentence": "The exercise of the Share Allotment Right must be conducted within the prescribed period stipulated by the Board of Directors.",
+    "exampleTranslation": "株主割当権の行使は、取締役会によって定められた所定の期間内に行わなければならない。",
+    "vocabularyList": [
+      {
+        "word": "existing shareholders",
+        "translation": "既存の株主 (kizon no kabunushi)"
+      },
+      {
+        "word": "subscribe for shares",
+        "translation": "株式の引受け (kabushiki no hikiuke)"
+      },
+      {
+        "word": "in proportion to",
+        "translation": "〜に応じて (ni ōjite)"
+      },
+      {
+        "word": "holdings",
+        "translation": "持株 (mochibuku)"
+      },
+      {
+        "word": "exercise",
+        "translation": "行使 (kōshi)"
+      },
+      {
+        "word": "prescribed period",
+        "translation": "所定の期間 (shotē no kikan)"
+      }
+    ]
   }
 ]

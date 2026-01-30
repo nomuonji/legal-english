@@ -1,42 +1,38 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Prayer for Relief",
-  "definition": "The specific formal demand or request made by the claimant in their complaint, setting forth exactly what judgment or remedy they seek from the court (e.g., payment of a specific sum, specific performance, or declaratory recognition of a status).",
-  "japaneseDefinition": "原告が訴状において、裁判所に対してどのような内容の判決を求めているかを具体的に示す部分。請求の趣旨とも呼ばれる。",
-  "japaneseWordTranslation": "請求の趣旨 (せいきゅうのしゅし)",
-  "legalContext": "Code of Civil Procedure Art. 133(2)(ii): Matters to be entered in a complaint—the substance of the claim and the cause of the claim.",
-  "japaneseLegalContext": "民事訴訟法第133条第2項第2号: 訴状に記載すべき事項として、請求の趣旨及び請求の原因。",
-  "exampleSentence": "The claimant amended the complaint to clarify the exact sum of money demanded in the **prayer for relief**.",
-  "exampleTranslation": "原告は、請求の趣旨において要求する正確な金額を明確にするため、訴状を補正した。",
+  "word": "Rights of Demand and Search",
+  "definition": "Defenses available only to an ordinary surety (not a joint and several guarantor) which allow the surety to resist the obligee’s demand for performance until the obligee has first pressed the principal obligor (Demand) or sought execution against the principal obligor’s property (Search).",
+  "japaneseDefinition": "通常の保証人が債権者からの履行請求に対し、主たる債務者への催告（催告の抗弁権）や主たる債務者の財産への強制執行（検索の抗弁権）を先に求めることができる権利。",
+  "japaneseWordTranslation": "催告・検索の抗弁権 (さいこく・けんさくのこうべんけん)",
+  "legalContext": "Civil Code Art. 452 (Right of Demand); Art. 453 (Right of Search). These rights are extinguished if the surety assumes the status of a joint and several guarantor.",
+  "japaneseLegalContext": "民法第452条（催告の抗弁）、第453条（検索の抗弁）。これらの権利は連帯保証人には認められない。",
+  "exampleSentence": "The surety successfully invoked the rights of demand and search, compelling the creditor to confirm that the principal obligor lacked sufficient attachable assets before proceeding against the surety’s own collateral.",
+  "exampleTranslation": "保証人は、催告・検索の抗弁権を行使し、債権者が保証人自身の担保に対して手続きを進める前に、主たる債務者に十分な差押可能な財産がないことを確認するよう強制した。",
   "vocabularyList": [
     {
-      "word": "claimant",
-      "translation": "原告"
+      "word": "ordinary surety",
+      "translation": "通常の保証人"
     },
     {
-      "word": "complaint",
-      "translation": "訴状"
+      "word": "principal obligor",
+      "translation": "主たる債務者"
     },
     {
-      "word": "remedy",
-      "translation": "救済"
+      "word": "compelling",
+      "translation": "強制する"
     },
     {
-      "word": "specific performance",
-      "translation": "特定履行"
+      "word": "creditor",
+      "translation": "債権者"
     },
     {
-      "word": "substance of the claim",
-      "translation": "請求の趣旨"
+      "word": "demand for performance",
+      "translation": "履行の請求"
     },
     {
-      "word": "cause of the claim",
-      "translation": "請求の原因"
-    },
-    {
-      "word": "amend",
-      "translation": "補正する"
+      "word": "collateral",
+      "translation": "担保"
     }
   ]
 }

@@ -1,38 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Rights of Demand and Search",
-  "definition": "Defenses available only to an ordinary surety (not a joint and several guarantor) which allow the surety to resist the obligee’s demand for performance until the obligee has first pressed the principal obligor (Demand) or sought execution against the principal obligor’s property (Search).",
-  "japaneseDefinition": "通常の保証人が債権者からの履行請求に対し、主たる債務者への催告（催告の抗弁権）や主たる債務者の財産への強制執行（検索の抗弁権）を先に求めることができる権利。",
-  "japaneseWordTranslation": "催告・検索の抗弁権 (さいこく・けんさくのこうべんけん)",
-  "legalContext": "Civil Code Art. 452 (Right of Demand); Art. 453 (Right of Search). These rights are extinguished if the surety assumes the status of a joint and several guarantor.",
-  "japaneseLegalContext": "民法第452条（催告の抗弁）、第453条（検索の抗弁）。これらの権利は連帯保証人には認められない。",
-  "exampleSentence": "The surety successfully invoked the rights of demand and search, compelling the creditor to confirm that the principal obligor lacked sufficient attachable assets before proceeding against the surety’s own collateral.",
-  "exampleTranslation": "保証人は、催告・検索の抗弁権を行使し、債権者が保証人自身の担保に対して手続きを進める前に、主たる債務者に十分な差押可能な財産がないことを確認するよう強制した。",
+  "word": "Joint Principal",
+  "definition": "A legal concept stipulated in Japanese criminal law where multiple individuals collaborate with a shared criminal intent to execute a crime, resulting in each participant being held liable as a principal for the entirety of the offense.",
+  "japaneseDefinition": "二人以上の者が共同して犯罪を実行した場合に、各自を正犯として処罰する法理。行為の分担にかかわらず、全員が全体の実行行為について責任を負う。",
+  "japaneseWordTranslation": "共同正犯 (kyōdō seihan)",
+  "legalContext": "Criminal Code (刑法) Art. 60 (Joint Principal).",
+  "japaneseLegalContext": "刑法第60条（共同正犯）。",
+  "exampleSentence": "Although only one defendant brandished the weapon, both defendants were charged as joint principals because they had previously agreed on the plan and executed the robbery in concert.",
+  "exampleTranslation": "一人の被告人だけが凶器を振りかざしたが、両被告人は事前に計画に合意し、共同して強盗を実行したため、共同正犯として起訴された。",
   "vocabularyList": [
     {
-      "word": "ordinary surety",
-      "translation": "通常の保証人"
+      "word": "collaborate",
+      "translation": "共同する"
     },
     {
-      "word": "principal obligor",
-      "translation": "主たる債務者"
+      "word": "shared criminal intent",
+      "translation": "共謀（きょうぼう）、共同の意思"
     },
     {
-      "word": "compelling",
-      "translation": "強制する"
+      "word": "held liable",
+      "translation": "責任を負わされる"
     },
     {
-      "word": "creditor",
-      "translation": "債権者"
+      "word": "brandish the weapon",
+      "translation": "凶器を振りかざす"
     },
     {
-      "word": "demand for performance",
-      "translation": "履行の請求"
+      "word": "execute the robbery",
+      "translation": "強盗を実行する"
     },
     {
-      "word": "collateral",
-      "translation": "担保"
+      "word": "in concert",
+      "translation": "共同して"
     }
   ]
 }

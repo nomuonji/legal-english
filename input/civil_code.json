@@ -17768,5 +17768,119 @@
         "translation": "紛争"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Dual Representation and Self-Contract Prohibition",
+    "definition": "The principle that a representative may not conclude a contract on behalf of the principal with themselves (self-contract) or act as the representative for both parties to a contract (dual representation), unless expressly permitted or the act is solely for the benefit of the principal. Such acts are generally voidable.",
+    "japaneseDefinition": "代理人が本人と自己との間で契約を締結すること（自己契約）や、代理人が当事者双方の代理人となること（双方代理）を禁止する原則。これらの行為は、原則として本人の許諾がある場合や債務の履行等、本人の利益を害さない場合に限り有効となる。",
+    "japaneseWordTranslation": "自己契約及び双方代理の禁止 (じこけいやくおよびそうほうだいりのきんし)",
+    "legalContext": "Civil Code Art. 108 (Restriction on Dual Representation and Self-Contract): A person acting as a representative may not perform a juridical act with themselves, or as the representative of both parties, unless the principal has permitted the act.",
+    "japaneseLegalContext": "民法第108条（自己契約及び双方代理の禁止）：同一の行為について、相手方の代理人となり、又は当事者双方の代理人となることはできない。ただし、債務の履行及び本人があらかじめ許諾した行為については、この限りでない。",
+    "exampleSentence": "The sale agreement was challenged based on the dual representation and self-contract prohibition, as the agent failed to obtain prior authorization from the principal.",
+    "exampleTranslation": "その売買契約は、代理人が本人の事前許可を得ていなかったため、自己契約及び双方代理の禁止に基づいて異議を申し立てられた。",
+    "vocabularyList": [
+      {
+        "word": "principal",
+        "translation": "本人 (ほんにん)"
+      },
+      {
+        "word": "representative",
+        "translation": "代理人 (だいりにん)"
+      },
+      {
+        "word": "voidable",
+        "translation": "取り消し得る (とりけしうる)"
+      },
+      {
+        "word": "self-contract",
+        "translation": "自己契約 (じこけいやく)"
+      },
+      {
+        "word": "dual representation",
+        "translation": "双方代理 (そうほうだいり)"
+      },
+      {
+        "word": "prior authorization",
+        "translation": "事前許諾 (じぜんきょだく)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Forfeiture due to Fault-based Performance Impossibility",
+    "definition": "In a bilateral contract, if the obligor's performance becomes impossible due to a cause attributable to the obligor, the obligee is relieved of their counter-performance obligation, but they may claim damages for non-performance.",
+    "japaneseDefinition": "双務契約において、債務者の責めに帰すべき事由によって給付が不能となった場合、債権者は反対給付の義務を免れるものの、債務者に対しては債務不履行に基づく損害賠償を請求できること。",
+    "japaneseWordTranslation": "債務者の帰責事由による給付不能 (さいむしゃのきせきじゆうによるきゅうふふのう)",
+    "legalContext": "Civil Code Art. 536 (Risk Allocation in Synallagmatic Contracts) provides the rules for risk allocation when performance becomes impossible, distinguishing cases attributable to the obligor from those that are not.",
+    "japaneseLegalContext": "民法第536条（債務者の危険負担等）：債務者の責めに帰すべき事由によって前条第二項に規定する場合において債務を免れたときは、債権者は、反対給付を拒むことができない。",
+    "exampleSentence": "The contractor faced forfeiture due to fault-based performance impossibility when the construction materials, under their care, were destroyed by negligence.",
+    "exampleTranslation": "請負業者が管理下の建設資材を過失により滅失させた際、債務者の帰責事由による給付不能として、その対価請求権を失った。",
+    "vocabularyList": [
+      {
+        "word": "bilateral contract",
+        "translation": "双務契約 (そうむけいやく)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "counter-performance",
+        "translation": "反対給付 (はんたいきゅうふ)"
+      },
+      {
+        "word": "attributable cause",
+        "translation": "帰責事由 (きせきじゆう)"
+      },
+      {
+        "word": "damages for non-performance",
+        "translation": "債務不履行による損害賠償 (さいむふりこうによるそんがいばいしょう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Unavoidable Grounds for Contractual Termination",
+    "definition": "A provision found in certain long-term or continuing contracts (especially services or delegation) allowing either party to terminate the contract immediately upon showing truly unavoidable circumstances, even if they must compensate the other party for damages resulting from that termination.",
+    "japaneseDefinition": "継続的な契約（特に委任や請負）において、当事者のいずれかが、やむを得ない事由がある場合には、相手方に損害を賠償して直ちに契約を解除できる旨の定め。",
+    "japaneseWordTranslation": "やむを得ない事由による契約の解除 (やむをえないじゆうによるけいやくのかいじょ)",
+    "legalContext": "Civil Code Art. 651 (Mandate Contract): If the Mandate Contract is concluded for an indefinite period, either party may terminate it at any time. If the termination is due to unavoidable grounds, the terminating party must compensate the other party for resulting damages.",
+    "japaneseLegalContext": "民法第651条（委任の解除）：当事者が委任の終了を妨げたときであっても、やむを得ない事由があるときは、各当事者は、いつでも解除することができる。",
+    "exampleSentence": "The consultancy firm invoked unavoidable grounds for contractual termination after the sudden and severe illness of their lead expert, offering appropriate indemnity to the client.",
+    "exampleTranslation": "コンサルタント会社は、主幹専門家の突然の重病というやむを得ない事由による契約の解除を主張し、依頼者に対し適切な損害を賠償した。",
+    "vocabularyList": [
+      {
+        "word": "indemnity",
+        "translation": "賠償 (ばいしょう)"
+      },
+      {
+        "word": "continuing contract",
+        "translation": "継続的契約 (けいぞくてきけいやく)"
+      },
+      {
+        "word": "mandate contract",
+        "translation": "委任契約 (いにんけいやく)"
+      },
+      {
+        "word": "unavoidable grounds",
+        "translation": "やむを得ない事由 (やむをえないじゆう)"
+      },
+      {
+        "word": "compensate for damages",
+        "translation": "損害を賠償する (そんがいをばいしょうする)"
+      },
+      {
+        "word": "terminate immediately",
+        "translation": "直ちに解除する (ただちにかいじょする)"
+      }
+    ]
   }
 ]

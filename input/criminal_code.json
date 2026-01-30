@@ -2,44 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Joint Principal",
-    "definition": "A legal concept stipulated in Japanese criminal law where multiple individuals collaborate with a shared criminal intent to execute a crime, resulting in each participant being held liable as a principal for the entirety of the offense.",
-    "japaneseDefinition": "二人以上の者が共同して犯罪を実行した場合に、各自を正犯として処罰する法理。行為の分担にかかわらず、全員が全体の実行行為について責任を負う。",
-    "japaneseWordTranslation": "共同正犯 (kyōdō seihan)",
-    "legalContext": "Criminal Code (刑法) Art. 60 (Joint Principal).",
-    "japaneseLegalContext": "刑法第60条（共同正犯）。",
-    "exampleSentence": "Although only one defendant brandished the weapon, both defendants were charged as joint principals because they had previously agreed on the plan and executed the robbery in concert.",
-    "exampleTranslation": "一人の被告人だけが凶器を振りかざしたが、両被告人は事前に計画に合意し、共同して強盗を実行したため、共同正犯として起訴された。",
-    "vocabularyList": [
-      {
-        "word": "collaborate",
-        "translation": "共同する"
-      },
-      {
-        "word": "shared criminal intent",
-        "translation": "共謀（きょうぼう）、共同の意思"
-      },
-      {
-        "word": "held liable",
-        "translation": "責任を負わされる"
-      },
-      {
-        "word": "brandish the weapon",
-        "translation": "凶器を振りかざす"
-      },
-      {
-        "word": "execute the robbery",
-        "translation": "強盗を実行する"
-      },
-      {
-        "word": "in concert",
-        "translation": "共同して"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Punishable Negligence",
     "definition": "Criminal offenses where liability arises from the failure to exercise the required standard of care (duty of care), rather than from intentional action or malice. In Japan, negligence is only punishable if explicitly stipulated by law.",
     "japaneseDefinition": "行為者が要求される注意義務を怠ったために犯罪の結果を発生させた場合に成立する犯罪。日本では、過失による行為が法律で特に定められている場合に限り処罰される（過失犯処罰の謙抑性の原則）。",
@@ -14686,6 +14648,120 @@
       {
         "word": "detention",
         "translation": "勾留"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Unlawful Intent to Appropriate",
+    "definition": "The specific subjective element (ulterior purpose) required for crimes of property taking, such as larceny, robbery, and embezzlement, defined as the intent to exclude the rightful owner and utilize the property as if it were one's own, in conformity with its economic use.",
+    "japaneseDefinition": "窃盗罪や横領罪などの財産犯において要求される主観的要素（目的犯の故意）であり、権利者を排除し、経済的用法に従いその財物を自己の所有物として利用処分する意思をいう。",
+    "japaneseWordTranslation": "不法領得の意思 (ふほうりょうとくのいし)",
+    "legalContext": "Criminal Code Arts. 235 (Larceny) and 252 (Embezzlement): Doctrinal element required for the fulfillment of the statutory elements of theft and embezzlement.",
+    "japaneseLegalContext": "刑法第235条（窃盗）及び第252条（横領）: 構成要件の充足に必要とされる財産犯の主観的要件。",
+    "exampleSentence": "The key defense argument was that the defendant lacked the **Unlawful Intent to Appropriate**, claiming he intended merely to temporarily borrow the item.",
+    "exampleTranslation": "主要な弁護の主張は、被告人が一時的に物品を借りるつもりだったと述べ、不法領得の意思がなかったという点であった。",
+    "vocabularyList": [
+      {
+        "word": "larceny",
+        "translation": "窃盗罪 (せっとうざい)"
+      },
+      {
+        "word": "embezzlement",
+        "translation": "横領罪 (おうりょうざい)"
+      },
+      {
+        "word": "subjective element",
+        "translation": "主観的要素 (しゅかんてきようそ)"
+      },
+      {
+        "word": "statutory elements",
+        "translation": "構成要件 (こうせいようけん)"
+      },
+      {
+        "word": "defense argument",
+        "translation": "弁護の主張 (べんごのしゅちょう)"
+      },
+      {
+        "word": "rightful owner",
+        "translation": "権利者 (けんりしゃ)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Maximum Aggregate Sentence Limit",
+    "definition": "The statutory limitation on the maximum term of imprisonment with or without labor (or the maximum amount of a fine) that can be imposed when sentences for two or more concurrent offenses are aggregated.",
+    "japaneseDefinition": "併合罪として二個以上の罪を処断する場合に科される刑（懲役、禁錮または罰金）の期間・金額を合算する際に設けられる法律上の上限。",
+    "japaneseWordTranslation": "併合罪の制限 (へいごうざいのせいげん)",
+    "legalContext": "Criminal Code Art. 47: The longest term of imprisonment shall not exceed the maximum term of the most severe crime multiplied by one and a half, but in no case shall it exceed 30 years.",
+    "japaneseLegalContext": "刑法第47条（有期の懲役又は禁錮の併合罪加重）: 併合罪として処断する場合、最も重い罪の刑の長期の1.5倍を超えることはできないが、30年を超えることはできない。",
+    "exampleSentence": "The court applied the **Maximum Aggregate Sentence Limit** under Article 47, sentencing the defendant to 25 years despite the combined maximum terms exceeding 40 years.",
+    "exampleTranslation": "裁判所は刑法第47条に基づく併合罪の制限を適用し、合算された長期が40年を超えていたにもかかわらず、被告人に懲役25年を言い渡した。",
+    "vocabularyList": [
+      {
+        "word": "concurrent offenses",
+        "translation": "併合罪 (へいごうざい)"
+      },
+      {
+        "word": "imprisonment with labor",
+        "translation": "懲役 (ちょうえき)"
+      },
+      {
+        "word": "imprisonment without labor",
+        "translation": "禁錮 (きんこ)"
+      },
+      {
+        "word": "aggregated",
+        "translation": "合算された (がっさんされた)"
+      },
+      {
+        "word": "statutory limitation",
+        "translation": "法律上の制限 (ほうりつじょうのせいげん)"
+      },
+      {
+        "word": "maximum term",
+        "translation": "長期 (ちょうき)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Indirect Perpetration Doctrine",
+    "definition": "A major theoretical construction in criminal law holding that a person who utilizes an innocent, non-responsible, or involuntarily acting agent as a 'tool' to realize a crime is considered the principal offender, rather than merely an instigator or accessory.",
+    "japaneseDefinition": "行為者が、犯罪の構成要件的故意のない者や責任能力のない者など、第三者を『道具』として利用し、自己の犯罪を実現する場合、道具を利用した者を正犯として処罰すべきであるとする刑法上の理論。",
+    "japaneseWordTranslation": "間接正犯の理論 (かんせつせいはんのりろん)",
+    "legalContext": "Criminal Code Art. 60 (Joint Perpetration): This doctrine is applied through interpretation of the concept of 'perpetration' to determine the principal offender when an agent is used.",
+    "japaneseLegalContext": "刑法第60条（共同正犯）: 「実行」行為の解釈を通じて適用され、道具を利用した者（間接正犯者）を実行行為者として正犯性を認める。",
+    "exampleSentence": "The use of a mentally incapable adult to submit fraudulent documents to the bank was prosecuted under the **Indirect Perpetration Doctrine**.",
+    "exampleTranslation": "精神的責任能力のない成人を使い、銀行に不正な文書を提出させた行為は、間接正犯の理論に基づいて訴追された。",
+    "vocabularyList": [
+      {
+        "word": "principal offender",
+        "translation": "正犯 (せいはん)"
+      },
+      {
+        "word": "agent",
+        "translation": "行為主体／道具 (こういしゅたい／どうぐ)"
+      },
+      {
+        "word": "non-responsible",
+        "translation": "責任能力のない (せきにんのうりょくのない)"
+      },
+      {
+        "word": "instigator",
+        "translation": "教唆犯 (きょうさはん)"
+      },
+      {
+        "word": "fraudulent documents",
+        "translation": "不正な文書 (ふせいなぶんしょ)"
+      },
+      {
+        "word": "prosecuted",
+        "translation": "訴追された (そついされた)"
       }
     ]
   }

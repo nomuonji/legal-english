@@ -15854,5 +15854,81 @@
         "translation": "訴訟指揮"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designation of Competent Court",
+    "definition": "A judicial procedure where a higher court designates which specific lower court must exercise jurisdiction over a case, typically when the proper venue cannot be determined or when a court is unable to exercise its jurisdiction due to legal or factual issues.",
+    "japaneseDefinition": "法令に基づき管轄裁判所を定められない場合や、裁判所が法律上の理由等により管轄権を行使できない場合に、上級裁判所が職権をもって管轄裁判所を指定する制度。",
+    "japaneseWordTranslation": "管轄指定 (かんかつしてい)",
+    "legalContext": "Civil Procedure Code Art. 4: Grounds for Designation of Competent Court.",
+    "japaneseLegalContext": "民事訴訟法第4条：管轄指定の要件。",
+    "exampleSentence": "The Tokyo High Court issued a Designation of Competent Court after the two District Courts involved jointly determined that the legal basis for venue could not be resolved by agreement.",
+    "exampleTranslation": "関与した二つの地方裁判所が裁判籍の法的根拠を合意で解決できないと共同で判断した後、東京高等裁判所は管轄指定を発した。",
+    "vocabularyList": [
+      {
+        "word": "Higher court",
+        "translation": "上級裁判所 (じょうきゅうさいばんしょ)"
+      },
+      {
+        "word": "Jurisdiction",
+        "translation": "管轄権 (かんかつけん)"
+      },
+      {
+        "word": "Venue",
+        "translation": "裁判籍 (さいばんせき)"
+      },
+      {
+        "word": "District Court",
+        "translation": "地方裁判所 (ちほうさいばんしょ)"
+      },
+      {
+        "word": "Legal basis",
+        "translation": "法的根拠 (ほうてきこんきょ)"
+      },
+      {
+        "word": "To resolve by agreement",
+        "translation": "合意で解決する (ごういでかいけつする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Title",
+    "definition": "An authoritative document or instrument that legally confirms the existence of a private law claim and its content, serving as the prerequisite basis for commencing compulsory execution proceedings.",
+    "japaneseDefinition": "私法上の請求権の存在とその内容を公的に証明する公文書であり、債権者が強制執行手続を開始するための前提となる基礎的文書。",
+    "japaneseWordTranslation": "債務名義 (さいむめいぎ)",
+    "legalContext": "Civil Execution Act Art. 22: Types of Execution Titles (e.g., final judgment, settlement protocol, notarized deed).",
+    "japaneseLegalContext": "民事執行法第22条：債務名義の種類（例：確定判決、和解調書、公正証書）。",
+    "exampleSentence": "In order to enforce the judgment debt, the obligee must first acquire an Execution Title endorsed with an execution clause from the court clerk.",
+    "exampleTranslation": "判決債務を執行するために、債権者はまず裁判所書記官による執行文の付与を受けた債務名義を取得しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Compulsory execution",
+        "translation": "強制執行 (きょうせいしっこう)"
+      },
+      {
+        "word": "Obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "Judgment debt",
+        "translation": "判決債務 (はんけつさいむ)"
+      },
+      {
+        "word": "Execution clause",
+        "translation": "執行文 (しっこうぶん)"
+      },
+      {
+        "word": "Court clerk",
+        "translation": "裁判所書記官 (さいばんしょしょきかん)"
+      },
+      {
+        "word": "Prerequisite basis",
+        "translation": "前提となる基礎 (ぜんていとなるきそ)"
+      }
+    ]
   }
 ]

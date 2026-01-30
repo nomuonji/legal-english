@@ -12273,5 +12273,119 @@
         "translation": "義務付けられた"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registrar-Initiated Factual Entry",
+    "definition": "The official power of the registrar (assisted by a Land and House Investigator) to create or update the property description segment of the register (表題登記) when the property owner fails to meet their mandatory obligation to apply for such registration.",
+    "japaneseDefinition": "不動産の所有者が表題登記の申請義務を履行しない場合に、登記官が職権で当該登記を行うこと。通常、土地家屋調査士による調査が先行する。",
+    "japaneseWordTranslation": "職権による表題登記 (しょっけんによるひょうだいとうき)",
+    "legalContext": "Real Property Registration Act, Article 47 (Duty to Apply for Factual Registration) and Article 29(1) (Power of Registrar).",
+    "japaneseLegalContext": "不動産登記法第47条、第29条第1項（登記官の権限）",
+    "exampleSentence": "If the new building owner neglected their duty for over a month, the registrar may resort to a Registrar-Initiated Factual Entry after commissioning a property status investigation.",
+    "exampleTranslation": "新築建物の所有者が1か月以上申請義務を怠った場合、登記官は不動産の現況調査を依頼した後、職権による表題登記を行うことができる。",
+    "vocabularyList": [
+      {
+        "word": "Registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "property description segment",
+        "translation": "表題部"
+      },
+      {
+        "word": "mandatory obligation",
+        "translation": "義務"
+      },
+      {
+        "word": "commissioning",
+        "translation": "委任／依頼"
+      },
+      {
+        "word": "property status investigation",
+        "translation": "現況調査"
+      },
+      {
+        "word": "neglected their duty",
+        "translation": "義務を怠った"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sectional Register Separation",
+    "definition": "A procedure mandated under the Real Property Registration Act to divide or establish an independent register record for a unit (e.g., an apartment or office) within a larger sectional ownership building, typically triggered by a structural change or the transfer of a unit's rights.",
+    "japaneseDefinition": "区分建物のうち、構造または権利の変動等により、既存の登記記録から分離して、当該区分建物専用の登記記録を新たに設ける手続。",
+    "japaneseWordTranslation": "区分登記記録の分離 (くぶんとうききろくのぶんり)",
+    "legalContext": "Real Property Registration Act, Article 56 (Application for Factual Registration for Sectional Buildings).",
+    "japaneseLegalContext": "不動産登記法第56条（区分建物の表題登記の申請）",
+    "exampleSentence": "The developer had to undertake a Sectional Register Separation procedure after amending the building plan to convert two units into a single large residence.",
+    "exampleTranslation": "デベロッパーは、2つの区画を1つの大きな住居に変更するために建築計画を修正した後、区分登記記録の分離手続を行わなければならなかった。",
+    "vocabularyList": [
+      {
+        "word": "sectional ownership building",
+        "translation": "区分建物"
+      },
+      {
+        "word": "unit",
+        "translation": "区画"
+      },
+      {
+        "word": "register record",
+        "translation": "登記記録"
+      },
+      {
+        "word": "structural change",
+        "translation": "構造の変更"
+      },
+      {
+        "word": "amending the building plan",
+        "translation": "建築計画を修正する"
+      },
+      {
+        "word": "larger residence",
+        "translation": "大きな住居"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandate for Remedial Submission",
+    "definition": "An administrative order issued by the registrar when a registration application contains formal defects (e.g., missing documents, incorrect figures). The order grants the applicant a short period to correct the issue, allowing the application to proceed and preventing its immediate rejection.",
+    "japaneseDefinition": "登記申請に形式的な不備（添付書類の不足や記載事項の誤りなど）がある場合、登記官が申請人に対して一定期間内にその不備を是正・補完するように命じる処分。これにより却下を免れる。",
+    "japaneseWordTranslation": "補正命令 (ほせいめいれい)",
+    "legalContext": "Real Property Registration Act, Article 25 (Grounds for Rejection) and Article 26 (Correction of Defects).",
+    "japaneseLegalContext": "不動産登記法第25条（却下事由）および第26条（補正）",
+    "exampleSentence": "The attorney received a Mandate for Remedial Submission because the power of attorney document submitted with the application lacked the necessary certification of the corporate seal impression.",
+    "exampleTranslation": "提出された申請の委任状に法人の印鑑証明書が添付されていなかったため、弁護士は補正命令を受け取った。",
+    "vocabularyList": [
+      {
+        "word": "administrative order",
+        "translation": "行政処分"
+      },
+      {
+        "word": "formal defects",
+        "translation": "形式的な不備"
+      },
+      {
+        "word": "supplement missing documents",
+        "translation": "書類を補完する"
+      },
+      {
+        "word": "preventing rejection",
+        "translation": "却下を免れる"
+      },
+      {
+        "word": "power of attorney",
+        "translation": "委任状"
+      },
+      {
+        "word": "corporate seal impression",
+        "translation": "法人の印鑑"
+      }
+    ]
   }
 ]

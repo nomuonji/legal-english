@@ -12674,5 +12674,81 @@
         "translation": "添付書類"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Assertion Bar of Internal Restrictions",
+    "definition": "The principle, facilitated by Commercial Registration, stipulating that a company cannot assert internal limitations on the representative director’s authority against a third party unless that limitation has been duly registered.",
+    "japaneseDefinition": "会社が代表取締役の権限に加えた制限は、善意の第三者に対抗できないという原則。登記をすることで制限の対抗力を得る。",
+    "japaneseWordTranslation": "内部制限の対抗制限 (ないぶせいげんのたいこうせいげん)",
+    "legalContext": "Commercial Code Art. 349(5): Limitation on representative authority (applicability facilitated by registration).",
+    "japaneseLegalContext": "会社法第349条第5項: 代表権の制限（登記による対抗力の付与）。",
+    "exampleSentence": "Since the internal restriction limiting the representative director's contract signing ability was not registered, the company faces the Assertion Bar of Internal Restrictions against the counterparty.",
+    "exampleTranslation": "代表取締役の契約締結権限を制限する内部規定が登記されていなかったため、会社は取引相手に対して内部制限の対抗制限を受ける。",
+    "vocabularyList": [
+      {
+        "word": "Internal restriction",
+        "translation": "内部制限"
+      },
+      {
+        "word": "Representative director",
+        "translation": "代表取締役"
+      },
+      {
+        "word": "Authority",
+        "translation": "権限"
+      },
+      {
+        "word": "Contract signing ability",
+        "translation": "契約締結権限"
+      },
+      {
+        "word": "Counterparty",
+        "translation": "取引相手"
+      },
+      {
+        "word": "Duly registered",
+        "translation": "適法に登記された"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of the Business Manager",
+    "definition": "The mandatory registration concerning the appointment, modification of representative authority, or termination of a business manager (Shihainin), which is required to establish or terminate their power in relation to third parties.",
+    "japaneseDefinition": "商人（会社）が選任した支配人の選任、権限の変更、又は支配人たる地位の消滅について、第三者への主張を可能にするために義務付けられた登記手続。",
+    "japaneseWordTranslation": "支配人登記 (しはいにんとうき)",
+    "legalContext": "Commercial Code Art. 20: Registration of Business Manager.",
+    "japaneseLegalContext": "商法第20条: 支配人の登記。",
+    "exampleSentence": "The company failed to file the Registration of the Business Manager's cessation promptly, leading to liability for contracts entered into by the former manager with unknowing third parties.",
+    "exampleTranslation": "その会社は支配人登記の抹消を迅速に行わなかったため、元支配人が善意の第三者と締結した契約について責任を負うことになった。",
+    "vocabularyList": [
+      {
+        "word": "Business manager",
+        "translation": "支配人"
+      },
+      {
+        "word": "Appointment",
+        "translation": "選任"
+      },
+      {
+        "word": "Cessation",
+        "translation": "消滅"
+      },
+      {
+        "word": "Mandatory registration",
+        "translation": "義務付けられた登記"
+      },
+      {
+        "word": "Liability",
+        "translation": "責任"
+      },
+      {
+        "word": "Unknowing third parties",
+        "translation": "善意の第三者"
+      }
+    ]
   }
 ]

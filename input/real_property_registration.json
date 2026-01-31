@@ -12421,5 +12421,81 @@
         "translation": "相対的優先順位 (そうたいてきゆうせんじゅんい)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Jurisdiction of the Registry Office",
+    "definition": "The scope of geographic authority assigned to a specific Registry Office, determining which parcels of real estate may be registered there.",
+    "japaneseDefinition": "各不動産登記所に定められた、管轄区域内の不動産に関する登記事務を処理する権限。",
+    "japaneseWordTranslation": "登記所の管轄 (Tōkijo no Kankatsu)",
+    "legalContext": "Real Property Registration Act, Articles 4-8 (Location-Based Jurisdiction)",
+    "japaneseLegalContext": "不動産登記法第4条～第8条（所在地による管轄）",
+    "exampleSentence": "The application for the creation of a hypothec was rejected because the property fell outside the Jurisdiction of the Registry Office to which it was submitted.",
+    "exampleTranslation": "抵当権設定の申請は、提出された登記所の管轄区域外の不動産であったため却下された。",
+    "vocabularyList": [
+      {
+        "word": "Registry Office",
+        "translation": "登記所"
+      },
+      {
+        "word": "hypothec",
+        "translation": "抵当権"
+      },
+      {
+        "word": "application",
+        "translation": "申請"
+      },
+      {
+        "word": "rejected",
+        "translation": "却下された"
+      },
+      {
+        "word": "parcel",
+        "translation": "一筆の土地"
+      },
+      {
+        "word": "real estate",
+        "translation": "不動産"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Trust Register Record",
+    "definition": "A supplementary record attached to the real property register, detailing the terms of a trust when the registered property is held as trust assets.",
+    "japaneseDefinition": "不動産が信託財産である場合に、信託契約の内容（委託者、受託者、受益者、信託目的など）を公示するために登記記録に付随して作成される公的な記録。",
+    "japaneseWordTranslation": "信託目録 (Shintaku Mokuroku)",
+    "legalContext": "Real Property Registration Act, Article 97 (Mandatory Registration of Trust Particulars)",
+    "japaneseLegalContext": "不動産登記法第97条（信託の登記の記載事項）",
+    "exampleSentence": "Upon the transfer of title to the trustee, a Trust Register Record must be created to publicly disclose the particulars of the trust agreement, including the beneficiary and the trust purpose.",
+    "exampleTranslation": "受託者への所有権移転の際、受益者や信託目的を含む信託契約の詳細を公示するために信託目録を作成しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "trustee",
+        "translation": "受託者"
+      },
+      {
+        "word": "beneficiary",
+        "translation": "受益者"
+      },
+      {
+        "word": "trust purpose",
+        "translation": "信託の目的"
+      },
+      {
+        "word": "transfer of title",
+        "translation": "所有権の移転"
+      },
+      {
+        "word": "trust assets",
+        "translation": "信託財産"
+      },
+      {
+        "word": "publicly disclose",
+        "translation": "公示する"
+      }
+    ]
   }
 ]

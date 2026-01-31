@@ -1,42 +1,38 @@
 {
-  "category": "Civil Preservation (民事保全法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Disposition on Movable Property",
-  "definition": "A preservation measure aimed at maintaining the status quo or temporarily securing the future enforcement of a claim, specifically concerning the control or transfer of physical, movable assets (not real estate).",
-  "japaneseDefinition": "将来の債権の強制的な実現を確保するため、または現状を維持するために、不動産以外の有体動産に対する占有や処分を制限する保全措置。",
-  "japaneseWordTranslation": "動産に対する処分 (どうさんにたいするしょぶん)",
-  "legalContext": "Civil Preservation Act Art. 21: A preservation order concerning a claim based on a specific article shall be issued as a Disposition on Movable Property.",
-  "japaneseLegalContext": "民事保全法第21条: 特定の物に関する請求を保全するための命令は、動産に対する処分として発せられる。",
-  "exampleSentence": "The claimant applied for a Disposition on Movable Property against the rare machinery held in the obligor’s warehouse to prevent its sale to a third party.",
-  "exampleTranslation": "申立人は、第三者への売却を防ぐため、債務者の倉庫に保管されている希少な機械に対する動産に対する処分を申し立てた。",
+  "word": "Punishable Negligence",
+  "definition": "Criminal offenses where liability arises from the failure to exercise the required standard of care (duty of care), rather than from intentional action or malice. In Japan, negligence is only punishable if explicitly stipulated by law.",
+  "japaneseDefinition": "行為者が要求される注意義務を怠ったために犯罪の結果を発生させた場合に成立する犯罪。日本では、過失による行為が法律で特に定められている場合に限り処罰される（過失犯処罰の謙抑性の原則）。",
+  "japaneseWordTranslation": "過失犯 (かしつはん)",
+  "legalContext": "Criminal Code Art. 38, Paragraph 1 (Principle of Intent Requirement): A person who has committed an act unknowingly of having violated the law is not to be punished; provided, however, that punishment for negligence shall be governed by special provisions.",
+  "japaneseLegalContext": "刑法第38条第1項: 罪を犯す意思がない行為は、罰しない。ただし、法律に特別の規定がある場合は、この限りでない。",
+  "exampleSentence": "The defendant's failure to adhere to safety standards led to a conviction for homicide through punishable negligence.",
+  "exampleTranslation": "被告人が安全基準を順守しなかったことが、過失致死罪での有罪判決につながった。",
   "vocabularyList": [
     {
-      "word": "movable property",
-      "translation": "動産"
+      "word": "duty of care",
+      "translation": "注意義務 (ちゅういぎむ)"
     },
     {
-      "word": "status quo",
-      "translation": "現状"
+      "word": "intentional action",
+      "translation": "故意犯 (こいはん)"
     },
     {
-      "word": "rare machinery",
-      "translation": "希少な機械"
+      "word": "stipulated by law",
+      "translation": "法律で定められている (ほうりつでさだめられている)"
     },
     {
-      "word": "claimant",
-      "translation": "請求者、申立人"
+      "word": "adhere to safety standards",
+      "translation": "安全基準を順守する (あんぜんきじゅんをじゅんしゅする)"
     },
     {
-      "word": "warehouse",
-      "translation": "倉庫"
+      "word": "homicide through negligence",
+      "translation": "過失致死罪 (かしつちしざい)"
     },
     {
-      "word": "specific article",
-      "translation": "特定の物"
-    },
-    {
-      "word": "obligor",
-      "translation": "債務者"
+      "word": "conviction",
+      "translation": "有罪判決 (ゆうざいはんけつ)"
     }
   ]
 }

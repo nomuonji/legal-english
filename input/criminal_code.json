@@ -2,44 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Punishable Negligence",
-    "definition": "Criminal offenses where liability arises from the failure to exercise the required standard of care (duty of care), rather than from intentional action or malice. In Japan, negligence is only punishable if explicitly stipulated by law.",
-    "japaneseDefinition": "行為者が要求される注意義務を怠ったために犯罪の結果を発生させた場合に成立する犯罪。日本では、過失による行為が法律で特に定められている場合に限り処罰される（過失犯処罰の謙抑性の原則）。",
-    "japaneseWordTranslation": "過失犯 (かしつはん)",
-    "legalContext": "Criminal Code Art. 38, Paragraph 1 (Principle of Intent Requirement): A person who has committed an act unknowingly of having violated the law is not to be punished; provided, however, that punishment for negligence shall be governed by special provisions.",
-    "japaneseLegalContext": "刑法第38条第1項: 罪を犯す意思がない行為は、罰しない。ただし、法律に特別の規定がある場合は、この限りでない。",
-    "exampleSentence": "The defendant's failure to adhere to safety standards led to a conviction for homicide through punishable negligence.",
-    "exampleTranslation": "被告人が安全基準を順守しなかったことが、過失致死罪での有罪判決につながった。",
-    "vocabularyList": [
-      {
-        "word": "duty of care",
-        "translation": "注意義務 (ちゅういぎむ)"
-      },
-      {
-        "word": "intentional action",
-        "translation": "故意犯 (こいはん)"
-      },
-      {
-        "word": "stipulated by law",
-        "translation": "法律で定められている (ほうりつでさだめられている)"
-      },
-      {
-        "word": "adhere to safety standards",
-        "translation": "安全基準を順守する (あんぜんきじゅんをじゅんしゅする)"
-      },
-      {
-        "word": "homicide through negligence",
-        "translation": "過失致死罪 (かしつちしざい)"
-      },
-      {
-        "word": "conviction",
-        "translation": "有罪判決 (ゆうざいはんけつ)"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Imprisonment with Labor",
     "definition": "A custodial sentence in the Japanese penal system, imposing mandatory labor on the inmate. This is distinct from Imprisonment without Labor (Kinko), which does not mandate labor but permits voluntary work.",
     "japaneseDefinition": "刑務所に拘置し、所定の作業を行わせる自由刑。日本の刑罰において重い刑の一つであり、作業が義務ではない禁錮（きんこ）と区別される。",
@@ -14876,6 +14838,128 @@
       {
         "word": "unauthorized use",
         "translation": "無断使用"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Subsequent Robbery",
+    "definition": "An offense where a person who has committed larceny uses violence or intimidation against the victim or others to retain the stolen goods, avoid arrest, or destroy evidence.",
+    "japaneseDefinition": "窃盗犯が盗んだ財物を回復し、逮捕を免れ、または罪証を隠滅するために、被害者またはその他の者に暴行または脅迫を加えることによって成立する犯罪。",
+    "japaneseWordTranslation": "事後強盗 (じごごうとう)",
+    "legalContext": "Criminal Code, Article 238: Subsequent Robbery is treated as robbery itself, subject to heavier penalties.",
+    "japaneseLegalContext": "刑法第238条（事後強盗）：窃盗が、財物を得てこれを取り返されることを防ぎ、逮捕を免れ、又は罪証を隠滅するために、暴行又は脅迫をしたときは、強盗として論ずる。",
+    "exampleSentence": "The defendant's act of assaulting the store clerk after taking the goods constituted subsequent robbery, not mere assault.",
+    "exampleTranslation": "被告人が商品を持ち去った後に店員に暴行を加えた行為は、単なる暴行ではなく、事後強盗を構成した。",
+    "vocabularyList": [
+      {
+        "word": "larceny",
+        "translation": "窃盗 (せっとう)"
+      },
+      {
+        "word": "violence",
+        "translation": "暴行 (ぼうこう)"
+      },
+      {
+        "word": "intimidation",
+        "translation": "脅迫 (きょうはく)"
+      },
+      {
+        "word": "stolen goods",
+        "translation": "盗まれた財物 (ぬすまれたざいぶつ)"
+      },
+      {
+        "word": "constituted",
+        "translation": "構成した (こうせいした)"
+      },
+      {
+        "word": "avoid arrest",
+        "translation": "逮捕を免れる (たいほをまぬがれる)"
+      },
+      {
+        "word": "subject to heavier penalties",
+        "translation": "重い刑罰に服する (おもいけいばつにふくする)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Concurrence with Statutory Elements",
+    "definition": "A theoretical requirement in criminal law that the subjective mental state (intent or negligence) of the perpetrator must correspond exactly to the objective facts defined in the statutory description of the offense (構成要件).",
+    "japaneseDefinition": "行為者の主観的な心理状態（故意または過失）が、客観的な犯罪の構成要件に定められた事実と厳密に一致しなければならないという刑法理論上の要件。",
+    "japaneseWordTranslation": "構成要件的符合 (こうせいようけんてきふごう)",
+    "legalContext": "General Principle of Criminal Liability (A core requirement for establishing dolus/intent, crucial in addressing issues like error in persona or aberratio ictus).",
+    "japaneseLegalContext": "刑法上の一般原則（故意の成立における中核的な要件であり、人の錯誤や打撃の錯誤などの問題に対処する上で重要）。",
+    "exampleSentence": "Under Japanese criminal theory, the absence of concurrence with statutory elements regarding the victim's death meant that the higher charge could not be successfully proven.",
+    "exampleTranslation": "日本の刑法理論によれば、被害者の死亡に関する構成要件的符合の欠如は、より重い罪状が立証されないことを意味した。",
+    "vocabularyList": [
+      {
+        "word": "subjective mental state",
+        "translation": "主観的な心理状態 (しゅかんてきなしんりじょうたい)"
+      },
+      {
+        "word": "correspond exactly",
+        "translation": "厳密に一致する (げんみつにいっちする)"
+      },
+      {
+        "word": "statutory description of the offense",
+        "translation": "犯罪の法定記述 (はんざいのほうていきじゅつ)"
+      },
+      {
+        "word": "higher charge",
+        "translation": "より重い罪状 (よりおもいざいじょう)"
+      },
+      {
+        "word": "absence",
+        "translation": "欠如 (けつじょ)"
+      },
+      {
+        "word": "criminal theory",
+        "translation": "刑法理論 (けいほうりろん)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Objective Punishability Requirements",
+    "definition": "External, objective facts stipulated by law that must be present for an offense to be punishable, even after the traditional three stages of criminal liability (actus reus, unlawfulness, culpability) are satisfied. These often relate to procedural or political conditions.",
+    "japaneseDefinition": "行為が犯罪の構成要件、違法性、責任の三段階を全て満たした後も、さらに処罰の可能性を担保するために法律上要求される外部的・客観的な条件。通常、手続的または政治的な条件に関わる。",
+    "japaneseWordTranslation": "客観的処罰条件 (きゃっかんてきしょばつじょうけん)",
+    "legalContext": "Criminal Code General Part (These requirements, such as a foreign state's request for punishment, do not affect the unlawfulness or culpability of the act itself).",
+    "japaneseLegalContext": "刑法総論（外国政府からの処罰要求など、行為自体の違法性や責任には影響を与えない外部的要因）。",
+    "exampleSentence": "The prosecution argued that the lapse of the specific treaty period constituted a failure to meet the objective punishability requirements for the war crime charge.",
+    "exampleTranslation": "検察側は、特定の条約期間の失効が、その戦争犯罪の罪状に対する客観的処罰条件を満たさなかったと主張した。",
+    "vocabularyList": [
+      {
+        "word": "external facts",
+        "translation": "外部的事実 (がいぶてきじじつ)"
+      },
+      {
+        "word": "prosecution",
+        "translation": "検察 (けんさつ)"
+      },
+      {
+        "word": "stipulated by law",
+        "translation": "法律で定められた (ほうりつでさだめられた)"
+      },
+      {
+        "word": "unlawfulness",
+        "translation": "違法性 (いほうせい)"
+      },
+      {
+        "word": "culpability",
+        "translation": "責任 (せきにん)"
+      },
+      {
+        "word": "lapse",
+        "translation": "失効 (しっこう)"
+      },
+      {
+        "word": "procedural conditions",
+        "translation": "手続的条件 (てつづきてきじょうけん)"
       }
     ]
   }

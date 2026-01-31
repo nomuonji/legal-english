@@ -12852,5 +12852,107 @@
         "translation": "合併登記 (gappei tōki)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-Opposability of Unrecorded Particulars",
+    "definition": "The statutory rule that facts required to be entered in the public registry (such as the alteration of a director) cannot be asserted against a third party acting in good faith if they have not been formally recorded.",
+    "japaneseDefinition": "登記を要する事項が登記されていない場合、これをもって善意の第三者に対抗することができないとする原則。",
+    "japaneseWordTranslation": "未登記事項の対抗不能 (Mitōki Jikō no Taikō Funō)",
+    "legalContext": "Commercial Registration Act Art. 7: A matter that is required to be recorded cannot be asserted against a third party acting in good faith until its registration is complete.",
+    "japaneseLegalContext": "商業登記法第7条: 登記すべき事項は、登記の後でなければ、これをもって善意の第三者に対抗することができない。",
+    "exampleSentence": "The company faced liability because the Non-Opposability of Unrecorded Particulars prevented them from asserting the representative director’s relocation against a third party acting in good faith.",
+    "exampleTranslation": "未登記事項の対抗不能の原則により、会社は、代表取締役の移転を善意の第三者に対して主張できなかったため、責任を負うことになった。",
+    "vocabularyList": [
+      {
+        "word": "assert",
+        "translation": "主張する (shuchō suru)"
+      },
+      {
+        "word": "statutory rule",
+        "translation": "法廷の規定 (hōtei no kitei)"
+      },
+      {
+        "word": "relocation",
+        "translation": "移転 (iten)"
+      },
+      {
+        "word": "third party acting in good faith",
+        "translation": "善意の第三者 (zen’i no daisan-sha)"
+      },
+      {
+        "word": "recorded particulars",
+        "translation": "登記事項 (tōki jikō)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Formal Scrutiny Standard",
+    "definition": "The standard applied by the Registrar, which dictates that an application for entry must be reviewed solely based on the submitted documents, checking for compliance with legal formalities but not assessing the substantive truth or accuracy of the underlying facts.",
+    "japaneseDefinition": "登記官が申請書類に基づき、申請が形式的な要件を満たしているかのみを審査し、実体的な真実性を調査しないとする審査基準。",
+    "japaneseWordTranslation": "形式的審査基準 (Keishikiteki Shinsa Kijun)",
+    "legalContext": "Commercial Registration Act Art. 24 (grounds for rejection): The Registrar may reject an application only if it violates formal legal requirements.",
+    "japaneseLegalContext": "商業登記法第24条 (却下事由): 登記官は、申請が法令上の形式的要件に違反する場合にのみ、申請を却下することができる。",
+    "exampleSentence": "Adherence to the Formal Scrutiny Standard means the Registrar cannot investigate the valuation of non-cash consideration, provided the requisite application documents are formally sufficient.",
+    "exampleTranslation": "形式的審査基準の遵守は、必要とされる申請書類が形式的に十分である限り、登記官が非現金出資の評価を調査できないことを意味する。",
+    "vocabularyList": [
+      {
+        "word": "adherence",
+        "translation": "遵守 (junshu)"
+      },
+      {
+        "word": "Registrar",
+        "translation": "登記官 (tōkikan)"
+      },
+      {
+        "word": "legal formality",
+        "translation": "法令上の形式 (hōrei-jō no keishiki)"
+      },
+      {
+        "word": "non-cash consideration",
+        "translation": "現物出資 (genbutsu shusshi)"
+      },
+      {
+        "word": "requisite",
+        "translation": "必要な (hitsuyō na)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Dissolution Assumption (Dormant Company)",
+    "definition": "A procedure where, if a stock company fails to make any mandated entries in the public record for a continuous period of twelve years, the Registrar may issue a public notice and subsequently treat the company as having undergone dissolution by operation of law.",
+    "japaneseDefinition": "株式会社が12年間、法律で義務付けられた登記を一度も行わない場合、登記官が公告を経て、その会社を法律上解散したものとして取り扱う制度。",
+    "japaneseWordTranslation": "休眠会社の法定解散擬制 (Kyūmin Kaisha no Hōtei Kaisan Gisei)",
+    "legalContext": "Companies Act Art. 472: If a stock company fails to record any changes for twelve years, the Registrar shall give public notice, and the company shall be deemed dissolved upon the expiration of the given period.",
+    "japaneseLegalContext": "会社法第472条: 株式会社が十二年間登記をしないときは、法務大臣は、その旨を公告し、期間経過により解散したものとみなす。",
+    "exampleSentence": "To avoid Statutory Dissolution Assumption, the dormant company immediately filed an entry of alteration to confirm its continued existence.",
+    "exampleTranslation": "休眠会社の法定解散擬制を避けるため、休眠会社は、その存続を確認するために直ちに事項の変更の登記を申請した。",
+    "vocabularyList": [
+      {
+        "word": "dormant company",
+        "translation": "休眠会社 (kyūmin kaisha)"
+      },
+      {
+        "word": "by operation of law",
+        "translation": "法律の規定により (hōritsu no kitei ni yori)"
+      },
+      {
+        "word": "continuous period",
+        "translation": "継続した期間 (keizoku shita kikan)"
+      },
+      {
+        "word": "mandated entries",
+        "translation": "義務付けられた登記 (gimuzuke rareta tōki)"
+      },
+      {
+        "word": "continued existence",
+        "translation": "存続 (sonzoku)"
+      }
+    ]
   }
 ]

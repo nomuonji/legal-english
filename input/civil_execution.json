@@ -14566,5 +14566,119 @@
         "translation": "仮差押え (kari-sashiosae)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Information Acquisition from Public Agencies",
+    "definition": "A statutory procedure allowing a creditor to petition the court to request information from public entities (such as municipal or tax offices) regarding the debtor's financial assets or employment status, primarily used when debtors fail to cooperate in asset disclosure.",
+    "japaneseDefinition": "債務者が財産開示手続に応じない場合などに、債権者が裁判所に対し、官公署や金融機関などから債務者の財産に関する情報（不動産、給与、預貯金など）を取得することを求める手続。",
+    "japaneseWordTranslation": "官庁等からの情報取得 (Kanchō tō kara no jōhō shutoku)",
+    "legalContext": "Code of Civil Execution (CCE) Art. 206 (Information acquisition procedure from public entities)",
+    "japaneseLegalContext": "民事執行法第206条（官公署等からの情報取得手続）",
+    "exampleSentence": "The creditor filed a motion for **Information Acquisition from Public Agencies** after the debtor failed to comply with the court-mandated disclosure procedure.",
+    "exampleTranslation": "債務者が裁判所が命じた開示手続に応じなかったため、債権者は**官庁等からの情報取得**の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "creditor",
+        "translation": "債権者 (saiken-sha)"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て (mōshitate)"
+      },
+      {
+        "word": "disclosure procedure",
+        "translation": "開示手続 (kaiji tetsuzuki)"
+      },
+      {
+        "word": "public entities",
+        "translation": "官公署 (kankōsho)"
+      },
+      {
+        "word": "financial assets",
+        "translation": "金融資産 (kin'yū shisan)"
+      },
+      {
+        "word": "statutory procedure",
+        "translation": "法定手続 (hōtei tetsuzuki)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Acquirer's Delivery Order",
+    "definition": "A judicial order issued by the execution court commanding the debtor or current occupant to surrender possession of real property to the buyer (successful bidder) after the completion of a judicial sale, facilitating the transfer of physical control.",
+    "japaneseDefinition": "強制的な不動産売却において、買受人が代金を納付した後、占有者に対して不動産をその買受人に明け渡すよう命じる裁判所の決定。",
+    "japaneseWordTranslation": "引渡命令 (Hikidashi meirei)",
+    "legalContext": "Code of Civil Execution (CCE) Art. 83-2 (Delivery order following the sale of real property)",
+    "japaneseLegalContext": "民事執行法第83条の2（不動産の引渡命令）",
+    "exampleSentence": "Following the payment of the realization funds, the buyer sought an **Acquirer's Delivery Order** to remove the previous occupant from the subject property.",
+    "exampleTranslation": "換価代金の納付後、買受人は、対象不動産から旧占有者を立ち退かせるため、**引渡命令**を求めた。",
+    "vocabularyList": [
+      {
+        "word": "judicial order",
+        "translation": "裁判所の命令 (saibansho no meirei)"
+      },
+      {
+        "word": "buyer",
+        "translation": "買受人 (kaiuke-nin)"
+      },
+      {
+        "word": "realization funds",
+        "translation": "換価代金 (kanka daikin)"
+      },
+      {
+        "word": "surrender possession",
+        "translation": "占有の引渡し (sen’yū no hikiwatashi)"
+      },
+      {
+        "word": "subject property",
+        "translation": "対象不動産 (taishō fudōsan)"
+      },
+      {
+        "word": "judicial sale",
+        "translation": "裁判上の売却 (saiban-jō no baiyaku)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Against Undivided Proprietary Share",
+    "definition": "The procedure for levying forced enforcement against a debtor's fractional share of property held under co-ownership. Enforcement typically proceeds against the share itself rather than the physical asset.",
+    "japaneseDefinition": "債務者が複数の者と共有している財産に対して、その債務者が所有する持分権のみを対象として強制的に財産の処分を行う手続。",
+    "japaneseWordTranslation": "持分に対する執行 (Mochibun ni taisuru shikkō)",
+    "legalContext": "Code of Civil Execution (CCE) Art. 143 (Execution against co-owned property)",
+    "japaneseLegalContext": "民事執行法第143条（共有物の執行）",
+    "exampleSentence": "When enforcement targeted only the debtor's portion of the jointly owned asset, the court executed an **Execution Against Undivided Proprietary Share**.",
+    "exampleTranslation": "共有資産のうち債務者の持分のみが強制的な履行の対象となった際、裁判所は**持分に対する執行**を実施した。",
+    "vocabularyList": [
+      {
+        "word": "jointly owned asset",
+        "translation": "共有物 (kyōyūbutsu)"
+      },
+      {
+        "word": "debtor's portion",
+        "translation": "債務者の持分 (saimu-sha no mochibun)"
+      },
+      {
+        "word": "fractional share",
+        "translation": "持分権 (mochibun-ken)"
+      },
+      {
+        "word": "levying",
+        "translation": "賦課する (fuka suru)"
+      },
+      {
+        "word": "forced enforcement",
+        "translation": "強制的な履行 (kyōseiteki na rikkō)"
+      },
+      {
+        "word": "co-ownership",
+        "translation": "共有 (kyōyū)"
+      }
+    ]
   }
 ]

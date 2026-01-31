@@ -14764,5 +14764,119 @@
         "translation": "訴追された (そついされた)"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Concurrence with the Statutory Elements",
+    "definition": "The requirement in criminal law that the accused's conduct matches the objective and subjective descriptive criteria (elements) defined by the relevant penal statute.",
+    "japaneseDefinition": "行為が刑罰法規に規定されている犯罪の構成要件（客観的要素および主観的要素）に合致すること。犯罪論の第一段階。",
+    "japaneseWordTranslation": "構成要件該当性 (こうせいようけんがいとうせい)",
+    "legalContext": "Criminal Theory: This concept forms the first step in the tripartite structure of criminal liability analysis (Kōsei Yōken Gaitōsei, Ihōsei, Yūsekisei).",
+    "japaneseLegalContext": "判例・通説：犯罪の成立には、構成要件該当性、違法性、有責性の三段階が必要とされる。",
+    "exampleSentence": "Establishing the defendant's 'concurrence with the statutory elements' is the prerequisite step before evaluating the unlawfulness and culpability of the act.",
+    "exampleTranslation": "被告人の「構成要件該当性」を確立することが、行為の違法性および有責性を評価する前の前提条件となる。",
+    "vocabularyList": [
+      {
+        "word": "descriptive criteria",
+        "translation": "記述要件"
+      },
+      {
+        "word": "penal statute",
+        "translation": "刑罰法規"
+      },
+      {
+        "word": "tripartite structure",
+        "translation": "三段階論"
+      },
+      {
+        "word": "liability analysis",
+        "translation": "責任論の分析"
+      },
+      {
+        "word": "prerequisite step",
+        "translation": "前提となる段階"
+      },
+      {
+        "word": "unlawfulness",
+        "translation": "違法性"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Abatement of Punishment",
+    "definition": "A legally mandated or judicially discretionary reduction of the statutory maximum and minimum penalty for a crime, applied due to circumstances such as attempt, voluntary desistance, or extenuating circumstances.",
+    "japaneseDefinition": "法定刑を一定の基準（例：犯罪の未遂、酌量事由）に基づき、裁判所が軽減すること。法定減軽と酌量減軽の二種がある。",
+    "japaneseWordTranslation": "刑の減軽 (けいのげんけい)",
+    "legalContext": "Criminal Code Art. 68: Where a sentence is mandatorily reduced, it shall be decreased by one degree, according to the stipulations for imprisonment, fines, or other penalties.",
+    "japaneseLegalContext": "刑法第68条: 減軽は、次の通りとする。懲役又は禁錮を減軽するときは、その長期及び短期を二分の一に減ずる。",
+    "exampleSentence": "The judge applied the abatement of punishment provision after considering the defendant's profound remorse and cooperation with the investigation.",
+    "exampleTranslation": "裁判官は、被告人の深い反省と捜査への協力を考慮し、刑の減軽規定を適用した。",
+    "vocabularyList": [
+      {
+        "word": "mandatorily reduced",
+        "translation": "必要的減軽"
+      },
+      {
+        "word": "discretionary reduction",
+        "translation": "裁量的減軽"
+      },
+      {
+        "word": "statutory maximum",
+        "translation": "法定の長期"
+      },
+      {
+        "word": "profound remorse",
+        "translation": "深い反省"
+      },
+      {
+        "word": "cooperation",
+        "translation": "協力"
+      },
+      {
+        "word": "extenuating circumstances",
+        "translation": "酌量すべき情状"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Intent to Unlawfully Appropriate (in Larceny)",
+    "definition": "The specific intent (dolus specialis) necessary for crimes such as larceny and embezzlement, referring to the mental state of treating another person's property as one's own and utilizing it according to its economic use or disposing of it.",
+    "japaneseDefinition": "他人の占有を排除し、財物を自己の所有物として、その経済的用法に従い利用または処分する意思。窃盗罪、強盗罪などの成立に必要とされる主観的要素。",
+    "japaneseWordTranslation": "不法領得の意思 (ふほうりょうとくのいし)",
+    "legalContext": "Japanese criminal theory requires the demonstration of this specific intent in property offenses to distinguish true larceny from acts of temporary unauthorized use (use without permission).",
+    "japaneseLegalContext": "判例・通説：財産犯における重要な構成要件要素であり、一時使用との区別の基礎となる。",
+    "exampleSentence": "Since the defendant had no intent to unlawfully appropriate the car but merely used it for a short joyride, the charge was reduced from larceny to unauthorized use.",
+    "exampleTranslation": "被告人が不法領得の意思を持たず、単に短い間の乗り回しに使っただけであったため、罪状は窃盗から無断使用に軽減された。",
+    "vocabularyList": [
+      {
+        "word": "dolus specialis",
+        "translation": "特別の故意"
+      },
+      {
+        "word": "property offenses",
+        "translation": "財産犯"
+      },
+      {
+        "word": "treating as one's own",
+        "translation": "自己の所有物として扱う"
+      },
+      {
+        "word": "economic use",
+        "translation": "経済的用法"
+      },
+      {
+        "word": "joyride",
+        "translation": "乗り回し"
+      },
+      {
+        "word": "unauthorized use",
+        "translation": "無断使用"
+      }
+    ]
   }
 ]

@@ -14452,5 +14452,119 @@
         "translation": "今後発生する給与の支払い"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Conversion to Monetary Value",
+    "definition": "The legal procedure by which seized property (such as real estate, movables, or claims) is sold or liquidated to generate cash proceeds necessary to satisfy the execution obligee’s claim.",
+    "japaneseDefinition": "差し押さえた財産を、競売、入札、またはその他の手段を通じて売却し、債務名義に基づき債権者に分配するための金銭に換える手続。",
+    "japaneseWordTranslation": "換価 (Kanka)",
+    "legalContext": "Civil Execution Act, Part II, Chapter 1, Section 2 (General Provisions for Execution against Property): The process of 'conversion to monetary value' is fundamental to all execution types.",
+    "japaneseLegalContext": "民事執行法 第二編 第一章 第二節 (財産権に対する強制執行の通則)",
+    "exampleSentence": "The execution court completed the appraisal and initiated the public notice regarding the conversion to monetary value of the seized real property.",
+    "exampleTranslation": "執行裁判所は、評価を完了し、差し押さえられた不動産の換価手続に関する公告を開始した。",
+    "vocabularyList": [
+      {
+        "word": "seized property",
+        "translation": "差押財産 (sashiosae zaisan)"
+      },
+      {
+        "word": "liquidation",
+        "translation": "清算 (seisan)"
+      },
+      {
+        "word": "auction",
+        "translation": "競売 (keibai)"
+      },
+      {
+        "word": "cash proceeds",
+        "translation": "売却代金 (baiyaku daikin)"
+      },
+      {
+        "word": "appraisal",
+        "translation": "評価 (hyōka)"
+      },
+      {
+        "word": "public notice",
+        "translation": "公告 (kōkoku)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Enforcement Authority (Legal Organ)",
+    "definition": "The specific judicial or administrative body responsible for executing compulsory enforcement measures, including the Execution Court (執行裁判所) and the Execution Officer (執行官).",
+    "japaneseDefinition": "強制執行を実施する権限を与えられた機関。具体的には、執行裁判所と執行官の二種類が存在する。",
+    "japaneseWordTranslation": "執行機関 (Shikkō Kikan)",
+    "legalContext": "Civil Execution Act Art. 20 (Definition): Enforcement shall be carried out by the execution court or the execution officer.",
+    "japaneseLegalContext": "民事執行法 第20条 (執行機関)：強制執行は、執行裁判所又は執行官が行う。",
+    "exampleSentence": "The obligee must file the petition for execution with the appropriate Enforcement Authority based on the nature and location of the property.",
+    "exampleTranslation": "債権者は、財産の性質及び所在地に基づき、適切な執行機関に対し執行申立てを行わなければならない。",
+    "vocabularyList": [
+      {
+        "word": "compulsory enforcement",
+        "translation": "強制執行 (kyōsei shikkō)"
+      },
+      {
+        "word": "Execution Court",
+        "translation": "執行裁判所 (shikkō saibansho)"
+      },
+      {
+        "word": "Execution Officer",
+        "translation": "執行官 (shikkōkan)"
+      },
+      {
+        "word": "petition",
+        "translation": "申立て (mōshitate)"
+      },
+      {
+        "word": "appropriate",
+        "translation": "適切 (tekisetsu)"
+      },
+      {
+        "word": "location",
+        "translation": "所在地 (shozaichi)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Garnishee Disclosure Requirement",
+    "definition": "The formal request made by the execution court to the third party debtor (garnishee) in claims execution, requiring them to state whether the seized claim exists, the amount due, and whether there are any other competing seizures or provisional attachments.",
+    "japaneseDefinition": "債権執行において、執行裁判所が第三債務者に対し、差し押さえられた債権の存否、満期、および他の差押えの有無等について陳述を求めること。",
+    "japaneseWordTranslation": "第三債務者の陳述要求 (Daisan Saimusha no Chinjutsu Yōkyū)",
+    "legalContext": "Civil Execution Act Art. 147 (Demand for Statement by Third Party Debtor): The execution court may request the third party debtor to submit a statement...",
+    "japaneseLegalContext": "民事執行法 第147条 (第三債務者の陳述の催告): 執行裁判所は、第三債務者に対し、陳述書の提出を命ずることができる...",
+    "exampleSentence": "Upon receiving the Garnishee Disclosure Requirement, the bank confirmed that the debtor's account contained insufficient funds to cover the seizure.",
+    "exampleTranslation": "第三債務者の陳述要求を受け、銀行は、債務者の口座には差押えを賄うのに不十分な資金しか含まれていないことを確認した。",
+    "vocabularyList": [
+      {
+        "word": "third party debtor (Garnishee)",
+        "translation": "第三債務者 (daisan saimusha)"
+      },
+      {
+        "word": "claims execution",
+        "translation": "債権執行 (saiken shikkō)"
+      },
+      {
+        "word": "existence (of a claim)",
+        "translation": "存否 (sonpi)"
+      },
+      {
+        "word": "competing seizure",
+        "translation": "競合する差押え (kyōgō suru sashiosae)"
+      },
+      {
+        "word": "insufficient funds",
+        "translation": "資金不足 (shikin fusoku)"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え (kari-sashiosae)"
+      }
+    ]
   }
 ]

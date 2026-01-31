@@ -15930,5 +15930,81 @@
         "translation": "前提となる基礎 (ぜんていとなるきそ)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exclusion of Untimely Allegations",
+    "definition": "The judicial measure whereby the court rejects a party's submission of new means of attack or defense (facts or evidence) if those submissions are made so late as to delay the conclusion of the lawsuit unnecessarily, unless the delay is deemed excusable.",
+    "japaneseDefinition": "当事者が訴訟の完結を遅延させることを目的として、または訴訟の進行状況に照らして時機に遅れて攻撃防御方法（事実や証拠）を提出した場合に、裁判所がこれを却下する制度。",
+    "japaneseWordTranslation": "時機に遅れた攻撃防御方法の却下 (Jiki ni okureta kōgeki bōgyo hōhō no kyakka)",
+    "legalContext": "Code of Civil Procedure Art. 157 (Exclusion of Untimely Means of Attack or Defense)",
+    "japaneseLegalContext": "民事訴訟法第157条（時機に遅れた攻撃防御方法の却下）",
+    "exampleSentence": "The court applied the Exclusion of Untimely Allegations principle to reject the defendant's new counter-claim, finding that it was submitted without excusable reason two days before the final concentrated hearing date.",
+    "exampleTranslation": "裁判所は、最終の集中審理日の2日前に提出された被告の新たな反訴は弁解の余地がないとして、「時機に遅れた攻撃防御方法の却下」の原則を適用した。",
+    "vocabularyList": [
+      {
+        "word": "counter-claim",
+        "translation": "反訴 (hansō)"
+      },
+      {
+        "word": "means of attack or defense",
+        "translation": "攻撃防御方法 (kōgeki bōgyo hōhō)"
+      },
+      {
+        "word": "excusable reason",
+        "translation": "弁解の余地 (benkai no yochi)"
+      },
+      {
+        "word": "concentrated hearing",
+        "translation": "集中審理 (shūchū shinri)"
+      },
+      {
+        "word": "conclusion of the lawsuit",
+        "translation": "訴訟の完結 (soshō no kanketsu)"
+      },
+      {
+        "word": "reject (kyakka)",
+        "translation": "却下 (kyakka)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Lack of Litigious Authority",
+    "definition": "A procedural defect arising when a person conducting a lawsuit on behalf of a formal party (e.g., the party themselves, or a legal representative) does not possess the inherent or delegated power necessary to perform the procedural acts of the litigation.",
+    "japaneseDefinition": "訴訟上の当事者を代表し、あるいは補佐して、訴訟を遂行する権限を欠くこと。例えば、法人代表者の任期満了後に訴訟行為を続行する権限の欠如などを指す。",
+    "japaneseWordTranslation": "訴訟追行権の欠如 (Soshō Tsuikōken no Ketsujo)",
+    "legalContext": "Code of Civil Procedure Art. 30, 34 (Litigation Capacity and Representative Authority)",
+    "japaneseLegalContext": "民事訴訟法第30条、34条（訴訟能力、法定代理権）",
+    "exampleSentence": "The defendant contested the suit's admissibility by arguing the plaintiff's purported representative suffered from a Lack of Litigious Authority, as their term of corporate office had expired prior to filing the initial claim.",
+    "exampleTranslation": "被告は、原告が主張する代理人が提訴前に会社役員の任期を満了していたため、訴訟追行権の欠如があるとして、訴訟の適格性を争った。",
+    "vocabularyList": [
+      {
+        "word": "admissibility",
+        "translation": "適格性 (tekikakusei)"
+      },
+      {
+        "word": "purported representative",
+        "translation": "主張された代理人 (shuchō sareta dairinin)"
+      },
+      {
+        "word": "procedural act",
+        "translation": "訴訟行為 (soshō kōi)"
+      },
+      {
+        "word": "formal party",
+        "translation": "形式的当事者 (keishikiteki tōjisha)"
+      },
+      {
+        "word": "corporate office",
+        "translation": "会社役員 (kaisha yakuin)"
+      },
+      {
+        "word": "legal representative",
+        "translation": "法定代理人 (hōtei dairinin)"
+      }
+    ]
   }
 ]

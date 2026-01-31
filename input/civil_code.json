@@ -17882,5 +17882,119 @@
         "translation": "直ちに解除する (ただちにかいじょする)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Composite Thing",
+    "definition": "A collection of multiple movable properties (such as inventory, livestock, or machinery) that, despite being composed of distinct items, is legally treated as a single, unified object for the purpose of transferring ownership or creating a security interest.",
+    "japaneseDefinition": "多数の動産が集まったもので、法律上、個別の財産としてではなく、全体として一個の物として扱われるもの。集合動産の譲渡担保などで用いられる概念。",
+    "japaneseWordTranslation": "集合物 (しゅうごうぶつ)",
+    "legalContext": "Judicial Precedent: Although not explicitly defined in the Civil Code, the concept is essential in modern finance, allowing for the establishment of security over fluctuating assets like changing inventory, treating the mass as the 'thing.'",
+    "japaneseLegalContext": "判例法理：民法上の「物」の概念を拡張し、流動的な棚卸資産等の集合体を単一の担保目的物として扱うことを認めた。",
+    "exampleSentence": "The bank secured the loan by establishing a security right over the debtor's composite thing, which encompassed all existing and future inventory in the warehouse.",
+    "exampleTranslation": "その銀行は、倉庫内の既存および将来の全ての棚卸資産を含む集合物に対して担保権を設定することにより、融資を保全した。",
+    "vocabularyList": [
+      {
+        "word": "Inventory",
+        "translation": "棚卸資産"
+      },
+      {
+        "word": "fluctuating assets",
+        "translation": "変動資産"
+      },
+      {
+        "word": "unified acquisition",
+        "translation": "一体的取得"
+      },
+      {
+        "word": "security device",
+        "translation": "担保手段"
+      },
+      {
+        "word": "separate management",
+        "translation": "個別管理"
+      },
+      {
+        "word": "warehouse",
+        "translation": "倉庫"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Revocation of Declaration of Intention",
+    "definition": "The act of withdrawing a previously made statement of legal intent (e.g., an offer or other unilateral expression) before that statement becomes legally effective, typically meaning before it reaches the recipient.",
+    "japaneseDefinition": "意思表示が、相手方に到達するなどしてその効力を生じる前に、これを撤回すること。",
+    "japaneseWordTranslation": "意思表示の撤回 (いしひょうじのてっかい)",
+    "legalContext": "Civil Code Art. 97 (1): A declaration of intention shall become effective when notice thereof reaches the counterparty. (2) The declaration of intention may not be revoked after it is dispatched.",
+    "japaneseLegalContext": "民法第97条1項：「意思表示は、その通知が相手方に到達した時から、その効力を生ずる。」2項：「意思表示者は、その通知を発した後であっても、これを取り消すことができない。」",
+    "exampleSentence": "The party was unable to proceed with the revocation of the declaration of intention since the notice had already been dispatched and delivered to the counterparty's office.",
+    "exampleTranslation": "その通知が既に発信され、相手方の事務所に配達されていたため、当事者は意思表示の撤回を進めることができなかった。",
+    "vocabularyList": [
+      {
+        "word": "Time of effectiveness",
+        "translation": "効力発生時期"
+      },
+      {
+        "word": "notice",
+        "translation": "通知"
+      },
+      {
+        "word": "dispatch",
+        "translation": "発信"
+      },
+      {
+        "word": "counterparty",
+        "translation": "相手方"
+      },
+      {
+        "word": "retraction",
+        "translation": "取り消し"
+      },
+      {
+        "word": "delivered",
+        "translation": "配達された"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Capacity to Discern",
+    "definition": "The mental capability required of a person to rationally judge the meaning and legal consequences of their own actions. This capacity is essential for incurring tort liability and for the validity of certain legal acts.",
+    "japaneseDefinition": "自己の行為が法的にどのような結果を生じるかを理解し、判断し得る精神的能力。不法行為責任や法律行為の有効性の要件となる。",
+    "japaneseWordTranslation": "識別能力 (しきべつのうりょく)",
+    "legalContext": "Civil Code Art. 713: If a person who lacks capacity to discern has caused damage to another, he/she shall not be liable for the compensation of damages.",
+    "japaneseLegalContext": "民法第713条：「識別能力を有しない者が他人に損害を加えたときは、その者は、その損害を賠償する責任を負わない。」",
+    "exampleSentence": "Because the minor, aged nine, was judged to lack the requisite capacity to discern the consequences of his actions, his parent was held accountable for the resulting civil liability.",
+    "exampleTranslation": "9歳の未成年者は、その行為の結果を識別するための必要な能力を欠くと判断されたため、その親が結果として生じた不法行為責任を負うこととなった。",
+    "vocabularyList": [
+      {
+        "word": "Civil liability",
+        "translation": "不法行為責任"
+      },
+      {
+        "word": "minor",
+        "translation": "未成年者"
+      },
+      {
+        "word": "requisite",
+        "translation": "必要な"
+      },
+      {
+        "word": "consequence",
+        "translation": "結果"
+      },
+      {
+        "word": "accountable",
+        "translation": "責任を負う"
+      },
+      {
+        "word": "compensation of damages",
+        "translation": "損害賠償"
+      }
+    ]
   }
 ]

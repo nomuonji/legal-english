@@ -12750,5 +12750,107 @@
         "translation": "善意の第三者"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Inability to Counterpose Unregistered Mandatory Matters",
+    "definition": "The legal principle that a party obligated to register certain facts (e.g., corporate officer changes or capital changes) cannot assert those facts against any third party acting in good faith, if registration has not been completed.",
+    "japaneseDefinition": "商業登記法により登記すべき事項について、これを怠った場合、その事実をもって善意の第三者に対抗することができないという原則。",
+    "japaneseWordTranslation": "未登記事項の対抗不能 (Mitōki jikō no taikō funō)",
+    "legalContext": "Commercial Registration Act, Article 7 (Prohibition on Asserting Unregistered Matters Against Third Parties).",
+    "japaneseLegalContext": "商業登記法 第7条（未登記事項の対抗の制限）",
+    "exampleSentence": "Due to the company's **inability to counterpose unregistered mandatory matters**, the court validated the contract signed by the former officer, as their dismissal had not been recorded.",
+    "exampleTranslation": "会社が未登記事項の対抗不能の原則に服したため、裁判所は、解任が記録されていなかった元役員が署名した契約を有効と認めた。",
+    "vocabularyList": [
+      {
+        "word": "mandatory matters",
+        "translation": "登記すべき事項 (tōki subeki jikō)"
+      },
+      {
+        "word": "counterpose",
+        "translation": "対抗する (taikō suru)"
+      },
+      {
+        "word": "acting in good faith",
+        "translation": "善意の第三者 (zen’i no daisan-sha)"
+      },
+      {
+        "word": "dismissal",
+        "translation": "解任 (kainin)"
+      },
+      {
+        "word": "validated",
+        "translation": "有効と認めた (yūkō to mitometa)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Company Record Number",
+    "definition": "A unique 12-digit identification code officially assigned by the Ministry of Justice to identify each incorporated entity (including companies, limited liability partnerships, etc.) on the commercial register.",
+    "japaneseDefinition": "法務省が商業登記記録上で各法人（会社、組合等を含む）を一意に識別するために付与する12桁の固有の識別番号。",
+    "japaneseWordTranslation": "会社法人等番号 (Kaisha hōjin tō bangō)",
+    "legalContext": "Ordinance for Enforcement of the Commercial Registration Act, Article 3(2) (Assignment of the Number).",
+    "japaneseLegalContext": "商業登記規則 第3条第2項（会社法人等番号の付与）",
+    "exampleSentence": "The **Company Record Number** must be cited in all electronic applications to the registry office to ensure accurate identification of the subject entity.",
+    "exampleTranslation": "対象となる法人を正確に識別するため、電子申請時には常に会社法人等番号を登記所に引用しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "unique identification code",
+        "translation": "固有の識別番号 (koyū no shikibetsu bangō)"
+      },
+      {
+        "word": "incorporated entity",
+        "translation": "法人 (hōjin)"
+      },
+      {
+        "word": "cited",
+        "translation": "引用する (in'yō suru)"
+      },
+      {
+        "word": "electronic applications",
+        "translation": "電子申請 (denshi shinsei)"
+      },
+      {
+        "word": "registry office",
+        "translation": "登記所 (tōki-jo)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Creditor's Proxy Filing",
+    "definition": "A legal procedure allowing a creditor to submit a registration application on behalf of their debtor, provided the debtor (the registration obligor) is required by law to effect the registration but fails to do so, thereby preventing damage to the creditor’s claim.",
+    "japaneseDefinition": "債務者が登記義務を負うにもかかわらず登記申請を怠っている場合に、債権者が自身の債権保全のために、債務者に代わってその登記を申請する手続き。",
+    "japaneseWordTranslation": "債権者代位による登記の申請 (Saikensha daii ni yoru tōki no shinsei)",
+    "legalContext": "Commercial Registration Act, Article 29 (Application by Subrogation, drawing from Civil Code Article 423).",
+    "japaneseLegalContext": "商業登記法 第29条（代位申請）、民法第423条（債権者代位権）",
+    "exampleSentence": "The unsecured bondholder initiated a **Creditor's Proxy Filing** for the merger registration, as the target company was delaying the procedure, thereby jeopardizing the recovery of their debt.",
+    "exampleTranslation": "対象会社が手続を遅延させて債権回収を危うくしていたため、無担保の社債権者は合併登記について債権者代位による登記の申請を行った。",
+    "vocabularyList": [
+      {
+        "word": "unsecured bondholder",
+        "translation": "無担保の社債権者 (mutanpo no shasaikensha)"
+      },
+      {
+        "word": "registration obligor",
+        "translation": "登記義務者 (tōki gimu-sha)"
+      },
+      {
+        "word": "delaying the procedure",
+        "translation": "手続を遅延させる (tetsuzuki o chien saseru)"
+      },
+      {
+        "word": "jeopardizing the recovery",
+        "translation": "回収を危うくする (kaishū o ayauku suru)"
+      },
+      {
+        "word": "merger registration",
+        "translation": "合併登記 (gappei tōki)"
+      }
+    ]
   }
 ]

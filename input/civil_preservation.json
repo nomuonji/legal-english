@@ -2,48 +2,6 @@
   {
     "category": "Civil Preservation (民事保全法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Disposition on Movable Property",
-    "definition": "A preservation measure aimed at maintaining the status quo or temporarily securing the future enforcement of a claim, specifically concerning the control or transfer of physical, movable assets (not real estate).",
-    "japaneseDefinition": "将来の債権の強制的な実現を確保するため、または現状を維持するために、不動産以外の有体動産に対する占有や処分を制限する保全措置。",
-    "japaneseWordTranslation": "動産に対する処分 (どうさんにたいするしょぶん)",
-    "legalContext": "Civil Preservation Act Art. 21: A preservation order concerning a claim based on a specific article shall be issued as a Disposition on Movable Property.",
-    "japaneseLegalContext": "民事保全法第21条: 特定の物に関する請求を保全するための命令は、動産に対する処分として発せられる。",
-    "exampleSentence": "The claimant applied for a Disposition on Movable Property against the rare machinery held in the obligor’s warehouse to prevent its sale to a third party.",
-    "exampleTranslation": "申立人は、第三者への売却を防ぐため、債務者の倉庫に保管されている希少な機械に対する動産に対する処分を申し立てた。",
-    "vocabularyList": [
-      {
-        "word": "movable property",
-        "translation": "動産"
-      },
-      {
-        "word": "status quo",
-        "translation": "現状"
-      },
-      {
-        "word": "rare machinery",
-        "translation": "希少な機械"
-      },
-      {
-        "word": "claimant",
-        "translation": "請求者、申立人"
-      },
-      {
-        "word": "warehouse",
-        "translation": "倉庫"
-      },
-      {
-        "word": "specific article",
-        "translation": "特定の物"
-      },
-      {
-        "word": "obligor",
-        "translation": "債務者"
-      }
-    ]
-  },
-  {
-    "category": "Civil Preservation (民事保全法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Prima Facie Showing",
     "definition": "A standard of proof required in preservation proceedings, notably less rigorous than full proof (証明), where the court must be convinced of the high probability or reasonable grounds that the facts asserted by the moving party are true.",
     "japaneseDefinition": "保全手続において要求される立証の程度であり、証明（厳格な立証）とは異なり、裁判所が申立人の主張する事実について確からしいとの心証を得た段階を指す。",
@@ -11916,6 +11874,44 @@
       {
         "word": "interim measure",
         "translation": "暫定措置 (ざんていそち)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Writ",
+    "definition": "A judicial order issued by the preservation court which formalizes and instructs the execution of a provisional measure (either provisional seizure or provisional disposition).",
+    "japaneseDefinition": "保全裁判所が、仮差押えまたは仮処分といった保全の措置を命じるために発する裁判。保全執行の手続の根拠となる。",
+    "japaneseWordTranslation": "ほぜんめいれい (hozen meirei)",
+    "legalContext": "Civil Preservation Act, Article 3: A preservation order shall be issued upon a petition.",
+    "japaneseLegalContext": "民事保全法第3条: 保全命令は、申立てにより行う。",
+    "exampleSentence": "Upon reviewing the evidence provided, the preservation court granted the preservation writ, allowing the applicant to swiftly secure the disputed assets.",
+    "exampleTranslation": "提供された証拠を審査した結果、保全裁判所は保全命令を付与し、申立人が係争中の資産を速やかに確保することを許可した。",
+    "vocabularyList": [
+      {
+        "word": "preservation court",
+        "translation": "保全裁判所 (hozen saibansho)"
+      },
+      {
+        "word": "provisional measure",
+        "translation": "保全の措置 (hozen no措置)"
+      },
+      {
+        "word": "execution",
+        "translation": "執行 (shikkō)"
+      },
+      {
+        "word": "petition",
+        "translation": "申立て (mōshitate)"
+      },
+      {
+        "word": "applicant",
+        "translation": "申立人 (mōshitate-nin)"
+      },
+      {
+        "word": "disputed assets",
+        "translation": "係争資産 (keisō shisan)"
       }
     ]
   }

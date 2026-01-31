@@ -12387,5 +12387,39 @@
         "translation": "法人の印鑑"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Rank Number",
+    "definition": "The sequential number attached to entries in the Proprietary Record (both Section A and Section B) which determines the priority among subsequently registered rights, especially concerning security interests.",
+    "japaneseDefinition": "登記記録の権利部に記録された権利の順序を示す一連の番号。特に所有権以外の権利の優先順位を決定する。",
+    "japaneseWordTranslation": "順位番号 (じゅんいばんごう)",
+    "legalContext": "Real Property Registration Act Art. 3: The priority of registration shall be determined by the Rank Number, except as otherwise provided by law.",
+    "japaneseLegalContext": "不動産登記法第3条：登記の順序は、法令に別段の定めがある場合を除き、順位番号により決定される。",
+    "exampleSentence": "If two security interests are registered on the same day, their relative priority will be determined strictly by their respective Rank Number, based on the time of application reception.",
+    "exampleTranslation": "二つの担保権が同日に登記された場合、それらの相対的な優先順位は、申請の受付時刻に基づく各々の順位番号によって厳格に決定される。",
+    "vocabularyList": [
+      {
+        "word": "priority",
+        "translation": "優先順位 (ゆうせんじゅんい)"
+      },
+      {
+        "word": "security interest",
+        "translation": "担保権 (たんぽけん)"
+      },
+      {
+        "word": "Proprietary Record Section B",
+        "translation": "乙区 (おつく)"
+      },
+      {
+        "word": "application reception",
+        "translation": "申請の受付 (しんせいのうけつけ)"
+      },
+      {
+        "word": "relative priority",
+        "translation": "相対的優先順位 (そうたいてきゆうせんじゅんい)"
+      }
+    ]
   }
 ]

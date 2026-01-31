@@ -9992,5 +9992,81 @@
         "translation": "債権者の所在 (さいけんしゃの しょざい)"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Creditor Identity Unknown",
+    "definition": "A statutory ground for consignment (deposit) where the obligor, without fault, cannot ascertain the identity of the specific obligee or establish the location of the obligee.",
+    "japaneseDefinition": "債務者が過失なく、弁済を受領すべき債権者が誰であるかを知ることができないこと、または債権者の居所が不明であることなど、民法上の供託原因の一つ。",
+    "japaneseWordTranslation": "債権者不確知 (さいけんしゃふかくち)",
+    "legalContext": "Civil Code Art. 494 (Grounds for Deposit): 'If the obligee refuses to accept performance, or cannot accept it, or if the obligor cannot perform without fault because the obligee is unknown, the obligor may be released from his obligation by consigning the subject matter of the performance...'",
+    "japaneseLegalContext": "民法第494条（供託）：『債権者が弁済の受領を拒み、又はこれを受領することができないとき、若しくは債務者が過失なく債権者を確知することができないとき…その債務を免れることができる。』",
+    "exampleSentence": "The company utilized consignment procedures citing Creditor Identity Unknown after the obligee failed to respond to multiple written notices regarding payment.",
+    "exampleTranslation": "債権者が再三の書面通知に返答しなかったため、会社は債権者不確知を理由とする供託手続きを利用した。",
+    "vocabularyList": [
+      {
+        "word": "ascertain",
+        "translation": "確認する"
+      },
+      {
+        "word": "without fault",
+        "translation": "過失なく"
+      },
+      {
+        "word": "whereabouts",
+        "translation": "居所"
+      },
+      {
+        "word": "statutory ground",
+        "translation": "法定原因"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "written notices",
+        "translation": "書面通知"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consignment for Debt Extinguishment",
+    "definition": "The judicial or administrative procedure of depositing the performance subject matter with a competent Deposit Office, which results in the legal discharge of the obligor's duty.",
+    "japaneseDefinition": "債務者が弁済の目的物を供託所に供託することにより、その債務を消滅させる法的効果を発生させる行為及び手続き。",
+    "japaneseWordTranslation": "債務消滅のための供託 (さいむしょうめつのためのきょうたく)",
+    "legalContext": "Civil Code Art. 494: 'In the case set forth in the preceding paragraph, the obligation shall be extinguished when the subject matter of the performance is consigned.'",
+    "japaneseLegalContext": "民法第494条（供託）：『前項の場合において、弁済の目的物が供託されたときは、その債権は、消滅する。』",
+    "exampleSentence": "The obligor initiated Consignment for Debt Extinguishment after the court confirmed that the creditor unjustly refused the original tender of payment.",
+    "exampleTranslation": "裁判所が債権者の元の弁済提供に対する拒絶を不当と確認した後、債務者は債務消滅のための供託を開始した。",
+    "vocabularyList": [
+      {
+        "word": "judicial procedure",
+        "translation": "司法手続き"
+      },
+      {
+        "word": "performance subject matter",
+        "translation": "弁済の目的物"
+      },
+      {
+        "word": "discharge",
+        "translation": "（債務を）免れること"
+      },
+      {
+        "word": "competent",
+        "translation": "管轄の"
+      },
+      {
+        "word": "unjustly refused",
+        "translation": "不当に拒絶した"
+      },
+      {
+        "word": "tender of payment",
+        "translation": "弁済の提供"
+      }
+    ]
   }
 ]

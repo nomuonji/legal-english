@@ -13472,5 +13472,81 @@
         "translation": "会社 (Kaisha)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Capital Reserves",
+    "definition": "Statutory reserves that a stock company must maintain, calculated as at least one-half of the amount paid for shares exceeding the stated capital. These reserves restrict the amount available for dividend distribution.",
+    "japaneseDefinition": "株式会社が維持しなければならない法定準備金の一つで、株式の発行価額のうち資本金に計上されない額の2分の1以上を積み立てる必要があるもの。",
+    "japaneseWordTranslation": "資本準備金 (しほんじゅんびきん)",
+    "legalContext": "Companies Act, Article 445, Paragraph 2 (Amount of Capital).",
+    "japaneseLegalContext": "会社法第445条第2項 (資本金の額)",
+    "exampleSentence": "Due to the new share issuance, the company was required to increase its **Capital Reserves** significantly under the Companies Act.",
+    "exampleTranslation": "新株発行により、当該会社は会社法に基づき、**資本準備金**を大幅に増額することが求められた。",
+    "vocabularyList": [
+      {
+        "word": "statutory reserves",
+        "translation": "法定準備金 (ほうていじゅんびきん)"
+      },
+      {
+        "word": "stated capital",
+        "translation": "資本金 (しほんきん)"
+      },
+      {
+        "word": "share issuance",
+        "translation": "新株発行 (しんかぶはっこう)"
+      },
+      {
+        "word": "dividend distribution",
+        "translation": "配当 (はいとう)"
+      },
+      {
+        "word": "maintain",
+        "translation": "維持する (いじする)"
+      },
+      {
+        "word": "significantly",
+        "translation": "大幅に (おおはばに)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Shares with Put Option Provisions",
+    "definition": "A class of shares that grants the shareholder the right to demand that the issuing company acquire such shares in exchange for monetary consideration or other specified assets.",
+    "japaneseDefinition": "株主が発行会社に対して、金銭その他の財産との引換えにその株式を取得するよう請求することができる権利を付与された種類の株式。",
+    "japaneseWordTranslation": "取得請求権付株式 (しゅとくせいきゅうけんつき かぶしき)",
+    "legalContext": "Companies Act, Article 166 (Shares with Put Option Provisions) and Article 167 (Acquisition Methods).",
+    "japaneseLegalContext": "会社法第166条、第167条 (取得の方法等)",
+    "exampleSentence": "The investor held **Shares with Put Option Provisions**, allowing them to exit the investment by compelling the corporation to buy back the stock.",
+    "exampleTranslation": "その投資家は**取得請求権付株式**を保有しており、これにより、会社に株式の買い戻しを強制することで投資から撤退することができた。",
+    "vocabularyList": [
+      {
+        "word": "shareholder",
+        "translation": "株主 (かぶぬし)"
+      },
+      {
+        "word": "monetary consideration",
+        "translation": "金銭 (きんせん)"
+      },
+      {
+        "word": "issuing company",
+        "translation": "発行会社 (はっこうがいしゃ)"
+      },
+      {
+        "word": "compelling",
+        "translation": "強制する (きょうせいする)"
+      },
+      {
+        "word": "buy back",
+        "translation": "買い戻し (かいもどし)"
+      },
+      {
+        "word": "investment",
+        "translation": "投資 (とうし)"
+      }
+    ]
   }
 ]

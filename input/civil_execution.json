@@ -14676,5 +14676,119 @@
         "translation": "最低売却価額"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Condition Survey Report",
+    "definition": "A mandatory document prepared by the judicial enforcement agent detailing the physical status, boundary relationships, tenancy, and usage of real estate subjected to compulsory judicial sale.",
+    "japaneseDefinition": "強制的な不動産の売却手続に付される物件について、その物理的な状況、境界関係、占有関係、利用状況等について、執行官が作成する文書。",
+    "japaneseWordTranslation": "不動産の現況調査報告書 (ふどうさんのげんきょうちょうさほうこくしょ)",
+    "legalContext": "Civil Execution Act, Art. 64 (Investigation of Properties)",
+    "japaneseLegalContext": "民事執行法第64条（不動産の調査）",
+    "exampleSentence": "The execution court will not proceed with the property valuation until the **Property Condition Survey Report** has been finalized and submitted by the enforcement agent.",
+    "exampleTranslation": "執行裁判所は、執行官による不動産の現況調査報告書が確定・提出されるまで、物件の価格評価を進めることはできない。",
+    "vocabularyList": [
+      {
+        "word": "Investigation",
+        "translation": "調査 (ちょうさ)"
+      },
+      {
+        "word": "Physical Status",
+        "translation": "物理的な状況 (ぶつりてきなじょうきょう)"
+      },
+      {
+        "word": "Occupancy Status",
+        "translation": "占有状況 (せんにゅうじょうきょう)"
+      },
+      {
+        "word": "Valuation",
+        "translation": "価格の評価 (かかくのひょうか)"
+      },
+      {
+        "word": "Enforcement procedure",
+        "translation": "強制手続 (きょうせいてつづき)"
+      },
+      {
+        "word": "Boundary relationships",
+        "translation": "境界関係 (きょうかいかんけい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Appeal against Enforcement Ruling",
+    "definition": "A procedural challenge (kōkoku) permitted under the Civil Execution Act against specific judicial decisions made by the execution court regarding the execution procedure itself.",
+    "japaneseDefinition": "執行裁判所が下した執行手続に関する決定について、その不当を訴えるために、民事執行法に基づいて提起される不服申立て（抗告）のこと。",
+    "japaneseWordTranslation": "執行抗告 (しっこうこうこく)",
+    "legalContext": "Civil Execution Act, Art. 9 (Appeal against Judicial Decisions)",
+    "japaneseLegalContext": "民事執行法第9条（裁判の執行抗告）",
+    "exampleSentence": "The obligor filed an **Appeal against Enforcement Ruling** after the execution court denied their motion to exclude necessary daily use items from the scope of seizure.",
+    "exampleTranslation": "執行裁判所が生活に必要な日常用品を差押えの範囲から除外する申立てを却下した後、債務者は執行抗告を提起した。",
+    "vocabularyList": [
+      {
+        "word": "Immediate appeal",
+        "translation": "即時抗告 (そくじこうこく)"
+      },
+      {
+        "word": "Judicial decision",
+        "translation": "裁判所の決定 (さいばんしょのけってい)"
+      },
+      {
+        "word": "Objection",
+        "translation": "不服申立て (ふふくもうしたて)"
+      },
+      {
+        "word": "Exclusion",
+        "translation": "除外 (じょがい)"
+      },
+      {
+        "word": "Scope of seizure",
+        "translation": "差押えの範囲 (さしおさえのはんい)"
+      },
+      {
+        "word": "Execution procedure",
+        "translation": "執行手続 (しっこうてつづき)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Enforcement Order Clause",
+    "definition": "A declaration attached to a final judgment or a money judgment that allows the winning party to seek compulsory execution immediately, even if the judgment is subject to an ongoing appeal process.",
+    "japaneseDefinition": "確定前の判決や金銭支払いの判決に付され、勝訴した当事者が上訴手続中であっても直ちに強制執行を求めることを可能にする宣言。",
+    "japaneseWordTranslation": "仮執行の宣言 (かりしっこうのせんげん)",
+    "legalContext": "Code of Civil Procedure, Art. 259 (Provisional Enforcement Declaration)",
+    "japaneseLegalContext": "民事訴訟法第259条（仮執行の宣言）",
+    "exampleSentence": "The judgment included a **Provisional Enforcement Order Clause**, allowing the creditor to commence execution despite the defendant having lodged a kōso appeal.",
+    "exampleTranslation": "その判決には仮執行の宣言が付されていたため、被告が控訴を申し立てたにもかかわらず、債権者は執行を開始することができた。",
+    "vocabularyList": [
+      {
+        "word": "Declaration",
+        "translation": "宣言 (せんげん)"
+      },
+      {
+        "word": "Judgment Document",
+        "translation": "判決書 (はんけつしょ)"
+      },
+      {
+        "word": "Enforceable",
+        "translation": "執行可能 (しっこうかのう)"
+      },
+      {
+        "word": "Commence execution",
+        "translation": "執行の開始 (しっこうのかいし)"
+      },
+      {
+        "word": "Appeal process",
+        "translation": "上訴手続 (じょうそてつづき)"
+      },
+      {
+        "word": "Temporary measure",
+        "translation": "暫定措置 (ざんていそち)"
+      }
+    ]
   }
 ]

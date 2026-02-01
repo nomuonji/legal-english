@@ -16222,5 +16222,107 @@
         "translation": "期日 (きじつ)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interrogatory",
+    "definition": "A discovery tool in Japanese civil procedure (Code of Civil Procedure, Art. 163) allowing a party, through the court, to request that the opposing party or a third party answer specific questions in writing regarding facts relevant to the dispute.",
+    "japaneseDefinition": "当事者が裁判所を通じて相手方又は第三者に対し、訴訟上の事実について書面による回答を求める証拠調べの手続き。",
+    "japaneseWordTranslation": "書面による質問 (しょめんによるしつもん)",
+    "legalContext": "Code of Civil Procedure Art. 163 (Written Interrogatories): The court may, upon motion of a party, order the opposing party or a third party to submit written answers to questions concerning the issues in dispute.",
+    "japaneseLegalContext": "民事訴訟法第163条 (書面による質問): 裁判所は、当事者の申立てにより、相手方又は第三者に対し、訴訟の係属中、書面による質問を発することができる。",
+    "exampleSentence": "The plaintiff submitted a motion for an interrogatory to ascertain the details of the internal audit conducted by the defendant concerning the relevant transaction.",
+    "exampleTranslation": "原告は、被告が行った当該取引に関する内部監査の詳細を確かめるため、書面による質問の申立てを提出した。",
+    "vocabularyList": [
+      {
+        "word": "motion",
+        "translation": "申立て (もうしたて)"
+      },
+      {
+        "word": "ascertain",
+        "translation": "確かめる (たしかめる)"
+      },
+      {
+        "word": "opposing party",
+        "translation": "相手方 (あいてがた)"
+      },
+      {
+        "word": "discovery tool",
+        "translation": "証拠収集手段 (しょうこしゅうしゅうしゅだん)"
+      },
+      {
+        "word": "transaction",
+        "translation": "取引 (とりひき)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Jurisdiction",
+    "definition": "A requirement stipulated by law that a specific type of case must be heard exclusively by a designated court (e.g., the court where the real property is located), overriding general jurisdiction rules and preventing parties from agreeing on an alternative venue.",
+    "japaneseDefinition": "法令の規定により、特定の種類の訴訟について、他の裁判所での審理や当事者の合意による管轄の変更が認められず、特定の裁判所のみが管轄を有すること。",
+    "japaneseWordTranslation": "専属管轄 (せんぞくかんかつ)",
+    "legalContext": "Code of Civil Procedure Art. 11 (Mandatory Jurisdiction): Where jurisdiction is mandated by law, the provisions concerning agreed jurisdiction (prorogation) and counterclaims shall not apply.",
+    "japaneseLegalContext": "民事訴訟法第11条 (専属管轄): 法令に専属管轄の定めがある場合には、当事者は、第一項及び第二項の規定にかかわらず、合意により管轄裁判所を定めることができない。",
+    "exampleSentence": "Because the case involved a dispute over the boundaries of a national forest, the court ruled that it was subject to mandatory jurisdiction in the Tokyo District Court.",
+    "exampleTranslation": "本件は国有林の境界に関する紛争であったため、裁判所は東京地方裁判所の専属管轄に服すると判断した。",
+    "vocabularyList": [
+      {
+        "word": "designated court",
+        "translation": "指定裁判所 (していさいばんしょ)"
+      },
+      {
+        "word": "overriding",
+        "translation": "優先する (ゆうせんする)"
+      },
+      {
+        "word": "venue",
+        "translation": "裁判籍 (さいばんせき)"
+      },
+      {
+        "word": "dispute over boundaries",
+        "translation": "境界紛争 (きょうかいふんそう)"
+      },
+      {
+        "word": "agreed jurisdiction",
+        "translation": "合意管轄 (ごういかんかつ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Issue Estoppel",
+    "definition": "Known in Japan as Sōten Kō, this is the judicial principle where a specific factual or legal issue that was disputed, investigated, and decided by the court as a premise for the judgment, is binding upon the parties in subsequent litigation, even if not directly covered by *res judicata*.",
+    "japaneseDefinition": "判決の訴訟物ではないが、判決の結論の前提として争われ、裁判所が判断を示した特定の事実上又は法律上の争点について、当事者を後の訴訟で拘束する効力。",
+    "japaneseWordTranslation": "争点効 (そうてんこう)",
+    "legalContext": "Doctrine established by Supreme Court precedent (Kihanryoku no hani/Scope of Preclusive Effect): Issue estoppel prevents the relitigation of issues central to a prior judgment.",
+    "japaneseLegalContext": "最高裁判例によって確立された法理 (既判力の範囲): 争点効は、先行判決の中心的な争点を後の訴訟で再審理することを防ぐ。",
+    "exampleSentence": "The defendant invoked issue estoppel, arguing that the court in the previous action had already conclusively determined the existence of the agency relationship between the parties.",
+    "exampleTranslation": "被告は、先行訴訟において当事者間の代理関係の存在がすでに確定的に認定されているとして、争点効を援用した。",
+    "vocabularyList": [
+      {
+        "word": "invoked",
+        "translation": "援用した (えんようした)"
+      },
+      {
+        "word": "relitigation",
+        "translation": "再審理 (さいしんり)"
+      },
+      {
+        "word": "conclusively determined",
+        "translation": "確定的に認定された (かくていてきににんていされた)"
+      },
+      {
+        "word": "subsequent litigation",
+        "translation": "後の訴訟 (のちのそしょう)"
+      },
+      {
+        "word": "agency relationship",
+        "translation": "代理関係 (だいりかんけい)"
+      }
+    ]
   }
 ]

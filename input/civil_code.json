@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Presumption of Death",
-    "definition": "A declaration by the Family Court that determines a person whose whereabouts have been unknown for a specific statutory period (typically seven years) is deemed to have died at the expiration of that period.",
-    "japaneseDefinition": "ある人の生死が一定期間（通常７年間）不明である場合に、家庭裁判所が行う、その人を死亡したものとみなす宣言。",
-    "japaneseWordTranslation": "失踪宣告 (しっそうせんこく)",
-    "legalContext": "Civil Code Art. 30 (Effect of Presumption of Death): 'A person for whom the adjudication of presumption of death has been made shall be deemed to have died at the expiration of the period specified in Article 29, paragraph (1).' (Refers to general missing person status.)",
-    "japaneseLegalContext": "民法第30条（失踪の宣告の効力）：『失踪の宣告を受けた者は、第29条第1項の期間が満了した時に、死亡したものとみなす。』",
-    "exampleSentence": "Upon the application by the interested party, the court issued an adjudication of presumption of death, thereby allowing the spouse to proceed with estate procedures.",
-    "exampleTranslation": "利害関係人による申請に基づき、裁判所は失踪宣告を下し、これにより配偶者は財産に関する手続を進めることが可能となった。",
-    "vocabularyList": [
-      {
-        "word": "adjudication",
-        "translation": "宣告／審判"
-      },
-      {
-        "word": "whereabouts unknown",
-        "translation": "生死不明"
-      },
-      {
-        "word": "statutory period",
-        "translation": "法定の期間"
-      },
-      {
-        "word": "Family Court",
-        "translation": "家庭裁判所"
-      },
-      {
-        "word": "interested party",
-        "translation": "利害関係人"
-      },
-      {
-        "word": "estate procedures",
-        "translation": "財産に関する手続"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Right of Passage Through Surrounding Land",
     "definition": "A statutory real right allowing the owner of landlocked property (property not having suitable access to a public road) to pass through the surrounding land owned by others to reach that public road, provided the selection of the route causes the least detriment.",
     "japaneseDefinition": "公道に通じていない土地（袋地）の所有者が、公道に出るため、他の者の所有する周囲の土地を通行することができる、法定の物権。",
@@ -18222,6 +18184,124 @@
       {
         "word": "deemed",
         "translation": "みなされる (みなされる)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Attornment (Transfer of Possession by Direction)",
+    "definition": "A method of transferring the possession of movable property where the transferor instructs the third-party custodian (possessor) to subsequently hold the property on behalf of the transferee, and the transferee consents to this arrangement, thereby effecting delivery without physical movement.",
+    "japaneseDefinition": "代理占有者に対し、以後占有権が譲受人のためにあることを命じ、譲受人がこれを承諾することによる占有の移転（動産物権変動の対抗要件の一つ）。",
+    "japaneseWordTranslation": "指図による占有移転 (さしずによるせんゆういてん)",
+    "legalContext": "Civil Code Art. 184 (Transfer of Possession by Direction)",
+    "japaneseLegalContext": "民法第184条（指図による占有移転）",
+    "exampleSentence": "The company perfected the sale of the stored machinery by executing an attornment, notifying the warehouse operator to hold the property for the new buyer.",
+    "exampleTranslation": "その会社は、倉庫業者に新たな買主のために財産を占有するよう通知することにより、指図による占有移転を実施し、保管されている機械の売買を完了させた。",
+    "vocabularyList": [
+      {
+        "word": "custodian",
+        "translation": "保管者"
+      },
+      {
+        "word": "transferee",
+        "translation": "譲受人"
+      },
+      {
+        "word": "transferor",
+        "translation": "譲渡人"
+      },
+      {
+        "word": "warehouse operator",
+        "translation": "倉庫業者"
+      },
+      {
+        "word": "perfected (perfecting)",
+        "translation": "対抗要件の具備（を完了した）"
+      },
+      {
+        "word": "possession",
+        "translation": "占有"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Contribution to the Decedent's Estate",
+    "definition": "A special measure in Japanese succession law that allows a co-successor, who has made an extraordinary contribution to the maintenance or increase of the decedent’s property through labor or financial effort, to receive a special, additional portion of the estate.",
+    "japaneseDefinition": "共同相続人の中で、被相続人の財産の維持又は増加に特別の寄与をした者に、法定相続分とは別に、その寄与の程度に応じて与えられる特別の相続分。",
+    "japaneseWordTranslation": "寄与分 (きよぶん)",
+    "legalContext": "Civil Code Art. 904-2 (Contribution)",
+    "japaneseLegalContext": "民法第904条の2（寄与分）",
+    "exampleSentence": "The court calculated the widow’s contribution to the decedent’s estate based on ten years of dedicated nursing care, which substantially reduced medical expenses.",
+    "exampleTranslation": "裁判所は、医療費を大幅に削減した10年間の献身的な介護に基づき、未亡人の寄与分を算定した。",
+    "vocabularyList": [
+      {
+        "word": "widow",
+        "translation": "未亡人／配偶者"
+      },
+      {
+        "word": "co-successor",
+        "translation": "共同相続人"
+      },
+      {
+        "word": "decedent",
+        "translation": "被相続人"
+      },
+      {
+        "word": "additional portion",
+        "translation": "追加の相続分"
+      },
+      {
+        "word": "nursing care",
+        "translation": "介護"
+      },
+      {
+        "word": "substantially reduced",
+        "translation": "大幅に削減した"
+      },
+      {
+        "word": "medical expenses",
+        "translation": "医療費"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibition of Competition",
+    "definition": "A legal or contractual duty imposed on an agent or partner, particularly in a mandate or partnership agreement, restraining them from engaging in business activities that compete with the principal or the partnership business.",
+    "japaneseDefinition": "委任契約や組合契約において、受任者や組合員が委任者や組合の事業と競合する行為を行うことを禁止する義務。",
+    "japaneseWordTranslation": "競業避止義務 (きょうぎょうひしぎむ)",
+    "legalContext": "Civil Code Art. 646 (Duty of Mandatory to Transfer) and principles of good faith",
+    "japaneseLegalContext": "民法第646条（受任者の取得した権利等の移転）及び信義則",
+    "exampleSentence": "The director faced a lawsuit for violating his prohibition of competition, having established a competing venture while still actively managing the principal company's affairs.",
+    "exampleTranslation": "その取締役は、主要な会社の業務を積極的に管理している間に競合する事業を設立したため、競業避止義務違反で訴訟に直面した。",
+    "vocabularyList": [
+      {
+        "word": "director",
+        "translation": "取締役"
+      },
+      {
+        "word": "mandatory (agent)",
+        "translation": "受任者"
+      },
+      {
+        "word": "principal company",
+        "translation": "主要な会社"
+      },
+      {
+        "word": "competing venture",
+        "translation": "競合する事業"
+      },
+      {
+        "word": "partnership agreement",
+        "translation": "組合契約"
+      },
+      {
+        "word": "lawsuit",
+        "translation": "訴訟"
       }
     ]
   }

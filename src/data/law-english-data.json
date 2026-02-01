@@ -1,38 +1,38 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Punishable Negligence",
-  "definition": "Criminal offenses where liability arises from the failure to exercise the required standard of care (duty of care), rather than from intentional action or malice. In Japan, negligence is only punishable if explicitly stipulated by law.",
-  "japaneseDefinition": "行為者が要求される注意義務を怠ったために犯罪の結果を発生させた場合に成立する犯罪。日本では、過失による行為が法律で特に定められている場合に限り処罰される（過失犯処罰の謙抑性の原則）。",
-  "japaneseWordTranslation": "過失犯 (かしつはん)",
-  "legalContext": "Criminal Code Art. 38, Paragraph 1 (Principle of Intent Requirement): A person who has committed an act unknowingly of having violated the law is not to be punished; provided, however, that punishment for negligence shall be governed by special provisions.",
-  "japaneseLegalContext": "刑法第38条第1項: 罪を犯す意思がない行為は、罰しない。ただし、法律に特別の規定がある場合は、この限りでない。",
-  "exampleSentence": "The defendant's failure to adhere to safety standards led to a conviction for homicide through punishable negligence.",
-  "exampleTranslation": "被告人が安全基準を順守しなかったことが、過失致死罪での有罪判決につながった。",
+  "word": "Successful Bidder",
+  "definition": "The person who is declared the buyer of property (typically real estate or movables) at a compulsory sale conducted by the execution court, usually because they submitted the highest bid. Upon payment of the purchase price, they acquire ownership of the property.",
+  "japaneseDefinition": "執行裁判所が行う強制的な売却手続き（通常は競売）において、最も高い入札額を提示した結果、財産（主に不動産や動産）の買い手として決定された者。代金を納付することにより、その財産の所有権を取得する。",
+  "japaneseWordTranslation": "買受人 (かいうけにん)",
+  "legalContext": "Civil Execution Act Art. 78 (1): Upon the successful bidder paying the price, the obligor’s right in the real property is extinguished, and the successful bidder acquires the ownership of the real property.",
+  "japaneseLegalContext": "民事執行法第78条第1項：買受人が代金を納付したときは、不動産の上に存する債務者の権利は消滅し、買受人はその不動産の所有権を取得する。",
+  "exampleSentence": "The court issued an order declaring the highest bidder as the Successful Bidder, conditional upon the full payment of the purchase price by the deadline.",
+  "exampleTranslation": "裁判所は、最高の入札者を期限までに売却代金の全額を支払うことを条件として、買受人とする決定を出した。",
   "vocabularyList": [
     {
-      "word": "duty of care",
-      "translation": "注意義務 (ちゅういぎむ)"
+      "word": "highest bid",
+      "translation": "最高価額の入札"
     },
     {
-      "word": "intentional action",
-      "translation": "故意犯 (こいはん)"
+      "word": "compulsory sale",
+      "translation": "強制売却"
     },
     {
-      "word": "stipulated by law",
-      "translation": "法律で定められている (ほうりつでさだめられている)"
+      "word": "purchase price",
+      "translation": "売却代金"
     },
     {
-      "word": "adhere to safety standards",
-      "translation": "安全基準を順守する (あんぜんきじゅんをじゅんしゅする)"
+      "word": "acquire ownership",
+      "translation": "所有権を取得する"
     },
     {
-      "word": "homicide through negligence",
-      "translation": "過失致死罪 (かしつちしざい)"
+      "word": "extinguished",
+      "translation": "消滅する"
     },
     {
-      "word": "conviction",
-      "translation": "有罪判決 (ゆうざいはんけつ)"
+      "word": "deadline",
+      "translation": "期限"
     }
   ]
 }

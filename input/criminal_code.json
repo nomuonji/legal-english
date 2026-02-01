@@ -14962,5 +14962,111 @@
         "translation": "手続的条件 (てつづきてきじょうけん)"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mitigation by Judicial Discretion",
+    "definition": "The authority granted to the court to reduce the statutory penalty prescribed for an offense, even in the absence of legal mitigating factors, based on the presence of extenuating circumstances relating to the offender or the facts of the crime.",
+    "japaneseDefinition": "法定刑を定める事情以外の、犯人の年齢、境遇、犯行の動機や態様などの情状を斟酌し、裁判官の裁量により刑を減軽すること。",
+    "japaneseWordTranslation": "酌量減軽 (Shakuryō Genkei)",
+    "legalContext": "Criminal Code Art. 66: Mitigation by judicial discretion may be conducted when there are extenuating circumstances.",
+    "japaneseLegalContext": "刑法第66条: 酌量すべき情状のあるときは、その刑を減軽することができる。",
+    "exampleSentence": "The judge applied mitigation by judicial discretion after recognizing the defendant’s profound remorse and the socio-economic factors contributing to the offense.",
+    "exampleTranslation": "裁判官は、被告人の深い反省と犯罪の原因となった社会経済的要因を認めた後、酌量減軽を適用した。",
+    "vocabularyList": [
+      {
+        "word": "extenuating circumstances",
+        "translation": "酌量すべしき情状"
+      },
+      {
+        "word": "statutory penalty",
+        "translation": "法定刑"
+      },
+      {
+        "word": "profound remorse",
+        "translation": "深い反省"
+      },
+      {
+        "word": "apply mitigation",
+        "translation": "減軽を適用する"
+      },
+      {
+        "word": "socio-economic factors",
+        "translation": "社会経済的要因"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for an Innocent Agent",
+    "definition": "A doctrine of indirect perpetration where the principal offender utilizes an agent who lacks criminal capacity, intent, or knowledge of the offense (an 'innocent agent') to commit the objective criminal act, making the principal solely liable as the direct perpetrator.",
+    "japaneseDefinition": "正犯者が、犯罪行為を間接的に実行するために、刑事未成年者や精神障害者など、責任能力を欠く者、あるいは構成要件の故意を欠く者を『道具』として利用する犯罪形態。",
+    "japaneseWordTranslation": "道具犯 (Dōgu Han)",
+    "legalContext": "Principle of Indirect Perpetration: A foundational concept in the General Part of the Criminal Code concerning the determination of the principal offender.",
+    "japaneseLegalContext": "間接正犯の原則: 刑法総論における正犯性の判断に関わる基本原則。",
+    "exampleSentence": "The manipulation of a mentally disabled person to steal confidential documents constituted a case of liability for an innocent agent, placing the full criminal burden upon the manipulator.",
+    "exampleTranslation": "精神障害者を利用して機密文書を盗ませた行為は、道具犯のケースを構成し、その全刑事責任は教唆者に帰せられた。",
+    "vocabularyList": [
+      {
+        "word": "indirect perpetration",
+        "translation": "間接正犯"
+      },
+      {
+        "word": "criminal capacity",
+        "translation": "責任能力"
+      },
+      {
+        "word": "objective criminal act",
+        "translation": "客観的実行行為"
+      },
+      {
+        "word": "mentally disabled person",
+        "translation": "精神障害者"
+      },
+      {
+        "word": "principal offender",
+        "translation": "正犯者"
+      },
+      {
+        "word": "manipulation",
+        "translation": "操作"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Pecuniary Collection of Criminal Proceeds",
+    "definition": "A supplementary criminal penalty (used alongside forfeiture) where the court mandates the monetary collection of the value equivalent to the illicit gains or instruments of crime when the actual property cannot be seized or confiscated.",
+    "japaneseDefinition": "没収すべき物が存在しない、または没収することができない場合に、その物の価額に相当する金銭を国庫に徴収する制度。没収の不足を補う付加刑。",
+    "japaneseWordTranslation": "追徴 (Tsuichō)",
+    "legalContext": "Criminal Code Art. 19-2: When the whole or part of property that should be forfeited cannot be forfeited, the equivalent value thereof shall be collected from the offender.",
+    "japaneseLegalContext": "刑法第19条の2: 没収すべきものの全部又は一部を没収することができないときは、その価額を犯人から追徴することができる。",
+    "exampleSentence": "Since the illegally obtained assets had already been consumed by the defendant, the court imposed pecuniary collection of criminal proceeds equivalent to the estimated illicit gains.",
+    "exampleTranslation": "違法に得た資産は既に被告人によって消費されていたため、裁判所は推定される不正利得に相当する金銭を追徴した。",
+    "vocabularyList": [
+      {
+        "word": "illicit gains",
+        "translation": "不正利得"
+      },
+      {
+        "word": "supplementary penalty",
+        "translation": "付加刑"
+      },
+      {
+        "word": "forfeited",
+        "translation": "没収される"
+      },
+      {
+        "word": "equivalent value",
+        "translation": "価額に相当する"
+      },
+      {
+        "word": "seized",
+        "translation": "差し押さえられた"
+      }
+    ]
   }
 ]

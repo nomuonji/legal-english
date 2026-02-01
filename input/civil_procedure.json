@@ -16108,5 +16108,119 @@
         "translation": "地方裁判所"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Authorization",
+    "definition": "The explicit delegation of power required for a litigation agent to perform acts crucial to the outcome of the suit, such as withdrawal, settlement, waiver, or acknowledgment of a claim.",
+    "japaneseDefinition": "訴訟代理人が、訴えの取下げ、和解、請求の放棄・認諾など、訴訟の進行に決定的な影響を与える行為を行うために、本人から個別に与えられる権限。",
+    "japaneseWordTranslation": "とくべつなじゅけん (tokubetsu na juken)",
+    "legalContext": "Code of Civil Procedure Art. 59: Special Power to Perform Procedural Acts",
+    "japaneseLegalContext": "民事訴訟法第59条: 訴訟行為をするについての特別の授権",
+    "exampleSentence": "The agent was unable to withdraw the suit without the client providing specific special authorization for that act.",
+    "exampleTranslation": "その代理人は、依頼者が当該行為のための特別な授権を行わなかったため、訴訟を取り下げることができなかった。",
+    "vocabularyList": [
+      {
+        "word": "litigation agent",
+        "translation": "訴訟代理人 (そしょうだいりにん)"
+      },
+      {
+        "word": "withdrawal of suit",
+        "translation": "訴えの取下げ (うったえのとりさげ)"
+      },
+      {
+        "word": "waiver of claim",
+        "translation": "請求の放棄 (せいきゅうのほうき)"
+      },
+      {
+        "word": "acknowledgment of claim",
+        "translation": "請求の認諾 (せいきゅうのにんらく)"
+      },
+      {
+        "word": "procedural acts",
+        "translation": "訴訟行為 (そしょうこうい)"
+      },
+      {
+        "word": "explicit delegation",
+        "translation": "明示的な委任 (めいじてきないにん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ex Officio Procedural Scrutiny",
+    "definition": "The court's inherent duty, exercised on its own initiative, to investigate whether the fundamental requirements for maintaining a lawsuit (like jurisdiction, standing, and capacity) are met, regardless of whether the parties raise objections.",
+    "japaneseDefinition": "管轄、当事者適格、訴訟能力など、訴訟の維持に必要な基本要件が満たされているかについて、当事者の主張を待たずに裁判所が職権で調査判断を行うこと。",
+    "japaneseWordTranslation": "しょっけんちょうさ (shokken chōsa)",
+    "legalContext": "CCP Art. 138 (General principle derived from the requirement of a lawful suit)",
+    "japaneseLegalContext": "民事訴訟法第138条（訴訟の開始）に基づく、適法な訴訟要件に関する原則",
+    "exampleSentence": "The court dismissed the action following its ex officio procedural scrutiny, finding a lack of litigation standing on the part of the plaintiff.",
+    "exampleTranslation": "裁判所は、原告の当事者適格がないことを見出し、職権調査に基づき訴えを却下した。",
+    "vocabularyList": [
+      {
+        "word": "on its own initiative",
+        "translation": "職権で (しょっけんで)"
+      },
+      {
+        "word": "procedural requirements",
+        "translation": "訴訟要件 (そしょうようけん)"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄 (かんかつ)"
+      },
+      {
+        "word": "litigation standing",
+        "translation": "当事者適格 (とうじしゃてきかく)"
+      },
+      {
+        "word": "capacity",
+        "translation": "訴訟能力 (そしょうのうりょく)"
+      },
+      {
+        "word": "dismissed the action",
+        "translation": "訴えを却下した (うったえをきゃっかした)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designation of Hearing Date",
+    "definition": "The act by the court or judge of officially setting the time and location for oral arguments or evidence examination, which is followed by the formal summoning of the parties and relevant persons.",
+    "japaneseDefinition": "裁判所又は裁判長が、口頭弁論や証拠調べなどの期日の日時及び場所を定める行為。通常、これに伴って当事者等に対して呼出しが行われる。",
+    "japaneseWordTranslation": "きじつのしてい (kijitsu no shitei)",
+    "legalContext": "Code of Civil Procedure Art. 93: Designation of Date and Summons",
+    "japaneseLegalContext": "民事訴訟法第93条: 期日の指定及び呼出し",
+    "exampleSentence": "Following the submission of the written defense, the presiding judge issued the designation of the first hearing date and ordered the summons of the parties.",
+    "exampleTranslation": "答弁書の提出後、裁判長は第1回口頭弁論期日を指定し、当事者の呼出しを命じた。",
+    "vocabularyList": [
+      {
+        "word": "presiding judge",
+        "translation": "裁判長 (さいばんちょう)"
+      },
+      {
+        "word": "oral arguments",
+        "translation": "口頭弁論 (こうとうべんろん)"
+      },
+      {
+        "word": "summons",
+        "translation": "呼出し (よびだし)"
+      },
+      {
+        "word": "written defense",
+        "translation": "答弁書 (とうべんしょ)"
+      },
+      {
+        "word": "evidence examination",
+        "translation": "証拠調べ (しょうこしらべ)"
+      },
+      {
+        "word": "date of hearing",
+        "translation": "期日 (きじつ)"
+      }
+    ]
   }
 ]

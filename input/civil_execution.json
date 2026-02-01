@@ -2,44 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Successful Bidder",
-    "definition": "The person who is declared the buyer of property (typically real estate or movables) at a compulsory sale conducted by the execution court, usually because they submitted the highest bid. Upon payment of the purchase price, they acquire ownership of the property.",
-    "japaneseDefinition": "執行裁判所が行う強制的な売却手続き（通常は競売）において、最も高い入札額を提示した結果、財産（主に不動産や動産）の買い手として決定された者。代金を納付することにより、その財産の所有権を取得する。",
-    "japaneseWordTranslation": "買受人 (かいうけにん)",
-    "legalContext": "Civil Execution Act Art. 78 (1): Upon the successful bidder paying the price, the obligor’s right in the real property is extinguished, and the successful bidder acquires the ownership of the real property.",
-    "japaneseLegalContext": "民事執行法第78条第1項：買受人が代金を納付したときは、不動産の上に存する債務者の権利は消滅し、買受人はその不動産の所有権を取得する。",
-    "exampleSentence": "The court issued an order declaring the highest bidder as the Successful Bidder, conditional upon the full payment of the purchase price by the deadline.",
-    "exampleTranslation": "裁判所は、最高の入札者を期限までに売却代金の全額を支払うことを条件として、買受人とする決定を出した。",
-    "vocabularyList": [
-      {
-        "word": "highest bid",
-        "translation": "最高価額の入札"
-      },
-      {
-        "word": "compulsory sale",
-        "translation": "強制売却"
-      },
-      {
-        "word": "purchase price",
-        "translation": "売却代金"
-      },
-      {
-        "word": "acquire ownership",
-        "translation": "所有権を取得する"
-      },
-      {
-        "word": "extinguished",
-        "translation": "消滅する"
-      },
-      {
-        "word": "deadline",
-        "translation": "期限"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Seizure of Claims",
     "definition": "The legal procedure under Civil Execution Law where a creditor obtains a court order to seize intangible monetary claims held by the debtor against a third party.",
     "japaneseDefinition": "債務者の第三者に対する金銭債権を、裁判所を通じて差押える手続き。給与や預金債権などがこれにあたる。",
@@ -14678,6 +14640,40 @@
       {
         "word": "co-ownership",
         "translation": "共有 (kyōyū)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Real Property Status Investigation Report",
+    "definition": "A mandatory report prepared by the execution officer or a commissioned investigator detailing the physical condition, boundary lines, usage, and possessory status (including occupancy rights) of real property scheduled for compulsory sale.",
+    "japaneseDefinition": "強制売却の対象となる不動産の物理的状況、境界、使用状況、および占有関係（占有権原を含む）を詳細に記載し、執行官または執行裁判所の委託を受けた者が作成する報告書。",
+    "japaneseWordTranslation": "不動産の現況調査報告書 (Fudōsan no Genkyō Chōsa Hōkokusho)",
+    "legalContext": "Civil Execution Act, Article 64: The execution court shall order the execution officer to investigate the status of the real property subject to execution, and the officer shall prepare a Real Property Status Investigation Report.",
+    "japaneseLegalContext": "民事執行法第64条：執行裁判所は、執行官に対し、執行不動産の現況の調査を命じ、執行官は現況調査報告書を作成しなければならない。",
+    "exampleSentence": "The Real Property Status Investigation Report revealed that the building was occupied by a tenant claiming a leasehold right, which would impact the minimum bid price.",
+    "exampleTranslation": "不動産の現況調査報告書により、当該建物が賃借権を主張する占有者によって占有されており、それが最低入札価格に影響を与えることが明らかになった。",
+    "vocabularyList": [
+      {
+        "word": "execution officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "compulsory sale",
+        "translation": "強制売却"
+      },
+      {
+        "word": "possessory status",
+        "translation": "占有関係"
+      },
+      {
+        "word": "leasehold right",
+        "translation": "賃借権"
+      },
+      {
+        "word": "minimum bid price",
+        "translation": "最低売却価額"
       }
     ]
   }

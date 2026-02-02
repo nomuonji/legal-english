@@ -12679,5 +12679,107 @@
         "translation": "物理的現況 (ぶつりてきげんきょう)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registrar's Statement of Rationale",
+    "definition": "The formal written opinion or statement of reasons prepared by the Registrar when an applicant files an objection against the Registrar's disposition (e.g., rejection of a registration application). This statement is submitted to the supervising administrative chief (法務局長) for review.",
+    "japaneseDefinition": "登記官が、行った処分（申請却下など）に対する不服申立てがされた際、その処分の正当性を主張するために作成し、上司の法務局長に提出する意見書。",
+    "japaneseWordTranslation": "登記官の意見 (とうきかんのいけん)",
+    "legalContext": "Real Property Registration Law Art. 25-3 (Objection Review Procedure): The Registrar shall state their opinion and forward the application and necessary documents to the Supervising Bureau Chief.",
+    "japaneseLegalContext": "不動産登記法 第25条の3（不服の申出）：登記官は、その意見を付して、当該申請書等を法務局又は地方法務局の長に送付しなければならない。",
+    "exampleSentence": "The applicant filed an objection to the rejection, requiring the registrar to prepare a detailed Registrar's Statement of Rationale for the Supervising Bureau Chief.",
+    "exampleTranslation": "申請人は却下処分に対して不服を申し立てたため、登記官は法務局長に対し詳細な登記官の意見書を作成する必要が生じた。",
+    "vocabularyList": [
+      {
+        "word": "Objection",
+        "translation": "不服申立て (ふふくもうしたて)"
+      },
+      {
+        "word": "Disposition",
+        "translation": "処分 (しょぶん)"
+      },
+      {
+        "word": "Rejection",
+        "translation": "却下 (きゃっか)"
+      },
+      {
+        "word": "Supervising Bureau Chief",
+        "translation": "法務局長 (ほうむきょくちょう)"
+      },
+      {
+        "word": "Application",
+        "translation": "申請 (しんせい)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Description Record",
+    "definition": "The section of the real property register (known in Japanese as Hyōji ni Kansuru Tōki) dedicated to recording the physical facts of the property, such as the land category, area, building structure, location, and classification.",
+    "japaneseDefinition": "不動産登記記録のうち、土地や建物の物理的現況を示す事項（地目、地積、構造、種類など）を記載する部分。権利に関する登記とは区別される。",
+    "japaneseWordTranslation": "表示に関する登記 (ひょうじにかんするとうき)",
+    "legalContext": "Real Property Registration Law Art. 27: The register shall consist of the Property Description Record and the Rights Record (Ownership Section and Other Rights Section).",
+    "japaneseLegalContext": "不動産登記法 第27条：登記記録は、表示に関する登記及び権利に関する登記（甲区及び乙区）に区分して作成する。",
+    "exampleSentence": "The land survey map must accurately reflect the Property Description Record before the transfer of ownership can be registered in the Rights Record.",
+    "exampleTranslation": "所有権の移転登記を権利部に登録する前に、地積測量図は表示に関する登記に正確に反映されていなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Factual status",
+        "translation": "現況 (げんきょう)"
+      },
+      {
+        "word": "Land category",
+        "translation": "地目 (ちもく)"
+      },
+      {
+        "word": "Area",
+        "translation": "地積 (ちせき)"
+      },
+      {
+        "word": "Rights Record",
+        "translation": "権利に関する登記 (けんりにかんするとうき)"
+      },
+      {
+        "word": "Ownership Section",
+        "translation": "甲区 (こうく)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Factual Entry Duty",
+    "definition": "The legal obligation imposed on the owner of real property to apply for an entry reflecting a change in the property's physical status (e.g., new construction, demolition, or change in land category) within a statutorily defined period (usually one month).",
+    "japaneseDefinition": "不動産の物理的現況（新築、滅失、地目変更など）に変更が生じた際、所有者が一定期間内（通常1ヶ月以内）に、その事実を登記するよう申請することが義務付けられていること。",
+    "japaneseWordTranslation": "表示の登記の申請義務 (ひょうじのとうきのしんせいぎむ)",
+    "legalContext": "Real Property Registration Law Art. 36 (Duty for New Buildings): An applicant who constructs a building must apply for the description registration within one month from the date of construction.",
+    "japaneseLegalContext": "不動産登記法 第36条（新築建物の登記の申請義務）：建物を新築した者は、その新築の日から一月以内に、表示の登記を申請しなければならない。",
+    "exampleSentence": "Failure to comply with the Statutory Factual Entry Duty following the demolition of a house may result in an administrative penalty.",
+    "exampleTranslation": "家屋の取り壊し後、表示の登記の申請義務を履行しなかった場合、過料に処される可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "Obligation",
+        "translation": "義務 (ぎむ)"
+      },
+      {
+        "word": "Demolition",
+        "translation": "滅失 (めっしつ)"
+      },
+      {
+        "word": "New construction",
+        "translation": "新築 (しんちく)"
+      },
+      {
+        "word": "Administrative penalty",
+        "translation": "過料 (かりょう)"
+      },
+      {
+        "word": "Statutorily defined period",
+        "translation": "法定期間 (ほうていきかん)"
+      }
+    ]
   }
 ]

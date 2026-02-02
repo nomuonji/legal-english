@@ -10250,5 +10250,107 @@
         "translation": "口座情報"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Deposit Ground",
+    "definition": "A legally recognized reason (such as uncertainty regarding the identity of the creditor or refusal by the creditor to accept performance) that permits an obligor to consign the subject matter of an obligation to a public agency, thereby facilitating the discharge of the debt.",
+    "japaneseDefinition": "債務者が債権者不明等の理由により債務の本旨に従った履行ができない場合に、その債務を免れるために供託をすることを認める法律上の根拠。",
+    "japaneseWordTranslation": "法定の供託原因 (Hōtei no kyōtaku gen'in)",
+    "legalContext": "Civil Code Art. 494 (Grounds for Deposit): If the obligee refuses to accept performance, or cannot accept it, or if the obligee's identity is unknown, the obligor may be released from the obligation by depositing the subject matter of the obligation.",
+    "japaneseLegalContext": "民法第494条 (供託)：債権者が弁済の受領を拒み、又はこれを受領することができないとき、若しくは債権者の確知ができないとき、債務者は、弁済の目的物を供託して、その債務を免れることができる。",
+    "exampleSentence": "The obligor relied on the **Statutory Deposit Ground** of creditor refusal to complete the transfer of funds and secure a final release from the contractual commitment.",
+    "exampleTranslation": "債務者は、債権者による受領拒否という**法定の供託原因**に依拠して、資金の引き渡しを完了させ、契約上の責任から最終的に免れることを確保した。",
+    "vocabularyList": [
+      {
+        "word": "弁済の受領拒否",
+        "translation": "Refusal of acceptance (of performance)"
+      },
+      {
+        "word": "債務者",
+        "translation": "Obligor / Debtor"
+      },
+      {
+        "word": "債権者",
+        "translation": "Obligee / Creditor"
+      },
+      {
+        "word": "確知ができない",
+        "translation": "Identity is unascertainable"
+      },
+      {
+        "word": "債務を免れる",
+        "translation": "Be released from the debt"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Termination of Liability (via Deposit)",
+    "definition": "The legal consequence under the Deposit Act where an obligor, by making a valid consignment of the subject matter of performance, is deemed to have fulfilled their duty, thus extinguishing the personal liability relative to that performance.",
+    "japaneseDefinition": "債務者が供託所に弁済の目的物を供託することにより、その債務履行責任から解放され、債権債務関係が終了すること。",
+    "japaneseWordTranslation": "供託による責任の終了 (Kyōtaku ni yoru sekinin no shūryō)",
+    "legalContext": "Civil Code Art. 494: ...the obligor may be released from the obligation by depositing the subject matter of the obligation, effectively achieving the purpose of performance.",
+    "japaneseLegalContext": "民法第494条：…債務者は、弁済の目的物を供託して、その債務を免れることができる（弁済と同一の効力）。",
+    "exampleSentence": "Once the funds were accepted by the Deposit Office, the **Termination of Liability (via Deposit)** took immediate effect, shielding the company from claims of non-performance.",
+    "exampleTranslation": "供託所に資金が受理された時点で、**供託による責任の終了**が直ちに発効し、その会社を不履行の請求から保護した。",
+    "vocabularyList": [
+      {
+        "word": "債務履行責任",
+        "translation": "Liability for obligation performance"
+      },
+      {
+        "word": "供託所",
+        "translation": "Deposit Office"
+      },
+      {
+        "word": "発効",
+        "translation": "Take effect"
+      },
+      {
+        "word": "不履行",
+        "translation": "Non-performance / Breach"
+      },
+      {
+        "word": "目的物",
+        "translation": "Subject matter"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consigned Assets",
+    "definition": "The money, securities, or other movable property deposited with the Deposit Office by the obligor as the subject matter of performance, which are subsequently held in public custody for the benefit of the entitled recipient.",
+    "japaneseDefinition": "債務者が弁済の目的として供託所に預け入れた金銭、有価証券その他の動産であり、受領権者のために保管される公的な財産。",
+    "japaneseWordTranslation": "供託財産 (Kyōtaku zaisan)",
+    "legalContext": "Deposit Act Art. 2 (Scope of Consignment): Deposit shall be made with money or securities. However, property other than money or securities may be deposited if permitted by other laws or if it can be easily stored.",
+    "japaneseLegalContext": "供託法第2条 (供託の目的物)：供託は、金銭又は有価証券をもってするものとする。ただし、法令に別段の定めがあるとき又は保管に便利なものはこの限りでない。",
+    "exampleSentence": "The deposit registrar confirmed that the **Consigned Assets** were properly categorized as securities and recorded the transfer of custody to the Deposit Office.",
+    "exampleTranslation": "供託登記官は、**供託財産**が有価証券として適切に分類され、供託所への保管の移転が記録されたことを確認した。",
+    "vocabularyList": [
+      {
+        "word": "有価証券",
+        "translation": "Securities"
+      },
+      {
+        "word": "動産",
+        "translation": "Movable property"
+      },
+      {
+        "word": "供託登記官",
+        "translation": "Deposit Registrar"
+      },
+      {
+        "word": "保管",
+        "translation": "Custody / Storage"
+      },
+      {
+        "word": "受領権者",
+        "translation": "Entitled recipient"
+      }
+    ]
   }
 ]

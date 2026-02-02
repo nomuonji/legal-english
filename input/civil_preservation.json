@@ -12172,5 +12172,119 @@
         "translation": "資産凍結"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Debtor's Motion to Contest Continuation of Preservation",
+    "definition": "A procedural remedy available to the preservation obligor (debtor) seeking the revocation of a preservation order (such as provisional attachment or injunction) on the grounds that the initial necessity or grounds for preservation have ceased to exist.",
+    "japaneseDefinition": "保全債務者が、保全命令の執行後に、その命令の根拠となる保全の必要性が消滅したことを理由として、裁判所に保全命令の取消しを求める申立て。",
+    "japaneseWordTranslation": "保全の必要性の消滅による取消申立て (ほぜんのひつようせいのしょうめつによるとりけしもうしたて)",
+    "legalContext": "Civil Preservation Act, Article 42 (Cancellation of Preservation Order based on the Disappearance of Preservation Necessity).",
+    "japaneseLegalContext": "民事保全法 第四十二条（保全の必要性の消滅による保全命令の取消し）",
+    "exampleSentence": "The obligor filed a Debtor's Motion to Contest Continuation of Preservation after successfully providing security to the obligee outside of court, thereby nullifying the risk of impaired execution.",
+    "exampleTranslation": "債務者は、裁判外で債権者に対して担保を提供することに成功し、それによって執行妨害の危険性がなくなったため、保全の必要性の消滅による取消申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "revocation",
+        "translation": "取消し"
+      },
+      {
+        "word": "preservation order",
+        "translation": "保全命令"
+      },
+      {
+        "word": "impaired execution",
+        "translation": "執行妨害"
+      },
+      {
+        "word": "grounds for preservation",
+        "translation": "保全事由"
+      },
+      {
+        "word": "provision of security",
+        "translation": "担保の提供"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Counter-Security for Exoneration from Enforcement",
+    "definition": "Security (usually a monetary deposit) provided by the preservation debtor to the court in order to stay or reverse the execution of a preservation order, such as a provisional attachment, thereby effectively obtaining temporary or permanent release from the coercive measure.",
+    "japaneseDefinition": "保全命令が発令された後、債務者が保全執行を停止し、又は保全処分の取消しを可能にするために、裁判所に対して供託する担保。",
+    "japaneseWordTranslation": "保全執行の停止のための担保 (ほぜんしっこうのていしのためのたんぽ)",
+    "legalContext": "Civil Preservation Act, Article 44 (Order for Cancellation of Preservation Enforcement based on Provision of Security by Obligor).",
+    "japaneseLegalContext": "民事保全法 第四十四条（保全執行の停止等）",
+    "exampleSentence": "The defendant posted Counter-Security for Exoneration from Enforcement equivalent to 150% of the preserved claim amount, resulting in the immediate lifting of the provisional attachment on its bank account.",
+    "exampleTranslation": "被告は、保全債権額の150%に相当する保全執行の停止のための担保を供託し、その結果、銀行口座に対する仮差押えが直ちに解除された。",
+    "vocabularyList": [
+      {
+        "word": "defendant",
+        "translation": "被告"
+      },
+      {
+        "word": "preserved claim amount",
+        "translation": "保全債権額"
+      },
+      {
+        "word": "posted security",
+        "translation": "担保を供託した"
+      },
+      {
+        "word": "stay the execution",
+        "translation": "執行を停止する"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え"
+      },
+      {
+        "word": "immediate lifting",
+        "translation": "直ちに解除"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution of Real Property Preservation Registration",
+    "definition": "The formal process of registering a provisional measure, such as a provisional attachment or a disposition prohibition injunction, against real property in the property register (Tōkibo). This registration serves as public notice and establishes the opposability of the preservation measure against third parties.",
+    "japaneseDefinition": "不動産に対する保全命令（仮差押え、仮処分等）を執行するために、登記簿にその内容を記載し、第三者対抗力を備える手続き。",
+    "japaneseWordTranslation": "不動産保全登記の執行 (ふどうさんほぜんとうきのしっこう)",
+    "legalContext": "Civil Preservation Act, Article 53 (Execution of Provisional Attachment of Real Property) and Article 57 (Execution of Provisional Disposition related to Real Property).",
+    "japaneseLegalContext": "民事保全法 第五十三条（不動産の仮差押えの執行）及び第五十七条（不動産に関する仮処分の執行）",
+    "exampleSentence": "Upon the court granting the preservation order, the Execution of Real Property Preservation Registration was carried out by the registrar, restricting the debtor from selling the land.",
+    "exampleTranslation": "裁判所が保全命令を認容した後、登記官によって不動産保全登記の執行がなされ、債務者が当該土地を売却することが制限された。",
+    "vocabularyList": [
+      {
+        "word": "injunction",
+        "translation": "仮処分"
+      },
+      {
+        "word": "property register",
+        "translation": "登記簿"
+      },
+      {
+        "word": "granting the order",
+        "translation": "命令を認容する"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "opposability",
+        "translation": "対抗力"
+      },
+      {
+        "word": "disposition prohibition",
+        "translation": "処分禁止"
+      }
+    ]
   }
 ]

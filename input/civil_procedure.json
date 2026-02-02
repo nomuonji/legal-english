@@ -16324,5 +16324,119 @@
         "translation": "代理関係 (だいりかんけい)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Formal Requirements for Suit",
+    "definition": "The essential legal prerequisites that a lawsuit must satisfy in order to be procedurally admissible, such as proper venue, capacity of the parties, and the presence of a legal interest in the confirmation/performance sought.",
+    "japaneseDefinition": "裁判所が訴訟を本案審理する前に審査しなければならない、訴訟の適法性を維持するための要件群（例：管轄、当事者能力、訴えの利益など）。",
+    "japaneseWordTranslation": "訴訟要件 (そしょうようけん)",
+    "legalContext": "Civil Procedure Code Art. 133, 140, 142 (Implicit): The court must examine the formal requirements for suit ex officio.",
+    "japaneseLegalContext": "民事訴訟法第133条, 140条, 142条（趣旨）: 裁判所は職権で訴訟要件を調査しなければならない。",
+    "exampleSentence": "If the plaintiff fails to satisfy all the formal requirements for suit, the action must be dismissed by the court without delving into the merits of the claim.",
+    "exampleTranslation": "原告が全ての訴訟要件を満たさない場合、その訴えは請求の当否を審理されることなく、裁判所によって却下されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "prerequisites",
+        "translation": "前提条件 (ぜんていじょうけん)"
+      },
+      {
+        "word": "admissible",
+        "translation": "許容される (きょようされる)"
+      },
+      {
+        "word": "proper venue",
+        "translation": "適正な管轄 (てきせいなかんかつ)"
+      },
+      {
+        "word": "capacity of the parties",
+        "translation": "当事者能力 (とうじしゃのうりょく)"
+      },
+      {
+        "word": "dismissed",
+        "translation": "却下される (きゃっかされる)"
+      },
+      {
+        "word": "merits of the claim",
+        "translation": "請求の本案 (せいきゅうのほんあん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Self-Adjudication by Appellate Court",
+    "definition": "The authority of a court of second instance (High Court) to render a final judgment on the merits of the case itself, following the setting aside or reversal of the lower court’s judgment, instead of remanding the case for further proceedings.",
+    "japaneseDefinition": "控訴裁判所が、原判決を取り消した場合に、事件を原審に差し戻すことなく、自ら本案について判決を下すこと。",
+    "japaneseWordTranslation": "自判 (じはん)",
+    "legalContext": "Civil Procedure Code Art. 308: If a court of second instance finds that the judgment of the first instance should be revoked, and if the case is ready for a final decision, it may render its own judgment.",
+    "japaneseLegalContext": "民事訴訟法第308条: 控訴裁判所は、原判決を取り消した場合において、事件が裁判をするのに熟しているときは、自ら本案について判決をすることができる。",
+    "exampleSentence": "Upon finding a clear error in the legal application by the District Court, the High Court exercised its power of self-adjudication, modifying the calculation of damages rather than ordering a remand.",
+    "exampleTranslation": "地方裁判所による法適用に明らかな誤りを発見した際、高等裁判所は差戻しを命じるのではなく、自判権を行使して損害賠償額の算定を修正した。",
+    "vocabularyList": [
+      {
+        "word": "court of second instance",
+        "translation": "控訴裁判所 (こうそさいばんしょ)"
+      },
+      {
+        "word": "setting aside",
+        "translation": "取り消し (とりけし)"
+      },
+      {
+        "word": "reversal",
+        "translation": "破棄 (はき)"
+      },
+      {
+        "word": "remanding",
+        "translation": "差し戻し (さしもどし)"
+      },
+      {
+        "word": "final decision",
+        "translation": "終局判決 (しゅうきょくはんけつ)"
+      },
+      {
+        "word": "calculation of damages",
+        "translation": "損害賠償額の算定 (そんがいばいしょうがくのさんてい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Continuity of Trial",
+    "definition": "A procedural principle mandating that once trial proceedings commence, they should be conducted continuously, intensively, and efficiently on designated hearing dates, minimizing fragmentation and delays to ensure the prompt resolution of the dispute.",
+    "japaneseDefinition": "口頭弁論開始後、証拠調べを含む訴訟手続を中断・分離することなく、集中的かつ効率的に行い、紛争の早期解決を図るべきであるという原則。",
+    "japaneseWordTranslation": "審理の継続の原則 (しんりのけいぞくのげんそく)",
+    "legalContext": "Civil Procedure Code Art. 244 (Implicit in the provisions for focused trial dates): The conduct of the oral arguments must align with the goal of prompt and efficient resolution of the case.",
+    "japaneseLegalContext": "民事訴訟法第244条（集中審理期日に関する規定に内在）: 口頭弁論の進行は、事件の迅速かつ効率的な解決の目標に沿うものでなければならない。",
+    "exampleSentence": "The judge emphasized the principle of continuity of trial when scheduling consecutive dates for the witness examination phase, instructing both parties to prepare thoroughly to avoid adjournments.",
+    "exampleTranslation": "裁判官は、証人尋問のフェーズのために連続した期日を設定するにあたり、審理の継続の原則を強調し、当事者双方に延期を避けるために徹底的に準備するよう指示した。",
+    "vocabularyList": [
+      {
+        "word": "mandating",
+        "translation": "義務づける (ぎむづける)"
+      },
+      {
+        "word": "intensively",
+        "translation": "集中的に (しゅうちゅうてきに)"
+      },
+      {
+        "word": "fragmentation",
+        "translation": "細分化 (さいぶんか)"
+      },
+      {
+        "word": "prompt resolution",
+        "translation": "早期解決 (そうきかいけつ)"
+      },
+      {
+        "word": "consecutive dates",
+        "translation": "連続した期日 (れんぞくしたきじつ)"
+      },
+      {
+        "word": "adjournments",
+        "translation": "期日延期 (きじつえんき)"
+      }
+    ]
   }
 ]

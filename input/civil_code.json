@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Right of Passage Through Surrounding Land",
-    "definition": "A statutory real right allowing the owner of landlocked property (property not having suitable access to a public road) to pass through the surrounding land owned by others to reach that public road, provided the selection of the route causes the least detriment.",
-    "japaneseDefinition": "公道に通じていない土地（袋地）の所有者が、公道に出るため、他の者の所有する周囲の土地を通行することができる、法定の物権。",
-    "japaneseWordTranslation": "囲繞地通行権 (いにょうちつうこうけん)",
-    "legalContext": "Civil Code Art. 210 (Right of passage through surrounding land): 'If a parcel of land has no suitable access to a public road, the parcel owner may pass through the surrounding land of others in order to access the public road.'",
-    "japaneseLegalContext": "民法第210条（公道に至るための他の土地の通行権）：『他の土地に囲まれて公道に通じない土地の所有者は、公道に至るため、その土地を囲んでいる他の土地を通行することができる。』",
-    "exampleSentence": "The court recognized the plaintiff's claim for the right of passage through surrounding land but restricted the width of the passage to minimize detriment to the defendant's property.",
-    "exampleTranslation": "裁判所は、原告の囲繞地通行権の主張を認めたが、被告の財産への損害を最小限に抑えるため、通路の幅を制限した。",
-    "vocabularyList": [
-      {
-        "word": "landlocked property",
-        "translation": "袋地"
-      },
-      {
-        "word": "public road",
-        "translation": "公道"
-      },
-      {
-        "word": "real right",
-        "translation": "物権"
-      },
-      {
-        "word": "detriment",
-        "translation": "損害／不利益"
-      },
-      {
-        "word": "parcel owner",
-        "translation": "土地の所有者"
-      },
-      {
-        "word": "restrict the width",
-        "translation": "幅を制限する"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Subrogation by Performance",
     "definition": "A statutory principle whereby a third party who legally performs an obligation (i.e., pays off a debt) on behalf of the original obligor acquires the rights, security interests, and guarantees that the obligee held against the obligor.",
     "japaneseDefinition": "第三者が債務者に代わって弁済を行った場合に、その弁済者が債権者の有していた権利（担保権や保証など）を自己のために取得する法定の制度。",
@@ -18302,6 +18264,120 @@
       {
         "word": "lawsuit",
         "translation": "訴訟"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Good Faith Principle",
+    "definition": "The foundational doctrine stipulating that parties engaging in civil transactions must act honestly and fairly, respecting the legitimate expectations of others in their exercise of powers and fulfillment of undertakings.",
+    "japaneseDefinition": "権利の行使及び義務の履行は、信義を重んじ、誠実に行うべきであるという民法の基本原則。",
+    "japaneseWordTranslation": "信義誠実の原則 (しんぎせいじつのげんそく)",
+    "legalContext": "Civil Code Art. 1, Para. 2: The exercise of rights and performance of obligations must be governed by the principles of good faith and fairness.",
+    "japaneseLegalContext": "民法第1条第2項：権利の行使及び義務の履行は、信義を重んじ、誠実に行わなければならない。",
+    "exampleSentence": "The court invoked the Good Faith Principle to prevent the obligor from asserting a defense based on formal procedural compliance alone, deeming it an abuse of power.",
+    "exampleTranslation": "裁判所は、債務者が形式的な手続の遵守のみを根拠に抗弁することを、権利の濫用と見なし、信義誠実の原則を適用した。",
+    "vocabularyList": [
+      {
+        "word": "invoked",
+        "translation": "適用した (てきようした)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "asserting a defense",
+        "translation": "抗弁の主張 (こうべんのしゅちょう)"
+      },
+      {
+        "word": "procedural compliance",
+        "translation": "手続の遵守 (てつづきのじゅんしゅ)"
+      },
+      {
+        "word": "abuse of power",
+        "translation": "権利の濫用 (けんりのらんよう)"
+      },
+      {
+        "word": "legitimate expectations",
+        "translation": "正当な期待 (せいとうなきたい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Initial Impossibility",
+    "definition": "The condition where the object of a contractual undertaking was inherently unattainable at the moment the agreement was formed, typically rendering the entire transaction ineffective from the outset.",
+    "japaneseDefinition": "契約その他の法律行為の成立時に、その内容たる給付（債務の履行）が客観的に不可能であったこと。原則として当該行為を無効とする。",
+    "japaneseWordTranslation": "原始的不能 (げんしてきふのう)",
+    "legalContext": "A distinction in obligations law; unlike Subsequent Impossibility (which leads to non-performance), Initial Impossibility generally invalidates the transaction under older Civil Code interpretations (prior to the 2020 Amendment).",
+    "japaneseLegalContext": "債権法における不能の区別。後発的不能（債務不履行の問題）と異なり、原始的不能は原則として契約を無効にする。",
+    "exampleSentence": "Because the factory subject to the sale had already burned down before the purchase agreement was signed, the contract was afflicted by Initial Impossibility.",
+    "exampleTranslation": "売買の対象となった工場は売買契約締結前に既に焼失していたため、その契約は原始的不能により影響を受けた。",
+    "vocabularyList": [
+      {
+        "word": "contractual undertaking",
+        "translation": "契約上の義務 (けいやくじょうのぎむ)"
+      },
+      {
+        "word": "inherently unattainable",
+        "translation": "本質的に達成不可能 (ほんしつてきたっせいふかのう)"
+      },
+      {
+        "word": "transaction ineffective",
+        "translation": "取引の無効 (とりひきのむこう)"
+      },
+      {
+        "word": "Subsequent Impossibility",
+        "translation": "後発的不能 (こうはつてきふのう)"
+      },
+      {
+        "word": "sale",
+        "translation": "売買 (ばいばい)"
+      },
+      {
+        "word": "purchase agreement",
+        "translation": "購入契約 (こうにゅうけいやく)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Filiation by Birth",
+    "definition": "The legal connection between a parent and child established by biological parenthood, which is fundamental for determining familial status, parental responsibilities, and the transmission of estate assets.",
+    "japaneseDefinition": "実の親と子との間に生じる法律上の関係。嫡出の推定や認知などによってその成立が定められる。",
+    "japaneseWordTranslation": "実親子関係 (じつおやこかんけい)",
+    "legalContext": "Civil Code Art. 772 (Presumption of Filiation): A child born by a wife during marriage or within 300 days after divorce is presumed to be the child of the husband.",
+    "japaneseLegalContext": "民法第772条（嫡出の推定）：妻が婚姻中に懐胎した子は、夫の子と推定する。",
+    "exampleSentence": "Establishing Filiation by Birth through legal recognition is crucial for a non-marital child to secure claims to the deceased father’s estate.",
+    "exampleTranslation": "非嫡出子が死亡した父の財産に対する請求権を確保するためには、法的な認知を通じて実親子関係を確定することが極めて重要である。",
+    "vocabularyList": [
+      {
+        "word": "biological parenthood",
+        "translation": "生物学上の親子関係 (せいぶつがくじょうのおやこかんけい)"
+      },
+      {
+        "word": "legal recognition",
+        "translation": "認知 (にんち)"
+      },
+      {
+        "word": "non-marital child",
+        "translation": "非嫡出子 (ひちゃくしゅつし)"
+      },
+      {
+        "word": "deceased father",
+        "translation": "死亡した父 (しぼうしたちち)"
+      },
+      {
+        "word": "secure claims",
+        "translation": "請求権を確保する (せいきゅうけんをかくほする)"
+      },
+      {
+        "word": "estate assets",
+        "translation": "遺産財産 (いさんざいさん)"
       }
     ]
   }

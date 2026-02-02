@@ -14828,5 +14828,123 @@
         "translation": "敷地を立ち退く"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Compulsory Disclosure of Assets",
+    "definition": "A judicial procedure compelling the execution obligor (debtor) to appear before the execution court and disclose the full status of their property under oath, typically initiated when prior execution attempts failed or insufficient assets were found.",
+    "japaneseDefinition": "債務者が執行裁判所に出頭し、自己の財産状況について陳述することを義務付ける手続。金銭債権に対する執行が奏功しない場合などに適用される。",
+    "japaneseWordTranslation": "財産開示手続 (ざいさんかいじてつづき)",
+    "legalContext": "Civil Execution Act, Art. 196: 'The asset disclosure procedure shall be executed by the execution court by summoning the obligor and ordering him/her to state the status of his/her property.'",
+    "japaneseLegalContext": "民事執行法第196条: 「財産開示手続は、執行裁判所が、債務者を呼び出し、その財産の状況を陳述させる方法により行う。」",
+    "exampleSentence": "The obligee filed a motion for a Compulsory Disclosure of Assets after the seizure of the obligor’s bank accounts proved insufficient to satisfy the judgment debt.",
+    "exampleTranslation": "債務者の銀行口座の差押えが判決債務を満たすには不十分であることが判明した後、債権者は財産開示手続の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "execution obligor",
+        "translation": "執行債務者"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "under oath",
+        "translation": "宣誓の下で"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え"
+      },
+      {
+        "word": "judgment debt",
+        "translation": "判決債務"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "No-Surplus Execution Dismissal",
+    "definition": "The court's cancellation of a compulsory execution measure, typically against real property, when it is determined that the proceeds from the eventual sale will not exceed the costs of execution and the amount required to satisfy senior secured claims.",
+    "japaneseDefinition": "不動産に対する強制競売において、売却代金が手続費用及び優先債権（先順位の担保権等）を弁済するのに不足すると見込まれる場合に、執行裁判所が手続を取り消すこと。",
+    "japaneseWordTranslation": "無剰余執行取消 (むじょうよしっこうとりけし)",
+    "legalContext": "Civil Execution Act, Art. 63, Paragraph 2: 'In the case prescribed in the preceding paragraph, if the price of the real property does not exceed the amount specified by an order of the execution court... the execution court shall dismiss the execution.'",
+    "japaneseLegalContext": "民事執行法第63条第2項: 「前項に規定する場合において、不動産の買受可能価額が執行裁判所の定める額に満たないときは…執行裁判所は、執行を取り消さなければならない。」",
+    "exampleSentence": "The judicial auction was subject to No-Surplus Execution Dismissal because the appraisal value of the property was lower than the combined amount of the execution costs and the prior mortgages.",
+    "exampleTranslation": "当該不動産競売は、評価額が執行費用と先行する抵当権の合計額を下回ったため、無剰余執行取消の対象となった。",
+    "vocabularyList": [
+      {
+        "word": "judicial auction",
+        "translation": "競売"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      },
+      {
+        "word": "appraisal value",
+        "translation": "評価額"
+      },
+      {
+        "word": "execution costs",
+        "translation": "執行費用"
+      },
+      {
+        "word": "prior mortgages",
+        "translation": "先行抵当権"
+      },
+      {
+        "word": "senior secured claims",
+        "translation": "先順位担保債権"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Claim Vesting Mandate",
+    "definition": "An order issued by the execution court which transfers the seized monetary claim from the execution obligor to the execution obligee (creditor) in satisfaction of the underlying judgment debt, upon becoming final and binding.",
+    "japaneseDefinition": "債権執行において、差押えられた金銭債権を、確定により、執行債務者から執行債権者に移転させる旨の執行裁判所の命令。これにより債権者は配当手続を経ずに債権を取得できる。",
+    "japaneseWordTranslation": "転付命令 (てんぷめいれい)",
+    "legalContext": "Civil Execution Act, Art. 159, Paragraph 1: 'When a claim vesting mandate becomes final and binding, the seized claim shall be deemed to have been transferred to the execution obligee up to the amount of the claim and interest for which execution was sought.'",
+    "japaneseLegalContext": "民事執行法第159条第1項: 「転付命令が確定したときは、差押えに係る債権は、その券面額で、差押債権者の債権及び執行費用の額を限度として、執行債権者に移転した ものとみなす。」",
+    "exampleSentence": "The execution obligee applied for a Claim Vesting Mandate to directly collect funds from the third party obligor, bypassing the cumbersome distribution proceedings.",
+    "exampleTranslation": "執行債権者は、煩雑な配当手続を避けるため、第三債務者から直接資金を回収する目的で転付命令を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "seized monetary claim",
+        "translation": "差押えられた金銭債権"
+      },
+      {
+        "word": "final and binding",
+        "translation": "確定した"
+      },
+      {
+        "word": "third party obligor",
+        "translation": "第三債務者"
+      },
+      {
+        "word": "distribution proceedings",
+        "translation": "配当手続"
+      },
+      {
+        "word": "underlying judgment debt",
+        "translation": "基礎となる判決債務"
+      }
+    ]
   }
 ]

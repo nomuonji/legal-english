@@ -10352,5 +10352,131 @@
         "translation": "Entitled recipient"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Document Certifying Cause for Deposit Retrieval",
+    "definition": "A document submitted by the depositor to the Deposit Office to prove that the original legal grounds for the deposit have ceased to exist, thereby entitling the depositor to recover the deposited property.",
+    "japaneseDefinition": "供託者が供託の事由の消滅を証明し、供託物を取り戻すために供託所に提出する書類。",
+    "japaneseWordTranslation": "供託物取戻原因証明書 (きょうたくぶつとりもどしげんいんしょうめいしょ)",
+    "legalContext": "Deposit Act and Deposit Act Enforcement Regulations: Outlines the necessary documentation for the depositor to exercise their right to recover the deposited assets.",
+    "japaneseLegalContext": "供託法および供託法施行規則：供託者が供託物取戻請求権を行使するために必要な添付書類を定める規定。",
+    "exampleSentence": "In order to successfully recover the security deposit, the depositor was required to furnish a **Document Certifying Cause for Deposit Retrieval** alongside the formal application.",
+    "exampleTranslation": "保証供託金を問題なく取り戻すためには、供託者は正式な申請書に加えて供託物取戻原因証明書を提出する必要があった。",
+    "vocabularyList": [
+      {
+        "word": "depositor",
+        "translation": "供託者"
+      },
+      {
+        "word": "Deposit Office",
+        "translation": "供託所"
+      },
+      {
+        "word": "recover",
+        "translation": "取り戻す"
+      },
+      {
+        "word": "legal grounds",
+        "translation": "法的根拠"
+      },
+      {
+        "word": "security deposit",
+        "translation": "保証供託金"
+      },
+      {
+        "word": "formal application",
+        "translation": "正式な申請"
+      },
+      {
+        "word": "furnish",
+        "translation": "提出する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consignment Duty on the Acquirer",
+    "definition": "A specific legal requirement that mandates a party acquiring title to certain encumbered property (typically real estate or security assets) to deposit the acquisition money with the Deposit Office rather than paying the seller directly.",
+    "japaneseDefinition": "不動産等の承継人が、その取得した財産上の権利の代償金を、担保権等の関係により供託所に払い込むことが義務付けられていること。",
+    "japaneseWordTranslation": "取得者に対する供託義務 (しゅとくしゃにたいするきょうたくぎむ)",
+    "legalContext": "Civil Code Art. 379: Specifies that a third party who acquires the ownership of a secured real property may be required to discharge the existing mortgage by depositing the purchase price.",
+    "japaneseLegalContext": "民法第379条：担保の付いた不動産の所有権を取得した第三者は、買取代価を供託することにより既存の抵当権を消滅させることができるとされる規定。",
+    "exampleSentence": "The expropriation law imposed a **Consignment Duty on the Acquirer** to ensure that the compensation funds were properly distributed among the various secured creditors.",
+    "exampleTranslation": "収用法は、様々な担保債権者間で補償金が適切に分配されるように、取得者に対する供託義務を課した。",
+    "vocabularyList": [
+      {
+        "word": "encumbered property",
+        "translation": "負担付財産"
+      },
+      {
+        "word": "acquisition money",
+        "translation": "取得代金"
+      },
+      {
+        "word": "acquire title",
+        "translation": "権利を取得する"
+      },
+      {
+        "word": "expropriation law",
+        "translation": "収用法"
+      },
+      {
+        "word": "compensation funds",
+        "translation": "補償金"
+      },
+      {
+        "word": "secured creditors",
+        "translation": "担保債権者"
+      },
+      {
+        "word": "distribute",
+        "translation": "分配する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Transfer of Deposit Funds",
+    "definition": "The internal administrative procedure executed by the Deposit Office, usually upon a court order, to move deposited monetary assets from one designated account or legal basis to another (e.g., conversion from a performance deposit to a security deposit).",
+    "japaneseDefinition": "裁判所の命令等に基づき、供託された金銭を、ある供託原因または勘定から別の原因・勘定へと、供託所内部で移動・処理する行政手続。",
+    "japaneseWordTranslation": "供託金の振替 (きょうたくきんのふりかえ)",
+    "legalContext": "Deposit Act Enforcement Regulations: Governs the specific accounting and procedural steps required for handling and converting deposited assets, including transfers between various accounts.",
+    "japaneseLegalContext": "供託法施行規則：供託金を取り扱う上で必要となる、会計および手続上の措置（各種の勘定間の振替を含む）を規定する。",
+    "exampleSentence": "The attorney filed a motion requesting the court to issue an order for the **Transfer of Deposit Funds** to satisfy the partial judgment granted to the obligee.",
+    "exampleTranslation": "弁護士は、債権者に認められた一部の判決を履行するため、供託金の振替を命じるよう裁判所に申し立てを提出した。",
+    "vocabularyList": [
+      {
+        "word": "administrative procedure",
+        "translation": "行政手続"
+      },
+      {
+        "word": "court order",
+        "translation": "裁判所命令"
+      },
+      {
+        "word": "monetary assets",
+        "translation": "金銭的財産"
+      },
+      {
+        "word": "satisfy",
+        "translation": "満たす／履行する"
+      },
+      {
+        "word": "partial judgment",
+        "translation": "一部判決"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "designated account",
+        "translation": "指定された勘定"
+      }
+    ]
   }
 ]

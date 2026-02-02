@@ -2,44 +2,6 @@
   {
     "category": "Real Property Registration (不動産登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Exclusive Sectional Ownership",
-    "definition": "The ownership held by a person over a specific segment of a building, which is structurally compartmentalized and functionally independent, typically found in condominiums or apartment complexes.",
-    "japaneseDefinition": "建物の区分された部分で、構造上および利用上の独立性を有するものに対し、その所有者が排他的に有する所有権。",
-    "japaneseWordTranslation": "区分所有権 (くぶんしょゆうけん)",
-    "legalContext": "Act on Building Unit Ownership, etc. (Art. 1): The purpose of this Act is to define the legal relationship regarding unit ownership of a building, the exclusive portion of which is used as a residence, store, office, or warehouse.",
-    "japaneseLegalContext": "建物の区分所有等に関する法律第1条: この法律は、一棟の建物に構造上区分された数個の部分で住居、店舗、事務所又は倉庫その他建物としての用途に供することができるものがある場合における区分所有関係に関し定める。",
-    "exampleSentence": "Registration of the title transfer requires establishing the boundaries and floor area pertaining to the exclusive sectional ownership.",
-    "exampleTranslation": "所有権移転の登記を行うには、その区分所有権にかかる境界および床面積を確定させる必要がある。",
-    "vocabularyList": [
-      {
-        "word": "structurally compartmentalized",
-        "translation": "構造上区分された"
-      },
-      {
-        "word": "functionally independent",
-        "translation": "利用上の独立性"
-      },
-      {
-        "word": "condominium",
-        "translation": "分譲マンション"
-      },
-      {
-        "word": "title transfer",
-        "translation": "所有権移転"
-      },
-      {
-        "word": "floor area",
-        "translation": "床面積 (ゆかめんせき)"
-      },
-      {
-        "word": "boundaries",
-        "translation": "境界 (きょうかい)"
-      }
-    ]
-  },
-  {
-    "category": "Real Property Registration (不動産登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Registrar",
     "definition": "A national public servant appointed to execute the administrative affairs related to registration at the Registry Office, vested with the authority to examine applications, make dispositions, and correct errors.",
     "japaneseDefinition": "法務局に置かれ、登記事務を執行するために任命された国家公務員であり、申請の審査、処分、誤りの更正などの権限を持つ。",
@@ -12779,6 +12741,82 @@
       {
         "word": "Statutorily defined period",
         "translation": "法定期間 (ほうていきかん)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Public Map",
+    "definition": "A map (or set of drawings) maintained at the registry office showing the boundaries and shapes of land parcels for administrative purposes, often based on older land records.",
+    "japaneseDefinition": "法務局が備え付ける、土地の区画や形状を示す地図または地図に準ずる図面。登記された土地の境界特定の基礎資料となる。",
+    "japaneseWordTranslation": "公図 (こうず)",
+    "legalContext": "Real Property Registration Act Art. 14: The registry office must prepare and maintain maps of land parcels within its jurisdiction (the Public Map).",
+    "japaneseLegalContext": "不動産登記法第14条: 登記所は、その管轄区域内の土地の区画及び地番を明らかにする地図（公図）を備え付けるものとする。",
+    "exampleSentence": "When reviewing the legal description of the property, the solicitor consulted the Public Map to verify the exact location and shape of the land parcel.",
+    "exampleTranslation": "当該不動産の法的表示を確認する際、弁護士は土地の区画の正確な位置と形状を検証するために公図を参照した。",
+    "vocabularyList": [
+      {
+        "word": "registry office",
+        "translation": "登記所"
+      },
+      {
+        "word": "parcels",
+        "translation": "区画"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄区域"
+      },
+      {
+        "word": "legal description",
+        "translation": "法的表示"
+      },
+      {
+        "word": "solicitor",
+        "translation": "弁護士"
+      },
+      {
+        "word": "verify",
+        "translation": "検証する"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Recognition Data",
+    "definition": "The security measure introduced by the 2004 reform, consisting of a 12-character alphanumeric code issued to the newly registered right holder, which must be provided for future rights disposition applications.",
+    "japaneseDefinition": "2004年の改正により導入された制度で、新たな登記名義人となった者に通知される12桁の符号。将来その権利を処分する登記申請時に提供を要する本人確認情報。",
+    "japaneseWordTranslation": "登記識別情報 (とうきしきべつじょうほう)",
+    "legalContext": "Real Property Registration Act Art. 21: When a new registered title holder is established, the registrar must issue Registration Recognition Data to the applicant.",
+    "japaneseLegalContext": "不動産登記法第21条: 新たに登記名義人となる者が発生した場合、登記官は申請人に対し登記識別情報を通知しなければならない。",
+    "exampleSentence": "The bank required the seller to provide their Registration Recognition Data to ensure the authenticity of the transfer application for the collateralized property.",
+    "exampleTranslation": "銀行は、担保不動産の譲渡申請の真正性を確実にするため、売主に対し登記識別情報の提供を求めた。",
+    "vocabularyList": [
+      {
+        "word": "security measure",
+        "translation": "安全対策"
+      },
+      {
+        "word": "alphanumeric code",
+        "translation": "英数字の符号"
+      },
+      {
+        "word": "authenticity",
+        "translation": "真正性"
+      },
+      {
+        "word": "collateralized property",
+        "translation": "担保不動産"
+      },
+      {
+        "word": "disposition",
+        "translation": "処分"
+      },
+      {
+        "word": "registered title holder",
+        "translation": "登記名義人"
       }
     ]
   }

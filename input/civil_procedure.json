@@ -16438,5 +16438,77 @@
         "translation": "期日延期 (きじつえんき)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Partial Finality",
+    "definition": "The state where only a portion of a judgment concerning one or more claims or defenses becomes irrevocably binding, allowing execution on that part even if the remainder is still under appeal.",
+    "japaneseDefinition": "裁判の全部ではなく、その一部についてのみ判決が確定し、不服申立てができなくなること。",
+    "japaneseWordTranslation": "一部確定 (いちぶかくてい)",
+    "legalContext": "Code of Civil Procedure Art. 116(2) provides that if a claim joined in a lawsuit is divisible, only that part of the judgment which resolves the specific claim may achieve finality.",
+    "japaneseLegalContext": "民事訴訟法第116条第2項：訴訟の一部及び一部の独立した攻撃又は防御の方法については、他の部分と分離して確定を生ずる。",
+    "exampleSentence": "The court granted the claim for the principal amount, allowing partial finality to attach immediately, despite the appeal concerning the interest calculation.",
+    "exampleTranslation": "裁判所は元本請求を認め、利息計算に関する上訴があるにもかかわらず、直ちに一部確定を認めた。",
+    "vocabularyList": [
+      {
+        "word": "principal amount",
+        "translation": "元本 (がんぽん)"
+      },
+      {
+        "word": "interest calculation",
+        "translation": "利息計算 (りそくけいさん)"
+      },
+      {
+        "word": "appeal",
+        "translation": "上訴 (じょうそ)"
+      },
+      {
+        "word": "execution",
+        "translation": "執行 (しっこう)"
+      },
+      {
+        "word": "irrevocably binding",
+        "translation": "既判力を有する (きはんりょくをゆうする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Designated Period",
+    "definition": "A procedural time limit set specifically by the court (not mandated by statute) for a party or participant to perform a specific procedural action, such as submitting evidence or addressing a defect.",
+    "japaneseDefinition": "裁判所が、訴訟関係人に対し、ある行為をすべき時期として定めた期間。法定期間と区別される。",
+    "japaneseWordTranslation": "指定期間 (していきかん)",
+    "legalContext": "Code of Civil Procedure Art. 96: 'The court may designate a period for the performance of a procedural act, except where a peremptory period is provided for by law.'",
+    "japaneseLegalContext": "民事訴訟法第96条：期間は、法令に定めがある場合を除き、裁判所が指定する。",
+    "exampleSentence": "Since the counsel failed to submit the required evidence within the designated period, the court proceeded to close the preparatory proceedings.",
+    "exampleTranslation": "弁護士が指定期間内に必要とされる証拠を提出しなかったため、裁判所は準備手続を終結させた。",
+    "vocabularyList": [
+      {
+        "word": "procedural act",
+        "translation": "訴訟行為 (そしょうこうい)"
+      },
+      {
+        "word": "counsel",
+        "translation": "代理人 (だいりにん)"
+      },
+      {
+        "word": "evidence",
+        "translation": "証拠 (しょうこ)"
+      },
+      {
+        "word": "preparatory proceedings",
+        "translation": "準備手続 (じゅんびてつづき)"
+      },
+      {
+        "word": "peremptory period",
+        "translation": "不変期間 (ふへんきかん)"
+      },
+      {
+        "word": "submit",
+        "translation": "提出する (ていしゅつする)"
+      }
+    ]
   }
 ]

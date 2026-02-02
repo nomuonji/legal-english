@@ -18380,5 +18380,119 @@
         "translation": "遺産財産 (いさんざいさん)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Competent Person",
+    "definition": "An individual who possesses full legal standing to independently perform valid legal transactions (such as concluding contracts) without requiring the consent of a guardian or legal representative.",
+    "japaneseDefinition": "法律行為を単独で有効に行うことができる能力（行為能力）を有する者。成年者など、制限行為能力者に該当しない者を指す。",
+    "japaneseWordTranslation": "行為能力者 (こういのうりょくしゃ)",
+    "legalContext": "Civil Code Art. 3, 4: Establishes the standard for legal capacity and the age of majority (18 years old).",
+    "japaneseLegalContext": "民法第3条、第4条: 行為能力の基準及び成年年齢を定める。",
+    "exampleSentence": "The agreement was challenged on the grounds that one party was not a competent person at the time of its conclusion, requiring subsequent ratification by the legal guardian.",
+    "exampleTranslation": "当事者の一方が契約締結時において行為能力者でなかったことを理由としてその合意は争われ、法定代理人による事後の追認が必要となった。",
+    "vocabularyList": [
+      {
+        "word": "legal standing",
+        "translation": "法的地位"
+      },
+      {
+        "word": "legal transaction",
+        "translation": "法律上の取引"
+      },
+      {
+        "word": "guardian",
+        "translation": "後見人"
+      },
+      {
+        "word": "legal guardian",
+        "translation": "法定代理人"
+      },
+      {
+        "word": "conclusion (of a contract)",
+        "translation": "締結"
+      },
+      {
+        "word": "ratification",
+        "translation": "追認"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legitimacy",
+    "definition": "The legal status of a child born to a wife during the marriage or within 300 days after its dissolution, creating a legal assumption that the husband is the father.",
+    "japaneseDefinition": "夫婦が婚姻している間に生まれた子、または婚姻解消の日から300日以内に生まれた子に与えられる、夫の子であるという法律上の地位。",
+    "japaneseWordTranslation": "嫡出 (ちゃくしゅつ)",
+    "legalContext": "Civil Code Art. 772: Presumption of legitimacy (Chakushutsu no Suitei). This status governs filiation within a marriage.",
+    "japaneseLegalContext": "民法第772条: 嫡出の推定。婚姻関係内における親子関係を規律する。",
+    "exampleSentence": "The legal status of legitimacy impacts the child's surname, domicile, and priority in inheriting property under the Civil Code.",
+    "exampleTranslation": "嫡出という法的地位は、子の氏名、住所、そして民法上の財産相続における順位に影響を与える。",
+    "vocabularyList": [
+      {
+        "word": "legal status",
+        "translation": "法的地位"
+      },
+      {
+        "word": "dissolution (of marriage)",
+        "translation": "解消"
+      },
+      {
+        "word": "legal assumption of fatherhood",
+        "translation": "法律上の父性の推定"
+      },
+      {
+        "word": "filiation",
+        "translation": "親子関係"
+      },
+      {
+        "word": "surname",
+        "translation": "氏 (うじ)"
+      },
+      {
+        "word": "priority in inheriting property",
+        "translation": "財産相続における順位"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Executor",
+    "definition": "A designated individual, appointed either by the will or by the Family Court, responsible for administrate the decedent's property and implementing the provisions of the will.",
+    "japaneseDefinition": "遺言の内容を実現するため、遺言書で指定され、または家庭裁判所によって選任され、相続財産の管理や必要な行為を行う職務を負う者。",
+    "japaneseWordTranslation": "遺言執行者 (ゆいごんしっこうしゃ)",
+    "legalContext": "Civil Code Art. 1006: Stipulates the designation and legal capacity required to serve as an executor.",
+    "japaneseLegalContext": "民法第1006条: 遺言執行者の指定及び職務を執行するための能力を規定する。",
+    "exampleSentence": "The executor promptly filed an inventory of the decedent's property with the Family Court to ensure proper distribution according to the will provisions.",
+    "exampleTranslation": "遺言執行者は、遺言の規定に従って適正な分配を行うため、直ちに故人の財産目録を家庭裁判所に提出した。",
+    "vocabularyList": [
+      {
+        "word": "decedent",
+        "translation": "被相続人 (ひそうぞくにん)"
+      },
+      {
+        "word": "will provisions",
+        "translation": "遺言の規定"
+      },
+      {
+        "word": "designated individual",
+        "translation": "指定された個人"
+      },
+      {
+        "word": "Family Court",
+        "translation": "家庭裁判所"
+      },
+      {
+        "word": "inventory",
+        "translation": "目録"
+      },
+      {
+        "word": "proper distribution",
+        "translation": "適正な分配"
+      }
+    ]
   }
 ]

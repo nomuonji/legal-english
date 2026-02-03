@@ -18722,5 +18722,107 @@
         "translation": "改修する"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Bona Fide",
+    "definition": "The legal status of being without knowledge of facts that would compromise a legal relationship; acting in good faith without intent to deceive.",
+    "japaneseDefinition": "ある事実を知らない状態、または悪意や不当な目的がないこと。特に法律関係における欠陥を知らない状態を指す。",
+    "japaneseWordTranslation": "善意 (ぜんい)",
+    "legalContext": "This legal status is fundamental in determining the protection granted to parties in transactions, such as the rights acquired by a transferee who had no knowledge of defects.",
+    "japaneseLegalContext": "この法的状態は、取引における当事者に与えられる保護、例えば欠陥を知らずに権利を取得した譲受人の権利確定において、基礎となる。",
+    "exampleSentence": "The transferee was considered bona fide as they had no knowledge of the hidden encumbrance on the deed, providing them with certain legal protections.",
+    "exampleTranslation": "譲受人は、証書上の隠された負担について知識がなかったため、善意とみなされ、一定の法的保護が与えられた。",
+    "vocabularyList": [
+      {
+        "word": "transferee",
+        "translation": "譲受人"
+      },
+      {
+        "word": "knowledge",
+        "translation": "認識"
+      },
+      {
+        "word": "hidden",
+        "translation": "隠された"
+      },
+      {
+        "word": "encumbrance",
+        "translation": "負担"
+      },
+      {
+        "word": "deed",
+        "translation": "証書"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Accessory Obligation",
+    "definition": "A secondary obligation that is subordinate to and dependent on the existence and validity of a principal obligation, often involving auxiliary duties.",
+    "japaneseDefinition": "主たる債務の存在および効力に付随し、その内容を補助する従属的な債務。",
+    "japaneseWordTranslation": "付従的債務 (ふずうてきさいむ)",
+    "legalContext": "Accessory obligations often arise from the principle of good faith and are intended to ensure the successful and complete execution of the main contractual relationship.",
+    "japaneseLegalContext": "付従的債務は、多くの場合、信義誠実の原則から生じ、主たる契約関係の成功的かつ完全な実行を確保することを目的とする。",
+    "exampleSentence": "In a sales contract, the seller's duty to provide operating instructions is often treated as an accessory obligation to the delivery of the goods.",
+    "exampleTranslation": "売買契約において、売主が取扱説明書を提供する義務は、物品の引渡しに対する付従的債務として扱われることが多い。",
+    "vocabularyList": [
+      {
+        "word": "seller",
+        "translation": "売主"
+      },
+      {
+        "word": "principal obligation",
+        "translation": "主たる債務"
+      },
+      {
+        "word": "operating instructions",
+        "translation": "取扱説明書"
+      },
+      {
+        "word": "sales contract",
+        "translation": "売買契約"
+      },
+      {
+        "word": "execution",
+        "translation": "実行"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Notice of Assignment",
+    "definition": "The formal notification given by the transferor (assignor) to the original debtor (obligor) regarding the transfer of a claim, which is required for the transfer to be binding against the debtor.",
+    "japaneseDefinition": "債権の譲渡人が、債務者に対して債権譲渡の事実を通知すること。債務者に対抗するための要件の一つ。",
+    "japaneseWordTranslation": "譲渡通知 (じょうとつうち)",
+    "legalContext": "Civil Code Art. 467: The transfer of a claim may not be asserted against the debtor unless the transferor gives notice thereof to the debtor or the debtor consents thereto.",
+    "japaneseLegalContext": "民法第467条: 債権の譲渡は、譲渡人が債務者に通知をし、又は債務者が承諾をしなければ、債務者に対抗することができない。",
+    "exampleSentence": "To ensure the claim transfer was binding, the assignor issued a certified content mail as the required notice of assignment under the Civil Code.",
+    "exampleTranslation": "債権譲渡が拘束力を持つことを確実にするため、譲渡人は民法上必要な譲渡通知として内容証明郵便を発した。",
+    "vocabularyList": [
+      {
+        "word": "assignor",
+        "translation": "譲渡人"
+      },
+      {
+        "word": "claim transfer",
+        "translation": "債権譲渡"
+      },
+      {
+        "word": "transferor",
+        "translation": "譲渡人"
+      },
+      {
+        "word": "binding",
+        "translation": "拘束力を持つ"
+      },
+      {
+        "word": "certified content mail",
+        "translation": "内容証明郵便"
+      }
+    ]
   }
 ]

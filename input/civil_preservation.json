@@ -12514,5 +12514,119 @@
         "translation": "仮差押え (かりさしおさえ)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Order Creditor",
+    "definition": "The party who has successfully petitioned the court for and obtained a provisional attachment or provisional disposition order.",
+    "japaneseDefinition": "民事保全手続において、裁判所に仮差押えまたは仮処分の命令を申し立て、その命令を受けた債権者のこと。",
+    "japaneseWordTranslation": "保全命令債権者 (ほぜんめいれいさいけんしゃ)",
+    "legalContext": "Civil Preservation Act, Arts. 2, 43: Defines the roles of the preservation creditor and preservation debtor in the context of provisional measures.",
+    "japaneseLegalContext": "民事保全法 第2条, 第43条: 仮差押えの要件、仮処分の要件等に関する保全債権者の立場を規定する。",
+    "exampleSentence": "The Preservation Order Creditor must file the principal action within the statutory period stipulated by the court, or the preservation order may be revoked.",
+    "exampleTranslation": "保全命令債権者は、裁判所が定めた法定期間内に本案の訴えを提起しなければならず、怠った場合、保全命令は取り消される可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "petition",
+        "translation": "申し立てる"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え"
+      },
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分"
+      },
+      {
+        "word": "principal action",
+        "translation": "本案の訴え"
+      },
+      {
+        "word": "revoked",
+        "translation": "取り消される"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Court of Preservation Execution",
+    "definition": "The court responsible for overseeing the specific procedural acts necessary to implement a preservation order (e.g., registering an attachment on real property or serving documents).",
+    "japaneseDefinition": "保全命令の執行に関する手続を管轄する裁判所。不動産の場合は所在地を管轄する地方裁判所が原則である。",
+    "japaneseWordTranslation": "保全執行裁判所 (ほぜんしっこうさいばんしょ)",
+    "legalContext": "Civil Preservation Act Art. 40: Specifies the competent court for the execution of preservation measures.",
+    "japaneseLegalContext": "民事保全法 第40条: 保全執行の管轄裁判所について定める。",
+    "exampleSentence": "The motion for the provisional attachment of the debtor's real property must be filed with the Court of Preservation Execution having jurisdiction over the location of the property.",
+    "exampleTranslation": "債務者の不動産に対する仮差押えの申立ては、その不動産の所在地を管轄する保全執行裁判所に提出されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "competent court",
+        "translation": "管轄裁判所"
+      },
+      {
+        "word": "execution",
+        "translation": "執行"
+      },
+      {
+        "word": "real property",
+        "translation": "不動産"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄"
+      },
+      {
+        "word": "location",
+        "translation": "所在地"
+      },
+      {
+        "word": "procedural acts",
+        "translation": "手続行為"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Attachment Against Undivided Share",
+    "definition": "A provisional attachment levied specifically against a co-owner’s fractional interest (share) in jointly owned property, usually real estate or partnership assets.",
+    "japaneseDefinition": "共有物、合有物または総有物における持分に対して行われる仮差押え。特に不動産の共有持分に対して行われることが多い。",
+    "japaneseWordTranslation": "共有持分に対する仮差押え (きょうゆうもちぶんにたいするかりさしおさえ)",
+    "legalContext": "Civil Preservation Act Art. 21 (by reference to Civil Execution Act Arts. 147, 148): Prescribes how attachment is executed against an undivided share.",
+    "japaneseLegalContext": "民事保全法 第21条（民事執行法第147条, 第148条参照）: 共有持分に対する差押えの執行方法を定める。",
+    "exampleSentence": "The creditor secured the claim by executing a Provisional Attachment Against Undivided Share registered in the debtor’s name in the jointly owned apartment building.",
+    "exampleTranslation": "債権者は、共有マンションにおける債務者名義の共有持分に対する仮差押えを執行することで、債権を保全した。",
+    "vocabularyList": [
+      {
+        "word": "co-owner",
+        "translation": "共有者"
+      },
+      {
+        "word": "levied",
+        "translation": "執行された"
+      },
+      {
+        "word": "fractional interest",
+        "translation": "持分"
+      },
+      {
+        "word": "jointly owned property",
+        "translation": "共有物"
+      },
+      {
+        "word": "secured the claim",
+        "translation": "債権を保全した"
+      },
+      {
+        "word": "registered",
+        "translation": "登記された"
+      }
+    ]
   }
 ]

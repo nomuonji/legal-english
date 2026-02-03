@@ -12857,5 +12857,123 @@
         "translation": "消滅する (しょうめつする)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Land Area Measurement Drawing",
+    "definition": "A mandatory drawing submitted for land registration concerning parcels, documenting the boundary points, distances, and calculated area to verify the property's extent.",
+    "japaneseDefinition": "土地の登記申請において、地積及び形状を明らかにするために作成・添付が義務付けられている図面。筆界点と地積の確定に用いる。",
+    "japaneseWordTranslation": "地積測量図 (Chiseki Sokuryōzu)",
+    "legalContext": "Real Property Registration Act Article 36: Specifies the documents required for land area change registration, including the Land Area Measurement Drawing.",
+    "japaneseLegalContext": "不動産登記法第36条 (地積の変更の登記等)",
+    "exampleSentence": "The applicant failed to attach the **Land Area Measurement Drawing** to the application, resulting in the rejection of the land area change registration.",
+    "exampleTranslation": "申請者は申請書に地積測量図の添付を怠ったため、地積変更登記申請が却下される結果となった。",
+    "vocabularyList": [
+      {
+        "word": "Applicant",
+        "translation": "申請者"
+      },
+      {
+        "word": "Attach",
+        "translation": "添付する"
+      },
+      {
+        "word": "Rejection",
+        "translation": "却下"
+      },
+      {
+        "word": "Land area change registration",
+        "translation": "地積変更登記"
+      },
+      {
+        "word": "Parcel",
+        "translation": "筆 (Hitsu)"
+      },
+      {
+        "word": "Boundary point",
+        "translation": "筆界点"
+      },
+      {
+        "word": "Calculated area",
+        "translation": "測量地積"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Supplementation",
+    "definition": "A formal direction issued by the registrar requiring the applicant to correct defects or omissions found in a registration application within a specified period, failing which the application will be rejected.",
+    "japaneseDefinition": "登記官が、申請された登記に不備がある場合、申請人に対し一定期間内にその不備を補うよう命じる処分。期間内に補正がない場合は却下される。",
+    "japaneseWordTranslation": "補正命令 (Hosei Meirei)",
+    "legalContext": "Real Property Registration Act Article 25: Relates to the registrar's authority regarding correction and supplementation of registration particulars or procedures.",
+    "japaneseLegalContext": "不動産登記法第25条 (登記官による職権訂正および補正)",
+    "exampleSentence": "The judicial scrivener was required to comply with the **Order for Supplementation** by submitting the missing certificate within three days to avoid the application's rejection.",
+    "exampleTranslation": "司法書士は、申請の却下を避けるため、不足している証明書を3日以内に提出することにより、補正命令に従うよう求められた。",
+    "vocabularyList": [
+      {
+        "word": "Registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "Defect / Omission",
+        "translation": "不備"
+      },
+      {
+        "word": "Comply with",
+        "translation": "従う"
+      },
+      {
+        "word": "Judicial scrivener",
+        "translation": "司法書士"
+      },
+      {
+        "word": "Missing certificate",
+        "translation": "不足している証明書"
+      },
+      {
+        "word": "Avoid rejection",
+        "translation": "却下を避ける"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Co-Ownership Share Registration",
+    "definition": "The record in the ownership section of the register specifying the fraction or percentage of the property owned by each individual when the property is jointly held by multiple persons.",
+    "japaneseDefinition": "複数の者が不動産を共有する場合に、各共有者が有する持分の割合を権利部の甲区に登記すること。",
+    "japaneseWordTranslation": "持分登記 (Mochibun Tōki)",
+    "legalContext": "Real Property Registration Act Article 59: Stipulates that when property is co-owned, the fractional shares of ownership must be registered.",
+    "japaneseLegalContext": "不動産登記法第59条 (共有物に関する登記事項)",
+    "exampleSentence": "Upon the purchase of the investment apartment by two partners, they ensured the immediate filing of the **Co-Ownership Share Registration** detailing their respective interests.",
+    "exampleTranslation": "二人のパートナーによる投資用マンションの購入後、彼らは各自の持分を詳述した持分登記を直ちに申請した。",
+    "vocabularyList": [
+      {
+        "word": "Partners",
+        "translation": "パートナー"
+      },
+      {
+        "word": "Fractional interest",
+        "translation": "持分割合"
+      },
+      {
+        "word": "Ownership section",
+        "translation": "権利部甲区"
+      },
+      {
+        "word": "Jointly held",
+        "translation": "共同で所有される"
+      },
+      {
+        "word": "To detail / specify",
+        "translation": "詳述する"
+      },
+      {
+        "word": "Investment apartment",
+        "translation": "投資用マンション"
+      }
+    ]
   }
 ]

@@ -15060,5 +15060,135 @@
         "translation": "基本的人権 (kihonteki jinken)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution of Claims for Money",
+    "definition": "The set of legal procedures applied under the Civil Execution Act to liquidate the obligor's general assets (such as real estate, movables, and receivables) to satisfy a monetary claim held by the obligee.",
+    "japaneseDefinition": "債務名義に表示された金銭債権を満足させるため、債務者の一般財産（不動産、動産、債権など）を換価する目的で行われる民事執行法上の手続きの総称。",
+    "japaneseWordTranslation": "金銭債権に対する執行 (Kinsen saiken ni taisuru shikkō)",
+    "legalContext": "Civil Execution Act, Part II, Chapter I (Execution based on Monetary Claims).",
+    "japaneseLegalContext": "民事執行法第二編第一章（金銭債権に基づく執行）",
+    "exampleSentence": "The creditor initiated the **execution of claims for money** against the defendant's bank account following the final judgment, converting the general assets into currency.",
+    "exampleTranslation": "債権者は、確定判決に基づき、被告の銀行口座に対する**金銭債権に対する執行**を開始し、一般財産を現金に換えた。",
+    "vocabularyList": [
+      {
+        "word": "creditor",
+        "translation": "債権者 (saikensha)"
+      },
+      {
+        "word": "bank account",
+        "translation": "銀行口座 (ginkō kōza)"
+      },
+      {
+        "word": "final judgment",
+        "translation": "確定判決 (kakutei hanketsu)"
+      },
+      {
+        "word": "general assets",
+        "translation": "一般財産 (ippan zaisan)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (saikensha)"
+      },
+      {
+        "word": "liquidation",
+        "translation": "換価 (kanka)"
+      },
+      {
+        "word": "movables",
+        "translation": "動産 (dōsan)"
+      },
+      {
+        "word": "receivables",
+        "translation": "債権 (saiken)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Net Proceeds Requirement",
+    "definition": "A fundamental principle in the execution of real property, mandating that the sale proceeds must exceed the sum of all execution costs and the value of any senior security interests (such as mortgages) that are not cleared by the sale.",
+    "japaneseDefinition": "不動産競売において、売却価額が執行費用および優先する担保権によって担保される債権の総額を上回らなければ、原則として競売手続を取り消すとする原則。",
+    "japaneseWordTranslation": "剰余主義 (Jōyo Shugi)",
+    "legalContext": "Civil Execution Act, Art. 63 (Cancellation of Compulsory Auction when no Surplus is Expected).",
+    "japaneseLegalContext": "民事執行法第63条（剰余を生ずる見込みのない場合の強制競売の取消し）",
+    "exampleSentence": "Since the appraisal showed that the **net proceeds requirement** could not be met due to a large senior lien, the execution court considered dismissing the real property sale procedure.",
+    "exampleTranslation": "多額の優先抵当権のため、査定が**剰余主義**を満たせないことを示したので、執行裁判所は不動産売却手続の却下を検討した。",
+    "vocabularyList": [
+      {
+        "word": "real property",
+        "translation": "不動産 (fudōsan)"
+      },
+      {
+        "word": "execution costs",
+        "translation": "執行費用 (shikkō hiyō)"
+      },
+      {
+        "word": "senior lien",
+        "translation": "優先抵当権 (yūsen teitōken)"
+      },
+      {
+        "word": "appraisal",
+        "translation": "査定 (satei)"
+      },
+      {
+        "word": "sale procedure",
+        "translation": "売却手続 (baikyaku tetsuzuki)"
+      },
+      {
+        "word": "dismiss (of procedure)",
+        "translation": "却下 (kyakka)"
+      },
+      {
+        "word": "security interests",
+        "translation": "担保権 (tanpoken)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Judge",
+    "definition": "A judge specifically assigned to manage and adjudicate procedural issues related to civil execution cases, particularly those involving real property, vessels, and claims, ensuring the proper conduct of compulsory enforcement measures.",
+    "japaneseDefinition": "不動産、船舶、および債権に対する執行事件に関して、手続きの開始、進行、および執行異議の申立てなどの法的判断を行うために指定された裁判官。",
+    "japaneseWordTranslation": "執行裁判官 (Shikkō Saibankan)",
+    "legalContext": "Civil Execution Act, Art. 10 (Functions of the Execution Court).",
+    "japaneseLegalContext": "民事執行法第10条（執行裁判所の職務）",
+    "exampleSentence": "The **Execution Judge** issued an order to re-appraise the property value after receiving an objection concerning the conduct of compulsory enforcement from the execution debtor.",
+    "exampleTranslation": "執行債務者からの強制執行の実施方法に関する異議を受け、**執行裁判官**は物件価額を再査定するよう命令を発した。",
+    "vocabularyList": [
+      {
+        "word": "compulsory enforcement",
+        "translation": "強制執行 (kyōsei shikkō)"
+      },
+      {
+        "word": "procedural issues",
+        "translation": "手続き上の問題 (tetsuzuki-jō no mondai)"
+      },
+      {
+        "word": "adjudicate",
+        "translation": "法的判断を行う (hōteki handan o okonau)"
+      },
+      {
+        "word": "re-appraise",
+        "translation": "再査定する (sai satei suru)"
+      },
+      {
+        "word": "execution debtor",
+        "translation": "執行債務者 (shikkō saimusha)"
+      },
+      {
+        "word": "vessels",
+        "translation": "船舶 (senpaku)"
+      },
+      {
+        "word": "objection",
+        "translation": "異議 (igi)"
+      }
+    ]
   }
 ]

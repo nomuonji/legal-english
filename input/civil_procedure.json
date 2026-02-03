@@ -16738,5 +16738,107 @@
         "translation": "捺印する"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Substantive Adjudication",
+    "definition": "A final judicial decision or judgment that addresses and resolves the core issues (the merits) of the dispute between the parties, as opposed to a decision based purely on procedural or jurisdictional grounds.",
+    "japaneseDefinition": "訴訟要件が満たされていると判断された上で、原告の請求の当否（請求が正当か否か）について判断を下す終局判決。",
+    "japaneseWordTranslation": "本案判決 (ほんあん はんけつ)",
+    "legalContext": "Code of Civil Procedure (Minji Soshōhō) Principle: The court must rule on the formal admissibility of the suit before proceeding to the merits of the claim.",
+    "japaneseLegalContext": "民事訴訟法原則：裁判所は、訴訟の形式的適法性を確認した後にのみ、請求の本案審理に進む。",
+    "exampleSentence": "The judge dismissed the defendant's procedural defense and proceeded immediately to issue a ruling of *substantive adjudication*.",
+    "exampleTranslation": "裁判官は被告の手続抗弁を退け、直ちに本案判決の判決を下した。",
+    "vocabularyList": [
+      {
+        "word": "procedural defense",
+        "translation": "手続抗弁"
+      },
+      {
+        "word": "admissibility",
+        "translation": "適法性"
+      },
+      {
+        "word": "merits",
+        "translation": "本案"
+      },
+      {
+        "word": "ruling",
+        "translation": "判決"
+      },
+      {
+        "word": "core issues",
+        "translation": "核心的な争点"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Main Fact of the Claim",
+    "definition": "The essential facts asserted by a party in litigation which, if proven, are necessary and sufficient under the substantive law to establish the legal consequences sought (e.g., the elements of a breach or tort).",
+    "japaneseDefinition": "法律効果を発生させるために、当事者が必ず主張し、立証しなければならない事実（例：契約の成立、不履行など）。",
+    "japaneseWordTranslation": "主要事実 (しゅよう じじつ)",
+    "legalContext": "Doctrine of Pleading (or Code of Civil Procedure Art. 133): The statement of claim must clearly specify the subject matter and the main facts of the claim.",
+    "japaneseLegalContext": "民事訴訟法 第133条（原則）：訴状には、請求の趣旨及び請求を理由づける主要事実を明記しなければならない。",
+    "exampleSentence": "The court directed the plaintiff to clarify the *main facts of the claim*, as the current pleading lacked specific details regarding causation.",
+    "exampleTranslation": "裁判所は、現在の訴状が因果関係に関する具体的記述を欠いていたため、原告に対し請求の主要事実を明確にするよう指示した。",
+    "vocabularyList": [
+      {
+        "word": "pleading",
+        "translation": "訴状"
+      },
+      {
+        "word": "causation",
+        "translation": "因果関係"
+      },
+      {
+        "word": "substantive law",
+        "translation": "実体法"
+      },
+      {
+        "word": "establish",
+        "translation": "立証する"
+      },
+      {
+        "word": "legal consequences",
+        "translation": "法律効果"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-public Trial Decision",
+    "definition": "A judicial decision rendered by the court to prohibit public attendance at a trial hearing, applicable only when the public nature of the proceeding would seriously endanger public order or morals.",
+    "japaneseDefinition": "裁判の公開が公の秩序又は善良の風俗を害するおそれがある場合に、裁判所が傍聴を禁止するために下す決定。",
+    "japaneseWordTranslation": "非公開決定 (ひこうかい けってい)",
+    "legalContext": "Constitution of Japan Art. 82 Para. 2: Trials shall be conducted publicly, provided that the court may conduct a trial privately when it unanimously determines that publicity will be harmful to public order or morals.",
+    "japaneseLegalContext": "日本国憲法 第82条第2項：公の秩序又は善良の風俗を害するおそれがある場合に、裁判官の全員一致の議決で非公開の決定をすることができる。",
+    "exampleSentence": "The presiding judge issued a *Non-public Trial Decision* for the remainder of the hearing to protect the anonymity of the minor witness.",
+    "exampleTranslation": "裁判長は、未成年の証人の匿名性を保護するため、審理の残りの部分について非公開決定を出した。",
+    "vocabularyList": [
+      {
+        "word": "presiding judge",
+        "translation": "裁判長"
+      },
+      {
+        "word": "anonymity",
+        "translation": "匿名性"
+      },
+      {
+        "word": "trial hearing",
+        "translation": "口頭弁論"
+      },
+      {
+        "word": "unanimously",
+        "translation": "全員一致で"
+      },
+      {
+        "word": "public attendance",
+        "translation": "傍聴"
+      }
+    ]
   }
 ]

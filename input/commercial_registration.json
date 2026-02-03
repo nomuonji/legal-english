@@ -13432,5 +13432,123 @@
         "translation": "法定期限"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Dormant Company",
+    "definition": "A company (especially a joint-stock company) that has failed to register any changes for a significant period (typically twelve years), leading the Registrar to initiate a process of deemed dissolution under the Commercial Registration Act.",
+    "japaneseDefinition": "長期間（株式会社の場合は12年）にわたり登記がされていない株式会社等について、法務大臣が公告し、なお登記等の措置がない場合に解散したものとみなされる会社。",
+    "japaneseWordTranslation": "休眠会社 (きゅうみんかいしゃ)",
+    "legalContext": "Commercial Registration Act, Article 472: The Minister of Justice shall give public notice concerning joint-stock companies that have not registered changes for twelve years.",
+    "japaneseLegalContext": "商業登記法第472条：法務大臣は、十二年を経過しても登記がされていない株式会社に対し、公告をしなければならない。",
+    "exampleSentence": "If the Dormant Company fails to file any necessary registration within two months of the public notice, it shall be deemed dissolved.",
+    "exampleTranslation": "休眠会社が、公告から2ヶ月以内に必要な登記を申請しない場合、その会社は解散したものとみなされる。",
+    "vocabularyList": [
+      {
+        "word": "Registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "Deemed dissolved",
+        "translation": "解散したものとみなされる"
+      },
+      {
+        "word": "Joint-stock company",
+        "translation": "株式会社"
+      },
+      {
+        "word": "Public notice",
+        "translation": "公告"
+      },
+      {
+        "word": "File registration",
+        "translation": "登記を申請する"
+      },
+      {
+        "word": "Minister of Justice",
+        "translation": "法務大臣"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certificate of Registered Particulars",
+    "definition": "An official document issued by the Registry Office that certifies the currently effective and recorded information of a company (e.g., trade name, principal office, directors), replacing the older certified copy of the register.",
+    "japaneseDefinition": "商業登記簿に記録されている会社の登記事項（現に効力を有するもの）を証明するために登記所が発行する公文書。",
+    "japaneseWordTranslation": "登記事項証明書 (とうきじこうしょうめいしょ)",
+    "legalContext": "Commercial Registration Act, Article 10(1): Any person may demand issuance of a Certificate of Registered Particulars or an inspection of the Commercial Register.",
+    "japaneseLegalContext": "商業登記法第10条第1項：何人も、登記事項証明書の交付又は登記簿の閲覧を請求することができる。",
+    "exampleSentence": "The bank requested a full-format Certificate of Registered Particulars showing the names and addresses of all current representative directors.",
+    "exampleTranslation": "銀行は、現任の全代表取締役の氏名と住所が記載された全項目版の登記事項証明書を要求した。",
+    "vocabularyList": [
+      {
+        "word": "Registry Office",
+        "translation": "登記所"
+      },
+      {
+        "word": "Issuance",
+        "translation": "交付"
+      },
+      {
+        "word": "Representative director",
+        "translation": "代表取締役"
+      },
+      {
+        "word": "Trade name",
+        "translation": "商号"
+      },
+      {
+        "word": "Inspection",
+        "translation": "閲覧"
+      },
+      {
+        "word": "Currently effective",
+        "translation": "現に効力を有する"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cross-Jurisdictional Relocation Registration",
+    "definition": "The dual registration procedure required when a company moves its principal office to a new location that falls under the jurisdiction of a different Registry Office. Registration must be filed simultaneously at both the former and new locations.",
+    "japaneseDefinition": "会社がその本店を他の登記所の管轄区域内に移転した場合に必要となる登記手続き。旧所在地と新所在地において同時に移転の登記を行う。",
+    "japaneseWordTranslation": "管轄外移転登記 (かんかつがいいてんとうき)",
+    "legalContext": "Commercial Registration Act, Article 53: When the principal office is relocated outside the jurisdiction, registration must be made within two weeks at both the former and new jurisdictional registry offices.",
+    "japaneseLegalContext": "商業登記法第53条：本店を他の登記所の管轄区域内に移転したときは、二週間以内に、旧所在地及び新所在地において登記をしなければならない。",
+    "exampleSentence": "Failure to complete the Cross-Jurisdictional Relocation Registration within the statutory two-week period may result in an administrative fine.",
+    "exampleTranslation": "法定の2週間以内に管轄外移転登記を完了しなかった場合、行政上の過料が科される可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "Principal office",
+        "translation": "本店"
+      },
+      {
+        "word": "Relocation",
+        "translation": "移転"
+      },
+      {
+        "word": "Jurisdiction",
+        "translation": "管轄"
+      },
+      {
+        "word": "Former location",
+        "translation": "旧所在地"
+      },
+      {
+        "word": "New location",
+        "translation": "新所在地"
+      },
+      {
+        "word": "Administrative fine",
+        "translation": "過料"
+      },
+      {
+        "word": "Statutory period",
+        "translation": "法定期間"
+      }
+    ]
   }
 ]

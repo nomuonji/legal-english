@@ -1,42 +1,42 @@
 {
   "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Crime of Endangered Legal Interests",
-  "definition": "A theoretical classification of crimes (also known as abstract danger crimes) where the offense is completed merely by performing an act that inherently endangers a protected legal interest, without requiring proof of specific resulting harm or injury.",
-  "japaneseDefinition": "構成要件に該当する行為が行われた時点で、抽象的に保護法益を危険にさらしたことをもって既遂となる犯罪。具体的な結果的損害の発生を要しない。",
-  "japaneseWordTranslation": "抽象的危険犯 (ちゅうしょうてききけんはん)",
-  "legalContext": "Criminal Code Art. 108 (Arson of an Inhabited Structure): A person who sets fire to a structure that is currently inhabited or used by people shall be punished by the death penalty, or imprisonment with labor for life or for a term of not less than seven years.",
-  "japaneseLegalContext": "刑法第108条（現住建造物等放火）: 現に人が住居に使用し又は現に人がいる建造物、汽車、電車又は鉱坑を焼損した者は、死刑又は無期若しくは7年以上の懲役に処する。",
-  "exampleSentence": "The offense of arson under Article 108 is considered a crime of endangered legal interests because the prosecution only needs to prove the act of setting fire, not resulting death or injury.",
-  "exampleTranslation": "刑法第108条の放火罪は、検察側が放火行為自体を証明すれば足り、結果的な死傷を証明する必要がないため、抽象的危険犯と見なされる。",
+  "word": "Recidivism",
+  "definition": "The state of relapsing into criminal behavior after having previously been convicted and served a sentence, which may result in enhanced punishment under criminal law.",
+  "japaneseDefinition": "刑の執行を終えた者などが、一定期間内に再び罪を犯した場合に、刑を重くする制度。",
+  "japaneseWordTranslation": "累犯 (るいはん)",
+  "legalContext": "Criminal Code Art. 56 (Recidivism): If a person who has been sentenced to imprisonment with or without labor, or heavier punishment, commits another crime punishable by imprisonment with or without labor within five years after the execution of the previous sentence has been completed or remitted, the person shall be handled as a recidivist.",
+  "japaneseLegalContext": "刑法第56条（累犯）：懲役以上の刑に処せられた者が、その執行を終わった日又はその執行の免除を得た日から五年内に更に罪を犯した場合において、その者が犯した罪について有期懲役をもって処断すべきときは、累犯とする。",
+  "exampleSentence": "The prosecutor argued that the defendant's history necessitated treating the current offense as a case of recidivism, thereby mandating a sentence enhancement.",
+  "exampleTranslation": "検察官は、被告人の経歴により、本件犯罪を累犯として扱い、これにより刑の加重を義務付けるべきであると主張した。",
   "vocabularyList": [
     {
-      "word": "abstract danger crimes",
-      "translation": "抽象的危険犯 (ちゅうしょうてききけんはん)"
+      "word": "prosecutor",
+      "translation": "検察官"
     },
     {
-      "word": "protected legal interest",
-      "translation": "保護法益 (ほごほうえき)"
+      "word": "sentence enhancement",
+      "translation": "刑の加重"
     },
     {
-      "word": "resulting harm",
-      "translation": "結果的損害 (けっかてきそんがい)"
+      "word": "imprisonment with labor",
+      "translation": "懲役"
     },
     {
-      "word": "Arson",
-      "translation": "放火罪 (ほうかざい)"
+      "word": "remitted",
+      "translation": "免除された"
     },
     {
-      "word": "inhabited structure",
-      "translation": "現住建造物 (げんじゅうけんぞうぶつ)"
+      "word": "current offense",
+      "translation": "本件犯罪"
     },
     {
-      "word": "prosecution",
-      "translation": "検察側 (けんさつがわ)"
+      "word": "recidivist",
+      "translation": "累犯者"
     },
     {
-      "word": "completed",
-      "translation": "既遂となる (きすいとなる)"
+      "word": "conviction",
+      "translation": "有罪判決"
     }
   ]
 }

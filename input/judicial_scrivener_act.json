@@ -11992,5 +11992,111 @@
         "translation": "送付された"
       }
     ]
+  },
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Limited Representation Threshold",
+    "definition": "The maximum pecuniary value of a dispute (currently JPY 1,400,000) for which a designated judicial scrivener may act as a client's agent in litigation, conciliation, or arbitration procedures before a local court.",
+    "japaneseDefinition": "認定を受けた司法書士が簡易裁判所における訴訟、調停その他の法的手続きにおいて、依頼人を代理できる紛争の目的の価額の最大限度（現行140万円）。",
+    "japaneseWordTranslation": "訴訟代理権の制限額 (そしょうだいりけんのせいげんがく)",
+    "legalContext": "Judicial Scrivener Act Art. 3, Paragraph 1, Item 6, specifies the scope of representation for designated scriveners.",
+    "japaneseLegalContext": "司法書士法第３条第１項第６号：認定司法書士が代理権を有する業務の範囲を規定する。",
+    "exampleSentence": "The firm declined the mandate because the claim exceeded the Limited Representation Threshold, necessitating instruction of an attorney.",
+    "exampleTranslation": "その事務所は、請求額が訴訟代理権の制限額を超えていたため、弁護士への依頼が必要であるとして委任を辞退した。",
+    "vocabularyList": [
+      {
+        "word": "pecuniary value",
+        "translation": "金銭的価値"
+      },
+      {
+        "word": "designated scrivener",
+        "translation": "認定を受けた司法書士"
+      },
+      {
+        "word": "conciliation",
+        "translation": "調停"
+      },
+      {
+        "word": "arbitration",
+        "translation": "仲裁"
+      },
+      {
+        "word": "local court",
+        "translation": "簡易裁判所"
+      },
+      {
+        "word": "necessitating instruction",
+        "translation": "依頼を必要とする"
+      }
+    ]
+  },
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Status Registry Record",
+    "definition": "The official documentation maintained by the Judicial Scrivener Federation/Association, detailing the personal and professional particulars of individuals authorized to practice, and mandatory for the commencement of practice.",
+    "japaneseDefinition": "司法書士の氏名、事務所の所在地その他の職務に関する事項を記録する公式文書であり、業務を開始するための必須要件として司法書士会によって備えられるもの。",
+    "japaneseWordTranslation": "職務登載記録 (しょくむとうさいきろく)",
+    "legalContext": "Judicial Scrivener Act Art. 25 mandates the maintenance of the register by the Judicial Scrivener Association.",
+    "japaneseLegalContext": "司法書士法第25条：司法書士会による名簿の備え付け及び登録の義務付け。",
+    "exampleSentence": "A judicial scrivener must not engage in professional activities until their Status Registry Record has been properly entered and confirmed by the relevant Association.",
+    "exampleTranslation": "司法書士は、関連する司法書士会によって職務登載記録が適切に登録され確認されるまで、専門的活動に従事してはならない。",
+    "vocabularyList": [
+      {
+        "word": "professional particulars",
+        "translation": "職務に関する詳細"
+      },
+      {
+        "word": "authorized to practice",
+        "translation": "業務を行うことを認可された"
+      },
+      {
+        "word": "commencement of practice",
+        "translation": "業務の開始"
+      },
+      {
+        "word": "relevant Association",
+        "translation": "関係司法書士会"
+      },
+      {
+        "word": "mandatory",
+        "translation": "必須の"
+      }
+    ]
+  },
+  {
+    "category": "Judicial Scrivener Act (司法書士法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Duty to Refuse Mandate",
+    "definition": "The legal requirement for a judicial scrivener to reject an engagement if the client's objective is manifestly unlawful, or if the case involves a conflict of interest that could compromise the scrivener’s neutrality or professional ethics.",
+    "japaneseDefinition": "依頼人の目的が著しく不当である場合、または司法書士の公正さや職業倫理を損なうような利益相反を伴う場合に、司法書士が依頼の受任を拒否しなければならない法的な義務。",
+    "japaneseWordTranslation": "受任拒否義務 (じゅにんきょひぎむ)",
+    "legalContext": "Judicial Scrivener Act Art. 20 outlines the circumstances under which a judicial scrivener must decline a request for services.",
+    "japaneseLegalContext": "司法書士法第20条：司法書士が業務の依頼を拒絶しなければならない事由を規定する。",
+    "exampleSentence": "Due to the Statutory Duty to Refuse Mandate, the scrivener withdrew from the case upon discovering the client's intention to evade tax obligations using falsified documents.",
+    "exampleTranslation": "受任拒否義務に基づき、その司法書士は、依頼人が偽造書類を用いて納税義務を回避しようとしている意図を発見したため、その案件から辞退した。",
+    "vocabularyList": [
+      {
+        "word": "reject an engagement",
+        "translation": "委任を拒絶する"
+      },
+      {
+        "word": "manifestly unlawful",
+        "translation": "著しく不当な"
+      },
+      {
+        "word": "conflict of interest",
+        "translation": "利益相反"
+      },
+      {
+        "word": "compromise neutrality",
+        "translation": "公正さを損なう"
+      },
+      {
+        "word": "evade tax obligations",
+        "translation": "納税義務を回避する"
+      }
+    ]
   }
 ]

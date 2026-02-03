@@ -12400,5 +12400,81 @@
         "translation": "提供された担保 (ていきょうされたたんぽ)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Securing a Pecuniary Claim",
+    "definition": "The preservation measure (provisional attachment) used specifically to ensure that the judgment obligor will have assets available to satisfy a monetary debt awarded in the main action.",
+    "japaneseDefinition": "将来の金銭債権を強制執行により実現できるようにするため、債務者の財産の処分を暫定的に禁じる保全措置。",
+    "japaneseWordTranslation": "金銭債権の保全 (きんせんさいけんのほぜん)",
+    "legalContext": "Civil Preservation Act Art. 20(1): “A provisional attachment may be ordered to secure a pecuniary claim.”",
+    "japaneseLegalContext": "民事保全法第20条第1項: 「仮差押えは、金銭の支払を目的とする債権について、強制執行をすることができなくなるおそれがあるとき、又は強制執行をするのに著しい困難を生ずるおそれがあるときに、これをすることができる。」",
+    "exampleSentence": "The obligee filed for measures **securing a pecuniary claim** against the debtor's bank accounts to prevent fund transfers prior to the final judgment.",
+    "exampleTranslation": "債権者は、最終判決に先立ち、債務者の銀行口座に対して資金移動を防ぐための金銭債権の保全措置を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え"
+      },
+      {
+        "word": "fund transfers",
+        "translation": "資金移動"
+      },
+      {
+        "word": "final judgment",
+        "translation": "最終判決"
+      },
+      {
+        "word": "monetary debt",
+        "translation": "金銭債務"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit for Exoneration",
+    "definition": "Money or securities deposited by the preservation obligor (debtor) with the court to be immediately released from the restriction imposed by a preservation measure, substituting the deposit for the property under preservation.",
+    "japaneseDefinition": "保全命令の執行を受けた債務者が、その執行を免れるために、裁判所に差し出す金銭または有価証券。これにより保全の目的物と置き換えられる。",
+    "japaneseWordTranslation": "保全執行の免除を求めるための供託 (ほぜんしっこうのめんじょをもとめるためのきょうたく)",
+    "legalContext": "Civil Preservation Act Art. 25(2): “The court shall order the suspension or cancellation of the execution of the provisional disposition upon the motion of the person against whom the provisional disposition order has been issued, if such person has provided a Deposit for Exoneration.”",
+    "japaneseLegalContext": "民事保全法第25条第2項: 「仮処分命令の執行がされた場合において、債務者が別表第一に掲げる金額に相当する金銭を供託したときは、裁判所は、債務者の申立てにより、その執行の停止又は取消しを命じなければならない。」",
+    "exampleSentence": "The Preservation Obligor submitted a large **Deposit for Exoneration** to the court, resulting in the cancellation of the provisional attachment on his factory equipment.",
+    "exampleTranslation": "保全債務者は裁判所に多額の保全執行の免除を求めるための供託を行い、それによって彼の工場設備に対する仮差押えは取り消された。",
+    "vocabularyList": [
+      {
+        "word": "preservation obligor",
+        "translation": "保全債務者"
+      },
+      {
+        "word": "court",
+        "translation": "裁判所"
+      },
+      {
+        "word": "cancellation",
+        "translation": "取消し"
+      },
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え"
+      },
+      {
+        "word": "securities",
+        "translation": "有価証券"
+      },
+      {
+        "word": "substitution",
+        "translation": "代替"
+      }
+    ]
   }
 ]

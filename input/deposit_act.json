@@ -10478,5 +10478,43 @@
         "translation": "指定された勘定"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit based on Creditor's Whereabouts Unknown",
+    "definition": "A legally recognized ground for consignment where the obligor cannot perform their obligation because they cannot locate the current domicile or address of the obligee, thereby allowing the obligor to be released from the debt.",
+    "japaneseDefinition": "債権者の現在の住所が不明であるため、債務者が弁済をすることができない場合に、債務を免れる目的で行われる供託。供託の成立根拠の一つ。",
+    "japaneseWordTranslation": "債権者の住所不明による供託 (さいけんしゃのじゅうしょふめいによるきょうたく)",
+    "legalContext": "Civil Code Art. 494: 'An obligor may be discharged from his obligation by depositing the subject matter of the performance in a deposit office... if the obligee refuses or is unable to accept performance, or if the obligee cannot be ascertained.'",
+    "japaneseLegalContext": "民法第494条: 「債権者が弁済の受領を拒み、又はこれを受領することができないとき、その他債権者の住所を知ることができないときは、弁済をすることができる者は、債権者のためにその弁済の目的物を供託して、その債務を免れることができる。」",
+    "exampleSentence": "The obligor initiated a Deposit based on Creditor's Whereabouts Unknown after receiving confirmation from the local authority that the obligee had moved without leaving a forwarding address.",
+    "exampleTranslation": "債務者は、地方公共団体から債権者が転居先を届け出ずに転居したことの確認を得た後、債権者の住所不明による供託を行った。",
+    "vocabularyList": [
+      {
+        "word": "ground for consignment",
+        "translation": "供託原因"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "domicile",
+        "translation": "住所"
+      },
+      {
+        "word": "released from the debt",
+        "translation": "債務を免れる"
+      },
+      {
+        "word": "local authority",
+        "translation": "地方公共団体"
+      }
+    ]
   }
 ]

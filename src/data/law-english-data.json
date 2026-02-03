@@ -1,38 +1,42 @@
 {
-  "category": "Real Property Registration (不動産登記法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Exclusive Sectional Ownership",
-  "definition": "The ownership held by a person over a specific segment of a building, which is structurally compartmentalized and functionally independent, typically found in condominiums or apartment complexes.",
-  "japaneseDefinition": "建物の区分された部分で、構造上および利用上の独立性を有するものに対し、その所有者が排他的に有する所有権。",
-  "japaneseWordTranslation": "区分所有権 (くぶんしょゆうけん)",
-  "legalContext": "Act on Building Unit Ownership, etc. (Art. 1): The purpose of this Act is to define the legal relationship regarding unit ownership of a building, the exclusive portion of which is used as a residence, store, office, or warehouse.",
-  "japaneseLegalContext": "建物の区分所有等に関する法律第1条: この法律は、一棟の建物に構造上区分された数個の部分で住居、店舗、事務所又は倉庫その他建物としての用途に供することができるものがある場合における区分所有関係に関し定める。",
-  "exampleSentence": "Registration of the title transfer requires establishing the boundaries and floor area pertaining to the exclusive sectional ownership.",
-  "exampleTranslation": "所有権移転の登記を行うには、その区分所有権にかかる境界および床面積を確定させる必要がある。",
+  "word": "Imprisonment with Labor",
+  "definition": "A custodial sentence in the Japanese penal system, imposing mandatory labor on the inmate. This is distinct from Imprisonment without Labor (Kinko), which does not mandate labor but permits voluntary work.",
+  "japaneseDefinition": "刑務所に拘置し、所定の作業を行わせる自由刑。日本の刑罰において重い刑の一つであり、作業が義務ではない禁錮（きんこ）と区別される。",
+  "japaneseWordTranslation": "懲役 (ちょうえき)",
+  "legalContext": "Criminal Code Art. 12, Paragraph 1: Imprisonment with Labor shall be categorized as limited term (one month or more, up to 20 years) or indefinite term, and the sentenced person shall be confined in a penal institution and subjected to prescribed labor.",
+  "japaneseLegalContext": "刑法第12条第1項: 懲役は、有期及び無期とし、懲役囚を刑務所に拘置し、所定の作業を行わせる。",
+  "exampleSentence": "Due to the severity of the financial fraud, the defendant received a sentence of eight years of imprisonment with labor.",
+  "exampleTranslation": "その金融詐欺の深刻さから、被告人は懲役8年の判決を受けた。",
   "vocabularyList": [
     {
-      "word": "structurally compartmentalized",
-      "translation": "構造上区分された"
+      "word": "custodial sentence",
+      "translation": "自由刑 (じゆうけい)"
     },
     {
-      "word": "functionally independent",
-      "translation": "利用上の独立性"
+      "word": "penal institution",
+      "translation": "刑務所 (けいむしょ)"
     },
     {
-      "word": "condominium",
-      "translation": "分譲マンション"
+      "word": "mandatory labor",
+      "translation": "所定の作業 (しょていのさぎょう)"
     },
     {
-      "word": "title transfer",
-      "translation": "所有権移転"
+      "word": "indefinite term",
+      "translation": "無期 (むき)"
     },
     {
-      "word": "floor area",
-      "translation": "床面積 (ゆかめんせき)"
+      "word": "limited term",
+      "translation": "有期 (ゆうき)"
     },
     {
-      "word": "boundaries",
-      "translation": "境界 (きょうかい)"
+      "word": "severity",
+      "translation": "深刻さ (しんこくさ)"
+    },
+    {
+      "word": "imprisonment without labor",
+      "translation": "禁錮 (きんこ)"
     }
   ]
 }

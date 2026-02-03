@@ -2,48 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Imprisonment with Labor",
-    "definition": "A custodial sentence in the Japanese penal system, imposing mandatory labor on the inmate. This is distinct from Imprisonment without Labor (Kinko), which does not mandate labor but permits voluntary work.",
-    "japaneseDefinition": "刑務所に拘置し、所定の作業を行わせる自由刑。日本の刑罰において重い刑の一つであり、作業が義務ではない禁錮（きんこ）と区別される。",
-    "japaneseWordTranslation": "懲役 (ちょうえき)",
-    "legalContext": "Criminal Code Art. 12, Paragraph 1: Imprisonment with Labor shall be categorized as limited term (one month or more, up to 20 years) or indefinite term, and the sentenced person shall be confined in a penal institution and subjected to prescribed labor.",
-    "japaneseLegalContext": "刑法第12条第1項: 懲役は、有期及び無期とし、懲役囚を刑務所に拘置し、所定の作業を行わせる。",
-    "exampleSentence": "Due to the severity of the financial fraud, the defendant received a sentence of eight years of imprisonment with labor.",
-    "exampleTranslation": "その金融詐欺の深刻さから、被告人は懲役8年の判決を受けた。",
-    "vocabularyList": [
-      {
-        "word": "custodial sentence",
-        "translation": "自由刑 (じゆうけい)"
-      },
-      {
-        "word": "penal institution",
-        "translation": "刑務所 (けいむしょ)"
-      },
-      {
-        "word": "mandatory labor",
-        "translation": "所定の作業 (しょていのさぎょう)"
-      },
-      {
-        "word": "indefinite term",
-        "translation": "無期 (むき)"
-      },
-      {
-        "word": "limited term",
-        "translation": "有期 (ゆうき)"
-      },
-      {
-        "word": "severity",
-        "translation": "深刻さ (しんこくさ)"
-      },
-      {
-        "word": "imprisonment without labor",
-        "translation": "禁錮 (きんこ)"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Crime of Endangered Legal Interests",
     "definition": "A theoretical classification of crimes (also known as abstract danger crimes) where the offense is completed merely by performing an act that inherently endangers a protected legal interest, without requiring proof of specific resulting harm or injury.",
     "japaneseDefinition": "構成要件に該当する行為が行われた時点で、抽象的に保護法益を危険にさらしたことをもって既遂となる犯罪。具体的な結果的損害の発生を要しない。",
@@ -15142,6 +15100,78 @@
       {
         "word": "official duties",
         "translation": "職務 (しょくむ)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Passive Personality Principle",
+    "definition": "A principle of international criminal jurisdiction allowing a state to prosecute non-nationals for crimes committed abroad if the victim is a national of that state.",
+    "japaneseDefinition": "自国外で外国人が自国民に対して犯した犯罪について、被害者の国籍を理由に自国が管轄権を持つとする原則。",
+    "japaneseWordTranslation": "被害者の国籍主義 (ひがいしゃのこくせきしゅぎ)",
+    "legalContext": "Article 4 of the Japanese Criminal Code allows for jurisdiction over certain offenses committed outside Japan against Japanese nationals.",
+    "japaneseLegalContext": "刑法第4条 (日本国外において罪を犯した日本の国民以外の者についての規定)",
+    "exampleSentence": "Jurisdiction was asserted under the Passive Personality Principle because the fraud offense, though committed entirely overseas, targeted a Japanese company.",
+    "exampleTranslation": "詐欺罪が完全に海外で犯されたにもかかわらず、日本の企業を標的としたため、被害者の国籍主義に基づき管轄権が主張された。",
+    "vocabularyList": [
+      {
+        "word": "prosecution",
+        "translation": "訴追"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄権"
+      },
+      {
+        "word": "non-national",
+        "translation": "非国民"
+      },
+      {
+        "word": "committed abroad",
+        "translation": "国外犯"
+      },
+      {
+        "word": "fraud offense",
+        "translation": "詐欺罪"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Conduct Crime",
+    "definition": "An offense where the law criminalizes the commission of a specific act or conduct itself, regardless of whether a tangible harmful result (such as injury or property damage) actually occurs. Also known as a formal crime.",
+    "japaneseDefinition": "特定の行為自体が犯罪とされ、その行為から具体的な結果が発生したか否かを問わない犯罪。結果犯の対義語として用いられる。",
+    "japaneseWordTranslation": "行為犯 (こういはん)",
+    "legalContext": "This concept is crucial in distinguishing crimes that require a causal link to a defined outcome (result crimes) from those that focus solely on the perpetrator’s action (e.g., perjury, certain preparatory offenses).",
+    "japaneseLegalContext": "刑法総論における犯罪類型分類 (結果犯との対比)",
+    "exampleSentence": "Perjury under the Criminal Code is classified as a Conduct Crime, since the completion of the offense occurs immediately upon making the false statement, irrespective of the effect on the trial outcome.",
+    "exampleTranslation": "刑法上の偽証罪は行為犯として分類され、裁判の結果への影響に関わらず、虚偽の供述を行った時点で直ちに犯罪が成立する。",
+    "vocabularyList": [
+      {
+        "word": "classification of offense",
+        "translation": "犯罪類型分類"
+      },
+      {
+        "word": "perjury",
+        "translation": "偽証"
+      },
+      {
+        "word": "perpetrator",
+        "translation": "実行犯"
+      },
+      {
+        "word": "false statement",
+        "translation": "虚偽の供述"
+      },
+      {
+        "word": "trial outcome",
+        "translation": "裁判結果"
+      },
+      {
+        "word": "causal link",
+        "translation": "因果関係"
       }
     ]
   }

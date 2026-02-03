@@ -14984,5 +14984,81 @@
         "translation": "申立てに基づき (もうしたてにもとづき)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Dismissal Due to Insufficient Proceeds",
+    "definition": "A mandatory procedural outcome in real property execution where the execution court must cancel the seizure and dismiss the execution case if the proceeds expected from the sale would not cover the execution costs and the claims having a priority right (such as a senior security interest).",
+    "japaneseDefinition": "不動産執行において、売却予想価格が、執行費用および優先債権の額を上回らない場合、執行裁判所が執行を取り消すことを義務付ける原則。これにより無益な執行を防止する。",
+    "japaneseWordTranslation": "無剰余による執行の取消し (むじょうよによるしっこうのとりけし)",
+    "legalContext": "Civil Execution Act, Art. 63 (Immovable Property Execution: Principle of No Surplus Cancellation) and Art. 137 (Execution Against Claims: Requirement for Satisfaction).",
+    "japaneseLegalContext": "民事執行法 第63条（剰余を生ずる見込みのない場合の措置等）及び第137条（債権執行における満足主義）",
+    "exampleSentence": "The execution court issued an order for Execution Dismissal Due to Insufficient Proceeds because the assessed value of the property was lower than the outstanding mortgage amount.",
+    "exampleTranslation": "評価された不動産の価値が未払いの住宅ローン額を下回ったため、執行裁判所は無剰余による執行の取消しを命じる決定を出した。",
+    "vocabularyList": [
+      {
+        "word": "proceeds",
+        "translation": "売却代金 (baikyaku daikin)"
+      },
+      {
+        "word": "mandatory procedural outcome",
+        "translation": "義務的な手続上の結果 (gimuteki na tetsuzuki-jō no kekka)"
+      },
+      {
+        "word": "priority right",
+        "translation": "優先権 (yūsenken)"
+      },
+      {
+        "word": "execution costs",
+        "translation": "執行費用 (shikkō hiyō)"
+      },
+      {
+        "word": "assessed value",
+        "translation": "評価額 (hyōkagaku)"
+      },
+      {
+        "word": "outstanding mortgage",
+        "translation": "残存抵当権 (zanzon teitōken)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Protection of Obligor’s Residence",
+    "definition": "A system introduced in the Civil Execution Act that allows the execution obligor (debtor) to request the court to allow them to remain in their primary residential real property, even after it has been sold at auction, provided they satisfy certain financial conditions and pay a fair rent.",
+    "japaneseDefinition": "民事執行法に導入された制度で、債務者（執行義務者）が、競売によって居住用不動産が売却された後も、一定の金銭的条件を満たし、適正な賃料を支払うことを条件として、その不動産に引き続き居住することを裁判所に申し立て、保護を求めるもの。",
+    "japaneseWordTranslation": "債務者居住用不動産の保護 (さいむしゃきょじゅうようふどうさんのほご)",
+    "legalContext": "Civil Execution Act, Art. 40-2 (Special Provisions for Residential Real Property).",
+    "japaneseLegalContext": "民事執行法 第40条の2（居住用不動産に関する特例）",
+    "exampleSentence": "The new provisions regarding Judicial Protection of Obligor’s Residence aim to balance the creditor’s right to collect the debt with the debtor’s fundamental right to maintain housing.",
+    "exampleTranslation": "債務者居住用不動産の保護に関する新しい規定は、債権者の債権回収権と債務者の住居を維持する基本的人権とのバランスをとることを目的としている。",
+    "vocabularyList": [
+      {
+        "word": "execution obligor",
+        "translation": "執行義務者 (shikkō gimusha)"
+      },
+      {
+        "word": "primary residential property",
+        "translation": "主たる居住用不動産 (shutarukyo jūyō fudōsan)"
+      },
+      {
+        "word": "auction",
+        "translation": "競売 (keibai)"
+      },
+      {
+        "word": "financial conditions",
+        "translation": "金銭的条件 (kinsenteki jōken)"
+      },
+      {
+        "word": "fair rent",
+        "translation": "適正な賃料 (tekisei na chinryō)"
+      },
+      {
+        "word": "fundamental right",
+        "translation": "基本的人権 (kihonteki jinken)"
+      }
+    ]
   }
 ]

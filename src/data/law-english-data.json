@@ -1,42 +1,42 @@
 {
   "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Imprisonment with Labor",
-  "definition": "A custodial sentence in the Japanese penal system, imposing mandatory labor on the inmate. This is distinct from Imprisonment without Labor (Kinko), which does not mandate labor but permits voluntary work.",
-  "japaneseDefinition": "刑務所に拘置し、所定の作業を行わせる自由刑。日本の刑罰において重い刑の一つであり、作業が義務ではない禁錮（きんこ）と区別される。",
-  "japaneseWordTranslation": "懲役 (ちょうえき)",
-  "legalContext": "Criminal Code Art. 12, Paragraph 1: Imprisonment with Labor shall be categorized as limited term (one month or more, up to 20 years) or indefinite term, and the sentenced person shall be confined in a penal institution and subjected to prescribed labor.",
-  "japaneseLegalContext": "刑法第12条第1項: 懲役は、有期及び無期とし、懲役囚を刑務所に拘置し、所定の作業を行わせる。",
-  "exampleSentence": "Due to the severity of the financial fraud, the defendant received a sentence of eight years of imprisonment with labor.",
-  "exampleTranslation": "その金融詐欺の深刻さから、被告人は懲役8年の判決を受けた。",
+  "word": "Crime of Endangered Legal Interests",
+  "definition": "A theoretical classification of crimes (also known as abstract danger crimes) where the offense is completed merely by performing an act that inherently endangers a protected legal interest, without requiring proof of specific resulting harm or injury.",
+  "japaneseDefinition": "構成要件に該当する行為が行われた時点で、抽象的に保護法益を危険にさらしたことをもって既遂となる犯罪。具体的な結果的損害の発生を要しない。",
+  "japaneseWordTranslation": "抽象的危険犯 (ちゅうしょうてききけんはん)",
+  "legalContext": "Criminal Code Art. 108 (Arson of an Inhabited Structure): A person who sets fire to a structure that is currently inhabited or used by people shall be punished by the death penalty, or imprisonment with labor for life or for a term of not less than seven years.",
+  "japaneseLegalContext": "刑法第108条（現住建造物等放火）: 現に人が住居に使用し又は現に人がいる建造物、汽車、電車又は鉱坑を焼損した者は、死刑又は無期若しくは7年以上の懲役に処する。",
+  "exampleSentence": "The offense of arson under Article 108 is considered a crime of endangered legal interests because the prosecution only needs to prove the act of setting fire, not resulting death or injury.",
+  "exampleTranslation": "刑法第108条の放火罪は、検察側が放火行為自体を証明すれば足り、結果的な死傷を証明する必要がないため、抽象的危険犯と見なされる。",
   "vocabularyList": [
     {
-      "word": "custodial sentence",
-      "translation": "自由刑 (じゆうけい)"
+      "word": "abstract danger crimes",
+      "translation": "抽象的危険犯 (ちゅうしょうてききけんはん)"
     },
     {
-      "word": "penal institution",
-      "translation": "刑務所 (けいむしょ)"
+      "word": "protected legal interest",
+      "translation": "保護法益 (ほごほうえき)"
     },
     {
-      "word": "mandatory labor",
-      "translation": "所定の作業 (しょていのさぎょう)"
+      "word": "resulting harm",
+      "translation": "結果的損害 (けっかてきそんがい)"
     },
     {
-      "word": "indefinite term",
-      "translation": "無期 (むき)"
+      "word": "Arson",
+      "translation": "放火罪 (ほうかざい)"
     },
     {
-      "word": "limited term",
-      "translation": "有期 (ゆうき)"
+      "word": "inhabited structure",
+      "translation": "現住建造物 (げんじゅうけんぞうぶつ)"
     },
     {
-      "word": "severity",
-      "translation": "深刻さ (しんこくさ)"
+      "word": "prosecution",
+      "translation": "検察側 (けんさつがわ)"
     },
     {
-      "word": "imprisonment without labor",
-      "translation": "禁錮 (きんこ)"
+      "word": "completed",
+      "translation": "既遂となる (きすいとなる)"
     }
   ]
 }

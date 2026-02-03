@@ -16624,5 +16624,119 @@
         "translation": "防御方法"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sanction for Non-Compliance (Document Production)",
+    "definition": "A procedural measure where, if a party unjustifiably refuses to submit a document subject to a court order, the court may deem the opposing party's factual assertion regarding the content of that document to be established as true.",
+    "japaneseDefinition": "当事者が裁判所の文書提出命令に従わない場合、その文書の内容に関する相手方の主張を裁判所が真実と認めることができるとする、手続上の不利益措置。",
+    "japaneseWordTranslation": "文書提出義務違反の制裁 (ぶんしょていしゅつぎむいはんのせいさい)",
+    "legalContext": "Code of Civil Procedure Art. 224(3): 'Where a party disobeys an order for production... the court may deem the assertions of the opposing party concerning the entry in the document to be true.'",
+    "japaneseLegalContext": "民事訴訟法第224条第3項: 「当事者が文書提出命令に従わないときは、裁判所は、当該文書の記載に関する相手方の主張を真実であると認めることができる。」",
+    "exampleSentence": "The defendant's refusal to comply with the court's production order resulted in the application of a procedural sanction, establishing the plaintiff's key factual assertion.",
+    "exampleTranslation": "裁判所の提出命令への被告の不服従により、手続上の制裁が適用され、原告の主要な事実主張が確定された。",
+    "vocabularyList": [
+      {
+        "word": "Court order",
+        "translation": "裁判所の命令"
+      },
+      {
+        "word": "opposing party",
+        "translation": "相手方"
+      },
+      {
+        "word": "factual assertion",
+        "translation": "事実の主張"
+      },
+      {
+        "word": "deemed established",
+        "translation": "真実と認められる"
+      },
+      {
+        "word": "production order",
+        "translation": "提出命令"
+      },
+      {
+        "word": "disobey",
+        "translation": "従わない"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Calculation of Litigation Value",
+    "definition": "The formal procedure for determining the monetary value of the subject matter of the suit, used primarily to determine the appropriate court jurisdiction and to calculate the required court filing fee.",
+    "japaneseDefinition": "訴えの目的である訴訟物を金銭で見積もり、管轄裁判所や提訴手数料を確定するために行われる手続。",
+    "japaneseWordTranslation": "訴訟価額の算定 (そしょうかがくのさんてい)",
+    "legalContext": "Code of Civil Procedure Art. 8: Rules governing the methods for calculating the litigation value for the purpose of determining jurisdiction.",
+    "japaneseLegalContext": "民事訴訟法第8条: 訴訟の目的の価額の算定方法を定める規定。",
+    "exampleSentence": "The plaintiff requested an amendment to the calculation of litigation value after realizing the initial claim amount exceeded the jurisdictional limit of the Summary Court.",
+    "exampleTranslation": "原告は、当初の請求額が簡易裁判所の管轄限度を超えていたことに気づき、訴訟価額の算定の訂正を求めた。",
+    "vocabularyList": [
+      {
+        "word": "monetary value",
+        "translation": "金銭的価値"
+      },
+      {
+        "word": "jurisdictional limit",
+        "translation": "管轄限度"
+      },
+      {
+        "word": "court filing fee",
+        "translation": "裁判所手数料"
+      },
+      {
+        "word": "claim amount",
+        "translation": "請求額"
+      },
+      {
+        "word": "suit",
+        "translation": "訴え"
+      },
+      {
+        "word": "Summary Court",
+        "translation": "簡易裁判所"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligation to Affix Signature and Seal (Procedural)",
+    "definition": "The formal requirement imposed on parties and their representatives in Japanese civil proceedings to affix their handwritten signature and registered official seal (or stamp) to procedural written documents submitted to the court.",
+    "japaneseDefinition": "当事者等が裁判所に提出する手続上の書面に、自筆の署名と登録された印鑑を捺印することを義務付ける、方式に関する要件。",
+    "japaneseWordTranslation": "署名捺印義務 (しょめいなついんぎむ)",
+    "legalContext": "Code of Civil Procedure Art. 25: Stipulates that written documents submitted to the court must be signed and sealed by the person who prepares them.",
+    "japaneseLegalContext": "民事訴訟法第25条: 裁判所に提出する書面は、作成者が署名し、又は記名押印しなければならないと定める。",
+    "exampleSentence": "Failure to fulfill the obligation to affix signature and seal on the appeal statement may lead to its rejection by the clerk as a defect in the procedural requirement.",
+    "exampleTranslation": "控訴状に署名捺印義務を果たさなかった場合、手続要件の不備として裁判所書記官による却下につながる可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "written document",
+        "translation": "書面"
+      },
+      {
+        "word": "official seal",
+        "translation": "印鑑"
+      },
+      {
+        "word": "signature",
+        "translation": "署名"
+      },
+      {
+        "word": "procedural requirement",
+        "translation": "手続要件"
+      },
+      {
+        "word": "rejection",
+        "translation": "却下"
+      },
+      {
+        "word": "affix",
+        "translation": "捺印する"
+      }
+    ]
   }
 ]

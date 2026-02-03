@@ -2,48 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Crime of Endangered Legal Interests",
-    "definition": "A theoretical classification of crimes (also known as abstract danger crimes) where the offense is completed merely by performing an act that inherently endangers a protected legal interest, without requiring proof of specific resulting harm or injury.",
-    "japaneseDefinition": "構成要件に該当する行為が行われた時点で、抽象的に保護法益を危険にさらしたことをもって既遂となる犯罪。具体的な結果的損害の発生を要しない。",
-    "japaneseWordTranslation": "抽象的危険犯 (ちゅうしょうてききけんはん)",
-    "legalContext": "Criminal Code Art. 108 (Arson of an Inhabited Structure): A person who sets fire to a structure that is currently inhabited or used by people shall be punished by the death penalty, or imprisonment with labor for life or for a term of not less than seven years.",
-    "japaneseLegalContext": "刑法第108条（現住建造物等放火）: 現に人が住居に使用し又は現に人がいる建造物、汽車、電車又は鉱坑を焼損した者は、死刑又は無期若しくは7年以上の懲役に処する。",
-    "exampleSentence": "The offense of arson under Article 108 is considered a crime of endangered legal interests because the prosecution only needs to prove the act of setting fire, not resulting death or injury.",
-    "exampleTranslation": "刑法第108条の放火罪は、検察側が放火行為自体を証明すれば足り、結果的な死傷を証明する必要がないため、抽象的危険犯と見なされる。",
-    "vocabularyList": [
-      {
-        "word": "abstract danger crimes",
-        "translation": "抽象的危険犯 (ちゅうしょうてききけんはん)"
-      },
-      {
-        "word": "protected legal interest",
-        "translation": "保護法益 (ほごほうえき)"
-      },
-      {
-        "word": "resulting harm",
-        "translation": "結果的損害 (けっかてきそんがい)"
-      },
-      {
-        "word": "Arson",
-        "translation": "放火罪 (ほうかざい)"
-      },
-      {
-        "word": "inhabited structure",
-        "translation": "現住建造物 (げんじゅうけんぞうぶつ)"
-      },
-      {
-        "word": "prosecution",
-        "translation": "検察側 (けんさつがわ)"
-      },
-      {
-        "word": "completed",
-        "translation": "既遂となる (きすいとなる)"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Recidivism",
     "definition": "The state of relapsing into criminal behavior after having previously been convicted and served a sentence, which may result in enhanced punishment under criminal law.",
     "japaneseDefinition": "刑の執行を終えた者などが、一定期間内に再び罪を犯した場合に、刑を重くする制度。",
@@ -15172,6 +15130,120 @@
       {
         "word": "causal link",
         "translation": "因果関係"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exculpatory Conditions",
+    "definition": "Factual circumstances or mental states (such as mental derangement or age-related lack of capacity) that preclude criminal accountability (culpability), leading to non-punishment.",
+    "japaneseDefinition": "行為者がその行為の違法性を認識・判断する能力を欠く、または著しく減退している等の理由により、刑罰責任を負わないとするための事実（心神喪失など）。",
+    "japaneseWordTranslation": "責任阻却事由 (せきにんそきゃくじゆう)",
+    "legalContext": "Criminal Code Art. 39: Persons who were in a state of mental derangement at the time of the act are not punished.",
+    "japaneseLegalContext": "刑法第39条: 心神喪失者の行為は、罰しない。",
+    "exampleSentence": "The defense argued that the defendant was subject to exculpatory conditions due to profound intellectual disability, thereby eliminating criminal accountability.",
+    "exampleTranslation": "弁護側は、被告人に重度の知的障害による責任阻却事由があるため、刑事責任を負わないと主張した。",
+    "vocabularyList": [
+      {
+        "word": "accountability",
+        "translation": "責任"
+      },
+      {
+        "word": "culpability",
+        "translation": "有責性"
+      },
+      {
+        "word": "mental derangement",
+        "translation": "心神喪失"
+      },
+      {
+        "word": "profound intellectual disability",
+        "translation": "重度の知的障害"
+      },
+      {
+        "word": "non-punishment",
+        "translation": "不罰"
+      },
+      {
+        "word": "at the time of the act",
+        "translation": "行為時"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligation of the Guarantor",
+    "definition": "A legal duty or special relationship (e.g., familial or contractual) that establishes a person's obligation to prevent harm or protect a legal interest, which is a prerequisite for being found guilty of a commission by omission.",
+    "japaneseDefinition": "特定の法益を保護し、その危険発生を防止する義務を負う、保証人としての地位。不作為犯が成立するための前提要件となる。",
+    "japaneseWordTranslation": "保証人的地位 (ほしょうじんてきちい)",
+    "legalContext": "General Principle of Criminal Law: The act of omission is punishable only when the obligor had the Obligation of the Guarantor and failed to perform the necessary preventive action.",
+    "japaneseLegalContext": "刑法総論の一般原則: 不作為による作為犯は、行為者が保証人的地位を有し、必要な防止行為を行わなかった場合にのみ処罰される。",
+    "exampleSentence": "The prosecution had to demonstrate the lifeguard's Obligation of the Guarantor stemming from their contractual duty before establishing liability for the death by drowning.",
+    "exampleTranslation": "検察側は、溺死に対する責任を立証する前に、ライフガードの契約上の義務に由来する保証人的地位を証明しなければならなかった。",
+    "vocabularyList": [
+      {
+        "word": "prerequisite",
+        "translation": "前提要件"
+      },
+      {
+        "word": "commission by omission",
+        "translation": "不作為による作為犯"
+      },
+      {
+        "word": "prevent harm",
+        "translation": "危害の防止"
+      },
+      {
+        "word": "contractual duty",
+        "translation": "契約上の義務"
+      },
+      {
+        "word": "legal interest",
+        "translation": "法益"
+      },
+      {
+        "word": "liability",
+        "translation": "責任"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Action Responsibility",
+    "definition": "A foundational principle stipulating that criminal liability must be based on the defendant's conscious, voluntary action (or omission), and not merely on status, thought, or character.",
+    "japaneseDefinition": "刑罰責任は、人の性質や思想ではなく、意識的・自発的な外部への行為（または不作為）に基づいて問われるべきであるという、近代刑法の基本原則。",
+    "japaneseWordTranslation": "行為責任主義 (こういせきにんしゅぎ)",
+    "legalContext": "The Principle of Action Responsibility prevents the imposition of criminal sanction based solely on the defendant's character or suspicious disposition, requiring proof of a specific prohibited action.",
+    "japaneseLegalContext": "行為責任主義は、被告人の性格や疑わしい性向のみに基づいて刑事罰を課すことを防ぎ、特定の禁止された行為の証明を要求する。",
+    "exampleSentence": "Under the Principle of Action Responsibility, a person cannot be penalized merely for having the subjective intent to commit a crime, absent the physical commission of a prohibited act.",
+    "exampleTranslation": "行為責任主義のもとでは、人は、禁止された行為の物理的実行がなければ、単に罪を犯す主観的故意を持つことだけでは処罰されない。",
+    "vocabularyList": [
+      {
+        "word": "foundational principle",
+        "translation": "基本原則"
+      },
+      {
+        "word": "voluntary action",
+        "translation": "自発的な行為"
+      },
+      {
+        "word": "externalized act",
+        "translation": "外部への行為"
+      },
+      {
+        "word": "criminal sanction",
+        "translation": "刑事罰"
+      },
+      {
+        "word": "prohibited act",
+        "translation": "禁止された行為"
+      },
+      {
+        "word": "subjective intent",
+        "translation": "主観的故意"
       }
     ]
   }

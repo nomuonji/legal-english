@@ -16954,5 +16954,123 @@
         "translation": "判決"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Fact Admitted in Oral Arguments",
+    "definition": "A fact stated by one party during oral arguments and expressly or implicitly acknowledged as true by the opposing party, thereby being established without the need for evidence (unless against public policy).",
+    "japaneseDefinition": "弁論期日において、一方当事者が陳述した自己に不利益な事実を相手方が認めたことにより、当事者間に争いがない事実として確定する訴訟上の行為。",
+    "japaneseWordTranslation": "弁論における自白 (べんろんにおけるじはく)",
+    "legalContext": "Code of Civil Procedure (Minji Soshōhō) Art. 179: Effect of Admissions (which establishes the binding nature of facts admitted in court).",
+    "japaneseLegalContext": "民事訴訟法第179条（自白の効力）",
+    "exampleSentence": "The court accepted the defendant's statement regarding the delivery date as a fact admitted in oral arguments, eliminating the need for further documentary evidence on that point.",
+    "exampleTranslation": "裁判所は、被告の引渡日に関する陳述を弁論における自白として受け入れ、その点に関するさらなる文書証拠の必要性を排除した。",
+    "vocabularyList": [
+      {
+        "word": "opposing party",
+        "translation": "相手方 (あいてがた)"
+      },
+      {
+        "word": "oral arguments",
+        "translation": "弁論期日 (べんろんきじつ)"
+      },
+      {
+        "word": "documentary evidence",
+        "translation": "文書証拠 (ぶんしょしょうこ)"
+      },
+      {
+        "word": "established",
+        "translation": "確定する (かくていする)"
+      },
+      {
+        "word": "judicial act",
+        "translation": "訴訟上の行為 (そしょうじょうのこうい)"
+      },
+      {
+        "word": "binding nature",
+        "translation": "拘束力 (こうそくりょく)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Transfer of Case (Ex Officio)",
+    "definition": "The court's mandatory or discretionary procedural decision to transfer a lawsuit to another competent court, often due to lack of jurisdiction or to ensure fairness and efficiency in handling the case.",
+    "japaneseDefinition": "裁判所が、管轄違いや訴訟の著しい遅滞または当事者の不利益を回避する目的で、職権により事件を他の裁判所に移す処分。",
+    "japaneseWordTranslation": "職権による事件の移送 (しょっけんによるじけんのいそう)",
+    "legalContext": "Code of Civil Procedure (Minji Soshōhō) Art. 16: Transfer due to lack of jurisdiction (mandates transfer) and Art. 17: Discretionary Transfer.",
+    "japaneseLegalContext": "民事訴訟法第16条（管轄違いの場合の移送）及び第17条（裁量移送）",
+    "exampleSentence": "Because the action was filed in a court without proper territorial jurisdiction, the court issued an order for a transfer of case (ex officio) to the correct district court.",
+    "exampleTranslation": "適切な土地管轄のない裁判所に提訴されたため、裁判所は正しい地方裁判所への職権による事件の移送の決定を下した。",
+    "vocabularyList": [
+      {
+        "word": "discretionary",
+        "translation": "裁量的な (さいりょうてきな)"
+      },
+      {
+        "word": "lack of jurisdiction",
+        "translation": "管轄違い (かんかつちがい)"
+      },
+      {
+        "word": "competent court",
+        "translation": "管轄裁判所 (かんかつさいばんしょ)"
+      },
+      {
+        "word": "territorial jurisdiction",
+        "translation": "土地管轄 (とちかんかつ)"
+      },
+      {
+        "word": "district court",
+        "translation": "地方裁判所 (ちほうさいばんしょ)"
+      },
+      {
+        "word": "procedural decision",
+        "translation": "訴訟上の処分 (そしょうじょうのしょぶん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Recognition of Foreign Judgment",
+    "definition": "The judicial determination by a Japanese court that a judgment rendered by a foreign court is valid and effective within Japan, allowing for its enforcement under specific statutory conditions.",
+    "japaneseDefinition": "外国裁判所が下した判決が、日本の法令上有効であると裁判所が判断し、日本国内での執行を認める手続き。",
+    "japaneseWordTranslation": "外国判決の承認 (がいこくはんけつのしょうにん)",
+    "legalContext": "Code of Civil Procedure (Minji Soshōhō) Art. 118: Requirements for Recognition of Foreign Judgment (stipulating conditions like reciprocal guarantee and public policy conformity).",
+    "japaneseLegalContext": "民事訴訟法第118条（外国判決の承認の要件）",
+    "exampleSentence": "The obligee sought the recognition of foreign judgment to proceed with compulsory execution against the debtor's assets located in Japan.",
+    "exampleTranslation": "債権者は、日本国内にある債務者の資産に対する強制執行を進めるために、外国判決の承認を求めた。",
+    "vocabularyList": [
+      {
+        "word": "valid and effective",
+        "translation": "有効である (ゆうこうである)"
+      },
+      {
+        "word": "enforcement",
+        "translation": "執行 (しっこう)"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行 (きょうせいしっこう)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "reciprocal guarantee",
+        "translation": "相互の保証 (そうごのほしょう)"
+      },
+      {
+        "word": "statutory conditions",
+        "translation": "法定の要件 (ほうていのようけん)"
+      }
+    ]
   }
 ]

@@ -10626,5 +10626,73 @@
         "translation": "軽減する"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit Application Disallowance",
+    "definition": "A formal administrative ruling by the Deposit Registrar refusing a deposit application because it fails to meet statutory requirements (e.g., incorrect documentation, improper cause).",
+    "japaneseDefinition": "供託申請が供託法上の要件を欠く等の理由により、供託官によって拒否される行政処分。",
+    "japaneseWordTranslation": "供託申請却下処分 (きょうたくしんせいきゃっかしょぶん)",
+    "legalContext": "Deposit Act, Art. 5 (Grounds for Acceptance and Rejection of Application): If a deposit application fails to conform to statutory requirements, the Registrar must disallow it.",
+    "japaneseLegalContext": "供託法第5条（供託の受理及び却下の要件）：供託官は、供託を受理し又は却下しなければならない。",
+    "exampleSentence": "The Registrar issued a Deposit Application Disallowance after finding that the consignment document lacked the required statement of the underlying legal cause.",
+    "exampleTranslation": "供託官は、供託書に必要とされる基礎となる法律上の原因の記載がないことを発見し、供託申請却下処分を出した。",
+    "vocabularyList": [
+      {
+        "word": "Registrar",
+        "translation": "供託官"
+      },
+      {
+        "word": "administrative ruling",
+        "translation": "行政処分"
+      },
+      {
+        "word": "consignment document",
+        "translation": "供託書"
+      },
+      {
+        "word": "underlying legal cause",
+        "translation": "基礎となる法律上の原因"
+      },
+      {
+        "word": "statutory requirements",
+        "translation": "法令上の要件"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit for Discharge of Provisional Seizure",
+    "definition": "The act of consigning funds to the Deposit Office equivalent to the seized claim amount, allowing the preservation debtor to lift the provisional seizure order on their property.",
+    "japaneseDefinition": "仮差押命令の執行を取り消すため、債務者が、供託所に、執行裁判所が定めた金額の金銭を供託すること。",
+    "japaneseWordTranslation": "仮差押解放供託 (かりさしおさえかいほうきょうたく)",
+    "legalContext": "Civil Preservation Act, Art. 48(1) (Execution of Provisional Seizure and its Discharge): The execution court must cancel the provisional seizure upon the debtor’s provision of security.",
+    "japaneseLegalContext": "民事保全法第48条第1項（仮差押えの執行の停止等）：執行裁判所は、債務者が保全を命じた金額を供託したときは、仮差押えの執行を取り消さなければならない。",
+    "exampleSentence": "To prevent the freezing of his corporate account, the defendant made the necessary Deposit for Discharge of Provisional Seizure.",
+    "exampleTranslation": "会社の口座凍結を防ぐため、被告は必要な仮差押解放供託を行った。",
+    "vocabularyList": [
+      {
+        "word": "provisional seizure order",
+        "translation": "仮差押命令"
+      },
+      {
+        "word": "preservation debtor",
+        "translation": "保全債務者"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "lift the order",
+        "translation": "命令を取り消す"
+      },
+      {
+        "word": "corporate account",
+        "translation": "法人名義口座"
+      }
+    ]
   }
 ]

@@ -15258,5 +15258,119 @@
         "translation": "競売のための目録化"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Succession of Execution Obligation",
+    "definition": "The formal procedure required to continue compulsory execution when the obligee or obligor stated in the execution title has been succeeded by a third party (e.g., through inheritance, merger, or universal assignment of business).",
+    "japaneseDefinition": "債務名義に表示された債権者または債務者について、相続や会社の合併などにより当事者の承継があった場合に、新たに承継した者を当事者として強制執行を継続するための手続。",
+    "japaneseWordTranslation": "承継執行 (しょうけいしっこう)",
+    "legalContext": "Civil Execution Act Art. 27 & 46: Governing the succession of execution and the necessary endorsement process when the right or duty is transferred.",
+    "japaneseLegalContext": "民事執行法第27条、第46条：権利または義務が承継された場合の執行の承継および執行文の付与に関する規定。",
+    "exampleSentence": "The execution creditor filed a motion to secure the Succession of Execution Obligation after the original judgment debtor died.",
+    "exampleTranslation": "元の執行債務者が死亡した後、執行債権者は承継執行のための申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "execution title",
+        "translation": "債務名義"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "universal assignment",
+        "translation": "包括承継"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行"
+      },
+      {
+        "word": "filed a motion",
+        "translation": "申立てを行った"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Seizure of Conditional Claims",
+    "definition": "The legal attachment of a monetary receivable whose existence or due date is contingent upon a future, uncertain event (a condition) or the arrival of a specified future time period. Collection is generally deferred until the condition is fulfilled or the time arrives.",
+    "japaneseDefinition": "将来の不確実な事由（条件）または到来確実な将来の期限に依存する金銭債権を、法的に差し押さえ、確保すること。原則として条件成就または期限到来まで取立ては行えない。",
+    "japaneseWordTranslation": "条件付き債権の差押え (じょうけんつきさいけんのさしおさえ)",
+    "legalContext": "Civil Execution Act Art. 151: Specifies the handling and maturity requirements for claims that are conditional or time-dependent when seized.",
+    "japaneseLegalContext": "民事執行法第151条：差押えの対象となる債権が条件付きまたは期限付きである場合の取扱いに関する規定。",
+    "exampleSentence": "The court permitted the Seizure of Conditional Claims, specifically targeting the judgment debtor's severance pay which would only become payable upon his eventual retirement.",
+    "exampleTranslation": "裁判所は条件付き債権の差押えを許可した。これは、判決債務者が将来の退職時になって初めて支払われる退職金を特定して狙ったものである。",
+    "vocabularyList": [
+      {
+        "word": "receivable",
+        "translation": "金銭債権"
+      },
+      {
+        "word": "contingent",
+        "translation": "条件付きの"
+      },
+      {
+        "word": "legal attachment",
+        "translation": "法的な差押え"
+      },
+      {
+        "word": "due date",
+        "translation": "弁済期"
+      },
+      {
+        "word": "severance pay",
+        "translation": "退職金"
+      },
+      {
+        "word": "collection",
+        "translation": "取立て"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sale by Fixed Price",
+    "definition": "A realization method for seized movable property or certain claims where the implementer of the sale sells the property at a negotiated, set price to an interested third party, rather than relying on a complex judicial bidding or auction procedure.",
+    "japaneseDefinition": "差し押さえた動産や一部の債権について、売却実施機関が、裁判所の定める競売や入札の手続きによらず、適切な価格で買受希望者に相対で売却し、換価する方式。",
+    "japaneseWordTranslation": "随意売却 (ずいいばいきゃく)",
+    "legalContext": "Civil Execution Act Art. 119(1) and 134(1): Allows the enforcement official to convert seized movable property and certain proprietary rights into money through a Sale by Fixed Price.",
+    "japaneseLegalContext": "民事執行法第119条第1項、第134条第1項：執行官が差し押さえた動産や一部の権利について、随意売却による換価を許容する規定。",
+    "exampleSentence": "Due to the lack of bidders in the initial attempt, the execution court authorized the implementer of the sale to conduct a Sale by Fixed Price for the seized antique furniture.",
+    "exampleTranslation": "最初の試みで入札者がいなかったため、執行裁判所は、差し押さえられた骨董品の家具について、売却実施機関に随意売却を実施する権限を与えた。",
+    "vocabularyList": [
+      {
+        "word": "realization method",
+        "translation": "換価方法"
+      },
+      {
+        "word": "seized property",
+        "translation": "差し押さえられた財産"
+      },
+      {
+        "word": "movable property",
+        "translation": "動産"
+      },
+      {
+        "word": "negotiation",
+        "translation": "相対（あいたい）"
+      },
+      {
+        "word": "bidders",
+        "translation": "入札者"
+      },
+      {
+        "word": "antique furniture",
+        "translation": "骨董品の家具"
+      }
+    ]
   }
 ]

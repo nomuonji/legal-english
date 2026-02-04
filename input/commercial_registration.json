@@ -13652,5 +13652,119 @@
         "translation": "担保設定 (Tanpo Settei)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Unregistered Matters",
+    "definition": "Facts that are legally required to be recorded in the commercial record but have not yet been filed, resulting in a limitation on their legal effect against innocent third parties.",
+    "japaneseDefinition": "法律上登記が義務付けられているにもかかわらず、まだ商業記録に記載されていない事実。善意の第三者に対する法的効力が制限されることが多い。",
+    "japaneseWordTranslation": "未登記事項 (みとうきじこう)",
+    "legalContext": "Commercial Registration Law Art. 9: “Matters required to be registered may not be asserted against a third party acting in good faith until after the registration thereof.”",
+    "japaneseLegalContext": "商業登記法第9条：「登記すべき事項は、登記の後でなければ、これをもって善意の第三者に対抗することができない。」",
+    "exampleSentence": "The limitation on the representative director’s authority constituted unregistered matters and was therefore ineffective against the bank.",
+    "exampleTranslation": "代表取締役の権限に対する制限は未登記事項であったため、銀行に対しては効力を生じなかった。",
+    "vocabularyList": [
+      {
+        "word": "required to be registered",
+        "translation": "登記すべき"
+      },
+      {
+        "word": "ineffective",
+        "translation": "効力を生じない"
+      },
+      {
+        "word": "limitation on authority",
+        "translation": "権限の制限"
+      },
+      {
+        "word": "representative director",
+        "translation": "代表取締役"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "acting in good faith",
+        "translation": "善意で行動する"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Succession to the Registration Duty",
+    "definition": "The transfer of the legal responsibility to submit an application for commercial entry when an event, such as a company merger or corporate status change, results in the substitution of the original duty holder.",
+    "japaneseDefinition": "会社の合併や地位の変動などの事由により、商業上の記録申請を行う法的責任が、元の義務者から新たな者に引き継がれること。",
+    "japaneseWordTranslation": "登記義務の承継 (とうきぎむのしょうけい)",
+    "legalContext": "Commercial Registration Law Art. 143 (Principle applied mutatis mutandis from Civil Execution Law for specific succession cases in practice).",
+    "japaneseLegalContext": "商業登記法第143条（特定の承継事由に関する民事執行法からの準用を含む登記実務上の原則）。",
+    "exampleSentence": "Following the corporate absorption, the surviving entity assumes the succession to the registration duty for all associated changes in capital and officers.",
+    "exampleTranslation": "会社吸収合併後、存続会社は資本と役員の関連する全ての変更について登記義務の承継を負う。",
+    "vocabularyList": [
+      {
+        "word": "transfer of responsibility",
+        "translation": "責任の移転"
+      },
+      {
+        "word": "corporate absorption",
+        "translation": "会社吸収合併"
+      },
+      {
+        "word": "surviving entity",
+        "translation": "存続会社"
+      },
+      {
+        "word": "status change",
+        "translation": "地位の変動"
+      },
+      {
+        "word": "original duty holder",
+        "translation": "元の義務者"
+      },
+      {
+        "word": "associated changes",
+        "translation": "関連する変更"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Custody of Instruments",
+    "definition": "The legal requirement for the commercial record office to safely retain the documents submitted as evidence to support an application for commercial entry, ensuring public access to the basis of the entry.",
+    "japaneseDefinition": "商業記録の登記所が、商業上の記録申請の根拠を裏付けるために提出された文書を安全に保持し、記録の根拠に対する公衆のアクセスを確保するための法的要件。",
+    "japaneseWordTranslation": "付属書類の保管 (ふぞくしょるいのほかん)",
+    "legalContext": "Commercial Registration Law Art. 12: “Documents related to the registration application shall be stored by the commercial record office.”",
+    "japaneseLegalContext": "商業登記法第12条：「登記申請に関係する書類は、商業記録所に保管するものとする。」",
+    "exampleSentence": "The articles of incorporation and the minutes of the resolution were subject to the custody of instruments for a mandatory ten-year retention period.",
+    "exampleTranslation": "定款と決議議事録は、義務的な10年間の保存期間中、付属書類の保管の対象となった。",
+    "vocabularyList": [
+      {
+        "word": "retain",
+        "translation": "保持する"
+      },
+      {
+        "word": "commercial record office",
+        "translation": "商業記録所"
+      },
+      {
+        "word": "articles of incorporation",
+        "translation": "定款"
+      },
+      {
+        "word": "minutes of the resolution",
+        "translation": "決議議事録"
+      },
+      {
+        "word": "submitted as evidence",
+        "translation": "証拠として提出された"
+      },
+      {
+        "word": "mandatory retention period",
+        "translation": "義務的な保存期間"
+      }
+    ]
   }
 ]

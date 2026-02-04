@@ -18938,5 +18938,119 @@
         "translation": "改良 (かいりょう)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Periodic Installment Obligation",
+    "definition": "An obligation or claim where payment or performance is due periodically (e.g., monthly or yearly) over a fixed or determinable period, such as an annuity.",
+    "japaneseDefinition": "一定期間にわたり、定期的に金銭その他の給付を目的とする債務または債権。",
+    "japaneseWordTranslation": "定期金債権 (ていききんさいけん)",
+    "legalContext": "Civil Code Art. 169: Establishes a special short prescription period of five years for obligations arising from periodic payments.",
+    "japaneseLegalContext": "民法第169条（定期金債権の短期消滅時効）",
+    "exampleSentence": "The prescription period for the **Periodic Installment Obligation** pertaining to the annuity began to run from the time each scheduled payment became due.",
+    "exampleTranslation": "年金に係る**定期金債権**の消滅時効は、個々の支払期が到来するごとに進行し始めた。",
+    "vocabularyList": [
+      {
+        "word": "Annuity",
+        "translation": "年金 (ねんきん)"
+      },
+      {
+        "word": "Prescription period",
+        "translation": "消滅時効期間 (しょうめつじこうきかん)"
+      },
+      {
+        "word": "Pertaining to",
+        "translation": "に係る (にかかる)"
+      },
+      {
+        "word": "Scheduled payment",
+        "translation": "支払期 (しはらいき)"
+      },
+      {
+        "word": "To run / commence",
+        "translation": "進行する (しんこうする)"
+      },
+      {
+        "word": "Periodically",
+        "translation": "定期的に (ていきてきに)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Termination (of a continuous contract)",
+    "definition": "The dissolution of a contract with continuing performance, such as a lease or mandate, resulting in the contract ceasing to have effect only for the future (ex nunc), without retroactive undoing.",
+    "japaneseDefinition": "継続的な給付を目的とする契約（賃貸借、委任等）を将来に向かってのみ効力を失わせること。遡及効を持たない点で解除と区別される。",
+    "japaneseWordTranslation": "解約 (かいやく)",
+    "legalContext": "Civil Code Art. 620: Refers to the principle that termination of contracts of continuous performance (such as mandate or lease) generally operates prospectively.",
+    "japaneseLegalContext": "民法第620条（賃貸借の解約の適用）",
+    "exampleSentence": "The right of **termination (of a continuous contract)** allows a party to withdraw from a long-term service agreement without requiring the difficult calculation of restoration of the original state.",
+    "exampleTranslation": "**解約**権は、長期の役務提供契約から当事者が離脱することを可能とし、煩雑な原状回復の計算を不要にする。",
+    "vocabularyList": [
+      {
+        "word": "Dissolution",
+        "translation": "解消 (かいしょう)"
+      },
+      {
+        "word": "Continuing performance",
+        "translation": "継続的給付 (けいぞくてききゅうふ)"
+      },
+      {
+        "word": "Ex nunc",
+        "translation": "将来効 (しょうらいこう)"
+      },
+      {
+        "word": "Service agreement",
+        "translation": "役務提供契約 (えきむていきょうけいやく)"
+      },
+      {
+        "word": "Retroactive undoing",
+        "translation": "遡及的な無効化 (そきゅうてきなむこうか)"
+      },
+      {
+        "word": "To withdraw from",
+        "translation": "離脱する (りだつする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Transfer of Risk",
+    "definition": "The legal moment when the risk of loss, destruction, or damage of the subject matter shifts from the seller (obligor) to the buyer (obligee) in a contract.",
+    "japaneseDefinition": "契約において、目的物の滅失または毀損の危険が売主（債務者）から買主（債権者）に移転する法律上の時点。",
+    "japaneseWordTranslation": "危険の移転 (きけんのいてん)",
+    "legalContext": "Civil Code Art. 536: Specifies rules regarding risk apportionment (who bears the counter-performance obligation) when performance becomes impossible due to a cause not attributable to the obligor (Risk of Loss is related to this).",
+    "japaneseLegalContext": "民法第536条（債務者の危険負担等）",
+    "exampleSentence": "In a sales contract involving a specific thing, the **Transfer of Risk** usually occurs upon delivery of the goods, unless the parties have explicitly agreed otherwise.",
+    "exampleTranslation": "特定物の売買契約においては、当事者が明示的に別段の合意をしない限り、**危険の移転**は通常、商品の引渡し時に発生する。",
+    "vocabularyList": [
+      {
+        "word": "Risk of loss",
+        "translation": "滅失の危険 (めっしつのきけん)"
+      },
+      {
+        "word": "Subject matter",
+        "translation": "目的物 (もくてきぶつ)"
+      },
+      {
+        "word": "Specific thing",
+        "translation": "特定物 (とくていぶつ)"
+      },
+      {
+        "word": "Apportionment",
+        "translation": "分担 (ぶんたん)"
+      },
+      {
+        "word": "Delivery / handover",
+        "translation": "引渡し (ひきわたし)"
+      },
+      {
+        "word": "Explicitly agreed",
+        "translation": "明示的に合意した (めいじてきにごういした)"
+      }
+    ]
   }
 ]

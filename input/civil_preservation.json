@@ -12666,5 +12666,81 @@
         "translation": "保全命令 (ほぜんめいれい)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Substantive Claim Proceeding Mandate",
+    "definition": "A judicial order issued upon the motion of the obligor (preservation debtor) compelling the obligee (preservation creditor) to institute the underlying suit (action on the merits) within a specified period, following the issuance of a preservation measure.",
+    "japaneseDefinition": "保全命令が発せられた後、保全債務者の申立てに基づき、保全債権者に対し、本案の訴えを提起すべきことを命ずる裁判所の決定。",
+    "japaneseWordTranslation": "本案の訴え提起命令 (ほんあんのうったえていきめいれい)",
+    "legalContext": "Civil Preservation Act, Art. 37(1): The obligor may file a motion with the court that issued the preservation decree to issue a ruling ordering the institution of the action on the merits.",
+    "japaneseLegalContext": "民事保全法第37条第1項: 債務者は、保全命令が発せられた後、当該保全命令を発した裁判所に対し、本案の訴えを提起すべきことを命ずる決定をすることを申し立てることができる。",
+    "exampleSentence": "If the creditor fails to pursue litigation after obtaining the provisional measure, the debtor may file a motion requesting a Substantive Claim Proceeding Mandate.",
+    "exampleTranslation": "債権者が保全措置を得た後に訴訟を追行しない場合、債務者は本案の訴え提起命令を求める申立てをすることができる。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て (もうしたて)"
+      },
+      {
+        "word": "ruling",
+        "translation": "決定 (けってい)"
+      },
+      {
+        "word": "litigation",
+        "translation": "訴訟 (そしょう)"
+      },
+      {
+        "word": "provisional measure",
+        "translation": "保全措置 (ほぜんそち)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Substantive Proceedings Filing Period",
+    "definition": "The specific timeframe, generally set by the preservation court and usually not less than two weeks, within which the obligee must initiate the underlying lawsuit after being served with a Substantive Claim Proceeding Mandate.",
+    "japaneseDefinition": "保全命令を発した裁判所が、債務者の申立てに基づき、保全債権者に対して本案の訴えを提起することを命じた場合に定める、訴え提起の期限。",
+    "japaneseWordTranslation": "本案の訴え提起期間 (ほんあんのうったえていききかん)",
+    "legalContext": "Civil Preservation Act, Art. 37(2): If the court issues the ruling mentioned in the preceding paragraph, it must specify a period, usually not less than two weeks, within which the obligee must institute the action on the merits.",
+    "japaneseLegalContext": "民事保全法第37条第2項: 裁判所は、前項の規定による決定をする場合において、保全債権者に対し、二週間以上の期間を定め、その期間内に本案の訴えを提起すべきことを命じなければならない。",
+    "exampleSentence": "Failure by the obligee to comply with the Substantive Proceedings Filing Period will result in the forfeiture of the provisional right and discharge of the preservation measure.",
+    "exampleTranslation": "債権者が本案の訴え提起期間を遵守しなかった場合、暫定的な権利は失効し、保全措置は解除される。",
+    "vocabularyList": [
+      {
+        "word": "comply with",
+        "translation": "遵守する (じゅんしゅする)"
+      },
+      {
+        "word": "forfeiture",
+        "translation": "失効 (しっこう)"
+      },
+      {
+        "word": "provisional right",
+        "translation": "暫定的な権利 (ざんていてきなけんり)"
+      },
+      {
+        "word": "discharge",
+        "translation": "解除 (かいじょ)"
+      },
+      {
+        "word": "timeframe",
+        "translation": "期間 (きかん)"
+      },
+      {
+        "word": "served with",
+        "translation": "送達される (そうたつされる)"
+      }
+    ]
   }
 ]

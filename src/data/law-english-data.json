@@ -1,38 +1,42 @@
 {
-  "category": "Companies Act (会社法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Financial Statements",
-  "definition": "The formal reports mandated by the Companies Act, which include the balance sheet, income statement, statement of changes in net assets, and associated schedules, detailing a company's financial status and operating performance for a specific fiscal year.",
-  "japaneseDefinition": "会社法で義務付けられている、貸借対照表、損益計算書、株主資本等変動計算書及び付属明細書を含み、特定の事業年度の会社の財産及び損益の状況を明らかにする書類。",
-  "japaneseWordTranslation": "計算書類 (けいさんしょるい)",
-  "legalContext": "Companies Act Art. 435: Duty of Directors to Prepare Financial Statements and Related Documents.",
-  "japaneseLegalContext": "会社法第435条: 計算書類等の作成義務。",
-  "exampleSentence": "The financial statements must be prepared in accordance with generally accepted accounting principles and subjected to internal audit before public disclosure.",
-  "exampleTranslation": "計算書類は、一般に公正妥当と認められる会計原則に従って作成され、公開に先立って内部監査を受ける必要がある。",
+  "word": "Defamation (Crime of Libel)",
+  "definition": "The crime committed by publicly alleging facts that may damage the honor or social reputation of another person, irrespective of whether the facts are true or false.",
+  "japaneseDefinition": "公然と事実を摘示し、人の名誉を毀損することによって成立する犯罪。事実の真偽を問わない。",
+  "japaneseWordTranslation": "名誉毀損罪 (めいよきそんざい)",
+  "legalContext": "Criminal Code Art. 230 (Defamation): A person who defames another by publicly alleging facts shall be punished by imprisonment with or without labor for not more than three years or a fine of not more than 500,000 yen.",
+  "japaneseLegalContext": "刑法第230条（名誉毀損）：公然と事実を摘示し、人の名誉を毀損した者は、三年以下の懲役若しくは禁錮又は五十万円以下の罰金に処する。",
+  "exampleSentence": "The plaintiff initiated a criminal complaint alleging defamation after the blogger published false statements regarding the company's financial stability.",
+  "exampleTranslation": "ブロガーがその会社の財務の安定性に関して虚偽の記述を公表した後、原告は名誉毀損を訴える刑事告訴を行った。",
   "vocabularyList": [
     {
-      "word": "Balance sheet",
-      "translation": "貸借対照表 (たいしゃくたいしょうひょう)"
+      "word": "publicly",
+      "translation": "公然と"
     },
     {
-      "word": "Income statement",
-      "translation": "損益計算書 (そんえきけいさんしょ)"
+      "word": "alleging facts",
+      "translation": "事実を摘示する"
     },
     {
-      "word": "Net assets",
-      "translation": "純資産 (じゅんしさん)"
+      "word": "honor",
+      "translation": "名誉"
     },
     {
-      "word": "Fiscal year",
-      "translation": "事業年度 (じぎょうねんど)"
+      "word": "social reputation",
+      "translation": "社会的評価"
     },
     {
-      "word": "Accounting principles",
-      "translation": "会計原則 (かいけいげんそく)"
+      "word": "fine",
+      "translation": "罰金"
     },
     {
-      "word": "Internal audit",
-      "translation": "内部監査 (ないぶかんさ)"
+      "word": "criminal complaint",
+      "translation": "刑事告訴"
+    },
+    {
+      "word": "financial stability",
+      "translation": "財務の安定性"
     }
   ]
 }

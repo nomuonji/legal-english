@@ -2,48 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Defamation (Crime of Libel)",
-    "definition": "The crime committed by publicly alleging facts that may damage the honor or social reputation of another person, irrespective of whether the facts are true or false.",
-    "japaneseDefinition": "公然と事実を摘示し、人の名誉を毀損することによって成立する犯罪。事実の真偽を問わない。",
-    "japaneseWordTranslation": "名誉毀損罪 (めいよきそんざい)",
-    "legalContext": "Criminal Code Art. 230 (Defamation): A person who defames another by publicly alleging facts shall be punished by imprisonment with or without labor for not more than three years or a fine of not more than 500,000 yen.",
-    "japaneseLegalContext": "刑法第230条（名誉毀損）：公然と事実を摘示し、人の名誉を毀損した者は、三年以下の懲役若しくは禁錮又は五十万円以下の罰金に処する。",
-    "exampleSentence": "The plaintiff initiated a criminal complaint alleging defamation after the blogger published false statements regarding the company's financial stability.",
-    "exampleTranslation": "ブロガーがその会社の財務の安定性に関して虚偽の記述を公表した後、原告は名誉毀損を訴える刑事告訴を行った。",
-    "vocabularyList": [
-      {
-        "word": "publicly",
-        "translation": "公然と"
-      },
-      {
-        "word": "alleging facts",
-        "translation": "事実を摘示する"
-      },
-      {
-        "word": "honor",
-        "translation": "名誉"
-      },
-      {
-        "word": "social reputation",
-        "translation": "社会的評価"
-      },
-      {
-        "word": "fine",
-        "translation": "罰金"
-      },
-      {
-        "word": "criminal complaint",
-        "translation": "刑事告訴"
-      },
-      {
-        "word": "financial stability",
-        "translation": "財務の安定性"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Abuse of Authority",
     "definition": "The crime committed by a public official who, utilizing their official powers, illegally causes a person to perform an act that the person is not obliged to perform, or obstructs a person from exercising their rights.",
     "japaneseDefinition": "公務員がその職権を濫用し、人に義務のないことを行わせ、又は権利の行使を妨害することによって成立する犯罪。",
@@ -15354,6 +15312,124 @@
       {
         "word": "provided aid",
         "translation": "援助を提供した (えんじょをていきょうした)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Theory of Result Unworthiness",
+    "definition": "A fundamental academic doctrine in Japanese criminal law holding that the focus of unlawfulness and culpability should primarily be on the actual detrimental outcome (the infringement of a legally protected interest) rather than solely on the inherent harmfulness of the conduct itself.",
+    "japaneseDefinition": "刑法学における基本的な見解の一つで、犯罪の違法性は行為自体ではなく、行為によって生じた結果（法益侵害）の無価値性に主眼を置いて判断されるべきであるとする理論。",
+    "japaneseWordTranslation": "結果無価値論 (Kekka Mukachi Ron)",
+    "legalContext": "Penal Code General Provisions: Used in interpreting the constituent elements and the scope of justification.",
+    "japaneseLegalContext": "刑法総論：構成要件及び違法性阻却事由の解釈において用いられる理論的背景。",
+    "exampleSentence": "Under the theory of result unworthiness, if the resulting harm is negligible or absent, criminal liability may be difficult to establish even if the action itself was reckless.",
+    "exampleTranslation": "結果無価値論の下では、行為自体は無謀であったとしても、結果的な損害が軽微または存在しない場合、刑事責任の立証は困難になり得る。",
+    "vocabularyList": [
+      {
+        "word": "detrimental outcome",
+        "translation": "損害的な結果"
+      },
+      {
+        "word": "protected legal interest",
+        "translation": "法益 (Hōeki)"
+      },
+      {
+        "word": "culpability",
+        "translation": "責任 (Sekinin)"
+      },
+      {
+        "word": "inherent harmfulness",
+        "translation": "本来的な有害性"
+      },
+      {
+        "word": "justification",
+        "translation": "違法性阻却 (Ihōsei Sokyaku)"
+      },
+      {
+        "word": "reckless",
+        "translation": "無謀な"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Fictitious Concurrence",
+    "definition": "A type of concurrence where a single criminal act fulfills the statutory elements of multiple different offenses, such that the defendant is only punished for the single gravest offense, despite the factual unity of the action.",
+    "japaneseDefinition": "一行為が数個の罪名に触れる場合をいい、犯罪が観念上競合しているにとどまり、最も重い刑をもって処断されること。",
+    "japaneseWordTranslation": "観念的競合 (Kannen-teki Kyōgō)",
+    "legalContext": "Penal Code Art. 54, Paragraph 1: When a single act constitutes two or more crimes, the punishment prescribed for the gravest crime shall be imposed.",
+    "japaneseLegalContext": "刑法第54条第1項：「一の行為が二個以上の罪名に触れるときは、その最も重い刑により処断する。」",
+    "exampleSentence": "The defendant's action of driving while intoxicated and hitting a wall, damaging both public property and injuring a passenger, constituted a fictitious concurrence.",
+    "exampleTranslation": "飲酒運転で壁に衝突し、公共物損壊と乗客への傷害の両方を引き起こした被告人の行為は、観念的競合を構成した。",
+    "vocabularyList": [
+      {
+        "word": "single criminal act",
+        "translation": "一行為 (Ichi Kōi)"
+      },
+      {
+        "word": "statutory elements",
+        "translation": "構成要件 (Kōsei Yōken)"
+      },
+      {
+        "word": "gravest offense",
+        "translation": "最も重い罪 (Mottomo Omoi Tsumi)"
+      },
+      {
+        "word": "concurrent offenses",
+        "translation": "競合罪 (Kyōgō Zai)"
+      },
+      {
+        "word": "punishment prescribed",
+        "translation": "処断される刑"
+      },
+      {
+        "word": "factual unity",
+        "translation": "事実上の一体性"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Recalculation of Punishment",
+    "definition": "The judicial authority and systematic methodology for determining the final punishment imposed on an offender, taking into account rules related to attempts, concurrence, reduction due to voluntary desistance, or other statutory modifications to the basic statutory penalty range.",
+    "japaneseDefinition": "刑の量定の過程において、法定刑を基礎として、未遂犯、併合罪、酌量減軽などの規定を適用し、最終的な科すべき刑罰を裁判所が決定する行為。",
+    "japaneseWordTranslation": "刑の算定 (Kei no Santei)",
+    "legalContext": "Penal Code Art. 48: When determining the punishment, the provisions concerning concurrent offenses, attempts, and other specific circumstances shall be applied.",
+    "japaneseLegalContext": "刑法第48条：「刑を定めるには、併合罪、未遂罪その他刑の加重減軽に関する規定を適用するものとする。」",
+    "exampleSentence": "The Recalculation of Punishment under Article 47 ensured that the aggregate term of imprisonment for the two separate acts of robbery and fraud did not exceed 20 years.",
+    "exampleTranslation": "第47条に基づく刑の算定により、二つの別個の強盗罪及び詐欺罪に対する懲役の合計期間は20年を超えないように確保された。",
+    "vocabularyList": [
+      {
+        "word": "statutory penalty range",
+        "translation": "法定刑の範囲"
+      },
+      {
+        "word": "concurrence",
+        "translation": "併合 (Heigō)"
+      },
+      {
+        "word": "attempts",
+        "translation": "未遂 (Misui)"
+      },
+      {
+        "word": "voluntary desistance",
+        "translation": "中止犯 (Chūshi Han)"
+      },
+      {
+        "word": "aggregation",
+        "translation": "合算 (Gassan)"
+      },
+      {
+        "word": "robbery",
+        "translation": "強盗罪 (Gōtō Zai)"
+      },
+      {
+        "word": "fraud",
+        "translation": "詐欺罪 (Sagi Zai)"
       }
     ]
   }

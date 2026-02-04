@@ -15190,5 +15190,73 @@
         "translation": "異議 (igi)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Instrument Certifying Suspension of Execution",
+    "definition": "A formal document, typically issued by a court or administrative body, that proves the existence of a legally recognized ground (such as the provision of counter-security or the granting of a court injunction) mandating the executing authority to immediately cease or prevent the commencement of compulsory execution procedures.",
+    "japaneseDefinition": "裁判所または行政庁が発行する公的な文書で、執行を一時的に停止させるべき事由（担保の提供、異議の申立ての受諾など）の存在を執行機関に証明し、執行手続の開始または続行を停止させることを義務付けるもの。",
+    "japaneseWordTranslation": "執行停止の事実を証する文書 (Shikkō Teishi no Jijitsu o Shōsuru Bunsho)",
+    "legalContext": "Civil Execution Act Art. 39(1): Specifies the legal grounds for mandatory suspension of compulsory execution.",
+    "japaneseLegalContext": "民事執行法第39条第1項: 強制執行を停止しなければならない事由を規定する。",
+    "exampleSentence": "Upon receiving the certified copy of the judgment ordering provision of security, the clerk prepared the **Instrument Certifying Suspension of Execution** for immediate delivery to the implementing agent.",
+    "exampleTranslation": "担保提供を命じる判決の認証謄本を受領した後、書記官は、直ちに執行実施機関に送付するため、執行停止の事実を証する文書を作成した。",
+    "vocabularyList": [
+      {
+        "word": "executing authority",
+        "translation": "執行機関"
+      },
+      {
+        "word": "counter-security",
+        "translation": "反対担保"
+      },
+      {
+        "word": "certified copy",
+        "translation": "認証謄本"
+      },
+      {
+        "word": "implementing agent",
+        "translation": "執行実施機関"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制的な履行"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Necessities of Life Exemption",
+    "definition": "A statutory exclusion under execution law that protects certain items of movable property deemed essential for the person subject to enforcement and their family members to maintain a minimal, decent standard of living from being seized and realized for debt satisfaction.",
+    "japaneseDefinition": "執行法の下での法的な除外規定であり、強制履行の対象者及びその親族が最低限度の人間らしい生活を維持するために不可欠と見なされる動産（衣類、寝具、台所用品など）について、差押えと換価による債務弁済から保護するもの。",
+    "japaneseWordTranslation": "差押禁止動産 (生活必需品) (Sashiosae Kinshi Dōsan - Seikatsu Hitsujuhin)",
+    "legalContext": "Civil Execution Act Art. 131(3): Stipulates that property necessary for the minimal livelihood of the debtor and family is not subject to seizure.",
+    "japaneseLegalContext": "民事執行法第131条第3号: 債務者及びその親族の最低限の生活に必要な財産は差し押さえることができないと規定する。",
+    "exampleSentence": "The refrigerator and basic tools of trade were protected by the **Necessities of Life Exemption**, preventing the official tasked with enforcement from listing them for auction.",
+    "exampleTranslation": "冷蔵庫と基本的な職業上の道具は、生活必需品として差押えが禁止された動産として保護され、執行を任された職員がそれらを競売のために目録化することを妨げた。",
+    "vocabularyList": [
+      {
+        "word": "statutory exclusion",
+        "translation": "法定除外"
+      },
+      {
+        "word": "person subject to enforcement",
+        "translation": "強制履行の対象者"
+      },
+      {
+        "word": "minimal living standard",
+        "translation": "最低生活水準"
+      },
+      {
+        "word": "tools of trade",
+        "translation": "職業上の道具"
+      },
+      {
+        "word": "listing for auction",
+        "translation": "競売のための目録化"
+      }
+    ]
   }
 ]

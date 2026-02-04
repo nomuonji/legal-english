@@ -2,44 +2,6 @@
   {
     "category": "Companies Act (会社法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Financial Statements",
-    "definition": "The formal reports mandated by the Companies Act, which include the balance sheet, income statement, statement of changes in net assets, and associated schedules, detailing a company's financial status and operating performance for a specific fiscal year.",
-    "japaneseDefinition": "会社法で義務付けられている、貸借対照表、損益計算書、株主資本等変動計算書及び付属明細書を含み、特定の事業年度の会社の財産及び損益の状況を明らかにする書類。",
-    "japaneseWordTranslation": "計算書類 (けいさんしょるい)",
-    "legalContext": "Companies Act Art. 435: Duty of Directors to Prepare Financial Statements and Related Documents.",
-    "japaneseLegalContext": "会社法第435条: 計算書類等の作成義務。",
-    "exampleSentence": "The financial statements must be prepared in accordance with generally accepted accounting principles and subjected to internal audit before public disclosure.",
-    "exampleTranslation": "計算書類は、一般に公正妥当と認められる会計原則に従って作成され、公開に先立って内部監査を受ける必要がある。",
-    "vocabularyList": [
-      {
-        "word": "Balance sheet",
-        "translation": "貸借対照表 (たいしゃくたいしょうひょう)"
-      },
-      {
-        "word": "Income statement",
-        "translation": "損益計算書 (そんえきけいさんしょ)"
-      },
-      {
-        "word": "Net assets",
-        "translation": "純資産 (じゅんしさん)"
-      },
-      {
-        "word": "Fiscal year",
-        "translation": "事業年度 (じぎょうねんど)"
-      },
-      {
-        "word": "Accounting principles",
-        "translation": "会計原則 (かいけいげんそく)"
-      },
-      {
-        "word": "Internal audit",
-        "translation": "内部監査 (ないぶかんさ)"
-      }
-    ]
-  },
-  {
-    "category": "Companies Act (会社法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Stock Consolidation",
     "definition": "The process by which a company reduces the total number of its outstanding shares by combining several existing shares into a smaller number of new shares, typically requiring a special resolution of the shareholders.",
     "japaneseDefinition": "会社がその発行済株式の総数を減らすために、複数の既存の株式を合わせてより少数の新しい株式とする手続き。",
@@ -13892,6 +13854,40 @@
       {
         "word": "equitable distribution",
         "translation": "衡平な分配 (Kōhei na Bunpai)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Disposition Suspending the Execution of Duties (of a director)",
+    "definition": "A provisional judicial order used to temporarily suspend a director or officer from performing their official duties, typically sought by a shareholder in cases where the officer is suspected of acting against the company's interest and immediate judicial intervention is necessary to prevent irreparable harm.",
+    "japaneseDefinition": "取締役等の役員について、任務懈怠や違法行為が疑われる場合、会社に回復不能な損害が生じるのを防ぐため、仮の措置として裁判所が職務の執行を停止する命令。",
+    "japaneseWordTranslation": "職務執行停止の仮処分 (しょくむしっこうていしのかりしょぶん)",
+    "legalContext": "Companies Act, Article 346 (Provisional Appointment of Director, etc.) references the necessity of such provisional dispositions under the Civil Preservation Act when a director's position is vacant or suspended.",
+    "japaneseLegalContext": "会社法第346条（役員等の選任に関する規定の適用除外等）及び民事保全法",
+    "exampleSentence": "Following the discovery of massive accounting fraud, the shareholders successfully petitioned for a **Provisional Disposition Suspending the Execution of Duties** against the CEO.",
+    "exampleTranslation": "大規模な会計不正の発覚を受け、株主たちはCEOに対し職務執行停止の仮処分を申し立てることに成功した。",
+    "vocabularyList": [
+      {
+        "word": "provisional judicial order",
+        "translation": "仮の裁判所の命令 (kari no saibansho no meirei)"
+      },
+      {
+        "word": "irreparable harm",
+        "translation": "回復不能な損害 (kaifuku funō na songai)"
+      },
+      {
+        "word": "duty of care (breach)",
+        "translation": "任務懈怠 (ninmu keta)"
+      },
+      {
+        "word": "petitioned for",
+        "translation": "申し立てた (mōshitateta)"
+      },
+      {
+        "word": "conflict of interest",
+        "translation": "利益相反 (rieki sōhan)"
       }
     ]
   }

@@ -2,44 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Special Appeal",
-    "definition": "An extraordinary appeal procedure, available only against judicial decisions (rulings or orders, but not judgments) of high courts or district courts, where the grounds allege a constitutional violation or a major error in the interpretation of law affecting the proceedings.",
-    "japaneseDefinition": "高等裁判所または地方裁判所の決定・命令に対する不服申し立てのうち、憲法違反や法令解釈の誤りが訴訟手続に影響を与えた場合に限り、最高裁判所に認められる特別な上訴手段。",
-    "japaneseWordTranslation": "特別抗告 (とくべつこうこく)",
-    "legalContext": "Code of Civil Procedure Art. 328: An appeal may be lodged with the Supreme Court against a ruling or an order made by a High Court, only on the ground of a violation of the Constitution.",
-    "japaneseLegalContext": "民事訴訟法第328条: 高等裁判所がした決定又は命令に対しては、憲法違反を理由とするときに限り、最高裁判所に特別抗告をすることができる。",
-    "exampleSentence": "Since the High Court's order regarding evidence collection was alleged to violate the due process clause, the party filed a **special appeal**.",
-    "exampleTranslation": "証拠収集に関する高等裁判所の命令が適正手続条項に違反すると主張されたため、当事者は特別抗告を行った。",
-    "vocabularyList": [
-      {
-        "word": "extraordinary appeal procedure",
-        "translation": "非常上訴手続"
-      },
-      {
-        "word": "judicial decision",
-        "translation": "裁判（決定または命令）"
-      },
-      {
-        "word": "ruling / order",
-        "translation": "決定／命令"
-      },
-      {
-        "word": "constitutional violation",
-        "translation": "憲法違反"
-      },
-      {
-        "word": "High Court",
-        "translation": "高等裁判所"
-      },
-      {
-        "word": "due process clause",
-        "translation": "適正手続条項"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Conclusion of Oral Arguments",
     "definition": "The formal declaration by the court that the phase of submitting arguments and conducting evidence examination has ended, subsequent to which the court proceeds to deliberate and render judgment.",
     "japaneseDefinition": "裁判所が、当事者による主張の提出や証拠調べの手続きを終了させ、判決の言渡しのために審理を締めくくること。",
@@ -17070,6 +17032,124 @@
       {
         "word": "statutory conditions",
         "translation": "法定の要件 (ほうていのようけん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Document Holder's Duty of Submission",
+    "definition": "The obligation imposed on a non-party or a party possessing a document required as evidence in litigation to submit it to the court, subject to certain statutory exceptions.",
+    "japaneseDefinition": "証拠として必要な文書を所持する者が、一定の例外を除き、裁判所の命令に基づいてこれを提出しなければならない義務。",
+    "japaneseWordTranslation": "文書所持者の提出義務 (bunsho shojisha no teishutsu gimu)",
+    "legalContext": "Code of Civil Procedure Art. 220: Any person in possession of a document may not refuse to produce it except in cases prescribed by law.",
+    "japaneseLegalContext": "民事訴訟法第220条: 文書を所持する者は、法令に別段の定めがある場合を除き、その提出を拒むことができない。",
+    "exampleSentence": "The court issued an order mandating the non-party Document Holder's Duty of Submission concerning the disputed contract records.",
+    "exampleTranslation": "裁判所は、係争中の契約記録に関する、非当事者である文書所持者の提出義務を命じる決定を出した。",
+    "vocabularyList": [
+      {
+        "word": "non-party",
+        "translation": "非当事者 (hitōjisha)"
+      },
+      {
+        "word": "possess",
+        "translation": "所持する (shojisuru)"
+      },
+      {
+        "word": "document",
+        "translation": "文書 (bunsho)"
+      },
+      {
+        "word": "evidence",
+        "translation": "証拠 (shōko)"
+      },
+      {
+        "word": "statutory exception",
+        "translation": "法定の例外 (hōtei no reigai)"
+      },
+      {
+        "word": "disputed contract",
+        "translation": "係争中の契約 (keisōchū no keiyaku)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Discretionary Rejection of Suit",
+    "definition": "The court's authority to dismiss a case, even if formal requirements for a lawsuit are met, when the pursuit of the claim in court is deemed inappropriate or unnecessary given the specific circumstances (e.g., in small claims procedures).",
+    "japaneseDefinition": "訴訟要件を満たしている場合であっても、訴えの提起がその訴訟手続において不適当であると判断されるときに、裁判所が裁量によってその訴えを却下する権限。",
+    "japaneseWordTranslation": "裁量棄却 (sairyō kikyaku)",
+    "legalContext": "Code of Civil Procedure Art. 135: Regarding small claims litigation, the court may dismiss the suit at its discretion if it finds that the suit is inappropriate.",
+    "japaneseLegalContext": "民事訴訟法第135条: 裁判所は、少額訴訟の訴えが不適当であると認めるときは、裁量により、訴えを却下することができる。",
+    "exampleSentence": "Due to the availability of an adequate non-judicial remedy, the court exercised its right of Discretionary Rejection of Suit under the small claims rules.",
+    "exampleTranslation": "適切な非司法的救済手段が存在したため、裁判所は少額訴訟の規定に基づき裁量棄却の権利を行使した。",
+    "vocabularyList": [
+      {
+        "word": "small claims litigation",
+        "translation": "少額訴訟 (shōgaku soshō)"
+      },
+      {
+        "word": "inappropriate",
+        "translation": "不適当 (futekitō)"
+      },
+      {
+        "word": "non-judicial remedy",
+        "translation": "非司法的救済手段 (hishihōteki kyūsaishudan)"
+      },
+      {
+        "word": "requirements for a lawsuit",
+        "translation": "訴訟要件 (soshō yōken)"
+      },
+      {
+        "word": "appropriate",
+        "translation": "適切 (tekisetsu)"
+      },
+      {
+        "word": "exercise of right",
+        "translation": "権利の行使 (kenri no kōshi)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Motion for Continuation of Proceedings",
+    "definition": "A formal application made by a party to the court to resume or move forward with litigation procedures following an event (such as the death of a party) that caused the proceedings to be interrupted or suspended.",
+    "japaneseDefinition": "訴訟手続が中断または中止された後、当事者が訴訟手続を再開し、続行させるために裁判所に対して行う正式な申立て。",
+    "japaneseWordTranslation": "続行の申立て (zokukō no mōshitate)",
+    "legalContext": "Code of Civil Procedure Art. 124: When a party who has succeeded to the interrupted proceedings makes a Motion for Continuation of Proceedings, the court shall issue a decision to continue the proceedings.",
+    "japaneseLegalContext": "民事訴訟法第124条: 中断した訴訟手続を受け継いだ当事者から続行の申立てがあったときは、裁判所は、続行の決定をしなければならない。",
+    "exampleSentence": "Following the death of the plaintiff, the successor filed a Motion for Continuation of Proceedings, allowing the trial to resume after a brief interruption.",
+    "exampleTranslation": "原告の死亡後、承継人は続行の申立てを行い、短い中断の後で裁判の再開を可能にした。",
+    "vocabularyList": [
+      {
+        "word": "interrupted proceedings",
+        "translation": "中断した訴訟手続 (chūdan shita soshō tetsuzuki)"
+      },
+      {
+        "word": "successor",
+        "translation": "承継人 (shōkeinin)"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告 (genkoku)"
+      },
+      {
+        "word": "suspension",
+        "translation": "中止 (chūshi)"
+      },
+      {
+        "word": "formal application",
+        "translation": "正式な申立て (seishiki na mōshitate)"
+      },
+      {
+        "word": "resume the trial",
+        "translation": "裁判を再開する (saiban o saikai suru)"
+      },
+      {
+        "word": "decision to continue",
+        "translation": "続行の決定 (zokukō no kettei)"
       }
     ]
   }

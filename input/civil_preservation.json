@@ -12742,5 +12742,81 @@
         "translation": "送達される (そうたつされる)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandate for Preservation Enforcement",
+    "definition": "The official instruction issued by the preservation court (the court that issued the preservation order) to the execution court or execution officer, requesting them to carry out the physical implementation of the preservation measure.",
+    "japaneseDefinition": "保全命令を発した保全裁判所が、保全執行裁判所または執行官に対し、保全命令の内容を具体的に実施するよう依頼する公的な行政・司法上の指示。",
+    "japaneseWordTranslation": "執行の嘱託 (しっこうのしょくたく)",
+    "legalContext": "Civil Preservation Act Art. 32: Preservation measures are executed based on the Preservation Order, and where necessary, the Preservation Court shall issue a mandate for enforcement to the relevant execution organ.",
+    "japaneseLegalContext": "民事保全法第32条: 保全執行は保全命令に基づいて行い、保全裁判所が必要な場合には、執行機関に対し執行の嘱託を行う。",
+    "exampleSentence": "Following the issuance of the provisional disposition, the Preservation Court issued a mandate for preservation enforcement to the local execution officer.",
+    "exampleTranslation": "仮処分命令の発令後、保全裁判所は、管轄の執行官に対し、執行の嘱託を行った。",
+    "vocabularyList": [
+      {
+        "word": "execution officer",
+        "translation": "執行官 (しっこうかん)"
+      },
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分 (かりしょぶん)"
+      },
+      {
+        "word": "preservation order",
+        "translation": "保全命令 (ほぜんめいれい)"
+      },
+      {
+        "word": "issuance",
+        "translation": "発令 (はつれい)"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所 (しっこうさいばんしょ)"
+      },
+      {
+        "word": "execution organ",
+        "translation": "執行機関 (しっこうきかん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Injunction to Secure Temporary Status",
+    "definition": "A type of provisional disposition order designed to establish, maintain, or change the temporary legal or factual status of the parties concerning the dispute, often mandating temporary performance or suspension of an action to prevent irreversible harm.",
+    "japaneseDefinition": "係争中の権利関係について、債権者の権利実現を容易にするために、暫定的な地位を定めたり、仮の給付を命じたりする目的で行われる仮処分。例えば、役員職務代行者の選任など。",
+    "japaneseWordTranslation": "仮の地位を定める仮処分 (かりのちいをさだめるかりしょぶん)",
+    "legalContext": "Civil Preservation Act Art. 23(2): Provisional dispositions may be issued to establish a temporary status concerning the object of the dispute, if required to avoid substantial harm or imminent danger.",
+    "japaneseLegalContext": "民事保全法第23条第2項: 争いがある権利関係について債権者に生ずる著しい損害又は急迫の危険を避けるため必要があるときは、仮の地位を定める仮処分を命ずる。",
+    "exampleSentence": "The shareholder filed a petition seeking a provisional injunction to secure temporary status, mandating the suspension of the director's performance of duties.",
+    "exampleTranslation": "株主は、取締役の職務執行を停止させることを命ずる、仮の地位を定める仮処分の申立てを提出した。",
+    "vocabularyList": [
+      {
+        "word": "provisional disposition order",
+        "translation": "仮処分命令 (かりしょぶんめいれい)"
+      },
+      {
+        "word": "irreversible harm",
+        "translation": "著しい損害 (いちじるしいそんがい)"
+      },
+      {
+        "word": "petition",
+        "translation": "申立て (もうしたて)"
+      },
+      {
+        "word": "mandating performance",
+        "translation": "給付を命ずる (きゅうふをめいずる)"
+      },
+      {
+        "word": "suspension of duties",
+        "translation": "職務執行停止 (しょくむしっこうていし)"
+      },
+      {
+        "word": "director",
+        "translation": "取締役 (とりしまりやく)"
+      }
+    ]
   }
 ]

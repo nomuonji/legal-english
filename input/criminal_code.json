@@ -15534,5 +15534,107 @@
         "translation": "機密性の高い記録 (きみつせいのたかいきろく)"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Conformity to Statutory Elements",
+    "definition": "The requirement that the subjective mental element (intent or negligence) must align precisely with the objective elements (actus reus) defined in the criminal statute.",
+    "japaneseDefinition": "犯罪の主観的構成要素（故意・過失）が、客観的構成要素と一致している必要があること。特に、構成要件の錯誤の論点に関連する。",
+    "japaneseWordTranslation": "構成要件の符合 (Kōsei yōken no fugō)",
+    "legalContext": "Penal Code General Principles: Determines whether the perpetrator’s state of mind corresponds to the realized prohibited conduct.",
+    "japaneseLegalContext": "刑法総論（総則）：行為者の心裡状態が、実現された犯罪的行為に対応しているかを判断する基準。",
+    "exampleSentence": "The principle of **conformity to statutory elements** is crucial when determining criminal liability in cases involving mistake or deviation of the intended result (aberratio ictus).",
+    "exampleTranslation": "結果の錯誤（打撃の錯誤）が関わる事件において、刑事責任を判断する際には、構成要件の符合の原則が決定的に重要となる。",
+    "vocabularyList": [
+      {
+        "word": "objective elements",
+        "translation": "客観的構成要素 (objective constituent elements)"
+      },
+      {
+        "word": "subjective mental element",
+        "translation": "主観的構成要素 (subjective constituent elements)"
+      },
+      {
+        "word": "deviation of the intended result",
+        "translation": "結果の錯誤 (error of result)"
+      },
+      {
+        "word": "aberratio ictus",
+        "translation": "打撃の錯誤 (error in the blow)"
+      },
+      {
+        "word": "criminal liability",
+        "translation": "刑事責任 (criminal responsibility)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Penalty Reduction",
+    "definition": "A mandatory decrease of the minimum and maximum terms of the punishment prescribed by law, necessitated by the presence of specific mitigating circumstances defined in the Penal Code (e.g., specific types of inchoate crimes or complicity).",
+    "japaneseDefinition": "法律に定められた減軽事由が存在する場合に、法定刑の範囲を強制的に縮小すること。特に必要的減軽の場面で使われる。",
+    "japaneseWordTranslation": "刑の減軽 (Kei no genkei)",
+    "legalContext": "Penal Code Art. 68 (Reduction of Punishment for Concurrence of Crimes): When two or more offenses are subject to concurrent punishment, the punishment shall be reduced.",
+    "japaneseLegalContext": "刑法第68条（併合罪の減軽）：2個以上の罪について懲役又は禁錮に処するときは、その最も重い刑を減軽する。",
+    "exampleSentence": "The defense successfully argued that the circumstances warranted a **statutory penalty reduction**, resulting in the defendant’s maximum sentence being halved.",
+    "exampleTranslation": "弁護側は状況が刑の減軽を正当化すると主張し、結果として被告人の最長刑期は半減された。",
+    "vocabularyList": [
+      {
+        "word": "mandatory decrease",
+        "translation": "必要的縮小 (necessary reduction)"
+      },
+      {
+        "word": "statutory punishment",
+        "translation": "法定の刑 (statutorily prescribed punishment)"
+      },
+      {
+        "word": "concurrence of crimes",
+        "translation": "併合罪 (concurrent crimes)"
+      },
+      {
+        "word": "mitigating circumstances",
+        "translation": "減軽事由 (grounds for reduction)"
+      },
+      {
+        "word": "maximum sentence",
+        "translation": "最長刑期 (maximum term of punishment)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Justification by Lawful Conduct",
+    "definition": "The exclusion of illegality for an act that, while meeting the statutory elements of a crime, is performed in the lawful execution of duties or based on laws and regulations (e.g., professional, social, or official duties).",
+    "japaneseDefinition": "法令による行為、又は正当な業務による行為として、犯罪の構成要件に該当する行為が刑法上の違法性を欠くこと。",
+    "japaneseWordTranslation": "正当行為 (Seito kōi)",
+    "legalContext": "Penal Code Art. 35 (Lawful Conduct): An act performed pursuant to laws and regulations or in the course of lawful business is not punished.",
+    "japaneseLegalContext": "刑法第35条（正当行為）：法令又は正当な業務による行為は、罰しない。",
+    "exampleSentence": "The prosecutor failed to overcome the defendant's defense of **justification by lawful conduct**, citing the necessity and proportionality of the force used by the police officer during the arrest.",
+    "exampleTranslation": "検察官は、逮捕時の警察官による力の使用の必要性と均衡性を挙げ、被告人の正当行為による違法性阻却の抗弁を覆すことができなかった。",
+    "vocabularyList": [
+      {
+        "word": "exclusion of illegality",
+        "translation": "違法性阻却 (exclusion of unlawfulness)"
+      },
+      {
+        "word": "lawful execution of duties",
+        "translation": "職務の適法な遂行 (lawful performance of duties)"
+      },
+      {
+        "word": "statutory elements of a crime",
+        "translation": "犯罪の構成要件 (constituent elements of a crime)"
+      },
+      {
+        "word": "proportionality of the force",
+        "translation": "行使した力の均衡性 (proportionality of the force used)"
+      },
+      {
+        "word": "police officer",
+        "translation": "警察官 (police official)"
+      }
+    ]
   }
 ]

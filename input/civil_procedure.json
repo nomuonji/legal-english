@@ -17152,5 +17152,107 @@
         "translation": "続行の決定 (zokukō no kettei)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Auxiliary Fact",
+    "definition": "A secondary factual allegation used not to constitute the elements of a legal claim directly, but to establish the existence, non-existence, or credibility of a primary, essential fact (material fact) or to evaluate the probative value of other evidence.",
+    "japaneseDefinition": "主要な事実（請求の法律要件を構成する事実）の存否や証拠の信用性を間接的に判断するための事実。",
+    "japaneseWordTranslation": "補助事実 (ほじょじじつ)",
+    "legalContext": "CCP General Principles: Auxiliary facts support the inference of material facts and are subject to the parties' assertion and pleading obligation.",
+    "japaneseLegalContext": "民事訴訟法の一般原則：補助事実は、主要事実の推認を助ける事実として、弁論主義（当事者の主張責任）の対象となる。",
+    "exampleSentence": "The court admitted the testimony regarding the defendant's known habit of speeding as an auxiliary fact to support the inference of negligence on the day of the accident.",
+    "exampleTranslation": "裁判所は、事故当日の過失を推認するための補助事実として、被告の常習的な速度超過に関する証言を認めた。",
+    "vocabularyList": [
+      {
+        "word": "Factual element",
+        "translation": "事実要素 (じじつようそ)"
+      },
+      {
+        "word": "Inference",
+        "translation": "推認 (すいにん)"
+      },
+      {
+        "word": "Credibility",
+        "translation": "信用性 (しんようせい)"
+      },
+      {
+        "word": "Pleading obligation",
+        "translation": "主張責任 (しゅちょうせきにん)"
+      },
+      {
+        "word": "Primary fact",
+        "translation": "主要事実 (しゅようじじつ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Probative Value",
+    "definition": "The judicial quality or degree of persuasive weight that a piece of evidence possesses when determining the veracity of an alleged fact in litigation, assessed freely by the judge(s).",
+    "japaneseDefinition": "ある証拠が、証明すべき事実の認定に対してどれだけの説得力や影響力を持つかという度合い。裁判官の自由な心証によって評価される。",
+    "japaneseWordTranslation": "証拠力 (しょうこりょく)",
+    "legalContext": "CCP Art. 247 (Principle of Free Conviction): The court shall determine whether the facts alleged are true or false based on the probative value of the evidence.",
+    "japaneseLegalContext": "民事訴訟法第247条（自由心証主義）：裁判所は、証拠の証拠力に基づき、事実の真偽を判断する。",
+    "exampleSentence": "The signed and sealed contract document possesses high probative value, whereas the secondary oral account from a biased witness has low probative value.",
+    "exampleTranslation": "署名捺印された契約書は高い証拠力を持つが、偏見のある証人による二次的な口頭証言は証拠力が低い。",
+    "vocabularyList": [
+      {
+        "word": "Persuasive weight",
+        "translation": "説得力 (せっとくりょく)"
+      },
+      {
+        "word": "Veracity",
+        "translation": "真偽 (しんぎ)"
+      },
+      {
+        "word": "Judicial conviction",
+        "translation": "心証 (しんしょう)"
+      },
+      {
+        "word": "Factual matter",
+        "translation": "事実事項 (じじつじこう)"
+      },
+      {
+        "word": "Assessment",
+        "translation": "評価 (ひょうか)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Privilege Against Testimony",
+    "definition": "The right granted to a summoned witness to legally refuse to give oral or written statements concerning certain confidential or sensitive matters, specifically defined by statute to protect professional secrets or fundamental rights.",
+    "japaneseDefinition": "証人として尋問を受ける者が、職務上の秘密や自己または近親者に対する刑事上の不利益など、法令に定められた特定の事由に基づき、証言を拒否できる権利。",
+    "japaneseWordTranslation": "証言拒絶権 (しょうげんきょぜつけん)",
+    "legalContext": "CCP Art. 196: A person who is or was engaged in certain professions (such as doctors or attorneys) may refuse to testify concerning facts learned in the course of their duties that should be kept secret.",
+    "japaneseLegalContext": "民事訴訟法第196条：医師、弁護士等の職にある者またはあった者は、その職務上知り得た秘密に関して証言を拒むことができる。",
+    "exampleSentence": "The attorney asserted his client's privilege against testimony regarding confidential communications that were irrelevant to the facts disputed in the civil suit.",
+    "exampleTranslation": "その弁護士は、民事訴訟で争われている事実に関係のない秘密の通信について、依頼人の証言拒絶権を主張した。",
+    "vocabularyList": [
+      {
+        "word": "Summons",
+        "translation": "呼出 (よびだし)"
+      },
+      {
+        "word": "Refusal right",
+        "translation": "拒絶権 (きょぜつけん)"
+      },
+      {
+        "word": "Self-incrimination",
+        "translation": "自己負罪 (じこふざい)"
+      },
+      {
+        "word": "Confidential",
+        "translation": "秘密 (ひみつ)"
+      },
+      {
+        "word": "Statute",
+        "translation": "法令 (ほうれい)"
+      }
+    ]
   }
 ]

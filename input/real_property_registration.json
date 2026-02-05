@@ -13051,5 +13051,119 @@
         "translation": "却下される"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Kō-ku (Proprietary Record Section A)",
+    "definition": "The segment of the proprietary rights record in the real property register dedicated to documenting ownership rights and any registrations that preserve the acquisition or priority of ownership.",
+    "japaneseDefinition": "不動産登記記録の権利部において、所有権及び所有権に関する処分の制限の登記を記録する部分。",
+    "japaneseWordTranslation": "権利部（甲区） (けんりぶ（こうく）)",
+    "legalContext": "Real Property Registration Act, Article 3: \"A registration record shall be organized for each real property, and shall consist of the Description Section and the Proprietary Rights Record.\"",
+    "japaneseLegalContext": "不動産登記法第3条: 「登記記録は、一の不動産につき作成し、表題部及び権利部に区分する。」",
+    "exampleSentence": "The applicant must verify the current titleholder listed in the Kō-ku before proceeding with the transfer of the property.",
+    "exampleTranslation": "申請者は、当該財産の移転手続きを進める前に、甲区に記載されている現在の名義人を確認しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "proprietary rights record",
+        "translation": "権利部 (けんりぶ)"
+      },
+      {
+        "word": "real property register",
+        "translation": "不動産登記簿 (ふどうさんとーきぼ)"
+      },
+      {
+        "word": "ownership rights",
+        "translation": "所有権 (しょゆうけん)"
+      },
+      {
+        "word": "titleholder",
+        "translation": "名義人 (めいぎにん)"
+      },
+      {
+        "word": "transfer of property",
+        "translation": "財産の移転 (ざいさんのいてん)"
+      },
+      {
+        "word": "preservation of ownership",
+        "translation": "所有権の保存 (しょゆうけんのほぞん)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Real Property Description",
+    "definition": "The required factual particulars (location, area, category, structure, etc.) of land or buildings recorded in the Description Section (表題部) of the real property register.",
+    "japaneseDefinition": "不動産登記記録の表題部に記録される、土地または建物の所在、地積（面積）、種類、構造などの物理的な状況に関する情報。",
+    "japaneseWordTranslation": "不動産の表示 (ふどうさんのひょうじ)",
+    "legalContext": "Real Property Registration Act, Article 27: \"A description registration of land shall state the following particulars: 1. Land number; 2. Location; 3. Category; 4. Area (measurement).\"",
+    "japaneseLegalContext": "不動産登記法第27条: 「土地に関する表示の登記は、次に掲げる事項を登記しなければならない。一 地番、二 所在、三 地目、四 地積。」",
+    "exampleSentence": "Any alteration to the physical Real Property Description, such as correcting the area measurement, requires an application by the property owner within one month.",
+    "exampleTranslation": "面積の測量訂正のような、物理的な不動産の表示の変更は、所有者による一か月以内の申請が必要である。",
+    "vocabularyList": [
+      {
+        "word": "factual particulars",
+        "translation": "物理的事項 (ぶつりてきじこう)"
+      },
+      {
+        "word": "Description Section",
+        "translation": "表題部 (ひょうだいぶ)"
+      },
+      {
+        "word": "land number",
+        "translation": "地番 (ちばん)"
+      },
+      {
+        "word": "category",
+        "translation": "地目 (ちもく)"
+      },
+      {
+        "word": "area measurement",
+        "translation": "地積 (ちせき)"
+      },
+      {
+        "word": "alteration",
+        "translation": "変更 (へんこう)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Otsu-ku (Security Rights Record Section B)",
+    "definition": "The segment of the proprietary rights record in the real property register used to document security interests, usufructs, and other specific claims that restrict or encumber the ownership right.",
+    "japaneseDefinition": "不動産登記記録の権利部において、所有権以外の権利（担保物権、用益権等）及びこれらの権利に関する処分の制限の登記を記録する部分。",
+    "japaneseWordTranslation": "権利部（乙区） (けんりぶ（おつく）)",
+    "legalContext": "Real Property Registration Act, Article 59, Paragraph 1: \"A registration of a right other than ownership shall state the purpose of the registration and the name of the right holder.\"",
+    "japaneseLegalContext": "不動産登記法第59条第1項: 「所有権以外の権利の登記は、登記の目的並びに権利者の氏名又は名称及び住所を登記しなければならない。」",
+    "exampleSentence": "The secured party confirmed the ranking of its claim by reviewing the entries recorded in the Otsu-ku of the registry.",
+    "exampleTranslation": "担保権者は、登記簿の乙区に記録されている記載事項を確認することにより、その債権の順位を確認した。",
+    "vocabularyList": [
+      {
+        "word": "security interests",
+        "translation": "担保権 (たんぽけん)"
+      },
+      {
+        "word": "usufructs",
+        "translation": "用益権 (ようえきけん)"
+      },
+      {
+        "word": "secured party",
+        "translation": "担保権者 (たんぽけんしゃ)"
+      },
+      {
+        "word": "ranking of claim",
+        "translation": "債権の順位 (さいけんのじゅんい)"
+      },
+      {
+        "word": "encumber",
+        "translation": "負担をかける (ふたんをかける)"
+      },
+      {
+        "word": "restriction on disposition",
+        "translation": "処分の制限 (しょぶんのせいげん)"
+      }
+    ]
   }
 ]

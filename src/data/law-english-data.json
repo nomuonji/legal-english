@@ -1,38 +1,42 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Special Appeal",
-  "definition": "An extraordinary appeal procedure, available only against judicial decisions (rulings or orders, but not judgments) of high courts or district courts, where the grounds allege a constitutional violation or a major error in the interpretation of law affecting the proceedings.",
-  "japaneseDefinition": "高等裁判所または地方裁判所の決定・命令に対する不服申し立てのうち、憲法違反や法令解釈の誤りが訴訟手続に影響を与えた場合に限り、最高裁判所に認められる特別な上訴手段。",
-  "japaneseWordTranslation": "特別抗告 (とくべつこうこく)",
-  "legalContext": "Code of Civil Procedure Art. 328: An appeal may be lodged with the Supreme Court against a ruling or an order made by a High Court, only on the ground of a violation of the Constitution.",
-  "japaneseLegalContext": "民事訴訟法第328条: 高等裁判所がした決定又は命令に対しては、憲法違反を理由とするときに限り、最高裁判所に特別抗告をすることができる。",
-  "exampleSentence": "Since the High Court's order regarding evidence collection was alleged to violate the due process clause, the party filed a **special appeal**.",
-  "exampleTranslation": "証拠収集に関する高等裁判所の命令が適正手続条項に違反すると主張されたため、当事者は特別抗告を行った。",
+  "word": "Subrogation by Performance",
+  "definition": "A statutory principle whereby a third party who legally performs an obligation (i.e., pays off a debt) on behalf of the original obligor acquires the rights, security interests, and guarantees that the obligee held against the obligor.",
+  "japaneseDefinition": "第三者が債務者に代わって弁済を行った場合に、その弁済者が債権者の有していた権利（担保権や保証など）を自己のために取得する法定の制度。",
+  "japaneseWordTranslation": "弁済による代位 (べんさいによるだいい)",
+  "legalContext": "Civil Code Art. 500 (Effect of Subrogation): 'A person who has subrogated by performance shall exercise his/her rights based on the original obligee's claim and the security interests attached thereto.'",
+  "japaneseLegalContext": "民法第500条（代位の効力）：『弁済をするについて正当な利益を有する者が弁済をしたときは、債権者に代位する。』",
+  "exampleSentence": "As the guarantor made full repayment of the loan, he acquired the security interest held by the bank through subrogation by performance.",
+  "exampleTranslation": "保証人がローンの全額を返済したため、彼は弁済による代位によって銀行が有していた担保権を取得した。",
   "vocabularyList": [
     {
-      "word": "extraordinary appeal procedure",
-      "translation": "非常上訴手続"
+      "word": "obligor",
+      "translation": "債務者"
     },
     {
-      "word": "judicial decision",
-      "translation": "裁判（決定または命令）"
+      "word": "obligee",
+      "translation": "債権者"
     },
     {
-      "word": "ruling / order",
-      "translation": "決定／命令"
+      "word": "third party",
+      "translation": "第三者"
     },
     {
-      "word": "constitutional violation",
-      "translation": "憲法違反"
+      "word": "security interest",
+      "translation": "担保権"
     },
     {
-      "word": "High Court",
-      "translation": "高等裁判所"
+      "word": "guarantor",
+      "translation": "保証人"
     },
     {
-      "word": "due process clause",
-      "translation": "適正手続条項"
+      "word": "full repayment",
+      "translation": "全額の返済"
+    },
+    {
+      "word": "acquire the rights",
+      "translation": "権利を取得する"
     }
   ]
 }

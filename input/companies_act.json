@@ -14106,5 +14106,119 @@
         "translation": "株主の同意 (かぶぬしのどうい)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Allotment of Shares to Existing Shareholders",
+    "definition": "The procedure where a stock corporation issues new shares, granting the right to subscribe for those shares exclusively to its current stockholders, usually in proportion to their existing holdings.",
+    "japaneseDefinition": "株式会社が新株を発行する際に、その新株の引受権を既存の株主に対して、その持株数に応じて与える方法。",
+    "japaneseWordTranslation": "株主割当 (かぶぬしわりあて)",
+    "legalContext": "Companies Act Art. 202: Requirements for offering subscription rights to persons other than stockholders, implicitly contrasting with the special procedure for existing stockholders.",
+    "japaneseLegalContext": "会社法第202条: 株主以外の者に対する募集事項の決定に関する規定（株主割当との対比において）。",
+    "exampleSentence": "The board approved the resolution for the allotment of shares to existing shareholders to raise supplementary capital for the new project.",
+    "exampleTranslation": "取締役会は、新規事業のための補足的資金を調達するため、既存株主への株式割当の決議を承認した。",
+    "vocabularyList": [
+      {
+        "word": "stock corporation",
+        "translation": "株式会社"
+      },
+      {
+        "word": "new shares",
+        "translation": "新株"
+      },
+      {
+        "word": "subscription rights",
+        "translation": "引受権"
+      },
+      {
+        "word": "existing holdings",
+        "translation": "既存の持株"
+      },
+      {
+        "word": "supplementary capital",
+        "translation": "補足的資金"
+      },
+      {
+        "word": "raise capital",
+        "translation": "資金を調達する"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Failure to Execute Contribution",
+    "definition": "The statutory responsibility imposed on incorporators or corporate officers for failing to ensure that the full payment or delivery of non-cash assets (contribution in kind) required for the company's capital formation is properly completed.",
+    "japaneseDefinition": "会社の設立または募集株式の発行に際し、引受人による出資金の全額の払込み、または現物出資の目的物の給付が適切に完了しなかった場合に、発起人や役員等が負う責任。",
+    "japaneseWordTranslation": "出資不履行責任 (しゅっしふりこうせきにん)",
+    "legalContext": "Companies Act Art. 52 and 212: Stipulating the liability of incorporators and certain officers for deficiency in contribution execution during formation and share issuance.",
+    "japaneseLegalContext": "会社法第52条および第212条: 会社設立時および募集株式発行時における出資の履行の欠缺に対する発起人等の責任を定める。",
+    "exampleSentence": "The incorporator faced liability for failure to execute contribution after an inspector found the valuation of the contributed real estate was grossly inflated.",
+    "exampleTranslation": "検査役が拠出された不動産の評価額が著しく水増しされていることを発見した後、その発起人は出資不履行責任を問われた。",
+    "vocabularyList": [
+      {
+        "word": "incorporators",
+        "translation": "発起人"
+      },
+      {
+        "word": "corporate officers",
+        "translation": "役員等"
+      },
+      {
+        "word": "capital formation",
+        "translation": "資本の形成"
+      },
+      {
+        "word": "non-cash assets",
+        "translation": "現物出資財産"
+      },
+      {
+        "word": "deficiency",
+        "translation": "欠缺（欠乏）"
+      },
+      {
+        "word": "grossly inflated",
+        "translation": "著しく水増しされた"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Forfeiture of Subscriber Status",
+    "definition": "The legal consequence whereby a person who subscribed for shares loses their status and rights as a share subscriber (and potential stockholder) due to their failure to perform the required payment by the designated due date.",
+    "japaneseDefinition": "募集株式の引受人または設立時発行株式の引受人が、定められた期日までに払込を怠った場合に、当然に引受人としての地位及び権利を失うという法的効果。",
+    "japaneseWordTranslation": "失権の効力 (しっけんのこうりょく)",
+    "legalContext": "Companies Act Art. 208, 209: The effect and procedure concerning the forfeiture of rights of a share subscriber upon non-payment.",
+    "japaneseLegalContext": "会社法第208条、第209条: 募集株式の引受人が払込をしない場合の失権の効力および手続に関する規定。",
+    "exampleSentence": "Failure to meet the payment deadline resulted in the immediate forfeiture of subscriber status for the delinquent investors, and the shares were subsequently re-allotted.",
+    "exampleTranslation": "支払期限を遵守しなかったため、当該滞納投資家は直ちに失権の効力により引受人の地位を失い、当該株式はその後再割当てされた。",
+    "vocabularyList": [
+      {
+        "word": "subscriber",
+        "translation": "引受人"
+      },
+      {
+        "word": "legal consequence",
+        "translation": "法的効果"
+      },
+      {
+        "word": "due date",
+        "translation": "期日"
+      },
+      {
+        "word": "delinquent",
+        "translation": "滞納の"
+      },
+      {
+        "word": "re-allotted",
+        "translation": "再割当てされた"
+      },
+      {
+        "word": "non-payment",
+        "translation": "不払"
+      }
+    ]
   }
 ]

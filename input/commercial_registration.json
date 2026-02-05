@@ -13842,5 +13842,119 @@
         "translation": "申請人 (shinseinin)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-Opposability of Unrecorded Mandatory Particulars",
+    "definition": "The legal principle stipulating that facts required by law to be recorded in the commercial register, even if true, cannot be asserted against a third party acting without knowledge until they have been officially recorded.",
+    "japaneseDefinition": "商業登記法上、登記が義務付けられている事項について、登記がされるまでは、その事実を知らない第三者に対して、その事実の発生を主張することができないという原則。",
+    "japaneseWordTranslation": "未登記事項の不対抗 (Mitōki jitō no futaikō)",
+    "legalContext": "Commercial Registration Act Art. 9: 'Matters that must be recorded shall not be effective against a third party acting without knowledge until they are recorded.'",
+    "japaneseLegalContext": "商業登記法第9条: 「登記すべき事項は、登記の後でなければ、これをもって善意の第三者に対抗することができない。」",
+    "exampleSentence": "Because the amendment to the articles of incorporation regarding the representative's authority was an unrecorded mandatory particular, the corporation failed to rely on that change to defeat the contract claim brought by the unaware third party.",
+    "exampleTranslation": "定款の代表権に関する改正は未登記の義務的な事項であったため、会社は当該変更を、それを知らぬ第三者が提起した契約請求に対抗するために援用することができなかった。",
+    "vocabularyList": [
+      {
+        "word": "amendment",
+        "translation": "改正"
+      },
+      {
+        "word": "articles of incorporation",
+        "translation": "定款"
+      },
+      {
+        "word": "authority",
+        "translation": "権限"
+      },
+      {
+        "word": "rely on",
+        "translation": "〜を援用する"
+      },
+      {
+        "word": "defeat",
+        "translation": "却下させる"
+      },
+      {
+        "word": "unaware third party",
+        "translation": "無知な第三者"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Official Clearance of Prolonged Inactivity",
+    "definition": "An administrative measure taken by the Registrar to close the registry records of a corporation that has not filed any required applications or reports for a prolonged, statutorily determined period (e.g., 12 consecutive years for a stock company).",
+    "japaneseDefinition": "法定の長期間（例：株式会社で12年間）にわたり、登記の申請や報告を行っていない会社について、登記官が職権を用いて、解散したものとみなし登記記録を閉鎖する行政上の措置。",
+    "japaneseWordTranslation": "休眠会社の整理 (Kyūmin kaisha no seiri)",
+    "legalContext": "Companies Act Art. 472 (Deemed Dissolution of Dormant Corporation); Commercial Registration Act Art. 38 (Closing of Register).",
+    "japaneseLegalContext": "会社法第472条（休眠会社の解散の登記等）; 商業登記法第38条（登記記録の閉鎖）",
+    "exampleSentence": "The Registrar issued a public notice stating the intent for official clearance of prolonged inactivity, thereby notifying all concerned parties that the corporation would be deemed dissolved unless a report was filed within two months.",
+    "exampleTranslation": "登記官は休眠会社の整理を行う旨を公示し、これにより、2ヶ月以内に届出がなされない限り当該会社が解散したものとみなされることを関係者全てに通知した。",
+    "vocabularyList": [
+      {
+        "word": "Registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "public notice",
+        "translation": "公示"
+      },
+      {
+        "word": "intent",
+        "translation": "意図"
+      },
+      {
+        "word": "deemed dissolved",
+        "translation": "解散したものとみなされる"
+      },
+      {
+        "word": "concerned parties",
+        "translation": "関係者"
+      },
+      {
+        "word": "report",
+        "translation": "届出"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Formal Review Standard",
+    "definition": "The principle governing the Registrar's examination of a registration application, restricting the scope of review to procedural compliance, confirmation of identity, and verifying that the submitted documents legally support the claimed cause for the entry.",
+    "japaneseDefinition": "登記官が登記申請を審査する際の原則であり、審査の範囲を、申請が法的な形式要件を満たしているか、申請者の同一性の確認、および添付書類が登記原因の事実を法的に証明しているかを確認することに限定するもの。",
+    "japaneseWordTranslation": "形式的審査主義 (Keishikiteki shinsa shugi)",
+    "legalContext": "Principle underpinning the Registrar's authority under the Commercial Registration Act.",
+    "japaneseLegalContext": "商業登記法における登記官の権限を支える原則。",
+    "exampleSentence": "Pursuant to the formal review standard, the Registrar accepted the application because the attached minutes and the certified corporate seal impression satisfied all statutory requirements, without inquiring into the veracity of the resolution itself.",
+    "exampleTranslation": "形式的審査主義に従い、登記官は、添付された議事録および認証された会社の実印が全ての法定要件を満たしていたため、決議自体の真実性については問うことなく、申請を受理した。",
+    "vocabularyList": [
+      {
+        "word": "pursuant to",
+        "translation": "〜に従い"
+      },
+      {
+        "word": "procedural compliance",
+        "translation": "手続きの遵守"
+      },
+      {
+        "word": "veracity",
+        "translation": "真実性"
+      },
+      {
+        "word": "certified corporate seal impression",
+        "translation": "認証された会社の実印"
+      },
+      {
+        "word": "statutory requirements",
+        "translation": "法定要件"
+      },
+      {
+        "word": "inquire into",
+        "translation": "〜を調査する"
+      }
+    ]
   }
 ]

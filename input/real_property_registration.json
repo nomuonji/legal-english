@@ -13267,5 +13267,81 @@
         "translation": "法的効果"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Factual Registration Application Duty",
+    "definition": "The statutory requirement for the current owner of real property to apply for the registration of changes concerning the physical status of the property (e.g., change in land category, destruction of a building) within a fixed statutory period.",
+    "japaneseDefinition": "不動産の物理的状況（地目や建物の種類、滅失など）に変更が生じた場合、不動産の表題部所有者が一定期間内に表示に関する登記を申請しなければならないとする法上の義務。",
+    "japaneseWordTranslation": "不動産の表示に関する登記の申請義務 (Fudōsan no Hyōji ni Kansuru Tōki no Shinsei Gimu)",
+    "legalContext": "Real Property Registration Act Art. 37 (Building) & Art. 47 (Land): Duty to apply for factual registration within one month.",
+    "japaneseLegalContext": "不動産登記法 第37条（建物）及び第47条（土地）：表示に関する登記の申請義務（一ヶ月以内の申請義務）。",
+    "exampleSentence": "Failure to fulfill the **Factual Registration Application Duty** regarding the demolition of a building within the statutory period may lead to an administrative fine imposed by the registrar.",
+    "exampleTranslation": "法定期間内に建物の滅失に関する表示登記の申請義務を果たさなかった場合、登記官による行政上の過料が課される可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "statutory requirement",
+        "translation": "法上の要件 (hōjō no yōken)"
+      },
+      {
+        "word": "change in land category",
+        "translation": "地目変更 (chimoku henkō)"
+      },
+      {
+        "word": "building demolition",
+        "translation": "建物滅失 (tatemono messhitsu)"
+      },
+      {
+        "word": "administrative fine",
+        "translation": "過料 (karyō)"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官 (tōkikan)"
+      },
+      {
+        "word": "physical status",
+        "translation": "物理的状況 (butsuri-teki jōkyō)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Main Registration based on Preliminary Registration",
+    "definition": "The formal registration (hontōki) procedure executed after a provisional registration (karitōki) has been filed to preserve the priority ranking, resulting in the full legal effect of the right relating back to the date of the initial preliminary filing.",
+    "japaneseDefinition": "順位保全のために行われた仮登記に基づき、権利の変動を本確定させるための正式な登記手続きであり、本登記が完了するとその順位は仮登記時に遡る。",
+    "japaneseWordTranslation": "仮登記に基づく本登記 (Karitōki ni Motozuku Hontōki)",
+    "legalContext": "Real Property Registration Act Art. 106: Execution of Main Registration based on Preliminary Registration.",
+    "japaneseLegalContext": "不動産登記法 第106条：仮登記に基づく本登記。",
+    "exampleSentence": "In cases where a purchase reservation was secured by preliminary registration, the buyer subsequently applied for the **Main Registration based on Preliminary Registration** after full payment was executed.",
+    "exampleTranslation": "買主は、買戻しの予約が仮登記で保全されていた場合において、全額の支払いが履行された後、仮登記に基づく本登記を申請した。",
+    "vocabularyList": [
+      {
+        "word": "provisional registration",
+        "translation": "仮登記 (karitōki)"
+      },
+      {
+        "word": "priority ranking",
+        "translation": "順位 (jun'i)"
+      },
+      {
+        "word": "full legal effect",
+        "translation": "完全な法的効力 (kanzen na hōteki kōryoku)"
+      },
+      {
+        "word": "relating back",
+        "translation": "遡及する (sokyū suru)"
+      },
+      {
+        "word": "purchase reservation",
+        "translation": "買戻しの予約 (kaimodoshi no yoyaku)"
+      },
+      {
+        "word": "formal registration",
+        "translation": "本登記 (hontōki)"
+      }
+    ]
   }
 ]

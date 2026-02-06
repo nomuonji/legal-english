@@ -15562,5 +15562,107 @@
         "translation": "命じる (めいじる)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Clear Identification Measure",
+    "definition": "A formal method required to make the acquisition or transfer of certain rights (e.g., of standing timber or unregistered claims) effective or opposable against third parties, often crucial before such property can be subject to civil execution.",
+    "japaneseDefinition": "立木や未登録の動産など、登記・登録制度がない特定の財産権の得喪や移転を第三者に対抗できるようにするために必要とされる、目に見える方法による公示措置。",
+    "japaneseWordTranslation": "明認方法 (めいにんほうほう)",
+    "legalContext": "Civil Execution Act, Art. 143 (Applicable to execution against certain property not covered by registration systems): Requirements for perfection of rights in execution.",
+    "japaneseLegalContext": "民事執行法第143条 (権利移転の公示方法に関する規定の準用)",
+    "exampleSentence": "The execution creditor had to ensure the standing timber was secured by a Clear Identification Measure before the seizure could be effective against subsequent transferees.",
+    "exampleTranslation": "債権者は、立木がその後の譲受人に対抗できるようになる前に、差押えに際して明認方法を確保する必要があった。",
+    "vocabularyList": [
+      {
+        "word": "standing timber",
+        "translation": "立木 (たちぎ)"
+      },
+      {
+        "word": "effective",
+        "translation": "効力を生じる (こうりょくをしょうじる)"
+      },
+      {
+        "word": "subsequent transferee",
+        "translation": "後の譲受人 (あとのゆずりうけにん)"
+      },
+      {
+        "word": "acquisition (of a right)",
+        "translation": "得喪 (とくそう)"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者 (だいさんしゃ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Additional Seizure",
+    "definition": "A subsequent seizure imposed by another execution creditor on property already under seizure. It does not initiate a new execution procedure but rather allows the second creditor to participate in the ongoing execution process and resulting distribution.",
+    "japaneseDefinition": "既に差押えを受けている執行財産に対し、他の執行債権者が行う差押え。これにより、後続の債権者は既存の執行手続に参加し、配当を受けることができる。",
+    "japaneseWordTranslation": "付加的差押え (ふかてきさしおさえ)",
+    "legalContext": "Civil Execution Act, Art. 49 (Effect of Additional Seizure on Movable Property): Where multiple creditors seize the same asset, priority is based on the timing of the seizure.",
+    "japaneseLegalContext": "民事執行法第49条 (動産執行における付加的差押えの効力)",
+    "exampleSentence": "Upon the initiation of the Additional Seizure, the execution court ensured that the subsequent creditor was included in the distribution proceedings of the seized collateral.",
+    "exampleTranslation": "付加的差押えの開始に伴い、執行裁判所は、後続の債権者が差押えられた担保の配当手続に含まれることを確認した。",
+    "vocabularyList": [
+      {
+        "word": "subsequent creditor",
+        "translation": "後続の債権者 (こうぞくのさいけんしゃ)"
+      },
+      {
+        "word": "distribution proceedings",
+        "translation": "配当手続 (はいとうてつづき)"
+      },
+      {
+        "word": "collateral",
+        "translation": "担保 (たんぽ)"
+      },
+      {
+        "word": "execution process",
+        "translation": "執行手続 (しっこうてつづき)"
+      },
+      {
+        "word": "seized asset",
+        "translation": "差押えられた財産 (さしおさえられたざいさん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Seizure by Disposition for Delinquent Tax Payments",
+    "definition": "A procedure where national or local tax authorities seize a debtor's property to satisfy outstanding tax obligations, creating a conflict in priority when the same property is also subject to civil execution.",
+    "japaneseDefinition": "国や地方公共団体が、滞納された租税債権を徴収するために、法律に基づき債務者の財産を差し押さえる処分。民事執行と競合する場合、配当における優先順位の調整が必要となる。",
+    "japaneseWordTranslation": "滞納処分による差押え (たいのうしょぶんによるさしおさえ)",
+    "legalContext": "Civil Execution Act, Art. 87 (Requirement for Auction Commencement): Coordination required when a Seizure by Disposition for Delinquent Tax Payments exists on the immovable property.",
+    "japaneseLegalContext": "民事執行法第87条 (不動産執行開始の要件): 滞納処分による差押えと民事執行との調整。",
+    "exampleSentence": "The compulsory auction could not proceed until the priority conflict between the execution creditor and the local government regarding the Seizure by Disposition for Delinquent Tax Payments was resolved.",
+    "exampleTranslation": "執行債権者と地方公共団体との間で、滞納処分による差押えに関する優先順位の競合が解決されるまで、強制競売を進めることはできなかった。",
+    "vocabularyList": [
+      {
+        "word": "delinquent tax payments",
+        "translation": "滞納された租税 (たいのうされたそぜい)"
+      },
+      {
+        "word": "tax authorities",
+        "translation": "税務当局 (ぜいむとうきょく)"
+      },
+      {
+        "word": "priority conflict",
+        "translation": "優先順位の競合 (ゆうせんじゅんいのきょうごう)"
+      },
+      {
+        "word": "outstanding obligations",
+        "translation": "未履行の義務 (みりこうのぎむ)"
+      },
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売 (きょうせいけいばい)"
+      }
+    ]
   }
 ]

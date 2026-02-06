@@ -1,38 +1,38 @@
 {
   "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Conclusion of Oral Arguments",
-  "definition": "The formal declaration by the court that the phase of submitting arguments and conducting evidence examination has ended, subsequent to which the court proceeds to deliberate and render judgment.",
-  "japaneseDefinition": "裁判所が、当事者による主張の提出や証拠調べの手続きを終了させ、判決の言渡しのために審理を締めくくること。",
-  "japaneseWordTranslation": "弁論終結 (べんろんしゅうけつ)",
-  "legalContext": "Code of Civil Procedure Art. 243: The court shall deliver a judgment after the conclusion of the hearing procedures (弁論).",
-  "japaneseLegalContext": "民事訴訟法第243条: 裁判所は、弁論の終結後に判決を言い渡す。",
-  "exampleSentence": "The court set the date for the **conclusion of oral arguments** for the end of the month, followed by the judgment delivery three weeks later.",
-  "exampleTranslation": "裁判所は、弁論終結の日を月末に定め、その3週間後に判決言渡しを行うこととした。",
+  "word": "Principle of Party Presentation",
+  "definition": "A fundamental principle in civil procedure (弁論主義) dictating that the collection and introduction of factual materials (facts and evidence) are primarily the responsibility of the parties, not the court. The court must generally base its judgment only on facts alleged and materials submitted by the parties.",
+  "japaneseDefinition": "民事訴訟における基本原則の一つで、裁判所は当事者が主張し提出した事実及び証拠のみを裁判の基礎としなければならないとするもの。",
+  "japaneseWordTranslation": "弁論主義 (べんろんしゅぎ)",
+  "legalContext": "Derived from core concepts of the Japanese Civil Procedure Code, often interpreted in conjunction with provisions concerning evidence submission (e.g., CPC Art. 156).",
+  "japaneseLegalContext": "民事訴訟法の基本理念から導かれ、証拠提出に関する規定（例：民事訴訟法第156条）と密接に関連付けられる。",
+  "exampleSentence": "The judge dismissed the plaintiff's argument because the factual basis, though known to the judge privately, had not been formally introduced under the Principle of Party Presentation.",
+  "exampleTranslation": "裁判官が個人的に知っていた事実的根拠であっても、弁論主義に基づき正式に提出されていなかったため、裁判官は原告の主張を棄却した。",
   "vocabularyList": [
     {
-      "word": "hearing procedures",
-      "translation": "弁論手続"
+      "word": "factual basis",
+      "translation": "事実的根拠"
     },
     {
-      "word": "submitting arguments",
-      "translation": "主張の提出"
+      "word": "collection and introduction",
+      "translation": "収集及び提出"
     },
     {
-      "word": "evidence examination",
-      "translation": "証拠調べ"
+      "word": "dismissed the argument",
+      "translation": "主張を棄却した"
     },
     {
-      "word": "deliberate",
-      "translation": "評議する"
+      "word": "formally introduced",
+      "translation": "正式に提出された"
     },
     {
-      "word": "render judgment",
-      "translation": "判決を下す"
+      "word": "judgement",
+      "translation": "判決（裁判）"
     },
     {
-      "word": "judgment delivery",
-      "translation": "判決言渡し"
+      "word": "alleged facts",
+      "translation": "主張された事実"
     }
   ]
 }

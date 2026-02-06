@@ -12856,5 +12856,119 @@
         "translation": "不可欠な設備"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Objection to Preservation Enforcement Procedure",
+    "definition": "A judicial remedy allowing the preservation debtor or a third party to contest the legality or propriety of specific measures taken by the enforcement court or officer during the execution of a preservation order (e.g., seizure or handover).",
+    "japaneseDefinition": "保全命令の執行として行われた執行裁判所の処分や執行官の行為に対し、債務者その他の利害関係人が不服を申し立てるための手続き。保全命令そのものの効力ではなく、執行方法の適否を問う。",
+    "japaneseWordTranslation": "保全執行に対する異議 (Hozen Shikkō ni Taisuru Igi)",
+    "legalContext": "Civil Preservation Act, Art. 45 (Applying Civil Execution Act provisions concerning objections to execution).",
+    "japaneseLegalContext": "民事保全法第45条（執行に関する不服申立ての準用）",
+    "exampleSentence": "The obligor filed an objection to the preservation enforcement procedure, arguing that the execution officer's seizure of equipment essential for daily life violated the principle of non-seizability.",
+    "exampleTranslation": "債務者は、執行官による生活必需品の差押えが差押禁止の原則に違反するとして、保全執行に対する異議を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "enforcement court",
+        "translation": "執行裁判所 (Shikkō Saibansho)"
+      },
+      {
+        "word": "enforcement officer",
+        "translation": "執行官 (Shikkōkan)"
+      },
+      {
+        "word": "legality",
+        "translation": "適法性 (Tekihōsei)"
+      },
+      {
+        "word": "propriety",
+        "translation": "適否 (Tekihi)"
+      },
+      {
+        "word": "non-seizability",
+        "translation": "差押禁止 (Sashiosae Kinshi)"
+      },
+      {
+        "word": "seizure",
+        "translation": "差押え (Sashiosae)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restriction on Ex Parte Preservation Adjudication",
+    "definition": "A procedural rule stipulating that the court's review of a preservation application, particularly when done ex parte (without a debtor hearing), must be strictly limited to the evidence and materials presented by the creditor, rather than initiating an independent official investigation of facts.",
+    "japaneseDefinition": "保全手続において、裁判所は職権で事実の調査を行う権限が厳しく制限されており、主として申立人が提出した資料による疎明（一応の証拠）に基づいて判断しなければならない原則。",
+    "japaneseWordTranslation": "職権探知主義の制限 (Shokken Tanchi Shugi no Seigen)",
+    "legalContext": "Civil Preservation Act, Art. 13, Para. 1 (Requirement of Prima Facie Showing). This limitation reflects the principle of expedited summary proceedings.",
+    "japaneseLegalContext": "民事保全法第13条第1項（疎明義務）",
+    "exampleSentence": "Due to the Restriction on Ex Parte Preservation Adjudication, the preservation court dismissed the petition because the creditor failed to provide sufficient documentary evidence supporting the urgency of the preservation.",
+    "exampleTranslation": "職権探知主義の制限により、保全裁判所は、債権者が保全の緊急性を裏付ける十分な書面上の証拠を提出できなかったため、申立てを却下した。",
+    "vocabularyList": [
+      {
+        "word": "adjudication",
+        "translation": "裁判 (Saiban)"
+      },
+      {
+        "word": "ex parte",
+        "translation": "一方的 (Ippōteki)"
+      },
+      {
+        "word": "expedited",
+        "translation": "迅速な (Jinsokuna)"
+      },
+      {
+        "word": "petition",
+        "translation": "申立て (Mōshitate)"
+      },
+      {
+        "word": "documentary evidence",
+        "translation": "書面上の証拠 (Shomenjō no Shōko)"
+      },
+      {
+        "word": "summary proceedings",
+        "translation": "簡易手続き (Kani Tetsuzuki)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Creditor's Financial Responsibility for Invalid Preservation",
+    "definition": "The obligation of a preservation creditor to reimburse the debtor for financial losses or costs incurred if the preservation measure (provisional attachment or disposition) is later vacated due to the creditor’s fault, such as lack of grounds from the outset or failure to initiate the main action.",
+    "japaneseDefinition": "保全命令が、当初からその理由を欠いていた場合や、本案の訴えの不提起など債権者に帰責性のある事由により取り消された場合に、債権者が債務者に対して負う損害の填補義務。",
+    "japaneseWordTranslation": "不当保全に対する債権者の賠償義務 (Futō Hozen ni Taisuru Saikensha no Baishō Gimu)",
+    "legalContext": "Civil Preservation Act, Art. 47 (Liability for damages caused by preservation). This liability arises even if the creditor was not grossly negligent.",
+    "japaneseLegalContext": "民事保全法第47条（保全の執行により生じた損害の賠償責任）",
+    "exampleSentence": "After the provisional disposition was canceled because the preservation creditor failed to file the principal suit within the statutory period, the court ruled that the Creditor's Financial Responsibility for Invalid Preservation required payment for the lost profits suffered by the debtor.",
+    "exampleTranslation": "保全債権者が法定期間内に本案の訴訟を提起しなかったために仮処分が取り消された後、裁判所は、不当保全に対する債権者の賠償義務に基づき、債務者が被った逸失利益を支払うよう命じた。",
+    "vocabularyList": [
+      {
+        "word": "vacated",
+        "translation": "取り消された (Torikesareta)"
+      },
+      {
+        "word": "reimburse",
+        "translation": "填補する (Tenpo suru)"
+      },
+      {
+        "word": "creditor's fault",
+        "translation": "債権者の帰責性 (Saikensha no Kisekisei)"
+      },
+      {
+        "word": "provisional disposition",
+        "translation": "仮処分 (Kari Shobun)"
+      },
+      {
+        "word": "statutory period",
+        "translation": "法定期間 (Hōtei Kikan)"
+      },
+      {
+        "word": "lost profits",
+        "translation": "逸失利益 (Isshitsu Rieki)"
+      }
+    ]
   }
 ]

@@ -2,44 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Principle of Party Presentation",
-    "definition": "A fundamental principle in civil procedure (弁論主義) dictating that the collection and introduction of factual materials (facts and evidence) are primarily the responsibility of the parties, not the court. The court must generally base its judgment only on facts alleged and materials submitted by the parties.",
-    "japaneseDefinition": "民事訴訟における基本原則の一つで、裁判所は当事者が主張し提出した事実及び証拠のみを裁判の基礎としなければならないとするもの。",
-    "japaneseWordTranslation": "弁論主義 (べんろんしゅぎ)",
-    "legalContext": "Derived from core concepts of the Japanese Civil Procedure Code, often interpreted in conjunction with provisions concerning evidence submission (e.g., CPC Art. 156).",
-    "japaneseLegalContext": "民事訴訟法の基本理念から導かれ、証拠提出に関する規定（例：民事訴訟法第156条）と密接に関連付けられる。",
-    "exampleSentence": "The judge dismissed the plaintiff's argument because the factual basis, though known to the judge privately, had not been formally introduced under the Principle of Party Presentation.",
-    "exampleTranslation": "裁判官が個人的に知っていた事実的根拠であっても、弁論主義に基づき正式に提出されていなかったため、裁判官は原告の主張を棄却した。",
-    "vocabularyList": [
-      {
-        "word": "factual basis",
-        "translation": "事実的根拠"
-      },
-      {
-        "word": "collection and introduction",
-        "translation": "収集及び提出"
-      },
-      {
-        "word": "dismissed the argument",
-        "translation": "主張を棄却した"
-      },
-      {
-        "word": "formally introduced",
-        "translation": "正式に提出された"
-      },
-      {
-        "word": "judgement",
-        "translation": "判決（裁判）"
-      },
-      {
-        "word": "alleged facts",
-        "translation": "主張された事実"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Judicial Settlement Procedure",
     "definition": "The procedural mechanism regulated by the Civil Procedure Code through which a court actively facilitates negotiations between the parties, either during a pending action (訴訟上の和解) or before an action is formally commenced (訴え提起前の和解), aiming to resolve the dispute through mutual agreement. Settlements achieved via this method have the same binding force as a final judgment.",
     "japaneseDefinition": "裁判所が積極的に関与し、当事者間の交渉を促進して相互の合意による紛争解決を図る手続。成立した和解は確定判決と同一の効力を有する。",
@@ -17214,6 +17176,112 @@
       {
         "word": "Statute",
         "translation": "法令 (ほうれい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Adjudication of Party Eligibility",
+    "definition": "The judicial examination and determination by the court, conducted ex officio, as to whether the plaintiff and defendant possess the appropriate legal standing (party eligibility, or 'Tōjisha Tekkaku') required to maintain the specific lawsuit.",
+    "japaneseDefinition": "裁判所が職権で、原告及び被告が当該訴訟物についての本案判決を求めるにつき適格な当事者であるか否かを判断すること。",
+    "japaneseWordTranslation": "当事者適格の審査 (Tōjisha Tekkaku no Shinsa)",
+    "legalContext": "Principle of Mandatory Judicial Scrutiny: The court must scrutinize procedural requirements, including party eligibility, even without a party raising the issue.",
+    "japaneseLegalContext": "訴訟要件の職権調査原則: 裁判所は、当事者が主張しなくても、当事者適格を含む訴訟要件を職権で調査しなければならない。",
+    "exampleSentence": "The court dismissed the claim during the preliminary proceedings after its ex officio adjudication of party eligibility revealed the plaintiff lacked proper legal standing.",
+    "exampleTranslation": "裁判所は、職権による当事者適格の審査の結果、原告に正当な法的資格がないことが判明したため、準備手続中にその訴えを却下した。",
+    "vocabularyList": [
+      {
+        "word": "Party Eligibility",
+        "translation": "当事者適格 (Tōjisha Tekkaku)"
+      },
+      {
+        "word": "Ex Officio",
+        "translation": "職権で (Shokken de)"
+      },
+      {
+        "word": "Procedural Scrutiny",
+        "translation": "訴訟要件の審査 (Soshō Yōken no Shinsa)"
+      },
+      {
+        "word": "Preliminary Proceedings",
+        "translation": "準備手続 (Junbi Tetsuzuki)"
+      },
+      {
+        "word": "Dismissed the claim",
+        "translation": "訴えを却下した (Uttae o Kyakka shita)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Curative Effect of Procedural Defects",
+    "definition": "A doctrine recognizing that certain procedural irregularities or defects in a procedural act can be remedied or corrected retroactively if specific subsequent conditions are met, thereby validating the act and preventing dismissal.",
+    "japaneseDefinition": "訴訟行為における軽微な瑕疵が、後続の訴訟行為や一定の事実の発生によって治癒され、当初の訴訟行為が有効となること。",
+    "japaneseWordTranslation": "訴訟行為の瑕疵の治癒 (Soshō Kōi no Kashi no Chiyu)",
+    "legalContext": "CCP Art. 138(2): If a statement of claim fails to satisfy the necessary requirements, the court shall order the plaintiff to correct the defect by designating a reasonable period; this exemplifies the curative principle.",
+    "japaneseLegalContext": "民事訴訟法第138条第2項: 訴状が必要な要件を満たさない場合、裁判所は相当の期間を定めて原告に瑕疵を補正すべきことを命じる。これは治癒の原則の例である。",
+    "exampleSentence": "The failure to submit the certificate of authority alongside the petition was cured when the legal agent later submitted the document within the designated remedial period, invoking the curative effect of procedural defects.",
+    "exampleTranslation": "申立書に権限証明書を添付しなかった瑕疵は、法定代理人が後に指定された補正期間内に当該文書を提出したことにより、訴訟行為の瑕疵の治癒が適用され、治癒された。",
+    "vocabularyList": [
+      {
+        "word": "Defect",
+        "translation": "瑕疵 (Kashi)"
+      },
+      {
+        "word": "Procedural Act",
+        "translation": "訴訟行為 (Soshō Kōi)"
+      },
+      {
+        "word": "Remedial period",
+        "translation": "補正期間 (Hosei Kikan)"
+      },
+      {
+        "word": "Certificate of authority",
+        "translation": "権限証明書 (Kengen Shōmeisho)"
+      },
+      {
+        "word": "Retroactively",
+        "translation": "遡及的に (Sokyūteki ni)"
+      },
+      {
+        "word": "Legal agent",
+        "translation": "法定代理人 (Hōtei Dairinin)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Grounds for Jōkoku Appeal",
+    "definition": "The specific, limited legal basis upon which a final appeal (Jōkoku) may be filed to the Supreme Court or a High Court, usually restricted to constitutional violations, major errors in statutory interpretation, or other fundamental procedural errors.",
+    "japaneseDefinition": "最高裁判所または高等裁判所に最終上訴（上告）を提起するために、憲法違反や法令の解釈の重大な誤りなど、限定された法的根拠。",
+    "japaneseWordTranslation": "上告理由 (Jōkoku Riyū)",
+    "legalContext": "CCP Art. 312: An appeal to the court of final appeal (jōkoku) may be lodged on the grounds of constitutional violation or serious error in the interpretation of laws and regulations affecting the judgment.",
+    "japaneseLegalContext": "民事訴訟法第312条: 上告は、憲法違反又は判決に影響を及ぼす法令の解釈の重大な誤り等を理由として提起することができる。",
+    "exampleSentence": "The defendant's counsel argued that the High Court's ruling contained a misapplication of administrative law, constituting a valid ground for jōkoku appeal to the Supreme Court.",
+    "exampleTranslation": "被告の弁護士は、高等裁判所の判決には行政法の誤った適用が含まれており、これが最高裁への有効な上告理由を構成すると主張した。",
+    "vocabularyList": [
+      {
+        "word": "Final Appeal",
+        "translation": "上告 (Jōkoku)"
+      },
+      {
+        "word": "High Court",
+        "translation": "高等裁判所 (Kōtō Saibansho)"
+      },
+      {
+        "word": "Supreme Court",
+        "translation": "最高裁判所 (Saikō Saibansho)"
+      },
+      {
+        "word": "Statutory interpretation",
+        "translation": "法令の解釈 (Hōrei no Kaishaku)"
+      },
+      {
+        "word": "Misapplication",
+        "translation": "誤った適用 (Ayatta Tekiyō)"
       }
     ]
   }

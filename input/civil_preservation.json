@@ -2,44 +2,6 @@
   {
     "category": "Civil Preservation (民事保全法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Prima Facie Showing",
-    "definition": "A standard of proof required in preservation proceedings, notably less rigorous than full proof (証明), where the court must be convinced of the high probability or reasonable grounds that the facts asserted by the moving party are true.",
-    "japaneseDefinition": "保全手続において要求される立証の程度であり、証明（厳格な立証）とは異なり、裁判所が申立人の主張する事実について確からしいとの心証を得た段階を指す。",
-    "japaneseWordTranslation": "疎明 (そめい)",
-    "legalContext": "Civil Preservation Act Art. 13 (2): If the facts which should be prima facie shown are difficult for the applicant to show prima facie due to their nature, the court may deem those facts to have been prima facie shown, by having the obligee deposit a security amount determined by the court.",
-    "japaneseLegalContext": "民事保全法第13条第2項: 疎明すべき事実がその性質上疎明することが困難であるときに、裁判所は、債権者に裁判所の定める一定の金額の担保を立てさせ、その事実を疎明したものとみなすことができる。",
-    "exampleSentence": "The court requires a robust prima facie showing of both the right to be preserved and the necessity for the preservation measure before issuing an order.",
-    "exampleTranslation": "裁判所は、保全命令を発する前に、被保全権利と保全の必要性の両方について、確固たる疎明を要求する。",
-    "vocabularyList": [
-      {
-        "word": "rigorous",
-        "translation": "厳格な"
-      },
-      {
-        "word": "probability",
-        "translation": "蓋然性"
-      },
-      {
-        "word": "moving party",
-        "translation": "申立人"
-      },
-      {
-        "word": "issuing an order",
-        "translation": "命令を発する"
-      },
-      {
-        "word": "necessity for the preservation measure",
-        "translation": "保全の必要性"
-      },
-      {
-        "word": "deem",
-        "translation": "みなす"
-      }
-    ]
-  },
-  {
-    "category": "Civil Preservation (民事保全法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Prohibition of Transfer and Encumbrance",
     "definition": "A specific legal effect of an injunction concerning real property that prevents the property owner (debtor) from conveying the title to a third party or establishing any new security interests (such as mortgages or pledges) over the property.",
     "japaneseDefinition": "不動産に関する差止めの保全命令の具体的な内容の一つであり、債務者が当該不動産の所有権を第三者に譲渡したり、新たな担保権（抵当権など）を設定したりすることを禁止する措置。",
@@ -12968,6 +12930,108 @@
       {
         "word": "lost profits",
         "translation": "逸失利益 (Isshitsu Rieki)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Asset Freezing Order",
+    "definition": "A judicial measure designed to prevent the alienation or concealment of a debtor's assets, ensuring that a prospective decree awarding a pecuniary entitlement can be effectively realized later.",
+    "japaneseDefinition": "金銭債権の執行を将来確保するため、債務者の特定の財産の処分を暫定的に差し止める裁判所の命令。",
+    "japaneseWordTranslation": "財産凍結命令 (ざいさんとうけつめいれい)",
+    "legalContext": "Civil Preservation Act Art. 20 (Requirement for securing monetary claim enforcement)",
+    "japaneseLegalContext": "民事保全法第20条 (金銭の給付を目的とする請求権についての保全の必要性)",
+    "exampleSentence": "The Petitioner sought an Asset Freezing Order against the Adverse Party's corporate bank accounts immediately upon filing the Recovery Action.",
+    "exampleTranslation": "申立人は、回復訴訟を提起すると同時に、相手方の法人銀行口座に対する財産凍結命令を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Petitioner",
+        "translation": "申立人 (もうしたてにん)"
+      },
+      {
+        "word": "Adverse Party",
+        "translation": "相手方 (あいてがた)"
+      },
+      {
+        "word": "Alienation",
+        "translation": "譲渡 (じょうと)"
+      },
+      {
+        "word": "Prospective Decree",
+        "translation": "見込みの判決 (みこみの はんけつ)"
+      },
+      {
+        "word": "Recovery Action",
+        "translation": "回復訴訟 (かいふくそしょう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interlocutory Mandatory Injunction",
+    "definition": "A temporary judicial command requiring a party to perform a certain action or establish a temporary juridical nexus, typically utilized when non-pecuniary entitlements are in contention.",
+    "japaneseDefinition": "非金銭的な権利関係の係争において、特定の行為の実行や暫定的な地位の確立を相手方に義務付ける一時的な裁判所の命令。",
+    "japaneseWordTranslation": "暫定執行義務命令 (ざんていしっこうぎむめいれい)",
+    "legalContext": "Civil Preservation Act Art. 23(2) (Disposition securing temporary status)",
+    "japaneseLegalContext": "民事保全法第23条第2項 (係争物に関する仮の地位を定める仮処分)",
+    "exampleSentence": "The judicial body issued an Interlocutory Mandatory Injunction Ordering Compliance by the adverse party to allow Indispensable Remediation, Awaiting Definitive Ruling on the property dispute.",
+    "exampleTranslation": "裁判機関は、財産紛争の確定裁定待ちとして、相手方に対し、不可欠な是正を可能とするよう履行を命じる暫定執行義務命令を発した。",
+    "vocabularyList": [
+      {
+        "word": "Interim Writ",
+        "translation": "暫定令状 (ざんていれいじょう)"
+      },
+      {
+        "word": "Juridical Nexus",
+        "translation": "法的な繋がり (ほうてきなつながり)"
+      },
+      {
+        "word": "Awaiting Definitive Ruling",
+        "translation": "確定裁定待ち (かくてい さいてい まち)"
+      },
+      {
+        "word": "Ordering Compliance",
+        "translation": "履行を命じる (りこうを めいじる)"
+      },
+      {
+        "word": "Indispensable Remediation",
+        "translation": "不可欠な是正 (ふかけつな ぜせい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Jeopardy",
+    "definition": "The Prerequisite for obtaining an interim measure, referring to the concrete danger that the ability to realize the Underlying Entitlement will be Greatly Impeded or become unavailable without Prompt Temporary Measure.",
+    "japaneseDefinition": "保全手続の基本的な要件であり、本案の権利実現が差し迫った危険により著しく困難になる、または不可能になる具体的な危険性。",
+    "japaneseWordTranslation": "執行不能危険 (しっこうふのうきけん)",
+    "legalContext": "Civil Preservation Act Art. 13 (General requirement of preservative necessity)",
+    "japaneseLegalContext": "民事保全法第13条 (保全の必要性の一般原則)",
+    "exampleSentence": "The applicant must demonstrate the existence of Execution Jeopardy by showing the Adverse Party is liquidating holdings or Pressingly Endangering the existing situation.",
+    "exampleTranslation": "申立人は、相手方が保有資産を換金していること、または現況を切迫して危うくしていることを示して、執行不能危険の存在を証明しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Prerequisite",
+        "translation": "前提条件 (ぜんていじょうけん)"
+      },
+      {
+        "word": "Underlying Entitlement",
+        "translation": "本源的な資格 (ほんげんてきな しかく)"
+      },
+      {
+        "word": "Greatly Impeded",
+        "translation": "大きく妨げられる (おおきく さまたげられる)"
+      },
+      {
+        "word": "Prompt Temporary Measure",
+        "translation": "迅速な一時的手段 (じんそくな いちじてき しゅだん)"
+      },
+      {
+        "word": "Pressingly Endangering",
+        "translation": "切迫して危うくしている (せっぱくして あやうくしている)"
       }
     ]
   }

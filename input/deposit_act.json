@@ -10770,5 +10770,107 @@
         "translation": "帰属 (きぞく)"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Filing of Deposit Request",
+    "definition": "The formal submission of a written application by the obligor to the administrative authority responsible for handling deposits, requesting that the subject matter of the performance be accepted for legal consignment.",
+    "japaneseDefinition": "債務者が、弁済の目的物を供託として受け付けるよう、権限のある行政機関に対し書面で申請手続きを行うこと。",
+    "japaneseWordTranslation": "供託の申請 (きょうたく の しんせい)",
+    "legalContext": "Deposit Act Art. 1: An application for deposit shall specify the cause of deposit, the designated recipient, and the subject matter of the deposit.",
+    "japaneseLegalContext": "供託法第1条: 供託の申請は、供託の原因、被供託者及び供託物の表示を記載しなければならない。",
+    "exampleSentence": "The obligor completed the filing of the deposit request to discharge his debt after the obligee repeatedly failed to appear at the designated place of performance.",
+    "exampleTranslation": "債務者は、債権者が指定された履行場所へ再三現れなかったため、債務を弁済するために供託の申請を完了した。",
+    "vocabularyList": [
+      {
+        "word": "Obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Administrative authority",
+        "translation": "行政機関"
+      },
+      {
+        "word": "Subject matter",
+        "translation": "目的物"
+      },
+      {
+        "word": "Performance",
+        "translation": "弁済 / 履行"
+      },
+      {
+        "word": "Designated recipient",
+        "translation": "被供託者"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Inability to Accept Performance",
+    "definition": "A condition stipulated in the Civil Code where the creditor is structurally or factually unable to receive the tendered performance (e.g., due to absence, legal incapacitation, or being unlocatable), thereby providing a statutory justification for the obligor to consign the subject matter.",
+    "japaneseDefinition": "債権者が所在不明、行為能力の欠如、その他の理由により弁済の受領ができない状態を指し、この場合、債務者は債務を免れるために供託を行うことができる。",
+    "japaneseWordTranslation": "受領不能 (じゅりょう ふのう)",
+    "legalContext": "Civil Code Art. 494: If the obligee cannot accept performance, the obligor may be discharged from the obligation by consigning the subject matter of the performance to an administrative deposit authority.",
+    "japaneseLegalContext": "民法第494条: 債権者が弁済を受領することができないときは、債務者は、弁済の目的物を供託所に供託することによって、その債務を免れることができる。",
+    "exampleSentence": "The defendant claimed inability to accept performance on the part of the plaintiff, citing the plaintiff's prolonged and unannounced foreign residency, justifying the consignment of the contract price.",
+    "exampleTranslation": "被告は、原告の長期かつ無告知の海外在住を理由に、原告側の受領不能を主張し、契約代金の供託を正当化した。",
+    "vocabularyList": [
+      {
+        "word": "Creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "Statutory justification",
+        "translation": "法令上の正当な根拠"
+      },
+      {
+        "word": "Tendered performance",
+        "translation": "提供された弁済"
+      },
+      {
+        "word": "Unlocatable",
+        "translation": "所在不明"
+      },
+      {
+        "word": "Consign",
+        "translation": "供託する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Conversion to Currency",
+    "definition": "The legal procedure mandated for certain non-monetary assets (such as goods, chattels, or specific securities) that have been consigned, whereby these assets are judicially sold to liquidate them, and the resulting funds are then held officially by the administrative deposit authority.",
+    "japaneseDefinition": "供託された金銭以外の物件（物品や特定の有価証券など）について、保管の困難等の理由に基づき、公的な売却手続きを行い、その代金を供託物として維持する行政上の手続き。",
+    "japaneseWordTranslation": "金銭への換価 (きんせん へ の かんか)",
+    "legalContext": "Deposit Act Art. 8: If the deposited subject matter is not money and is difficult to preserve or if the value may decrease, the administrator may sell it via judicial sale and convert it to currency.",
+    "japaneseLegalContext": "供託法第8条: 供託物が金銭以外の物であってその保存に不便なとき又はその価額が減少するおそれがあるときは、供託管理者は、これを公売に付し金銭に換価することができる。",
+    "exampleSentence": "Due to the perishable nature of the goods consigned, the administrative authority initiated the process of conversion to currency following the guidelines set forth in the relevant act.",
+    "exampleTranslation": "供託された物品の腐敗しやすい性質のため、行政機関は関係法に定められた指針に従って金銭への換価の手続きを開始した。",
+    "vocabularyList": [
+      {
+        "word": "Non-monetary assets",
+        "translation": "金銭以外の物件"
+      },
+      {
+        "word": "Consigned property",
+        "translation": "供託物件"
+      },
+      {
+        "word": "Perishable nature",
+        "translation": "腐敗しやすい性質"
+      },
+      {
+        "word": "Judicial sale",
+        "translation": "公売"
+      },
+      {
+        "word": "Administrator",
+        "translation": "管理者"
+      }
+    ]
   }
 ]

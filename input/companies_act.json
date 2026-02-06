@@ -14334,5 +14334,115 @@
         "translation": "株主総会"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Incorporator's Obligation to Subscribe Residual Shares",
+    "definition": "The statutory obligation placed on company incorporators to subscribe for any shares that remain unsubscribed or unpaid for by outside parties at the time of the company's formation.",
+    "japaneseDefinition": "会社設立時において、募集株式の引受けまたは払込みがない場合に、発起人が引き受けまたは払込みを行ったものとみなされ、その責任を負うこと。",
+    "japaneseWordTranslation": "発起人の残株引受け義務 (hokkinin no zankabu hikiuke gimu)",
+    "legalContext": "Companies Act Art. 58 & 59 (Liability for unsubscribed shares at incorporation)",
+    "japaneseLegalContext": "会社法第58条及び第59条（引受けのなかった募集株式等に関する責任）",
+    "exampleSentence": "The lawsuit against the incorporator was filed based on the breach of the incorporator's obligation to subscribe residual shares, as the capital formation was incomplete.",
+    "exampleTranslation": "その発起人に対する訴訟は、資本の組成が不完全であったため、発起人の残株引受け義務の不履行に基づき提起された。",
+    "vocabularyList": [
+      {
+        "word": "incorporator",
+        "translation": "発起人 (hokkinin)"
+      },
+      {
+        "word": "residual shares",
+        "translation": "残株 (zankabu)"
+      },
+      {
+        "word": "breach of obligation",
+        "translation": "義務の不履行 (gimu no furikō)"
+      },
+      {
+        "word": "capital formation",
+        "translation": "資本の組成 (shihon no soshiki)"
+      },
+      {
+        "word": "unsubscribed",
+        "translation": "引受けのない (hikiuke no nai)"
+      },
+      {
+        "word": "lawsuit",
+        "translation": "訴訟 (soshō)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Price Fixing (for Share Purchase)",
+    "definition": "The procedure in which a dissenting shareholder, upon demanding the company purchase their shares, petitions the court to determine the fair purchase price if agreement cannot be reached between the parties.",
+    "japaneseDefinition": "組織再編に反対する株主が会社に対して株式の買取を請求し、会社との間で買取価格について合意に至らない場合に、裁判所に対して公正な価格の決定を申し立てる手続。",
+    "japaneseWordTranslation": "株式買取価格の決定の申立て (kabushiki kaitori kakaku no kettei no mōshitate)",
+    "legalContext": "Companies Act Art. 786 (Petition for determination of price)",
+    "japaneseLegalContext": "会社法第786条（価格の決定の申立て）",
+    "exampleSentence": "Upon failure to negotiate a fair value, the shareholder proceeded with judicial price fixing, seeking court intervention to mandate the share purchase price.",
+    "exampleTranslation": "公正な価格の交渉が不調に終わったため、株主は株式買取価格の決定の申立てを行い、株式買取価格の決定を裁判所に求めた。",
+    "vocabularyList": [
+      {
+        "word": "dissenting shareholder",
+        "translation": "反対株主 (hantai kabunushi)"
+      },
+      {
+        "word": "petition the court",
+        "translation": "裁判所に申し立てる (saibansho ni mōshiatateru)"
+      },
+      {
+        "word": "fair purchase price",
+        "translation": "公正な買取価格 (kōsei na kaitori kakaku)"
+      },
+      {
+        "word": "court intervention",
+        "translation": "裁判所の介入 (saibansho no kainyū)"
+      },
+      {
+        "word": "failure to negotiate",
+        "translation": "交渉の不調 (kōshō no fuchō)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Resolution for Authorized Capital Increase",
+    "definition": "The formal determination by the board of directors (or shareholders, depending on the AoI) specifying the particulars necessary for soliciting new share subscriptions, such as the class, number, and issue price of the shares.",
+    "japaneseDefinition": "会社が新たに株式を発行する際に、募集する株式の種類、数、払込金額など、株式募集に関する重要事項を取締役会等の決議によって定めること。",
+    "japaneseWordTranslation": "募集事項の決定 (boshū jikō no kettei)",
+    "legalContext": "Companies Act Art. 199 (Decision on solicitation particulars)",
+    "japaneseLegalContext": "会社法第199条（募集事項の決定等）",
+    "exampleSentence": "The board requires a formal resolution for authorized capital increase, ensuring all solicitation particulars comply with the established parameters.",
+    "exampleTranslation": "取締役会は、全ての募集事項が定められた範囲内で遵守されることを確実にするため、正式な募集事項の決定を必要とする。",
+    "vocabularyList": [
+      {
+        "word": "soliciting new shares",
+        "translation": "新株の募集 (shinkabu no boshū)"
+      },
+      {
+        "word": "particulars",
+        "translation": "事項 (jikō)"
+      },
+      {
+        "word": "class of shares",
+        "translation": "株式の種類 (kabushiki no shurui)"
+      },
+      {
+        "word": "issue price",
+        "translation": "払込金額 (haraikomi kingaku)"
+      },
+      {
+        "word": "comply with",
+        "translation": "遵守する (junshu suru)"
+      },
+      {
+        "word": "board of directors",
+        "translation": "取締役会 (torishimariyaku kai)"
+      }
+    ]
   }
 ]

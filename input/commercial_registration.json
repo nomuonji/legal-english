@@ -14028,5 +14028,119 @@
         "translation": "所定の期間"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-assertability of Unregistered Mandatory Particulars",
+    "definition": "The statutory restriction preventing a company or third party from asserting against a good faith third party that mandatory registration matters (such as officer changes) have occurred, if those matters remain unregistered.",
+    "japaneseDefinition": "登記すべき事項が未登記である場合、それを善意の第三者に対抗できないという商業登記法の原則。",
+    "japaneseWordTranslation": "未登記事項の対抗制限 (Mitōki jikō no taikō seigen)",
+    "legalContext": "Commercial Registration Act Art. 9: “Matters required to be registered cannot be asserted against a third party acting in good faith until after the registration.”",
+    "japaneseLegalContext": "商業登記法第9条: 「登記すべき事項は、登記の後でなければ、これをもって善意の第三者に対抗することができない。」",
+    "exampleSentence": "Due to the non-assertability of unregistered mandatory particulars, the company could not claim that the director’s authority had been restricted, as the limitation was never recorded in the commercial register.",
+    "exampleTranslation": "未登記事項の対抗制限により、権限の制限が登記簿に記録されていなかったため、会社は取締役の権限が制限されていたと主張することはできなかった。",
+    "vocabularyList": [
+      {
+        "word": "Third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "Mandatory registration particulars",
+        "translation": "登記すべき事項"
+      },
+      {
+        "word": "Assert (oppose)",
+        "translation": "対抗する"
+      },
+      {
+        "word": "Commercial register",
+        "translation": "商業登記簿"
+      },
+      {
+        "word": "Restriction",
+        "translation": "制限"
+      },
+      {
+        "word": "Good faith",
+        "translation": "善意"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Entry of Formation",
+    "definition": "The initial registration of a company following its incorporation process, which is a mandatory administrative step and a prerequisite for the company's legal existence.",
+    "japaneseDefinition": "会社が成立した際に最初に行う登記であり、会社の法人格取得のための法定要件となる。",
+    "japaneseWordTranslation": "設立の登記 (Setsuritsu no tōki)",
+    "legalContext": "Companies Act Art. 49: “A stock company is established upon the registration of its formation at the location of its head office.”",
+    "japaneseLegalContext": "会社法第49条: 「株式会社は、その本店の所在地において設立の登記をすることによって成立する。」",
+    "exampleSentence": "The Entry of Formation must be filed within two weeks of the date the incorporation procedures are finalized, marking the commencement of the company's status as a juridical body.",
+    "exampleTranslation": "設立の登記は、設立手続が完了した日から2週間以内に申請しなければならず、これにより会社の法人としての地位が開始する。",
+    "vocabularyList": [
+      {
+        "word": "Incorporation procedures",
+        "translation": "設立手続"
+      },
+      {
+        "word": "Stock company",
+        "translation": "株式会社"
+      },
+      {
+        "word": "Head office",
+        "translation": "本店"
+      },
+      {
+        "word": "Commencement",
+        "translation": "開始"
+      },
+      {
+        "word": "Filing",
+        "translation": "申請"
+      },
+      {
+        "word": "Juridical body",
+        "translation": "法人"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Administrative Clearing of Dormant Records",
+    "definition": "The administrative procedure by which the registrar identifies companies that have failed to perform any registration for a long statutory period and initiates steps, including public notification, to formally remove their records from the registry based on deemed dissolution.",
+    "japaneseDefinition": "長期間にわたり登記がされていない休眠会社について、登記官が職権でみなし解散の手続きを進め、登記記録を整理・抹消する制度。",
+    "japaneseWordTranslation": "休眠会社の行政整理 (Kyūmin gaisha no gyōsei seiri)",
+    "legalContext": "Commercial Registration Act Art. 472 (via Companies Act): Provides the grounds for deemed dissolution of stock companies that have not registered for 12 consecutive years.",
+    "japaneseLegalContext": "商業登記法第472条（会社法経由）: 12年間登記がされていない株式会社のみなし解散の根拠を定める。",
+    "exampleSentence": "If the company fails to respond to the administrative notification within the prescribed period, the registrar will proceed with the administrative clearing of dormant records and remove the entry.",
+    "exampleTranslation": "会社が所定の期間内に行政の通知に応答しない場合、登記官は休眠会社の行政整理を進め、その登記記録を抹消する。",
+    "vocabularyList": [
+      {
+        "word": "Registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "Dormant company",
+        "translation": "休眠会社"
+      },
+      {
+        "word": "Deemed dissolution",
+        "translation": "みなし解散"
+      },
+      {
+        "word": "Statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "Public notification",
+        "translation": "公告"
+      },
+      {
+        "word": "Remove the entry (deletion)",
+        "translation": "抹消"
+      }
+    ]
   }
 ]

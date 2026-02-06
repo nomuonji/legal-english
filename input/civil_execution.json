@@ -15664,5 +15664,107 @@
         "translation": "強制競売 (きょうせいけいばい)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Detailed Real Property Description",
+    "definition": "A mandatory document prepared by the execution court for a real property auction, detailing the property's physical status, legal encumbrances, and appraisal results.",
+    "japaneseDefinition": "不動産競売において執行裁判所が作成する、当該不動産の表示、権利関係、評価額などを記載した文書。",
+    "japaneseWordTranslation": "物件明細書 (ぶっけんめいさいしょ)",
+    "legalContext": "Civil Execution Act Art. 62 stipulates the items that must be described in the Detailed Real Property Description for immovable property execution.",
+    "japaneseLegalContext": "民事執行法第62条：不動産執行における物件明細書に記載すべき事項を定める。",
+    "exampleSentence": "The prospective buyer thoroughly reviewed the Detailed Real Property Description before submitting their bid in the compulsory auction.",
+    "exampleTranslation": "見込み客は、強制競売で入札する前に、物件明細書を徹底的に確認した。",
+    "vocabularyList": [
+      {
+        "word": "prospective buyer",
+        "translation": "見込み客 (みこみきゃく)"
+      },
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売 (きょうせいけいばい)"
+      },
+      {
+        "word": "encumbrance",
+        "translation": "負担 (ふたん)"
+      },
+      {
+        "word": "appraisal result",
+        "translation": "評価額 (ひょうかがく)"
+      },
+      {
+        "word": "submit a bid",
+        "translation": "入札する (にゅうさつする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Priority of Competing Seizures",
+    "definition": "The legal principle governing how multiple overlapping seizures (garnishment orders) against the same claim or asset are treated, usually leading to pro rata distribution among obligees.",
+    "japaneseDefinition": "同一の債権または財産に対し、複数の差押えが競合した場合に、それらの効力を調整し、債権者間で按分弁済するための法的原則。",
+    "japaneseWordTranslation": "差押えの競合 (さしおさえのきょうごう)",
+    "legalContext": "Civil Execution Act Art. 155(1) addresses the method of payment distribution when multiple seizures compete over a claim.",
+    "japaneseLegalContext": "民事執行法第155条第1項：債権執行における差押えの競合時の弁済の方法について定める。",
+    "exampleSentence": "Due to the Priority of Competing Seizures, the execution court must calculate the pro rata allocation carefully among the various execution obligees.",
+    "exampleTranslation": "差押えの競合のため、執行裁判所は、複数の執行債権者間の按分弁済を慎重に計算しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "multiple seizures",
+        "translation": "複数の差押え (ふくすうのさしおさえ)"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所 (しっこうさいばんしょ)"
+      },
+      {
+        "word": "pro rata allocation",
+        "translation": "按分弁済 (あんぶんべんさい)"
+      },
+      {
+        "word": "execution obligee",
+        "translation": "執行債権者 (しっこうさいけんしゃ)"
+      },
+      {
+        "word": "claim execution",
+        "translation": "債権執行 (さいけんしっこう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Delivery Order to Successful Bidder",
+    "definition": "A judicial order issued by the execution court compelling the former possessor (the obligor or a third party) to surrender the real property to the successful bidder following the auction sale.",
+    "japaneseDefinition": "競売による売却後、執行裁判所が、占有者（債務者または第三者）に対し、不動産を落札者に引き渡すよう命じる裁判。",
+    "japaneseWordTranslation": "引渡命令 (ひきわたしめいれい)",
+    "legalContext": "Civil Execution Act Art. 83-2 provides that the execution court may issue a delivery order upon motion by the successful bidder.",
+    "japaneseLegalContext": "民事執行法第83条の2：執行裁判所は、買受人の申立てにより引渡命令を発することができると定める。",
+    "exampleSentence": "The Delivery Order to Successful Bidder was necessary because the former owner refused to vacate the residential property voluntarily after the sale.",
+    "exampleTranslation": "元所有者が売却後に自発的に居住不動産を明け渡すことを拒否したため、買受人への引渡命令が必要となった。",
+    "vocabularyList": [
+      {
+        "word": "successful bidder",
+        "translation": "買受人 (かいうけにん)"
+      },
+      {
+        "word": "former owner",
+        "translation": "元所有者 (もとしょうゆうしゃ)"
+      },
+      {
+        "word": "to vacate",
+        "translation": "明け渡す (あけわたす)"
+      },
+      {
+        "word": "residential property",
+        "translation": "居住不動産 (きょじゅうふどうさん)"
+      },
+      {
+        "word": "upon motion",
+        "translation": "申立てにより (もうしたてにより)"
+      }
+    ]
   }
 ]

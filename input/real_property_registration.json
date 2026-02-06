@@ -13165,5 +13165,107 @@
         "translation": "処分の制限 (しょぶんのせいげん)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Merger (Parcels)",
+    "definition": "The procedure for combining two or more adjacent land plots, which are subject to the same category of land and ownership, into a single new parcel record (a type of factual description entry).",
+    "japaneseDefinition": "隣接する二つ以上の土地を、同一の地目および所有者である場合に、一つの土地として合体させるために行う登記（表示に関する登記の一種）。",
+    "japaneseWordTranslation": "合筆の登記 (ごうひつのとうき)",
+    "legalContext": "Real Property Registration Act Art. 41(1): Where land parcels have been merged, the owner must apply for the description entry within one month.",
+    "japaneseLegalContext": "不動産登記法第41条第1項：土地を合筆した場合において、表題部所有者は、一月以内に、表示に関する登記を申請しなければならない。",
+    "exampleSentence": "The owner was required to file a Registration of Merger (Parcels) after purchasing the adjoining plot and unifying the boundaries.",
+    "exampleTranslation": "所有者は隣接する土地を購入し、境界を統一した後、合筆の登記を申請する義務を負った。",
+    "vocabularyList": [
+      {
+        "word": "adjacent",
+        "translation": "隣接する"
+      },
+      {
+        "word": "factual description entry",
+        "translation": "表示に関する登記"
+      },
+      {
+        "word": "unifying the boundaries",
+        "translation": "境界を統一する"
+      },
+      {
+        "word": "parcel record",
+        "translation": "筆の記録"
+      },
+      {
+        "word": "category of land",
+        "translation": "地目"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registrar’s Ex Officio Authority",
+    "definition": "The statutory power vested in the registrar to perform certain registration procedures—such as correcting errors, deleting obsolete entries, or registering property descriptions—without an application from the interested parties.",
+    "japaneseDefinition": "登記官が、申請によらず、職務上の権限に基づいて特定の登記手続（誤謬の是正、不要な記録の抹消、不動産の表示の登記など）を単独で行うことのできる権限。",
+    "japaneseWordTranslation": "登記官の職権 (とうきかんのしょっけん)",
+    "legalContext": "Real Property Registration Act Art. 25(10): The registrar shall reject an application where the matter applied for is to be registered by the registrar’s ex officio authority.",
+    "japaneseLegalContext": "不動産登記法第25条第10号：申請に係る事項が登記官の職権をもって登記すべきものであるときは、登記の申請を却下しなければならない。",
+    "exampleSentence": "Upon discovering a clerical misstatement in the registered land area, the registrar exercised their Ex Officio Authority to perform the necessary description amendment.",
+    "exampleTranslation": "登記官は、登記された地積に事務的な誤りを発見したため、職権を行使して必要な表示の変更登記を行った。",
+    "vocabularyList": [
+      {
+        "word": "clerical misstatement",
+        "translation": "事務的な誤記"
+      },
+      {
+        "word": "statutory power",
+        "translation": "法令上の権限"
+      },
+      {
+        "word": "reject an application",
+        "translation": "申請を却下する"
+      },
+      {
+        "word": "correcting errors",
+        "translation": "誤謬の是正"
+      },
+      {
+        "word": "description amendment",
+        "translation": "表示の変更"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Retroactive Effect of Registration",
+    "definition": "The legal consequence whereby a later, substantive registration is deemed effective from the time a securing mechanism (like a preliminary filing) was initially accepted, thereby ensuring the preserved priority ranking.",
+    "japaneseDefinition": "順位を保全するための先行する手続（保全登記等）がなされていた場合、本登記が完了した際に、その本登記が先行する手続の時点に遡って効力を生じ、順位の保全が図られる法的効果。",
+    "japaneseWordTranslation": "登記の遡及的効力 (とうきのそきゅうてきこうりょく)",
+    "legalContext": "Real Property Registration Act Art. 106(2): The substantive registration made pursuant to a preliminary filing shall have the same priority ranking as the preliminary filing.",
+    "japaneseLegalContext": "不動産登記法第106条第2項：予備の登記に基づいて本登記をしたときは、その本登記の順位は、予備の登記の順位による。",
+    "exampleSentence": "Due to the Retroactive Effect of Registration, the subsequent transfer of ownership, perfected by the main registration, maintained its original priority over intervening secured interests.",
+    "exampleTranslation": "登記の遡及的効力により、本登記によって完全になった後の所有権移転は、間に介入した担保物権に対して、当初の順位を維持した。",
+    "vocabularyList": [
+      {
+        "word": "substantive registration",
+        "translation": "本登記"
+      },
+      {
+        "word": "priority ranking",
+        "translation": "順位"
+      },
+      {
+        "word": "securing mechanism",
+        "translation": "保全手続"
+      },
+      {
+        "word": "intervening secured interests",
+        "translation": "間に介入した担保物権"
+      },
+      {
+        "word": "legal consequence",
+        "translation": "法的効果"
+      }
+    ]
   }
 ]

@@ -1,42 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Subrogation by Performance",
-  "definition": "A statutory principle whereby a third party who legally performs an obligation (i.e., pays off a debt) on behalf of the original obligor acquires the rights, security interests, and guarantees that the obligee held against the obligor.",
-  "japaneseDefinition": "第三者が債務者に代わって弁済を行った場合に、その弁済者が債権者の有していた権利（担保権や保証など）を自己のために取得する法定の制度。",
-  "japaneseWordTranslation": "弁済による代位 (べんさいによるだいい)",
-  "legalContext": "Civil Code Art. 500 (Effect of Subrogation): 'A person who has subrogated by performance shall exercise his/her rights based on the original obligee's claim and the security interests attached thereto.'",
-  "japaneseLegalContext": "民法第500条（代位の効力）：『弁済をするについて正当な利益を有する者が弁済をしたときは、債権者に代位する。』",
-  "exampleSentence": "As the guarantor made full repayment of the loan, he acquired the security interest held by the bank through subrogation by performance.",
-  "exampleTranslation": "保証人がローンの全額を返済したため、彼は弁済による代位によって銀行が有していた担保権を取得した。",
+  "word": "Conclusion of Oral Arguments",
+  "definition": "The formal declaration by the court that the phase of submitting arguments and conducting evidence examination has ended, subsequent to which the court proceeds to deliberate and render judgment.",
+  "japaneseDefinition": "裁判所が、当事者による主張の提出や証拠調べの手続きを終了させ、判決の言渡しのために審理を締めくくること。",
+  "japaneseWordTranslation": "弁論終結 (べんろんしゅうけつ)",
+  "legalContext": "Code of Civil Procedure Art. 243: The court shall deliver a judgment after the conclusion of the hearing procedures (弁論).",
+  "japaneseLegalContext": "民事訴訟法第243条: 裁判所は、弁論の終結後に判決を言い渡す。",
+  "exampleSentence": "The court set the date for the **conclusion of oral arguments** for the end of the month, followed by the judgment delivery three weeks later.",
+  "exampleTranslation": "裁判所は、弁論終結の日を月末に定め、その3週間後に判決言渡しを行うこととした。",
   "vocabularyList": [
     {
-      "word": "obligor",
-      "translation": "債務者"
+      "word": "hearing procedures",
+      "translation": "弁論手続"
     },
     {
-      "word": "obligee",
-      "translation": "債権者"
+      "word": "submitting arguments",
+      "translation": "主張の提出"
     },
     {
-      "word": "third party",
-      "translation": "第三者"
+      "word": "evidence examination",
+      "translation": "証拠調べ"
     },
     {
-      "word": "security interest",
-      "translation": "担保権"
+      "word": "deliberate",
+      "translation": "評議する"
     },
     {
-      "word": "guarantor",
-      "translation": "保証人"
+      "word": "render judgment",
+      "translation": "判決を下す"
     },
     {
-      "word": "full repayment",
-      "translation": "全額の返済"
-    },
-    {
-      "word": "acquire the rights",
-      "translation": "権利を取得する"
+      "word": "judgment delivery",
+      "translation": "判決言渡し"
     }
   ]
 }

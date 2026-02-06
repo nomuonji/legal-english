@@ -15448,5 +15448,119 @@
         "translation": "既存の負担 (きそんのふたん)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Advance Payment Principle",
+    "definition": "The requirement that the execution obligee must pay the necessary estimated costs (e.g., appraisal fees, filing fees) of the execution procedure in advance when filing the application.",
+    "japaneseDefinition": "民事執行手続を開始するにあたり、申立人である債権者に対して、手続遂行に必要な費用（鑑定費用、予納金等）を裁判所に前もって納付することを義務付ける原則。",
+    "japaneseWordTranslation": "予納主義 (よのうしゅぎ)",
+    "legalContext": "Civil Execution Act Art. 14 (Application for Execution): Stipulates that an application for execution must be accompanied by the prescribed costs.",
+    "japaneseLegalContext": "民事執行法第14条（執行の申立て）：執行の申立てには、必要な費用を納めなければならないと定める。",
+    "exampleSentence": "The execution court dismissed the application for compulsory administration because the obligee failed to satisfy the Advance Payment Principle.",
+    "exampleTranslation": "債権者が予納主義を満たさなかったため、執行裁判所は強制管理の申立てを却下した。",
+    "vocabularyList": [
+      {
+        "word": "dismissed the application",
+        "translation": "申立てを却下した (もうしたてをきゃっかした)"
+      },
+      {
+        "word": "compulsory administration",
+        "translation": "強制管理 (きょうせいかんり)"
+      },
+      {
+        "word": "estimated costs",
+        "translation": "概算費用 (がいさんひよう)"
+      },
+      {
+        "word": "filing the application",
+        "translation": "申立てを行う (もうしたてをおこなう)"
+      },
+      {
+        "word": "execution procedure",
+        "translation": "執行手続 (しっこうてつづき)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Measure for Realization",
+    "definition": "An interim protective order issued by the execution court, typically during compulsory auction or administration procedures, to safeguard the property's value or status against detrimental actions by the debtor before the sale is finalized.",
+    "japaneseDefinition": "強制競売や強制管理の手続において、執行の対象である不動産の現状を維持し、または価値の毀損を防ぐために、執行裁判所が出す暫定的な保全措置。",
+    "japaneseWordTranslation": "換価のための保全処分 (かんかのためのほぜんしょぶん)",
+    "legalContext": "Civil Execution Act Art. 48 & 94: Defines the court's authority to issue preservation measures necessary for realizing the value of real property (e.g., prohibition of transfer of possession).",
+    "japaneseLegalContext": "民事執行法第48条及び第94条：不動産の換価に必要な保全処分（占有移転禁止の処分など）を行う裁判所の権限を定める。",
+    "exampleSentence": "The Preservation Measure for Realization was enforced to prevent the debtor from demolishing improvements on the land subject to compulsory auction.",
+    "exampleTranslation": "競売対象の土地の上の建物を取り壊すことを債務者が阻止するため、換価のための保全処分が執行された。",
+    "vocabularyList": [
+      {
+        "word": "enforced",
+        "translation": "執行された (しっこうされた)"
+      },
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売 (きょうせいけいばい)"
+      },
+      {
+        "word": "demolishing improvements",
+        "translation": "増築物を取壊す (ぞうちくぶつをとりこわす)"
+      },
+      {
+        "word": "safeguard the property's value",
+        "translation": "財産の価値を保全する (ざいさんのかちをほぜんする)"
+      },
+      {
+        "word": "interim protective order",
+        "translation": "暫定的保全命令 (ざんていてきほぜんめいれい)"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者 (さいむしゃ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Investigation by the Execution Court",
+    "definition": "The judicial inquiry process conducted by the execution court regarding the physical status, boundaries, encumbrances, and use of real property subject to compulsory execution, often utilizing a judicial appraiser and surveyor.",
+    "japaneseDefinition": "強制執行の対象となる不動産について、その現況、境界、負担（権利関係）、利用状況などを把握するために、執行裁判所が鑑定人や執行官を用いて行う調査手続。",
+    "japaneseWordTranslation": "執行裁判所による調査 (しっこうさいばんしょによるちょうさ)",
+    "legalContext": "Civil Execution Act Art. 49 (Investigation): The court shall commission a judicial appraiser or execution officer to investigate the property status necessary for the sale procedure.",
+    "japaneseLegalContext": "民事執行法第49条（調査）：裁判所は、売却手続に必要な不動産の現況等について、鑑定人又は執行官に調査を命じなければならない。",
+    "exampleSentence": "Based on the Investigation by the Execution Court, the appraiser determined the fair market value of the encumbered real property.",
+    "exampleTranslation": "執行裁判所による調査に基づき、鑑定人は当該負担付き不動産の公正な市場価値を算定した。",
+    "vocabularyList": [
+      {
+        "word": "judicial appraiser",
+        "translation": "鑑定人 (かんていにん)"
+      },
+      {
+        "word": "fair market value",
+        "translation": "公正な市場価値 (こうせいなしかち)"
+      },
+      {
+        "word": "encumbered real property",
+        "translation": "負担付き不動産 (ふたんつきふどうさん)"
+      },
+      {
+        "word": "physical status",
+        "translation": "現況 (げんきょう)"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行 (きょうせいしっこう)"
+      },
+      {
+        "word": "commission",
+        "translation": "命じる (めいじる)"
+      }
+    ]
   }
 ]

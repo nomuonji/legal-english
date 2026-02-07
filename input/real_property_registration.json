@@ -2,44 +2,6 @@
   {
     "category": "Real Property Registration (不動産登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Registrar",
-    "definition": "A national public servant appointed to execute the administrative affairs related to registration at the Registry Office, vested with the authority to examine applications, make dispositions, and correct errors.",
-    "japaneseDefinition": "法務局に置かれ、登記事務を執行するために任命された国家公務員であり、申請の審査、処分、誤りの更正などの権限を持つ。",
-    "japaneseWordTranslation": "登記官 (とうきかん)",
-    "legalContext": "Real Property Registration Act (Art. 25): If the application is non-compliant with the required procedures or requirements, the Registrar shall dismiss the application by making a disposition.",
-    "japaneseLegalContext": "不動産登記法第25条: 登記の申請が法定の手続又は要件に適合しない場合は、登記官は処分により当該申請を却下しなければならない。",
-    "exampleSentence": "The Registrar requested a supplementary explanation regarding the identity confirmation documents submitted with the application.",
-    "exampleTranslation": "登記官は、申請書と共に提出された本人確認資料について補足的な説明を求めた。",
-    "vocabularyList": [
-      {
-        "word": "Registry Office",
-        "translation": "登記所 (とうきしょ)"
-      },
-      {
-        "word": "national public servant",
-        "translation": "国家公務員"
-      },
-      {
-        "word": "examine applications",
-        "translation": "申請を審査する"
-      },
-      {
-        "word": "dismiss the application",
-        "translation": "申請を却下する"
-      },
-      {
-        "word": "disposition",
-        "translation": "処分 (しょぶん)"
-      },
-      {
-        "word": "identity confirmation documents",
-        "translation": "本人確認資料"
-      }
-    ]
-  },
-  {
-    "category": "Real Property Registration (不動産登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Application based on a Vested Judgment",
     "definition": "An application for registration filed unilaterally by the entitled party (registration obligee) when the other party (registration obligor) fails to cooperate in the required joint application process, provided that the applicant holds a final and binding judicial ruling compelling such cooperation.",
     "japaneseDefinition": "登記権利者（登記名義人となる者）が、共同申請の義務がある相手方（登記義務者）の不協力に対し、登記手続を命じる確定判決を得て、単独で申請する登記手続。",
@@ -13455,6 +13417,74 @@
       {
         "word": "legally void",
         "translation": "法的に無効 (hōteki ni mukō)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration Identification Information (RIC)",
+    "definition": "A 12-digit alphanumeric code issued by the registrar to the new registered owner or rights holder, serving as digital proof of their legal identity and authority when subsequently applying for rights changes.",
+    "japaneseDefinition": "登記を申請する際に、申請人が登記名義人であることを証明するための12桁の符号（アルファベットとアラビア数字を組み合わせたもの）。",
+    "japaneseWordTranslation": "登記識別情報 (とうきしきべつじょうほう)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Art. 2 (14): Definition of Registration Identification Information.",
+    "japaneseLegalContext": "不動産登記法 第2条 第14号：登記識別情報の定義",
+    "exampleSentence": "The **Registration Identification Information** must be provided when the current registered title holder applies for a transfer of ownership to a third party.",
+    "exampleTranslation": "現在の登記名義人が第三者への所有権移転を申請する際、登記識別情報を提供しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "alphanumeric code",
+        "translation": "英数字の符号"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "rights holder",
+        "translation": "権利者"
+      },
+      {
+        "word": "transfer of ownership",
+        "translation": "所有権の移転"
+      },
+      {
+        "word": "current",
+        "translation": "現在の"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Building Survey Drawing",
+    "definition": "A necessary accompanying document for the initial registration of a building, illustrating the building's physical structure, exterior boundaries, and specific location in relation to adjacent parcels.",
+    "japaneseDefinition": "建物の表示の登記を申請する際に添付される図面。建物の各階平面や敷地内における位置を明確に示すものであり、土地家屋調査士等が作成する。",
+    "japaneseWordTranslation": "建物図面 (たてものずめん)",
+    "legalContext": "Real Property Registration Act (不動産登記法) Art. 44 (1): When applying for an indication registration of a building, a building survey drawing and floor plan must be attached.",
+    "japaneseLegalContext": "不動産登記法 第44条 第1項：建物の表示に関する登記を申請するときは、申請情報と併せて建物図面及び各階平面図を提供しなければならない。",
+    "exampleSentence": "Before submitting the application for initial building registration, the applicant must ensure the accompanying **Building Survey Drawing** accurately reflects the dimensions and location of the new structure.",
+    "exampleTranslation": "建物表題登記の申請を提出する前に、申請者は添付される建物図面が新築建物の寸法及び位置を正確に反映していることを確認しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "accompanying document",
+        "translation": "添付書類"
+      },
+      {
+        "word": "initial registration",
+        "translation": "表題登記（最初の登記）"
+      },
+      {
+        "word": "exterior boundaries",
+        "translation": "外周の境界"
+      },
+      {
+        "word": "adjacent parcels",
+        "translation": "隣接する筆"
+      },
+      {
+        "word": "dimensions",
+        "translation": "寸法"
       }
     ]
   }

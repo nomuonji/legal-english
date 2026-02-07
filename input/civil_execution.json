@@ -15766,5 +15766,119 @@
         "translation": "申立てにより (もうしたてにより)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Instrument of Obligation",
+    "definition": "The formal document (e.g., judgment, settlement protocol, notarized deed with execution clause) that legally establishes the existence and scope of the monetary or non-monetary claim, serving as the basis for compulsory execution.",
+    "japaneseDefinition": "強制執行を求めるための請求権の存在及び範囲を証明する公的な文書（判決、和解調書、執行証書など）。",
+    "japaneseWordTranslation": "債務名義 (Saimu Meigi)",
+    "legalContext": "Civil Execution Act, Article 22: The execution shall be carried out based on the instruments of obligation listed in the following items.",
+    "japaneseLegalContext": "民事執行法第22条: 執行は、次に掲げる債務名義により行う。",
+    "exampleSentence": "The creditor filed a motion for compulsory execution, submitting the authenticated copy of the judgment as the Instrument of Obligation.",
+    "exampleTranslation": "債権者は、判決の正本を債務名義として提出し、強制執行の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "authenticated copy",
+        "translation": "正本 (seihon)"
+      },
+      {
+        "word": "compulsory execution",
+        "translation": "強制執行 (kyōsei shikkō)"
+      },
+      {
+        "word": "notarized deed",
+        "translation": "公正証書 (kōsei shōsho)"
+      },
+      {
+        "word": "judgment",
+        "translation": "判決 (hanketsu)"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者 (saikensha)"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て (mōshitate)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Motion for Change in Realization Method",
+    "definition": "A formal application made to the execution court requesting the method by which seized property is converted into money be changed (e.g., changing from a public auction to a sale by tender, or vice versa).",
+    "japaneseDefinition": "執行裁判所に対して、差し押さえた財産を金銭に換えるための方法（通常は競売）の変更を求める申立て。",
+    "japaneseWordTranslation": "換価方法の変更の申立て (Kanka Hōhō no Henkō no Mōshitate)",
+    "legalContext": "Civil Execution Act, Article 63: In relation to the realization of immovable property, the execution court may, upon motion or ex officio, make a decision to change the realization method.",
+    "japaneseLegalContext": "民事執行法第63条: 不動産の換価に関し、執行裁判所は、申立てにより又は職権で、換価方法の変更の決定をすることができる。",
+    "exampleSentence": "Due to insufficient bids in the first attempt, the execution creditor filed a Motion for Change in Realization Method, suggesting a negotiated sale.",
+    "exampleTranslation": "最初の試行で入札が不十分であったため、執行債権者は、随意契約による売却を提案する換価方法の変更の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "realization",
+        "translation": "換価 (kanka)"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所 (shikkō saibansho)"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産 (fudōsan)"
+      },
+      {
+        "word": "ex officio",
+        "translation": "職権で (shokken de)"
+      },
+      {
+        "word": "negotiated sale",
+        "translation": "随意契約 (zuī keiyaku)"
+      },
+      {
+        "word": "seized property",
+        "translation": "差し押さえた財産 (sashiosae ta zaisan)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cancellation of Commencement of Auction Decision",
+    "definition": "A judicial decision by the execution court to annul the initial order that began the compulsory auction process, typically because the obligor has satisfied the claim or a successful execution objection has been raised.",
+    "japaneseDefinition": "強制競売手続きの開始を命じた裁判所の決定を、債務者の請求権の弁済や異議申し立てなどの理由により取り消すこと。",
+    "japaneseWordTranslation": "競売開始決定の取消し (Keibai Kaishi Kettei no Torikeshi)",
+    "legalContext": "Civil Execution Act, Article 39: The execution court shall cancel the decision of commencement of execution when the execution obligor submits documents proving the extinguishment or non-existence of the claim.",
+    "japaneseLegalContext": "民事執行法第39条: 執行債務者が請求権の消滅又は不存在を証明する文書を提出したときは、執行裁判所は、執行開始の決定を取り消さなければならない。",
+    "exampleSentence": "The obligor successfully secured a loan and tendered the full judgment amount, leading to the court's Cancellation of Commencement of Auction Decision.",
+    "exampleTranslation": "債務者は融資を確保し、判決金の全額を履行したため、裁判所による競売開始決定の取消しにつながった。",
+    "vocabularyList": [
+      {
+        "word": "auction decision",
+        "translation": "競売決定 (keibai kettei)"
+      },
+      {
+        "word": "annul",
+        "translation": "取り消す (torikesu)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者 (saimusha)"
+      },
+      {
+        "word": "satisfy the claim",
+        "translation": "請求権を弁済する (seikyūken wo bensai suru)"
+      },
+      {
+        "word": "extinguishment",
+        "translation": "消滅 (shōmetsu)"
+      },
+      {
+        "word": "judgment amount",
+        "translation": "判決金 (hanketsukin)"
+      }
+    ]
   }
 ]

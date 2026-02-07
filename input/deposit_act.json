@@ -10872,5 +10872,81 @@
         "translation": "管理者"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obligor's Release from Liability",
+    "definition": "The legal consequence, upon valid statutory deposit, that the obligor is discharged from the debt obligation, treating performance as completed.",
+    "japaneseDefinition": "有効な供託がなされた結果として、債務者がその債務の履行を完了したものとみなされ、責任を免れること。",
+    "japaneseWordTranslation": "債務者の責任解除 (Saimusha no Sekinin Kaijo)",
+    "legalContext": "Civil Code Art. 494 (Effect of Deposit): If the obligor makes a deposit... the obligation shall be extinguished.",
+    "japaneseLegalContext": "民法第494条（供託の効果）：債務者が供託をしたときは、その債権は消滅する。",
+    "exampleSentence": "The timely execution of the deposit led to the immediate obligor's release from liability, despite the creditor's refusal to accept the tender.",
+    "exampleTranslation": "期限内の供託の実行により、債権者が弁済の提供を拒否したにもかかわらず、直ちに債務者の責任解除が生じた。",
+    "vocabularyList": [
+      {
+        "word": "Obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "Extinguished",
+        "translation": "消滅した"
+      },
+      {
+        "word": "Tender",
+        "translation": "弁済の提供"
+      },
+      {
+        "word": "Execution",
+        "translation": "実行"
+      },
+      {
+        "word": "Refusal",
+        "translation": "拒否"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deposit of Non-monetary Assets",
+    "definition": "The procedure of consigning goods or assets other than cash (such as commodities or certain rights) to the competent official entity as a means of performance or security.",
+    "japaneseDefinition": "金銭以外の目的物（動産、有価証券、その他特定の権利等）を、弁済または担保の目的で供託所に保管させる手続き。",
+    "japaneseWordTranslation": "非金銭供託 (Hikinsen Kyōtaku)",
+    "legalContext": "Deposit Act Art. 3 (Deposit Property): Where the subject matter of the performance is other than money, the obligor must consign the property to the deposit repository.",
+    "japaneseLegalContext": "供託法第3条（供託物）：弁済の目的物が金銭でないときは、供託者はその物を供託所に寄託しなければならない。",
+    "exampleSentence": "Since the contracted goods were perishable, the obligor was required to proceed with the deposit of non-monetary assets to discharge his duty.",
+    "exampleTranslation": "契約上の商品が腐敗しやすいものであったため、債務者は義務を免れるために非金銭供託を進める必要があった。",
+    "vocabularyList": [
+      {
+        "word": "Perishable",
+        "translation": "腐敗しやすい"
+      },
+      {
+        "word": "Commodities",
+        "translation": "商品"
+      },
+      {
+        "word": "Consign",
+        "translation": "寄託する"
+      },
+      {
+        "word": "Subject matter",
+        "translation": "目的物"
+      },
+      {
+        "word": "Repository",
+        "translation": "供託所"
+      },
+      {
+        "word": "Proceed with",
+        "translation": "手続きを進める"
+      }
+    ]
   }
 ]

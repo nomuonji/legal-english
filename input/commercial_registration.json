@@ -14218,5 +14218,73 @@
         "translation": "添付書類 (てんぷしょるい)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Default in Registration Duty",
+    "definition": "The failure of a commercial entity or its representative to apply for registration of required particulars within the statutory period stipulated by the Commercial Registration Act or other applicable laws.",
+    "japaneseDefinition": "会社等の登記義務者が、法令で定められた期間内に、登記の申請を行うべき義務を怠ること。これには、会社法上の代表取締役の変更登記の懈怠などが含まれる。",
+    "japaneseWordTranslation": "登記懈怠 (とうきけたい)",
+    "legalContext": "Commercial Registration Act Art. 136: 'Any person who fails to make an application for registration... within the period stipulated by this Act... shall be subject to an administrative fine.'",
+    "japaneseLegalContext": "商業登記法第136条: 「この法律又は他の法律の規定により登記をすべき期間内に登記の申請をしない者があるときは、裁判所は、過料に処する。」(過料は行政罰として規定されている)",
+    "exampleSentence": "The company faced severe administrative sanctions due to a prolonged default in registration duty regarding the resolution to appoint a new statutory auditor.",
+    "exampleTranslation": "その会社は、新たな監査役を選任する決議に関する登記懈怠が長期にわたったため、厳しい行政処分に直面した。",
+    "vocabularyList": [
+      {
+        "word": "Statutory period",
+        "translation": "法定期間 (ほうていきかん)"
+      },
+      {
+        "word": "Administrative sanction",
+        "translation": "行政処分 (ぎょうせいしょぶん)"
+      },
+      {
+        "word": "Statutory auditor",
+        "translation": "監査役 (かんさやく)"
+      },
+      {
+        "word": "Registration duty",
+        "translation": "登記義務 (とうきぎむ)"
+      },
+      {
+        "word": "Resolution",
+        "translation": "決議 (けつぎ)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Registration Particulars",
+    "definition": "Specific items (e.g., trade name, business purpose, stated capital, location of head office, and names of representative directors) concerning a commercial entity that must be legally recorded in the Commercial Register for public disclosure.",
+    "japaneseDefinition": "商号、目的、資本金、本店所在地、代表取締役の氏名等、会社が第三者に対して公示するために、法律により商業登記簿への記録が義務付けられている情報。",
+    "japaneseWordTranslation": "登記すべき事項 (とうきすべきじこう)",
+    "legalContext": "Commercial Registration Act Art. 2 (Application): 'Registration shall be made based on the application of the party concerned unless otherwise provided for in the laws and regulations.' (These particulars form the basis of the application.)",
+    "japaneseLegalContext": "商業登記法第2条: 「登記は、法令に別段の定めがある場合を除き、当事者の申請又は嘱託により行う。」 (これらの事項が申請の基礎となる)",
+    "exampleSentence": "Failure to register changes to any mandatory registration particulars, such as an increase in stated capital, prevents the company from asserting those changes against a third party in good faith.",
+    "exampleTranslation": "資本金の増加など、登記すべき事項の変更を登記しなかった場合、会社は当該変更を善意の第三者に対抗することができない。",
+    "vocabularyList": [
+      {
+        "word": "Trade name",
+        "translation": "商号 (しょうごう)"
+      },
+      {
+        "word": "Business purpose",
+        "translation": "目的 (もくてき)"
+      },
+      {
+        "word": "Stated capital",
+        "translation": "資本金 (しほんきん)"
+      },
+      {
+        "word": "Representative director",
+        "translation": "代表取締役 (だいひょうとりしまりやく)"
+      },
+      {
+        "word": "Public disclosure",
+        "translation": "公示 (こうじ)"
+      }
+    ]
   }
 ]

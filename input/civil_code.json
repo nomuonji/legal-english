@@ -19520,5 +19520,107 @@
         "translation": "仕様 (しよう)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mental Reservation",
+    "definition": "A declaration of intention made by a party who knows that the intention stated does not correspond to their true subjective will. Such a declaration is generally valid, unless the other party knew or should have known of the reservation.",
+    "japaneseDefinition": "表意者が真意ではないことを知ってなす意思表示。原則として有効だが、相手方がその真意ではないことを知っていた、または知ることができた場合は無効となる。",
+    "japaneseWordTranslation": "心裡留保 (しんりりゅうほ)",
+    "legalContext": "Civil Code Art. 93 (Declaration of intention made with reservation): A declaration of intention shall not be invalidated solely because the declarant knew that it was not his true intention. However, if the other party knew or should have known of the declarant’s reservation, the declaration shall be void.",
+    "japaneseLegalContext": "民法第93条（心裡留保）：意思表示は、表意者がその真意ではないことを知ってしたときであっても、そのためにその効力を妨げられない。ただし、相手方がその意思表示が表意者の真意ではないことを知り、又は知ることができたときは、その意思表示は、無効とする。",
+    "exampleSentence": "The transaction involving the conveyance of the property was found to be void as the recipient was aware of the grantor’s mental reservation.",
+    "exampleTranslation": "財産の譲渡に関わる取引は、譲受人が譲渡人の心裡留保を知っていたため、無効であると判断された。",
+    "vocabularyList": [
+      {
+        "word": "declarant",
+        "translation": "表意者 (ひょういしゃ)"
+      },
+      {
+        "word": "true intention",
+        "translation": "真意 (しんい)"
+      },
+      {
+        "word": "invalidate",
+        "translation": "効力を妨げる (こうりょくをさまたげる)"
+      },
+      {
+        "word": "conveyance",
+        "translation": "譲渡 (じょうと)"
+      },
+      {
+        "word": "reservation",
+        "translation": "留保 (りゅうほ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Effectiveness by Dispatch",
+    "definition": "A rule stating that a declaration or notice becomes legally effective at the moment it is sent or transmitted by the sender, contrasting with the general rule of effectiveness upon arrival.",
+    "japaneseDefinition": "意思表示や通知の効力発生時期に関する原則の一つで、それが相手方に到達した時ではなく、発信された時に効力を生ずるという主義。",
+    "japaneseWordTranslation": "発信主義 (はっしんしゅぎ)",
+    "legalContext": "Civil Code Art. 439 (Notice of selection): If the obligee gives notice of selection to the obligor, the notice shall become effective when dispatched. (An example of an exception to the arrival rule).",
+    "japaneseLegalContext": "民法第439条（選択権の行使）：債権者が債務者に対して選択の通知をしたときは、その通知は、発した時から効力を生ずる。",
+    "exampleSentence": "According to the contract terms regarding the alternative obligation, the obligee's selection takes effect upon dispatch, utilizing the principle of effectiveness by dispatch.",
+    "exampleTranslation": "選択債権に関する契約条項に基づき、債権者による選択は、発信主義の原則を用いて、発送時をもって効力を生じる。",
+    "vocabularyList": [
+      {
+        "word": "obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "alternative obligation",
+        "translation": "選択債権 (せんたくさいけん)"
+      },
+      {
+        "word": "selection",
+        "translation": "選択 (せんたく)"
+      },
+      {
+        "word": "upon dispatch",
+        "translation": "発信時 (はっしんじ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right of Inquiry and Search",
+    "definition": "A procedural defense granted to a surety who is not jointly and severally liable with the principal debtor, allowing them to refuse payment until the creditor has first exhausted remedies against the principal debtor's attachable property.",
+    "japaneseDefinition": "連帯保証ではない保証人が持つ抗弁権の一つで、債権者がまず主たる債務者に請求し、かつ主たる債務者に執行の容易な財産があることを証明した場合に限り、債務の履行を拒否できる権利。",
+    "japaneseWordTranslation": "検索の抗弁権 (けんさくのこうべんけん)",
+    "legalContext": "Civil Code Art. 452 (Right of Inquiry and Search): If the creditor demands performance from the surety, the surety may refuse to perform until the creditor has sought performance from the principal obligor and proved that the principal obligor possesses the capacity to pay and property sufficient to satisfy the obligation.",
+    "japaneseLegalContext": "民法第452条（検索の抗弁）：債権者が保証人に債務の履行を請求したときは、保証人は、まず主たる債務者に催告をすべきことを請求し、又は主たる債務者に弁済をする資力があり、かつ、執行が容易であることを証明して、その履行を拒むことができる。",
+    "exampleSentence": "The surety successfully invoked the right of inquiry and search, demonstrating that the principal debtor possessed sufficient attachable assets within the jurisdiction.",
+    "exampleTranslation": "保証人は、主たる債務者が管轄区域内に十分な差押可能な財産を有していることを証明し、検索の抗弁権の行使に成功した。",
+    "vocabularyList": [
+      {
+        "word": "surety",
+        "translation": "保証人 (ほしょうにん)"
+      },
+      {
+        "word": "principal debtor",
+        "translation": "主たる債務者 (しゅたるさいむしゃ)"
+      },
+      {
+        "word": "refuse to perform",
+        "translation": "履行を拒む (りこうをこばむ)"
+      },
+      {
+        "word": "attachable assets",
+        "translation": "差押可能な財産 (さしおさえかのうなざいさん)"
+      },
+      {
+        "word": "satisfy the obligation",
+        "translation": "債務を弁済する (さいむをべんさいする)"
+      }
+    ]
   }
 ]

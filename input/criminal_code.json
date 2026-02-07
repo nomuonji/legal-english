@@ -2,48 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Abuse of Authority",
-    "definition": "The crime committed by a public official who, utilizing their official powers, illegally causes a person to perform an act that the person is not obliged to perform, or obstructs a person from exercising their rights.",
-    "japaneseDefinition": "公務員がその職権を濫用し、人に義務のないことを行わせ、又は権利の行使を妨害することによって成立する犯罪。",
-    "japaneseWordTranslation": "職権濫用罪 (しょっけんらんようざい)",
-    "legalContext": "Criminal Code Art. 194 (Abuse of Authority): A public officer who, in the exercise of their authority, causes a person to perform an act which the person is not obliged to perform, or obstructs a person from exercising their rights, shall be punished by imprisonment with or without labor for not more than two years or a fine of not more than 100,000 yen.",
-    "japaneseLegalContext": "刑法第194条（職権濫用）：公務員が、その職権を濫用し、人に義務のないことを行わせ、又は人の権利の行使を妨害したときは、二年以下の懲役若しくは禁錮又は十万円以下の罰金に処する。",
-    "exampleSentence": "The former police chief was indicted on charges of abuse of authority for using his position to halt an investigation into his associates.",
-    "exampleTranslation": "元警察署長は、自己の関係者に対する捜査を中止させるために地位を利用したとして、職権濫用の容疑で起訴された。",
-    "vocabularyList": [
-      {
-        "word": "public official",
-        "translation": "公務員"
-      },
-      {
-        "word": "exercise of authority",
-        "translation": "職権の行使"
-      },
-      {
-        "word": "indicted",
-        "translation": "起訴された"
-      },
-      {
-        "word": "investigation",
-        "translation": "捜査"
-      },
-      {
-        "word": "halt",
-        "translation": "中止させる"
-      },
-      {
-        "word": "obliged",
-        "translation": "義務を負う"
-      },
-      {
-        "word": "former police chief",
-        "translation": "元警察署長"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Criminal Intent",
     "definition": "The mental element of an accused person's guilt (mens rea), referring to the knowledge and volition required for the commission of a crime, meaning the perpetrator acted knowingly and willingly regarding the constitutive elements of the crime.",
     "japaneseDefinition": "犯罪を構成する事実を認識し、かつ、それを実現しようとする意思のこと。刑法上の責任要素の一つであり、故意犯の成立に不可欠である。",
@@ -15980,6 +15938,124 @@
       {
         "word": "jurisprudence",
         "translation": "判例 (はんれい)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mistake of Justification",
+    "definition": "A mistake of law where the offender erroneously believes that the factual circumstances constitute a legal ground for justification (e.g., self-defense or necessity), thereby making their act lawful.",
+    "japaneseDefinition": "行為者が、事実の状況について、行為を正当化し違法性を阻却する事由（正当防衛や緊急避難など）が存在すると誤認すること。",
+    "japaneseWordTranslation": "違法性阻却事由の錯誤 (Ihōsei Sokyaku Jiyū no Sakugo)",
+    "legalContext": "Criminal Law General Principle (regarding the relationship between culpability and illegality).",
+    "japaneseLegalContext": "刑法総論の一般原則 (責任と違法性に関する原則)",
+    "exampleSentence": "The defendant claimed Mistake of Justification, arguing they believed the physical force used was necessary to prevent an imminent property offense.",
+    "exampleTranslation": "被告人は、その行使した実力が切迫した財産犯を阻止するために必要であると信じていたとして、違法性阻却事由の錯誤を主張した。",
+    "vocabularyList": [
+      {
+        "word": "Offender",
+        "translation": "行為者"
+      },
+      {
+        "word": "Legal ground for justification",
+        "translation": "正当化事由"
+      },
+      {
+        "word": "Culpability",
+        "translation": "責任"
+      },
+      {
+        "word": "Illegality",
+        "translation": "違法性"
+      },
+      {
+        "word": "Property offense",
+        "translation": "財産犯"
+      },
+      {
+        "word": "Physical force",
+        "translation": "実力"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Damage to Documents",
+    "definition": "The crime of damaging, destroying, or rendering ineffective a document belonging to another person or a public record, punishable under the Specific Part of the Criminal Code.",
+    "japaneseDefinition": "他人の所有にかかる文書または公務所の公用文書を損壊、廃棄、または使用不能にする犯罪で、刑法典の各論に規定される。",
+    "japaneseWordTranslation": "文書損壊罪 (Bunsho Sonkai Zai)",
+    "legalContext": "Penal Code Art. 259 (Destruction of Documents) and related provisions.",
+    "japaneseLegalContext": "刑法第259条 (文書損壊等) および関連規定",
+    "exampleSentence": "The disgruntled employee was charged with Damage to Documents after shredding crucial contractual agreements prior to his departure.",
+    "exampleTranslation": "不満を持った従業員は、退職前に重要な契約書をシュレッダーにかけた後、文書損壊罪で起訴された。",
+    "vocabularyList": [
+      {
+        "word": "Document",
+        "translation": "文書"
+      },
+      {
+        "word": "Destruction",
+        "translation": "損壊"
+      },
+      {
+        "word": "Specific Part",
+        "translation": "各論"
+      },
+      {
+        "word": "Contractual agreement",
+        "translation": "契約書"
+      },
+      {
+        "word": "Disgruntled employee",
+        "translation": "不満を持った従業員"
+      },
+      {
+        "word": "Public record",
+        "translation": "公用文書"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "State of Incapacity to Consent",
+    "definition": "A condition, established in the revised Penal Code for sexual offenses, where a victim is physically or mentally unable to form or express a genuine intention regarding sexual acts, including states of intoxication, sleep, or fear.",
+    "japaneseDefinition": "改正刑法における不同意性交等罪の構成要件を定める要素の一つで、被害者が酩酊、睡眠、恐怖などにより、性行為に対する真の意思を形成し、または表明することが困難な状態。",
+    "japaneseWordTranslation": "同意困難な状態 (Dōi Konnan na Jōtai)",
+    "legalContext": "Penal Code Art. 177 (Sexual Intercourse without Consent) and surrounding provisions (2023 revision).",
+    "japaneseLegalContext": "刑法第177条 (不同意性交等罪) および関連規定 (2023年改正)",
+    "exampleSentence": "Proving the victim was in a State of Incapacity to Consent is crucial for establishing the offense of sexual intercourse without consent under the new legislation.",
+    "exampleTranslation": "新しい法律の下で不同意性交等罪を立証するためには、被害者が同意困難な状態にあったことを証明することが重要である。",
+    "vocabularyList": [
+      {
+        "word": "Sexual offenses",
+        "translation": "性犯罪"
+      },
+      {
+        "word": "Victim",
+        "translation": "被害者"
+      },
+      {
+        "word": "Intoxication",
+        "translation": "酩酊"
+      },
+      {
+        "word": "Sexual intercourse without consent",
+        "translation": "不同意性交等罪"
+      },
+      {
+        "word": "To form intention",
+        "translation": "意思を形成する"
+      },
+      {
+        "word": "New legislation",
+        "translation": "新しい法律"
+      },
+      {
+        "word": "To express intention",
+        "translation": "意思を表明する"
       }
     ]
   }

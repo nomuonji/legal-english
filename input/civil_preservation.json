@@ -13072,5 +13072,119 @@
         "translation": "債務者 (さいむしゃ)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Possession Transfer Prohibition Injunction",
+    "definition": "A provisional disposition order specifically preventing the preservation debtor from transferring possession of the disputed object (typically real estate) to a third party, ensuring that the creditor's future claim for delivery or surrender can be executed.",
+    "japaneseDefinition": "債務者が係争物たる不動産などの占有を第三者に移転することを禁止し、将来の引渡し強制執行に備えるための仮処分。",
+    "japaneseWordTranslation": "占有移転禁止の仮処分 (せんゆういてんきんしのかりしょぶん)",
+    "legalContext": "Civil Preservation Act Art. 52(2) (Application by analogy to provisional dispositions regarding the subject matter of dispute).",
+    "japaneseLegalContext": "民事保全法第52条第2項（争いの目的である権利に関する仮処分への準用）",
+    "exampleSentence": "The obligee filed for a Possession Transfer Prohibition Injunction against the real estate prior to initiating the action for delivery, preventing the obligor from leasing it out.",
+    "exampleTranslation": "債権者は、引渡しを求める訴訟を提起する前に、不動産に対する占有移転禁止の仮処分を申し立て、債務者がそれを賃貸することを阻止した。",
+    "vocabularyList": [
+      {
+        "word": "Obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "Disputed object",
+        "translation": "係争物 (けいそうぶつ)"
+      },
+      {
+        "word": "Initiating the action",
+        "translation": "訴訟を提起する (そしょうをていきする)"
+      },
+      {
+        "word": "Real estate",
+        "translation": "不動産 (ふどうさん)"
+      },
+      {
+        "word": "Execution",
+        "translation": "強制執行 (きょうせいしっこう)"
+      },
+      {
+        "word": "Leasing out",
+        "translation": "賃貸する (ちんたいする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Status Quo Maintenance Disposition",
+    "definition": "A type of provisional disposition granted to the preservation creditor to maintain the existing physical or legal status of the disputed object or situation, ensuring the effectiveness of the future judgment on the merits.",
+    "japaneseDefinition": "争いの目的となっている物または権利の現状を保全するために行う仮処分。判決が確定するまでの間に、権利が実行できなくなるのを防ぐ。",
+    "japaneseWordTranslation": "係争物に関する仮処分 (けいそうぶつにかんするかりしょぶん)",
+    "legalContext": "Civil Preservation Act Art. 23(1) (Provisional Disposition regarding the subject matter of dispute).",
+    "japaneseLegalContext": "民事保全法第23条第1項（争いの目的である権利に関する仮処分）",
+    "exampleSentence": "The Status Quo Maintenance Disposition was issued to prohibit the dismantling of the historical factory, which was the central subject matter of the ongoing ownership dispute.",
+    "exampleTranslation": "係争物に関する仮処分は、進行中の所有権紛争の中心となっていた歴史的な工場の解体を禁止するために発令された。",
+    "vocabularyList": [
+      {
+        "word": "Preservation creditor",
+        "translation": "保全債権者 (ほぜんさいけんしゃ)"
+      },
+      {
+        "word": "Effectiveness",
+        "translation": "実効性 (じっこうせい)"
+      },
+      {
+        "word": "Judgment on the merits",
+        "translation": "本案判決 (ほんあんはんけつ)"
+      },
+      {
+        "word": "Dismantling",
+        "translation": "解体 (かいたい)"
+      },
+      {
+        "word": "Ownership dispute",
+        "translation": "所有権紛争 (しょゆうけんふんそう)"
+      },
+      {
+        "word": "Issued",
+        "translation": "発令された (はつれいされた)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Security Deposit Cancellation Order",
+    "definition": "A judicial decision necessary to terminate the restriction on a security fund previously provided for a preservation measure, allowing the person who provided the security to reclaim the money or collateral.",
+    "japaneseDefinition": "保全命令のために提供された担保の権利制限を解除し、供託者が金銭等を回収することを許可する裁判所の決定。",
+    "japaneseWordTranslation": "担保取消決定 (たんぽとりけしけってい)",
+    "legalContext": "Civil Preservation Act Art. 44(4) (Motion for security cancellation and subsequent order).",
+    "japaneseLegalContext": "民事保全法第44条第4項（担保の取消しの申立てと決定）",
+    "exampleSentence": "Following the dismissal of the main action, the preservation creditor immediately filed a motion for a Security Deposit Cancellation Order to recover the collateral fund posted.",
+    "exampleTranslation": "本案訴訟の却下に伴い、保全債権者は直ちに担保取消決定の申立てを行い、供託していた担保金を取り戻した。",
+    "vocabularyList": [
+      {
+        "word": "Security fund",
+        "translation": "担保金 (たんぽきん)"
+      },
+      {
+        "word": "Provided",
+        "translation": "提供された (ていきょうされた)"
+      },
+      {
+        "word": "Restriction",
+        "translation": "権利制限 (けんりせいげん)"
+      },
+      {
+        "word": "Dismissal",
+        "translation": "却下 (きゃっか)"
+      },
+      {
+        "word": "Motion",
+        "translation": "申立て (もうしたて)"
+      },
+      {
+        "word": "Recover",
+        "translation": "回収する (かいしゅうする)"
+      }
+    ]
   }
 ]

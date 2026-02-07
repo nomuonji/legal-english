@@ -17420,5 +17420,119 @@
         "translation": "専門家証人"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Factual Basis of Claim",
+    "definition": "The specific set of essential facts (main facts) that the plaintiff must assert and prove in order to demonstrate that they are legally entitled to the relief sought, thus establishing the cause of action.",
+    "japaneseDefinition": "原告が請求している内容（訴訟物）を基礎づける、権利発生に必要な主要な事実のこと。民事訴訟では、原告がこれを主張し、証明責任を負う。",
+    "japaneseWordTranslation": "請求原因事実 (Seikyū Gen'in Jijitsu)",
+    "legalContext": "Code of Civil Procedure Art. 133 (Requirement for Pleading): The claim must be specified in the statement of claim, and the facts constituting the grounds thereof must be described.",
+    "japaneseLegalContext": "民事訴訟法第133条: 訴えは、請求の趣旨及びこれを理由づける事実を記載した訴状を裁判所に提出してしなければならない。",
+    "exampleSentence": "The court dismissed the claim because the plaintiff failed to assert sufficient **factual bases of the claim** regarding the formation of the underlying contract.",
+    "exampleTranslation": "原告が基礎となる契約の成立に関する充分な請求原因事実を主張しなかったため、裁判所は訴えを棄却した。",
+    "vocabularyList": [
+      {
+        "word": "assert",
+        "translation": "主張する (shuchō suru)"
+      },
+      {
+        "word": "relief sought",
+        "translation": "求める救済 (motomeru kyūsai)"
+      },
+      {
+        "word": "cause of action",
+        "translation": "訴訟原因 (soshō gen'in)"
+      },
+      {
+        "word": "statement of claim",
+        "translation": "訴状 (sojō)"
+      },
+      {
+        "word": "dismissed the claim",
+        "translation": "訴えを棄却した (uttae o kyakka shita)"
+      },
+      {
+        "word": "underlying contract",
+        "translation": "基礎となる契約 (kiso to naru keiyaku)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Stipulation of Procedural Facts",
+    "definition": "An agreement made between the parties during litigation regarding the truth or existence of specific facts or the authenticity of documentary evidence, which is binding on the court unless contrary to public order or good morals.",
+    "japaneseDefinition": "当事者間で訴訟手続中に、特定の事実の存否や書証の成立の真正などについて合意をすること。これは裁判所を拘束する効果を持つ。",
+    "japaneseWordTranslation": "訴訟上の合意 (Soshōjō no Gōi)",
+    "legalContext": "Code of Civil Procedure Art. 137 (Pleading by the Parties): Procedural agreements between the parties bind the court to the extent permitted by law, reflecting the principle of party autonomy.",
+    "japaneseLegalContext": "民事訴訟法第137条: 当事者は、法令の許す限りにおいて、訴訟手続に関する事項について合意をすることができる（当事者自治の原則）。",
+    "exampleSentence": "The parties entered into a **stipulation of procedural facts** concerning the date the construction work was completed, thereby removing that issue from contention.",
+    "exampleTranslation": "当事者たちは、建設工事が完了した日付に関して訴訟上の合意を行い、それによりその争点を審理から除外した。",
+    "vocabularyList": [
+      {
+        "word": "authenticity",
+        "translation": "真正 (shinsei)"
+      },
+      {
+        "word": "documentary evidence",
+        "translation": "書証 (shoshō)"
+      },
+      {
+        "word": "binding",
+        "translation": "拘束力のある (kōsokuryoku no aru)"
+      },
+      {
+        "word": "party autonomy",
+        "translation": "当事者自治 (tōjisha jichi)"
+      },
+      {
+        "word": "contention",
+        "translation": "争点 (sōten)"
+      },
+      {
+        "word": "entered into",
+        "translation": "締結した (teketsu shita)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Accessory Final Appeal",
+    "definition": "A procedural right allowing the appellee (the party who prevailed in the second instance) to file a cross-appeal in the final appeal court (Jōkoku-in), provided the principal appeal filed by the adverse party remains pending.",
+    "japaneseDefinition": "上告審において、被上告人が相手方の上告が維持されていることを条件として提起する上告のこと。主上告が取り下げられると効力を失う。",
+    "japaneseWordTranslation": "付帯上告 (Futai Jōkoku)",
+    "legalContext": "Code of Civil Procedure Art. 390 (Accessory Final Appeal): The appellee may file an Accessory Final Appeal within the period for filing a reply to the principal appeal, even after the period for filing the principal appeal has expired.",
+    "japaneseLegalContext": "民事訴訟法第390条: 被上告人は、上告の終期後においても、附帯上告をすることができる。",
+    "exampleSentence": "Although the defendant was satisfied with the judgment of the high court, they filed an **Accessory Final Appeal** to safeguard against the plaintiff’s potential success in the principal appeal.",
+    "exampleTranslation": "被告は高等裁判所の判決に満足していたが、原告が本上告で勝訴する可能性に備えて、付帯上告を提起した。",
+    "vocabularyList": [
+      {
+        "word": "appellee",
+        "translation": "被上告人 (hijōkokunin)"
+      },
+      {
+        "word": "principal appeal",
+        "translation": "本上告 (honjōkoku)"
+      },
+      {
+        "word": "adverse party",
+        "translation": "相手方当事者 (aitegata tōjisha)"
+      },
+      {
+        "word": "high court",
+        "translation": "高等裁判所 (kōtō saibansho)"
+      },
+      {
+        "word": "prevail",
+        "translation": "勝訴する (shōso suru)"
+      },
+      {
+        "word": "safeguard against",
+        "translation": "〜に備える (ni sonaeru)"
+      }
+    ]
   }
 ]

@@ -1,38 +1,42 @@
 {
-  "category": "Real Property Registration (不動産登記法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Registrar",
-  "definition": "A national public servant appointed to execute the administrative affairs related to registration at the Registry Office, vested with the authority to examine applications, make dispositions, and correct errors.",
-  "japaneseDefinition": "法務局に置かれ、登記事務を執行するために任命された国家公務員であり、申請の審査、処分、誤りの更正などの権限を持つ。",
-  "japaneseWordTranslation": "登記官 (とうきかん)",
-  "legalContext": "Real Property Registration Act (Art. 25): If the application is non-compliant with the required procedures or requirements, the Registrar shall dismiss the application by making a disposition.",
-  "japaneseLegalContext": "不動産登記法第25条: 登記の申請が法定の手続又は要件に適合しない場合は、登記官は処分により当該申請を却下しなければならない。",
-  "exampleSentence": "The Registrar requested a supplementary explanation regarding the identity confirmation documents submitted with the application.",
-  "exampleTranslation": "登記官は、申請書と共に提出された本人確認資料について補足的な説明を求めた。",
+  "word": "Abuse of Authority",
+  "definition": "The crime committed by a public official who, utilizing their official powers, illegally causes a person to perform an act that the person is not obliged to perform, or obstructs a person from exercising their rights.",
+  "japaneseDefinition": "公務員がその職権を濫用し、人に義務のないことを行わせ、又は権利の行使を妨害することによって成立する犯罪。",
+  "japaneseWordTranslation": "職権濫用罪 (しょっけんらんようざい)",
+  "legalContext": "Criminal Code Art. 194 (Abuse of Authority): A public officer who, in the exercise of their authority, causes a person to perform an act which the person is not obliged to perform, or obstructs a person from exercising their rights, shall be punished by imprisonment with or without labor for not more than two years or a fine of not more than 100,000 yen.",
+  "japaneseLegalContext": "刑法第194条（職権濫用）：公務員が、その職権を濫用し、人に義務のないことを行わせ、又は人の権利の行使を妨害したときは、二年以下の懲役若しくは禁錮又は十万円以下の罰金に処する。",
+  "exampleSentence": "The former police chief was indicted on charges of abuse of authority for using his position to halt an investigation into his associates.",
+  "exampleTranslation": "元警察署長は、自己の関係者に対する捜査を中止させるために地位を利用したとして、職権濫用の容疑で起訴された。",
   "vocabularyList": [
     {
-      "word": "Registry Office",
-      "translation": "登記所 (とうきしょ)"
+      "word": "public official",
+      "translation": "公務員"
     },
     {
-      "word": "national public servant",
-      "translation": "国家公務員"
+      "word": "exercise of authority",
+      "translation": "職権の行使"
     },
     {
-      "word": "examine applications",
-      "translation": "申請を審査する"
+      "word": "indicted",
+      "translation": "起訴された"
     },
     {
-      "word": "dismiss the application",
-      "translation": "申請を却下する"
+      "word": "investigation",
+      "translation": "捜査"
     },
     {
-      "word": "disposition",
-      "translation": "処分 (しょぶん)"
+      "word": "halt",
+      "translation": "中止させる"
     },
     {
-      "word": "identity confirmation documents",
-      "translation": "本人確認資料"
+      "word": "obliged",
+      "translation": "義務を負う"
+    },
+    {
+      "word": "former police chief",
+      "translation": "元警察署長"
     }
   ]
 }

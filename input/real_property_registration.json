@@ -13487,5 +13487,81 @@
         "translation": "寸法"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Rectification Registration",
+    "definition": "A specific type of alteration registration used to correct a discrepancy between the registered particulars and the actual status or legal relationship, provided the discrepancy existed at the time of the original registration.",
+    "japaneseDefinition": "登記された事項が、当初から実体関係と一致していなかった場合に、これを是正するために行う登記。",
+    "japaneseWordTranslation": "更正の登記 (Kōsei no Tōki)",
+    "legalContext": "Real Property Registration Act Article 66 (Rectification Registration)",
+    "japaneseLegalContext": "不動産登記法 第66条 (更正の登記)",
+    "exampleSentence": "The **Rectification Registration** was necessitated because the land category was erroneously entered as ‘forest’ when it should have been ‘residential.’",
+    "exampleTranslation": "地目が「山林」と誤って登記されていたため、本来「宅地」であるべきとして更正の登記が必要とされた。",
+    "vocabularyList": [
+      {
+        "word": "alteration registration",
+        "translation": "変更の登記 (Henkō no Tōki)"
+      },
+      {
+        "word": "discrepancy",
+        "translation": "不一致 (Fuitchi)"
+      },
+      {
+        "word": "particulars",
+        "translation": "登記事項 (Tōki Jikō)"
+      },
+      {
+        "word": "land category",
+        "translation": "地目 (Chiboku)"
+      },
+      {
+        "word": "erroneously entered",
+        "translation": "誤って記載された (Ayamatte kisai sareta)"
+      },
+      {
+        "word": "residential",
+        "translation": "宅地 (Takuchi)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Boundary",
+    "definition": "The legally defined boundary line between adjacent parcels of land, officially determined and recorded under the Real Property Registration Act, distinct from physical or agreed-upon borders.",
+    "japaneseDefinition": "隣接する土地の区画の境を、不動産登記法に基づいて定められた公的な線。",
+    "japaneseWordTranslation": "筆界 (Hikkai)",
+    "legalContext": "Real Property Registration Act Article 123 (Hikkai Determination Procedure)",
+    "japaneseLegalContext": "不動産登記法 第123条 (筆界特定手続)",
+    "exampleSentence": "The registrar initiated the **Statutory Boundary** determination procedure to resolve the long-standing disagreement between the owners of the neighboring parcels.",
+    "exampleTranslation": "登記官は、隣接する筆の所有者間の長年の意見の不一致を解決するため、筆界特定手続を開始した。",
+    "vocabularyList": [
+      {
+        "word": "adjacent parcels",
+        "translation": "隣接する筆 (Rinsetsu suru hitsu)"
+      },
+      {
+        "word": "determination procedure",
+        "translation": "特定手続 (Tokutei Tetsuzuki)"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官 (Tōkikan)"
+      },
+      {
+        "word": "officially determined",
+        "translation": "公的に定められた (Kōteki ni sadamerareta)"
+      },
+      {
+        "word": "resolve",
+        "translation": "解決する (Kaiketsu suru)"
+      },
+      {
+        "word": "disagreement",
+        "translation": "意見の不一致 (Iken no Fuitchi)"
+      }
+    ]
   }
 ]

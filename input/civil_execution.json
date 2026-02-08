@@ -2,44 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Seizure of Claims",
-    "definition": "The legal procedure under Civil Execution Law where a creditor obtains a court order to seize intangible monetary claims held by the debtor against a third party.",
-    "japaneseDefinition": "債務者の第三者に対する金銭債権を、裁判所を通じて差押える手続き。給与や預金債権などがこれにあたる。",
-    "japaneseWordTranslation": "債権差押え (さいけんさしおさえ)",
-    "legalContext": "Civil Execution Act Art. 143: When executing a claim, the court shall issue an order of seizure.",
-    "japaneseLegalContext": "民事執行法第143条: 債権の執行は、執行裁判所の差押命令により開始する。",
-    "exampleSentence": "The creditor initiated the Seizure of Claims against the company's bank accounts to recover the outstanding debt.",
-    "exampleTranslation": "債権者は、未払いの債務を回収するため、その会社の銀行口座に対する債権差押えを申し立てた。",
-    "vocabularyList": [
-      {
-        "word": "intangible",
-        "translation": "無形の"
-      },
-      {
-        "word": "monetary claims",
-        "translation": "金銭債権"
-      },
-      {
-        "word": "outstanding debt",
-        "translation": "未払いの債務"
-      },
-      {
-        "word": "recover",
-        "translation": "回収する"
-      },
-      {
-        "word": "bank account",
-        "translation": "銀行口座"
-      },
-      {
-        "word": "order of seizure",
-        "translation": "差押命令"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Order of Delivery Execution",
     "definition": "The judicial process for forcing a party to surrender or deliver specific movable or immovable property as dictated by a final judgment.",
     "japaneseDefinition": "確定判決などに基づき、特定の動産または不動産を債務者から債権者へ強制的に引き渡させる手続き。",
@@ -15878,6 +15840,44 @@
       {
         "word": "judgment amount",
         "translation": "判決金 (hanketsukin)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Conditions of Sale Document",
+    "definition": "A detailed statement prepared by the execution court outlining the specific terms, conditions, and encumbrances pertaining to the sale of execution property (typically immovable property) in a compulsory auction or tender procedure.",
+    "japaneseDefinition": "不動産競売または入札手続において、執行裁判所が作成する、売却物件の明細、権利関係、売却方法、および買受人が引き受けるべき負担等を定めた文書。",
+    "japaneseWordTranslation": "売却条件明細書 (ばいきゃくじょうけんめいさいしょ)",
+    "legalContext": "Civil Execution Act, Art. 62 (2): The court shall state the conditions of sale in a document and make it available for public inspection.",
+    "japaneseLegalContext": "民事執行法第62条第2項: 裁判所は、売却の条件を記載した書面を作成し、これを備え置いて一般の閲覧に供しなければならない。",
+    "exampleSentence": "Potential bidders must thoroughly review the Conditions of Sale Document to understand the existing statutory security interests and the liabilities they will assume upon acquisition.",
+    "exampleTranslation": "入札希望者は、既存の法定担保物権や、買受時に引き受ける責任を理解するために、売却条件明細書を徹底的に確認しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "bidder",
+        "translation": "入札希望者"
+      },
+      {
+        "word": "immovable property",
+        "translation": "不動産"
+      },
+      {
+        "word": "compulsory auction",
+        "translation": "強制競売"
+      },
+      {
+        "word": "encumbrance",
+        "translation": "負担/権利負担"
+      },
+      {
+        "word": "acquisition",
+        "translation": "買受け"
+      },
+      {
+        "word": "execution court",
+        "translation": "執行裁判所"
       }
     ]
   }

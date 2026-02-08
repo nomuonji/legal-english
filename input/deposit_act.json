@@ -10948,5 +10948,73 @@
         "translation": "手続きを進める"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reclaim Right",
+    "definition": "The right of the depositor (obligor) to recover the deposited funds or property from the Deposit Office, provided that the obligation has not yet been extinguished by the obligee’s acceptance or other specified legal events.",
+    "japaneseDefinition": "供託者が供託した金銭又は物品について、債権者の受諾等の法定の事由が発生する前に、供託物を取り戻すことができる権利。",
+    "japaneseWordTranslation": "取戻権 (とりもどしけん)",
+    "legalContext": "Civil Code Art. 498(2): Specifies that the depositor may recover the deposited property until the obligee accepts the deposit or a judicial decision confirming its validity becomes final.",
+    "japaneseLegalContext": "民法第498条第2項: 債権者が供託を受諾し、又は供託を有効と宣告した判決が確定するまでの間は、供託者は、供託物を取り戻すことができる。",
+    "exampleSentence": "The obligor exercised his Reclaim Right when the uncertainty regarding the identity of the obligee was resolved, rendering the original cause for deposit moot.",
+    "exampleTranslation": "債務者は、債権者の身元に関する不確実性が解消され、当初の供託原因が無効になったため、取戻権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "depositor",
+        "translation": "供託者 (きょうたくしゃ)"
+      },
+      {
+        "word": "recover",
+        "translation": "取り戻す (とりもどす)"
+      },
+      {
+        "word": "moot",
+        "translation": "無効な (むこうな)"
+      },
+      {
+        "word": "obligee's acceptance",
+        "translation": "債権者の受諾 (さいけんしゃのじゅだく)"
+      },
+      {
+        "word": "uncertainty",
+        "translation": "不確実性 (ふかくじつせい)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cause for Deposit",
+    "definition": "The legal ground stipulated by law (chiefly the Civil Code) that necessitates or justifies the deposit procedure, such as the creditor’s refusal to accept performance or the inability to locate the creditor.",
+    "japaneseDefinition": "供託手続きを行うことを正当化し、義務を消滅させるために民法等で定められた法律上の根拠（例：債権者の受領拒否、所在不明など）。",
+    "japaneseWordTranslation": "供託原因 (きょうたくげんいん)",
+    "legalContext": "Civil Code Art. 494: If an obligee refuses to accept performance or cannot accept it, the obligor may be discharged from the obligation by depositing the subject matter of the obligation.",
+    "japaneseLegalContext": "民法第494条: 債権者が弁済の受領を拒み、又はこれを受領することができないときは、弁済をすべき者は、債権者のためにその弁済の目的物を供託して、その債務を免れることができる。",
+    "exampleSentence": "The Deposit Office strictly examines the documentary evidence submitted to confirm the existence and validity of the alleged Cause for Deposit before accepting the filing.",
+    "exampleTranslation": "供託所は、供託の申請を受理する前に、申し立てられた供託原因の存在と有効性を確認するため、提出された証拠書類を厳格に審査する。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "弁済者／債務者 (べんさいしゃ/さいむしゃ)"
+      },
+      {
+        "word": "extinguished",
+        "translation": "免れる (まぬがれる)"
+      },
+      {
+        "word": "obligee's refusal",
+        "translation": "債権者の受領拒否 (さいけんしゃのじゅりょうきょひ)"
+      },
+      {
+        "word": "documentary evidence",
+        "translation": "証拠書類 (しょうこしょるい)"
+      },
+      {
+        "word": "subject matter",
+        "translation": "目的物 (もくてきぶつ)"
+      }
+    ]
   }
 ]

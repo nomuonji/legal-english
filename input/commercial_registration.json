@@ -14286,5 +14286,73 @@
         "translation": "公示 (こうじ)"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability Bar for Ostensible Registration",
+    "definition": "The rule stipulating that a person who has knowingly registered or permitted the registration of a false matter cannot subsequently assert the falsity of that matter against a third party who believed the registration to be true and relied upon it.",
+    "japaneseDefinition": "虚偽の登記がされている場合、その登記をした者、または登記がされることを許諾した者は、登記が真実であると信じてそれに基づいて取引をした第三者に対し、登記の虚偽を主張できないという原則。",
+    "japaneseWordTranslation": "虚偽の登記における責任の制限 (kyogi no tōki ni okeru sekinin no seigen)",
+    "legalContext": "Commercial Registration Law Art. 12: A person who has registered a false matter cannot assert its falsity against a bona fide third party.",
+    "japaneseLegalContext": "商業登記法第12条: 登記すべき事項につき虚偽の登記をした者は、その登記が虚偽であることをもって善意の第三者に対抗することができない。",
+    "exampleSentence": "The company faced a **liability bar for ostensible registration** when trying to void a contract signed by the improperly registered director, as the counterparty was acting in good faith.",
+    "exampleTranslation": "相手方が善意で取引を行ったため、会社は不適切に登記された取締役が署名した契約を無効にしようとした際、虚偽の登記における責任の制限に直面した。",
+    "vocabularyList": [
+      {
+        "word": "false matter",
+        "translation": "虚偽の事項"
+      },
+      {
+        "word": "assert the falsity",
+        "translation": "虚偽を主張する"
+      },
+      {
+        "word": "improperly registered",
+        "translation": "不適切に登記された"
+      },
+      {
+        "word": "void a contract",
+        "translation": "契約を無効にする"
+      },
+      {
+        "word": "counterparty",
+        "translation": "相手方"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Basis for Registrar's Rejection",
+    "definition": "The statutory grounds (enumerated in Article 25 of the Commercial Registration Law) upon which a registrar is legally obligated to reject a registration application, primarily concerning formal defects, non-compliance with submission requirements, or conflicts with other laws.",
+    "japaneseDefinition": "商業登記法第25条に列挙された、登記官が登記申請を却下する法的義務を負う具体的な理由。主に形式的な不備、添付書類の不足、または関連法令への違反に関する。",
+    "japaneseWordTranslation": "登記官による却下の根拠 (tōkikan ni yoru kyakka no konkyo)",
+    "legalContext": "Commercial Registration Law Art. 25: The registrar shall reject an application for registration if... (omission) 11. The application violates laws or ordinances, or if documents required by law are not attached.",
+    "japaneseLegalContext": "商業登記法第25条: 登記官は、次に掲げる場合には、登記の申請を却下しなければならない。十一 法令に違反するとき、又は法令により必要な書面が添付されていないとき。",
+    "exampleSentence": "The lawyer confirmed that the missing signature on the power of attorney constituted a fatal flaw, falling clearly under the **basis for registrar's rejection**.",
+    "exampleTranslation": "委任状の署名漏れが決定的な欠陥であり、登記官による却下の根拠に明らかに該当することを弁護士は確認した。",
+    "vocabularyList": [
+      {
+        "word": "statutory grounds",
+        "translation": "法定の理由"
+      },
+      {
+        "word": "registrar",
+        "translation": "登記官"
+      },
+      {
+        "word": "registration application",
+        "translation": "登記申請"
+      },
+      {
+        "word": "fatal flaw",
+        "translation": "決定的な欠陥"
+      },
+      {
+        "word": "power of attorney",
+        "translation": "委任状"
+      }
+    ]
   }
 ]

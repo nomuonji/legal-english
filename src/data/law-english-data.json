@@ -1,42 +1,38 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Abuse of Authority",
-  "definition": "The crime committed by a public official who, utilizing their official powers, illegally causes a person to perform an act that the person is not obliged to perform, or obstructs a person from exercising their rights.",
-  "japaneseDefinition": "公務員がその職権を濫用し、人に義務のないことを行わせ、又は権利の行使を妨害することによって成立する犯罪。",
-  "japaneseWordTranslation": "職権濫用罪 (しょっけんらんようざい)",
-  "legalContext": "Criminal Code Art. 194 (Abuse of Authority): A public officer who, in the exercise of their authority, causes a person to perform an act which the person is not obliged to perform, or obstructs a person from exercising their rights, shall be punished by imprisonment with or without labor for not more than two years or a fine of not more than 100,000 yen.",
-  "japaneseLegalContext": "刑法第194条（職権濫用）：公務員が、その職権を濫用し、人に義務のないことを行わせ、又は人の権利の行使を妨害したときは、二年以下の懲役若しくは禁錮又は十万円以下の罰金に処する。",
-  "exampleSentence": "The former police chief was indicted on charges of abuse of authority for using his position to halt an investigation into his associates.",
-  "exampleTranslation": "元警察署長は、自己の関係者に対する捜査を中止させるために地位を利用したとして、職権濫用の容疑で起訴された。",
+  "word": "Seizure of Claims",
+  "definition": "The legal procedure under Civil Execution Law where a creditor obtains a court order to seize intangible monetary claims held by the debtor against a third party.",
+  "japaneseDefinition": "債務者の第三者に対する金銭債権を、裁判所を通じて差押える手続き。給与や預金債権などがこれにあたる。",
+  "japaneseWordTranslation": "債権差押え (さいけんさしおさえ)",
+  "legalContext": "Civil Execution Act Art. 143: When executing a claim, the court shall issue an order of seizure.",
+  "japaneseLegalContext": "民事執行法第143条: 債権の執行は、執行裁判所の差押命令により開始する。",
+  "exampleSentence": "The creditor initiated the Seizure of Claims against the company's bank accounts to recover the outstanding debt.",
+  "exampleTranslation": "債権者は、未払いの債務を回収するため、その会社の銀行口座に対する債権差押えを申し立てた。",
   "vocabularyList": [
     {
-      "word": "public official",
-      "translation": "公務員"
+      "word": "intangible",
+      "translation": "無形の"
     },
     {
-      "word": "exercise of authority",
-      "translation": "職権の行使"
+      "word": "monetary claims",
+      "translation": "金銭債権"
     },
     {
-      "word": "indicted",
-      "translation": "起訴された"
+      "word": "outstanding debt",
+      "translation": "未払いの債務"
     },
     {
-      "word": "investigation",
-      "translation": "捜査"
+      "word": "recover",
+      "translation": "回収する"
     },
     {
-      "word": "halt",
-      "translation": "中止させる"
+      "word": "bank account",
+      "translation": "銀行口座"
     },
     {
-      "word": "obliged",
-      "translation": "義務を負う"
-    },
-    {
-      "word": "former police chief",
-      "translation": "元警察署長"
+      "word": "order of seizure",
+      "translation": "差押命令"
     }
   ]
 }

@@ -13186,5 +13186,119 @@
         "translation": "回収する (かいしゅうする)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Court Indemnity Deposit",
+    "definition": "Funds deposited with the court by the preservation obligee as security against damages that the preservation obligor may suffer due to the execution of the provisional measure, should the measure later be found wrongful.",
+    "japaneseDefinition": "民事保全手続きにおいて、保全命令の執行により保全債務者に生じ得る損害を賠償するために、保全債権者が裁判所に供託する金銭。",
+    "japaneseWordTranslation": "担保金 (たんぽきん)",
+    "legalContext": "Civil Preservation Law Art. 14 (1): The court may require the petitioner for a preservation order to provide security (deposit).",
+    "japaneseLegalContext": "民事保全法第14条第1項: 裁判所は、保全命令の申立てをするときは、担保を立てさせることができる。",
+    "exampleSentence": "The court ordered the plaintiff to provide a substantial Court Indemnity Deposit before granting the provisional injunction restricting the disposition of the disputed property.",
+    "exampleTranslation": "裁判所は、係争物の処分を制限する仮処分命令を認める前に、原告に対し、高額な担保金を供託するよう命じた。",
+    "vocabularyList": [
+      {
+        "word": "provisional injunction",
+        "translation": "仮処分命令 (かりしょぶんめいれい)"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者 (さいけんしゃ)"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "execution of the measure",
+        "translation": "保全の執行 (ほぜんのしっこう)"
+      },
+      {
+        "word": "plaintiff",
+        "translation": "原告 (げんこく)"
+      },
+      {
+        "word": "disputed property",
+        "translation": "係争物 (けいそうぶつ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Underlying Claim for Preservation",
+    "definition": "The substantive right or legal position (monetary claim, proprietary right, or legal status) that the preservation measure, such as provisional attachment or provisional injunction, is intended to secure or protect.",
+    "japaneseDefinition": "仮差押えや仮処分といった保全措置によって、将来の強制執行を可能とするために保全されるべき実体上の権利（金銭債権、物権、法律上の地位など）。",
+    "japaneseWordTranslation": "被保全権利 (ひほぜんけんり)",
+    "legalContext": "Civil Preservation Law Art. 13 (1): A motion for a preservation order must indicate the claim to be secured.",
+    "japaneseLegalContext": "民事保全法第13条第1項: 保全命令の申立ては、被保全権利及び保全の必要性を明らかにしてしなければならない。",
+    "exampleSentence": "The success of a provisional attachment application hinges entirely on the court’s acceptance of the existence and validity of the Underlying Claim for Preservation.",
+    "exampleTranslation": "仮差押えの申立てが成功するか否かは、被保全権利の存在と有効性を裁判所が認めるかどうかに全面的に依存する。",
+    "vocabularyList": [
+      {
+        "word": "provisional attachment",
+        "translation": "仮差押え (かりさしおさえ)"
+      },
+      {
+        "word": "substantive right",
+        "translation": "実体上の権利 (じったいじょうのけんり)"
+      },
+      {
+        "word": "legal status",
+        "translation": "法律上の地位 (ほうりつじょうのちい)"
+      },
+      {
+        "word": "motion",
+        "translation": "申立て (もうしたて)"
+      },
+      {
+        "word": "validity",
+        "translation": "有効性 (ゆうこうせい)"
+      },
+      {
+        "word": "secure",
+        "translation": "保全する (ほぜんする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Tentative Evidentiary Showing",
+    "definition": "The required threshold of evidence in preservation proceedings, where the court must be led to believe, based on the material presented, that the facts asserted (regarding the claim and necessity) are highly probable or plausible, though not conclusively proven.",
+    "japaneseDefinition": "保全手続において必要とされる立証の程度。主張する事実について、裁判官が真実らしいという高度な推測を抱くに至る程度の証明。確定的な証明（厳格な証明）は要求されない。",
+    "japaneseWordTranslation": "疎明 (そめい)",
+    "legalContext": "Civil Preservation Law Art. 13 (2): The facts required to be stated in the motion for a preservation order must be supported by a tentative evidentiary showing.",
+    "japaneseLegalContext": "民事保全法第13条第2項: 保全命令の申立てに必要な事由についての疎明は、書面による疎明でなければならない。",
+    "exampleSentence": "In ex parte proceedings, the preservation court will typically require a strong Tentative Evidentiary Showing, especially concerning the urgency and necessity of the measure.",
+    "exampleTranslation": "一方的な手続きにおいては、保全裁判所は通常、特に措置の緊急性および必要性に関して、強力な疎明を要求する。",
+    "vocabularyList": [
+      {
+        "word": "threshold of evidence",
+        "translation": "立証の程度 (りっしょうのていど)"
+      },
+      {
+        "word": "ex parte proceedings",
+        "translation": "一方的な手続き (いっぽうてきなてつづき)"
+      },
+      {
+        "word": "urgency",
+        "translation": "緊急性 (きんきゅうせい)"
+      },
+      {
+        "word": "conclusively proven",
+        "translation": "確定的に証明された (かくていてきにしょうめいされた)"
+      },
+      {
+        "word": "asserted facts",
+        "translation": "主張する事実 (しゅちょうするじじつ)"
+      },
+      {
+        "word": "preservation court",
+        "translation": "保全裁判所 (ほぜんさいばんしょ)"
+      }
+    ]
   }
 ]

@@ -13563,5 +13563,77 @@
         "translation": "意見の不一致 (Iken no Fuitchi)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Change in Land Category",
+    "definition": "The registration applied for when the official classification (usage category) of a land parcel, as recorded in the description section of the register, is altered (e.g., from 'paddy field' to 'residential land').",
+    "japaneseDefinition": "土地の登記記録の表題部（地目欄）に記載されている土地の用途の分類を変更する際に申請される登記。（例：田から宅地へ）",
+    "japaneseWordTranslation": "地目変更登記 (Chimeku Henkō Tōki)",
+    "legalContext": "Real Property Registration Act, Article 37 (1): The application for registration of change in land category shall be filed within one month after the change occurred.",
+    "japaneseLegalContext": "不動産登記法第37条第1項：「地目に関する変更の登記の申請は、その変更があった日から一月以内にしなければならない。」",
+    "exampleSentence": "The purchaser must file the **registration of change in land category** immediately after the reclamation work is completed, converting the field into residential property.",
+    "exampleTranslation": "購入者は、埋め立て工事が完了し、畑が宅地に転換された後、直ちに地目変更登記を申請しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Land parcel",
+        "translation": "一筆の土地 (Hitstu no Tochi)"
+      },
+      {
+        "word": "Description section",
+        "translation": "表題部 (Hyōdaibu)"
+      },
+      {
+        "word": "Reclamation work",
+        "translation": "埋め立て工事 (Umetate Kōji)"
+      },
+      {
+        "word": "Land usage",
+        "translation": "土地の用途 (Tochi no Yōto)"
+      },
+      {
+        "word": "Residential property",
+        "translation": "宅地 (Takuchi)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Written Instrument Certifying the Cause of Registration",
+    "definition": "Documentary evidence that confirms the existence of the legal transaction or event (such as a sale, inheritance, or corporate merger) that constitutes the legal cause for the creation or modification of a registered right.",
+    "japaneseDefinition": "売買、相続、合併など、登記の申請に係る権利の変動を生じさせる法律上の原因の存在を証する書面または電磁的記録。",
+    "japaneseWordTranslation": "登記原因証明情報 (Tōki Gen'in Shōmei Jōhō)",
+    "legalContext": "Real Property Registration Act, Article 61: An application for registration shall be filed by providing a written instrument certifying the cause of registration.",
+    "japaneseLegalContext": "不動産登記法第61条：「第60条の規定による登記の申請をする場合には、申請人は、登記原因を証する情報を提供しなければならない。」",
+    "exampleSentence": "The executed contract of sale served as the essential **written instrument certifying the cause of registration** for the title update.",
+    "exampleTranslation": "締結された売買契約書は、権利名義を更新するための、不可欠な登記原因証明情報として機能した。",
+    "vocabularyList": [
+      {
+        "word": "Executed contract",
+        "translation": "締結された契約 (Teiketsusareta Keiyaku)"
+      },
+      {
+        "word": "Legal transaction",
+        "translation": "法律上の取引 (Hōritsujō no Torihiki)"
+      },
+      {
+        "word": "Modification of a right",
+        "translation": "権利の変更 (Kenri no Henkō)"
+      },
+      {
+        "word": "Title update",
+        "translation": "権利名義の更新 (Kenri Meigi no Kōshin)"
+      },
+      {
+        "word": "Documentary evidence",
+        "translation": "書面による証拠 (Shomen ni yoru Shōko)"
+      },
+      {
+        "word": "Inheritance",
+        "translation": "相続 (Sōzoku)"
+      }
+    ]
   }
 ]

@@ -11016,5 +11016,81 @@
         "translation": "目的物 (もくてきぶつ)"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Claim for Recovery of Deposit",
+    "definition": "The right held by the depositor to retrieve the deposited funds or assets from the deposit office when the statutory cause for the consignment has ceased to exist or the intended recipient has waived their right.",
+    "japaneseDefinition": "供託者が、供託の原因が消滅した場合や被供託者が供託の受諾をしない場合など、法令に定められた事由に基づき、供託物を取り戻すことができる権利。",
+    "japaneseWordTranslation": "取戻請求権 (とりもどしせいきゅうけん)",
+    "legalContext": "Deposit Act Article 49: Stipulates the conditions under which the consignor may retrieve the consigned assets.",
+    "japaneseLegalContext": "供託法第49条：供託者が供託物を取り戻すことができる条件を規定する。",
+    "exampleSentence": "If the creditor waives the acceptance of performance, the original depositor may exercise their claim for recovery of deposit.",
+    "exampleTranslation": "債権者が弁済の受領を拒否した場合、当初の供託者は供託物取戻請求権を行使することができる。",
+    "vocabularyList": [
+      {
+        "word": "depositor",
+        "translation": "供託者 (きょうたくしゃ)"
+      },
+      {
+        "word": "consignment",
+        "translation": "供託 (きょうたく)"
+      },
+      {
+        "word": "deposit office",
+        "translation": "供託所 (きょうたくしょ)"
+      },
+      {
+        "word": "statutory cause",
+        "translation": "法定の原因 (ほうていのげんいん)"
+      },
+      {
+        "word": "cessation",
+        "translation": "消滅 (しょうめつ)"
+      },
+      {
+        "word": "acceptance of performance",
+        "translation": "弁済の受領 (べんさいのじゅりょう)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Unclaimed Fund Escheatment",
+    "definition": "The final legal consequence under the Deposit Act where deposited assets or funds, remaining unclaimed by the rightful entitlement holder after a fixed statutory period (usually twenty years), are transferred to the State's fiscal authority.",
+    "japaneseDefinition": "供託された金銭又は有価証券が、法定の期間（通常20年）内に取り戻されず、権利者の請求権が消滅することにより、国の財産となること。",
+    "japaneseWordTranslation": "国庫帰属 (こっこきぞく)",
+    "legalContext": "Deposit Act Article 49(2): Defines the statutory period after which the right to claim deposited funds lapses, resulting in their transfer to the State.",
+    "japaneseLegalContext": "供託法第49条第2項：供託金の取戻請求権が時効により消滅し、国庫に帰属するまでの期間を定める。",
+    "exampleSentence": "The Deposit Registrar initiated the procedure for unclaimed fund escheatment after the statutory twenty-year period had expired without any valid claim being filed.",
+    "exampleTranslation": "供託官は、法定の20年期間が経過し、有効な請求がなされなかったため、国庫帰属の手続きを開始した。",
+    "vocabularyList": [
+      {
+        "word": "statutory period",
+        "translation": "法定の期間 (ほうていのきかん)"
+      },
+      {
+        "word": "deposited assets",
+        "translation": "供託物 (きょうたくぶつ)"
+      },
+      {
+        "word": "entitlement holder",
+        "translation": "権利者 (けんりしゃ)"
+      },
+      {
+        "word": "lapses",
+        "translation": "消滅する (しょうめつする)"
+      },
+      {
+        "word": "filed",
+        "translation": "提出された (ていしゅつされた)"
+      },
+      {
+        "word": "Deposit Registrar",
+        "translation": "供託官 (きょうたくかん)"
+      }
+    ]
   }
 ]

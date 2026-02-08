@@ -19736,5 +19736,119 @@
         "translation": "相互の共存 (sōgo no kyōzon)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Heirship by Representation",
+    "definition": "The right of the lineal descendants (children, grandchildren) of a prospective heir who died before the decedent, or who was disqualified or disinherited, to succeed to the inheritance in that heir's place.",
+    "japaneseDefinition": "法定相続人が相続開始以前に死亡、または相続欠格・廃除により相続権を失った場合に、その者の子が代わって相続人の地位を承継すること。",
+    "japaneseWordTranslation": "代襲相続 (だいしゅう そうぞく)",
+    "legalContext": "Civil Code Art. 887, Par. 2: “The children of a person who is to become an heir... shall become heirs of the deceased person by representation.”",
+    "japaneseLegalContext": "民法第887条第2項: 「被相続人の子が、相続の開始以前に死亡したとき、又は第891条の規定に該当し、若しくは廃除によってその相続権を失ったときは、その者の子がこれを代襲して相続人となる。」",
+    "exampleSentence": "Since the heir predeceased the decedent, the grandchildren succeeded to the estate by virtue of the principle of heirship by representation.",
+    "exampleTranslation": "相続人が被相続人より先に死亡したため、孫たちが代襲相続の原則によって遺産を承継した。",
+    "vocabularyList": [
+      {
+        "word": "predecease",
+        "translation": "先に死亡する (さきにしぼうする)"
+      },
+      {
+        "word": "decedent",
+        "translation": "被相続人 (ひそうぞくにん)"
+      },
+      {
+        "word": "lineal descendants",
+        "translation": "直系卑属 (ちょっけいひぞく)"
+      },
+      {
+        "word": "disqualified",
+        "translation": "相続欠格 (そうぞくけっかく)"
+      },
+      {
+        "word": "disinherited",
+        "translation": "廃除された (はいじょされた)"
+      },
+      {
+        "word": "estate",
+        "translation": "遺産 (いさん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Beneficiary of Time",
+    "definition": "The legal benefit granted to a party (usually the obligor) by a defined term or due date, which dictates that the performance of the obligation cannot be demanded until the term arrives.",
+    "japaneseDefinition": "期限が到来するまでの間、債務の履行を強制されないという利益。原則として債務者のために存在する。",
+    "japaneseWordTranslation": "期限の利益 (きげんの りえき)",
+    "legalContext": "Civil Code Art. 136: “A term shall be presumed to exist for the benefit of the obligor.”",
+    "japaneseLegalContext": "民法第136条: 「期限は、債務者の利益のために定めたものと推定する。」",
+    "exampleSentence": "If the obligor defaults on a single installment payment, the entire debt may become immediately due, resulting in the loss of the beneficiary of time.",
+    "exampleTranslation": "債務者が一度でも分割払いを怠った場合、債務全額が直ちに期限の到来となり、期限の利益を喪失することになる。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者 (さいむしゃ)"
+      },
+      {
+        "word": "due date",
+        "translation": "弁済期 (べんさいき)"
+      },
+      {
+        "word": "term",
+        "translation": "期限 (きげん)"
+      },
+      {
+        "word": "installment payment",
+        "translation": "分割払い (ぶんかつばらい)"
+      },
+      {
+        "word": "default",
+        "translation": "履行遅滞 (りこうちたい)"
+      },
+      {
+        "word": "immediately due",
+        "translation": "直ちに期限の到来となる (ただちにきげんのとうらいとなる)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Doctrine of Specificity of Real Rights",
+    "definition": "A foundational principle in property law requiring that the object of a real right (e.g., land, building, or specific movable property) must be clearly identified and exist in the present for the right to be established or subsist.",
+    "japaneseDefinition": "物権の客体は、特定されており、かつ現に存在しているものでなければならないという、物権法の基本原則。",
+    "japaneseWordTranslation": "物権特定性の原則 (ぶっけん とくていせいの げんそく)",
+    "legalContext": "General Principle of Property Law: This doctrine ensures clarity and prevents confusion regarding the scope of real rights, particularly concerning fungible goods.",
+    "japaneseLegalContext": "物権法の一般原則：この原則は、物権の範囲に関する曖昧さを防ぎ、特に代替物（ふんぎぶるぐっず）に関して物権が有効に成立するために必須とされる。",
+    "exampleSentence": "The Doctrine of Specificity of Real Rights dictates that a mortgage cannot be established over generic, unseparated grain until it is specifically weighed and designated.",
+    "exampleTranslation": "物権特定性の原則は、抵当権は、特定され計量される前の一般的な未分離の穀物に対して設定することはできないと規定している。",
+    "vocabularyList": [
+      {
+        "word": "real right",
+        "translation": "物権 (ぶっけん)"
+      },
+      {
+        "word": "object of a right",
+        "translation": "権利の客体 (けんりのきゃくたい)"
+      },
+      {
+        "word": "specifically identified",
+        "translation": "特定された (とくていされた)"
+      },
+      {
+        "word": "subsist",
+        "translation": "存続する (そんぞくする)"
+      },
+      {
+        "word": "mortgage",
+        "translation": "抵当権 (ていとうけん)"
+      },
+      {
+        "word": "fungible goods",
+        "translation": "代替物 (だいたいぶつ)"
+      }
+    ]
   }
 ]

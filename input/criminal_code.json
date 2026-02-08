@@ -2,44 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Criminal Intent",
-    "definition": "The mental element of an accused person's guilt (mens rea), referring to the knowledge and volition required for the commission of a crime, meaning the perpetrator acted knowingly and willingly regarding the constitutive elements of the crime.",
-    "japaneseDefinition": "犯罪を構成する事実を認識し、かつ、それを実現しようとする意思のこと。刑法上の責任要素の一つであり、故意犯の成立に不可欠である。",
-    "japaneseWordTranslation": "故意 (こい)",
-    "legalContext": "Criminal Code Art. 38, Paragraph 1: A person who commits an act unintentionally shall not be punished; provided, however, that the person shall be punished if otherwise specifically provided by law.",
-    "japaneseLegalContext": "刑法第38条第1項: 罪を犯す意思がない行為は、罰しない。ただし、法律に特別の規定がある場合は、この限りでない。",
-    "exampleSentence": "Japanese law generally requires Criminal Intent (mens rea) for the imposition of criminal liability, differentiating intentional crimes from crimes committed by negligence.",
-    "exampleTranslation": "日本法は、一般的に刑罰責任の賦課には故意（責任魚素）を要求し、これにより故意犯を過失犯と区別している。",
-    "vocabularyList": [
-      {
-        "word": "mens rea",
-        "translation": "犯罪の意思（故意）"
-      },
-      {
-        "word": "volition",
-        "translation": "意思; 意欲"
-      },
-      {
-        "word": "imposition",
-        "translation": "賦課; 課すこと"
-      },
-      {
-        "word": "criminal liability",
-        "translation": "刑事責任"
-      },
-      {
-        "word": "differentiating",
-        "translation": "区別する"
-      },
-      {
-        "word": "perpetrator",
-        "translation": "犯人; 行為者"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Impossibility of Crime",
     "definition": "A doctrine concerning an attempt where the execution fails because the means employed or the object targeted makes the completion of the constituent elements fundamentally impossible, raising the question of whether punishment is justified.",
     "japaneseDefinition": "実行行為が行われたものの、用いられた手段や対象の性質上、構成要件の実現が客観的に不可能な場合を指す。可罰性の有無が問題となる。",
@@ -16166,6 +16128,120 @@
       {
         "word": "criminal culpability",
         "translation": "刑事上の有責性"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Result Unworthiness Theory",
+    "definition": "A major theoretical view in criminal law that centers the concept of unlawfulness on the harm caused to the legally protected interest (the result), rather than the social inappropriateness of the act itself.",
+    "japaneseDefinition": "犯罪の違法性の本質を、行為が法益を侵害しまたは危険に晒したという『結果の不当性』に求める学説。",
+    "japaneseWordTranslation": "結果無価値論 (Keka Mukachiron)",
+    "legalContext": "Academic Theory on Criminal Unlawfulness (違法性)",
+    "japaneseLegalContext": "刑法理論における違法性の学説",
+    "exampleSentence": "The Result Unworthiness Theory holds that criminal liability depends primarily on the realization of injury to the specific legal interest protected by the statute.",
+    "exampleTranslation": "結果無価値論は、犯罪責任が主として、法令によって保護される特定の法益に対する侵害の実現にかかっているとする。",
+    "vocabularyList": [
+      {
+        "word": "unlawfulness",
+        "translation": "違法性 (ihōsei)"
+      },
+      {
+        "word": "legal interest",
+        "translation": "法益 (hōeki)"
+      },
+      {
+        "word": "criminal liability",
+        "translation": "犯罪責任 (hanzai sekinin)"
+      },
+      {
+        "word": "statute",
+        "translation": "法令 (hōrei)"
+      },
+      {
+        "word": "realization",
+        "translation": "実現 (jitsugen)"
+      },
+      {
+        "word": "theory",
+        "translation": "学説 (gakusetsu)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Voluntary Withdrawal Mitigation",
+    "definition": "A statutory basis under Article 43 of the Criminal Code where a person who voluntarily and completely abandons the execution of an attempted crime may have their punishment mandatorily reduced or exempted entirely.",
+    "japaneseDefinition": "犯罪の実行に着手した後、自己の意思によりこれを中止し、かつ結果の発生を阻止した場合に、刑を減軽または免除する制度。",
+    "japaneseWordTranslation": "中止犯減免 (Chūshihan Genmen)",
+    "legalContext": "Criminal Code Art. 43 (Voluntary Desistance): If a criminal voluntarily desists from execution, the penalty shall be reduced or exempted.",
+    "japaneseLegalContext": "刑法第43条（中止犯）：自己の意思により実行を中止したときは、その刑を減軽し、又は免除する。",
+    "exampleSentence": "The court granted Voluntary Withdrawal Mitigation after the defendant ceased his planned property damage and alerted the police to mitigate the harm.",
+    "exampleTranslation": "被告人が企図した器物損壊を中止し、損害を軽減するために警察に通報した後、裁判所は中止犯減免を認めた。",
+    "vocabularyList": [
+      {
+        "word": "execution",
+        "translation": "実行 (jikkō)"
+      },
+      {
+        "word": "property damage",
+        "translation": "器物損壊 (kibutsusonkai)"
+      },
+      {
+        "word": "mitigate",
+        "translation": "軽減する (keigen suru)"
+      },
+      {
+        "word": "defendant",
+        "translation": "被告人 (hikokunin)"
+      },
+      {
+        "word": "penalty",
+        "translation": "刑罰 (keibatsu)"
+      },
+      {
+        "word": "alerted",
+        "translation": "通報した (tsūhō shita)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legal Theory of Causation",
+    "definition": "The academic and judicial frameworks used to evaluate and determine whether a criminal act legally led to a forbidden result, often focusing on objective imputation and foreseeability, as opposed to mere factual causation.",
+    "japaneseDefinition": "犯罪行為と結果の間に刑法上の責任を問いうる結びつきがあるかを判断するために、客観的帰属や予見可能性などに焦点を当てて因果関係を法的に評価する枠組み。",
+    "japaneseWordTranslation": "因果関係論 (Inga Kankei Ron)",
+    "legalContext": "Academic Theory on Causality (因果関係)",
+    "japaneseLegalContext": "刑法理論における因果関係の判断基準",
+    "exampleSentence": "Applying the Legal Theory of Causation often requires assessing the scope of foreseeability regarding the resulting harm, particularly in cases involving intervening circumstances.",
+    "exampleTranslation": "因果関係論の適用には、特に介入事情が関与する事案において、結果的損害に関する予見可能性の範囲を評価することが求められる。",
+    "vocabularyList": [
+      {
+        "word": "causality",
+        "translation": "因果関係 (inga kankei)"
+      },
+      {
+        "word": "foreseeability",
+        "translation": "予見可能性 (yoken kanōsei)"
+      },
+      {
+        "word": "resulting harm",
+        "translation": "結果的損害 (kekka-teki songai)"
+      },
+      {
+        "word": "intervening circumstances",
+        "translation": "介入事情 (kainyū jijō)"
+      },
+      {
+        "word": "objective imputation",
+        "translation": "客観的帰属 (kyakkan-teki kizoku)"
+      },
+      {
+        "word": "evaluation",
+        "translation": "評価 (hyōka)"
       }
     ]
   }

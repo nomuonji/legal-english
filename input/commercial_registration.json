@@ -14354,5 +14354,111 @@
         "translation": "委任状"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Relocation Beyond Jurisdiction",
+    "definition": "The transfer of a company's head office (principal place of business) to a location that falls under the jurisdiction of a different Legal Affairs Bureau (registry office), necessitating simultaneous registration procedures in both the old and new jurisdictions.",
+    "japaneseDefinition": "会社の本店を、現在の登記所（法務局）の管轄区域外に移転すること。旧所在地及び新所在地での登記申請が同時に必要となる。",
+    "japaneseWordTranslation": "管轄外への本店の移転 (Kankatsu-gai e no honten no iten)",
+    "legalContext": "Commercial Registration Act Art. 52 (Registration upon Relocation of Principal Office): Defines the procedure for filing registration upon the transfer of the principal office outside the jurisdictional area.",
+    "japaneseLegalContext": "商業登記法第52条（本店の移転の登記）: 本店を他の登記所の管轄区域内に移転した場合の登記申請手続を定める。",
+    "exampleSentence": "The board approved the Relocation Beyond Jurisdiction, requiring the submission of registration applications to both the outgoing and incoming registry offices on the same day.",
+    "exampleTranslation": "取締役会は管轄外への本店の移転を承認し、旧所在地と新所在地の両方の登記所に同日に登記申請書を提出する必要が生じた。",
+    "vocabularyList": [
+      {
+        "word": "head office",
+        "translation": "本店"
+      },
+      {
+        "word": "registry offices",
+        "translation": "登記所"
+      },
+      {
+        "word": "jurisdiction",
+        "translation": "管轄区域"
+      },
+      {
+        "word": "board",
+        "translation": "取締役会"
+      },
+      {
+        "word": "simultaneous registration",
+        "translation": "同時登記"
+      },
+      {
+        "word": "outgoing",
+        "translation": "旧所在地"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certified Seal Impression",
+    "definition": "A document issued by the registry office certifying the authenticity of the company's official seal (or the seal of its representative director) that has been filed with the commercial register, required for significant registration applications.",
+    "japaneseDefinition": "商業登記所に届け出た会社の代表者の印鑑の真正を証明するために登記所が発行する文書。重要な登記申請の際に添付が義務付けられている。",
+    "japaneseWordTranslation": "届出印鑑証明書 (Todokede Inkan Shōmeisho)",
+    "legalContext": "Commercial Registration Rules Art. 9: Stipulates that an application for registration concerning a representative director must be accompanied by the certified seal impression of the filer.",
+    "japaneseLegalContext": "商業登記規則第9条: 代表取締役等に関する登記の申請には、申請人の印鑑の証明書を添付しなければならない旨を定める。",
+    "exampleSentence": "To process the capital increase registration, the applicant must attach a Certified Seal Impression issued within three months of the application date.",
+    "exampleTranslation": "増資の登記を処理するために、申請人は申請日から3か月以内に発行された届出印鑑証明書を添付しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "authenticity",
+        "translation": "真正"
+      },
+      {
+        "word": "official seal",
+        "translation": "会社実印"
+      },
+      {
+        "word": "representative director",
+        "translation": "代表取締役"
+      },
+      {
+        "word": "capital increase",
+        "translation": "増資"
+      },
+      {
+        "word": "issued",
+        "translation": "発行された"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Bar to Assertion of Internal Corporate Restrictions",
+    "definition": "The principle, enshrined in Corporate Law and applied through commercial registration, that limitations placed internally on the representative director's authority cannot be asserted against third parties unless those limitations are explicitly registered.",
+    "japaneseDefinition": "会社法及び商業登記法を通じて確立された原則で、代表取締役の権限に対する内部的な制限は、登記されていない限り、善意の第三者に対抗できないこと。",
+    "japaneseWordTranslation": "代表権の内部制限の対抗制限 (Daihyōken no naibu seigen no taikō seigen)",
+    "legalContext": "Companies Act Art. 349(5): Provides that limitations on the authority of the representative director may not be asserted against a third party acting in good faith.",
+    "japaneseLegalContext": "会社法第349条第5項: 代表取締役の代表権に加えた制限は、善意の第三者に対抗することができない旨を定める。",
+    "exampleSentence": "Because the internal restriction limiting the representative director's authority to contracts under 10 million yen was not registered, the company faced the Bar to Assertion of Internal Corporate Restrictions when sued by the supplier.",
+    "exampleTranslation": "代表取締役の権限を1,000万円未満の契約に制限する内部規定が登記されていなかったため、会社は供給業者に訴えられた際に代表権の内部制限の対抗制限に直面した。",
+    "vocabularyList": [
+      {
+        "word": "limitations",
+        "translation": "制限"
+      },
+      {
+        "word": "sued",
+        "translation": "訴えられた"
+      },
+      {
+        "word": "supplier",
+        "translation": "供給業者"
+      },
+      {
+        "word": "acting in good faith",
+        "translation": "善意で行為する"
+      },
+      {
+        "word": "asserted against",
+        "translation": "対抗された"
+      }
+    ]
   }
 ]

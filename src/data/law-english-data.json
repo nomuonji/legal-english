@@ -1,38 +1,38 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Seizure of Claims",
-  "definition": "The legal procedure under Civil Execution Law where a creditor obtains a court order to seize intangible monetary claims held by the debtor against a third party.",
-  "japaneseDefinition": "債務者の第三者に対する金銭債権を、裁判所を通じて差押える手続き。給与や預金債権などがこれにあたる。",
-  "japaneseWordTranslation": "債権差押え (さいけんさしおさえ)",
-  "legalContext": "Civil Execution Act Art. 143: When executing a claim, the court shall issue an order of seizure.",
-  "japaneseLegalContext": "民事執行法第143条: 債権の執行は、執行裁判所の差押命令により開始する。",
-  "exampleSentence": "The creditor initiated the Seizure of Claims against the company's bank accounts to recover the outstanding debt.",
-  "exampleTranslation": "債権者は、未払いの債務を回収するため、その会社の銀行口座に対する債権差押えを申し立てた。",
+  "word": "Criminal Intent",
+  "definition": "The mental element of an accused person's guilt (mens rea), referring to the knowledge and volition required for the commission of a crime, meaning the perpetrator acted knowingly and willingly regarding the constitutive elements of the crime.",
+  "japaneseDefinition": "犯罪を構成する事実を認識し、かつ、それを実現しようとする意思のこと。刑法上の責任要素の一つであり、故意犯の成立に不可欠である。",
+  "japaneseWordTranslation": "故意 (こい)",
+  "legalContext": "Criminal Code Art. 38, Paragraph 1: A person who commits an act unintentionally shall not be punished; provided, however, that the person shall be punished if otherwise specifically provided by law.",
+  "japaneseLegalContext": "刑法第38条第1項: 罪を犯す意思がない行為は、罰しない。ただし、法律に特別の規定がある場合は、この限りでない。",
+  "exampleSentence": "Japanese law generally requires Criminal Intent (mens rea) for the imposition of criminal liability, differentiating intentional crimes from crimes committed by negligence.",
+  "exampleTranslation": "日本法は、一般的に刑罰責任の賦課には故意（責任魚素）を要求し、これにより故意犯を過失犯と区別している。",
   "vocabularyList": [
     {
-      "word": "intangible",
-      "translation": "無形の"
+      "word": "mens rea",
+      "translation": "犯罪の意思（故意）"
     },
     {
-      "word": "monetary claims",
-      "translation": "金銭債権"
+      "word": "volition",
+      "translation": "意思; 意欲"
     },
     {
-      "word": "outstanding debt",
-      "translation": "未払いの債務"
+      "word": "imposition",
+      "translation": "賦課; 課すこと"
     },
     {
-      "word": "recover",
-      "translation": "回収する"
+      "word": "criminal liability",
+      "translation": "刑事責任"
     },
     {
-      "word": "bank account",
-      "translation": "銀行口座"
+      "word": "differentiating",
+      "translation": "区別する"
     },
     {
-      "word": "order of seizure",
-      "translation": "差押命令"
+      "word": "perpetrator",
+      "translation": "犯人; 行為者"
     }
   ]
 }

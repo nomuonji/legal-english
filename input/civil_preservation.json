@@ -13300,5 +13300,107 @@
         "translation": "保全裁判所 (ほぜんさいばんしょ)"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preservation Proceedings",
+    "definition": "The entire judicial process governed by the Civil Preservation Act aimed at securing either a monetary claim (via attachment) or a non-monetary claim (via disposition) before the main trial, ensuring that the judgment can be carried out.",
+    "japaneseDefinition": "本案訴訟の判決が実行不能となることを防ぐため、債権者からの申立てに基づき、裁判所が債務者の財産に対し暫定的な措置をとる一連の司法手続。",
+    "japaneseWordTranslation": "保全手続 (ほぜんてつづき)",
+    "legalContext": "Civil Preservation Act, Chapter 1, General Provisions",
+    "japaneseLegalContext": "民事保全法 第1章 総則",
+    "exampleSentence": "The claimant initiated preservation proceedings to temporarily secure a portion of the property in dispute pending the outcome of the underlying litigation.",
+    "exampleTranslation": "請求者は、係争中の本案訴訟の結論が出るまで、係争財産の一部を暫定的に確保するため、保全手続を開始した。",
+    "vocabularyList": [
+      {
+        "word": "claimant",
+        "translation": "請求者"
+      },
+      {
+        "word": "temporarily secure",
+        "translation": "暫定的に確保する"
+      },
+      {
+        "word": "property in dispute",
+        "translation": "係争財産"
+      },
+      {
+        "word": "pending the outcome",
+        "translation": "結論が出るまで"
+      },
+      {
+        "word": "underlying litigation",
+        "translation": "本案訴訟"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Lapse of Provisional Attachment",
+    "definition": "The cessation of the restrictive effect of a provisional attachment order, typically occurring when the preservation applicant loses the subsequent main action, or fails to file the main action within the statutory period.",
+    "japaneseDefinition": "仮差押命令の効力が失われること。通常、保全を申し立てた者が本案訴訟で敗訴した場合や、法定期間内に本案の訴えを提起しなかった場合に生じる。",
+    "japaneseWordTranslation": "仮差押えの失効 (かりさしおさえのしっこう)",
+    "legalContext": "Civil Preservation Act Art. 49 (Cancellation of Preservation upon Non-Filing of the Principal Action)",
+    "japaneseLegalContext": "民事保全法 第49条 (本案の不提起等による保全取消し)",
+    "exampleSentence": "The obligor successfully sought confirmation of the lapse of provisional attachment after the preservation applicant failed to prove the existence of the preserved pecuniary claim in the subsequent trial.",
+    "exampleTranslation": "債務者は、保全の申立人がその後の裁判で保全された金銭債権の存在を立証できなかったため、仮差押えの失効の確認を求めることに成功した。",
+    "vocabularyList": [
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "sought confirmation",
+        "translation": "確認を求めた"
+      },
+      {
+        "word": "restrictive effect",
+        "translation": "制限的な効力"
+      },
+      {
+        "word": "preservation applicant",
+        "translation": "保全の申立人"
+      },
+      {
+        "word": "pecuniary claim",
+        "translation": "金銭債権"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Administrative Objection to Preservation Enforcement",
+    "definition": "A procedural challenge raised by the preservation debtor or a third party against the specific methods, procedures, or validity of the enforcement measures carried out under a preservation order, lodged with the enforcing court.",
+    "japaneseDefinition": "保全債務者または第三者が、保全命令に基づく執行措置の具体的手段、手続または有効性に対し、執行裁判所に申し立てる不服申立て。",
+    "japaneseWordTranslation": "保全執行への異議 (ほぜんしっこうへのいぎ)",
+    "legalContext": "Civil Preservation Act Art. 45 (Objection against Execution of Preservation)",
+    "japaneseLegalContext": "民事保全法 第45条 (保全執行に対する異議)",
+    "exampleSentence": "The third party filed an administrative objection to preservation enforcement, alleging that the enforcement agent mistakenly seized property belonging to a different entity.",
+    "exampleTranslation": "第三者は、執行官が誤って別の法人の所有物を差し押さえたと主張し、保全執行への異議を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "procedural challenge",
+        "translation": "手続上の異議申立て"
+      },
+      {
+        "word": "enforcement measures",
+        "translation": "執行措置"
+      },
+      {
+        "word": "enforcing court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "enforcement agent",
+        "translation": "執行官"
+      },
+      {
+        "word": "seized property",
+        "translation": "差し押さえた財産"
+      }
+    ]
   }
 ]

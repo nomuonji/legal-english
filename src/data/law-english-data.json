@@ -1,38 +1,38 @@
 {
-  "category": "Companies Act (会社法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Stock Consolidation",
-  "definition": "The process by which a company reduces the total number of its outstanding shares by combining several existing shares into a smaller number of new shares, typically requiring a special resolution of the shareholders.",
-  "japaneseDefinition": "会社がその発行済株式の総数を減らすために、複数の既存の株式を合わせてより少数の新しい株式とする手続き。",
-  "japaneseWordTranslation": "株式併合 (かぶしきへいごう)",
-  "legalContext": "Companies Act Art. 180: Procedures for Stock Consolidation, stipulating that the shareholders' special resolution and public notice are required.",
-  "japaneseLegalContext": "会社法第180条: 株式併合の手続。株主総会の特別決議及び公告が必要とされている。",
-  "exampleSentence": "The company resolved to implement a stock consolidation at a ratio of 10-to-1 in order to adjust the nominal price per share and prepare for listing on a major exchange.",
-  "exampleTranslation": "その会社は、一株当たりの額面価格を調整し、主要な取引所への上場に備えるため、10株を1株とする株式併合の実施を決議した。",
+  "word": "Contributory Negligence",
+  "definition": "The doctrine under which, when determining the amount of compensation for damages arising from non-performance of obligation or tort, the court shall take into account the fault (negligence) of the victim (obligee) and reduce the compensation accordingly.",
+  "japaneseDefinition": "債務不履行または不法行為による損害賠償の額を定める際、被害者側にも過失があった場合に、その過失の程度に応じて賠償額を減額すること。",
+  "japaneseWordTranslation": "過失相殺 (Kashitsu Sōsai)",
+  "legalContext": "Civil Code Art. 420 (Calculation of Damages), applicable mutatis mutandis to tort liability via Art. 722(2).",
+  "japaneseLegalContext": "民法第420条 (損害賠償の額の算定) および第722条第2項 (準用規定)",
+  "exampleSentence": "The court applied the principle of contributory negligence, reducing the claimant's compensation award by 20% due to the victim's failure to wear a safety helmet at the construction site.",
+  "exampleTranslation": "裁判所は過失相殺の原則を適用し、被害者が建設現場で安全ヘルメットを着用しなかったため、請求者の賠償額を20％減額した。",
   "vocabularyList": [
     {
-      "word": "company resolution",
-      "translation": "会社決議"
+      "word": "damages",
+      "translation": "損害賠償 (Songai Baishō)"
     },
     {
-      "word": "outstanding shares",
-      "translation": "発行済株式"
+      "word": "tort liability",
+      "translation": "不法行為責任 (Fuhō Kōi Sekinin)"
     },
     {
-      "word": "nominal price",
-      "translation": "額面価格"
+      "word": "claimant",
+      "translation": "請求者 (Seikyūsha)"
     },
     {
-      "word": "listing",
-      "translation": "上場"
+      "word": "non-performance of obligation",
+      "translation": "債務不履行 (Saimu Furikō)"
     },
     {
-      "word": "shareholder",
-      "translation": "株主"
+      "word": "compensation award",
+      "translation": "賠償額 (Baishōgaku)"
     },
     {
-      "word": "public notice",
-      "translation": "公告"
+      "word": "victim's failure",
+      "translation": "被害者の不作為 (Higaisha no Fusa kui)"
     }
   ]
 }

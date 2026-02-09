@@ -16020,5 +16020,119 @@
         "translation": "敷地を明け渡す (shikichi o akiwatasu)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Substitution of Intent Judgment Enforcement",
+    "definition": "The judicial procedure where a final and binding judgment compelling the declaration of intent (such as signing a contract or transfer document) is deemed to constitute the debtor's declaration of intent upon finalization, thereby effecting the required legal act.",
+    "japaneseDefinition": "意思表示をすべき債務者に代わって、確定判決をもってその意思表示があったものとみなす強制執行の手続き。",
+    "japaneseWordTranslation": "意思表示の執行 (Ishi Hyōji no Shikkō)",
+    "legalContext": "Civil Execution Act, Article 174: Execution for Declaration of Intent.",
+    "japaneseLegalContext": "民事執行法第174条：意思表示の執行",
+    "exampleSentence": "The obligee initiated Substitution of Intent Judgment Enforcement to secure the registration of property transfer, as the obligor refused to submit the necessary application documents.",
+    "exampleTranslation": "債務者が申請書類の提出を拒否したため、債権者は所有権移転登記を確保するために意思表示の執行を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Declaration of Intent",
+        "translation": "意思表示 (ishi hyōji)"
+      },
+      {
+        "word": "Final and binding judgment",
+        "translation": "確定判決 (kakutei hanketsu)"
+      },
+      {
+        "word": "Property transfer",
+        "translation": "所有権移転 (shoyūken iten)"
+      },
+      {
+        "word": "Registration",
+        "translation": "登記 (tōki)"
+      },
+      {
+        "word": "To constitute",
+        "translation": "構成する (kōsei suru)"
+      },
+      {
+        "word": "To refuse",
+        "translation": "拒否する (kyohi suru)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Third Party Intervention Suit",
+    "definition": "A lawsuit filed by a third party (not the obligor or obligee) who claims to have ownership or other legal right sufficient to prevent the seizure and sale of the specific property targeted by the execution order, thereby demanding the cancellation of the execution measure.",
+    "japaneseDefinition": "差し押さえられた財産について所有権などの権利を主張し、その強制執行の排除を求めるために、当該財産を所有する第三者が提起する訴訟。",
+    "japaneseWordTranslation": "第三者異議の訴え (Daisansha Igi no Uttae)",
+    "legalContext": "Civil Execution Act, Article 38: Action to Object by Third Party.",
+    "japaneseLegalContext": "民事執行法第38条：第三者異議の訴え",
+    "exampleSentence": "The spouse of the judgment debtor filed a Third Party Intervention Suit claiming that the seized valuable artwork was her exclusive property, acquired prior to the marriage.",
+    "exampleTranslation": "判決債務者の配偶者は、差し押さえられた高価な美術品が婚姻前に取得した自己の固有財産であるとして、第三者異議の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "Judgment debtor",
+        "translation": "判決債務者 (hanketsu saimusha)"
+      },
+      {
+        "word": "Valuable artwork",
+        "translation": "高価な美術品 (kōka na bijutsuhin)"
+      },
+      {
+        "word": "Exclusive property",
+        "translation": "固有財産 (koyū zaisan)"
+      },
+      {
+        "word": "To claim",
+        "translation": "主張する (shuchō suru)"
+      },
+      {
+        "word": "To file a lawsuit",
+        "translation": "訴えを提起する (uttae o teiki suru)"
+      },
+      {
+        "word": "Cancellation",
+        "translation": "排除 (haijo)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Compulsory Fulfillment of Specific Non-Fungible Act",
+    "definition": "Execution aimed at fulfilling an obligation requiring the obligor to perform a unique, non-fungible act (such as demolishing a structure or removing goods), typically carried out by the Execution Officer or a delegate at the obligor's expense.",
+    "japaneseDefinition": "作為義務のうち、性質上代替可能であり、債務者に代わって執行機関や第三者がこれを実行し、その費用を債務者から徴収する強制執行の方法。",
+    "japaneseWordTranslation": "代替的作為義務の執行 (Daitaiteki Sakui Gimu no Shikkō)",
+    "legalContext": "Civil Execution Act, Article 169: Execution for Substitution (Act).",
+    "japaneseLegalContext": "民事執行法第169条：代替執行",
+    "exampleSentence": "Due to the landowner’s failure to comply with the court order, the court authorized the Compulsory Fulfillment of Specific Non-Fungible Act for the demolition of the illegally constructed boundary fence.",
+    "exampleTranslation": "土地所有者が裁判所の命令に従わなかったため、裁判所は不法に建設された境界柵の撤去について代替的作為義務の執行を認めた。",
+    "vocabularyList": [
+      {
+        "word": "Non-fungible act",
+        "translation": "代替的作為義務 (daitaiteki sakui gimu)"
+      },
+      {
+        "word": "Demolition",
+        "translation": "撤去 (tekkyo)"
+      },
+      {
+        "word": "To comply with",
+        "translation": "従う (shitagau)"
+      },
+      {
+        "word": "Illegally constructed",
+        "translation": "不法に建設された (fuhō ni kensetsu sareta)"
+      },
+      {
+        "word": "At the obligor's expense",
+        "translation": "債務者の費用で (saimusha no hiyō de)"
+      },
+      {
+        "word": "To authorize",
+        "translation": "認める (mitomeru)"
+      }
+    ]
   }
 ]

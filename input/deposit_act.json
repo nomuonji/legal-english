@@ -11282,5 +11282,81 @@
         "translation": "速やかに発せられた"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Revocation of Consignment",
+    "definition": "The right of the original depositor (obligor) to withdraw the deposited property from the repository, permitted provided that the obligee has not yet accepted the deposit or obtained a final and binding judgment confirming the deposit’s validity.",
+    "japaneseDefinition": "供託者である債務者が、供託所から供託物を取り戻す行為。債権者が供託を受諾していない、または供託を有効とする判決が確定していない場合に限り認められる。",
+    "japaneseWordTranslation": "供託の取消し (きょうたくのとりけし)",
+    "legalContext": "Civil Code Art. 498, Paragraph 1: The depositor may recover the deposited property...",
+    "japaneseLegalContext": "民法第498条第1項: 供託者は、債権者が供託を受諾せず、又は供託を有効とする判決が確定しない間は、供託物を取り戻すことができる。",
+    "exampleSentence": "The depositor exercised their right of Revocation of Consignment after successfully locating the whereabouts of the previously unknown entitled person.",
+    "exampleTranslation": "供託者は、以前行方不明であった権利者を無事に見つけた後、供託の取消し権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "depositor",
+        "translation": "供託者"
+      },
+      {
+        "word": "deposited property",
+        "translation": "供託物"
+      },
+      {
+        "word": "withdraw",
+        "translation": "取り戻す"
+      },
+      {
+        "word": "entitled person",
+        "translation": "権利者"
+      },
+      {
+        "word": "final and binding judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "validity",
+        "translation": "有効性"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Vesting in State Funds",
+    "definition": "The statutory requirement under the Deposit Act by which deposited monetary funds or securities become the property of the State if the entitlement holder fails to exercise their claim right within the designated statutory claim period (typically twenty years).",
+    "japaneseDefinition": "供託された金銭や有価証券が、供託法に定められた一定期間（通常20年）内に権利者によって引き取られなかった場合に、国の所有に移転すること。",
+    "japaneseWordTranslation": "国庫帰属 (こっこきぞく)",
+    "legalContext": "Deposit Act Art. 49, Paragraph 1: If the depositor or the entitlement holder does not recover the deposited property within twenty years...",
+    "japaneseLegalContext": "供託法第49条第1項: 供託者及び供託物払渡請求権を有する者が供託物を取り戻さず、又は払渡しを受けないまま二十年を経過したとき…",
+    "exampleSentence": "Failure by the entitlement holder to claim the funds within the specified claim period will lead to Vesting in State Funds.",
+    "exampleTranslation": "権利者が指定された請求期間内に資金を請求しなかった場合、その資金は国庫帰属となる。",
+    "vocabularyList": [
+      {
+        "word": "statutory requirement",
+        "translation": "法定要件"
+      },
+      {
+        "word": "monetary funds",
+        "translation": "金銭"
+      },
+      {
+        "word": "securities",
+        "translation": "有価証券"
+      },
+      {
+        "word": "entitlement holder",
+        "translation": "権利者"
+      },
+      {
+        "word": "statutory claim period",
+        "translation": "法定請求期間"
+      },
+      {
+        "word": "property of the State",
+        "translation": "国の所有"
+      }
+    ]
   }
 ]

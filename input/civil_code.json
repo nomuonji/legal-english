@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Contributory Negligence",
-    "definition": "The doctrine under which, when determining the amount of compensation for damages arising from non-performance of obligation or tort, the court shall take into account the fault (negligence) of the victim (obligee) and reduce the compensation accordingly.",
-    "japaneseDefinition": "債務不履行または不法行為による損害賠償の額を定める際、被害者側にも過失があった場合に、その過失の程度に応じて賠償額を減額すること。",
-    "japaneseWordTranslation": "過失相殺 (Kashitsu Sōsai)",
-    "legalContext": "Civil Code Art. 420 (Calculation of Damages), applicable mutatis mutandis to tort liability via Art. 722(2).",
-    "japaneseLegalContext": "民法第420条 (損害賠償の額の算定) および第722条第2項 (準用規定)",
-    "exampleSentence": "The court applied the principle of contributory negligence, reducing the claimant's compensation award by 20% due to the victim's failure to wear a safety helmet at the construction site.",
-    "exampleTranslation": "裁判所は過失相殺の原則を適用し、被害者が建設現場で安全ヘルメットを着用しなかったため、請求者の賠償額を20％減額した。",
-    "vocabularyList": [
-      {
-        "word": "damages",
-        "translation": "損害賠償 (Songai Baishō)"
-      },
-      {
-        "word": "tort liability",
-        "translation": "不法行為責任 (Fuhō Kōi Sekinin)"
-      },
-      {
-        "word": "claimant",
-        "translation": "請求者 (Seikyūsha)"
-      },
-      {
-        "word": "non-performance of obligation",
-        "translation": "債務不履行 (Saimu Furikō)"
-      },
-      {
-        "word": "compensation award",
-        "translation": "賠償額 (Baishōgaku)"
-      },
-      {
-        "word": "victim's failure",
-        "translation": "被害者の不作為 (Higaisha no Fusa kui)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Strict Liability (No-Fault Liability)",
     "definition": "A standard of civil liability where a party is held responsible for damages regardless of intention or negligence, provided a statutorily defined causal link exists between the act/omission and the resulting damage.",
     "japaneseDefinition": "加害者に故意または過失がなくても、法律が特に定めた場合に、損害賠償責任を負わせる原則。民法の一般原則である過失責任主義の例外。",
@@ -19992,6 +19954,124 @@
       {
         "word": "Divided",
         "translation": "分配された (ぶんぱいされた)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Claim Performance",
+    "definition": "The core right of an obligee to demand the obligor carry out the specific action or deliver the specific thing that constitutes the content of the obligation.",
+    "japaneseDefinition": "債権者が債務者に対し、債務の内容たる給付をなすように要求する、債権の本質的な権利。",
+    "japaneseWordTranslation": "履行請求権 (りこうせいきゅうけん)",
+    "legalContext": "Civil Code Chapter III, General Provisions on Obligations. The content of this right is determined by the obligation's nature.",
+    "japaneseLegalContext": "民法第3編第1章（債権総論）。債権の本質として認められる権利。",
+    "exampleSentence": "The obligee exercised their *right to claim performance* after the final due date passed, initiating legal proceedings to compel fulfillment.",
+    "exampleTranslation": "債権者は、最終履行期日が過ぎた後に履行請求権を行使し、履行を強制するための訴訟手続きを開始した。",
+    "vocabularyList": [
+      {
+        "word": "Obligee",
+        "translation": "債権者 (saikensha)"
+      },
+      {
+        "word": "Obligor",
+        "translation": "債務者 (saimusha)"
+      },
+      {
+        "word": "Fulfillment",
+        "translation": "履行 (rikō)"
+      },
+      {
+        "word": "Legal proceedings",
+        "translation": "訴訟手続 (soshō tetsuzuki)"
+      },
+      {
+        "word": "Compel",
+        "translation": "強制する (kyōsei suru)"
+      },
+      {
+        "word": "Due date",
+        "translation": "履行期日 (rikō kijitsu)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Subject Matter of Obligation",
+    "definition": "The specific item, action, or forbearance that the obligor is legally bound to provide, representing the content of the contractual or statutory duty.",
+    "japaneseDefinition": "債務者が債権者に対して行うべき、給付の内容となる特定の行為、不作為、または物。",
+    "japaneseWordTranslation": "債務の目的 (さいむのもくてき)",
+    "legalContext": "Civil Code Art. 400 stipulates the standard of care required when the *Subject Matter of Obligation* is a specific thing.",
+    "japaneseLegalContext": "民法第400条は、債務の目的が特定物である場合の保管義務の基準を定める。",
+    "exampleSentence": "When the *subject matter of obligation* involves an obligation of indeterminate genus, the selection must be made according to the agreement or by the obligor providing a medium quality item.",
+    "exampleTranslation": "債務の目的が不特定物の債務である場合、特約に従い、または債務者が中等の品質の物を給付することにより特定される。",
+    "vocabularyList": [
+      {
+        "word": "Forbearance",
+        "translation": "不作為 (fusakui)"
+      },
+      {
+        "word": "Statutory duty",
+        "translation": "法定の義務 (hōtei no gimu)"
+      },
+      {
+        "word": "Indeterminate genus",
+        "translation": "不特定物 (futokuteibutsu)"
+      },
+      {
+        "word": "Selection",
+        "translation": "特定 (tokutei)"
+      },
+      {
+        "word": "Standard of care",
+        "translation": "注意義務の基準 (chūi gimu no kijun)"
+      },
+      {
+        "word": "Medium quality",
+        "translation": "中等 (chūtō)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Manager of Matrimonial Property",
+    "definition": "The spouse who is granted the authority, by law or by a registered agreement, to administer, maintain, and dispose of certain property belonging to the married couple.",
+    "japaneseDefinition": "夫婦の財産の管理、維持及び処分について、法律上または登記された契約によって権限を与えられた配偶者。",
+    "japaneseWordTranslation": "夫婦財産の管理者 (ふうふざいさんのかんりしゃ)",
+    "legalContext": "Civil Code Art. 760 and 761 address the costs of marriage and the management authority concerning matrimonial property.",
+    "japaneseLegalContext": "民法第760条及び761条は、婚姻費用と夫婦財産の管理権限に関する規定を含む。",
+    "exampleSentence": "If a husband acts as the *Manager of Matrimonial Property* but mismanages the assets, the wife may petition the court for a change in administration.",
+    "exampleTranslation": "もし夫が夫婦財産の管理者として行動し、財産を不適切に管理した場合、妻は裁判所に対し管理者の変更を申し立てることができる。",
+    "vocabularyList": [
+      {
+        "word": "Matrimonial property",
+        "translation": "夫婦財産 (fūfu zaisan)"
+      },
+      {
+        "word": "Administer",
+        "translation": "管理する (kanri suru)"
+      },
+      {
+        "word": "Mismarriages",
+        "translation": "不適切に管理する (futekisetsu ni kanri suru)"
+      },
+      {
+        "word": "Petition the court",
+        "translation": "裁判所に申し立てる (saibansho ni mōshiateteru)"
+      },
+      {
+        "word": "Change in administration",
+        "translation": "管理者の変更 (kanrisha no henkō)"
+      },
+      {
+        "word": "Assets",
+        "translation": "財産 (zaisan)"
+      },
+      {
+        "word": "Authority",
+        "translation": "権限 (kengen)"
       }
     ]
   }

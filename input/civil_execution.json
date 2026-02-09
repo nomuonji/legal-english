@@ -15918,5 +15918,107 @@
         "translation": "履行されたとみなされる (りこうされたとみなされる)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Determination of Enforcement Expenses",
+    "definition": "The judicial procedure by which the court assesses, calculates, and fixes the amount of costs incurred during the execution proceedings, which are generally borne by the obligor.",
+    "japaneseDefinition": "強制執行手続において発生した費用（申立て費用、執行官の費用、競売費用等）の額を裁判所が計算し、確定する手続。原則として債務者が負担する。",
+    "japaneseWordTranslation": "執行費用の確定 (Shikkō Hiyō no Kakutei)",
+    "legalContext": "Civil Execution Act, Art. 42 (Assessment of Execution Costs): Enforcement costs, unless specified otherwise, shall be assessed by the executing organ at the time of execution completion.",
+    "japaneseLegalContext": "民事執行法第42条（執行費用の額の定め）：執行費用は、この法律に特別の定めがある場合を除き、執行機関がその執行を終了する時にその額を定める。",
+    "exampleSentence": "The obligee filed a motion for the determination of enforcement expenses after the compulsory sale concluded, seeking reimbursement from the execution proceeds.",
+    "exampleTranslation": "債権者は、強制売却が終了した後、執行費用の確定の申立てを行い、執行収益からの償還を求めた。",
+    "vocabularyList": [
+      {
+        "word": "compulsory sale",
+        "translation": "強制売却 (kyōsei baikyaku)"
+      },
+      {
+        "word": "reimbursement",
+        "translation": "償還 (shōkan)"
+      },
+      {
+        "word": "incurred",
+        "translation": "発生した (hassei shita)"
+      },
+      {
+        "word": "executing organ",
+        "translation": "執行機関 (shikkō kikan)"
+      },
+      {
+        "word": "execution proceedings",
+        "translation": "執行手続 (shikkō tetsuzuki)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Challenge to Distribution",
+    "definition": "A lawsuit filed by a creditor or the obligor to formally object to the distribution schedule prepared by the execution court, usually on grounds that the ranking or amount assigned to other creditors is incorrect.",
+    "japaneseDefinition": "執行裁判所が作成した配当表の記載内容に対して不服がある債権者又は債務者が、その変更を求めて提起する訴訟。",
+    "japaneseWordTranslation": "配当異議の訴え (Haitō Igi no Uttae)",
+    "legalContext": "Civil Execution Act, Art. 89 (Action to Object to Distribution Schedule): A person who has stated an objection... may file an action to contest the distribution schedule against the person who is entitled to the payment.",
+    "japaneseLegalContext": "民事執行法第89条（配当異議の訴え）：異議を述べた者…は、配当を受けるべき者を相手方として、配当異議の訴えを提起することができる。",
+    "exampleSentence": "The subordinate lienholder initiated a judicial challenge to distribution, arguing that the court failed to recognize their preferential claim ranking.",
+    "exampleTranslation": "劣後順位の担保権者が、裁判所が彼らの優先的な債権順位を認識しなかったと主張し、配当異議の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "subordinate lienholder",
+        "translation": "劣後順位の担保権者 (retsugo jūni no tanpokenja)"
+      },
+      {
+        "word": "distribution schedule",
+        "translation": "配当表 (haitō hyō)"
+      },
+      {
+        "word": "ranking",
+        "translation": "順位 (jūni)"
+      },
+      {
+        "word": "file an action",
+        "translation": "訴えを提起する (uttae o teiki suru)"
+      },
+      {
+        "word": "entitled to payment",
+        "translation": "支払を受けるべき (shiharai o ukeru beki)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Delivery Order for Residential Property",
+    "definition": "A specific provision within the Civil Execution Act regulating the transfer of possession following the auction sale of a debtor's residential real property, granting the debtor a grace period or requiring specific conditions for eviction.",
+    "japaneseDefinition": "競売により債務者の居住用不動産の所有権を取得した買受人に対して、占有者の明渡しを強制するために、裁判所が発する引渡命令の特例規定。",
+    "japaneseWordTranslation": "引渡命令の特例 (Hikiwatashi Meirei no Tokurei)",
+    "legalContext": "Civil Execution Act, Art. 188 (Application of Provisions Concerning Real Property Execution): Special rules apply to the delivery order related to the obligor's residential property to ensure debtor protection.",
+    "japaneseLegalContext": "民事執行法第188条（不動産執行に関する規定の準用）：債務者居住用不動産に係る引渡命令については、債務者の保護を図るため特例が適用される。",
+    "exampleSentence": "Despite the auction, the execution court applied the special delivery order for residential property, granting the former obligor six months to vacate the premises.",
+    "exampleTranslation": "競売にもかかわらず、執行裁判所は引渡命令の特例を適用し、旧債務者に敷地を明け渡すための6ヶ月間の猶予期間を与えた。",
+    "vocabularyList": [
+      {
+        "word": "former obligor",
+        "translation": "旧債務者 (kyū saimusha)"
+      },
+      {
+        "word": "grace period",
+        "translation": "猶予期間 (yūyo kikan)"
+      },
+      {
+        "word": "transfer of possession",
+        "translation": "占有の移転 (sen'yū no iten)"
+      },
+      {
+        "word": "auction sale",
+        "translation": "競売売却 (kyōbai baikyaku)"
+      },
+      {
+        "word": "vacate the premises",
+        "translation": "敷地を明け渡す (shikichi o akiwatasu)"
+      }
+    ]
   }
 ]

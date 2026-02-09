@@ -16362,5 +16362,107 @@
         "translation": "電子カルテ"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mistake Concerning Justification Grounds",
+    "definition": "In criminal theory, this refers to an error where the accused erroneously believes that the objective circumstances required to establish a ground for justification (e.g., self-defense or necessity) are present, when in fact they are not.",
+    "japaneseDefinition": "客観的には違法性阻却事由が存在しないにもかかわらず、行為者がその存在を誤信したこと（例えば、存在しない急迫不正の侵害を信じて反撃行為に出た場合）を指す、違法性の錯誤の一種。",
+    "japaneseWordTranslation": "阻却事由の錯誤 (そきゃくじゆうのさくご)",
+    "legalContext": "Pertains to the layer of unlawfulness (違法性) analysis in criminal law theory, specifically the subjective side of justification.",
+    "japaneseLegalContext": "刑法総論における違法性に関する議論。違法性の実質を主観的・客観的要素の双方から検討する際に問題となる。",
+    "exampleSentence": "The defendant claimed a mistake concerning justification grounds, stating he believed the victim was wielding a knife and acted in self-defense, though the object was only a reflective toy.",
+    "exampleTranslation": "被告人は、被害者がナイフを振り回していると誤認し、正当防衛で行動したと述べ、阻却事由の錯誤を主張した。実際には、それは反射するおもちゃだった。",
+    "vocabularyList": [
+      {
+        "word": "Justification ground",
+        "translation": "違法性阻却事由"
+      },
+      {
+        "word": "Subjective side",
+        "translation": "主観的側面"
+      },
+      {
+        "word": "Unlawfulness",
+        "translation": "違法性"
+      },
+      {
+        "word": "Acted in self-defense",
+        "translation": "正当防衛で行動した"
+      },
+      {
+        "word": "Reflective toy",
+        "translation": "反射するおもちゃ"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Exemption from Punishment",
+    "definition": "A legal measure stipulated in the Criminal Code (or specific statutes) under which the court is authorized or required to waive the imposition of a penalty upon a defendant who has been found guilty, typically due to specific circumstances related to repentance or lack of harm.",
+    "japaneseDefinition": "被告人が有罪であり犯罪の責任を負うにもかかわらず、法令の規定に基づき、裁判所が刑罰の言い渡しを免除する措置。情状の変化や法定の要件を満たす場合に適用される。",
+    "japaneseWordTranslation": "刑の免除 (けいのめんじょ)",
+    "legalContext": "Criminal Code, Chapter III (Punishments), General Provisions, regarding the determination and imposition of penalties.",
+    "japaneseLegalContext": "刑法第3章（刑）総則。例えば、予備罪や幇助罪において、実行着手前に自首した場合などに規定される。",
+    "exampleSentence": "Pursuant to the provisions regarding preparation for specific crimes, the court decided on the statutory exemption from punishment because the perpetrator voluntarily surrendered and actively prevented the consummation of the offense.",
+    "exampleTranslation": "特定の犯罪の予備に関する規定に基づき、行為者が自首し、かつ犯罪の完成を積極的に阻止したため、裁判所は刑の免除を決定した。",
+    "vocabularyList": [
+      {
+        "word": "Waiver",
+        "translation": "免除"
+      },
+      {
+        "word": "Imposition of a penalty",
+        "translation": "刑罰の言い渡し"
+      },
+      {
+        "word": "Preparation for specific crimes",
+        "translation": "特定の犯罪の予備"
+      },
+      {
+        "word": "Voluntarily surrendered",
+        "translation": "自首した"
+      },
+      {
+        "word": "Consummation of the offense",
+        "translation": "犯罪の完成"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Withdrawal from Joint Perpetration",
+    "definition": "The act of a participant in a joint criminal scheme actively severing their connection with the co-perpetrators before the commencement of the principal act of execution, potentially leading to the mitigation or waiver of their criminal liability.",
+    "japaneseDefinition": "共同の犯罪計画に加わった者が、実行行為の着手前に、他の共謀者との共謀関係を積極的に断ち切り、自己の犯罪関与を解消する行為。犯罪成立範囲を限定する効果を持つ。",
+    "japaneseWordTranslation": "共犯からの離脱 (きょうはんからのりだつ)",
+    "legalContext": "Relates to the scope of liability in forms of joint criminality, particularly co-perpetration (共同正犯), where the imputation of one member's actions to another is key.",
+    "japaneseLegalContext": "共同正犯の成立要件である相互的利用・支配関係からの離脱を意味し、離脱の時期及び方法が厳しく問われる。",
+    "exampleSentence": "If a member successfully achieves withdrawal from joint perpetration by openly abandoning the plan and reporting it to the authorities before the execution phase begins, they may be exempted from liability.",
+    "exampleTranslation": "もし構成員が計画を公然と断念し、実行段階が始まる前に当局に通報することで共犯からの離脱を成功させれば、その者は責任を免除される可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "Joint criminal scheme",
+        "translation": "共同の犯罪計画"
+      },
+      {
+        "word": "Co-perpetrators",
+        "translation": "共同正犯者"
+      },
+      {
+        "word": "Severing their connection",
+        "translation": "関係を断ち切る"
+      },
+      {
+        "word": "Execution phase",
+        "translation": "実行段階"
+      },
+      {
+        "word": "Imputation of actions",
+        "translation": "行為の帰責"
+      }
+    ]
   }
 ]

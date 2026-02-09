@@ -14562,5 +14562,81 @@
         "translation": "役員変更"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Lack of Counter-Assertion Effect (against unregistered facts)",
+    "definition": "The principle that facts required to be registered cannot be asserted against a third party acting in good faith if they have not been duly recorded in the commercial register.",
+    "japaneseDefinition": "商業登記簿に記載されていない登記義務事項は、善意の第三者に対してその効力を主張することができないという原則（未登記事項の対抗力の制限）。",
+    "japaneseWordTranslation": "未登記事項の対抗力欠如 (Mitōki jikō no taikōryoku ketsujo)",
+    "legalContext": "Commercial Registration Act, Article 9: Assertion Bar against Unregistered Matters.",
+    "japaneseLegalContext": "商業登記法 第9条: 未登記の事項についての対抗力の制限",
+    "exampleSentence": "The company cannot invoke the change in its corporate purpose against a third party who dealt with them, due to the lack of counter-assertion effect arising from the unregistered mandatory particulars.",
+    "exampleTranslation": "会社は、未登記の義務的な登記事項から生じる対抗力欠如のため、取引を行った第三者に対して事業目的の変更を主張することはできない。",
+    "vocabularyList": [
+      {
+        "word": "invoke",
+        "translation": "主張する（法的効果を）"
+      },
+      {
+        "word": "corporate purpose",
+        "translation": "事業目的"
+      },
+      {
+        "word": "dealt with",
+        "translation": "取引した"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "mandatory particulars",
+        "translation": "義務的な登記事項"
+      },
+      {
+        "word": "commercial register",
+        "translation": "商業登記簿"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Ostensible Representative Director",
+    "definition": "A company may not deny the authority of a director who has been falsely registered as the representative director against a third party who, without negligence, believed the registration to be accurate.",
+    "japaneseDefinition": "代表権のない取締役が代表取締役として虚偽の登記をされている場合、会社は、その登記を信用した善意無過失の第三者に対して、その代表権の不存在を主張できないとする会社の責任。",
+    "japaneseWordTranslation": "表見代表取締役の責任 (Hyōken Daihyō Torishimariyaku no Sekinin)",
+    "legalContext": "Companies Act, Article 9: Liability for Acts of Ostensible Representative Directors.",
+    "japaneseLegalContext": "会社法 第9条: 表見代表取締役の行為についての責任",
+    "exampleSentence": "Pursuant to the doctrine of liability for ostensible representative director, the company was bound by the contract executed by the incorrectly registered director.",
+    "exampleTranslation": "表見代表取締役の責任の法理に基づき、会社は誤って登記された取締役が締結した契約に拘束された。",
+    "vocabularyList": [
+      {
+        "word": "bound by the contract",
+        "translation": "契約に拘束される"
+      },
+      {
+        "word": "executed",
+        "translation": "締結された（契約などが）"
+      },
+      {
+        "word": "incorrectly registered director",
+        "translation": "誤って登記された取締役"
+      },
+      {
+        "word": "without negligence",
+        "translation": "無過失で"
+      },
+      {
+        "word": "authority",
+        "translation": "権限"
+      },
+      {
+        "word": "falsely registered",
+        "translation": "虚偽に登記された"
+      }
+    ]
   }
 ]

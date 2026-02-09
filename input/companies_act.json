@@ -2,44 +2,6 @@
   {
     "category": "Companies Act (会社法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Stock Consolidation",
-    "definition": "The process by which a company reduces the total number of its outstanding shares by combining several existing shares into a smaller number of new shares, typically requiring a special resolution of the shareholders.",
-    "japaneseDefinition": "会社がその発行済株式の総数を減らすために、複数の既存の株式を合わせてより少数の新しい株式とする手続き。",
-    "japaneseWordTranslation": "株式併合 (かぶしきへいごう)",
-    "legalContext": "Companies Act Art. 180: Procedures for Stock Consolidation, stipulating that the shareholders' special resolution and public notice are required.",
-    "japaneseLegalContext": "会社法第180条: 株式併合の手続。株主総会の特別決議及び公告が必要とされている。",
-    "exampleSentence": "The company resolved to implement a stock consolidation at a ratio of 10-to-1 in order to adjust the nominal price per share and prepare for listing on a major exchange.",
-    "exampleTranslation": "その会社は、一株当たりの額面価格を調整し、主要な取引所への上場に備えるため、10株を1株とする株式併合の実施を決議した。",
-    "vocabularyList": [
-      {
-        "word": "company resolution",
-        "translation": "会社決議"
-      },
-      {
-        "word": "outstanding shares",
-        "translation": "発行済株式"
-      },
-      {
-        "word": "nominal price",
-        "translation": "額面価格"
-      },
-      {
-        "word": "listing",
-        "translation": "上場"
-      },
-      {
-        "word": "shareholder",
-        "translation": "株主"
-      },
-      {
-        "word": "public notice",
-        "translation": "公告"
-      }
-    ]
-  },
-  {
-    "category": "Companies Act (会社法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Derivative Action",
     "definition": "A lawsuit filed by a shareholder (or multiple shareholders) on behalf of the company against its directors or officers to enforce corporate claims, typically related to breaches of fiduciary duties or management failings.",
     "japaneseDefinition": "会社に代わって、その取締役や役員に対して、善管注意義務違反や経営上の過失などによる損害賠償責任を追及するために株主が提起する訴訟。",
@@ -14856,6 +14818,120 @@
       {
         "word": "liabilities",
         "translation": "負債"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Call for Contribution",
+    "definition": "The formal demand issued by a company to its share subscribers (or allottees) to remit the required payment for the shares they have agreed to acquire, thereby fulfilling their obligation to provide capital.",
+    "japaneseDefinition": "会社が株式引受人（株主）に対し、引き受けた株式に係る払込金額を支払うよう請求する行為。これは、資本を会社に提供する義務を履行させるための手続きである。",
+    "japaneseWordTranslation": "出資の履行請求 (しゅっしのりこうせいきゅう)",
+    "legalContext": "Companies Act, Article 208 (Procedures for Payment for Shares)",
+    "japaneseLegalContext": "会社法第208条（出資の履行）",
+    "exampleSentence": "The newly established company issued a formal Call for Contribution to all subscribers, setting the deadline for payment on October 31, failing which they would risk losing their shareholder status.",
+    "exampleTranslation": "新設された会社は、すべての引受人に対して正式な出資の履行請求を発行し、10月31日を払込期限と定めた。この期限を過ぎると株主の地位を失うリスクがある。",
+    "vocabularyList": [
+      {
+        "word": "subscriber",
+        "translation": "引受人"
+      },
+      {
+        "word": "remit",
+        "translation": "送金する"
+      },
+      {
+        "word": "allottee",
+        "translation": "割当を受けた者"
+      },
+      {
+        "word": "capital",
+        "translation": "資本"
+      },
+      {
+        "word": "shareholder status",
+        "translation": "株主の地位"
+      },
+      {
+        "word": "deadline",
+        "translation": "期限"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Acquisition of Business",
+    "definition": "A corporate transaction where one company obtains the entire, or a substantial part of the operational assets and corresponding obligations of another company, typically requiring a special shareholder resolution in the acquiring company.",
+    "japaneseDefinition": "会社が他の会社の事業の全部または重要な一部を譲り受ける行為。これは通常、譲り受ける会社において株主の特別決議を必要とする重要な組織再編行為である。",
+    "japaneseWordTranslation": "事業の譲受け (じぎょうのゆずりうけ)",
+    "legalContext": "Companies Act, Article 467 (Approval of Business Transfer or Acquisition)",
+    "japaneseLegalContext": "会社法第467条（事業の譲渡等の承認等）",
+    "exampleSentence": "Due to the significant scale of the transaction, the Acquisition of Business was subject to approval by a special resolution passed at the acquiring company’s General Meeting of Shareholders.",
+    "exampleTranslation": "その取引の規模が重要であったため、当該事業の譲受けは、譲受会社における株主総会の特別決議による承認を条件とされた。",
+    "vocabularyList": [
+      {
+        "word": "corporate transaction",
+        "translation": "会社取引"
+      },
+      {
+        "word": "operational assets",
+        "translation": "営業財産"
+      },
+      {
+        "word": "substantial part",
+        "translation": "重要な一部"
+      },
+      {
+        "word": "acquiring company",
+        "translation": "譲受会社"
+      },
+      {
+        "word": "shareholder resolution",
+        "translation": "株主決議"
+      },
+      {
+        "word": "General Meeting",
+        "translation": "総会"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Corporate Accounting Principles",
+    "definition": "The fundamental rules and standards that govern the preparation of account records and reports (such as the balance sheet and income statement) for stock companies, ensuring the accurate presentation of corporate financial status.",
+    "japaneseDefinition": "株式会社が計算書類等を作成する際に従うべき基本的な会計に関する規範や基準の総体。財産及び損益の状況を正確に表示することを目的とする。",
+    "japaneseWordTranslation": "企業会計の原則 (きぎょうかいけいのげんそく)",
+    "legalContext": "Companies Act, Article 431 (Accounting Principles for Stock Companies)",
+    "japaneseLegalContext": "会社法第431条（株式会社の会計の原則）",
+    "exampleSentence": "A company's directors have a duty to ensure that all financial documentation is prepared in strict compliance with generally accepted Corporate Accounting Principles.",
+    "exampleTranslation": "会社の取締役には、すべての財務文書が一般に公正妥当と認められる企業会計の原則に厳格に従って作成されることを確実にする義務がある。",
+    "vocabularyList": [
+      {
+        "word": "financial documentation",
+        "translation": "財務書類"
+      },
+      {
+        "word": "generally accepted",
+        "translation": "一般に公正妥当と認められる"
+      },
+      {
+        "word": "income statement",
+        "translation": "損益計算書"
+      },
+      {
+        "word": "balance sheet",
+        "translation": "貸借対照表"
+      },
+      {
+        "word": "compliance",
+        "translation": "遵守"
+      },
+      {
+        "word": "financial status",
+        "translation": "財産状況"
       }
     ]
   }

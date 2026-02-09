@@ -17648,5 +17648,119 @@
         "translation": "相互に受け入れ可能な (sōgo ni ukeire kanō na)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Factual Review Instance",
+    "definition": "The instance (level of court, typically the District Court and High Court in Japan) where the court conducts full review of both facts and legal applications, allowing for the submission of new evidence and allegations.",
+    "japaneseDefinition": "日本の民事訴訟における第一審及び控訴審のように、事実認定及び法律適用を包括的に審査する審級のこと。新たな事実主張や証拠調べが許容される。",
+    "japaneseWordTranslation": "事実審 (じじつしん)",
+    "legalContext": "Principle of Substantive Review (実質審理主義), governing the scope of judicial inquiry in the first and second instances of litigation.",
+    "japaneseLegalContext": "民事訴訟法における実質審理主義の原則（特に第一審および控訴審の審理範囲に関する原則）。",
+    "exampleSentence": "In the Japanese three-instance system, the District Court and the High Court operate as the Factual Review Instance, contrasting with the Supreme Court's role as the Legal Review Instance.",
+    "exampleTranslation": "日本の三審制において、地方裁判所及び高等裁判所は、最高裁判所が法理審であることと対照的に、事実審として機能する。",
+    "vocabularyList": [
+      {
+        "word": "Substantive Review",
+        "translation": "実質審理"
+      },
+      {
+        "word": "Legal Review Instance",
+        "translation": "法律審"
+      },
+      {
+        "word": "District Court",
+        "translation": "地方裁判所"
+      },
+      {
+        "word": "High Court",
+        "translation": "高等裁判所"
+      },
+      {
+        "word": "Allegations",
+        "translation": "主張 (しゅちょう)"
+      },
+      {
+        "word": "Three-Instance System",
+        "translation": "三審制"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ex Officio Inquiry",
+    "definition": "The scope of judicial requirements (such as jurisdiction, standing, and capacity of the party) that the court must investigate and determine on its own motion, even if the parties have not raised the issue.",
+    "japaneseDefinition": "裁判所が当事者の主張に関わらず、職権により調査し、判断しなければならない訴訟要件（管轄、当事者適格、訴訟能力など）の範囲。",
+    "japaneseWordTranslation": "職権調査事項 (しょっけんちょうさじこう)",
+    "legalContext": "Civil Procedure Code stipulates that procedural prerequisites are generally subject to ex officio judicial investigation.",
+    "japaneseLegalContext": "民事訴訟法は、一般的に訴訟上の前提条件が裁判所の職権調査の対象となることを規定している。",
+    "exampleSentence": "The question of the proper venue falls under Ex Officio Inquiry, and the court will address it before proceeding to the merits of the case.",
+    "exampleTranslation": "適正な裁判籍の問題は職権調査事項に該当するため、裁判所は事件の本案に進む前にこれに対処する。",
+    "vocabularyList": [
+      {
+        "word": "On its own motion",
+        "translation": "職権で"
+      },
+      {
+        "word": "Procedural prerequisites",
+        "translation": "訴訟要件"
+      },
+      {
+        "word": "Proper venue",
+        "translation": "適正な裁判籍"
+      },
+      {
+        "word": "Merits of the case",
+        "translation": "本案 (ほんあん)"
+      },
+      {
+        "word": "Standing",
+        "translation": "当事者適格"
+      },
+      {
+        "word": "Capacity of the party",
+        "translation": "訴訟能力"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Dismissal Rule",
+    "definition": "A rule mandating the court to dismiss a party's submission of a means of attack or defense (allegations or evidence) if that submission was intentionally delayed or made with gross negligence, thereby hindering the smooth progress of the trial.",
+    "japaneseDefinition": "当事者が故意または重大な過失によって攻撃防御方法（主張や証拠）の提出を遅延させ、訴訟の完結を遅延させる場合に、裁判所がそれを却下することを義務付ける規定。",
+    "japaneseWordTranslation": "時機に後れた攻撃防御方法の却下 (じきにおくれたこうげきぼうぎょほうほうのきゃっか)",
+    "legalContext": "Civil Procedure Code Art. 157: If a means of attack or defense is submitted when the period for submission has passed, or when the submission may significantly delay the conclusion of the suit, the court may dismiss it by ruling.",
+    "japaneseLegalContext": "民事訴訟法第157条：「攻撃又は防御の方法で、時機に後れて提出されたものについては、これにより訴訟の完結を遅延させることとなると認めるときは、裁判所は、申立てにより又は職権で、却下の決定をすることができる。」",
+    "exampleSentence": "The court applied the Mandatory Dismissal Rule to the defendant’s newly submitted evidence, ruling that the delay was grossly negligent and intended to obstruct the final judgment.",
+    "exampleTranslation": "裁判所は、遅延が重大な過失であり最終判決を妨害する意図があると判断し、被告が新たに提出した証拠に対して時機に後れた攻撃防御方法の却下の規定を適用した。",
+    "vocabularyList": [
+      {
+        "word": "Means of attack or defense",
+        "translation": "攻撃防御方法"
+      },
+      {
+        "word": "Gross negligence",
+        "translation": "重大な過失"
+      },
+      {
+        "word": "Dismiss (a submission)",
+        "translation": "却下する"
+      },
+      {
+        "word": "Intentionally delayed",
+        "translation": "故意に遅延した"
+      },
+      {
+        "word": "Conclusion of the suit",
+        "translation": "訴訟の完結"
+      },
+      {
+        "word": "Obstruct the final judgment",
+        "translation": "最終判決を妨害する"
+      }
+    ]
   }
 ]

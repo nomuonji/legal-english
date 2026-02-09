@@ -13711,5 +13711,119 @@
         "translation": "権利 (けんり)"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Security Rights Record Section",
+    "definition": "The designated segment within the official property register where non-ownership based entitlements, primarily security interests and usage rights, are entered, thereby establishing their priority ranking relative to other recorded entitlements.",
+    "japaneseDefinition": "不動産登記記録のうち、所有権以外の権利、特に担保権や用益権など、権利に関する登記を記録し、その権利の順位を確定するための部分（登記記録の乙区）。",
+    "japaneseWordTranslation": "権利部乙区 (けんりぶおつく)",
+    "legalContext": "Real Property Registration Law Art. 24(1): 'The record of proprietary rights shall be divided into the Ownership Rights Record and the Security Rights Record Section.'",
+    "japaneseLegalContext": "不動産登記法第24条第1項：「権利部ハ、甲区及乙区ニ分チ、甲区ニハ所有権ニ関スル登記ヲ、乙区ニハ所有権以外ノ権利ニ関スル登記ヲ為ス。」（口語訳）",
+    "exampleSentence": "The bank ensured its charge was entered into the Security Rights Record Section to establish its preferential position over subsequent creditors.",
+    "exampleTranslation": "銀行は、後順位の債権者に対する優先的な地位を確立するため、その担保権が権利部乙区に記録されるよう確実に手続きを行った。",
+    "vocabularyList": [
+      {
+        "word": "proprietary entitlement",
+        "translation": "権利の資格"
+      },
+      {
+        "word": "usage rights",
+        "translation": "用益権"
+      },
+      {
+        "word": "preferential position",
+        "translation": "優先的な地位"
+      },
+      {
+        "word": "subsequent creditors",
+        "translation": "後順位の債権者"
+      },
+      {
+        "word": "priority ranking",
+        "translation": "順位の確定"
+      },
+      {
+        "word": "Register of Deeds",
+        "translation": "登記記録"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Single-Party Application",
+    "definition": "A mechanism where registration is performed based on the filing of only one party, rather than the general requirement for joint filing by both the right holder and the duty bearer, often used for factual entries or initial preservation registrations.",
+    "japaneseDefinition": "登記権利者と登記義務者の共同申請を原則とする権利登記において、例外的に一方当事者のみの申請によって行われる方式（例：表題登記や裁判による登記）。",
+    "japaneseWordTranslation": "単独申請 (たんどくしんせい)",
+    "legalContext": "Real Property Registration Law Art. 21: 'Registration concerning property rights shall be filed jointly by the person entitled to registration and the person obligated to register; provided, however, that this shall not apply in the case of a Single-Party Application.'",
+    "japaneseLegalContext": "不動産登記法第21条：「権利に関する登記の申請は、法令に別段の定めがある場合を除き、登記権利者及び登記義務者が共同してしなければならない。」",
+    "exampleSentence": "The applicant utilized the Single-Party Application procedure permitted under the law when registering the Property Description Segment of the new commercial facility.",
+    "exampleTranslation": "申請者は、新しい商業施設の表示部を登記する際、法令により許可されている単独申請の手続きを利用した。",
+    "vocabularyList": [
+      {
+        "word": "factual entries",
+        "translation": "表題登記"
+      },
+      {
+        "word": "duty bearer",
+        "translation": "登記義務者"
+      },
+      {
+        "word": "joint filing",
+        "translation": "共同申請"
+      },
+      {
+        "word": "procedure",
+        "translation": "手続き"
+      },
+      {
+        "word": "property rights",
+        "translation": "権利に関する登記"
+      },
+      {
+        "word": "commercial facility",
+        "translation": "商業施設"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Description Segment",
+    "definition": "The component of the property register dedicated to describing the physical characteristics of the land or building, such as location, land classification, area measurements, and the building's type, structure, and floor dimensions.",
+    "japaneseDefinition": "不動産登記記録の冒頭部分であり、土地や建物の物理的な状況（所在、地目・種類、地積・床面積、構造など）を記録するために設けられた箇所。",
+    "japaneseWordTranslation": "表題部 (ひょうだいぶ)",
+    "legalContext": "Real Property Registration Law Art. 25: The filing for the Property Description Segment of a newly constructed building must be done within one month of construction completion.",
+    "japaneseLegalContext": "不動産登記法第25条：新築された建物についての表題登記の申請は、その建物が完成した日から1月以内にしなければならない。",
+    "exampleSentence": "Following the land subdivision, an amendment was required in the Property Description Segment of the remaining parcel to reflect the new area measurement.",
+    "exampleTranslation": "土地の分筆後、残りの筆の新しい地積を反映させるため、表題部において変更の登記が必要とされた。",
+    "vocabularyList": [
+      {
+        "word": "land classification",
+        "translation": "地目"
+      },
+      {
+        "word": "area measurement",
+        "translation": "地積（床面積）"
+      },
+      {
+        "word": "physical characteristics",
+        "translation": "物理的な状況"
+      },
+      {
+        "word": "land subdivision",
+        "translation": "分筆"
+      },
+      {
+        "word": "amendment",
+        "translation": "変更（登記）"
+      },
+      {
+        "word": "parcel",
+        "translation": "筆（ひつ）"
+      }
+    ]
   }
 ]

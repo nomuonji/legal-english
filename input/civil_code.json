@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Spousal Right of Habitation",
-    "definition": "A statutory right, established by the 2019 Civil Code amendments, granting the surviving spouse the right to reside in the matrimonial home (owned by the deceased spouse) either for life or a specified period, free of charge or for a reasonable rent, upon the commencement of inheritance.",
-    "japaneseDefinition": "相続開始後、残された配偶者が、原則として終身または一定期間、無償で、被相続人が所有していた建物に居住する権利。",
-    "japaneseWordTranslation": "配偶者居住権 (Haigūsha Kyojūken)",
-    "legalContext": "Civil Code Art. 1028 (Requirements for Establishment)",
-    "japaneseLegalContext": "民法第1028条 (配偶者居住権の成立要件)",
-    "exampleSentence": "The surviving wife elected to exercise the spousal right of habitation to maintain her residence, while allowing the cash value of the property to be included in the division of the remaining inherited assets.",
-    "exampleTranslation": "生存配偶者は、引き続き居宅を維持するために配偶者居住権の行使を選択し、その建物の価格は残りの相続財産の分割に組み込まれた。",
-    "vocabularyList": [
-      {
-        "word": "surviving spouse",
-        "translation": "生存配偶者 (Seizon Haigūsha)"
-      },
-      {
-        "word": "matrimonial home",
-        "translation": "居住建物 (Kyojū Tatemono)"
-      },
-      {
-        "word": "commencement of inheritance",
-        "translation": "相続開始 (Sōzoku Kaishi)"
-      },
-      {
-        "word": "inherited assets",
-        "translation": "相続財産 (Sōzoku Zaisan)"
-      },
-      {
-        "word": "property division",
-        "translation": "財産分割 (Zaisan Bunkatsu)"
-      },
-      {
-        "word": "free of charge",
-        "translation": "無償 (Mushō)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Contributory Negligence",
     "definition": "The doctrine under which, when determining the amount of compensation for damages arising from non-performance of obligation or tort, the court shall take into account the fault (negligence) of the victim (obligee) and reduce the compensation accordingly.",
     "japaneseDefinition": "債務不履行または不法行為による損害賠償の額を定める際、被害者側にも過失があった場合に、その過失の程度に応じて賠償額を減額すること。",
@@ -19848,6 +19810,82 @@
       {
         "word": "fungible goods",
         "translation": "代替物 (だいたいぶつ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Payment to Quasi-Possessor of Claim",
+    "definition": "A provision allowing the obligor to be discharged from their obligation by making performance to a person who appears, based on objective facts, to possess the right to the claim (even if they are not the true obligee).",
+    "japaneseDefinition": "債権者ではないが、客観的な状況から見て債権者であるかのように見える者に債務者が弁済した場合に、その債務が消滅する制度。",
+    "japaneseWordTranslation": "債権の準占有者への弁済 (さいけんのじゅんせんゆうしゃへのべんさい)",
+    "legalContext": "Civil Code Art. 478: If performance is made to a person who is a quasi-possessor of the claim, the obligor shall be discharged from his/her obligation if he/she made such performance in good faith and without negligence.",
+    "japaneseLegalContext": "民法第478条：債権の準占有者に対してした弁済は、その弁済をした者が善意であり、かつ、過失がなかったときに限り、その効力を有する。",
+    "exampleSentence": "The financial institution was successfully discharged from its duty by relying on the rule concerning *payment to the quasi-possessor of the claim*, proving it had fulfilled its duty of due diligence.",
+    "exampleTranslation": "その金融機関は、債権の準占有者への弁済に関する規定に依拠し、相当な注意義務を果たしたことを証明することで、債務から解放された。",
+    "vocabularyList": [
+      {
+        "word": "discharged from obligation",
+        "translation": "債務を免れる"
+      },
+      {
+        "word": "quasi-possessor",
+        "translation": "準占有者"
+      },
+      {
+        "word": "true obligee",
+        "translation": "真の債権者"
+      },
+      {
+        "word": "without negligence",
+        "translation": "過失なく"
+      },
+      {
+        "word": "due diligence",
+        "translation": "相当な注意義務"
+      },
+      {
+        "word": "relying on the rule",
+        "translation": "規定に依拠する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Abuse of Power of Agency",
+    "definition": "The act of an agent who, while acting within the scope of their granted authority, does so not for the principal's benefit but solely for their own or a third party’s benefit, violating the principal's interests.",
+    "japaneseDefinition": "代理人が自己または第三者の利益を図る目的で、本人に損害を与える意図をもって、与えられた代理権の範囲内で行為をすること。",
+    "japaneseWordTranslation": "代理権の濫用 (だいりけんのらんよう)",
+    "legalContext": "Civil Code Art. 107 (Applied by Analogy): An abuse of power of agency may be treated as unauthorized representation if the counterparty knew or should have known of the agent’s wrongful intent.",
+    "japaneseLegalContext": "民法第107条（類推適用）：代理人が本人の利益ではなく、自己又は第三者の利益のために行った場合、相手方がその目的を知り、又は知ることができたときは、無権代理の規定を類推適用する。",
+    "exampleSentence": "The Director’s transaction was invalidated because it was deemed an *abuse of power of agency*, as he clearly prioritized his personal profits over the company's financial health.",
+    "exampleTranslation": "その取締役の取引は、彼が会社の財政健全性よりも自己の利益を明らかに優先したため、代理権の濫用と見なされ無効とされた。",
+    "vocabularyList": [
+      {
+        "word": "agent",
+        "translation": "代理人"
+      },
+      {
+        "word": "principal",
+        "translation": "本人"
+      },
+      {
+        "word": "granted authority",
+        "translation": "与えられた権限"
+      },
+      {
+        "word": "wrongful intent",
+        "translation": "悪意"
+      },
+      {
+        "word": "self-serving",
+        "translation": "自己の利益を図る"
+      },
+      {
+        "word": "analogous application",
+        "translation": "類推適用"
       }
     ]
   }

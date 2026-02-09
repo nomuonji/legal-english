@@ -14460,5 +14460,107 @@
         "translation": "対抗された"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Trade Name",
+    "definition": "The name used by a company or merchant for commercial transactions, which must be registered in the commercial register to ensure public notice and legal effect.",
+    "japaneseDefinition": "商人が営業上自己を表するために用いる名称。会社の場合は設立登記と共に登録が義務付けられ、その対外的な公示と保護が図られる。",
+    "japaneseWordTranslation": "商号 (しょうごう)",
+    "legalContext": "Commercial Registration Act (CRA) Art. 12: Restriction on use of trade names by non-registered entities.",
+    "japaneseLegalContext": "商業登記法 第12条: 会社は、その商号を他人に使用させてはならない。",
+    "exampleSentence": "The change of the company's Trade Name required filing a registration application within two weeks of the board resolution.",
+    "exampleTranslation": "会社の商号変更は、取締役会の決議から二週間以内に登記申請を提出する必要があった。",
+    "vocabularyList": [
+      {
+        "word": "merchant",
+        "translation": "商人"
+      },
+      {
+        "word": "commercial register",
+        "translation": "商業登記簿"
+      },
+      {
+        "word": "public notice",
+        "translation": "公示"
+      },
+      {
+        "word": "board resolution",
+        "translation": "取締役会決議"
+      },
+      {
+        "word": "registration application",
+        "translation": "登記申請"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Procedural Compliance Review",
+    "definition": "The standard under which the registration officer examines whether the application and its submitted documents adhere strictly to the legally prescribed forms and procedures, without assessing the underlying veracity of the facts.",
+    "japaneseDefinition": "登記官が登記申請に対し、申請書及び添付書類が法令に定める形式的な要件に適合しているかのみを審査し、実体的な真実性の有無を審査しない原則。",
+    "japaneseWordTranslation": "形式審査主義 (けいしきしんさしゅぎ)",
+    "legalContext": "Commercial Registration Act (CRA) Art. 25: Grounds for rejection of registration application (specifying formal defects).",
+    "japaneseLegalContext": "商業登記法 第25条: 登記官は、次に掲げる場合を除き、登記の申請を却下しなければならない。",
+    "exampleSentence": "Because of the Procedural Compliance Review standard, the registrar does not investigate whether the capital contribution was genuinely paid in, relying instead on the custodian certificate.",
+    "exampleTranslation": "形式審査主義の基準のため、登記官は、出資金が真に払い込まれたかどうかを調査せず、代わりに保管証明書に依拠する。",
+    "vocabularyList": [
+      {
+        "word": "registration officer",
+        "translation": "登記官"
+      },
+      {
+        "word": "adhere strictly",
+        "translation": "厳密に遵守する"
+      },
+      {
+        "word": "underlying veracity",
+        "translation": "実体的な真実性"
+      },
+      {
+        "word": "capital contribution",
+        "translation": "出資"
+      },
+      {
+        "word": "custodian certificate",
+        "translation": "保管証明書"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ex Officio Removal",
+    "definition": "The authority of the registrar to unilaterally cancel a registration entry, without a formal application, when the entry is deemed illegal, outdated, or inconsistent with the public record, such as following deemed dissolution due to long-term inactivity.",
+    "japaneseDefinition": "登記官が、当事者の申請を待たずに、職権に基づき違法又は実体に合致しない登記記録を抹消する権限。長期間休眠している会社に対するみなし解散の登記抹消などが該当する。",
+    "japaneseWordTranslation": "職権抹消 (しょっけんまっしょう)",
+    "legalContext": "Commercial Registration Act (CRA) Art. 71: Ex officio deletion upon certain grounds (e.g., after the inactivity sweep).",
+    "japaneseLegalContext": "商業登記法 第71条: 登記官は、会社の登記について第七十一条の二から第七十一条の四までに規定する事由が生じたときは、職権で当該会社の登記を抹消することができる。",
+    "exampleSentence": "If the company fails to register officer changes for twelve consecutive years, the registrar may effect Ex Officio Removal of the company's entry in the commercial record.",
+    "exampleTranslation": "会社が12年間連続して役員の変更登記を怠った場合、登記官は商業記録中の会社のエントリーを職権抹消することができる。",
+    "vocabularyList": [
+      {
+        "word": "unilaterally",
+        "translation": "一方的に"
+      },
+      {
+        "word": "inconsistent",
+        "translation": "不一致の"
+      },
+      {
+        "word": "long-term inactivity",
+        "translation": "長期の非活動"
+      },
+      {
+        "word": "commercial record",
+        "translation": "商業記録"
+      },
+      {
+        "word": "officer changes",
+        "translation": "役員変更"
+      }
+    ]
   }
 ]

@@ -13478,5 +13478,135 @@
         "translation": "裁判官の確信"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Pre-judgment Sequestration",
+    "definition": "A conservatory act where a judicial entity restricts a respondent from disposing of holdings to ensure that a future financial entitlement can be fulfilled.",
+    "japaneseDefinition": "金銭の支払いを目的とする権利について、将来の強制執行ができなくなるのを防ぐため、債務者の財産処分を一時的に禁止する保全処分。",
+    "japaneseWordTranslation": "仮差押え (かりさしおさえ)",
+    "legalContext": "Civil Preservation Act, Art. 20: A pre-judgment sequestration mandate may be issued when there is a risk that it will be impossible or extremely difficult to satisfy the entitlement through a later mandate if the holdings are not secured.",
+    "japaneseLegalContext": "民事保全法第20条：仮差押命令は、金銭債権につき、強制執行をすることができなくなるおそれがあるとき、又は強制執行をするのに著しい困難を生ずるおそれがあるときに発することができる。",
+    "exampleSentence": "The petitioner filed for pre-judgment sequestration to freeze the respondent's holdings before the litigated matter reached an ultimate verdict.",
+    "exampleTranslation": "申立人は、訴訟事件が終局判決に至る前に、相手方の財産を凍結するために仮差押えを申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Petitioner",
+        "translation": "申立人"
+      },
+      {
+        "word": "Respondent",
+        "translation": "相手方（債務者）"
+      },
+      {
+        "word": "Holdings",
+        "translation": "財産"
+      },
+      {
+        "word": "Ultimate Verdict",
+        "translation": "終局判決"
+      },
+      {
+        "word": "Conservatory Act",
+        "translation": "保全処分"
+      },
+      {
+        "word": "Freeze",
+        "translation": "凍結する"
+      },
+      {
+        "word": "Judicial Entity",
+        "translation": "裁判所"
+      },
+      {
+        "word": "Entitlement",
+        "translation": "権利"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Ancillarity",
+    "definition": "The legal concept that conservatory acts are dependent upon and incidental to a main litigated matter; they cannot exist without an underlying substantive entitlement.",
+    "japaneseDefinition": "保全手続が本案訴訟に附随するものであるという性質。本案の存在を前提とし、本案が消滅すれば保全処分も効力を失う関係にあること。",
+    "japaneseWordTranslation": "附随性 (ふずいせい)",
+    "legalContext": "Civil Preservation Act, Art. 2: The judicial entity handling the main litigated matter typically retains authority over the conservatory process due to its ancillarity.",
+    "japaneseLegalContext": "民事保全法第2条（などの解釈）：保全手続は本案訴訟に従属するものであり、管轄や効力において本案との密接な関連性を有する。",
+    "exampleSentence": "Due to the ancillarity of the sequestration, the mandate was revoked once the petitioner lost the main litigated matter.",
+    "exampleTranslation": "仮差押えの附随性により、申立人が本案訴訟で敗訴したため、その命令は取り消された。",
+    "vocabularyList": [
+      {
+        "word": "Incidental",
+        "translation": "付随的な"
+      },
+      {
+        "word": "Underlying",
+        "translation": "根底にある"
+      },
+      {
+        "word": "Substantive",
+        "translation": "実体的な"
+      },
+      {
+        "word": "Litigated Matter",
+        "translation": "訴訟事件（本案）"
+      },
+      {
+        "word": "Revoke",
+        "translation": "取り消す"
+      },
+      {
+        "word": "Dependent",
+        "translation": "依存的な"
+      },
+      {
+        "word": "Authority",
+        "translation": "権限"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Substantiation of Likelihood",
+    "definition": "A standard of demonstration lower than full proof, where a petitioner shows that a fact or entitlement is probably true to obtain a conservatory mandate.",
+    "japaneseDefinition": "裁判官に確信を抱かせる「証明」に対し、一応もっともらしいという推測を抱かせる程度の立証。保全手続において要求される証拠調べの基準。",
+    "japaneseWordTranslation": "疎明 (そめい)",
+    "legalContext": "Civil Preservation Act, Art. 13, Para. 2: A petitioner must provide substantiation of likelihood regarding the entitlement to be secured and the necessity of the conservatory act.",
+    "japaneseLegalContext": "民事保全法第13条第2項：保全命令の申立ては、保全すべき権利又は権利関係及び保全の必要性を疎明しなければならない。",
+    "exampleSentence": "The judicial entity granted the request because the petitioner provided sufficient substantiation of likelihood that the respondent was hiding funds.",
+    "exampleTranslation": "申立人が相手方の資金隠匿について十分な疎明を行ったため、司法機関はその申し立てを認めた。",
+    "vocabularyList": [
+      {
+        "word": "Likelihood",
+        "translation": "可能性"
+      },
+      {
+        "word": "Standard",
+        "translation": "基準"
+      },
+      {
+        "word": "Demonstration",
+        "translation": "立証"
+      },
+      {
+        "word": "Probable",
+        "translation": "蓋然性のある"
+      },
+      {
+        "word": "Formal Mandate",
+        "translation": "命令"
+      },
+      {
+        "word": "Sufficient",
+        "translation": "十分な"
+      },
+      {
+        "word": "Provide",
+        "translation": "提供する"
+      }
+    ]
   }
 ]

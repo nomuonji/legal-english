@@ -2,44 +2,6 @@
   {
     "category": "Real Property Registration (不動産登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Application based on a Vested Judgment",
-    "definition": "An application for registration filed unilaterally by the entitled party (registration obligee) when the other party (registration obligor) fails to cooperate in the required joint application process, provided that the applicant holds a final and binding judicial ruling compelling such cooperation.",
-    "japaneseDefinition": "登記権利者（登記名義人となる者）が、共同申請の義務がある相手方（登記義務者）の不協力に対し、登記手続を命じる確定判決を得て、単独で申請する登記手続。",
-    "japaneseWordTranslation": "判決による登記申請 (はんけつによるとうきしんせい)",
-    "legalContext": "Real Property Registration Act (Art. 63, Para. 2): If the application for registration of rights is required to be filed jointly, the person entitled to registration may file the application unilaterally if they obtain a vested judgment confirming the existence of the obligation to cooperate in the application.",
-    "japaneseLegalContext": "不動産登記法第63条第2項: 権利に関する登記の申請を共同してしなければならない場合において、登記権利者が登記義務者の登記申請への協力を得るために確定判決を得たときは、単独で申請をすることができる。",
-    "exampleSentence": "Following the defendant’s refusal to execute the deed, the claimant initiated an application based on a vested judgment to finalize the property registration.",
-    "exampleTranslation": "被告が権利証の実行を拒否した後、原告は財産登記を完了させるために判決による登記申請を開始した。",
-    "vocabularyList": [
-      {
-        "word": "entitled party",
-        "translation": "登記権利者 (とうきけんりしゃ)"
-      },
-      {
-        "word": "registration obligor",
-        "translation": "登記義務者 (とうきぎむしゃ)"
-      },
-      {
-        "word": "joint application",
-        "translation": "共同申請"
-      },
-      {
-        "word": "vested judgment",
-        "translation": "確定判決 (かくていはんけつ)"
-      },
-      {
-        "word": "compelling cooperation",
-        "translation": "協力を命じる"
-      },
-      {
-        "word": "finalize the registration",
-        "translation": "登記を完了させる"
-      }
-    ]
-  },
-  {
-    "category": "Real Property Registration (不動産登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Joint Application",
     "definition": "A foundational principle in Japanese real property registration requiring the applicant whose registered interest will be gained (Registration Obligee) and the applicant whose registered interest will be lost or diminished (Registration Obligor) to file the registration motion together.",
     "japaneseDefinition": "登記によって利益を受ける登記権利者と、不利益を受ける登記義務者が、共同で登記申請を行う原則。これは、登記の真実性を確保するための重要な手続き的要件である。",
@@ -13861,6 +13823,120 @@
       {
         "word": "Administrative decision",
         "translation": "行政上の決定 (ぎょうせいじょうのけってい)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Trust Inventory",
+    "definition": "A specific part of the public record that details the terms of a trust, including the names of the trustee and beneficiary, and the specific purposes of the trust arrangement.",
+    "japaneseDefinition": "登記記録の一部とみなされるもので、受託者や受益者の氏名、信託の目的など、信託に関する具体的な内容を記載した一覧。",
+    "japaneseWordTranslation": "信託目録 (しんたくもくろく)",
+    "legalContext": "Real Property Registration Act, Art. 97: When an application for a registration of a trust is made, the official shall record the matters concerning the trust in the trust inventory.",
+    "japaneseLegalContext": "不動産登記法第97条：信託の登記の申請をする場合においては、登記官は、信託条項を信託目録に記録しなければならない。",
+    "exampleSentence": "The official updated the trust inventory to reflect the appointment of a new trustee for the land.",
+    "exampleTranslation": "登記官は、その土地の新たな受託者の選任を反映させるため、信託目録を更新した。",
+    "vocabularyList": [
+      {
+        "word": "Trustee",
+        "translation": "受託者"
+      },
+      {
+        "word": "Beneficiary",
+        "translation": "受益者"
+      },
+      {
+        "word": "Purpose of the trust",
+        "translation": "信託の目的"
+      },
+      {
+        "word": "Official",
+        "translation": "登記官"
+      },
+      {
+        "word": "Public record",
+        "translation": "登記記録"
+      },
+      {
+        "word": "Trust arrangement",
+        "translation": "信託の合意"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Provision for Buy-back",
+    "definition": "An agreement recorded in the public books at the same time as a sale, granting the seller the right to repurchase the land by returning the purchase price and associated costs within a set time.",
+    "japaneseDefinition": "売買と同時に登記される合意で、売主が代金及び費用を返還することにより、一定期間内にその不動産を買い戻すことができる権利を定めたもの。",
+    "japaneseWordTranslation": "買戻しの特約 (かいもどしのとくやく)",
+    "legalContext": "Real Property Registration Act, Art. 96: In an application for a registration of a special provision for buy-back, the purchase price and the costs of the sale must be provided.",
+    "japaneseLegalContext": "不動産登記法第96条：買戻しの特約の登記の申請においては、買主が支払った代金及び契約の費用を申請情報としなければならない。",
+    "exampleSentence": "The seller requested a special provision for buy-back to ensure they could regain the house if their financial situation improved.",
+    "exampleTranslation": "売主は、経済状況が改善した場合にその家を取り戻せるよう、買戻しの特約を求めた。",
+    "vocabularyList": [
+      {
+        "word": "Repurchase",
+        "translation": "買い戻し"
+      },
+      {
+        "word": "Purchase price",
+        "translation": "売買代金"
+      },
+      {
+        "word": "Seller",
+        "translation": "売主"
+      },
+      {
+        "word": "Buyer",
+        "translation": "買主"
+      },
+      {
+        "word": "Return",
+        "translation": "返還"
+      },
+      {
+        "word": "Set time",
+        "translation": "一定の期間"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Adjudication of Bankruptcy",
+    "definition": "A formal court order initiating insolvency proceedings, which is recorded against a person's land to notify the public that their power to sell or manage such assets is now restricted.",
+    "japaneseDefinition": "破産手続の開始を決定する裁判。破産者の不動産について登記がなされることで、その管理処分権が制限されていることを公に示す。",
+    "japaneseWordTranslation": "破産手続開始 (はさんてつずきかいし)",
+    "legalContext": "Real Property Registration Act, Art. 11: A registrar shall, when requested by a court, make an entry in the record regarding the adjudication of bankruptcy.",
+    "japaneseLegalContext": "不動産登記法第11条：登記官は、裁判所の嘱託に基づき、破産手続開始の登記をしなければならない。",
+    "exampleSentence": "The bank checked the public records and found an adjudication of bankruptcy against the potential borrower.",
+    "exampleTranslation": "銀行は公的記録を確認し、借入希望者に対して破産手続開始の決定がなされていることを発見した。",
+    "vocabularyList": [
+      {
+        "word": "Court order",
+        "translation": "裁判所の命令"
+      },
+      {
+        "word": "Insolvency",
+        "translation": "支払不能"
+      },
+      {
+        "word": "Bankrupt",
+        "translation": "破産者"
+      },
+      {
+        "word": "Liquidator",
+        "translation": "破産管財人"
+      },
+      {
+        "word": "Restrict",
+        "translation": "制限する"
+      },
+      {
+        "word": "Entry",
+        "translation": "登記"
       }
     ]
   }

@@ -1,38 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Real Property Registration (不動産登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Contributory Negligence",
-  "definition": "The doctrine under which, when determining the amount of compensation for damages arising from non-performance of obligation or tort, the court shall take into account the fault (negligence) of the victim (obligee) and reduce the compensation accordingly.",
-  "japaneseDefinition": "債務不履行または不法行為による損害賠償の額を定める際、被害者側にも過失があった場合に、その過失の程度に応じて賠償額を減額すること。",
-  "japaneseWordTranslation": "過失相殺 (Kashitsu Sōsai)",
-  "legalContext": "Civil Code Art. 420 (Calculation of Damages), applicable mutatis mutandis to tort liability via Art. 722(2).",
-  "japaneseLegalContext": "民法第420条 (損害賠償の額の算定) および第722条第2項 (準用規定)",
-  "exampleSentence": "The court applied the principle of contributory negligence, reducing the claimant's compensation award by 20% due to the victim's failure to wear a safety helmet at the construction site.",
-  "exampleTranslation": "裁判所は過失相殺の原則を適用し、被害者が建設現場で安全ヘルメットを着用しなかったため、請求者の賠償額を20％減額した。",
+  "word": "Application based on a Vested Judgment",
+  "definition": "An application for registration filed unilaterally by the entitled party (registration obligee) when the other party (registration obligor) fails to cooperate in the required joint application process, provided that the applicant holds a final and binding judicial ruling compelling such cooperation.",
+  "japaneseDefinition": "登記権利者（登記名義人となる者）が、共同申請の義務がある相手方（登記義務者）の不協力に対し、登記手続を命じる確定判決を得て、単独で申請する登記手続。",
+  "japaneseWordTranslation": "判決による登記申請 (はんけつによるとうきしんせい)",
+  "legalContext": "Real Property Registration Act (Art. 63, Para. 2): If the application for registration of rights is required to be filed jointly, the person entitled to registration may file the application unilaterally if they obtain a vested judgment confirming the existence of the obligation to cooperate in the application.",
+  "japaneseLegalContext": "不動産登記法第63条第2項: 権利に関する登記の申請を共同してしなければならない場合において、登記権利者が登記義務者の登記申請への協力を得るために確定判決を得たときは、単独で申請をすることができる。",
+  "exampleSentence": "Following the defendant’s refusal to execute the deed, the claimant initiated an application based on a vested judgment to finalize the property registration.",
+  "exampleTranslation": "被告が権利証の実行を拒否した後、原告は財産登記を完了させるために判決による登記申請を開始した。",
   "vocabularyList": [
     {
-      "word": "damages",
-      "translation": "損害賠償 (Songai Baishō)"
+      "word": "entitled party",
+      "translation": "登記権利者 (とうきけんりしゃ)"
     },
     {
-      "word": "tort liability",
-      "translation": "不法行為責任 (Fuhō Kōi Sekinin)"
+      "word": "registration obligor",
+      "translation": "登記義務者 (とうきぎむしゃ)"
     },
     {
-      "word": "claimant",
-      "translation": "請求者 (Seikyūsha)"
+      "word": "joint application",
+      "translation": "共同申請"
     },
     {
-      "word": "non-performance of obligation",
-      "translation": "債務不履行 (Saimu Furikō)"
+      "word": "vested judgment",
+      "translation": "確定判決 (かくていはんけつ)"
     },
     {
-      "word": "compensation award",
-      "translation": "賠償額 (Baishōgaku)"
+      "word": "compelling cooperation",
+      "translation": "協力を命じる"
     },
     {
-      "word": "victim's failure",
-      "translation": "被害者の不作為 (Higaisha no Fusa kui)"
+      "word": "finalize the registration",
+      "translation": "登記を完了させる"
     }
   ]
 }

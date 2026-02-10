@@ -20074,5 +20074,119 @@
         "translation": "権限 (kengen)"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Self-Help",
+    "definition": "The act of a person recovering their rights or property by their own power or physical force without following formal legal procedures (such as a court-ordered execution). In Japanese civil law, this is generally prohibited to preserve public order.",
+    "japaneseDefinition": "法的手段（裁判や強制執行など）を経ずに、自らの実力行使によって権利を回復したり財産を取り戻したりすること。日本の民法では、公の秩序を維持する観点から原則として禁止されている。",
+    "japaneseWordTranslation": "自力救済 (じりききゅうさい)",
+    "legalContext": "Although not explicitly stated as a single article, the prohibition of self-help is a fundamental principle underlying the Civil Code, particularly in relation to the 'Action for Maintenance of Possession' (Art. 200), which protects even a peaceful possessor from being forcibly dispossessed.",
+    "japaneseLegalContext": "民法に直接の明文規定はないが、占有回収の訴え（民法200条）などの規定の背後にある基本原則であり、平穏な占有を実力行使で奪うことは、たとえ正当な権利者であっても許されないとされる。",
+    "exampleSentence": "Landlords are strictly prohibited from engaging in self-help, such as changing locks or removing a tenant's belongings without a formal court order for eviction.",
+    "exampleTranslation": "大家が裁判所による正式な明渡し命令を得ずに、鍵を交換したり店借人の荷物を撤去したりする自力救済行為は厳格に禁止されている。",
+    "vocabularyList": [
+      {
+        "word": "Physical force",
+        "translation": "実力行使"
+      },
+      {
+        "word": "Legal procedure",
+        "translation": "法的手続き"
+      },
+      {
+        "word": "Preserve public order",
+        "translation": "公序維持"
+      },
+      {
+        "word": "Eviction",
+        "translation": "明渡し"
+      },
+      {
+        "word": "Redress",
+        "translation": "救済"
+      },
+      {
+        "word": "Dispossess",
+        "translation": "占有を奪う"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sublease",
+    "definition": "A lease granted by a lessee to a third party of all or part of the leased property. Under the Civil Code, this requires the permission of the lessor.",
+    "japaneseDefinition": "賃借人が賃借物をさらに第三者に貸し出すこと（また貸し）。民法上、賃貸人の承諾を得る必要がある。",
+    "japaneseWordTranslation": "転貸 (てんたい)",
+    "legalContext": "Civil Code Art. 612: (1) A lessee may not assign the lease or sublease the leased thing without the permission of the lessor. (2) If the lessee allows a third party to use or take profit from the leased thing in violation... the lessor may terminate the contract.",
+    "japaneseLegalContext": "民法第612条：1. 賃借人は、賃貸人の承諾を得なければ、その賃借権を譲渡し、又は賃借物を転貸することができない。2. 賃借人が前項の規定に違反して第三者に賃借物の使用又は収益をさせたときは、賃貸人は、契約の解除をすることができる。",
+    "exampleSentence": "The tenant sought the landlord's written consent before entering into a sublease with a sublessee for the remaining term of the lease.",
+    "exampleTranslation": "店借人は、残りの賃貸借期間について転借人と転貸契約を結ぶ前に、大家から書面による承諾を得た。",
+    "vocabularyList": [
+      {
+        "word": "Lessor",
+        "translation": "賃貸人"
+      },
+      {
+        "word": "Lessee",
+        "translation": "賃借人"
+      },
+      {
+        "word": "Sublessee",
+        "translation": "転借人"
+      },
+      {
+        "word": "Permission",
+        "translation": "承諾"
+      },
+      {
+        "word": "Terminate",
+        "translation": "解除する"
+      },
+      {
+        "word": "Take profit",
+        "translation": "収益する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Force Majeure",
+    "definition": "An extraordinary event or circumstance beyond human control, such as a natural disaster, war, or riot, that prevents a party from fulfilling their legal duties or contractual goals.",
+    "japaneseDefinition": "天災地変や戦争、暴動など、当事者の支配を超えた外部からの力で、通常必要とされる注意を尽くしても防ぐことができない事象。債務の履行を妨げる原因となる。",
+    "japaneseWordTranslation": "不可抗力 (ふかこうりょく)",
+    "legalContext": "While often a defense against damages, Civil Code Art. 419, Para. 3 stipulates that regarding monetary debts, a debtor cannot raise force majeure as a defense to excuse their failure to pay.",
+    "japaneseLegalContext": "損害賠償の免責事由となり得るが、民法第419条第3項は金銭債務について「不可抗力をもって抗弁とすることができない」と定めており、支払遅延の責任を免れることはできない。",
+    "exampleSentence": "The construction company argued that the delay in the project was caused by force majeure due to an unprecedented earthquake.",
+    "exampleTranslation": "建設会社は、プロジェクトの遅延は未曾有の地震という不可抗力によって引き起こされたものであると主張した。",
+    "vocabularyList": [
+      {
+        "word": "Natural disaster",
+        "translation": "天災"
+      },
+      {
+        "word": "Beyond control",
+        "translation": "支配を超えた"
+      },
+      {
+        "word": "Monetary debt",
+        "translation": "金銭債務"
+      },
+      {
+        "word": "Defense",
+        "translation": "抗弁"
+      },
+      {
+        "word": "Excuse",
+        "translation": "免責する"
+      },
+      {
+        "word": "Unprecedented",
+        "translation": "未曾有の"
+      }
+    ]
   }
 ]

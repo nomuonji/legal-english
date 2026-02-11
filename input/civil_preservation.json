@@ -13710,5 +13710,119 @@
         "translation": "審尋"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preliminary Decree",
+    "definition": "A judicial order issued before a final decision to secure the ability to enforce a future judgment or to maintain a status between parties.",
+    "japaneseDefinition": "本案の判決が出る前に、将来の執行を確実にするため、または争いのある権利関係について暫定的な状態を定めるために発せられる裁判所の命令。",
+    "japaneseWordTranslation": "保全命令 (ほぜんめいれい)",
+    "legalContext": "Civil Preservation Act Art. 2: A preliminary decree (preservation order) shall be issued by a court upon petition by a party.",
+    "japaneseLegalContext": "民事保全法第2条：保全命令は、申立てにより、裁判所が対審を経ないで、又は口頭弁論若しくは相手方を呼び出す審尋を経てすることができる。",
+    "exampleSentence": "The petitioner requested a preliminary decree to restrain the adverse party from disposing of the contested property.",
+    "exampleTranslation": "申立人は、相手方が係争物件を処分することを禁じるため、保全命令を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Petitioner",
+        "translation": "申立人"
+      },
+      {
+        "word": "Adverse party",
+        "translation": "相手方"
+      },
+      {
+        "word": "Restrain",
+        "translation": "禁じる"
+      },
+      {
+        "word": "Contested",
+        "translation": "係争中の"
+      },
+      {
+        "word": "Judicial",
+        "translation": "裁判上の"
+      },
+      {
+        "word": "Relief",
+        "translation": "救済"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Degree of Proof in Preservation",
+    "definition": "The lower standard of evidence required in preservation proceedings, where a fact is accepted if the court finds it to be highly probable rather than certain.",
+    "japaneseDefinition": "通常の訴訟における立証よりも低い程度の証明。裁判官が「おそらく正しいだろう」という一応の確信を得た状態を指す。",
+    "japaneseWordTranslation": "疎明 (そめい)",
+    "legalContext": "Civil Preservation Act Art. 13: In a petition for a preliminary order, the grounds for the claim and the need for the order must be established by the degree of proof in preservation.",
+    "japaneseLegalContext": "民事保全法第13条：保全命令の申立てには、その理由として、保全すべき権利…及び保全の必要性を疎明しなければならない。",
+    "exampleSentence": "In civil preservation cases, a mere degree of proof in preservation is sufficient to establish the facts for an order.",
+    "exampleTranslation": "民事保全事件においては、命令を出すための事実認定として、疎明があれば足りる。",
+    "vocabularyList": [
+      {
+        "word": "Evidence",
+        "translation": "証拠"
+      },
+      {
+        "word": "Probable",
+        "translation": "蓋然性が高い"
+      },
+      {
+        "word": "Certain",
+        "translation": "確実な"
+      },
+      {
+        "word": "Sufficient",
+        "translation": "十分な"
+      },
+      {
+        "word": "Establish",
+        "translation": "立証する"
+      },
+      {
+        "word": "Standard",
+        "translation": "基準"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Revocation Based on Special Circumstances",
+    "definition": "The removal of a previously issued preliminary order when the adverse party provides collateral or proves that maintaining the order would result in extreme hardship.",
+    "japaneseDefinition": "保全命令を維持することによって生じる相手方の損害が甚大であるなどの特段の事情がある場合に、相手方が担保を提供することなどによって命令を取り消すこと。",
+    "japaneseWordTranslation": "特別の事情による保全取消し (とくべつのじじょうによるほぜんとりけし)",
+    "legalContext": "Civil Preservation Act Art. 39: If there are special circumstances... the court may revoke a preliminary order upon the provision of collateral.",
+    "japaneseLegalContext": "民事保全法第39条：特別の事情があるときは、裁判所は、担保を立てさせて、保全命令を取り消すことができる。",
+    "exampleSentence": "The court granted the revocation based on special circumstances because the ongoing restraint was causing the adverse party's business to fail.",
+    "exampleTranslation": "継続的な差し止めが相手方の事業破綻を招く恐れがあったため、裁判所は特別の事情による保全取消しを認めた。",
+    "vocabularyList": [
+      {
+        "word": "Collateral",
+        "translation": "担保"
+      },
+      {
+        "word": "Hardship",
+        "translation": "困難・苦痛"
+      },
+      {
+        "word": "Removal",
+        "translation": "除去・撤廃"
+      },
+      {
+        "word": "Provision",
+        "translation": "提供"
+      },
+      {
+        "word": "Revoke",
+        "translation": "取り消す"
+      },
+      {
+        "word": "Final decision",
+        "translation": "終局判決"
+      }
+    ]
   }
 ]

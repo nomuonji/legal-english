@@ -16354,5 +16354,119 @@
         "translation": "送達する"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Purchase Offer",
+    "definition": "A formal declaration of intent by a potential buyer to acquire property at a specified price during the court-supervised sale process in civil enforcement.",
+    "japaneseDefinition": "民事執行の手続において、不動産などの売却対象物を特定の価格で買い受ける旨を裁判所に対して申し立てる意思表示。",
+    "japaneseWordTranslation": "買受申出 (かいうけもうしで)",
+    "legalContext": "Civil Execution Act, Art. 62: A purchase offer shall be made by specifying a price. In this case, if the execution court has determined a guarantee to be provided for a purchase offer, such guarantee shall be provided.",
+    "japaneseLegalContext": "民事執行法第62条：買受の申出は、額を定めてしなければならない。この場合において、執行裁判所が買受の申出について提供すべき保証を定めているときは、その保証を提供しなければならない。",
+    "exampleSentence": "The enforcement court set a deadline by which any interested party must submit a formal purchase offer for the property.",
+    "exampleTranslation": "執行裁判所は、利害関係人が当該物件に対して正式な買受申出を行わなければならない期限を設定した。",
+    "vocabularyList": [
+      {
+        "word": "Offeror",
+        "translation": "申出人 (もうしでにん)"
+      },
+      {
+        "word": "Judicial sale",
+        "translation": "司法売却 (しほうばいきゃく)"
+      },
+      {
+        "word": "Enforcement",
+        "translation": "執行 (しっこう)"
+      },
+      {
+        "word": "Specified price",
+        "translation": "指定された価格 (していされたかかく)"
+      },
+      {
+        "word": "Formal request",
+        "translation": "申立て (もうしたて)"
+      },
+      {
+        "word": "Interested party",
+        "translation": "利害関係人 (りがいかんけいにん)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Sale",
+    "definition": "A method of selling assets in civil execution used when no valid offers are received through standard bidding, allowing the court to sell the property via alternative methods like fixed-price offers.",
+    "japaneseDefinition": "通常の入札等による売却が実施されたものの買受人が現れなかった場合に、裁判所の判断により行われる、入札以外の方法（先着順の受付など）による売却手続。",
+    "japaneseWordTranslation": "特別売却 (とくべつばいきゃく)",
+    "legalContext": "Civil Execution Act, Art. 60, Para. 2: If there is no person who has made a purchase offer... the execution court may, by the method of sale prescribed by the Rules of the Supreme Court, order the sale of the real property.",
+    "japaneseLegalContext": "民事執行法第60条第2項：買受の申出をした者がないときは、執行裁判所は、最高裁判所規則で定める売却の方法により不動産の売却を命ずることができる。",
+    "exampleSentence": "Since the initial period for offers ended without a buyer, the court transitioned the proceedings to a special sale to facilitate realization.",
+    "exampleTranslation": "当初の申出期間が買い手のないまま終了したため、裁判所は換価を促進するために手続を特別売却に移行させた。",
+    "vocabularyList": [
+      {
+        "word": "Realization",
+        "translation": "換価 (かんか)"
+      },
+      {
+        "word": "Court discretion",
+        "translation": "裁判所の裁量 (さいばんしょのさいりょう)"
+      },
+      {
+        "word": "Alternative method",
+        "translation": "代替の方法 (だいたいほうほう)"
+      },
+      {
+        "word": "Sale process",
+        "translation": "売却手続 (ばいきゃくてつづき)"
+      },
+      {
+        "word": "Fixed-price",
+        "translation": "定額 (ていがく)"
+      },
+      {
+        "word": "Transition",
+        "translation": "移行 (いこう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Joint Sale",
+    "definition": "A procedure in which multiple properties are sold as a single unit, typically applied when selling land and the building situated on it together to maximize economic utility.",
+    "japaneseDefinition": "複数の不動産を一括して一個の売却単位として売却する手続。土地とその上の建物を共に売却する場合など、一括して売却することが経済的に合理的である場合に認められる。",
+    "japaneseWordTranslation": "一括売却 (いっかつばいきゃく)",
+    "legalContext": "Civil Execution Act, Art. 61: If the execution court finds it appropriate to sell multiple pieces of real property together... it may sell such pieces of real property together.",
+    "japaneseLegalContext": "民事執行法第61条：執行裁判所は、数個の不動産を一括して売却することが適当であると認めるときは、これらを一括して売却することができる。",
+    "exampleSentence": "To preserve the utility of the industrial site, the judge ordered a joint sale of the factory building and the underlying lot.",
+    "exampleTranslation": "工業用地としての利用価値を維持するため、裁判官は工場建屋とその敷地の一括売却を命じた。",
+    "vocabularyList": [
+      {
+        "word": "Multiple properties",
+        "translation": "数個の不動産 (すうこのふどうさん)"
+      },
+      {
+        "word": "Economic utility",
+        "translation": "経済的利用価値 (けいざいてきりようかち)"
+      },
+      {
+        "word": "Single unit",
+        "translation": "一個の単位 (いっこのたんい)"
+      },
+      {
+        "word": "Land",
+        "translation": "土地 (とち)"
+      },
+      {
+        "word": "Building",
+        "translation": "建物 (たてもの)"
+      },
+      {
+        "word": "Proceeds",
+        "translation": "売却代金 (ばいきゃくだいきん)"
+      }
+    ]
   }
 ]

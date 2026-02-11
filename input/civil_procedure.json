@@ -2,44 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Judicial Settlement Procedure",
-    "definition": "The procedural mechanism regulated by the Civil Procedure Code through which a court actively facilitates negotiations between the parties, either during a pending action (訴訟上の和解) or before an action is formally commenced (訴え提起前の和解), aiming to resolve the dispute through mutual agreement. Settlements achieved via this method have the same binding force as a final judgment.",
-    "japaneseDefinition": "裁判所が積極的に関与し、当事者間の交渉を促進して相互の合意による紛争解決を図る手続。成立した和解は確定判決と同一の効力を有する。",
-    "japaneseWordTranslation": "裁判上の和解手続 (さいばんじょうのわかいてつづき)",
-    "legalContext": "Civil Procedure Code Art. 89 (Settlement during trial) and Art. 275 (Settlement before commencement of action).",
-    "japaneseLegalContext": "民事訴訟法第89条（訴訟中の和解）及び第275条（訴え提起前の和解）",
-    "exampleSentence": "The defendant requested the court to move into the Judicial Settlement Procedure in hopes of avoiding a protracted trial and securing a swift resolution.",
-    "exampleTranslation": "被告は、長期にわたる裁判を避け、迅速な解決を図るため、裁判所に対し裁判上の和解手続へ移行するよう要請した。",
-    "vocabularyList": [
-      {
-        "word": "pending action",
-        "translation": "係属中の訴訟"
-      },
-      {
-        "word": "binding force",
-        "translation": "拘束力"
-      },
-      {
-        "word": "protracted trial",
-        "translation": "長期化した裁判"
-      },
-      {
-        "word": "mutual agreement",
-        "translation": "相互の合意"
-      },
-      {
-        "word": "final judgment",
-        "translation": "確定判決"
-      },
-      {
-        "word": "securing a swift resolution",
-        "translation": "迅速な解決を確保する"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Designation of Party",
     "definition": "A special procedural mechanism under Japanese Civil Procedure allowing the court to designate a specific person to act as the plaintiff or defendant in litigation when the claimant’s target is an entity that lacks full legal personality, such as an unincorporated association, but where the lawsuit must nonetheless proceed.",
     "japaneseDefinition": "法人格を有しない社団等（権利能力なき社団）に対し訴訟を提起する場合などに、訴訟を追行させる目的で、裁判所が特定の者を当事者として指定する手続。",
@@ -18082,6 +18044,124 @@
       {
         "word": "Diplomatic",
         "translation": "外交の"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Protective Order",
+    "definition": "A court order issued to restrict the use or disclosure of trade secrets revealed during a lawsuit to purposes other than the litigation itself, punishable by criminal penalties if violated.",
+    "japaneseDefinition": "訴訟手続き中に開示された営業秘密について、訴訟以外の目的での使用や第三者への開示を制限する裁判所の命令。違反した場合には刑事罰が科される。",
+    "japaneseWordTranslation": "秘密保持命令 (ひみつほじめいれい)",
+    "legalContext": "Code of Civil Procedure Art. 92: Where a party has made a prima facie showing that a trade secret... is contained in the case record... the court may, upon motion, issue an order that the party... shall not use the trade secret for any purpose other than those for the litigation.",
+    "japaneseLegalContext": "民事訴訟法第92条：当事者がその有する営業秘密について... 疎明したときは、裁判所は、当事者の申立てにより、決定で、当該当事者... に対し、当該営業秘密を当該訴訟の追行の目的以外の目的のために使用し、又は当該決定を受けた者以外の者に開示してはならない旨を命ずることができる。",
+    "exampleSentence": "The court issued a protective order to ensure that the proprietary manufacturing process disclosed by the moving party would not be leaked to competitors.",
+    "exampleTranslation": "裁判所は、申立人が開示した独自の製造工程が競合他社に漏洩しないよう、秘密保持命令を発令した。",
+    "vocabularyList": [
+      {
+        "word": "Trade secret",
+        "translation": "営業秘密"
+      },
+      {
+        "word": "Proprietary",
+        "translation": "独自の・所有権のある"
+      },
+      {
+        "word": "Prima facie showing",
+        "translation": "疎明"
+      },
+      {
+        "word": "Leak",
+        "translation": "漏洩する"
+      },
+      {
+        "word": "Moving party",
+        "translation": "申立人"
+      },
+      {
+        "word": "Disclose",
+        "translation": "開示する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Oral Proceedings via Web Conference",
+    "definition": "A procedural method allowing participants to join court hearings through internet-based video and audio communication, introduced to modernize and expedite the trial process.",
+    "japaneseDefinition": "審理の迅速化と現代化のために導入された、インターネットを通じた映像と音声の通信により、当事者が裁判期日に参加することを可能にする手続的手法。",
+    "japaneseWordTranslation": "ウェブ会議による口頭弁論 (ウェブかいぎによるこうとうべんろん)",
+    "legalContext": "Code of Civil Procedure Art. 87-2: If the court deems it appropriate, it may, after hearing the opinions of the parties, allow the parties to participate in the oral proceedings by using a system that enables the simultaneous exchange of images and sound.",
+    "japaneseLegalContext": "民事訴訟法第87条の2：裁判所は、相当と認めるときは、当事者の意見を聴いて、映像及び音声の送受信により相手方と同時に通話をすることができる方法によって、口頭弁論の期日における手続を行うことができる。",
+    "exampleSentence": "To save travel expenses and time, the judge authorized the oral proceedings via web conference for the preliminary hearing.",
+    "exampleTranslation": "旅費と時間を節約するため、裁判官は予備的審問においてウェブ会議による口頭弁論を許可した。",
+    "vocabularyList": [
+      {
+        "word": "Expedite",
+        "translation": "迅速にする"
+      },
+      {
+        "word": "Trial process",
+        "translation": "裁判手続"
+      },
+      {
+        "word": "Simultaneous exchange",
+        "translation": "同時の送受信"
+      },
+      {
+        "word": "Hearing",
+        "translation": "審問・聴取"
+      },
+      {
+        "word": "Accommodate",
+        "translation": "便宜を図る"
+      },
+      {
+        "word": "Modernize",
+        "translation": "現代化する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Modification of a Final Judgment",
+    "definition": "A specific lawsuit permitted to adjust the amount of recurring payments established in a previous conclusive judgment when a substantial change in economic or physical conditions has occurred.",
+    "japaneseDefinition": "定期金の支払いを命じた確定判決の後に、経済状況や身体状態に重大な変化が生じた場合、その支払額の変更を求めるために認められる特殊な訴え。",
+    "japaneseWordTranslation": "判決変更の訴え (はんけつへんこうのうったえ)",
+    "legalContext": "Code of Civil Procedure Art. 117: If a significant change in the circumstances... occurs with regard to the amount of the recurring payments... a party may file an action seeking to modify the judgment.",
+    "japaneseLegalContext": "民事訴訟法第117条：口頭弁論終結後に、その額の算定の基礎となった事情に著しい変更が生じたときは、その変更を理由として、判決の変更を求める訴えを提起することができる。",
+    "exampleSentence": "The claimant initiated an action for modification of a final judgment because the existing alimony payments became unsustainable due to a drastic shift in the cost of living.",
+    "exampleTranslation": "生活費の激変により既存の扶養料の支払いが維持不可能となったため、権利者は判決変更の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "Recurring payments",
+        "translation": "定期金"
+      },
+      {
+        "word": "Conclusive judgment",
+        "translation": "確定判決"
+      },
+      {
+        "word": "Substantial change",
+        "translation": "重大な変更"
+      },
+      {
+        "word": "Inequitable",
+        "translation": "不公平な"
+      },
+      {
+        "word": "Alimony",
+        "translation": "扶養料"
+      },
+      {
+        "word": "Unsustainable",
+        "translation": "維持不可能な"
+      },
+      {
+        "word": "Inquiry",
+        "translation": "照会・調査"
       }
     ]
   }

@@ -1,42 +1,38 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Impossibility of Crime",
-  "definition": "A doctrine concerning an attempt where the execution fails because the means employed or the object targeted makes the completion of the constituent elements fundamentally impossible, raising the question of whether punishment is justified.",
-  "japaneseDefinition": "実行行為が行われたものの、用いられた手段や対象の性質上、構成要件の実現が客観的に不可能な場合を指す。可罰性の有無が問題となる。",
-  "japaneseWordTranslation": "不能犯 (ふのうはん)",
-  "legalContext": "The interpretation of Impossibility of Crime relates to Criminal Code Article 43 (Attempted Crime), distinguishing it from mere unsuccessful attempts.",
-  "japaneseLegalContext": "刑法第43条（未遂罪）の解釈論として、不能犯は通常の未遂とは区別される。",
-  "exampleSentence": "The defense successfully argued for the Impossibility of Crime, asserting that the substance used to harm the victim was medically harmless and thus completion was objectively unattainable.",
-  "exampleTranslation": "弁護側は不能犯を主張し、被害者に危害を加えるために用いられた物質は医学的に無害であり、したがって犯罪の完成は客観的に達成不可能であったと訴えた。",
+  "word": "Judicial Settlement Procedure",
+  "definition": "The procedural mechanism regulated by the Civil Procedure Code through which a court actively facilitates negotiations between the parties, either during a pending action (訴訟上の和解) or before an action is formally commenced (訴え提起前の和解), aiming to resolve the dispute through mutual agreement. Settlements achieved via this method have the same binding force as a final judgment.",
+  "japaneseDefinition": "裁判所が積極的に関与し、当事者間の交渉を促進して相互の合意による紛争解決を図る手続。成立した和解は確定判決と同一の効力を有する。",
+  "japaneseWordTranslation": "裁判上の和解手続 (さいばんじょうのわかいてつづき)",
+  "legalContext": "Civil Procedure Code Art. 89 (Settlement during trial) and Art. 275 (Settlement before commencement of action).",
+  "japaneseLegalContext": "民事訴訟法第89条（訴訟中の和解）及び第275条（訴え提起前の和解）",
+  "exampleSentence": "The defendant requested the court to move into the Judicial Settlement Procedure in hopes of avoiding a protracted trial and securing a swift resolution.",
+  "exampleTranslation": "被告は、長期にわたる裁判を避け、迅速な解決を図るため、裁判所に対し裁判上の和解手続へ移行するよう要請した。",
   "vocabularyList": [
     {
-      "word": "doctrine",
-      "translation": "法理; 学説"
+      "word": "pending action",
+      "translation": "係属中の訴訟"
     },
     {
-      "word": "constituent elements",
-      "translation": "構成要件"
+      "word": "binding force",
+      "translation": "拘束力"
     },
     {
-      "word": "justified",
-      "translation": "正当化された"
+      "word": "protracted trial",
+      "translation": "長期化した裁判"
     },
     {
-      "word": "objectively unattainable",
-      "translation": "客観的に達成不可能な"
+      "word": "mutual agreement",
+      "translation": "相互の合意"
     },
     {
-      "word": "substance",
-      "translation": "物質"
+      "word": "final judgment",
+      "translation": "確定判決"
     },
     {
-      "word": "unsuccessful attempt",
-      "translation": "未遂（結果不発生）"
-    },
-    {
-      "word": "asserting",
-      "translation": "主張する"
+      "word": "securing a swift resolution",
+      "translation": "迅速な解決を確保する"
     }
   ]
 }

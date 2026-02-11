@@ -14790,5 +14790,119 @@
         "translation": "公告（情報公開）"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Electronic Certificate",
+    "definition": "A digital file issued by the registrar or a certified authority that serves as a virtual identification to authenticate the identity of a corporation or its representative when performing online filings or electronic transactions.",
+    "japaneseDefinition": "オンラインでの登記申請や電子取引において、法人やその代表者の身元を認証するために登記官や認証機関が発行するデジタルデータ形式の証明書。",
+    "japaneseWordTranslation": "電子証明書 (でんししょうめいしょ)",
+    "legalContext": "Commercial Registration Act Art. 12-2: A person who has filed a seal with a registry office... may request the registrar to issue a certificate regarding the matters recorded in a magnetic disk with respect to said seal.",
+    "japaneseLegalContext": "商業登記法第12条の2：登記所に印鑑を提出した者は、…登記官に対し、当該印鑑につき磁気ディスクをもって調製された事項に関する証明書の交付を請求することができる。",
+    "exampleSentence": "The representative director must obtain an electronic certificate to complete the online filing for the change of corporate officers.",
+    "exampleTranslation": "役員変更のオンライン申請を完了するために、代表取締役は電子証明書を取得しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Authentication",
+        "translation": "認証"
+      },
+      {
+        "word": "Certification Authority",
+        "translation": "認証機関"
+      },
+      {
+        "word": "Online application",
+        "translation": "オンライン申請"
+      },
+      {
+        "word": "Magnetic disk",
+        "translation": "磁気ディスク"
+      },
+      {
+        "word": "Identity verification",
+        "translation": "本人確認"
+      },
+      {
+        "word": "Digital data",
+        "translation": "電子データ"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Seal Impression Card",
+    "definition": "A physical card issued by the registry office to a person who has filed a corporate seal, which is required to be presented when requesting the issuance of a seal impression certificate at the counter or via an automated machine.",
+    "japaneseDefinition": "登記所に印鑑を提出した者に対して発行される磁気カード。窓口や証明書発行機で印鑑証明書の交付を請求する際に提示が必要となる。",
+    "japaneseWordTranslation": "印鑑カード (いんかんかーど)",
+    "legalContext": "Commercial Registration Rules Art. 9-4: A registrar shall issue a seal impression card to a person who has filed a seal upon their request.",
+    "japaneseLegalContext": "商業登記規則第9条の4：登記官は、印鑑を提出した者の請求により、その者に印鑑カードを交付するものとする。",
+    "exampleSentence": "The administrative assistant went to the registry office to pick up the newly issued seal impression card for the company's new representative.",
+    "exampleTranslation": "事務局員は、会社の新しい代表者のために、新しく発行された印鑑カードを受け取りに登記所へ向かった。",
+    "vocabularyList": [
+      {
+        "word": "Issuance",
+        "translation": "交付"
+      },
+      {
+        "word": "Automated machine",
+        "translation": "証明書発行機"
+      },
+      {
+        "word": "Magnetic stripe",
+        "translation": "磁気ストライプ"
+      },
+      {
+        "word": "Registry office counter",
+        "translation": "登記所窓口"
+      },
+      {
+        "word": "Filing of a seal",
+        "translation": "印鑑の提出"
+      },
+      {
+        "word": "Request for issuance",
+        "translation": "交付の請求"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Digital Signature",
+    "definition": "A mathematical scheme used in electronic registration applications to verify the authenticity of the digital document and ensure that the information has not been tampered with since it was signed.",
+    "japaneseDefinition": "電子登記申請において、電子文書が本人の作成したものであることを確認し、かつ内容が改ざんされていないことを保証するために付される電子的な署名。",
+    "japaneseWordTranslation": "電子署名 (でんししょめい)",
+    "legalContext": "Commercial Registration Act Art. 17, Para. 4: In cases of filing an application via electromagnetic means, the applicant must take measures to confirm that the person who has performed the act is the applicant.",
+    "japaneseLegalContext": "商業登記法第17条第4項：電磁的記録により申請する場合、申請人は、当該行為を行った者が申請人であることを確認するための措置を講じなければならない。",
+    "exampleSentence": "The judicial scrivener applied his digital signature to the electronic application data before transmitting it to the registry office.",
+    "exampleTranslation": "司法書士は、電子申請データを登記所に送信する前に、自身の電子署名を付与した。",
+    "vocabularyList": [
+      {
+        "word": "Tampering",
+        "translation": "改ざん"
+      },
+      {
+        "word": "Electromagnetic means",
+        "translation": "電磁的方法"
+      },
+      {
+        "word": "Transmission",
+        "translation": "送信"
+      },
+      {
+        "word": "Encryption",
+        "translation": "暗号化"
+      },
+      {
+        "word": "Authenticity",
+        "translation": "真正性"
+      },
+      {
+        "word": "Verification",
+        "translation": "検証"
+      }
+    ]
   }
 ]

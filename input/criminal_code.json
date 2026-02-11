@@ -2,48 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Impossibility of Crime",
-    "definition": "A doctrine concerning an attempt where the execution fails because the means employed or the object targeted makes the completion of the constituent elements fundamentally impossible, raising the question of whether punishment is justified.",
-    "japaneseDefinition": "実行行為が行われたものの、用いられた手段や対象の性質上、構成要件の実現が客観的に不可能な場合を指す。可罰性の有無が問題となる。",
-    "japaneseWordTranslation": "不能犯 (ふのうはん)",
-    "legalContext": "The interpretation of Impossibility of Crime relates to Criminal Code Article 43 (Attempted Crime), distinguishing it from mere unsuccessful attempts.",
-    "japaneseLegalContext": "刑法第43条（未遂罪）の解釈論として、不能犯は通常の未遂とは区別される。",
-    "exampleSentence": "The defense successfully argued for the Impossibility of Crime, asserting that the substance used to harm the victim was medically harmless and thus completion was objectively unattainable.",
-    "exampleTranslation": "弁護側は不能犯を主張し、被害者に危害を加えるために用いられた物質は医学的に無害であり、したがって犯罪の完成は客観的に達成不可能であったと訴えた。",
-    "vocabularyList": [
-      {
-        "word": "doctrine",
-        "translation": "法理; 学説"
-      },
-      {
-        "word": "constituent elements",
-        "translation": "構成要件"
-      },
-      {
-        "word": "justified",
-        "translation": "正当化された"
-      },
-      {
-        "word": "objectively unattainable",
-        "translation": "客観的に達成不可能な"
-      },
-      {
-        "word": "substance",
-        "translation": "物質"
-      },
-      {
-        "word": "unsuccessful attempt",
-        "translation": "未遂（結果不発生）"
-      },
-      {
-        "word": "asserting",
-        "translation": "主張する"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Arson",
     "definition": "The crime of willfully setting fire to a structure, vessel, or other object, typically categorized in Japanese law based on whether the burned object is an inhabited dwelling, an uninhabited structure, or property belonging to the offender.",
     "japaneseDefinition": "故意に火をつけて建造物、船舶、またはその他の物を焼損する罪。公共の安全を侵害する罪として刑法に定められている。",
@@ -16690,6 +16648,116 @@
       {
         "word": "Compromise",
         "translation": "危うくする"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Insult",
+    "definition": "The act of publicly demeaning another person's social standing without alleging specific facts.",
+    "japaneseDefinition": "具体的な事実を摘示せずに、不特定または多数の人が知り得る状態で他人を辱める行為。",
+    "japaneseWordTranslation": "侮辱 (ぶじょく)",
+    "legalContext": "Criminal Code Art. 231: A person who publicly insults another, even without alleging facts, shall be punished.",
+    "japaneseLegalContext": "刑法231条：事実を摘示しなくても、公然と人を侮辱した者は、拘留又は科料に処する。",
+    "exampleSentence": "The individual was investigated for insult after posting a series of derogatory comments about the victim's appearance on social media.",
+    "exampleTranslation": "その人物は、SNS上で被害者の容姿に関する一連の中傷的なコメントを投稿したとして、侮辱の疑いで捜査を受けた。",
+    "vocabularyList": [
+      {
+        "word": "Publicly",
+        "translation": "公然と"
+      },
+      {
+        "word": "Demeaning",
+        "translation": "見下すような"
+      },
+      {
+        "word": "Social standing",
+        "translation": "社会的評価"
+      },
+      {
+        "word": "Alleging",
+        "translation": "主張する"
+      },
+      {
+        "word": "Derogatory",
+        "translation": "軽蔑的な"
+      },
+      {
+        "word": "Appearance",
+        "translation": "容姿"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Entreaty",
+    "definition": "A specific request or petition made to a person in a position of authority to perform or refrain from a particular act related to their professional functions.",
+    "japaneseDefinition": "公務員等に対し、その職務に関して特定の行為を行うこと、または行わないことを依頼すること。",
+    "japaneseWordTranslation": "請託 (せいたく)",
+    "legalContext": "Criminal Code Art. 197, Para. 2: A person who is to be appointed a public official and who receives a bribe concerning a matter for which the person has received an entreaty shall be punished.",
+    "japaneseLegalContext": "刑法197条2項：公務員になろうとする者が、その担当すべき職務に関し、請託を受けて、賄賂を収受し、又は要求し、若しくは約束したときは...処する。",
+    "exampleSentence": "A key element for the prosecution was proving that the developer made an entreaty to the official to expedite the permit approval.",
+    "exampleTranslation": "検察側にとっての重要な要素は、開発業者が許可の承認を早めるよう当局者に対して請託を行ったことを証明することであった。",
+    "vocabularyList": [
+      {
+        "word": "Request",
+        "translation": "依頼"
+      },
+      {
+        "word": "Authority",
+        "translation": "権限"
+      },
+      {
+        "word": "Professional functions",
+        "translation": "職務"
+      },
+      {
+        "word": "Prosecution",
+        "translation": "訴追"
+      },
+      {
+        "word": "Expedite",
+        "translation": "促進する"
+      },
+      {
+        "word": "Permit",
+        "translation": "許可"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Participation in Suicide",
+    "definition": "The legal category comprising the acts of inducing a person to take their own life or providing support for the act.",
+    "japaneseDefinition": "他人をそそのかして自殺を決意させ、または自殺を容易にするなどの行為の総称。",
+    "japaneseWordTranslation": "自殺関与 (じさつかんよ)",
+    "legalContext": "Criminal Code Art. 202: A person who induces or assists another to commit suicide shall be punished.",
+    "japaneseLegalContext": "刑法202条：人を教唆し若しくは幇助して自殺させ...た者は、六月以上七年以下の懲役又は禁錮に処する。",
+    "exampleSentence": "Providing a lethal substance to a person who has expressed a desire to die may be prosecuted as participation in suicide.",
+    "exampleTranslation": "死にたいという願望を表明している人物に致死性の物質を提供することは、自殺関与として訴追される可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "Inducing",
+        "translation": "誘致する（教唆する）"
+      },
+      {
+        "word": "Assists",
+        "translation": "助ける（幇助する）"
+      },
+      {
+        "word": "Commit suicide",
+        "translation": "自殺する"
+      },
+      {
+        "word": "Lethal substance",
+        "translation": "致死性物質"
+      },
+      {
+        "word": "Prosecuted",
+        "translation": "起訴された"
       }
     ]
   }

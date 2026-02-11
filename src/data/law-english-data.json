@@ -1,38 +1,42 @@
 {
-  "category": "Real Property Registration (不動産登記法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Application based on a Vested Judgment",
-  "definition": "An application for registration filed unilaterally by the entitled party (registration obligee) when the other party (registration obligor) fails to cooperate in the required joint application process, provided that the applicant holds a final and binding judicial ruling compelling such cooperation.",
-  "japaneseDefinition": "登記権利者（登記名義人となる者）が、共同申請の義務がある相手方（登記義務者）の不協力に対し、登記手続を命じる確定判決を得て、単独で申請する登記手続。",
-  "japaneseWordTranslation": "判決による登記申請 (はんけつによるとうきしんせい)",
-  "legalContext": "Real Property Registration Act (Art. 63, Para. 2): If the application for registration of rights is required to be filed jointly, the person entitled to registration may file the application unilaterally if they obtain a vested judgment confirming the existence of the obligation to cooperate in the application.",
-  "japaneseLegalContext": "不動産登記法第63条第2項: 権利に関する登記の申請を共同してしなければならない場合において、登記権利者が登記義務者の登記申請への協力を得るために確定判決を得たときは、単独で申請をすることができる。",
-  "exampleSentence": "Following the defendant’s refusal to execute the deed, the claimant initiated an application based on a vested judgment to finalize the property registration.",
-  "exampleTranslation": "被告が権利証の実行を拒否した後、原告は財産登記を完了させるために判決による登記申請を開始した。",
+  "word": "Impossibility of Crime",
+  "definition": "A doctrine concerning an attempt where the execution fails because the means employed or the object targeted makes the completion of the constituent elements fundamentally impossible, raising the question of whether punishment is justified.",
+  "japaneseDefinition": "実行行為が行われたものの、用いられた手段や対象の性質上、構成要件の実現が客観的に不可能な場合を指す。可罰性の有無が問題となる。",
+  "japaneseWordTranslation": "不能犯 (ふのうはん)",
+  "legalContext": "The interpretation of Impossibility of Crime relates to Criminal Code Article 43 (Attempted Crime), distinguishing it from mere unsuccessful attempts.",
+  "japaneseLegalContext": "刑法第43条（未遂罪）の解釈論として、不能犯は通常の未遂とは区別される。",
+  "exampleSentence": "The defense successfully argued for the Impossibility of Crime, asserting that the substance used to harm the victim was medically harmless and thus completion was objectively unattainable.",
+  "exampleTranslation": "弁護側は不能犯を主張し、被害者に危害を加えるために用いられた物質は医学的に無害であり、したがって犯罪の完成は客観的に達成不可能であったと訴えた。",
   "vocabularyList": [
     {
-      "word": "entitled party",
-      "translation": "登記権利者 (とうきけんりしゃ)"
+      "word": "doctrine",
+      "translation": "法理; 学説"
     },
     {
-      "word": "registration obligor",
-      "translation": "登記義務者 (とうきぎむしゃ)"
+      "word": "constituent elements",
+      "translation": "構成要件"
     },
     {
-      "word": "joint application",
-      "translation": "共同申請"
+      "word": "justified",
+      "translation": "正当化された"
     },
     {
-      "word": "vested judgment",
-      "translation": "確定判決 (かくていはんけつ)"
+      "word": "objectively unattainable",
+      "translation": "客観的に達成不可能な"
     },
     {
-      "word": "compelling cooperation",
-      "translation": "協力を命じる"
+      "word": "substance",
+      "translation": "物質"
     },
     {
-      "word": "finalize the registration",
-      "translation": "登記を完了させる"
+      "word": "unsuccessful attempt",
+      "translation": "未遂（結果不発生）"
+    },
+    {
+      "word": "asserting",
+      "translation": "主張する"
     }
   ]
 }

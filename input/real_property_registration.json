@@ -2,44 +2,6 @@
   {
     "category": "Real Property Registration (不動産登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Joint Application",
-    "definition": "A foundational principle in Japanese real property registration requiring the applicant whose registered interest will be gained (Registration Obligee) and the applicant whose registered interest will be lost or diminished (Registration Obligor) to file the registration motion together.",
-    "japaneseDefinition": "登記によって利益を受ける登記権利者と、不利益を受ける登記義務者が、共同で登記申請を行う原則。これは、登記の真実性を確保するための重要な手続き的要件である。",
-    "japaneseWordTranslation": "共同申請 (きょうどうしんせい)",
-    "legalContext": "Real Property Registration Act Art. 60: ... Unless otherwise provided by law, an application for a registration of rights shall be filed jointly by the registration obligee and the registration obligor.",
-    "japaneseLegalContext": "不動産登記法第60条：権利に関する登記の申請は、法令に別段の定めがある場合を除き、登記権利者及び登記義務者が共同してしなければならない。",
-    "exampleSentence": "In the absence of a vested court ruling, the transfer of ownership requires a meticulous preparation of documents and submission via Joint Application.",
-    "exampleTranslation": "確定した判決がない限り、所有権移転には、綿密な書類準備と共同申請による提出が求められる。",
-    "vocabularyList": [
-      {
-        "word": "foundational principle",
-        "translation": "基本原則"
-      },
-      {
-        "word": "registration motion",
-        "translation": "登記申請"
-      },
-      {
-        "word": "meticulous preparation",
-        "translation": "綿密な準備"
-      },
-      {
-        "word": "Registration Obligee",
-        "translation": "登記権利者"
-      },
-      {
-        "word": "Registration Obligor",
-        "translation": "登記義務者"
-      },
-      {
-        "word": "unless otherwise provided",
-        "translation": "別段の定めがある場合を除き"
-      }
-    ]
-  },
-  {
-    "category": "Real Property Registration (不動産登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Record of Description",
     "definition": "The section of the real property registry dedicated to recording the physical status and identifying features of the land or building, such as location, lot number, land category, structure, and floor area.",
     "japaneseDefinition": "不動産の物理的な状況や特定情報を記録するための登記簿の箇所。土地であれば所在、地番、地目、地積を、建物であれば所在、家屋番号、種類、構造、床面積などを記載する。",
@@ -14279,6 +14241,120 @@
       {
         "word": "Sell",
         "translation": "売却する"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Factory Foundation",
+    "definition": "A legal entity consisting of a group of assets belonging to a factory (such as land, buildings, and machinery) that is treated as a single unit for the purpose of creating collateral.",
+    "japaneseDefinition": "工場に属する土地、建物、機械、器具などの資産をひとまとめにし、担保権の対象とするために一つの財団として組成されたもの。",
+    "japaneseWordTranslation": "工場財団 (こうじょうざいだん)",
+    "legalContext": "Factory Mortgage Act, Article 1: A factory foundation may be established in order to provide it as collateral for a loan.",
+    "japaneseLegalContext": "工場抵当法第1条：工場財団は、これを担保に供するため、設けることができる。",
+    "exampleSentence": "The financier required the creation of a factory foundation to secure the extensive machinery and land as collateral.",
+    "exampleTranslation": "融資者は、広大な機械と土地を担保として確保するために、工場財団の組成を要求した。",
+    "vocabularyList": [
+      {
+        "word": "Financier",
+        "translation": "融資者"
+      },
+      {
+        "word": "Collateral",
+        "translation": "担保"
+      },
+      {
+        "word": "Asset",
+        "translation": "財産"
+      },
+      {
+        "word": "Facility",
+        "translation": "施設・設備"
+      },
+      {
+        "word": "Machinery",
+        "translation": "機械"
+      },
+      {
+        "word": "Establish",
+        "translation": "設定する・設ける"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registrability",
+    "definition": "The legal capacity or eligibility of a person or a specific right to be recorded in the official register of land and assets.",
+    "japaneseDefinition": "登記の申請において、当事者（登記名義人）となり得る資格、またはその権利が登記できる性質を有していること。",
+    "japaneseWordTranslation": "登記適格 (とうきてきかく)",
+    "legalContext": "General Principle of the Real Property Registration Act: Only entities with legal capacity, such as individuals or recognized organizations, possess registrability.",
+    "japaneseLegalContext": "不動産登記法の一般原則：個人や認められた組織など、法的能力を有する主体のみが登記適格を有する。",
+    "exampleSentence": "An unincorporated association usually lacks registrability, meaning it cannot hold the title in its own name on the register.",
+    "exampleTranslation": "権利能力なき社団は通常、登記適格を欠いており、登記簿上にその名称で権利を保持することはできない。",
+    "vocabularyList": [
+      {
+        "word": "Eligibility",
+        "translation": "適格性"
+      },
+      {
+        "word": "Capacity",
+        "translation": "能力"
+      },
+      {
+        "word": "Association",
+        "translation": "社団・団体"
+      },
+      {
+        "word": "Unincorporated",
+        "translation": "法人格のない"
+      },
+      {
+        "word": "Official register",
+        "translation": "公式の登記簿"
+      },
+      {
+        "word": "Recognized",
+        "translation": "認められた"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registry Jurisdiction",
+    "definition": "The specific territorial authority of a recording office to handle applications regarding assets located within its designated area.",
+    "japaneseDefinition": "不動産の所在地に基づき、その不動産に関する登記事務を取り扱う権限を有する登記所の管轄区域。",
+    "japaneseWordTranslation": "登記管轄 (とうきかんかつ)",
+    "legalContext": "Real Property Registration Act, Article 8: Affairs concerning registration shall be administered by the recording authority having jurisdiction over the location of the asset.",
+    "japaneseLegalContext": "不動産登記法第8条：登記に関する事務は、不動産の所在地を管轄する登記所が掌理する。",
+    "exampleSentence": "Before filing the papers, you must confirm which office holds the registry jurisdiction for the specific parcel of land.",
+    "exampleTranslation": "書類を提出する前に、その土地の区画についてどの事務所が登記管轄を有しているかを確認しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Territorial",
+        "translation": "地域の・領土の"
+      },
+      {
+        "word": "Authority",
+        "translation": "権限"
+      },
+      {
+        "word": "Designated",
+        "translation": "指定された"
+      },
+      {
+        "word": "Parcel",
+        "translation": "区画"
+      },
+      {
+        "word": "Administered",
+        "translation": "管理・掌理された"
+      },
+      {
+        "word": "Filing",
+        "translation": "申請・提出"
       }
     ]
   }

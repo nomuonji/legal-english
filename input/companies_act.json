@@ -15504,5 +15504,119 @@
         "translation": "自己の財産・個人資産"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Inconsistent Exercise of Voting Rights",
+    "definition": "A mechanism under the Companies Act where a person holding shares on behalf of multiple beneficiaries (such as a bank or nominee) exercises the associated voting rights in a non-uniform manner (e.g., voting 'for' with some shares and 'against' with others) for a single proposal.",
+    "japaneseDefinition": "一人の株主が、同一の議案に対して賛成と反対の両方の意思表示をバラバラに行うこと。信託銀行などが複数の委託者の指図に従って投票する場合などに認められる。",
+    "japaneseWordTranslation": "議決権の不統一行使 (ぎけつけんのふとういつこうし)",
+    "legalContext": "Companies Act Art. 313: A person who holds shares may exercise his/her voting rights inconsistently. In such cases, the person shall provide notice to the company of his/her intention to do so and the reasons therefor.",
+    "japaneseLegalContext": "会社法第313条：株主は、その有する議決権を不統一に行使することができる。この場合においては、会日の三日前までに、株式会社に対してその旨及びその理由を通知しなければならない。",
+    "exampleSentence": "The trust bank gave notice of its intent to perform an inconsistent exercise of voting rights to reflect the differing instructions from its various clients.",
+    "exampleTranslation": "受託銀行は、多様な顧客からの異なる指図を反映させるため、議決権の不統一行使を行う旨を通知した。",
+    "vocabularyList": [
+      {
+        "word": "voting rights",
+        "translation": "議決権"
+      },
+      {
+        "word": "notice",
+        "translation": "通知"
+      },
+      {
+        "word": "intention",
+        "translation": "意思"
+      },
+      {
+        "word": "proposal",
+        "translation": "議案"
+      },
+      {
+        "word": "non-uniform",
+        "translation": "不統一の"
+      },
+      {
+        "word": "nominee",
+        "translation": "名義人"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exercise of Voting Rights by Proxy",
+    "definition": "The act of authorizing another person to attend a meeting and cast votes on behalf of a person holding shares in the company.",
+    "japaneseDefinition": "株主が自ら会議に出席する代わりに、代理人を選任して議決権を行使させること。",
+    "japaneseWordTranslation": "議決権の代理行使 (ぎけつけんのだいりこうし)",
+    "legalContext": "Companies Act Art. 310: A person who holds shares may exercise his/her voting rights by proxy. In such cases, such person or proxy shall submit a document evidencing the power of proxy to the company.",
+    "japaneseLegalContext": "会社法第310条：株主は、代理人によってその議決権を行使することができる。この場合においては、当該株主又は代理人は、代理権を証明する書面を株式会社に提出しなければならない。",
+    "exampleSentence": "The company established rules for the exercise of voting rights by proxy to ensure that only authorized individuals could vote on behalf of absent members.",
+    "exampleTranslation": "会社は、欠席したメンバーに代わって正当に権限を与えられた個人のみが投票できるよう、議決権の代理行使に関する規則を定めた。",
+    "vocabularyList": [
+      {
+        "word": "proxy",
+        "translation": "代理人"
+      },
+      {
+        "word": "authority",
+        "translation": "権限"
+      },
+      {
+        "word": "evidencing",
+        "translation": "証明する"
+      },
+      {
+        "word": "document",
+        "translation": "書面"
+      },
+      {
+        "word": "submit",
+        "translation": "提出する"
+      },
+      {
+        "word": "absent",
+        "translation": "欠席の"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exercise of Voting Rights in Writing",
+    "definition": "A voting method where a person holding shares who does not attend the meeting in person submits their vote via a physical voting card or written document.",
+    "japaneseDefinition": "株主総会に直接出席できない株主が、あらかじめ議決権行使書（投票用紙）に賛否を記入して郵送等を行うことにより、議決権を行使する方法。",
+    "japaneseWordTranslation": "書面による議決権の行使 (しょめんによるぎけつけんのこうし)",
+    "legalContext": "Companies Act Art. 298, Para. 1, Item 3: In cases where the company determines that a person who holds shares but does not attend the meeting may exercise voting rights in writing, the company shall determine the matters regarding such exercise.",
+    "japaneseLegalContext": "会社法第298条第1項第3号：株主総会に出席しない株主が書面によって議決権を行使することができることとするときは、その旨（を定めなければならない）。",
+    "exampleSentence": "To facilitate a broader participation in the meeting, the company allowed the exercise of voting rights in writing by including a voting form with the convocation materials.",
+    "exampleTranslation": "集会へのより広範な参加を促進するため、会社は招集資料に投票用紙を同封し、書面による議決権の行使を認めた。",
+    "vocabularyList": [
+      {
+        "word": "in writing",
+        "translation": "書面による"
+      },
+      {
+        "word": "voting card",
+        "translation": "議決権行使書"
+      },
+      {
+        "word": "participation",
+        "translation": "参加"
+      },
+      {
+        "word": "determine",
+        "translation": "決定する"
+      },
+      {
+        "word": "facilitate",
+        "translation": "促進する"
+      },
+      {
+        "word": "form",
+        "translation": "用紙"
+      }
+    ]
   }
 ]

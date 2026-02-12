@@ -1,38 +1,38 @@
 {
-  "category": "Civil Preservation (民事保全法)",
+  "category": "Real Property Registration (不動産登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Prohibition of Transfer and Encumbrance",
-  "definition": "A specific legal effect of an injunction concerning real property that prevents the property owner (debtor) from conveying the title to a third party or establishing any new security interests (such as mortgages or pledges) over the property.",
-  "japaneseDefinition": "不動産に関する差止めの保全命令の具体的な内容の一つであり、債務者が当該不動産の所有権を第三者に譲渡したり、新たな担保権（抵当権など）を設定したりすることを禁止する措置。",
-  "japaneseWordTranslation": "譲渡及び担保権設定の禁止 (じょうとおよびたんぽけんせっていをのきんし)",
-  "legalContext": "Civil Preservation Act Art. 52 (1): Preservation orders may be issued to maintain the status quo concerning disputes over things or rights, thereby achieving the purpose of the preservation.",
-  "japaneseLegalContext": "民事保全法第52条第1項: 係争物に関する仮の地位を定める処分は、物又は権利に関する紛争に係る現状の維持を図ることにより、保全の目的を達するために発せられる。",
-  "exampleSentence": "The preservation order included a strict prohibition of transfer and encumbrance against the subject property to ensure the plaintiff's potential future judgment could be satisfied.",
-  "exampleTranslation": "原告の将来の判決が満たされることを確実にするため、その保全命令には、係争物に対する厳格な譲渡及び担保権設定の禁止が含まれていた。",
+  "word": "Joint Application",
+  "definition": "A foundational principle in Japanese real property registration requiring the applicant whose registered interest will be gained (Registration Obligee) and the applicant whose registered interest will be lost or diminished (Registration Obligor) to file the registration motion together.",
+  "japaneseDefinition": "登記によって利益を受ける登記権利者と、不利益を受ける登記義務者が、共同で登記申請を行う原則。これは、登記の真実性を確保するための重要な手続き的要件である。",
+  "japaneseWordTranslation": "共同申請 (きょうどうしんせい)",
+  "legalContext": "Real Property Registration Act Art. 60: ... Unless otherwise provided by law, an application for a registration of rights shall be filed jointly by the registration obligee and the registration obligor.",
+  "japaneseLegalContext": "不動産登記法第60条：権利に関する登記の申請は、法令に別段の定めがある場合を除き、登記権利者及び登記義務者が共同してしなければならない。",
+  "exampleSentence": "In the absence of a vested court ruling, the transfer of ownership requires a meticulous preparation of documents and submission via Joint Application.",
+  "exampleTranslation": "確定した判決がない限り、所有権移転には、綿密な書類準備と共同申請による提出が求められる。",
   "vocabularyList": [
     {
-      "word": "injunction",
-      "translation": "差止め命令"
+      "word": "foundational principle",
+      "translation": "基本原則"
     },
     {
-      "word": "conveying the title",
-      "translation": "所有権を移転する"
+      "word": "registration motion",
+      "translation": "登記申請"
     },
     {
-      "word": "security interests",
-      "translation": "担保権"
+      "word": "meticulous preparation",
+      "translation": "綿密な準備"
     },
     {
-      "word": "status quo",
-      "translation": "現状"
+      "word": "Registration Obligee",
+      "translation": "登記権利者"
     },
     {
-      "word": "subject property",
-      "translation": "係争物/対象不動産"
+      "word": "Registration Obligor",
+      "translation": "登記義務者"
     },
     {
-      "word": "potential future judgment",
-      "translation": "将来の判決の可能性"
+      "word": "unless otherwise provided",
+      "translation": "別段の定めがある場合を除き"
     }
   ]
 }

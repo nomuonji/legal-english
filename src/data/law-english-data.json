@@ -1,38 +1,38 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Civil Preservation (民事保全法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Judicial Settlement Procedure",
-  "definition": "The procedural mechanism regulated by the Civil Procedure Code through which a court actively facilitates negotiations between the parties, either during a pending action (訴訟上の和解) or before an action is formally commenced (訴え提起前の和解), aiming to resolve the dispute through mutual agreement. Settlements achieved via this method have the same binding force as a final judgment.",
-  "japaneseDefinition": "裁判所が積極的に関与し、当事者間の交渉を促進して相互の合意による紛争解決を図る手続。成立した和解は確定判決と同一の効力を有する。",
-  "japaneseWordTranslation": "裁判上の和解手続 (さいばんじょうのわかいてつづき)",
-  "legalContext": "Civil Procedure Code Art. 89 (Settlement during trial) and Art. 275 (Settlement before commencement of action).",
-  "japaneseLegalContext": "民事訴訟法第89条（訴訟中の和解）及び第275条（訴え提起前の和解）",
-  "exampleSentence": "The defendant requested the court to move into the Judicial Settlement Procedure in hopes of avoiding a protracted trial and securing a swift resolution.",
-  "exampleTranslation": "被告は、長期にわたる裁判を避け、迅速な解決を図るため、裁判所に対し裁判上の和解手続へ移行するよう要請した。",
+  "word": "Prohibition of Transfer and Encumbrance",
+  "definition": "A specific legal effect of an injunction concerning real property that prevents the property owner (debtor) from conveying the title to a third party or establishing any new security interests (such as mortgages or pledges) over the property.",
+  "japaneseDefinition": "不動産に関する差止めの保全命令の具体的な内容の一つであり、債務者が当該不動産の所有権を第三者に譲渡したり、新たな担保権（抵当権など）を設定したりすることを禁止する措置。",
+  "japaneseWordTranslation": "譲渡及び担保権設定の禁止 (じょうとおよびたんぽけんせっていをのきんし)",
+  "legalContext": "Civil Preservation Act Art. 52 (1): Preservation orders may be issued to maintain the status quo concerning disputes over things or rights, thereby achieving the purpose of the preservation.",
+  "japaneseLegalContext": "民事保全法第52条第1項: 係争物に関する仮の地位を定める処分は、物又は権利に関する紛争に係る現状の維持を図ることにより、保全の目的を達するために発せられる。",
+  "exampleSentence": "The preservation order included a strict prohibition of transfer and encumbrance against the subject property to ensure the plaintiff's potential future judgment could be satisfied.",
+  "exampleTranslation": "原告の将来の判決が満たされることを確実にするため、その保全命令には、係争物に対する厳格な譲渡及び担保権設定の禁止が含まれていた。",
   "vocabularyList": [
     {
-      "word": "pending action",
-      "translation": "係属中の訴訟"
+      "word": "injunction",
+      "translation": "差止め命令"
     },
     {
-      "word": "binding force",
-      "translation": "拘束力"
+      "word": "conveying the title",
+      "translation": "所有権を移転する"
     },
     {
-      "word": "protracted trial",
-      "translation": "長期化した裁判"
+      "word": "security interests",
+      "translation": "担保権"
     },
     {
-      "word": "mutual agreement",
-      "translation": "相互の合意"
+      "word": "status quo",
+      "translation": "現状"
     },
     {
-      "word": "final judgment",
-      "translation": "確定判決"
+      "word": "subject property",
+      "translation": "係争物/対象不動産"
     },
     {
-      "word": "securing a swift resolution",
-      "translation": "迅速な解決を確保する"
+      "word": "potential future judgment",
+      "translation": "将来の判決の可能性"
     }
   ]
 }

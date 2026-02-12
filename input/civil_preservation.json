@@ -2,44 +2,6 @@
   {
     "category": "Civil Preservation (民事保全法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Prohibition of Transfer and Encumbrance",
-    "definition": "A specific legal effect of an injunction concerning real property that prevents the property owner (debtor) from conveying the title to a third party or establishing any new security interests (such as mortgages or pledges) over the property.",
-    "japaneseDefinition": "不動産に関する差止めの保全命令の具体的な内容の一つであり、債務者が当該不動産の所有権を第三者に譲渡したり、新たな担保権（抵当権など）を設定したりすることを禁止する措置。",
-    "japaneseWordTranslation": "譲渡及び担保権設定の禁止 (じょうとおよびたんぽけんせっていをのきんし)",
-    "legalContext": "Civil Preservation Act Art. 52 (1): Preservation orders may be issued to maintain the status quo concerning disputes over things or rights, thereby achieving the purpose of the preservation.",
-    "japaneseLegalContext": "民事保全法第52条第1項: 係争物に関する仮の地位を定める処分は、物又は権利に関する紛争に係る現状の維持を図ることにより、保全の目的を達するために発せられる。",
-    "exampleSentence": "The preservation order included a strict prohibition of transfer and encumbrance against the subject property to ensure the plaintiff's potential future judgment could be satisfied.",
-    "exampleTranslation": "原告の将来の判決が満たされることを確実にするため、その保全命令には、係争物に対する厳格な譲渡及び担保権設定の禁止が含まれていた。",
-    "vocabularyList": [
-      {
-        "word": "injunction",
-        "translation": "差止め命令"
-      },
-      {
-        "word": "conveying the title",
-        "translation": "所有権を移転する"
-      },
-      {
-        "word": "security interests",
-        "translation": "担保権"
-      },
-      {
-        "word": "status quo",
-        "translation": "現状"
-      },
-      {
-        "word": "subject property",
-        "translation": "係争物/対象不動産"
-      },
-      {
-        "word": "potential future judgment",
-        "translation": "将来の判決の可能性"
-      }
-    ]
-  },
-  {
-    "category": "Civil Preservation (民事保全法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Motion for Suspension of Enforcement",
     "definition": "A formal petition filed by the obligor to the enforcement court, requesting a temporary halt to the specific procedures taken under the preservation order, typically pending the resolution of an associated appeal or related legal challenge.",
     "japaneseDefinition": "債務者が保全執行裁判所に対して行う正式な申立てであり、通常は関連する上訴や法的な異議の解決を待つ間、保全命令に基づく特定の手続の一時的な停止を求めるもの。",
@@ -13822,6 +13784,120 @@
       {
         "word": "Final decision",
         "translation": "終局判決"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Summary Showing",
+    "definition": "The standard of proof required in preservation proceedings, which is lower than the full proof required in a main trial; it requires only that a judge reaches a tentative conviction regarding the existence of a claim.",
+    "japaneseDefinition": "保全手続において要求される証明の程度。本案訴訟における「証明」よりも低く、裁判官が「一応の確信」を得る程度の立証を指す。",
+    "japaneseWordTranslation": "疎明 (そめい)",
+    "legalContext": "Civil Preservation Act Art. 13: \"A preservation order may be issued only when a summary showing of the claim to be preserved and the urgency of the matter is provided.\"",
+    "japaneseLegalContext": "民事保全法第13条：「保全命令は、保全すべき権利又は権利関係及び保全の必要性が疎明されたときに限り、発することができる。」",
+    "exampleSentence": "The claimant failed to provide a sufficient summary showing of the urgency, leading the court to dismiss the petition for an interlocutory decree.",
+    "exampleTranslation": "債権者は保全の必要性について十分な疎明を行うことができず、裁判所は暫定的な命令の申立てを却下した。",
+    "vocabularyList": [
+      {
+        "word": "Claimant",
+        "translation": "債権者"
+      },
+      {
+        "word": "Summary showing",
+        "translation": "疎明"
+      },
+      {
+        "word": "Urgency",
+        "translation": "急迫性・必要性"
+      },
+      {
+        "word": "Interlocutory decree",
+        "translation": "中間的な命令"
+      },
+      {
+        "word": "To substantiate",
+        "translation": "実証する・疎明する"
+      },
+      {
+        "word": "Tentative conviction",
+        "translation": "一応の確信"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liberation Money",
+    "definition": "The amount of money specified in a provisional mandate that the debtor must deposit in order to have the implementation of the freeze on assets suspended or cancelled.",
+    "japaneseDefinition": "仮差押命令において定められる金額。債務者がこれを供託することにより、執行の停止や取消しを得ることができる。",
+    "japaneseWordTranslation": "解放金 (かいほうきん)",
+    "legalContext": "Civil Preservation Act Art. 22: \"A provisional order shall specify the amount of liberation money to be deposited by the debtor to obtain a suspension of the implementation.\"",
+    "japaneseLegalContext": "民事保全法第22条：「仮差押命令には、...執行の停止を得るため、又は既にした執行の取消しを得るために債務者が供託すべき解放金の額を定めなければならない。」",
+    "exampleSentence": "The debtor deposited the liberation money with the court to lift the temporary freeze on their bank accounts.",
+    "exampleTranslation": "債務者は銀行口座の一時的な凍結を解除するため、裁判所に解放金を供託した。",
+    "vocabularyList": [
+      {
+        "word": "Debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Liberation money",
+        "translation": "解放金"
+      },
+      {
+        "word": "To deposit",
+        "translation": "供託する"
+      },
+      {
+        "word": "Implementation",
+        "translation": "執行"
+      },
+      {
+        "word": "To suspend",
+        "translation": "停止する"
+      },
+      {
+        "word": "Temporary freeze",
+        "translation": "一時的凍結（仮差押え）"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Custodian",
+    "definition": "A person appointed by the court or the enforcement officer to take charge of and manage property that is the subject of a restraining mandate to prevent its dissipation or damage.",
+    "japaneseDefinition": "係争物に関する仮処分などにおいて、その物の散逸や損傷を防ぐために、裁判所や執行官によって選任され、目的物を管理する者。",
+    "japaneseWordTranslation": "保管人 (ほかんにん)",
+    "legalContext": "Civil Preservation Act Art. 54: \"The enforcement of a provisional mandate regarding the subject matter shall be carried out by a method in which the property custodian manages said property.\"",
+    "japaneseLegalContext": "民事保全法第54条：「係争物に関する仮処分の執行は、...保管人に当該物件を管理させる方法により行う。」",
+    "exampleSentence": "The court appointed a property custodian to oversee the maintenance of the disputed machinery while the litigation on the substantive claim was pending.",
+    "exampleTranslation": "本案の訴訟が係属している間、裁判所は係争中の機械の維持を監督させるために保管人を選任した。",
+    "vocabularyList": [
+      {
+        "word": "Property custodian",
+        "translation": "保管人"
+      },
+      {
+        "word": "To oversee",
+        "translation": "監督する"
+      },
+      {
+        "word": "Maintenance",
+        "translation": "維持・管理"
+      },
+      {
+        "word": "Disputed machinery",
+        "translation": "係争中の機械"
+      },
+      {
+        "word": "Pending",
+        "translation": "係属中の"
+      },
+      {
+        "word": "Restraining mandate",
+        "translation": "制限的命令（仮処分）"
       }
     ]
   }

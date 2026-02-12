@@ -14014,5 +14014,119 @@
         "translation": "選任する"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Irreparable Harm",
+    "definition": "A degree of damage that cannot be adequately compensated by a subsequent monetary judgment, serving as a critical requirement for granting a provisional injunction establishing a temporary status.",
+    "japaneseDefinition": "金銭賠償では後の救済が不十分であり、事後的に回復することが不可能な損害。仮の地位を定める仮処分の必要性を判断する際の解釈上の重要要件。",
+    "japaneseWordTranslation": "回復しがたい損害 (かいふくしがたいそんがい)",
+    "legalContext": "Civil Preservation Act Art. 23, Para. 2: A provisional injunction order establishing a temporary status may be issued when it is necessary to avoid 'substantial harm' (interpreted as irreparable harm) or imminent danger to the obligee with regard to the right in question.",
+    "japaneseLegalContext": "民事保全法23条2項：仮の地位を定める仮処分命令は、争いがある権利関係について債権者に生ずる著しい損害（判例上「回復しがたい損害」と解される）又は急迫の危険を避けるためこれを必要とするときに発することができる。",
+    "exampleSentence": "The court granted the injunction because the demolition of the historic building would constitute irreparable harm that money could not fix.",
+    "exampleTranslation": "歴史的建造物の取り壊しは、金銭では解決できない回復しがたい損害にあたるため、裁判所は仮処分を認めた。",
+    "vocabularyList": [
+      {
+        "word": "Substantial harm",
+        "translation": "著しい損害"
+      },
+      {
+        "word": "Demolition",
+        "translation": "取り壊し"
+      },
+      {
+        "word": "Inadequacy",
+        "translation": "不十分"
+      },
+      {
+        "word": "Monetary compensation",
+        "translation": "金銭賠償"
+      },
+      {
+        "word": "To avert",
+        "translation": "避ける"
+      },
+      {
+        "word": "In question",
+        "translation": "係争中の"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Balance of Convenience",
+    "definition": "A judicial test used to determine whether to issue a preservation order by weighing the potential hardship to the applicant if the order is denied against the potential hardship to the opposing party if it is granted.",
+    "japaneseDefinition": "保全命令を発令することによって相手方が被る不利益と、発令しないことによって申立人が被る不利益を比較検討し、発令の是非を判断する法理（利益衡量）。",
+    "japaneseWordTranslation": "利益衡量 (りえきこうりょう)",
+    "legalContext": "In Japanese civil preservation practice, courts apply the 'balance of convenience' to evaluate the necessity of an order, considering the degree of urgency and the impact on both parties.",
+    "japaneseLegalContext": "日本の民事保全の実務において、裁判所は緊急性の程度や双方の当事者への影響を考慮し、利益衡量（Balance of Convenience）を用いて命令の必要性を評価する。",
+    "exampleSentence": "Under the balance of convenience, the court found that the risk of the applicant's business failure outweighed the temporary restriction on the opposing party's assets.",
+    "exampleTranslation": "利益衡量の観点から、裁判所は、申立人の事業倒産のリスクが相手方の資産に対する一時的な制限という不利益を上回ると判断した。",
+    "vocabularyList": [
+      {
+        "word": "Hardship",
+        "translation": "不利益"
+      },
+      {
+        "word": "To weigh",
+        "translation": "比較衡量する"
+      },
+      {
+        "word": "Opposing party",
+        "translation": "相手方"
+      },
+      {
+        "word": "Applicant",
+        "translation": "申立人"
+      },
+      {
+        "word": "To outweigh",
+        "translation": "上回る"
+      },
+      {
+        "word": "Temporary restriction",
+        "translation": "一時的な制限"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Satisfaction of the Underlying Claim",
+    "definition": "A situation where a provisional injunction provides the same level of relief as a final judgment, essentially allowing the applicant to realize their rights before the conclusion of the main lawsuit.",
+    "japaneseDefinition": "仮処分の執行によって、債権者が本案判決を得た場合と同等の利益を事実上得ること（満足的効力）。生活費の仮払いや建物の明け渡しなどで生じる。",
+    "japaneseWordTranslation": "本案権利の満足 (ほんあんけんりのまんぞく)",
+    "legalContext": "Civil Preservation Act Art. 23. Injunctions that result in the 'satisfaction of the underlying claim' (Danko-no-karishobun) are scrutinized strictly because they change the status quo before a full trial.",
+    "japaneseLegalContext": "民事保全法23条。本案権利の満足を伴う仮処分（断行の仮処分）は、正式な裁判の前に現状を変更するものであるため、厳格に審査される。",
+    "exampleSentence": "The mandatory injunction for living expenses resulted in the satisfaction of the underlying claim even before the main trial began.",
+    "exampleTranslation": "生活費の支払いを命じる断行の仮処分により、本案の裁判が始まる前に、事実上本案権利の満足が得られた。",
+    "vocabularyList": [
+      {
+        "word": "Underlying claim",
+        "translation": "本案の権利"
+      },
+      {
+        "word": "Mandatory injunction",
+        "translation": "作為を命じる仮処分"
+      },
+      {
+        "word": "Living expenses",
+        "translation": "生活費"
+      },
+      {
+        "word": "Realization of rights",
+        "translation": "権利の実現"
+      },
+      {
+        "word": "Strictly scrutinized",
+        "translation": "厳格に審査される"
+      },
+      {
+        "word": "Conclusion of the lawsuit",
+        "translation": "訴訟の完結"
+      }
+    ]
   }
 ]

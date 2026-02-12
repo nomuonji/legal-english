@@ -14357,5 +14357,107 @@
         "translation": "申請・提出"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Intermediate Entry Omission",
+    "definition": "The practice of bypassing the recordation of a middle-tier conveyance in a series of asset transfers, where the record reflects a direct movement from the original grantor to the ultimate grantee.",
+    "japaneseDefinition": "不動産が転々譲渡された場合に、中間者の名義を経由せず、最初の商品譲渡人から最終の受取人へ直接、名義の記載を行うこと。",
+    "japaneseWordTranslation": "中間省略登記 (ちゅうかんしょうりゃくとうき)",
+    "legalContext": "Generally restricted under current filing procedures to ensure a complete chain of title, though judicial precedents historically allowed such entries if they matched the current legal reality and all parties gave consent.",
+    "japaneseLegalContext": "不動産登記の連鎖を正確に公示する原則に反するため、現在は原則として認められないが、判例上、実体的な権利関係に合致し関係者全員の合意がある場合には、その有効性が認められてきた。",
+    "exampleSentence": "Parties sometimes sought an intermediate entry omission to minimize the fiscal burdens associated with multiple successive conveyances.",
+    "exampleTranslation": "複数の連続した権利移転に伴う税負担を軽減するために、当事者が中間省略登記を求めることがあった。",
+    "vocabularyList": [
+      {
+        "word": "Conveyance",
+        "translation": "譲渡、権利の移転"
+      },
+      {
+        "word": "Bypass",
+        "translation": "省略する、回避する"
+      },
+      {
+        "word": "Ultimate grantee",
+        "translation": "最終の譲受人"
+      },
+      {
+        "word": "Chain of title",
+        "translation": "権利の連鎖、権利承継の経緯"
+      },
+      {
+        "word": "Fiscal burden",
+        "translation": "税負担"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Capacity for Real Estate Recordation",
+    "definition": "The legal qualification or status required for an entity to be entered into the public books as a holder of a proprietary interest in real estate.",
+    "japaneseDefinition": "不動産の名義人として、公的な記録に記載を受けることができる法律上の資格。不動産登記権利能力とも呼ばれる。",
+    "japaneseWordTranslation": "登記権利能力 (とうきけんりのうりょく)",
+    "legalContext": "While natural persons and legal entities possess this status, certain groups like unincorporated associations usually lack this capacity and must record assets in the names of their representatives or members.",
+    "japaneseLegalContext": "自然人や法人はこの能力を有するが、権利能力なき社団などは原則としてこの能力を有しないため、代表者個人や構成員全員の名義で記載を行う必要がある。",
+    "exampleSentence": "The group’s counsel reviewed whether the specific local branch had the capacity for real estate recordation under the relevant statutes.",
+    "exampleTranslation": "その団体の法律顧問は、特定の地方支部が関連法規に基づき不動産登記権利能力を有しているかどうかを検討した。",
+    "vocabularyList": [
+      {
+        "word": "Unincorporated association",
+        "translation": "権利能力なき社団"
+      },
+      {
+        "word": "Natural person",
+        "translation": "自然人"
+      },
+      {
+        "word": "Qualification",
+        "translation": "資格、適格性"
+      },
+      {
+        "word": "Public books",
+        "translation": "公簿"
+      },
+      {
+        "word": "Statute",
+        "translation": "法規、制定法"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Administrative District Modification",
+    "definition": "A change in the name, category, or physical reach of a local government jurisdiction that results in the automatic updating of the location data for assets listed in the public record.",
+    "japaneseDefinition": "市町村の名称、種類、または区域の変更。これにより、公的な記録に記載されている所在情報が自動的に更新されたものとみなされる。",
+    "japaneseWordTranslation": "行政区画の変更 (ぎょうせいくかくのへんこう)",
+    "legalContext": "According to the Act on the Recordation of Realties, Article 29, when a district is modified, the entries in the record regarding the location of the assets are deemed to have been updated accordingly.",
+    "japaneseLegalContext": "不動産登記法第29条により、行政区画の変更があったときは、記録上の不動産の所在は変更後のものに更新されたものとみなされる。",
+    "exampleSentence": "Due to the administrative district modification following the municipal merger, the address of the asset was updated in the system without a formal submission from the titleholder.",
+    "exampleTranslation": "市町村合併に伴う行政区画の変更により、名義人による正式な届け出なしに、システム上の資産の所在住所が更新された。",
+    "vocabularyList": [
+      {
+        "word": "Municipal merger",
+        "translation": "市町村合併"
+      },
+      {
+        "word": "Jurisdiction",
+        "translation": "管轄区域、行政区"
+      },
+      {
+        "word": "Automatic updating",
+        "translation": "自動更新"
+      },
+      {
+        "word": "Location data",
+        "translation": "所在情報"
+      },
+      {
+        "word": "Deemed",
+        "translation": "〜とみなされる"
+      }
+    ]
   }
 ]

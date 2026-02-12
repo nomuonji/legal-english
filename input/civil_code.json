@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Strict Liability (No-Fault Liability)",
-    "definition": "A standard of civil liability where a party is held responsible for damages regardless of intention or negligence, provided a statutorily defined causal link exists between the act/omission and the resulting damage.",
-    "japaneseDefinition": "加害者に故意または過失がなくても、法律が特に定めた場合に、損害賠償責任を負わせる原則。民法の一般原則である過失責任主義の例外。",
-    "japaneseWordTranslation": "無過失責任 (Mukashitsu Sekinin)",
-    "legalContext": "Civil Code Art. 717 (Liability of the Possessor and Owner of a Structure), which holds the owner strictly liable if the possessor is not responsible.",
-    "japaneseLegalContext": "民法第717条 (土地の工作物等の占有者及び所有者の責任)",
-    "exampleSentence": "Although the owner had routinely maintained the building, they were still subject to strict liability under Article 717 when a piece of the exterior fell and injured a passerby due to an inherent defect in the structure.",
-    "exampleTranslation": "所有者は定期的に建物を維持管理していたにもかかわらず、構造の固有の欠陥により外壁の一部が落下し通行人に傷害を負わせたため、第717条に基づく無過失責任を負った。",
-    "vocabularyList": [
-      {
-        "word": "negligence",
-        "translation": "過失 (Kashitsu)"
-      },
-      {
-        "word": "inherent defect",
-        "translation": "固有の欠陥 (Koyū no Kekkan)"
-      },
-      {
-        "word": "owner",
-        "translation": "所有者 (Shoyūsha)"
-      },
-      {
-        "word": "possessor",
-        "translation": "占有者 (Sen'yūsha)"
-      },
-      {
-        "word": "causal link",
-        "translation": "因果関係 (Inga Kankei)"
-      },
-      {
-        "word": "structure",
-        "translation": "工作物 (Kōsakubutsu)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Delegation of Authority",
     "definition": "The act by which the principal grants specific powers to an agent to perform legal acts on their behalf.",
     "japaneseDefinition": "本人から代理人に対し、特定の法律行為を行う権限を与える行為。",
@@ -20642,6 +20604,120 @@
       {
         "word": "protectors",
         "translation": "保護者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Benefit of Discussion",
+    "definition": "A guarantor's right to refuse to pay a claimant if they can prove that the primary debtor has the financial resources to pay and that a legal grab of those assets would be easy.",
+    "japaneseDefinition": "債権者から保証務の履行を請求された際、主たる債務者に弁済をする資力があり、かつ、その執行が容易であることを証明して、まず主たる債務者の財産について執行をなすべき旨を主張できる権利。",
+    "japaneseWordTranslation": "検索の抗弁権 (けんさくのこうべんけん)",
+    "legalContext": "Civil Code Art. 453: Even if a claimant has made a demand to a guarantor, if the guarantor proves that the primary debtor has the financial resources to pay and that the legal grab of assets would be easy, the claimant must first take action against the assets of the primary debtor.",
+    "japaneseLegalContext": "民法第453条：債権者が保証人に債務の履行を請求した後であっても、保証人が主たる債務者に弁済をする資力があり、かつ、執行が容易であることを証明したときは、債権者は、まず、主たる債務者の財産について執行をしなければならない。",
+    "exampleSentence": "The guarantor protected his assets by asserting the benefit of discussion, forcing the claimant to look to the primary debtor's bank accounts first.",
+    "exampleTranslation": "保証人は検索の抗弁権を主張して自らの財産を守り、債権者に対して、まずは主たる債務者の銀行口座を差し押さえるよう強制した。",
+    "vocabularyList": [
+      {
+        "word": "Primary debtor",
+        "translation": "主たる債務者"
+      },
+      {
+        "word": "Financial resources",
+        "translation": "資力"
+      },
+      {
+        "word": "To prove",
+        "translation": "証明する"
+      },
+      {
+        "word": "Easy",
+        "translation": "容易"
+      },
+      {
+        "word": "Claimant",
+        "translation": "債権者"
+      },
+      {
+        "word": "To satisfy",
+        "translation": "弁済する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sub-agency",
+    "definition": "The legal state where an authorized representative, under their own name, selects another person to act for the person originally represented.",
+    "japaneseDefinition": "代理人がその権限内の行為をさせるために、さらに自分の名で選任した代理人（復代理人）による代理関係。",
+    "japaneseWordTranslation": "復代理 (ふくだいり)",
+    "legalContext": "Civil Code Art. 104: A person granted power through an agreement may not name a secondary representative unless they have the permission of the represented person or an unavoidable reason exists.",
+    "japaneseLegalContext": "民法第104条：委任による代理人は、本人の許諾を得たとき、又はやむを得ない事由があるときでなければ、復代理人を選任することができない。",
+    "exampleSentence": "In cases of emergency, the representative initiated sub-agency to ensure the task was finished for the participant.",
+    "exampleTranslation": "緊急時、代理人は本人（参加者）のために業務を確実に完了させるべく、復代理を開始した。",
+    "vocabularyList": [
+      {
+        "word": "Represented person",
+        "translation": "本人"
+      },
+      {
+        "word": "Permission",
+        "translation": "許諾"
+      },
+      {
+        "word": "Unavoidable reason",
+        "translation": "やむを得ない事由"
+      },
+      {
+        "word": "To appoint",
+        "translation": "選任する"
+      },
+      {
+        "word": "Scope of power",
+        "translation": "権限の範囲"
+      },
+      {
+        "word": "Secondary representative",
+        "translation": "復代理人"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Modified Assent",
+    "definition": "A reply to a proposal that changes the initial terms; it is legally treated as a rejection of the first proposal and the start of a new one.",
+    "japaneseDefinition": "申込みに対して、条件を付けたり変更を加えたりしてなされた承諾。法律上、元の申込みを拒絶するとともに、自ら新たな申込みをしたものとみなされる。",
+    "japaneseWordTranslation": "変更を加えた承諾 (へんこうをくわえたしょうだく)",
+    "legalContext": "Civil Code Art. 528: If a person has replied with an assent by adding a qualification or any other change, that person is treated as having said no to the first proposal and having made a fresh proposal.",
+    "japaneseLegalContext": "民法第528条：承諾者が、申込みに条件を付し、その他変更を加えてこれを選諾したときは、その申込みの拒絶とともに、自ら新たに申込みをしたものとみなす。",
+    "exampleSentence": "Because the seller changed the price in the reply, the law viewed it as a modified assent and a fresh proposal.",
+    "exampleTranslation": "売主が回答の中で価格を変更したため、法律上はそれを変更を加えた承諾、すなわち新たな申込みとみなした。",
+    "vocabularyList": [
+      {
+        "word": "Proposal",
+        "translation": "申込み"
+      },
+      {
+        "word": "To treat as",
+        "translation": "みなす"
+      },
+      {
+        "word": "Refusal",
+        "translation": "拒絶"
+      },
+      {
+        "word": "Qualification",
+        "translation": "条件"
+      },
+      {
+        "word": "Change",
+        "translation": "変更"
+      },
+      {
+        "word": "To reply",
+        "translation": "承諾する/回答する"
       }
     ]
   }

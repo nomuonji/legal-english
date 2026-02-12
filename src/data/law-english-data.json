@@ -1,38 +1,38 @@
 {
-  "category": "Real Property Registration (不動産登記法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Joint Application",
-  "definition": "A foundational principle in Japanese real property registration requiring the applicant whose registered interest will be gained (Registration Obligee) and the applicant whose registered interest will be lost or diminished (Registration Obligor) to file the registration motion together.",
-  "japaneseDefinition": "登記によって利益を受ける登記権利者と、不利益を受ける登記義務者が、共同で登記申請を行う原則。これは、登記の真実性を確保するための重要な手続き的要件である。",
-  "japaneseWordTranslation": "共同申請 (きょうどうしんせい)",
-  "legalContext": "Real Property Registration Act Art. 60: ... Unless otherwise provided by law, an application for a registration of rights shall be filed jointly by the registration obligee and the registration obligor.",
-  "japaneseLegalContext": "不動産登記法第60条：権利に関する登記の申請は、法令に別段の定めがある場合を除き、登記権利者及び登記義務者が共同してしなければならない。",
-  "exampleSentence": "In the absence of a vested court ruling, the transfer of ownership requires a meticulous preparation of documents and submission via Joint Application.",
-  "exampleTranslation": "確定した判決がない限り、所有権移転には、綿密な書類準備と共同申請による提出が求められる。",
+  "word": "Strict Liability (No-Fault Liability)",
+  "definition": "A standard of civil liability where a party is held responsible for damages regardless of intention or negligence, provided a statutorily defined causal link exists between the act/omission and the resulting damage.",
+  "japaneseDefinition": "加害者に故意または過失がなくても、法律が特に定めた場合に、損害賠償責任を負わせる原則。民法の一般原則である過失責任主義の例外。",
+  "japaneseWordTranslation": "無過失責任 (Mukashitsu Sekinin)",
+  "legalContext": "Civil Code Art. 717 (Liability of the Possessor and Owner of a Structure), which holds the owner strictly liable if the possessor is not responsible.",
+  "japaneseLegalContext": "民法第717条 (土地の工作物等の占有者及び所有者の責任)",
+  "exampleSentence": "Although the owner had routinely maintained the building, they were still subject to strict liability under Article 717 when a piece of the exterior fell and injured a passerby due to an inherent defect in the structure.",
+  "exampleTranslation": "所有者は定期的に建物を維持管理していたにもかかわらず、構造の固有の欠陥により外壁の一部が落下し通行人に傷害を負わせたため、第717条に基づく無過失責任を負った。",
   "vocabularyList": [
     {
-      "word": "foundational principle",
-      "translation": "基本原則"
+      "word": "negligence",
+      "translation": "過失 (Kashitsu)"
     },
     {
-      "word": "registration motion",
-      "translation": "登記申請"
+      "word": "inherent defect",
+      "translation": "固有の欠陥 (Koyū no Kekkan)"
     },
     {
-      "word": "meticulous preparation",
-      "translation": "綿密な準備"
+      "word": "owner",
+      "translation": "所有者 (Shoyūsha)"
     },
     {
-      "word": "Registration Obligee",
-      "translation": "登記権利者"
+      "word": "possessor",
+      "translation": "占有者 (Sen'yūsha)"
     },
     {
-      "word": "Registration Obligor",
-      "translation": "登記義務者"
+      "word": "causal link",
+      "translation": "因果関係 (Inga Kankei)"
     },
     {
-      "word": "unless otherwise provided",
-      "translation": "別段の定めがある場合を除き"
+      "word": "structure",
+      "translation": "工作物 (Kōsakubutsu)"
     }
   ]
 }

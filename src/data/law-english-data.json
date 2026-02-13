@@ -1,38 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Civil Preservation (民事保全法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Strict Liability (No-Fault Liability)",
-  "definition": "A standard of civil liability where a party is held responsible for damages regardless of intention or negligence, provided a statutorily defined causal link exists between the act/omission and the resulting damage.",
-  "japaneseDefinition": "加害者に故意または過失がなくても、法律が特に定めた場合に、損害賠償責任を負わせる原則。民法の一般原則である過失責任主義の例外。",
-  "japaneseWordTranslation": "無過失責任 (Mukashitsu Sekinin)",
-  "legalContext": "Civil Code Art. 717 (Liability of the Possessor and Owner of a Structure), which holds the owner strictly liable if the possessor is not responsible.",
-  "japaneseLegalContext": "民法第717条 (土地の工作物等の占有者及び所有者の責任)",
-  "exampleSentence": "Although the owner had routinely maintained the building, they were still subject to strict liability under Article 717 when a piece of the exterior fell and injured a passerby due to an inherent defect in the structure.",
-  "exampleTranslation": "所有者は定期的に建物を維持管理していたにもかかわらず、構造の固有の欠陥により外壁の一部が落下し通行人に傷害を負わせたため、第717条に基づく無過失責任を負った。",
+  "word": "Motion for Suspension of Enforcement",
+  "definition": "A formal petition filed by the obligor to the enforcement court, requesting a temporary halt to the specific procedures taken under the preservation order, typically pending the resolution of an associated appeal or related legal challenge.",
+  "japaneseDefinition": "債務者が保全執行裁判所に対して行う正式な申立てであり、通常は関連する上訴や法的な異議の解決を待つ間、保全命令に基づく特定の手続の一時的な停止を求めるもの。",
+  "japaneseWordTranslation": "執行停止の申立て (しっこうていしのもうしたて)",
+  "legalContext": "Civil Preservation Act Art. 40 (2): The provisions of the Civil Execution Act concerning suspension of execution shall apply mutatis mutandis to the suspension of preservation enforcement.",
+  "japaneseLegalContext": "民事保全法第40条第2項: 執行停止に関する民事執行法の規定は、保全執行の停止について準用する。",
+  "exampleSentence": "The preservation obligor filed a motion for suspension of enforcement, arguing that the method of seizing the funds constituted an overreach of the court's original order.",
+  "exampleTranslation": "保全債務者は、資金を差し押さえる方法が裁判所の元の命令の逸脱にあたるとして、執行停止の申立てを行った。",
   "vocabularyList": [
     {
-      "word": "negligence",
-      "translation": "過失 (Kashitsu)"
+      "word": "formal petition",
+      "translation": "正式な申立て"
     },
     {
-      "word": "inherent defect",
-      "translation": "固有の欠陥 (Koyū no Kekkan)"
+      "word": "resolution",
+      "translation": "解決"
     },
     {
-      "word": "owner",
-      "translation": "所有者 (Shoyūsha)"
+      "word": "associated appeal",
+      "translation": "関連する上訴"
     },
     {
-      "word": "possessor",
-      "translation": "占有者 (Sen'yūsha)"
+      "word": "enforcement court",
+      "translation": "執行裁判所"
     },
     {
-      "word": "causal link",
-      "translation": "因果関係 (Inga Kankei)"
+      "word": "overreach",
+      "translation": "逸脱/権限の濫用"
     },
     {
-      "word": "structure",
-      "translation": "工作物 (Kōsakubutsu)"
+      "word": "apply mutatis mutandis",
+      "translation": "準用する"
     }
   ]
 }

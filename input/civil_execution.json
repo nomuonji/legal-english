@@ -16802,5 +16802,119 @@
         "translation": "処分 (しょぶん)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Sale of a Receivable",
+    "definition": "A court order issued to sell a seized monetary right to a third party, used when the right is difficult to collect through standard methods or is subject to a condition.",
+    "japaneseDefinition": "差し押さえられた債権が条件付きである場合や、通常の取立てが困難な場合に、裁判所がその債権を第三者に売却することを命じる決定。",
+    "japaneseWordTranslation": "債権売却命令 (さいけんばいきゃくめいれい)",
+    "legalContext": "Civil Execution Act Art. 161, Para. 1: If it is found necessary, the execution court may, upon petition, issue an order to sell the seized receivable in place of a collection order.",
+    "japaneseLegalContext": "民事執行法第161条1項：執行裁判所は、必要があると認めるときは、申立てにより、差押債権を...売却すべき旨を命ずる命令（以下「売却命令」という。）を発することができる。",
+    "exampleSentence": "The creditor requested an order for sale of a receivable to liquidate the debt owed by the third-party debtor immediately.",
+    "exampleTranslation": "債権者は、第三債務者が負う債務を即座に換金するため、債権売却命令を求めた。",
+    "vocabularyList": [
+      {
+        "word": "Receivable",
+        "translation": "債権（さいけん）"
+      },
+      {
+        "word": "Petitioner",
+        "translation": "申立人（もうしたてにん）"
+      },
+      {
+        "word": "Third-party debtor",
+        "translation": "第三債務者（だいさんさいむしゃ）"
+      },
+      {
+        "word": "Liquidate",
+        "translation": "換価する（かんかする）"
+      },
+      {
+        "word": "Issuance",
+        "translation": "発令（はつれい）"
+      },
+      {
+        "word": "Seized",
+        "translation": "差し押さえられた（さしおさえられた）"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution against a Member's Share",
+    "definition": "Enforcement proceedings directed at the equity or membership interest held by a debtor in a partnership-type legal entity.",
+    "japaneseDefinition": "持分会社（合名・合資・合同会社）の社員が有する持分（持分権）を対象として行われる強制執行手続。",
+    "japaneseWordTranslation": "持分に対する執行 (もちぶんにたいするしっこう)",
+    "legalContext": "Civil Execution Act Art. 167, Para. 1: Compulsory enforcement against a share of a member of a partnership-type company... shall be governed by the same rules as enforcement against receivables.",
+    "japaneseLegalContext": "民事執行法第167条1項：持分会社等の社員の持分に対する強制執行については、債権に対する強制執行の例による。",
+    "exampleSentence": "The claimant filed for execution against a member's share held by the defendant in the limited liability company.",
+    "exampleTranslation": "債権者は、被告が合同会社に保有する持分に対する執行を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Member's share",
+        "translation": "社員の持分（しゃいんのもちぶん）"
+      },
+      {
+        "word": "Limited liability company",
+        "translation": "合同会社（ごうどうがいしゃ）"
+      },
+      {
+        "word": "Claimant",
+        "translation": "請求者（せいきゅうしゃ）"
+      },
+      {
+        "word": "Partnership",
+        "translation": "組合または持分会社（くみあい・もちぶんがいしゃ）"
+      },
+      {
+        "word": "Defendant",
+        "translation": "被告（ひこく）"
+      },
+      {
+        "word": "Enforcement",
+        "translation": "執行（しっこう）"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for the Transfer of a Delivery Right",
+    "definition": "A court decree issued when the seized asset is a right to demand the delivery of property, which transfers that specific right to the creditor.",
+    "japaneseDefinition": "差し押さえられた債権が物の引渡しを求める権利である場合に、その引渡しを受ける権利を債権者に移転させる裁判所の命令。",
+    "japaneseWordTranslation": "引渡受領権の移転命令 (ひきわたしじゅりょうけんのいてんめいれい)",
+    "legalContext": "Civil Execution Act Art. 163, Para. 1: If a seized receivable is for the delivery of property, the court may issue an order for the transfer of a delivery right to the creditor.",
+    "japaneseLegalContext": "民事執行法第163条1項：差し押さえられた債権が物の引渡しを目的とするものであるときは、執行裁判所は、...引渡受領権の移転命令を発することができる。",
+    "exampleSentence": "The court issued an order for the transfer of a delivery right, allowing the creditor to claim the equipment directly from the warehouse.",
+    "exampleTranslation": "裁判所は引渡受領権の移転命令を発し、債権者が倉庫から直接備品を請求することを可能にした。",
+    "vocabularyList": [
+      {
+        "word": "Delivery right",
+        "translation": "引渡受領権（ひきわたしじゅりょうけん）"
+      },
+      {
+        "word": "Warehouse",
+        "translation": "倉庫（そうこ）"
+      },
+      {
+        "word": "Equipment",
+        "translation": "備品（びひん）"
+      },
+      {
+        "word": "Decree",
+        "translation": "命令・決定（めいれい・けってい）"
+      },
+      {
+        "word": "Asset",
+        "translation": "資産（しさん）"
+      },
+      {
+        "word": "Transfer",
+        "translation": "移転（いてん）"
+      }
+    ]
   }
 ]

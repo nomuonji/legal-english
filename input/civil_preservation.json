@@ -2,44 +2,6 @@
   {
     "category": "Civil Preservation (民事保全法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Motion for Suspension of Enforcement",
-    "definition": "A formal petition filed by the obligor to the enforcement court, requesting a temporary halt to the specific procedures taken under the preservation order, typically pending the resolution of an associated appeal or related legal challenge.",
-    "japaneseDefinition": "債務者が保全執行裁判所に対して行う正式な申立てであり、通常は関連する上訴や法的な異議の解決を待つ間、保全命令に基づく特定の手続の一時的な停止を求めるもの。",
-    "japaneseWordTranslation": "執行停止の申立て (しっこうていしのもうしたて)",
-    "legalContext": "Civil Preservation Act Art. 40 (2): The provisions of the Civil Execution Act concerning suspension of execution shall apply mutatis mutandis to the suspension of preservation enforcement.",
-    "japaneseLegalContext": "民事保全法第40条第2項: 執行停止に関する民事執行法の規定は、保全執行の停止について準用する。",
-    "exampleSentence": "The preservation obligor filed a motion for suspension of enforcement, arguing that the method of seizing the funds constituted an overreach of the court's original order.",
-    "exampleTranslation": "保全債務者は、資金を差し押さえる方法が裁判所の元の命令の逸脱にあたるとして、執行停止の申立てを行った。",
-    "vocabularyList": [
-      {
-        "word": "formal petition",
-        "translation": "正式な申立て"
-      },
-      {
-        "word": "resolution",
-        "translation": "解決"
-      },
-      {
-        "word": "associated appeal",
-        "translation": "関連する上訴"
-      },
-      {
-        "word": "enforcement court",
-        "translation": "執行裁判所"
-      },
-      {
-        "word": "overreach",
-        "translation": "逸脱/権限の濫用"
-      },
-      {
-        "word": "apply mutatis mutandis",
-        "translation": "準用する"
-      }
-    ]
-  },
-  {
-    "category": "Civil Preservation (民事保全法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Claim Secured by Preservation",
     "definition": "The substantive claim (usually a monetary claim or a claim for specific performance) which the obligee seeks to protect and ensure the future execution of, by obtaining a provisional measure.",
     "japaneseDefinition": "保全命令によって将来的な強制執行の実現を担保しようとする、本案訴訟の対象となる債権。金銭債権を被保全債権とするのが仮差押え、非金銭債権を被保全債権とするのが仮処分である。",
@@ -14126,6 +14088,112 @@
       {
         "word": "Conclusion of the lawsuit",
         "translation": "訴訟の完結"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Civil Preservation Act",
+    "definition": "The primary Japanese statute that regulates the legal processes for securing assets or status to ensure the future enforcement of a final ruling.",
+    "japaneseDefinition": "将来の確定判決の執行を確実にするために、資産や地位を一時的に確保するための手続を規定する日本の法律。",
+    "japaneseWordTranslation": "民事保全法 (みんじほぜんほう)",
+    "legalContext": "Civil Preservation Act Art. 1: The purpose of this Act is to provide for the procedures of civil preservation to ensure the realization of rights in civil proceedings.",
+    "japaneseLegalContext": "民事保全法第1条：この法律は、民事訴訟の権利の実現を確保するための民事保全の手続について定めることを目的とする。",
+    "exampleSentence": "The applicant sought a ruling based on the Civil Preservation Act to prevent the removal of the assets from the country.",
+    "exampleTranslation": "申立人は、資産が国外へ持ち出されるのを防ぐため、民事保全法に基づき決定を求めました。",
+    "vocabularyList": [
+      {
+        "word": "Statute",
+        "translation": "制定法"
+      },
+      {
+        "word": "Applicant",
+        "translation": "申立人"
+      },
+      {
+        "word": "Ruling",
+        "translation": "決定"
+      },
+      {
+        "word": "Ensure",
+        "translation": "確保する"
+      },
+      {
+        "word": "Removal",
+        "translation": "持ち出し・移転"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Standard of Examination",
+    "definition": "The criteria or level of review used by the court to evaluate whether to grant emergency preliminary relief.",
+    "japaneseDefinition": "暫定的な救済措置を認めるべきかどうかを評価するために裁判所が用いる基準や審査の程度。",
+    "japaneseWordTranslation": "審査基準 (しんさきじゅん)",
+    "legalContext": "Civil Preservation Act Art. 13: A preservation order may be issued through a ruling based on the standard of examination regarding the rights and the need for urgency.",
+    "japaneseLegalContext": "民事保全法第13条：保全命令は、権利および緊急の必要性に関する審査基準に基づき、決定をもって発せられる。",
+    "exampleSentence": "The court applied a strict standard of examination to verify the validity of the request for a freeze on the opposite party's bank account.",
+    "exampleTranslation": "裁判所は、相手方の銀行口座の凍結要請の妥当性を確認するために、厳格な審査基準を適用しました。",
+    "vocabularyList": [
+      {
+        "word": "Criteria",
+        "translation": "基準"
+      },
+      {
+        "word": "Preliminary relief",
+        "translation": "暫定的な救済"
+      },
+      {
+        "word": "Opposite party",
+        "translation": "相手方"
+      },
+      {
+        "word": "Verify",
+        "translation": "確認する"
+      },
+      {
+        "word": "Freeze",
+        "translation": "凍結"
+      },
+      {
+        "word": "Validity",
+        "translation": "妥当性"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Expedited Nature of Proceedings",
+    "definition": "The principle that the legal process should move rapidly, often without notifying the other side, to prevent any interference with the target assets.",
+    "japaneseDefinition": "対象資産への干渉を防ぐために、しばしば相手方に通知することなく、法的プロセスを迅速に進めるべきであるという原則。",
+    "japaneseWordTranslation": "手続の迅速性 (てつづきのじんそくせい)",
+    "legalContext": "Civil Preservation Act Art. 13, Para. 2: A preservation order may be issued without meeting the opposite party, reflecting the expedited nature of proceedings.",
+    "japaneseLegalContext": "民事保全法第13条第2項：保全命令は、手続の迅速性を反映し、相手方に会うことなく発することができる。",
+    "exampleSentence": "Due to the expedited nature of proceedings, the court issued the order within a few days of the application.",
+    "exampleTranslation": "手続の迅速性により、裁判所は申立てから数日以内に命令を発しました。",
+    "vocabularyList": [
+      {
+        "word": "Principle",
+        "translation": "原則"
+      },
+      {
+        "word": "Notify",
+        "translation": "通知する"
+      },
+      {
+        "word": "Interference",
+        "translation": "干渉"
+      },
+      {
+        "word": "Target",
+        "translation": "対象"
+      },
+      {
+        "word": "Rapidly",
+        "translation": "速やかに"
       }
     ]
   }

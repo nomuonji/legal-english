@@ -2,44 +2,6 @@
   {
     "category": "Real Property Registration (不動産登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Record of Description",
-    "definition": "The section of the real property registry dedicated to recording the physical status and identifying features of the land or building, such as location, lot number, land category, structure, and floor area.",
-    "japaneseDefinition": "不動産の物理的な状況や特定情報を記録するための登記簿の箇所。土地であれば所在、地番、地目、地積を、建物であれば所在、家屋番号、種類、構造、床面積などを記載する。",
-    "japaneseWordTranslation": "表題部 (ひょうだいぶ)",
-    "legalContext": "Real Property Registration Act Art. 27: ... The Record of Description shall record the matters concerning the location and physical status of the real property.",
-    "japaneseLegalContext": "不動産登記法第27条：表題部には、不動産の所在及び物理的な状況に関する事項を記録するものとする。",
-    "exampleSentence": "A surveyor must submit detailed diagrams and measurements to update the land area recorded in the Record of Description following a partition.",
-    "exampleTranslation": "分筆後に表題部に記録された地積を更新するためには、土地家屋調査士が詳細な図面と測量結果を提出しなければならない。",
-    "vocabularyList": [
-      {
-        "word": "physical status",
-        "translation": "物理的な状況"
-      },
-      {
-        "word": "identifying features",
-        "translation": "特定情報"
-      },
-      {
-        "word": "land category (chimoku)",
-        "translation": "地目"
-      },
-      {
-        "word": "land area (chiseki)",
-        "translation": "地積"
-      },
-      {
-        "word": "surveyor",
-        "translation": "土地家屋調査士"
-      },
-      {
-        "word": "partition",
-        "translation": "分筆"
-      }
-    ]
-  },
-  {
-    "category": "Real Property Registration (不動産登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Registration of Preservation of Ownership",
     "definition": "The initial registration in the Record of Rights section (A) for a building that perfects the owner's title, particularly necessary for unregistered buildings or those newly constructed, thereby allowing subsequent registrations of rights to be recorded.",
     "japaneseDefinition": "未登記の建物や新築の建物について、初めて権利部の甲区になされる登記。この登記を行うことで、所有権の存在を公示し、以降の権利に関する登記を可能にする。",
@@ -14685,6 +14647,108 @@
       {
         "word": "Margin",
         "translation": "利ざや・マージン"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Burial Plot Usage Right",
+    "definition": "A right to use a specific designated area within a cemetery for the purpose of burial, which can be recorded in the official books to ensure its validity against third parties.",
+    "japaneseDefinition": "墓地内の特定の区画を埋葬のために使用する権利であり、第三者への対抗力を確保するために登記記録に記載されることがある。",
+    "japaneseWordTranslation": "墳墓使用権 (ふんぼしようけん)",
+    "legalContext": "Real Property Registration Act Art. 3: Rights regarding real property that may be registered include ownership, superficies, and others as provided by law (Burial rights are often registered under the category of rights for specific use of land).",
+    "japaneseLegalContext": "不動産登記法第3条：登記することができる不動産に関する権利は、所有権、地上権、その他法律に定めるものとする（墳墓使用権は地役権等の形式で登記される場合がある）。",
+    "exampleSentence": "The individual provided the necessary papers to the office to confirm the Burial Plot Usage Right in the official records.",
+    "exampleTranslation": "その個人は、公式記録において墳墓使用権を確認するために必要な書類を役所に提供した。",
+    "vocabularyList": [
+      {
+        "word": "Cemetery",
+        "translation": "墓地 (Bochi)"
+      },
+      {
+        "word": "Designated",
+        "translation": "指定された (Shitei sareta)"
+      },
+      {
+        "word": "Burial",
+        "translation": "埋葬 (Maisō)"
+      },
+      {
+        "word": "Official records",
+        "translation": "公式記録 (Kōshiki kiroku)"
+      },
+      {
+        "word": "Validity",
+        "translation": "効力 (Kōryoku)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Drainage Channel Usage Right",
+    "definition": "A right to utilize a specific portion of land for the operation and keep of an arrangement for the removal of liquid waste or excess water.",
+    "japaneseDefinition": "廃液や余剰な水を除去するための装置を運営・維持するために、土地の特定の部分を利用する権利。",
+    "japaneseWordTranslation": "排水路使用権 (はいすいろしようけん)",
+    "legalContext": "Real Property Registration Act Art. 3: This act governs the procedures for recording various rights to land usage in order to clarify legal relationships between entities.",
+    "japaneseLegalContext": "不動産登記法第3条：本法は、主体間の法的関係を明確にするため、土地利用に関する様々な権利を記録する手続を規定している。",
+    "exampleSentence": "The entity maintained a Drainage Channel Usage Right to ensure the proper movement of liquid across the designated area.",
+    "exampleTranslation": "その団体は、指定された区域における液体の適切な移動を確保するために、排水路使用権を保持していた。",
+    "vocabularyList": [
+      {
+        "word": "Liquid",
+        "translation": "液体 (Ekitai)"
+      },
+      {
+        "word": "Movement",
+        "translation": "移動 (Idō)"
+      },
+      {
+        "word": "Waste",
+        "translation": "廃棄物 (Haikibutsu)"
+      },
+      {
+        "word": "Removal",
+        "translation": "除去 (Jokyo)"
+      },
+      {
+        "word": "Excess",
+        "translation": "過剰な (Kajō na)"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Pipeline Usage Right",
+    "definition": "A right to utilize a specific portion of land for the installation and keeping of a pipe used for transporting energy-related substances or other materials.",
+    "japaneseDefinition": "エネルギー関連物質やその他の材料を運搬するために使用される導管を設置・維持するために、土地の特定の部分を利用する権利。",
+    "japaneseWordTranslation": "導管使用権 (どうかんしようけん)",
+    "legalContext": "Real Property Registration Act Art. 3: Various categories of usage rights for specific facilities can be registered to provide legal clarity for utility providers.",
+    "japaneseLegalContext": "不動産登記法第3条：インフラ事業者に法的明確性を提供するため、特定の施設に関する様々な種類の使用権を登記することができる。",
+    "exampleSentence": "The legal papers confirm the Pipeline Usage Right for the regional energy facility in the official books.",
+    "exampleTranslation": "法的な書類は、公式記録において地域のエネルギー施設に関する導管使用権を裏付けている。",
+    "vocabularyList": [
+      {
+        "word": "Pipeline",
+        "translation": "導管 (Dōkan)"
+      },
+      {
+        "word": "Installation",
+        "translation": "設置 (Setti)"
+      },
+      {
+        "word": "Transporting",
+        "translation": "運搬 (Unpan)"
+      },
+      {
+        "word": "Energy",
+        "translation": "エネルギー (Enerugī)"
+      },
+      {
+        "word": "Substance",
+        "translation": "物質 (Busshitsu)"
       }
     ]
   }

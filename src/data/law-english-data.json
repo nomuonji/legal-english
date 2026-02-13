@@ -1,38 +1,38 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Real Property Registration (不動産登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Order of Delivery Execution",
-  "definition": "The judicial process for forcing a party to surrender or deliver specific movable or immovable property as dictated by a final judgment.",
-  "japaneseDefinition": "確定判決などに基づき、特定の動産または不動産を債務者から債権者へ強制的に引き渡させる手続き。",
-  "japaneseWordTranslation": "引渡しの執行命令 (ひきわたし の しっこうめいれい)",
-  "legalContext": "Civil Execution Act Art. 168: Execution pertaining to the delivery of real property or ships shall be carried out by a court enforcement officer.",
-  "japaneseLegalContext": "民事執行法第168条: 不動産等の引渡し又は明渡しの執行は、執行官が行う。",
-  "exampleSentence": "The court issued an Order of Delivery Execution, enabling the landlord to lawfully regain possession of the apartment from the defaulting tenant.",
-  "exampleTranslation": "裁判所は引渡しの執行命令を発し、これにより家主は債務不履行の賃借人から適法にアパートの占有を取り戻すことができた。",
+  "word": "Record of Description",
+  "definition": "The section of the real property registry dedicated to recording the physical status and identifying features of the land or building, such as location, lot number, land category, structure, and floor area.",
+  "japaneseDefinition": "不動産の物理的な状況や特定情報を記録するための登記簿の箇所。土地であれば所在、地番、地目、地積を、建物であれば所在、家屋番号、種類、構造、床面積などを記載する。",
+  "japaneseWordTranslation": "表題部 (ひょうだいぶ)",
+  "legalContext": "Real Property Registration Act Art. 27: ... The Record of Description shall record the matters concerning the location and physical status of the real property.",
+  "japaneseLegalContext": "不動産登記法第27条：表題部には、不動産の所在及び物理的な状況に関する事項を記録するものとする。",
+  "exampleSentence": "A surveyor must submit detailed diagrams and measurements to update the land area recorded in the Record of Description following a partition.",
+  "exampleTranslation": "分筆後に表題部に記録された地積を更新するためには、土地家屋調査士が詳細な図面と測量結果を提出しなければならない。",
   "vocabularyList": [
     {
-      "word": "surrender",
-      "translation": "明け渡す"
+      "word": "physical status",
+      "translation": "物理的な状況"
     },
     {
-      "word": "immovable property",
-      "translation": "不動産"
+      "word": "identifying features",
+      "translation": "特定情報"
     },
     {
-      "word": "final judgment",
-      "translation": "確定判決"
+      "word": "land category (chimoku)",
+      "translation": "地目"
     },
     {
-      "word": "landlord",
-      "translation": "家主"
+      "word": "land area (chiseki)",
+      "translation": "地積"
     },
     {
-      "word": "defaulting tenant",
-      "translation": "債務不履行の賃借人"
+      "word": "surveyor",
+      "translation": "土地家屋調査士"
     },
     {
-      "word": "court enforcement officer",
-      "translation": "執行官"
+      "word": "partition",
+      "translation": "分筆"
     }
   ]
 }

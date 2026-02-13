@@ -20838,5 +20838,119 @@
         "translation": "転貸"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Permissive Provision",
+    "definition": "A legal rule or statute that applies only if the parties to a transaction have not expressed a different intention. These serve as default rules that fill gaps in an agreement.",
+    "japaneseDefinition": "当事者がこれと異なる意思を表示しないときに適用される法規定。公序良俗に関係のない規定がこれにあたり、当事者の合意によって適用を排除できる。",
+    "japaneseWordTranslation": "任意規定 (にんいきてい)",
+    "legalContext": "Civil Code Art. 91: If any party to a juridical act has manifested an intention that is different from a provision of laws and regulations which is not related to public order, such intention shall prevail.",
+    "japaneseLegalContext": "民法第91条：法律行為の当事者が法令中の公の秩序に関係しない規定と異なる意思を表示したときは、その意思に従う。",
+    "exampleSentence": "In the absence of a specific clause regarding the place of delivery, the permissive provision of the Civil Code shall apply.",
+    "exampleTranslation": "引渡場所に関する特段の条項がない場合、民法の任意規定が適用される。",
+    "vocabularyList": [
+      {
+        "word": "Statute",
+        "translation": "法令"
+      },
+      {
+        "word": "Manifest",
+        "translation": "表示する"
+      },
+      {
+        "word": "Prevail",
+        "translation": "優先する"
+      },
+      {
+        "word": "Gap-filling",
+        "translation": "補充的な"
+      },
+      {
+        "word": "Default rule",
+        "translation": "既定のルール"
+      },
+      {
+        "word": "In the absence of",
+        "translation": "〜がない場合には"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Agreement",
+    "definition": "A specific contractual provision or rider agreed upon by parties to modify, supplement, or override the standard rules found in the law or a standard form contract.",
+    "japaneseDefinition": "当事者間での合意により、法律の規定や標準的な契約条項とは別に、あるいはそれらを変更して定める特別な約束事項（特約）。",
+    "japaneseWordTranslation": "特約 (とくやく)",
+    "legalContext": "Civil Code Art. 91 and 92: The intent of the parties (Special Agreement) generally takes precedence over permissive legal provisions or general customs.",
+    "japaneseLegalContext": "民法第91条・第92条：当事者の意思（特約）は、一般に任意規定や慣習に優先して適用される。",
+    "exampleSentence": "The parties entered into a special agreement to shift the burden of repair costs from the owner to the user.",
+    "exampleTranslation": "当事者は、修繕費用の負担を所有者から利用者に移転させるための特約を締結した。",
+    "vocabularyList": [
+      {
+        "word": "Rider",
+        "translation": "特約条項"
+      },
+      {
+        "word": "Stipulate",
+        "translation": "規定する"
+      },
+      {
+        "word": "Override",
+        "translation": "優先する"
+      },
+      {
+        "word": "Precedence",
+        "translation": "優先順位"
+      },
+      {
+        "word": "Clause",
+        "translation": "条項"
+      },
+      {
+        "word": "Shift the burden",
+        "translation": "負担を転嫁する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Contract for Value (Onerous Contract)",
+    "definition": "A contract in which each party receives a benefit in exchange for a performance or a promise of performance. It is the opposite of a gratuitous contract.",
+    "japaneseDefinition": "当事者が互いに財産上の対価を出し合う契約。贈与のような無償契約の対比語であり、売買、賃貸借、請負などがこれに該当する。",
+    "japaneseWordTranslation": "有償契約 (ゆうしょうけいやく)",
+    "legalContext": "Civil Code Art. 559: The provisions of this Section [Sale] shall apply mutatis mutandis to contracts for value other than sales; provided, however, that this does not apply if the nature of those contracts for value does not permit it.",
+    "japaneseLegalContext": "民法第559条：この節［売買］の規定は、売買以外の有償契約について準用する。ただし、その有償契約の性質がこれを許さないときは、この限りでない。",
+    "exampleSentence": "Provisions concerning warranties and performance are applied mutatis mutandis to all contracts for value to ensure fairness between the parties.",
+    "exampleTranslation": "当事者間の公平を期すため、保証や履行に関する規定はすべての有償契約に準用される。",
+    "vocabularyList": [
+      {
+        "word": "Mutatis mutandis",
+        "translation": "準用する"
+      },
+      {
+        "word": "Onerous",
+        "translation": "有償の"
+      },
+      {
+        "word": "Reciprocal",
+        "translation": "相互の"
+      },
+      {
+        "word": "Provided, however",
+        "translation": "ただし"
+      },
+      {
+        "word": "Nature of the contract",
+        "translation": "契約の性質"
+      },
+      {
+        "word": "Benefit",
+        "translation": "利益"
+      }
+    ]
   }
 ]

@@ -2,44 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Order of Delivery Execution",
-    "definition": "The judicial process for forcing a party to surrender or deliver specific movable or immovable property as dictated by a final judgment.",
-    "japaneseDefinition": "確定判決などに基づき、特定の動産または不動産を債務者から債権者へ強制的に引き渡させる手続き。",
-    "japaneseWordTranslation": "引渡しの執行命令 (ひきわたし の しっこうめいれい)",
-    "legalContext": "Civil Execution Act Art. 168: Execution pertaining to the delivery of real property or ships shall be carried out by a court enforcement officer.",
-    "japaneseLegalContext": "民事執行法第168条: 不動産等の引渡し又は明渡しの執行は、執行官が行う。",
-    "exampleSentence": "The court issued an Order of Delivery Execution, enabling the landlord to lawfully regain possession of the apartment from the defaulting tenant.",
-    "exampleTranslation": "裁判所は引渡しの執行命令を発し、これにより家主は債務不履行の賃借人から適法にアパートの占有を取り戻すことができた。",
-    "vocabularyList": [
-      {
-        "word": "surrender",
-        "translation": "明け渡す"
-      },
-      {
-        "word": "immovable property",
-        "translation": "不動産"
-      },
-      {
-        "word": "final judgment",
-        "translation": "確定判決"
-      },
-      {
-        "word": "landlord",
-        "translation": "家主"
-      },
-      {
-        "word": "defaulting tenant",
-        "translation": "債務不履行の賃借人"
-      },
-      {
-        "word": "court enforcement officer",
-        "translation": "執行官"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Property Disclosure Procedure",
     "definition": "A supplementary legal procedure allowing a creditor holding a valid title to compel a non-performing debtor to appear before the court and provide a comprehensive disclosure of their financial assets and liabilities.",
     "japaneseDefinition": "債務名義を持つ債権者が、債務者に裁判所へ出頭させ、その財産状況について陳述させることを目的とする、民事執行法の定める手続き。",
@@ -16914,6 +16876,120 @@
       {
         "word": "Transfer",
         "translation": "移転（いてん）"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution Minute",
+    "definition": "An official protocol or record prepared by a bailiff that documents the specific actions taken during the enforcement of a court order.",
+    "japaneseDefinition": "執行官が執行手続の過程で行った具体的な処分や状況を記録するために作成する公的な書面（プロトコル）。",
+    "japaneseWordTranslation": "執行調書 (しっこうちょうしょ)",
+    "legalContext": "Civil Execution Act Art. 13: A bailiff shall prepare an execution minute regarding the execution performed by said bailiff.",
+    "japaneseLegalContext": "民事執行法第13条：執行官は、執行した事務に関し、執行調書を作成しなければならない。",
+    "exampleSentence": "The bailiff recorded the state of the assets in the execution minute immediately after entering the premises.",
+    "exampleTranslation": "執行官は、敷地に立ち入った直後の資産の状態を執行調書に記録した。",
+    "vocabularyList": [
+      {
+        "word": "Bailiff",
+        "translation": "執行官"
+      },
+      {
+        "word": "Protocol",
+        "translation": "記録／調書"
+      },
+      {
+        "word": "Enforcement",
+        "translation": "強制執行／実施"
+      },
+      {
+        "word": "Premises",
+        "translation": "敷地／建物内"
+      },
+      {
+        "word": "Official record",
+        "translation": "公的な記録"
+      },
+      {
+        "word": "Document",
+        "translation": "記録する／文書化する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Inspection",
+    "definition": "A court order that allows potential purchasers to enter and view the interior of a building when the current occupant refuses to provide consent.",
+    "japaneseDefinition": "建物の占有者が同意しない場合に、裁判所が申立てに基づき、購入希望者による建物内部の見学（内覧）を許可する命令。",
+    "japaneseWordTranslation": "内覧命令 (ないらんめいれい)",
+    "legalContext": "Civil Execution Act Art. 55-2: The court may, upon petition, issue an order for inspection of the interior of the building to a person who intends to make a purchase offer.",
+    "japaneseLegalContext": "民事執行法第55条の2：裁判所は、申立てにより、買受けの申出をしようとする者に対し、建物の内覧を許可する命令を発することができる。",
+    "exampleSentence": "The court issued an order for inspection to ensure that prospective buyers could evaluate the building's condition.",
+    "exampleTranslation": "裁判所は、購入希望者が建物の状態を評価できるように内覧命令を発した。",
+    "vocabularyList": [
+      {
+        "word": "Interior",
+        "translation": "内部"
+      },
+      {
+        "word": "Prospective buyer",
+        "translation": "購入希望者"
+      },
+      {
+        "word": "Consent",
+        "translation": "同意"
+      },
+      {
+        "word": "Petition",
+        "translation": "申立て"
+      },
+      {
+        "word": "Occupant",
+        "translation": "占有者"
+      },
+      {
+        "word": "Evaluate",
+        "translation": "評価する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Notification of the Bidding Date",
+    "definition": "The formal communication sent by the court to parties concerned, specifying the period and date on which bids for property will be accepted.",
+    "japaneseDefinition": "売却の対象となる財産の入札期間や開札の期日を、関係当事者に正式に知らせる通知。",
+    "japaneseWordTranslation": "入札期日の通知 (にゅうさつきじつのつうち)",
+    "legalContext": "Civil Execution Act Art. 64: The court shall specify the method of sale and notify the parties concerned of the period and date for bidding.",
+    "japaneseLegalContext": "民事執行法第64条：裁判所は、売却の方法を定め、入札の期間及び期日を当事者に通知しなければならない。",
+    "exampleSentence": "All interested parties received a notification of the bidding date from the court via post.",
+    "exampleTranslation": "すべての利害関係人は、裁判所から郵便で入札期日の通知を受け取った。",
+    "vocabularyList": [
+      {
+        "word": "Bidding",
+        "translation": "入札"
+      },
+      {
+        "word": "Method of sale",
+        "translation": "売却の方法"
+      },
+      {
+        "word": "Communication",
+        "translation": "通信／通知"
+      },
+      {
+        "word": "Specify",
+        "translation": "指定する"
+      },
+      {
+        "word": "Formal",
+        "translation": "正式な"
+      },
+      {
+        "word": "Parties concerned",
+        "translation": "関係当事者"
       }
     ]
   }

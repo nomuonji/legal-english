@@ -1,38 +1,38 @@
 {
-  "category": "Civil Preservation (民事保全法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Motion for Suspension of Enforcement",
-  "definition": "A formal petition filed by the obligor to the enforcement court, requesting a temporary halt to the specific procedures taken under the preservation order, typically pending the resolution of an associated appeal or related legal challenge.",
-  "japaneseDefinition": "債務者が保全執行裁判所に対して行う正式な申立てであり、通常は関連する上訴や法的な異議の解決を待つ間、保全命令に基づく特定の手続の一時的な停止を求めるもの。",
-  "japaneseWordTranslation": "執行停止の申立て (しっこうていしのもうしたて)",
-  "legalContext": "Civil Preservation Act Art. 40 (2): The provisions of the Civil Execution Act concerning suspension of execution shall apply mutatis mutandis to the suspension of preservation enforcement.",
-  "japaneseLegalContext": "民事保全法第40条第2項: 執行停止に関する民事執行法の規定は、保全執行の停止について準用する。",
-  "exampleSentence": "The preservation obligor filed a motion for suspension of enforcement, arguing that the method of seizing the funds constituted an overreach of the court's original order.",
-  "exampleTranslation": "保全債務者は、資金を差し押さえる方法が裁判所の元の命令の逸脱にあたるとして、執行停止の申立てを行った。",
+  "word": "Order of Delivery Execution",
+  "definition": "The judicial process for forcing a party to surrender or deliver specific movable or immovable property as dictated by a final judgment.",
+  "japaneseDefinition": "確定判決などに基づき、特定の動産または不動産を債務者から債権者へ強制的に引き渡させる手続き。",
+  "japaneseWordTranslation": "引渡しの執行命令 (ひきわたし の しっこうめいれい)",
+  "legalContext": "Civil Execution Act Art. 168: Execution pertaining to the delivery of real property or ships shall be carried out by a court enforcement officer.",
+  "japaneseLegalContext": "民事執行法第168条: 不動産等の引渡し又は明渡しの執行は、執行官が行う。",
+  "exampleSentence": "The court issued an Order of Delivery Execution, enabling the landlord to lawfully regain possession of the apartment from the defaulting tenant.",
+  "exampleTranslation": "裁判所は引渡しの執行命令を発し、これにより家主は債務不履行の賃借人から適法にアパートの占有を取り戻すことができた。",
   "vocabularyList": [
     {
-      "word": "formal petition",
-      "translation": "正式な申立て"
+      "word": "surrender",
+      "translation": "明け渡す"
     },
     {
-      "word": "resolution",
-      "translation": "解決"
+      "word": "immovable property",
+      "translation": "不動産"
     },
     {
-      "word": "associated appeal",
-      "translation": "関連する上訴"
+      "word": "final judgment",
+      "translation": "確定判決"
     },
     {
-      "word": "enforcement court",
-      "translation": "執行裁判所"
+      "word": "landlord",
+      "translation": "家主"
     },
     {
-      "word": "overreach",
-      "translation": "逸脱/権限の濫用"
+      "word": "defaulting tenant",
+      "translation": "債務不履行の賃借人"
     },
     {
-      "word": "apply mutatis mutandis",
-      "translation": "準用する"
+      "word": "court enforcement officer",
+      "translation": "執行官"
     }
   ]
 }

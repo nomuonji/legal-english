@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Delegation of Authority",
-    "definition": "The act by which the principal grants specific powers to an agent to perform legal acts on their behalf.",
-    "japaneseDefinition": "本人から代理人に対し、特定の法律行為を行う権限を与える行為。",
-    "japaneseWordTranslation": "代理権の授与 (だいりけんのじゅよ)",
-    "legalContext": "Civil Code Art. 99: A legal act performed by an agent for the principal within the scope of authority shall be effective directly against the principal.",
-    "japaneseLegalContext": "民法第99条：代理人がその権限内の行為を本人にする意思を示してした行為は、本人に対して直接にその効力を生ずる。",
-    "exampleSentence": "The representative director must prove the written delegation of authority to demonstrate the scope of his agency powers.",
-    "exampleTranslation": "代表取締役は、代理権の範囲を証明するために、書面による代理権の授与を立証しなければならない。",
-    "vocabularyList": [
-      {
-        "word": "principal",
-        "translation": "本人 (ほんにん)"
-      },
-      {
-        "word": "agent",
-        "translation": "代理人 (だいりにん)"
-      },
-      {
-        "word": "scope of authority",
-        "translation": "権限の範囲 (けんげんのはんい)"
-      },
-      {
-        "word": "legal act",
-        "translation": "法律行為 (ほうりつこうい)"
-      },
-      {
-        "word": "representative director",
-        "translation": "代表取締役 (だいひょうとりしまりやく)"
-      },
-      {
-        "word": "prove",
-        "translation": "立証する (りっしょうする)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Bona Fide Acquisition",
     "definition": "A principle under property law where a transferee who receives movable property through transfer of possession, acting in good faith and without negligence, immediately acquires ownership, even if the transferor was not the rightful owner.",
     "japaneseDefinition": "動産を占有している者を真の権利者と信頼し、過失なく取引した者が、たとえ譲渡人が無権利者であっても、直ちにその所有権を取得する制度。",
@@ -21064,6 +21026,120 @@
       {
         "word": "Calculate",
         "translation": "計算する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exercise of Rights",
+    "definition": "The act of putting into effect or asserting the legal entitlements and powers that a person holds under the law.",
+    "japaneseDefinition": "法律に基づいて人が有する法的権利や権限を実際に使い、または主張すること。",
+    "japaneseWordTranslation": "権利の行使 (けんりのこうし)",
+    "legalContext": "Civil Code Art. 1, Para. 2: The [Exercise of Rights] and the carrying out of tasks must be done fairly and honestly.",
+    "japaneseLegalContext": "民法第1条第2項：権利の行使及び義務の履行は、信義に従い誠実に行わなければならない。",
+    "exampleSentence": "The court must determine if the party's [Exercise of Rights] was done fairly or if it caused an unfair outcome for the other side.",
+    "exampleTranslation": "裁判所は、当事者の「権利の行使」が誠実になされたか、あるいは相手方に不当な結果をもたらしたかを判断しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Entitlement",
+        "translation": "権利、受給権"
+      },
+      {
+        "word": "Fairly",
+        "translation": "誠実に、公正に"
+      },
+      {
+        "word": "Honestly",
+        "translation": "信義に従って"
+      },
+      {
+        "word": "Outcome",
+        "translation": "結果"
+      },
+      {
+        "word": "To restrict",
+        "translation": "制限する"
+      },
+      {
+        "word": "Assert",
+        "translation": "主張する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reasonable Period",
+    "definition": "A length of time that is considered appropriate and sufficient under the specific circumstances to allow a party to complete a required task or respond to a request.",
+    "japaneseDefinition": "特定の状況下において、当事者が要求された行為を完了し、または要請に応じるために、適当かつ十分であると認められる期間。",
+    "japaneseWordTranslation": "相当の期間 (そうとうのきかん)",
+    "legalContext": "Civil Code Art. 541: If one party does not finish a task, the other party may set a [Reasonable Period] for them to complete it before ending the legal agreement.",
+    "japaneseLegalContext": "民法第541条：当事者の一方がその債務を履行しない場合において、相手方が相当の期間を定めてその履行を催告し、その期間内に履行がないときは、相手方は、契約の解除をすることができる。",
+    "exampleSentence": "The official communication allowed a [Reasonable Period] of two weeks for the party to pay the remaining balance.",
+    "exampleTranslation": "その通知は、当事者が残額を支払うための「相当の期間」として2週間を認めていた。",
+    "vocabularyList": [
+      {
+        "word": "Appropriate",
+        "translation": "適当な、適切な"
+      },
+      {
+        "word": "Sufficient",
+        "translation": "十分な"
+      },
+      {
+        "word": "Under the circumstances",
+        "translation": "諸般の事情の下で"
+      },
+      {
+        "word": "Duration",
+        "translation": "期間、持続"
+      },
+      {
+        "word": "To finish",
+        "translation": "完了する、終える"
+      },
+      {
+        "word": "Official communication",
+        "translation": "公式の通知"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Place of Residence",
+    "definition": "The location where a person is actually living at a given time, which serves as a legal reference point when a more permanent primary living base cannot be identified.",
+    "japaneseDefinition": "人が現実に居住している場所。より恒久的な「生活の本拠」が特定できない場合に、法的な基準点として機能する。",
+    "japaneseWordTranslation": "居所 (きょしょ)",
+    "legalContext": "Civil Code Art. 22: If the primary living base of a person is not known, the [Place of Residence] is treated as their primary living base.",
+    "japaneseLegalContext": "民法第22条：住所が知れない場合には、居所を住所とみなす。",
+    "exampleSentence": "As the individual had recently moved and their permanent home was not yet registered, the law treated their current [Place of Residence] as their legal base.",
+    "exampleTranslation": "その人物は引越したばかりで恒久的な家がまだ登録されていなかったため、法律上、現在の「居所」が法的な拠点として扱われた。",
+    "vocabularyList": [
+      {
+        "word": "Primary living base",
+        "translation": "生活の本拠（住所）"
+      },
+      {
+        "word": "Actually",
+        "translation": "現実に、実際に"
+      },
+      {
+        "word": "Location",
+        "translation": "場所、所在"
+      },
+      {
+        "word": "Permanent",
+        "translation": "恒久的な"
+      },
+      {
+        "word": "Deemed",
+        "translation": "みなされる"
+      },
+      {
+        "word": "Reference point",
+        "translation": "基準点"
       }
     ]
   }

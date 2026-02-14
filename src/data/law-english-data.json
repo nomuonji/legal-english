@@ -1,38 +1,38 @@
 {
-  "category": "Real Property Registration (不動産登記法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Record of Description",
-  "definition": "The section of the real property registry dedicated to recording the physical status and identifying features of the land or building, such as location, lot number, land category, structure, and floor area.",
-  "japaneseDefinition": "不動産の物理的な状況や特定情報を記録するための登記簿の箇所。土地であれば所在、地番、地目、地積を、建物であれば所在、家屋番号、種類、構造、床面積などを記載する。",
-  "japaneseWordTranslation": "表題部 (ひょうだいぶ)",
-  "legalContext": "Real Property Registration Act Art. 27: ... The Record of Description shall record the matters concerning the location and physical status of the real property.",
-  "japaneseLegalContext": "不動産登記法第27条：表題部には、不動産の所在及び物理的な状況に関する事項を記録するものとする。",
-  "exampleSentence": "A surveyor must submit detailed diagrams and measurements to update the land area recorded in the Record of Description following a partition.",
-  "exampleTranslation": "分筆後に表題部に記録された地積を更新するためには、土地家屋調査士が詳細な図面と測量結果を提出しなければならない。",
+  "word": "Delegation of Authority",
+  "definition": "The act by which the principal grants specific powers to an agent to perform legal acts on their behalf.",
+  "japaneseDefinition": "本人から代理人に対し、特定の法律行為を行う権限を与える行為。",
+  "japaneseWordTranslation": "代理権の授与 (だいりけんのじゅよ)",
+  "legalContext": "Civil Code Art. 99: A legal act performed by an agent for the principal within the scope of authority shall be effective directly against the principal.",
+  "japaneseLegalContext": "民法第99条：代理人がその権限内の行為を本人にする意思を示してした行為は、本人に対して直接にその効力を生ずる。",
+  "exampleSentence": "The representative director must prove the written delegation of authority to demonstrate the scope of his agency powers.",
+  "exampleTranslation": "代表取締役は、代理権の範囲を証明するために、書面による代理権の授与を立証しなければならない。",
   "vocabularyList": [
     {
-      "word": "physical status",
-      "translation": "物理的な状況"
+      "word": "principal",
+      "translation": "本人 (ほんにん)"
     },
     {
-      "word": "identifying features",
-      "translation": "特定情報"
+      "word": "agent",
+      "translation": "代理人 (だいりにん)"
     },
     {
-      "word": "land category (chimoku)",
-      "translation": "地目"
+      "word": "scope of authority",
+      "translation": "権限の範囲 (けんげんのはんい)"
     },
     {
-      "word": "land area (chiseki)",
-      "translation": "地積"
+      "word": "legal act",
+      "translation": "法律行為 (ほうりつこうい)"
     },
     {
-      "word": "surveyor",
-      "translation": "土地家屋調査士"
+      "word": "representative director",
+      "translation": "代表取締役 (だいひょうとりしまりやく)"
     },
     {
-      "word": "partition",
-      "translation": "分筆"
+      "word": "prove",
+      "translation": "立証する (りっしょうする)"
     }
   ]
 }

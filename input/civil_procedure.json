@@ -2,44 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Designation of Party",
-    "definition": "A special procedural mechanism under Japanese Civil Procedure allowing the court to designate a specific person to act as the plaintiff or defendant in litigation when the claimant’s target is an entity that lacks full legal personality, such as an unincorporated association, but where the lawsuit must nonetheless proceed.",
-    "japaneseDefinition": "法人格を有しない社団等（権利能力なき社団）に対し訴訟を提起する場合などに、訴訟を追行させる目的で、裁判所が特定の者を当事者として指定する手続。",
-    "japaneseWordTranslation": "当事者の指定 (とうじしゃのしてい)",
-    "legalContext": "Civil Procedure Code Art. 29 (Designation of a Party in the case of an unincorporated association, etc.).",
-    "japaneseLegalContext": "民事訴訟法第29条（権利能力なき社団等の場合の当事者の指定）",
-    "exampleSentence": "Since the residents' group was an unincorporated association without a formal representative, the claimant filed a motion for Designation of Party before commencing the lawsuit.",
-    "exampleTranslation": "その住民団体は正式な代表者のいない権利能力なき社団であったため、請求者は訴訟提起前に当事者の指定の申立てを行った。",
-    "vocabularyList": [
-      {
-        "word": "legal personality",
-        "translation": "法人格"
-      },
-      {
-        "word": "unincorporated association",
-        "translation": "権利能力なき社団"
-      },
-      {
-        "word": "lacked a representative",
-        "translation": "代表者を欠いた"
-      },
-      {
-        "word": "motion for designation",
-        "translation": "指定の申立て"
-      },
-      {
-        "word": "commencing the lawsuit",
-        "translation": "訴訟を提起すること"
-      },
-      {
-        "word": "claimant",
-        "translation": "請求者（原告）"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Elements of the Claim",
     "definition": "The set of specific, material facts that the plaintiff must allege and prove to demonstrate the legal validity and entitlement of the remedy sought in the complaint.",
     "japaneseDefinition": "原告が訴訟物たる権利の発生を基礎づけるために、訴状に記載し、かつ立証責任を負う事実群。",
@@ -18830,6 +18792,108 @@
       {
         "word": "Complex",
         "translation": "複雑な"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Supplemental Judgment",
+    "definition": "A judgment rendered by a court when it has failed to decide on a portion of the claims or the court costs in a previous judgment. It addresses the omitted portion without affecting the already decided parts.",
+    "japaneseDefinition": "裁判所が、主張された請求の一部または訴訟費用の負担について、判決の中で判断を漏らした場合に行われる判決。漏れた部分についてのみ判断を行い、すでになされた判断には影響を及ぼさない。",
+    "japaneseWordTranslation": "脱漏判決 (だつろうはんけつ)",
+    "legalContext": "Code of Civil Procedure Art. 258: If the court has omitted to decide on a portion of a claim, the lawsuit shall remain pending before that court with regard to that portion.",
+    "japaneseLegalContext": "民事訴訟法第258条：裁判所が請求の一部について裁判を脱漏したときは、その請求の部分については、なおその裁判所に係属する。",
+    "exampleSentence": "Since the court failed to rule on the interest portion of the claim, the plaintiff filed a motion for a supplemental judgment.",
+    "exampleTranslation": "裁判所が請求のうち利息部分についての判断を漏らしたため、原告は脱漏判決の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "Omit",
+        "translation": "脱漏する、漏らす"
+      },
+      {
+        "word": "Render",
+        "translation": "（判決を）言い渡す"
+      },
+      {
+        "word": "Portion",
+        "translation": "一部、部分"
+      },
+      {
+        "word": "Decide",
+        "translation": "裁判する、判断する"
+      },
+      {
+        "word": "Pending",
+        "translation": "係属している"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Service at the Workplace",
+    "definition": "A specific method of delivering litigation documents where the process is carried out at the recipient's place of business or work instead of their domicile, provided the recipient is found there.",
+    "japaneseDefinition": "訴訟書類の送達方法の一つで、送達を受けるべき者の住所等ではなく、その者が現実に勤務している就業場所において行われる送達。",
+    "japaneseWordTranslation": "就業場所における送達 (しゅうぎょうばしょにおけるそうたつ)",
+    "legalContext": "Code of Civil Procedure Art. 103, Para. 2: Service upon a person... may be carried out at the person's place of business or any other workplace if the person is found there.",
+    "japaneseLegalContext": "民事訴訟法第103条2項：送達を受けるべき者がその場所（住所等）にいない場合であっても、その者の就業場所においてその者に会ったときは、そこで送達をすることができる。",
+    "exampleSentence": "When the defendant could not be reached at home, the court carried out service at the workplace to ensure proper delivery of the summons.",
+    "exampleTranslation": "被告と自宅で連絡が取れなかったため、裁判所は召喚状を確実に届けるため、就業場所における送達を実施した。",
+    "vocabularyList": [
+      {
+        "word": "Recipient",
+        "translation": "受送達者、受け取る人"
+      },
+      {
+        "word": "Delivering",
+        "translation": "送達、配送"
+      },
+      {
+        "word": "Business office",
+        "translation": "営業所、事務所"
+      },
+      {
+        "word": "Summons",
+        "translation": "召喚状"
+      },
+      {
+        "word": "Proper delivery",
+        "translation": "適正な送達"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民S訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Discharge of a Party",
+    "definition": "A procedural act where an original party (plaintiff or defendant) leaves the litigation with the consent of the opposing party after a third party has intervened to take over the claim or defense.",
+    "japaneseDefinition": "第三者が訴訟に参加して請求や防御を引き継いだ後、元の当事者（原告または被告）が相手方の同意を得て訴訟から脱退する手続上の行為。",
+    "japaneseWordTranslation": "訴訟脱退 (そしょうだったい)",
+    "legalContext": "Code of Civil Procedure Art. 48: If a third party has intervened... the plaintiff or the defendant may withdraw from the lawsuit with the consent of the opposing party.",
+    "japaneseLegalContext": "民事訴訟法第48条：第三者が訴訟に参加したときは、原告又は被告は、相手方の承諾を得て訴訟から脱退することができる。",
+    "exampleSentence": "Following the third-party intervention, the original defendant requested a discharge of a party to avoid further litigation costs.",
+    "exampleTranslation": "第三者の訴訟参加を受け、元の被告はさらなる訴訟費用を避けるため、訴訟脱退を求めた。",
+    "vocabularyList": [
+      {
+        "word": "Opposing party",
+        "translation": "相手方"
+      },
+      {
+        "word": "Consent",
+        "translation": "承諾、同意"
+      },
+      {
+        "word": "Withdraw",
+        "translation": "（訴訟から）離れる、脱退する"
+      },
+      {
+        "word": "Procedural act",
+        "translation": "手続上の行為"
+      },
+      {
+        "word": "Take over",
+        "translation": "引き継ぐ"
       }
     ]
   }

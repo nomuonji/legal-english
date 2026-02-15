@@ -1,38 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Delegation of Authority",
-  "definition": "The act by which the principal grants specific powers to an agent to perform legal acts on their behalf.",
-  "japaneseDefinition": "本人から代理人に対し、特定の法律行為を行う権限を与える行為。",
-  "japaneseWordTranslation": "代理権の授与 (だいりけんのじゅよ)",
-  "legalContext": "Civil Code Art. 99: A legal act performed by an agent for the principal within the scope of authority shall be effective directly against the principal.",
-  "japaneseLegalContext": "民法第99条：代理人がその権限内の行為を本人にする意思を示してした行為は、本人に対して直接にその効力を生ずる。",
-  "exampleSentence": "The representative director must prove the written delegation of authority to demonstrate the scope of his agency powers.",
-  "exampleTranslation": "代表取締役は、代理権の範囲を証明するために、書面による代理権の授与を立証しなければならない。",
+  "word": "Designation of Party",
+  "definition": "A special procedural mechanism under Japanese Civil Procedure allowing the court to designate a specific person to act as the plaintiff or defendant in litigation when the claimant’s target is an entity that lacks full legal personality, such as an unincorporated association, but where the lawsuit must nonetheless proceed.",
+  "japaneseDefinition": "法人格を有しない社団等（権利能力なき社団）に対し訴訟を提起する場合などに、訴訟を追行させる目的で、裁判所が特定の者を当事者として指定する手続。",
+  "japaneseWordTranslation": "当事者の指定 (とうじしゃのしてい)",
+  "legalContext": "Civil Procedure Code Art. 29 (Designation of a Party in the case of an unincorporated association, etc.).",
+  "japaneseLegalContext": "民事訴訟法第29条（権利能力なき社団等の場合の当事者の指定）",
+  "exampleSentence": "Since the residents' group was an unincorporated association without a formal representative, the claimant filed a motion for Designation of Party before commencing the lawsuit.",
+  "exampleTranslation": "その住民団体は正式な代表者のいない権利能力なき社団であったため、請求者は訴訟提起前に当事者の指定の申立てを行った。",
   "vocabularyList": [
     {
-      "word": "principal",
-      "translation": "本人 (ほんにん)"
+      "word": "legal personality",
+      "translation": "法人格"
     },
     {
-      "word": "agent",
-      "translation": "代理人 (だいりにん)"
+      "word": "unincorporated association",
+      "translation": "権利能力なき社団"
     },
     {
-      "word": "scope of authority",
-      "translation": "権限の範囲 (けんげんのはんい)"
+      "word": "lacked a representative",
+      "translation": "代表者を欠いた"
     },
     {
-      "word": "legal act",
-      "translation": "法律行為 (ほうりつこうい)"
+      "word": "motion for designation",
+      "translation": "指定の申立て"
     },
     {
-      "word": "representative director",
-      "translation": "代表取締役 (だいひょうとりしまりやく)"
+      "word": "commencing the lawsuit",
+      "translation": "訴訟を提起すること"
     },
     {
-      "word": "prove",
-      "translation": "立証する (りっしょうする)"
+      "word": "claimant",
+      "translation": "請求者（原告）"
     }
   ]
 }

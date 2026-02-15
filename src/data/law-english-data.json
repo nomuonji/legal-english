@@ -1,38 +1,42 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Designation of Party",
-  "definition": "A special procedural mechanism under Japanese Civil Procedure allowing the court to designate a specific person to act as the plaintiff or defendant in litigation when the claimant’s target is an entity that lacks full legal personality, such as an unincorporated association, but where the lawsuit must nonetheless proceed.",
-  "japaneseDefinition": "法人格を有しない社団等（権利能力なき社団）に対し訴訟を提起する場合などに、訴訟を追行させる目的で、裁判所が特定の者を当事者として指定する手続。",
-  "japaneseWordTranslation": "当事者の指定 (とうじしゃのしてい)",
-  "legalContext": "Civil Procedure Code Art. 29 (Designation of a Party in the case of an unincorporated association, etc.).",
-  "japaneseLegalContext": "民事訴訟法第29条（権利能力なき社団等の場合の当事者の指定）",
-  "exampleSentence": "Since the residents' group was an unincorporated association without a formal representative, the claimant filed a motion for Designation of Party before commencing the lawsuit.",
-  "exampleTranslation": "その住民団体は正式な代表者のいない権利能力なき社団であったため、請求者は訴訟提起前に当事者の指定の申立てを行った。",
+  "word": "Arson",
+  "definition": "The crime of willfully setting fire to a structure, vessel, or other object, typically categorized in Japanese law based on whether the burned object is an inhabited dwelling, an uninhabited structure, or property belonging to the offender.",
+  "japaneseDefinition": "故意に火をつけて建造物、船舶、またはその他の物を焼損する罪。公共の安全を侵害する罪として刑法に定められている。",
+  "japaneseWordTranslation": "放火罪 (ほうかざい)",
+  "legalContext": "Criminal Code Art. 108: A person who sets fire to a structure, vessel, or mine currently inhabited by or present with a person shall be punished by imprisonment with labor for life or for not less than three years.",
+  "japaneseLegalContext": "刑法第108条: 現に人が住居に使用し、又は現に人がいる建造物、汽車、電車、船舶又は鉱坑を焼損した者は、無期又は三年以上の懲役に処する。",
+  "exampleSentence": "The defendant was indicted on multiple counts of Arson, specifically targeting uninhabited buildings owned by competitors in retaliation for a business dispute.",
+  "exampleTranslation": "被告人は、事業上の紛争への報復として、競合他社が所有する非現住建造物を標的とした複数の放火罪で起訴された。",
   "vocabularyList": [
     {
-      "word": "legal personality",
-      "translation": "法人格"
+      "word": "indicted",
+      "translation": "起訴された"
     },
     {
-      "word": "unincorporated association",
-      "translation": "権利能力なき社団"
+      "word": "counts of",
+      "translation": "罪状（件）"
     },
     {
-      "word": "lacked a representative",
-      "translation": "代表者を欠いた"
+      "word": "inhabited structure",
+      "translation": "現住建造物"
     },
     {
-      "word": "motion for designation",
-      "translation": "指定の申立て"
+      "word": "retaliation",
+      "translation": "報復"
     },
     {
-      "word": "commencing the lawsuit",
-      "translation": "訴訟を提起すること"
+      "word": "vessel",
+      "translation": "船舶"
     },
     {
-      "word": "claimant",
-      "translation": "請求者（原告）"
+      "word": "imprisonment with labor",
+      "translation": "懲役"
+    },
+    {
+      "word": "specifically targeting",
+      "translation": "特に標的として"
     }
   ]
 }

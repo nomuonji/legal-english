@@ -18896,5 +18896,119 @@
         "translation": "引き継ぐ"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Redaction of Personal Information",
+    "definition": "A court order issued to protect a party's privacy by concealing specific sensitive information, such as an address or name, in the case records and during the proceedings.",
+    "japaneseDefinition": "当事者の住所や氏名などの特定の個人情報を保護するため、事件記録や手続においてその情報を秘匿することを命じる裁判所の決定。",
+    "japaneseWordTranslation": "秘匿命令 (ひとくめいれい)",
+    "legalContext": "Code of Civil Procedure Art. 133-2: The court may, upon a party's motion, order that the party's address, name, or other information be redacted or hidden from the case records if such disclosure would significantly hinder the party's social life.",
+    "japaneseLegalContext": "民事訴訟法第133条の2：裁判所は、当事者の申立てにより、住所、氏名その他当該当事者の社会生活を営む上で支障を生ずるおそれがある事項を、記録等において閲覧させない等の措置を命ずることができる。",
+    "exampleSentence": "The court issued an order for redaction of personal information to protect the party's address from being disclosed to the public.",
+    "exampleTranslation": "裁判所は、当事者の住所が公衆に開示されるのを防ぐため、秘匿命令を下した。",
+    "vocabularyList": [
+      {
+        "word": "Personal information",
+        "translation": "個人情報"
+      },
+      {
+        "word": "To redact",
+        "translation": "（情報を）伏せる・編集する"
+      },
+      {
+        "word": "Sensitive information",
+        "translation": "機密情報・機微情報"
+      },
+      {
+        "word": "Case records",
+        "translation": "訴訟記録"
+      },
+      {
+        "word": "Disclosure",
+        "translation": "開示"
+      },
+      {
+        "word": "To hinder",
+        "translation": "妨げる・支障をきたす"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Discretionary Assessment of the Amount of Damages",
+    "definition": "A procedural principle where the court determines a reasonable amount of damages based on the entire tenor of the proceedings when proving the exact amount is extremely difficult.",
+    "japaneseDefinition": "損害が発生したことは認められるが、その額を立証することが極めて困難な場合に、裁判所が諸般の事情（全趣旨）を考慮して相当な損害額を定める手続上の原則。",
+    "japaneseWordTranslation": "損害額の裁量的認定 (そんがいがくのさいりょうてきにんてい)",
+    "legalContext": "Code of Civil Procedure Art. 248: If it is found that damage has occurred, but it is extremely difficult to prove the amount of the damage due to the nature of the case, the court may determine a reasonable amount based on the entire tenor of the oral proceedings and the results of the examination.",
+    "japaneseLegalContext": "民事訴訟法第248条：損害が生じたことが認められる場合において、損害の性質上その額を立証することが極めて困難であるときは、裁判所は、口頭弁論の全趣旨及び証拠調べの結果に基づき、相当な損害額を認定することができる。",
+    "exampleSentence": "Under Article 248, the court may perform a discretionary assessment of the amount of damages when the precise financial loss cannot be quantified by evidence.",
+    "exampleTranslation": "第248条に基づき、証拠によって正確な金銭的損失を数値化できない場合、裁判所は相当な損害額を裁量により認定することができる。",
+    "vocabularyList": [
+      {
+        "word": "Discretionary",
+        "translation": "裁量による"
+      },
+      {
+        "word": "Assessment",
+        "translation": "認定・評価"
+      },
+      {
+        "word": "Quantify",
+        "translation": "数値化する"
+      },
+      {
+        "word": "Entire tenor",
+        "translation": "全趣旨"
+      },
+      {
+        "word": "To prove",
+        "translation": "立証する"
+      },
+      {
+        "word": "Reasonable amount",
+        "translation": "相当な額"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Electronic Filing of Legal Documents",
+    "definition": "The system through which petitions, briefs, and other procedural documents are submitted to the court via an electronic data processing network.",
+    "japaneseDefinition": "訴状、準備書面、その他の訴訟書類を電子情報処理組織を通じて裁判所に提出するシステム。",
+    "japaneseWordTranslation": "電子情報処理組織による申立て等 (でんしじょうほうしょりそしきによるもうしたてとう)",
+    "legalContext": "Code of Civil Procedure Art. 132-10: A petition or other statement to the court may be made by using an electronic data processing system as provided for by the Rules of the Supreme Court.",
+    "japaneseLegalContext": "民事訴訟法第132条の10：裁判所に対する申立てその他の申立て等は、最高裁判所規則で定めるところにより、電子情報処理組織を用いて行うことができる。",
+    "exampleSentence": "The new amendments to the Code of Civil Procedure promote the electronic filing of legal documents to improve the efficiency of the judicial system.",
+    "exampleTranslation": "民事訴訟法の新改正は、司法システムの効率化を図るため、訴訟書類の電子提出を促進している。",
+    "vocabularyList": [
+      {
+        "word": "Petition",
+        "translation": "申立て"
+      },
+      {
+        "word": "Electronic data processing system",
+        "translation": "電子情報処理組織"
+      },
+      {
+        "word": "Brief",
+        "translation": "書面（準備書面等）"
+      },
+      {
+        "word": "Efficiency",
+        "translation": "効率・効率性"
+      },
+      {
+        "word": "Judicial system",
+        "translation": "司法制度"
+      },
+      {
+        "word": "To submit",
+        "translation": "提出する"
+      }
+    ]
   }
 ]

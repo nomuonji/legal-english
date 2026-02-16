@@ -16294,5 +16294,119 @@
         "translation": "会社"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Apparent Manager",
+    "definition": "A person who has been given a title that implies they have the authority to manage the business of a head office or branch office, even if they have not been formally appointed as a manager.",
+    "japaneseDefinition": "本店または支店の営業主任者であることを示す名称を付された者で、実質的な裁判外の代理権を有するとみなされる使用人のこと。",
+    "japaneseWordTranslation": "表見支配人 (ひょうけんしはいにん)",
+    "legalContext": "Companies Act Art. 13: A company shall be liable for any act performed by an employee... who is given a title that indicates that such employee is the manager of the business of the head office or a branch office.",
+    "japaneseLegalContext": "会社法第13条：会社は、本店又は支店の業務を掌理するマネージャーであることを示す名称を付した使用人がした業務に関する行為について、善意の第三者に対してその責任を負う。",
+    "exampleSentence": "The court held that the employee was an apparent manager because the company allowed him to use a title that misled third parties about his representative authority.",
+    "exampleTranslation": "会社が、その従業員に対し代表権について第三者を誤認させるような名称の使用を許容していたため、裁判所はその者を「表見支配人」であると判断した。",
+    "vocabularyList": [
+      {
+        "word": "Branch office",
+        "translation": "支店 (shiten)"
+      },
+      {
+        "word": "Representative authority",
+        "translation": "代理権 (dairiken)"
+      },
+      {
+        "word": "Title",
+        "translation": "名称 (meishō)"
+      },
+      {
+        "word": "Head office",
+        "translation": "本店 (honten)"
+      },
+      {
+        "word": "Mislead",
+        "translation": "誤認させる (gonin saseru)"
+      },
+      {
+        "word": "Employee",
+        "translation": "使用人 (shiyōnin)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Pre-incorporation Contracts",
+    "definition": "Legal agreements entered into by founders before the formal registration of the company for the purpose of preparing the company to commence its business operations.",
+    "japaneseDefinition": "株式会社の設立登記が完了する前に、将来の事業開始の準備として設立企画者が締結する契約や諸行為のこと。",
+    "japaneseWordTranslation": "開業準備行為 (かいぎょうじゅんびこうい)",
+    "legalContext": "Legal doctrine regarding 'The Company in the Process of Formation' (Setsuritsu-chu no Kaisha), establishing that rights and obligations from necessary acts are assumed by the company upon registration.",
+    "japaneseLegalContext": "「設立中の会社」に関する法理において、設立に必要不可欠な範囲内の行為から生じた権利義務は、登記後の会社に当然に帰属するとされる。",
+    "exampleSentence": "Under Japanese law, the validity of pre-incorporation contracts depends on whether the transaction was objectively necessary for the entity to begin its operations.",
+    "exampleTranslation": "日本法において、開業準備行為の有効性は、その取引が会社が事業を開始するために客観的に必要であったかどうかに依存する。",
+    "vocabularyList": [
+      {
+        "word": "Registration",
+        "translation": "登記 (tōki)"
+      },
+      {
+        "word": "Commence business",
+        "translation": "開業 (kaigyō)"
+      },
+      {
+        "word": "Founder",
+        "translation": "設立企画者 (setsuritsu kikakusha)"
+      },
+      {
+        "word": "Assumption",
+        "translation": "承継 (shōkei)"
+      },
+      {
+        "word": "Validity",
+        "translation": "有効性 (yūkōsei)"
+      },
+      {
+        "word": "Objective",
+        "translation": "客観的 (kyakkanteki)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Management Buyout",
+    "definition": "A transaction in which the management team of a company acquires a controlling stake in the company, often leading to the company becoming a private entity.",
+    "japaneseDefinition": "会社の経営陣が、自社の株式を既存の株主から買い取り、経営権を取得すること。多くの場合、上場廃止（非公開化）を伴う。",
+    "japaneseWordTranslation": "マネジメント・バイアウト (まねじめんと・ばいあうと)",
+    "legalContext": "Fiduciary standards and fairness of procedures under the Companies Act, particularly concerning conflicts of interest in self-dealing scenarios.",
+    "japaneseLegalContext": "会社法上の忠実義務や公正な手続の観点から、特に自己取引的な側面における利益相反が問題となる（MBO指針等）。",
+    "exampleSentence": "In a management buyout, the board must implement rigorous safeguards to ensure that the purchase price remains fair to the minority equity holders.",
+    "exampleTranslation": "マネジメント・バイアウトにおいては、買収価格が少数株主にとって公正であることを保証するために、取締役会は厳格な防衛策を講じなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Take private",
+        "translation": "非公開化 (hikōkaika)"
+      },
+      {
+        "word": "Conflict of interest",
+        "translation": "利益相反 (rieki sōhan)"
+      },
+      {
+        "word": "Equity holder",
+        "translation": "持分保有者 (mochibun hoyūsha)"
+      },
+      {
+        "word": "Purchase price",
+        "translation": "買収価格 (baishū kakaku)"
+      },
+      {
+        "word": "Safeguard",
+        "translation": "保護措置 (hogo sochi)"
+      },
+      {
+        "word": "Acquire",
+        "translation": "取得する (shutoku suru)"
+      }
+    ]
   }
 ]

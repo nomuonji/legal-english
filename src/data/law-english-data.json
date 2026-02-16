@@ -1,42 +1,38 @@
 {
   "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Arson",
-  "definition": "The crime of willfully setting fire to a structure, vessel, or other object, typically categorized in Japanese law based on whether the burned object is an inhabited dwelling, an uninhabited structure, or property belonging to the offender.",
-  "japaneseDefinition": "故意に火をつけて建造物、船舶、またはその他の物を焼損する罪。公共の安全を侵害する罪として刑法に定められている。",
-  "japaneseWordTranslation": "放火罪 (ほうかざい)",
-  "legalContext": "Criminal Code Art. 108: A person who sets fire to a structure, vessel, or mine currently inhabited by or present with a person shall be punished by imprisonment with labor for life or for not less than three years.",
-  "japaneseLegalContext": "刑法第108条: 現に人が住居に使用し、又は現に人がいる建造物、汽車、電車、船舶又は鉱坑を焼損した者は、無期又は三年以上の懲役に処する。",
-  "exampleSentence": "The defendant was indicted on multiple counts of Arson, specifically targeting uninhabited buildings owned by competitors in retaliation for a business dispute.",
-  "exampleTranslation": "被告人は、事業上の紛争への報復として、競合他社が所有する非現住建造物を標的とした複数の放火罪で起訴された。",
+  "word": "Unlawfulness",
+  "definition": "The objective legal requirement for criminal liability, meaning that the conduct infringes upon a legally protected interest and is contrary to the overall legal order, assuming no justifying circumstances exist.",
+  "japaneseDefinition": "行為が法益を侵害し、正当化事由がない場合に、刑法秩序全体に反しているという客観的な属性。刑罰を科すための不可欠な要素。",
+  "japaneseWordTranslation": "違法性 (いほうせい)",
+  "legalContext": "Principle of Unlawfulness (違法性の原則): A fundamental doctrine in criminal law theory requiring that an act must be unlawful before criminal liability can be established.",
+  "japaneseLegalContext": "刑法総論の基本原則 (違法性の原則): 犯罪成立の要件として、行為の違法性が求められる。",
+  "exampleSentence": "The court assessed the defendant's actions to determine the degree of Unlawfulness before proceeding to examine the culpability requirement.",
+  "exampleTranslation": "裁判所は、有責性の要件の検討に進む前に、被告人の行為の違法性の程度を評価した。",
   "vocabularyList": [
     {
-      "word": "indicted",
-      "translation": "起訴された"
+      "word": "objective legal requirement",
+      "translation": "客観的な法的要件"
     },
     {
-      "word": "counts of",
-      "translation": "罪状（件）"
+      "word": "infringes upon",
+      "translation": "侵害する"
     },
     {
-      "word": "inhabited structure",
-      "translation": "現住建造物"
+      "word": "legally protected interest",
+      "translation": "法益"
     },
     {
-      "word": "retaliation",
-      "translation": "報復"
+      "word": "justifying circumstances",
+      "translation": "正当化事由"
     },
     {
-      "word": "vessel",
-      "translation": "船舶"
+      "word": "criminal liability",
+      "translation": "刑事責任"
     },
     {
-      "word": "imprisonment with labor",
-      "translation": "懲役"
-    },
-    {
-      "word": "specifically targeting",
-      "translation": "特に標的として"
+      "word": "culpability requirement",
+      "translation": "有責性の要件"
     }
   ]
 }

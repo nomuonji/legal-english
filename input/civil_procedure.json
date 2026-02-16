@@ -2,44 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Elements of the Claim",
-    "definition": "The set of specific, material facts that the plaintiff must allege and prove to demonstrate the legal validity and entitlement of the remedy sought in the complaint.",
-    "japaneseDefinition": "原告が訴訟物たる権利の発生を基礎づけるために、訴状に記載し、かつ立証責任を負う事実群。",
-    "japaneseWordTranslation": "請求原因事実 (せいきゅうげんいんじじつ)",
-    "legalContext": "Rules of Civil Procedure Art. 53(1): A complaint must state the claim and the facts necessary for its substantiation.",
-    "japaneseLegalContext": "民事訴訟規則第53条1項: 訴状には、請求の趣旨及びこれを裏付けするに必要な事実を記載しなければならない。",
-    "exampleSentence": "The plaintiff failed to clearly articulate the **elements of the claim**, necessitating an amendment to the complaint to overcome a fatal defect.",
-    "exampleTranslation": "原告は、請求原因事実を明確に述べることができず、致命的な欠陥を是正するために訴状の補正が必要となった。",
-    "vocabularyList": [
-      {
-        "word": "allegation",
-        "translation": "主張"
-      },
-      {
-        "word": "remedy sought",
-        "translation": "求められる救済"
-      },
-      {
-        "word": "complaint",
-        "translation": "訴状"
-      },
-      {
-        "word": "substantiation",
-        "translation": "裏付け、立証"
-      },
-      {
-        "word": "amendment",
-        "translation": "補正、訂正"
-      },
-      {
-        "word": "fatal defect",
-        "translation": "致命的な欠陥"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Concentrated Examination",
     "definition": "A procedural principle aiming to increase the efficiency of litigation by scheduling hearings (especially those involving evidence presentation) close together to complete the fact-finding process quickly.",
     "japaneseDefinition": "審理の効率化を図るため、証拠調べを含む期日を集中して設け、審理を迅速に進める原則。",
@@ -19008,6 +18970,120 @@
       {
         "word": "To submit",
         "translation": "提出する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Selected Party",
+    "definition": "A person chosen from a group of individuals who share a common legal interest to lead and conduct a legal battle on behalf of the entire group.",
+    "japaneseDefinition": "共同の利益を有する多人数の中から、全員のために訴訟を追行するために選定された者。",
+    "japaneseWordTranslation": "選定当事者 (せんていとうじしゃ)",
+    "legalContext": "Code of Civil Procedure Art. 30: Persons who share a common interest ... may appoint one or more persons from among them to stand as those who lead the fight for all members.",
+    "japaneseLegalContext": "民事訴訟法第30条：共同の利益を有する多人数は、... その中から、全員のために当事者となるべき一人又は数人を選定することができる。",
+    "exampleSentence": "The residents appointed a Selected Party to streamline the legal fight regarding the environmental damage.",
+    "exampleTranslation": "住民たちは、環境被害に関する法的争いを効率化するために、選定当事者を選んだ。",
+    "vocabularyList": [
+      {
+        "word": "Common interest",
+        "translation": "共同の利益"
+      },
+      {
+        "word": "Appoint",
+        "translation": "選定する"
+      },
+      {
+        "word": "Streamline",
+        "translation": "効率化する"
+      },
+      {
+        "word": "Battle",
+        "translation": "闘争・争い"
+      },
+      {
+        "word": "Collective",
+        "translation": "集合的な"
+      },
+      {
+        "word": "Representative",
+        "translation": "代表者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Revision of the Naming of a Litigating Side",
+    "definition": "A procedural update intended to fix a clerical mistake or inaccurate description in the name of a side to ensure the formal logs match the actual identity of the person or entity involved.",
+    "japaneseDefinition": "当事者の同一性を変えずに、訴状等の氏名や名称の誤記を正しく直すこと。",
+    "japaneseWordTranslation": "当事者の表示訂正 (とうじしゃのひょうじていせい)",
+    "legalContext": "A procedural principle allowing for the amendment of inaccurate naming provided that the identity of the litigating entity remains the same.",
+    "japaneseLegalContext": "当事者の同一性を誤らない限り、表示の誤りを訂正することを認める実務上の原則。",
+    "exampleSentence": "The bench permitted a Revision of the Naming of a Litigating Side because the initial filing contained a small typo in the company's title.",
+    "exampleTranslation": "最初の書類に会社名の小さな誤字があったため、裁判所は当事者の表示訂正を認めた。",
+    "vocabularyList": [
+      {
+        "word": "Amendment",
+        "translation": "修正"
+      },
+      {
+        "word": "Typo",
+        "translation": "誤植・誤記"
+      },
+      {
+        "word": "Identity",
+        "translation": "同一性"
+      },
+      {
+        "word": "Bench",
+        "translation": "裁判官・裁判所"
+      },
+      {
+        "word": "Litigating Side",
+        "translation": "当事者"
+      },
+      {
+        "word": "Entity",
+        "translation": "主体・法人"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Referral to a Foreign Bureau for a Data Search",
+    "definition": "A formal request where a tribunal asks a government agency in another country to look into specific facts or provide information necessary for resolving a legal dispute.",
+    "japaneseDefinition": "裁判所が外国の官庁等に対し、必要な調査を依頼し、その結果の報告を求める手続。",
+    "japaneseWordTranslation": "外国の官庁等への調査の嘱託 (がいこくのかんちょうとうへのちょうさのしょくたく)",
+    "legalContext": "Code of Civil Procedure Art. 186: A tribunal may refer a quest for a search to a foreign bureau, a public agency, or any other organization.",
+    "japaneseLegalContext": "民事訴訟法第186条：裁判所は、必要な調査を外国の官庁若しくは公署又は他の団体に嘱託することができる。",
+    "exampleSentence": "The tribunal issued a Referral to a Foreign Bureau for a Data Search to confirm the financial logs held by a bank overseas.",
+    "exampleTranslation": "裁判所は、海外の銀行が保有する財務記録を確認するため、外国の官庁等への調査の嘱託を行った。",
+    "vocabularyList": [
+      {
+        "word": "Bureau",
+        "translation": "局・官庁"
+      },
+      {
+        "word": "Referral",
+        "translation": "参照・委託"
+      },
+      {
+        "word": "Tribunal",
+        "translation": "法廷・裁判所"
+      },
+      {
+        "word": "Fact",
+        "translation": "事実"
+      },
+      {
+        "word": "Data",
+        "translation": "情報・データ"
+      },
+      {
+        "word": "Overseas",
+        "translation": "海外の"
       }
     ]
   }

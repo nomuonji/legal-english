@@ -16408,5 +16408,119 @@
         "translation": "取得する (shutoku suru)"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Abnormal Incorporation Matters",
+    "definition": "Niche but critical items that must be specifically stated in the articles of incorporation to be valid, as they pose a risk of depleting the company's capital at the time of its establishment. These include non-monetary contributions and promoter rewards.",
+    "japaneseDefinition": "設立時に会社の資本を危うくする恐れがあるため、定款に記載しなければ効力を生じないとされる事項。現物出資、財産引受、発起人の報酬、および設立費用がこれに該当する。",
+    "japaneseWordTranslation": "変態設立事項（へんたいせつりつじこう）",
+    "legalContext": "Companies Act Art. 28: The matters ... shall not take effect unless they are stated or recorded in the articles of incorporation.",
+    "japaneseLegalContext": "会社法第28条：次に掲げる事項は、定款に記載し、又は記録しなければ、その効力を生じない。",
+    "exampleSentence": "The court appointed an inspector to verify the value of the non-cash assets listed under the Abnormal Incorporation Matters.",
+    "exampleTranslation": "裁判所は、変態設立事項として掲げられた非金銭資産の価額を調査させるため、検査役を選任した。",
+    "vocabularyList": [
+      {
+        "word": "Inspector",
+        "translation": "検査役"
+      },
+      {
+        "word": "Non-cash assets",
+        "translation": "非金銭資産"
+      },
+      {
+        "word": "Establishment",
+        "translation": "設立"
+      },
+      {
+        "word": "Corporate charter",
+        "translation": "定款"
+      },
+      {
+        "word": "Verify",
+        "translation": "調査する・検証する"
+      },
+      {
+        "word": "Effectiveness",
+        "translation": "効力"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Apparent Representative Member",
+    "definition": "A member of a partnership-type company (Gomai Kaisha, etc.) who, despite lacking representative authority, is given a title suggesting such authority. The company is held liable to third parties for acts performed by such members.",
+    "japaneseDefinition": "持分会社において、代表権がないにもかかわらず、代表権があるかのような名称（社長、代表社員など）を用いた社員。会社は、その社員がした行為について、善意の第三者に対して責任を負う。",
+    "japaneseWordTranslation": "表見代表社員（ひょうけんだいひょうしゃいん）",
+    "legalContext": "Companies Act Art. 592: If a Membership Company gives a member who does not represent the Membership Company a title ..., the Membership Company shall be liable to a third party ...",
+    "japaneseLegalContext": "会社法第592条：持分会社は、代表社員以外の社員に代表社員、社長その他の持分会社を代表する権限を有するものと認められる名称を付したときは、当該社員がした行為について、善意の第三者に対してその責任を負う。",
+    "exampleSentence": "Under the doctrine of the Apparent Representative Member, the entity was bound by the contract signed by the unauthorized partner who used the title of President.",
+    "exampleTranslation": "表見代表社員の法理に基づき、当該法人は、社長の肩書きを用いた権限のない社員によって締結された契約に拘束された。",
+    "vocabularyList": [
+      {
+        "word": "Doctrine",
+        "translation": "法理・原則"
+      },
+      {
+        "word": "Unauthorized",
+        "translation": "権限のない"
+      },
+      {
+        "word": "Entity",
+        "translation": "主体・法人"
+      },
+      {
+        "word": "Bound by",
+        "translation": "〜に拘束される"
+      },
+      {
+        "word": "Third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "Title",
+        "translation": "名称・肩書き"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Contribution of Services or Credit",
+    "definition": "A unique form of investment allowed only in general partnership companies (Gomei Kaisha), where a member provides labor or personal creditworthiness as capital instead of money or property.",
+    "japaneseDefinition": "合名会社の社員にのみ認められる出資形態。金銭や財産ではなく、労務の提供（働くこと）や、自身の信用を会社の資本として提供すること。",
+    "japaneseWordTranslation": "労務又は信用の出資（ろうむまたわしんようのしゅっし）",
+    "legalContext": "Companies Act Art. 576: ... members of a General Partnership Company may make contributions of services or credit.",
+    "japaneseLegalContext": "会社法第576条：（持分会社の定款記載事項等）...合名会社の社員にあっては、労務又は信用をその出資の目的とすることができる。",
+    "exampleSentence": "The founding partners agreed that one member would provide a Contribution of Services through his specialized expertise rather than cash.",
+    "exampleTranslation": "設立時社員らは、ある一人の社員が現金ではなく専門的な知識を用いた労務の出資を行うことに合意した。",
+    "vocabularyList": [
+      {
+        "word": "Creditworthiness",
+        "translation": "信用・信用力"
+      },
+      {
+        "word": "General Partnership Company",
+        "translation": "合名会社"
+      },
+      {
+        "word": "Capital investment",
+        "translation": "出資"
+      },
+      {
+        "word": "Labor",
+        "translation": "労務"
+      },
+      {
+        "word": "Specialized expertise",
+        "translation": "専門的知見"
+      },
+      {
+        "word": "Agreement",
+        "translation": "合意"
+      }
+    ]
   }
 ]

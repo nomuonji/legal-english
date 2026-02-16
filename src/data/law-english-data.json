@@ -1,38 +1,38 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Unlawfulness",
-  "definition": "The objective legal requirement for criminal liability, meaning that the conduct infringes upon a legally protected interest and is contrary to the overall legal order, assuming no justifying circumstances exist.",
-  "japaneseDefinition": "行為が法益を侵害し、正当化事由がない場合に、刑法秩序全体に反しているという客観的な属性。刑罰を科すための不可欠な要素。",
-  "japaneseWordTranslation": "違法性 (いほうせい)",
-  "legalContext": "Principle of Unlawfulness (違法性の原則): A fundamental doctrine in criminal law theory requiring that an act must be unlawful before criminal liability can be established.",
-  "japaneseLegalContext": "刑法総論の基本原則 (違法性の原則): 犯罪成立の要件として、行為の違法性が求められる。",
-  "exampleSentence": "The court assessed the defendant's actions to determine the degree of Unlawfulness before proceeding to examine the culpability requirement.",
-  "exampleTranslation": "裁判所は、有責性の要件の検討に進む前に、被告人の行為の違法性の程度を評価した。",
+  "word": "Elements of the Claim",
+  "definition": "The set of specific, material facts that the plaintiff must allege and prove to demonstrate the legal validity and entitlement of the remedy sought in the complaint.",
+  "japaneseDefinition": "原告が訴訟物たる権利の発生を基礎づけるために、訴状に記載し、かつ立証責任を負う事実群。",
+  "japaneseWordTranslation": "請求原因事実 (せいきゅうげんいんじじつ)",
+  "legalContext": "Rules of Civil Procedure Art. 53(1): A complaint must state the claim and the facts necessary for its substantiation.",
+  "japaneseLegalContext": "民事訴訟規則第53条1項: 訴状には、請求の趣旨及びこれを裏付けするに必要な事実を記載しなければならない。",
+  "exampleSentence": "The plaintiff failed to clearly articulate the **elements of the claim**, necessitating an amendment to the complaint to overcome a fatal defect.",
+  "exampleTranslation": "原告は、請求原因事実を明確に述べることができず、致命的な欠陥を是正するために訴状の補正が必要となった。",
   "vocabularyList": [
     {
-      "word": "objective legal requirement",
-      "translation": "客観的な法的要件"
+      "word": "allegation",
+      "translation": "主張"
     },
     {
-      "word": "infringes upon",
-      "translation": "侵害する"
+      "word": "remedy sought",
+      "translation": "求められる救済"
     },
     {
-      "word": "legally protected interest",
-      "translation": "法益"
+      "word": "complaint",
+      "translation": "訴状"
     },
     {
-      "word": "justifying circumstances",
-      "translation": "正当化事由"
+      "word": "substantiation",
+      "translation": "裏付け、立証"
     },
     {
-      "word": "criminal liability",
-      "translation": "刑事責任"
+      "word": "amendment",
+      "translation": "補正、訂正"
     },
     {
-      "word": "culpability requirement",
-      "translation": "有責性の要件"
+      "word": "fatal defect",
+      "translation": "致命的な欠陥"
     }
   ]
 }

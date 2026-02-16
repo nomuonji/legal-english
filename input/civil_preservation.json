@@ -14754,5 +14754,107 @@
         "translation": "差し押さえられた"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Secret Nature of the Request",
+    "definition": "The procedural characteristic where legal steps are taken without informing the other individual to prevent them from hiding or moving their assets before the court's decision can be carried out.",
+    "japaneseDefinition": "債務者に知られないうちに手続を進めることで、財産の隠匿や処分を防ぎ、保全の目的を達しようとする性質。密行性（みっこうせい）。",
+    "japaneseWordTranslation": "密行性 (みっこうせい)",
+    "legalContext": "Under the Act on Civil Preservation, the court may issue a decision without a hearing to ensure the effectiveness of the protective measure.",
+    "japaneseLegalContext": "民事保全法においては、保全の目的を達するために、審尋を経ずに命令を発することが認められるなど、密行性が重視されている。",
+    "exampleSentence": "The secret nature of the request is a key aspect of this procedure to prevent the depletion of available assets.",
+    "exampleTranslation": "申立ての密行性は、利用可能な財産が費消されるのを防ぐための、この手続における重要な側面である。",
+    "vocabularyList": [
+      {
+        "word": "Secret",
+        "translation": "秘密の、密行的な"
+      },
+      {
+        "word": "Aspect",
+        "translation": "側面、様相"
+      },
+      {
+        "word": "Depletion",
+        "translation": "費消、減少"
+      },
+      {
+        "word": "Available",
+        "translation": "利用可能な"
+      },
+      {
+        "word": "Procedure",
+        "translation": "手続"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Temporary Character",
+    "definition": "The legal quality of a decision that is intended only to maintain the current state or provide interim relief until a final determination is reached in the primary legal action.",
+    "japaneseDefinition": "本案判決が確定するまでの間、暫定的な措置として行われる性質。暫定性（ざんていせい）。",
+    "japaneseWordTranslation": "暫定性 (ざんていせい)",
+    "legalContext": "The Act on Civil Preservation provides for measures that have a temporary character and do not permanently fix the rights in question.",
+    "japaneseLegalContext": "民事保全法は暫定性を有する措置を定めており、問題となっている権利を永続的に確定させるものではない。",
+    "exampleSentence": "Because the ruling has a temporary character, it can be changed if the facts of the primary case are decided differently.",
+    "exampleTranslation": "その決定は暫定性を有するため、主たる事件の事実が異なって判断された場合には変更され得る。",
+    "vocabularyList": [
+      {
+        "word": "Current state",
+        "translation": "現状"
+      },
+      {
+        "word": "Determination",
+        "translation": "判断、決定"
+      },
+      {
+        "word": "Ruling",
+        "translation": "裁定、決定"
+      },
+      {
+        "word": "Question",
+        "translation": "疑義、係争中の点"
+      },
+      {
+        "word": "Permanently",
+        "translation": "永続的に"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Main Action",
+    "definition": "The primary lawsuit or legal proceeding where the actual existence and extent of the legal right are decided, to which the preservation steps are subordinate.",
+    "japaneseDefinition": "保全手続によって保全されるべき権利の存否を最終的に確定させるための、通常の訴訟手続。本案（ほんあん）。",
+    "japaneseWordTranslation": "本案 (ほんあん)",
+    "legalContext": "If the person who requested the preservation does not start the main action within the specified period, the temporary order may be revoked.",
+    "japaneseLegalContext": "保全の申立人が指定された期間内に本案の訴えを提起しない場合、保全命令は取り消されることがある（民事保全法37条参照）。",
+    "exampleSentence": "The effectiveness of the asset freeze depends on the outcome of the main action filed in the local court.",
+    "exampleTranslation": "資産凍結の有効性は、管轄裁判所に提起された本案の訴訟の結果に左右される。",
+    "vocabularyList": [
+      {
+        "word": "Primary",
+        "translation": "主要な、第一の"
+      },
+      {
+        "word": "Existence",
+        "translation": "存在"
+      },
+      {
+        "word": "Extent",
+        "translation": "範囲"
+      },
+      {
+        "word": "Subordinate",
+        "translation": "付随的な、従属する"
+      },
+      {
+        "word": "Specified",
+        "translation": "指定された"
+      }
+    ]
   }
 ]

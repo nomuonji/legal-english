@@ -19086,5 +19086,107 @@
         "translation": "海外の"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for a Partial Claim",
+    "definition": "A lawsuit in which the plaintiff seeks to recover only a portion of a larger divisible claim, often to test the court's view on the merits while minimizing litigation costs and risks.",
+    "japaneseDefinition": "債権者が、可分な一連の請求権のうち一部のみを対象として提起する訴訟。訴訟コストやリスクを抑えつつ、裁判所の判断を仰ぐために利用されることが多い。",
+    "japaneseWordTranslation": "一部請求の訴え (いちぶせいきゅうのうったえ)",
+    "legalContext": "Although not explicitly defined in the Code of Civil Procedure, it is a well-established doctrine under Article 133. If the plaintiff explicitly states that the claim is only for a portion, the judgment's preclusive effect is generally limited to that portion.",
+    "japaneseLegalContext": "民事訴訟法第133条（訴え提起の方式）等に関連する判例上の法理。原告が明示的に一部請求であることを明らかにした場合、既判力の範囲はその一部に限定されるのが原則である。",
+    "exampleSentence": "The plaintiff decided to file an action for a partial claim to determine whether the court would recognize the validity of the underlying contract.",
+    "exampleTranslation": "原告は、裁判所が基礎となる契約の有効性を認めるかどうかを判断するため、一部請求の訴えを提起することに決めた。",
+    "vocabularyList": [
+      {
+        "word": "Divisible claim",
+        "translation": "可分債権"
+      },
+      {
+        "word": "Merits",
+        "translation": "本案"
+      },
+      {
+        "word": "Minimizing risks",
+        "translation": "リスクの最小化"
+      },
+      {
+        "word": "Explicitly state",
+        "translation": "明示する"
+      },
+      {
+        "word": "Underlying contract",
+        "translation": "原因契約"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Withdrawal of an Admission",
+    "definition": "The act of retracting a previously made judicial admission. In principle, an admission cannot be withdrawn unless it is proven that the admission was made through an error and corresponds to a fact that is contrary to the truth.",
+    "japaneseDefinition": "裁判上の自白を撤回すること。原則として、自白が真実に反し、かつ錯誤に基づいたものであることを証明しない限り、撤回することはできない。",
+    "japaneseWordTranslation": "自白の撤回 (じはくのてっかい)",
+    "legalContext": "Under Article 179 of the Code of Civil Procedure, facts admitted in court do not require proof. The jurisprudence limits the withdrawal of such admissions to preserve the consistency of the proceedings and protect the other party's reliance.",
+    "japaneseLegalContext": "民事訴訟法第179条（証明を要しない事実）に関連する法理。審理の継続性を維持し、相手方の信頼を保護するため、自白の撤回は厳格な要件（反真実および錯誤）の下でのみ認められる。",
+    "exampleSentence": "A withdrawal of an admission is strictly restricted by the court to ensure procedural fairness and prevent surprise to the opposing party.",
+    "exampleTranslation": "手続き上の公平性を確保し、相手方への不意打ちを防ぐため、自白の撤回は裁判所によって厳格に制限されている。",
+    "vocabularyList": [
+      {
+        "word": "Retract",
+        "translation": "撤回する"
+      },
+      {
+        "word": "Contrary to the truth",
+        "translation": "真実に反する"
+      },
+      {
+        "word": "Consistency",
+        "translation": "一貫性"
+      },
+      {
+        "word": "Reliance",
+        "translation": "信頼"
+      },
+      {
+        "word": "Strictly restricted",
+        "translation": "厳格に制限される"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Truth-Telling Obligation",
+    "definition": "The procedural duty of the parties to make statements of fact that are consistent with the truth and not to knowingly present false information to the court.",
+    "japaneseDefinition": "当事者が裁判所に対して真実に基づいた事実陳述を行い、故意に虚偽の情報を提示してはならないという手続上の義務。",
+    "japaneseWordTranslation": "真実義務 (しんじつぎむ)",
+    "legalContext": "While not explicitly codified in a single article, it is derived from Article 2 of the Code of Civil Procedure, which requires courts and parties to conduct litigation fairly and in good faith.",
+    "japaneseLegalContext": "単一の条文に明文化されているわけではないが、裁判所および当事者に公正かつ誠実な訴訟遂行を求める民事訴訟法第2条（信義誠実の原則）から導き出される義務である。",
+    "exampleSentence": "The counsel reminded the client of their truth-telling obligation before they submitted their written statement of position.",
+    "exampleTranslation": "弁護士は、陳述書を提出する前に、クライアントに対して真実義務があることを念押しした。",
+    "vocabularyList": [
+      {
+        "word": "Statement of fact",
+        "translation": "事実の陳述"
+      },
+      {
+        "word": "Knowingly",
+        "translation": "故意に"
+      },
+      {
+        "word": "False information",
+        "translation": "虚偽の情報"
+      },
+      {
+        "word": "Codified",
+        "translation": "明文化された"
+      },
+      {
+        "word": "Good faith",
+        "translation": "信義誠実"
+      }
+    ]
   }
 ]

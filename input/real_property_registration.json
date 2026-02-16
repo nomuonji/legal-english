@@ -15321,5 +15321,107 @@
         "translation": "移転"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of the Name of a Building",
+    "definition": "The official recording of the specific name assigned to a structure (e.g., 'Sunshine Heights') in the description section of the real property register, which helps in identifying the property in addition to its lot number.",
+    "japaneseDefinition": "建物の名称（例：サンシャイン・ハイツなど）を不動産登記簿の表題部に記録すること。地番等と併せて建物を特定するための要素となる。",
+    "japaneseWordTranslation": "建物の名称の登記 (たてもののめいしょうのとうき)",
+    "legalContext": "Real Property Registration Act Art. 44, Para. 1, Item 4: When a building has a name, the name of the building must be included in the registration concerning the description of the building.",
+    "japaneseLegalContext": "不動産登記法第44条第1項第4号：建物の表示に関する登記の登記事項は、次に掲げるものとする。…四 建物に名称があるときは、その名称",
+    "exampleSentence": "If a developer gives a specific name to a newly constructed condominium, the Registration of the Name of a Building should be completed as part of the initial description entry.",
+    "exampleTranslation": "デベロッパーが新築マンションに特定の名称を付した場合、建物の名称の登記を表題登記の一部として完了させる必要がある。",
+    "vocabularyList": [
+      {
+        "word": "Condominium",
+        "translation": "マンション"
+      },
+      {
+        "word": "Developer",
+        "translation": "開発業者"
+      },
+      {
+        "word": "Newly constructed",
+        "translation": "新築された"
+      },
+      {
+        "word": "Initial entry",
+        "translation": "表題登記"
+      },
+      {
+        "word": "Description section",
+        "translation": "表題部"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of the Number of Floors",
+    "definition": "The legal entry in the real property register that specifies the total count of levels in a building, including basements, which serves as a vital component of the building's physical description.",
+    "japaneseDefinition": "地階を含めた建物の階数を不動産登記簿に記録すること。建物の物理的状況を示す表示に関する登記の重要な事項の一つである。",
+    "japaneseWordTranslation": "階数の登記 (かいすうのとうき)",
+    "legalContext": "Real Property Registration Act Art. 44, Para. 1, Item 3: The registration concerning the description of a building shall include the structure and the number of floors of the building.",
+    "japaneseLegalContext": "不動産登記法第44条第1項第3号：建物の表示に関する登記の登記事項は、次に掲げるものとする。…三 建物の構造及び階数",
+    "exampleSentence": "When adding a second story to a single-story house, the owner must apply for a Registration of the Number of Floors to reflect the change from one floor to two.",
+    "exampleTranslation": "平屋建ての住宅に2階部分を増築した場合、所有者は1階から2階への変更を反映させるために階数の登記を申請しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Basement",
+        "translation": "地階"
+      },
+      {
+        "word": "Story",
+        "translation": "階"
+      },
+      {
+        "word": "Single-story",
+        "translation": "平屋建て"
+      },
+      {
+        "word": "Levels",
+        "translation": "階層"
+      },
+      {
+        "word": "Physical description",
+        "translation": "表示"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of a Change in the Purpose of a Right",
+    "definition": "A registration made when the underlying objective or scope of a registered right is modified by an agreement between the parties, such as changing the intended use of a registered superficies.",
+    "japaneseDefinition": "当事者間の合意により、既に登記されている権利の目的や範囲が変更された際に行われる登記（例：地上権の設定目的の変更など）。",
+    "japaneseWordTranslation": "権利の目的の変更の登記 (けんりのもくてきのへんこうのとうき)",
+    "legalContext": "Real Property Registration Act Art. 68: When applying for a registration of a change in the purpose of a right, if there is a third party with an interest in the registration, the applicant must provide a document showing the consent of such third party.",
+    "japaneseLegalContext": "不動産登記法第68条：権利の目的の変更の登記を申請する場合において、登記上の利害関係を有する第三者があるときは、当該第三者の承諾があることを証する情報を提供しなければならない。",
+    "exampleSentence": "The parties filed an application for the Registration of a Change in the Purpose of a Right to update the registered objective of the superficies from 'owning trees' to 'owning a building'.",
+    "exampleTranslation": "当事者は、地上権の設定目的を「樹木の所有」から「建物の所有」に更新するため、権利の目的の変更の登記を申請した。",
+    "vocabularyList": [
+      {
+        "word": "Modification",
+        "translation": "変更"
+      },
+      {
+        "word": "Objective",
+        "translation": "目的"
+      },
+      {
+        "word": "Scope",
+        "translation": "範囲"
+      },
+      {
+        "word": "Interested party",
+        "translation": "利害関係人"
+      },
+      {
+        "word": "Consent",
+        "translation": "承諾"
+      }
+    ]
   }
 ]

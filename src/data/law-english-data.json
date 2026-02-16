@@ -1,38 +1,38 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Elements of the Claim",
-  "definition": "The set of specific, material facts that the plaintiff must allege and prove to demonstrate the legal validity and entitlement of the remedy sought in the complaint.",
-  "japaneseDefinition": "原告が訴訟物たる権利の発生を基礎づけるために、訴状に記載し、かつ立証責任を負う事実群。",
-  "japaneseWordTranslation": "請求原因事実 (せいきゅうげんいんじじつ)",
-  "legalContext": "Rules of Civil Procedure Art. 53(1): A complaint must state the claim and the facts necessary for its substantiation.",
-  "japaneseLegalContext": "民事訴訟規則第53条1項: 訴状には、請求の趣旨及びこれを裏付けするに必要な事実を記載しなければならない。",
-  "exampleSentence": "The plaintiff failed to clearly articulate the **elements of the claim**, necessitating an amendment to the complaint to overcome a fatal defect.",
-  "exampleTranslation": "原告は、請求原因事実を明確に述べることができず、致命的な欠陥を是正するために訴状の補正が必要となった。",
+  "word": "Bona Fide Acquisition",
+  "definition": "A principle under property law where a transferee who receives movable property through transfer of possession, acting in good faith and without negligence, immediately acquires ownership, even if the transferor was not the rightful owner.",
+  "japaneseDefinition": "動産を占有している者を真の権利者と信頼し、過失なく取引した者が、たとえ譲渡人が無権利者であっても、直ちにその所有権を取得する制度。",
+  "japaneseWordTranslation": "即時取得 (そくじしゅとく)",
+  "legalContext": "Civil Code Art. 192: A person who commences possession of movable property through a transaction in good faith and without negligence acquires the rights that the transferor was purported to possess.",
+  "japaneseLegalContext": "民法第192条：取引行為によって、平穏に、かつ、公然と動産の占有を始めた者は、善意であり、かつ、過失がないときは、即時にその動産について行使する権利を取得する。",
+  "exampleSentence": "The purchaser invoked the doctrine of bona fide acquisition to defend his ownership of the artwork, as he had no knowledge of the seller's lack of title.",
+  "exampleTranslation": "買主は、売主の権原の欠如を知らなかったため、その美術品の所有権を擁護するために即時取得の法理を援用した。",
   "vocabularyList": [
     {
-      "word": "allegation",
-      "translation": "主張"
+      "word": "movable property",
+      "translation": "動産 (どうさん)"
     },
     {
-      "word": "remedy sought",
-      "translation": "求められる救済"
+      "word": "transferee",
+      "translation": "譲受人 (ゆずりうけにん)"
     },
     {
-      "word": "complaint",
-      "translation": "訴状"
+      "word": "good faith",
+      "translation": "善意 (ぜんい)"
     },
     {
-      "word": "substantiation",
-      "translation": "裏付け、立証"
+      "word": "negligence",
+      "translation": "過失 (かしつ)"
     },
     {
-      "word": "amendment",
-      "translation": "補正、訂正"
+      "word": "lack of title",
+      "translation": "権原の欠如 (けんげんのけつじょ)"
     },
     {
-      "word": "fatal defect",
-      "translation": "致命的な欠陥"
+      "word": "doctrine",
+      "translation": "法理 (ほうり)"
     }
   ]
 }

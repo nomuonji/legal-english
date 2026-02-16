@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Bona Fide Acquisition",
-    "definition": "A principle under property law where a transferee who receives movable property through transfer of possession, acting in good faith and without negligence, immediately acquires ownership, even if the transferor was not the rightful owner.",
-    "japaneseDefinition": "動産を占有している者を真の権利者と信頼し、過失なく取引した者が、たとえ譲渡人が無権利者であっても、直ちにその所有権を取得する制度。",
-    "japaneseWordTranslation": "即時取得 (そくじしゅとく)",
-    "legalContext": "Civil Code Art. 192: A person who commences possession of movable property through a transaction in good faith and without negligence acquires the rights that the transferor was purported to possess.",
-    "japaneseLegalContext": "民法第192条：取引行為によって、平穏に、かつ、公然と動産の占有を始めた者は、善意であり、かつ、過失がないときは、即時にその動産について行使する権利を取得する。",
-    "exampleSentence": "The purchaser invoked the doctrine of bona fide acquisition to defend his ownership of the artwork, as he had no knowledge of the seller's lack of title.",
-    "exampleTranslation": "買主は、売主の権原の欠如を知らなかったため、その美術品の所有権を擁護するために即時取得の法理を援用した。",
-    "vocabularyList": [
-      {
-        "word": "movable property",
-        "translation": "動産 (どうさん)"
-      },
-      {
-        "word": "transferee",
-        "translation": "譲受人 (ゆずりうけにん)"
-      },
-      {
-        "word": "good faith",
-        "translation": "善意 (ぜんい)"
-      },
-      {
-        "word": "negligence",
-        "translation": "過失 (かしつ)"
-      },
-      {
-        "word": "lack of title",
-        "translation": "権原の欠如 (けんげんのけつじょ)"
-      },
-      {
-        "word": "doctrine",
-        "translation": "法理 (ほうり)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Novation",
     "definition": "The termination of an existing obligation by the creation of a new obligation that differs in its essential elements from the former obligation, usually concerning the subject matter or the parties involved.",
     "japaneseDefinition": "既存の債務を消滅させ、これに代わる新たな債務を発生させる契約。特に債務の要素（給付の内容や当事者）が変更される場合に用いられる。",
@@ -21596,6 +21558,120 @@
       {
         "word": "Counting",
         "translation": "算定"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Price Lowering Request",
+    "definition": "A legal right of a buyer to seek a decrease in the purchase price when the delivered goods do not match the quantity or quality specified in the legal accord.",
+    "japaneseDefinition": "売買の対象物の数量が不足している場合や、品質が契約内容と適合しない場合に、買主が売主に対して代金の減額を求めることができる権利。",
+    "japaneseWordTranslation": "代金減額請求 (だいきんげんがくせいきゅう)",
+    "legalContext": "Civil Code Art. 563: If the item does not match the conditions of the accord in terms of quality or quantity, the buyer may request a lowering of the price in proportion to the degree of non-match.",
+    "japaneseLegalContext": "民法第563条：前条に規定する場合において、買主が相当の期間を定めて履行の追完の催告をし、その期間内に履行の追完がないときは、買主は、その不適合の程度に応じて代金の減額を請求することができる。",
+    "exampleSentence": "The buyer exercised the Price Lowering Request because the total quantity of delivered grain was less than the amount specified in the accord.",
+    "exampleTranslation": "引き渡された穀物の総量が合意された数量より少なかったため、買主は代金減額請求を行った。",
+    "vocabularyList": [
+      {
+        "word": "Buyer",
+        "translation": "買主 (かいぬし)"
+      },
+      {
+        "word": "Seller",
+        "translation": "売主 (うりぬし)"
+      },
+      {
+        "word": "Quantity",
+        "translation": "数量 (すうりょう)"
+      },
+      {
+        "word": "Accord",
+        "translation": "合意 (ごうい)"
+      },
+      {
+        "word": "Proportion",
+        "translation": "割合 (わりあい)"
+      },
+      {
+        "word": "Decrease",
+        "translation": "減少 (げんしょう)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Material Fact Explanation",
+    "definition": "The legal burden on a party, particularly a professional seller, to clarify important points that may influence the decision of the other party during a transaction.",
+    "japaneseDefinition": "取引において、相手方の意思決定に大きな影響を及ぼすような重要な事実について、事前に明らかにすべき義務。",
+    "japaneseWordTranslation": "重要事項の説明 (じゅうようじこうのせつめい)",
+    "legalContext": "Derived from the principle of honesty and fairness in Civil Code Art. 1, which mandates that parties must act with integrity during the creation of legal relations.",
+    "japaneseLegalContext": "民法第1条第2項（信義誠実の原則）に基づき、取引の当事者は相手方に重要な情報を適切に提供し、信義に従って誠実に行動すべきとされる。",
+    "exampleSentence": "A seller’s Material Fact Explanation is vital to ensure that the buyer is aware of any hidden issues before signing the accord.",
+    "exampleTranslation": "売主による重要事項の説明は、買主が合意に署名する前に隠れた問題を把握するために不可欠である。",
+    "vocabularyList": [
+      {
+        "word": "Important",
+        "translation": "重要 (じゅうよう)"
+      },
+      {
+        "word": "Fact",
+        "translation": "事実 (じじつ)"
+      },
+      {
+        "word": "Explanation",
+        "translation": "説明 (せつめい)"
+      },
+      {
+        "word": "Integrity",
+        "translation": "誠実 (せいじつ)"
+      },
+      {
+        "word": "Transaction",
+        "translation": "取引 (とりひき)"
+      },
+      {
+        "word": "Professional",
+        "translation": "専門家 (せんもんか)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Direct Request",
+    "definition": "The legal power of a person to demand the carrying out of a duty directly from a third party who has taken over a secondary role in a legal arrangement.",
+    "japaneseDefinition": "特定の法的関係（転貸借など）において、権利者が第三者（転借人など）に対して直接的に義務の履行を求めることができる権利。",
+    "japaneseWordTranslation": "直接請求 (ちょくせつせいきゅう)",
+    "legalContext": "Civil Code Art. 613: If a tenant lawfully lets the leased item to a third party, the third party shall bear a burden to the landlord directly for the rental fee.",
+    "japaneseLegalContext": "民法第613条：借主が適法に賃借物を転貸したときは、転借人は、貸主に対して直接に義務を負う。この場合においては、賃料の前払をもって貸主に対抗することができない。",
+    "exampleSentence": "The landlord has a Direct Request for the rental fee against the occupant if the primary tenant fails to remit the amount.",
+    "exampleTranslation": "元の借主が賃料を支払わない場合、貸主は占有者（転借人）に対して直接請求を行うことができる。",
+    "vocabularyList": [
+      {
+        "word": "Landlord",
+        "translation": "賃貸人 (ちんたいにん)"
+      },
+      {
+        "word": "Occupant",
+        "translation": "転借人 (てんしゃくにん)"
+      },
+      {
+        "word": "Rental fee",
+        "translation": "賃料 (ちんりょう)"
+      },
+      {
+        "word": "Direct",
+        "translation": "直接 (ちょくせつ)"
+      },
+      {
+        "word": "Remit",
+        "translation": "送金・支払う (そうきん・しはらう)"
+      },
+      {
+        "word": "Primary",
+        "translation": "元の・一次的な (もとの・いちじてきな)"
       }
     ]
   }

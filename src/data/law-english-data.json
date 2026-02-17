@@ -1,38 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Bona Fide Acquisition",
-  "definition": "A principle under property law where a transferee who receives movable property through transfer of possession, acting in good faith and without negligence, immediately acquires ownership, even if the transferor was not the rightful owner.",
-  "japaneseDefinition": "動産を占有している者を真の権利者と信頼し、過失なく取引した者が、たとえ譲渡人が無権利者であっても、直ちにその所有権を取得する制度。",
-  "japaneseWordTranslation": "即時取得 (そくじしゅとく)",
-  "legalContext": "Civil Code Art. 192: A person who commences possession of movable property through a transaction in good faith and without negligence acquires the rights that the transferor was purported to possess.",
-  "japaneseLegalContext": "民法第192条：取引行為によって、平穏に、かつ、公然と動産の占有を始めた者は、善意であり、かつ、過失がないときは、即時にその動産について行使する権利を取得する。",
-  "exampleSentence": "The purchaser invoked the doctrine of bona fide acquisition to defend his ownership of the artwork, as he had no knowledge of the seller's lack of title.",
-  "exampleTranslation": "買主は、売主の権原の欠如を知らなかったため、その美術品の所有権を擁護するために即時取得の法理を援用した。",
+  "word": "Penal Sanctions",
+  "definition": "The punishments and penalties explicitly stipulated and imposed by the Criminal Code, encompassing both principal penalties (death, imprisonment, confinement, fines, petty fines) and supplementary penalties (confiscation).",
+  "japaneseDefinition": "刑法によって定められ、科される処罰の総称。主刑（死刑、懲役、禁錮、罰金、拘留、科料）および付加刑（没収）を含む。",
+  "japaneseWordTranslation": "刑罰 (けいばつ)",
+  "legalContext": "Criminal Code Art. 9: Kinds of Principal Penalties (The principal penalties shall be the death penalty, imprisonment with or without labor, confinement, fines, and petty fines.)",
+  "japaneseLegalContext": "刑法第9条 (主刑の種類): 主刑は、死刑、懲役、禁錮、罰金及び科料とする。",
+  "exampleSentence": "The judge emphasized that the primary purpose of imposing severe Penal Sanctions was general deterrence, rather than specific rehabilitation.",
+  "exampleTranslation": "裁判官は、重い刑罰を科す第一の目的は、特定の更生ではなく、一般予防にあることを強調した。",
   "vocabularyList": [
     {
-      "word": "movable property",
-      "translation": "動産 (どうさん)"
+      "word": "principal penalties",
+      "translation": "主刑"
     },
     {
-      "word": "transferee",
-      "translation": "譲受人 (ゆずりうけにん)"
+      "word": "supplementary penalties",
+      "translation": "付加刑"
     },
     {
-      "word": "good faith",
-      "translation": "善意 (ぜんい)"
+      "word": "confinement",
+      "translation": "禁錮"
     },
     {
-      "word": "negligence",
-      "translation": "過失 (かしつ)"
+      "word": "petty fines",
+      "translation": "科料"
     },
     {
-      "word": "lack of title",
-      "translation": "権原の欠如 (けんげんのけつじょ)"
+      "word": "general deterrence",
+      "translation": "一般予防"
     },
     {
-      "word": "doctrine",
-      "translation": "法理 (ほうり)"
+      "word": "specific rehabilitation",
+      "translation": "特別更生"
     }
   ]
 }

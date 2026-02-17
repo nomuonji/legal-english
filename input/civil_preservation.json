@@ -14970,5 +14970,119 @@
         "translation": "審査"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Substantiation",
+    "definition": "A standard of proof in legal proceedings that is less stringent than full proof (verification); it requires showing that a fact is likely to be true through readily available evidence.",
+    "japaneseDefinition": "裁判において、確信を得させる「証明」よりも低い程度の、一応もっともらしいと思わせる程度の挙証。民事保全手続において原則的な立証レベルとされる。",
+    "japaneseWordTranslation": "疎明 (そめい)",
+    "legalContext": "Civil Preservation Act Art. 13, Para. 2: The petition for a preservation order shall clarify the claim to be secured and the necessity of preservation. The substantiation of such claim and necessity shall be provided.",
+    "japaneseLegalContext": "民事保全法第13条第2項：保全命令の申立てには、被保全権利及び保全の必要性を明らかにしなければならない。これらの事項の疎明は、証拠によってしなければならない。",
+    "exampleSentence": "The applicant must provide substantiation for the underlying claim to obtain a preliminary injunction.",
+    "exampleTranslation": "仮処分命令を取得するためには、申請人は被保全権利について疎明を行わなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Applicant",
+        "translation": "申請人"
+      },
+      {
+        "word": "Underlying claim",
+        "translation": "被保全権利"
+      },
+      {
+        "word": "Likely to be true",
+        "translation": "一応確からしい"
+      },
+      {
+        "word": "Requirement of proof",
+        "translation": "立証要件"
+      },
+      {
+        "word": "Readily available",
+        "translation": "即時に取り調べることができる"
+      },
+      {
+        "word": "Civil remedy",
+        "translation": "民事上の救済"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Surety",
+    "definition": "Collateral or a bond provided by the applicant at the direction of the court to compensate the adverse party for potential losses if the preservation measure is later found to be groundless.",
+    "japaneseDefinition": "保全命令を発令する際、裁判所の命令により申請人が供する担保。後に保全命令が不当であったことが判明した場合、相手方が被る損害を担保するために提供される。",
+    "japaneseWordTranslation": "裁判上の担保 (さいばんじょうのたんぽ)",
+    "legalContext": "Civil Preservation Act Art. 14, Para. 1: A preservation order may be issued on the condition that judicial surety is provided, or on the condition that the provision of judicial surety is waived.",
+    "japaneseLegalContext": "民事保全法第14条第1項：保全命令は、担保を立てさせ、若しくは相当と認める一定の期間内に担保を立てることを条件として、又は担保を立てさせないで発することができる。",
+    "exampleSentence": "The court required the furnishing of a judicial surety before granting the order to freeze the assets.",
+    "exampleTranslation": "裁判所は、資産を凍結する命令を認める前に、裁判上の担保の提供を命じた。",
+    "vocabularyList": [
+      {
+        "word": "Collateral",
+        "translation": "担保物"
+      },
+      {
+        "word": "Adverse party",
+        "translation": "相手方"
+      },
+      {
+        "word": "Potential losses",
+        "translation": "生じうる損害"
+      },
+      {
+        "word": "Furnishing",
+        "translation": "提供"
+      },
+      {
+        "word": "Groundless",
+        "translation": "理由がない"
+      },
+      {
+        "word": "Order of the court",
+        "translation": "裁判所の命"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restraint of Alienation",
+    "definition": "A legal prohibition or restriction placed on a person to prevent the transfer, sale, or gift of a specific right or property to a third party during the pendency of a legal dispute.",
+    "japaneseDefinition": "係争中の権利や財産を、第三者に譲渡、売却、贈与することを禁ずる法的制限。保全手続において、権利の現状を維持するために命じられる。",
+    "japaneseWordTranslation": "譲渡の禁止 (じょうとのきんし)",
+    "legalContext": "Civil Preservation Act Art. 54: In cases of an injunction against the alienation of a right, if the registration is completed, the applicant can assert the effect of the injunction against any third party.",
+    "japaneseLegalContext": "民事保全法第54条：権利の譲渡を禁止する仮処分において、登記がなされたときは、申請人はその効力を第三者に対抗することができる。",
+    "exampleSentence": "The court imposed a restraint of alienation to ensure the disputed property remained under the current holder's name until the final judgment.",
+    "exampleTranslation": "裁判所は、最終判決まで係争物件が現所有者の名義に留まることを確実にするため、譲渡の禁止を命じた。",
+    "vocabularyList": [
+      {
+        "word": "Alienation",
+        "translation": "譲渡"
+      },
+      {
+        "word": "Pendency",
+        "translation": "係属"
+      },
+      {
+        "word": "Current holder",
+        "translation": "現在の保有者"
+      },
+      {
+        "word": "Final judgment",
+        "translation": "本案の判決"
+      },
+      {
+        "word": "Disputed property",
+        "translation": "係争物件"
+      },
+      {
+        "word": "Legal restriction",
+        "translation": "法的制限"
+      }
+    ]
   }
 ]

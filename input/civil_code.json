@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Novation",
-    "definition": "The termination of an existing obligation by the creation of a new obligation that differs in its essential elements from the former obligation, usually concerning the subject matter or the parties involved.",
-    "japaneseDefinition": "既存の債務を消滅させ、これに代わる新たな債務を発生させる契約。特に債務の要素（給付の内容や当事者）が変更される場合に用いられる。",
-    "japaneseWordTranslation": "更改 (こうかい)",
-    "legalContext": "Civil Code Art. 513: The parties may extinguish an existing obligation by concluding a contract that creates a new obligation with different essential elements.",
-    "japaneseLegalContext": "民法第513条：当事者が債務の要素を変更する契約をしたときは、その債務は、更改によって消滅する。",
-    "exampleSentence": "The parties executed a novation agreement, substituting the previous monetary obligation with an obligation to provide services.",
-    "exampleTranslation": "当事者は、以前の金銭債務を役務提供債務に置き換える更改契約を締結した。",
-    "vocabularyList": [
-      {
-        "word": "extinguish",
-        "translation": "消滅させる (しょうめつさせる)"
-      },
-      {
-        "word": "obligation",
-        "translation": "債務 (さいむ)"
-      },
-      {
-        "word": "essential elements",
-        "translation": "要素 (ようそ)"
-      },
-      {
-        "word": "substituting",
-        "translation": "置き換える (おきかえる)"
-      },
-      {
-        "word": "monetary obligation",
-        "translation": "金銭債務 (きんせんさいむ)"
-      },
-      {
-        "word": "concluding a contract",
-        "translation": "契約を締結する (けいやくをていけつする)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Undue Enrichment",
     "definition": "A legal concept whereby a person who has gained a benefit without legal cause, resulting in loss to another, is obligated to return that benefit.",
     "japaneseDefinition": "法律上の原因がないにもかかわらず、他人の財産または労務によって利益を受け、そのために他人に損失を及ぼした者が、その利益を返還しなければならないとする法制度。",
@@ -21786,6 +21748,120 @@
       {
         "word": "identified",
         "translation": "特定された"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Recovery of Inheritance",
+    "definition": "An action brought by a true heir against a person who is in possession of the inherited property without the legal authority to do so, for the purpose of recovering that property.",
+    "japaneseDefinition": "相続権を侵害された真の相続人が、相続財産を占有する者（表見相続人）に対して、その返還を請求する権利。",
+    "japaneseWordTranslation": "相続回復の訴え (そうぞくかいふくのうったえ)",
+    "legalContext": "Civil Code Art. 884: The right to demand the recovery of inheritance shall be extinguished by prescription if it is not exercised within five years from the time that the heir or their legal representative becomes aware of the fact that the inheritance right has been infringed.",
+    "japaneseLegalContext": "民法第884条：相続回復の請求権は、相続人又はその法定代理人が相続権を侵害された事実を知った時から五年間行使しないときは、時効によって消滅する。",
+    "exampleSentence": "The true heir filed an action for recovery of inheritance against the individual who had wrongfully taken possession of the deceased's assets.",
+    "exampleTranslation": "真の相続人は、亡くなった人の資産を不当に占有していた個人に対して、相続回復の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "Deceased",
+        "translation": "被相続人"
+      },
+      {
+        "word": "Infringement",
+        "translation": "侵害"
+      },
+      {
+        "word": "True heir",
+        "translation": "真正相続人"
+      },
+      {
+        "word": "Wrongfully",
+        "translation": "不当に"
+      },
+      {
+        "word": "Recovery",
+        "translation": "回復 / 返還"
+      },
+      {
+        "word": "Extinguish",
+        "translation": "消滅する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Payment to the Bearer of a Receipt",
+    "definition": "A legal rule providing that a debtor who pays the debt to anyone presenting a receipt is protected, provided the debtor acted in good faith and without carelessness.",
+    "japaneseDefinition": "受取証書（領収書）を持参した者に対して債務者が弁済した場合に、その弁済者が善意かつ無過失であれば、その弁済を有効とする制度。",
+    "japaneseWordTranslation": "受取証書の持参人に対する弁済 (うけとりしょうしょのじさんにんにたいするべんざい)",
+    "legalContext": "Civil Code Art. 480: A person that holds a receipt is deemed to have the authority to receive payment; provided, however, that this does not apply to a case in which the person that made the payment knew or was negligent in not knowing that the holder does not have the authority.",
+    "japaneseLegalContext": "民法第480条：受取証書の持参人は、弁済を受領する権限があるものとみなす。ただし、弁済をした者がその権限がないことを知っていたとき、又は過失によって知らなかったときは、この限りでない。",
+    "exampleSentence": "The company was discharged from its debt because it made a payment to the bearer of a receipt in the honest belief that they were authorized.",
+    "exampleTranslation": "その会社は、受取証書の持参人に受領権限があると真摯に信じて支払いを行ったため、債務を免れた。",
+    "vocabularyList": [
+      {
+        "word": "Bearer",
+        "translation": "持参人"
+      },
+      {
+        "word": "Receipt",
+        "translation": "受取証書 / 領収書"
+      },
+      {
+        "word": "Discharged",
+        "translation": "（義務から）解放された / 免れた"
+      },
+      {
+        "word": "Authorized",
+        "translation": "権限を与えられた"
+      },
+      {
+        "word": "Debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Debt",
+        "translation": "債務"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Claim for a Reduction in the Remuneration",
+    "definition": "A right of a party to demand a decrease in the agreed payment when the performed work or delivered goods do not conform to the standards or quality specified in the agreement.",
+    "japaneseDefinition": "請負人が行った仕事の結果が契約の内容と適合しない場合に、注文者が報酬の減額を求めることができる権利。",
+    "japaneseWordTranslation": "報酬減額請求権 (ほうしゅうげんがくせいきゅうけん)",
+    "legalContext": "Civil Code Art. 636: In cases provided for in the preceding Article, if the party ordering the work requests the contractor to repair the non-conformity but the contractor does not do so, the party ordering the work may request a reduction in the remuneration.",
+    "japaneseLegalContext": "民法第636条：前条に規定する場合において、注文者が相当の期間を定めて履行の追完の催告をし、その期間内に履行の追完がないときは、注文者は、その不適合の程度に応じて、報酬の減額を請求することができる。",
+    "exampleSentence": "The client exercised their claim for a reduction in the remuneration after the contractor failed to rectify the visible flaws in the construction.",
+    "exampleTranslation": "請負人が建設箇所の明らかな欠陥を修正しなかったため、施主は報酬減額請求権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "Remuneration",
+        "translation": "報酬"
+      },
+      {
+        "word": "Reduction",
+        "translation": "減額"
+      },
+      {
+        "word": "Non-conformity",
+        "translation": "（契約との）不適合"
+      },
+      {
+        "word": "Rectify",
+        "translation": "修正する / 直す"
+      },
+      {
+        "word": "Flaws",
+        "translation": "欠陥 / 不備"
+      },
+      {
+        "word": "Agreement",
+        "translation": "合意 / 契約"
       }
     ]
   }

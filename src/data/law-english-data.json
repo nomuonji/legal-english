@@ -1,38 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Novation",
-  "definition": "The termination of an existing obligation by the creation of a new obligation that differs in its essential elements from the former obligation, usually concerning the subject matter or the parties involved.",
-  "japaneseDefinition": "既存の債務を消滅させ、これに代わる新たな債務を発生させる契約。特に債務の要素（給付の内容や当事者）が変更される場合に用いられる。",
-  "japaneseWordTranslation": "更改 (こうかい)",
-  "legalContext": "Civil Code Art. 513: The parties may extinguish an existing obligation by concluding a contract that creates a new obligation with different essential elements.",
-  "japaneseLegalContext": "民法第513条：当事者が債務の要素を変更する契約をしたときは、その債務は、更改によって消滅する。",
-  "exampleSentence": "The parties executed a novation agreement, substituting the previous monetary obligation with an obligation to provide services.",
-  "exampleTranslation": "当事者は、以前の金銭債務を役務提供債務に置き換える更改契約を締結した。",
+  "word": "Concentrated Examination",
+  "definition": "A procedural principle aiming to increase the efficiency of litigation by scheduling hearings (especially those involving evidence presentation) close together to complete the fact-finding process quickly.",
+  "japaneseDefinition": "審理の効率化を図るため、証拠調べを含む期日を集中して設け、審理を迅速に進める原則。",
+  "japaneseWordTranslation": "集中審理 (しゅうちゅうしんり)",
+  "legalContext": "Civil Procedure Code Art. 2: The litigation process shall be fair and prompt in order to realize the prompt administration of justice.",
+  "japaneseLegalContext": "民事訴訟法第2条: 民事訴訟は、公正かつ迅速に行われることが、裁判の適正な実現のために必要である。",
+  "exampleSentence": "The presiding judge issued a scheduling order emphasizing **concentrated examination** to ensure that the cross-examination of expert witnesses occurred within a single week.",
+  "exampleTranslation": "裁判長は、専門家証人に対する反対尋問が一週間以内に実施されるよう、集中審理を強調する期日指定命令を発した。",
   "vocabularyList": [
     {
-      "word": "extinguish",
-      "translation": "消滅させる (しょうめつさせる)"
+      "word": "presiding judge",
+      "translation": "裁判長"
     },
     {
-      "word": "obligation",
-      "translation": "債務 (さいむ)"
+      "word": "scheduling order",
+      "translation": "期日指定命令"
     },
     {
-      "word": "essential elements",
-      "translation": "要素 (ようそ)"
+      "word": "cross-examination",
+      "translation": "反対尋問"
     },
     {
-      "word": "substituting",
-      "translation": "置き換える (おきかえる)"
+      "word": "expert witness",
+      "translation": "専門家証人"
     },
     {
-      "word": "monetary obligation",
-      "translation": "金銭債務 (きんせんさいむ)"
+      "word": "efficiency",
+      "translation": "効率性"
     },
     {
-      "word": "concluding a contract",
-      "translation": "契約を締結する (けいやくをていけつする)"
+      "word": "administration of justice",
+      "translation": "司法の実現"
     }
   ]
 }

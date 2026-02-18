@@ -13160,5 +13160,119 @@
         "translation": "援用する"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Escrow",
+    "definition": "A system where an individual or entity places currencies or valuables under the management of a government department to satisfy a legal obligation or protect a right.",
+    "japaneseDefinition": "法的な義務の履行や権利の保護を目的として、金銭や有価証券などを政府が管理する機関（供託所）に預ける制度。",
+    "japaneseWordTranslation": "供託 (きょうたく)",
+    "legalContext": "Article 1 of the Law regarding Statutory Escrow (Deposit Act): The department handles matters pertaining to the placement of assets for legal fulfillment.",
+    "japaneseLegalContext": "供託法第1条：供託事務は、法務局若しくは地方法務局若しくはこれらの支局又はこれらの出張所が、供託所としてこれを取り扱う。",
+    "exampleSentence": "The individual utilized a statutory escrow to finalize the remittance of the disputed currency.",
+    "exampleTranslation": "その個人は、紛争中の通貨の送金を完了するために供託を利用した。",
+    "vocabularyList": [
+      {
+        "word": "Statutory",
+        "translation": "法廷の、法定の"
+      },
+      {
+        "word": "Escrow",
+        "translation": "第三者預託（供託）"
+      },
+      {
+        "word": "Valuables",
+        "translation": "有価物（有価証券等）"
+      },
+      {
+        "word": "Remittance",
+        "translation": "送金（弁済）"
+      },
+      {
+        "word": "Currency",
+        "translation": "通貨（金銭）"
+      },
+      {
+        "word": "Satisfy",
+        "translation": "（義務を）充足させる"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Court-Ordered Escrow",
+    "definition": "Assets placed with an official department as collateral to ensure protection against potential losses arising from judicial actions or litigation measures.",
+    "japaneseDefinition": "裁判上の手続きにおいて、将来生じる可能性のある損害を担保するために、裁判所の命令に基づいて行われる供託。",
+    "japaneseWordTranslation": "裁判上の保証供託 (さいばんじょうのほしょうきょうたく)",
+    "legalContext": "Article 3 of the Law regarding Statutory Escrow: Pertaining to assets provided to the department as collateral for court proceedings.",
+    "japaneseLegalContext": "供託法第3条：裁判上の保証として供託をするには、裁判所が供託所を指定することを要しない。",
+    "exampleSentence": "A court-ordered escrow provides collateral for potential losses during the stay of actions.",
+    "exampleTranslation": "裁判所の命令による供託は、手続停止中の潜在的な損失に対する担保を提供する。",
+    "vocabularyList": [
+      {
+        "word": "Collateral",
+        "translation": "担保"
+      },
+      {
+        "word": "Litigation",
+        "translation": "訴訟"
+      },
+      {
+        "word": "Judicial",
+        "translation": "司法の"
+      },
+      {
+        "word": "Protection",
+        "translation": "保護（保障）"
+      },
+      {
+        "word": "Losses",
+        "translation": "損失（損害）"
+      },
+      {
+        "word": "Measures",
+        "translation": "措置（処分）"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Escrow for Unidentified Payees",
+    "definition": "A procedure permitting a payor to place funds in escrow when they cannot determine the correct party to receive the remittance through no fault of their own.",
+    "japaneseDefinition": "債務者が、過失なく債権者を特定することができない場合に、その債務を免れるために行う供託。",
+    "japaneseWordTranslation": "被供託者不確知の供託 (ひきょうたくしゃふかくちのきょうたく)",
+    "legalContext": "Section 1 of the Law regarding Statutory Escrow: Addresses instances where the recipient's persona is unidentifiable.",
+    "japaneseLegalContext": "供託法第1条（関連）：債権者が誰であるかを知ることができないときは、その債務を供託することができる。",
+    "exampleSentence": "Escrow for unidentifiable payees is necessary when the recipient's persona remains unclear due to a conflict.",
+    "exampleTranslation": "争いによって受領者の身元が不明な場合、被供託者不確知の供託が必要となる。",
+    "vocabularyList": [
+      {
+        "word": "Unidentifiable",
+        "translation": "特定不能の"
+      },
+      {
+        "word": "Payee",
+        "translation": "受領者（被供託者）"
+      },
+      {
+        "word": "Payor",
+        "translation": "支払者（供託者）"
+      },
+      {
+        "word": "Persona",
+        "translation": "身元（本人）"
+      },
+      {
+        "word": "Conflict",
+        "translation": "紛争（不確知の原因）"
+      },
+      {
+        "word": "Resolution",
+        "translation": "解決"
+      }
+    ]
   }
 ]

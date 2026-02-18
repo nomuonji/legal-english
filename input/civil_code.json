@@ -21978,5 +21978,107 @@
         "translation": "秘密の（ひみつの）"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Performance for Illegal Cause",
+    "definition": "A legal principle providing that a person who has transferred assets or provided services for an illegal reason cannot seek the return of those assets or the value of those services.",
+    "japaneseDefinition": "不法な原因のために給付をした者は、その給付したものの返還を請求することができないという原則（民法708条）。",
+    "japaneseWordTranslation": "不法原因給付 (ふほうげんいんきゅうふ)",
+    "legalContext": "Civil Code Art. 708: A person who has performed for an illegal cause may not demand the return of the thing performed; provided, however, that this does not apply if the illegal cause existed only with respect to the person that received the performance.",
+    "japaneseLegalContext": "民法第708条：不法な原因のために給付をした者は、その給付したものの返還を請求することができない。ただし、不法な原因が給付を受けた者についてのみ存したときは、この限りでない。",
+    "exampleSentence": "The court dismissed the claim for the return of the bribe money, citing the doctrine of performance for illegal cause.",
+    "exampleTranslation": "裁判所は不法原因給付の法理を引用し、賄賂として渡された金の返還請求を棄却した。",
+    "vocabularyList": [
+      {
+        "word": "illegal cause",
+        "translation": "不法な原因"
+      },
+      {
+        "word": "restitution",
+        "translation": "不当利得の返還"
+      },
+      {
+        "word": "bribe",
+        "translation": "賄賂"
+      },
+      {
+        "word": "dismiss",
+        "translation": "棄却する"
+      },
+      {
+        "word": "doctrine",
+        "translation": "法理・原則"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Demand Cure",
+    "definition": "The right of a buyer to request that a seller rectify a situation where the delivered subject matter does not conform to the contract, such as by repairing the item or delivering a substitute.",
+    "japaneseDefinition": "引き渡された目的物が契約内容と適合しない場合に、買主が売主に対して修補や代替物の引渡しなどを求めることができる権利（民法562条）。",
+    "japaneseWordTranslation": "追完請求権 (ついかんせいきゅうけん)",
+    "legalContext": "Civil Code Art. 562: If the delivered subject matter does not conform to the contract in terms of kind, quality, or quantity, the buyer may demand that the seller cure the non-conformity of performance by means of repair of the subject matter, delivery of a substitute, or delivery of the shortage.",
+    "japaneseLegalContext": "民法第562条：引き渡された目的物が種類、品質又は数量に関して契約の内容と適合しないものであるときは、買主は、売主に対し、目的物の修補、代替物の引渡し又は不足分の引渡しによる履行の追完を請求することができる。",
+    "exampleSentence": "Under the 2020 Civil Code amendments, the buyer exercised their right to demand cure due to the non-conformity of the product's quality.",
+    "exampleTranslation": "2020年の民法改正に基づき、買主は製品品質の不適合を理由に追完請求権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "non-conformity",
+        "translation": "不適合"
+      },
+      {
+        "word": "substitute",
+        "translation": "代替物"
+      },
+      {
+        "word": "rectify",
+        "translation": "是正する"
+      },
+      {
+        "word": "shortage",
+        "translation": "不足分"
+      },
+      {
+        "word": "subject matter",
+        "translation": "目的物"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Beneficiary in Bad Faith",
+    "definition": "A party who receives a benefit while being aware that there is no legal basis or justification for the enrichment.",
+    "japaneseDefinition": "法律上の原因がないことを知りながら、利益を受けた者のこと（民法704条）。",
+    "japaneseWordTranslation": "悪意の受益者 (あくいのじゅえきしゃ)",
+    "legalContext": "Civil Code Art. 704: A beneficiary in bad faith must return the benefit received with interest added thereto. In such case, if any damages still remain, the beneficiary is liable to compensate for those damages.",
+    "japaneseLegalContext": "民法第704条：悪意の受益者は、その受けた利益に利息を付して返還しなければならない。この場合において、なお損害があるときは、その賠償の責任を負う。",
+    "exampleSentence": "A beneficiary in bad faith must return not only the principal amount but also any interest accrued during the period of possession.",
+    "exampleTranslation": "悪意の受益者は、元本だけでなく占有期間中に生じた利息も付して返還しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "bad faith",
+        "translation": "悪意（事情を知っていること）"
+      },
+      {
+        "word": "enrichment",
+        "translation": "利得"
+      },
+      {
+        "word": "interest",
+        "translation": "利息"
+      },
+      {
+        "word": "accrue",
+        "translation": "発生する"
+      },
+      {
+        "word": "legal basis",
+        "translation": "法律上の原因"
+      }
+    ]
   }
 ]

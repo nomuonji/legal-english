@@ -2,44 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Property Disclosure Procedure",
-    "definition": "A supplementary legal procedure allowing a creditor holding a valid title to compel a non-performing debtor to appear before the court and provide a comprehensive disclosure of their financial assets and liabilities.",
-    "japaneseDefinition": "債務名義を持つ債権者が、債務者に裁判所へ出頭させ、その財産状況について陳述させることを目的とする、民事執行法の定める手続き。",
-    "japaneseWordTranslation": "財産開示手続 (ざいさんかいじてつづき)",
-    "legalContext": "Civil Execution Act Art. 197: An obligee may file a petition for the initiation of the Property Disclosure Procedure with the district court having jurisdiction over the debtor's domicile.",
-    "japaneseLegalContext": "民事執行法第197条: 債権者は、執行裁判所に対し、財産開示手続の実施を申し立てることができる。",
-    "exampleSentence": "Since all attempts at asset seizure failed, the financial institution filed a petition for the Property Disclosure Procedure to ascertain the debtor's true financial standing.",
-    "exampleTranslation": "全ての財産差押えの試みが失敗したため、その金融機関は債務者の真の財務状況を確かめるために財産開示手続の申立てを行った。",
-    "vocabularyList": [
-      {
-        "word": "supplementary procedure",
-        "translation": "補完的手続き"
-      },
-      {
-        "word": "valid title",
-        "translation": "有効な権原"
-      },
-      {
-        "word": "comprehensive disclosure",
-        "translation": "包括的な開示"
-      },
-      {
-        "word": "liabilities",
-        "translation": "負債"
-      },
-      {
-        "word": "domicile",
-        "translation": "住所"
-      },
-      {
-        "word": "ascertain",
-        "translation": "確かめる"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Action to Object by a Third Party",
     "definition": "A lawsuit filed by a person (a third party) claiming full or partial ownership of property currently subject to enforcement procedures, demanding the cessation or withdrawal of those procedures against that specific property.",
     "japaneseDefinition": "第三者として、強制執行の対象となっている財産の全部または一部が自己に属すると主張し、その財産に対する執行の排除または取消しを求める訴訟。",
@@ -18012,6 +17974,120 @@
       {
         "word": "Submit",
         "translation": "提出する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Employer Verification Directive",
+    "definition": "A judicial order issued to municipal governments or pension organizations requiring them to disclose the name and address of a person's employer to facilitate the collection of debts through salary deductions.",
+    "japaneseDefinition": "債務者の給与を差し押さえる目的で、裁判所が市町村や日本年金機構等に対し、債務者の勤務先（給与の支払者）の情報を提供形するよう命じる手続。",
+    "japaneseWordTranslation": "勤務先情報の提供命令 (きんむさきじょうほうのていきょうめいれい)",
+    "legalContext": "Civil Execution Act Art. 206: The execution court may, upon petition, order a municipal office or a person who handles affairs related to pensions to provide information regarding the employer of the obligor.",
+    "japaneseLegalContext": "民事執行法206条：執行裁判所は、申立てにより、市町村又は年金事務を取り扱う者に対し、債務者の勤務先（給与の支払者）に関する情報の提供を命ずることができる。",
+    "exampleSentence": "The judge issued an Employer Verification Directive to the local municipality to identify where the individual's salary is paid.",
+    "exampleTranslation": "裁判官は、個人の給与支払先を特定するため、地方自治体に対して勤務先情報の提供命令を出した。",
+    "vocabularyList": [
+      {
+        "word": "Employer",
+        "translation": "勤務先（雇用主）"
+      },
+      {
+        "word": "Salary",
+        "translation": "給与"
+      },
+      {
+        "word": "Municipality",
+        "translation": "市町村（地方自治体）"
+      },
+      {
+        "word": "Disclosure",
+        "translation": "開示"
+      },
+      {
+        "word": "Deduction",
+        "translation": "控除（差し引き）"
+      },
+      {
+        "word": "Pension",
+        "translation": "年金"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Landholding Query Directive",
+    "definition": "A court order directed at the registry authority to provide a list of land and buildings held by a specific individual, used when the person's assets are otherwise unknown.",
+    "japaneseDefinition": "債務者が所有する土地や建物を特定するため、裁判所が登記所に対し、債務者名義の不動産情報を開示するよう命じる手続。",
+    "japaneseWordTranslation": "不動産情報の提供命令 (ふどうさんじょうほうのていきょうめいれい)",
+    "legalContext": "Civil Execution Act Art. 205: The execution court may order a registrar to provide information concerning the land or buildings owned by the obligor.",
+    "japaneseLegalContext": "民事執行法205条：執行裁判所は、登記官に対し、債務者が所有する土地又は建物に関する情報の提供を命ずることができる。",
+    "exampleSentence": "A Landholding Query Directive was used to uncover several plots of earth that the person had not disclosed during the discovery phase.",
+    "exampleTranslation": "本人が開示手続中に明かさなかった複数の土地を明らかにするため、不動産情報の提供命令が利用された。",
+    "vocabularyList": [
+      {
+        "word": "Land",
+        "translation": "土地"
+      },
+      {
+        "word": "Building",
+        "translation": "建物"
+      },
+      {
+        "word": "Query",
+        "translation": "照会"
+      },
+      {
+        "word": "Registry",
+        "translation": "登記（所）"
+      },
+      {
+        "word": "Owner",
+        "translation": "所有者"
+      },
+      {
+        "word": "Identification",
+        "translation": "特定"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Insurance Policy Query Directive",
+    "definition": "A mandate from the court requiring insurance companies to reveal details of life insurance agreements held by an individual, primarily to identify redeemable cash values.",
+    "japaneseDefinition": "債務者が加入している生命保険の解約返戻金などを差し押さえるために、裁判所が保険会社に対し契約内容を開示させる手続。",
+    "japaneseWordTranslation": "保険契約情報の提供命令 (ほけんけいやくじょうほうのていきょうめいれい)",
+    "legalContext": "Civil Execution Act Art. 207: The court may order a financial institution or an insurance company to provide information regarding the assets of the obligor, including life insurance policies.",
+    "japaneseLegalContext": "民事執行法207条：裁判所は、金融機関や保険会社に対し、生命保険契約を含む債務者の財産に関する情報の提供を命ずることができる。",
+    "exampleSentence": "The lawyer obtained an Insurance Policy Query Directive to see if the life insurance coverage included a significant redeemable value.",
+    "exampleTranslation": "弁護士は、生命保険に高額の解約返戻金が含まれているかを確認するため、保険契約情報の提供命令を取得した。",
+    "vocabularyList": [
+      {
+        "word": "Policy",
+        "translation": "保険証券（契約）"
+      },
+      {
+        "word": "Coverage",
+        "translation": "保障（範囲）"
+      },
+      {
+        "word": "Cash value",
+        "translation": "解約返戻金"
+      },
+      {
+        "word": "Redeemable",
+        "translation": "払い戻し可能な"
+      },
+      {
+        "word": "Premium",
+        "translation": "保険料"
+      },
+      {
+        "word": "Life insurance",
+        "translation": "生命保険"
       }
     ]
   }

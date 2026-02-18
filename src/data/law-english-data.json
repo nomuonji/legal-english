@@ -1,38 +1,38 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Concentrated Examination",
-  "definition": "A procedural principle aiming to increase the efficiency of litigation by scheduling hearings (especially those involving evidence presentation) close together to complete the fact-finding process quickly.",
-  "japaneseDefinition": "審理の効率化を図るため、証拠調べを含む期日を集中して設け、審理を迅速に進める原則。",
-  "japaneseWordTranslation": "集中審理 (しゅうちゅうしんり)",
-  "legalContext": "Civil Procedure Code Art. 2: The litigation process shall be fair and prompt in order to realize the prompt administration of justice.",
-  "japaneseLegalContext": "民事訴訟法第2条: 民事訴訟は、公正かつ迅速に行われることが、裁判の適正な実現のために必要である。",
-  "exampleSentence": "The presiding judge issued a scheduling order emphasizing **concentrated examination** to ensure that the cross-examination of expert witnesses occurred within a single week.",
-  "exampleTranslation": "裁判長は、専門家証人に対する反対尋問が一週間以内に実施されるよう、集中審理を強調する期日指定命令を発した。",
+  "word": "Property Disclosure Procedure",
+  "definition": "A supplementary legal procedure allowing a creditor holding a valid title to compel a non-performing debtor to appear before the court and provide a comprehensive disclosure of their financial assets and liabilities.",
+  "japaneseDefinition": "債務名義を持つ債権者が、債務者に裁判所へ出頭させ、その財産状況について陳述させることを目的とする、民事執行法の定める手続き。",
+  "japaneseWordTranslation": "財産開示手続 (ざいさんかいじてつづき)",
+  "legalContext": "Civil Execution Act Art. 197: An obligee may file a petition for the initiation of the Property Disclosure Procedure with the district court having jurisdiction over the debtor's domicile.",
+  "japaneseLegalContext": "民事執行法第197条: 債権者は、執行裁判所に対し、財産開示手続の実施を申し立てることができる。",
+  "exampleSentence": "Since all attempts at asset seizure failed, the financial institution filed a petition for the Property Disclosure Procedure to ascertain the debtor's true financial standing.",
+  "exampleTranslation": "全ての財産差押えの試みが失敗したため、その金融機関は債務者の真の財務状況を確かめるために財産開示手続の申立てを行った。",
   "vocabularyList": [
     {
-      "word": "presiding judge",
-      "translation": "裁判長"
+      "word": "supplementary procedure",
+      "translation": "補完的手続き"
     },
     {
-      "word": "scheduling order",
-      "translation": "期日指定命令"
+      "word": "valid title",
+      "translation": "有効な権原"
     },
     {
-      "word": "cross-examination",
-      "translation": "反対尋問"
+      "word": "comprehensive disclosure",
+      "translation": "包括的な開示"
     },
     {
-      "word": "expert witness",
-      "translation": "専門家証人"
+      "word": "liabilities",
+      "translation": "負債"
     },
     {
-      "word": "efficiency",
-      "translation": "効率性"
+      "word": "domicile",
+      "translation": "住所"
     },
     {
-      "word": "administration of justice",
-      "translation": "司法の実現"
+      "word": "ascertain",
+      "translation": "確かめる"
     }
   ]
 }

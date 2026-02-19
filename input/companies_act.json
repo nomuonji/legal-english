@@ -17194,5 +17194,119 @@
         "translation": "横領"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action to Set Aside a Company Split",
+    "definition": "A legal action brought by a shareholder, director, liquidator, or creditor to have the court declare a company split (corporate divestiture) invalid due to procedural defects or legal violations.",
+    "japaneseDefinition": "会社分割の手続き上の欠陥や法的違反を理由として、株主、取締役、清算人、または債権者が、分割の無効を裁判所に訴える手続き。",
+    "japaneseWordTranslation": "会社分割無効の訴え (かいしゃぶんかつむこうのうったえ)",
+    "legalContext": "Companies Act Art. 828, Para. 1, Item (ix): An action to set aside a company split may only be filed within six months from the day on which the split took effect.",
+    "japaneseLegalContext": "会社法第828条1項9号：会社分割の無効の訴えは、会社分割がその効力を生じた日から六箇月以内に限り、提起することができる。",
+    "exampleSentence": "The creditor filed an action to set aside a company split, claiming that the company failed to follow the mandatory creditor protection procedures.",
+    "exampleTranslation": "その債権者は、会社が義務付けられた債権者保護手続きを怠ったと主張して、会社分割無効の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "Effective date",
+        "translation": "効力発生日"
+      },
+      {
+        "word": "Procedural defect",
+        "translation": "手続き上の瑕疵"
+      },
+      {
+        "word": "Divesting company",
+        "translation": "分割会社"
+      },
+      {
+        "word": "Succeeding company",
+        "translation": "承継会社"
+      },
+      {
+        "word": "Statutory period",
+        "translation": "法定期間"
+      },
+      {
+        "word": "Creditor protection",
+        "translation": "債権者保護"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Affirmation of the Validity of a Resolution",
+    "definition": "A lawsuit filed to seek a judicial declaration that a specific resolution passed by a general meeting of shareholders or a board of directors is legally valid and binding.",
+    "japaneseDefinition": "株主総会または取締役会で行われた特定の決議が、法的に有効であり拘束力を持つことを裁判所に確認させるための訴え。",
+    "japaneseWordTranslation": "決議有効確認の訴え (けつぎゆうこうかくにんのうったえ)",
+    "legalContext": "Generally recognized in Japanese case law as a counterpart to actions for nullity or rescission, though not explicitly defined as a separate category in Art. 828.",
+    "japaneseLegalContext": "会社法第828条等に明文の規定はないが、決議の効力を巡る紛争を解決する手段として判例上認められている。",
+    "exampleSentence": "In response to the shareholder's challenge, the management brought an action for affirmation of the validity of a resolution to confirm the legal standing of the newly appointed board.",
+    "exampleTranslation": "株主による異議申し立てに対抗して、経営陣は新しく選任された取締役会の法的地位を確定させるため、決議有効確認の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "Binding effect",
+        "translation": "拘束力"
+      },
+      {
+        "word": "Judicial declaration",
+        "translation": "裁判上の宣言"
+      },
+      {
+        "word": "Legal standing",
+        "translation": "法的地位"
+      },
+      {
+        "word": "Counterpart",
+        "translation": "対応するもの"
+      },
+      {
+        "word": "Affirmation",
+        "translation": "確認"
+      },
+      {
+        "word": "Management",
+        "translation": "経営陣"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Rescission of an Incorporation",
+    "definition": "An action to revoke the formation of a company when it was incorporated through fraud or other illegal means, typically applicable to Gomei Kaisha or Goshi Kaisha where a specific partner has a ground for rescission.",
+    "japaneseDefinition": "詐欺などの違法な手段によって会社が設立された場合にその設立を取り消すための訴え。主に持分会社において、特定の社員に取消原因がある場合に適用される。",
+    "japaneseWordTranslation": "設立取消しの訴え (せつりつとりけしのうったえ)",
+    "legalContext": "Companies Act Art. 832: An action for rescission of the incorporation of a company may be filed by a person who has the right to rescind the intention to become a partner.",
+    "japaneseLegalContext": "会社法第832条：会社の設立の取消しの訴えは、社員がその設立時における入社の意思表示を取り消すことができる場合に、その社員に限り、提起することができる。",
+    "exampleSentence": "The partner initiated an action for rescission of an incorporation on the grounds that his consent to the articles of incorporation was obtained through fraudulent misrepresentation.",
+    "exampleTranslation": "その社員は、定款への同意が詐欺的な虚偽表示によって得られたものであるとして、設立取消しの訴えを開始した。",
+    "vocabularyList": [
+      {
+        "word": "Revocation",
+        "translation": "取消し"
+      },
+      {
+        "word": "Fraudulent misrepresentation",
+        "translation": "詐欺的虚偽表示"
+      },
+      {
+        "word": "Grounds for rescission",
+        "translation": "取消原因"
+      },
+      {
+        "word": "Consent",
+        "translation": "同意"
+      },
+      {
+        "word": "Partner",
+        "translation": "社員（持分会社の）"
+      },
+      {
+        "word": "Formation",
+        "translation": "形成・設立"
+      }
+    ]
   }
 ]

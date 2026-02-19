@@ -18158,5 +18158,107 @@
         "translation": "周期的に"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution against a Telephone Subscription Right",
+    "definition": "A specialized enforcement procedure directed at the debtor's right to receive telecommunications services under a contract with a provider, categorized as an execution against 'other property rights' which do not involve immovables, ships, or standard claims.",
+    "japaneseDefinition": "債務者が電信電話提供者（NTT等）との契約に基づいて有する電話サービスを受ける権利に対する強制執行の手続き。民事執行法上の「その他の財産権に対する執行」の一種に分類される。",
+    "japaneseWordTranslation": "電話加入権に対する執行 (でんわかにゅうけんたいするしっこう)",
+    "legalContext": "Civil Execution Act Art. 167: Execution against property rights other than those provided for in the preceding three Sections shall be governed by the rules for execution against claims.",
+    "japaneseLegalContext": "民事執行法167条：前三節に規定する財産権以外の財産権に対する強制執行については、債権執行の例による。",
+    "exampleSentence": "The judgment creditor filed a petition for execution against a telephone subscription right to satisfy the outstanding debt when no other assets were identified.",
+    "exampleTranslation": "他の資産が特定できなかったため、債権者は未払債務を回収するために、電話加入権に対する執行を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Telephone subscription right",
+        "translation": "電話加入権"
+      },
+      {
+        "word": "Telecommunications provider",
+        "translation": "電気通信事業者"
+      },
+      {
+        "word": "Enforcement procedure",
+        "translation": "執行手続"
+      },
+      {
+        "word": "Judgment creditor",
+        "translation": "判決債権者"
+      },
+      {
+        "word": "Other property rights",
+        "translation": "その他の財産権"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Affixing a Seal",
+    "definition": "The physical act performed by an execution officer of attaching a seal, label, or paper strip to seized movable property to indicate that the item is under the legal custody of the court and to prevent its unauthorized disposal or removal.",
+    "japaneseDefinition": "執行官が差し押さえた動産に対し、その物が裁判所の占有下にあることを公示し、不当な処分や持ち出しを防ぐために封印や紙等の標識を貼り付ける行為。",
+    "japaneseWordTranslation": "封印の実施 (ふういんのじっし)",
+    "legalContext": "Civil Execution Act Art. 123: Seizure of movables shall be carried out by the execution officer taking possession of the subject matter or by affixing a seal or other sign indicating the seizure.",
+    "japaneseLegalContext": "民事執行法123条：動産の差押えは、執行官がその目的物を占有し、又は封印その他の差押えを、表示する標識を付することによって行う。",
+    "exampleSentence": "The execution officer proceeded with the affixing a seal on the luxury electronics found at the debtor's business premises.",
+    "exampleTranslation": "執行官は、債務者の営業所で見つかった高級電子機器に対し、封印の実施を進めた。",
+    "vocabularyList": [
+      {
+        "word": "Affixing a seal",
+        "translation": "封印を施すこと"
+      },
+      {
+        "word": "Seized movable property",
+        "translation": "差押動産"
+      },
+      {
+        "word": "Unauthorized disposal",
+        "translation": "不当な処分"
+      },
+      {
+        "word": "Legal custody",
+        "translation": "法的保管"
+      },
+      {
+        "word": "Officer's sign",
+        "translation": "標識"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for the Payment of the Difference",
+    "definition": "A judicial order issued by the execution court that allows a purchaser, who is also an entitled creditor in the distribution, to settle the purchase price by paying only the amount remaining after deducting their expected dividend.",
+    "japaneseDefinition": "売却の買受人が配当を受けるべき債権者である場合に、買受代金から自己が受けるべき配当額を差し引いた残額のみを納付することを認める裁判所の命令。",
+    "japaneseWordTranslation": "差引額の支払命令 (さしひきがくのしはらいめいれい)",
+    "legalContext": "Civil Execution Act Art. 78, Para. 3: If the purchaser is a creditor who is entitled to receive a distribution... the execution court may, upon motion, order the purchaser to pay the difference between the purchase price and the amount to be received.",
+    "japaneseLegalContext": "民事執行法78条3項：買受人が配当等を受けるべき債権者であるときは、執行裁判所は、申立てにより、買受代金と配当等を受けるべき額との差額のみを支払うべき旨を命ずることができる。",
+    "exampleSentence": "To streamline the transaction, the court granted an order for the payment of the difference because the highest bidder was also the primary mortgage holder.",
+    "exampleTranslation": "最高価買受人が第一順位の抵当権者でもあったため、手続を簡素化するために、裁判所は差引額の支払命令を出した。",
+    "vocabularyList": [
+      {
+        "word": "Payment of the difference",
+        "translation": "差額の支払"
+      },
+      {
+        "word": "Deduct",
+        "translation": "差し引く"
+      },
+      {
+        "word": "Purchaser",
+        "translation": "買受人"
+      },
+      {
+        "word": "Expected dividend",
+        "translation": "配当見込額"
+      },
+      {
+        "word": "Streamline",
+        "translation": "簡素化する"
+      }
+    ]
   }
 ]

@@ -1,42 +1,38 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Action to Object by a Third Party",
-  "definition": "A lawsuit filed by a person (a third party) claiming full or partial ownership of property currently subject to enforcement procedures, demanding the cessation or withdrawal of those procedures against that specific property.",
-  "japaneseDefinition": "第三者として、強制執行の対象となっている財産の全部または一部が自己に属すると主張し、その財産に対する執行の排除または取消しを求める訴訟。",
-  "japaneseWordTranslation": "第三者異議の訴え (だいさんしゃいぎのうったえ)",
-  "legalContext": "Civil Execution Act Art. 38 (Action to Object by a Third Party): If a third party has ownership or other rights preventing the transfer or delivery of the object, that party may file an action against the execution obligee.",
-  "japaneseLegalContext": "民事執行法 第38条 (第三者異議の訴え): 第三者が執行の目的物について所有権その他目的物の譲渡又は引渡しを妨げる権利を有することを主張するときは、執行債権者に対し、その執行に対する異議の訴えを提起することができる。",
-  "exampleSentence": "The company filed an Action to Object by a Third Party after its machinery was seized under enforcement procedures targeting a subsidiary.",
-  "exampleTranslation": "その会社は、子会社を対象とする執行手続で機械が差し押さえられた後、第三者異議の訴えを提起した。",
+  "word": "Allocation of Litigation Costs",
+  "definition": "The court's determination of how the various expenses incurred during the legal process (e.g., filing fees, witness travel) are distributed among the parties, usually burdening the losing party.",
+  "japaneseDefinition": "訴訟を通じて発生した費用（印紙代、証人旅費など）を、当事者のいずれが最終的に負担するかを裁判所が決定すること。",
+  "japaneseWordTranslation": "訴訟費用の負担 (そしょうひようのふたん)",
+  "legalContext": "Civil Procedure Code Art. 61: Litigation costs shall be borne by the losing party.",
+  "japaneseLegalContext": "民事訴訟法第61条: 訴訟費用は、敗訴した当事者の負担とする。",
+  "exampleSentence": "Since the defendant prevailed on the counter-claim, the court issued an order regarding the **allocation of litigation costs** pursuant to Article 61.",
+  "exampleTranslation": "被告が反訴において勝訴したため、裁判所は第61条に従い、訴訟費用の負担に関する決定を下した。",
   "vocabularyList": [
     {
-      "word": "cessation",
-      "translation": "停止"
+      "word": "incurred",
+      "translation": "発生した"
     },
     {
-      "word": "withdrawal",
-      "translation": "取り下げ"
+      "word": "filing fees",
+      "translation": "申立手数料、印紙代"
     },
     {
-      "word": "enforcement procedures",
-      "translation": "執行手続"
+      "word": "counter-claim",
+      "translation": "反訴"
     },
     {
-      "word": "execution obligee",
-      "translation": "執行債権者"
+      "word": "prevail",
+      "translation": "勝訴する"
     },
     {
-      "word": "claim ownership",
-      "translation": "所有権を主張する"
+      "word": "pursuant to",
+      "translation": "〜に従って"
     },
     {
-      "word": "subsidiary",
-      "translation": "子会社"
-    },
-    {
-      "word": "seized",
-      "translation": "差し押さえられた"
+      "word": "distribution",
+      "translation": "分担、分配"
     }
   ]
 }

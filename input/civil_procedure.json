@@ -2,44 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Allocation of Litigation Costs",
-    "definition": "The court's determination of how the various expenses incurred during the legal process (e.g., filing fees, witness travel) are distributed among the parties, usually burdening the losing party.",
-    "japaneseDefinition": "訴訟を通じて発生した費用（印紙代、証人旅費など）を、当事者のいずれが最終的に負担するかを裁判所が決定すること。",
-    "japaneseWordTranslation": "訴訟費用の負担 (そしょうひようのふたん)",
-    "legalContext": "Civil Procedure Code Art. 61: Litigation costs shall be borne by the losing party.",
-    "japaneseLegalContext": "民事訴訟法第61条: 訴訟費用は、敗訴した当事者の負担とする。",
-    "exampleSentence": "Since the defendant prevailed on the counter-claim, the court issued an order regarding the **allocation of litigation costs** pursuant to Article 61.",
-    "exampleTranslation": "被告が反訴において勝訴したため、裁判所は第61条に従い、訴訟費用の負担に関する決定を下した。",
-    "vocabularyList": [
-      {
-        "word": "incurred",
-        "translation": "発生した"
-      },
-      {
-        "word": "filing fees",
-        "translation": "申立手数料、印紙代"
-      },
-      {
-        "word": "counter-claim",
-        "translation": "反訴"
-      },
-      {
-        "word": "prevail",
-        "translation": "勝訴する"
-      },
-      {
-        "word": "pursuant to",
-        "translation": "〜に従って"
-      },
-      {
-        "word": "distribution",
-        "translation": "分担、分配"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Litigation Representative",
     "definition": "A person, typically a lawyer (Bengoshi), appointed by a party to perform all procedural acts in court on their behalf. Their authority generally covers acts related to the conduct of the suit, unless specifically limited.",
     "japaneseDefinition": "訴訟当事者から委任を受け、その者に代わって訴訟行為を行う者。日本の民事訴訟では、一般に弁護士のみが訴訟代理人となることができる。",
@@ -19600,6 +19562,120 @@
       {
         "word": "Inquiry",
         "translation": "照会・調査"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Substitution of Parties",
+    "definition": "The procedural act of replacing a party in a pending lawsuit with another person, typically occurring when the rights or obligations subject to the litigation are transferred to a third party after the lawsuit has commenced.",
+    "japaneseDefinition": "訴訟の係属中に、当事者としての地位を第三者に引き継がせる手続。訴訟物である権利関係が譲渡された場合などに行われる。",
+    "japaneseWordTranslation": "当事者の交替 (とうじしゃのこうたい)",
+    "legalContext": "Code of Civil Procedure Art. 49 & 50: Provides for the intervention or substitution of a third party who has succeeded to the whole or part of the rights or obligations which are the subject matter of the suit.",
+    "japaneseLegalContext": "民事訴訟法第49条・第50条：訴訟の目的である権利又は義務の全部又は一部を承継した第三者の訴訟参加や引受けについて規定している。",
+    "exampleSentence": "The court granted a substitution of parties after the plaintiff assigned the underlying claim to a debt collection agency.",
+    "exampleTranslation": "原告が対象となる債権を債権回収会社に譲渡したため、裁判所は当事者の交替を認めた。",
+    "vocabularyList": [
+      {
+        "word": "Assign",
+        "translation": "譲渡する"
+      },
+      {
+        "word": "Underlying claim",
+        "translation": "対象となる債権"
+      },
+      {
+        "word": "Pending lawsuit",
+        "translation": "係属中の訴訟"
+      },
+      {
+        "word": "Commence",
+        "translation": "開始する"
+      },
+      {
+        "word": "Debt collection agency",
+        "translation": "債権回収会社"
+      },
+      {
+        "word": "Grant",
+        "translation": "認める・許可する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Direct Examination",
+    "definition": "The questioning of a witness by the party who called the witness to testify, intended to elicit evidence that supports that party's position.",
+    "japaneseDefinition": "証人を喚問した側の当事者が、自らの主張を裏付ける証拠を引き出すために最初に行う尋問。",
+    "japaneseWordTranslation": "主尋問 (しゅじんもん)",
+    "legalContext": "Code of Civil Procedure Art. 202: Specifies the order of examination, starting with the examination by the party who requested the witness.",
+    "japaneseLegalContext": "民事訴訟法第202条：尋問の順序を規定しており、証人の申出をした当事者による尋問から始めるものとしている。",
+    "exampleSentence": "During the direct examination, the attorney asked the witness to describe the events leading up to the breach of contract.",
+    "exampleTranslation": "主尋問において、弁護士は証人に対し、契約違反に至るまでの経緯を説明するよう求めた。",
+    "vocabularyList": [
+      {
+        "word": "Witness",
+        "translation": "証人"
+      },
+      {
+        "word": "Testify",
+        "translation": "証言する"
+      },
+      {
+        "word": "Elicit",
+        "translation": "引き出す"
+      },
+      {
+        "word": "Position",
+        "translation": "主張・立場"
+      },
+      {
+        "word": "Leading up to",
+        "translation": "〜に至るまでの"
+      },
+      {
+        "word": "Questioning",
+        "translation": "尋問・質問"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Redirect Examination",
+    "definition": "The questioning of a witness that occurs after cross-examination, conducted by the party who originally called the witness, limited to matters addressed during the cross-examination.",
+    "japaneseDefinition": "反対尋問の後に行われる、証人を最初に喚問した側の当事者による尋問。反対尋問で現れた事項に限定して行われる。",
+    "japaneseWordTranslation": "再主尋問 (さいしゅじんもん)",
+    "legalContext": "Rules of Civil Procedure Art. 113: Outlines the scope and order of examination, including redirect examination to clarify issues raised during cross-examination.",
+    "japaneseLegalContext": "民事訴訟規則第113条：反対尋問で生じた論点を明確にするための再主尋問を含む、尋問の順序と範囲を規定している。",
+    "exampleSentence": "The counsel used redirect examination to rehabilitate the witness's credibility after it was challenged by the opposing party.",
+    "exampleTranslation": "相手方から証人の信憑性が争われた後、訴訟代理人は再主尋問を用いて証人の信頼性を回復させた。",
+    "vocabularyList": [
+      {
+        "word": "Rehabilitate",
+        "translation": "回復させる"
+      },
+      {
+        "word": "Credibility",
+        "translation": "信憑性・信頼性"
+      },
+      {
+        "word": "Opposing party",
+        "translation": "相手方"
+      },
+      {
+        "word": "Addressed",
+        "translation": "言及された"
+      },
+      {
+        "word": "Scope",
+        "translation": "範囲"
+      },
+      {
+        "word": "Clarify",
+        "translation": "明確にする"
       }
     ]
   }

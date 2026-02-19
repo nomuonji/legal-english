@@ -2,48 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Action to Object by a Third Party",
-    "definition": "A lawsuit filed by a person (a third party) claiming full or partial ownership of property currently subject to enforcement procedures, demanding the cessation or withdrawal of those procedures against that specific property.",
-    "japaneseDefinition": "第三者として、強制執行の対象となっている財産の全部または一部が自己に属すると主張し、その財産に対する執行の排除または取消しを求める訴訟。",
-    "japaneseWordTranslation": "第三者異議の訴え (だいさんしゃいぎのうったえ)",
-    "legalContext": "Civil Execution Act Art. 38 (Action to Object by a Third Party): If a third party has ownership or other rights preventing the transfer or delivery of the object, that party may file an action against the execution obligee.",
-    "japaneseLegalContext": "民事執行法 第38条 (第三者異議の訴え): 第三者が執行の目的物について所有権その他目的物の譲渡又は引渡しを妨げる権利を有することを主張するときは、執行債権者に対し、その執行に対する異議の訴えを提起することができる。",
-    "exampleSentence": "The company filed an Action to Object by a Third Party after its machinery was seized under enforcement procedures targeting a subsidiary.",
-    "exampleTranslation": "その会社は、子会社を対象とする執行手続で機械が差し押さえられた後、第三者異議の訴えを提起した。",
-    "vocabularyList": [
-      {
-        "word": "cessation",
-        "translation": "停止"
-      },
-      {
-        "word": "withdrawal",
-        "translation": "取り下げ"
-      },
-      {
-        "word": "enforcement procedures",
-        "translation": "執行手続"
-      },
-      {
-        "word": "execution obligee",
-        "translation": "執行債権者"
-      },
-      {
-        "word": "claim ownership",
-        "translation": "所有権を主張する"
-      },
-      {
-        "word": "subsidiary",
-        "translation": "子会社"
-      },
-      {
-        "word": "seized",
-        "translation": "差し押さえられた"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Indirect Compulsion",
     "definition": "A method used to enforce non-monetary claims (typically for actions that require the cooperation of the party being enforced against, such as delivering an item or making a specific statement) by imposing a fine or indemnity order for each period of non-compliance.",
     "japaneseDefinition": "債務者（執行をされる者）が金銭債務以外の給付義務（物の引渡しや特定の意思表示など）を履行しない場合に、その不履行期間に応じて損害賠償金や罰金を課すことにより、心理的な圧力をかけて履行を強制する執行方法。",
@@ -18088,6 +18046,116 @@
       {
         "word": "Life insurance",
         "translation": "生命保険"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Garnishee",
+    "definition": "A person or entity (such as a bank or employer) that holds money or property belonging to a third party and is directed by a judicial decree to withhold those assets and pay them to a judgment creditor.",
+    "japaneseDefinition": "債務者の財産を占有する、または債務者に対して債務を負う第三者（銀行や雇用主など）。裁判所の命令により、その財産の処分を禁じられ、債権者への支払いを命じられる立場にある者。",
+    "japaneseWordTranslation": "第三債務者 (だいさんさいむしゃ)",
+    "legalContext": "Civil Execution Act Art. 145: The court shall, upon the application of a judgment creditor, issue an order to prohibit a third-party debtor from making payments to the judgment debtor.",
+    "japaneseLegalContext": "民事執行法第145条：裁判所は、債権者の申立てにより、第三債務者に対し、債務者への弁済を禁止する命令を発しなければならない。",
+    "exampleSentence": "The judgment creditor served the garnishee with an order to withhold the debtor's monthly salary payments.",
+    "exampleTranslation": "判決債権者は、債務者の月給の支払いを差し止める命令を第三債務者に送達した。",
+    "vocabularyList": [
+      {
+        "word": "Withhold",
+        "translation": "差し控える"
+      },
+      {
+        "word": "Judgment creditor",
+        "translation": "判決債権者"
+      },
+      {
+        "word": "Judgment debtor",
+        "translation": "判決債務者"
+      },
+      {
+        "word": "Serve",
+        "translation": "送達する"
+      },
+      {
+        "word": "Entity",
+        "translation": "実体、組織"
+      },
+      {
+        "word": "Asset",
+        "translation": "資産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sequestrator",
+    "definition": "A court-appointed official or neutral party responsible for the management and preservation of property while it is being held for the purpose of ensuring a future payment or fulfilling a judicial decree.",
+    "japaneseDefinition": "差し押さえられた財産を管理・保存するために、裁判所によって選任された管理者。将来の支払いや判決の履行を確実にするため、一時的に財産を保管する役割を担う。",
+    "japaneseWordTranslation": "保管人 (ほかんにん)",
+    "legalContext": "Civil Execution Act Art. 123: The execution officer shall, if they deem it necessary, appoint a sequestrator to manage the seized movable assets.",
+    "japaneseLegalContext": "民事執行法第123条：執行官は、必要があると認めるときは、差し押さえた動産を管理するための保管人を選任することができる。",
+    "exampleSentence": "The court designated a sequestrator to ensure the valuable machinery was not damaged before the final sale.",
+    "exampleTranslation": "裁判所は、最終的な売却まで高価な機械が損傷しないよう保管人を指定した。",
+    "vocabularyList": [
+      {
+        "word": "Court-appointed",
+        "translation": "裁判所選任の"
+      },
+      {
+        "word": "Neutral party",
+        "translation": "中立的な第三者"
+      },
+      {
+        "word": "Preservation",
+        "translation": "保存"
+      },
+      {
+        "word": "Machinery",
+        "translation": "機械類"
+      },
+      {
+        "word": "Designate",
+        "translation": "指定する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandatory Accounting",
+    "definition": "The formal reporting of income and expenditures related to the management of assets under court supervision, typically required from an administrator during the realization of property values.",
+    "japaneseDefinition": "裁判所の監督下にある財産の管理に関して行われる、収支の正式な報告。不動産の収益執行などにおいて、管理者が行うべき計算報告を指す。",
+    "japaneseWordTranslation": "計算の報告 (けいさんのほうこく)",
+    "legalContext": "Civil Execution Rules Art. 83: An administrator of real property shall periodically submit a mandatory accounting report to the court regarding the collected rents and expenses.",
+    "japaneseLegalContext": "民事執行規則第83条：不動産管理人は、徴収した賃料および費用に関する計算の報告を、定期的に裁判所に提出しなければならない。",
+    "exampleSentence": "The administrator failed to provide a mandatory accounting of the commercial building's rental income, leading to an inquiry by the court.",
+    "exampleTranslation": "管理人が商業ビルの賃料収入に関する計算報告を怠ったため、裁判所による調査が行われた。",
+    "vocabularyList": [
+      {
+        "word": "Expenditure",
+        "translation": "支出"
+      },
+      {
+        "word": "Supervision",
+        "translation": "監督"
+      },
+      {
+        "word": "Administrator",
+        "translation": "管理人"
+      },
+      {
+        "word": "Rental income",
+        "translation": "賃料収入"
+      },
+      {
+        "word": "Inquiry",
+        "translation": "調査、照会"
+      },
+      {
+        "word": "Periodically",
+        "translation": "周期的に"
       }
     ]
   }

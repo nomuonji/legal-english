@@ -13376,5 +13376,107 @@
         "translation": "検索・回収"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Network System",
+    "definition": "A computerized infrastructure consisting of an automated information network used for the electronic transmission and processing of legal filings.",
+    "japaneseDefinition": "電子情報処理組織。供託の手続において、申請や届出をインターネット経由で行うために使用される情報通信ネットワークシステムのこと。",
+    "japaneseWordTranslation": "電子情報処理組織 (でんしじょうほうしょりそしき)",
+    "legalContext": "Deposit Act Art. 1-2: Procedures under this Act may be performed via an electronic data processing system (referred to as a Network System) as provided by Ministerial Ordinance.",
+    "japaneseLegalContext": "供託法第1条の2：この法律の規定に基づき法務省令で定める手続は、電子情報処理組織（ネットワークシステム）を使用して行うことができる。",
+    "exampleSentence": "The user transmitted the filing data through the official Network System to ensure rapid processing.",
+    "exampleTranslation": "利用者は、迅速な処理を確保するため、公式の電子情報処理組織を通じて申請データを送信した。",
+    "vocabularyList": [
+      {
+        "word": "Transmission",
+        "translation": "送信 (そうしん)"
+      },
+      {
+        "word": "Automated",
+        "translation": "自動化された (じどうかされた)"
+      },
+      {
+        "word": "Infrastructure",
+        "translation": "基盤 (きばん)"
+      },
+      {
+        "word": "User",
+        "translation": "利用者 (りようしゃ)"
+      },
+      {
+        "word": "Electronic",
+        "translation": "電子的な (でんしてきな)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Handling Sum",
+    "definition": "A specific monetary amount charged by the government for administrative services, such as the issuance of certified records or processing of special requests.",
+    "japaneseDefinition": "手数料。公的な書面の交付や特定の事務処理に対して、国に納付すべき金銭。供託原簿の記録の証明などを行う際に必要となる。",
+    "japaneseWordTranslation": "手数料 (てすうりょう)",
+    "legalContext": "Deposit Act Art. 10: Any person requesting the issuance of a transcript or the certification of entries must pay the required Handling Sum.",
+    "japaneseLegalContext": "供託法第10条：供託原簿の謄本の交付又は記録事項の証明を請求する者は、所定の手数料を納めなければならない。",
+    "exampleSentence": "The required Handling Sum for obtaining a certified transcript was paid via the online payment portal.",
+    "exampleTranslation": "証明された謄本を取得するための所定の手数料は、オンライン決済ポータルを通じて支払われた。",
+    "vocabularyList": [
+      {
+        "word": "Monetary",
+        "translation": "金銭的な (きんせんてきな)"
+      },
+      {
+        "word": "Amount",
+        "translation": "金額 (きんがく)"
+      },
+      {
+        "word": "Charged",
+        "translation": "課される (かされる)"
+      },
+      {
+        "word": "Issuance",
+        "translation": "交付 (こうふ)"
+      },
+      {
+        "word": "Transcript",
+        "translation": "謄本 (とうほん)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Identity Validation",
+    "definition": "The official process of checking and confirming that a person is indeed who they claim to be, typically through digital keys or personal documentation.",
+    "japaneseDefinition": "本人確認。申請や届出を行う者が、確かに本人であることを公的に証明・確認する手続。電子署名や本人確認書類の提示によって行われる。",
+    "japaneseWordTranslation": "本人確認 (ほんにんかくにん)",
+    "legalContext": "Deposit Rules: In cases of web-based filings, the registrar shall perform Identity Validation using digital signatures and identification codes.",
+    "japaneseLegalContext": "供託規則：電子申請が行われる場合、供託官は電子署名及び識別番号を用いて本人確認を行わなければならない。",
+    "exampleSentence": "The registrar completed the Identity Validation by verifying the digital signature attached to the file.",
+    "exampleTranslation": "供託官は、ファイルに付された電子署名を検証することにより、本人確認を完了した。",
+    "vocabularyList": [
+      {
+        "word": "Validation",
+        "translation": "確認 (かくにん)"
+      },
+      {
+        "word": "Identity",
+        "translation": "本人性 (ほんにんせい)"
+      },
+      {
+        "word": "Verification",
+        "translation": "検証 (けんしょう)"
+      },
+      {
+        "word": "Confirm",
+        "translation": "確かめる (たしかめる)"
+      },
+      {
+        "word": "Digital",
+        "translation": "デジタルの (でじたるの)"
+      }
+    ]
   }
 ]

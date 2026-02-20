@@ -16087,5 +16087,107 @@
         "translation": "有資格代理人"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Dominant Tenement",
+    "definition": "The parcel of land that benefits from an easement (servitude) over another parcel of land (the servient tenement).",
+    "japaneseDefinition": "地役権において、他人の土地（承役地）から便益を受ける方の土地のこと。",
+    "japaneseWordTranslation": "要役地 (ようやくち)",
+    "legalContext": "Real Property Registration Act Art. 80: When applying for a registration of a right of servitude, the application information must specify the dominant tenement and the purpose of the servitude.",
+    "japaneseLegalContext": "不動産登記法第80条：地役権の設定の登記を申請するときは、申請情報として、要役地（地役権者が自己の土地の便益のために他人の土地を利用する場合における自己の土地をいう。）及び地役権の設定の目的を提示しなければならない。",
+    "exampleSentence": "The registration record for the dominant tenement does not show the servitude itself; rather, the servitude is recorded on the registration record of the servient tenement.",
+    "exampleTranslation": "要役地の登記記録自体に地役権が記載されるのではなく、地役権は承役地の登記記録に記録されます。",
+    "vocabularyList": [
+      {
+        "word": "Benefit",
+        "translation": "便益"
+      },
+      {
+        "word": "Parcel of land",
+        "translation": "土地の区画"
+      },
+      {
+        "word": "Specify",
+        "translation": "特定する"
+      },
+      {
+        "word": "Purpose",
+        "translation": "目的"
+      },
+      {
+        "word": "Record",
+        "translation": "記録"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Request for Review of Registrar's Action",
+    "definition": "An administrative appeal filed by a person who is dissatisfied with a registrar's decision or measure regarding a registration application.",
+    "japaneseDefinition": "登記官の処分（却下や不当な登記など）に不服がある者が、法務局長に対して行う不服申立てのこと。",
+    "japaneseWordTranslation": "登記官の処分に対する審査請求 (とうきかんのしょぶんにたいするしんさせいきゅう)",
+    "legalContext": "Real Property Registration Act Art. 156: A person who is dissatisfied with a disposition made by a registrar may file a request for review with the Director of the Legal Affairs Bureau.",
+    "japaneseLegalContext": "不動産登記法第156条：登記官の処分に不服がある者は、法務局又は地方法務局の長に審査請求をすることができる。",
+    "exampleSentence": "If the registrar rejects the application based on a formal defect that the applicant disputes, the applicant may file a request for review of the registrar's action.",
+    "exampleTranslation": "申請人が異議を唱える形式的な不備を理由に登記官が申請を却下した場合、申請人は登記官の処分に対して審査請求を行うことができます。",
+    "vocabularyList": [
+      {
+        "word": "Dissatisfied",
+        "translation": "不服がある"
+      },
+      {
+        "word": "Disposition",
+        "translation": "処分"
+      },
+      {
+        "word": "Director",
+        "translation": "長（局長）"
+      },
+      {
+        "word": "Reject",
+        "translation": "却下する"
+      },
+      {
+        "word": "Formal defect",
+        "translation": "形式的な不備"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of the Right of Specific Legatee",
+    "definition": "The registration process required to transfer a specific property to a person designated in a will to receive that specific asset, as opposed to a general share of the estate.",
+    "japaneseDefinition": "遺言によって特定の不動産を譲り受ける者（特定受遺者）への権利移転登記手続のこと。",
+    "japaneseWordTranslation": "特定受遺者による登記 (とくていじゅいしゃによるとうき)",
+    "legalContext": "Real Property Registration Act Art. 63: An application for registration of a change in a right resulting from a legacy shall be filed jointly by the legatee and the executor of the will.",
+    "japaneseLegalContext": "不動産登記法第63条：遺贈による権利の移転の登記は、受遺者及び遺言執行者が共同して申請しなければならない。",
+    "exampleSentence": "Unlike a general heir, a specific legatee must ensure that the registration of the right is completed to protect their interest against third parties after the death of the testator.",
+    "exampleTranslation": "包括相続人と異なり、特定受遺者は遺言者の死亡後、第三者に対して自己の利益を保護するために、権利の登記を確実に完了させる必要があります。",
+    "vocabularyList": [
+      {
+        "word": "Legacy",
+        "translation": "遺贈"
+      },
+      {
+        "word": "Testator",
+        "translation": "遺言者"
+      },
+      {
+        "word": "Jointly",
+        "translation": "共同して"
+      },
+      {
+        "word": "Interest",
+        "translation": "利益・権利"
+      },
+      {
+        "word": "Asset",
+        "translation": "資産"
+      }
+    ]
   }
 ]

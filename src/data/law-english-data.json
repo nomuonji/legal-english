@@ -1,38 +1,38 @@
 {
-  "category": "Civil Preservation (民事保全法)",
+  "category": "Companies Act (会社法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Claim Secured by Preservation",
-  "definition": "The substantive claim (usually a monetary claim or a claim for specific performance) which the obligee seeks to protect and ensure the future execution of, by obtaining a provisional measure.",
-  "japaneseDefinition": "保全命令によって将来的な強制執行の実現を担保しようとする、本案訴訟の対象となる債権。金銭債権を被保全債権とするのが仮差押え、非金銭債権を被保全債権とするのが仮処分である。",
-  "japaneseWordTranslation": "被保全債権 (ひほぜんさいけん)",
-  "legalContext": "Civil Preservation Act Art. 13 (Requirement for Preservation Order): A provisional attachment order shall be issued for the preservation of a claim which can be executed through compulsory execution; a provisional disposition order shall be issued for the preservation of a claim other than those mentioned above.",
-  "japaneseLegalContext": "民事保全法第13条 (保全命令の要件): 仮差押命令は金銭の給付を目的とする債権について、仮処分命令はその他の債権について、それぞれこれを強制執行することができるようにするため、発することができる。",
-  "exampleSentence": "The existence and validity of the claim secured by preservation must be shown to the court through a prima facie showing (疎明).",
-  "exampleTranslation": "被保全債権の存在及び有効性は、疎明によって裁判所に示されなければならない。",
+  "word": "Derivative Action",
+  "definition": "A lawsuit filed by a shareholder (or multiple shareholders) on behalf of the company against its directors or officers to enforce corporate claims, typically related to breaches of fiduciary duties or management failings.",
+  "japaneseDefinition": "会社に代わって、その取締役や役員に対して、善管注意義務違反や経営上の過失などによる損害賠償責任を追及するために株主が提起する訴訟。",
+  "japaneseWordTranslation": "株主代表訴訟 (かぶぬしだいひょうそしょう)",
+  "legalContext": "Companies Act Art. 847: Requirements for Filing a Derivative Action, detailing the procedure and eligibility of the shareholder(s).",
+  "japaneseLegalContext": "会社法第847条: 株主代表訴訟の提起の要件。株主の資格と手続について規定している。",
+  "exampleSentence": "The minority shareholder initiated a derivative action against the former representative director alleging serious breaches of fiduciary duty that resulted in significant corporate losses.",
+  "exampleTranslation": "少数株主は、重大な善管注意義務違反により会社に大きな損失をもたらしたとして、元代表取締役に対して株主代表訴訟を提起した。",
   "vocabularyList": [
     {
-      "word": "existence",
-      "translation": "存在 (そんざい)"
+      "word": "minority shareholder",
+      "translation": "少数株主"
     },
     {
-      "word": "validity",
-      "translation": "有効性 (ゆうこうせい)"
+      "word": "representative director",
+      "translation": "代表取締役"
     },
     {
-      "word": "prima facie showing",
-      "translation": "疎明 (そめい)"
+      "word": "breaches of fiduciary duty",
+      "translation": "善管注意義務違反"
     },
     {
-      "word": "court",
-      "translation": "裁判所 (さいばんしょ)"
+      "word": "corporate claims",
+      "translation": "会社が有する請求権"
     },
     {
-      "word": "provisional attachment",
-      "translation": "仮差押え (かりさしおさえ)"
+      "word": "corporate losses",
+      "translation": "会社損失"
     },
     {
-      "word": "provisional disposition",
-      "translation": "仮処分 (かりしょぶん)"
+      "word": "eligibility",
+      "translation": "資格"
     }
   ]
 }

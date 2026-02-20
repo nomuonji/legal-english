@@ -2,44 +2,6 @@
   {
     "category": "Companies Act (会社法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Derivative Action",
-    "definition": "A lawsuit filed by a shareholder (or multiple shareholders) on behalf of the company against its directors or officers to enforce corporate claims, typically related to breaches of fiduciary duties or management failings.",
-    "japaneseDefinition": "会社に代わって、その取締役や役員に対して、善管注意義務違反や経営上の過失などによる損害賠償責任を追及するために株主が提起する訴訟。",
-    "japaneseWordTranslation": "株主代表訴訟 (かぶぬしだいひょうそしょう)",
-    "legalContext": "Companies Act Art. 847: Requirements for Filing a Derivative Action, detailing the procedure and eligibility of the shareholder(s).",
-    "japaneseLegalContext": "会社法第847条: 株主代表訴訟の提起の要件。株主の資格と手続について規定している。",
-    "exampleSentence": "The minority shareholder initiated a derivative action against the former representative director alleging serious breaches of fiduciary duty that resulted in significant corporate losses.",
-    "exampleTranslation": "少数株主は、重大な善管注意義務違反により会社に大きな損失をもたらしたとして、元代表取締役に対して株主代表訴訟を提起した。",
-    "vocabularyList": [
-      {
-        "word": "minority shareholder",
-        "translation": "少数株主"
-      },
-      {
-        "word": "representative director",
-        "translation": "代表取締役"
-      },
-      {
-        "word": "breaches of fiduciary duty",
-        "translation": "善管注意義務違反"
-      },
-      {
-        "word": "corporate claims",
-        "translation": "会社が有する請求権"
-      },
-      {
-        "word": "corporate losses",
-        "translation": "会社損失"
-      },
-      {
-        "word": "eligibility",
-        "translation": "資格"
-      }
-    ]
-  },
-  {
-    "category": "Companies Act (会社法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Treasury Shares",
     "definition": "Shares of a company's own stock that have been acquired by the company itself, either through market purchases or other legal means, and are held without being retired.",
     "japaneseDefinition": "会社が市場からの買い入れやその他の合法的な手段を通じて自社で取得し、消却せずに保有している自己資本を構成する株式。",
@@ -17546,6 +17508,108 @@
       {
         "word": "Voting power",
         "translation": "議決権力"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Absolute Matters to be Stated",
+    "definition": "The specific items that must be included in a corporate charter for it to be legally valid; the absence of any such item renders the entire charter void.",
+    "japaneseDefinition": "定款に必ず記載しなければならず、その記載を欠くと定款全体が無効となる事項。目的、商号、本店の所在地など。",
+    "japaneseWordTranslation": "絶対的記載事項 (ぜったいてききさいじこう)",
+    "legalContext": "Companies Act Art. 27: The following matters must be stated or recorded in the articles of incorporation...",
+    "japaneseLegalContext": "会社法第27条：株式会社の定款には、次に掲げる事項を記載し、又は記録しなければならない。",
+    "exampleSentence": "The names of the founding group and the primary goal of the organization are absolute matters to be stated.",
+    "exampleTranslation": "設立時の発起人の氏名および組織の主たる目的は、絶対的記載事項に該当します。",
+    "vocabularyList": [
+      {
+        "word": "Founding group",
+        "translation": "発起人"
+      },
+      {
+        "word": "Primary goal",
+        "translation": "目的"
+      },
+      {
+        "word": "Foundational rules",
+        "translation": "根本規則"
+      },
+      {
+        "word": "Organization",
+        "translation": "組織/法人"
+      },
+      {
+        "word": "Invalidity",
+        "translation": "無効"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Relative Matters to be Stated",
+    "definition": "Matters that do not affect the validity of the charter if omitted, but have no legal force or effect unless they are explicitly documented within the charter.",
+    "japaneseDefinition": "定款に記載しなくても定款自体の効力には影響しないが、定款に定めがなければその事項自体の効力が認められない事項。現物出資や財産引受けなど。",
+    "japaneseWordTranslation": "相対的記載事項 (そうたいてききさいじこう)",
+    "legalContext": "Companies Act Art. 28: The following matters shall not take effect unless they are stated or recorded in the articles of incorporation...",
+    "japaneseLegalContext": "会社法第28条：次に掲げる事項は、定款に記載し、又は記録しなければ、その効力を生じない。",
+    "exampleSentence": "Relative matters to be stated remain legally ineffective unless they are explicitly documented within the charter.",
+    "exampleTranslation": "相対的記載事項は、憲章（定款）内に明示的に記載されない限り、法的効力を持ちません。",
+    "vocabularyList": [
+      {
+        "word": "Charter",
+        "translation": "定款"
+      },
+      {
+        "word": "Force",
+        "translation": "効力"
+      },
+      {
+        "word": "Ineffective",
+        "translation": "無効の/効力のない"
+      },
+      {
+        "word": "Explicitly",
+        "translation": "明示的に"
+      },
+      {
+        "word": "Investors",
+        "translation": "投資家/出資者"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Directory Matters to be Stated",
+    "definition": "Optional items that may be included in the corporate charter for the sake of clarity or operational convenience, though the law does not require them to be stated in the charter to be valid.",
+    "japaneseDefinition": "定款に記載するかどうかは自由であるが、記載された場合には定款としての効力（変更には定款変更手続が必要となる等）を持つ事項。",
+    "japaneseWordTranslation": "任意的記載事項 (にんいてききさいじこう)",
+    "legalContext": "Companies Act Art. 29: In addition to the matters listed in the items of Article 27 and Article 28, the articles of incorporation may state...",
+    "japaneseLegalContext": "会社法第29条：第27条各号及び前条各号に掲げる事項のほか、定款には、この法律の規定により定款の定めがなければならない事項等を記載し、又は記録することができる。",
+    "exampleSentence": "Details concerning the chair of the assembly are typically listed as directory matters to be stated.",
+    "exampleTranslation": "集会（総会）の議長に関する詳細は、通常、任意的記載事項として記載されます。",
+    "vocabularyList": [
+      {
+        "word": "Optional",
+        "translation": "任意的な"
+      },
+      {
+        "word": "Internal rules",
+        "translation": "内部規則"
+      },
+      {
+        "word": "Assembly",
+        "translation": "集会/総会"
+      },
+      {
+        "word": "Clarity",
+        "translation": "明確性"
+      },
+      {
+        "word": "Procedural",
+        "translation": "手続上の"
       }
     ]
   }

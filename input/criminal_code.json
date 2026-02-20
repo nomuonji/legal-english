@@ -19060,5 +19060,119 @@
         "translation": "犯罪"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Putative Self-Defense",
+    "definition": "A legal situation where a person mistakenly believes that they are facing an imminent, unjust attack and acts to defend themselves, even though no such threat actually exists.",
+    "japaneseDefinition": "急迫不正の侵害がないにもかかわらず、それがあると誤認して防衛行為を行うこと。過失があれば過失犯の問題となるが、故意は否定されるのが通説である。",
+    "japaneseWordTranslation": "誤想防衛 (ごそうぼうえい)",
+    "legalContext": "Criminal Code (Theoretical Interpretation): While not explicitly named in the Code, it is treated as a mistake of fact that negates criminal intent (dolus) under general principles.",
+    "japaneseLegalContext": "刑法上の明文規定はないが、学説上、事実の錯誤として故意を阻却するものと解されている（刑法38条1項参照）。",
+    "exampleSentence": "The defendant's counsel argued for putative self-defense, claiming that the defendant mistook the victim's umbrella for a lethal weapon.",
+    "exampleTranslation": "被告人の弁護人は、被告人が被害者の傘を凶器と誤認したと主張し、誤想防衛の成立を訴えた。",
+    "vocabularyList": [
+      {
+        "word": "Mistake of fact",
+        "translation": "事実の錯誤"
+      },
+      {
+        "word": "Imminent",
+        "translation": "急迫した"
+      },
+      {
+        "word": "Unjust attack",
+        "translation": "不正の侵害"
+      },
+      {
+        "word": "Negate intent",
+        "translation": "故意を阻却する"
+      },
+      {
+        "word": "Lethal weapon",
+        "translation": "凶器"
+      },
+      {
+        "word": "Defense counsel",
+        "translation": "弁護人"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deemed Public Official",
+    "definition": "A person who is not a government employee but is treated as a public official for the purposes of the Criminal Code because they perform duties of a public nature under specific statutes.",
+    "japaneseDefinition": "法令に基づき公務に従事する職員ではないが、その職務の公共性から、刑法の適用（特に賄賂罪など）において公務員とみなされる者のこと。",
+    "japaneseWordTranslation": "みなし公務員 (みなしこうむいん)",
+    "legalContext": "Special Acts and various administrative statutes (e.g., Bank of Japan Act, Postal Service Act): These laws specify that certain officers are 'deemed to be officials engaged in public service' under the Penal Code.",
+    "japaneseLegalContext": "特別法（日本銀行法、郵便法、各公団法など）において「刑法その他の罰則の適用については、法令により公務に従事する職員とみなす」と規定される。",
+    "exampleSentence": "The consultant was charged with bribery as they were considered a deemed public official under the special regulatory act.",
+    "exampleTranslation": "そのコンサルタントは、特別規制法に基づき「みなし公務員」と判定されたため、収賄罪で起訴された。",
+    "vocabularyList": [
+      {
+        "word": "Public nature",
+        "translation": "公共性"
+      },
+      {
+        "word": "Government employee",
+        "translation": "公務員"
+      },
+      {
+        "word": "Bribery",
+        "translation": "贈収賄"
+      },
+      {
+        "word": "Special statute",
+        "translation": "特別法"
+      },
+      {
+        "word": "Engaged in duty",
+        "translation": "職務に従事する"
+      },
+      {
+        "word": "Administrative authority",
+        "translation": "行政権限"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-punishment of Preliminary Acts",
+    "definition": "The legal principle that preparatory actions taken before the commencement of a crime are not punishable unless specific provisions for 'preliminary offenses' exist for that particular crime.",
+    "japaneseDefinition": "実行の着手に至る前の準備行為（予備）は、各本条において特に予備罪としての処罰規定がない限り、処罰されないという原則。",
+    "japaneseWordTranslation": "予備行為不処罰の原則 (よびこういふしょばつのげんそく)",
+    "legalContext": "Criminal Code General Provisions: Punishment is generally reserved for consummated crimes and attempted crimes, with preliminary acts only being criminalized for serious offenses like murder (Art. 201) or arson (Art. 113).",
+    "japaneseLegalContext": "刑法総則の原則により、犯罪は既遂および未遂が処罰対象であり、予備行為は殺人予備罪（201条）や放火予備罪（113条）など、重大犯罪に限定される。",
+    "exampleSentence": "Under the principle of non-punishment of preliminary acts, purchasing a mask is generally not a crime unless it constitutes part of a specific preliminary offense defined by law.",
+    "exampleTranslation": "予備行為不処罰の原則に基づき、マスクの購入は、法に定める特定の予備罪を構成しない限り、一般に罪とはならない。",
+    "vocabularyList": [
+      {
+        "word": "Preliminary act",
+        "translation": "予備行為"
+      },
+      {
+        "word": "Commencement",
+        "translation": "着手"
+      },
+      {
+        "word": "Consummated crime",
+        "translation": "既遂罪"
+      },
+      {
+        "word": "Punishable",
+        "translation": "可罰的な"
+      },
+      {
+        "word": "Criminalization",
+        "translation": "犯罪化"
+      },
+      {
+        "word": "Statutory provision",
+        "translation": "規定"
+      }
+    ]
   }
 ]

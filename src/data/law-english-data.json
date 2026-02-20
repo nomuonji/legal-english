@@ -1,38 +1,38 @@
 {
-  "category": "Asset Entry Procedures",
+  "category": "Civil Preservation (民事保全法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Plot Counter",
-  "definition": "A legal unit utilized to count and distinguish individual segments of the ground within the official bureau files.",
-  "japaneseDefinition": "土地の個数を数え、区別するための法的単位。",
-  "japaneseWordTranslation": "筆 (ひつ)",
-  "legalContext": "Relevant provision: The unit of the ground shall be the Plot Counter, and a ledger file is created for each such unit.",
-  "japaneseLegalContext": "関連規定：土地の単位は筆とし、一筆の土地ごとに記録を成す。",
-  "exampleSentence": "The official assigns a specific number to every segment based on its Plot Counter.",
-  "exampleTranslation": "当局は、各土地の筆に基づいて特定の番号を付与します。",
+  "word": "Claim Secured by Preservation",
+  "definition": "The substantive claim (usually a monetary claim or a claim for specific performance) which the obligee seeks to protect and ensure the future execution of, by obtaining a provisional measure.",
+  "japaneseDefinition": "保全命令によって将来的な強制執行の実現を担保しようとする、本案訴訟の対象となる債権。金銭債権を被保全債権とするのが仮差押え、非金銭債権を被保全債権とするのが仮処分である。",
+  "japaneseWordTranslation": "被保全債権 (ひほぜんさいけん)",
+  "legalContext": "Civil Preservation Act Art. 13 (Requirement for Preservation Order): A provisional attachment order shall be issued for the preservation of a claim which can be executed through compulsory execution; a provisional disposition order shall be issued for the preservation of a claim other than those mentioned above.",
+  "japaneseLegalContext": "民事保全法第13条 (保全命令の要件): 仮差押命令は金銭の給付を目的とする債権について、仮処分命令はその他の債権について、それぞれこれを強制執行することができるようにするため、発することができる。",
+  "exampleSentence": "The existence and validity of the claim secured by preservation must be shown to the court through a prima facie showing (疎明).",
+  "exampleTranslation": "被保全債権の存在及び有効性は、疎明によって裁判所に示されなければならない。",
   "vocabularyList": [
     {
-      "word": "Segment",
-      "translation": "区分"
+      "word": "existence",
+      "translation": "存在 (そんざい)"
     },
     {
-      "word": "Distinguish",
-      "translation": "区別する"
+      "word": "validity",
+      "translation": "有効性 (ゆうこうせい)"
     },
     {
-      "word": "Bureau",
-      "translation": "局"
+      "word": "prima facie showing",
+      "translation": "疎明 (そめい)"
     },
     {
-      "word": "Official",
-      "translation": "公的な"
+      "word": "court",
+      "translation": "裁判所 (さいばんしょ)"
     },
     {
-      "word": "Ground",
-      "translation": "地面"
+      "word": "provisional attachment",
+      "translation": "仮差押え (かりさしおさえ)"
     },
     {
-      "word": "Unit",
-      "translation": "単位"
+      "word": "provisional disposition",
+      "translation": "仮処分 (かりしょぶん)"
     }
   ]
 }

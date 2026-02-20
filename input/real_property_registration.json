@@ -15985,5 +15985,107 @@
         "translation": "詳細事項"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Request for the Inspection of Annexed Documents",
+    "definition": "A formal request made by an interested person to examine documents that were submitted to the registry office as attachments to an application for registration, such as contracts or maps, provided that there is a legitimate interest.",
+    "japaneseDefinition": "利害関係人が、登記所に保管されている登記申請時の添付書類（契約書や図面など）を閲覧するために行う正式な請求。正当な理由がある場合に限り認められる。",
+    "japaneseWordTranslation": "附属書類の閲覧の請求 (ふぞくしょるいのえつらんのせいきゅう)",
+    "legalContext": "Real Property Registration Act Art. 121: Any person may request a registrar to issue a certificate of registered matters... However, as for the inspection of the annexed documents of a registration record, only a person who has an interest in the part of the documents they wish to inspect may make a request.",
+    "japaneseLegalContext": "不動産登記法第121条：何人も、登記官に対し、手数料を納付して、登記記録に記録されている事項の全部又は一部を証明した書面の交付を請求することができる。…ただし、附属書類の閲覧の請求については、請求人が閲覧について利害関係がある部分に限定される。",
+    "exampleSentence": "The interested party filed a request for the inspection of annexed documents to verify the specific details of the original contract of sale.",
+    "exampleTranslation": "利害関係人は、売買契約の原本の詳細を確認するため、附属書類の閲覧の請求を行った。",
+    "vocabularyList": [
+      {
+        "word": "Interested person",
+        "translation": "利害関係人"
+      },
+      {
+        "word": "Annexed documents",
+        "translation": "附属書類"
+      },
+      {
+        "word": "Registry office",
+        "translation": "登記所"
+      },
+      {
+        "word": "Inspection",
+        "translation": "閲覧"
+      },
+      {
+        "word": "Registered matters",
+        "translation": "登記事項"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of the Disclaimer of a Trust Administrator",
+    "definition": "A registration made to reflect the voluntary resignation of a trust administrator from their position, which must be recorded in the rights section of the real property register to ensure the accuracy of the trust's governance records.",
+    "japaneseDefinition": "信託管理人が自らの意思で辞任したことを反映するための登記。信託の統治記録の正確性を期すため、不動産登記簿の権利部に記録される必要がある。",
+    "japaneseWordTranslation": "信託管理人の辞任の登記 (しんたくかんりにんのじにんのとうき)",
+    "legalContext": "Real Property Registration Act Art. 99: If there is a change in the trust administrator... a registration of a change in the trust description must be made without delay.",
+    "japaneseLegalContext": "不動産登記法第99条：信託管理人の変更があったときは…、遅滞なく、信託目録の記録の変更の登記を申請しなければならない。",
+    "exampleSentence": "Upon the disclaimer of the trust administrator, the trustee applied for a registration to reflect the vacancy in the trust inventory.",
+    "exampleTranslation": "信託管理人の辞任に伴い、受託者は信託目録にその欠員を反映させるための登記を申請した。",
+    "vocabularyList": [
+      {
+        "word": "Disclaimer",
+        "translation": "辞任"
+      },
+      {
+        "word": "Trust administrator",
+        "translation": "信託管理人"
+      },
+      {
+        "word": "Trust inventory",
+        "translation": "信託目録"
+      },
+      {
+        "word": "Rights section",
+        "translation": "権利部"
+      },
+      {
+        "word": "Trustee",
+        "translation": "受託者"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Application for Registration by a Messenger",
+    "definition": "An application for registration where a person (the messenger) physically delivers the application documents to the registry office on behalf of the applicant or their agent, without having the legal authority to represent them or modify the content of the application.",
+    "japaneseDefinition": "申請人または代理人に代わって、単に申請書類を物理的に登記所へ持参する者（使者）による登記申請。使者は代理権を持たず、申請内容を修正する権限も有しない。",
+    "japaneseWordTranslation": "使者による申請 (ししゃによるしんせい)",
+    "legalContext": "Real Property Registration Act Principles: While registration applications are typically made by the parties or their qualified agents, the physical delivery of documents can be performed by a messenger (shisha), provided that the documents are complete and signed by the authorized parties.",
+    "japaneseLegalContext": "不動産登記法の原則：登記申請は通常、当事者またはその有資格代理人によって行われるが、書類が完備され権限ある者の署名捺印がある場合に限り、使者による書類の持参（提出）が認められている。",
+    "exampleSentence": "Since the attorney-in-fact was unavailable to visit the legal affairs bureau, they arranged for the application for registration by a messenger.",
+    "exampleTranslation": "代理人が法務局へ行くことができなかったため、使者による登記申請の手配を行った。",
+    "vocabularyList": [
+      {
+        "word": "Messenger",
+        "translation": "使者"
+      },
+      {
+        "word": "Legal affairs bureau",
+        "translation": "法務局"
+      },
+      {
+        "word": "Attorney-in-fact",
+        "translation": "任意代理人"
+      },
+      {
+        "word": "Authority to represent",
+        "translation": "代理権"
+      },
+      {
+        "word": "Qualified agent",
+        "translation": "有資格代理人"
+      }
+    ]
   }
 ]

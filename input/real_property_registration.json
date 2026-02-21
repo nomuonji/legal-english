@@ -16291,5 +16291,119 @@
         "translation": "更新する"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of a Change in the Representative of an Unincorporated Association",
+    "definition": "A registration process used when an organization that lacks formal legal personality (such as a neighborhood association or a religious group not yet incorporated) changes its authorized representative who holds the property in their name on behalf of the group.",
+    "japaneseDefinition": "権利能力を有しない社団（権利能力なき社団）が、不動産を代表者の個人名義で登記している場合において、その代表者が交代した際に行われる登記手続。",
+    "japaneseWordTranslation": "権利能力なき社団の代表者の変更の登記 (けんりりょく communal なきしゃだんのだいひょうしゃのへんこうのとうき)",
+    "legalContext": "Real Property Registration Act (Substantive Practice based on Administrative Circulars): While an unincorporated association cannot be the registered holder itself, it may register property in the name of its representative, necessitating a change registration when a new representative is appointed.",
+    "japaneseLegalContext": "不動産登記法（通達等による実務）：権利能力なき社団自体は登記名義人になれないが、構成員全員の共有として代表者個人名義で登記することが認められており、代表者の交代時にはその旨の登記が必要となる。",
+    "exampleSentence": "The neighborhood association filed for the registration of a change in the representative of an unincorporated association following the chairman's retirement.",
+    "exampleTranslation": "会長の退任に伴い、町内会は権利能力なき社団の代表者の変更の登記を申請した。",
+    "vocabularyList": [
+      {
+        "word": "Unincorporated Association",
+        "translation": "権利能力なき社団"
+      },
+      {
+        "word": "Registered Holder",
+        "translation": "登記名義人"
+      },
+      {
+        "word": "Administrative Circular",
+        "translation": "通達"
+      },
+      {
+        "word": "Retirement",
+        "translation": "退任"
+      },
+      {
+        "word": "Appointment",
+        "translation": "選任"
+      },
+      {
+        "word": "Neighborhood Association",
+        "translation": "自治会・町内会"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Covenant on the Prohibition of Partition",
+    "definition": "A registered agreement among co-owners stipulating that the property shall not be divided or partitioned for a specific period of time, which cannot exceed five years.",
+    "japaneseDefinition": "共有物の分割を一定期間禁ずる旨の共有者間の合意（不分割の特約）を不動産登記簿に記載すること。期間は5年を超えることができない。",
+    "japaneseWordTranslation": "不分割の特約の登記 (ふぶんかつのとくやくのとうき)",
+    "legalContext": "Civil Code Art. 256: Co-owners may agree not to partition the property for a period not exceeding five years. To oppose a third party, this must be registered under Art. 59, item (iv) of the Real Property Registration Act.",
+    "japaneseLegalContext": "民法第256条：共有者は、5年を超えない期間内であれば、分割をしない旨の契約をすることができる。これを第三者に対抗するには不動産登記法第59条第4号に基づき登記する必要がある。",
+    "exampleSentence": "The registration of a covenant on the prohibition of partition prevents any co-owner from demanding a split of the land during the agreed five-year term.",
+    "exampleTranslation": "不分割の特約の登記により、合意された5年間の期間内は、各共有者が土地の分割を請求することが制限される。",
+    "vocabularyList": [
+      {
+        "word": "Covenant",
+        "translation": "特約"
+      },
+      {
+        "word": "Prohibition",
+        "translation": "禁止"
+      },
+      {
+        "word": "Partition",
+        "translation": "分割"
+      },
+      {
+        "word": "Term",
+        "translation": "期間"
+      },
+      {
+        "word": "Oppose",
+        "translation": "対抗する"
+      },
+      {
+        "word": "Stipulate",
+        "translation": "規定する"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of a Right of Usage of a Sewage Disposal Facility",
+    "definition": "A specialized registration recording a party's right to utilize specific infrastructure for wastewater treatment located on another's land, often registered to ensure the utility's continued availability for a property.",
+    "japaneseDefinition": "他人の土地に設置された下水処理施設を利用する権利を登記すること。特定の土地の利便性を確保するために付加される権利として記録される。",
+    "japaneseWordTranslation": "下水処理施設利用権の登記 (げすいしょりしせつりようけんのとうき)",
+    "legalContext": "Real Property Registration Act Art. 59: Rights that can be registered include specific agreements or usage rights recognized under the Civil Code or other special acts to clarify the legal relationships regarding land usage and infrastructure.",
+    "japaneseLegalContext": "不動産登記法第59条：登記することができる権利には、民法その他の法律で認められた特定の利用権や特約が含まれ、土地の利用やインフラに関する法的関係を明確にするために行われる。",
+    "exampleSentence": "Prospective buyers should check the register to see if the registration of a right of usage of a sewage disposal facility has been properly established.",
+    "exampleTranslation": "買主候補者は、下水処理施設利用権の登記が適切に設定されているか登記簿を確認すべきである。",
+    "vocabularyList": [
+      {
+        "word": "Sewage",
+        "translation": "下水"
+      },
+      {
+        "word": "Disposal Facility",
+        "translation": "処理施設"
+      },
+      {
+        "word": "Infrastructure",
+        "translation": "インフラ・設備"
+      },
+      {
+        "word": "Register",
+        "translation": "登記簿"
+      },
+      {
+        "word": "Availability",
+        "translation": "利用可能性"
+      },
+      {
+        "word": "Wastewater",
+        "translation": "排水・汚水"
+      }
+    ]
   }
 ]

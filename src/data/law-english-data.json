@@ -1,38 +1,34 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Asset Entry Procedures",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Litigation Representative",
-  "definition": "A person, typically a lawyer (Bengoshi), appointed by a party to perform all procedural acts in court on their behalf. Their authority generally covers acts related to the conduct of the suit, unless specifically limited.",
-  "japaneseDefinition": "訴訟当事者から委任を受け、その者に代わって訴訟行為を行う者。日本の民事訴訟では、一般に弁護士のみが訴訟代理人となることができる。",
-  "japaneseWordTranslation": "訴訟代理人 (そしょうだいりにん)",
-  "legalContext": "Code of Civil Procedure, Art. 54 (Scope of Authority of Litigation Representative): 'A litigation representative may perform, on behalf of the party, any procedural acts related to the lawsuit...'",
-  "japaneseLegalContext": "民事訴訟法第54条（訴訟代理人の権限）: 「訴訟代理人は、委任を受けた事件について、訴訟行為をすることができる…」",
-  "exampleSentence": "The defendant appointed a new litigation representative prior to the submission of the written answer.",
-  "exampleTranslation": "被告は、答弁書の提出に先立ち、新たな訴訟代理人を選任した。",
+  "word": "Magnetic Media",
+  "definition": "The digital storage hardware, such as a disk, used by the bureau to maintain the electronic ledger in place of paper books.",
+  "japaneseDefinition": "紙の帳簿に代わり、電子的な台帳を維持するために当局が使用する磁気ディスクなどの記録媒体。",
+  "japaneseWordTranslation": "磁気ディスク (じきでぃすく)",
+  "legalContext": "Relevant provision: The ledger shall be prepared by means of Magnetic Media.",
+  "japaneseLegalContext": "関連規定：登記簿は、磁気ディスクをもって調製するものとする。",
+  "exampleSentence": "All data regarding the fixed assets is stored safely on Magnetic Media.",
+  "exampleTranslation": "固定資産に関するすべてのデータは、磁気ディスクに安全に保管されています。",
   "vocabularyList": [
     {
-      "word": "procedural acts",
-      "translation": "訴訟行為 (そしょうこうい)"
+      "word": "Digital storage",
+      "translation": "電子保存"
     },
     {
-      "word": "party",
-      "translation": "当事者 (とうじしゃ)"
+      "word": "Hardware",
+      "translation": "装置"
     },
     {
-      "word": "appointed",
-      "translation": "選任した (せんにんした)"
+      "word": "Maintain",
+      "translation": "維持する"
     },
     {
-      "word": "written answer",
-      "translation": "答弁書 (とうべんしょ)"
+      "word": "Fixed assets",
+      "translation": "固定資産"
     },
     {
-      "word": "submission",
-      "translation": "提出 (ていしゅつ)"
-    },
-    {
-      "word": "on their behalf",
-      "translation": "その者に代わって (そのものにかわって)"
+      "word": "Ledger",
+      "translation": "台帳"
     }
   ]
 }

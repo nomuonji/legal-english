@@ -20080,5 +20080,119 @@
         "translation": "添付された"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Direct Evidence",
+    "definition": "Evidence that, if believed, proves the existence of a principal fact in issue without the need for any intervening inference or presumption.",
+    "japaneseDefinition": "主要事実（争点となっている事実）を、推論や推認を介さずに直接的に証明する証拠のこと。",
+    "japaneseWordTranslation": "直接証拠 (ちょくせつしょうこ)",
+    "legalContext": "Under the principle of free evaluation of evidence (Code of Civil Procedure, Art. 247), the court evaluates the probative force of direct evidence to determine if a principal fact has been established.",
+    "japaneseLegalContext": "民事訴訟法第247条（自由心証主義）の下、裁判所は主要事実が立証されたか判断するために、直接証拠の証拠力を評価する。",
+    "exampleSentence": "The testimony provided by the eyewitness served as direct evidence to prove that the collision occurred at the intersection.",
+    "exampleTranslation": "目撃者による証言は、衝突が交差点で発生したことを証明する直接証拠となった。",
+    "vocabularyList": [
+      {
+        "word": "Principal fact",
+        "translation": "主要事実"
+      },
+      {
+        "word": "Eyewitness",
+        "translation": "目撃者"
+      },
+      {
+        "word": "Testimony",
+        "translation": "証言"
+      },
+      {
+        "word": "To prove",
+        "translation": "立証する"
+      },
+      {
+        "word": "Inference",
+        "translation": "推論"
+      },
+      {
+        "word": "Probative force",
+        "translation": "証拠力"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Circumstantial Evidence",
+    "definition": "Evidence of facts that, although not the principal facts themselves, allow the court to infer the existence or non-existence of a principal fact through reasoning.",
+    "japaneseDefinition": "主要事実そのものではないが、論理的な推論を通じて主要事実の存否を推認させるための証拠。",
+    "japaneseWordTranslation": "間接証拠 (かんせつしょうこ)",
+    "legalContext": "In many civil cases, a party must rely on circumstantial evidence to prove a principal fact when direct evidence is unavailable, leading the court to reach a conclusion through an accumulation of inferred facts.",
+    "japaneseLegalContext": "多くの民事事件において、直接証拠がない場合には、当事者は間接証拠に頼って主要事実を証明する必要があり、裁判所は推認された事実の積み重ねによって結論を導き出す。",
+    "exampleSentence": "The court examined circumstantial evidence, including log-in records and security footage, to determine the timing of the data breach.",
+    "exampleTranslation": "裁判所は、データ漏洩のタイミングを判断するために、ログイン記録や防犯カメラの映像を含む間接証拠を検討した。",
+    "vocabularyList": [
+      {
+        "word": "To infer",
+        "translation": "推認する"
+      },
+      {
+        "word": "To establish",
+        "translation": "立証する / 確立する"
+      },
+      {
+        "word": "Security footage",
+        "translation": "防犯カメラの映像"
+      },
+      {
+        "word": "Reasoning",
+        "translation": "論理的推論"
+      },
+      {
+        "word": "Credibility",
+        "translation": "信用性"
+      },
+      {
+        "word": "To corroborate",
+        "translation": "裏付ける"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Correction of the Description of a Party",
+    "definition": "A procedural mechanism to rectify a clerical error in the name or address of a party in a complaint or legal document, provided that the identity of the party remains the same.",
+    "japaneseDefinition": "当事者の同一性が維持されている範囲内で、訴状などの法的文書に記載された当事者の氏名や住所の誤記を正す手続上のメカニズム。",
+    "japaneseWordTranslation": "当事者の表示訂正 (とうじしゃのひょうじていせい)",
+    "legalContext": "If the plaintiff mistakenly writes the wrong corporate name but the entity is clearly identifiable, the court may allow a correction of the description of a party rather than requiring an amendment of the claim.",
+    "japaneseLegalContext": "原告が誤って異なる社名を記載したが、その主体が明らかに特定できる場合、裁判所は訴えの変更を求めるのではなく、当事者の表示訂正を認めることがある。",
+    "exampleSentence": "The attorney filed a motion for the correction of the description of a party because the defendant's trade name was misspelled in the initial complaint.",
+    "exampleTranslation": "最初の訴状において被告の商号に綴りの間違いがあったため、弁護士は当事者の表示訂正の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "Identity",
+        "translation": "同一性"
+      },
+      {
+        "word": "Clerical error",
+        "translation": "誤記"
+      },
+      {
+        "word": "Trade name",
+        "translation": "商号"
+      },
+      {
+        "word": "To rectify",
+        "translation": "是正する / 訂正する"
+      },
+      {
+        "word": "Misspelling",
+        "translation": "綴りの間違い"
+      },
+      {
+        "word": "Identifiable",
+        "translation": "特定可能な"
+      }
+    ]
   }
 ]

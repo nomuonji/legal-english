@@ -17344,5 +17344,119 @@
         "translation": "照合・確認"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of the Appointment of a Provisional Auditor",
+    "definition": "The official recording in the commercial register of a person designated to temporarily perform the duties of a statutory auditor when a vacancy occurs and the position cannot be immediately filled by a permanent appointment.",
+    "japaneseDefinition": "監査役が欠けた場合や定員に足りなくなった場合に、後任者が就任するまで一時的にその職務を行うべき者（仮監査役）を選任し、その旨を登記簿に記載すること。",
+    "japaneseWordTranslation": "仮監査役の選任の登記 (かりかんさやくのせんにんのとうき)",
+    "legalContext": "Commercial Registration Act Art. 54: When registering the appointment of an officer or an accounting advisor, documents certifying the assumption of office must be submitted.",
+    "japaneseLegalContext": "商業登記法第54条：役員又は会計参与の就任の登記の申請書には、就任を承諾したことを証する書面を添付しなければならない。",
+    "exampleSentence": "The company filed an application for the registration of the appointment of a provisional auditor following the sudden resignation of the previous auditor.",
+    "exampleTranslation": "前任の監査役が突然辞任したため、会社は仮監査役の選任の登記を申請した。",
+    "vocabularyList": [
+      {
+        "word": "Provisional",
+        "translation": "一時の、仮の"
+      },
+      {
+        "word": "Vacancy",
+        "translation": "欠員"
+      },
+      {
+        "word": "Recording",
+        "translation": "記録、記載"
+      },
+      {
+        "word": "Assumption of office",
+        "translation": "就任"
+      },
+      {
+        "word": "Resignation",
+        "translation": "辞任"
+      },
+      {
+        "word": "File an application",
+        "translation": "申請書を提出する"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of the Termination of Representative Authority of a Member",
+    "definition": "A formal entry in the commercial register indicating that a member's power to represent a partnership-type corporation (such as a Goko Kaisha) has ceased, often due to the member's withdrawal or a change in the articles of incorporation.",
+    "japaneseDefinition": "持分会社（合同会社等）において、社員の代表権が退社や定款変更などによって消滅したことを、商業登記簿に記載すること。",
+    "japaneseWordTranslation": "社員の代表権の消滅の登記 (しゃいんだいひょうけんのしょうめつのとうき)",
+    "legalContext": "Commercial Registration Act Art. 91: When a change occurs in the matters concerning a member who represents the company, a registration of such change must be filed within two weeks.",
+    "japaneseLegalContext": "商業登記法第91条：会社を代表すべき社員に関する事項に変更が生じたときは、二週間以内に、その変更の登記をしなければならない。",
+    "exampleSentence": "The registration of the termination of representative authority of a member is required to protect third parties who might otherwise rely on the register's appearance.",
+    "exampleTranslation": "登記の公示を信頼する第三者を保護するため、社員の代表権の消滅の登記が必要とされる。",
+    "vocabularyList": [
+      {
+        "word": "Termination",
+        "translation": "消滅、終了"
+      },
+      {
+        "word": "Representative Authority",
+        "translation": "代表権"
+      },
+      {
+        "word": "Partnership-type corporation",
+        "translation": "持分会社"
+      },
+      {
+        "word": "Withdrawal",
+        "translation": "退社、脱退"
+      },
+      {
+        "word": "Appearance",
+        "translation": "外観"
+      },
+      {
+        "word": "Formal entry",
+        "translation": "正式な記載"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of a Change in the Personal Name of a Representative Member",
+    "definition": "The update in the commercial register of the individual name of a person who has the authority to represent a partnership-type legal entity, typically following a legal name change due to marriage or other reasons.",
+    "japaneseDefinition": "持分会社を代表する社員の氏名に変更があった場合に、登記簿上の氏名を更新する手続のこと（婚姻による氏の変更など）。",
+    "japaneseWordTranslation": "代表社員の氏名の変更の登記 (だいひょうしゃいんのしめいのへんこうのとうき)",
+    "legalContext": "Commercial Registration Act Art. 92: Provisions regarding the registration of changes for representative directors apply mutatis mutandis to the representative members of a limited liability company.",
+    "japaneseLegalContext": "商業登記法第92条：合同会社の代表社員の変更の登記については、株式会社の代表取締役の変更の登記に関する規定を準用する。",
+    "exampleSentence": "The registry office accepted the application for the registration of a change in the personal name of a representative member accompanied by a transcript of the family register.",
+    "exampleTranslation": "法務局は、戸籍謄本を添付した代表社員の氏名の変更の登記申請を受理した。",
+    "vocabularyList": [
+      {
+        "word": "Personal Name",
+        "translation": "氏名"
+      },
+      {
+        "word": "Update",
+        "translation": "更新"
+      },
+      {
+        "word": "Family register",
+        "translation": "戸籍"
+      },
+      {
+        "word": "Transcript",
+        "translation": "謄本"
+      },
+      {
+        "word": "Registry office",
+        "translation": "登記所、法務局"
+      },
+      {
+        "word": "Accompanied by",
+        "translation": "〜を添付して"
+      }
+    ]
   }
 ]

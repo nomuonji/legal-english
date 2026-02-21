@@ -1,38 +1,38 @@
 {
-  "category": "Companies Act (会社法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Derivative Action",
-  "definition": "A lawsuit filed by a shareholder (or multiple shareholders) on behalf of the company against its directors or officers to enforce corporate claims, typically related to breaches of fiduciary duties or management failings.",
-  "japaneseDefinition": "会社に代わって、その取締役や役員に対して、善管注意義務違反や経営上の過失などによる損害賠償責任を追及するために株主が提起する訴訟。",
-  "japaneseWordTranslation": "株主代表訴訟 (かぶぬしだいひょうそしょう)",
-  "legalContext": "Companies Act Art. 847: Requirements for Filing a Derivative Action, detailing the procedure and eligibility of the shareholder(s).",
-  "japaneseLegalContext": "会社法第847条: 株主代表訴訟の提起の要件。株主の資格と手続について規定している。",
-  "exampleSentence": "The minority shareholder initiated a derivative action against the former representative director alleging serious breaches of fiduciary duty that resulted in significant corporate losses.",
-  "exampleTranslation": "少数株主は、重大な善管注意義務違反により会社に大きな損失をもたらしたとして、元代表取締役に対して株主代表訴訟を提起した。",
+  "word": "Litigation Representative",
+  "definition": "A person, typically a lawyer (Bengoshi), appointed by a party to perform all procedural acts in court on their behalf. Their authority generally covers acts related to the conduct of the suit, unless specifically limited.",
+  "japaneseDefinition": "訴訟当事者から委任を受け、その者に代わって訴訟行為を行う者。日本の民事訴訟では、一般に弁護士のみが訴訟代理人となることができる。",
+  "japaneseWordTranslation": "訴訟代理人 (そしょうだいりにん)",
+  "legalContext": "Code of Civil Procedure, Art. 54 (Scope of Authority of Litigation Representative): 'A litigation representative may perform, on behalf of the party, any procedural acts related to the lawsuit...'",
+  "japaneseLegalContext": "民事訴訟法第54条（訴訟代理人の権限）: 「訴訟代理人は、委任を受けた事件について、訴訟行為をすることができる…」",
+  "exampleSentence": "The defendant appointed a new litigation representative prior to the submission of the written answer.",
+  "exampleTranslation": "被告は、答弁書の提出に先立ち、新たな訴訟代理人を選任した。",
   "vocabularyList": [
     {
-      "word": "minority shareholder",
-      "translation": "少数株主"
+      "word": "procedural acts",
+      "translation": "訴訟行為 (そしょうこうい)"
     },
     {
-      "word": "representative director",
-      "translation": "代表取締役"
+      "word": "party",
+      "translation": "当事者 (とうじしゃ)"
     },
     {
-      "word": "breaches of fiduciary duty",
-      "translation": "善管注意義務違反"
+      "word": "appointed",
+      "translation": "選任した (せんにんした)"
     },
     {
-      "word": "corporate claims",
-      "translation": "会社が有する請求権"
+      "word": "written answer",
+      "translation": "答弁書 (とうべんしょ)"
     },
     {
-      "word": "corporate losses",
-      "translation": "会社損失"
+      "word": "submission",
+      "translation": "提出 (ていしゅつ)"
     },
     {
-      "word": "eligibility",
-      "translation": "資格"
+      "word": "on their behalf",
+      "translation": "その者に代わって (そのものにかわって)"
     }
   ]
 }

@@ -16189,5 +16189,107 @@
         "translation": "資産"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of the Reappearance of Land",
+    "definition": "A specific registration procedure performed when land that was previously submerged (and had its registration record closed) reappears and becomes a subject of ownership again.",
+    "japaneseDefinition": "海没等により登記記録が閉鎖された土地が、再びにじみ出て土地となった場合に行われる登記手続き。",
+    "japaneseWordTranslation": "土地の没合の登記 (とちのぼつごうのとうき)",
+    "legalContext": "Real Property Registration Act Art. 43: If land for which the registration record has been closed due to submergence has reappeared, a registration of the reappearance of the land shall be made.",
+    "japaneseLegalContext": "不動産登記法第43条：海没により登記記録が閉鎖された土地が没合したときは、土地の没合の登記をしなければならない。",
+    "exampleSentence": "The owner filed an application for the registration of the reappearance of land after the coastal area naturally rose above sea level.",
+    "exampleTranslation": "海岸地域が自然に海面上に上昇したため、所有者は土地の没合の登記の申請を行った。",
+    "vocabularyList": [
+      {
+        "word": "Submergence",
+        "translation": "海没"
+      },
+      {
+        "word": "Reappear",
+        "translation": "没合する"
+      },
+      {
+        "word": "Coastal area",
+        "translation": "海岸地域"
+      },
+      {
+        "word": "Naturally rose",
+        "translation": "自然に上昇した"
+      },
+      {
+        "word": "Sea level",
+        "translation": "海面上"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of a Floating Security",
+    "definition": "A registration of a special security interest created over the entirety of a corporation's assets, including real property, as a collective whole under the Enterprise Mortgage Act.",
+    "japaneseDefinition": "企業担保法に基づき、株式会社の総財産（不動産を含む）を一体として目的とする特殊な担保権の登記。",
+    "japaneseWordTranslation": "企業担保権の登記 (きぎょうたんぽけんのとうき)",
+    "legalContext": "Enterprise Mortgage Act Art. 1: A stock company may create an enterprise mortgage over the whole of its assets to secure corporate bonds.",
+    "japaneseLegalContext": "企業担保法第1条：株式会社は、社債を担保するために、その総財産の上に企業担保権を設定することができる。",
+    "exampleSentence": "The registration of a floating security allows a company to provide its entire business as collateral without individual registrations for each asset.",
+    "exampleTranslation": "企業担保権の登記により、企業は個別の資産ごとに登記することなく、事業全体を担保として提供することができる。",
+    "vocabularyList": [
+      {
+        "word": "Enterprise mortgage",
+        "translation": "企業担保権"
+      },
+      {
+        "word": "Entirety of assets",
+        "translation": "総財産"
+      },
+      {
+        "word": "Corporate bonds",
+        "translation": "社債"
+      },
+      {
+        "word": "Collateral",
+        "translation": "担保"
+      },
+      {
+        "word": "Individual registration",
+        "translation": "個別の登記"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of the Modification of the Terms of a Trust",
+    "definition": "The process of updating the recorded trust details when the specific provisions or administrative rules governing a registered trust are changed.",
+    "japaneseDefinition": "登録された信託を管理する規定や管理規則が変更された際に、信託目録の記録を更新する手続き。",
+    "japaneseWordTranslation": "信託条項の変更の登記 (しんたくじょうこうのへんこうのとうき)",
+    "legalContext": "Real Property Registration Act Art. 99: When there has been a change in the matters to be registered regarding a trust, a registration of modification shall be applied for.",
+    "japaneseLegalContext": "不動産登記法第99条：信託の登記事項について変更があったときは、変更の登記を申請しなければならない。",
+    "exampleSentence": "The trustee applied for the registration of the modification of the terms of a trust to reflect the new method of distributing income.",
+    "exampleTranslation": "受託者は、収益の新しい分配方法を反映させるため、信託条項の変更の登記を申請した。",
+    "vocabularyList": [
+      {
+        "word": "Provisions",
+        "translation": "条項"
+      },
+      {
+        "word": "Terms of a Trust",
+        "translation": "信託条項"
+      },
+      {
+        "word": "Reflect",
+        "translation": "反映する"
+      },
+      {
+        "word": "Distributing income",
+        "translation": "収益の分配"
+      },
+      {
+        "word": "Update",
+        "translation": "更新する"
+      }
+    ]
   }
 ]

@@ -18590,5 +18590,107 @@
         "translation": "命令を発する"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Priority in Enforcement",
+    "definition": "A legal rule determining the order of satisfaction among multiple creditors based on the timing of their respective enforcement actions against the debtor's assets.",
+    "japaneseDefinition": "複数の債権者が債務者の資産に対して執行を行う際、それぞれの執行行為の時期に基づいて満足を受ける順序を決定する法原則。",
+    "japaneseWordTranslation": "執行における優先主義 (しっこうにおけるゆうせんしゅぎ)",
+    "legalContext": "Civil Execution Act Art. 4: 'Civil execution shall be carried out by a court or an execution officer upon the petition of a party.'",
+    "japaneseLegalContext": "民事執行法第4条：「民事執行は、当事者の申立てにより、裁判所又は執行官がこれを行う。」",
+    "exampleSentence": "Under the principle of priority in enforcement, the creditor who first files for the seizure of the debtor's assets typically receives satisfaction before subsequent creditors.",
+    "exampleTranslation": "執行における優先主義の下では、債務者の資産の差押えを最初に申し立てた債権者が、通常、後続の債権者に先んじて満足を受けることになります。",
+    "vocabularyList": [
+      {
+        "word": "Enforcement action",
+        "translation": "執行行為"
+      },
+      {
+        "word": "Priority",
+        "translation": "優先順位"
+      },
+      {
+        "word": "Creditor satisfaction",
+        "translation": "債権の満足"
+      },
+      {
+        "word": "Timing",
+        "translation": "時期"
+      },
+      {
+        "word": "Asset",
+        "translation": "資産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Compulsory Satisfaction of a Debt",
+    "definition": "The legal process by which a creditor obtains the fulfillment of their claim through the intervention of the state, typically involving the seizure and sale of the debtor's property.",
+    "japaneseDefinition": "国家の介入を通じて債権者がその権利の実現を図る法的プロセスであり、通常、債務者の財産の差押えおよび売却を伴う。",
+    "japaneseWordTranslation": "債務の強制的満足 (さいむのきょうせいてきまんぞく)",
+    "legalContext": "Civil Execution Act Art. 2: 'Civil execution shall be carried out by an executing organ upon being presented with an executory title of obligation.'",
+    "japaneseLegalContext": "民事執行法第2条：「民事執行は、執行力のある債務名義の正本に基づいて、執行機関がこれを行う。」",
+    "exampleSentence": "The court directed the compulsory satisfaction of a debt by ordering the realization of the debtor's interests in the property.",
+    "exampleTranslation": "裁判所は、財産に対する債務者の持分の換価を命じることにより、債務の強制的満足を指示しました。",
+    "vocabularyList": [
+      {
+        "word": "Fulfillment",
+        "translation": "実現 / 履行"
+      },
+      {
+        "word": "Intervention",
+        "translation": "介入"
+      },
+      {
+        "word": "Interests",
+        "translation": "持分 / 利益"
+      },
+      {
+        "word": "Direction",
+        "translation": "指示"
+      },
+      {
+        "word": "Process",
+        "translation": "手続 / 過程"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Stay of the Realization Procedure",
+    "definition": "A legal suspension of the process of converting seized property into money, often resulting from a court order or the presentation of specific documents that contest the validity of the execution.",
+    "japaneseDefinition": "差押えられた財産を金銭に換える手続の法的停止であり、多くの場合、裁判所の命令や執行の有効性を争う特定の書類の提出によって生じる。",
+    "japaneseWordTranslation": "換価手続の停止 (かんかてつづきのていし)",
+    "legalContext": "Civil Execution Act Art. 39: 'Civil execution shall be stayed... when any of the following documents have been submitted.'",
+    "japaneseLegalContext": "民事執行法第39条：「民事執行は、次に掲げる書類の提出があったときは、停止しなければならない。」",
+    "exampleSentence": "The debtor filed a motion for the stay of the realization procedure after claiming that the underlying judgment had been vacated.",
+    "exampleTranslation": "債務者は、基礎となる判決が取り消されたと主張し、換価手続の停止を申し立てました。",
+    "vocabularyList": [
+      {
+        "word": "Suspension",
+        "translation": "停止"
+      },
+      {
+        "word": "Validity",
+        "translation": "有効性"
+      },
+      {
+        "word": "Contest",
+        "translation": "争う"
+      },
+      {
+        "word": "Motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "Vacated",
+        "translation": "取り消された"
+      }
+    ]
   }
 ]

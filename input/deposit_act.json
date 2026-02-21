@@ -13934,5 +13934,115 @@
         "translation": "転記 (てんき)"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consignation for an Unidentifiable Person",
+    "definition": "A legal procedure where a party who owes a debt places the amount with an official bureau because the identity of the person entitled to receive it cannot be determined through no fault of the debtor.",
+    "japaneseDefinition": "債務者が、過失なく債権者を特定することができない場合に、法務局に対して金銭などを供託すること。",
+    "japaneseWordTranslation": "債権者不確知による供託 (さいけんしゃふかくちによるきょうたく)",
+    "legalContext": "Act on Consignations Art. 1: If the party who is the beneficiary of the funds cannot be identified, the debtor may utilize the consignation system to be released from the duty.",
+    "japaneseLegalContext": "供託法第1条：債権者を特定することができないときは、供託をすることでその義務を免れることができる。",
+    "exampleSentence": "The company utilized consignation for an unidentifiable person because it was unclear which heir had the right to the funds.",
+    "exampleTranslation": "どの相続人が資金に対する権利を有しているか不明であったため、会社は債権者不確知による供託を利用した。",
+    "vocabularyList": [
+      {
+        "word": "Unidentifiable",
+        "translation": "特定不能の"
+      },
+      {
+        "word": "Bureau",
+        "translation": "局（法務局等）"
+      },
+      {
+        "word": "Heir",
+        "translation": "相続人"
+      },
+      {
+        "word": "Entitled",
+        "translation": "権利を有する"
+      },
+      {
+        "word": "Beneficiary",
+        "translation": "受益者"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consignation of Rent for a Tenancy",
+    "definition": "The act of placing lease payments into official custody when a landlord refuses to receive them, ensuring the tenant is not considered in default of the agreement.",
+    "japaneseDefinition": "家主が家賃の受領を拒んだ場合に、借主が法務局に家賃を預けることで、債務不履行を免れるための手続き。",
+    "japaneseWordTranslation": "賃料の供託 (ちんりょうのきょうたく)",
+    "legalContext": "Act on Consignations Art. 1: A tenant may consign the sum if the landlord declines the payment without a valid reason.",
+    "japaneseLegalContext": "供託法第1条：家主が正当な理由なく家賃の受領を拒絶したとき、借主はその額を供託することができる。",
+    "exampleSentence": "To avoid a breach of the lease during the dispute, the occupant opted for the consignation of rent for a tenancy.",
+    "exampleTranslation": "紛争中の賃貸借契約違反を避けるため、居住者は賃料の供託を選択した。",
+    "vocabularyList": [
+      {
+        "word": "Tenancy",
+        "translation": "借家権／賃貸借"
+      },
+      {
+        "word": "Landlord",
+        "translation": "家主／賃貸人"
+      },
+      {
+        "word": "Occupant",
+        "translation": "占有者／居住者"
+      },
+      {
+        "word": "Declines",
+        "translation": "拒絶する"
+      },
+      {
+        "word": "Default",
+        "translation": "不履行"
+      },
+      {
+        "word": "Consign",
+        "translation": "供託する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consignation of the Value of Assets at Risk of Spoilage",
+    "definition": "A procedure where a party sells items that are likely to deteriorate or rot and consigns the resulting cash value to the official agency instead of the physical items.",
+    "japaneseDefinition": "供託すべき物品が損傷や腐敗の恐れがある場合に、その物品を競売等で換価し、その代金を供託すること。",
+    "japaneseWordTranslation": "供託物の換価による供託 (きょうたくぶつのかんかによるきょうたく)",
+    "legalContext": "Civil Code Art. 497: If the items intended for consignation are at risk of spoilage, the party may sell them with the permission of the court and consign the price obtained.",
+    "japaneseLegalContext": "民法第497条：供託すべき物が損傷するおそれがあるときは、裁判所の許可を得てこれを売却し、その代金を供託することができる。",
+    "exampleSentence": "The warehouse manager initiated the consignation of the value of assets at risk of spoilage because the fruit would not last until the trial concluded.",
+    "exampleTranslation": "果物は裁判が結了するまで保たないため、倉庫管理人は供託物の換価による供託を開始した。",
+    "vocabularyList": [
+      {
+        "word": "Spoilage",
+        "translation": "損傷／腐敗"
+      },
+      {
+        "word": "Deteriorate",
+        "translation": "劣化する"
+      },
+      {
+        "word": "Assets",
+        "translation": "資産／物品"
+      },
+      {
+        "word": "Initiated",
+        "translation": "着手した"
+      },
+      {
+        "word": "Concluded",
+        "translation": "終了した"
+      },
+      {
+        "word": "Price obtained",
+        "translation": "売却代金"
+      }
+    ]
   }
 ]

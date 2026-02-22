@@ -14258,5 +14258,119 @@
         "translation": "開始する"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Validation of Digital Signatures",
+    "definition": "The procedural act of verifying the authenticity and integrity of a digital mark attached to electronic data submitted to a public office.",
+    "japaneseDefinition": "公的機関に提出された電子データに付された電子署名の真正性と正確性を確認する手続的行為。",
+    "japaneseWordTranslation": "電子署名の検証 (でんししょめいのけんしょう)",
+    "legalContext": "Deposit Act Art. 1-2: Procedures using electronic data processing systems shall ensure the validation of digital signatures to confirm the identity of the person filing.",
+    "japaneseLegalContext": "供託法第1条の2：電子情報処理組織を使用した手続においては、提出者の身元を確認するため、電子署名の検証を確実に行わなければならない。",
+    "exampleSentence": "The public officer must perform a validation of digital signatures for all files submitted through the online system.",
+    "exampleTranslation": "公務員は、オンラインシステムを通じて提出されたすべてのファイルについて、電子署名の検証を行わなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Authenticity",
+        "translation": "真正性"
+      },
+      {
+        "word": "Integrity",
+        "translation": "整合性"
+      },
+      {
+        "word": "Electronic data",
+        "translation": "電子データ"
+      },
+      {
+        "word": "Digital mark",
+        "translation": "電子的な標章"
+      },
+      {
+        "word": "Genuine",
+        "translation": "本物の"
+      },
+      {
+        "word": "Processing system",
+        "translation": "処理組織"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Review of the Depositary Logs",
+    "definition": "The process by which an individual with a legitimate stake is permitted to look at the official books or digital records kept at the site where items are held.",
+    "japaneseDefinition": "正当な利害関係を有する者が、供託物が保管されている場所で管理されている公式の帳簿や電子記録を確認すること。",
+    "japaneseWordTranslation": "供託記録の閲覧 (きょうたくきろくのえつらん)",
+    "legalContext": "Deposit Rules Art. 30: A person who proves a legitimate stake in the records may request a review of the depositary logs during office hours.",
+    "japaneseLegalContext": "供託規則第30条：記録に正当な利害関係があることを証明した者は、執務時間内に供託記録の閲覧を請求することができる。",
+    "exampleSentence": "The individual requested a review of the depositary logs to confirm that the money had been successfully stored.",
+    "exampleTranslation": "その個人は、金銭が正常に保管されたことを確認するために、供託記録の閲覧を請求した。",
+    "vocabularyList": [
+      {
+        "word": "Legitimate stake",
+        "translation": "正当な利害関係"
+      },
+      {
+        "word": "Permitted",
+        "translation": "許可された"
+      },
+      {
+        "word": "Office hours",
+        "translation": "執務時間"
+      },
+      {
+        "word": "Stored",
+        "translation": "保管された"
+      },
+      {
+        "word": "View",
+        "translation": "見る"
+      },
+      {
+        "word": "Digital records",
+        "translation": "電子的な記録"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Request for the Redeposit of Items",
+    "definition": "A formal petition to move the items held by one depository to another when the original location is no longer suited for secure custody.",
+    "japaneseDefinition": "元の場所が安全な保管に適さなくなった場合に、ある保管場所にある供託物を別の場所に移すための公式な申し立て。",
+    "japaneseWordTranslation": "供託物の再供託請求 (きょうたくぶつのさいきょうたくせいきゅう)",
+    "legalContext": "Deposit Act Art. 6: If it becomes unsuitable for the current site to keep the items in its custody, the officer may initiate a request for the redeposit of items to a different secure facility.",
+    "japaneseLegalContext": "供託法第6条：現在の場所で供託物を保管することが不適当となったときは、係官は別の安全な施設への供託物の再供託請求を開始することができる。",
+    "exampleSentence": "A request for the redeposit of items was made after the primary facility suffered significant damage from the storm.",
+    "exampleTranslation": "主要な施設が嵐で大きな被害を受けた後、供託物の再供託請求が行われた。",
+    "vocabularyList": [
+      {
+        "word": "Redeposit",
+        "translation": "再供託"
+      },
+      {
+        "word": "Unsuitable",
+        "translation": "不適当な"
+      },
+      {
+        "word": "Custody",
+        "translation": "保管"
+      },
+      {
+        "word": "Secure facility",
+        "translation": "安全な施設"
+      },
+      {
+        "word": "Initiate",
+        "translation": "開始する"
+      },
+      {
+        "word": "Petition",
+        "translation": "申し立て"
+      }
+    ]
   }
 ]

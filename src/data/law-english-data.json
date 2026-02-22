@@ -1,38 +1,38 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Civil Preservation (民事保全法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Means of Attack or Defense",
-  "definition": "The procedural materials presented by the parties during the lawsuit, comprising factual allegations, submissions of evidence, and legal arguments, intended to substantiate their claims or rebut those of the opposing party.",
-  "japaneseDefinition": "当事者が自己の請求を裏付けたり、相手方の請求を排斥したりするために裁判所に提出する、事実の主張、証拠の申出、法律上の主張などの総称。",
-  "japaneseWordTranslation": "攻撃防御方法 (こうげきぼうぎょほうほう)",
-  "legalContext": "Code of Civil Procedure, Art. 148 (Submission of Means of Attack or Defense): 'The parties shall prepare written statements in advance for the allegation of facts, submission of evidence, and other means of attack or defense...'",
-  "japaneseLegalContext": "民事訴訟法第148条（攻撃防御方法の提出）: 「当事者は、事実の主張、証拠の申出その他の攻撃防御方法を、準備書面により…」",
-  "exampleSentence": "The court directed the plaintiff to submit all outstanding Means of Attack or Defense by the next scheduled hearing date.",
-  "exampleTranslation": "裁判所は原告に対し、次回の期日までに未提出の全ての攻撃防御方法を提出するよう指示した。",
+  "word": "Cancellation upon Change of Circumstances",
+  "definition": "A procedure specified in the Civil Preservation Act allowing the preservation obligor to petition the preservation court for the revocation of the preservation order, on the grounds that the circumstances justifying the preservation have significantly changed since the order was issued.",
+  "japaneseDefinition": "保全命令が発令された後に、保全の理由又は保全の必要性の根拠となっていた事情が変化し、保全命令を維持することが不当となった場合に、保全債務者の申立てにより保全命令を取り消す手続。",
+  "japaneseWordTranslation": "事情変更による保全取消し (じじょうへんこうによるほぜんとりけし)",
+  "legalContext": "Civil Preservation Act Art. 42: If the circumstances that constituted the grounds for the preservation have changed, the preservation court may, upon the motion of the obligor, revoke the preservation order.",
+  "japaneseLegalContext": "民事保全法第42条: 保全の理由又は保全の必要性を生じさせた事情が変更したときは、保全裁判所は、債務者の申立てにより、保全命令を取り消すことができる。",
+  "exampleSentence": "The preservation obligor filed a motion for cancellation upon change of circumstances after securing the original debt through a separate collateral arrangement.",
+  "exampleTranslation": "保全債務者は、別の担保の取決めにより元の債務を確保した後、事情変更による保全取消しの申立てを行った。",
   "vocabularyList": [
     {
-      "word": "allegations",
-      "translation": "主張 (しゅちょう)"
+      "word": "preservation obligor",
+      "translation": "保全債務者 (ほぜんさいむしゃ)"
     },
     {
-      "word": "substantiate",
-      "translation": "裏付ける (うらづける)"
+      "word": "motion",
+      "translation": "申立て (もうしたて)"
     },
     {
-      "word": "rebut",
-      "translation": "排斥する (はいせきする)"
+      "word": "revoke",
+      "translation": "取り消す (とりけす)"
     },
     {
-      "word": "plaintiff",
-      "translation": "原告 (げんこく)"
+      "word": "collateral arrangement",
+      "translation": "担保の取決め (たんぽのとりきめ)"
     },
     {
-      "word": "outstanding",
-      "translation": "未提出の (みていしゅつの)"
+      "word": "grounds for preservation",
+      "translation": "保全の理由 (ほぜんのりゆう)"
     },
     {
-      "word": "scheduled hearing date",
-      "translation": "期日 (きじつ)"
+      "word": "significantly changed",
+      "translation": "変更した (へんこうした)"
     }
   ]
 }

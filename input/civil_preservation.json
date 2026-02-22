@@ -2,44 +2,6 @@
   {
     "category": "Civil Preservation (民事保全法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Cancellation upon Change of Circumstances",
-    "definition": "A procedure specified in the Civil Preservation Act allowing the preservation obligor to petition the preservation court for the revocation of the preservation order, on the grounds that the circumstances justifying the preservation have significantly changed since the order was issued.",
-    "japaneseDefinition": "保全命令が発令された後に、保全の理由又は保全の必要性の根拠となっていた事情が変化し、保全命令を維持することが不当となった場合に、保全債務者の申立てにより保全命令を取り消す手続。",
-    "japaneseWordTranslation": "事情変更による保全取消し (じじょうへんこうによるほぜんとりけし)",
-    "legalContext": "Civil Preservation Act Art. 42: If the circumstances that constituted the grounds for the preservation have changed, the preservation court may, upon the motion of the obligor, revoke the preservation order.",
-    "japaneseLegalContext": "民事保全法第42条: 保全の理由又は保全の必要性を生じさせた事情が変更したときは、保全裁判所は、債務者の申立てにより、保全命令を取り消すことができる。",
-    "exampleSentence": "The preservation obligor filed a motion for cancellation upon change of circumstances after securing the original debt through a separate collateral arrangement.",
-    "exampleTranslation": "保全債務者は、別の担保の取決めにより元の債務を確保した後、事情変更による保全取消しの申立てを行った。",
-    "vocabularyList": [
-      {
-        "word": "preservation obligor",
-        "translation": "保全債務者 (ほぜんさいむしゃ)"
-      },
-      {
-        "word": "motion",
-        "translation": "申立て (もうしたて)"
-      },
-      {
-        "word": "revoke",
-        "translation": "取り消す (とりけす)"
-      },
-      {
-        "word": "collateral arrangement",
-        "translation": "担保の取決め (たんぽのとりきめ)"
-      },
-      {
-        "word": "grounds for preservation",
-        "translation": "保全の理由 (ほぜんのりゆう)"
-      },
-      {
-        "word": "significantly changed",
-        "translation": "変更した (へんこうした)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Preservation (民事保全法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Provisional Injunction to Establish Temporary Status Quo",
     "definition": "A type of provisional disposition (injunction) intended not merely to preserve existing assets, but to temporarily regulate a legal relationship or establish a provisional position for the obligee, pending a final judgment on the merits (e.g., injunctions against dismissal or infringement).",
     "japaneseDefinition": "継続的な法律関係を規律し、本案の判決確定までの間、債権者に暫定的な地位を与えることを目的とする仮処分。例えば、地位保全の仮処分や、特定行為の停止を命じる仮処分など。",
@@ -16282,6 +16244,120 @@
       {
         "word": "Substantive",
         "translation": "実体的な"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interim Ruling for a Contested Right",
+    "definition": "A temporary judicial decision issued to preserve the status of a legal relationship or property until a final decision is reached in the main litigation.",
+    "japaneseDefinition": "本案の訴訟において最終的な判決が出るまでの間、権利や財産の現状を維持するために裁判所が出す暫定的な決定。",
+    "japaneseWordTranslation": "争いがある権利関係についての仮処分 (Arasoi ga aru kenri kankei ni tsuite no kari-shobun)",
+    "legalContext": "Civil Preservation Act Art. 23: A provisional injunction order may be issued if it is necessary to establish a temporary status with regard to the legal relationship in dispute in order to avoid any imminent danger or prevent any irreparable harm to the obligee.",
+    "japaneseLegalContext": "民事保全法第23条：仮処分の命令は、争いがある権利関係について、債権者に生ずる急迫の危険を防ぎ、又はこれに避けることができない損害を避けるため、暫定的な地位を定める必要があるときに発することができる。",
+    "exampleSentence": "The court issued an interim ruling for a contested right to prevent the developer from continuing construction while the ownership dispute was pending.",
+    "exampleTranslation": "所有権争いが係属している間、開発業者が建設を継続することを防ぐため、裁判所は争いがある権利関係について仮処分の決定を下した。",
+    "vocabularyList": [
+      {
+        "word": "Interim",
+        "translation": "暫定的な"
+      },
+      {
+        "word": "Contested",
+        "translation": "争いのある"
+      },
+      {
+        "word": "Pending",
+        "translation": "係属中の"
+      },
+      {
+        "word": "Developer",
+        "translation": "開発業者"
+      },
+      {
+        "word": "Judicial decision",
+        "translation": "裁判上の決定"
+      },
+      {
+        "word": "Irreparable",
+        "translation": "回復不可能な"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order to Abstain from an Act",
+    "definition": "A type of provisional injunction that requires a party to refrain from performing a specific action to prevent potential harm to the petitioner.",
+    "japaneseDefinition": "申立人に生じる可能性のある損害を防ぐために、相手方に対して特定の行為を行うことを控えるよう命じる仮処分の一種。",
+    "japaneseWordTranslation": "作為禁止の仮処分 (Sakui kinshi no kari-shobun)",
+    "legalContext": "Civil Preservation Act Art. 24: In cases where a provisional injunction order is issued to prohibit the obligor from performing a certain act, the court shall specify the scope of the prohibited act.",
+    "japaneseLegalContext": "民事保全法第24条：債務者に対し特定の行為を禁止する仮処分の命令を発する場合、裁判所は、禁止される行為の範囲を特定しなければならない。",
+    "exampleSentence": "The petitioner sought an order to abstain from an act of competitive behavior based on the non-disclosure agreement.",
+    "exampleTranslation": "申立人は秘密保持契約に基づき、競合行為を控えるよう命じる仮処分を求めた。",
+    "vocabularyList": [
+      {
+        "word": "Abstain",
+        "translation": "控える、見合わせる"
+      },
+      {
+        "word": "Refrain",
+        "translation": "慎む"
+      },
+      {
+        "word": "Petitioner",
+        "translation": "申立人"
+      },
+      {
+        "word": "Competitive behavior",
+        "translation": "競合行為"
+      },
+      {
+        "word": "Prohibit",
+        "translation": "禁止する"
+      },
+      {
+        "word": "Scope",
+        "translation": "範囲"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Revocation due to Laches in Filing",
+    "definition": "The cancellation of a preservation order when the creditor fails to initiate the principal lawsuit within the period specified by the court.",
+    "japaneseDefinition": "債権者が裁判所の指定した期間内に本案の訴えを提起しなかった場合に、保全命令が取り消されること。",
+    "japaneseWordTranslation": "起訴命令不遵守による保全命令の取消し (Kiso meirei fujunshu ni yoru hozen meirei no torikeshi)",
+    "legalContext": "Civil Preservation Act Art. 37: If the creditor does not submit a document proving the filing of an action on the merits within the period specified in the order, the court must revoke the preservation order upon the motion of the debtor.",
+    "japaneseLegalContext": "民事保全法第37条：債権者が起訴命令で定められた期間内に本案の訴えの提起を証する書面を提出しないときは、裁判所は、債務者の申立てにより、保全命令を取り消さなければならない。",
+    "exampleSentence": "The defendant successfully moved for the revocation due to laches in filing after the plaintiff missed the deadline to start the main case.",
+    "exampleTranslation": "原告が本案訴訟を開始する期限を過ぎたため、被告は起訴命令不遵守を理由とする保全命令の取消しを申し立て、これが認められた。",
+    "vocabularyList": [
+      {
+        "word": "Laches",
+        "translation": "権利行使の怠慢"
+      },
+      {
+        "word": "Initiate",
+        "translation": "開始する、提起する"
+      },
+      {
+        "word": "Principal lawsuit",
+        "translation": "本案訴訟"
+      },
+      {
+        "word": "Revoke",
+        "translation": "取り消す"
+      },
+      {
+        "word": "Plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "Deadline",
+        "translation": "期限"
       }
     ]
   }

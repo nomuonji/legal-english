@@ -1,34 +1,38 @@
 {
-  "category": "Asset Entry Procedures",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Magnetic Media",
-  "definition": "The digital storage hardware, such as a disk, used by the bureau to maintain the electronic ledger in place of paper books.",
-  "japaneseDefinition": "紙の帳簿に代わり、電子的な台帳を維持するために当局が使用する磁気ディスクなどの記録媒体。",
-  "japaneseWordTranslation": "磁気ディスク (じきでぃすく)",
-  "legalContext": "Relevant provision: The ledger shall be prepared by means of Magnetic Media.",
-  "japaneseLegalContext": "関連規定：登記簿は、磁気ディスクをもって調製するものとする。",
-  "exampleSentence": "All data regarding the fixed assets is stored safely on Magnetic Media.",
-  "exampleTranslation": "固定資産に関するすべてのデータは、磁気ディスクに安全に保管されています。",
+  "word": "Means of Attack or Defense",
+  "definition": "The procedural materials presented by the parties during the lawsuit, comprising factual allegations, submissions of evidence, and legal arguments, intended to substantiate their claims or rebut those of the opposing party.",
+  "japaneseDefinition": "当事者が自己の請求を裏付けたり、相手方の請求を排斥したりするために裁判所に提出する、事実の主張、証拠の申出、法律上の主張などの総称。",
+  "japaneseWordTranslation": "攻撃防御方法 (こうげきぼうぎょほうほう)",
+  "legalContext": "Code of Civil Procedure, Art. 148 (Submission of Means of Attack or Defense): 'The parties shall prepare written statements in advance for the allegation of facts, submission of evidence, and other means of attack or defense...'",
+  "japaneseLegalContext": "民事訴訟法第148条（攻撃防御方法の提出）: 「当事者は、事実の主張、証拠の申出その他の攻撃防御方法を、準備書面により…」",
+  "exampleSentence": "The court directed the plaintiff to submit all outstanding Means of Attack or Defense by the next scheduled hearing date.",
+  "exampleTranslation": "裁判所は原告に対し、次回の期日までに未提出の全ての攻撃防御方法を提出するよう指示した。",
   "vocabularyList": [
     {
-      "word": "Digital storage",
-      "translation": "電子保存"
+      "word": "allegations",
+      "translation": "主張 (しゅちょう)"
     },
     {
-      "word": "Hardware",
-      "translation": "装置"
+      "word": "substantiate",
+      "translation": "裏付ける (うらづける)"
     },
     {
-      "word": "Maintain",
-      "translation": "維持する"
+      "word": "rebut",
+      "translation": "排斥する (はいせきする)"
     },
     {
-      "word": "Fixed assets",
-      "translation": "固定資産"
+      "word": "plaintiff",
+      "translation": "原告 (げんこく)"
     },
     {
-      "word": "Ledger",
-      "translation": "台帳"
+      "word": "outstanding",
+      "translation": "未提出の (みていしゅつの)"
+    },
+    {
+      "word": "scheduled hearing date",
+      "translation": "期日 (きじつ)"
     }
   ]
 }

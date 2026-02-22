@@ -16405,5 +16405,119 @@
         "translation": "排水・汚水"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sub-mortgage",
+    "definition": "A transaction where a holder of a primary collateral charge over real estate uses that charge as collateral to secure a separate debt owed to another person.",
+    "japaneseDefinition": "抵当権者が、自分の抵当権をさらに別の自己の債務の担保として提供すること。",
+    "japaneseWordTranslation": "転抵当 (てんていとう)",
+    "legalContext": "Civil Code Art. 376: A holder of a collateral charge may provide that charge as collateral for another debt.",
+    "japaneseLegalContext": "民法第376条：抵当権者は、その抵当権を他の債権の担保とし…ることができる。",
+    "exampleSentence": "The bank decided to execute a sub-mortgage to secure a new line of credit using its existing interest in the commercial parcel.",
+    "exampleTranslation": "銀行は、商業用地に対する既存の利権を利用し、新たな信用供与枠を確保するために転抵当権を設定することを決定した。",
+    "vocabularyList": [
+      {
+        "word": "Primary collateral charge",
+        "translation": "第1順位の担保権"
+      },
+      {
+        "word": "Line of credit",
+        "translation": "信用供与枠 / クレジットライン"
+      },
+      {
+        "word": "Interest",
+        "translation": "利権 / 権利"
+      },
+      {
+        "word": "Commercial parcel",
+        "translation": "商業用地"
+      },
+      {
+        "word": "Execute",
+        "translation": "実行する / 設定する"
+      },
+      {
+        "word": "Secondary charge",
+        "translation": "第2次的な担保設定"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right of Way for an Electric Power Line",
+    "definition": "A legal interest established on a parcel to allow the passage and maintenance of electricity transmission infrastructure through the airspace or underground.",
+    "japaneseDefinition": "送電線を通し、維持管理するために、土地の空間や地下に設定される地役権。",
+    "japaneseWordTranslation": "送電線路のための地役権 (そうでんせんろのためのちえきけん)",
+    "legalContext": "Real Property Registration Act: Provisions regarding the recording of the scope of the right of way for utility infrastructure.",
+    "japaneseLegalContext": "不動産登記法：送電用工作物のための地役権の範囲の記録に関する規定。",
+    "exampleSentence": "The utility company filed for a right of way for an electric power line to ensure the stability of the regional grid across the mountain site.",
+    "exampleTranslation": "電力会社は、山間地を横断する地域の送電網の安定性を確保するため、送電線路のための地役権の登録を申請した。",
+    "vocabularyList": [
+      {
+        "word": "Electricity transmission",
+        "translation": "送電"
+      },
+      {
+        "word": "Infrastructure",
+        "translation": "インフラ / 工作物"
+      },
+      {
+        "word": "Regional grid",
+        "translation": "地域の送電網"
+      },
+      {
+        "word": "Airspace",
+        "translation": "空中権 / 空間"
+      },
+      {
+        "word": "Underground",
+        "translation": "地下"
+      },
+      {
+        "word": "Utility company",
+        "translation": "公共事業会社 / 電力会社"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right of Way for a Natural Gas Line",
+    "definition": "A specific legal interest recorded on the register that grants the power to install and maintain pipes for the supply of natural gas through a designated area of a parcel.",
+    "japaneseDefinition": "土地の特定の区域において、天然ガスの供給のための管路を設置し、維持管理する権限を認める登録上の権利。",
+    "japaneseWordTranslation": "ガス管路のための地役権 (がすかんろのためのちえきけん)",
+    "legalContext": "Real Property Registration Act: Requirements for designating the specific area of a parcel subject to a utility-related right of way.",
+    "japaneseLegalContext": "不動産登記法：工作物のための地役権の目的となる土地の特定範囲の指定要件。",
+    "exampleSentence": "The contractor verified the right of way for a natural gas line before commencing the excavation on the northern side of the parcel.",
+    "exampleTranslation": "請負業者は、敷地の北側での掘削作業を開始する前に、ガス管路のための地役権を確認した。",
+    "vocabularyList": [
+      {
+        "word": "Natural gas line",
+        "translation": "ガス導管 / ガス管路"
+      },
+      {
+        "word": "Designated area",
+        "translation": "指定された範囲"
+      },
+      {
+        "word": "Supply pipes",
+        "translation": "供給管"
+      },
+      {
+        "word": "Excavation",
+        "translation": "掘削"
+      },
+      {
+        "word": "Contractor",
+        "translation": "請負業者"
+      },
+      {
+        "word": "Verify",
+        "translation": "照合する / 確認する"
+      }
+    ]
   }
 ]

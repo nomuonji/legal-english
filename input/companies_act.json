@@ -2,44 +2,6 @@
   {
     "category": "Companies Act (会社法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Treasury Shares",
-    "definition": "Shares of a company's own stock that have been acquired by the company itself, either through market purchases or other legal means, and are held without being retired.",
-    "japaneseDefinition": "会社が市場からの買い入れやその他の合法的な手段を通じて自社で取得し、消却せずに保有している自己資本を構成する株式。",
-    "japaneseWordTranslation": "自己株式 (じこかぶしき)",
-    "legalContext": "Companies Act Art. 135: Rules regarding the Acquisition and Disposal of Treasury Shares, granting companies wide latitude in managing their own stock, subject to certain procedural safeguards.",
-    "japaneseLegalContext": "会社法第135条: 自己株式の取得及び処分の規定。一定の手続上の保護措置を条件として、会社に自社株管理の幅広い裁量を与えている。",
-    "exampleSentence": "The listed company announced a plan to acquire treasury shares, signaling confidence in its financial stability and potentially reducing the supply of shares available on the market.",
-    "exampleTranslation": "その上場会社は、財務の安定性への自信を示すとともに、市場に出回る株式の供給を減らす目的で、自己株式の取得計画を発表した。",
-    "vocabularyList": [
-      {
-        "word": "acquisition",
-        "translation": "取得"
-      },
-      {
-        "word": "disposal",
-        "translation": "処分"
-      },
-      {
-        "word": "listed company",
-        "translation": "上場会社"
-      },
-      {
-        "word": "financial stability",
-        "translation": "財務の安定性"
-      },
-      {
-        "word": "procedural safeguards",
-        "translation": "手続上の保護措置"
-      },
-      {
-        "word": "retired",
-        "translation": "消却された"
-      }
-    ]
-  },
-  {
-    "category": "Companies Act (会社法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Organizational Restructuring",
     "definition": "A general term in Japanese company law encompassing various methods of fundamental corporate reorganization, such as mergers (gappei), company splits (kaisha分割), and stock exchanges (kabushiki kōkan).",
     "japaneseDefinition": "会社法において、合併、会社分割、株式交換、株式移転など、企業の組織構造に根本的な変更を加える手続きの総称。",
@@ -18062,6 +18024,116 @@
       {
         "word": "Consent",
         "translation": "同意／承諾"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Duty to Provide Explanations",
+    "definition": "The legal obligation of directors, executive officers, and other specified officials to provide answers and clarifications to questions raised by stockholders at a general meeting regarding matters related to the agenda.",
+    "japaneseDefinition": "株主総会において、取締役、執行役、監査役等が、株主から特定の事項について説明を求められた場合に、その事項が会議の目的（議案）に関連するものである限り、回答・説明をしなければならない義務。",
+    "japaneseWordTranslation": "説明義務 (せつめいぎむ)",
+    "legalContext": "Companies Act Art. 314: If a shareholder requests an explanation on a specific matter at a shareholders' meeting, the directors... shall provide an explanation with respect to such matter; provided, however, that this shall not apply... if such matter is not related to the purpose of the shareholders' meeting.",
+    "japaneseLegalContext": "会社法314条：取締役、執行役、会計参与、監査役及び会計監査人は、株主総会において、株主から特定の事項について説明を求められた場合には、当該事項について必要な説明をしなければならない。ただし、当該事項が株主総会の目的である事項に関しないものである場合...は、この限りでない。",
+    "exampleSentence": "The director was found to have breached the duty to provide explanations by refusing to answer questions regarding the valuation of the target company.",
+    "exampleTranslation": "その取締役は、対象会社の評価に関する質問への回答を拒絶したことにより、説明義務に違反したと判断された。",
+    "vocabularyList": [
+      {
+        "word": "Clarification",
+        "translation": "明確化／説明"
+      },
+      {
+        "word": "Official",
+        "translation": "役員／役職者"
+      },
+      {
+        "word": "Request",
+        "translation": "要請／請求"
+      },
+      {
+        "word": "Response",
+        "translation": "回答／応答"
+      },
+      {
+        "word": "Justifiable reason",
+        "translation": "正当な理由"
+      },
+      {
+        "word": "Relevant",
+        "translation": "関連のある"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Company in the Process of Incorporation",
+    "definition": "A legal concept referring to the status of a group of organizers from the time the articles of incorporation are executed until the company is formally registered, during which certain rights and duties may be attributed to the future entity.",
+    "japaneseDefinition": "定款の作成から設立登記が完了するまでの間の社団の実体。設立後の会社と実質的に同一の主体とみなされ、設立を目的とする範囲内での行為の帰属が認められる。",
+    "japaneseWordTranslation": "設立中の会社 (せつりつちゅうのかいしゃ)",
+    "legalContext": "Academic doctrine and judicial precedents (e.g., Supreme Court Decision of Dec. 22, 1961) recognize the 'Company in the Process of Incorporation' as a transitional entity whose acts within the scope of formation are assumed by the company upon registration.",
+    "japaneseLegalContext": "判例（最判昭36・12・22等）および学説上、設立登記前の「設立中の会社」が行った設立目的の範囲内の行為は、設立後の会社に当然に帰属するとされる。",
+    "exampleSentence": "Contracts entered into by the organizers on behalf of the company in the process of incorporation are generally assumed by the company upon its formation.",
+    "exampleTranslation": "設立中の会社のために発起人が締結した契約は、通常、会社設立時にその会社に帰属する。",
+    "vocabularyList": [
+      {
+        "word": "Transitional",
+        "translation": "過渡的な"
+      },
+      {
+        "word": "Organizers",
+        "translation": "設立者／発起人"
+      },
+      {
+        "word": "Attributed",
+        "translation": "帰属する"
+      },
+      {
+        "word": "Pre-registration",
+        "translation": "登記前"
+      },
+      {
+        "word": "Entity",
+        "translation": "主体"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Indirect Transaction",
+    "definition": "A type of conflict-of-interest transaction where a company engages in a transaction with a third party that results in a benefit to a director or executive officer, such as guaranteeing a board member's personal debt.",
+    "japaneseDefinition": "取締役会設置会社等において、会社が取締役以外の第三者との間で、結果的に取締役の利益となるような取引（例：取締役の個人的な債務を会社が保証する等）を行うこと。",
+    "japaneseWordTranslation": "間接取引 (かんせつとりひき)",
+    "legalContext": "Companies Act Art. 356, para. 1, item (ii): If a director intends to... conduct any transaction in which the Company guarantees the debts of such director or any other transaction with a person other than the Company that results in a conflict of interest between the Company and such director...",
+    "japaneseLegalContext": "会社法356条1項2号：取締役が、株式会社が当該取締役の債務を保証することその他株式会社以外の者との間において株式会社と当該取締役との利益が相反する取引をしようとするとき（は、株主総会等の承認を要する）。",
+    "exampleSentence": "The board must approve any indirect transaction to ensure that the corporation's interests are protected from potential self-dealing by executives.",
+    "exampleTranslation": "経営陣による潜在的な自己取引から会社の利益を守るため、取締役会はあらゆる間接取引を承認しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Guarantee",
+        "translation": "保証する"
+      },
+      {
+        "word": "Benefit",
+        "translation": "利益／恩恵"
+      },
+      {
+        "word": "Conflict",
+        "translation": "対立／相反"
+      },
+      {
+        "word": "Collateral",
+        "translation": "担保"
+      },
+      {
+        "word": "Approval",
+        "translation": "承認"
+      },
+      {
+        "word": "Executive",
+        "translation": "執行役／経営陣"
       }
     ]
   }

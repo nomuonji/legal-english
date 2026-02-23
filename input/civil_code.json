@@ -23074,5 +23074,107 @@
         "translation": "無効にする"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Assignment of Future Claims",
+    "definition": "The transfer of a claim that has not yet arisen but is expected to arise in the future. Following the 2017 amendments to the Civil Code, the validity of such transfers is explicitly recognized even if the specific details are not fully fixed at the time of the agreement.",
+    "japaneseDefinition": "現時点でまだ発生していないが、将来発生することが見込まれる債権（将来債権）を譲渡すること。2017年の民法改正により、譲渡時に債権が具体的に特定されていなくても、その有効性が明文化された。",
+    "japaneseWordTranslation": "将来債権の譲渡 (しょうらいさいけんのじょうと)",
+    "legalContext": "Civil Code Art. 466-6: The assignment of a claim shall not be prevented from being effective by the fact that the claim has not yet arisen at the time of the conclusion of the contract.",
+    "japaneseLegalContext": "民法第466条の6：債権の譲渡は、その目的である債権が将来発生するものであることを妨げない。",
+    "exampleSentence": "The company secured a bank loan by providing an assignment of future claims arising from its recurring service contracts.",
+    "exampleTranslation": "その会社は、継続的なサービス契約から生じる将来債権の譲渡を提供することで、銀行融資を確保した。",
+    "vocabularyList": [
+      {
+        "word": "Arise",
+        "translation": "発生する"
+      },
+      {
+        "word": "Explicitly",
+        "translation": "明示的に"
+      },
+      {
+        "word": "Recognize",
+        "translation": "認める"
+      },
+      {
+        "word": "Recurring",
+        "translation": "継続的な"
+      },
+      {
+        "word": "Transfer",
+        "translation": "移転／譲渡"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Negative Obligation",
+    "definition": "A legal duty that requires the debtor to refrain from doing a specific act, such as a non-compete clause or a duty not to interfere with a neighbor's light or view.",
+    "japaneseDefinition": "債務者が特定の行為をしないことを内容とする義務。競業避止義務や、隣人の日照・眺望を妨げない義務などがこれに該当する。",
+    "japaneseWordTranslation": "不作為債務 (ふさくいさいむ)",
+    "legalContext": "Civil Code Art. 414, Para. 3: If the subject matter of an obligation is a forbearance, the obligee may demand the removal of the outcome of the act committed by the obligor.",
+    "japaneseLegalContext": "民法第414条第3項：債務の目的が不作為である場合において、債務者がこれに違反したときは、債権者は、債務者の費用で、そのしたことの結果を排除することを求めることができる。",
+    "exampleSentence": "The restrictive covenant imposed a negative obligation on the seller not to open a competing business within a ten-mile radius.",
+    "exampleTranslation": "その制限規定は、半径10マイル以内で競合する事業を開始しないという不作為債務を売主に課した。",
+    "vocabularyList": [
+      {
+        "word": "Refrain",
+        "translation": "控える"
+      },
+      {
+        "word": "Restrictive covenant",
+        "translation": "制限規定"
+      },
+      {
+        "word": "Forbearance",
+        "translation": "不作為"
+      },
+      {
+        "word": "Interfere",
+        "translation": "妨害する"
+      },
+      {
+        "word": "Radius",
+        "translation": "半径"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Claim the Surplus",
+    "definition": "The right of a debtor to receive the remaining funds after a creditor has sold collateral to satisfy a debt and deducted all related costs and the principal amount.",
+    "japaneseDefinition": "債権者が債務の弁済に充てるために担保物を処分した後、債権額や諸費用を差し引いて残った剰余金（清算金）の支払いを求める債務者の権利。",
+    "japaneseWordTranslation": "清算金請求権 (せいさんきんせいきゅうけん)",
+    "legalContext": "Generally discussed under the theory of Security Assignment (Joto-Tanpo), where the creditor is obligated to return any excess value to the debtor after the disposal of the property.",
+    "japaneseLegalContext": "譲渡担保の法理において、債権者が担保権を実行して目的物を処分した際、その価額が債権額を超える場合に債務者に帰属する権利。",
+    "exampleSentence": "Upon the foreclosure of the assets, the debtor maintained a right to claim the surplus if the market value exceeded the outstanding loan amount.",
+    "exampleTranslation": "資産の差押え（担保権実行）にあたり、市場価値が未払いのローン残高を超えた場合、債務者は清算金を請求する権利を保持していた。",
+    "vocabularyList": [
+      {
+        "word": "Remaining funds",
+        "translation": "剰余金"
+      },
+      {
+        "word": "Deduct",
+        "translation": "差し引く"
+      },
+      {
+        "word": "Collateral",
+        "translation": "担保"
+      },
+      {
+        "word": "Exceed",
+        "translation": "上回る"
+      },
+      {
+        "word": "Outstanding",
+        "translation": "未払いの"
+      }
+    ]
   }
 ]

@@ -19740,5 +19740,123 @@
         "translation": "拘束された・逮捕された"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Strict Interpretation of Penal Statutes",
+    "definition": "A fundamental principle in criminal law requiring that penal laws be interpreted narrowly according to their literal text to prevent the arbitrary expansion of criminal liability and ensure legal certainty.",
+    "japaneseDefinition": "刑罰法規の解釈において、条文の文言を文面通りに解釈すべきであり、被告人に不利な方向へ文言の意味を広げる拡張解釈や類推解釈を禁止する原則。",
+    "japaneseWordTranslation": "刑罰法規の厳格解釈 (けいばつほうきのげんかくかいしゃく)",
+    "legalContext": "Derived from the principle of legality (Nullum crimen, nulla poena sine lege) and supported by Article 31 of the Constitution, which ensures that no person shall be punished except according to procedure established by law.",
+    "japaneseLegalContext": "憲法31条（適正手続きの保障）および罪刑法定主義の原則に基づき、何人も法律の定める手続によらなければ、刑罰を科せられないとする原則から派生する。",
+    "exampleSentence": "The tribunal applied a strict interpretation of the penal statute to ensure the accused was not convicted for an act that was not explicitly prohibited by the written law.",
+    "exampleTranslation": "裁判所は、成文法で明確に禁止されていない行為について被告人が有罪とならないよう、刑罰法規の厳格解釈を適用した。",
+    "vocabularyList": [
+      {
+        "word": "Penal statute",
+        "translation": "刑罰法規"
+      },
+      {
+        "word": "Literal text",
+        "translation": "文言"
+      },
+      {
+        "word": "Arbitrary",
+        "translation": "恣意的な"
+      },
+      {
+        "word": "Expansion",
+        "translation": "拡張"
+      },
+      {
+        "word": "The accused",
+        "translation": "被告人"
+      },
+      {
+        "word": "Convicted",
+        "translation": "有罪判決を受けた"
+      },
+      {
+        "word": "Explicitly",
+        "translation": "明示的に"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Concurrence of Laws",
+    "definition": "A legal situation where a single act seemingly falls under multiple criminal provisions, but only one is applied due to the logical relationship between the laws (e.g., a special law taking precedence over a general law).",
+    "japaneseDefinition": "1つの行為が外観上は複数の刑罰規定に該当するように見えるが、規定間の論理的な関係（一般法と特別法、吸収関係など）により、そのうちの1つの規定のみが適用される状態。",
+    "japaneseWordTranslation": "法条競合 (ほうじょうきょうごう)",
+    "legalContext": "A doctrinal classification in Japanese criminal law used to distinguish from 'Joined Crimes' (併合罪) or 'Imaginative Concurrence' (観念的競合) where multiple penalties might technically apply.",
+    "japaneseLegalContext": "刑法上の罪数論における概念であり、観念的競合や併合罪とは異なり、適用される罰条が1つに絞られる場合を指す。",
+    "exampleSentence": "In the case of concurrence of laws, the court ruled that the specific offense of embezzlement superseded the general charge of property misappropriation.",
+    "exampleTranslation": "法条競合の事例において、裁判所は、特定の横領罪の規定が一般的な財産の不当な処分に関する罪に優先して適用されると裁定した。",
+    "vocabularyList": [
+      {
+        "word": "Provision",
+        "translation": "規定"
+      },
+      {
+        "word": "Precedence",
+        "translation": "優先"
+      },
+      {
+        "word": "General law",
+        "translation": "一般法"
+      },
+      {
+        "word": "Special law",
+        "translation": "特別法"
+      },
+      {
+        "word": "Supersede",
+        "translation": "取って代わる"
+      },
+      {
+        "word": "Misappropriation",
+        "translation": "流用・着服"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Normative Factors",
+    "definition": "Requirements of a crime that cannot be determined by sensory perception alone but require a legal or social value judgment (e.g., determining whether a document is 'obscene' or whether property belongs to 'another').",
+    "japaneseDefinition": "犯罪の成立要件のうち、単なる事実的な記述ではなく、法的評価や社会的な価値判断を加えなければ確定できない要素（「わいせつ性」や「他人の財物」など）。",
+    "japaneseWordTranslation": "規範的要素 (きはんてきようそ)",
+    "legalContext": "Often discussed in contrast to 'descriptive factors' (記述的要素) during the analysis of the requirements for a criminal act under the Penal Code.",
+    "japaneseLegalContext": "刑法における構成要件の解釈において、五感で知覚できる「記述的要素」と対比して議論される概念。",
+    "exampleSentence": "The tribunal had to analyze normative factors to determine whether the defendant's conduct met the legal threshold for obscenity based on contemporary social standards.",
+    "exampleTranslation": "裁判所は、現代の社会基準に基づき、被告人の行為がわいせつ性の法的閾値を満たしているかどうかを判断するために、規範的要素を分析する必要があった。",
+    "vocabularyList": [
+      {
+        "word": "Sensory perception",
+        "translation": "感覚的知覚"
+      },
+      {
+        "word": "Value judgment",
+        "translation": "価値判断"
+      },
+      {
+        "word": "Obscenity",
+        "translation": "わいせつ性"
+      },
+      {
+        "word": "Contemporary",
+        "translation": "現代の"
+      },
+      {
+        "word": "Threshold",
+        "translation": "閾値・基準"
+      },
+      {
+        "word": "Evaluation",
+        "translation": "評価"
+      }
+    ]
   }
 ]

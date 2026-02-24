@@ -1,38 +1,38 @@
 {
-  "category": "Companies Act (会社法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Treasury Shares",
-  "definition": "Shares of a company's own stock that have been acquired by the company itself, either through market purchases or other legal means, and are held without being retired.",
-  "japaneseDefinition": "会社が市場からの買い入れやその他の合法的な手段を通じて自社で取得し、消却せずに保有している自己資本を構成する株式。",
-  "japaneseWordTranslation": "自己株式 (じこかぶしき)",
-  "legalContext": "Companies Act Art. 135: Rules regarding the Acquisition and Disposal of Treasury Shares, granting companies wide latitude in managing their own stock, subject to certain procedural safeguards.",
-  "japaneseLegalContext": "会社法第135条: 自己株式の取得及び処分の規定。一定の手続上の保護措置を条件として、会社に自社株管理の幅広い裁量を与えている。",
-  "exampleSentence": "The listed company announced a plan to acquire treasury shares, signaling confidence in its financial stability and potentially reducing the supply of shares available on the market.",
-  "exampleTranslation": "その上場会社は、財務の安定性への自信を示すとともに、市場に出回る株式の供給を減らす目的で、自己株式の取得計画を発表した。",
+  "word": "Subject Matter of the Suit",
+  "definition": "The specific legal relationship (right or claim) that the plaintiff seeks to have determined by the court's judgment. It defines the scope of the judicial dispute and is crucial for determining the admissibility of subsequent lawsuits.",
+  "japaneseDefinition": "裁判所に対し判決を求める対象である、特定の権利または法律関係。訴訟の範囲を確定し、二重起訴の禁止などの基準となる。",
+  "japaneseWordTranslation": "訴訟物 (そしょうぶつ)",
+  "legalContext": "Code of Civil Procedure, Art. 142 (Prohibition of Duplicate Actions): 'The parties shall not file a second action on the same subject matter of the suit for which an action is pending in court.'",
+  "japaneseLegalContext": "民事訴訟法第142条（重複起訴の禁止）: 「裁判所に訴訟が係属している間は、当事者は、同一の訴訟物について重ねて訴えを提起することができない。」",
+  "exampleSentence": "Under Japanese civil procedure, the determination of the Subject Matter of the Suit is essential to avoid the prohibition of duplicate actions.",
+  "exampleTranslation": "日本の民事訴訟法では、重複起訴の禁止を避けるために、訴訟物の確定が不可欠である。",
   "vocabularyList": [
     {
-      "word": "acquisition",
-      "translation": "取得"
+      "word": "legal relationship",
+      "translation": "法律関係 (ほうりつかんけい)"
     },
     {
-      "word": "disposal",
-      "translation": "処分"
+      "word": "determination",
+      "translation": "確定 (かくてい)"
     },
     {
-      "word": "listed company",
-      "translation": "上場会社"
+      "word": "admissibility",
+      "translation": "許容性 (きょようせい)"
     },
     {
-      "word": "financial stability",
-      "translation": "財務の安定性"
+      "word": "duplicate actions",
+      "translation": "重複起訴 (ちょうふくきそ)"
     },
     {
-      "word": "procedural safeguards",
-      "translation": "手続上の保護措置"
+      "word": "pending in court",
+      "translation": "係属している (けいぞくしている)"
     },
     {
-      "word": "retired",
-      "translation": "消却された"
+      "word": "plaintiff",
+      "translation": "原告 (げんこく)"
     }
   ]
 }

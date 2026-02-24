@@ -16474,5 +16474,119 @@
         "translation": "疎明する・裏付ける"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Substantiating the Underlying Right",
+    "definition": "The act of providing summary evidence to establish a high degree of probability that a valid claim exists, which serves as the legal basis for seeking a preservation measure before a final judgment.",
+    "japaneseDefinition": "民事保全命令を得るために、本案の判決を待たずに、権利の存在について裁判官に一応の確信を抱かせる証拠を提示すること。",
+    "japaneseWordTranslation": "被保全権利の疎明 (ひほぜんけんりのそめい)",
+    "legalContext": "Civil Preservation Act Art. 13: ...A petition for a preservation order shall state the claim to be preserved and the necessity of preservation. The claim and the necessity of preservation shall be substantiated.",
+    "japaneseLegalContext": "民事保全法第13条：保全命令の申立ては、その申立ての趣旨並びに保全すべき権利又は権利関係及び保全の必要性を明らかにしてしなければならない。前項の権利又は権利関係及び保全の必要性は、疎明しなければならない。",
+    "exampleSentence": "The court required the petitioner to focus on substantiating the underlying right before considering the urgency of the case.",
+    "exampleTranslation": "裁判所は、事案の緊急性を検討する前に、被保全権利の疎明に注力することを申立人に求めた。",
+    "vocabularyList": [
+      {
+        "word": "Petitioner",
+        "translation": "申立人"
+      },
+      {
+        "word": "Substantiate",
+        "translation": "疎明する"
+      },
+      {
+        "word": "Underlying right",
+        "translation": "被保全権利"
+      },
+      {
+        "word": "High degree of probability",
+        "translation": "高い蓋然性"
+      },
+      {
+        "word": "Final judgment",
+        "translation": "終局判決"
+      },
+      {
+        "word": "Legal basis",
+        "translation": "法的根拠"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Injunction against Asset Disposal",
+    "definition": "A type of preliminary judicial order that prohibits a debtor from transferring, mortgaging, or otherwise disposing of specific property to ensure that the eventual enforcement of a judgment is not frustrated.",
+    "japaneseDefinition": "債務者が特定の財産を他人に売却したり、抵当権を設定したりすることを禁止する仮処分命令。将来の強制執行が不能または困難になるのを防ぐことを目的とする。",
+    "japaneseWordTranslation": "資産処分禁止の仮処分 (しさんしょぶんきんしのかりしょぶん)",
+    "legalContext": "Civil Preservation Act Art. 23, Para. 1: ...A provisional disposition order may be issued if there is a risk that it will be impossible or extremely difficult to enforce a right relating to the subject matter of the dispute.",
+    "japaneseLegalContext": "民事保全法第23条第1項：係争物に関する仮処分命令は、その現状の変更により、債権者が権利を実行することができなくなるおそれがあるとき、又は権利を実行するのに著しい困難を生ずるおそれがあるときに発することができる。",
+    "exampleSentence": "The creditor filed for an injunction against asset disposal to prevent the debtor from hiding real estate during the litigation.",
+    "exampleTranslation": "債権者は、訴訟中に債務者が不動産を隠匿するのを防ぐため、資産処分禁止の仮処分を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Injunction",
+        "translation": "禁止命令 / 差止め"
+      },
+      {
+        "word": "Asset disposal",
+        "translation": "資産の処分"
+      },
+      {
+        "word": "Frustrated",
+        "translation": "（目的が）阻害された"
+      },
+      {
+        "word": "Litigation",
+        "translation": "訴訟"
+      },
+      {
+        "word": "Preliminary",
+        "translation": "暫定的な"
+      },
+      {
+        "word": "Transfer",
+        "translation": "移転"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Collateral for the Stay of Enforcement",
+    "definition": "Funds or assets provided by a party to the court as a guarantee to cover potential losses or damages incurred by the opposing party when the court orders a temporary suspension of an existing preservation order.",
+    "japaneseDefinition": "既に出されている保全命令の執行を一時的に停止する際、それによって相手方が被る可能性のある損害を担保するために提供される金銭または有価証券。",
+    "japaneseWordTranslation": "執行停止のための担保 (しっこうていしのためのたんぽ)",
+    "legalContext": "Civil Preservation Act Art. 27: ...If the court finds that there are grounds for the revocation of a preservation order, it may order the stay of the preservation enforcement upon the provision of security.",
+    "japaneseLegalContext": "民事保全法第27条：保全異議の申立てがあった場合において、保全命令の取消しの原因となるべき事情について疎明があるときは、裁判所は、担保を立てさせて、保全執行の停止を命ずることができる。",
+    "exampleSentence": "The judge granted the request to suspend the attachment, provided that the debtor furnished sufficient collateral for the stay of enforcement.",
+    "exampleTranslation": "裁判官は、債務者が執行停止のために十分な担保を提供することを条件に、差押えの中止を認めた。",
+    "vocabularyList": [
+      {
+        "word": "Collateral",
+        "translation": "担保"
+      },
+      {
+        "word": "Stay of enforcement",
+        "translation": "執行停止"
+      },
+      {
+        "word": "Potential loss",
+        "translation": "予想される損害"
+      },
+      {
+        "word": "Guarantee",
+        "translation": "保証"
+      },
+      {
+        "word": "Suspend",
+        "translation": "停止する"
+      },
+      {
+        "word": "Opposing party",
+        "translation": "相手方当事者"
+      }
+    ]
   }
 ]

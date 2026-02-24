@@ -2,44 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Subject Matter of the Suit",
-    "definition": "The specific legal relationship (right or claim) that the plaintiff seeks to have determined by the court's judgment. It defines the scope of the judicial dispute and is crucial for determining the admissibility of subsequent lawsuits.",
-    "japaneseDefinition": "裁判所に対し判決を求める対象である、特定の権利または法律関係。訴訟の範囲を確定し、二重起訴の禁止などの基準となる。",
-    "japaneseWordTranslation": "訴訟物 (そしょうぶつ)",
-    "legalContext": "Code of Civil Procedure, Art. 142 (Prohibition of Duplicate Actions): 'The parties shall not file a second action on the same subject matter of the suit for which an action is pending in court.'",
-    "japaneseLegalContext": "民事訴訟法第142条（重複起訴の禁止）: 「裁判所に訴訟が係属している間は、当事者は、同一の訴訟物について重ねて訴えを提起することができない。」",
-    "exampleSentence": "Under Japanese civil procedure, the determination of the Subject Matter of the Suit is essential to avoid the prohibition of duplicate actions.",
-    "exampleTranslation": "日本の民事訴訟法では、重複起訴の禁止を避けるために、訴訟物の確定が不可欠である。",
-    "vocabularyList": [
-      {
-        "word": "legal relationship",
-        "translation": "法律関係 (ほうりつかんけい)"
-      },
-      {
-        "word": "determination",
-        "translation": "確定 (かくてい)"
-      },
-      {
-        "word": "admissibility",
-        "translation": "許容性 (きょようせい)"
-      },
-      {
-        "word": "duplicate actions",
-        "translation": "重複起訴 (ちょうふくきそ)"
-      },
-      {
-        "word": "pending in court",
-        "translation": "係属している (けいぞくしている)"
-      },
-      {
-        "word": "plaintiff",
-        "translation": "原告 (げんこく)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Motion for Disqualification (of a Judge)",
     "definition": "A procedural application made by a party requesting that a specific judge or court clerk be removed from the case due to circumstances that may compromise their impartiality or fairness.",
     "japaneseDefinition": "裁判官又は裁判所書記官が不公正な裁判をする虞のある場合に、当事者がその職務執行を避けるよう申し立てる手続き。",
@@ -20496,6 +20458,108 @@
       {
         "word": "Ruling",
         "translation": "決定 (けってい)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order of Dismissal of a Complaint",
+    "definition": "A judicial order issued by the presiding judge to dismiss a complaint without proceeding to the merits, typically because the plaintiff failed to correct defects in the complaint or failed to pay the required filing fees despite an order to do so.",
+    "japaneseDefinition": "原告が訴状の不備を補正しなかったり、訴額に応じた申立手数料（印紙代）を納付しなかった場合に、裁判長が訴訟手続を進行させずに訴状を却下する裁判上の命令。",
+    "japaneseWordTranslation": "訴状却下命令 (そじょうきゃっかめいれい)",
+    "legalContext": "Code of Civil Procedure Art. 137: If a complaint does not comply with the provisions of Article 133, paragraph (2), the presiding judge shall fix a reasonable period and order that such defect be corrected within that period.",
+    "japaneseLegalContext": "民事訴訟法第137条：訴状が第133条第2項の規定に違反する場合には、裁判長は、相当の期間を定め、その期間内に不備を補正すべきことを命じなければならない。",
+    "exampleSentence": "The presiding judge issued an order of dismissal of a complaint because the plaintiff failed to attach the necessary revenue stamps within the prescribed period.",
+    "exampleTranslation": "原告が定められた期間内に必要な収入印紙を貼付しなかったため、裁判長は訴状却下命令を下した。",
+    "vocabularyList": [
+      {
+        "word": "Presiding judge",
+        "translation": "裁判長"
+      },
+      {
+        "word": "Defect",
+        "translation": "不備"
+      },
+      {
+        "word": "Revenue stamp",
+        "translation": "収入印紙"
+      },
+      {
+        "word": "Prescribed period",
+        "translation": "定められた期間"
+      },
+      {
+        "word": "Correct/Amend",
+        "translation": "補正する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certification of Finality of Judgment",
+    "definition": "An official document issued by a court clerk confirming that a judgment has become final and binding, meaning that no further ordinary appeals can be filed against it.",
+    "japaneseDefinition": "判決が確定したこと、すなわち通常の不服申立て手段（控訴・上告）がもはや存在しないことを裁判所書記官が公的に証明する書面。",
+    "japaneseWordTranslation": "判決確定証明書 (はんけつかくていしょうめいしょ)",
+    "legalContext": "Code of Civil Procedure Art. 116: A judgment shall not become final and binding until the period for filing an appeal or a final appeal has expired.",
+    "japaneseLegalContext": "民事訴訟法第116条：判決は、控訴若しくは上告の提起…の期間の満了前には、確定しないものとする。",
+    "exampleSentence": "To apply for the compulsory satisfaction of the claim, the creditor obtained a certification of finality of judgment from the court clerk.",
+    "exampleTranslation": "債権の強制的な満足を申し立てるため、債権者は裁判所書記官から判決確定証明書を取得した。",
+    "vocabularyList": [
+      {
+        "word": "Final and binding",
+        "translation": "確定した"
+      },
+      {
+        "word": "Court clerk",
+        "translation": "裁判所書記官"
+      },
+      {
+        "word": "Compulsory satisfaction",
+        "translation": "強制的な満足（履行）"
+      },
+      {
+        "word": "Obtain",
+        "translation": "取得する"
+      },
+      {
+        "word": "Confirmation",
+        "translation": "証明・確認"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Stay of Proceedings due to Bankruptcy",
+    "definition": "The automatic interruption or suspension of a pending civil lawsuit when one of the parties is subject to an order of bankruptcy, as the authority to manage the estate is transferred to a bankruptcy trustee.",
+    "japaneseDefinition": "当事者の一方が破産手続開始の決定を受けた場合に、財産の管理処分権が破産管財人に移転するため、係属中の民事訴訟手続が当然に中断または停止すること。",
+    "japaneseWordTranslation": "破産による訴訟手続の中断 (はさんによるそしょうてつづきのちゅうだん)",
+    "legalContext": "Bankruptcy Act Art. 44: If an order of commencement of bankruptcy proceedings is made, any court proceedings relating to the bankruptcy estate shall be stayed.",
+    "japaneseLegalContext": "破産法第44条：破産手続開始の決定があったときは、破産財団に関する訴訟手続は、中断する。",
+    "exampleSentence": "The court announced a stay of proceedings due to bankruptcy after the defendant corporation was served with a commencement order from the bankruptcy court.",
+    "exampleTranslation": "被告企業が破産裁判所から開始決定の送達を受けた後、裁判所は破産による訴訟手続の中断を告知した。",
+    "vocabularyList": [
+      {
+        "word": "Bankruptcy estate",
+        "translation": "破産財団"
+      },
+      {
+        "word": "Commencement order",
+        "translation": "開始決定"
+      },
+      {
+        "word": "Bankruptcy trustee",
+        "translation": "破産管財人"
+      },
+      {
+        "word": "Pending lawsuit",
+        "translation": "係属中の訴訟"
+      },
+      {
+        "word": "Stay",
+        "translation": "中断・停止"
       }
     ]
   }

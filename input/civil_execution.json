@@ -19132,5 +19132,107 @@
         "translation": "妨げる"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for an Enforcement Order",
+    "definition": "A lawsuit brought to obtain a court judgment that permits the enforcement of a final and binding judgment rendered by a foreign court or an arbitral award in Japan.",
+    "japaneseDefinition": "外国裁判所の判決や仲裁判断に基づき、日本国内での強制執行を可能にするために提起される訴え。判決が確定していることを要件とする。",
+    "japaneseWordTranslation": "執行判決の訴え (しっこうはんけつのうったえ)",
+    "legalContext": "Civil Execution Act Art. 24: (1) An action for an enforcement order for a judgment of a foreign court shall be under the jurisdiction of the district court...",
+    "japaneseLegalContext": "民事執行法第24条：外国裁判所の判決についての執行判決の訴えは、債務者の普通裁判籍の所在地を管轄する地方裁判所が管轄し...",
+    "exampleSentence": "The plaintiff filed an action for an enforcement order to satisfy the judgment debt using the assets located in Japan.",
+    "exampleTranslation": "原告は、日本国内にある資産を用いて判決債務を履行させるため、執行判決の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "Plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "Judgment debt",
+        "translation": "判決債務"
+      },
+      {
+        "word": "Foreign court",
+        "translation": "外国裁判所"
+      },
+      {
+        "word": "Jurisdiction",
+        "translation": "管轄"
+      },
+      {
+        "word": "Assets",
+        "translation": "資産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution of a Claim for the Handover of a Document",
+    "definition": "A specialized execution procedure where an officer compels the delivery of a specific deed or evidentiary instrument necessary for the collection of a seized claim.",
+    "japaneseDefinition": "差し押さえられた債権の取立てに必要な証書（手形や契約書等）を、執行官が債務者から取り上げて債権者に引き渡す手続。",
+    "japaneseWordTranslation": "証書の引渡し執行 (しょうしょのひきわたししっこう)",
+    "legalContext": "Civil Execution Act Art. 162: If an officer seizes a claim for which a document has been issued, the officer shall collect such document from the debtor.",
+    "japaneseLegalContext": "民事執行法第162条：債権を差し押さえた場合において、その債権につき証書があるときは、執行官は、債務者からその証書を取り上げることができる。",
+    "exampleSentence": "The court ordered the execution of a claim for the handover of the promissory note to facilitate the collection process.",
+    "exampleTranslation": "裁判所は、取立手続を円滑に進めるため、約束手形の証書の引渡し執行を命じた。",
+    "vocabularyList": [
+      {
+        "word": "Promissory note",
+        "translation": "約束手形"
+      },
+      {
+        "word": "Evidentiary instrument",
+        "translation": "証拠書類"
+      },
+      {
+        "word": "Collection",
+        "translation": "取立て"
+      },
+      {
+        "word": "Debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Seizure",
+        "translation": "差押え"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Restriction on Compulsory Realization",
+    "definition": "A legal limitation that prevents the sale or conversion of seized assets into money if the expected proceeds do not exceed the costs of the procedure.",
+    "japaneseDefinition": "差し押さえた財産の売却代金が手続費用を超えないと見込まれる場合に、強制的な換価（売却）を禁止する法的な制限。",
+    "japaneseWordTranslation": "強制換価の制限 (きょうせいかんかのせいげん)",
+    "legalContext": "Civil Execution Act Art. 128: If the execution court finds that the surplus from the sale is unlikely to cover the expenses, it must cancel the procedure.",
+    "japaneseLegalContext": "民事執行法第128条：執行裁判所は、換価によって得られる剰余金が手続費用を弁済する見込みがないと認めるときは、手続を取り消さなければならない。",
+    "exampleSentence": "The case was dismissed due to the restriction on compulsory realization, as the appraisal value was lower than the anticipated administrative costs.",
+    "exampleTranslation": "評価額が予想される事務費用を下回ったため、強制換価の制限に基づき、本件は取り消された。",
+    "vocabularyList": [
+      {
+        "word": "Appraisal value",
+        "translation": "評価額"
+      },
+      {
+        "word": "Proceeds",
+        "translation": "売却代金"
+      },
+      {
+        "word": "Surplus",
+        "translation": "剰余金"
+      },
+      {
+        "word": "Dismiss",
+        "translation": "却下する／取り消す"
+      },
+      {
+        "word": "Administrative costs",
+        "translation": "事務費用"
+      }
+    ]
   }
 ]

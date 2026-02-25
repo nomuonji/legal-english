@@ -23290,5 +23290,119 @@
         "translation": "身元・同一性"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Legal Fiction",
+    "definition": "A rule of law that treats a particular situation as if it were something else, regardless of the actual reality, for the purpose of achieving a specific legal outcome.",
+    "japaneseDefinition": "実際の真実とは関わりなく、法律がある特定の事実を別の事実として扱うこと（「みなす」と表現される）。",
+    "japaneseWordTranslation": "擬制 (ぎせい)",
+    "legalContext": "Civil Code Art. 886: 'A fetus shall be deemed to have already been born with respect to the right to inherit.'",
+    "japaneseLegalContext": "民法第886条：「胎児は、相続については、既に生まれたものとみなす。」",
+    "exampleSentence": "The concept of legal fiction is applied to fetuses in succession law, allowing them to be treated as born for the sake of inheritance rights.",
+    "exampleTranslation": "擬制の概念は相続法における胎児に適用され、相続権のために胎児を既に生まれたものとして扱うことを可能にしている。",
+    "vocabularyList": [
+      {
+        "word": "Deemed",
+        "translation": "みなす"
+      },
+      {
+        "word": "Fetus",
+        "translation": "胎児"
+      },
+      {
+        "word": "Born",
+        "translation": "出生"
+      },
+      {
+        "word": "Succession law",
+        "translation": "相続法"
+      },
+      {
+        "word": "Legal outcome",
+        "translation": "法的結果"
+      },
+      {
+        "word": "Regardless of",
+        "translation": "～にかかわらず"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Positive Obligation",
+    "definition": "A legal duty that requires an individual to perform a specific act, as opposed to refraining from doing something.",
+    "japaneseDefinition": "特定の行為をすることを内容とする義務。何もしないこと（不作為）の反対概念。",
+    "japaneseWordTranslation": "作為義務 (さくいぎむ)",
+    "legalContext": "Civil Code Art. 414: 'If an obligor does not voluntarily perform an obligation, the obligee may apply to the court for specific performance...'",
+    "japaneseLegalContext": "民法第414条：「債務者が任意に債務の履行をしないときは、債権者は、その強制履行を裁判所に請求することができる。」",
+    "exampleSentence": "Under a contract for work, the contractor has a positive obligation to complete the designated project.",
+    "exampleTranslation": "請負契約において、請負人は指定された仕事を完成させるという作為義務を負う。",
+    "vocabularyList": [
+      {
+        "word": "Duty",
+        "translation": "義務"
+      },
+      {
+        "word": "Perform",
+        "translation": "履行する"
+      },
+      {
+        "word": "Refrain",
+        "translation": "控える"
+      },
+      {
+        "word": "Contractor",
+        "translation": "請負人"
+      },
+      {
+        "word": "Voluntarily",
+        "translation": "任意に"
+      },
+      {
+        "word": "Specific act",
+        "translation": "特定の行為"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Capacity to Inherit",
+    "definition": "The legal qualification or eligibility of an individual to become an heir and receive property from a decedent's estate.",
+    "japaneseDefinition": "相続人となって、被相続人の遺産を受け継ぐことができる法的な資格。",
+    "japaneseWordTranslation": "相続能力 (そうぞくのうりょく)",
+    "legalContext": "Civil Code Art. 886: 'A fetus shall be deemed to have already been born with respect to the right to inherit; provided, however, that this shall not apply if the fetus is stillborn.'",
+    "japaneseLegalContext": "民法第886条：「胎児は、相続については、既に生まれたものとみなす。ただし、胎児が死体で生まれたときは、この限りでない。」",
+    "exampleSentence": "The capacity to inherit is generally granted to all natural persons, but it can be lost through disinheritance or disqualification.",
+    "exampleTranslation": "相続能力は一般にすべての自然人に認められるが、相続廃除や欠格によって失われることがある。",
+    "vocabularyList": [
+      {
+        "word": "Heir",
+        "translation": "相続人"
+      },
+      {
+        "word": "Decedent",
+        "translation": "被相続人"
+      },
+      {
+        "word": "Estate",
+        "translation": "遺産"
+      },
+      {
+        "word": "Eligibility",
+        "translation": "適格性"
+      },
+      {
+        "word": "Stillborn",
+        "translation": "死産"
+      },
+      {
+        "word": "Granted",
+        "translation": "付与される"
+      }
+    ]
   }
 ]

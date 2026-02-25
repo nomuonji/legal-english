@@ -2,44 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Indirect Compulsion",
-    "definition": "A method used to enforce non-monetary claims (typically for actions that require the cooperation of the party being enforced against, such as delivering an item or making a specific statement) by imposing a fine or indemnity order for each period of non-compliance.",
-    "japaneseDefinition": "債務者（執行をされる者）が金銭債務以外の給付義務（物の引渡しや特定の意思表示など）を履行しない場合に、その不履行期間に応じて損害賠償金や罰金を課すことにより、心理的な圧力をかけて履行を強制する執行方法。",
-    "japaneseWordTranslation": "間接強制 (かんせつきょうせい)",
-    "legalContext": "Civil Execution Act Art. 172 (Order for Indirect Compulsion): The court may, upon petition, issue an order that the person against whom execution is sought shall pay a certain amount of money to the judgment creditor if they fail to perform their obligations within a specific period.",
-    "japaneseLegalContext": "民事執行法 第172条 (間接強制の決定): 裁判所は、申立てにより、その義務を一定の期間内に履行しないときは、債権者に対し、間接強制を受ける者が定められた金銭を支払うべき旨を命ずる決定をすることができる。",
-    "exampleSentence": "Since the specific performance could not be directly executed, the court issued an order for Indirect Compulsion imposing a daily penalty of 100,000 yen until compliance.",
-    "exampleTranslation": "特定給付が直接執行できなかったため、裁判所は、履行するまで1日あたり10万円の罰金を課す間接強制の決定を出した。",
-    "vocabularyList": [
-      {
-        "word": "non-monetary claim",
-        "translation": "非金銭債権"
-      },
-      {
-        "word": "specific performance",
-        "translation": "特定給付"
-      },
-      {
-        "word": "indemnity order",
-        "translation": "損害賠償命令"
-      },
-      {
-        "word": "non-compliance",
-        "translation": "不履行"
-      },
-      {
-        "word": "daily penalty",
-        "translation": "日ごとの罰金"
-      },
-      {
-        "word": "cooperation",
-        "translation": "協力"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Stay of Execution",
     "definition": "A judicial order temporarily suspending the ongoing execution procedures, typically granted based on the submission of security by the party being enforced against, or due to a separate court order finding grounds for dispute regarding the validity of the execution claim.",
     "japaneseDefinition": "進行中の執行手続を一時的に停止する裁判所の命令。通常、執行の対象となっている者が担保を提供した場合、または執行権原の有効性に関する紛争を理由とする別の裁判所の命令に基づいて発せられる。",
@@ -19232,6 +19194,108 @@
       {
         "word": "Administrative costs",
         "translation": "事務費用"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Notice of the Deadline for Filing Proof of Claim",
+    "definition": "A formal notification issued by the court in real estate execution proceedings, specifying the final date by which creditors must submit their claims to participate in the distribution of proceeds.",
+    "japaneseDefinition": "不動産執行手続において、配当等に与るべき債権者がその債権を届け出るべき最終期限（終期）を裁判所が公告・通知すること。",
+    "japaneseWordTranslation": "債権届出の終期 (さいけんとどけでのしゅうき)",
+    "legalContext": "Civil Execution Act Art. 49, Para. 2: When a court makes a commencement order for a compulsory auction, it shall specify the deadline for filing a proof of claim.",
+    "japaneseLegalContext": "民事執行法第49条第2項：執行裁判所は、強制競売の開始決定をしたときは、債権届出の終期を定めなければならない。",
+    "exampleSentence": "The court issued a notice of the deadline for filing proof of claim to ensure all legitimate creditors could join the distribution.",
+    "exampleTranslation": "すべての正当な債権者が配当に参加できるよう、裁判所は債権届出の終期の通知を出した。",
+    "vocabularyList": [
+      {
+        "word": "Proof of claim",
+        "translation": "債権届出"
+      },
+      {
+        "word": "Deadline",
+        "translation": "終期 / 期限"
+      },
+      {
+        "word": "Legitimate",
+        "translation": "正当な"
+      },
+      {
+        "word": "Proceeds",
+        "translation": "売得金 / 収益"
+      },
+      {
+        "word": "To issue",
+        "translation": "発する / 出す"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Batch Sale Order",
+    "definition": "A court order directing that several pieces of property be sold together as a single lot, typically used when the properties are used together or when selling them together would result in a significantly higher price.",
+    "japaneseDefinition": "複数の不動産を一括して売却することを命じる決定。不動産の相互の利用関係や一括売却による高額売却の可能性を考慮して行われる。",
+    "japaneseWordTranslation": "一括売却の決定 (いっかつばいきゃくのけってい)",
+    "legalContext": "Civil Execution Act Art. 61: If the court finds it appropriate to sell several pieces of real property together, it may make an order for a batch sale.",
+    "japaneseLegalContext": "民事執行法第61条：執行裁判所は、数個の不動産を一括して売却することが相当であると認めるときは、一括売却の決定をすることができる。",
+    "exampleSentence": "The court decided to issue a batch sale order for the land and the building because their values are inextricably linked.",
+    "exampleTranslation": "土地と建物の価値が不可分に結びついているため、裁判所はそれらについて一括売却の決定を下した。",
+    "vocabularyList": [
+      {
+        "word": "Batch sale",
+        "translation": "一括売却"
+      },
+      {
+        "word": "Inextricably linked",
+        "translation": "不可分に結びついた"
+      },
+      {
+        "word": "Pieces of property",
+        "translation": "不動産の物件"
+      },
+      {
+        "word": "Appropriate",
+        "translation": "相当な / 適切な"
+      },
+      {
+        "word": "Single lot",
+        "translation": "一括の単位"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Report on the Execution Outcome",
+    "definition": "A formal report or entry in the records detailing the results and status of the execution measures taken by the court or the execution officer.",
+    "japaneseDefinition": "裁判所や執行官が行った執行措置の結果や状況を記録した報告、または記録への記載のこと。",
+    "japaneseWordTranslation": "執行結果の報告 (しっこうけっかのほうこく)",
+    "legalContext": "Civil Execution Act Art. 16: An interested person may request the court clerk to issue a certificate regarding the matters of the execution case.",
+    "japaneseLegalContext": "民事執行法第16条：利害関係を有する者は、裁判所書記官に対し、執行事件に関し、証明書の交付を請求することができる。",
+    "exampleSentence": "The report on the execution outcome confirmed that the assets had been successfully identified but not yet liquidated.",
+    "exampleTranslation": "執行結果の報告により、資産は特定されたものの、まだ換価されていないことが確認された。",
+    "vocabularyList": [
+      {
+        "word": "Outcome",
+        "translation": "結果"
+      },
+      {
+        "word": "Status",
+        "translation": "状況 / ステータス"
+      },
+      {
+        "word": "To detail",
+        "translation": "詳述する"
+      },
+      {
+        "word": "Measure",
+        "translation": "措置"
+      },
+      {
+        "word": "Certificate",
+        "translation": "証明書"
       }
     ]
   }

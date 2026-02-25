@@ -1,38 +1,38 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Subject Matter of the Suit",
-  "definition": "The specific legal relationship (right or claim) that the plaintiff seeks to have determined by the court's judgment. It defines the scope of the judicial dispute and is crucial for determining the admissibility of subsequent lawsuits.",
-  "japaneseDefinition": "裁判所に対し判決を求める対象である、特定の権利または法律関係。訴訟の範囲を確定し、二重起訴の禁止などの基準となる。",
-  "japaneseWordTranslation": "訴訟物 (そしょうぶつ)",
-  "legalContext": "Code of Civil Procedure, Art. 142 (Prohibition of Duplicate Actions): 'The parties shall not file a second action on the same subject matter of the suit for which an action is pending in court.'",
-  "japaneseLegalContext": "民事訴訟法第142条（重複起訴の禁止）: 「裁判所に訴訟が係属している間は、当事者は、同一の訴訟物について重ねて訴えを提起することができない。」",
-  "exampleSentence": "Under Japanese civil procedure, the determination of the Subject Matter of the Suit is essential to avoid the prohibition of duplicate actions.",
-  "exampleTranslation": "日本の民事訴訟法では、重複起訴の禁止を避けるために、訴訟物の確定が不可欠である。",
+  "word": "Indirect Compulsion",
+  "definition": "A method used to enforce non-monetary claims (typically for actions that require the cooperation of the party being enforced against, such as delivering an item or making a specific statement) by imposing a fine or indemnity order for each period of non-compliance.",
+  "japaneseDefinition": "債務者（執行をされる者）が金銭債務以外の給付義務（物の引渡しや特定の意思表示など）を履行しない場合に、その不履行期間に応じて損害賠償金や罰金を課すことにより、心理的な圧力をかけて履行を強制する執行方法。",
+  "japaneseWordTranslation": "間接強制 (かんせつきょうせい)",
+  "legalContext": "Civil Execution Act Art. 172 (Order for Indirect Compulsion): The court may, upon petition, issue an order that the person against whom execution is sought shall pay a certain amount of money to the judgment creditor if they fail to perform their obligations within a specific period.",
+  "japaneseLegalContext": "民事執行法 第172条 (間接強制の決定): 裁判所は、申立てにより、その義務を一定の期間内に履行しないときは、債権者に対し、間接強制を受ける者が定められた金銭を支払うべき旨を命ずる決定をすることができる。",
+  "exampleSentence": "Since the specific performance could not be directly executed, the court issued an order for Indirect Compulsion imposing a daily penalty of 100,000 yen until compliance.",
+  "exampleTranslation": "特定給付が直接執行できなかったため、裁判所は、履行するまで1日あたり10万円の罰金を課す間接強制の決定を出した。",
   "vocabularyList": [
     {
-      "word": "legal relationship",
-      "translation": "法律関係 (ほうりつかんけい)"
+      "word": "non-monetary claim",
+      "translation": "非金銭債権"
     },
     {
-      "word": "determination",
-      "translation": "確定 (かくてい)"
+      "word": "specific performance",
+      "translation": "特定給付"
     },
     {
-      "word": "admissibility",
-      "translation": "許容性 (きょようせい)"
+      "word": "indemnity order",
+      "translation": "損害賠償命令"
     },
     {
-      "word": "duplicate actions",
-      "translation": "重複起訴 (ちょうふくきそ)"
+      "word": "non-compliance",
+      "translation": "不履行"
     },
     {
-      "word": "pending in court",
-      "translation": "係属している (けいぞくしている)"
+      "word": "daily penalty",
+      "translation": "日ごとの罰金"
     },
     {
-      "word": "plaintiff",
-      "translation": "原告 (げんこく)"
+      "word": "cooperation",
+      "translation": "協力"
     }
   ]
 }

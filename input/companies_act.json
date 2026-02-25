@@ -2,44 +2,6 @@
   {
     "category": "Companies Act (会社法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Organizational Restructuring",
-    "definition": "A general term in Japanese company law encompassing various methods of fundamental corporate reorganization, such as mergers (gappei), company splits (kaisha分割), and stock exchanges (kabushiki kōkan).",
-    "japaneseDefinition": "会社法において、合併、会社分割、株式交換、株式移転など、企業の組織構造に根本的な変更を加える手続きの総称。",
-    "japaneseWordTranslation": "組織再編 (そしきさいへん)",
-    "legalContext": "Companies Act, Part V (Organizational Restructuring), covering procedures that require specific shareholder approvals and protection of creditors.",
-    "japaneseLegalContext": "会社法 第五編 (組織再編) にて、合併、分割等の手続きや債権者保護の手続きを定める。",
-    "exampleSentence": "The successful completion of the organizational restructuring requires detailed disclosure and approval by a special resolution of the shareholders.",
-    "exampleTranslation": "組織再編を首尾よく完了させるためには、詳細な情報開示と株主の特別決議による承認が必要である。",
-    "vocabularyList": [
-      {
-        "word": "disclosure",
-        "translation": "情報開示"
-      },
-      {
-        "word": "special resolution",
-        "translation": "特別決議"
-      },
-      {
-        "word": "merger",
-        "translation": "合併"
-      },
-      {
-        "word": "company split",
-        "translation": "会社分割"
-      },
-      {
-        "word": "creditor protection",
-        "translation": "債権者保護"
-      },
-      {
-        "word": "corporate reorganization",
-        "translation": "企業再編成"
-      }
-    ]
-  },
-  {
-    "category": "Companies Act (会社法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Consolidated Financial Statements",
     "definition": "Financial reports prepared by a parent company that combine the assets, liabilities, income, and expenses of all subsidiary companies within the corporate group, required primarily for large public companies.",
     "japaneseDefinition": "親会社が企業集団全体（親会社及び子会社）の財政状態及び経営成績を一体のものとして表示するために作成する財務報告書。",
@@ -18350,6 +18312,108 @@
       {
         "word": "Internal operations",
         "translation": "内部業務 (Naibu gyōmu)"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Amalgamation",
+    "definition": "The legal process where two or more separate commercial entities unite to form a single entity, either by one absorbing the others or by creating an entirely new entity.",
+    "japaneseDefinition": "二つ以上の企業が合体して一つの法人になること。吸収合併（既存の会社が他を吸収する）または新設合併（新たな会社を設立する）の形態がある。",
+    "japaneseWordTranslation": "合併 (がっぺい)",
+    "legalContext": "Companies Act Art. 748: A company may perform an amalgamation with another company.",
+    "japaneseLegalContext": "会社法第748条：会社は、他の会社と合併をすることができる。",
+    "exampleSentence": "The board finalized the amalgamation to improve market efficiency.",
+    "exampleTranslation": "市場の効率性を高めるため、役員会は合併を最終決定しました。",
+    "vocabularyList": [
+      {
+        "word": "Unite",
+        "translation": "統合する"
+      },
+      {
+        "word": "Firm",
+        "translation": "企業"
+      },
+      {
+        "word": "Process",
+        "translation": "手続き"
+      },
+      {
+        "word": "Efficiency",
+        "translation": "効率性"
+      },
+      {
+        "word": "Finalize",
+        "translation": "最終決定する"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Debenture",
+    "definition": "A debt instrument issued by a corporation to raise capital, typically backed by the general credit of the entity rather than specific assets.",
+    "japaneseDefinition": "企業が資金調達のために発行する債務証書。通常、特定の資産ではなく、企業の一般的な信用力に基づいて発行される。",
+    "japaneseWordTranslation": "社債 (しゃさい)",
+    "legalContext": "Companies Act Art. 2, Item 19: 'Bonds' (or Debentures) means any monetary claim against a company that is allotted in accordance with the provisions of this Act.",
+    "japaneseLegalContext": "会社法第2条19号：「社債」とは、この法律の規定により会社が行う割当てにより発生する当該会社を債務者とする金銭債権をいう。",
+    "exampleSentence": "The entity issued a new debenture to fund its global expansion.",
+    "exampleTranslation": "その組織は世界展開の資金を賄うために、新たな社債を発行しました。",
+    "vocabularyList": [
+      {
+        "word": "Debt",
+        "translation": "負債"
+      },
+      {
+        "word": "Instrument",
+        "translation": "証書"
+      },
+      {
+        "word": "Raise",
+        "translation": "調達する"
+      },
+      {
+        "word": "Expansion",
+        "translation": "拡大"
+      },
+      {
+        "word": "Fund",
+        "translation": "資金を供給する"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prospectus",
+    "definition": "A formal document describing a plan for a new business or a new stock issue, given to potential investors to help them decide whether to invest.",
+    "japaneseDefinition": "新事業の計画や新株の発行について記載した正式な書類。投資の判断材料として潜在的な投資家に提供される。",
+    "japaneseWordTranslation": "目論見書 (もくろみしょ)",
+    "legalContext": "Companies Act Art. 64: In the case of incorporation by offering, the incorporators must prepare a prospectus containing specific data.",
+    "japaneseLegalContext": "会社法第64条：募集設立の場合、発起人は特定の事項を記載した目論見書を作成しなければならない。",
+    "exampleSentence": "Investors carefully reviewed the prospectus before committing their capital.",
+    "exampleTranslation": "投資家は資金を投じる前に、注意深く目論見書を確認しました。",
+    "vocabularyList": [
+      {
+        "word": "Review",
+        "translation": "検討する"
+      },
+      {
+        "word": "Potential",
+        "translation": "潜在的な"
+      },
+      {
+        "word": "Commit",
+        "translation": "投じる"
+      },
+      {
+        "word": "Data",
+        "translation": "データ・情報"
+      },
+      {
+        "word": "Describe",
+        "translation": "詳述する"
       }
     ]
   }

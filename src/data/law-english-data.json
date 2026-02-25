@@ -1,38 +1,38 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Companies Act (会社法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Indirect Compulsion",
-  "definition": "A method used to enforce non-monetary claims (typically for actions that require the cooperation of the party being enforced against, such as delivering an item or making a specific statement) by imposing a fine or indemnity order for each period of non-compliance.",
-  "japaneseDefinition": "債務者（執行をされる者）が金銭債務以外の給付義務（物の引渡しや特定の意思表示など）を履行しない場合に、その不履行期間に応じて損害賠償金や罰金を課すことにより、心理的な圧力をかけて履行を強制する執行方法。",
-  "japaneseWordTranslation": "間接強制 (かんせつきょうせい)",
-  "legalContext": "Civil Execution Act Art. 172 (Order for Indirect Compulsion): The court may, upon petition, issue an order that the person against whom execution is sought shall pay a certain amount of money to the judgment creditor if they fail to perform their obligations within a specific period.",
-  "japaneseLegalContext": "民事執行法 第172条 (間接強制の決定): 裁判所は、申立てにより、その義務を一定の期間内に履行しないときは、債権者に対し、間接強制を受ける者が定められた金銭を支払うべき旨を命ずる決定をすることができる。",
-  "exampleSentence": "Since the specific performance could not be directly executed, the court issued an order for Indirect Compulsion imposing a daily penalty of 100,000 yen until compliance.",
-  "exampleTranslation": "特定給付が直接執行できなかったため、裁判所は、履行するまで1日あたり10万円の罰金を課す間接強制の決定を出した。",
+  "word": "Organizational Restructuring",
+  "definition": "A general term in Japanese company law encompassing various methods of fundamental corporate reorganization, such as mergers (gappei), company splits (kaisha分割), and stock exchanges (kabushiki kōkan).",
+  "japaneseDefinition": "会社法において、合併、会社分割、株式交換、株式移転など、企業の組織構造に根本的な変更を加える手続きの総称。",
+  "japaneseWordTranslation": "組織再編 (そしきさいへん)",
+  "legalContext": "Companies Act, Part V (Organizational Restructuring), covering procedures that require specific shareholder approvals and protection of creditors.",
+  "japaneseLegalContext": "会社法 第五編 (組織再編) にて、合併、分割等の手続きや債権者保護の手続きを定める。",
+  "exampleSentence": "The successful completion of the organizational restructuring requires detailed disclosure and approval by a special resolution of the shareholders.",
+  "exampleTranslation": "組織再編を首尾よく完了させるためには、詳細な情報開示と株主の特別決議による承認が必要である。",
   "vocabularyList": [
     {
-      "word": "non-monetary claim",
-      "translation": "非金銭債権"
+      "word": "disclosure",
+      "translation": "情報開示"
     },
     {
-      "word": "specific performance",
-      "translation": "特定給付"
+      "word": "special resolution",
+      "translation": "特別決議"
     },
     {
-      "word": "indemnity order",
-      "translation": "損害賠償命令"
+      "word": "merger",
+      "translation": "合併"
     },
     {
-      "word": "non-compliance",
-      "translation": "不履行"
+      "word": "company split",
+      "translation": "会社分割"
     },
     {
-      "word": "daily penalty",
-      "translation": "日ごとの罰金"
+      "word": "creditor protection",
+      "translation": "債権者保護"
     },
     {
-      "word": "cooperation",
-      "translation": "協力"
+      "word": "corporate reorganization",
+      "translation": "企業再編成"
     }
   ]
 }

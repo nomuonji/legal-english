@@ -1,38 +1,38 @@
 {
-  "category": "Companies Act (会社法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Organizational Restructuring",
-  "definition": "A general term in Japanese company law encompassing various methods of fundamental corporate reorganization, such as mergers (gappei), company splits (kaisha分割), and stock exchanges (kabushiki kōkan).",
-  "japaneseDefinition": "会社法において、合併、会社分割、株式交換、株式移転など、企業の組織構造に根本的な変更を加える手続きの総称。",
-  "japaneseWordTranslation": "組織再編 (そしきさいへん)",
-  "legalContext": "Companies Act, Part V (Organizational Restructuring), covering procedures that require specific shareholder approvals and protection of creditors.",
-  "japaneseLegalContext": "会社法 第五編 (組織再編) にて、合併、分割等の手続きや債権者保護の手続きを定める。",
-  "exampleSentence": "The successful completion of the organizational restructuring requires detailed disclosure and approval by a special resolution of the shareholders.",
-  "exampleTranslation": "組織再編を首尾よく完了させるためには、詳細な情報開示と株主の特別決議による承認が必要である。",
+  "word": "Stay of Execution",
+  "definition": "A judicial order temporarily suspending the ongoing execution procedures, typically granted based on the submission of security by the party being enforced against, or due to a separate court order finding grounds for dispute regarding the validity of the execution claim.",
+  "japaneseDefinition": "進行中の執行手続を一時的に停止する裁判所の命令。通常、執行の対象となっている者が担保を提供した場合、または執行権原の有効性に関する紛争を理由とする別の裁判所の命令に基づいて発せられる。",
+  "japaneseWordTranslation": "執行停止 (しっこうていし)",
+  "legalContext": "Civil Execution Act Art. 39 (Grounds for Stay of Execution): Execution procedures shall be stayed upon the submission of a document issued by the court stating that an order has been issued to provisionally stay the execution or that a final judgment has been reached revoking the grounds for execution.",
+  "japaneseLegalContext": "民事執行法 第39条 (執行停止の事由): 執行を一時停止する旨を命ずる裁判があったこと、又は執行権原の成立に関する裁判を取り消す終局判決があったことを証する文書が提出されたときは、執行手続は停止される。",
+  "exampleSentence": "The debtor filed a motion seeking a Stay of Execution, furnishing security of 5 million yen pending the outcome of the appeal.",
+  "exampleTranslation": "債務者は、控訴の結果が出るまで500万円の担保を提供し、執行停止を求める申し立てを行った。",
   "vocabularyList": [
     {
-      "word": "disclosure",
-      "translation": "情報開示"
+      "word": "judicial order",
+      "translation": "裁判所の命令"
     },
     {
-      "word": "special resolution",
-      "translation": "特別決議"
+      "word": "suspending",
+      "translation": "停止する"
     },
     {
-      "word": "merger",
-      "translation": "合併"
+      "word": "furnishing security",
+      "translation": "担保を提供すること"
     },
     {
-      "word": "company split",
-      "translation": "会社分割"
+      "word": "validity",
+      "translation": "有効性"
     },
     {
-      "word": "creditor protection",
-      "translation": "債権者保護"
+      "word": "motion seeking",
+      "translation": "求める申し立て"
     },
     {
-      "word": "corporate reorganization",
-      "translation": "企業再編成"
+      "word": "pending the outcome",
+      "translation": "結果が出るまで"
     }
   ]
 }

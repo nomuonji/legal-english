@@ -2,40 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Motion for Disqualification (of a Judge)",
-    "definition": "A procedural application made by a party requesting that a specific judge or court clerk be removed from the case due to circumstances that may compromise their impartiality or fairness.",
-    "japaneseDefinition": "裁判官又は裁判所書記官が不公正な裁判をする虞のある場合に、当事者がその職務執行を避けるよう申し立てる手続き。",
-    "japaneseWordTranslation": "忌避 (きひ)",
-    "legalContext": "Code of Civil Procedure Art. 24: Grounds for Disqualification. A party may move for disqualification only if there is a reason specified by law.",
-    "japaneseLegalContext": "民事訴訟法第24条：忌避の理由。当事者は、法律に定める理由がある場合にのみ忌避の申立てをすることができる。",
-    "exampleSentence": "The defendant filed a motion for disqualification, asserting that the judge had previously advised the opposing counsel on matters related to the current litigation.",
-    "exampleTranslation": "被告は、裁判官が以前、現在の訴訟に関連する事項について相手方弁護士に助言していたとして、忌避の申立てを行った。",
-    "vocabularyList": [
-      {
-        "word": "filed a motion",
-        "translation": "申立てを行った"
-      },
-      {
-        "word": "asserting",
-        "translation": "主張し"
-      },
-      {
-        "word": "impartiality",
-        "translation": "公平性"
-      },
-      {
-        "word": "opposing counsel",
-        "translation": "相手方弁護士"
-      },
-      {
-        "word": "grounds",
-        "translation": "理由"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Formative Judgment (Constitutive Judgment)",
     "definition": "A judgment that legally creates, alters, or extinguishes a specific legal relationship between the parties upon becoming final, effectively establishing a new legal status without the need for further executive action.",
     "japaneseDefinition": "判決の確定によって、当事者間の法律関係を創設、変更又は消滅させる効力を有する判決。その後の強制的な給付手続きを要しない。",
@@ -20890,6 +20856,108 @@
       {
         "word": "Interest",
         "translation": "利害関係"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Pleading in the Alternative",
+    "definition": "A procedural method where a party asserts multiple mutually exclusive allegations or demands, requesting the court to consider the second only if the first is not upheld.",
+    "japaneseDefinition": "一方が主たる主張が認められない場合に備えて、予備的に別の主張や申立てを行う訴訟上の手法。",
+    "japaneseWordTranslation": "予備的主張 (よびてきしゅちょう)",
+    "legalContext": "Pleading in the Alternative is often utilized in cases of joinder of demands to ensure that the party's legal interests are addressed even if their primary position is rejected by the court.",
+    "japaneseLegalContext": "主位的請求が棄却された場合に備えて予備的請求を行うなど、請求の併合において、紛争の合理的な解決のために活用される。",
+    "exampleSentence": "The party submitted a pleading in the alternative, requesting a reduction in the required payment should the court find the existence of an agreement.",
+    "exampleTranslation": "その当事者は、もし裁判所が合意の存在を認めるならば、支払額を減額するよう求める予備的主張を提出した。",
+    "vocabularyList": [
+      {
+        "word": "Allegation",
+        "translation": "主張"
+      },
+      {
+        "word": "Secondary",
+        "translation": "予備的な"
+      },
+      {
+        "word": "Reject",
+        "translation": "棄却する"
+      },
+      {
+        "word": "Legal interest",
+        "translation": "法的利益"
+      },
+      {
+        "word": "Mutually exclusive",
+        "translation": "相互に排他的な"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Withdrawal of Pleading",
+    "definition": "The act of a party retracting a previously stated factual allegation or legal position before a final determination is made in the legal process.",
+    "japaneseDefinition": "当事者が一度行った事実の主張や法的立場を、最終的な判断が下される前に取り下げる行為。",
+    "japaneseWordTranslation": "主張の撤回 (しゅちょうのてっかい)",
+    "legalContext": "While a withdrawal of pleading is generally permitted, it may be restricted if it involves a statement of fact that has already become binding as a result of the other party's agreement.",
+    "japaneseLegalContext": "主張の撤回は原則として自由であるが、相手方が援用したことによって裁判上の自白が成立した場合には、その撤回には制限が生じる。",
+    "exampleSentence": "A withdrawal of pleading was necessary after the discovery of new documentation that contradicted the previous statement.",
+    "exampleTranslation": "以前の陳述と矛盾する新たな文書が発見されたため、主張の撤回が必要となった。",
+    "vocabularyList": [
+      {
+        "word": "Retract",
+        "translation": "撤回する"
+      },
+      {
+        "word": "Contradict",
+        "translation": "矛盾する"
+      },
+      {
+        "word": "Documentation",
+        "translation": "書面"
+      },
+      {
+        "word": "Permitted",
+        "translation": "許容される"
+      },
+      {
+        "word": "Restrict",
+        "translation": "制限する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Strict Proof",
+    "definition": "The standard required for establishing the existence of facts that form the direct basis of the legal demand, necessitating formal examination of evidence.",
+    "japaneseDefinition": "訴訟の承継や請求の根拠となる主要事実など、適法な証拠調べによって証明されなければならない事実の証明度。",
+    "japaneseWordTranslation": "厳格な証明 (げんかくなしょうめい)",
+    "legalContext": "In Japanese civil proceedings, strict proof is required for 'main facts' which directly trigger legal effects, as opposed to 'free proof' used for procedural matters.",
+    "japaneseLegalContext": "民事訴訟において、法律効果の発生に直接必要な「主要事実」については、適法な証拠調べによる厳格な証明が求められる。",
+    "exampleSentence": "The legal representative argued that the presence of intent required strict proof rather than mere speculation.",
+    "exampleTranslation": "訴訟代理人は、意図の存在については単なる推測ではなく厳格な証明が必要であると論じた。",
+    "vocabularyList": [
+      {
+        "word": "Establish",
+        "translation": "立証する"
+      },
+      {
+        "word": "Main facts",
+        "translation": "主要事実"
+      },
+      {
+        "word": "Speculation",
+        "translation": "推測"
+      },
+      {
+        "word": "Necessitate",
+        "translation": "必要とする"
+      },
+      {
+        "word": "Trigger",
+        "translation": "発生させる"
       }
     ]
   }

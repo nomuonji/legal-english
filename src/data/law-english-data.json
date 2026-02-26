@@ -1,38 +1,34 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Stay of Execution",
-  "definition": "A judicial order temporarily suspending the ongoing execution procedures, typically granted based on the submission of security by the party being enforced against, or due to a separate court order finding grounds for dispute regarding the validity of the execution claim.",
-  "japaneseDefinition": "進行中の執行手続を一時的に停止する裁判所の命令。通常、執行の対象となっている者が担保を提供した場合、または執行権原の有効性に関する紛争を理由とする別の裁判所の命令に基づいて発せられる。",
-  "japaneseWordTranslation": "執行停止 (しっこうていし)",
-  "legalContext": "Civil Execution Act Art. 39 (Grounds for Stay of Execution): Execution procedures shall be stayed upon the submission of a document issued by the court stating that an order has been issued to provisionally stay the execution or that a final judgment has been reached revoking the grounds for execution.",
-  "japaneseLegalContext": "民事執行法 第39条 (執行停止の事由): 執行を一時停止する旨を命ずる裁判があったこと、又は執行権原の成立に関する裁判を取り消す終局判決があったことを証する文書が提出されたときは、執行手続は停止される。",
-  "exampleSentence": "The debtor filed a motion seeking a Stay of Execution, furnishing security of 5 million yen pending the outcome of the appeal.",
-  "exampleTranslation": "債務者は、控訴の結果が出るまで500万円の担保を提供し、執行停止を求める申し立てを行った。",
+  "word": "Motion for Disqualification (of a Judge)",
+  "definition": "A procedural application made by a party requesting that a specific judge or court clerk be removed from the case due to circumstances that may compromise their impartiality or fairness.",
+  "japaneseDefinition": "裁判官又は裁判所書記官が不公正な裁判をする虞のある場合に、当事者がその職務執行を避けるよう申し立てる手続き。",
+  "japaneseWordTranslation": "忌避 (きひ)",
+  "legalContext": "Code of Civil Procedure Art. 24: Grounds for Disqualification. A party may move for disqualification only if there is a reason specified by law.",
+  "japaneseLegalContext": "民事訴訟法第24条：忌避の理由。当事者は、法律に定める理由がある場合にのみ忌避の申立てをすることができる。",
+  "exampleSentence": "The defendant filed a motion for disqualification, asserting that the judge had previously advised the opposing counsel on matters related to the current litigation.",
+  "exampleTranslation": "被告は、裁判官が以前、現在の訴訟に関連する事項について相手方弁護士に助言していたとして、忌避の申立てを行った。",
   "vocabularyList": [
     {
-      "word": "judicial order",
-      "translation": "裁判所の命令"
+      "word": "filed a motion",
+      "translation": "申立てを行った"
     },
     {
-      "word": "suspending",
-      "translation": "停止する"
+      "word": "asserting",
+      "translation": "主張し"
     },
     {
-      "word": "furnishing security",
-      "translation": "担保を提供すること"
+      "word": "impartiality",
+      "translation": "公平性"
     },
     {
-      "word": "validity",
-      "translation": "有効性"
+      "word": "opposing counsel",
+      "translation": "相手方弁護士"
     },
     {
-      "word": "motion seeking",
-      "translation": "求める申し立て"
-    },
-    {
-      "word": "pending the outcome",
-      "translation": "結果が出るまで"
+      "word": "grounds",
+      "translation": "理由"
     }
   ]
 }

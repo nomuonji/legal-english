@@ -17089,5 +17089,119 @@
         "translation": "表題（表示）"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Land Submersion",
+    "definition": "A legal and factual state where a parcel of land becomes permanently covered by water (e.g., due to the construction of a dam or rising sea levels), leading to the legal extinction of the land as a registrable object.",
+    "japaneseDefinition": "土地がダムの建設や海面上昇などにより永久に水面下に沈むこと。不動産登記法上、登録の対象としての土地の滅失を招く事由となる。",
+    "japaneseWordTranslation": "土地の没水 (とちのぼっすい)",
+    "legalContext": "Real Property Registration Act Art. 37: When a change occurs in the land category or land area, the registered holder shall apply for a registration of the change within one month.",
+    "japaneseLegalContext": "不動産登記法第37条：地目又は地積について変更があったときは、表題部所有者又は所有権の登記名義人は、その変更があった日から一箇月以内に、当該地目又は地積に関する変更の登記を申請しなければならない。",
+    "exampleSentence": "The owner must file an application to close the registry record if the entire parcel is lost due to permanent land submersion.",
+    "exampleTranslation": "土地の全部が永久的な没水により滅失した場合には、所有者は登記記録の閉鎖を申請しなければなりません。",
+    "vocabularyList": [
+      {
+        "word": "Permanently",
+        "translation": "永久に"
+      },
+      {
+        "word": "Underwater",
+        "translation": "水面下に"
+      },
+      {
+        "word": "Extinction",
+        "translation": "滅失"
+      },
+      {
+        "word": "Registry record",
+        "translation": "登記記録"
+      },
+      {
+        "word": "Application",
+        "translation": "申請"
+      },
+      {
+        "word": "Parcel",
+        "translation": "一筆の土地"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Building Foundation",
+    "definition": "The lowest part of a building's structure that supports its weight and connects it to the ground. Under the registration rules, the material and type of the foundation are essential components of the building's 'structure' description.",
+    "japaneseDefinition": "建物の最下部で荷重を支え、地盤に定着させる構造部分。不動産登記においては、建物の「構造」を構成する重要な要素として、基礎の材質や種類が記載される。",
+    "japaneseWordTranslation": "建物の基礎 (たてもののきそ)",
+    "legalContext": "Real Property Registration Act Art. 44: The following matters shall be recorded in the description section of a building: ... (ii) The structure of the building.",
+    "japaneseLegalContext": "不動産登記法第44条：建物の表示に関する登記の登記事項は、次に掲げるものとする。…二　建物の構造",
+    "exampleSentence": "When the building foundation is reinforced with concrete piles, this specific detail must be reflected in the structure description of the registry.",
+    "exampleTranslation": "建物の基礎がコンクリート杭で補強されている場合、その詳細は登記簿の構造欄に反映されなければなりません。",
+    "vocabularyList": [
+      {
+        "word": "Reinforced",
+        "translation": "補強された"
+      },
+      {
+        "word": "Concrete pile",
+        "translation": "コンクリート杭"
+      },
+      {
+        "word": "Description section",
+        "translation": "表示部"
+      },
+      {
+        "word": "Record",
+        "translation": "記録する"
+      },
+      {
+        "word": "Component",
+        "translation": "構成要素"
+      },
+      {
+        "word": "Ground",
+        "translation": "地盤"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Internal Partition",
+    "definition": "The interior walls or dividers that delineate the rooms within a building. In the context of registration, changes to internal partitions may affect the floor area calculation or the structural description of a sectional ownership unit.",
+    "japaneseDefinition": "建物の内部を部屋ごとに区切る仕切り壁。登記実務上、内部仕切りの変更は床面積の算出や、区分所有建物の構造上の記載に影響を及ぼす場合がある。",
+    "japaneseWordTranslation": "内部仕切り (ないぶしきり)",
+    "legalContext": "Real Property Registration Act Art. 44, Paragraph 1: Matters relating to the floor area and the structure of each floor must be recorded accurately in the description.",
+    "japaneseLegalContext": "不動産登記法第44条第1項：各階の床面積及び構造に関する事項は、正確に表示部に記録されなければならない。",
+    "exampleSentence": "The removal of an internal partition might increase the usable floor space but could require an amendment to the building's physical description in the registry.",
+    "exampleTranslation": "内部仕切りを撤去することで有効床面積が増加する可能性がありますが、登記簿上の建物の物理的表示の修正が必要になる場合があります。",
+    "vocabularyList": [
+      {
+        "word": "Delineate",
+        "translation": "区画する"
+      },
+      {
+        "word": "Divider",
+        "translation": "仕切り"
+      },
+      {
+        "word": "Interior wall",
+        "translation": "内壁"
+      },
+      {
+        "word": "Amendment",
+        "translation": "修正・更正"
+      },
+      {
+        "word": "Floor space",
+        "translation": "床面積"
+      },
+      {
+        "word": "Removal",
+        "translation": "撤去"
+      }
+    ]
   }
 ]

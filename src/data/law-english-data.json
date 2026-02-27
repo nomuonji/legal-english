@@ -1,42 +1,34 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Possessor's Claim of Non-execution",
-  "definition": "An assertion made by a third party, who possesses real property subject to an execution procedure (such as delivery or eviction), arguing that the execution cannot proceed against them due to a valid legal basis for their possession (e.g., a perfected lease).",
-  "japaneseDefinition": "執行目的物である不動産を占有する第三者が、自己の占有権原を主張し、その不動産の引渡執行または明渡執行を拒否すること。",
-  "japaneseWordTranslation": "占有者の非執行主張 (せんゆうしゃのひしっこうしゅちょう)",
-  "legalContext": "Civil Execution Act, related to the execution procedures for the delivery or eviction of real property.",
-  "japaneseLegalContext": "民事執行法における、不動産の引渡しまたは明渡しの執行手続に関する規定。",
-  "exampleSentence": "The execution officer must examine the Possessor's Claim of Non-execution carefully before proceeding with the eviction from the subject real property.",
-  "exampleTranslation": "執行官は、目的不動産からの明渡しを続行する前に、占有者の非執行主張を慎重に調査しなければならない。",
+  "word": "Undue Enrichment",
+  "definition": "A legal concept whereby a person who has gained a benefit without legal cause, resulting in loss to another, is obligated to return that benefit.",
+  "japaneseDefinition": "法律上の原因がないにもかかわらず、他人の財産または労務によって利益を受け、そのために他人に損失を及ぼした者が、その利益を返還しなければならないとする法制度。",
+  "japaneseWordTranslation": "不当利得 (ふとうりとく)",
+  "legalContext": "Civil Code Art. 703: “A person who has benefited from the property or services of another without legal cause and has thereby inflicted loss on the other shall be obliged to return the benefit received...”",
+  "japaneseLegalContext": "民法第703条: 「法律上の原因なく他人の財産又は労務によって利益を受け、そのために他人に損失を及ぼした者（中略）は、その利益を返還する義務を負う。」",
+  "exampleSentence": "The plaintiff filed an action demanding the return of the funds based on the principle of undue enrichment, as the transfer lacked a valid underlying agreement.",
+  "exampleTranslation": "原告は、その送金に有効な基礎となる合意が欠如していたため、不当利得の原則に基づき資金の返還を求める訴訟を提起した。",
   "vocabularyList": [
     {
-      "word": "execution officer",
-      "translation": "執行官"
+      "word": "legal cause",
+      "translation": "法律上の原因 (ほうりつじょうのげんいん)"
     },
     {
-      "word": "real property",
-      "translation": "不動産"
+      "word": "return the benefit",
+      "translation": "利益を返還する (りえきをへんかんする)"
     },
     {
-      "word": "eviction",
-      "translation": "明渡し"
+      "word": "inflicted loss",
+      "translation": "損失を及ぼした (そんしつをおよぼした)"
     },
     {
-      "word": "subject property",
-      "translation": "目的物 (もくてきぶつ)"
+      "word": "underlying agreement",
+      "translation": "基礎となる合意 (きそとなるごうい)"
     },
     {
-      "word": "legal basis",
-      "translation": "権原 (けんげん)"
-    },
-    {
-      "word": "proceed with",
-      "translation": "続行する"
-    },
-    {
-      "word": "third party",
-      "translation": "第三者"
+      "word": "action demanding return",
+      "translation": "返還請求訴訟 (へんかんせいきゅうそしょう)"
     }
   ]
 }

@@ -2,40 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Undue Enrichment",
-    "definition": "A legal concept whereby a person who has gained a benefit without legal cause, resulting in loss to another, is obligated to return that benefit.",
-    "japaneseDefinition": "法律上の原因がないにもかかわらず、他人の財産または労務によって利益を受け、そのために他人に損失を及ぼした者が、その利益を返還しなければならないとする法制度。",
-    "japaneseWordTranslation": "不当利得 (ふとうりとく)",
-    "legalContext": "Civil Code Art. 703: “A person who has benefited from the property or services of another without legal cause and has thereby inflicted loss on the other shall be obliged to return the benefit received...”",
-    "japaneseLegalContext": "民法第703条: 「法律上の原因なく他人の財産又は労務によって利益を受け、そのために他人に損失を及ぼした者（中略）は、その利益を返還する義務を負う。」",
-    "exampleSentence": "The plaintiff filed an action demanding the return of the funds based on the principle of undue enrichment, as the transfer lacked a valid underlying agreement.",
-    "exampleTranslation": "原告は、その送金に有効な基礎となる合意が欠如していたため、不当利得の原則に基づき資金の返還を求める訴訟を提起した。",
-    "vocabularyList": [
-      {
-        "word": "legal cause",
-        "translation": "法律上の原因 (ほうりつじょうのげんいん)"
-      },
-      {
-        "word": "return the benefit",
-        "translation": "利益を返還する (りえきをへんかんする)"
-      },
-      {
-        "word": "inflicted loss",
-        "translation": "損失を及ぼした (そんしつをおよぼした)"
-      },
-      {
-        "word": "underlying agreement",
-        "translation": "基礎となる合意 (きそとなるごうい)"
-      },
-      {
-        "word": "action demanding return",
-        "translation": "返還請求訴訟 (へんかんせいきゅうそしょう)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Rescission (of a Contract)",
     "definition": "The right of a party to terminate a validly formed contract unilaterally, typically due to a material breach or non-performance by the other party, resulting in the contract being treated as if it had never existed.",
     "japaneseDefinition": "有効に成立した契約について、一方当事者の債務不履行など重大な理由がある場合に、他方当事者が一方的な意思表示により契約を将来に向かってまたは遡及的に消滅させること。",
@@ -23976,6 +23942,120 @@
       {
         "word": "In accordance with",
         "translation": "〜に従って"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Adhesion Contract",
+    "definition": "A contract drafted by one party (usually a business with stronger bargaining power) and signed by another party (usually a consumer) who has little to no ability to negotiate the terms.",
+    "japaneseDefinition": "当事者の一方が、あらかじめ作成した定型的な契約条項（定型約款）の内容を、他方の当事者が包括的に受け入れることによって成立する契約。",
+    "japaneseWordTranslation": "付合契約 (ふごうけいやく)",
+    "legalContext": "Civil Code Art. 548-2: A person who makes an agreement to conduct a 'Standard Transaction' is deemed to have agreed to the individual provisions of the standard terms and conditions if the person manifests the intent to be bound by the standard terms.",
+    "japaneseLegalContext": "民法第548条の2：定型取引を行うことの合意をした者は、次に掲げる場合には、定型約款の個別の条項についても合意をしたものとみなす。（一）定型約款を契約の内容とする旨の合意をしたとき。 ",
+    "exampleSentence": "In an adhesion contract, the courts may scrutinize terms that are unfairly advantageous to the drafting party.",
+    "exampleTranslation": "付合契約においては、作成者に不当に有利な条項がないか、裁判所が厳格に審査することがある。",
+    "vocabularyList": [
+      {
+        "word": "Bargaining power",
+        "translation": "交渉力"
+      },
+      {
+        "word": "Negotiate",
+        "translation": "交渉する"
+      },
+      {
+        "word": "Standardized",
+        "translation": "定型化された"
+      },
+      {
+        "word": "Predetermined",
+        "translation": "あらかじめ定められた"
+      },
+      {
+        "word": "Scrutinize",
+        "translation": "精査する"
+      },
+      {
+        "word": "Advantageous",
+        "translation": "有利な"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Freedom of Testation",
+    "definition": "The legal principle that a person has the authority to decide how their assets will be distributed after their death through a valid will.",
+    "japaneseDefinition": "被相続人が、遺言によって自己の財産を自由に処分することができるという原則。",
+    "japaneseWordTranslation": "遺言の自由 (いごんのじゆう)",
+    "legalContext": "Civil Code Art. 960: A testament shall be made only in accordance with the forms prescribed by this Code.",
+    "japaneseLegalContext": "民法第960条：遺言は、この法律に定める方式に従わなければ、することができない。",
+    "exampleSentence": "Freedom of testation is a fundamental concept in inheritance law, though it is limited by the mandatory portion reserved for certain heirs.",
+    "exampleTranslation": "遺言の自由は相続法の基本概念であるが、特定の相続人に認められた遺留分によって一定の制限を受ける。",
+    "vocabularyList": [
+      {
+        "word": "Distribute",
+        "translation": "分配する"
+      },
+      {
+        "word": "Posthumous",
+        "translation": "死後の"
+      },
+      {
+        "word": "Asset",
+        "translation": "資産"
+      },
+      {
+        "word": "Mandatory portion",
+        "translation": "遺留分"
+      },
+      {
+        "word": "Prescribed",
+        "translation": "規定された"
+      },
+      {
+        "word": "Dispose",
+        "translation": "処分する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Standard of Care",
+    "definition": "The degree of watchfulness and prudence that a person is legally required to exercise to avoid being found liable for harming others.",
+    "japaneseDefinition": "他人に損害を与えないために、法律上要求される注意を払うべき度合い（程度）。",
+    "japaneseWordTranslation": "注意基準 (ちゅういきじゅん)",
+    "legalContext": "Civil Code Art. 400: If the subject matter of a claim is the delivery of a specific thing, the obligor shall take custody of that thing with the care of a good manager until the delivery is completed.",
+    "japaneseLegalContext": "民法第400条：債権の目的が特定物の引渡しであるときは、債務者は、その引渡しをするまで、善良な管理者の注意をもって、その物を保存しなければならない。",
+    "exampleSentence": "The applicable standard of care varies depending on the professional expertise of the person performing the act.",
+    "exampleTranslation": "適用される注意基準は、行為を行う者の専門的知見によって異なる。",
+    "vocabularyList": [
+      {
+        "word": "Degree",
+        "translation": "程度"
+      },
+      {
+        "word": "Watchfulness",
+        "translation": "注意深さ"
+      },
+      {
+        "word": "Prudence",
+        "translation": "慎重さ"
+      },
+      {
+        "word": "Expertise",
+        "translation": "専門的知見"
+      },
+      {
+        "word": "Criteria",
+        "translation": "基準"
+      },
+      {
+        "word": "Varies",
+        "translation": "異なる"
       }
     ]
   }

@@ -19674,5 +19674,119 @@
         "translation": "日次の"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Realization Order",
+    "definition": "An order issued by the execution court, upon the petition of a creditor, to convert a seized claim into money through methods other than a standard collection or assignment order, such as a sale through an intermediary or a management order, often used when the value of the claim is difficult to determine.",
+    "japaneseDefinition": "差押えられた債権を、通常の取立命令や転付命令によらず、裁判所の命令によって売却や管理などの特別な方法で換価する手続き。債権の評価が困難な場合などに申し立てられる。",
+    "japaneseWordTranslation": "特別換価命令 (とくべつかんかめいれい)",
+    "legalContext": "Civil Execution Act Art. 161: If the execution court finds it necessary, it may, upon petition by the execution obligee, issue an order to sell the seized claim through an officer or a third party, or provide for other methods of realization.",
+    "japaneseLegalContext": "民事執行法161条：執行裁判所は、必要があると認めるときは、差押債権者の申立てにより、差押えられた債権を執行官その他の者に売却させる命令、又はその他の方法による換価を命ずることができる。",
+    "exampleSentence": "The creditor filed a petition for a special realization order to auction the seized shares which lacked a standard market price.",
+    "exampleTranslation": "債権者は、標準的な市場価格がない差押株式を競売にかけるため、特別換価命令を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Convert into money",
+        "translation": "換価する"
+      },
+      {
+        "word": "Intermediary",
+        "translation": "仲介者"
+      },
+      {
+        "word": "Petition",
+        "translation": "申立て"
+      },
+      {
+        "word": "Market price",
+        "translation": "市場価格"
+      },
+      {
+        "word": "Seized shares",
+        "translation": "差押えられた株式"
+      },
+      {
+        "word": "Method of realization",
+        "translation": "換価の方法"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for the Detention of a Vessel",
+    "definition": "A court order issued at the commencement of an auction for a ship, requiring that the vessel be detained at a specific port or mooring site to prevent its departure and ensure that the execution can proceed effectively.",
+    "japaneseDefinition": "船舶の競売手続の開始時に、船舶の出港を防ぎ、執行を確実にするために、特定の港や繋留場所に船舶を留置させるよう命じる裁判所の命令。",
+    "japaneseWordTranslation": "船舶の拘束命令 (せんぱくのこうそくめいれい)",
+    "legalContext": "Civil Execution Act Art. 114: When the execution court issues an order of commencement for a compulsory auction of a vessel, it shall also order that the vessel be detained at the port where it is currently located.",
+    "japaneseLegalContext": "民事執行法114条：執行裁判所は、船舶の強制競売の開始決定をするときは、その船舶をその所在する港に留置すべき旨を命じなければならない。",
+    "exampleSentence": "To prevent the debtor from moving the assets overseas, the court issued an order for the detention of the vessel at the port of Yokohama.",
+    "exampleTranslation": "債務者が資産を海外に移動させるのを防ぐため、裁判所は横浜港にて船舶の拘束命令を下した。",
+    "vocabularyList": [
+      {
+        "word": "Detain",
+        "translation": "留置する"
+      },
+      {
+        "word": "Vessel",
+        "translation": "船舶"
+      },
+      {
+        "word": "Departure",
+        "translation": "出港"
+      },
+      {
+        "word": "Mooring site",
+        "translation": "繋留場所"
+      },
+      {
+        "word": "Overseas",
+        "translation": "海外"
+      },
+      {
+        "word": "Move the assets",
+        "translation": "資産を移動させる"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for the Preservation of Real Property",
+    "definition": "A preliminary court order issued after the commencement of an auction to prevent the debtor or a third party from damaging, altering, or removing a building or land, thereby maintaining the value of the property for the potential buyer.",
+    "japaneseDefinition": "競売開始後に、債務者や第三者が建物や土地を損傷、改変、または撤去するのを防ぎ、買受人のために物件の価値を維持することを目的とした裁判所の仮の命令。",
+    "japaneseWordTranslation": "不動産保存命令 (ふどうさんほぞんめいれい)",
+    "legalContext": "Civil Execution Act Art. 55: The execution court may, upon petition, issue an order to prohibit any acts that would significantly decrease the value of the property subject to execution.",
+    "japaneseLegalContext": "民事執行法55条：執行裁判所は、申立てにより、執行の対象となる不動産の価値を著しく減少させる行為を禁止する命令を発することができる。",
+    "exampleSentence": "An order for the preservation of real property was issued to stop the occupant from demolishing the internal partitions of the building under auction.",
+    "exampleTranslation": "競売にかかっている建物の内部仕切りを占有者が取り壊すのを止めるため、不動産保存命令が発令された。",
+    "vocabularyList": [
+      {
+        "word": "Preservation",
+        "translation": "保存"
+      },
+      {
+        "word": "Damage",
+        "translation": "損傷"
+      },
+      {
+        "word": "Occupant",
+        "translation": "占有者"
+      },
+      {
+        "word": "Demolish",
+        "translation": "取り壊す"
+      },
+      {
+        "word": "Internal partitions",
+        "translation": "内部仕切り"
+      },
+      {
+        "word": "Maintain the value",
+        "translation": "価値を維持する"
+      }
+    ]
   }
 ]

@@ -23864,5 +23864,119 @@
         "translation": "割り当てられた事務"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Agreed Interest Rate",
+    "definition": "An interest rate determined by the mutual agreement of the parties to a contract, which takes precedence over the rate fixed by law.",
+    "japaneseDefinition": "当事者間の合意によって定められた利率。法律で定められた法定利率よりも優先して適用される。",
+    "japaneseWordTranslation": "約定利率 (やくじょうりりつ)",
+    "legalContext": "Civil Code Art. 404, Para. 1: 'The interest rate for an obligation with interest shall be the statutory interest rate; provided, however, that if the parties have agreed on a different interest rate, that rate shall prevail.'",
+    "japaneseLegalContext": "民法第404条第1項：利息を生ずべき債権の利率は、その利息が生じた最初の時点における法定利率による。ただし、当事者が別段の利率を定めたときは、その利率による。",
+    "exampleSentence": "If the agreed interest rate exceeds the maximum limit under the Interest Rate Restriction Act, the portion in excess is considered null and void.",
+    "exampleTranslation": "約定利率が利息制限法の上限を超える場合、その超過部分は無効とみなされます。",
+    "vocabularyList": [
+      {
+        "word": "Interest Rate Restriction Act",
+        "translation": "利息制限法"
+      },
+      {
+        "word": "Null and void",
+        "translation": "無効"
+      },
+      {
+        "word": "Exceed",
+        "translation": "超過する"
+      },
+      {
+        "word": "Mutual agreement",
+        "translation": "合意"
+      },
+      {
+        "word": "Precedence",
+        "translation": "優先"
+      },
+      {
+        "word": "Portion",
+        "translation": "部分"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Cumulative Debt Joinder",
+    "definition": "A form of debt transfer where a third party joins the existing relationship as a new debtor alongside the original debtor, resulting in both being liable for the same debt.",
+    "japaneseDefinition": "従来の債務者に加えて第三者が新たに債務者として加わり、両者が並列して同一内容の債務を負担する形態の債務引受け。",
+    "japaneseWordTranslation": "併存的債務引受け (へいぞんてきさいむひきうけ)",
+    "legalContext": "Civil Code Art. 470, Para. 1: 'The joiner in a cumulative debt joinder shall be liable for the debt together with the original debtor.'",
+    "japaneseLegalContext": "民法第470条第1項：併存的債務引受けの引受人は、債務者と連帯して、債務者が自ら負う義務と同一の内容の義務を負う。",
+    "exampleSentence": "In a cumulative debt joinder, the creditor can demand payment from either the original debtor or the party who joined the debt.",
+    "exampleTranslation": "併存的債務引受けにおいて、債権者は元の債務者または債務を引き受けた者のいずれに対しても支払いを請求できます。",
+    "vocabularyList": [
+      {
+        "word": "Joiner",
+        "translation": "引受人"
+      },
+      {
+        "word": "Liable",
+        "translation": "責任を負う"
+      },
+      {
+        "word": "Existing relationship",
+        "translation": "既存の（契約）関係"
+      },
+      {
+        "word": "Demand payment",
+        "translation": "支払いを請求する"
+      },
+      {
+        "word": "Original debtor",
+        "translation": "元の債務者"
+      },
+      {
+        "word": "Alongside",
+        "translation": "並行して"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Post-Contractual Duties",
+    "definition": "Legal obligations that persist even after a contract has expired or been terminated, often based on the general principle of good faith and fair dealing.",
+    "japaneseDefinition": "契約が終了した後も、信義誠実の原則に基づき当事者が引き続き負うべき法的義務（守秘義務や資料返還義務など）。",
+    "japaneseWordTranslation": "契約終了後の義務 (けいやくしゅうりょうごのぎむ)",
+    "legalContext": "Civil Code Art. 1, Para. 2: 'The exercise of rights and performance of duties must be done in good faith and in accordance with the principle of sincerity.'",
+    "japaneseLegalContext": "民法第1条第2項：権利の行使及び義務の履行は、信義に従い誠実に行わなければならない。",
+    "exampleSentence": "The consultant remained bound by post-contractual duties regarding the confidentiality of the client's trade secrets.",
+    "exampleTranslation": "コンサルタントは、クライアントの営業秘密の保持に関する契約終了後の義務に引き続き拘束されました。",
+    "vocabularyList": [
+      {
+        "word": "Persist",
+        "translation": "存続する"
+      },
+      {
+        "word": "Expired",
+        "translation": "期間満了した"
+      },
+      {
+        "word": "Confidentiality",
+        "translation": "守秘義務"
+      },
+      {
+        "word": "Trade secrets",
+        "translation": "営業秘密"
+      },
+      {
+        "word": "Bound by",
+        "translation": "拘束される"
+      },
+      {
+        "word": "In accordance with",
+        "translation": "〜に従って"
+      }
+    ]
   }
 ]

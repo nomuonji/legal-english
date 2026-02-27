@@ -1,38 +1,42 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Formative Judgment (Constitutive Judgment)",
-  "definition": "A judgment that legally creates, alters, or extinguishes a specific legal relationship between the parties upon becoming final, effectively establishing a new legal status without the need for further executive action.",
-  "japaneseDefinition": "判決の確定によって、当事者間の法律関係を創設、変更又は消滅させる効力を有する判決。その後の強制的な給付手続きを要しない。",
-  "japaneseWordTranslation": "形成判決 (けいせい はんけつ)",
-  "legalContext": "Formative Judgments are distinguished from judgments of performance (給付判決) and judgments of declaration (確認判決) by their inherent power to change legal status.",
-  "japaneseLegalContext": "形成判決は、その性質上、法律上の地位を変更する権能を持ち、給付判決及び確認判決とは区別される。",
-  "exampleSentence": "An action seeking the cancellation of a corporate resolution, if successful, results in a formative judgment that invalidates the decision retroactively.",
-  "exampleTranslation": "会社の決議の取消しを求める訴えは、認められれば、その決定を遡及的に無効にする形成判決となる。",
+  "word": "Possessor's Claim of Non-execution",
+  "definition": "An assertion made by a third party, who possesses real property subject to an execution procedure (such as delivery or eviction), arguing that the execution cannot proceed against them due to a valid legal basis for their possession (e.g., a perfected lease).",
+  "japaneseDefinition": "執行目的物である不動産を占有する第三者が、自己の占有権原を主張し、その不動産の引渡執行または明渡執行を拒否すること。",
+  "japaneseWordTranslation": "占有者の非執行主張 (せんゆうしゃのひしっこうしゅちょう)",
+  "legalContext": "Civil Execution Act, related to the execution procedures for the delivery or eviction of real property.",
+  "japaneseLegalContext": "民事執行法における、不動産の引渡しまたは明渡しの執行手続に関する規定。",
+  "exampleSentence": "The execution officer must examine the Possessor's Claim of Non-execution carefully before proceeding with the eviction from the subject real property.",
+  "exampleTranslation": "執行官は、目的不動産からの明渡しを続行する前に、占有者の非執行主張を慎重に調査しなければならない。",
   "vocabularyList": [
     {
-      "word": "extinguishes",
-      "translation": "消滅させる"
+      "word": "execution officer",
+      "translation": "執行官"
     },
     {
-      "word": "final",
-      "translation": "確定した"
+      "word": "real property",
+      "translation": "不動産"
     },
     {
-      "word": "performance",
-      "translation": "給付"
+      "word": "eviction",
+      "translation": "明渡し"
     },
     {
-      "word": "invalidates",
-      "translation": "無効にする"
+      "word": "subject property",
+      "translation": "目的物 (もくてきぶつ)"
     },
     {
-      "word": "corporate resolution",
-      "translation": "会社の決議"
+      "word": "legal basis",
+      "translation": "権原 (けんげん)"
     },
     {
-      "word": "retroactively",
-      "translation": "遡及的に"
+      "word": "proceed with",
+      "translation": "続行する"
+    },
+    {
+      "word": "third party",
+      "translation": "第三者"
     }
   ]
 }

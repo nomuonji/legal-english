@@ -18758,5 +18758,119 @@
         "translation": "報酬"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Nominal Equity-Interest Holder",
+    "definition": "A person who is recorded in the register of participants as the legal possessor of equity but is not the actual economic beneficiary of those rights.",
+    "japaneseDefinition": "株主名簿上に名前が記載されているが、実際にはその株式の経済的利益を享受していない者（名義貸しを受けている者など）。",
+    "japaneseWordTranslation": "名義株主 (めいぎかぶぬし)",
+    "legalContext": "Companies Act Art. 106, 121: These provisions deal with the determination of who can exercise rights based on the records in the register.",
+    "japaneseLegalContext": "会社法第106条、第121条（株主名簿の記載・記録に基づく権利行使者の確定に関する規定）。",
+    "exampleSentence": "The board must recognize the nominal equity-interest holder for the purposes of sending meeting notifications, regardless of the internal arrangement between the nominal and actual owners.",
+    "exampleTranslation": "取締役会は、名義上の所有者と実質的な所有者の間の内部的な合意にかかわらず、会議の招集通知を送付する目的においては、名義株主を認めなければなりません。",
+    "vocabularyList": [
+      {
+        "word": "Equity-Interest",
+        "translation": "持分・株式"
+      },
+      {
+        "word": "Register",
+        "translation": "名簿・登記簿"
+      },
+      {
+        "word": "Possessor",
+        "translation": "占有者・保持者"
+      },
+      {
+        "word": "Beneficiary",
+        "translation": "受益者"
+      },
+      {
+        "word": "Notification",
+        "translation": "通知"
+      },
+      {
+        "word": "Actual owner",
+        "translation": "実質的持主"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Vote Inconsistency",
+    "definition": "The act of a single participant with multiple voting entitlements casting those votes in a non-uniform manner (e.g., some 'for' and some 'against').",
+    "japaneseDefinition": "一人の株主が持つ複数の議決権を、一部は賛成、一部は反対というように、統一しないで行使すること。",
+    "japaneseWordTranslation": "議決権の不統一行使 (ぎけつけんのふとういこうし)",
+    "legalContext": "Companies Act Art. 313: A participant must notify the entity in advance if they intend to perform a non-uniform exercise of voting power.",
+    "japaneseLegalContext": "会社法第313条（議決権の不統一行使に関する通知義務および拒否事由）。",
+    "exampleSentence": "Institutional investors often utilize vote inconsistency when they hold equity on behalf of multiple clients with conflicting instructions.",
+    "exampleTranslation": "機関投資家は、相反する指示を持つ複数の顧客に代わって持分を保有している場合、議決権の不統一行使を利用することがよくあります。",
+    "vocabularyList": [
+      {
+        "word": "Entitlement",
+        "translation": "権利・資格"
+      },
+      {
+        "word": "Non-uniform",
+        "translation": "不統一の"
+      },
+      {
+        "word": "Casting",
+        "translation": "（票を）投じること"
+      },
+      {
+        "word": "Instruction",
+        "translation": "指示"
+      },
+      {
+        "word": "In advance",
+        "translation": "あらかじめ"
+      },
+      {
+        "word": "Exercise",
+        "translation": "行使"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Conflicting-Interest Dealing",
+    "definition": "A scenario where a manager or representative enters into a transaction with the entity, or where the entity guarantees the debt of such a person, potentially causing a clash between personal and organizational gains.",
+    "japaneseDefinition": "取締役などが自己または第三者のために株式会社と取引を行うこと、または会社が取締役などの債務を保証することなど、個人と会社の利益が衝突する行為。",
+    "japaneseWordTranslation": "利益相反取引 (りえきそうはんとりひき)",
+    "legalContext": "Companies Act Art. 356: This article requires prior approval from the governing body for any deal that involves a clash of interests.",
+    "japaneseLegalContext": "会社法第356条（取締役の競業および利益相反取引の制限）。",
+    "exampleSentence": "The validity of a conflicting-interest dealing depends on obtaining proper approval from the board to ensure the entity's interests are not compromised.",
+    "exampleTranslation": "利益相反取引の有効性は、組織の利益が損なわれないことを確実にするために、取締役会から適切な承認を得るかどうかにかかっています。",
+    "vocabularyList": [
+      {
+        "word": "Dealing",
+        "translation": "取引"
+      },
+      {
+        "word": "Clash",
+        "translation": "衝突"
+      },
+      {
+        "word": "Prior approval",
+        "translation": "事前承認"
+      },
+      {
+        "word": "Compromised",
+        "translation": "損なわれた"
+      },
+      {
+        "word": "Validity",
+        "translation": "有効性"
+      },
+      {
+        "word": "Manager",
+        "translation": "経営者・支配人"
+      }
+    ]
   }
 ]

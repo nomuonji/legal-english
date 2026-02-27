@@ -2,48 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Possessor's Claim of Non-execution",
-    "definition": "An assertion made by a third party, who possesses real property subject to an execution procedure (such as delivery or eviction), arguing that the execution cannot proceed against them due to a valid legal basis for their possession (e.g., a perfected lease).",
-    "japaneseDefinition": "執行目的物である不動産を占有する第三者が、自己の占有権原を主張し、その不動産の引渡執行または明渡執行を拒否すること。",
-    "japaneseWordTranslation": "占有者の非執行主張 (せんゆうしゃのひしっこうしゅちょう)",
-    "legalContext": "Civil Execution Act, related to the execution procedures for the delivery or eviction of real property.",
-    "japaneseLegalContext": "民事執行法における、不動産の引渡しまたは明渡しの執行手続に関する規定。",
-    "exampleSentence": "The execution officer must examine the Possessor's Claim of Non-execution carefully before proceeding with the eviction from the subject real property.",
-    "exampleTranslation": "執行官は、目的不動産からの明渡しを続行する前に、占有者の非執行主張を慎重に調査しなければならない。",
-    "vocabularyList": [
-      {
-        "word": "execution officer",
-        "translation": "執行官"
-      },
-      {
-        "word": "real property",
-        "translation": "不動産"
-      },
-      {
-        "word": "eviction",
-        "translation": "明渡し"
-      },
-      {
-        "word": "subject property",
-        "translation": "目的物 (もくてきぶつ)"
-      },
-      {
-        "word": "legal basis",
-        "translation": "権原 (けんげん)"
-      },
-      {
-        "word": "proceed with",
-        "translation": "続行する"
-      },
-      {
-        "word": "third party",
-        "translation": "第三者"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Withdrawal of Bidding",
     "definition": "The act of a prospective purchaser in a real property auction cancelling or retracting their bid before the specified bidding period expires or before the opening of the bids and subsequent determination of the successful bidder.",
     "japaneseDefinition": "不動産競売手続において、入札者が自己の提出した入札を、定められた入札期間満了前または開札・最高価買受人の決定前に行う撤回行為。",
@@ -19600,6 +19558,120 @@
       {
         "word": "Legal satisfaction",
         "translation": "弁済・満足"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Civil Execution Act",
+    "definition": "The primary law in Japan that governs the process for the compulsory realization of claims and the enforcement of judicial decisions.",
+    "japaneseDefinition": "債権の強制的な実現や裁判の執行に関する手続を定めた日本の主要な法律。",
+    "japaneseWordTranslation": "民事執行法 (みんじしっこうほう)",
+    "legalContext": "Civil Execution Act, Article 1: This Act provides for the process for compulsory execution, the process for the realization of security interests through exercise... and the process for asset disclosure.",
+    "japaneseLegalContext": "民事執行法第1条：この法律は、強制執行、担保権の実行としての競売...及び財産開示の手続について定める。",
+    "exampleSentence": "The Civil Execution Act ensures that a creditor can recover money when a debtor fails to pay as ordered by a court.",
+    "exampleTranslation": "民事執行法は、債務者が裁判所の命令通りに支払わない場合に、債権者が金銭を回収できる手続を保障しています。",
+    "vocabularyList": [
+      {
+        "word": "Claim",
+        "translation": "債権"
+      },
+      {
+        "word": "Creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "Debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Law",
+        "translation": "法律"
+      },
+      {
+        "word": "Process",
+        "translation": "手続"
+      },
+      {
+        "word": "Realization",
+        "translation": "実現"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Property Disclosure",
+    "definition": "A judicial proceeding where a debtor is ordered to appear before a court to state the nature and location of their assets under oath.",
+    "japaneseDefinition": "債務者が裁判所に出頭し、宣誓の上で自己の財産の性質や所在を陳述するよう命じられる司法手続。",
+    "japaneseWordTranslation": "財産開示 (ざいさんかいじ)",
+    "legalContext": "Civil Execution Act, Article 197: The court may, upon the petition of a creditor, order the debtor to disclose their assets.",
+    "japaneseLegalContext": "民事執行法第197条：裁判所は、債権者の申立てにより、債務者に対し、その財産を開示することを命ずることができる。",
+    "exampleSentence": "The creditor applied for a Property Disclosure order because the debtor's bank accounts were unknown.",
+    "exampleTranslation": "債務者の銀行口座が不明であったため、債権者は財産開示命令を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Asset",
+        "translation": "財産"
+      },
+      {
+        "word": "Disclosure",
+        "translation": "開示"
+      },
+      {
+        "word": "Petition",
+        "translation": "申立て"
+      },
+      {
+        "word": "Oath",
+        "translation": "宣誓"
+      },
+      {
+        "word": "Bank account",
+        "translation": "銀行口座"
+      },
+      {
+        "word": "Order",
+        "translation": "命令"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Indirect Enforcement",
+    "definition": "A method of enforcement where a court pressures a debtor to perform a duty by ordering them to pay a specific amount of money for each day the duty remains unperformed.",
+    "japaneseDefinition": "債務者が義務を履行しない期間に応じて、一定の金銭を支払うよう命じることで、債務者に心理的圧迫を与え履行を促す執行方法。",
+    "japaneseWordTranslation": "間接強制 (かんせつきょうせい)",
+    "legalContext": "Civil Execution Act, Article 172: The court of execution may order the debtor to pay to the creditor a certain amount of money that is found to be reasonable to secure the performance of the duty.",
+    "japaneseLegalContext": "民事執行法第172条：執行裁判所は、債務者に対し、その義務の履行を確保するために相当と認める一定の額の金銭を債権者に支払うべき旨を命ずることができる。",
+    "exampleSentence": "Indirect Enforcement is often used for non-monetary duties, such as the duty to hand over information or perform a specific act.",
+    "exampleTranslation": "情報の引き渡しや特定の行為の履行など、金銭目的ではない義務の履行を強制するために、間接強制がよく利用されます。",
+    "vocabularyList": [
+      {
+        "word": "Enforcement",
+        "translation": "執行"
+      },
+      {
+        "word": "Indirect",
+        "translation": "間接的"
+      },
+      {
+        "word": "Duty",
+        "translation": "義務"
+      },
+      {
+        "word": "Pressure",
+        "translation": "圧迫"
+      },
+      {
+        "word": "Monetary",
+        "translation": "金銭的な"
+      },
+      {
+        "word": "Daily",
+        "translation": "日次の"
       }
     ]
   }

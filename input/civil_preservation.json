@@ -17032,5 +17032,107 @@
         "translation": "確定した"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Temporary Restraining Order on Assets",
+    "definition": "A court directive issued to prevent a party from disposing of, hiding, or transferring their wealth or resources before a final judgment is rendered, ensuring that the prevailing party can actually recover what they are owed.",
+    "japaneseDefinition": "最終的な判決が下される前に、相手方が財産を処分、隠匿、または移転することを防ぐために裁判所が出す命令。これにより、勝訴した当事者が実際に債権を回収できることを確実にする。",
+    "japaneseWordTranslation": "財産処分禁止の仮処分 (ざいさんしょぶんきんしのかりしょぶん)",
+    "legalContext": "Civil Preservation Act Art. 23: ...provisional dispositions may be issued when it is necessary to maintain the current state of the subject matter of the dispute or to establish a tentative status quo regarding the legal relation.",
+    "japaneseLegalContext": "民事保全法第23条：仮処分命令は、争いの権利の目的物の現状の維持、または、係争のある権利関係について仮の地位を定めるために必要があるときに発することができる。",
+    "exampleSentence": "The court issued a temporary restraining order on assets to prevent the defendant from transferring their bank balances abroad during the litigation.",
+    "exampleTranslation": "裁判所は、訴訟中に被告が銀行預金を海外へ送金するのを防ぐため、財産処分禁止の仮処分命令を出した。",
+    "vocabularyList": [
+      {
+        "word": "Directive",
+        "translation": "指令、命令"
+      },
+      {
+        "word": "Rendered",
+        "translation": "（判決などが）下された"
+      },
+      {
+        "word": "Prevailing party",
+        "translation": "勝訴当事者"
+      },
+      {
+        "word": "Owed",
+        "translation": "負っている、支払うべき"
+      },
+      {
+        "word": "Transferring",
+        "translation": "移転、譲渡"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interim Custody Arrangement",
+    "definition": "A provisional measure where the court appoints a neutral individual to hold and manage a specific piece of property to prevent its loss or damage while the main trial is still ongoing.",
+    "japaneseDefinition": "本案の裁判が継続している間、特定の財産の紛失や損傷を防ぐために、裁判所が中立的な人物を選任してその財産を保管・管理させる暫定的な措置。",
+    "japaneseWordTranslation": "保全管理人の選任 (ほぜんかんりにんのせんにん)",
+    "legalContext": "Civil Preservation Act Art. 54: The court may, if it finds it necessary, appoint a manager to maintain the property subject to the preservation measure.",
+    "japaneseLegalContext": "民事保全法第54条：裁判所は、必要があると認めるときは、保全執行の目的物を管理させるための管理人を選任することができる。",
+    "exampleSentence": "The judge established an interim custody arrangement for the disputed heavy machinery to ensure it remained in good working order until the final ruling.",
+    "exampleTranslation": "裁判官は、係争中の重機が最終判決まで良好な稼働状態に保たれるよう、暫定的な保管管理体制を確立した。",
+    "vocabularyList": [
+      {
+        "word": "Neutral individual",
+        "translation": "中立的な個人"
+      },
+      {
+        "word": "Manage",
+        "translation": "管理する"
+      },
+      {
+        "word": "Ongoing",
+        "translation": "進行中の"
+      },
+      {
+        "word": "Disputed",
+        "translation": "係争中の、争いのある"
+      },
+      {
+        "word": "Working order",
+        "translation": "稼働状態"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Stay of the Preservation Measure",
+    "definition": "The temporary halting or pausing of the enforcement of a court's previous asset protection order, usually pending a review of the circumstances or the provision of a specific monetary guarantee.",
+    "japaneseDefinition": "裁判所が以前に出した財産保護命令の執行を一時的に停止または休止すること。通常、事情の再検討や特定の金銭的保証の提供が行われるまでの間になされる。",
+    "japaneseWordTranslation": "保全執行の停止 (ほぜんしっこうのていし)",
+    "legalContext": "Civil Preservation Act Art. 27: A court may order a stay of the preservation measure if the person requesting the stay provides a sufficient explanation of the facts and offers adequate security.",
+    "japaneseLegalContext": "民事保全法第27条：裁判所は、執行の停止を求める者が事実を十分に疎明し、かつ適切な担保を提供した場合には、保全執行の停止を命ずることができる。",
+    "exampleSentence": "The company filed for a stay of the preservation measure, arguing that the seizure of their primary warehouse would cause the business to collapse immediately.",
+    "exampleTranslation": "その会社は、主要な倉庫の差し押さえが直ちに事業の崩壊を招くと主張して、保全執行の停止を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Halting",
+        "translation": "停止、中止"
+      },
+      {
+        "word": "Pausing",
+        "translation": "休止"
+      },
+      {
+        "word": "Pending",
+        "translation": "〜を待つ間、〜懸案中の"
+      },
+      {
+        "word": "Warehouse",
+        "translation": "倉庫"
+      },
+      {
+        "word": "Collapse",
+        "translation": "崩壊する、倒産する"
+      }
+    ]
   }
 ]

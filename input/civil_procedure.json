@@ -2,44 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Formative Judgment (Constitutive Judgment)",
-    "definition": "A judgment that legally creates, alters, or extinguishes a specific legal relationship between the parties upon becoming final, effectively establishing a new legal status without the need for further executive action.",
-    "japaneseDefinition": "判決の確定によって、当事者間の法律関係を創設、変更又は消滅させる効力を有する判決。その後の強制的な給付手続きを要しない。",
-    "japaneseWordTranslation": "形成判決 (けいせい はんけつ)",
-    "legalContext": "Formative Judgments are distinguished from judgments of performance (給付判決) and judgments of declaration (確認判決) by their inherent power to change legal status.",
-    "japaneseLegalContext": "形成判決は、その性質上、法律上の地位を変更する権能を持ち、給付判決及び確認判決とは区別される。",
-    "exampleSentence": "An action seeking the cancellation of a corporate resolution, if successful, results in a formative judgment that invalidates the decision retroactively.",
-    "exampleTranslation": "会社の決議の取消しを求める訴えは、認められれば、その決定を遡及的に無効にする形成判決となる。",
-    "vocabularyList": [
-      {
-        "word": "extinguishes",
-        "translation": "消滅させる"
-      },
-      {
-        "word": "final",
-        "translation": "確定した"
-      },
-      {
-        "word": "performance",
-        "translation": "給付"
-      },
-      {
-        "word": "invalidates",
-        "translation": "無効にする"
-      },
-      {
-        "word": "corporate resolution",
-        "translation": "会社の決議"
-      },
-      {
-        "word": "retroactively",
-        "translation": "遡及的に"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Security for Litigation Costs",
     "definition": "A procedural requirement where the court orders a plaintiff, usually one who lacks a domicile or sufficient assets in Japan, to deposit money to guarantee the payment of the defendant's litigation expenses should the plaintiff lose the suit.",
     "japaneseDefinition": "裁判所が、日本に住所又は十分な財産を有しない原告に対し、敗訴した場合に備えて被告の将来の訴訟費用の支払いを担保するために、金銭の供託を命じる手続き。",
@@ -20958,6 +20920,132 @@
       {
         "word": "Trigger",
         "translation": "発生させる"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Forum Non Conveniens",
+    "definition": "A discretionary power that allows a court to decline to hear a matter when another court or forum is significantly more appropriate or convenient for the parties and the interests of justice.",
+    "japaneseDefinition": "合意や法規により管轄権がある場合でも、当事者間の公平や審理の効率性の観点から、別の裁判所で審理するのがより適切であるとして、裁判所が訴えを退けることができる法理。",
+    "japaneseWordTranslation": "不便宜法廷の原則 (ふべんぎほうていのげんそく)",
+    "legalContext": "Code of Civil Procedure Art. 3-9: Even where the Japanese courts have jurisdiction over an action, the court may dismiss the whole or part of the action if it finds that there are special circumstances due to which a trial and adjudication by Japanese courts would hinder equity between the parties or prevent a fair and speedy trial.",
+    "japaneseLegalContext": "民事訴訟法第3条の9：裁判所は、被告に対する訴えについて日本の裁判所が管轄権を有する場合においても、事案の性質、被告の応訴による負担の程度、証拠の所在地その他の事情を考慮して、日本の裁判所が審理及び裁判をすることが当事者間の公平を害し、又は適正かつ迅速な審理の実現を妨げることとなる特別の事情があると認めるときは、訴えの全部又は一部を却下することができる。",
+    "exampleSentence": "The court invoked the doctrine of forum non conveniens to stay the legal proceedings, suggesting the dispute should be heard in a more suitable forum.",
+    "exampleTranslation": "裁判所は、不便宜法廷の原則を適用して手続を停止し、その紛争はより適切な法廷で審理されるべきであると示唆した。",
+    "vocabularyList": [
+      {
+        "word": "discretionary",
+        "translation": "裁量による"
+      },
+      {
+        "word": "appropriate",
+        "translation": "適切な"
+      },
+      {
+        "word": "hinder",
+        "translation": "妨げる"
+      },
+      {
+        "word": "equity",
+        "translation": "公平"
+      },
+      {
+        "word": "speedy",
+        "translation": "迅速な"
+      },
+      {
+        "word": "suit",
+        "translation": "訴え"
+      },
+      {
+        "word": "special circumstances",
+        "translation": "特別の事情"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Attorney-Client Privilege",
+    "definition": "A legal concept that protects the confidentiality of communications between a lawyer and their client, preventing such communications from being disclosed in court without the client's consent.",
+    "japaneseDefinition": "弁護士と依頼人の間の通信内容について秘密を保持することを認める法的概念。依頼人の同意がない限り、法廷での開示を拒絶することができる。",
+    "japaneseWordTranslation": "秘匿特権 (ひとくとっけん)",
+    "legalContext": "Code of Civil Procedure Art. 197, Para. 1, Item 2: A witness may refuse to testify in cases where the witness is questioned on matters concerning secrets relating to the professional duties of a lawyer.",
+    "japaneseLegalContext": "民事訴訟法第197条1項2号：次に掲げる場合には、証人は、証言を拒絶することができる。…弁護士…が職務上知り得た事実で隠すべきものについて取り調べを受ける場合。",
+    "exampleSentence": "The party asserted attorney-client privilege to ensure that private discussions with their lawyer remained confidential.",
+    "exampleTranslation": "当事者は、弁護士との私的な議論の秘密が守られるよう、秘匿特権を主張した。",
+    "vocabularyList": [
+      {
+        "word": "confidentiality",
+        "translation": "機密性"
+      },
+      {
+        "word": "disclosure",
+        "translation": "開示"
+      },
+      {
+        "word": "consent",
+        "translation": "同意"
+      },
+      {
+        "word": "assert",
+        "translation": "主張する"
+      },
+      {
+        "word": "refuse",
+        "translation": "拒絶する"
+      },
+      {
+        "word": "testify",
+        "translation": "証言する"
+      },
+      {
+        "word": "professional duties",
+        "translation": "職務上の義務"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Preponderance of the Evidence",
+    "definition": "The standard of proof in civil cases where a fact is established if it is shown to be more likely than not to be true (a greater than 50% probability).",
+    "japaneseDefinition": "民事事件における立証の基準の一つで、ある事実が真実である蓋然性が、そうでない蓋然性よりも高い（50％を超える）場合に事実を認定すること。",
+    "japaneseWordTranslation": "証拠の優越 (しょうこのゆうえつ)",
+    "legalContext": "Code of Civil Procedure Art. 247: The court, in making a judgment, shall determine whether or not the allegations of facts are true, based on its free conviction as to the entire import of the oral argument and the results of the examination of evidence.",
+    "japaneseLegalContext": "民事訴訟法第247条：裁判所は、判決をするに当たっては、口頭弁論の全趣旨及び証拠調べの結果を斟酌し、自由な心証によつて、事実上の主張が真実であるかどうかの判断を下す。",
+    "exampleSentence": "In most civil matters, the court reaches a decision based on the preponderance of the evidence rather than proof beyond a reasonable doubt.",
+    "exampleTranslation": "ほとんどの民事事案において、裁判所は「合理的な疑いを超える証明」ではなく「証拠の優越」に基づいて判断を下す。",
+    "vocabularyList": [
+      {
+        "word": "probability",
+        "translation": "蓋然性"
+      },
+      {
+        "word": "establish",
+        "translation": "立証する"
+      },
+      {
+        "word": "allegation",
+        "translation": "主張"
+      },
+      {
+        "word": "standard",
+        "translation": "基準"
+      },
+      {
+        "word": "oral argument",
+        "translation": "口頭弁論"
+      },
+      {
+        "word": "conviction",
+        "translation": "心証"
+      },
+      {
+        "word": "likely",
+        "translation": "可能性が高い"
       }
     ]
   }

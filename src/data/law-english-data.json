@@ -1,34 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Undue Enrichment",
-  "definition": "A legal concept whereby a person who has gained a benefit without legal cause, resulting in loss to another, is obligated to return that benefit.",
-  "japaneseDefinition": "法律上の原因がないにもかかわらず、他人の財産または労務によって利益を受け、そのために他人に損失を及ぼした者が、その利益を返還しなければならないとする法制度。",
-  "japaneseWordTranslation": "不当利得 (ふとうりとく)",
-  "legalContext": "Civil Code Art. 703: “A person who has benefited from the property or services of another without legal cause and has thereby inflicted loss on the other shall be obliged to return the benefit received...”",
-  "japaneseLegalContext": "民法第703条: 「法律上の原因なく他人の財産又は労務によって利益を受け、そのために他人に損失を及ぼした者（中略）は、その利益を返還する義務を負う。」",
-  "exampleSentence": "The plaintiff filed an action demanding the return of the funds based on the principle of undue enrichment, as the transfer lacked a valid underlying agreement.",
-  "exampleTranslation": "原告は、その送金に有効な基礎となる合意が欠如していたため、不当利得の原則に基づき資金の返還を求める訴訟を提起した。",
+  "word": "Abuse of Office by Public Officials",
+  "definition": "The specific crime committed when a public official abuses their authority to cause a person to perform an act not required by law or to obstruct a person from exercising a right, aiming at unlawful gains.",
+  "japaneseDefinition": "公務員が、その職権を濫用し、人に義務のないことを行わせ、または権利の行使を妨害する行為を内容とする罪。",
+  "japaneseWordTranslation": "公務員職権濫用罪 (こうむいんしょっけんらんようざい)",
+  "legalContext": "Criminal Code Art. 193 (Abuse of Authority): A public officer who abuses his/her authority shall be punished by imprisonment with or without labor for not more than 2 years or a fine of not more than 100,000 yen.",
+  "japaneseLegalContext": "刑法第193条 (職権濫用): 公務員がその職権を濫用したときは、2年以下の懲役又は禁錮に処する。",
+  "exampleSentence": "The former police commissioner was indicted for Abuse of Office by Public Officials after forcing local businesses to provide services without compensation.",
+  "exampleTranslation": "元警察署長は、地元企業に無償でサービスを提供するよう強要した後、公務員職権濫用罪で起訴された。",
   "vocabularyList": [
     {
-      "word": "legal cause",
-      "translation": "法律上の原因 (ほうりつじょうのげんいん)"
+      "word": "public official",
+      "translation": "公務員"
     },
     {
-      "word": "return the benefit",
-      "translation": "利益を返還する (りえきをへんかんする)"
+      "word": "indicted",
+      "translation": "起訴された"
     },
     {
-      "word": "inflicted loss",
-      "translation": "損失を及ぼした (そんしつをおよぼした)"
+      "word": "abuse their authority",
+      "translation": "職権を濫用する"
     },
     {
-      "word": "underlying agreement",
-      "translation": "基礎となる合意 (きそとなるごうい)"
+      "word": "unlawful gains",
+      "translation": "不法な利益"
     },
     {
-      "word": "action demanding return",
-      "translation": "返還請求訴訟 (へんかんせいきゅうそしょう)"
+      "word": "coercive action",
+      "translation": "強制的行為"
+    },
+    {
+      "word": "without compensation",
+      "translation": "無償で"
     }
   ]
 }

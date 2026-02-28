@@ -24172,5 +24172,107 @@
         "translation": "被告"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mental Incompetence",
+    "definition": "A legal state in which an individual lacks the mental capacity to understand the legal consequences of their actions at the time of performing a juridical act.",
+    "japaneseDefinition": "法律行為をする時に、自分の行為の結果を理解できるだけの精神能力（意思能力）が欠けている状態。",
+    "japaneseWordTranslation": "意思無能力 (いしむのうりょく)",
+    "legalContext": "Civil Code Art. 3-2: If a person that makes a declaration of intention did not have mental capacity at the time of making the declaration, the declaration of intention is void.",
+    "japaneseLegalContext": "民法第3条の2：法律行為の当事者が意思表示をした時に意思能力を有しなかったときは、その法律行為は、無効とする。",
+    "exampleSentence": "The contract was found to be void due to the mental incompetence of the seller at the time of signing.",
+    "exampleTranslation": "署名時に売主が意思無能力であったため、その契約は無効であると判断された。",
+    "vocabularyList": [
+      {
+        "word": "void",
+        "translation": "無効の"
+      },
+      {
+        "word": "understand",
+        "translation": "理解する"
+      },
+      {
+        "word": "consequences",
+        "translation": "結果・帰結"
+      },
+      {
+        "word": "at the time of",
+        "translation": "〜の時点で"
+      },
+      {
+        "word": "juridical act",
+        "translation": "法律行為"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Capacity to Receive",
+    "definition": "The legal capacity to accept and understand a declaration of intention made by another party. If a recipient lacks this capacity, the declaration may not be effective against them.",
+    "japaneseDefinition": "他人の意思表示を受け取り、その内容を理解することができる能力。受領能力がない者に対する意思表示は、原則として対抗できない。",
+    "japaneseWordTranslation": "受領能力 (じゅりょうのうりょく)",
+    "legalContext": "Civil Code Art. 98-2: If the person that received a declaration of intention was a person who lacked the capacity to discern intent at the time of receiving the declaration, the person who made the declaration may not assert that declaration against that person.",
+    "japaneseLegalContext": "民法第98条の2：意思表示の相手方がその受領の時に意思能力を有しなかったとき又は未成年者若しくは成年被後見人であったときは、その意思表示をもってその相手方に対抗することができない。",
+    "exampleSentence": "Because the recipient lacked the capacity to receive the notice, the termination of the agreement did not take effect.",
+    "exampleTranslation": "受領者に通知の受領能力がなかったため、契約の解除は効力を生じなかった。",
+    "vocabularyList": [
+      {
+        "word": "recipient",
+        "translation": "受領者・相手方"
+      },
+      {
+        "word": "take effect",
+        "translation": "効力を生じる"
+      },
+      {
+        "word": "assert",
+        "translation": "主張する・対抗する"
+      },
+      {
+        "word": "discern intent",
+        "translation": "意思を識別する"
+      },
+      {
+        "word": "effective",
+        "translation": "有効な"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Compulsory Performance",
+    "definition": "A legal remedy where a court orders an obligor to fulfill their contractual obligation when they fail to do so voluntarily.",
+    "japaneseDefinition": "債務者が任意に債務を履行しない場合に、債権者の申立てに基づき、裁判所が債務の履行を強制すること。",
+    "japaneseWordTranslation": "強制履行 (きょうせいりこう)",
+    "legalContext": "Civil Code Art. 414: If an obligor does not voluntarily perform an obligation, the obligee may move the court for compulsory performance.",
+    "japaneseLegalContext": "民法第414条：債務者が任意に債務の履行をしないときは、債権者は、その強制履行を裁判所に請求することができる。",
+    "exampleSentence": "The court granted a motion for compulsory performance to ensure the delivery of the promised goods.",
+    "exampleTranslation": "裁判所は約束された物品の引渡しを確実にするため、強制履行の申立てを認めた。",
+    "vocabularyList": [
+      {
+        "word": "fulfill",
+        "translation": "果たす・履行する"
+      },
+      {
+        "word": "voluntarily",
+        "translation": "任意に・自発的に"
+      },
+      {
+        "word": "obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "move the court",
+        "translation": "裁判所に申し立てる"
+      }
+    ]
   }
 ]

@@ -1,38 +1,38 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Deposit Act (供託法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Abuse of Office by Public Officials",
-  "definition": "The specific crime committed when a public official abuses their authority to cause a person to perform an act not required by law or to obstruct a person from exercising a right, aiming at unlawful gains.",
-  "japaneseDefinition": "公務員が、その職権を濫用し、人に義務のないことを行わせ、または権利の行使を妨害する行為を内容とする罪。",
-  "japaneseWordTranslation": "公務員職権濫用罪 (こうむいんしょっけんらんようざい)",
-  "legalContext": "Criminal Code Art. 193 (Abuse of Authority): A public officer who abuses his/her authority shall be punished by imprisonment with or without labor for not more than 2 years or a fine of not more than 100,000 yen.",
-  "japaneseLegalContext": "刑法第193条 (職権濫用): 公務員がその職権を濫用したときは、2年以下の懲役又は禁錮に処する。",
-  "exampleSentence": "The former police commissioner was indicted for Abuse of Office by Public Officials after forcing local businesses to provide services without compensation.",
-  "exampleTranslation": "元警察署長は、地元企業に無償でサービスを提供するよう強要した後、公務員職権濫用罪で起訴された。",
+  "word": "Legal Effect of Deposit",
+  "definition": "The legal consequences that arise when a deposit is validly made, most commonly the discharge of the obligor's duty, effective from the date of the deposit, provided the formal requirements are met.",
+  "japaneseDefinition": "供託が適法に完了したことによって発生する法律上の効果。主に、供託の日に遡って債務が消滅する点にその主たる意義がある。",
+  "japaneseWordTranslation": "供託の効力 (きょうたくのこうりょく)",
+  "legalContext": "The legal effect of a Deposit for Release is the retroactive extinguishment of the obligation as of the date the deposit was actually made.",
+  "japaneseLegalContext": "弁済のための供託の効力は、実際に供託がなされた日に遡及して債務が消滅することである。",
+  "exampleSentence": "The court examined whether the Applicant met all the procedural requirements necessary for the Legal Effect of Deposit to attach, thereby discharging the outstanding debt.",
+  "exampleTranslation": "裁判所は、申請人が未払いの債務を免れるために供託の効力が発生するのに必要な全ての手続き要件を満たしているかを審査した。",
   "vocabularyList": [
     {
-      "word": "public official",
-      "translation": "公務員"
+      "word": "retroactive",
+      "translation": "遡及的な"
     },
     {
-      "word": "indicted",
-      "translation": "起訴された"
+      "word": "procedural requirements",
+      "translation": "手続き要件"
     },
     {
-      "word": "abuse their authority",
-      "translation": "職権を濫用する"
+      "word": "attach (legal effect)",
+      "translation": "発生する／帰属する"
     },
     {
-      "word": "unlawful gains",
-      "translation": "不法な利益"
+      "word": "Applicant",
+      "translation": "申請人"
     },
     {
-      "word": "coercive action",
-      "translation": "強制的行為"
+      "word": "outstanding debt",
+      "translation": "未払いの債務"
     },
     {
-      "word": "without compensation",
-      "translation": "無償で"
+      "word": "discharge of duty",
+      "translation": "義務の免除"
     }
   ]
 }

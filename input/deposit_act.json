@@ -2,44 +2,6 @@
   {
     "category": "Deposit Act (供託法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Legal Effect of Deposit",
-    "definition": "The legal consequences that arise when a deposit is validly made, most commonly the discharge of the obligor's duty, effective from the date of the deposit, provided the formal requirements are met.",
-    "japaneseDefinition": "供託が適法に完了したことによって発生する法律上の効果。主に、供託の日に遡って債務が消滅する点にその主たる意義がある。",
-    "japaneseWordTranslation": "供託の効力 (きょうたくのこうりょく)",
-    "legalContext": "The legal effect of a Deposit for Release is the retroactive extinguishment of the obligation as of the date the deposit was actually made.",
-    "japaneseLegalContext": "弁済のための供託の効力は、実際に供託がなされた日に遡及して債務が消滅することである。",
-    "exampleSentence": "The court examined whether the Applicant met all the procedural requirements necessary for the Legal Effect of Deposit to attach, thereby discharging the outstanding debt.",
-    "exampleTranslation": "裁判所は、申請人が未払いの債務を免れるために供託の効力が発生するのに必要な全ての手続き要件を満たしているかを審査した。",
-    "vocabularyList": [
-      {
-        "word": "retroactive",
-        "translation": "遡及的な"
-      },
-      {
-        "word": "procedural requirements",
-        "translation": "手続き要件"
-      },
-      {
-        "word": "attach (legal effect)",
-        "translation": "発生する／帰属する"
-      },
-      {
-        "word": "Applicant",
-        "translation": "申請人"
-      },
-      {
-        "word": "outstanding debt",
-        "translation": "未払いの債務"
-      },
-      {
-        "word": "discharge of duty",
-        "translation": "義務の免除"
-      }
-    ]
-  },
-  {
-    "category": "Deposit Act (供託法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Deposit for Litigation Security",
     "definition": "A deposit required by a court, typically under the Code of Civil Procedure, to ensure the payment of potential litigation expenses that one party (usually the defendant) may incur if the demanding party (usually the plaintiff) loses the case.",
     "japaneseDefinition": "裁判所により、訴訟費用に充てるための担保として命じられる供託。原告が敗訴した場合などに備えて、被告が負担する可能性のある費用を担保するために要求される。",
@@ -15460,6 +15422,120 @@
       {
         "word": "Interest",
         "translation": "利息"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Tangible Assets",
+    "definition": "Physical entities that can be handled as the object of rights, including various objects other than legal tender.",
+    "japaneseDefinition": "権利の客体となり得る物理的な実体を持つもので、法定通貨以外の物品を含むもの。",
+    "japaneseWordTranslation": "有体物 (ゆうたいぶつ)",
+    "legalContext": "Deposit Act Art. 1: In addition to legal tender and financial instruments, certain tangible assets may be placed in the bureau's care.",
+    "japaneseLegalContext": "供託法第1条：金銭及び有価証券のほか、特定の有体物も供託の対象とすることができる。",
+    "exampleSentence": "The assigned bureau handles the storage of legal tender as well as various tangible assets.",
+    "exampleTranslation": "配属された局は、法定通貨だけでなく、様々な有体物の保管も取り扱う。",
+    "vocabularyList": [
+      {
+        "word": "Legal tender",
+        "translation": "法定通貨"
+      },
+      {
+        "word": "Assigned bureau",
+        "translation": "配属された局"
+      },
+      {
+        "word": "Entities",
+        "translation": "実体"
+      },
+      {
+        "word": "Storage",
+        "translation": "保管"
+      },
+      {
+        "word": "Objects",
+        "translation": "物品"
+      },
+      {
+        "word": "Handled",
+        "translation": "取り扱われる"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-fungible Assets",
+    "definition": "Specific assets that possess unique properties and are not interchangeable with others of the same kind.",
+    "japaneseDefinition": "独自の特性を持ち、同種の他の物品で代えることができない特定の資産。",
+    "japaneseWordTranslation": "非代替物 (ひだいたいぶつ)",
+    "legalContext": "Deposit Act Art. 3: Assets that lack fungibility must be handled with distinct protocols for identification.",
+    "japaneseLegalContext": "供託法第3条：代替性のない資産は、特定のための独自のプロトコルで取り扱わなければならない。",
+    "exampleSentence": "Unlike legal tender, non-fungible assets require particular methods of safekeeping and tracking.",
+    "exampleTranslation": "法定通貨とは異なり、非代替資産は、独自の保管および追跡方法を必要とする。",
+    "vocabularyList": [
+      {
+        "word": "Interchangeable",
+        "translation": "入れ替え可能な"
+      },
+      {
+        "word": "Safekeeping",
+        "translation": "保管"
+      },
+      {
+        "word": "Unique properties",
+        "translation": "独自の特性"
+      },
+      {
+        "word": "Tracking",
+        "translation": "追跡"
+      },
+      {
+        "word": "Interchangeable",
+        "translation": "代替可能な"
+      },
+      {
+        "word": "Distinct protocols",
+        "translation": "独自の規則"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Bureau Circulars",
+    "definition": "Administrative documents containing guidance for the uniform conduct of duties within the Ministry of Justice.",
+    "japaneseDefinition": "法務省内での業務の統一的な遂行のための指針を含む行政文書。",
+    "japaneseWordTranslation": "通達 (つうたつ)",
+    "legalContext": "National Government Organization Act Art. 14: Heads of bureaus may issue circulars to ensure consistent behavior among staff.",
+    "japaneseLegalContext": "国家行政組織法第14条：各局の長は、職員間の均一な行動を確保するために通達を出すことができる。",
+    "exampleSentence": "Bureau staff must follow departmental circulars when managing assets under the statute.",
+    "exampleTranslation": "局の職員は、法令に基づいて資産を管理する際、部門の通達に従わなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Circulars",
+        "translation": "通達"
+      },
+      {
+        "word": "Uniform conduct",
+        "translation": "統一的な遂行"
+      },
+      {
+        "word": "Departmental",
+        "translation": "部門の"
+      },
+      {
+        "word": "Statute",
+        "translation": "法令"
+      },
+      {
+        "word": "Consistent",
+        "translation": "一貫した"
+      },
+      {
+        "word": "Subordinates",
+        "translation": "部下"
       }
     ]
   }

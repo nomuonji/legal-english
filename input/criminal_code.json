@@ -2,44 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Trespass onto Habitation",
-    "definition": "The crime committed by one who, without justifiable grounds, intrudes upon the dwelling, residence, or structure or vessel guarded by another (住居侵入罪).",
-    "japaneseDefinition": "正当な理由がないのに、人の住居、邸宅、または人を看守する建造物や艦船などに侵入する行為を罰する犯罪。",
-    "japaneseWordTranslation": "住居侵入罪 (じゅうきょしんにゅうざい)",
-    "legalContext": "Penal Code Art. 130: A person who, without justifiable grounds, intrudes upon the dwelling, residence, or structure or vessel guarded by another shall be punished by imprisonment with work for not more than three years or a fine of not more than 100,000 yen.",
-    "japaneseLegalContext": "刑法第130条：正当な理由がないのに、人の住居若しくは人の看守する邸宅、建造物若しくは艦船に侵入し、又は要求を受けたにもかかわらずこれらの場所から退去しなかった者は、三年以下の懲役又は十万円以下の罰金に処する。",
-    "exampleSentence": "The suspect was arrested for trespass onto habitation after climbing the wall and entering the backyard of the victim's house.",
-    "exampleTranslation": "容疑者は、壁をよじ登って被害者宅の裏庭に侵入したため、住居侵入罪で逮捕された。",
-    "vocabularyList": [
-      {
-        "word": "justifiable grounds",
-        "translation": "正当な理由"
-      },
-      {
-        "word": "dwelling",
-        "translation": "住居"
-      },
-      {
-        "word": "intrudes upon",
-        "translation": "侵入する"
-      },
-      {
-        "word": "structure",
-        "translation": "建造物"
-      },
-      {
-        "word": "imprisonment with work",
-        "translation": "懲役"
-      },
-      {
-        "word": "fine",
-        "translation": "罰金"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Determination of Sentence",
     "definition": "The process and outcome by which the court determines the specific type and severity of punishment (e.g., length of imprisonment or amount of fine) within the legally prescribed statutory range.",
     "japaneseDefinition": "裁判所が、法令で定められた刑罰の範囲内で、具体的な刑の種類や重さ（懲役の期間や罰金の額など）を決定すること。",
@@ -20686,6 +20648,120 @@
       {
         "word": "Effective",
         "translation": "有効な"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Intervening Circumstances",
+    "definition": "Refers to events or factors that occur between a perpetrator's initial act and the final criminal result, which are analyzed to determine if the legal link between the act and the result has been severed.",
+    "japaneseDefinition": "実行行為と結果発生との間に介在した、第三者の行為や被害者の行為、あるいは自然現象などの事実。因果関係の存否を判断する際の重要な要素となる。",
+    "japaneseWordTranslation": "介在事情 (かいざいじじょう)",
+    "legalContext": "Under the Japanese theory of 'Adequate Causation,' the court evaluates whether the result was foreseeable even when considering these intervening circumstances. If the intervening factors are highly abnormal, they may break the chain of events.",
+    "japaneseLegalContext": "判例（最高裁等）における相当因果関係の判断において、実行行為の持つ危険性が結果へ直結したか、あるいは介在事情が結果への寄与度を支配したかが検討される。",
+    "exampleSentence": "The court held that the victim's own reckless behavior was not a sufficient intervening circumstance to break the chain of events leading to the result.",
+    "exampleTranslation": "裁判所は、被害者自身の無謀な行動は、結果に至るまでの因果の流れを遮断するに足りる介在事情ではないと判断した。",
+    "vocabularyList": [
+      {
+        "word": "Chain of events",
+        "translation": "因果の流れ"
+      },
+      {
+        "word": "Severed",
+        "translation": "遮断された"
+      },
+      {
+        "word": "Accused",
+        "translation": "被告人"
+      },
+      {
+        "word": "Reckless behavior",
+        "translation": "無謀な行動"
+      },
+      {
+        "word": "Foreseeable",
+        "translation": "予見可能な"
+      },
+      {
+        "word": "Contribution",
+        "translation": "寄与度"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Substantial Wrongfulness",
+    "definition": "The legal theory that an act is only truly criminal if it causes a socially significant harm or violates the underlying spirit of the law, even if it technically satisfies the statutory elements of a crime.",
+    "japaneseDefinition": "形式的に構成要件に該当しても、社会的に許容される範囲内であったり、法益侵害が極めて軽微である場合には、違法性が否定されるという理論。",
+    "japaneseWordTranslation": "実質的違法性 (じっしつてきいほうせい)",
+    "legalContext": "This concept allows for the acquittal of acts that are technically crimes but lack 'substantial wrongfulness,' such as the 'Theory of De Minimis' (unlawfulness lacking punishable severity).",
+    "japaneseLegalContext": "構成要件に該当する行為であっても、実質的に見て法秩序全体と相容れない性質（法益侵害）を欠く場合には、処罰の対象から外れるとする考え方。",
+    "exampleSentence": "The defense argued that while the act technically met the definition of a crime, it lacked substantial wrongfulness due to the extreme insignificance of the harm caused.",
+    "exampleTranslation": "弁護人は、その行為が形式的には犯罪の定義を満たしているものの、生じた被害が極めて軽微であるため、実質的違法性を欠くと主張した。",
+    "vocabularyList": [
+      {
+        "word": "Technical violation",
+        "translation": "形式的な違反"
+      },
+      {
+        "word": "Socially significant harm",
+        "translation": "社会的に重大な害悪"
+      },
+      {
+        "word": "Wrongfulness",
+        "translation": "違法性"
+      },
+      {
+        "word": "Insignificance",
+        "translation": "軽微さ"
+      },
+      {
+        "word": "Acquittal",
+        "translation": "無罪判決"
+      },
+      {
+        "word": "Statutory elements",
+        "translation": "構成要件要素"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Doctrine of Individual Accountability",
+    "definition": "The fundamental legal principle that a person should only be punished for their own actions and prohibited from being held liable for the criminal acts of others, unless a specific legal basis for complicity exists.",
+    "japaneseDefinition": "人は自己の行為についてのみ責任を負い、他人の行為について責任を問われることはないという、近代刑法の根本原則。",
+    "japaneseWordTranslation": "自己責任の原則 (じこせきにんのげんそく)",
+    "legalContext": "In the context of Japanese Criminal Law, this doctrine ensures that blame is assigned based on personal conduct and mental state, preventing broad or collective punishment without individual blameworthiness.",
+    "japaneseLegalContext": "刑法における責任主義の一環として、他人の犯罪について連帯責任を負わされることを禁じ、個人の人格的決定に基づく行為に対してのみ非難を向ける原則。",
+    "exampleSentence": "The doctrine of individual accountability prevents the state from punishing family members for the crimes committed by their relatives.",
+    "exampleTranslation": "自己責任の原則により、国家が親族の犯した罪について家族を処罰することは禁じられている。",
+    "vocabularyList": [
+      {
+        "word": "Accountability",
+        "translation": "責任 / 説明責任"
+      },
+      {
+        "word": "Blameworthiness",
+        "translation": "有責性 / 非難可能性"
+      },
+      {
+        "word": "Collective punishment",
+        "translation": "連帯処罰"
+      },
+      {
+        "word": "Mental state",
+        "translation": "精神状態 / 心理状態"
+      },
+      {
+        "word": "Fundamental principle",
+        "translation": "根本原則"
+      },
+      {
+        "word": "Assigned",
+        "translation": "割り当てられた"
       }
     ]
   }

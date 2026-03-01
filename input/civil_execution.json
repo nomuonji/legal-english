@@ -20106,5 +20106,119 @@
         "translation": "法規 (Hōki)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order to Adjust the Priority of Asset Recovery",
+    "definition": "A judicial decree that modifies the sequence in which various claims are retrieved from a debtor's assets, specifically applied to ensure that certain debts like child support are satisfied before others.",
+    "japaneseDefinition": "複数の債権が競合する場合において、特に扶養義務等に係る債権の回収を優先させるため、裁判所が取立ての順序を変更する命令。",
+    "japaneseWordTranslation": "取立順序の変更命令 (とりたてじゅんじょのへんこうめいれい)",
+    "legalContext": "Civil Execution Act Art. 151-2, Para. 3: The court may, upon petition, issue a directive to adjust the priority of asset recovery concerning the retrieval of the paycheck.",
+    "japaneseLegalContext": "民事執行法第151条の2第3項：執行裁判所は、申立てにより、給料の取立てについて、取立順序の変更命令を発することができる。",
+    "exampleSentence": "The court issued an order to adjust the priority of asset recovery to ensure the child support payment was procured before the commercial debt.",
+    "exampleTranslation": "裁判所は、商事債務よりも先に養育費が回収されることを確実にするため、取立順序の変更命令を下した。",
+    "vocabularyList": [
+      {
+        "word": "Asset recovery",
+        "translation": "資産の回収"
+      },
+      {
+        "word": "Child support",
+        "translation": "養育費"
+      },
+      {
+        "word": "Commercial debt",
+        "translation": "商事債務"
+      },
+      {
+        "word": "To procure",
+        "translation": "入手する、調達する"
+      },
+      {
+        "word": "Judicial decree",
+        "translation": "司法命令"
+      },
+      {
+        "word": "Sequence",
+        "translation": "順序"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Disqualification from Purchasing at a Judicial Sale",
+    "definition": "A legal restriction that prevents certain individuals, such as those who have previously interfered with an enforcement process or failed to pay the purchase price, from participating in a subsequent sale.",
+    "japaneseDefinition": "売却の場所において適正な手続きを妨害した者や、以前の売却で代金を納付しなかった者などに対し、その後の買受けを禁止する制限。",
+    "japaneseWordTranslation": "不適格者の買受けの資格制限 (ふてきかくしゃのかいうけのしかくせいげん)",
+    "legalContext": "Civil Execution Act Art. 68: The legal organ may restrict the eligibility of certain persons to buy the property at a judicial sale if they have committed acts that hinder the fairness of the process.",
+    "japaneseLegalContext": "民事執行法第68条：執行裁判所は、適正な売却を妨げる行為をした者等に対し、買受けの資格を制限することができる。",
+    "exampleSentence": "Due to his past history of non-payment, the individual faced a disqualification from purchasing at a judicial sale.",
+    "exampleTranslation": "過去に代金不払いの履歴があったため、その個人は司法売却における買受け資格の制限を受けた。",
+    "vocabularyList": [
+      {
+        "word": "Eligibility",
+        "translation": "資格、適格性"
+      },
+      {
+        "word": "To hinder",
+        "translation": "妨害する"
+      },
+      {
+        "word": "Non-payment",
+        "translation": "不払い"
+      },
+      {
+        "word": "Judicial sale",
+        "translation": "司法競売"
+      },
+      {
+        "word": "Legal organ",
+        "translation": "法的機関"
+      },
+      {
+        "word": "Restriction",
+        "translation": "制限"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Directive to Relinquish Attached Items for Public Liquidation",
+    "definition": "A court order requiring a person who possesses attached items to turn them over to the court's designated official so that they may be converted into cash to satisfy a debt.",
+    "japaneseDefinition": "差し押さえられた動産を占有している者に対し、売却手続きを円滑に進めるために、執行官等へその物を引き渡すよう命じる裁判所の命令。",
+    "japaneseWordTranslation": "売却のための差押物の引渡命令 (ばいきゃくのためのさしおえもののひきわたしめいれい)",
+    "legalContext": "Civil Execution Act Art. 135: If the person possessing the attached items refuses to relinquish them, the court may issue a directive to relinquish those items for public liquidation.",
+    "japaneseLegalContext": "民事執行法第135条：差押物を占有する者が引き渡しを拒むときは、裁判所は、売却のためにその物の引渡命令を発することができる。",
+    "exampleSentence": "The judge signed a directive to relinquish attached items for public liquidation after the third party refused to cooperate with the bailiff.",
+    "exampleTranslation": "第三者が執行吏への協力を拒んだため、裁判官は売却のための差押物引渡命令に署名した。",
+    "vocabularyList": [
+      {
+        "word": "Attached items",
+        "translation": "差押物"
+      },
+      {
+        "word": "To relinquish",
+        "translation": "放棄する、手放す"
+      },
+      {
+        "word": "Liquidation",
+        "translation": "換価、清算"
+      },
+      {
+        "word": "Designated official",
+        "translation": "指定された職員"
+      },
+      {
+        "word": "To turn over",
+        "translation": "引き渡す"
+      },
+      {
+        "word": "To cooperate",
+        "translation": "協力する"
+      }
+    ]
   }
 ]

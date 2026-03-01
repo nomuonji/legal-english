@@ -15640,5 +15640,119 @@
         "translation": "処理"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Authentication of the Payout Claimant",
+    "definition": "The process by which a deposit official verifies the identity of a person requesting the release or payment of deposited funds to ensure they are the legitimate entitled party.",
+    "japaneseDefinition": "供託金の払渡請求をする者が、正当な権利者本人であることを供託官が確認する手続きのこと。",
+    "japaneseWordTranslation": "払渡請求人の本人確認 (はらいわたしせいきゅうにんのほんにんかくにん)",
+    "legalContext": "Deposit Rules Art. 26: When a payout is requested, the deposit official shall perform an authentication of the payout claimant through the presentation of identity documents.",
+    "japaneseLegalContext": "供託規則第26条：供託官は、供託物の払渡しの請求があったときは、本人確認書類の提示を受ける方法により、払渡請求人の本人確認を行わなければならない。",
+    "exampleSentence": "The official required a valid passport for the authentication of the payout claimant.",
+    "exampleTranslation": "供託官は、払渡請求人の本人確認のために有効なパスポートの提示を求めた。",
+    "vocabularyList": [
+      {
+        "word": "Claimant",
+        "translation": "請求人"
+      },
+      {
+        "word": "Verification",
+        "translation": "検証・確認"
+      },
+      {
+        "word": "Legitimate",
+        "translation": "正当な"
+      },
+      {
+        "word": "Identity documents",
+        "translation": "本人確認書類"
+      },
+      {
+        "word": "Presentation",
+        "translation": "提示"
+      },
+      {
+        "word": "Entitled party",
+        "translation": "権利者"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Correction of the Consignment Particulars",
+    "definition": "An administrative procedure to rectify errors or inconsistencies in the information recorded in the deposit ledger or the application documents.",
+    "japaneseDefinition": "供託原簿や申請書類に記載された情報の誤りや不一致を修正するための行政上の手続き。",
+    "japaneseWordTranslation": "供託事項の訂正 (きょうたくじこうのていせい)",
+    "legalContext": "Deposit Rules Art. 18: Any correction of the consignment particulars in the ledger must be initialed or sealed by the deposit official to ensure the integrity of the record.",
+    "japaneseLegalContext": "供託規則第18条：供託原簿の供託事項を訂正するときは、記録の正確性を担保するため、供託官がその箇所に認印を押印しなければならない。",
+    "exampleSentence": "The bank requested a formal correction of the consignment particulars to match the account name.",
+    "exampleTranslation": "銀行は、口座名義と一致させるために、供託事項の正式な訂正を求めた。",
+    "vocabularyList": [
+      {
+        "word": "Rectify",
+        "translation": "修正する"
+      },
+      {
+        "word": "Inconsistency",
+        "translation": "不一致"
+      },
+      {
+        "word": "Integrity",
+        "translation": "完全性・整合性"
+      },
+      {
+        "word": "Initialed",
+        "translation": "イニシャルを記した"
+      },
+      {
+        "word": "Journal",
+        "translation": "帳簿・原簿"
+      },
+      {
+        "word": "Formal",
+        "translation": "正式な"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Inquiry into the Consignment Data",
+    "definition": "A formal request made to a legal affairs bureau to verify the existence or current status of a specific deposit record within the electronic data processing system.",
+    "japaneseDefinition": "電子情報処理組織内の特定の供託記録の有無や現在の状況を確認するために、法務局に対して行われる正式な照会。",
+    "japaneseWordTranslation": "供託情報の照会 (きょうたくじょうほうのしょうかい)",
+    "legalContext": "Deposit Rules Art. 34: A person with a legal interest may file an inquiry into the consignment data to ascertain if the performance has been duly completed via deposit.",
+    "japaneseLegalContext": "供託規則第34条：利害関係を有する者は、供託によって履行が適法に完了したかを確認するため、供託情報の照会をすることができる。",
+    "exampleSentence": "The attorney filed an inquiry into the consignment data to check if the tenant had paid the rent into the deposit office.",
+    "exampleTranslation": "弁護士は、賃借人が賃料を供託所に納めたかどうかを確認するため、供託情報の照会を行った。",
+    "vocabularyList": [
+      {
+        "word": "Inquiry",
+        "translation": "照会・問い合わせ"
+      },
+      {
+        "word": "Ascertain",
+        "translation": "確かめる"
+      },
+      {
+        "word": "Duly",
+        "translation": "適当に・正当に"
+      },
+      {
+        "word": "Status",
+        "translation": "状況・ステータス"
+      },
+      {
+        "word": "Electronic data processing",
+        "translation": "電子情報処理"
+      },
+      {
+        "word": "Bureau",
+        "translation": "局（法務局等）"
+      }
+    ]
   }
 ]

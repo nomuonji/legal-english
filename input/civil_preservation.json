@@ -17590,5 +17590,107 @@
         "translation": "執行の停止"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "International Jurisdiction over Civil Preservation",
+    "definition": "The legal authority of a Japanese court to hear and determine a case for civil preservation when the case involve foreign elements, such as a debtor residing abroad.",
+    "japaneseDefinition": "国外に居住する債務者など、渉外的要素を含む事件において、日本の裁判所が民事保全事件を審理し裁判を行う権限。",
+    "japaneseWordTranslation": "民事保全の国際裁判管轄 (みんじほぜんのこくさいさいばんかんかつ)",
+    "legalContext": "Civil Preservation Act Art. 7: The Japanese courts have jurisdiction over a petition for a preservation order if the Japanese courts have jurisdiction over the merits of the case or if the property to be seized is located in Japan.",
+    "japaneseLegalContext": "民事保全法第7条：日本の裁判所は、本案の訴えについて日本の裁判所が管轄権を有する場合、又は仮に差し押さえるべき物若しくは係争物が日本国内にある場合に限り、保全命令の申立てについて管轄権を有する。",
+    "exampleSentence": "The court examined whether it had international jurisdiction over civil preservation because the debtor was a foreign corporation with assets in Tokyo.",
+    "exampleTranslation": "債務者が東京に資産を持つ外国法人であったため、裁判所は民事保全に関する国際裁判管轄権を有するかどうかを審査した。",
+    "vocabularyList": [
+      {
+        "word": "Foreign corporation",
+        "translation": "外国法人"
+      },
+      {
+        "word": "Assets",
+        "translation": "資産"
+      },
+      {
+        "word": "Petition",
+        "translation": "申立て"
+      },
+      {
+        "word": "Jurisdiction",
+        "translation": "管轄権"
+      },
+      {
+        "word": "International elements",
+        "translation": "渉外的要素"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for the Substitution of the Object of Seizure",
+    "definition": "An order issued by the court to change the specific property that has been or is to be seized under a preservation order, typically to prevent excessive hardship to the debtor.",
+    "japaneseDefinition": "保全命令に基づき差し押さえられた、あるいは差し押さえられるべき特定の財産を、債務者の過度な困窮を避ける等の理由で別の財産に変更することを命じる決定。",
+    "japaneseWordTranslation": "差押物の取替え命令 (さしおさえもののとりかえめいれい)",
+    "legalContext": "Civil Preservation Act Art. 16: The court may, when it finds it necessary, issue an order for the substitution of the object of the preservation measure.",
+    "japaneseLegalContext": "民事保全法第16条：裁判所は、必要があると認めるときは、保全処分の目的物の取替えを命じることができる。",
+    "exampleSentence": "The judge issued an order for the substitution of the object of seizure to allow the factory to continue its operations using different equipment.",
+    "exampleTranslation": "工場が別の設備を使用して操業を継続できるように、裁判官は差押物の取替え命令を出した。",
+    "vocabularyList": [
+      {
+        "word": "Object of seizure",
+        "translation": "差押物"
+      },
+      {
+        "word": "Substitution",
+        "translation": "取替え"
+      },
+      {
+        "word": "Hardship",
+        "translation": "困窮・苦難"
+      },
+      {
+        "word": "Equipment",
+        "translation": "設備"
+      },
+      {
+        "word": "Operations",
+        "translation": "操業"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Filing of a Copy of the Preservation Order",
+    "definition": "The procedural requirement to submit a duplicate of the preservation order to relevant authorities or the other party to ensure transparency and notice.",
+    "japaneseDefinition": "透明性と通知を確保するために、保全命令の副本を関係機関や相手方に提出する手続上の要件。",
+    "japaneseWordTranslation": "保全命令の副本の提出 (ほぜんめいれいのふくほんのていしゅつ)",
+    "legalContext": "Civil Preservation Rules Art. 12: A person who has filed a petition for a preservation order must submit a copy of said order for service upon the debtor.",
+    "japaneseLegalContext": "民事保全規則第12条：保全命令の申立てをした者は、債務者に送達するための当該命令の副本を提出しなければならない。",
+    "exampleSentence": "The legal assistant ensured the filing of a copy of the preservation order was completed immediately after the ruling was made.",
+    "exampleTranslation": "法務助務は、決定が下された直後に、保全命令の副本の提出が完了していることを確認した。",
+    "vocabularyList": [
+      {
+        "word": "Copy / Duplicate",
+        "translation": "副本"
+      },
+      {
+        "word": "Filing",
+        "translation": "提出"
+      },
+      {
+        "word": "Transparency",
+        "translation": "透明性"
+      },
+      {
+        "word": "Service of process",
+        "translation": "送達"
+      },
+      {
+        "word": "Ruling",
+        "translation": "決定"
+      }
+    ]
   }
 ]

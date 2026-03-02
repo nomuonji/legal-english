@@ -21696,5 +21696,119 @@
         "translation": "送達受取人"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Successive Joinder of Claims",
+    "definition": "A procedural arrangement where a plaintiff asserts a primary claim and a secondary (backup) claim, requesting the court to only examine the secondary claim if the primary one is rejected.",
+    "japaneseDefinition": "原告が第一順位の請求（主体的請求）と、それが認められない場合に備えた第二順位の請求（予備的請求）を併せて行い、主体的請求が棄却されることを条件に後者の審理を求める訴訟形態。",
+    "japaneseWordTranslation": "予備的併合 (よびてきへいごう)",
+    "legalContext": "Code of Civil Procedure Art. 136: Multiple claims may be made in a single action only if they are made in accordance with the provisions of Article 38.",
+    "japaneseLegalContext": "民事訴訟法第136条：数個の請求は、第三十八条の規定により一の訴えですることができる。",
+    "exampleSentence": "The plaintiff filed a successive joinder of claims, seeking specific performance as the primary relief and damages as the secondary relief.",
+    "exampleTranslation": "原告は予備的併合を提起し、主位的請求として特定履行を、予備的請求として損害賠償を求めた。",
+    "vocabularyList": [
+      {
+        "word": "Primary claim",
+        "translation": "主位的請求"
+      },
+      {
+        "word": "Secondary claim",
+        "translation": "予備的請求"
+      },
+      {
+        "word": "Joinder",
+        "translation": "併合"
+      },
+      {
+        "word": "Plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "Relief",
+        "translation": "救済"
+      },
+      {
+        "word": "Dismissal",
+        "translation": "棄却"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Jura Novit Curia",
+    "definition": "A legal maxim meaning 'the court knows the law,' expressing the principle that the court is responsible for identifying and applying the correct legal rules to the facts presented by the parties.",
+    "japaneseDefinition": "「裁判所は法を知る」という法格言であり、当事者が主張する事実に適用すべき法規の選択・解釈は、当事者の意見に拘束されず裁判所の職権と責任に属するという原則。",
+    "japaneseWordTranslation": "裁判所は法を知る (さいばんしょはほうをしる)",
+    "legalContext": "This principle allows the court to apply a legal theory not explicitly mentioned by the parties, provided it fits the established facts, rooted in the court's inherent judicial power.",
+    "japaneseLegalContext": "この原則により、裁判所は当事者が明示的に主張していない法的理論であっても、確定された事実に適合する限り、自らの職権で適用することができる。",
+    "exampleSentence": "Under the principle of jura novit curia, the judge applied the correct statutory provision even though neither attorney cited it in their briefs.",
+    "exampleTranslation": "「裁判所は法を知る」という原則に基づき、裁判官は双方の弁護士が書面で引用していなかった正しい条文を適用した。",
+    "vocabularyList": [
+      {
+        "word": "Legal maxim",
+        "translation": "法格言"
+      },
+      {
+        "word": "Legal theory",
+        "translation": "法的理論"
+      },
+      {
+        "word": "Identify",
+        "translation": "特定する"
+      },
+      {
+        "word": "Apply",
+        "translation": "適用する"
+      },
+      {
+        "word": "Brief",
+        "translation": "準備書面"
+      },
+      {
+        "word": "Statutory provision",
+        "translation": "法的条項"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Formal Probative Value",
+    "definition": "The evidentiary status of a document that has been proven to be authentically formed (i.e., created by the person it purports to be from).",
+    "japaneseDefinition": "文書が作成者の意思に基づいて真正に成立した（偽造されたものではない）と認められることによって生じる証拠上の価値。",
+    "japaneseWordTranslation": "形式的証拠力 (けいしきてきしょうこりょく)",
+    "legalContext": "Code of Civil Procedure Art. 228 (1): A document shall be proved to have been authentically formed.",
+    "japaneseLegalContext": "民事訴訟法第228条第1項：文書は、その成立が真正であることを証明しなければならない。",
+    "exampleSentence": "Once the signature was verified, the contract attained formal probative value, though its substantive content remained subject to interpretation.",
+    "exampleTranslation": "署名が確認されたことで契約書は形式的証拠力を得たが、その実質的な内容は依然として解釈の対象であった。",
+    "vocabularyList": [
+      {
+        "word": "Authentically formed",
+        "translation": "真正に成立した"
+      },
+      {
+        "word": "Verification",
+        "translation": "照合・検証"
+      },
+      {
+        "word": "Substantive content",
+        "translation": "実質的内容"
+      },
+      {
+        "word": "Evidentiary status",
+        "translation": "証拠上の地位"
+      },
+      {
+        "word": "Purport",
+        "translation": "〜であると称する"
+      },
+      {
+        "word": "Interpretation",
+        "translation": "解釈"
+      }
+    ]
   }
 ]

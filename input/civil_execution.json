@@ -20448,5 +20448,119 @@
         "translation": "口座"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Coordination of Overlapping Compulsory Procedures",
+    "definition": "The legal mechanism used to resolve conflicts when multiple enforcement procedures, such as civil execution and tax delinquency dispositions, are simultaneously carried out against the same property.",
+    "japaneseDefinition": "同一の財産に対して民事執行と滞納処分などの複数の強制手続が重なった場合に、その手続間の競合を解消し調整するための法的メカニズム。",
+    "japaneseWordTranslation": "強制手続の競合の調整 (きょうせいてつづきのきょうごうちょうせい)",
+    "legalContext": "Civil Execution Act Art. 36-2 (and related provisions in the Act on Coordination of Procedures for Compulsory Execution and Disposition of Delinquent Taxes): Provisions ensuring that overlapping enforcement measures do not result in procedural chaos or double recovery.",
+    "japaneseLegalContext": "民事執行法および滞納処分と強制執行等との手続の調整に関する法律：重複する強制措置が手続上の混乱や二重の回収を招かないようにするための規定。",
+    "exampleSentence": "The court initiated a coordination of overlapping compulsory procedures to determine whether the tax office or the judgment creditor had priority over the seized assets.",
+    "exampleTranslation": "裁判所は、差し押さえられた資産に対して税務署と判決債権者のどちらが優先権を持つかを決定するため、重複する強制手続の調整を開始した。",
+    "vocabularyList": [
+      {
+        "word": "Overlap",
+        "translation": "重複"
+      },
+      {
+        "word": "Mechanism",
+        "translation": "仕組み"
+      },
+      {
+        "word": "Resolve",
+        "translation": "解消する"
+      },
+      {
+        "word": "Simultaneously",
+        "translation": "同時に"
+      },
+      {
+        "word": "Tax office",
+        "translation": "税務署"
+      },
+      {
+        "word": "Priority",
+        "translation": "優先順位"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Propose the Sequence of Sale",
+    "definition": "The right of a debtor to request the execution court to specify the order in which multiple pieces of property should be sold to satisfy the debt, provided it does not harm the creditor's interests.",
+    "japaneseDefinition": "債権者の利益を害さない範囲で、債務者が執行裁判所に対し、債務を弁済するために複数の物件を売却すべき順序を指定するよう申し出る権利。",
+    "japaneseWordTranslation": "売却順序の申出権 (ばいきゃくじゅんじょのもうしでけん)",
+    "legalContext": "Civil Execution Act Art. 142: In cases where multiple properties are seized, the debtor may propose a specific sequence for their realization to minimize the impact on their livelihood or business.",
+    "japaneseLegalContext": "民事執行法第142条：複数の不動産等が差し押さえられた場合、債務者は自身の生活や事業への影響を最小限にするため、換価の順序について具体的な提案を行うことができる。",
+    "exampleSentence": "The judgment debtor exercised their right to propose the sequence of sale, asking the court to sell the vacant lot before the family residence.",
+    "exampleTranslation": "債務者は売却順序の申出権を行使し、家族の住居よりも先に空き地を売却するよう裁判所に求めた。",
+    "vocabularyList": [
+      {
+        "word": "Specify",
+        "translation": "指定する"
+      },
+      {
+        "word": "Sequence",
+        "translation": "順序"
+      },
+      {
+        "word": "Satisfy the debt",
+        "translation": "債務を充足させる"
+      },
+      {
+        "word": "Vacant lot",
+        "translation": "空き地"
+      },
+      {
+        "word": "Residence",
+        "translation": "住居"
+      },
+      {
+        "word": "Livelihood",
+        "translation": "生計"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibition of Execution against Foreign Sovereigns",
+    "definition": "The principle under international and domestic law that grants immunity from compulsory enforcement measures to foreign states and their property, subject to specific exceptions.",
+    "japaneseDefinition": "国際法および国内法に基づき、外国国家およびその財産に対して強制執行措置を講じることを禁止する原則（特定の例外を除く）。",
+    "japaneseWordTranslation": "外国国家に対する強制執行の免除 (がいこくこっかにたいするきょうせいしっこうのめんじょ)",
+    "legalContext": "Act on the Civil Jurisdiction of Japan with respect to Foreign States Art. 17: Establishes that foreign states are generally immune from civil execution unless they have consented to such measures or the property is used for commercial purposes.",
+    "japaneseLegalContext": "外国等に対する我が国の民事裁判権に関する法律第17条：外国等が執行に同意した場合や、財産が商業目的で使用されている場合を除き、原則として民事執行の免除を受けることを規定している。",
+    "exampleSentence": "The court dismissed the application for seizure, citing the prohibition of execution against foreign sovereigns as the assets were designated for diplomatic use.",
+    "exampleTranslation": "資産が外交目的で指定されていたため、裁判所は外国国家に対する強制執行の免除を引用し、差押えの申立てを却下した。",
+    "vocabularyList": [
+      {
+        "word": "Immunity",
+        "translation": "免除"
+      },
+      {
+        "word": "Sovereign",
+        "translation": "主権者・国家"
+      },
+      {
+        "word": "Diplomatic use",
+        "translation": "外交目的"
+      },
+      {
+        "word": "Exceptions",
+        "translation": "例外"
+      },
+      {
+        "word": "Consented",
+        "translation": "同意した"
+      },
+      {
+        "word": "Dismissed",
+        "translation": "却下した"
+      }
+    ]
   }
 ]

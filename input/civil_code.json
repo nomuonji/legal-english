@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Solatium / Compensation for Mental Suffering",
-    "definition": "Monetary damages awarded to compensate an injured party for non-pecuniary harm, such as pain, suffering, grief, or emotional distress, resulting from an unlawful act.",
-    "japaneseDefinition": "不法行為によって生じた精神的な苦痛、悲嘆、その他の非財産的損害を償うために支払われる金銭賠償。",
-    "japaneseWordTranslation": "慰謝料 (いしゃりょう)",
-    "legalContext": "Civil Code Art. 710: “A person liable for damages in accordance with the provisions of the preceding Article shall, whether the injury is to the person, liberty or reputation of another, or to the property rights of another, also make compensation for damages other than pecuniary damages.”",
-    "japaneseLegalContext": "民法第710条: 「前条の規定により損害賠償の責任を負う者は、財産以外の損害についても、その賠償をしなければならない。」",
-    "exampleSentence": "In the defamation suit, the court ordered the defendant to pay a substantial sum as solatium for the plaintiff’s severe emotional distress and reputational damage.",
-    "exampleTranslation": "名誉毀損訴訟において、裁判所は、原告の深刻な精神的苦痛と名誉毀損に対し、被告に相当額の慰謝料の支払いを命じた。",
-    "vocabularyList": [
-      {
-        "word": "defamation suit",
-        "translation": "名誉毀損訴訟 (めいよきそんそしょう)"
-      },
-      {
-        "word": "unlawful act",
-        "translation": "不法行為 (ふほうこうい)"
-      },
-      {
-        "word": "non-pecuniary harm",
-        "translation": "非財産的損害 (ひざいさんてきそんがい)"
-      },
-      {
-        "word": "emotional distress",
-        "translation": "精神的苦痛 (せいしんてきくつう)"
-      },
-      {
-        "word": "reputational damage",
-        "translation": "名誉毀損 (めいよきそん)"
-      },
-      {
-        "word": "substantial sum",
-        "translation": "相当額 (そうとうがく)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Adverse Possession",
     "definition": "The acquisition of ownership or other proprietary rights over property by continuously and peacefully holding possession of it for a prescribed period, with the intention of owning it (animus domini).",
     "japaneseDefinition": "他人の物を自己の所有物として占有を継続し、一定期間が経過することにより、その物の所有権等の物権を取得すること。",
@@ -24674,6 +24636,108 @@
       {
         "word": "Ruled",
         "translation": "判示した"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Conflict of Interest",
+    "definition": "A legal situation where the interests of an agent and the principal are in opposition, potentially compromising the agent's ability to act impartially in the best interest of the principal.",
+    "japaneseDefinition": "代理人と本人の利益が対立する状況。代理人が本人の最善の利益のために公平に行動することを妨げる可能性がある。",
+    "japaneseWordTranslation": "利益相反 (りえきそうはん)",
+    "legalContext": "Civil Code Art. 108: An act performed by an agent that involves a conflict of interest between the principal and the agent, or between the principal and a third party whom the agent represents, shall be deemed to be an act performed without the power of agency.",
+    "japaneseLegalContext": "民法第108条：自己売買及び双方代理、並びに本人と代理人との利益が相反する行為は、原則として、代理権を有しない者がした行為（無権代理行為）とみなされる。",
+    "exampleSentence": "The contract was deemed voidable because the agent entered into a conflict of interest transaction without the principal's prior consent.",
+    "exampleTranslation": "代理人が本人の事前承諾なしに利益相反取引を行ったため、その契約は取り消し得るとみなされました。",
+    "vocabularyList": [
+      {
+        "word": "In opposition",
+        "translation": "対立して"
+      },
+      {
+        "word": "Prior consent",
+        "translation": "事前承諾"
+      },
+      {
+        "word": "Best interest",
+        "translation": "最善の利益"
+      },
+      {
+        "word": "Impartially",
+        "translation": "公平に"
+      },
+      {
+        "word": "Transaction",
+        "translation": "取引"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Modification of Contract",
+    "definition": "The act of changing or altering the terms of an existing agreement through the mutual consent of the parties involved.",
+    "japaneseDefinition": "当事者の合意に基づき、既存の契約条項を変更または修正する行為。",
+    "japaneseWordTranslation": "契約の変更 (けいやくのへんこう)",
+    "legalContext": "The Civil Code recognizes the general principle that parties may alter the content of their rights and duties by mutual agreement, provided it does not violate mandatory laws or public policy.",
+    "japaneseLegalContext": "当事者が合意によって権利義務の内容を変更することは、強行法規や公序良俗に反しない限り、私法上の原則として認められている。",
+    "exampleSentence": "The parties executed an addendum to reflect the modification of contract regarding the delivery schedule.",
+    "exampleTranslation": "当事者は、配送スケジュールの契約変更を反映させるための付随合意書を締結しました。",
+    "vocabularyList": [
+      {
+        "word": "Mutual consent",
+        "translation": "相互の合意"
+      },
+      {
+        "word": "Addendum",
+        "translation": "付随合意書 / 補足"
+      },
+      {
+        "word": "Altering",
+        "translation": "変えること"
+      },
+      {
+        "word": "Existing agreement",
+        "translation": "既存の合意"
+      },
+      {
+        "word": "Mandatory laws",
+        "translation": "強行法規"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Lapse of an Offer",
+    "definition": "The expiration or termination of an offer to enter into an agreement, which occurs when it is not accepted within a specified or reasonable timeframe.",
+    "japaneseDefinition": "契約締結の申し込みが、指定された期間内または相当な期間内に承諾されなかった場合に、その効力を失うこと。",
+    "japaneseWordTranslation": "申し込みの失効 (もうしこみのしっこう)",
+    "legalContext": "Civil Code Art. 523: An offer for which a period for acceptance has been specified shall lapse if a notice of acceptance is not received within that period.",
+    "japaneseLegalContext": "民法第523条：承諾の期間を定めてした契約の申込みは、その期間内に承諾の通知を受けなかったときは、その効力を失う。",
+    "exampleSentence": "The expiration of the deadline resulted in the lapse of an offer, meaning the parties had to negotiate terms from the beginning.",
+    "exampleTranslation": "期限が経過したことで申し込みが失効したため、当事者は最初から条件を交渉し直さなければなりませんでした。",
+    "vocabularyList": [
+      {
+        "word": "Expiration",
+        "translation": "満了 / 経過"
+      },
+      {
+        "word": "Timeframe",
+        "translation": "期間"
+      },
+      {
+        "word": "Deadline",
+        "translation": "期限"
+      },
+      {
+        "word": "Negotiate",
+        "translation": "交渉する"
+      },
+      {
+        "word": "Specified",
+        "translation": "指定された"
       }
     ]
   }

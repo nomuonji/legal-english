@@ -20334,5 +20334,119 @@
         "translation": "前の・先行する"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exigible",
+    "definition": "A status where a sum can be officially demanded because all requirements are met and the time for payment has arrived.",
+    "japaneseDefinition": "支払いの時期が到来し、法律上の要件を満たしているため、強制的に求めることができる状態。",
+    "japaneseWordTranslation": "執行可能な (しっこうかのうな)",
+    "legalContext": "Under the rules of the 民事執行法, a right must be exigible to allow for the start of the process to get the sum.",
+    "japaneseLegalContext": "民事執行法の規定において、取り分を確保する手続きを開始するためには、その内容が実現可能（執行可能）である必要があります。",
+    "exampleSentence": "The magistrate checked if the sum was exigible before the next step.",
+    "exampleTranslation": "司法官は、次の段階に進む前に、そのお金が執行可能であるかを確認しました。",
+    "vocabularyList": [
+      {
+        "word": "Magistrate",
+        "translation": "司法官"
+      },
+      {
+        "word": "Foundation",
+        "translation": "基礎"
+      },
+      {
+        "word": "Mature",
+        "translation": "期限が到来した"
+      },
+      {
+        "word": "Ready",
+        "translation": "準備が整った"
+      },
+      {
+        "word": "Sum",
+        "translation": "金額"
+      },
+      {
+        "word": "Time",
+        "translation": "時間・時期"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Interpleader",
+    "definition": "A procedure used when a person holds a sum but does not know which of two or more people should receive it, asking a magistrate to decide.",
+    "japaneseDefinition": "金銭を預かっている者が、複数のうち誰に支払うべきか不明な場合に、司法官に判断を委ねる仕組み。",
+    "japaneseWordTranslation": "権利者不確知の供託 (けんりしゃふかくちのきょうたく)",
+    "legalContext": "Section 156 allows a person to use a form of interpleader when the person who should get the sum is not known.",
+    "japaneseLegalContext": "法第156条は、誰がお金を受け取るべきか分からない場合に、この仕組み（供託）を利用することを認めています。",
+    "exampleSentence": "The bank used interpleader to avoid giving the sum to the wrong person.",
+    "exampleTranslation": "銀行は、誤った相手にお金を渡すことを避けるために、この判断の仕組み（権利者不確知の供託）を利用しました。",
+    "vocabularyList": [
+      {
+        "word": "Choose",
+        "translation": "選択する"
+      },
+      {
+        "word": "Decide",
+        "translation": "決定する"
+      },
+      {
+        "word": "Known",
+        "translation": "知られている"
+      },
+      {
+        "word": "Both",
+        "translation": "両方"
+      },
+      {
+        "word": "Bank",
+        "translation": "銀行"
+      },
+      {
+        "word": "Magistrate",
+        "translation": "司法官"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Garnish",
+    "definition": "To officially take a sum from a person's monthly pay or bank account to satisfy an amount owed to another.",
+    "japaneseDefinition": "他者への支払いのために、給料や銀行口座から定期的にお金を確保すること。",
+    "japaneseWordTranslation": "差し押さえる (さしおさえる)",
+    "legalContext": "The law provides the power to garnish a sum to ensure that the foundation of the right is respected.",
+    "japaneseLegalContext": "法は、正当な取り分が守られるよう、お金を確保する（差し押さえる）力を与えています。",
+    "exampleSentence": "The law allows the magistrate to garnish the sum from the monthly pay.",
+    "exampleTranslation": "法に基づき、司法官は毎月の給与からその金額を確保することができます。",
+    "vocabularyList": [
+      {
+        "word": "Secure",
+        "translation": "確保する"
+      },
+      {
+        "word": "Monthly",
+        "translation": "毎月の"
+      },
+      {
+        "word": "Hands",
+        "translation": "手元・管理下"
+      },
+      {
+        "word": "Third",
+        "translation": "第三の"
+      },
+      {
+        "word": "Pay",
+        "translation": "給与・支払い"
+      },
+      {
+        "word": "Account",
+        "translation": "口座"
+      }
+    ]
   }
 ]

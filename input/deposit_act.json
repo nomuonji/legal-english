@@ -15754,5 +15754,119 @@
         "translation": "局（法務局等）"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Public Entrustment for an Untraceable Entity",
+    "definition": "A procedure where a debtor places assets with the official bureau when the person who should receive the assets cannot be identified or located despite the debtor's reasonable efforts.",
+    "japaneseDefinition": "債務者が、相当な調査を行っても被供託者を特定または所在を確認できない場合に、供託所に供託物を預ける手続き。",
+    "japaneseWordTranslation": "確知不能な被供託者のための供託 (かくちふのうなひきょうたくしゃのためのきょうたく)",
+    "legalContext": "Deposit Act Art. 1; Civil Code Art. 494, Para. 1, Item 2: 'A performer may entrust the subject matter of the performance to an official bureau... if the obligee cannot be identified.'",
+    "japaneseLegalContext": "供託法第1条、民法第494条第1項第2号：「債権者を確知することができないとき…弁済者は、供託所に供託物を供託することができる。」",
+    "exampleSentence": "The company utilized public entrustment for an untraceable entity after the original shareholder passed away without leaving records of his successors.",
+    "exampleTranslation": "元の株主が相続人の記録を残さずに亡くなったため、会社は確知不能な被供託者のための供託を利用した。",
+    "vocabularyList": [
+      {
+        "word": "Untraceable",
+        "translation": "所在不明の、追跡不能な"
+      },
+      {
+        "word": "Entrustment",
+        "translation": "委託、供託"
+      },
+      {
+        "word": "Inability to locate",
+        "translation": "所在を確認できないこと"
+      },
+      {
+        "word": "Subject matter",
+        "translation": "目的物"
+      },
+      {
+        "word": "Successor",
+        "translation": "後継者、相続人"
+      },
+      {
+        "word": "Official bureau",
+        "translation": "供託所、公的な局"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Administrative Remediation of a Record",
+    "definition": "The official process of correcting errors or omissions in the ledger or documentation maintained by the official bureau regarding a specific placement of assets.",
+    "japaneseDefinition": "供託所が管理する供託記録や帳簿の誤りや漏れを是正する公的な手続き。",
+    "japaneseWordTranslation": "供託記録の更正 (きょうたくきろくのこうせい)",
+    "legalContext": "Deposit Act Art. 10: 'If there is an error in the entries of a record, the official shall perform remediation...'",
+    "japaneseLegalContext": "供託法第10条：供託官は、供託記録の記載に誤りがあるときは、更正の手続きを執らなければならない。",
+    "exampleSentence": "The applicant sought administrative remediation of a record because the phonetic spelling of the payee's name was transcribed incorrectly.",
+    "exampleTranslation": "被供託者の氏名のフリガナが誤って記載されていたため、申請者は供託記録の更正を求めた。",
+    "vocabularyList": [
+      {
+        "word": "Remediation",
+        "translation": "更正、是正"
+      },
+      {
+        "word": "Inaccurate",
+        "translation": "不正確な"
+      },
+      {
+        "word": "Transcription",
+        "translation": "転記、記載"
+      },
+      {
+        "word": "Omission",
+        "translation": "記載漏れ、省略"
+      },
+      {
+        "word": "Ledger",
+        "translation": "台帳、帳簿"
+      },
+      {
+        "word": "Official",
+        "translation": "供託官、公務員"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Repayment of Entrusted Valuables",
+    "definition": "The act of returning the assets held by the official bureau to the person who originally placed them, typically occurring when the reason for the initial placement has ceased to exist.",
+    "japaneseDefinition": "供託所に預けられた物品や金銭を、供託原因が消滅したことなどを理由に、供託した本人に払い戻すこと。",
+    "japaneseWordTranslation": "供託物の還付請求 (きょうたくぶつのかんぷせいきゅう)",
+    "legalContext": "Deposit Act Art. 8, Para. 1: 'A person who intends to seek the repayment of entrusted valuables shall submit a formal request to the official.'",
+    "japaneseLegalContext": "供託法第8条第1項：供託物の還付を受けようとする者は、供託官に還付請求書を提出しなければならない。",
+    "exampleSentence": "Upon winning the lawsuit and proving that the debt was non-existent, the party sought the repayment of entrusted valuables from the bureau.",
+    "exampleTranslation": "訴訟に勝訴し、債務が存在しないことを証明したため、当事者は局に対して供託物の還付を求めた。",
+    "vocabularyList": [
+      {
+        "word": "Repayment",
+        "translation": "還付、払い戻し"
+      },
+      {
+        "word": "Valuables",
+        "translation": "有価物、貴重品"
+      },
+      {
+        "word": "Ceased to exist",
+        "translation": "消滅した"
+      },
+      {
+        "word": "Formal request",
+        "translation": "正式な請求、申請書"
+      },
+      {
+        "word": "Non-existent",
+        "translation": "存在しない"
+      },
+      {
+        "word": "Prove",
+        "translation": "立証する、証明する"
+      }
+    ]
   }
 ]

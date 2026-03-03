@@ -19406,5 +19406,119 @@
         "translation": "鑑定評価額"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Joint Shareholding",
+    "definition": "A legal state where one or more shares are held by two or more persons in common, requiring the co-holders to designate one person to exercise the rights of a shareholder.",
+    "japaneseDefinition": "1個または数個の株式を2人以上の者が共同して所有する状態。株主の権利を行使するためには、共有者の中から1名の権利行使者を定める必要がある。",
+    "japaneseWordTranslation": "株式の準共有 (かぶしきのじゅんきょうゆう)",
+    "legalContext": "Companies Act Art. 106: 'If a share is owned by two or more persons, such persons may not exercise their rights as shareholders unless they designate one person to exercise the rights...'",
+    "japaneseLegalContext": "会社法第106条：「株式が二以上の者の共有に属するときは、共有者は、当該株式についての権利を行使する一人を指定し、…でなければ、当該株式についての権利を行使することができない。」",
+    "exampleSentence": "In cases of intestate succession, heirs must notify the company of the designated representative for their joint shareholding to exercise voting rights.",
+    "exampleTranslation": "遺言のない相続の場合、相続人は議決権を行使するために、株式の準共有に関する指定された代表者を会社に通知しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Co-holder",
+        "translation": "共有者"
+      },
+      {
+        "word": "Designate",
+        "translation": "指定する"
+      },
+      {
+        "word": "Exercise",
+        "translation": "行使する"
+      },
+      {
+        "word": "Intestate succession",
+        "translation": "遺言によらない相続"
+      },
+      {
+        "word": "Representative",
+        "translation": "代表者"
+      },
+      {
+        "word": "Notify",
+        "translation": "通知する"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "De Facto Merger",
+    "definition": "A transaction that, while not following the statutory procedures for a merger, achieves the same economic result through a total business transfer or asset acquisition.",
+    "japaneseDefinition": "法定の合併手続を経ていないものの、事業譲渡や資産買収などを通じて実質的に合併と同様の経済的結果をもたらす取引。",
+    "japaneseWordTranslation": "事実上の合併 (じじつじょうのがっぺい)",
+    "legalContext": "A judicial doctrine used to determine if the protective provisions for shareholders or creditors should be applied to transactions that circumvent formal merger requirements.",
+    "japaneseLegalContext": "形式的な合併要件を回避する取引に対し、株主や債権者の保護規定を適用すべきかを判断するために用いられる法理。",
+    "exampleSentence": "The court examined whether the complete asset transfer constituted a de facto merger to ensure creditor protection was not bypassed.",
+    "exampleTranslation": "裁判所は、債権者保護が回避されていないかを確認するため、完全な資産移転が事実上の合併にあたるかどうかを検討した。",
+    "vocabularyList": [
+      {
+        "word": "Economic result",
+        "translation": "経済的結果"
+      },
+      {
+        "word": "Circumvent",
+        "translation": "回避する"
+      },
+      {
+        "word": "Judicial doctrine",
+        "translation": "判例法理"
+      },
+      {
+        "word": "Substance",
+        "translation": "実態"
+      },
+      {
+        "word": "Bypass",
+        "translation": "潜脱する"
+      },
+      {
+        "word": "Asset acquisition",
+        "translation": "資産買収"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Underpriced Issuance",
+    "definition": "The legal obligation of directors or subscribers to pay the difference to the company when shares are issued at a price significantly lower than their actual value without proper justification.",
+    "japaneseDefinition": "正当な理由なく、株式が実価より著しく低い価格で発行された場合に、取締役や引受人が会社に対してその差額を支払う義務。",
+    "japaneseWordTranslation": "不公正な払込金額による責任 (ふこうせいなはらいこみきんがくによるせきにん)",
+    "legalContext": "Companies Act Art. 212: 'If a subscriber for shares for subscription has subscribed for such shares at an extremely unfair amount... such person shall be liable to the Stock Company for payment of the amount...'",
+    "japaneseLegalContext": "会社法第212条：「募集株式の引受人は、…著しく不当な払込金額で募集株式を引き受けたときは、…当該 Stock Company に対し、…払込金額との差額に相当する額を支払う義務を負う。」",
+    "exampleSentence": "The directors faced liability for underpriced issuance after allotting shares to an affiliate at a steep discount to the market price.",
+    "exampleTranslation": "市場価格を大幅に下回る割引価格で関係会社に株式を割り当てた後、取締役は不公正な払込金額による責任を追及された。",
+    "vocabularyList": [
+      {
+        "word": "Discount",
+        "translation": "割引"
+      },
+      {
+        "word": "Justification",
+        "translation": "正当化事由"
+      },
+      {
+        "word": "Difference",
+        "translation": "差額"
+      },
+      {
+        "word": "Market price",
+        "translation": "市場価格"
+      },
+      {
+        "word": "Allot",
+        "translation": "割り当てる"
+      },
+      {
+        "word": "Valuation",
+        "translation": "価値評価"
+      }
+    ]
   }
 ]

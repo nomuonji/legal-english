@@ -2,44 +2,6 @@
   {
     "category": "Deposit Act (供託法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Deposit for Litigation Security",
-    "definition": "A deposit required by a court, typically under the Code of Civil Procedure, to ensure the payment of potential litigation expenses that one party (usually the defendant) may incur if the demanding party (usually the plaintiff) loses the case.",
-    "japaneseDefinition": "裁判所により、訴訟費用に充てるための担保として命じられる供託。原告が敗訴した場合などに備えて、被告が負担する可能性のある費用を担保するために要求される。",
-    "japaneseWordTranslation": "訴訟費用担保供託 (そしょうひようたんぽきょうたく)",
-    "legalContext": "Code of Civil Procedure Art. 75 sets forth the requirements under which a defendant may move the court to order the plaintiff to furnish Deposit for Litigation Security.",
-    "japaneseLegalContext": "民事訴訟法第75条は、被告が原告に対し訴訟費用担保供託を命じるよう裁判所に申し立てることができる要件を規定している。",
-    "exampleSentence": "Because the plaintiff resided abroad, the court ordered him to furnish a substantial Deposit for Litigation Security before proceeding with the trial.",
-    "exampleTranslation": "原告は海外在住であったため、裁判所は審理を進める前に、相当額の訴訟費用担保供託を行うよう命じた。",
-    "vocabularyList": [
-      {
-        "word": "litigation expenses",
-        "translation": "訴訟費用"
-      },
-      {
-        "word": "furnish",
-        "translation": "提供する"
-      },
-      {
-        "word": "Code of Civil Procedure",
-        "translation": "民事訴訟法"
-      },
-      {
-        "word": "resided abroad",
-        "translation": "海外在住であった"
-      },
-      {
-        "word": "move the court",
-        "translation": "裁判所に申し立てる"
-      },
-      {
-        "word": "defendant",
-        "translation": "被告"
-      }
-    ]
-  },
-  {
-    "category": "Deposit Act (供託法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Certificate of Consignment Completion",
     "definition": "The formal instrument issued by the administrative authority (the deposit office) acknowledging that the prescribed legal consignment procedures have been fully carried out by the consigner.",
     "japaneseDefinition": "供託所が、供託者が所定の供託手続を完全に履行したことを証明するために交付する公的な書面。",
@@ -15866,6 +15828,120 @@
       {
         "word": "Prove",
         "translation": "立証する、証明する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exclusion of a Handling Official",
+    "definition": "A procedural requirement in the Deposit Act whereby an official in charge of deposit affairs is prohibited from performing their duties in a specific case due to a potential conflict of interest, such as having a personal connection to the parties involved.",
+    "japaneseDefinition": "供託官が、事件の当事者と特殊な関係にある場合に、その供託事務の執行から除外される制度。",
+    "japaneseWordTranslation": "供託官の除斥 (きょうたくかんのじょせき)",
+    "legalContext": "Deposit Act Art. 1-5: The provisions of the Code of Civil Procedure regarding the exclusion of court officials apply to the exclusion of a handling official in deposit matters.",
+    "japaneseLegalContext": "供託法第1条の5：裁判所書記官の除斥に関する民事訴訟法の規定は、供託官の除斥について準用する。",
+    "exampleSentence": "The applicant requested the exclusion of a handling official because the official was a family member of the interested party.",
+    "exampleTranslation": "供託官が利害関係人の親族であったため、申請者はその供託官の除斥を求めた。",
+    "vocabularyList": [
+      {
+        "word": "Handling official",
+        "translation": "供託官"
+      },
+      {
+        "word": "Exclusion",
+        "translation": "除斥"
+      },
+      {
+        "word": "Apply with modifications",
+        "translation": "準用する"
+      },
+      {
+        "word": "Family member",
+        "translation": "親族"
+      },
+      {
+        "word": "Conflict of interest",
+        "translation": "利益相反"
+      },
+      {
+        "word": "Prohibit",
+        "translation": "禁止する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Delegation of Deposit-related Functions",
+    "definition": "The transfer of the authority to handle specific administrative tasks regarding deposits from one office to another, typically ordered by the Minister of Justice to ensure efficiency.",
+    "japaneseDefinition": "法務大臣が、特定の供託所における供託事務を他の供託所に委ねること。",
+    "japaneseWordTranslation": "供託事務の委任 (きょうたくじむのいにん)",
+    "legalContext": "Deposit Act Art. 1-2: The Minister of Justice may delegate the functions of a deposit office to a handling official at a different location within the same area.",
+    "japaneseLegalContext": "供託法第1条の2：法務大臣は、供託所の事務を、管轄外の供託所に委任することができる。",
+    "exampleSentence": "Due to the reconstruction of the local branch, there was a delegation of deposit-related functions to the neighboring district office.",
+    "exampleTranslation": "地元の分庁舎の改築に伴い、供託事務の委任が隣接する区役所に対して行われた。",
+    "vocabularyList": [
+      {
+        "word": "Delegation",
+        "translation": "委任"
+      },
+      {
+        "word": "Administrative functions",
+        "translation": "事務"
+      },
+      {
+        "word": "Neighboring district",
+        "translation": "隣接する地域"
+      },
+      {
+        "word": "Transfer of authority",
+        "translation": "権限の移転"
+      },
+      {
+        "word": "Reconstruction",
+        "translation": "改築"
+      },
+      {
+        "word": "Handling",
+        "translation": "取り扱い"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reviewing the Deposit Journal Information",
+    "definition": "The act of an interested party requesting to see or obtain details from the official records kept by the deposit office to confirm the status or history of a specific deposit.",
+    "japaneseDefinition": "利害関係人が、供託所に備え付けられた供託原簿などの記録を確認すること。",
+    "japaneseWordTranslation": "供託原簿の情報の閲覧 (きょうたくげんぼのじょうほうのえつらん)",
+    "legalContext": "Deposit Act Art. 8: Any person who has an interest in a deposit may request the reviewing of the deposit journal information or the issuance of a summary thereof.",
+    "japaneseLegalContext": "供託法第8条：供託について利害関係を有する者は、供託原簿の情報の閲覧を請求することができる。",
+    "exampleSentence": "After reviewing the deposit journal information, the creditor confirmed that the funds had indeed been placed in the account.",
+    "exampleTranslation": "供託原簿の情報の閲覧を行った後、債権者は資金が確かに口座に納められていることを確認した。",
+    "vocabularyList": [
+      {
+        "word": "Reviewing",
+        "translation": "閲覧"
+      },
+      {
+        "word": "Journal",
+        "translation": "原簿"
+      },
+      {
+        "word": "History",
+        "translation": "履歴"
+      },
+      {
+        "word": "Interested party",
+        "translation": "利害関係人"
+      },
+      {
+        "word": "Summary",
+        "translation": "要旨"
+      },
+      {
+        "word": "Issuance",
+        "translation": "交付"
       }
     ]
   }

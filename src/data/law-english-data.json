@@ -1,38 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Deposit Act (供託法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Solatium / Compensation for Mental Suffering",
-  "definition": "Monetary damages awarded to compensate an injured party for non-pecuniary harm, such as pain, suffering, grief, or emotional distress, resulting from an unlawful act.",
-  "japaneseDefinition": "不法行為によって生じた精神的な苦痛、悲嘆、その他の非財産的損害を償うために支払われる金銭賠償。",
-  "japaneseWordTranslation": "慰謝料 (いしゃりょう)",
-  "legalContext": "Civil Code Art. 710: “A person liable for damages in accordance with the provisions of the preceding Article shall, whether the injury is to the person, liberty or reputation of another, or to the property rights of another, also make compensation for damages other than pecuniary damages.”",
-  "japaneseLegalContext": "民法第710条: 「前条の規定により損害賠償の責任を負う者は、財産以外の損害についても、その賠償をしなければならない。」",
-  "exampleSentence": "In the defamation suit, the court ordered the defendant to pay a substantial sum as solatium for the plaintiff’s severe emotional distress and reputational damage.",
-  "exampleTranslation": "名誉毀損訴訟において、裁判所は、原告の深刻な精神的苦痛と名誉毀損に対し、被告に相当額の慰謝料の支払いを命じた。",
+  "word": "Deposit for Litigation Security",
+  "definition": "A deposit required by a court, typically under the Code of Civil Procedure, to ensure the payment of potential litigation expenses that one party (usually the defendant) may incur if the demanding party (usually the plaintiff) loses the case.",
+  "japaneseDefinition": "裁判所により、訴訟費用に充てるための担保として命じられる供託。原告が敗訴した場合などに備えて、被告が負担する可能性のある費用を担保するために要求される。",
+  "japaneseWordTranslation": "訴訟費用担保供託 (そしょうひようたんぽきょうたく)",
+  "legalContext": "Code of Civil Procedure Art. 75 sets forth the requirements under which a defendant may move the court to order the plaintiff to furnish Deposit for Litigation Security.",
+  "japaneseLegalContext": "民事訴訟法第75条は、被告が原告に対し訴訟費用担保供託を命じるよう裁判所に申し立てることができる要件を規定している。",
+  "exampleSentence": "Because the plaintiff resided abroad, the court ordered him to furnish a substantial Deposit for Litigation Security before proceeding with the trial.",
+  "exampleTranslation": "原告は海外在住であったため、裁判所は審理を進める前に、相当額の訴訟費用担保供託を行うよう命じた。",
   "vocabularyList": [
     {
-      "word": "defamation suit",
-      "translation": "名誉毀損訴訟 (めいよきそんそしょう)"
+      "word": "litigation expenses",
+      "translation": "訴訟費用"
     },
     {
-      "word": "unlawful act",
-      "translation": "不法行為 (ふほうこうい)"
+      "word": "furnish",
+      "translation": "提供する"
     },
     {
-      "word": "non-pecuniary harm",
-      "translation": "非財産的損害 (ひざいさんてきそんがい)"
+      "word": "Code of Civil Procedure",
+      "translation": "民事訴訟法"
     },
     {
-      "word": "emotional distress",
-      "translation": "精神的苦痛 (せいしんてきくつう)"
+      "word": "resided abroad",
+      "translation": "海外在住であった"
     },
     {
-      "word": "reputational damage",
-      "translation": "名誉毀損 (めいよきそん)"
+      "word": "move the court",
+      "translation": "裁判所に申し立てる"
     },
     {
-      "word": "substantial sum",
-      "translation": "相当額 (そうとうがく)"
+      "word": "defendant",
+      "translation": "被告"
     }
   ]
 }

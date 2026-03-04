@@ -20562,5 +20562,119 @@
         "translation": "却下した"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order to Provide Information on Bank Balances",
+    "definition": "A court-issued decree directing a financial institution to disclose information regarding an obligor's deposit accounts, including the branch name and current balance, to facilitate the satisfaction of a monetary judgment.",
+    "japaneseDefinition": "債務者の預貯金口座に関する情報（支店名、残高など）を、裁判所が金融機関に対して開示するよう命じる手続。債権の回収を確実にするための制度。",
+    "japaneseWordTranslation": "預貯金情報の提供命令 (よちょきんじょうほうのていきょうめいれい)",
+    "legalContext": "Civil Execution Act Art. 207: The court of execution, upon petition by an obligee holding an execution title for a monetary claim, may order a financial institution to provide information regarding the obligor's deposits.",
+    "japaneseLegalContext": "民事執行法第207条：執行裁判所は、金銭債権につき執行名義を有する債権者の申立てにより、金融機関等に対し、債務者の預貯金等に関する情報の提供を命ずることができる。",
+    "exampleSentence": "The judgment creditor filed a petition for an order to provide information on bank balances after the asset disclosure procedure failed to locate sufficient funds.",
+    "exampleTranslation": "財産開示手続で十分な資産が見つからなかったため、判決債権者は預貯金情報の提供命令を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Financial Entity",
+        "translation": "金融機関等"
+      },
+      {
+        "word": "Account Balance",
+        "translation": "口座残高"
+      },
+      {
+        "word": "Monetary Judgment",
+        "translation": "金銭判決"
+      },
+      {
+        "word": "Petition for Disclosure",
+        "translation": "開示の申立て"
+      },
+      {
+        "word": "Branch Office",
+        "translation": "支店"
+      },
+      {
+        "word": "Execution Title",
+        "translation": "執行名義"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Disclosure Order for Employment Site Details",
+    "definition": "A judicial order requiring a municipality or a pension-related agency to provide information regarding the obligor's workplace (employer), specifically used for collecting child support or other maintenance-related claims.",
+    "japaneseDefinition": "市町村や日本年金機構等に対し、債務者の勤務先（給与の支払者）に関する情報の開示を命じる手続。主に養育費等の請求権を確保するために利用される。",
+    "japaneseWordTranslation": "勤務先情報の提供命令 (きんむさきじょうほうのていきょうめいれい)",
+    "legalContext": "Civil Execution Act Art. 206: The court may order a municipality or a government agency to provide information concerning the name and address of the obligor's employer if the claim pertains to child support or compensation for personal injury.",
+    "japaneseLegalContext": "民事執行法第206条：執行裁判所は、養育費等の請求権や生命・身体の侵害による損害賠償請求権につき、市町村等に対し、債務者の勤務先に関する情報の提供を命ずることができる。",
+    "exampleSentence": "The disclosure order for employment site details allowed the applicant to garnish the salary of the parent who had fallen behind on child support payments.",
+    "exampleTranslation": "勤務先情報の提供命令により、申立人は養育費の支払を怠っている親の給与を差し押さえることができた。",
+    "vocabularyList": [
+      {
+        "word": "Employer Information",
+        "translation": "勤務先情報"
+      },
+      {
+        "word": "Municipality",
+        "translation": "市町村"
+      },
+      {
+        "word": "Child Support",
+        "translation": "養育費"
+      },
+      {
+        "word": "Payment Delinquency",
+        "translation": "支払の遅滞"
+      },
+      {
+        "word": "Personal Injury",
+        "translation": "生命・身体の侵害"
+      },
+      {
+        "word": "Judicial Order",
+        "translation": "裁判所の命令"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Direct Enforcement of Child Custody Transfer",
+    "definition": "The literal implementation of a judgment for the handover of a minor by an execution officer, conducted in the presence of the minor and the person seeking custody, under strict requirements to protect the minor's welfare.",
+    "japaneseDefinition": "子の引渡しを命じる判決を、執行官が直接実施する手続。子の心身の安全に配慮しつつ、子のいる場所で実施される。",
+    "japaneseWordTranslation": "子の引渡しの直接強制 (このひきわたしのちょくせつきょうせい)",
+    "legalContext": "Civil Execution Act Art. 174-2: Compulsory execution for the handover of a child may be carried out by an execution officer taking the child from the person who currently holds the child.",
+    "japaneseLegalContext": "民事執行法第174条の2：子の引渡しの強制執行は、執行官が子を占有者から取り上げて債権者に引き渡す方法により行うことができる。",
+    "exampleSentence": "The court approved the direct enforcement of child custody transfer as the non-custodial parent repeatedly ignored the previous indirect compulsion orders.",
+    "exampleTranslation": "非監護親が再三にわたる間接強制命令を無視したため、裁判所は子の引渡しの直接強制を承認した。",
+    "vocabularyList": [
+      {
+        "word": "Custodial Parent",
+        "translation": "監護親"
+      },
+      {
+        "word": "Handover Procedure",
+        "translation": "引渡手続"
+      },
+      {
+        "word": "Minor's Welfare",
+        "translation": "子の福祉"
+      },
+      {
+        "word": "Execution Officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "Direct Compulsion",
+        "translation": "直接強制"
+      },
+      {
+        "word": "Compulsory Transfer",
+        "translation": "強制的移転"
+      }
+    ]
   }
 ]

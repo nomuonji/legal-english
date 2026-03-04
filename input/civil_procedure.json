@@ -21924,5 +21924,119 @@
         "translation": "事件を解決する"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Specific Denial",
+    "definition": "A responsive pleading in which the defendant not only denies the plaintiff's allegations but also provides specific facts that contradict the grounds of the claim, rather than a mere blanket denial.",
+    "japaneseDefinition": "被告が原告の主張する事実を単に否定するだけでなく、その否定の根拠となる具体的な事実を提示して争うこと。",
+    "japaneseWordTranslation": "具体的否認 (ぐたいてきひにん)",
+    "legalContext": "Rules of Civil Procedure, Article 53: ...In a statement of defense, specific denials of the allegations in the complaint and specific facts supporting such denials shall be stated.",
+    "japaneseLegalContext": "民事訴訟規則第53条：答弁書には、訴状に記載された事実に対する具体的な否認及びこれに代わる事実を記載しなければならない。",
+    "exampleSentence": "The court required the defendant to file a supplemental brief providing a specific denial regarding the timing of the contract's alleged breach.",
+    "exampleTranslation": "裁判所は被告に対し、主張された契約違反の時期に関する具体的否認を記載した補充書面を提出するよう命じた。",
+    "vocabularyList": [
+      {
+        "word": "Allegation",
+        "translation": "主張"
+      },
+      {
+        "word": "Blanket denial",
+        "translation": "括弧たる否認（一括否認）"
+      },
+      {
+        "word": "Contradict",
+        "translation": "反論する"
+      },
+      {
+        "word": "Statement of defense",
+        "translation": "答弁書"
+      },
+      {
+        "word": "Breach",
+        "translation": "違反"
+      },
+      {
+        "word": "Pleading",
+        "translation": "弁論／主張"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statement of Ignorance",
+    "definition": "A declaration by a party that they have no knowledge regarding a fact alleged by the opponent, which the law generally treats as a denial of that fact.",
+    "japaneseDefinition": "相手方が主張した事実について、自分がそれを知らない（不知である）旨を述べる陳述。民事訴訟法上、原則として否認したものとみなされる。",
+    "japaneseWordTranslation": "不見当の陳述 (ふけんとうのちんじゅつ)",
+    "legalContext": "Code of Civil Procedure, Article 159, Paragraph 2: A statement of ignorance concerning a fact shall be deemed to be a denial of such fact.",
+    "japaneseLegalContext": "民事訴訟法第159条第2項：事実を知らない旨の陳述は、その事実を否認したものとみなす。",
+    "exampleSentence": "Because the defendant had no direct involvement in the logistics, they entered a statement of ignorance regarding the delivery dates.",
+    "exampleTranslation": "被告は物流に直接関与していなかったため、配送日に関しては不見当の陳述を行った。",
+    "vocabularyList": [
+      {
+        "word": "Deemed",
+        "translation": "〜とみなされる"
+      },
+      {
+        "word": "Ignorance",
+        "translation": "不知／知らないこと"
+      },
+      {
+        "word": "Opponent",
+        "translation": "相手方"
+      },
+      {
+        "word": "Logistics",
+        "translation": "物流"
+      },
+      {
+        "word": "Direct involvement",
+        "translation": "直接の関与"
+      },
+      {
+        "word": "Treat as",
+        "translation": "〜として扱う"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Correction of the Relief Sought",
+    "definition": "A procedural amendment made by the plaintiff to fix clerical errors or clarify the specific contents of the judgment they are seeking from the court.",
+    "japaneseDefinition": "原告が、裁判所に求める判決内容（請求の趣旨）に含まれる誤記を正したり、内容をより明確にしたりするために行う手続上の更正。",
+    "japaneseWordTranslation": "請求の趣旨の訂正 (せいきゅうのしゅしのていせい)",
+    "legalContext": "Code of Civil Procedure, Article 143: ...A plaintiff may change the claim or the relief sought to the extent that there is no change in the basis of the claim; provided, however, that this shall not apply where it would substantially delay the proceedings.",
+    "japaneseLegalContext": "民事訴訟法第143条：原告は、請求の基礎に変更がない限り、口頭弁論の終結に至るまで、請求又は請求の趣旨を変更することができる。ただし、訴訟手続を著しく遅滞させることとなるときは、この限りでない。",
+    "exampleSentence": "The plaintiff submitted a motion for the correction of the relief sought to accurately reflect the interest calculation period.",
+    "exampleTranslation": "原告は、利息の計算期間を正確に反映させるため、請求の趣旨の訂正を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Relief sought",
+        "translation": "請求の趣旨"
+      },
+      {
+        "word": "Clerical error",
+        "translation": "誤記"
+      },
+      {
+        "word": "Amendment",
+        "translation": "修正／改正"
+      },
+      {
+        "word": "Motion",
+        "translation": "申立て"
+      },
+      {
+        "word": "To reflect",
+        "translation": "反映する"
+      },
+      {
+        "word": "Calculation period",
+        "translation": "計算期間"
+      }
+    ]
   }
 ]

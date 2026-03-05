@@ -1,38 +1,38 @@
 {
-  "category": "Deposit Act (供託法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Deposit for Litigation Security",
-  "definition": "A deposit required by a court, typically under the Code of Civil Procedure, to ensure the payment of potential litigation expenses that one party (usually the defendant) may incur if the demanding party (usually the plaintiff) loses the case.",
-  "japaneseDefinition": "裁判所により、訴訟費用に充てるための担保として命じられる供託。原告が敗訴した場合などに備えて、被告が負担する可能性のある費用を担保するために要求される。",
-  "japaneseWordTranslation": "訴訟費用担保供託 (そしょうひようたんぽきょうたく)",
-  "legalContext": "Code of Civil Procedure Art. 75 sets forth the requirements under which a defendant may move the court to order the plaintiff to furnish Deposit for Litigation Security.",
-  "japaneseLegalContext": "民事訴訟法第75条は、被告が原告に対し訴訟費用担保供託を命じるよう裁判所に申し立てることができる要件を規定している。",
-  "exampleSentence": "Because the plaintiff resided abroad, the court ordered him to furnish a substantial Deposit for Litigation Security before proceeding with the trial.",
-  "exampleTranslation": "原告は海外在住であったため、裁判所は審理を進める前に、相当額の訴訟費用担保供託を行うよう命じた。",
+  "word": "Security for Litigation Costs",
+  "definition": "A procedural requirement where the court orders a plaintiff, usually one who lacks a domicile or sufficient assets in Japan, to deposit money to guarantee the payment of the defendant's litigation expenses should the plaintiff lose the suit.",
+  "japaneseDefinition": "裁判所が、日本に住所又は十分な財産を有しない原告に対し、敗訴した場合に備えて被告の将来の訴訟費用の支払いを担保するために、金銭の供託を命じる手続き。",
+  "japaneseWordTranslation": "訴訟費用担保 (そしょう ひよう たんぽ)",
+  "legalContext": "Code of Civil Procedure Art. 404: Obligation to Furnish Security for Litigation Costs. This mechanism safeguards the defendant's right to reimbursement for expenses.",
+  "japaneseLegalContext": "民事訴訟法第404条：訴訟費用の担保提供義務。この仕組みは、被告の費用償還請求権を保護する。",
+  "exampleSentence": "Since the foreign plaintiff failed to furnish the ordered security for litigation costs within the deadline, the court dismissed the action.",
+  "exampleTranslation": "外国人原告は、期限内に命じられた訴訟費用担保を提供しなかったため、裁判所はその訴えを却下した。",
   "vocabularyList": [
     {
-      "word": "litigation expenses",
-      "translation": "訴訟費用"
+      "word": "plaintiff",
+      "translation": "原告"
+    },
+    {
+      "word": "domicile",
+      "translation": "住所"
+    },
+    {
+      "word": "deposit money",
+      "translation": "金銭を供託する"
     },
     {
       "word": "furnish",
       "translation": "提供する"
     },
     {
-      "word": "Code of Civil Procedure",
-      "translation": "民事訴訟法"
+      "word": "dismissed the action",
+      "translation": "訴えを却下した"
     },
     {
-      "word": "resided abroad",
-      "translation": "海外在住であった"
-    },
-    {
-      "word": "move the court",
-      "translation": "裁判所に申し立てる"
-    },
-    {
-      "word": "defendant",
-      "translation": "被告"
+      "word": "reimbursement",
+      "translation": "償還"
     }
   ]
 }

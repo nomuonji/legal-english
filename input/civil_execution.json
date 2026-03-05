@@ -2,48 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Withdrawal of Bidding",
-    "definition": "The act of a prospective purchaser in a real property auction cancelling or retracting their bid before the specified bidding period expires or before the opening of the bids and subsequent determination of the successful bidder.",
-    "japaneseDefinition": "不動産競売手続において、入札者が自己の提出した入札を、定められた入札期間満了前または開札・最高価買受人の決定前に行う撤回行為。",
-    "japaneseWordTranslation": "入札の撤回 (にゅうさつのてっかい)",
-    "legalContext": "Civil Execution Act Art. 67, which restricts the withdrawal of bidding after the bidding period has elapsed.",
-    "japaneseLegalContext": "民事執行法第67条。入札期間の満了後の入札の撤回を制限する規定。",
-    "exampleSentence": "Once the bidding term has closed, the bidder is generally prohibited from exercising the Withdrawal of Bidding, even if they discover new information about the property.",
-    "exampleTranslation": "入札期間が終了した後、たとえその物件について新たな情報を発見したとしても、入札者は原則として入札の撤回を行うことは禁止されている。",
-    "vocabularyList": [
-      {
-        "word": "bidder",
-        "translation": "入札者"
-      },
-      {
-        "word": "auction",
-        "translation": "競売 (けいばい)"
-      },
-      {
-        "word": "bidding period",
-        "translation": "入札期間"
-      },
-      {
-        "word": "prospective purchaser",
-        "translation": "買受希望者 (かいうけきぼうしゃ)"
-      },
-      {
-        "word": "prohibited",
-        "translation": "禁止されている"
-      },
-      {
-        "word": "closed",
-        "translation": "終了した"
-      },
-      {
-        "word": "highest bid",
-        "translation": "最高価 (さいこうか)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Sale by Private Contract",
     "definition": "A disposition method utilized primarily for movable property or claims, where the execution officer sells the seized asset directly to a third party at a pre-agreed price, rather than conducting a formal auction or tender process.",
     "japaneseDefinition": "執行官が、競売または入札以外の方法によって、差押財産（主として動産）を第三者との個別の契約により売却する執行方法。",
@@ -20890,6 +20848,108 @@
       {
         "word": "Manner",
         "translation": "方法・様式"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for the Delivery of the Keys",
+    "definition": "A specific judicial instruction issued during the execution of a real property surrender, requiring the occupant to hand over the keys to the court execution officer to facilitate the transfer of possession.",
+    "japaneseDefinition": "不動産の引渡し執行において、占有者に対し、執行官が占有を移転しやすくするために建物の鍵を交付するよう命じる決定。",
+    "japaneseWordTranslation": "鍵の交付命令 (かぎのこうふめいれい)",
+    "legalContext": "Civil Execution Act Art. 168: To facilitate the surrender of real property, the court may order the occupant to deliver the keys to the execution officer.",
+    "japaneseLegalContext": "民事執行法第168条：不動産の引渡し又は明渡しを命ずる裁判の執行において、執行官は占有者に対し、鍵の交付を求めることができる。",
+    "exampleSentence": "The court issued an order for the delivery of the keys after the occupant refused to vacate the premises voluntarily.",
+    "exampleTranslation": "占有者が自発的な立ち退きを拒否したため、裁判所は鍵の交付命令を出した。",
+    "vocabularyList": [
+      {
+        "word": "Keys",
+        "translation": "鍵 (かぎ)"
+      },
+      {
+        "word": "Occupant",
+        "translation": "占有者 (せんゆうしゃ)"
+      },
+      {
+        "word": "Vacate",
+        "translation": "立ち退く (たちのく)"
+      },
+      {
+        "word": "Premises",
+        "translation": "敷地・建物 (しきち・たてもの)"
+      },
+      {
+        "word": "Voluntarily",
+        "translation": "自発的に (じはつてきに)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Notice to Known Claimants",
+    "definition": "A notification sent by the execution court to all individuals known to have a recorded interest or claim against the property being executed, ensuring they have an opportunity to participate in the distribution.",
+    "japaneseDefinition": "執行裁判所が、執行対象の物件に対して登記された権利や請求権を持っていることが判明している者に対し、配当手続への参加機会を確保するために送付する通知。",
+    "japaneseWordTranslation": "知れている債権者への通知 (しれているさいけんしゃへのつうち)",
+    "legalContext": "Civil Execution Act Art. 49: The execution court shall notify known claimants of the commencement of the auction procedure.",
+    "japaneseLegalContext": "民事執行法第49条：執行裁判所は、知れている債権者に対し、競売手続の開始を通知しなければならない。",
+    "exampleSentence": "A notice to known claimants was dispatched to ensure all protected interests were addressed before the distribution of funds.",
+    "exampleTranslation": "配当が行われる前に、すべての保護された権利が処理されるよう、知れている債権者への通知が発送された。",
+    "vocabularyList": [
+      {
+        "word": "Claimants",
+        "translation": "債権者・請求権者 (さいけんしゃ)"
+      },
+      {
+        "word": "Dispatched",
+        "translation": "発送された (はっそうされた)"
+      },
+      {
+        "word": "Addressed",
+        "translation": "対処された (たいしょされた)"
+      },
+      {
+        "word": "Distribution of funds",
+        "translation": "資金の配当 (しきんのはいとう)"
+      },
+      {
+        "word": "Known",
+        "translation": "知れている・判明している (しれている)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Protocol for the Safekeeping of Seized Assets",
+    "definition": "The formal set of rules and instructions governing how an execution officer or a substitute custodian must store and protect property that has been officially seized during the execution process.",
+    "japaneseDefinition": "執行官や保管人が、執行手続中に正式に差し押さえられた財産をどのように保管し保護すべきかを定めた一連の規則や指示。",
+    "japaneseWordTranslation": "差押物の保存の指示 (さしおさえもののほぞんのしじ)",
+    "legalContext": "Civil Execution Act Art. 127: The execution officer may issue specific instructions or establish a protocol for the safekeeping of assets to prevent their deterioration.",
+    "japaneseLegalContext": "民事執行法第127条：執行官は、差押物の滅失又は損傷を防止するため、その保存について必要な措置を講じ、又は指示を与えることができる。",
+    "exampleSentence": "The officer established a strict protocol for the safekeeping of seized assets to maintain their market value until the sale date.",
+    "exampleTranslation": "執行官は、売却期日まで市場価値を維持するため、差押資産の保管に関する厳格なプロトコルを定めた。",
+    "vocabularyList": [
+      {
+        "word": "Protocol",
+        "translation": "規定・手順 (きてい・てじゅん)"
+      },
+      {
+        "word": "Safekeeping",
+        "translation": "保管 (ほかん)"
+      },
+      {
+        "word": "Deterioration",
+        "translation": "劣化・悪化 (れっか)"
+      },
+      {
+        "word": "Maintain",
+        "translation": "維持する (いじする)"
+      },
+      {
+        "word": "Market value",
+        "translation": "市場価値 (しじょうかち)"
       }
     ]
   }

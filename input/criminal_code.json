@@ -21082,5 +21082,119 @@
         "translation": "基礎となる層"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Dolus Malus",
+    "definition": "A Latin term used in criminal law to describe 'wrongful intent' or 'evil intent,' where the perpetrator has the knowledge and will to perform an act that is prohibited by law.",
+    "japaneseDefinition": "犯罪を行う意思、すなわち自分の行為が違法であることを知りながら、あえてそれを行う主観的な意図を指す。",
+    "japaneseWordTranslation": "犯意 (はんい)",
+    "legalContext": "Penal Code Art. 38, Para. 1: 'An act committed without the intent to commit a crime is not punishable; provided, however, that the same shall not apply where otherwise provided by law.'",
+    "japaneseLegalContext": "刑法第38条1項：「罪を犯す意思がない行為は、罰しない。ただし、法律に特別の規定がある場合は、この限りでない。」",
+    "exampleSentence": "The prosecution must prove the existence of dolus malus to secure a conviction for intentional homicide.",
+    "exampleTranslation": "殺人罪の有罪判決を得るためには、検察側は犯意（Dolus malus）の存在を証明しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "prosecution",
+        "translation": "検察"
+      },
+      {
+        "word": "conviction",
+        "translation": "有罪判決"
+      },
+      {
+        "word": "intentional homicide",
+        "translation": "殺人"
+      },
+      {
+        "word": "subjective intent",
+        "translation": "主観的な意図"
+      },
+      {
+        "word": "punishable",
+        "translation": "罰すべき"
+      },
+      {
+        "word": "criminal act",
+        "translation": "犯罪行為"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Error in Persona",
+    "definition": "A mistake concerning the identity of the person against whom a crime is committed; for example, if A intends to kill B but kills C, mistakenly believing C to be B.",
+    "japaneseDefinition": "行為者が目的とした客体と、実際に侵害された客体が別人であった場合など、客体の同一性に関する錯誤を指す。",
+    "japaneseWordTranslation": "人違いの錯誤 (ひとちがいのさくご)",
+    "legalContext": "General Principle of Criminal Law: A mistake of identity (error in persona) is generally considered immaterial if the intent was to harm a human being and a human being was indeed harmed.",
+    "japaneseLegalContext": "刑法の一般原則：人違いの錯誤（客体の錯誤）は、通常、故意の成立を妨げない（法定的符合説）。",
+    "exampleSentence": "In the case of an error in persona, the perpetrator's intent is still legally recognized as sufficient to establish the crime of homicide.",
+    "exampleTranslation": "人違いの錯誤（人違いの目的による殺人）の場合でも、行為者の故意は法律上、殺人罪を成立させるのに十分であると認められる。",
+    "vocabularyList": [
+      {
+        "word": "identity",
+        "translation": "同一性"
+      },
+      {
+        "word": "mistake",
+        "translation": "錯誤"
+      },
+      {
+        "word": "immaterial",
+        "translation": "重要でない、問題にならない"
+      },
+      {
+        "word": "perpetrator",
+        "translation": "加害者"
+      },
+      {
+        "word": "harm",
+        "translation": "危害"
+      },
+      {
+        "word": "legal recognition",
+        "translation": "法的承認"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Doctrine of Responsibility",
+    "definition": "The legal principle stating that 'there is no punishment without culpability,' meaning a person cannot be held criminally liable unless they had the capacity to understand the nature of their actions and control them.",
+    "japaneseDefinition": "「責任なければ刑罰なし」という原則であり、自己の行為の是非を弁別し、それに従って行動する能力がない者には刑事責任を問えないとする考え方。",
+    "japaneseWordTranslation": "責任主義 (せきにんしゅぎ)",
+    "legalContext": "Penal Code Art. 39: 'An act of a person who is unable to discern right from wrong or to act according to such discernment because of a mental disability is not punishable.'",
+    "japaneseLegalContext": "刑法第39条：「心神喪失者の行為は、罰しない。」",
+    "exampleSentence": "The doctrine of responsibility ensures that individuals who lack criminal capacity due to a severe mental disorder are not subjected to traditional criminal penalties.",
+    "exampleTranslation": "責任主義に基づき、重度の精神障害のために責任能力を欠く個人は、通常の刑罰を科されることはない。",
+    "vocabularyList": [
+      {
+        "word": "culpability",
+        "translation": "有責性"
+      },
+      {
+        "word": "criminally liable",
+        "translation": "刑事責任を負う"
+      },
+      {
+        "word": "discernment",
+        "translation": "弁別能力"
+      },
+      {
+        "word": "mental disability",
+        "translation": "精神障害"
+      },
+      {
+        "word": "criminal capacity",
+        "translation": "責任能力"
+      },
+      {
+        "word": "legal principle",
+        "translation": "法的原則"
+      }
+    ]
   }
 ]

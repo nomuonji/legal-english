@@ -1,42 +1,42 @@
 {
-  "category": "Companies Act (会社法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Consolidated Financial Statements",
-  "definition": "Financial reports prepared by a parent company that combine the assets, liabilities, income, and expenses of all subsidiary companies within the corporate group, required primarily for large public companies.",
-  "japaneseDefinition": "親会社が企業集団全体（親会社及び子会社）の財政状態及び経営成績を一体のものとして表示するために作成する財務報告書。",
-  "japaneseWordTranslation": "連結計算書類 (れんけつけいさんしょるい)",
-  "legalContext": "Companies Act Art. 444 (Preparation of Consolidated Financial Statements), setting the framework for their preparation and submission to the shareholders meeting.",
-  "japaneseLegalContext": "会社法 第444条 (連結計算書類の作成) にて、作成義務及び株主総会への提出に関する枠組みを定める。",
-  "exampleSentence": "Companies listed on the stock exchange are obligated to prepare and submit Consolidated Financial Statements at the conclusion of each fiscal year.",
-  "exampleTranslation": "証券取引所に上場している会社は、毎事業年度末に連結計算書類を作成し、提出する義務がある。",
+  "word": "Withdrawal of Bidding",
+  "definition": "The act of a prospective purchaser in a real property auction cancelling or retracting their bid before the specified bidding period expires or before the opening of the bids and subsequent determination of the successful bidder.",
+  "japaneseDefinition": "不動産競売手続において、入札者が自己の提出した入札を、定められた入札期間満了前または開札・最高価買受人の決定前に行う撤回行為。",
+  "japaneseWordTranslation": "入札の撤回 (にゅうさつのてっかい)",
+  "legalContext": "Civil Execution Act Art. 67, which restricts the withdrawal of bidding after the bidding period has elapsed.",
+  "japaneseLegalContext": "民事執行法第67条。入札期間の満了後の入札の撤回を制限する規定。",
+  "exampleSentence": "Once the bidding term has closed, the bidder is generally prohibited from exercising the Withdrawal of Bidding, even if they discover new information about the property.",
+  "exampleTranslation": "入札期間が終了した後、たとえその物件について新たな情報を発見したとしても、入札者は原則として入札の撤回を行うことは禁止されている。",
   "vocabularyList": [
     {
-      "word": "listed company",
-      "translation": "上場会社"
+      "word": "bidder",
+      "translation": "入札者"
     },
     {
-      "word": "parent company",
-      "translation": "親会社"
+      "word": "auction",
+      "translation": "競売 (けいばい)"
     },
     {
-      "word": "subsidiary company",
-      "translation": "子会社"
+      "word": "bidding period",
+      "translation": "入札期間"
     },
     {
-      "word": "corporate group",
-      "translation": "企業集団"
+      "word": "prospective purchaser",
+      "translation": "買受希望者 (かいうけきぼうしゃ)"
     },
     {
-      "word": "fiscal year",
-      "translation": "事業年度"
+      "word": "prohibited",
+      "translation": "禁止されている"
     },
     {
-      "word": "assets and liabilities",
-      "translation": "資産及び負債"
+      "word": "closed",
+      "translation": "終了した"
     },
     {
-      "word": "submission",
-      "translation": "提出"
+      "word": "highest bid",
+      "translation": "最高価 (さいこうか)"
     }
   ]
 }

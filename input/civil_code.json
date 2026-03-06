@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Adverse Possession",
-    "definition": "The acquisition of ownership or other proprietary rights over property by continuously and peacefully holding possession of it for a prescribed period, with the intention of owning it (animus domini).",
-    "japaneseDefinition": "他人の物を自己の所有物として占有を継続し、一定期間が経過することにより、その物の所有権等の物権を取得すること。",
-    "japaneseWordTranslation": "取得時効 (しゅとくじこう)",
-    "legalContext": "Civil Code Art. 162: “A person who has possessed another's property peacefully and openly for twenty years with the intention of ownership shall acquire the ownership thereof.”",
-    "japaneseLegalContext": "民法第162条: 「二十年間、所有の意思をもって、平穏に、かつ、公然と他人の物を占有した者は、その所有権を取得する。」",
-    "exampleSentence": "The claimant established ownership of the land through adverse possession, having met the statutory requirements for the 10-year period based on good faith acquisition.",
-    "exampleTranslation": "請求者は、善意取得に基づく10年間の時効の法定要件を満たしたため、取得時効によってその土地の所有権を確定させた。",
-    "vocabularyList": [
-      {
-        "word": "proprietary rights",
-        "translation": "物権 (ぶっけん)"
-      },
-      {
-        "word": "animus domini",
-        "translation": "所有の意思 (しょゆうのいし)"
-      },
-      {
-        "word": "peaceful possession",
-        "translation": "平穏な占有 (へいおんなせんゆう)"
-      },
-      {
-        "word": "statutory requirements",
-        "translation": "法定要件 (ほうていようけん)"
-      },
-      {
-        "word": "claimant",
-        "translation": "請求者 (せいきゅうしゃ)"
-      },
-      {
-        "word": "good faith acquisition",
-        "translation": "善意取得 (ぜんいしゅとく)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Liquidated Damages / Penalty",
     "definition": "A monetary sum stipulated in a contract to be paid by one party to the other in the event of a breach of contract. Unless proven otherwise, the stipulated amount is presumed to be the compensation for damages.",
     "japaneseDefinition": "契約の不履行があった場合に、債務者が債権者に支払うことを契約で定めた金銭。別段の定めのない限り、賠償額の予定と推定される。",
@@ -25080,6 +25042,108 @@
       {
         "word": "Mandated business",
         "translation": "委任事務"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Contribution",
+    "definition": "A monetary claim that a person, other than a successor, who has provided labor or care to the deceased person without compensation may make against the successors.",
+    "japaneseDefinition": "相続人ではない親族が、被相続人の療養看護などを無償で行った場合に、相続人に対して金銭の支払いを請求できる権利。",
+    "japaneseWordTranslation": "特別の寄与 (とくべつのきよ)",
+    "legalContext": "Civil Code Art. 1050: A relative of the decedent... who has provided labor or care for the decedent without compensation... may demand the payment of a sum of money from the successors.",
+    "japaneseLegalContext": "民法1050条：被相続人の親族（相続人、相続を放棄した者を除く）が、被相続人に対して無償で療養看護その他の労務の提供をしたことにより被相続人の財産の維持又は増加について特別の寄与をしたときは、相続人に対し、寄与に応じた額の金銭の支払を請求することができる。",
+    "exampleSentence": "The cousin of the deceased person filed a claim for a special contribution because she provided nursing care for five years.",
+    "exampleTranslation": "故人のいとこは5年間にわたり介護を行っていたため、特別の寄与を理由に金銭の支払いを請求した。",
+    "vocabularyList": [
+      {
+        "word": "Relative",
+        "translation": "親族"
+      },
+      {
+        "word": "Care",
+        "translation": "看護"
+      },
+      {
+        "word": "Sum",
+        "translation": "金額"
+      },
+      {
+        "word": "Claimant",
+        "translation": "請求者"
+      },
+      {
+        "word": "Labor",
+        "translation": "労務"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Unincorporated Group",
+    "definition": "An organized group of people that functions as a single entity and has a representative, but has not been registered as a juridical person.",
+    "japaneseDefinition": "団体としての実体があり、代表者も定められているが、法人格を取得するための登記をしていない団体。",
+    "japaneseWordTranslation": "権利能力なき社団 (けんりのうりょくなきしゃだん)",
+    "legalContext": "Though the Civil Code generally requires registration for legal personality, judicial precedents recognize certain rights for an unincorporated group.",
+    "japaneseLegalContext": "判例上、登記を行っておらず法人格を持たない団体であっても、一定の要件を満たす場合には団体としての実体が認められ、資産の総有などが認められる。",
+    "exampleSentence": "The residents' association was treated as an unincorporated group in the dispute regarding the bank account.",
+    "exampleTranslation": "その自治会は、銀行口座に関する紛争において権利能力なき社団として扱われた。",
+    "vocabularyList": [
+      {
+        "word": "Entity",
+        "translation": "主体"
+      },
+      {
+        "word": "Organized",
+        "translation": "組織された"
+      },
+      {
+        "word": "Representative",
+        "translation": "代表者"
+      },
+      {
+        "word": "Precedent",
+        "translation": "判例"
+      },
+      {
+        "word": "Asset",
+        "translation": "資産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Innocent Beneficiary",
+    "definition": "A person who has received a gain from the property or labor of another person without legal grounds, and who was unaware of the lack of such grounds.",
+    "japaneseDefinition": "法律上の原因なく他人の財産や労務によって利益を受けた者のうち、その利益を受ける正当な理由がないことを知らない者。",
+    "japaneseWordTranslation": "善意の受益者 (ぜんいのじゅえきしゃ)",
+    "legalContext": "Civil Code Art. 703: A person who has benefited... without legal grounds and was unaware of the lack of grounds shall be obligated to return the gain to the extent it still exists.",
+    "japaneseLegalContext": "民法703条：法律上の原因なく他人の財産又は労務によって利益を受け、そのために他人に損失を及ぼした者は、その利益の存する限度において、これを返還する義務を負う（善意の受益者）。",
+    "exampleSentence": "The court ruled that an innocent beneficiary is only required to return the gain that remains at the time of the demand.",
+    "exampleTranslation": "裁判所は、善意の受益者は請求時点で現存している利益のみを返還すればよいと判示した。",
+    "vocabularyList": [
+      {
+        "word": "Gain",
+        "translation": "利得"
+      },
+      {
+        "word": "Unaware",
+        "translation": "不知"
+      },
+      {
+        "word": "Extent",
+        "translation": "限度"
+      },
+      {
+        "word": "Range",
+        "translation": "範囲"
+      },
+      {
+        "word": "Obligation",
+        "translation": "責務"
       }
     ]
   }

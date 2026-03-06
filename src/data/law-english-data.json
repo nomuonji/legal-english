@@ -1,42 +1,38 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Withdrawal of Bidding",
-  "definition": "The act of a prospective purchaser in a real property auction cancelling or retracting their bid before the specified bidding period expires or before the opening of the bids and subsequent determination of the successful bidder.",
-  "japaneseDefinition": "不動産競売手続において、入札者が自己の提出した入札を、定められた入札期間満了前または開札・最高価買受人の決定前に行う撤回行為。",
-  "japaneseWordTranslation": "入札の撤回 (にゅうさつのてっかい)",
-  "legalContext": "Civil Execution Act Art. 67, which restricts the withdrawal of bidding after the bidding period has elapsed.",
-  "japaneseLegalContext": "民事執行法第67条。入札期間の満了後の入札の撤回を制限する規定。",
-  "exampleSentence": "Once the bidding term has closed, the bidder is generally prohibited from exercising the Withdrawal of Bidding, even if they discover new information about the property.",
-  "exampleTranslation": "入札期間が終了した後、たとえその物件について新たな情報を発見したとしても、入札者は原則として入札の撤回を行うことは禁止されている。",
+  "word": "Adverse Possession",
+  "definition": "The acquisition of ownership or other proprietary rights over property by continuously and peacefully holding possession of it for a prescribed period, with the intention of owning it (animus domini).",
+  "japaneseDefinition": "他人の物を自己の所有物として占有を継続し、一定期間が経過することにより、その物の所有権等の物権を取得すること。",
+  "japaneseWordTranslation": "取得時効 (しゅとくじこう)",
+  "legalContext": "Civil Code Art. 162: “A person who has possessed another's property peacefully and openly for twenty years with the intention of ownership shall acquire the ownership thereof.”",
+  "japaneseLegalContext": "民法第162条: 「二十年間、所有の意思をもって、平穏に、かつ、公然と他人の物を占有した者は、その所有権を取得する。」",
+  "exampleSentence": "The claimant established ownership of the land through adverse possession, having met the statutory requirements for the 10-year period based on good faith acquisition.",
+  "exampleTranslation": "請求者は、善意取得に基づく10年間の時効の法定要件を満たしたため、取得時効によってその土地の所有権を確定させた。",
   "vocabularyList": [
     {
-      "word": "bidder",
-      "translation": "入札者"
+      "word": "proprietary rights",
+      "translation": "物権 (ぶっけん)"
     },
     {
-      "word": "auction",
-      "translation": "競売 (けいばい)"
+      "word": "animus domini",
+      "translation": "所有の意思 (しょゆうのいし)"
     },
     {
-      "word": "bidding period",
-      "translation": "入札期間"
+      "word": "peaceful possession",
+      "translation": "平穏な占有 (へいおんなせんゆう)"
     },
     {
-      "word": "prospective purchaser",
-      "translation": "買受希望者 (かいうけきぼうしゃ)"
+      "word": "statutory requirements",
+      "translation": "法定要件 (ほうていようけん)"
     },
     {
-      "word": "prohibited",
-      "translation": "禁止されている"
+      "word": "claimant",
+      "translation": "請求者 (せいきゅうしゃ)"
     },
     {
-      "word": "closed",
-      "translation": "終了した"
-    },
-    {
-      "word": "highest bid",
-      "translation": "最高価 (さいこうか)"
+      "word": "good faith acquisition",
+      "translation": "善意取得 (ぜんいしゅとく)"
     }
   ]
 }

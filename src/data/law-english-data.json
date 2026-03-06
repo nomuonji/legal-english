@@ -1,38 +1,42 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Companies Act (会社法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Adverse Possession",
-  "definition": "The acquisition of ownership or other proprietary rights over property by continuously and peacefully holding possession of it for a prescribed period, with the intention of owning it (animus domini).",
-  "japaneseDefinition": "他人の物を自己の所有物として占有を継続し、一定期間が経過することにより、その物の所有権等の物権を取得すること。",
-  "japaneseWordTranslation": "取得時効 (しゅとくじこう)",
-  "legalContext": "Civil Code Art. 162: “A person who has possessed another's property peacefully and openly for twenty years with the intention of ownership shall acquire the ownership thereof.”",
-  "japaneseLegalContext": "民法第162条: 「二十年間、所有の意思をもって、平穏に、かつ、公然と他人の物を占有した者は、その所有権を取得する。」",
-  "exampleSentence": "The claimant established ownership of the land through adverse possession, having met the statutory requirements for the 10-year period based on good faith acquisition.",
-  "exampleTranslation": "請求者は、善意取得に基づく10年間の時効の法定要件を満たしたため、取得時効によってその土地の所有権を確定させた。",
+  "word": "Share Exchange",
+  "definition": "A form of organizational restructuring where a company (the wholly-owning parent) acquires all outstanding shares of another company (the wholly-owned subsidiary) in exchange for newly issued shares of the parent company.",
+  "japaneseDefinition": "ある会社（完全親会社となる会社）が、別の会社（完全子会社となる会社）の全発行済株式を取得し、対価として親会社の株式を交付する組織再編手法。",
+  "japaneseWordTranslation": "株式交換 (かぶしきこうかん)",
+  "legalContext": "Companies Act Art. 767 (Procedures for Share Exchange), which outlines the comprehensive requirements for the agreement and approval.",
+  "japaneseLegalContext": "会社法 第767条 (株式交換の手続) にて、契約および承認の包括的な要件が規定されている。",
+  "exampleSentence": "A share exchange is frequently utilized as a method to convert a target company into a wholly-owned subsidiary under a newly established holding company.",
+  "exampleTranslation": "株式交換は、対象会社を新設された持株会社の完全子会社にする手法として頻繁に利用される。",
   "vocabularyList": [
     {
-      "word": "proprietary rights",
-      "translation": "物権 (ぶっけん)"
+      "word": "holding company",
+      "translation": "持株会社"
     },
     {
-      "word": "animus domini",
-      "translation": "所有の意思 (しょゆうのいし)"
+      "word": "wholly-owned subsidiary",
+      "translation": "完全子会社"
     },
     {
-      "word": "peaceful possession",
-      "translation": "平穏な占有 (へいおんなせんゆう)"
+      "word": "consideration",
+      "translation": "対価"
     },
     {
-      "word": "statutory requirements",
-      "translation": "法定要件 (ほうていようけん)"
+      "word": "acquisition",
+      "translation": "取得"
     },
     {
-      "word": "claimant",
-      "translation": "請求者 (せいきゅうしゃ)"
+      "word": "outstanding shares",
+      "translation": "発行済株式"
     },
     {
-      "word": "good faith acquisition",
-      "translation": "善意取得 (ぜんいしゅとく)"
+      "word": "target company",
+      "translation": "対象会社"
+    },
+    {
+      "word": "agreement",
+      "translation": "契約"
     }
   ]
 }

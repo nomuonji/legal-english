@@ -22228,5 +22228,119 @@
         "translation": "疎明する"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "General Denial",
+    "definition": "A response in a defendant's answer that denies all allegations in a complaint collectively rather than specifically. In Japanese civil procedure, while specific responses are preferred to clarify issues, a general denial may be used to dispute the entirety of the plaintiff's claims.",
+    "japaneseDefinition": "原告の訴状における主張を、個別に認否するのではなく、一括して否認すること。実務上は争点を明確にするために具体的な認否（個別否認）が推奨されるが、請求全体を争う際に用いられる。",
+    "japaneseWordTranslation": "包括的否認 (ほうかつてきひにん)",
+    "legalContext": "Code of Civil Procedure Art. 161 and Rule Art. 79: Preparatory documents must clarify whether allegations are admitted or denied. A general denial may lead to a court finding that the issues have not been sufficiently narrowed.",
+    "japaneseLegalContext": "民事訴訟法第161条、民事訴訟規則第79条：準備書面において相手方の主張する事実を認めるか否かを明らかにしなければならない。包括的否認のみでは、争点が十分に整理されていないと判断される場合がある。",
+    "exampleSentence": "The defendant's answer contained a general denial of all the facts alleged in the complaint, necessitating a detailed issue arrangement procedure.",
+    "exampleTranslation": "被告の答弁書には訴状に記載されたすべての事実に対する包括的否認が含まれていたため、詳細な争点整理手続が必要となった。",
+    "vocabularyList": [
+      {
+        "word": "Allegation",
+        "translation": "主張"
+      },
+      {
+        "word": "Clarify",
+        "translation": "明確にする"
+      },
+      {
+        "word": "Collectively",
+        "translation": "一括して"
+      },
+      {
+        "word": "Narrow the issues",
+        "translation": "争点を絞り込む"
+      },
+      {
+        "word": "Preparatory document",
+        "translation": "準備書面"
+      },
+      {
+        "word": "Dispute",
+        "translation": "争う"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Competence to Testify",
+    "definition": "The legal qualification or capacity of a person to serve as a witness and provide testimony. Under the Code of Civil Procedure, any person is generally deemed to have the competence to be a witness, provided they possess the mental capacity to perceive and communicate facts.",
+    "japaneseDefinition": "証人として証言を行うための法的資格。民事訴訟法上、原則としてすべての人は証人能力を有するとされるが、事実を認識し伝達できる精神的能力が必要とされる。",
+    "japaneseWordTranslation": "証言能力 (しょうげんのうりょく)",
+    "legalContext": "Code of Civil Procedure Art. 190: Except as otherwise provided, the court may examine any person as a witness.",
+    "japaneseLegalContext": "民事訴訟法第190条：別に定めがある場合を除き、裁判所は、何人でも証人として尋問することができる。",
+    "exampleSentence": "The court evaluated the child's competence to testify to ensure that the provided statement was reliable and based on actual perception.",
+    "exampleTranslation": "裁判所は、提供された供述が信頼に足り、実際の認識に基づいていることを確認するため、その子供の証言能力を評価した。",
+    "vocabularyList": [
+      {
+        "word": "Qualification",
+        "translation": "資格"
+      },
+      {
+        "word": "Witness",
+        "translation": "証人"
+      },
+      {
+        "word": "Mental capacity",
+        "translation": "精神的能力"
+      },
+      {
+        "word": "Perceive",
+        "translation": "認識する"
+      },
+      {
+        "word": "Reliable",
+        "translation": "信頼できる"
+      },
+      {
+        "word": "Communicate",
+        "translation": "伝達する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Pleading on the Merits",
+    "definition": "The act of a defendant responding to the substance of the plaintiff's claim during oral arguments. Performing this act without objecting to the court's lack of jurisdiction results in a waiver of the right to object and grants the court jurisdiction by response.",
+    "japaneseDefinition": "口頭弁論において、被告が原告の請求の本体（本案）について答弁や主張を行うこと。管轄違いの抗弁を提出せずに本案の弁論を行うと、管轄権の欠如を争う権利が消滅し、応訴管轄が生じる。",
+    "japaneseWordTranslation": "本案の弁論 (ほんあんのべんろん)",
+    "legalContext": "Code of Civil Procedure Art. 12: If a defendant has pleaded on the merits... in the court of first instance without filing a defense of lack of jurisdiction, that court shall have jurisdiction.",
+    "japaneseLegalContext": "民事訴訟法第12条：被告が第一審裁判所において、管轄違いの抗弁を提出しないで、本案について弁論をしたときは、その裁判所は、管轄権を有する。",
+    "exampleSentence": "By engaging in pleading on the merits without raising a jurisdictional challenge, the defendant effectively accepted the venue of the district court.",
+    "exampleTranslation": "管轄権の異議を申し立てずに本案の弁論を行ったことにより、被告は事実上、その地方裁判所の裁判管轄を受け入れたことになった。",
+    "vocabularyList": [
+      {
+        "word": "Substance",
+        "translation": "実体"
+      },
+      {
+        "word": "Waiver",
+        "translation": "放棄"
+      },
+      {
+        "word": "Jurisdiction by response",
+        "translation": "応訴管轄"
+      },
+      {
+        "word": "First instance",
+        "translation": "第一審"
+      },
+      {
+        "word": "Raise an objection",
+        "translation": "異議を申し立てる"
+      },
+      {
+        "word": "Venue",
+        "translation": "裁判地"
+      }
+    ]
   }
 ]

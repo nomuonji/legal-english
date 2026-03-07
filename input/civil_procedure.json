@@ -22342,5 +22342,119 @@
         "translation": "裁判地"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Confirmation of a Fact",
+    "definition": "A type of lawsuit seeking a judicial declaration to confirm the existence or non-existence of a specific fact. Under Japanese law, such actions are generally inadmissible because litigation should resolve legal relationships, with the sole exception being the confirmation of the authenticity of a document.",
+    "japaneseDefinition": "特定の事実の存否を確定することを目的とする訴え。日本法上、訴えは原則として権利や法律関係を対象とすべきであり、例外的に「文書の成立の真正」を確認する場合を除き、事実の確認の訴えは不適法とされる。",
+    "japaneseWordTranslation": "事実の確認の訴え (じじつのかくにんのうったえ)",
+    "legalContext": "Code of Civil Procedure Art. 134: An action for confirmation may also be filed to verify the authenticity of a document that certifies a legal relationship.",
+    "japaneseLegalContext": "民事訴訟法第134条：確認の訴えは、法律関係を証明する文書の成立の真正を確定するためにも提起することができる。",
+    "exampleSentence": "The plaintiff filed an action for confirmation of a fact regarding the authenticity of the sales agreement, as it was the only permitted exception under Article 134.",
+    "exampleTranslation": "原告は、第134条の下で唯一認められている例外として、売買契約書の成立の真正に関する事実の確認の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "sales agreement",
+        "translation": "売買契約書"
+      },
+      {
+        "word": "inadmissible",
+        "translation": "不適法な"
+      },
+      {
+        "word": "legal relationship",
+        "translation": "法律関係"
+      },
+      {
+        "word": "authenticity",
+        "translation": "真正"
+      },
+      {
+        "word": "exception",
+        "translation": "例外"
+      },
+      {
+        "word": "existence or non-existence",
+        "translation": "存否"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Amendment of a Written Complaint",
+    "definition": "A procedural act required when a complaint does not comply with formal legal requirements or lacks the necessary revenue stamps. The presiding judge orders the plaintiff to correct the defects within a specified period.",
+    "japaneseDefinition": "訴状が法定の形式的要件を欠いている場合や、印紙が貼付されていない場合に、裁判長が期間を定めて不備を是正するように命じる手続上の行為。",
+    "japaneseWordTranslation": "訴状の補正 (そじょうのほせい)",
+    "legalContext": "Code of Civil Procedure Art. 137: If a complaint is in violation of the provisions of Article 133, paragraph (2), the presiding judge shall set a reasonable period and order that the defect be corrected within that period.",
+    "japaneseLegalContext": "民事訴訟法第137条：訴状が第133条第2項の規定に違反する場合には、裁判長は、相当の期間を定め、その期間内に不備を補正すべきことを命じなければならない。",
+    "exampleSentence": "The judge issued an order for the amendment of a written complaint because the plaintiff failed to attach the required revenue stamps.",
+    "exampleTranslation": "原告が必要な収入印紙を貼付していなかったため、裁判長は訴状の補正命令を出した。",
+    "vocabularyList": [
+      {
+        "word": "presiding judge",
+        "translation": "裁判長"
+      },
+      {
+        "word": "revenue stamp",
+        "translation": "収入印紙"
+      },
+      {
+        "word": "violation",
+        "translation": "違反"
+      },
+      {
+        "word": "defect",
+        "translation": "不備"
+      },
+      {
+        "word": "reasonable period",
+        "translation": "相当の期間"
+      },
+      {
+        "word": "formal requirement",
+        "translation": "形式的要件"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Service by Entrustment",
+    "definition": "A method of service where the court clerk requests the competent authorities of a foreign state, or a Japanese ambassador or consul stationed there, to carry out the delivery of litigation documents.",
+    "japaneseDefinition": "裁判所書記官が、外国の管轄官庁、またはその国に駐在する日本の大使・公使・領事に対して、訴訟書類の送達を実施するよう嘱託する送達方法。",
+    "japaneseWordTranslation": "嘱託送達 (しょくたくそうたつ)",
+    "legalContext": "Code of Civil Procedure Art. 108: Service to be carried out in a foreign state shall be carried out by the presiding judge commissioning the competent government agency of that state or the Japanese ambassador, etc. stationed in that state to carry out the service.",
+    "japaneseLegalContext": "民事訴訟法第108条：外国においてすべき送達は、裁判長が、その国の管轄官庁又はその国に駐在する日本の大使、公使若しくは領事に嘱託してするものとする。",
+    "exampleSentence": "In international litigation, service by entrustment is often utilized to ensure that the summons is legally delivered to a defendant residing abroad.",
+    "exampleTranslation": "国際訴訟において、国外に居住する被告に召喚状が適法に届けられることを確実にするため、しばしば嘱託送達が利用される。",
+    "vocabularyList": [
+      {
+        "word": "foreign state",
+        "translation": "外国"
+      },
+      {
+        "word": "competent government agency",
+        "translation": "管轄官庁"
+      },
+      {
+        "word": "ambassador",
+        "translation": "大使"
+      },
+      {
+        "word": "consul",
+        "translation": "領事"
+      },
+      {
+        "word": "international litigation",
+        "translation": "国際訴訟"
+      },
+      {
+        "word": "summons",
+        "translation": "召喚状"
+      }
+    ]
   }
 ]

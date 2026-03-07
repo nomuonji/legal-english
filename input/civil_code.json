@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Liquidated Damages / Penalty",
-    "definition": "A monetary sum stipulated in a contract to be paid by one party to the other in the event of a breach of contract. Unless proven otherwise, the stipulated amount is presumed to be the compensation for damages.",
-    "japaneseDefinition": "契約の不履行があった場合に、債務者が債権者に支払うことを契約で定めた金銭。別段の定めのない限り、賠償額の予定と推定される。",
-    "japaneseWordTranslation": "違約金 (いやくきん)",
-    "legalContext": "Civil Code Art. 420(1): “If the parties have stipulated the payment of a penalty for the breach of an obligation, the amount thereof shall be presumed to be the amount of compensation for damages.”",
-    "japaneseLegalContext": "民法第420条第1項: 「当事者は、債務の不履行について、あらかじめ損害賠償の額を予定することができる。」",
-    "exampleSentence": "The contract explicitly set the liquidated damages at 30% of the total price if the obligor failed to deliver the goods by the specified date.",
-    "exampleTranslation": "債務者が指定期日までに商品を納入しなかった場合、契約では、違約金が総額の30％に定められていることが明記されていた。",
-    "vocabularyList": [
-      {
-        "word": "stipulated",
-        "translation": "定めた (さだめた)"
-      },
-      {
-        "word": "breach of contract",
-        "translation": "契約の不履行 (けいやくのふりこう)"
-      },
-      {
-        "word": "compensation for damages",
-        "translation": "損害賠償 (そんがいばいしょう)"
-      },
-      {
-        "word": "obligor",
-        "translation": "債務者 (さいむしゃ)"
-      },
-      {
-        "word": "total price",
-        "translation": "総額 (そうがく)"
-      },
-      {
-        "word": "presumption",
-        "translation": "推定 (すいてい)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Unilateral Act",
     "definition": "A juridical act that becomes effective solely by the unilateral declaration of intent of one party, without requiring the consensus of the recipient or the counterparty.",
     "japaneseDefinition": "一個の意思表示のみによって法律効果を発生させる法律行為。相手方の同意を必要としない。",
@@ -25246,6 +25208,108 @@
       {
         "word": "Applicable standard",
         "translation": "適用される基準"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Disclaimer of a Bequest",
+    "definition": "The act of a person named to receive a gift through a testamentary instrument formally refusing to accept that gift.",
+    "japaneseDefinition": "遺言によって指定された受遺者が、その遺贈による利益を受けることを拒否する意思表示をすること。",
+    "japaneseWordTranslation": "遺贈の放棄 (いぞうのほうき)",
+    "legalContext": "Civil Code Art. 986: A person who receives a bequest may renounce the bequest at any time after the death of the testator.",
+    "japaneseLegalContext": "民法第986条：受遺者は、遺言者の死亡後、何時でも、遺贈の放棄をすることができる。",
+    "exampleSentence": "The beneficiary decided to submit a disclaimer of a bequest to avoid the complex tax obligations associated with the gifted asset.",
+    "exampleTranslation": "受遺者は、贈与された資産に関連する複雑な納税義務を避けるため、遺贈の放棄を提出することに決めた。",
+    "vocabularyList": [
+      {
+        "word": "Testator",
+        "translation": "遺言者"
+      },
+      {
+        "word": "Bequest",
+        "translation": "遺贈"
+      },
+      {
+        "word": "Renounce",
+        "translation": "放棄する"
+      },
+      {
+        "word": "Beneficiary",
+        "translation": "受益者・受遺者"
+      },
+      {
+        "word": "Tax obligations",
+        "translation": "納税義務"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Heightening of a Dividing Wall",
+    "definition": "The legal entitlement of a person who shares a common boundary barrier with a neighbor to increase the vertical elevation of that barrier at their own cost.",
+    "japaneseDefinition": "隣接する土地の境界に設置された共用の障壁を、自己の費用負担によって以前よりも高くすること。",
+    "japaneseWordTranslation": "障壁を高くする権利 (しょうへきをたかくするけんり)",
+    "legalContext": "Civil Code Art. 231: Either of the neighbors may increase the height of a common wall; provided that if the wall cannot withstand the weight of such construction, that person must reinforce the wall or rebuild it at that person's own expense.",
+    "japaneseLegalContext": "民法第231条：隣接して囲障を共有する者は、これを高くすることができる。ただし、その囲障がその工事に耐えないときは、自費で、これを補強し、又は作り替えなければならない。",
+    "exampleSentence": "Under the local civil rules, a resident exercised the heightening of a dividing wall to ensure privacy from the newly built house next door.",
+    "exampleTranslation": "地域の民事上の規則に基づき、住民は隣に新しく建てられた家からのプライバシーを確保するために、障壁を高くする権利を行使した。",
+    "vocabularyList": [
+      {
+        "word": "Elevation",
+        "translation": "高さ・高度"
+      },
+      {
+        "word": "Boundary barrier",
+        "translation": "境界の障壁"
+      },
+      {
+        "word": "Withstand",
+        "translation": "耐える"
+      },
+      {
+        "word": "Reinforce",
+        "translation": "補強する"
+      },
+      {
+        "word": "At one's own expense",
+        "translation": "自己の費用で"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Conduit Installation Authority",
+    "definition": "The legal power to place essential utility infrastructure, such as electricity or water lines, through the land of another person when it is necessary for the use of one's own land.",
+    "japaneseDefinition": "自己の土地を利用するために必要な、電気、ガス、水道などの導管等の設備を、他人の土地に設置することができる法的な権限。",
+    "japaneseWordTranslation": "設備設置権 (せつびせっちけん)",
+    "legalContext": "Civil Code Art. 213-2: If it is necessary to install a conduit for electricity, gas, or water to use the land, the owner of that land may install the conduit through the land of another person.",
+    "japaneseLegalContext": "民法第213条の2：土地の所有者は、他の土地に電気、ガス又は水道水の供給その他これらに類する継続的給付を受けるための設備を設置しなければその給付を受けることが困難であるときは、他の土地に設備を設置することができる。",
+    "exampleSentence": "The landowner invoked the conduit installation authority to run new water pipes through the neighbor's field, as there was no other feasible route for the supply.",
+    "exampleTranslation": "土地所有者は、供給のための他に実行可能なルートがなかったため、設備設置権を援用して隣人の畑に新しい水道管を通した。",
+    "vocabularyList": [
+      {
+        "word": "Conduit",
+        "translation": "導管・パイプ"
+      },
+      {
+        "word": "Utility infrastructure",
+        "translation": "公益設備"
+      },
+      {
+        "word": "Feasible route",
+        "translation": "実行可能なルート"
+      },
+      {
+        "word": "Invoke",
+        "translation": "援用する・行使する"
+      },
+      {
+        "word": "Landowner",
+        "translation": "土地所有者"
       }
     ]
   }

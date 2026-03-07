@@ -1,42 +1,38 @@
 {
-  "category": "Companies Act (会社法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Share Exchange",
-  "definition": "A form of organizational restructuring where a company (the wholly-owning parent) acquires all outstanding shares of another company (the wholly-owned subsidiary) in exchange for newly issued shares of the parent company.",
-  "japaneseDefinition": "ある会社（完全親会社となる会社）が、別の会社（完全子会社となる会社）の全発行済株式を取得し、対価として親会社の株式を交付する組織再編手法。",
-  "japaneseWordTranslation": "株式交換 (かぶしきこうかん)",
-  "legalContext": "Companies Act Art. 767 (Procedures for Share Exchange), which outlines the comprehensive requirements for the agreement and approval.",
-  "japaneseLegalContext": "会社法 第767条 (株式交換の手続) にて、契約および承認の包括的な要件が規定されている。",
-  "exampleSentence": "A share exchange is frequently utilized as a method to convert a target company into a wholly-owned subsidiary under a newly established holding company.",
-  "exampleTranslation": "株式交換は、対象会社を新設された持株会社の完全子会社にする手法として頻繁に利用される。",
+  "word": "Liquidated Damages / Penalty",
+  "definition": "A monetary sum stipulated in a contract to be paid by one party to the other in the event of a breach of contract. Unless proven otherwise, the stipulated amount is presumed to be the compensation for damages.",
+  "japaneseDefinition": "契約の不履行があった場合に、債務者が債権者に支払うことを契約で定めた金銭。別段の定めのない限り、賠償額の予定と推定される。",
+  "japaneseWordTranslation": "違約金 (いやくきん)",
+  "legalContext": "Civil Code Art. 420(1): “If the parties have stipulated the payment of a penalty for the breach of an obligation, the amount thereof shall be presumed to be the amount of compensation for damages.”",
+  "japaneseLegalContext": "民法第420条第1項: 「当事者は、債務の不履行について、あらかじめ損害賠償の額を予定することができる。」",
+  "exampleSentence": "The contract explicitly set the liquidated damages at 30% of the total price if the obligor failed to deliver the goods by the specified date.",
+  "exampleTranslation": "債務者が指定期日までに商品を納入しなかった場合、契約では、違約金が総額の30％に定められていることが明記されていた。",
   "vocabularyList": [
     {
-      "word": "holding company",
-      "translation": "持株会社"
+      "word": "stipulated",
+      "translation": "定めた (さだめた)"
     },
     {
-      "word": "wholly-owned subsidiary",
-      "translation": "完全子会社"
+      "word": "breach of contract",
+      "translation": "契約の不履行 (けいやくのふりこう)"
     },
     {
-      "word": "consideration",
-      "translation": "対価"
+      "word": "compensation for damages",
+      "translation": "損害賠償 (そんがいばいしょう)"
     },
     {
-      "word": "acquisition",
-      "translation": "取得"
+      "word": "obligor",
+      "translation": "債務者 (さいむしゃ)"
     },
     {
-      "word": "outstanding shares",
-      "translation": "発行済株式"
+      "word": "total price",
+      "translation": "総額 (そうがく)"
     },
     {
-      "word": "target company",
-      "translation": "対象会社"
-    },
-    {
-      "word": "agreement",
-      "translation": "契約"
+      "word": "presumption",
+      "translation": "推定 (すいてい)"
     }
   ]
 }

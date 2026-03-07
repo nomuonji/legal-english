@@ -1,38 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Liquidated Damages / Penalty",
-  "definition": "A monetary sum stipulated in a contract to be paid by one party to the other in the event of a breach of contract. Unless proven otherwise, the stipulated amount is presumed to be the compensation for damages.",
-  "japaneseDefinition": "契約の不履行があった場合に、債務者が債権者に支払うことを契約で定めた金銭。別段の定めのない限り、賠償額の予定と推定される。",
-  "japaneseWordTranslation": "違約金 (いやくきん)",
-  "legalContext": "Civil Code Art. 420(1): “If the parties have stipulated the payment of a penalty for the breach of an obligation, the amount thereof shall be presumed to be the amount of compensation for damages.”",
-  "japaneseLegalContext": "民法第420条第1項: 「当事者は、債務の不履行について、あらかじめ損害賠償の額を予定することができる。」",
-  "exampleSentence": "The contract explicitly set the liquidated damages at 30% of the total price if the obligor failed to deliver the goods by the specified date.",
-  "exampleTranslation": "債務者が指定期日までに商品を納入しなかった場合、契約では、違約金が総額の30％に定められていることが明記されていた。",
+  "word": "Determination of Sentence",
+  "definition": "The process and outcome by which the court determines the specific type and severity of punishment (e.g., length of imprisonment or amount of fine) within the legally prescribed statutory range.",
+  "japaneseDefinition": "裁判所が、法令で定められた刑罰の範囲内で、具体的な刑の種類や重さ（懲役の期間や罰金の額など）を決定すること。",
+  "japaneseWordTranslation": "量刑 (りょうけい)",
+  "legalContext": "Penal Code Art. 67: In determining punishment, the court shall consider the nature of the crime, the circumstances under which the crime was committed, the character and conduct of the offender, and the circumstances subsequent to the commission of the crime.",
+  "japaneseLegalContext": "刑法第67条：刑の量定は、犯人の年齢、境遇及び犯罪の性質、情状並びに犯罪後の情況を斟酌して、これをする。",
+  "exampleSentence": "In exercising its determination of sentence, the court cited the offender's remorse and cooperation as major mitigating factors.",
+  "exampleTranslation": "量刑を決定するにあたり、裁判所は、犯人の反省と協力の姿勢を主要な情状酌量の要素として挙げた。",
   "vocabularyList": [
     {
-      "word": "stipulated",
-      "translation": "定めた (さだめた)"
+      "word": "severity of punishment",
+      "translation": "刑罰の重さ"
     },
     {
-      "word": "breach of contract",
-      "translation": "契約の不履行 (けいやくのふりこう)"
+      "word": "statutory range",
+      "translation": "法定の範囲"
     },
     {
-      "word": "compensation for damages",
-      "translation": "損害賠償 (そんがいばいしょう)"
+      "word": "offender's remorse",
+      "translation": "犯人の反省"
     },
     {
-      "word": "obligor",
-      "translation": "債務者 (さいむしゃ)"
+      "word": "mitigating factors",
+      "translation": "情状酌量の要素"
     },
     {
-      "word": "total price",
-      "translation": "総額 (そうがく)"
+      "word": "circumstances",
+      "translation": "情状・情況"
     },
     {
-      "word": "presumption",
-      "translation": "推定 (すいてい)"
+      "word": "consider",
+      "translation": "斟酌する"
     }
   ]
 }

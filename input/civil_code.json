@@ -25426,5 +25426,119 @@
         "translation": "遅滞なく"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Invocation of Prescription",
+    "definition": "The act of a party claiming the benefit of a statute of limitations (extinctive or acquisitive prescription) to either extinguish an obligation or acquire a right. Under Japanese law, prescription does not take effect automatically; it must be invoked by the party concerned.",
+    "japaneseDefinition": "時効の利益を受ける者が、その利益を享受する意思を表示すること。日本の民法では、時効期間が経過しても当然に効果が生じるわけではなく、当事者による援用が必要とされる。",
+    "japaneseWordTranslation": "時効の援用 (じこうのえんよう)",
+    "legalContext": "Civil Code Art. 145: The court may not render a judgment based on prescription unless the party concerned invokes it.",
+    "japaneseLegalContext": "民法第145条：時効は、当事者が援用しなければ、裁判所がこれによって裁判をすることができない。",
+    "exampleSentence": "The defendant successfully avoided the debt repayment by formally making an invocation of prescription during the trial.",
+    "exampleTranslation": "被告は、公判中に正式に時効の援用を行うことで、債務の弁済を免れることに成功した。",
+    "vocabularyList": [
+      {
+        "word": "Defendant",
+        "translation": "被告"
+      },
+      {
+        "word": "Benefit",
+        "translation": "利益"
+      },
+      {
+        "word": "Judgment",
+        "translation": "裁判 / 判決"
+      },
+      {
+        "word": "Trial",
+        "translation": "公判 / 裁判"
+      },
+      {
+        "word": "Formal",
+        "translation": "正式な"
+      },
+      {
+        "word": "Debt repayment",
+        "translation": "債務の弁済"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Rescission",
+    "definition": "The cancellation of a contract based on grounds provided by the law (such as non-performance or impossibility), rather than by mutual agreement or a specific contract clause.",
+    "japaneseDefinition": "当事者の合意や契約上の特約ではなく、債務不履行や履行不能など、法律が定めた事由に基づいて契約を解除すること。",
+    "japaneseWordTranslation": "法定解除 (ほうていかいじょ)",
+    "legalContext": "Civil Code Art. 541 & 542: These articles stipulate the requirements for statutory rescission, including rescission after a demand for performance and rescission without demand.",
+    "japaneseLegalContext": "民法第541条・第542条：催告による解除および催告によらない解除など、法定解除の要件について規定している。",
+    "exampleSentence": "The buyer exercised their right of statutory rescission because the seller failed to deliver the goods even after a reasonable demand was made.",
+    "exampleTranslation": "売主が相当期間の催告後も商品を引渡さなかったため、買主は法定解除権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "Buyer",
+        "translation": "買主"
+      },
+      {
+        "word": "Seller",
+        "translation": "売主"
+      },
+      {
+        "word": "Contract",
+        "translation": "契約"
+      },
+      {
+        "word": "Exercise",
+        "translation": "行使する"
+      },
+      {
+        "word": "Stipulate",
+        "translation": "規定する"
+      },
+      {
+        "word": "Cancellation",
+        "translation": "解除 / 取消"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Standard of Ordinary Care",
+    "definition": "The level of caution and prudence that a person of average care and skill would exercise in a similar situation. In the Civil Code, this often refers to the 'duty of a good manager' (zenkan chūi gimu) when handling the property of others.",
+    "japaneseDefinition": "通常の注意能力と技術を持つ者が、同様の状況下で払うべき注意の基準。民法上は、他人の財産を管理する際などに求められる「善管注意義務」として現れることが多い。",
+    "japaneseWordTranslation": "善良な管理者の注意 (ぜんりょうなかんりしゃのちゅうい)",
+    "legalContext": "Civil Code Art. 400: If the subject matter of an obligation is the delivery of a specific thing, the obligor must preserve the thing with the care of a good manager until the delivery is completed.",
+    "japaneseLegalContext": "民法第400条：債権の目的が特定物の引渡しであるときは、債務者は、その引渡しをするまで、善良な管理者の注意をもって、その物を保存しなければならない。",
+    "exampleSentence": "As a bailee, the company was held liable for the damage because it failed to meet the standard of ordinary care expected of a professional warehouse operator.",
+    "exampleTranslation": "受託者として、その会社は専門的な倉庫業者に期待される善良な管理者の注意基準を満たさなかったため、損害賠償責任を問われた。",
+    "vocabularyList": [
+      {
+        "word": "Subject matter",
+        "translation": "目的物"
+      },
+      {
+        "word": "Prudence",
+        "translation": "慎重さ"
+      },
+      {
+        "word": "Average",
+        "translation": "平均的な"
+      },
+      {
+        "word": "Professional",
+        "translation": "専門的な"
+      },
+      {
+        "word": "Warehouse operator",
+        "translation": "倉庫業者"
+      },
+      {
+        "word": "Bailee",
+        "translation": "受託者"
+      }
+    ]
   }
 ]

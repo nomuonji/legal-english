@@ -21386,5 +21386,107 @@
         "translation": "加重された"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mistake of the Causal Course",
+    "definition": "A situation where the intended causal sequence of events leading to a criminal result differs from the actual path the events took, though the intended result was ultimately achieved.",
+    "japaneseDefinition": "犯人が認識していた因果関係の経過と、実際に発生した因果関係の経過が一致しないこと。客観的に発生した結果が、犯人の意図した結果の範囲内であれば故意は阻却されないとされる。",
+    "japaneseWordTranslation": "因果関係の錯誤 (いんがかんけいのさくご)",
+    "legalContext": "Criminal Code Art. 38, Para. 1: 'An act committed without the intent to commit a crime is not punishable, unless otherwise provided by law.' In legal doctrine, a mistake of the causal course generally does not negate intent if the result remains within the scope of the perpetrator's foresight.",
+    "japaneseLegalContext": "刑法38条1項：「罪を犯す意思がない行為は、罰しない。ただし、法律に特別の規定がある場合は、この限りでない。」法理上、因果関係の錯誤は、発生した結果が予見の範囲内であれば故意を否定しないとされる。",
+    "exampleSentence": "The defendant's counsel argued that the mistake of the causal course was so significant that it should negate the intent to kill.",
+    "exampleTranslation": "被告人の弁護人は、因果関係の錯誤が非常に重大であり、殺人の故意を否定すべきであると主張した。",
+    "vocabularyList": [
+      {
+        "word": "Defendant",
+        "translation": "被告人"
+      },
+      {
+        "word": "Counsel",
+        "translation": "弁護人"
+      },
+      {
+        "word": "Negate",
+        "translation": "否定する"
+      },
+      {
+        "word": "Causal sequence",
+        "translation": "因果の経過"
+      },
+      {
+        "word": "Foresight",
+        "translation": "予見"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Constructive Arson",
+    "definition": "A criminal act that is treated as equivalent to arson under the law, typically involving setting fire to one's own property or objects other than structures, thereby creating a public danger.",
+    "japaneseDefinition": "建造物以外の物や自己の所有物に放火し、公共の危険を生じさせる行為。現住建造物放火罪などとは区別されるが、同様の危険性を持つものとして処罰される。",
+    "japaneseWordTranslation": "準放火 (じゅんほうか)",
+    "legalContext": "Criminal Code Art. 110, Para. 1: 'A person who sets fire to an object... and thereby causes a public danger shall be punished...' This encompasses acts often referred to as constructive arson when the danger caused is comparable to structure-based arson.",
+    "japaneseLegalContext": "刑法110条1項：「放火して、前二条に規定する物以外の物を焼損し、よって公共の危険を生じさせた者は…」構造物への放火に準ずる危険を生じさせた場合、これに含まれる。",
+    "exampleSentence": "The suspect was charged with constructive arson after setting fire to his own vehicle in a crowded parking lot.",
+    "exampleTranslation": "容疑者は、混雑した駐車場で自分の車に火を放ったため、準放火の罪で起訴された。",
+    "vocabularyList": [
+      {
+        "word": "Suspect",
+        "translation": "容疑者"
+      },
+      {
+        "word": "Charged with",
+        "translation": "～で起訴された"
+      },
+      {
+        "word": "Public danger",
+        "translation": "公共の危険"
+      },
+      {
+        "word": "Equivalent",
+        "translation": "同等の"
+      },
+      {
+        "word": "Structure",
+        "translation": "建造物"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Collective Crime",
+    "definition": "A legal doctrine where multiple individual acts are legally evaluated as a single crime for the purposes of sentencing, often because they target the same legal interest or occur as part of a continuous criminal design.",
+    "japaneseDefinition": "複数の行為が、同一の法益を侵害するものとして、あるいは一連の犯行計画の一部として、処罰上、包括的に一個の罪として扱われること。",
+    "japaneseWordTranslation": "包括一罪 (ほうかついちざい)",
+    "legalContext": "While not explicitly named in a single article, the doctrine of Collective Crime (Hōkatsu Ichizai) is a fundamental principle in Japanese criminal sentencing used to distinguish between a single crime and concurrent crimes (Art. 45).",
+    "japaneseLegalContext": "特定の条文に明記されているわけではないが、包括一罪の理論は、一個の罪と併合罪（45条）を区別するための日本の刑事判例における重要な法理である。",
+    "exampleSentence": "The series of small thefts from the warehouse was treated as a collective crime rather than dozens of separate counts of larceny.",
+    "exampleTranslation": "倉庫からの相次ぐ小規模な窃盗は、数十件の個別の窃盗罪ではなく、包括一罪として扱われた。",
+    "vocabularyList": [
+      {
+        "word": "Legal doctrine",
+        "translation": "法理"
+      },
+      {
+        "word": "Sentencing",
+        "translation": "量刑"
+      },
+      {
+        "word": "Warehouse",
+        "translation": "倉庫"
+      },
+      {
+        "word": "Counts",
+        "translation": "訴因（罪の数）"
+      },
+      {
+        "word": "Legal interest",
+        "translation": "法益"
+      }
+    ]
   }
 ]

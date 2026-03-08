@@ -19336,5 +19336,107 @@
         "translation": "更新する"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of the Limitation on a Manager's Authority of Agency",
+    "definition": "An entry in the commercial register that publicly records specific restrictions placed on the scope of authority granted to a manager (shihainin) by a business proprietor.",
+    "japaneseDefinition": "支配人の代理権に加えられた制限を公示するために商業登記簿に行われる登記。",
+    "japaneseWordTranslation": "支配人の代理権の制限の登記 (しはいにんのだいりけんのせいげんのとうき)",
+    "legalContext": "Commercial Registration Act Art. 40: When a merchant has appointed a manager, the merchant shall file an application for registration... if there is a limitation on the manager's authority of agency, the details thereof shall be registered.",
+    "japaneseLegalContext": "商業登記法第40条：商人が支配人を選任したときは、その登記を申請しなければならない。…支配人の代理権に制限を加えたときは、その制限も登記しなければならない。",
+    "exampleSentence": "The company filed a Registration of the Limitation on a Manager's Authority of Agency to ensure that the branch manager could not enter into loan agreements exceeding ten million yen.",
+    "exampleTranslation": "支店長が1,000万円を超える借入契約を締結できないようにするため、会社は支配人の代理権の制限の登記を申請した。",
+    "vocabularyList": [
+      {
+        "word": "Manager",
+        "translation": "支配人 (Shihainin)"
+      },
+      {
+        "word": "Authority of Agency",
+        "translation": "代理権 (Dairiken)"
+      },
+      {
+        "word": "Limitation",
+        "translation": "制限 (Seigen)"
+      },
+      {
+        "word": "Business proprietor",
+        "translation": "営業主 (Eigyounushi)"
+      },
+      {
+        "word": "To file an application",
+        "translation": "申請する (Shinsei suru)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of a Name Change for a Manager",
+    "definition": "A registration filed to update the commercial register when a manager's legal name changes, often due to marriage, divorce, or legal name alteration.",
+    "japaneseDefinition": "氏名の変更（氏の変更等）が生じた際に、登記簿上の支配人の氏名を更新するために行われる登記。",
+    "japaneseWordTranslation": "支配人の氏名の変更の登記 (しはいにんのしめいのへんこうのとうき)",
+    "legalContext": "Commercial Registration Act Art. 41: If any change occurs in the matters registered regarding a manager, a registration of such change shall be filed at the location of the head office and each branch office.",
+    "japaneseLegalContext": "商業登記法第41条：支配人に関して登記した事項に変更が生じたときは、本店及び支店の所在地において、その変更の登記をしなければならない。",
+    "exampleSentence": "Following his marriage, the employee’s legal surname changed, necessitating a Registration of a Name Change for a Manager to maintain an accurate registry.",
+    "exampleTranslation": "結婚に伴い従業員の法的姓が変更されたため、正確な登記記録を維持するために支配人の氏名の変更の登記が必要となった。",
+    "vocabularyList": [
+      {
+        "word": "Legal surname",
+        "translation": "法的氏 (Houteiki-uji)"
+      },
+      {
+        "word": "Commercial register",
+        "translation": "商業登記簿 (Shougyou-toukibo)"
+      },
+      {
+        "word": "Head office",
+        "translation": "本店 (Honten)"
+      },
+      {
+        "word": "Branch office",
+        "translation": "支店 (Shiten)"
+      },
+      {
+        "word": "Accuracy",
+        "translation": "正確性 (Seikakusei)"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of the Appointment of a Representative of the Heirs of a Partner",
+    "definition": "A specific registration for general partnership companies (Gomei Kaisha) or limited partnership companies (Goshi Kaisha) to record the person chosen to represent heirs when a partner dies and the partnership interest is inherited by multiple individuals.",
+    "japaneseDefinition": "合名会社や合資会社の社員が死亡し、その持分を複数の相続人が承継した場合に、その権利を行使する代表者を登記すること。",
+    "japaneseWordTranslation": "社員の相続人の代表者の選任の登記 (しゃいんのそうぞくにんだいひょうしゃのせんにんのとうき)",
+    "legalContext": "Commercial Registration Act Art. 93: In cases where a representative for the heirs of a member has been appointed, the name and residence of such representative shall be registered.",
+    "japaneseLegalContext": "商業登記法第93条：社員の相続人の代表者を選任したときは、その氏名及び住所を登記しなければならない。",
+    "exampleSentence": "After the senior partner's death, his three children selected the eldest son as their spokesperson, leading to the Registration of the Appointment of a Representative of the Heirs of a Partner.",
+    "exampleTranslation": "シニアパートナーの死亡後、3人の子供たちが長男を代表者に選出したため、社員の相続人の代表者の選任の登記が行われた。",
+    "vocabularyList": [
+      {
+        "word": "General partnership company",
+        "translation": "合名会社 (Gomei Kaisha)"
+      },
+      {
+        "word": "Limited partnership company",
+        "translation": "合資会社 (Goshi Kaisha)"
+      },
+      {
+        "word": "Partner / Member",
+        "translation": "社員 (Shain)"
+      },
+      {
+        "word": "Heir",
+        "translation": "相続人 (Souzokunin)"
+      },
+      {
+        "word": "Appointment / Selection",
+        "translation": "選任 (Sennin)"
+      }
+    ]
   }
 ]

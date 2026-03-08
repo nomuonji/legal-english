@@ -1,38 +1,38 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Real Property Registration (不動産登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Determination of Sentence",
-  "definition": "The process and outcome by which the court determines the specific type and severity of punishment (e.g., length of imprisonment or amount of fine) within the legally prescribed statutory range.",
-  "japaneseDefinition": "裁判所が、法令で定められた刑罰の範囲内で、具体的な刑の種類や重さ（懲役の期間や罰金の額など）を決定すること。",
-  "japaneseWordTranslation": "量刑 (りょうけい)",
-  "legalContext": "Penal Code Art. 67: In determining punishment, the court shall consider the nature of the crime, the circumstances under which the crime was committed, the character and conduct of the offender, and the circumstances subsequent to the commission of the crime.",
-  "japaneseLegalContext": "刑法第67条：刑の量定は、犯人の年齢、境遇及び犯罪の性質、情状並びに犯罪後の情況を斟酌して、これをする。",
-  "exampleSentence": "In exercising its determination of sentence, the court cited the offender's remorse and cooperation as major mitigating factors.",
-  "exampleTranslation": "量刑を決定するにあたり、裁判所は、犯人の反省と協力の姿勢を主要な情状酌量の要素として挙げた。",
+  "word": "Identification Information",
+  "definition": "A 12-digit sequence of alphanumeric characters provided by the registrar to the registration obligee to confirm their identity and intent when applying for subsequent rights-related registration. This system replaced the traditional paper title deed (権利証).",
+  "japaneseDefinition": "登記権利者の申請意思を確認するため、登記官が登記権利者に通知する12桁の符号（英数字）。権利に関する登記を申請する際に、原則として添付が義務付けられている。",
+  "japaneseWordTranslation": "登記識別情報 (とうきしきべつじょうほう)",
+  "legalContext": "Real Property Registration Act Art. 21 (Notification, etc. of Identification Information)",
+  "japaneseLegalContext": "不動産登記法 第21条（登記識別情報の通知等）",
+  "exampleSentence": "The registered owner, having lost their original **Identification Information**, must undergo the mandatory pre-application confirmation procedure before the registrar accepts the application.",
+  "exampleTranslation": "登記名義人は、元の登記識別情報を紛失したため、登記官が申請を受理する前に、義務付けられた事前確認手続を経なければならない。",
   "vocabularyList": [
     {
-      "word": "severity of punishment",
-      "translation": "刑罰の重さ"
+      "word": "registrar",
+      "translation": "登記官"
     },
     {
-      "word": "statutory range",
-      "translation": "法定の範囲"
+      "word": "registration obligee",
+      "translation": "登記権利者"
     },
     {
-      "word": "offender's remorse",
-      "translation": "犯人の反省"
+      "word": "subsequent registration",
+      "translation": "後の登記"
     },
     {
-      "word": "mitigating factors",
-      "translation": "情状酌量の要素"
+      "word": "confirmation procedure",
+      "translation": "確認手続"
     },
     {
-      "word": "circumstances",
-      "translation": "情状・情況"
+      "word": "accept the application",
+      "translation": "申請を受理する"
     },
     {
-      "word": "consider",
-      "translation": "斟酌する"
+      "word": "title deed",
+      "translation": "権利証"
     }
   ]
 }

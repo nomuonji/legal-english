@@ -1,38 +1,42 @@
 {
-  "category": "Real Property Registration (不動産登記法)",
+  "category": "Deposit Act (供託法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Identification Information",
-  "definition": "A 12-digit sequence of alphanumeric characters provided by the registrar to the registration obligee to confirm their identity and intent when applying for subsequent rights-related registration. This system replaced the traditional paper title deed (権利証).",
-  "japaneseDefinition": "登記権利者の申請意思を確認するため、登記官が登記権利者に通知する12桁の符号（英数字）。権利に関する登記を申請する際に、原則として添付が義務付けられている。",
-  "japaneseWordTranslation": "登記識別情報 (とうきしきべつじょうほう)",
-  "legalContext": "Real Property Registration Act Art. 21 (Notification, etc. of Identification Information)",
-  "japaneseLegalContext": "不動産登記法 第21条（登記識別情報の通知等）",
-  "exampleSentence": "The registered owner, having lost their original **Identification Information**, must undergo the mandatory pre-application confirmation procedure before the registrar accepts the application.",
-  "exampleTranslation": "登記名義人は、元の登記識別情報を紛失したため、登記官が申請を受理する前に、義務付けられた事前確認手続を経なければならない。",
+  "word": "Certificate of Consignment Completion",
+  "definition": "The formal instrument issued by the administrative authority (the deposit office) acknowledging that the prescribed legal consignment procedures have been fully carried out by the consigner.",
+  "japaneseDefinition": "供託所が、供託者が所定の供託手続を完全に履行したことを証明するために交付する公的な書面。",
+  "japaneseWordTranslation": "供託完了証書 (きょうたくかんりょうしょうしょ)",
+  "legalContext": "Rules for the Implementation of the Deposit Act, Art. 23 (Principle): Upon completion of the deposit procedure, the administrative authority shall issue a certificate to the consigner.",
+  "japaneseLegalContext": "供託規則第23条（原則）：供託手続が完了したときは、供託所は供託者に供託完了証書を交付しなければならない。",
+  "exampleSentence": "The consigner must attach the Certificate of Consignment Completion to the petition when applying for the delivery of the consigned assets to the specific claimant.",
+  "exampleTranslation": "特定の債権者に対する供託物の払渡しを申請する際、供託者は供託完了証書を申立書に添付しなければならない。",
   "vocabularyList": [
     {
-      "word": "registrar",
-      "translation": "登記官"
+      "word": "instrument",
+      "translation": "書面"
     },
     {
-      "word": "registration obligee",
-      "translation": "登記権利者"
+      "word": "administrative authority",
+      "translation": "行政機関"
     },
     {
-      "word": "subsequent registration",
-      "translation": "後の登記"
+      "word": "consigner",
+      "translation": "供託者"
     },
     {
-      "word": "confirmation procedure",
-      "translation": "確認手続"
+      "word": "prescribed procedures",
+      "translation": "所定の手続"
     },
     {
-      "word": "accept the application",
-      "translation": "申請を受理する"
+      "word": "petition",
+      "translation": "申立て"
     },
     {
-      "word": "title deed",
-      "translation": "権利証"
+      "word": "claimant",
+      "translation": "債権者"
+    },
+    {
+      "word": "delivery",
+      "translation": "払渡し"
     }
   ]
 }

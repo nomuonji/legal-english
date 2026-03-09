@@ -2,44 +2,6 @@
   {
     "category": "Companies Act (会社法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Inspection of Accounting Books and Records",
-    "definition": "The legal right of a minority shareholder, who holds a specified percentage of the total voting shares (currently 3%), to demand the inspection and copying of the company's accounting books and records for a proper purpose.",
-    "japaneseDefinition": "発行済株式の議決権の3%以上を有する株主が、会社の会計帳簿及び資料を閲覧または謄写することを請求できる権利。少数株主の監督権の一つ。",
-    "japaneseWordTranslation": "会計帳簿等の閲覧請求権 (かいけいちょうぼとうのえつらんせいきゅうけん)",
-    "legalContext": "Companies Act Art. 433 (Right of Inspection of Accounting Books)",
-    "japaneseLegalContext": "会社法第433条 (会計帳簿等の閲覧等の請求)",
-    "exampleSentence": "The minority shareholder filed a written request demanding the Inspection of Accounting Books and Records, alleging misuse of corporate assets by the management.",
-    "exampleTranslation": "その少数株主は、経営陣による会社財産の流用を主張し、会計帳簿等の閲覧請求権を行使するため書面による請求を提出した。",
-    "vocabularyList": [
-      {
-        "word": "minority shareholder",
-        "translation": "少数株主"
-      },
-      {
-        "word": "written request",
-        "translation": "書面による請求"
-      },
-      {
-        "word": "corporate assets",
-        "translation": "会社財産"
-      },
-      {
-        "word": "proper purpose",
-        "translation": "正当な目的"
-      },
-      {
-        "word": "misuse",
-        "translation": "流用"
-      },
-      {
-        "word": "allege",
-        "translation": "主張する"
-      }
-    ]
-  },
-  {
-    "category": "Companies Act (会社法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Special Resolution",
     "definition": "A resolution of the general meeting of shareholders requiring a higher voting threshold than an ordinary resolution, typically necessary for fundamental changes to the corporation, such as amendments to the articles of incorporation or significant asset transfers.",
     "japaneseDefinition": "株主総会における決議の一種で、議決権を行使できる株主の議決権の過半数が出席し、出席株主の議決権の3分の2以上の多数をもって行う決議。会社の根幹に関わる事項に適用される。",
@@ -20220,6 +20182,108 @@
       {
         "word": "Appropriateness",
         "translation": "適正性"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Shelf Registration",
+    "definition": "A system that allows an issuer to register a planned amount of securities to be issued over a certain period in advance, enabling the company to issue shares or bonds quickly when market conditions are favorable without filing a separate registration for each individual issuance.",
+    "japaneseDefinition": "有価証券の募集または売出しを予定している発行者が、あらかじめ発行予定額等を登録しておくことで、機動的な資金調達を可能にする制度。",
+    "japaneseWordTranslation": "発行登録 (はっこうとうろく)",
+    "legalContext": "Financial Instruments and Exchange Act Art. 23-3 (Applied in corporate practice for large-scale share/bond issuances under the Companies Act context).",
+    "japaneseLegalContext": "金融商品取引法第23条の3（会社法上の大規模な株式や社債の発行実務において適用される）。",
+    "exampleSentence": "The company utilized shelf registration to issue corporate bonds immediately after the interest rates dropped.",
+    "exampleTranslation": "その会社は、金利が低下した直後に社債を発行するため、発行登録制度を利用した。",
+    "vocabularyList": [
+      {
+        "word": "Issuer",
+        "translation": "発行者"
+      },
+      {
+        "word": "Securities",
+        "translation": "有価証券"
+      },
+      {
+        "word": "Corporate bonds",
+        "translation": "社債"
+      },
+      {
+        "word": "Market conditions",
+        "translation": "市場動向"
+      },
+      {
+        "word": "Favorable",
+        "translation": "好ましい"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Commercial Code",
+    "definition": "The body of law that governs commercial transactions and the conduct of merchants. While the Companies Act was split from this code in 2005, it still contains fundamental provisions regarding trade names and commercial employees.",
+    "japaneseDefinition": "商人および商行為について規定した法律。2005年に会社法が分離独立したが、商号や商業使用人に関する基本規定は依然として本法に含まれる。",
+    "japaneseWordTranslation": "商法 (しょうほう)",
+    "legalContext": "Commercial Code Art. 1: If there is no provision in this Code as to a commercial matter, the commercial customary law shall apply...",
+    "japaneseLegalContext": "商法第1条：商事に関し、この法律に定めがない事項については商慣習法を適用し...",
+    "exampleSentence": "The Commercial Code provides the underlying principles for merchants who operate under the Companies Act.",
+    "exampleTranslation": "商法は、会社法の下で活動する商人にとっての基礎的な原則を規定している。",
+    "vocabularyList": [
+      {
+        "word": "Conduct",
+        "translation": "行為"
+      },
+      {
+        "word": "Merchant",
+        "translation": "商人"
+      },
+      {
+        "word": "Customary law",
+        "translation": "慣習法"
+      },
+      {
+        "word": "Provision",
+        "translation": "規定"
+      },
+      {
+        "word": "Underlying",
+        "translation": "基礎となる"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Improper Influence on the Exercise of Rights",
+    "definition": "The legal accountability of a company or its officers for providing property benefits to a person to influence the exercise of their rights as a shareholder (such as voting or filing a derivative suit).",
+    "japaneseDefinition": "株主の権利（議決権の行使や代表訴訟の提起など）の行使に関し、会社側が財産上の利益を供与することによって不当な影響を与えた場合に生じる法的責任。",
+    "japaneseWordTranslation": "利益供与の禁止に関する責任 (りえききょうよのきんしにかんするせきにん)",
+    "legalContext": "Companies Act Art. 120: A stock company shall not give any property benefit to any person in connection with the exercise of the rights of a shareholder...",
+    "japaneseLegalContext": "会社法第120条：株式会社は、何人に対しても、株主の権利の行使に関し、財産上の利益の供与をしてはならない。",
+    "exampleSentence": "The director faced liability for improper influence after it was discovered he provided gifts to shareholders to secure their votes.",
+    "exampleTranslation": "議決権を確保するために株主に贈答品を渡していたことが発覚し、その取締役は利益供与の禁止に関する責任を問われた。",
+    "vocabularyList": [
+      {
+        "word": "Exercise of rights",
+        "translation": "権利の行使"
+      },
+      {
+        "word": "Property benefit",
+        "translation": "財産上の利益"
+      },
+      {
+        "word": "Accountability",
+        "translation": "説明責任・法的責任"
+      },
+      {
+        "word": "Secure",
+        "translation": "確保する"
+      },
+      {
+        "word": "In connection with",
+        "translation": "〜に関連して"
       }
     ]
   }

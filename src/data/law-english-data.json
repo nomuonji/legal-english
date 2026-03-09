@@ -1,42 +1,38 @@
 {
-  "category": "Deposit Act (供託法)",
+  "category": "Companies Act (会社法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Certificate of Consignment Completion",
-  "definition": "The formal instrument issued by the administrative authority (the deposit office) acknowledging that the prescribed legal consignment procedures have been fully carried out by the consigner.",
-  "japaneseDefinition": "供託所が、供託者が所定の供託手続を完全に履行したことを証明するために交付する公的な書面。",
-  "japaneseWordTranslation": "供託完了証書 (きょうたくかんりょうしょうしょ)",
-  "legalContext": "Rules for the Implementation of the Deposit Act, Art. 23 (Principle): Upon completion of the deposit procedure, the administrative authority shall issue a certificate to the consigner.",
-  "japaneseLegalContext": "供託規則第23条（原則）：供託手続が完了したときは、供託所は供託者に供託完了証書を交付しなければならない。",
-  "exampleSentence": "The consigner must attach the Certificate of Consignment Completion to the petition when applying for the delivery of the consigned assets to the specific claimant.",
-  "exampleTranslation": "特定の債権者に対する供託物の払渡しを申請する際、供託者は供託完了証書を申立書に添付しなければならない。",
+  "word": "Inspection of Accounting Books and Records",
+  "definition": "The legal right of a minority shareholder, who holds a specified percentage of the total voting shares (currently 3%), to demand the inspection and copying of the company's accounting books and records for a proper purpose.",
+  "japaneseDefinition": "発行済株式の議決権の3%以上を有する株主が、会社の会計帳簿及び資料を閲覧または謄写することを請求できる権利。少数株主の監督権の一つ。",
+  "japaneseWordTranslation": "会計帳簿等の閲覧請求権 (かいけいちょうぼとうのえつらんせいきゅうけん)",
+  "legalContext": "Companies Act Art. 433 (Right of Inspection of Accounting Books)",
+  "japaneseLegalContext": "会社法第433条 (会計帳簿等の閲覧等の請求)",
+  "exampleSentence": "The minority shareholder filed a written request demanding the Inspection of Accounting Books and Records, alleging misuse of corporate assets by the management.",
+  "exampleTranslation": "その少数株主は、経営陣による会社財産の流用を主張し、会計帳簿等の閲覧請求権を行使するため書面による請求を提出した。",
   "vocabularyList": [
     {
-      "word": "instrument",
-      "translation": "書面"
+      "word": "minority shareholder",
+      "translation": "少数株主"
     },
     {
-      "word": "administrative authority",
-      "translation": "行政機関"
+      "word": "written request",
+      "translation": "書面による請求"
     },
     {
-      "word": "consigner",
-      "translation": "供託者"
+      "word": "corporate assets",
+      "translation": "会社財産"
     },
     {
-      "word": "prescribed procedures",
-      "translation": "所定の手続"
+      "word": "proper purpose",
+      "translation": "正当な目的"
     },
     {
-      "word": "petition",
-      "translation": "申立て"
+      "word": "misuse",
+      "translation": "流用"
     },
     {
-      "word": "claimant",
-      "translation": "債権者"
-    },
-    {
-      "word": "delivery",
-      "translation": "払渡し"
+      "word": "allege",
+      "translation": "主張する"
     }
   ]
 }

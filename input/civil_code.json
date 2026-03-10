@@ -25642,5 +25642,119 @@
         "translation": "確実にする"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Inherent Assignability",
+    "definition": "The legal characteristic where a security for a debt stays linked to that debt and moves to any new person who acquires the debt.",
+    "japaneseDefinition": "債権が移転するのに伴い、その債権を担保する権利も一緒に移転するという性質。",
+    "japaneseWordTranslation": "随伴性 (ずいはんせい)",
+    "legalContext": "Article 296 (and general principles of security): A holder of a security may exercise the right against the whole of the things or rights secured until the debt is fully satisfied.",
+    "japaneseLegalContext": "民法第296条（および担保物権の通則）：留置権者は、債権の全部の弁済を受けるまでは、留置物（または担保の目的物）の全部について、その権利を行使することができる。",
+    "exampleSentence": "The inherent assignability ensures that the collateral moves with the underlying indebtedness without a separate arrangement.",
+    "exampleTranslation": "随伴性により、個別の取り決めがなくとも、担保はその基礎となる債務と共に移転する。",
+    "vocabularyList": [
+      {
+        "word": "Collateral",
+        "translation": "担保"
+      },
+      {
+        "word": "Indebtedness",
+        "translation": "負債"
+      },
+      {
+        "word": "Linked",
+        "translation": "連動した"
+      },
+      {
+        "word": "Inseparable",
+        "translation": "不可分な"
+      },
+      {
+        "word": "Underlying",
+        "translation": "基礎となる"
+      },
+      {
+        "word": "Satisfied",
+        "translation": "完済された"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Deduction of Advantages",
+    "definition": "A principle where the financial gain received by a person due to an event is subtracted from the total amount they can seek for their suffering or loss.",
+    "japaneseDefinition": "被害者が損害を被ったのと同一の事由によって利益を得た場合に、その利益を賠償額から差し引くこと。",
+    "japaneseWordTranslation": "損益相殺 (そんえきそうさい)",
+    "legalContext": "Article 722 (Analogous Application): The court determines the final amount by subtracting any financial advantage obtained by the person from the total amount of the harm.",
+    "japaneseLegalContext": "民法第722条（類推適用）：裁判所は、被害者が得た利益がある場合には、それを損害額から控除して最終的な金額を決定する。",
+    "exampleSentence": "The court ordered a deduction of advantages because the plaintiff received insurance payouts for the same event.",
+    "exampleTranslation": "原告が同一の事由で保険金を受け取っていたため、裁判所は損益相殺を命じた。",
+    "vocabularyList": [
+      {
+        "word": "Subtraction",
+        "translation": "控除"
+      },
+      {
+        "word": "Advantage",
+        "translation": "利益"
+      },
+      {
+        "word": "Plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "Payout",
+        "translation": "支払い金"
+      },
+      {
+        "word": "Apportion",
+        "translation": "割り当てる"
+      },
+      {
+        "word": "Reduction",
+        "translation": "削減"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Undue Solutio",
+    "definition": "The act of performing a duty when no such legal duty actually exists, often done because of a misconception of the law or facts.",
+    "japaneseDefinition": "債務が存在しないにもかかわらず、債務があると誤信して弁済を行うこと。",
+    "japaneseWordTranslation": "非債弁済 (ひさいべんざい)",
+    "legalContext": "Article 705: If a person performs a duty knowing that the duty does not exist, that person may not seek the return of what was given.",
+    "japaneseLegalContext": "民法第705条：債務の弁済として給付をした者は、その時において債務の存在しないことを知っていたときは、その給付した物の返還を請求することができない。",
+    "exampleSentence": "The company requested a return of the funds, arguing that the transaction was an undue solutio since the debt had already been ended.",
+    "exampleTranslation": "債務はすでに消滅していたため、その取引は非債弁済であると主張して、会社は資金の返還を求めた。",
+    "vocabularyList": [
+      {
+        "word": "Unfounded",
+        "translation": "根拠のない"
+      },
+      {
+        "word": "Misconception",
+        "translation": "誤認"
+      },
+      {
+        "word": "Transaction",
+        "translation": "取引"
+      },
+      {
+        "word": "Return",
+        "translation": "返還"
+      },
+      {
+        "word": "Existence",
+        "translation": "存在"
+      },
+      {
+        "word": "Mistaken",
+        "translation": "誤った"
+      }
+    ]
   }
 ]

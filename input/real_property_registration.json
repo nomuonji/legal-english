@@ -2,40 +2,6 @@
   {
     "category": "Real Property Registration (不動産登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Registration of Consolidation of Parcels",
-    "definition": "A type of registration conducted in the description section of the registry where two or more adjacent parcels of land are merged into a single parcel, provided they satisfy specific legal requirements such as identical parcel classification, owner, and registration status.",
-    "japaneseDefinition": "隣接する二つ以上の土地を一つの土地に合体させる登記。所有者が同一であること、地目が同一であることなど、特定の法的要件を満たす場合にのみ申請が可能となる。",
-    "japaneseWordTranslation": "合筆の登記 (がっぴつのとうき)",
-    "legalContext": "Real Property Registration Act Art. 41 (Registration of Consolidation of Parcels)",
-    "japaneseLegalContext": "不動産登記法 第41条（合筆の登記）",
-    "exampleSentence": "The developer applied for the **Registration of Consolidation of Parcels** for lots A, B, and C in order to simplify the administrative procedures for their planned large-scale housing project.",
-    "exampleTranslation": "その開発業者は、計画された大規模住宅事業の行政手続きを簡素化するため、A区画、B区画、C区画の合筆の登記を申請した。",
-    "vocabularyList": [
-      {
-        "word": "adjacent parcels",
-        "translation": "隣接する土地"
-      },
-      {
-        "word": "description section",
-        "translation": "表題部"
-      },
-      {
-        "word": "parcel classification",
-        "translation": "地目"
-      },
-      {
-        "word": "legal requirements",
-        "translation": "法的要件"
-      },
-      {
-        "word": "owner",
-        "translation": "所有者"
-      }
-    ]
-  },
-  {
-    "category": "Real Property Registration (不動産登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Registration of Area Correction",
     "definition": "A registration procedure to formally update the registered area (地積) of a parcel of land when discrepancies are found between the official record and the actual area determined by a certified land survey.",
     "japaneseDefinition": "土地の登記簿上の地積と、測量によって判明した現実の土地の面積との間に相違がある場合に、登記記録を正確なものに更正するための登記手続。",
@@ -18237,6 +18203,120 @@
       {
         "word": "mountain view",
         "translation": "山の眺望"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of the Relinquishment of a Right",
+    "definition": "A formal entry made in the property register to indicate that a holder has voluntarily given up a specific legal interest or entitlement in the property.",
+    "japaneseDefinition": "登記された権利を権利者が自発的に放棄した際に、その権利を消滅させるために行われる登記。",
+    "japaneseWordTranslation": "権利の放棄の登記 (けんりのほうきのとうき)",
+    "legalContext": "Real Property Registration Act: In cases where a registered right is relinquished, an application for the registration of the extinguishment of said right shall be filed.",
+    "japaneseLegalContext": "不動産登記法：登記された権利が放棄された場合、当該権利の抹消（消滅）の登記を申請しなければならない。",
+    "exampleSentence": "The registration of the relinquishment of a right must be filed to ensure that the public record accurately reflects that the former holder no longer has a claim to the land.",
+    "exampleTranslation": "公的な記録に以前の権利者がもはや土地に対する主張権を持っていないことを正確に反映させるため、権利の放棄の登記を申請しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Relinquishment",
+        "translation": "放棄"
+      },
+      {
+        "word": "Register",
+        "translation": "登記簿"
+      },
+      {
+        "word": "Entry",
+        "translation": "記入"
+      },
+      {
+        "word": "Formal",
+        "translation": "正式な"
+      },
+      {
+        "word": "Reflect",
+        "translation": "反映する"
+      },
+      {
+        "word": "Accurately",
+        "translation": "正確に"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of the Change of Name due to Naturalization",
+    "definition": "A procedure to update the property register when a registered holder changes their name as a result of obtaining Japanese citizenship.",
+    "japaneseDefinition": "日本国籍の取得（帰化）に伴い、登記名義人が氏名を変更した際に行う登記名義人表示変更の手続き。",
+    "japaneseWordTranslation": "帰化による氏名変更の登記 (きかによるしめいへんこうのとうき)",
+    "legalContext": "Real Property Registration Act: When there is a change in the name or address of the registered right holder, an application for registration of the change in the description of the registered right holder shall be filed.",
+    "japaneseLegalContext": "不動産登記法：登記名義人の氏名又は住所に変更があったときは、当該登記名義人は、その変更の登記を申請しなければならない。",
+    "exampleSentence": "After obtaining Japanese citizenship, the owner filed for a registration of the change of name due to naturalization to match the new family register entry.",
+    "exampleTranslation": "日本国籍を取得した後、所有者は新しい戸籍の記載に合わせるため、帰化による氏名変更の登記を申請した。",
+    "vocabularyList": [
+      {
+        "word": "Naturalization",
+        "translation": "帰化"
+      },
+      {
+        "word": "Update",
+        "translation": "更新"
+      },
+      {
+        "word": "Procedure",
+        "translation": "手続き"
+      },
+      {
+        "word": "Citizenship",
+        "translation": "国籍"
+      },
+      {
+        "word": "Result",
+        "translation": "結果"
+      },
+      {
+        "word": "Obtain",
+        "translation": "取得する"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of the Cession of Priority",
+    "definition": "The act of a higher-ranking right holder transferring their preferential position to a lower-ranking right holder within the property register.",
+    "japaneseDefinition": "不動産登記において、先順位の権利者がその優先的な地位を後順位の権利者に譲渡すること。",
+    "japaneseWordTranslation": "順位の譲渡の登記 (じゅんいのじょうとのとうき)",
+    "legalContext": "Real Property Registration Act: A registration of the cession of priority may be made by the agreement between the parties holding the respective ranks.",
+    "japaneseLegalContext": "不動産登記法：順位の譲渡の登記は、それぞれの順位を有する当事者間の合意によって行うことができる。",
+    "exampleSentence": "The bank agreed to the registration of the cession of priority in favor of the new construction lender to facilitate the project's funding.",
+    "exampleTranslation": "銀行はプロジェクトの資金調達を容易にするため、新しい建設融資者のために順位の譲渡の登記を行うことに合意した。",
+    "vocabularyList": [
+      {
+        "word": "Cession",
+        "translation": "譲渡"
+      },
+      {
+        "word": "Priority",
+        "translation": "順位"
+      },
+      {
+        "word": "Transfer",
+        "translation": "移転"
+      },
+      {
+        "word": "Preferential",
+        "translation": "優先的な"
+      },
+      {
+        "word": "Facilitate",
+        "translation": "促進する"
+      },
+      {
+        "word": "Agreement",
+        "translation": "合意"
       }
     ]
   }

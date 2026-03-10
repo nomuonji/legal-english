@@ -1,38 +1,34 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Real Property Registration (不動産登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Excessive Self-Defense",
-  "definition": "A situation where an act undertaken for justifiable defense exceeds the necessary extent of the defense, allowing the court discretion to reduce or remit the punishment, or impose a conditional suspension of execution of sentence.",
-  "japaneseDefinition": "正当防衛行為が、防衛のために必要な限度を超えてしまった場合を指す。情状により刑を減軽し、または免除することができる。",
-  "japaneseWordTranslation": "過剰防衛 (かじょうぼうえい)",
-  "legalContext": "Penal Code Art. 36, Par. 2: An act which exceeds the limits of justifiable defense may have the punishment reduced or remitted, or a conditional suspension of execution of sentence imposed, in consideration of the circumstances.",
-  "japaneseLegalContext": "刑法第36条第2項：防衛の程度を超えた行為は、情状により、その刑を減軽し、又は免除することができる。",
-  "exampleSentence": "Although the defendant claimed self-defense, the extreme violence used constituted excessive self-defense, leading to a reduced sentence rather than acquittal.",
-  "exampleTranslation": "被告人は正当防衛を主張したが、使用された極度の暴力は過剰防衛にあたり、無罪ではなく減刑という結果になった。",
+  "word": "Registration of Consolidation of Parcels",
+  "definition": "A type of registration conducted in the description section of the registry where two or more adjacent parcels of land are merged into a single parcel, provided they satisfy specific legal requirements such as identical parcel classification, owner, and registration status.",
+  "japaneseDefinition": "隣接する二つ以上の土地を一つの土地に合体させる登記。所有者が同一であること、地目が同一であることなど、特定の法的要件を満たす場合にのみ申請が可能となる。",
+  "japaneseWordTranslation": "合筆の登記 (がっぴつのとうき)",
+  "legalContext": "Real Property Registration Act Art. 41 (Registration of Consolidation of Parcels)",
+  "japaneseLegalContext": "不動産登記法 第41条（合筆の登記）",
+  "exampleSentence": "The developer applied for the **Registration of Consolidation of Parcels** for lots A, B, and C in order to simplify the administrative procedures for their planned large-scale housing project.",
+  "exampleTranslation": "その開発業者は、計画された大規模住宅事業の行政手続きを簡素化するため、A区画、B区画、C区画の合筆の登記を申請した。",
   "vocabularyList": [
     {
-      "word": "justifiable defense",
-      "translation": "正当防衛"
+      "word": "adjacent parcels",
+      "translation": "隣接する土地"
     },
     {
-      "word": "exceeds the limits",
-      "translation": "限度を超える"
+      "word": "description section",
+      "translation": "表題部"
     },
     {
-      "word": "reduce the punishment",
-      "translation": "刑を減軽する"
+      "word": "parcel classification",
+      "translation": "地目"
     },
     {
-      "word": "remit the punishment",
-      "translation": "刑を免除する"
+      "word": "legal requirements",
+      "translation": "法的要件"
     },
     {
-      "word": "extreme violence",
-      "translation": "極度の暴力"
-    },
-    {
-      "word": "acquittal",
-      "translation": "無罪"
+      "word": "owner",
+      "translation": "所有者"
     }
   ]
 }

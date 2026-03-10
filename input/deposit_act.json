@@ -16358,5 +16358,119 @@
         "translation": "指定された"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consignation for an Unidentifiable Obligee",
+    "definition": "A specific type of statutory deposit made when an obligor is unable to identify the person to whom the performance is due without any fault on their part, such as in cases of complicated inheritance or disputes over the status of a creditor.",
+    "japaneseDefinition": "債務者が過失なく債権者を特定することができない場合（相続関係が不明な場合や債権者の地位を巡って争いがある場合など）に認められる供託のこと。",
+    "japaneseWordTranslation": "債権者不確知の供託 (さいけんしゃふかくちのきょうたく)",
+    "legalContext": "Civil Code Art. 494, Para. 2: The same shall apply where the obligee cannot be identified, unless the obligor is at fault in this regard.",
+    "japaneseLegalContext": "民法第494条第2項：債権者を特定することができないときも、前項と同様とする。ただし、債務者に過失があるときは、この限りでない。",
+    "exampleSentence": "The tenant opted for consignation for an unidentifiable obligee because the ownership of the building was currently being contested between several heirs.",
+    "exampleTranslation": "ビルの所有権が複数の相続人間で争われていたため、賃借人は債権者不確知を理由とする供託を選択した。",
+    "vocabularyList": [
+      {
+        "word": "Unidentifiable",
+        "translation": "特定不能な"
+      },
+      {
+        "word": "Contested",
+        "translation": "争われている"
+      },
+      {
+        "word": "Heirs",
+        "translation": "相続人"
+      },
+      {
+        "word": "Tenant",
+        "translation": "賃借人"
+      },
+      {
+        "word": "Statutory",
+        "translation": "法廷の"
+      },
+      {
+        "word": "Performance",
+        "translation": "給付"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Administrative Protest against a Depositary Ruling",
+    "definition": "A formal legal challenge filed by an interested party with the Director of the Legal Affairs Bureau when they are dissatisfied with a decision or disposition made by a deposit official regarding a specific filing or withdrawal request.",
+    "japaneseDefinition": "供託官が行った供託の受理や還付の処分について不服がある場合に、法務局または地方法務局の長に対して申し立てる異議のこと。",
+    "japaneseWordTranslation": "供託官の処分に対する異議申立て (きょうたくかんのしょぶんにたいするいぎもうしたて)",
+    "legalContext": "Deposit Act Art. 10: A person who is dissatisfied with a disposition made by a deposit official may file an objection with the Director of the Legal Affairs Bureau.",
+    "japaneseLegalContext": "供託法第10条：供託官の処分を不当とする者は、法務局又は地方法務局の長に異議の申立てをすることができる。",
+    "exampleSentence": "The applicant filed an administrative protest against a depositary ruling after their request for the refund of the subject matter was rejected.",
+    "exampleTranslation": "供託物の還付請求が却下された後、申請者は供託官の処分に対する異議申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "Disposition",
+        "translation": "処分"
+      },
+      {
+        "word": "Dissatisfied",
+        "translation": "不服がある"
+      },
+      {
+        "word": "Official",
+        "translation": "公務員"
+      },
+      {
+        "word": "Filing",
+        "translation": "申請"
+      },
+      {
+        "word": "Rejected",
+        "translation": "却下された"
+      },
+      {
+        "word": "Ruling",
+        "translation": "決定"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Lapse of the Right to Claim Disbursement",
+    "definition": "The expiration of the legal timeframe during which a person entitled to a deposit must exercise their right to receive the funds or items, after which the assets typically revert to the state treasury.",
+    "japaneseDefinition": "供託物の還付を請求できる権利が、一定の期間行使されないことによって消滅すること。これにより、供託金は通常、国庫に帰属する。",
+    "japaneseWordTranslation": "供託金払渡請求権の時効消滅 (きょうたくきんはらいわたしせいきゅうけんのじこうしょうめつ)",
+    "legalContext": "Deposit Act Art. 15: The right to claim the return or refund of deposited money shall be extinguished by prescription if not exercised for ten years.",
+    "japaneseLegalContext": "供託法第15条：供託金の還付又は取戻しを請求する権利は、十年間行使しないときは、時効によって消滅する。",
+    "exampleSentence": "A statutory lapse of the right to claim disbursement occurs if the creditor fails to initiate the withdrawal process within the ten-year limitation period.",
+    "exampleTranslation": "債権者が10年の時効期間内に払渡手続を開始しなかった場合、還付請求権の時効消滅が発生する。",
+    "vocabularyList": [
+      {
+        "word": "Lapse",
+        "translation": "経過 / 消滅"
+      },
+      {
+        "word": "Disbursement",
+        "translation": "払渡し"
+      },
+      {
+        "word": "Extinguished",
+        "translation": "消滅した"
+      },
+      {
+        "word": "Expiration",
+        "translation": "満了"
+      },
+      {
+        "word": "Limitation period",
+        "translation": "時効期間"
+      },
+      {
+        "word": "State treasury",
+        "translation": "国庫"
+      }
+    ]
   }
 ]

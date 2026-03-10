@@ -20286,5 +20286,107 @@
         "translation": "〜に関連して"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Controlling Shareholder",
+    "definition": "A shareholder who holds a sufficient number of voting shares to exercise a significant influence or control over the management and policies of a company.",
+    "japaneseDefinition": "会社の経営や方針に対して実質的な影響力や支配権を行使できるだけの議決権を保有している株主。",
+    "japaneseWordTranslation": "支配株主 (しはいかぶぬし)",
+    "legalContext": "Companies Act Art. 441, etc. (While the Act often refers to a 'Special Controlling Shareholder' in the context of squeeze-outs, the broader concept of a 'Controlling Shareholder' is pivotal in corporate governance and fair disclosure regulations.)",
+    "japaneseLegalContext": "会社法第441条等（会社法上、株式等売渡請求の文脈では「特別支配株主」が登場するが、コーポレート・ガバナンスや公正なディスクロージャーの観点からは、より広い「支配株主」の概念が重要となる。）",
+    "exampleSentence": "The board must ensure that transactions with a controlling shareholder are conducted on an arm's length basis to protect the interests of minority investors.",
+    "exampleTranslation": "取締役会は、少数株主の利益を保護するため、支配株主との取引が公正な妥当性をもって（アームズ・レングス原則に基づき）行われることを確実にしなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Arm's length basis",
+        "translation": "対等な立場（第三者間取引）"
+      },
+      {
+        "word": "Significant influence",
+        "translation": "重要な影響力"
+      },
+      {
+        "word": "Governance",
+        "translation": "統治 / ガバナンス"
+      },
+      {
+        "word": "Investor",
+        "translation": "投資家"
+      },
+      {
+        "word": "Protection",
+        "translation": "保護"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Director",
+    "definition": "A director designated by the board in a large company with a board of directors to make decisions on specific matters, such as the disposal of significant assets or extensive borrowing, to expedite the decision-making process.",
+    "japaneseDefinition": "取締役会設置会社（大会社）において、重要な財産の処分や多額の借財などの特定の事項について、意思決定を迅速化するために取締役会によってあらかじめ選定された取締役。",
+    "japaneseWordTranslation": "特別取締役 (とくべつとりしまりやく)",
+    "legalContext": "Companies Act Art. 373: '...a Board of Directors of a Stock Company that is a Large Company ... may provide to the effect that a decision ... may be made by three or more Directors designated in advance (hereinafter referred to as \"Special Directors\").'",
+    "japaneseLegalContext": "会社法第373条：「大会社であって取締役会設置会社である株式会社は、…あらかじめ選定された3人以上の取締役（以下「特別取締役」という。）のうち、…過半数が出席し、その過半数をもって決定することができる旨を定めることができる。」",
+    "exampleSentence": "The company established a system of special directors to streamline the approval process for large-scale loans.",
+    "exampleTranslation": "その会社は、多額の借財に関する承認手続きを合理化するために、特別取締役制度を導入した。",
+    "vocabularyList": [
+      {
+        "word": "Streamline",
+        "translation": "合理化する / 迅速化する"
+      },
+      {
+        "word": "Large-scale loan",
+        "translation": "多額の借財"
+      },
+      {
+        "word": "Approval process",
+        "translation": "承認手続き"
+      },
+      {
+        "word": "Designated",
+        "translation": "指定された"
+      },
+      {
+        "word": "Expedite",
+        "translation": "促進する"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Minority Shareholder",
+    "definition": "A shareholder who holds a relatively small number of shares in a company and does not have the power to control the company's decisions on their own.",
+    "japaneseDefinition": "保有する株式数が比較的少なく、単独では会社の意思決定を支配する権限を持たない株主。",
+    "japaneseWordTranslation": "少数株主 (しょうすうかぶぬし)",
+    "legalContext": "Companies Act Art. 108, etc. (Minority shareholders are granted specific statutory rights, such as the right to demand a derivative suit or inspect books, to prevent oppression by the majority.)",
+    "japaneseLegalContext": "会社法第108条等（少数株主には、多数派による圧迫を防ぐため、代表訴訟の提起や帳簿閲覧権などの特定の法的権利が認められている。）",
+    "exampleSentence": "Under Japanese law, a minority shareholder holding at least three percent of the total voting rights may demand to inspect the company's accounting records.",
+    "exampleTranslation": "日本法の下では、総議決権の3パーセント以上を保有する少数株主は、会社の会計帳簿の閲覧を請求することができる。",
+    "vocabularyList": [
+      {
+        "word": "Oppression",
+        "translation": "圧迫 / 虐待"
+      },
+      {
+        "word": "Statutory rights",
+        "translation": "法定の権利"
+      },
+      {
+        "word": "Voting rights",
+        "translation": "議決権"
+      },
+      {
+        "word": "Inspect",
+        "translation": "閲覧する / 検査する"
+      },
+      {
+        "word": "Relatively",
+        "translation": "相対的に"
+      }
+    ]
   }
 ]

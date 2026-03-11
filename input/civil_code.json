@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Unilateral Act",
-    "definition": "A juridical act that becomes effective solely by the unilateral declaration of intent of one party, without requiring the consensus of the recipient or the counterparty.",
-    "japaneseDefinition": "一個の意思表示のみによって法律効果を発生させる法律行為。相手方の同意を必要としない。",
-    "japaneseWordTranslation": "単独行為 (たんどくこうい)",
-    "legalContext": "Civil Code (Part I, Chapter 5: Juridical Acts) outlines general principles, differentiating unilateral acts from contractual agreements (two-sided acts) and multilateral acts.",
-    "japaneseLegalContext": "民法（第1編第5章：法律行為）では、単独行為を契約（双方法律行為）や合同行為と区別し、その一般原則を定めている。",
-    "exampleSentence": "A will, being the purest form of a unilateral act, is legally binding once executed, regardless of the beneficiaries’ intent or acceptance.",
-    "exampleTranslation": "遺言は、最も純粋な形式の単独行為であり、受益者の意思や受諾に関係なく、作成された時点で法的に拘束力を持つ。",
-    "vocabularyList": [
-      {
-        "word": "juridical act",
-        "translation": "法律行為 (ほうりつこうい)"
-      },
-      {
-        "word": "declaration of intent",
-        "translation": "意思表示 (いしひょうじ)"
-      },
-      {
-        "word": "legally binding",
-        "translation": "法的拘束力 (ほうてきこうそくりょく)"
-      },
-      {
-        "word": "will (testament)",
-        "translation": "遺言 (いごん)"
-      },
-      {
-        "word": "beneficiary",
-        "translation": "受益者 (じゅえきしゃ)"
-      },
-      {
-        "word": "consensus",
-        "translation": "合意 (ごうい)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Real Right (Proprietary Right)",
     "definition": "A right held directly over a specific thing (property), enforceable against all others (erga omnes), establishing a direct relationship between the right holder and the thing itself, such as ownership or security interests.",
     "japaneseDefinition": "特定物に対する直接的な支配権であり、所有権や担保物権などが含まれる。全ての人に対して主張できる効力（絶対性）を持つ。",
@@ -25754,6 +25716,108 @@
       {
         "word": "Mistaken",
         "translation": "誤った"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statute of Repose",
+    "definition": "A law that sets a strict maximum time limit on when a legal claim can be brought, which, unlike a statute of limitations, is generally not subject to suspension or renewal.",
+    "japaneseDefinition": "一定の期間の経過によって権利が当然に消滅する期間。時効と異なり、中断や更新が認められないのが原則である。",
+    "japaneseWordTranslation": "除斥期間 (じょせききかん)",
+    "legalContext": "Civil Code Art. 724-2: The right to demand compensation for damages resulting from the death of a person... shall be extinguished if it is not exercised within 20 years from the time of the tort.",
+    "japaneseLegalContext": "民法第724条の2：人の生命又は身体を害する不法行為による損害賠償請求権の消滅時効は、...不法行為の時から20年間行使しないときも、同様（消滅）とする。",
+    "exampleSentence": "The claim was dismissed because the statute of repose had already expired, regardless of when the injury was discovered.",
+    "exampleTranslation": "損害の発見時期に関わらず、除斥期間がすでに経過していたため、請求は棄却された。",
+    "vocabularyList": [
+      {
+        "word": "Dismiss",
+        "translation": "棄却する"
+      },
+      {
+        "word": "Expire",
+        "translation": "経過する"
+      },
+      {
+        "word": "Exercise",
+        "translation": "行使する"
+      },
+      {
+        "word": "Compensation",
+        "translation": "賠償"
+      },
+      {
+        "word": "Extinguish",
+        "translation": "消滅する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Doctrine of Apparent Ownership",
+    "definition": "The legal principle where a person who is not the true owner of property but appears to be so (e.g., through registration or possession) may validly transfer title to a third party who relies on that appearance.",
+    "japaneseDefinition": "真実の権利者ではない者が、登記や占有などの外観を有している場合に、その外観を信頼して取引をした第三者を保護する法理。",
+    "japaneseWordTranslation": "権利外観法理 (けんりがいかんほうり)",
+    "legalContext": "Civil Code Art. 94, Para. 2: The nullity of a fictitious manifestation of intention... may not be asserted against a third party in good faith.",
+    "japaneseLegalContext": "民法第94条2項：相手方と通じてした虚偽の意思表示の無効は、善意の第三者に対抗することができない。",
+    "exampleSentence": "The court applied the doctrine of apparent ownership to protect the buyer who relied on the inaccurate land registry.",
+    "exampleTranslation": "裁判所は、不正確な不動産登記を信頼した買主を保護するために、権利外観法理を適用した。",
+    "vocabularyList": [
+      {
+        "word": "True owner",
+        "translation": "真実の権利者"
+      },
+      {
+        "word": "Inaccurate",
+        "translation": "不正確な"
+      },
+      {
+        "word": "Land registry",
+        "translation": "不動産登記"
+      },
+      {
+        "word": "Rely on",
+        "translation": "信頼する"
+      },
+      {
+        "word": "Assert",
+        "translation": "主張する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Statutory Fruit-bearing Right",
+    "definition": "The legal right of a party to collect the economic benefits (such as rent or interest) produced by a thing during a specific period of time.",
+    "japaneseDefinition": "物の使用の対価として受けるべき金銭その他の物（法定果実）を取得する権利。",
+    "japaneseWordTranslation": "法定果実収取権 (ほうていかじつしゅうしゅけん)",
+    "legalContext": "Civil Code Art. 89, Para. 2: Statutory fruits shall be acquired in proportion to the number of days according to the duration of the right to acquire them.",
+    "japaneseLegalContext": "民法第89条2項：法定果実は、これを収取する権利の存続期間に応じて、日割り計算により取得する。",
+    "exampleSentence": "The seller retained the statutory fruit-bearing right until the date of the property transfer, entitling them to the rental income for that month.",
+    "exampleTranslation": "売主は物件引渡日まで法定果実収取権を保持していたため、その月までの賃料収入を得る権利があった。",
+    "vocabularyList": [
+      {
+        "word": "In proportion to",
+        "translation": "比例して"
+      },
+      {
+        "word": "Duration",
+        "translation": "存続期間"
+      },
+      {
+        "word": "Acquire",
+        "translation": "取得する"
+      },
+      {
+        "word": "Rental income",
+        "translation": "賃料収入"
+      },
+      {
+        "word": "Entitle",
+        "translation": "権利を与える"
       }
     ]
   }

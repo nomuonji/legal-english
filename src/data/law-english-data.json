@@ -1,34 +1,38 @@
 {
-  "category": "Real Property Registration (不動産登記法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Registration of Consolidation of Parcels",
-  "definition": "A type of registration conducted in the description section of the registry where two or more adjacent parcels of land are merged into a single parcel, provided they satisfy specific legal requirements such as identical parcel classification, owner, and registration status.",
-  "japaneseDefinition": "隣接する二つ以上の土地を一つの土地に合体させる登記。所有者が同一であること、地目が同一であることなど、特定の法的要件を満たす場合にのみ申請が可能となる。",
-  "japaneseWordTranslation": "合筆の登記 (がっぴつのとうき)",
-  "legalContext": "Real Property Registration Act Art. 41 (Registration of Consolidation of Parcels)",
-  "japaneseLegalContext": "不動産登記法 第41条（合筆の登記）",
-  "exampleSentence": "The developer applied for the **Registration of Consolidation of Parcels** for lots A, B, and C in order to simplify the administrative procedures for their planned large-scale housing project.",
-  "exampleTranslation": "その開発業者は、計画された大規模住宅事業の行政手続きを簡素化するため、A区画、B区画、C区画の合筆の登記を申請した。",
+  "word": "Unilateral Act",
+  "definition": "A juridical act that becomes effective solely by the unilateral declaration of intent of one party, without requiring the consensus of the recipient or the counterparty.",
+  "japaneseDefinition": "一個の意思表示のみによって法律効果を発生させる法律行為。相手方の同意を必要としない。",
+  "japaneseWordTranslation": "単独行為 (たんどくこうい)",
+  "legalContext": "Civil Code (Part I, Chapter 5: Juridical Acts) outlines general principles, differentiating unilateral acts from contractual agreements (two-sided acts) and multilateral acts.",
+  "japaneseLegalContext": "民法（第1編第5章：法律行為）では、単独行為を契約（双方法律行為）や合同行為と区別し、その一般原則を定めている。",
+  "exampleSentence": "A will, being the purest form of a unilateral act, is legally binding once executed, regardless of the beneficiaries’ intent or acceptance.",
+  "exampleTranslation": "遺言は、最も純粋な形式の単独行為であり、受益者の意思や受諾に関係なく、作成された時点で法的に拘束力を持つ。",
   "vocabularyList": [
     {
-      "word": "adjacent parcels",
-      "translation": "隣接する土地"
+      "word": "juridical act",
+      "translation": "法律行為 (ほうりつこうい)"
     },
     {
-      "word": "description section",
-      "translation": "表題部"
+      "word": "declaration of intent",
+      "translation": "意思表示 (いしひょうじ)"
     },
     {
-      "word": "parcel classification",
-      "translation": "地目"
+      "word": "legally binding",
+      "translation": "法的拘束力 (ほうてきこうそくりょく)"
     },
     {
-      "word": "legal requirements",
-      "translation": "法的要件"
+      "word": "will (testament)",
+      "translation": "遺言 (いごん)"
     },
     {
-      "word": "owner",
-      "translation": "所有者"
+      "word": "beneficiary",
+      "translation": "受益者 (じゅえきしゃ)"
+    },
+    {
+      "word": "consensus",
+      "translation": "合意 (ごうい)"
     }
   ]
 }

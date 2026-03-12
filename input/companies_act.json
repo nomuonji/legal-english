@@ -2,44 +2,6 @@
   {
     "category": "Companies Act (会社法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Special Resolution",
-    "definition": "A resolution of the general meeting of shareholders requiring a higher voting threshold than an ordinary resolution, typically necessary for fundamental changes to the corporation, such as amendments to the articles of incorporation or significant asset transfers.",
-    "japaneseDefinition": "株主総会における決議の一種で、議決権を行使できる株主の議決権の過半数が出席し、出席株主の議決権の3分の2以上の多数をもって行う決議。会社の根幹に関わる事項に適用される。",
-    "japaneseWordTranslation": "特別決議 (とくべつけつぎ)",
-    "legalContext": "Companies Act Art. 309, Para. 2 (Special Resolutions of Shareholders Meetings)",
-    "japaneseLegalContext": "会社法第309条第2項 (株主総会の決議)",
-    "exampleSentence": "The proposal to sell the entire domestic business required a Special Resolution, achieving approval from 75% of the shares represented at the shareholders meeting.",
-    "exampleTranslation": "国内事業全体を売却する案は、株主総会に出席した議決権の75%の承認を得て、特別決議の要件を満たした。",
-    "vocabularyList": [
-      {
-        "word": "ordinary resolution",
-        "translation": "普通決議"
-      },
-      {
-        "word": "amendment",
-        "translation": "変更（修正）"
-      },
-      {
-        "word": "voting threshold",
-        "translation": "議決権の要件"
-      },
-      {
-        "word": "quorum",
-        "translation": "定足数"
-      },
-      {
-        "word": "represented",
-        "translation": "出席した"
-      },
-      {
-        "word": "shareholders meeting",
-        "translation": "株主総会"
-      }
-    ]
-  },
-  {
-    "category": "Companies Act (会社法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Incorporator",
     "definition": "A person who plans the establishment of a company and signs the Articles of Incorporation. They undertake the necessary organizational activities and assume statutory liabilities related to the formation process.",
     "japaneseDefinition": "会社の設立を企画し、定款に署名する者。設立手続きに必要な行為を行い、設立に関する法的責任を負う。",
@@ -20614,6 +20576,120 @@
       {
         "word": "Leader",
         "translation": "指導者・後継者"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Notice to Known Creditors",
+    "definition": "A specific legal requirement for a company to individually notify all identifiable parties to whom it owes obligations during significant corporate changes, such as a decrease in capital or corporate integration.",
+    "japaneseDefinition": "減資や合併などの重要な企業組織の変更に際して、会社が把握している特定の債権者に対して個別に行わなければならない通知のこと。",
+    "japaneseWordTranslation": "知れている債権者への催告 (しれているさいけんしゃへのさいこく)",
+    "legalContext": "Companies Act Art. 449, Para. 2: In the case of a capital decrease, the company must provide public notice and individual notice to each known creditor to allow them to state any dissent.",
+    "japaneseLegalContext": "会社法第449条第2項：資本金の額の減少をする場合には、会社は、官報に公告し、かつ、知れている債権者には、各別にこれを催告しなければならない。",
+    "exampleSentence": "The validity of the corporate integration was challenged because the company failed to provide the required notice to known creditors.",
+    "exampleTranslation": "会社が知れている債権者への催告を怠ったため、その企業統合の効力が争われた。",
+    "vocabularyList": [
+      {
+        "word": "Known creditor",
+        "translation": "知れている債権者"
+      },
+      {
+        "word": "Individual notice",
+        "translation": "各別の催告"
+      },
+      {
+        "word": "Capital decrease",
+        "translation": "資本金の額の減少"
+      },
+      {
+        "word": "Public notice",
+        "translation": "公告"
+      },
+      {
+        "word": "Dissent",
+        "translation": "異議"
+      },
+      {
+        "word": "Corporate integration",
+        "translation": "企業統合"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Omission of Convocation Procedures",
+    "definition": "A provision that allows a company to hold an assembly of owners without following the standard formal summoning steps or notice periods, provided that every person entitled to vote gives their unanimous accord.",
+    "japaneseDefinition": "議決権を行使することができる株主の全員の同意がある場合に、招集期間や招集通知などの法定の手続きを経ずに株主総会を開催できること。",
+    "japaneseWordTranslation": "招集手続の省略 (しょうしゅうてつづきのしょうりゃく)",
+    "legalContext": "Companies Act Art. 300: An assembly of owners may be held without following the summoning procedures if all stockholders consent.",
+    "japaneseLegalContext": "会社法第300条：株主総会は、招集の手続を経ることなく開催することができる。ただし、株主の全員の同意がある場合に限る。",
+    "exampleSentence": "By utilizing the omission of convocation procedures, the closely held entity was able to pass the urgent formal decision within a single day.",
+    "exampleTranslation": "招集手続の省略を利用することで、その閉鎖会社は一日のうちに緊急の正式決定を行うことができた。",
+    "vocabularyList": [
+      {
+        "word": "Summoning procedures",
+        "translation": "招集手続"
+      },
+      {
+        "word": "Unanimous accord",
+        "translation": "全員の同意"
+      },
+      {
+        "word": "Stockholder",
+        "translation": "株主"
+      },
+      {
+        "word": "Formal decision",
+        "translation": "決議"
+      },
+      {
+        "word": "Closely held entity",
+        "translation": "同族会社・非公開会社"
+      },
+      {
+        "word": "Assembly of owners",
+        "translation": "株主総会"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Explanation for the Refusal of Transfer",
+    "definition": "The obligation of a company to provide the specific rationale behind its decision not to sanction a requested transfer of rights involving shares that are subject to constraints on assignment.",
+    "japaneseDefinition": "譲渡制限株式について、会社が譲渡の承認を拒絶した場合に、その具体的な理由を明らかにする義務のこと。",
+    "japaneseWordTranslation": "譲渡承認拒絶の理由の説明 (じょうとしょうにんきょぜつのりゆうのせつめい)",
+    "legalContext": "Companies Act Art. 141, Para. 2: If a company does not approve the transfer of shares, the person requesting the transfer may demand an explanation for such refusal.",
+    "japaneseLegalContext": "会社法第141条第2項：株式会社が株式の譲渡を承認しない旨の決定をしたときは、譲渡等承認請求者は、当該株式会社に対し、拒絶の理由の説明を求めることができる。",
+    "exampleSentence": "The board provided a written explanation for the refusal of transfer, stating that the proposed assignee was a direct competitor.",
+    "exampleTranslation": "取締役会は、譲渡等承認の拒絶の理由について、譲受予定者が直接の競合他社であるとする書面による説明を行った。",
+    "vocabularyList": [
+      {
+        "word": "Refusal of transfer",
+        "translation": "譲渡の拒絶"
+      },
+      {
+        "word": "Rationale",
+        "translation": "根拠・理由"
+      },
+      {
+        "word": "Proposed assignee",
+        "translation": "譲受予定者"
+      },
+      {
+        "word": "Constraint on assignment",
+        "translation": "譲渡の制限"
+      },
+      {
+        "word": "Transfer of rights",
+        "translation": "権利の譲渡"
+      },
+      {
+        "word": "Sanction",
+        "translation": "認可・承認"
       }
     ]
   }

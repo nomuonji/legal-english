@@ -18395,5 +18395,119 @@
         "translation": "書類上の"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Boundary Investigation Officer",
+    "definition": "An official at the Legal Affairs Bureau who conducts investigations, examines evidence, and presents opinions to the registrar regarding the identification and determination of parcel boundaries (hikkai).",
+    "japaneseDefinition": "筆界特定手続において、登記官の命を受けて、土地の筆界に関する調査を行い、証拠調べをし、筆界に関する意見を登記官に提出する法務局の職員。",
+    "japaneseWordTranslation": "筆界調査官 (ひっかいちょうさかん)",
+    "legalContext": "Real Property Registration Act Art. 127: The Registrar for Parcel Boundary Examination shall designate a boundary investigation officer for each case of an application for parcel boundary examination.",
+    "japaneseLegalContext": "不動産登記法第127条：筆界特定登記官は、筆界特定の手続において、筆界調査官を指名しなければならない。",
+    "exampleSentence": "The Boundary Investigation Officer conducted a field survey to verify the historical parcel lines between the two adjacent lots.",
+    "exampleTranslation": "筆界調査官は、隣接する2つの区画間の歴史的な筆界を確認するために実地調査を行った。",
+    "vocabularyList": [
+      {
+        "word": "Field survey",
+        "translation": "実地調査"
+      },
+      {
+        "word": "Adjacent lots",
+        "translation": "隣接地"
+      },
+      {
+        "word": "Parcel boundary examination",
+        "translation": "筆界特定"
+      },
+      {
+        "word": "Legal Affairs Bureau",
+        "translation": "法務局"
+      },
+      {
+        "word": "Verification",
+        "translation": "確認・検証"
+      },
+      {
+        "word": "Registrar",
+        "translation": "登記官"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registry Map Data",
+    "definition": "Digital geographic information and mapping records maintained by the registry office in an electronic format, serving as the official cartographic basis for identifying land parcels.",
+    "japaneseDefinition": "登記所に備え付けられる地図（第14条地図等）について、電子データとして記録・管理されている地理情報。土地の区画を特定する公的な図面データ。",
+    "japaneseWordTranslation": "地図データ (ちずでーた)",
+    "legalContext": "Real Property Registration Act Art. 14, Para. 1: A registry office shall keep maps. ...Such maps may be prepared by means of magnetic disks.",
+    "japaneseLegalContext": "不動産登記法第14条第1項：登記所には、地図を備え付けるものとする。…前項の規定により備え付ける地図は、電磁的記録をもって調製することができる。",
+    "exampleSentence": "The Registry Map Data was utilized to accurately identify the coordinate points of the newly divided land parcel.",
+    "exampleTranslation": "新しく分筆された土地の座標点を正確に特定するために、地図データが活用された。",
+    "vocabularyList": [
+      {
+        "word": "Coordinate points",
+        "translation": "座標点"
+      },
+      {
+        "word": "Divided land parcel",
+        "translation": "分筆された土地"
+      },
+      {
+        "word": "Electronic format",
+        "translation": "電子的形式"
+      },
+      {
+        "word": "Cartographic",
+        "translation": "地図製作の"
+      },
+      {
+        "word": "Registry office",
+        "translation": "登記所"
+      },
+      {
+        "word": "Magnetic disk",
+        "translation": "磁気ディスク"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registry Document Retention Period",
+    "definition": "The legally prescribed duration for which the registry office must preserve various applications, supporting documents, and registered records before they are eligible for disposal.",
+    "japaneseDefinition": "不動産登記に関する申請書、添付書類、および登記簿の原本等を登記所が保存しなければならない法定の期間。",
+    "japaneseWordTranslation": "登記書類の保存期間 (とうきしょるいのほぞんきかん)",
+    "legalContext": "Regulation on Real Property Registration Art. 28: The retention period for the application for registration and its annexed documents shall be ten years from the year following the date of reception.",
+    "japaneseLegalContext": "不動産登記規則第28条：登記の申請書及びその附属書類の保存期間は、受付の日から十年間とする。",
+    "exampleSentence": "The Registry Document Retention Period ensures that historical transfer records remain accessible for verification for a minimum of ten years.",
+    "exampleTranslation": "登記書類の保存期間により、過去の移転記録が少なくとも10年間は確認のために閲覧可能な状態で維持される。",
+    "vocabularyList": [
+      {
+        "word": "Preserve",
+        "translation": "保存する"
+      },
+      {
+        "word": "Disposal",
+        "translation": "廃棄"
+      },
+      {
+        "word": "Annexed documents",
+        "translation": "附属書類"
+      },
+      {
+        "word": "Date of reception",
+        "translation": "受付の日"
+      },
+      {
+        "word": "Historical records",
+        "translation": "歴史的記録"
+      },
+      {
+        "word": "Verification",
+        "translation": "照合・確認"
+      }
+    ]
   }
 ]

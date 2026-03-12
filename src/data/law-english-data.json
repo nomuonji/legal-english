@@ -1,38 +1,38 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Companies Act (会社法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Issues in dispute",
-  "definition": "The specific factual or legal points on which the parties disagree and which must be resolved by the court to reach a judgment.",
-  "japaneseDefinition": "当事者間に争いがあり、判決のために裁判所が解決しなければならない具体的かつ核心的な事実上または法律上の論点。",
-  "japaneseWordTranslation": "争点 (そうてん)",
-  "legalContext": "Code of Civil Procedure Art. 167 (Stipulation of Issues and Evidence): The court shall, in accordance with the circumstances of the case, clarify the issues in dispute and the necessary evidence.",
-  "japaneseLegalContext": "民事訴訟法第167条 (争点及び証拠の整理): 裁判所は、事案に応じて、争点及び証拠の整理を行わなければならない。",
-  "exampleSentence": "The court utilized the preparatory procedure to clarify and narrow the issues in dispute, ensuring a focused examination of evidence.",
-  "exampleTranslation": "裁判所は、集中的な証拠調べを確実にするため、準備手続を利用して争点を明確化し、絞り込んだ。",
+  "word": "Special Resolution",
+  "definition": "A resolution of the general meeting of shareholders requiring a higher voting threshold than an ordinary resolution, typically necessary for fundamental changes to the corporation, such as amendments to the articles of incorporation or significant asset transfers.",
+  "japaneseDefinition": "株主総会における決議の一種で、議決権を行使できる株主の議決権の過半数が出席し、出席株主の議決権の3分の2以上の多数をもって行う決議。会社の根幹に関わる事項に適用される。",
+  "japaneseWordTranslation": "特別決議 (とくべつけつぎ)",
+  "legalContext": "Companies Act Art. 309, Para. 2 (Special Resolutions of Shareholders Meetings)",
+  "japaneseLegalContext": "会社法第309条第2項 (株主総会の決議)",
+  "exampleSentence": "The proposal to sell the entire domestic business required a Special Resolution, achieving approval from 75% of the shares represented at the shareholders meeting.",
+  "exampleTranslation": "国内事業全体を売却する案は、株主総会に出席した議決権の75%の承認を得て、特別決議の要件を満たした。",
   "vocabularyList": [
     {
-      "word": "clarify",
-      "translation": "明確化する"
+      "word": "ordinary resolution",
+      "translation": "普通決議"
     },
     {
-      "word": "narrow",
-      "translation": "絞り込む"
+      "word": "amendment",
+      "translation": "変更（修正）"
     },
     {
-      "word": "focused examination",
-      "translation": "集中的な証拠調べ"
+      "word": "voting threshold",
+      "translation": "議決権の要件"
     },
     {
-      "word": "preparatory procedure",
-      "translation": "準備手続"
+      "word": "quorum",
+      "translation": "定足数"
     },
     {
-      "word": "stipulation",
-      "translation": "整理"
+      "word": "represented",
+      "translation": "出席した"
     },
     {
-      "word": "evidence",
-      "translation": "証拠"
+      "word": "shareholders meeting",
+      "translation": "株主総会"
     }
   ]
 }

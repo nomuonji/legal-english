@@ -1,38 +1,42 @@
 {
-  "category": "Companies Act (会社法)",
+  "category": "Deposit Act (供託法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Special Resolution",
-  "definition": "A resolution of the general meeting of shareholders requiring a higher voting threshold than an ordinary resolution, typically necessary for fundamental changes to the corporation, such as amendments to the articles of incorporation or significant asset transfers.",
-  "japaneseDefinition": "株主総会における決議の一種で、議決権を行使できる株主の議決権の過半数が出席し、出席株主の議決権の3分の2以上の多数をもって行う決議。会社の根幹に関わる事項に適用される。",
-  "japaneseWordTranslation": "特別決議 (とくべつけつぎ)",
-  "legalContext": "Companies Act Art. 309, Para. 2 (Special Resolutions of Shareholders Meetings)",
-  "japaneseLegalContext": "会社法第309条第2項 (株主総会の決議)",
-  "exampleSentence": "The proposal to sell the entire domestic business required a Special Resolution, achieving approval from 75% of the shares represented at the shareholders meeting.",
-  "exampleTranslation": "国内事業全体を売却する案は、株主総会に出席した議決権の75%の承認を得て、特別決議の要件を満たした。",
+  "word": "Business Guarantee Deposit",
+  "definition": "A mandatory deposit required by specific sectoral laws (e.g., real estate or travel services) to ensure that the obligor has sufficient financial backing to compensate customers or clients for damages arising from business operations.",
+  "japaneseDefinition": "特定の業法に基づき、営業活動から生じた顧客に対する損害賠償のために、債務者が十分な資金的裏付けを有することを確保するために義務付けられる供託。",
+  "japaneseWordTranslation": "営業保証供託 (えいぎょうほしょうきょうたく)",
+  "legalContext": "Travel Agency Act, Art. 10 (Principle): A registered travel agency must, prior to commencing its business, place a Business Guarantee Deposit with a designated office.",
+  "japaneseLegalContext": "旅行業法第10条（原則）：登録を受けた旅行業者は、事業を開始する前に、指定の供託所に営業保証供託を行わなければならない。",
+  "exampleSentence": "Failure to place the required Business Guarantee Deposit can lead to the revocation of the business license under the relevant sectoral legislation.",
+  "exampleTranslation": "必要な営業保証供託を怠ると、関連する業法に基づき営業許可の取消しにつながる可能性がある。",
   "vocabularyList": [
     {
-      "word": "ordinary resolution",
-      "translation": "普通決議"
+      "word": "sectoral laws",
+      "translation": "業法"
     },
     {
-      "word": "amendment",
-      "translation": "変更（修正）"
+      "word": "mandatory",
+      "translation": "義務的な"
     },
     {
-      "word": "voting threshold",
-      "translation": "議決権の要件"
+      "word": "obligor",
+      "translation": "債務者"
     },
     {
-      "word": "quorum",
-      "translation": "定足数"
+      "word": "compensation",
+      "translation": "賠償"
     },
     {
-      "word": "represented",
-      "translation": "出席した"
+      "word": "financial backing",
+      "translation": "資金的裏付け"
     },
     {
-      "word": "shareholders meeting",
-      "translation": "株主総会"
+      "word": "revocation",
+      "translation": "取消し"
+    },
+    {
+      "word": "relevant legislation",
+      "translation": "関連法規"
     }
   ]
 }

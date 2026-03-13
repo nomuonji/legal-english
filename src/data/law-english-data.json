@@ -1,42 +1,38 @@
 {
-  "category": "Deposit Act (供託法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Business Guarantee Deposit",
-  "definition": "A mandatory deposit required by specific sectoral laws (e.g., real estate or travel services) to ensure that the obligor has sufficient financial backing to compensate customers or clients for damages arising from business operations.",
-  "japaneseDefinition": "特定の業法に基づき、営業活動から生じた顧客に対する損害賠償のために、債務者が十分な資金的裏付けを有することを確保するために義務付けられる供託。",
-  "japaneseWordTranslation": "営業保証供託 (えいぎょうほしょうきょうたく)",
-  "legalContext": "Travel Agency Act, Art. 10 (Principle): A registered travel agency must, prior to commencing its business, place a Business Guarantee Deposit with a designated office.",
-  "japaneseLegalContext": "旅行業法第10条（原則）：登録を受けた旅行業者は、事業を開始する前に、指定の供託所に営業保証供託を行わなければならない。",
-  "exampleSentence": "Failure to place the required Business Guarantee Deposit can lead to the revocation of the business license under the relevant sectoral legislation.",
-  "exampleTranslation": "必要な営業保証供託を怠ると、関連する業法に基づき営業許可の取消しにつながる可能性がある。",
+  "word": "Real Right (Proprietary Right)",
+  "definition": "A right held directly over a specific thing (property), enforceable against all others (erga omnes), establishing a direct relationship between the right holder and the thing itself, such as ownership or security interests.",
+  "japaneseDefinition": "特定物に対する直接的な支配権であり、所有権や担保物権などが含まれる。全ての人に対して主張できる効力（絶対性）を持つ。",
+  "japaneseWordTranslation": "ぶっけん (bukken)",
+  "legalContext": "Civil Code, Book II (物権): Real Rights are governed by the principle of numerus clausus (物権法定主義), meaning rights can only be created by law or customary law.",
+  "japaneseLegalContext": "民法第175条（物権法定主義）: 物権は、法律に定めるもののほか、慣習によるものでなければ、創設することができない。",
+  "exampleSentence": "The transferee demanded that the seller perfect the Real Right of ownership through registration immediately following the conclusion of the sales agreement.",
+  "exampleTranslation": "譲受人は、売主に対し、売買契約の締結後直ちに所有権の物権を登記によって対抗要件を備えるよう要求した。",
   "vocabularyList": [
     {
-      "word": "sectoral laws",
-      "translation": "業法"
+      "word": "transferee",
+      "translation": "譲受人 (jōjunin)"
     },
     {
-      "word": "mandatory",
-      "translation": "義務的な"
+      "word": "ownership",
+      "translation": "所有権 (shoyūken)"
     },
     {
-      "word": "obligor",
-      "translation": "債務者"
+      "word": "perfection",
+      "translation": "対抗要件を備える (taikō yōken o sonaeru)"
     },
     {
-      "word": "compensation",
-      "translation": "賠償"
+      "word": "registration",
+      "translation": "登記 (tōki)"
     },
     {
-      "word": "financial backing",
-      "translation": "資金的裏付け"
+      "word": "numerus clausus",
+      "translation": "法定主義 (hōtei shugi)"
     },
     {
-      "word": "revocation",
-      "translation": "取消し"
-    },
-    {
-      "word": "relevant legislation",
-      "translation": "関連法規"
+      "word": "sales agreement",
+      "translation": "売買契約 (baibai keiyaku)"
     }
   ]
 }

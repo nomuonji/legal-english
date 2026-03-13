@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Real Right (Proprietary Right)",
-    "definition": "A right held directly over a specific thing (property), enforceable against all others (erga omnes), establishing a direct relationship between the right holder and the thing itself, such as ownership or security interests.",
-    "japaneseDefinition": "特定物に対する直接的な支配権であり、所有権や担保物権などが含まれる。全ての人に対して主張できる効力（絶対性）を持つ。",
-    "japaneseWordTranslation": "ぶっけん (bukken)",
-    "legalContext": "Civil Code, Book II (物権): Real Rights are governed by the principle of numerus clausus (物権法定主義), meaning rights can only be created by law or customary law.",
-    "japaneseLegalContext": "民法第175条（物権法定主義）: 物権は、法律に定めるもののほか、慣習によるものでなければ、創設することができない。",
-    "exampleSentence": "The transferee demanded that the seller perfect the Real Right of ownership through registration immediately following the conclusion of the sales agreement.",
-    "exampleTranslation": "譲受人は、売主に対し、売買契約の締結後直ちに所有権の物権を登記によって対抗要件を備えるよう要求した。",
-    "vocabularyList": [
-      {
-        "word": "transferee",
-        "translation": "譲受人 (jōjunin)"
-      },
-      {
-        "word": "ownership",
-        "translation": "所有権 (shoyūken)"
-      },
-      {
-        "word": "perfection",
-        "translation": "対抗要件を備える (taikō yōken o sonaeru)"
-      },
-      {
-        "word": "registration",
-        "translation": "登記 (tōki)"
-      },
-      {
-        "word": "numerus clausus",
-        "translation": "法定主義 (hōtei shugi)"
-      },
-      {
-        "word": "sales agreement",
-        "translation": "売買契約 (baibai keiyaku)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Juridical Act (Legal Act)",
     "definition": "An act intending to create, alter, or extinguish legal rights or obligations, where the resulting legal effect (e.g., the formation of a contract or a will) is determined primarily by the content of the actor's declaration of intent.",
     "japaneseDefinition": "権利義務の発生、変更、消滅を意図する行為であり、その法的な効果が、行為者の意思表示の内容に従って発生するもの（契約や遺言など）。",
@@ -26262,6 +26224,108 @@
       {
         "word": "excused from",
         "translation": "〜を免除される"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Main Tenor",
+    "definition": "The specific purpose, essence, and intended method of fulfilling a debt or duty as established by the underlying agreement or the nature of the duty itself.",
+    "japaneseDefinition": "債務が本来的に持っている目的や、契約の趣旨、取引上の慣習などから期待される具体的な給付の内容のこと。",
+    "japaneseWordTranslation": "債務の本旨 (さいむのほんし)",
+    "legalContext": "Civil Code Art. 415: If an obligor fails to perform in accordance with the main tenor of the obligation, the obligee may claim damages for any loss caused by such failure.",
+    "japaneseLegalContext": "民法第415条：債務者がその債務の本旨に従った履行をしないときは、債権者は、これによって生じた損害の賠償を請求することができる。",
+    "exampleSentence": "The court ruled that the delivery of a defective machine did not constitute performance in accordance with the main tenor of the agreement.",
+    "exampleTranslation": "裁判所は、欠陥のある機械の引き渡しは、合意の債務の本旨に従った履行を構成しないと判断した。",
+    "vocabularyList": [
+      {
+        "word": "In accordance with",
+        "translation": "〜に従って"
+      },
+      {
+        "word": "Constitute",
+        "translation": "〜を構成する"
+      },
+      {
+        "word": "Underlying agreement",
+        "translation": "根底にある合意（原本の契約）"
+      },
+      {
+        "word": "Fulfilling",
+        "translation": "果たすこと（履行）"
+      },
+      {
+        "word": "Tenor",
+        "translation": "本旨、趣旨"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Peaceful and Open",
+    "definition": "A standard of conduct for the holding of property that is not acquired by force (peaceful) and is not concealed from others (open).",
+    "japaneseDefinition": "暴行や強迫などの強引な手段を用いず（平穏）、かつ他人に隠さず堂々と（公然）占有を継続している状態を指す。",
+    "japaneseWordTranslation": "平穏かつ公然 (へいおんかつこうぜん)",
+    "legalContext": "Civil Code Art. 162: A person who has, for 20 years, held the peaceful and open possession of a thing with the intent to own shall acquire ownership thereof.",
+    "japaneseLegalContext": "民法第162条：二十年間、所有の意思をもって、平穏に、かつ、公然と他人の物を占有した者は、その所有権を取得する。",
+    "exampleSentence": "To satisfy the requirements for adverse possession, the occupant must prove their stay was peaceful and open for the entire statutory duration.",
+    "exampleTranslation": "取得時効の要件を満たすためには、占有者はその滞在が法定期間を通じて平穏かつ公然であったことを証明しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Adverse possession",
+        "translation": "取得時効（占有による取得）"
+      },
+      {
+        "word": "Concealed",
+        "translation": "隠された"
+      },
+      {
+        "word": "Statutory duration",
+        "translation": "法定期間"
+      },
+      {
+        "word": "Occupant",
+        "translation": "占有者、居住者"
+      },
+      {
+        "word": "Satisfy the requirements",
+        "translation": "要件を満たす"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Animus Domini",
+    "definition": "The mental intention to hold a thing as one's own property, distinguishing a true owner-like holder from someone holding it on behalf of another, such as a tenant.",
+    "japaneseDefinition": "物を自己の所有物として支配しようとする意思のこと。賃借人のような「他人のために持っている」状態とは区別される。",
+    "japaneseWordTranslation": "所有の意思 (しょゆうのいし)",
+    "legalContext": "Civil Code Art. 186: A possessor is presumed to possess with the intent to own (animus domini), in a peaceful and open manner.",
+    "japaneseLegalContext": "民法第186条：占有者は、所有の意思をもって、善意で、平穏に、かつ、公然と占有をするものと推定する。",
+    "exampleSentence": "Since the individual entered the land under a lease agreement, they lacked animus domini and therefore could not claim title via long-term stay.",
+    "exampleTranslation": "その個人は賃貸借契約に基づいて土地に入ったため、所有の意思を欠いており、したがって長期滞在による所有権を主張することはできなかった。",
+    "vocabularyList": [
+      {
+        "word": "Mental intention",
+        "translation": "精神的な意思"
+      },
+      {
+        "word": "Distinguish",
+        "translation": "区別する"
+      },
+      {
+        "word": "On behalf of",
+        "translation": "〜の代理として"
+      },
+      {
+        "word": "Lacked",
+        "translation": "欠いていた"
+      },
+      {
+        "word": "Animus",
+        "translation": "意図、意思"
       }
     ]
   }

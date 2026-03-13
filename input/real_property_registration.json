@@ -18509,5 +18509,119 @@
         "translation": "照合・確認"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Successive Inheritance",
+    "definition": "A registration process required when an heir dies after the commencement of an inheritance but before completing the transfer registration, resulting in a chain of inheritance that must be recorded.",
+    "japaneseDefinition": "相続が開始した後、その相続登記を完了する前に相続人が死亡し、さらに次の相続が開始した場合に行われる、複数の相続を連続して反映させるための登記。",
+    "japaneseWordTranslation": "数次相続の登記 (すうじそうぞくのとうき)",
+    "legalContext": "Real Property Registration Act, Article 62: If a person entitled to apply for a registration or a person obligated to provide registration dies before the application, their successors may apply for said registration.",
+    "japaneseLegalContext": "不動産登記法第62条：登記権利者又は登記義務者が登記の申請前に死亡したときは、その相続人その他の一般承継人が当該登記を申請することができる。",
+    "exampleSentence": "In the case of successive inheritance, the applicant must explicitly present the chain of heirs from the original decedent to the current applicant.",
+    "exampleTranslation": "数次相続の場合、申請人は、最初の被相続人から現在の申請人に至る相続人の連鎖を明示しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Successive",
+        "translation": "数次の"
+      },
+      {
+        "word": "Intermediate",
+        "translation": "中間の"
+      },
+      {
+        "word": "Chain",
+        "translation": "連鎖"
+      },
+      {
+        "word": "Devolution",
+        "translation": "移転・帰属"
+      },
+      {
+        "word": "Verification",
+        "translation": "確認"
+      },
+      {
+        "word": "Applicant",
+        "translation": "申請人"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Trust",
+    "definition": "A registration made to record that a specific real estate is held under a trust arrangement, separating the asset from the personal assets of the individual holding legal title.",
+    "japaneseDefinition": "特定の不動産が信託財産であることを記録し、受託者の固有財産とは区別して管理されていることを公示するための登記。",
+    "japaneseWordTranslation": "信託の登記 (しんたくのとうき)",
+    "legalContext": "Real Property Registration Act, Article 97: An application for a registration regarding a trust of real property must be filed simultaneously with the application for the registration of the transfer of rights.",
+    "japaneseLegalContext": "不動産登記法第97条：信託による不動産の権利の移転の登記の申請は、当該信託の登記の申請と同時にしなければならない。",
+    "exampleSentence": "A registration of trust ensures that the assets are protected from the personal creditors of the trustee.",
+    "exampleTranslation": "信託の登記をすることにより、財産が受託者の個人的な債権者から保護されることが確実になる。",
+    "vocabularyList": [
+      {
+        "word": "Settlor",
+        "translation": "委託者"
+      },
+      {
+        "word": "Fiduciary",
+        "translation": "受託者"
+      },
+      {
+        "word": "Entrustment",
+        "translation": "委託"
+      },
+      {
+        "word": "Ledger",
+        "translation": "目録"
+      },
+      {
+        "word": "Beneficiary",
+        "translation": "受益者"
+      },
+      {
+        "word": "Arrangement",
+        "translation": "取り決め"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Physical Combination of Buildings",
+    "definition": "A registration filed when two or more independent buildings are physically joined or annexed to form a single structure, resulting in the creation of a new registration record.",
+    "japaneseDefinition": "複数の独立した建物が物理的に結合して一個の建物となった場合に、それまでの登記記録を整理し、新たな一個の建物としての状況を記録するために行われる登記。",
+    "japaneseWordTranslation": "建物の合体の登記 (たてもののがったいのとうき)",
+    "legalContext": "Real Property Registration Act, Article 49: When two or more buildings have been combined into a single building, the owner must apply for a registration of the combination within one month.",
+    "japaneseLegalContext": "不動産登記法第49条：二以上の建物が合体して一個の建物となった場合には、当該建物の所有者は、一箇月以内に、合体の登記を申請しなければならない。",
+    "exampleSentence": "The owner is required to submit a registration of physical combination of buildings when an extension connects the main house with a formerly detached warehouse.",
+    "exampleTranslation": "増築によって母屋と以前は離れだった蔵が繋がった場合、所有者は建物の合体の登記を申請する必要がある。",
+    "vocabularyList": [
+      {
+        "word": "Annexation",
+        "translation": "合体・付加"
+      },
+      {
+        "word": "Physical",
+        "translation": "物理的な"
+      },
+      {
+        "word": "Union",
+        "translation": "結合"
+      },
+      {
+        "word": "Form",
+        "translation": "形態"
+      },
+      {
+        "word": "Premises",
+        "translation": "建物・敷地"
+      },
+      {
+        "word": "Connection",
+        "translation": "接続"
+      }
+    ]
   }
 ]

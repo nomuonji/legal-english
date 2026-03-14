@@ -2,52 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Sale by Private Contract",
-    "definition": "A disposition method utilized primarily for movable property or claims, where the execution officer sells the seized asset directly to a third party at a pre-agreed price, rather than conducting a formal auction or tender process.",
-    "japaneseDefinition": "執行官が、競売または入札以外の方法によって、差押財産（主として動産）を第三者との個別の契約により売却する執行方法。",
-    "japaneseWordTranslation": "相対売却 (あいたいばいきゃく)",
-    "legalContext": "Civil Execution Act Art. 132 (Sale of seized movable property), allowing this method when an auction is inappropriate or too costly.",
-    "japaneseLegalContext": "民事執行法第132条（差押えられた動産の売却）。競売または入札が不適当な場合等にこの方法が認められている。",
-    "exampleSentence": "Due to the specialized nature of the equipment, the execution officer decided that Sale by Private Contract was the most effective way to maximize the recovery amount for the obligee.",
-    "exampleTranslation": "その機器の専門的な性質により、執行官は、相対売却が債権者にとっての回収額を最大化するための最も有効な方法であると判断した。",
-    "vocabularyList": [
-      {
-        "word": "movable property",
-        "translation": "動産 (どうさん)"
-      },
-      {
-        "word": "disposition method",
-        "translation": "処分方法"
-      },
-      {
-        "word": "seized asset",
-        "translation": "差押財産 (さしおさえざいさん)"
-      },
-      {
-        "word": "pre-agreed price",
-        "translation": "合意された価格"
-      },
-      {
-        "word": "execution officer",
-        "translation": "執行官"
-      },
-      {
-        "word": "obligee",
-        "translation": "債権者 (さいけんしゃ)"
-      },
-      {
-        "word": "maximize",
-        "translation": "最大化する"
-      },
-      {
-        "word": "recovery amount",
-        "translation": "回収額"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Distribution Schedule",
     "definition": "The formal schedule or list prepared by the execution court detailing how the proceeds obtained from the compulsory sale of the execution obligor's property (e.g., through auction) will be allocated among the creditors who possess execution titles or have successfully made demands for distribution.",
     "japaneseDefinition": "執行裁判所が、競売等により得られた執行債務者の財産の売却代金を、執行権原を有する債権者や配当要求を適法に行った債権者に対し、どのように分配するかを定める一覧表。",
@@ -22140,6 +22094,120 @@
       {
         "word": "Pending",
         "translation": "係属中の"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Management of the Seized Assets",
+    "definition": "The legal process or order by which an execution officer or a court-appointed custodian takes control of, maintains, and preserves the value of property that has been attached or seized during enforcement proceedings.",
+    "japaneseDefinition": "執行官または裁判所が選任した保管人が、差押えられた資産を管理・保存し、その価値を維持するための手続や命令を指す。",
+    "japaneseWordTranslation": "差押資産の管理 (さしおさえしさんのかんり)",
+    "legalContext": "Civil Execution Act Art. 123: The execution court may, when it finds it necessary for the management of the seized assets, appoint a manager or issue instructions regarding the method of custody.",
+    "japaneseLegalContext": "民事執行法 第123条：執行裁判所は、差押資産の管理のために必要があると認めるときは、管理人を選任し、または保管の方法について指示をすることができる。",
+    "exampleSentence": "The court issued an order for the management of the seized assets to ensure that the value of the machinery did not depreciate before the public sale.",
+    "exampleTranslation": "公売前に機械の価値が低下しないよう、裁判所は差押資産の管理命令を出した。",
+    "vocabularyList": [
+      {
+        "word": "Depreciate",
+        "translation": "価値が下がる"
+      },
+      {
+        "word": "Preserve",
+        "translation": "保存する"
+      },
+      {
+        "word": "Machinery",
+        "translation": "機械類"
+      },
+      {
+        "word": "Ensure",
+        "translation": "確実にする"
+      },
+      {
+        "word": "Control",
+        "translation": "支配・管理"
+      },
+      {
+        "word": "Enforcement proceedings",
+        "translation": "執行手続"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Notification of the Results of the Auction",
+    "definition": "The official communication provided by the execution court or officer to the bidders and interested parties regarding the outcome of the bidding process, including the identification of the highest bidder and the bid amount.",
+    "japaneseDefinition": "最高価買受申出人およびその申出額を含め、入札手続の結果について、執行裁判所または執行官が、入札者および利害関係人に対して行う公式の通知。",
+    "japaneseWordTranslation": "開札結果の通知 (かいさつけっかのつうち)",
+    "legalContext": "Rules of Civil Execution Art. 34: The execution officer shall, immediately after the opening of bids, provide notification of the results of the auction to those present at the designated venue.",
+    "japaneseLegalContext": "民事執行規則 第34条：執行官は、開札後直ちに、指定された場所において出席者に対し、開札結果の通知を行わなければならない。",
+    "exampleSentence": "Upon the notification of the results of the auction, the secondary bidder requested a review of the qualification of the highest bidder.",
+    "exampleTranslation": "開札結果の通知を受けて、次順位買受申出人は、最高価買受申出人の資格についての審査を請求した。",
+    "vocabularyList": [
+      {
+        "word": "Bidders",
+        "translation": "入札者"
+      },
+      {
+        "word": "Outcome",
+        "translation": "結果"
+      },
+      {
+        "word": "Communication",
+        "translation": "連絡・通知"
+      },
+      {
+        "word": "Highest bidder",
+        "translation": "最高価買受申出人"
+      },
+      {
+        "word": "Designated venue",
+        "translation": "指定された場所"
+      },
+      {
+        "word": "Qualification",
+        "translation": "資格"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Inquiry into the Source of the Occupancy",
+    "definition": "The investigation conducted by an execution officer or the court to determine the legal basis upon which a person is currently residing in or using a property subject to execution, such as a lease agreement or a usage right.",
+    "japaneseDefinition": "執行対象の物件に居住または使用している者が、どのような法的根拠（賃貸借契約や使用権など）に基づいているかを特定するために、執行官または裁判所が行う調査。",
+    "japaneseWordTranslation": "占有の権源の調査 (せんゆうのごんげんのちょうさ)",
+    "legalContext": "Civil Execution Act Art. 57, Para. 1: The execution officer shall conduct an inquiry into the source of the occupancy and other matters related to the current status of the real estate.",
+    "japaneseLegalContext": "民事執行法 第57条第1項：執行官は、不動産の現況、占有の権源その他の事項について調査をしなければならない。",
+    "exampleSentence": "The inquiry into the source of the occupancy revealed that the tenant was staying in the building based on an unregistered short-term lease.",
+    "exampleTranslation": "占有の権源の調査により、賃借人が未登記の短期賃貸借に基づいて建物に滞在していることが判明した。",
+    "vocabularyList": [
+      {
+        "word": "Source",
+        "translation": "根拠・源"
+      },
+      {
+        "word": "Occupancy",
+        "translation": "占有・居住"
+      },
+      {
+        "word": "Investigate",
+        "translation": "調査する"
+      },
+      {
+        "word": "Legal basis",
+        "translation": "法的根拠"
+      },
+      {
+        "word": "Residing",
+        "translation": "居住している"
+      },
+      {
+        "word": "Reveal",
+        "translation": "明らかにする"
       }
     ]
   }

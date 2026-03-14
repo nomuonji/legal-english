@@ -1,38 +1,46 @@
 {
-  "category": "Companies Act (会社法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Incorporator",
-  "definition": "A person who plans the establishment of a company and signs the Articles of Incorporation. They undertake the necessary organizational activities and assume statutory liabilities related to the formation process.",
-  "japaneseDefinition": "会社の設立を企画し、定款に署名する者。設立手続きに必要な行為を行い、設立に関する法的責任を負う。",
-  "japaneseWordTranslation": "発起人 (ほっきにん)",
-  "legalContext": "Companies Act Art. 25 (Duties of Incorporators)",
-  "japaneseLegalContext": "会社法第25条 (発起人の権限等)",
-  "exampleSentence": "The Incorporator is jointly and severally liable for any obligations arising from the company's establishment procedures if they acted outside the scope of their authority.",
-  "exampleTranslation": "発起人は、その権限の範囲外で行動した場合、会社の設立手続きから生じた債務について連帯責任を負う。",
+  "word": "Sale by Private Contract",
+  "definition": "A disposition method utilized primarily for movable property or claims, where the execution officer sells the seized asset directly to a third party at a pre-agreed price, rather than conducting a formal auction or tender process.",
+  "japaneseDefinition": "執行官が、競売または入札以外の方法によって、差押財産（主として動産）を第三者との個別の契約により売却する執行方法。",
+  "japaneseWordTranslation": "相対売却 (あいたいばいきゃく)",
+  "legalContext": "Civil Execution Act Art. 132 (Sale of seized movable property), allowing this method when an auction is inappropriate or too costly.",
+  "japaneseLegalContext": "民事執行法第132条（差押えられた動産の売却）。競売または入札が不適当な場合等にこの方法が認められている。",
+  "exampleSentence": "Due to the specialized nature of the equipment, the execution officer decided that Sale by Private Contract was the most effective way to maximize the recovery amount for the obligee.",
+  "exampleTranslation": "その機器の専門的な性質により、執行官は、相対売却が債権者にとっての回収額を最大化するための最も有効な方法であると判断した。",
   "vocabularyList": [
     {
-      "word": "Articles of Incorporation",
-      "translation": "定款"
+      "word": "movable property",
+      "translation": "動産 (どうさん)"
     },
     {
-      "word": "establishment",
-      "translation": "設立"
+      "word": "disposition method",
+      "translation": "処分方法"
     },
     {
-      "word": "statutory liability",
-      "translation": "法令上の責任"
+      "word": "seized asset",
+      "translation": "差押財産 (さしおさえざいさん)"
     },
     {
-      "word": "obligations",
-      "translation": "債務"
+      "word": "pre-agreed price",
+      "translation": "合意された価格"
     },
     {
-      "word": "jointly and severally liable",
-      "translation": "連帯責任を負う"
+      "word": "execution officer",
+      "translation": "執行官"
     },
     {
-      "word": "scope of authority",
-      "translation": "権限の範囲"
+      "word": "obligee",
+      "translation": "債権者 (さいけんしゃ)"
+    },
+    {
+      "word": "maximize",
+      "translation": "最大化する"
+    },
+    {
+      "word": "recovery amount",
+      "translation": "回収額"
     }
   ]
 }

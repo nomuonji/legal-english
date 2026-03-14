@@ -1,38 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Real Right (Proprietary Right)",
-  "definition": "A right held directly over a specific thing (property), enforceable against all others (erga omnes), establishing a direct relationship between the right holder and the thing itself, such as ownership or security interests.",
-  "japaneseDefinition": "特定物に対する直接的な支配権であり、所有権や担保物権などが含まれる。全ての人に対して主張できる効力（絶対性）を持つ。",
-  "japaneseWordTranslation": "ぶっけん (bukken)",
-  "legalContext": "Civil Code, Book II (物権): Real Rights are governed by the principle of numerus clausus (物権法定主義), meaning rights can only be created by law or customary law.",
-  "japaneseLegalContext": "民法第175条（物権法定主義）: 物権は、法律に定めるもののほか、慣習によるものでなければ、創設することができない。",
-  "exampleSentence": "The transferee demanded that the seller perfect the Real Right of ownership through registration immediately following the conclusion of the sales agreement.",
-  "exampleTranslation": "譲受人は、売主に対し、売買契約の締結後直ちに所有権の物権を登記によって対抗要件を備えるよう要求した。",
+  "word": "Preparatory document",
+  "definition": "A written submission by a party detailing their claims, defenses, and the supporting facts and evidence, serving to prepare for oral arguments and advance the litigation.",
+  "japaneseDefinition": "口頭弁論に備えて、当事者が攻撃防御の方法、事実上の主張、およびその主張を裏付ける証拠を記載して提出する書面。",
+  "japaneseWordTranslation": "準備書面 (じゅんびしょめん)",
+  "legalContext": "Code of Civil Procedure Art. 161 (Submission of Preparatory Documents): A preparatory document shall contain the means of attack or defense, and specify the facts to be proven and the evidence thereof.",
+  "japaneseLegalContext": "民事訴訟法第161条 (準備書面): 準備書面には、攻撃又は防御の方法を記載し、相手方に送付しなければならない。",
+  "exampleSentence": "All new allegations of fact must be explicitly stated in the preparatory document before the next hearing date, or they may be dismissed as untimely.",
+  "exampleTranslation": "新たな事実の主張は、次回の期日までに準備書面に明示されなければならず、さもなければ時機に遅れた攻撃防御方法として却下される可能性がある。",
   "vocabularyList": [
     {
-      "word": "transferee",
-      "translation": "譲受人 (jōjunin)"
+      "word": "allegations of fact",
+      "translation": "事実の主張"
     },
     {
-      "word": "ownership",
-      "translation": "所有権 (shoyūken)"
+      "word": "explicitly stated",
+      "translation": "明示される"
     },
     {
-      "word": "perfection",
-      "translation": "対抗要件を備える (taikō yōken o sonaeru)"
+      "word": "oral arguments",
+      "translation": "口頭弁論"
     },
     {
-      "word": "registration",
-      "translation": "登記 (tōki)"
+      "word": "dismissed as untimely",
+      "translation": "時機に遅れたものとして却下される"
     },
     {
-      "word": "numerus clausus",
-      "translation": "法定主義 (hōtei shugi)"
+      "word": "means of attack or defense",
+      "translation": "攻撃防御の方法"
     },
     {
-      "word": "sales agreement",
-      "translation": "売買契約 (baibai keiyaku)"
+      "word": "hearing date",
+      "translation": "期日"
     }
   ]
 }

@@ -2,44 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Preparatory document",
-    "definition": "A written submission by a party detailing their claims, defenses, and the supporting facts and evidence, serving to prepare for oral arguments and advance the litigation.",
-    "japaneseDefinition": "口頭弁論に備えて、当事者が攻撃防御の方法、事実上の主張、およびその主張を裏付ける証拠を記載して提出する書面。",
-    "japaneseWordTranslation": "準備書面 (じゅんびしょめん)",
-    "legalContext": "Code of Civil Procedure Art. 161 (Submission of Preparatory Documents): A preparatory document shall contain the means of attack or defense, and specify the facts to be proven and the evidence thereof.",
-    "japaneseLegalContext": "民事訴訟法第161条 (準備書面): 準備書面には、攻撃又は防御の方法を記載し、相手方に送付しなければならない。",
-    "exampleSentence": "All new allegations of fact must be explicitly stated in the preparatory document before the next hearing date, or they may be dismissed as untimely.",
-    "exampleTranslation": "新たな事実の主張は、次回の期日までに準備書面に明示されなければならず、さもなければ時機に遅れた攻撃防御方法として却下される可能性がある。",
-    "vocabularyList": [
-      {
-        "word": "allegations of fact",
-        "translation": "事実の主張"
-      },
-      {
-        "word": "explicitly stated",
-        "translation": "明示される"
-      },
-      {
-        "word": "oral arguments",
-        "translation": "口頭弁論"
-      },
-      {
-        "word": "dismissed as untimely",
-        "translation": "時機に遅れたものとして却下される"
-      },
-      {
-        "word": "means of attack or defense",
-        "translation": "攻撃防御の方法"
-      },
-      {
-        "word": "hearing date",
-        "translation": "期日"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Fact-finding",
     "definition": "The judicial process of determining the truth or falsehood of material facts alleged by the parties, based on the court’s evaluation of the submitted evidence.",
     "japaneseDefinition": "当事者が主張する主要な事実について、提出された証拠を評価し、その真偽を確定する裁判所の作用。",
@@ -23280,6 +23242,108 @@
       {
         "word": "Conclusive",
         "translation": "決定的な (けっていてきな)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Joinder of Parties for Simultaneous Trial",
+    "definition": "A special form of joint litigation where a plaintiff brings claims against two or more defendants and requests that they be tried together because the success of one claim is legally incompatible with the success of the other(s).",
+    "japaneseDefinition": "原告が、二名以上の被告に対する請求が法律上両立しないものである場合に、それらを同時に審理することを申し立てる特別な共同訴訟の形態。",
+    "japaneseWordTranslation": "同時審判申出共同訴訟 (どうじしんぱんもうしできょうどうそしょう)",
+    "legalContext": "Code of Civil Procedure Art. 41: If there is a risk that the success of a claim against one defendant is legally incompatible with the success of a claim against another defendant, the plaintiff may request that the court conduct trials and render judgments simultaneously.",
+    "japaneseLegalContext": "民事訴訟法第41条：共同被告の一人に対する請求と他の被告に対する請求とが法律上両立しないものである場合には、原告は、控訴審の口頭弁論の終結の時までに、これらの被告に対する審理及び裁判を同時にすることを申し立てることができる。",
+    "exampleSentence": "The plaintiff filed a joinder of parties for simultaneous trial to prevent contradictory judgments against the main debtor and the alleged guarantor.",
+    "exampleTranslation": "原告は、主債務者と保証人とされる者に対する判決の矛盾を防ぐため、同時審判申出共同訴訟を提起した。",
+    "vocabularyList": [
+      {
+        "word": "Incompatible",
+        "translation": "両立しない"
+      },
+      {
+        "word": "Joint litigation",
+        "translation": "共同訴訟"
+      },
+      {
+        "word": "Contradictory judgment",
+        "translation": "判決の矛盾"
+      },
+      {
+        "word": "Conduct trials",
+        "translation": "審理を行う"
+      },
+      {
+        "word": "Main debtor",
+        "translation": "主債務者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Withdrawal of an Assertion",
+    "definition": "The act of a party in litigation revoking or retracting a factual or legal statement previously made during oral arguments.",
+    "japaneseDefinition": "訴訟の当事者が、口頭弁論において既に行った事実上または法律上の主張を撤回する行為。",
+    "japaneseWordTranslation": "主張の撤回 (しゅちょうのてっかい)",
+    "legalContext": "Under the principle of party presentation, a party may generally withdraw an assertion before it is used as a basis for a judgment or becomes a judicial admission, provided it does not constitute an abuse of process.",
+    "japaneseLegalContext": "弁論主義の下で、当事者は原則として、主張が判決の基礎となったり裁判上の自白が成立したりする前であれば、主張を撤回することができる。",
+    "exampleSentence": "The defendant's withdrawal of an assertion regarding the statute of limitations was permitted because the court had not yet begun investigating that specific defense.",
+    "exampleTranslation": "被告による時効に関する主張の撤回は、裁判所がその特定の抗弁についての調査をまだ開始していなかったため、許可された。",
+    "vocabularyList": [
+      {
+        "word": "Retract",
+        "translation": "撤回する"
+      },
+      {
+        "word": "Oral arguments",
+        "translation": "口頭弁論"
+      },
+      {
+        "word": "Abuse of process",
+        "translation": "訴訟手続の濫用"
+      },
+      {
+        "word": "Statute of limitations",
+        "translation": "消滅時効"
+      },
+      {
+        "word": "Defense",
+        "translation": "抗弁"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Duty to State the Basis of a Claim",
+    "definition": "The procedural obligation of a plaintiff to clearly identify the factual grounds and legal theories upon which their demand for relief is founded.",
+    "japaneseDefinition": "原告が、救済の申立ての根拠となる事実上の理由および法的理論を明確に特定すべき訴訟上の義務。",
+    "japaneseWordTranslation": "請求の根拠を明示する義務 (せいきゅうのこんきょをめいじするぎむ)",
+    "legalContext": "Code of Civil Procedure Art. 133, Para. 2: The complaint must state the object and the statement of claim (the basis of the claim).",
+    "japaneseLegalContext": "民事訴訟法第133条第2項：訴状には、当事者及び法定代理人並びに請求の趣旨及び原因を記載しなければならない。",
+    "exampleSentence": "The court ordered the plaintiff to clarify their duty to state the basis of a claim, as the current complaint failed to specify the date of the alleged breach.",
+    "exampleTranslation": "現在の訴状では主張されている違反の日付が特定されていないため、裁判所は原告に対し、請求の根拠を明示する義務を果たすよう釈明を命じた。",
+    "vocabularyList": [
+      {
+        "word": "Demand for relief",
+        "translation": "救済の申立て"
+      },
+      {
+        "word": "Statement of claim",
+        "translation": "請求の原因"
+      },
+      {
+        "word": "Clarify",
+        "translation": "釈明する"
+      },
+      {
+        "word": "Alleged breach",
+        "translation": "主張されている違反"
+      },
+      {
+        "word": "Procedural obligation",
+        "translation": "手続上の義務"
       }
     ]
   }

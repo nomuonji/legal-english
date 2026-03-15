@@ -1,46 +1,42 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Real Property Registration (不動産登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Sale by Private Contract",
-  "definition": "A disposition method utilized primarily for movable property or claims, where the execution officer sells the seized asset directly to a third party at a pre-agreed price, rather than conducting a formal auction or tender process.",
-  "japaneseDefinition": "執行官が、競売または入札以外の方法によって、差押財産（主として動産）を第三者との個別の契約により売却する執行方法。",
-  "japaneseWordTranslation": "相対売却 (あいたいばいきゃく)",
-  "legalContext": "Civil Execution Act Art. 132 (Sale of seized movable property), allowing this method when an auction is inappropriate or too costly.",
-  "japaneseLegalContext": "民事執行法第132条（差押えられた動産の売却）。競売または入札が不適当な場合等にこの方法が認められている。",
-  "exampleSentence": "Due to the specialized nature of the equipment, the execution officer decided that Sale by Private Contract was the most effective way to maximize the recovery amount for the obligee.",
-  "exampleTranslation": "その機器の専門的な性質により、執行官は、相対売却が債権者にとっての回収額を最大化するための最も有効な方法であると判断した。",
+  "word": "Registration of Amendment",
+  "definition": "A type of registration executed to correct a discrepancy (error or omission) that existed between the content of a previous registration and the substantive right at the time the original registration was made.",
+  "japaneseDefinition": "既にされた登記に錯誤又は遺漏があった場合に、その不実を是正するためにする登記。登記権利者と登記義務者が共同で申請する。",
+  "japaneseWordTranslation": "更正登記 (こうせいとうき)",
+  "legalContext": "Real Property Registration Act Art. 67: When there is an error or omission in the registration, a registration of amendment shall be conducted.",
+  "japaneseLegalContext": "不動産登記法第67条: 登記に錯誤又は遺漏があったときは、更正の登記をするものとする。",
+  "exampleSentence": "The parties filed a motion for **Registration of Amendment** after discovering that the description of the area of the land parcel in the original deed was inaccurate.",
+  "exampleTranslation": "当事者は、原本の権利証における土地の区画の表示に誤りがあることを発見した後、更正登記の申し立てを行った。",
   "vocabularyList": [
     {
-      "word": "movable property",
-      "translation": "動産 (どうさん)"
+      "word": "discrepancy",
+      "translation": "不一致, 錯誤"
     },
     {
-      "word": "disposition method",
-      "translation": "処分方法"
+      "word": "omission",
+      "translation": "遺漏"
     },
     {
-      "word": "seized asset",
-      "translation": "差押財産 (さしおさえざいさん)"
+      "word": "substantive right",
+      "translation": "実体上の権利"
     },
     {
-      "word": "pre-agreed price",
-      "translation": "合意された価格"
+      "word": "inaccurate",
+      "translation": "不正確な"
     },
     {
-      "word": "execution officer",
-      "translation": "執行官"
+      "word": "land parcel",
+      "translation": "土地の区画"
     },
     {
-      "word": "obligee",
-      "translation": "債権者 (さいけんしゃ)"
+      "word": "motion",
+      "translation": "申し立て"
     },
     {
-      "word": "maximize",
-      "translation": "最大化する"
-    },
-    {
-      "word": "recovery amount",
-      "translation": "回収額"
+      "word": "conducted",
+      "translation": "なされる, 行われる"
     }
   ]
 }

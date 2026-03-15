@@ -22210,5 +22210,107 @@
         "translation": "明らかにする"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Request for Real Estate Data from Municipalities",
+    "definition": "A legal procedure where a court, upon request from a party in entitlement who holds an execution title, asks a municipal government or public agency to disclose information regarding the land or buildings owned by a party in debt.",
+    "japaneseDefinition": "執行力のある債務名義を持つ債権者の申立てに基づき、裁判所が地方公共団体等に対して、債務者が所有する不動産（土地・建物）に関する情報の開示を求める手続。",
+    "japaneseWordTranslation": "市町村等に対する不動産情報の提供命令 (しちょうそんとうにたいするふどうさんじょうほうのていきょうめいれい)",
+    "legalContext": "Civil Execution Act Art. 209: The execution court may order a municipal government or other public office to provide information concerning the real estate of the party in debt.",
+    "japaneseLegalContext": "民事執行法第209条：執行裁判所は、地方公共団体その他の公務所に対し、債務者の不動産に関する情報の提供を命ずることができる。",
+    "exampleSentence": "The party in entitlement filed a request for real estate data from municipalities to identify the land owned by the party in debt.",
+    "exampleTranslation": "債権者は、債務者が所有する土地を特定するため、市町村等に対する不動産情報の提供命令を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Municipal government",
+        "translation": "市町村（しちょうそん）"
+      },
+      {
+        "word": "Public agency",
+        "translation": "公務所（こうむしょ）"
+      },
+      {
+        "word": "Real estate",
+        "translation": "不動産（ふどうさん）"
+      },
+      {
+        "word": "Identify",
+        "translation": "特定する（とくていする）"
+      },
+      {
+        "word": "Data disclosure",
+        "translation": "情報の開示（じょうほうのかいじ）"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Monetary Order for Indirect Compulsion",
+    "definition": "An order issued by a court to pressure a party in debt to fulfill a non-monetary obligation by requiring them to pay a specific amount of money for each day of delay or for each violation.",
+    "japaneseDefinition": "債務者に対し、不代替的作為義務などの履行を強制するため、履行の遅延期間に応じた金銭の支払いを命じることで心理的圧迫を加える手続。",
+    "japaneseWordTranslation": "間接強制命令 (かんせつきょうせいめいれい)",
+    "legalContext": "Civil Execution Act Art. 172: To enforce an obligation for an act, the court may order the party in debt to pay a certain amount of money to the party in entitlement for a period of delay.",
+    "japaneseLegalContext": "民事執行法第172条：作為の義務を強制するため、裁判所は債務者に対し、遅延の期間に応じ、相当と認める額の金銭を債権者に支払うべき旨を命ずることができる。",
+    "exampleSentence": "The court issued a monetary order for indirect compulsion to ensure the party in debt stopped the noise violations.",
+    "exampleTranslation": "裁判所は、債務者に騒音被害を止めさせるため、間接強制命令を発令した。",
+    "vocabularyList": [
+      {
+        "word": "Daily payment",
+        "translation": "日割りの支払い（ひわりのしはらい）"
+      },
+      {
+        "word": "Non-monetary obligation",
+        "translation": "金銭債務以外の義務（きんせんさいむいがいのぎむ）"
+      },
+      {
+        "word": "Psychological pressure",
+        "translation": "心理的圧迫（しんりてきあっぱく）"
+      },
+      {
+        "word": "Violation",
+        "translation": "違反（いはん）"
+      },
+      {
+        "word": "Delay",
+        "translation": "遅延（ちえん）"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Notification of the Start of Personal Property Execution",
+    "definition": "The formal notice provided to the party in debt indicating that the court or a designated official has commenced the legal process of seizing and selling personal assets (movables) to satisfy a debt.",
+    "japaneseDefinition": "債務を弁済させるために、執行官が債務者の所有する動産（個人資産）を差し押さえ、売却する手続の開始を債務者に通知すること。",
+    "japaneseWordTranslation": "動産執行の開始通知 (どうさんしっこうのかいしつうち)",
+    "legalContext": "Civil Execution Act Art. 115: When a court starts the process against personal assets, it must provide a formal notification to the party in debt.",
+    "japaneseLegalContext": "民事執行法第115条：動産に対する執行を開始したときは、債務者に対してその旨を通知しなければならない。",
+    "exampleSentence": "Upon receiving the notification of the start of personal property execution, the party in debt requested a stay of the process.",
+    "exampleTranslation": "動産執行の開始通知を受け取ると、債務者は手続の停止を求めた。",
+    "vocabularyList": [
+      {
+        "word": "Personal assets",
+        "translation": "個人資産・動産（こじんしさん・どうさん）"
+      },
+      {
+        "word": "Commence",
+        "translation": "開始する（かいしする）"
+      },
+      {
+        "word": "Formal notice",
+        "translation": "正式な通知（せいしきなつうち）"
+      },
+      {
+        "word": "Satisfy a debt",
+        "translation": "債務を完済する（さいむをかんさいする）"
+      },
+      {
+        "word": "Personal property",
+        "translation": "動産（どうさん）"
+      }
+    ]
   }
 ]

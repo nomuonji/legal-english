@@ -2,44 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Distribution Schedule",
-    "definition": "The formal schedule or list prepared by the execution court detailing how the proceeds obtained from the compulsory sale of the execution obligor's property (e.g., through auction) will be allocated among the creditors who possess execution titles or have successfully made demands for distribution.",
-    "japaneseDefinition": "執行裁判所が、競売等により得られた執行債務者の財産の売却代金を、執行権原を有する債権者や配当要求を適法に行った債権者に対し、どのように分配するかを定める一覧表。",
-    "japaneseWordTranslation": "配当表 (はいとうひょう)",
-    "legalContext": "MSL (Minji Shikkō Hō) Art. 84: Procedures for Distribution (The court prepares a distribution schedule unless the funds are distributed only to the execution obligee).",
-    "japaneseLegalContext": "民事執行法 第84条: 配当等の実施の手続 (裁判所は、売却代金が執行債権者のみに交付される場合を除き、配当表を作成しなければならない。)",
-    "exampleSentence": "After the real property auction was finalized, the execution court convened a hearing to confirm the **Distribution Schedule** before disbursing the funds to the multiple secured creditors.",
-    "exampleTranslation": "不動産競売が確定した後、執行裁判所は、複数の担保債権者に資金を払い渡す前に、配当表を確定するための期日を招集した。",
-    "vocabularyList": [
-      {
-        "word": "auction",
-        "translation": "競売 (きょうばい)"
-      },
-      {
-        "word": "proceeds",
-        "translation": "売却代金 (ばいきゃくだいきん)"
-      },
-      {
-        "word": "disbursing the funds",
-        "translation": "資金を払い渡す (しきんをはらいわたす)"
-      },
-      {
-        "word": "secured creditors",
-        "translation": "担保債権者 (たんぽさいけんしゃ)"
-      },
-      {
-        "word": "execution title",
-        "translation": "執行権原 (しっこうけんげん)"
-      },
-      {
-        "word": "proportional allocation",
-        "translation": "按分 (あんぶん)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Execution Against Immovable Property",
     "definition": "A category of compulsory execution aimed at liquidating the obligor's real property (land and buildings) to satisfy a monetary claim, typically resulting in a public auction (compulsory auction) or compulsory administration (compulsory management).",
     "japaneseDefinition": "金銭債権の満足を得る目的で、債務者の不動産（土地や建物）を対象に行われる強制執行の手続きであり、通常、強制競売または強制管理の手法が用いられる。",
@@ -22424,6 +22386,120 @@
       {
         "word": "Proceeds",
         "translation": "売却代金 / 収益"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Administrative Remedy for the Delay of the Procedure",
+    "definition": "A procedural request made to the court when a court clerk or an execution officer fails to perform their duties within a reasonable timeframe, seeking an order to rectify the delay.",
+    "japaneseDefinition": "裁判所書記官や執行官が職務の執行を遅滞している場合に、その更正を求めるために裁判所に対して申し立てる手続き上の救済手段。",
+    "japaneseWordTranslation": "執行の遅滞に対する申立て (しっこうのちたいにたいするもうしたて)",
+    "legalContext": "Civil Execution Act Art. 11: A person who has filed a motion for civil execution or a person who has an interest in the procedure may file a motion for a remedy against the delay in the performance of the duties by a court clerk or an execution officer.",
+    "japaneseLegalContext": "民事執行法第11条：民事執行の申立てをした者又は執行手続について利害関係を有する者は、裁判所書記官又は執行官の職務の執行の遅滞について、裁判所に対し、更正の申立てをすることができる。",
+    "exampleSentence": "The creditor filed an administrative remedy for the delay of the procedure because the execution officer had not attempted the seizure of the movables for over three months.",
+    "exampleTranslation": "執行官が3ヶ月以上にわたり動産の差押えを試みなかったため、債権者は執行の遅滞に対する申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "Administrative remedy",
+        "translation": "行政的救済 / 手続上の更正"
+      },
+      {
+        "word": "Delay of the procedure",
+        "translation": "手続の遅滞"
+      },
+      {
+        "word": "Reasonable timeframe",
+        "translation": "相当な期間"
+      },
+      {
+        "word": "Interest in the procedure",
+        "translation": "手続についての利害関係"
+      },
+      {
+        "word": "Court clerk",
+        "translation": "裁判所書記官"
+      },
+      {
+        "word": "Execution officer",
+        "translation": "執行官"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Instruction for the Maintenance of the Equipment",
+    "definition": "A directive issued by the court to ensure that specific mechanical parts or necessary equipment of a seized vessel or aircraft are kept in a functional state to prevent loss of value.",
+    "japaneseDefinition": "差押えられた船舶や航空機の価値が減少するのを防ぐため、特定の機械部品や必要な備品を適切な状態に維持するよう裁判所が出す指示。",
+    "japaneseWordTranslation": "備品の保存の指示 (びひんのほぞんのしじ)",
+    "legalContext": "Civil Execution Act Art. 119 (mutatis mutandis): The court may, when it finds it necessary, issue instructions for the maintenance of the equipment to the person in charge of managing the vessel during the seizure process.",
+    "japaneseLegalContext": "民事執行法第119条（準用）：裁判所は、必要があると認めるときは、差押え中の船舶を管理する者に対し、備品の保存に関する指示を出すことができる。",
+    "exampleSentence": "To preserve the appraisal value of the vessel, the court issued an instruction for the maintenance of the equipment, specifically regarding the ship's radar and engine components.",
+    "exampleTranslation": "船舶の評価額を維持するため、裁判所は特にレーダーやエンジン部品に関して、備品の保存の指示を出した。",
+    "vocabularyList": [
+      {
+        "word": "Directive",
+        "translation": "指令 / 指示"
+      },
+      {
+        "word": "Functional state",
+        "translation": "稼働可能な状態"
+      },
+      {
+        "word": "Seized vessel",
+        "translation": "差押えられた船舶"
+      },
+      {
+        "word": "Appraisal value",
+        "translation": "評価額"
+      },
+      {
+        "word": "Radar",
+        "translation": "レーダー"
+      },
+      {
+        "word": "Engine components",
+        "translation": "エンジン部品"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Declaration of the Commencement of the Bidding Procedure",
+    "definition": "The formal announcement made by the execution officer or the court indicating that the period for submitting bids for property has officially started.",
+    "japaneseDefinition": "不動産や動産の売却において、入札期間が正式に開始されたことを執行官または裁判所が宣言すること。",
+    "japaneseWordTranslation": "入札手続の開始の宣言 (にゅうさつてつづきのかいしのせんげん)",
+    "legalContext": "Civil Execution Rules Art. 46: The execution officer shall make a declaration of the commencement of the bidding procedure at the specified time and location to ensure transparency in the sale of assets.",
+    "japaneseLegalContext": "民事執行規則第46条：執行官は、資産の売却における透明性を確保するため、指定された日時および場所において、入札手続の開始の宣言をしなければならない。",
+    "exampleSentence": "Following the declaration of the commencement of the bidding procedure, several potential buyers submitted their envelopes containing the purchase price offers.",
+    "exampleTranslation": "入札手続の開始の宣言を受けて、数名の購入希望者が買受申出額を記載した封筒を提出した。",
+    "vocabularyList": [
+      {
+        "word": "Bidding procedure",
+        "translation": "入札手続"
+      },
+      {
+        "word": "Formal announcement",
+        "translation": "正式な宣言"
+      },
+      {
+        "word": "Transparency",
+        "translation": "透明性"
+      },
+      {
+        "word": "Potential buyer",
+        "translation": "購入希望者"
+      },
+      {
+        "word": "Purchase price offer",
+        "translation": "買受申出額"
+      },
+      {
+        "word": "Specified location",
+        "translation": "指定された場所"
       }
     ]
   }

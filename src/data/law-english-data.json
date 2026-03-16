@@ -1,38 +1,38 @@
 {
-  "category": "Companies Act (会社法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Company with Nominating, etc., Committees",
-  "definition": "A type of Japanese stock company (Kabushiki Kaisha) that adopts a governance structure featuring three statutory committees (Nominating, Audit, and Compensation), where directors are responsible for management oversight and executive officers handle daily business execution.",
-  "japaneseDefinition": "取締役会の下に指名委員会、監査委員会及び報酬委員会を設置し、取締役が業務執行の監督を行い、執行役が業務を執行する形態の株式会社。",
-  "japaneseWordTranslation": "指名委員会等設置会社 (しめいいいんかいとうせっちがいしゃ)",
-  "legalContext": "Companies Act (Kaisha Hō) Art. 2 (xvi): Defines a Company with Nominating, etc., Committees as a stock company that has established the three required committees.",
-  "japaneseLegalContext": "会社法第2条第16号：指名委員会、監査委員会及び報酬委員会を置く株式会社として定義される。",
-  "exampleSentence": "The primary advantage of converting to a **Company with Nominating, etc., Committees** is the enhanced separation of management supervision from business execution.",
-  "exampleTranslation": "指名委員会等設置会社に移行する主な利点は、経営監督と業務執行の分離が強化されることである。",
+  "word": "Distribution Schedule",
+  "definition": "The formal schedule or list prepared by the execution court detailing how the proceeds obtained from the compulsory sale of the execution obligor's property (e.g., through auction) will be allocated among the creditors who possess execution titles or have successfully made demands for distribution.",
+  "japaneseDefinition": "執行裁判所が、競売等により得られた執行債務者の財産の売却代金を、執行権原を有する債権者や配当要求を適法に行った債権者に対し、どのように分配するかを定める一覧表。",
+  "japaneseWordTranslation": "配当表 (はいとうひょう)",
+  "legalContext": "MSL (Minji Shikkō Hō) Art. 84: Procedures for Distribution (The court prepares a distribution schedule unless the funds are distributed only to the execution obligee).",
+  "japaneseLegalContext": "民事執行法 第84条: 配当等の実施の手続 (裁判所は、売却代金が執行債権者のみに交付される場合を除き、配当表を作成しなければならない。)",
+  "exampleSentence": "After the real property auction was finalized, the execution court convened a hearing to confirm the **Distribution Schedule** before disbursing the funds to the multiple secured creditors.",
+  "exampleTranslation": "不動産競売が確定した後、執行裁判所は、複数の担保債権者に資金を払い渡す前に、配当表を確定するための期日を招集した。",
   "vocabularyList": [
     {
-      "word": "Nominating Committee",
-      "translation": "指名委員会"
+      "word": "auction",
+      "translation": "競売 (きょうばい)"
     },
     {
-      "word": "Audit Committee",
-      "translation": "監査委員会"
+      "word": "proceeds",
+      "translation": "売却代金 (ばいきゃくだいきん)"
     },
     {
-      "word": "Compensation Committee",
-      "translation": "報酬委員会"
+      "word": "disbursing the funds",
+      "translation": "資金を払い渡す (しきんをはらいわたす)"
     },
     {
-      "word": "Executive Officer",
-      "translation": "執行役"
+      "word": "secured creditors",
+      "translation": "担保債権者 (たんぽさいけんしゃ)"
     },
     {
-      "word": "Management Supervision",
-      "translation": "経営監督"
+      "word": "execution title",
+      "translation": "執行権原 (しっこうけんげん)"
     },
     {
-      "word": "Business Execution",
-      "translation": "業務執行"
+      "word": "proportional allocation",
+      "translation": "按分 (あんぶん)"
     }
   ]
 }

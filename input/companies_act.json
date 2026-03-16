@@ -21162,5 +21162,107 @@
         "translation": "訴えの提起"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Demand for the Sale of Shares to the Heirs",
+    "definition": "A right of a company with restrictions on share transfer to demand that an heir who has acquired shares in that company by way of general succession (such as inheritance) sell those shares to the company, provided such a provision is in the articles of incorporation.",
+    "japaneseDefinition": "譲渡制限株式を採用している会社が、相続その他の一般承継によって自社の株式を取得した者に対し、その株式を会社に売り渡すことを請求できる制度。定款に定める必要がある。",
+    "japaneseWordTranslation": "相続人に対する株式の売渡請求 (そうぞくにんにたいするかぶしきのうりわたしせいきゅう)",
+    "legalContext": "Companies Act Art. 174: A Stock Company may provide in its articles of incorporation to the effect that it may demand that a person who has acquired shares in such Stock Company by general succession including inheritance sell such shares to such Stock Company.",
+    "japaneseLegalContext": "会社法174条：株式会社は、相続その他の一般承継により当該株式会社の株式を取得した者に対し、当該株式を当該株式会社に売り渡すことを請求することができる旨を定款で定めることができる。",
+    "exampleSentence": "The board resolved to exercise the demand for the sale of shares to the heirs to prevent the dispersion of voting rights to outsiders.",
+    "exampleTranslation": "取締役会は、議決権が外部に分散することを防ぐため、相続人に対する株式の売渡請求を行使することを決議した。",
+    "vocabularyList": [
+      {
+        "word": "General succession",
+        "translation": "一般承継"
+      },
+      {
+        "word": "Dispersion of voting rights",
+        "translation": "議決権の分散"
+      },
+      {
+        "word": "Heir",
+        "translation": "相続人"
+      },
+      {
+        "word": "Restrictions on transfer",
+        "translation": "譲渡制限"
+      },
+      {
+        "word": "Articles of incorporation",
+        "translation": "定款"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of Lost Share Certificate",
+    "definition": "A formal entry in the register of lost share certificates by which a person who has lost a share certificate (due to theft, loss, etc.) can prevent the transfer of the shares and eventually have the certificate invalidated and reissued.",
+    "japaneseDefinition": "株券を喪失（紛失・盗難等）した者が、その株券を無効にし、再発行を受けるために、株券喪失登録簿に記載・記録を求める手続き。",
+    "japaneseWordTranslation": "株券喪失登録 (かぶけんそうしつとうろく)",
+    "legalContext": "Companies Act Art. 221: A person who has lost a share certificate may request that the Stock Company... enter or record the matters... in the register of lost share certificates.",
+    "japaneseLegalContext": "会社法221条：株券を喪失した者は、株式会社に対し、…当該株券に係る事項を株券喪失登録簿に記載し、又は記録することを請求することができる。",
+    "exampleSentence": "Upon receiving the request for the registration of lost share certificate, the company must verify the claimant's identity and update the register immediately.",
+    "exampleTranslation": "株券喪失登録の請求を受けた場合、会社は請求者の本人確認を行い、直ちに登録簿を更新しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Lost share certificate",
+        "translation": "喪失株券"
+      },
+      {
+        "word": "Invalidated",
+        "translation": "無効となった"
+      },
+      {
+        "word": "Reissued",
+        "translation": "再発行された"
+      },
+      {
+        "word": "Claimant",
+        "translation": "請求者"
+      },
+      {
+        "word": "Register of lost share certificates",
+        "translation": "株券喪失登録簿"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Application for the Determination of the Purchase Price",
+    "definition": "A judicial petition filed by a shareholder or the company to have the court determine the fair price of shares when an agreement cannot be reached following the exercise of an appraisal right or a demand for sale.",
+    "japaneseDefinition": "反対株主の買取請求権や売渡請求が行使された際、当事者間で価格の協議が整わない場合に、裁判所に対して適正な売買価格の決定を求める申立て。",
+    "japaneseWordTranslation": "価格の決定の申立て (かかくのけっていのおうたて)",
+    "legalContext": "Companies Act Art. 172: If no agreement is reached with respect to the determination of the price of the shares... the person who made such demand or the Stock Company may, within twenty days after the day when such demand was made, file a petition with the court for a determination of the price.",
+    "japaneseLegalContext": "会社法172条：株式の価格の決定について、協議が調わないときは、その請求をした者又は株式会社は、その請求をした日から二十日以内に、裁判所に対し、価格の決定の申立てをすることができる。",
+    "exampleSentence": "Since the negotiation on the stock value reached an impasse, the minority shareholder filed an application for the determination of the purchase price.",
+    "exampleTranslation": "株式価値に関する交渉がデッドロックに乗り上げたため、少数株主は裁判所に対して価格の決定の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "Judicial petition",
+        "translation": "裁判所への申立て"
+      },
+      {
+        "word": "Reached an impasse",
+        "translation": "行き詰まった"
+      },
+      {
+        "word": "Fair price",
+        "translation": "公正な価格"
+      },
+      {
+        "word": "Minority shareholder",
+        "translation": "少数株主"
+      },
+      {
+        "word": "Stock value",
+        "translation": "株式価値"
+      }
+    ]
   }
 ]

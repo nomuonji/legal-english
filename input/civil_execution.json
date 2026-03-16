@@ -22312,5 +22312,119 @@
         "translation": "動産（どうさん）"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Adjudication of the Rescission of the Order of Commencement of Auction",
+    "definition": "A judicial decision that cancels or sets aside a previously issued court order to start an auction process, typically resulting from a successful objection or a procedural defect.",
+    "japaneseDefinition": "申立ての瑕疵や、不服申し立ての認容などに基づき、すでになされた競売開始決定を取り消す旨の裁判。",
+    "japaneseWordTranslation": "競売開始決定の取消しの裁判 (きょうばいかいしけっていをとりけしのさいばん)",
+    "legalContext": "Civil Execution Act Art. 53: If an order of commencement of a real property auction has been revoked, the court clerk shall commission the cancellation of the registration of the commencement of the auction.",
+    "japaneseLegalContext": "民事執行法第53条：不動産競売の開始決定が取り消されたときは、裁判所書記官は、競売開始決定の登記の抹消を嘱託しなければならない。",
+    "exampleSentence": "The court issued an adjudication of the rescission of the order of commencement of auction because the creditor failed to provide the necessary certificate of execution.",
+    "exampleTranslation": "債権者が執行文などの必要な証明書を提出できなかったため、裁判所は競売開始決定の取消しの裁判を下した。",
+    "vocabularyList": [
+      {
+        "word": "Adjudication",
+        "translation": "裁判 / 判決"
+      },
+      {
+        "word": "Rescission",
+        "translation": "取消し"
+      },
+      {
+        "word": "Commencement",
+        "translation": "開始"
+      },
+      {
+        "word": "Auction",
+        "translation": "競売"
+      },
+      {
+        "word": "Revoked",
+        "translation": "取り消された"
+      },
+      {
+        "word": "Commission",
+        "translation": "嘱託する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Inquiry to the Health Insurance Society",
+    "definition": "A procedural request for information sent by the execution court to a health insurance organization to identify a debtor's workplace or salary details for the purpose of attachment.",
+    "japaneseDefinition": "差押え等のために、執行裁判所が健康保険組合に対して、債務者の勤務先や給与に関する情報の提供を求める照会手続。",
+    "japaneseWordTranslation": "健康保険組合への情報の照会 (けんこうほけんくみあいへのじょうほうのしょうかい)",
+    "legalContext": "Civil Execution Act Art. 206: The execution court may request information from a health insurance society or other public organizations to identify the debtor's assets or workplace.",
+    "japaneseLegalContext": "民事執行法第206条：執行裁判所は、債務者の財産や勤務先を特定するため、健康保険組合その他の公的機関等に対して情報の提出を求めることができる。",
+    "exampleSentence": "The execution court sent an inquiry to the health insurance society to confirm the current employer of the debtor.",
+    "exampleTranslation": "執行裁判所は、債務者の現在の勤務先を確認するため、健康保険組合に対して情報の照会を行った。",
+    "vocabularyList": [
+      {
+        "word": "Inquiry",
+        "translation": "照会"
+      },
+      {
+        "word": "Health Insurance Society",
+        "translation": "健康保険組合"
+      },
+      {
+        "word": "Workplace",
+        "translation": "勤務先"
+      },
+      {
+        "word": "Attachment",
+        "translation": "差押え"
+      },
+      {
+        "word": "Employer",
+        "translation": "雇用主 / 勤務先"
+      },
+      {
+        "word": "Identify",
+        "translation": "特定する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Adjudication of the Rank of the Claim in the Distribution Statement",
+    "definition": "The judicial determination of the order of priority among various claims when allocating proceeds from an execution sale to multiple creditors.",
+    "japaneseDefinition": "配当等において、複数の債権者に対して執行手続の売却代金を分配する際、各債権の優先順位を決定する裁判。",
+    "japaneseWordTranslation": "配当表における債権の順位の決定 (はいとうひょうにおけるさいけんのじゅんいのけってい)",
+    "legalContext": "Civil Execution Act Art. 87: The court shall prepare a distribution statement and determine the rank of the claims based on the priority of statutory liens and other rights.",
+    "japaneseLegalContext": "民事執行法第87条：裁判所は、配当表を作成し、先取特権等の順位に基づいて各債権の配当順位を決定しなければならない。",
+    "exampleSentence": "The adjudication of the rank of the claim in the distribution statement confirmed that the tax lien takes precedence over the unsecured claims.",
+    "exampleTranslation": "配当表における債権の順位の決定により、租税債権が無担保債権に優先することが確認された。",
+    "vocabularyList": [
+      {
+        "word": "Rank",
+        "translation": "順位"
+      },
+      {
+        "word": "Distribution Statement",
+        "translation": "配当表"
+      },
+      {
+        "word": "Allocation",
+        "translation": "配分 / 割当"
+      },
+      {
+        "word": "Precedence",
+        "translation": "優先"
+      },
+      {
+        "word": "Unsecured",
+        "translation": "無担保の"
+      },
+      {
+        "word": "Proceeds",
+        "translation": "売却代金 / 収益"
+      }
+    ]
   }
 ]

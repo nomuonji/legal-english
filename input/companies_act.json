@@ -2,44 +2,6 @@
   {
     "category": "Companies Act (会社法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Company with Nominating, etc., Committees",
-    "definition": "A type of Japanese stock company (Kabushiki Kaisha) that adopts a governance structure featuring three statutory committees (Nominating, Audit, and Compensation), where directors are responsible for management oversight and executive officers handle daily business execution.",
-    "japaneseDefinition": "取締役会の下に指名委員会、監査委員会及び報酬委員会を設置し、取締役が業務執行の監督を行い、執行役が業務を執行する形態の株式会社。",
-    "japaneseWordTranslation": "指名委員会等設置会社 (しめいいいんかいとうせっちがいしゃ)",
-    "legalContext": "Companies Act (Kaisha Hō) Art. 2 (xvi): Defines a Company with Nominating, etc., Committees as a stock company that has established the three required committees.",
-    "japaneseLegalContext": "会社法第2条第16号：指名委員会、監査委員会及び報酬委員会を置く株式会社として定義される。",
-    "exampleSentence": "The primary advantage of converting to a **Company with Nominating, etc., Committees** is the enhanced separation of management supervision from business execution.",
-    "exampleTranslation": "指名委員会等設置会社に移行する主な利点は、経営監督と業務執行の分離が強化されることである。",
-    "vocabularyList": [
-      {
-        "word": "Nominating Committee",
-        "translation": "指名委員会"
-      },
-      {
-        "word": "Audit Committee",
-        "translation": "監査委員会"
-      },
-      {
-        "word": "Compensation Committee",
-        "translation": "報酬委員会"
-      },
-      {
-        "word": "Executive Officer",
-        "translation": "執行役"
-      },
-      {
-        "word": "Management Supervision",
-        "translation": "経営監督"
-      },
-      {
-        "word": "Business Execution",
-        "translation": "業務執行"
-      }
-    ]
-  },
-  {
-    "category": "Companies Act (会社法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Allotment of Shares for Contribution in Kind",
     "definition": "The issuance of new shares to a subscriber in exchange for non-monetary assets (such as real property or intellectual property) contributed to the company's capital, rather than cash payment.",
     "japaneseDefinition": "金銭以外の財産（不動産や知的財産など）を会社の資本に払い込むことと引き換えに、引受人に対して新株を発行すること。",
@@ -21096,6 +21058,108 @@
       {
         "word": "Instruction",
         "translation": "指示"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Founding Assembly",
+    "definition": "A general meeting of the promoters and subscribers held during the process of incorporation by subscription to resolve matters necessary for the establishment of the company.",
+    "japaneseDefinition": "募集設立の過程において、発起人および株式引受人が集まり、会社の設立に関する事項を決議するために開催される会議。",
+    "japaneseWordTranslation": "創立総会 (そうりつそうかい)",
+    "legalContext": "Companies Act Art. 65: After the completion of the performance of the contribution... the promoters must convene a founding assembly without delay.",
+    "japaneseLegalContext": "会社法第65条：出資の履行が完了した後、…発起人は、遅滞なく、創立総会を招集しなければならない。",
+    "exampleSentence": "The founding assembly approved the articles of incorporation and elected the first directors of the new corporation.",
+    "exampleTranslation": "創立総会において定款が承認され、新会社の最初の取締役が選任された。",
+    "vocabularyList": [
+      {
+        "word": "Incorporation by subscription",
+        "translation": "募集設立"
+      },
+      {
+        "word": "Promoter",
+        "translation": "発起人"
+      },
+      {
+        "word": "Subscriber",
+        "translation": "引受人"
+      },
+      {
+        "word": "Convene",
+        "translation": "招集する"
+      },
+      {
+        "word": "Resolution",
+        "translation": "決議"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Subscription Application",
+    "definition": "A formal request made by an individual or entity to a company to purchase a specific number of shares being issued.",
+    "japaneseDefinition": "会社が発行する株式について、特定の数量を引き受けることを希望する個人または法人が行う正式な申込み。",
+    "japaneseWordTranslation": "引受けの申込み (ひきうけのもうしこみ)",
+    "legalContext": "Companies Act Art. 203: A person who intends to apply for the subscription for shares for subscription must deliver a document stating the number of shares.",
+    "japaneseLegalContext": "会社法第203条：募集株式の引受けの申込みをしようとする者は、引き受けようとする株式の数等を記載した書面を交付しなければならない。",
+    "exampleSentence": "The company received a subscription application for ten thousand shares from a venture capital firm.",
+    "exampleTranslation": "会社はベンチャーキャピタルから1万株の株式引受けの申込みを受理した。",
+    "vocabularyList": [
+      {
+        "word": "Shares for subscription",
+        "translation": "募集株式"
+      },
+      {
+        "word": "Deliver",
+        "translation": "交付する"
+      },
+      {
+        "word": "State",
+        "translation": "記載する"
+      },
+      {
+        "word": "Apply",
+        "translation": "申し込む"
+      },
+      {
+        "word": "Entity",
+        "translation": "主体 / 法人"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Invalidation of a Reduction of Capital",
+    "definition": "A lawsuit filed to challenge the validity of a corporate procedure that reduced the amount of the company's stated capital.",
+    "japaneseDefinition": "株式会社が行った資本金の額の減少の手続きの無効を主張するために提起される訴え。",
+    "japaneseWordTranslation": "資本金の額の減少無効の訴え (しほんきんのがくのげんしょうむこうのうったえ)",
+    "legalContext": "Companies Act Art. 828, Para. 1, Item 5: An action for invalidation of a reduction of the amount of stated capital may be filed only within six months.",
+    "japaneseLegalContext": "会社法第828条1項5号：資本金の額の減少の無効の訴えは、効力が生じた日から六箇月以内に限り、提起することができる。",
+    "exampleSentence": "A creditor filed an action for invalidation of a reduction of capital, claiming that the company failed to follow proper notification procedures.",
+    "exampleTranslation": "会社が適切な公告手続きを怠ったとして、債権者が資本金の額の減少無効の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "Stated capital",
+        "translation": "資本金"
+      },
+      {
+        "word": "Invalidation",
+        "translation": "無効"
+      },
+      {
+        "word": "Challenge",
+        "translation": "争う / 異議を唱える"
+      },
+      {
+        "word": "Validity",
+        "translation": "効力 / 有効性"
+      },
+      {
+        "word": "Filing of an action",
+        "translation": "訴えの提起"
       }
     ]
   }

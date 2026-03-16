@@ -19788,5 +19788,107 @@
         "translation": "さらなる"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certificate of the Date of Delivery of the Order",
+    "definition": "An official document issued by the court clerk that verifies the exact date and time a preservation order was served upon the party against whom it is directed, which is crucial for determining the period for enforcement.",
+    "japaneseDefinition": "保全命令が債務者に送達された正確な日時を証明する書類。執行期間の算定や、送達から2週間という執行期限の遵守を確認するために重要な役割を果たす。",
+    "japaneseWordTranslation": "送達日時の証明書 (そうたつにちじのしょうめいしょ)",
+    "legalContext": "Civil Preservation Act Art. 43: A preservation order shall not be enforced if two weeks have elapsed from the day on which the order was served upon the creditor.",
+    "japaneseLegalContext": "民事保全法第43条：保全命令の執行は、債権者に命令が送達された日から二週間を経過したときは、これをしてはならない。",
+    "exampleSentence": "The creditor requested a Certificate of the Date of Delivery of the Order to confirm that the enforcement was initiated within the two-week statutory window.",
+    "exampleTranslation": "債権者は、法定の2週間の期間内に執行が開始されたことを確認するため、送達日時の証明書の交付を申請した。",
+    "vocabularyList": [
+      {
+        "word": "Court clerk",
+        "translation": "裁判所書記官"
+      },
+      {
+        "word": "Statutory window",
+        "translation": "法定期間"
+      },
+      {
+        "word": "Verify",
+        "translation": "証明する"
+      },
+      {
+        "word": "Enforcement period",
+        "translation": "執行期間"
+      },
+      {
+        "word": "Elapsed",
+        "translation": "経過した"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Decision to Increase the Amount of Collateral",
+    "definition": "A court ruling that requires the party seeking a preservation order to provide additional funds or assets as a guarantee, typically because the initial amount is deemed insufficient to cover the potential losses of the other party.",
+    "japaneseDefinition": "保全命令を申し立てた者に対し、担保の追加提供を命じる裁判所の決定。当初の担保額では、相手方が被る可能性のある損害を補填するのに不十分であると判断された場合になされる。",
+    "japaneseWordTranslation": "担保の増額の決定 (たんぽのぞうがくのけってい)",
+    "legalContext": "Civil Preservation Act Art. 4: The court may, when it finds it necessary, increase or decrease the amount of collateral after issuing a preservation order.",
+    "japaneseLegalContext": "民事保全法第4条：裁判所は、必要があると認めるときは、保全命令を発した後においても、担保の額を増減することができる。",
+    "exampleSentence": "The judge issued a Decision to Increase the Amount of Collateral after the respondent argued that the potential damage from the injunction was undervalued.",
+    "exampleTranslation": "裁判官は、差し止めによる潜在的な損害が過小評価されているという債務者の主張を受け、担保の増額の決定を下した。",
+    "vocabularyList": [
+      {
+        "word": "Initial amount",
+        "translation": "当初の額"
+      },
+      {
+        "word": "Insufficient",
+        "translation": "不十分な"
+      },
+      {
+        "word": "Cover losses",
+        "translation": "損害を補填する"
+      },
+      {
+        "word": "Undervalued",
+        "translation": "過小評価された"
+      },
+      {
+        "word": "Court ruling",
+        "translation": "裁判所の決定"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Petition for the Stay of the Cancellation Procedure",
+    "definition": "A formal request to the court to halt the process of revoking a preservation order while another related legal challenge, such as an appeal, is pending.",
+    "japaneseDefinition": "保全命令を取り消す手続の進行を一時的に停止させるための申立て。取消決定に対する即時抗告などが係属している間、その執行を停止させるために行われる。",
+    "japaneseWordTranslation": "取消手続の停止の申立て (とりけしてつづきのていしのもうしたて)",
+    "legalContext": "Civil Preservation Act Art. 27: The court of the merits may, upon a petition, order the stay of the execution of a decision to cancel a preservation order.",
+    "japaneseLegalContext": "民事保全法第27条：本案の裁判所は、申立てにより、保全命令を取り消す決定の執行の停止を命ずることができる。",
+    "exampleSentence": "To prevent irreparable harm, the party filed a Petition for the Stay of the Cancellation Procedure pending the outcome of the higher court's review.",
+    "exampleTranslation": "回復不能な損害を防ぐため、当事者は上級裁判所の審査結果が出るまでの間、取消手続の停止の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "Halt the process",
+        "translation": "手続を停止する"
+      },
+      {
+        "word": "Revoking",
+        "translation": "取り消す"
+      },
+      {
+        "word": "Pending",
+        "translation": "係属中の"
+      },
+      {
+        "word": "Irreparable harm",
+        "translation": "回復不能な損害"
+      },
+      {
+        "word": "Higher court",
+        "translation": "上級裁判所"
+      }
+    ]
   }
 ]

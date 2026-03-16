@@ -1,38 +1,38 @@
 {
-  "category": "Real Property Registration (不動産登記法)",
+  "category": "Companies Act (会社法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Registration Record",
-  "definition": "The official electronic file maintained by the registrar, which contains all descriptive details concerning the real property and the recorded rights related thereto.",
-  "japaneseDefinition": "不動産の表示及び権利に関する事項を記録するため、登記官が作成し、管理する電磁的記録。",
-  "japaneseWordTranslation": "登記記録 (とうききろく)",
-  "legalContext": "Real Property Registration Act Art. 2, item 2: Defines 'Registration Record' as an electromagnetic record concerning real property.",
-  "japaneseLegalContext": "不動産登記法第2条第2号: この法律において「登記記録」とは、不動産の表示及び権利に関する事項を記録する電磁的記録をいう。",
-  "exampleSentence": "The description of the property is contained in the **Registration Record**, specifically in the part dedicated to descriptive matters, which precedes the record of rights.",
-  "exampleTranslation": "当該不動産の表示は登記記録に含まれており、特に権利の記録に先行する表示に関する事項が記録される部分に記載されている。",
+  "word": "Company with Nominating, etc., Committees",
+  "definition": "A type of Japanese stock company (Kabushiki Kaisha) that adopts a governance structure featuring three statutory committees (Nominating, Audit, and Compensation), where directors are responsible for management oversight and executive officers handle daily business execution.",
+  "japaneseDefinition": "取締役会の下に指名委員会、監査委員会及び報酬委員会を設置し、取締役が業務執行の監督を行い、執行役が業務を執行する形態の株式会社。",
+  "japaneseWordTranslation": "指名委員会等設置会社 (しめいいいんかいとうせっちがいしゃ)",
+  "legalContext": "Companies Act (Kaisha Hō) Art. 2 (xvi): Defines a Company with Nominating, etc., Committees as a stock company that has established the three required committees.",
+  "japaneseLegalContext": "会社法第2条第16号：指名委員会、監査委員会及び報酬委員会を置く株式会社として定義される。",
+  "exampleSentence": "The primary advantage of converting to a **Company with Nominating, etc., Committees** is the enhanced separation of management supervision from business execution.",
+  "exampleTranslation": "指名委員会等設置会社に移行する主な利点は、経営監督と業務執行の分離が強化されることである。",
   "vocabularyList": [
     {
-      "word": "registrar",
-      "translation": "登記官"
+      "word": "Nominating Committee",
+      "translation": "指名委員会"
     },
     {
-      "word": "electromagnetic record",
-      "translation": "電磁的記録"
+      "word": "Audit Committee",
+      "translation": "監査委員会"
     },
     {
-      "word": "descriptive matters",
-      "translation": "表示に関する事項"
+      "word": "Compensation Committee",
+      "translation": "報酬委員会"
     },
     {
-      "word": "precedes",
-      "translation": "先行する"
+      "word": "Executive Officer",
+      "translation": "執行役"
     },
     {
-      "word": "contained in",
-      "translation": "〜に含まれている"
+      "word": "Management Supervision",
+      "translation": "経営監督"
     },
     {
-      "word": "dedicated to",
-      "translation": "〜に特化した"
+      "word": "Business Execution",
+      "translation": "業務執行"
     }
   ]
 }

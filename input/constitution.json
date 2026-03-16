@@ -22158,5 +22158,107 @@
         "translation": "考慮"
       }
     ]
+  },
+  {
+    "category": "Constitution (憲法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Harmonious Interpretation",
+    "definition": "A principle of statutory construction where a court interprets a law in a manner that ensures its consistency with constitutional standards, thereby avoiding a declaration of invalidity if a constitutional reading is reasonably possible.",
+    "japaneseDefinition": "法律の規定が複数の解釈を許容する場合に、できる限り憲法に適合するような意味内容で解釈し、違憲判断を回避しようとする解釈手法。",
+    "japaneseWordTranslation": "合憲的解釈 (ごうけんてきかいしゃく)",
+    "legalContext": "A judicial technique used to maintain the validity of statutes while respecting the limits of constitutional authority. It allows the court to choose a narrow or specific reading of a text to prevent it from infringing upon protected rights.",
+    "japaneseLegalContext": "最高裁判所が法律の有効性を維持するために用いる司法上の技法。憲法に抵触する可能性がある広範な解釈を避け、憲法に適う限定的な解釈を採用することで、立法府の判断を尊重しつつ憲法の最高法規性を守る。",
+    "exampleSentence": "The court applied a harmonious interpretation to the statute to ensure that the restrictions did not infringe upon the fundamental rights of the citizens.",
+    "exampleTranslation": "裁判所は、その制限が国民の基本的人権を侵害しないよう、当該法律に対して合憲的解釈を適用した。",
+    "vocabularyList": [
+      {
+        "word": "Statutory construction",
+        "translation": "法律解釈"
+      },
+      {
+        "word": "Consistency",
+        "translation": "整合性"
+      },
+      {
+        "word": "Avoidance",
+        "translation": "回避"
+      },
+      {
+        "word": "Infringe upon",
+        "translation": "〜を侵害する"
+      },
+      {
+        "word": "Narrow reading",
+        "translation": "限定的な読み替え"
+      }
+    ]
+  },
+  {
+    "category": "Constitution (憲法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Budgetary Reserve Fund",
+    "definition": "Funds set aside within the national budget to provide for unforeseen financial deficiencies, the expenditure of which is managed by the executive branch but requires subsequent legislative approval.",
+    "japaneseDefinition": "予見し難い予算の不足に充てるため、あらかじめ国会の議決を経て予算に計上される資金。支出には事後の承認が必要となる。",
+    "japaneseWordTranslation": "予備費 (よびひ)",
+    "legalContext": "Constitution Art. 87: In order to provide for unforeseen deficiencies in the budget, a reserve fund may be authorized... for which the executive must get subsequent approval.",
+    "japaneseLegalContext": "憲法第87条：予見し難い予算の不足に充てるため、国会の議決に基いて予備費を設け、内閣の責任でこれを支出することができる。内閣は、すべての予備費の支出について、事後に国会の承諾を得なければならない。",
+    "exampleSentence": "The government utilized the budgetary reserve fund to address the immediate financial needs caused by the natural disaster.",
+    "exampleTranslation": "政府は、自然災害によって生じた即時的な資金需要に対応するため、予備費を活用した。",
+    "vocabularyList": [
+      {
+        "word": "Unforeseen deficiency",
+        "translation": "予見し難い不足"
+      },
+      {
+        "word": "Subsequent approval",
+        "translation": "事後の承諾"
+      },
+      {
+        "word": "Expenditure",
+        "translation": "支出"
+      },
+      {
+        "word": "Set aside",
+        "translation": "確保する"
+      },
+      {
+        "word": "Financial needs",
+        "translation": "資金需要"
+      }
+    ]
+  },
+  {
+    "category": "Constitution (憲法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Partial Unconstitutionality",
+    "definition": "A judicial determination where only a particular provision or segment of a law is found to be unconstitutional and struck down, while the rest of the statute remains in effect due to its severability.",
+    "japaneseDefinition": "法律の全体ではなく、特定の条項や一部の規定のみを違憲とし、それ以外の部分は有効として存続させる司法判断のこと。",
+    "japaneseWordTranslation": "一部違憲 (いちぶいけん)",
+    "legalContext": "A principle of judicial review that limits the scope of invalidation to the specific parts of a law that conflict with the constitution, provided that the remaining sections can function independently.",
+    "japaneseLegalContext": "違憲審査において、憲法に抵触する箇所が法律の一部に限定され、かつその部分を切り離しても法律の目的が達せられる（可分性がある）場合に、その一部のみを無効とする原則。",
+    "exampleSentence": "The judgment of partial unconstitutionality invalidated only the sentencing paragraph of the law, leaving the remainder of the regulatory framework intact.",
+    "exampleTranslation": "一部違憲の判決により、当該法律の量刑に関する段落のみが無効化され、規制枠組みの残りの部分はそのまま維持された。",
+    "vocabularyList": [
+      {
+        "word": "Severability",
+        "translation": "可分性"
+      },
+      {
+        "word": "Segment",
+        "translation": "部分"
+      },
+      {
+        "word": "Invalidated",
+        "translation": "無効とされた"
+      },
+      {
+        "word": "Remain in effect",
+        "translation": "存続する"
+      },
+      {
+        "word": "Conflict with",
+        "translation": "〜と抵触する"
+      }
+    ]
   }
 ]

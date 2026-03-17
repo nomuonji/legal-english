@@ -21264,5 +21264,107 @@
         "translation": "株式価値"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Blanket Mandate",
+    "definition": "The improper delegation of the board of directors' entire decision-making authority over business operations to a specific director, which is prohibited under the Companies Act.",
+    "japaneseDefinition": "取締役会が、その重要な業務執行に関する意思決定権限のすべてを、特定の取締役に包括的に委ねること。会社法上、重要な事項については取締役会自らが決定しなければならず、包括的な一任は禁止されている。",
+    "japaneseWordTranslation": "包括的一任 (ほうかつてきいにん)",
+    "legalContext": "Companies Act Art. 362, Para. 4: The board of directors may not delegate the decision-making on the execution of important business to directors, including the disposal of significant assets or the borrowing of a large amount of money.",
+    "japaneseLegalContext": "会社法第362条第4項：取締役会は、次に掲げる事項その他の重要な業務執行の決定を取締役に委任することができない。（一　重要な財産の処分及び譲受け、二　多額の借財、等）",
+    "exampleSentence": "The court held that a blanket mandate regarding the disposal of significant assets was a breach of the board's statutory duties.",
+    "exampleTranslation": "裁判所は、重要な財産の処分に関する包括的一任は、取締役会の法的義務に違反すると判定した。",
+    "vocabularyList": [
+      {
+        "word": "Decision-making",
+        "translation": "意思決定"
+      },
+      {
+        "word": "Delegate",
+        "translation": "委任する"
+      },
+      {
+        "word": "Disposal of assets",
+        "translation": "財産の処分"
+      },
+      {
+        "word": "Statutory duties",
+        "translation": "法的義務"
+      },
+      {
+        "word": "Significant assets",
+        "translation": "重要な財産"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Qualified Reorganization",
+    "definition": "A corporate restructuring (such as a merger or company split) that meets specific tax-neutrality requirements, allowing the deferral of capital gains or losses.",
+    "japaneseDefinition": "合併や会社分割などの組織再編のうち、一定の要件を満たすことで資産の移転に伴う譲渡損益の課税を繰り延べることができる税制上の適格要件を満たした再編。",
+    "japaneseWordTranslation": "適格組織再編 (てきかくそしきさいへん)",
+    "legalContext": "Corporate Tax Act Art. 2: The term 'Qualified Reorganization' refers to a merger, split, or contribution in kind that satisfies the requirements for the deferral of taxation on capital gains.",
+    "japaneseLegalContext": "法人税法第2条：適格組織再編とは、適格合併、適格分割、適格現物出資等の、課税の繰り延べが認められる要件を満たす組織再編を指す。",
+    "exampleSentence": "The legal team worked closely with accountants to ensure the absorption-type merger would be classified as a qualified reorganization.",
+    "exampleTranslation": "法務チームは会計士と密に連携し、その吸収合併が適格組織再編として分類されるよう努めた。",
+    "vocabularyList": [
+      {
+        "word": "Restructuring",
+        "translation": "再編"
+      },
+      {
+        "word": "Tax-neutrality",
+        "translation": "税務上の中立性"
+      },
+      {
+        "word": "Deferral",
+        "translation": "繰り延べ"
+      },
+      {
+        "word": "Capital gains",
+        "translation": "譲渡益"
+      },
+      {
+        "word": "Requirements",
+        "translation": "要件"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Selection of an Appraiser",
+    "definition": "The formal court procedure to appoint an expert to investigate and evaluate the value of non-monetary contributions (property contributed in kind) during the incorporation or issuance of new shares.",
+    "japaneseDefinition": "株式会社の設立や新株発行において、現物出資される財産の価額を調査させるために、裁判所が専門家を選任する手続。",
+    "japaneseWordTranslation": "鑑定人の選任 (かんていにんのせんにん)",
+    "legalContext": "Companies Act Art. 33, Para. 2: In cases where the articles of incorporation state the matters listed in the items of Article 28, the promoters must file a petition with the court for the selection of an appraiser.",
+    "japaneseLegalContext": "会社法第33条第2項：発起人は、第28条各号に掲げる事項について定款に記載があるときは、鑑定人の選任を裁判所に申し立てなければならない。",
+    "exampleSentence": "The promoters filed a petition for the selection of an appraiser to verify the fair market value of the intellectual property being contributed.",
+    "exampleTranslation": "発起人は、出資される知的財産の公正な市場価格を調査するため、鑑定人の選任を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Petition",
+        "translation": "申立て"
+      },
+      {
+        "word": "Investigate",
+        "translation": "調査する"
+      },
+      {
+        "word": "Evaluate",
+        "translation": "評価する"
+      },
+      {
+        "word": "Intellectual property",
+        "translation": "知的財産"
+      },
+      {
+        "word": "Fair market value",
+        "translation": "公正な市場価格"
+      }
+    ]
   }
 ]

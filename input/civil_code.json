@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Juridical Act (Legal Act)",
-    "definition": "An act intending to create, alter, or extinguish legal rights or obligations, where the resulting legal effect (e.g., the formation of a contract or a will) is determined primarily by the content of the actor's declaration of intent.",
-    "japaneseDefinition": "権利義務の発生、変更、消滅を意図する行為であり、その法的な効果が、行為者の意思表示の内容に従って発生するもの（契約や遺言など）。",
-    "japaneseWordTranslation": "ほうりつこうい (hōritsu kōi)",
-    "legalContext": "Civil Code Art. 90: A juridical act that has for its purpose an order which is contrary to public policy or good morals is void.",
-    "japaneseLegalContext": "民法第90条: 公の秩序又は善良の風俗に反する事項を目的とする法律行為は、無効とする。",
-    "exampleSentence": "In Japanese civil law, a contract is categorized as a bilateral juridical act, requiring the declarations of intent of two or more parties.",
-    "exampleTranslation": "日本の民法では、契約は、二人以上の当事者の意思表示を要する双務的法律行為として分類される。",
-    "vocabularyList": [
-      {
-        "word": "bilateral",
-        "translation": "双務的 (sōmuteki)"
-      },
-      {
-        "word": "declaration of intent",
-        "translation": "意思表示 (ishi hyōji)"
-      },
-      {
-        "word": "void",
-        "translation": "無効 (mukō)"
-      },
-      {
-        "word": "public policy",
-        "translation": "公の秩序 (ōyake no chitsujo)"
-      },
-      {
-        "word": "extinguish",
-        "translation": "消滅させる (shōmetsu saseru)"
-      },
-      {
-        "word": "will",
-        "translation": "遺言 (igon)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Fruits (Legal)",
     "definition": "Periodic monetary or non-monetary yields gained as consideration for the use of a principal thing, such as rent derived from leasing land or interest accrued on deposited funds.",
     "japaneseDefinition": "物の使用の対価として受けるべき金銭その他の物。土地の賃貸料や金銭の利息など、法律関係に基づいて発生する収益。",
@@ -27096,6 +27058,120 @@
       {
         "word": "Arisen",
         "translation": "生じた"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Presumption of the Period of Conception",
+    "definition": "A legal presumption that a child was conceived during marriage if born after 200 days from the formation of the marriage or within 300 days from the dissolution of the marriage.",
+    "japaneseDefinition": "婚姻成立の日から200日後、または婚姻解消の日から300日以内に生まれた子は、婚姻中に懐胎したものと推定する法的な決まり。",
+    "japaneseWordTranslation": "懐胎期間の推定 (かいたいきかんのすいてい)",
+    "legalContext": "Civil Code Art. 772, Para. 2: A child born after 200 days from the date of the formation of a marriage or within 300 days from the date of the dissolution or rescission of a marriage shall be presumed to have been conceived during the marriage.",
+    "japaneseLegalContext": "民法第772条第2項：婚姻の成立の日から二百日を経過した後又は婚姻の解消若しくは取消しの日から三百日以内に生まれた子は、婚姻中に懐胎したものと推定する。",
+    "exampleSentence": "The Presumption of the Period of Conception helps clarify the legal father-child relationship by establishing a timeframe for pregnancy.",
+    "exampleTranslation": "懐胎期間の推定は、妊娠の期間を定めることで法的な父子関係を明確にする助けとなります。",
+    "vocabularyList": [
+      {
+        "word": "conceived",
+        "translation": "懐胎した"
+      },
+      {
+        "word": "dissolution",
+        "translation": "解消"
+      },
+      {
+        "word": "timeframe",
+        "translation": "期間"
+      },
+      {
+        "word": "pregnancy",
+        "translation": "妊娠"
+      },
+      {
+        "word": "establish",
+        "translation": "確立する"
+      },
+      {
+        "word": "clarify",
+        "translation": "明確にする"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Indivisibility of the Right to Cancel",
+    "definition": "A rule stating that if there are multiple parties on one side of a contract, the right to cancel the contract must be exercised by or against all parties simultaneously.",
+    "japaneseDefinition": "当事者の一方が複数人いる場合、契約の解除権の行使はその全員から、またはその全員に対して行わなければならないとする原則。",
+    "japaneseWordTranslation": "解除権の不可分性 (かいじょけんのふかぶんせい)",
+    "legalContext": "Civil Code Art. 544, Para. 1: If one party to a contract consists of two or more persons, the cancellation of the contract may be made only by, or against, all of those persons.",
+    "japaneseLegalContext": "民法第544条第1項：当事者の一方が数人ある場合には、契約の解除は、その全員から又はその全員に対してのみ、することができる。",
+    "exampleSentence": "Under the principle of the Indivisibility of the Right to Cancel, a notice of cancellation sent to only one of three joint sellers is legally ineffective.",
+    "exampleTranslation": "解除権の不可分性の原則に基づき、3人の共同売主のうち1人のみに送られた解除通知は、法的に無効です。",
+    "vocabularyList": [
+      {
+        "word": "cancel",
+        "translation": "解除する"
+      },
+      {
+        "word": "indivisibility",
+        "translation": "不可分性"
+      },
+      {
+        "word": "consists of",
+        "translation": "〜から成る"
+      },
+      {
+        "word": "simultaneously",
+        "translation": "同時に"
+      },
+      {
+        "word": "ineffective",
+        "translation": "無効な"
+      },
+      {
+        "word": "joint sellers",
+        "translation": "共同売主"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Demand a Change of the Child’s Surname",
+    "definition": "The legal right of a minor child to change their surname to match that of a father or mother who has a different surname, subject to family court permission.",
+    "japaneseDefinition": "氏を異にする父または母の氏を称しようとする子が、家庭裁判所の許可を得てその氏に変更することを求めることができる権利。",
+    "japaneseWordTranslation": "子の氏の変更請求権 (このうじのへんこうせいきゅうけん)",
+    "legalContext": "Civil Code Art. 791, Para. 1: A child who has a different surname from that of his/her father or mother may change his/her surname to that of his/her father or mother with the permission of the family court.",
+    "japaneseLegalContext": "民法第791条第1項：子が父又は母と氏を異にする場合には、子は、家庭裁判所の許可を得て、戸籍法の定めるところにより届け出ることによって、その父又は母の氏を称することができる。",
+    "exampleSentence": "After the parents divorced, the child exercised the Right to Demand a Change of the Child’s Surname to use the mother’s maiden name.",
+    "exampleTranslation": "両親の離婚後、その子は母親の旧姓を使用するために子の氏の変更請求権を行使しました。",
+    "vocabularyList": [
+      {
+        "word": "surname",
+        "translation": "氏（名字）"
+      },
+      {
+        "word": "family court",
+        "translation": "家庭裁判所"
+      },
+      {
+        "word": "permission",
+        "translation": "許可"
+      },
+      {
+        "word": "maiden name",
+        "translation": "旧姓"
+      },
+      {
+        "word": "different",
+        "translation": "異なる"
+      },
+      {
+        "word": "match",
+        "translation": "一致させる"
       }
     ]
   }

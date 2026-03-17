@@ -1,38 +1,38 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Distribution Schedule",
-  "definition": "The formal schedule or list prepared by the execution court detailing how the proceeds obtained from the compulsory sale of the execution obligor's property (e.g., through auction) will be allocated among the creditors who possess execution titles or have successfully made demands for distribution.",
-  "japaneseDefinition": "執行裁判所が、競売等により得られた執行債務者の財産の売却代金を、執行権原を有する債権者や配当要求を適法に行った債権者に対し、どのように分配するかを定める一覧表。",
-  "japaneseWordTranslation": "配当表 (はいとうひょう)",
-  "legalContext": "MSL (Minji Shikkō Hō) Art. 84: Procedures for Distribution (The court prepares a distribution schedule unless the funds are distributed only to the execution obligee).",
-  "japaneseLegalContext": "民事執行法 第84条: 配当等の実施の手続 (裁判所は、売却代金が執行債権者のみに交付される場合を除き、配当表を作成しなければならない。)",
-  "exampleSentence": "After the real property auction was finalized, the execution court convened a hearing to confirm the **Distribution Schedule** before disbursing the funds to the multiple secured creditors.",
-  "exampleTranslation": "不動産競売が確定した後、執行裁判所は、複数の担保債権者に資金を払い渡す前に、配当表を確定するための期日を招集した。",
+  "word": "Juridical Act (Legal Act)",
+  "definition": "An act intending to create, alter, or extinguish legal rights or obligations, where the resulting legal effect (e.g., the formation of a contract or a will) is determined primarily by the content of the actor's declaration of intent.",
+  "japaneseDefinition": "権利義務の発生、変更、消滅を意図する行為であり、その法的な効果が、行為者の意思表示の内容に従って発生するもの（契約や遺言など）。",
+  "japaneseWordTranslation": "ほうりつこうい (hōritsu kōi)",
+  "legalContext": "Civil Code Art. 90: A juridical act that has for its purpose an order which is contrary to public policy or good morals is void.",
+  "japaneseLegalContext": "民法第90条: 公の秩序又は善良の風俗に反する事項を目的とする法律行為は、無効とする。",
+  "exampleSentence": "In Japanese civil law, a contract is categorized as a bilateral juridical act, requiring the declarations of intent of two or more parties.",
+  "exampleTranslation": "日本の民法では、契約は、二人以上の当事者の意思表示を要する双務的法律行為として分類される。",
   "vocabularyList": [
     {
-      "word": "auction",
-      "translation": "競売 (きょうばい)"
+      "word": "bilateral",
+      "translation": "双務的 (sōmuteki)"
     },
     {
-      "word": "proceeds",
-      "translation": "売却代金 (ばいきゃくだいきん)"
+      "word": "declaration of intent",
+      "translation": "意思表示 (ishi hyōji)"
     },
     {
-      "word": "disbursing the funds",
-      "translation": "資金を払い渡す (しきんをはらいわたす)"
+      "word": "void",
+      "translation": "無効 (mukō)"
     },
     {
-      "word": "secured creditors",
-      "translation": "担保債権者 (たんぽさいけんしゃ)"
+      "word": "public policy",
+      "translation": "公の秩序 (ōyake no chitsujo)"
     },
     {
-      "word": "execution title",
-      "translation": "執行権原 (しっこうけんげん)"
+      "word": "extinguish",
+      "translation": "消滅させる (shōmetsu saseru)"
     },
     {
-      "word": "proportional allocation",
-      "translation": "按分 (あんぶん)"
+      "word": "will",
+      "translation": "遺言 (igon)"
     }
   ]
 }

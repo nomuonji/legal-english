@@ -22502,5 +22502,107 @@
         "translation": "指定された場所"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Requirement of Proof of the Certainty of the Claim",
+    "definition": "The procedural necessity for a creditor to demonstrate, through a valid title of obligation, that a claim is sufficiently definite and ripe for enforcement before a court or officer can initiate execution.",
+    "japaneseDefinition": "強制執行を開始するために、債務名義を通じて、債権が確定しており、かつ執行に適した状態にあることを証明しなければならないという手続上の要件。",
+    "japaneseWordTranslation": "債権の確実性の証明要件 (さいけんのかくじつせいのしょうめいようけん)",
+    "legalContext": "Civil Execution Act Art. 33, 34: Execution may only be commenced upon a title of obligation that has become final or is otherwise enforceable, ensuring the certainty of the underlying right.",
+    "japaneseLegalContext": "民事執行法第33条、第34条：強制執行は、確定判決等の執行力を有する債務名義に基づき、権利の確実性が担保された場合にのみ開始される。",
+    "exampleSentence": "The court dismissed the application for execution as the creditor failed to meet the requirement of proof of the certainty of the claim.",
+    "exampleTranslation": "債権者が債権の確実性の証明要件を満たさなかったため、裁判所は執行の申立てを却下した。",
+    "vocabularyList": [
+      {
+        "word": "Definite",
+        "translation": "明確な"
+      },
+      {
+        "word": "Enforcement",
+        "translation": "強制執行"
+      },
+      {
+        "word": "Ripe",
+        "translation": "（権利が）行使可能な状態にある"
+      },
+      {
+        "word": "Underlying right",
+        "translation": "実体法上の権利"
+      },
+      {
+        "word": "Sufficiently",
+        "translation": "十分に"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Formality of the Instrument of Obligation",
+    "definition": "The principle that an executing organ must rely strictly on the external form and content of the official document (such as a judgment or notarized deed) without examining the substantive merits of the original dispute.",
+    "japaneseDefinition": "執行機関は、実体法上の争いには踏み込まず、債務名義（判決書や公正証書等）の外形および記載内容のみに基づいて手続を進めるべきであるという原則。",
+    "japaneseWordTranslation": "債務名義の形式性 (さいむめいぎのけいしきせい)",
+    "legalContext": "Civil Execution Act Art. 35: A debtor may contest the claim itself through an action to object, but the executing organ proceeds based on the formality of the instrument presented.",
+    "japaneseLegalContext": "民事執行法第35条：債務者は請求異議の訴えを通じて実体的な争いを行うことができるが、執行機関は提示された書面の形式性に基づいて手続を遂行する。",
+    "exampleSentence": "Under the principle of the formality of the instrument of obligation, the execution officer cannot determine whether the debt was actually repaid.",
+    "exampleTranslation": "債務名義の形式性の原則の下では、執行官は債務が実際に弁済されたかどうかを判断することはできない。",
+    "vocabularyList": [
+      {
+        "word": "Substantive merits",
+        "translation": "実体的な正当性"
+      },
+      {
+        "word": "Rely strictly on",
+        "translation": "厳格に依拠する"
+      },
+      {
+        "word": "Executing organ",
+        "translation": "執行機関"
+      },
+      {
+        "word": "Contest",
+        "translation": "争う"
+      },
+      {
+        "word": "External form",
+        "translation": "外形"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Verification of the Identity of the Parties",
+    "definition": "The administrative duty of the court or execution officer to ensure that the individuals involved in the execution process are exactly the same as the names recorded on the title of obligation or its execution clause.",
+    "japaneseDefinition": "執行手続に関与する当事者が、債務名義または執行文に記載された人物と同一であることを確認する裁判所または執行官の事務的義務。",
+    "japaneseWordTranslation": "執行当事者の同一性の確認 (しっこうとうじしゃのどういつせいのかくにん)",
+    "legalContext": "Civil Execution Act Art. 22, 23: Execution may be carried out only for or against the parties named in the title of obligation or their identified successors.",
+    "japaneseLegalContext": "民事執行法第22条、第23条：強制執行は、債務名義に表示された当事者、または特定されたその承継人の間においてのみ行われる。",
+    "exampleSentence": "The execution was stayed pending the verification of the identity of the parties due to a discrepancy in the registered names.",
+    "exampleTranslation": "登録名に不一致があったため、当事者の同一性の確認が完了するまで執行は停止された。",
+    "vocabularyList": [
+      {
+        "word": "Discrepancy",
+        "translation": "相違、食い違い"
+      },
+      {
+        "word": "Administrative duty",
+        "translation": "事務的な義務"
+      },
+      {
+        "word": "Identified",
+        "translation": "特定された"
+      },
+      {
+        "word": "Pending",
+        "translation": "〜を待つ間"
+      },
+      {
+        "word": "Record",
+        "translation": "記録する、記載する"
+      }
+    ]
   }
 ]

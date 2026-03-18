@@ -1,38 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Fruits (Legal)",
-  "definition": "Periodic monetary or non-monetary yields gained as consideration for the use of a principal thing, such as rent derived from leasing land or interest accrued on deposited funds.",
-  "japaneseDefinition": "物の使用の対価として受けるべき金銭その他の物。土地の賃貸料や金銭の利息など、法律関係に基づいて発生する収益。",
-  "japaneseWordTranslation": "ほうていかじつ (hōtei kajitsu)",
-  "legalContext": "Civil Code Art. 89 (2): Legal fruits shall belong to the person who has the right to use the principal thing for the period in which they accrue.",
-  "japaneseLegalContext": "民法第89条第2項: 法定果実は、これを収取する権利の存続期間に応じて、これを取得する。",
-  "exampleSentence": "The dispute centered on whether the accumulated dividends from the shares constituted Legal Fruits attributable to the registered owner or to the interim beneficiary.",
-  "exampleTranslation": "その紛争は、株式からの累積配当が登記された所有者に帰属する法定果実であるか、それとも暫定的な受益者に帰属するかどうかに集中した。",
+  "word": "Principle of Non-retroactivity",
+  "definition": "A fundamental legal rule stating that a person cannot be penalized for an act that was not defined as a crime under the law existing at the time the act was committed (Nulla poena sine lege praevia).",
+  "japaneseDefinition": "行為時において犯罪とされていなかった行為について、後から制定された法律により処罰されないという刑法の基本原則。",
+  "japaneseWordTranslation": "遡及処罰の禁止 (そきゅうしょばつのきんし)",
+  "legalContext": "Japanese Constitution Art. 39: \"No person shall be held criminally liable for an act which was lawful at the time it was committed, or for an act concerning which he has been acquitted...\"",
+  "japaneseLegalContext": "日本国憲法第39条：「…行為の時に適法であった行為又は既に無罪とされた行為については、刑事上の責任を問われない。」",
+  "exampleSentence": "The defense counsel argued that applying the new statute to the defendant's past actions would violate the Principle of Non-retroactivity.",
+  "exampleTranslation": "弁護人は、被告人の過去の行為に新たな法規を適用することは、遡及処罰の禁止の原則に反すると主張した。",
   "vocabularyList": [
     {
-      "word": "dividends",
-      "translation": "配当 (haitō)"
+      "word": "fundamental legal rule",
+      "translation": "基本原則"
     },
     {
-      "word": "accrue",
-      "translation": "発生する (hassei suru)"
+      "word": "penalized",
+      "translation": "処罰される"
     },
     {
-      "word": "principal thing",
-      "translation": "元物 (motomono)"
+      "word": "existing law",
+      "translation": "既存の法律"
     },
     {
-      "word": "attributable",
-      "translation": "帰属する (kizoku suru)"
+      "word": "statute",
+      "translation": "法規"
     },
     {
-      "word": "interim beneficiary",
-      "translation": "暫定的な受益者 (zantei-teki na juyōsha)"
+      "word": "violate",
+      "translation": "違反する"
     },
     {
-      "word": "rent",
-      "translation": "賃貸料 (chintai-ryō)"
+      "word": "past actions",
+      "translation": "過去の行為"
     }
   ]
 }

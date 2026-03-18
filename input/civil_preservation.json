@@ -20004,5 +20004,119 @@
         "translation": "最終判決"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Balance of Interests",
+    "definition": "A judicial principle used to determine the necessity of a preservation order by weighing the potential benefit to the claimant against the potential hardship or loss caused to the adverse party.",
+    "japaneseDefinition": "債権者が得る利益と、保全命令によって債務者が被る不利益や損害を比較検討し、保全の必要性を判断する法理。",
+    "japaneseWordTranslation": "利益の衡量 (りえきのこうりょう)",
+    "legalContext": "While not explicitly named in the text, this principle is central to the judicial discretion exercised under Article 13, Paragraph 1, regarding the necessity of a preservation order.",
+    "japaneseLegalContext": "明文の規定はないが、民事保全法第13条第1項における「保全の必要性」を判断する際の裁判所の裁量権行使の中核となる法理である。",
+    "exampleSentence": "The tribunal performed a balance of interests to ensure that the precautionary relief would not cause an equilibrium-shattering hardship for the adverse party.",
+    "exampleTranslation": "裁判所は、暫定的な救済が相手方に均衡を欠く苦境を強いないよう、利益の衡量を行った。",
+    "vocabularyList": [
+      {
+        "word": "Equilibrium",
+        "translation": "均衡"
+      },
+      {
+        "word": "Weighing",
+        "translation": "衡量"
+      },
+      {
+        "word": "Precautionary",
+        "translation": "予防的な"
+      },
+      {
+        "word": "Tribunal",
+        "translation": "法廷／裁判所"
+      },
+      {
+        "word": "Relief",
+        "translation": "救済"
+      },
+      {
+        "word": "Hardship",
+        "translation": "困難／苦境"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Stay due to Insolvency",
+    "definition": "The automatic or court-ordered suspension of individual preservation procedures when a debtor enters insolvency proceedings to ensure the collective management of assets.",
+    "japaneseDefinition": "債務者が倒産手続に入った際に、財産の集団的管理を確保するため、個別の保全手続が当然に、あるいは裁判所の命令により中断すること。",
+    "japaneseWordTranslation": "倒産による保全手続の中止 (とうさんによるほぜんてつづきのちゅうし)",
+    "legalContext": "Bankruptcy Act Art. 52: If a bankruptcy proceeding is commenced, any pending preservation procedure against the bankruptcy estate shall be stayed.",
+    "japaneseLegalContext": "破産法第52条：破産手続開始の決定があったときは、破産財団に属する財産に対して既にされている民事保全手続は、中止する。",
+    "exampleSentence": "The pending litigation was affected by a stay due to insolvency once the official bankruptcy decree was issued.",
+    "exampleTranslation": "公式な破産宣告が出されると、係属中の訴訟は倒産による中止の影響を受けた。",
+    "vocabularyList": [
+      {
+        "word": "Insolvency",
+        "translation": "倒産／支払不能"
+      },
+      {
+        "word": "Suspension",
+        "translation": "停止／中断"
+      },
+      {
+        "word": "Automatic",
+        "translation": "当然の／自動的な"
+      },
+      {
+        "word": "Decree",
+        "translation": "宣告／命令"
+      },
+      {
+        "word": "Collective",
+        "translation": "集団的な"
+      },
+      {
+        "word": "Estate",
+        "translation": "財団／財産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Probative Threshold",
+    "definition": "The magnitude of evidence required to establish a right or necessity in a preservation case, which is lower than the 'certainty' required in a main action.",
+    "japaneseDefinition": "保全事件において、権利や必要性を立証するために求められる証拠の程度。本案訴訟で必要とされる「確信」よりも低い段階の立証を指す。",
+    "japaneseWordTranslation": "疎明の程度 (そめいのていど)",
+    "legalContext": "Civil Preservation Act Art. 13: A petition for a preservation order shall clarify the right to be preserved and the necessity of preservation with probative evidence.",
+    "japaneseLegalContext": "民事保全法第13条：保全命令の申立ては、その理由となる権利及び保全の必要性を疎明しなければならない。",
+    "exampleSentence": "The claimant met the probative threshold by submitting internal documents that suggested a high magnitude of probability regarding the underlying right.",
+    "exampleTranslation": "債権者は、被保全権利に関する高度の蓋然性を示唆する内部書類を提出することで、疎明の程度を満たした。",
+    "vocabularyList": [
+      {
+        "word": "Magnitude",
+        "translation": "程度／大きさ"
+      },
+      {
+        "word": "Threshold",
+        "translation": "閾値／基準"
+      },
+      {
+        "word": "Probability",
+        "translation": "蓋然性"
+      },
+      {
+        "word": "Underlying",
+        "translation": "基礎となる"
+      },
+      {
+        "word": "Clarify",
+        "translation": "疎明する／明らかにする"
+      },
+      {
+        "word": "Evidence",
+        "translation": "証拠"
+      }
+    ]
   }
 ]

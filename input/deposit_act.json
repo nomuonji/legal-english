@@ -17526,5 +17526,81 @@
         "translation": "基準"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Unidentified Payee",
+    "definition": "A legal ground for deposit where the person making the deposit is unable to ascertain who the person entitled to receive the funds is, without any negligence on their part.",
+    "japaneseDefinition": "供託の原因の一つであり、債務者が過失なく債権者が誰であるかを知ることができない状態を指す。",
+    "japaneseWordTranslation": "債権者不確知 (さいけんしゃふかくち)",
+    "legalContext": "Civil Code, Article 494, Paragraph 2: The preceding paragraph shall also apply if the person making the deposit is unable to ascertain the payee without any negligence on their part.",
+    "japaneseLegalContext": "民法第494条第2項：弁済者が過失なく債権者を確知することができないときも、前項と同様とする（供託ができる）。",
+    "exampleSentence": "The company decided to lodge the funds with the office because there was an unidentified payee resulting from a dispute over the right of succession.",
+    "exampleTranslation": "相続権に関する紛争により債権者が不確知となったため、会社は資金を供託所に預けることにした。",
+    "vocabularyList": [
+      {
+        "word": "Unidentified",
+        "translation": "不確知の (ふかくちの)"
+      },
+      {
+        "word": "Payee",
+        "translation": "受領権者 (じゅりょうけんしゃ)"
+      },
+      {
+        "word": "Funds",
+        "translation": "資金 (しきん)"
+      },
+      {
+        "word": "Dispute",
+        "translation": "紛争 (ふんそう)"
+      },
+      {
+        "word": "Entitled",
+        "translation": "権利がある (けんりがある)"
+      },
+      {
+        "word": "Negligence",
+        "translation": "過失 (かしつ)"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Recovery of the Deposit",
+    "definition": "The right of the person who made the deposit to reclaim the deposited assets from the deposit office, which can be exercised under certain conditions, such as the other party's refusal to accept the deposit.",
+    "japaneseDefinition": "供託者が供託所から供託物を取り戻すことを指す。相手方が供託を受諾しない場合などに認められる権利。",
+    "japaneseWordTranslation": "供託物の取戻し (きょうたくぶつのとりもどし)",
+    "legalContext": "Civil Code, Article 496, Paragraph 1: As long as the person entitled to receive the assets has not accepted the deposit, the person who made the deposit may recover the deposited assets.",
+    "japaneseLegalContext": "民法第496条第1項：債権者が供託を受諾せず……ない間は、弁済者は、供託物を取り戻すことができる。",
+    "exampleSentence": "The right to seek recovery of the deposit is lost once the person entitled to receive the assets expresses their intent to accept the lodged items.",
+    "exampleTranslation": "資産を受け取る権利を有する者が供託物を受諾する意思を表明した後は、供託物の取戻しを求める権利は消滅する。",
+    "vocabularyList": [
+      {
+        "word": "Reclaim",
+        "translation": "取り戻す (とりもどす)"
+      },
+      {
+        "word": "Requirements",
+        "translation": "要件 (ようけん)"
+      },
+      {
+        "word": "Refusal",
+        "translation": "拒絶 (きょぜつ)"
+      },
+      {
+        "word": "Intent",
+        "translation": "意思 (いし)"
+      },
+      {
+        "word": "Assets",
+        "translation": "財産 (ざいさん)"
+      },
+      {
+        "word": "Seeking",
+        "translation": "請求する (せいきゅうする)"
+      }
+    ]
   }
 ]

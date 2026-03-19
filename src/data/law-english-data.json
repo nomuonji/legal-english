@@ -1,38 +1,38 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Principle of Non-retroactivity",
-  "definition": "A fundamental legal rule stating that a person cannot be penalized for an act that was not defined as a crime under the law existing at the time the act was committed (Nulla poena sine lege praevia).",
-  "japaneseDefinition": "行為時において犯罪とされていなかった行為について、後から制定された法律により処罰されないという刑法の基本原則。",
-  "japaneseWordTranslation": "遡及処罰の禁止 (そきゅうしょばつのきんし)",
-  "legalContext": "Japanese Constitution Art. 39: \"No person shall be held criminally liable for an act which was lawful at the time it was committed, or for an act concerning which he has been acquitted...\"",
-  "japaneseLegalContext": "日本国憲法第39条：「…行為の時に適法であった行為又は既に無罪とされた行為については、刑事上の責任を問われない。」",
-  "exampleSentence": "The defense counsel argued that applying the new statute to the defendant's past actions would violate the Principle of Non-retroactivity.",
-  "exampleTranslation": "弁護人は、被告人の過去の行為に新たな法規を適用することは、遡及処罰の禁止の原則に反すると主張した。",
+  "word": "Pledge",
+  "definition": "A security interest created when a debtor or a third party delivers movable property, claims, or proprietary rights to a creditor as collateral for an obligation, granting the creditor the right to receive performance preferentially from that property.",
+  "japaneseDefinition": "債権の担保として、債務者または第三者（質権設定者）から受け取った物を占有し、その物について他の債権者に先立って自己の債権の弁済を受ける権利。",
+  "japaneseWordTranslation": "質権 (しちけん)",
+  "legalContext": "Civil Code Art. 342: A person who delivers an object to a creditor as collateral for an obligation shall be a pledge settler.",
+  "japaneseLegalContext": "民法第342条: 債務の担保として債権者に物を引き渡した者は、質権設定者となる。",
+  "exampleSentence": "The creditor established a *pledge* over the debtor's valuable artwork to secure the loan repayment, requiring physical delivery of the asset.",
+  "exampleTranslation": "債権者は、融資の返済を担保するため、債務者の高価な美術品の上に質権を設定し、その資産の現物引渡しを要求した。",
   "vocabularyList": [
     {
-      "word": "fundamental legal rule",
-      "translation": "基本原則"
+      "word": "collateral",
+      "translation": "担保"
     },
     {
-      "word": "penalized",
-      "translation": "処罰される"
+      "word": "security interest",
+      "translation": "担保権"
     },
     {
-      "word": "existing law",
-      "translation": "既存の法律"
+      "word": "movable property",
+      "translation": "動産"
     },
     {
-      "word": "statute",
-      "translation": "法規"
+      "word": "debtor",
+      "translation": "債務者"
     },
     {
-      "word": "violate",
-      "translation": "違反する"
+      "word": "creditor",
+      "translation": "債権者"
     },
     {
-      "word": "past actions",
-      "translation": "過去の行為"
+      "word": "physical delivery",
+      "translation": "現物引渡し"
     }
   ]
 }

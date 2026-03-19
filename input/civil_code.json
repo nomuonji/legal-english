@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Pledge",
-    "definition": "A security interest created when a debtor or a third party delivers movable property, claims, or proprietary rights to a creditor as collateral for an obligation, granting the creditor the right to receive performance preferentially from that property.",
-    "japaneseDefinition": "債権の担保として、債務者または第三者（質権設定者）から受け取った物を占有し、その物について他の債権者に先立って自己の債権の弁済を受ける権利。",
-    "japaneseWordTranslation": "質権 (しちけん)",
-    "legalContext": "Civil Code Art. 342: A person who delivers an object to a creditor as collateral for an obligation shall be a pledge settler.",
-    "japaneseLegalContext": "民法第342条: 債務の担保として債権者に物を引き渡した者は、質権設定者となる。",
-    "exampleSentence": "The creditor established a *pledge* over the debtor's valuable artwork to secure the loan repayment, requiring physical delivery of the asset.",
-    "exampleTranslation": "債権者は、融資の返済を担保するため、債務者の高価な美術品の上に質権を設定し、その資産の現物引渡しを要求した。",
-    "vocabularyList": [
-      {
-        "word": "collateral",
-        "translation": "担保"
-      },
-      {
-        "word": "security interest",
-        "translation": "担保権"
-      },
-      {
-        "word": "movable property",
-        "translation": "動産"
-      },
-      {
-        "word": "debtor",
-        "translation": "債務者"
-      },
-      {
-        "word": "creditor",
-        "translation": "債権者"
-      },
-      {
-        "word": "physical delivery",
-        "translation": "現物引渡し"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Offer and Acceptance",
     "definition": "The fundamental procedural steps by which the consensus necessary for the establishment of an agreement or arrangement is reached, comprising a specific proposal by one party and an unequivocal agreement thereto by the other.",
     "japaneseDefinition": "合意または取り決めの成立に必要な合致に至るための基本的な手続き上の段階。一方当事者による具体的な提案と、他方当事者によるそれに対する明確な合意から構成される。",
@@ -27236,6 +27198,108 @@
       {
         "word": "Period",
         "translation": "期間"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Verification of the Validity of the Obligation",
+    "definition": "The process of confirming that a legal duty or debt was formed correctly and remains legally enforceable under the law of obligations.",
+    "japaneseDefinition": "債務が適法に成立し、かつ現在も法的効力を有していることを確認すること。",
+    "japaneseWordTranslation": "債務の有効性の確認 (さいむのゆうこうせいのかくにん)",
+    "legalContext": "Civil Code Art. 399: The subject matter of an obligation may be something that cannot be estimated in money.",
+    "japaneseLegalContext": "民法第399条：債権は、金銭に見積もることができないものであっても、その目的とすることができる。",
+    "exampleSentence": "The court ordered the verification of the validity of the obligation before proceeding with any claims.",
+    "exampleTranslation": "裁判所は、いかなる請求を進める前にも、債務の有効性の確認を行うよう命じた。",
+    "vocabularyList": [
+      {
+        "word": "Verification",
+        "translation": "確認"
+      },
+      {
+        "word": "Validity",
+        "translation": "有効性"
+      },
+      {
+        "word": "Enforceable",
+        "translation": "執行力のある"
+      },
+      {
+        "word": "Duty",
+        "translation": "義務"
+      },
+      {
+        "word": "Proceeding",
+        "translation": "手続き"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Verification of the Intent to Rescind",
+    "definition": "The legal scrutiny applied to confirm that a party's choice to terminate a contract was made voluntarily and based on statutory or contractual grounds.",
+    "japaneseDefinition": "契約を解除するという当事者の意思が、自発的に、かつ法定または約定の根拠に基づいてなされたものであることを法的に確認すること。",
+    "japaneseWordTranslation": "解除意思の確認 (かいじょいしのかくにん)",
+    "legalContext": "Civil Code Art. 540: If one party has a right to cancel a contract, the cancellation is made by a manifestation of intention to the other party.",
+    "japaneseLegalContext": "民法第540条：契約又は法律の規定により当事者の一方が解除権を有するときは、その解除は、相手方に対する意思表示によってする。",
+    "exampleSentence": "The dispute focused on the verification of the intent to rescind following the alleged breach.",
+    "exampleTranslation": "紛争は、主張された違反の後の解除意思の確認に焦点を当てた。",
+    "vocabularyList": [
+      {
+        "word": "Scrutiny",
+        "translation": "精査"
+      },
+      {
+        "word": "Voluntarily",
+        "translation": "自発的に"
+      },
+      {
+        "word": "Statutory",
+        "translation": "法定の"
+      },
+      {
+        "word": "Grounds",
+        "translation": "根拠"
+      },
+      {
+        "word": "Alleged",
+        "translation": "主張された"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Verification of the Accuracy of the Statement",
+    "definition": "The legal act of ensuring that an outward expression of will accurately reflects the true inner intent of the declarant.",
+    "japaneseDefinition": "表示された意思が、表意者の真の内心の意思を正確に反映しているかを法的に確認すること。",
+    "japaneseWordTranslation": "意思表示の正確性の確認 (いしひょうじのせいかくせいのかくにん)",
+    "legalContext": "Civil Code Art. 93: The validity of a manifestation of intention is not impaired even if the declarant made the manifestation of intention knowing that it did not reflect their true intention.",
+    "japaneseLegalContext": "民法第93条：意思表示は、表意者がその真意ではないことを知ってしたときであっても、そのためにその効力を妨げられない。",
+    "exampleSentence": "The attorney requested a verification of the accuracy of the statement provided during the initial negotiations.",
+    "exampleTranslation": "弁護士は、初期の交渉中に提供された意思表示の正確性の確認を求めた。",
+    "vocabularyList": [
+      {
+        "word": "Accuracy",
+        "translation": "正確性"
+      },
+      {
+        "word": "Declarant",
+        "translation": "表意者"
+      },
+      {
+        "word": "Reflect",
+        "translation": "反映する"
+      },
+      {
+        "word": "Impaired",
+        "translation": "損なわれる"
+      },
+      {
+        "word": "Negotiations",
+        "translation": "交渉"
       }
     ]
   }

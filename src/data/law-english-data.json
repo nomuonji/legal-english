@@ -1,38 +1,42 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Deposit Act (供託法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Pledge",
-  "definition": "A security interest created when a debtor or a third party delivers movable property, claims, or proprietary rights to a creditor as collateral for an obligation, granting the creditor the right to receive performance preferentially from that property.",
-  "japaneseDefinition": "債権の担保として、債務者または第三者（質権設定者）から受け取った物を占有し、その物について他の債権者に先立って自己の債権の弁済を受ける権利。",
-  "japaneseWordTranslation": "質権 (しちけん)",
-  "legalContext": "Civil Code Art. 342: A person who delivers an object to a creditor as collateral for an obligation shall be a pledge settler.",
-  "japaneseLegalContext": "民法第342条: 債務の担保として債権者に物を引き渡した者は、質権設定者となる。",
-  "exampleSentence": "The creditor established a *pledge* over the debtor's valuable artwork to secure the loan repayment, requiring physical delivery of the asset.",
-  "exampleTranslation": "債権者は、融資の返済を担保するため、債務者の高価な美術品の上に質権を設定し、その資産の現物引渡しを要求した。",
+  "word": "Authorization to Return Consigned Assets",
+  "definition": "The formal judicial or administrative prerequisite necessary to permit the consigner (or their successor) to reclaim the consigned assets when the original legal ground or purpose for the deposit has been extinguished.",
+  "japaneseDefinition": "供託の根拠となった法律上の原因または目的が消滅した場合に、供託者（又はその承継人）が供託物を取り戻すことを許可するために必要な、裁判所または行政庁による正式な承認手続き。",
+  "japaneseWordTranslation": "供託物の取戻しの承認 (きょうたくぶつのとりもどしのしょうにん)",
+  "legalContext": "Deposit Act, Art. 48 (Principle): If the grounds that required the deposit have ceased to exist, the consigner may apply for the Authorization to Return Consigned Assets.",
+  "japaneseLegalContext": "供託法第48条（原則）：供託を必要とした事由が消滅したときは、供託者は供託物の取戻しの承認を申請することができる。",
+  "exampleSentence": "Since the underlying legal dispute was settled, the applicant filed a motion seeking Authorization to Return Consigned Assets, arguing that the security purpose was fulfilled.",
+  "exampleTranslation": "基礎となる法的紛争が和解したため、申立人は、担保目的が達成されたとして、供託物の取戻しの承認を求める申立てを行った。",
   "vocabularyList": [
     {
-      "word": "collateral",
-      "translation": "担保"
+      "word": "judicial prerequisite",
+      "translation": "司法上の要件"
     },
     {
-      "word": "security interest",
-      "translation": "担保権"
+      "word": "successor",
+      "translation": "承継人"
     },
     {
-      "word": "movable property",
-      "translation": "動産"
+      "word": "reclaim",
+      "translation": "取り戻す"
     },
     {
-      "word": "debtor",
-      "translation": "債務者"
+      "word": "extinguished",
+      "translation": "消滅した"
     },
     {
-      "word": "creditor",
-      "translation": "債権者"
+      "word": "underlying dispute",
+      "translation": "基礎となる紛争"
     },
     {
-      "word": "physical delivery",
-      "translation": "現物引渡し"
+      "word": "motion",
+      "translation": "申立て"
+    },
+    {
+      "word": "security purpose",
+      "translation": "担保目的"
     }
   ]
 }

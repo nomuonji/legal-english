@@ -27416,5 +27416,107 @@
         "translation": "代理人 / 代表者"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Performance Assistant",
+    "definition": "A person whom the obligor uses to fulfill an obligation. Unlike an agent, a performance assistant does not necessarily have the authority to represent the obligor, but the obligor is generally held liable for the assistant's negligence as if it were their own.",
+    "japaneseDefinition": "債務者が自らの債務を履行するために使用する者のこと。代理人と異なり、必ずしも代理権を有するわけではないが、債務者は履行補助者の過失について、自らの過失と同様に責任を負うのが原則である。",
+    "japaneseWordTranslation": "履行補助者 (りこうほじょしゃ)",
+    "legalContext": "Civil Code Art. 415: While not explicitly defined in the Code, the doctrine of 'Liability for a Performance Assistant' (Rikō Hojosha no Sekinin) is a fundamental principle established by judicial precedent regarding the non-performance of obligations.",
+    "japaneseLegalContext": "民法第415条：条文上に明文の規定はないが、判例法理として「履行補助者の責任」は債務不履行責任における基本原則として確立されている。",
+    "exampleSentence": "Under the principle of vicarious liability in contract, the obligor remains responsible for any breach caused by the negligence of their performance assistant.",
+    "exampleTranslation": "契約上の履行補助者の過失責任の原則に基づき、債務者はその履行補助者の過失によって生じた義務違反について引き続き責任を負う。",
+    "vocabularyList": [
+      {
+        "word": "Negligence",
+        "translation": "過失"
+      },
+      {
+        "word": "Doctrine",
+        "translation": "法理"
+      },
+      {
+        "word": "Breach",
+        "translation": "違反"
+      },
+      {
+        "word": "Performance",
+        "translation": "履行"
+      },
+      {
+        "word": "Vicarious liability",
+        "translation": "代位責任（ここでは履行補助者の責任）"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Extraordinary Expenses",
+    "definition": "Costs incurred for the preservation or improvement of a thing that go beyond ordinary maintenance or necessary day-to-day expenditures. These are often distinguished in the Civil Code regarding the rights of possessors or lessees to claim reimbursement.",
+    "japaneseDefinition": "物の保存や改良のために支出された費用のうち、通常の維持管理費や日常的な必要経費を超えるもの。占有者や賃借人の償還請求権に関連して、必要費や有益費と区別して議論されることがある。",
+    "japaneseWordTranslation": "特別の費用 (とくべつのひよう)",
+    "legalContext": "Civil Code Art. 196 & 583: These articles distinguish between necessary expenses, useful expenses, and other specific costs incurred during the possession or loan of property.",
+    "japaneseLegalContext": "民法第196条、第583条：これらの条文は、物の占有や借用中に生じた必要費、有益費、およびその他の特定の費用を区別している。",
+    "exampleSentence": "The court ruled that the structural repairs to the building constituted extraordinary expenses for which the possessor was entitled to seek reimbursement under certain conditions.",
+    "exampleTranslation": "裁判所は、建物の構造上の修理は特別の費用に該当し、占有者は一定の条件下でその償還を請求する権利があると判示した。",
+    "vocabularyList": [
+      {
+        "word": "Preservation",
+        "translation": "保存"
+      },
+      {
+        "word": "Reimbursement",
+        "translation": "償還"
+      },
+      {
+        "word": "Expenditure",
+        "translation": "支出"
+      },
+      {
+        "word": "Structural repairs",
+        "translation": "構造上の修理"
+      },
+      {
+        "word": "Entitled",
+        "translation": "権利がある"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for the Revocation of an Adoption",
+    "definition": "A legal proceeding brought to cancel the legal relationship between an adoptive parent and an adopted child based on specific statutory grounds, such as fraud or duress at the time of the agreement.",
+    "japaneseDefinition": "縁組の際に詐欺や強迫があった場合など、法定の事由に基づいて養親と養子の間の法的関係を取り消すための訴訟手続き。",
+    "japaneseWordTranslation": "養子縁組の取消しの訴え (ようしえんぐみのとりけしのうったえ)",
+    "legalContext": "Civil Code Art. 804 - 808: These articles outline the grounds and procedures for the judicial revocation of an adoption, as distinguished from a consensual dissolution.",
+    "japaneseLegalContext": "民法第804条〜第808条：これらの条文は、協議離縁とは区別される、養子縁組の裁判上の取消しの事由および手続きについて規定している。",
+    "exampleSentence": "The plaintiff initiated an action for the revocation of the adoption, alleging that the consent was obtained through fraudulent misrepresentation.",
+    "exampleTranslation": "原告は、詐欺的な虚偽表示によって同意が得られたと主張して、養子縁組の取消しの訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "Revocation",
+        "translation": "取消し"
+      },
+      {
+        "word": "Adoption",
+        "translation": "養子縁組"
+      },
+      {
+        "word": "Adoptive parent",
+        "translation": "養親"
+      },
+      {
+        "word": "Statutory grounds",
+        "translation": "法定事由"
+      },
+      {
+        "word": "Fraudulent misrepresentation",
+        "translation": "詐欺的な虚偽表示"
+      }
+    ]
   }
 ]

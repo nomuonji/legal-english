@@ -2,44 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Execution Against Immovable Property",
-    "definition": "A category of compulsory execution aimed at liquidating the obligor's real property (land and buildings) to satisfy a monetary claim, typically resulting in a public auction (compulsory auction) or compulsory administration (compulsory management).",
-    "japaneseDefinition": "金銭債権の満足を得る目的で、債務者の不動産（土地や建物）を対象に行われる強制執行の手続きであり、通常、強制競売または強制管理の手法が用いられる。",
-    "japaneseWordTranslation": "不動産執行 (ふどうさんしっこう)",
-    "legalContext": "MSL (Minji Shikkō Hō) Chapter 1 of Part III: Execution Against Immovable Property (Sets out the specific procedures for compulsory auction and administration).",
-    "japaneseLegalContext": "民事執行法 第3編第1章: 不動産に対する強制執行 (強制競売及び強制管理に関する特定の手続きを規定する。)",
-    "exampleSentence": "The bank, holding a hypothec on the debtor’s factory, initiated **Execution Against Immovable Property** after the repayment period elapsed.",
-    "exampleTranslation": "債務者の工場に抵当権を設定していた銀行は、返済期間が経過した後、不動産執行を開始した。",
-    "vocabularyList": [
-      {
-        "word": "compulsory auction",
-        "translation": "強制競売 (きょうせいけいばい)"
-      },
-      {
-        "word": "compulsory administration",
-        "translation": "強制管理 (きょうせいかんり)"
-      },
-      {
-        "word": "monetary claim",
-        "translation": "金銭債権 (きんせんさいけん)"
-      },
-      {
-        "word": "hypothec",
-        "translation": "抵当権 (ていとうけん)"
-      },
-      {
-        "word": "liquidation",
-        "translation": "換価 (かんか)"
-      },
-      {
-        "word": "repayment period",
-        "translation": "弁済期 (べんさいき)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Minimum Sale Price",
     "definition": "The lowest legally permissible price at which immovable property subject to compulsory auction can be sold. This price is determined by the execution court based on the property appraisal conducted by a court-appointed appraiser.",
     "japaneseDefinition": "強制競売にかけられた不動産を売却できる法定の最低価格。この価格は、執行裁判所が選任した評価人による鑑定に基づき決定される。",
@@ -22830,6 +22792,108 @@
       {
         "word": "Relevant",
         "translation": "関連する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Next-Highest Purchase Offer",
+    "definition": "An offer made by the bidder with the second-highest bid to purchase the property in the event that the highest bidder fails to pay the purchase price by the designated deadline.",
+    "japaneseDefinition": "最高価買受申込人が代金を納付しない場合に、自己の入札価額で買受けを申し出る制度。",
+    "japaneseWordTranslation": "次順位の買受けの申出 (じじゅんいのかいうけのもうしで)",
+    "legalContext": "Civil Execution Act Art. 67: The person who has made a purchase offer second to the highest bid may, if their bid reaches the specified price, make a next-highest purchase offer to the execution officer.",
+    "japaneseLegalContext": "民事執行法第67条：最高価買受申込人に次いで高い価額で買受けの申出をした者は、その申出の価額が売却基準価額から保証の額を控除した価額以上である場合に限り、売却決定期日の終了までに、執行官に対し、次順位の買受けの申出をすることができる。",
+    "exampleSentence": "The execution court accepted the next-highest purchase offer after the initial purchaser defaulted on the payment.",
+    "exampleTranslation": "当初の買受人が代金の支払を怠ったため、執行裁判所は次順位の買受けの申出を認めた。",
+    "vocabularyList": [
+      {
+        "word": "bidder",
+        "translation": "入札者"
+      },
+      {
+        "word": "default",
+        "translation": "履行遅滞・不履行"
+      },
+      {
+        "word": "designated deadline",
+        "translation": "指定された期限"
+      },
+      {
+        "word": "execution officer",
+        "translation": "執行官"
+      },
+      {
+        "word": "purchase price",
+        "translation": "買受代金"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for the Correction of the Distribution Schedule",
+    "definition": "A court order issued to rectify errors or omissions found in the distribution schedule that determines how proceeds from the sale of assets are allocated among creditors.",
+    "japaneseDefinition": "配当表に誤記や脱漏がある場合に、執行裁判所がその内容を修正するために出す命令。",
+    "japaneseWordTranslation": "配当表の更正命令 (はいとうひょうのこうせいめいれい)",
+    "legalContext": "Civil Execution Act Art. 85: If a court finds an error in the distribution schedule, it shall issue an order for its correction prior to the finalization of payments.",
+    "japaneseLegalContext": "民事執行法第85条：執行裁判所は、配当表に誤りがあると認めるときは、配当を実施する前に、その更正を命じなければならない。",
+    "exampleSentence": "The judge issued an order for the correction of the distribution schedule to account for the adjusted priority of the tax claim.",
+    "exampleTranslation": "裁判官は、修正された税金債権の優先順位を反映させるため、配当表の更正命令を出した。",
+    "vocabularyList": [
+      {
+        "word": "rectify",
+        "translation": "修正する"
+      },
+      {
+        "word": "omission",
+        "translation": "脱漏・漏れ"
+      },
+      {
+        "word": "allocation",
+        "translation": "割り当て・配分"
+      },
+      {
+        "word": "tax claim",
+        "translation": "租税債権"
+      },
+      {
+        "word": "priority",
+        "translation": "優先順位"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Notification of the Results of the Opening of Bids",
+    "definition": "The formal announcement or report made by the execution officer regarding the names of the bidders and the amounts offered during the public opening of bids in an auction.",
+    "japaneseDefinition": "入札の開始後、執行官が公衆の前で札を開け、その入札価額や入札者の氏名を発表すること。",
+    "japaneseWordTranslation": "開札結果の通知 (かいさつけっかのつうち)",
+    "legalContext": "Civil Execution Act Art. 64: The execution officer shall, at the time and place specified for the opening of bids, open the bids in the presence of the persons attending and notify the results.",
+    "japaneseLegalContext": "民事執行法第64条：執行官は、開札の場所及び時刻において、出席した者の前で入札書を開封し、その結果を通知しなければならない。",
+    "exampleSentence": "All interested parties gathered at the courthouse for the notification of the results of the opening of bids.",
+    "exampleTranslation": "全ての利害関係人が、開札結果の通知のために裁判所に集まった。",
+    "vocabularyList": [
+      {
+        "word": "opening of bids",
+        "translation": "開札"
+      },
+      {
+        "word": "formal announcement",
+        "translation": "正式な発表"
+      },
+      {
+        "word": "courthouse",
+        "translation": "裁判所（の建物）"
+      },
+      {
+        "word": "interested parties",
+        "translation": "利害関係人"
+      },
+      {
+        "word": "public opening",
+        "translation": "公開開札"
       }
     ]
   }

@@ -1,42 +1,38 @@
 {
-  "category": "Deposit Act (供託法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Authorization to Return Consigned Assets",
-  "definition": "The formal judicial or administrative prerequisite necessary to permit the consigner (or their successor) to reclaim the consigned assets when the original legal ground or purpose for the deposit has been extinguished.",
-  "japaneseDefinition": "供託の根拠となった法律上の原因または目的が消滅した場合に、供託者（又はその承継人）が供託物を取り戻すことを許可するために必要な、裁判所または行政庁による正式な承認手続き。",
-  "japaneseWordTranslation": "供託物の取戻しの承認 (きょうたくぶつのとりもどしのしょうにん)",
-  "legalContext": "Deposit Act, Art. 48 (Principle): If the grounds that required the deposit have ceased to exist, the consigner may apply for the Authorization to Return Consigned Assets.",
-  "japaneseLegalContext": "供託法第48条（原則）：供託を必要とした事由が消滅したときは、供託者は供託物の取戻しの承認を申請することができる。",
-  "exampleSentence": "Since the underlying legal dispute was settled, the applicant filed a motion seeking Authorization to Return Consigned Assets, arguing that the security purpose was fulfilled.",
-  "exampleTranslation": "基礎となる法的紛争が和解したため、申立人は、担保目的が達成されたとして、供託物の取戻しの承認を求める申立てを行った。",
+  "word": "Execution Against Immovable Property",
+  "definition": "A category of compulsory execution aimed at liquidating the obligor's real property (land and buildings) to satisfy a monetary claim, typically resulting in a public auction (compulsory auction) or compulsory administration (compulsory management).",
+  "japaneseDefinition": "金銭債権の満足を得る目的で、債務者の不動産（土地や建物）を対象に行われる強制執行の手続きであり、通常、強制競売または強制管理の手法が用いられる。",
+  "japaneseWordTranslation": "不動産執行 (ふどうさんしっこう)",
+  "legalContext": "MSL (Minji Shikkō Hō) Chapter 1 of Part III: Execution Against Immovable Property (Sets out the specific procedures for compulsory auction and administration).",
+  "japaneseLegalContext": "民事執行法 第3編第1章: 不動産に対する強制執行 (強制競売及び強制管理に関する特定の手続きを規定する。)",
+  "exampleSentence": "The bank, holding a hypothec on the debtor’s factory, initiated **Execution Against Immovable Property** after the repayment period elapsed.",
+  "exampleTranslation": "債務者の工場に抵当権を設定していた銀行は、返済期間が経過した後、不動産執行を開始した。",
   "vocabularyList": [
     {
-      "word": "judicial prerequisite",
-      "translation": "司法上の要件"
+      "word": "compulsory auction",
+      "translation": "強制競売 (きょうせいけいばい)"
     },
     {
-      "word": "successor",
-      "translation": "承継人"
+      "word": "compulsory administration",
+      "translation": "強制管理 (きょうせいかんり)"
     },
     {
-      "word": "reclaim",
-      "translation": "取り戻す"
+      "word": "monetary claim",
+      "translation": "金銭債権 (きんせんさいけん)"
     },
     {
-      "word": "extinguished",
-      "translation": "消滅した"
+      "word": "hypothec",
+      "translation": "抵当権 (ていとうけん)"
     },
     {
-      "word": "underlying dispute",
-      "translation": "基礎となる紛争"
+      "word": "liquidation",
+      "translation": "換価 (かんか)"
     },
     {
-      "word": "motion",
-      "translation": "申立て"
-    },
-    {
-      "word": "security purpose",
-      "translation": "担保目的"
+      "word": "repayment period",
+      "translation": "弁済期 (べんさいき)"
     }
   ]
 }

@@ -18987,5 +18987,119 @@
         "translation": "記録"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration for the Recovery of a Deleted Entry",
+    "definition": "A specific registration procedure used to restore a previously deleted registration to its original state and rank when it was terminated or cancelled due to error, illegality, or other invalid grounds.",
+    "japaneseDefinition": "不当または錯誤により抹消された登記を、抹消前の状態および順位に復帰させるための登記手続。",
+    "japaneseWordTranslation": "抹消登記の回復の登記 (まっしょうとうきのかいふくのとうき)",
+    "legalContext": "Real Property Registration Act Art. 2, item (xiv): ...the term 'registration for the recovery of a deleted entry' means a registration to restore a registration that has been deleted.",
+    "japaneseLegalContext": "不動産登記法第2条第14号：「抹消登記の回復」とは、抹消された登記を復元する登記をいう。",
+    "exampleSentence": "If a registration of title is erroneously cancelled, the party must apply for the registration for the recovery of a deleted entry to reinstate their prior priority.",
+    "exampleTranslation": "権利の登記が誤って抹消された場合、当事者は従前の順位を復元するために抹消登記の回復の登記を申請しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Reinstate",
+        "translation": "復元する"
+      },
+      {
+        "word": "Erroneously",
+        "translation": "誤って"
+      },
+      {
+        "word": "Prior priority",
+        "translation": "従前の順位"
+      },
+      {
+        "word": "Interested third party",
+        "translation": "利害関係を有する第三者"
+      },
+      {
+        "word": "Title",
+        "translation": "権利"
+      },
+      {
+        "word": "Apply for",
+        "translation": "申請する"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of a Change in the Credit Limit",
+    "definition": "The registration required to modify the maximum amount of credit secured by a revolving security interest. This process typically requires the consent of all junior right holders as it affects their potential recovery.",
+    "japaneseDefinition": "根抵当権などで担保される債権の最高限度額（極度額）を変更する際に行う登記。後順位の権利者の承諾が必要となる。",
+    "japaneseWordTranslation": "極度額の変更登記 (きょくどがくのへんこうとうき)",
+    "legalContext": "Real Property Registration Act Art. 89: In an application for a registration of a change in the rank of a security interest... and a change in the credit limit...",
+    "japaneseLegalContext": "不動産登記法第89条：極度額の変更等の登記に関する規定。",
+    "exampleSentence": "To increase the capacity for future borrowing, the bank and the debtor filed a registration of a change in the credit limit of the revolving collateral.",
+    "exampleTranslation": "将来の借入枠を拡大するため、銀行と債務者は根担保の極度額の変更登記を申請した。",
+    "vocabularyList": [
+      {
+        "word": "Credit limit",
+        "translation": "極度額"
+      },
+      {
+        "word": "Revolving",
+        "translation": "根（継続的な）"
+      },
+      {
+        "word": "Junior right holder",
+        "translation": "後順位の権利者"
+      },
+      {
+        "word": "Consent",
+        "translation": "承諾"
+      },
+      {
+        "word": "Collateral",
+        "translation": "担保"
+      },
+      {
+        "word": "Borrowing",
+        "translation": "借入"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Continuity of Registered Titles",
+    "definition": "A fundamental procedural rule in the registration system requiring that each new entry of a transfer must be legally linked to the previous registered holder in a continuous chain.",
+    "japaneseDefinition": "不動産登記制度において、新たな権利移転の登記を行う際、その申請が現在の登記名義人から直接なされるなど、登記上の名義が連続していなければならないという原則。",
+    "japaneseWordTranslation": "登記名義の連続性の原則 (とうきめいぎのれんぞくせいのげんそく)",
+    "legalContext": "Real Property Registration Act Art. 62: ...if a registration of a change in the name of the registered holder is to be made, it shall be made after the existing entry.",
+    "japaneseLegalContext": "不動産登記法第62条等：登記の連続性および申請人の適格性に関する手続的原則。",
+    "exampleSentence": "Due to the principle of continuity of registered titles, the applicant could not skip the intermediate transfer and had to register every step of the chain of title.",
+    "exampleTranslation": "登記名義の連続性の原則により、申請人は中間の移転を省略することはできず、権利の連鎖のすべての過程を登記しなければならなかった。",
+    "vocabularyList": [
+      {
+        "word": "Continuous chain",
+        "translation": "連続した連鎖"
+      },
+      {
+        "word": "Intermediate transfer",
+        "translation": "中間移転"
+      },
+      {
+        "word": "Registered holder",
+        "translation": "登記名義人"
+      },
+      {
+        "word": "Chain of title",
+        "translation": "権利の連鎖"
+      },
+      {
+        "word": "Procedural rule",
+        "translation": "手続的規則"
+      },
+      {
+        "word": "Entry",
+        "translation": "記載・登録"
+      }
+    ]
   }
 ]

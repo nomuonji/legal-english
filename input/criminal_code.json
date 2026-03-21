@@ -2,44 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Misdemeanor Imprisonment without Labor",
-    "definition": "A short-term custodial penalty under Japanese criminal law, where the convicted person is confined in a correctional facility for a period of one to 30 days, which does not involve compulsory labor.",
-    "japaneseDefinition": "1日以上30日未満の期間、刑事施設に拘置する刑罰。懲役（Imprisonment with Labor）や禁錮（Imprisonment without Labor）と異なり、労務を課されない。",
-    "japaneseWordTranslation": "拘留 (こうりゅう)",
-    "legalContext": "Penal Code Art. 16: “Misdemeanor Imprisonment without Labor shall be for a period of not less than one day and not more than 30 days, and the person shall be confined in a correctional facility.”",
-    "japaneseLegalContext": "刑法第16条：「拘留は、一日以上三十日未満とし、刑事施設に拘置する。」",
-    "exampleSentence": "The summary court often handles minor regulatory violations by imposing either a fine or Misdemeanor Imprisonment without Labor.",
-    "exampleTranslation": "簡易裁判所は、軽微な法規違反について、科料または拘留のいずれかを科すことで処理することが多い。",
-    "vocabularyList": [
-      {
-        "word": "custodial penalty",
-        "translation": "自由刑"
-      },
-      {
-        "word": "correctional facility",
-        "translation": "刑事施設"
-      },
-      {
-        "word": "confined",
-        "translation": "拘置される"
-      },
-      {
-        "word": "compulsory labor",
-        "translation": "強制労働"
-      },
-      {
-        "word": "summary court",
-        "translation": "簡易裁判所"
-      },
-      {
-        "word": "regulatory violations",
-        "translation": "法規違反"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Mitigation of Penalty",
     "definition": "The reduction of a legally prescribed sentence (penalty) below the minimum standard, usually due to the presence of specific legal grounds or compelling extenuating circumstances (judicial discretion).",
     "japaneseDefinition": "法律で定められた刑罰の最低限度を超えて、刑の程度を軽くすること。法定の理由に基づく場合と、裁判官の裁量に基づく場合がある。",
@@ -22640,6 +22602,116 @@
       {
         "word": "Dispute",
         "translation": "紛争"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Bid-Rigging",
+    "definition": "A form of price fixing and fraud in which commercial rivals conspire to determine the winner of a contract or auction, typically involving public works or government procurement.",
+    "japaneseDefinition": "公的な競売や入札において、競争者同士が事前に相談して落札者や価格を決める行為。刑法上は競売入札妨害罪の一形態として処罰される。",
+    "japaneseWordTranslation": "談合 (だんごう)",
+    "legalContext": "Criminal Code Art. 96-3: (1) A person who, by use of fraudulent means or force, impairs the fairness of a public auction or a bid for a contract, shall be punished by imprisonment with labor for not more than 3 years or a fine of not more than 2.5 million yen. (2) The same shall apply to a person who conspires for the purpose of impairing the fairness of a public auction or a bid for a contract with respect to the price or other matters.",
+    "japaneseLegalContext": "刑法第96条の3：(1) 偽計又は威力を用いて、公の競売又は入札の公正を害した者は、三年以下の懲役又は二百五十万円以下の罰金に処する。(2) 公の競売又は入札の公正を害する目的で、談合した者も、前項と同様とする。",
+    "exampleSentence": "The construction company was investigated for bid-rigging in connection with the municipal bridge project.",
+    "exampleTranslation": "その建設会社は、市営の橋梁事業に関連する談合の疑いで捜査を受けた。",
+    "vocabularyList": [
+      {
+        "word": "Fraudulent means",
+        "translation": "偽計 (ぎけい)"
+      },
+      {
+        "word": "Public auction",
+        "translation": "公の競売 (おおやけのけいばい)"
+      },
+      {
+        "word": "Municipal project",
+        "translation": "市営事業 (しえいじぎょう)"
+      },
+      {
+        "word": "Price fixing",
+        "translation": "価格協定 (かかくきょうてい)"
+      },
+      {
+        "word": "Procurement",
+        "translation": "調達 (ちょうたつ)"
+      },
+      {
+        "word": "Investigation",
+        "translation": "捜査 (そうさ)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Superior Orders",
+    "definition": "A legal defense or plea that a person was not responsible for their criminal acts because they were performing them under the orders of a superior officer or official.",
+    "japaneseDefinition": "上官の命令に従って行った行為であるため、刑事責任を負わないとする弁解。日本の刑法上は、正当行為（35条）として違法性が阻却されるかが議論される。",
+    "japaneseWordTranslation": "上官の命令 (じょうかんのめいれい)",
+    "legalContext": "Criminal Code Art. 35: An act performed in accordance with laws and regulations or in the pursuit of lawful business is not punishable. (Note: The defense of superior orders is typically analyzed under this article to determine if the order was 'lawful').",
+    "japaneseLegalContext": "刑法第35条：法令又は正当な業務による行為は、罰しない。（注：上官の命令は、通常、その命令が「正当」であるかどうかの観点から、本条の正当行為の枠組みで分析される。）",
+    "exampleSentence": "The defendant argued that the doctrine of superior orders should apply, as he was a lower-ranking officer following mandatory instructions.",
+    "exampleTranslation": "被告人は、強制的な指示に従っていた下級士官であったため、上官の命令の法理が適用されるべきだと主張した。",
+    "vocabularyList": [
+      {
+        "word": "Justifiable act",
+        "translation": "正当行為 (せいとうこうい)"
+      },
+      {
+        "word": "Lower-ranking officer",
+        "translation": "下級士官 (かきゅうしかん)"
+      },
+      {
+        "word": "Defense",
+        "translation": "弁解・防御 (べんかい・ぼうぎょ)"
+      },
+      {
+        "word": "Mandatory instructions",
+        "translation": "強制的指示 (きょうせいてきしじ)"
+      },
+      {
+        "word": "Punishable",
+        "translation": "罰すべき (ばすべき)"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Internal Thoughts",
+    "definition": "The principle that the law does not punish mere thoughts, beliefs, or intentions unless they are manifested through an external criminal act (Actus Reus).",
+    "japaneseDefinition": "思想や内心の意図だけでは処罰の対象とならないという原則。犯罪が成立するためには、内心の意思が外部的な「行為」として表現される必要がある。",
+    "japaneseWordTranslation": "内心 (ないしん)",
+    "legalContext": "Criminal Code Art. 38: (1) An act committed without the intent to commit a crime is not punishable, except as otherwise provided by law. (The code generally requires both a subjective intent and an objective external act).",
+    "japaneseLegalContext": "刑法第38条：(1) 罪を犯す意思がない行為は、罰しない。ただし、法律に特別の規定がある場合は、この限りでない。（刑法は原則として、主観的な意図と客観的な外部的行為の両方を要求する。）",
+    "exampleSentence": "Under the current penal system, internal thoughts alone cannot constitute a crime without a corresponding overt act.",
+    "exampleTranslation": "現在の刑罰制度の下では、内心のみでは、対応する外部的行為がない限り犯罪を構成することはない。",
+    "vocabularyList": [
+      {
+        "word": "Penal system",
+        "translation": "刑罰制度 (けいばつせいど)"
+      },
+      {
+        "word": "Overt act",
+        "translation": "外部的行為 (がいぶてきこうい)"
+      },
+      {
+        "word": "Manifested",
+        "translation": "具現化された (ぐげんかされた)"
+      },
+      {
+        "word": "Belief",
+        "translation": "信念 (しんねん)"
+      },
+      {
+        "word": "Subjective intent",
+        "translation": "主観的意図 (しゅかんてきいと)"
+      },
+      {
+        "word": "Constitute",
+        "translation": "構成する (こうせいする)"
       }
     ]
   }

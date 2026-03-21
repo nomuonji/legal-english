@@ -27518,5 +27518,107 @@
         "translation": "詐欺的な虚偽表示"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Non-fungible Thing",
+    "definition": "A specific object that cannot be replaced by another of the same kind due to its unique characteristics, such as a specific piece of land or a unique work of art.",
+    "japaneseDefinition": "その物の個性に主眼が置かれ、同種類・同品質の他の物で代えることができない物。土地や特定の建物、一点物の美術品などがこれにあたる。",
+    "japaneseWordTranslation": "非代替物 (ひだいたいぶつ)",
+    "legalContext": "Civil Code Art. 399 et seq.: In the Japanese Civil Code, the distinction between fungible and non-fungible things determines whether an obligation is considered a specific thing obligation.",
+    "japaneseLegalContext": "民法第399条等：日本の民法において、代替物と非代替物の区別は、その債務が特定物債務にあたるかどうかを判断する基準となる。",
+    "exampleSentence": "Since the subject matter of the contract is a non-fungible thing, the seller cannot fulfill the obligation by delivering a similar item.",
+    "exampleTranslation": "契約の目的物が非代替物であるため、売主は類似の品物を引き渡すことによって債務を履行することはできない。",
+    "vocabularyList": [
+      {
+        "word": "Subject matter",
+        "translation": "目的物"
+      },
+      {
+        "word": "Deliver",
+        "translation": "引き渡す"
+      },
+      {
+        "word": "Unique characteristics",
+        "translation": "固有の特性"
+      },
+      {
+        "word": "Distinction",
+        "translation": "区別"
+      },
+      {
+        "word": "Item",
+        "translation": "品物"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Inauthentic Solidary Obligation",
+    "definition": "A legal doctrine where multiple obligors are liable for the full amount of an obligation, but unlike a standard solidary obligation, there is no subjective link between the obligors and no internal right of recourse unless specifically provided.",
+    "japaneseDefinition": "複数の債務者が全額について責任を負うが、通常の連帯債務と異なり、債務者間に主観的な関連がなく、原則として債務者間での求償関係も生じないとする判例上の法理。",
+    "japaneseWordTranslation": "不真正連帯債務 (ふしんせいれんたいさいむ)",
+    "legalContext": "Judicial Precedent: This concept is applied in cases such as the liability of joint tortfeasors or when an employer's liability overlaps with an employee's direct liability.",
+    "japaneseLegalContext": "判例法理：共同不法行為者の責任や、使用者の賠償責任と被用者の直接責任が重複する場合などに適用される。",
+    "exampleSentence": "The court held that the defendants' liabilities constituted an inauthentic solidary obligation, meaning the payment by one would only release the others to the extent of the amount paid.",
+    "exampleTranslation": "裁判所は、被告らの債務は不真正連帯債務を構成し、一人の弁済は支払われた額の限度でのみ他の債務者を免責させると判示した。",
+    "vocabularyList": [
+      {
+        "word": "Liability",
+        "translation": "責任"
+      },
+      {
+        "word": "Legal doctrine",
+        "translation": "法理"
+      },
+      {
+        "word": "Defendant",
+        "translation": "被告"
+      },
+      {
+        "word": "Recourse",
+        "translation": "求償"
+      },
+      {
+        "word": "To the extent",
+        "translation": "〜の限度で"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability for Shortage in Quantity",
+    "definition": "The legal responsibility of a seller when the actual quantity of the goods or the area of the land delivered is less than what was specified in the contract for sale.",
+    "japaneseDefinition": "売買契約において、実際に引き渡された数量や土地の面積が、契約で定められた数量に不足している場合に売主が負う責任。",
+    "japaneseWordTranslation": "数量不足の責任 (すうりょうふそくのせきにん)",
+    "legalContext": "Civil Code Art. 565: This article stipulates the seller's liability for a shortage in quantity or partial loss of the subject matter in a sale where a specific quantity was indicated.",
+    "japaneseLegalContext": "民法第565条：数量を指定して売買が行われた場合において、目的物の数量に不足があるとき、または一部が滅失していたときの売主の責任を規定している。",
+    "exampleSentence": "The buyer exercised the right to demand a price reduction based on the seller's liability for shortage in quantity after discovering the land area was smaller than registered.",
+    "exampleTranslation": "土地の面積が登記より狭いことが判明した後、買主は売主の数量不足の責任に基づき、代金減額請求権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "Quantity",
+        "translation": "数量"
+      },
+      {
+        "word": "Area",
+        "translation": "面積"
+      },
+      {
+        "word": "Stipulate",
+        "translation": "規定する"
+      },
+      {
+        "word": "Shortage",
+        "translation": "不足"
+      },
+      {
+        "word": "Indicate",
+        "translation": "表示する"
+      }
+    ]
   }
 ]

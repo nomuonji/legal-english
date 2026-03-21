@@ -1,38 +1,38 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Execution Against Immovable Property",
-  "definition": "A category of compulsory execution aimed at liquidating the obligor's real property (land and buildings) to satisfy a monetary claim, typically resulting in a public auction (compulsory auction) or compulsory administration (compulsory management).",
-  "japaneseDefinition": "金銭債権の満足を得る目的で、債務者の不動産（土地や建物）を対象に行われる強制執行の手続きであり、通常、強制競売または強制管理の手法が用いられる。",
-  "japaneseWordTranslation": "不動産執行 (ふどうさんしっこう)",
-  "legalContext": "MSL (Minji Shikkō Hō) Chapter 1 of Part III: Execution Against Immovable Property (Sets out the specific procedures for compulsory auction and administration).",
-  "japaneseLegalContext": "民事執行法 第3編第1章: 不動産に対する強制執行 (強制競売及び強制管理に関する特定の手続きを規定する。)",
-  "exampleSentence": "The bank, holding a hypothec on the debtor’s factory, initiated **Execution Against Immovable Property** after the repayment period elapsed.",
-  "exampleTranslation": "債務者の工場に抵当権を設定していた銀行は、返済期間が経過した後、不動産執行を開始した。",
+  "word": "Misdemeanor Imprisonment without Labor",
+  "definition": "A short-term custodial penalty under Japanese criminal law, where the convicted person is confined in a correctional facility for a period of one to 30 days, which does not involve compulsory labor.",
+  "japaneseDefinition": "1日以上30日未満の期間、刑事施設に拘置する刑罰。懲役（Imprisonment with Labor）や禁錮（Imprisonment without Labor）と異なり、労務を課されない。",
+  "japaneseWordTranslation": "拘留 (こうりゅう)",
+  "legalContext": "Penal Code Art. 16: “Misdemeanor Imprisonment without Labor shall be for a period of not less than one day and not more than 30 days, and the person shall be confined in a correctional facility.”",
+  "japaneseLegalContext": "刑法第16条：「拘留は、一日以上三十日未満とし、刑事施設に拘置する。」",
+  "exampleSentence": "The summary court often handles minor regulatory violations by imposing either a fine or Misdemeanor Imprisonment without Labor.",
+  "exampleTranslation": "簡易裁判所は、軽微な法規違反について、科料または拘留のいずれかを科すことで処理することが多い。",
   "vocabularyList": [
     {
-      "word": "compulsory auction",
-      "translation": "強制競売 (きょうせいけいばい)"
+      "word": "custodial penalty",
+      "translation": "自由刑"
     },
     {
-      "word": "compulsory administration",
-      "translation": "強制管理 (きょうせいかんり)"
+      "word": "correctional facility",
+      "translation": "刑事施設"
     },
     {
-      "word": "monetary claim",
-      "translation": "金銭債権 (きんせんさいけん)"
+      "word": "confined",
+      "translation": "拘置される"
     },
     {
-      "word": "hypothec",
-      "translation": "抵当権 (ていとうけん)"
+      "word": "compulsory labor",
+      "translation": "強制労働"
     },
     {
-      "word": "liquidation",
-      "translation": "換価 (かんか)"
+      "word": "summary court",
+      "translation": "簡易裁判所"
     },
     {
-      "word": "repayment period",
-      "translation": "弁済期 (べんさいき)"
+      "word": "regulatory violations",
+      "translation": "法規違反"
     }
   ]
 }

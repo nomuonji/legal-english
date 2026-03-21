@@ -20962,5 +20962,107 @@
         "translation": "届出・申請"
       }
     ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of the Method of Managing Special Accounts",
+    "definition": "The formal entry in the commercial register regarding how a company manages special accounts established for shareholders who did not utilize the book-entry transfer system for their shares.",
+    "japaneseDefinition": "株券の電子化に伴い、振替制度を利用しなかった株主のために開設された特別勘定の管理方法に関する登記事項。",
+    "japaneseWordTranslation": "特別勘定の管理方法の登記 (とくべつかんじょうのかんりほうほうのとうき)",
+    "legalContext": "Commercial Registration Act Art. 83: When a company has established a special account, it must register the name of the special account management institution and the method of management.",
+    "japaneseLegalContext": "商業登記法第83条：会社が特別勘定を開設したときは、特別勘定管理機関の名称及び管理方法を登記しなければならない。",
+    "exampleSentence": "The company filed for the registration of the method of managing special accounts following the transition to the paperless stock system.",
+    "exampleTranslation": "会社は、株式の電子化への移行に伴い、特別勘定の管理方法の登記を申請した。",
+    "vocabularyList": [
+      {
+        "word": "Special account management institution",
+        "translation": "特別勘定管理機関"
+      },
+      {
+        "word": "Paperless stock system",
+        "translation": "株式電子化制度"
+      },
+      {
+        "word": "Book-entry transfer system",
+        "translation": "振替制度"
+      },
+      {
+        "word": "Formal entry",
+        "translation": "正式な登録"
+      },
+      {
+        "word": "Transition",
+        "translation": "移行"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of the Provision for the Automatic Conversion of Shares",
+    "definition": "A registration entry detailing the specific conditions under which a certain class of shares is automatically converted into another class of shares without a separate manifestation of intent by the shareholder.",
+    "japaneseDefinition": "株主による別個の意思表示を要さず、特定の事由が生じた場合に、ある種類の株式が自動的に他の種類の株式に転換される定めに関する登記。",
+    "japaneseWordTranslation": "株式の自動転換の定めの登記 (かぶしきのじどうてんかんのさだめのとうき)",
+    "legalContext": "Companies Act Art. 107, 108: A company may issue class shares with provisions for conversion upon the occurrence of a certain event.",
+    "japaneseLegalContext": "会社法第107条、108条：会社は、一定の事由が生じたことを条件として株式が転換される定めのある種類の株式を発行することができる。",
+    "exampleSentence": "The registration of the provision for the automatic conversion of shares ensures that third parties are aware of the triggers for equity restructuring.",
+    "exampleTranslation": "株式の自動転換の定めの登記により、第三者は資本構成再編のトリガーを把握することができる。",
+    "vocabularyList": [
+      {
+        "word": "Automatic conversion",
+        "translation": "自動転換"
+      },
+      {
+        "word": "Manifestation of intent",
+        "translation": "意思表示"
+      },
+      {
+        "word": "Equity restructuring",
+        "translation": "資本構成の再編"
+      },
+      {
+        "word": "Trigger",
+        "translation": "引き金（事由）"
+      },
+      {
+        "word": "Class of shares",
+        "translation": "株式の種類"
+      }
+    ]
+  },
+  {
+    "category": "Commercial Registration (商業登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of the Grant of a Right of First Refusal for New Shares",
+    "definition": "The recordation of a special agreement in the articles of incorporation (registered for certain company types) giving specific persons the priority right to be offered new shares before they are offered to others.",
+    "japaneseDefinition": "新株の発行に際し、特定の者に対して他の者に優先して引受けの機会を与える優先引受権（または優先交渉権）の定めに関する登記。",
+    "japaneseWordTranslation": "新株の優先引受権の登記 (しんかぶのゆうせんひきうけけんのとうき)",
+    "legalContext": "Commercial Registration Act (applied mutatis mutandis to special entities): Provisions allowing for the prior right to subscribe to shares must be registered to be effective against third parties in specific corporate forms.",
+    "japaneseLegalContext": "商業登記法（特定の法人形態への準用）：特定の法人形態において、株式の優先引受権に関する定めは、第三者に対抗するために登記を要する。",
+    "exampleSentence": "Venture capital investors often require the registration of the grant of a right of first refusal for new shares to maintain their ownership percentage.",
+    "exampleTranslation": "ベンチャーキャピタルの投資家は、持分比率を維持するために、新株の優先引受権の登記を求めることが多い。",
+    "vocabularyList": [
+      {
+        "word": "Right of first refusal",
+        "translation": "優先拒絶権（または優先引受権）"
+      },
+      {
+        "word": "Grant",
+        "translation": "付与"
+      },
+      {
+        "word": "Ownership percentage",
+        "translation": "所有比率（持分比率）"
+      },
+      {
+        "word": "Recordation",
+        "translation": "記録・登記"
+      },
+      {
+        "word": "Subscription",
+        "translation": "引受け"
+      }
+    ]
   }
 ]

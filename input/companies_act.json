@@ -21696,5 +21696,107 @@
         "translation": "選任された"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Aggravated Breach of Trust",
+    "definition": "A severe form of breach of trust committed by specific corporate officers (such as directors or executive officers) who act against their duties for their own benefit or that of a third party, causing financial damage to the company.",
+    "japaneseDefinition": "取締役や執行役などの会社役員が、自己または第三者の利益を図る目的で任務に背く行為を行い、会社に財産上の損害を与える犯罪。通常の背任罪よりも重い法定刑が科される。",
+    "japaneseWordTranslation": "特別背任罪 (とくべつはいにんざい)",
+    "legalContext": "Companies Act Art. 960: If a promoter, director ... or other person specified by the Cabinet Order, for the purpose of promoting his/her own interest or the interest of a third party ... acts in breach of his/her duties and causes financial loss to a Stock Company, such person shall be punished...",
+    "japaneseLegalContext": "会社法第960条：次に掲げる者が、自己若しくは第三者の利益を図り、又は株式会社に損害を加える目的で、その任務に背く行為をし、当該株式会社に財産上の損害を加えたときは、・・・",
+    "exampleSentence": "The former executive was charged with aggravated breach of trust for diverting company funds to his personal real estate ventures.",
+    "exampleTranslation": "元役員は、会社の資金を個人の不動産事業に流用したとして、特別背任罪で起訴された。",
+    "vocabularyList": [
+      {
+        "word": "diverting",
+        "translation": "流用する"
+      },
+      {
+        "word": "charged with",
+        "translation": "～で起訴される"
+      },
+      {
+        "word": "venture",
+        "translation": "事業、ベンチャー"
+      },
+      {
+        "word": "breach of duties",
+        "translation": "任務違背"
+      },
+      {
+        "word": "financial loss",
+        "translation": "財産上の損害"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Consolidated Subsidiary",
+    "definition": "A subsidiary whose financial position and results of operations are included in the consolidated financial statements of the parent company, typically determined based on the parent's control over the entity's management and finances.",
+    "japaneseDefinition": "親会社の連結財務諸表の範囲に含まれる子会社。議決権の過半数所有だけでなく、実質的な支配権（経営や財務への影響力）に基づいて判定される。",
+    "japaneseWordTranslation": "連結子会社 (れんけつこがいしゃ)",
+    "legalContext": "Companies Act Art. 2, Item (iv): The term 'Subsidiary' means a company for which a Stock Company ... controls the management of such company by means of owning the majority of the voting rights or otherwise as specified by Ordinance of the Ministry of Justice.",
+    "japaneseLegalContext": "会社法第2条第4号：子会社　株式会社がその経営を支配している法人として法務省令で定めるものをいう。",
+    "exampleSentence": "The auditor examined the transactions between the parent and its consolidated subsidiary to ensure there were no undisclosed liabilities.",
+    "exampleTranslation": "会計監査人は、未開示の負債がないことを確認するため、親会社とその連結子会社間の取引を調査した。",
+    "vocabularyList": [
+      {
+        "word": "results of operations",
+        "translation": "経営成績"
+      },
+      {
+        "word": "undisclosed",
+        "translation": "未開示の"
+      },
+      {
+        "word": "majority of the voting rights",
+        "translation": "議決権の過半数"
+      },
+      {
+        "word": "ordinance",
+        "translation": "省令"
+      },
+      {
+        "word": "control",
+        "translation": "支配、管理"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "De Facto Officer",
+    "definition": "An individual who has not been formally appointed as a director or officer through the standard corporate legal procedures but who exercises significant influence or control over the company's management and acts as if they held such a position.",
+    "japaneseDefinition": "正式な選任手続を経ていないものの、事実上、会社の経営に対して役員と同等の支配力や影響力を行使している者。第三者に対する責任追及（会社法429条の類推適用）などで問題となる。",
+    "japaneseWordTranslation": "事実上の役員 (じじつじょうのやくいん)",
+    "legalContext": "While not explicitly defined as a single term in the Act, the concept is derived from court precedents relating to the application of liability under Companies Act Art. 429 to individuals who effectively control a company's business execution.",
+    "japaneseLegalContext": "会社法に直接の定義はないが、判例上、実質的に会社の業務執行を支配している者に対し、会社法第429条の責任を類推適用する際に用いられる概念。",
+    "exampleSentence": "The court held the de facto officer liable for the company's debts, finding that he had dictated all major management decisions despite lacking a formal title.",
+    "exampleTranslation": "裁判所は、その人物が正式な役職に就いていないにもかかわらず全ての重要な経営判断を指示していたと判断し、事実上の役員として会社の債務に対する責任を認めた。",
+    "vocabularyList": [
+      {
+        "word": "formally appointed",
+        "translation": "正式に選任された"
+      },
+      {
+        "word": "significant influence",
+        "translation": "重要な影響力"
+      },
+      {
+        "word": "precedents",
+        "translation": "判例"
+      },
+      {
+        "word": "dictated",
+        "translation": "（命令として）指示した"
+      },
+      {
+        "word": "liable",
+        "translation": "責任を負う"
+      }
+    ]
   }
 ]

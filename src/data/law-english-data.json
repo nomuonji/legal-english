@@ -1,38 +1,42 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Real Property Registration (不動産登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Misdemeanor Imprisonment without Labor",
-  "definition": "A short-term custodial penalty under Japanese criminal law, where the convicted person is confined in a correctional facility for a period of one to 30 days, which does not involve compulsory labor.",
-  "japaneseDefinition": "1日以上30日未満の期間、刑事施設に拘置する刑罰。懲役（Imprisonment with Labor）や禁錮（Imprisonment without Labor）と異なり、労務を課されない。",
-  "japaneseWordTranslation": "拘留 (こうりゅう)",
-  "legalContext": "Penal Code Art. 16: “Misdemeanor Imprisonment without Labor shall be for a period of not less than one day and not more than 30 days, and the person shall be confined in a correctional facility.”",
-  "japaneseLegalContext": "刑法第16条：「拘留は、一日以上三十日未満とし、刑事施設に拘置する。」",
-  "exampleSentence": "The summary court often handles minor regulatory violations by imposing either a fine or Misdemeanor Imprisonment without Labor.",
-  "exampleTranslation": "簡易裁判所は、軽微な法規違反について、科料または拘留のいずれかを科すことで処理することが多い。",
+  "word": "Cause of Registration",
+  "definition": "The specific legal basis or event (such as a sale, gift, or judicial ruling) that legally necessitates the creation, alteration, or cancellation of a registered right.",
+  "japaneseDefinition": "不動産の権利の変動をもたらす法律行為又は法律事実。登記の申請書に必ず記載する必要がある事項。",
+  "japaneseWordTranslation": "登記原因 (とうきげんいん)",
+  "legalContext": "Real Property Registration Act Art. 61: An application for registration must include the cause of registration and the date thereof.",
+  "japaneseLegalContext": "不動産登記法第61条: 申請情報と併せて登記原因及びその日付を提供しなければならない。",
+  "exampleSentence": "To prove the validity of the application for transfer of ownership, the applicant submitted a document confirming the **Cause of Registration** was 'sale and purchase'.",
+  "exampleTranslation": "所有権移転の申請の正当性を証明するため、申請者は「売買」が登記原因であることを確認する書面を提出した。",
   "vocabularyList": [
     {
-      "word": "custodial penalty",
-      "translation": "自由刑"
+      "word": "legal basis",
+      "translation": "法律上の根拠"
     },
     {
-      "word": "correctional facility",
-      "translation": "刑事施設"
+      "word": "alteration",
+      "translation": "変更"
     },
     {
-      "word": "confined",
-      "translation": "拘置される"
+      "word": "judicial ruling",
+      "translation": "判決"
     },
     {
-      "word": "compulsory labor",
-      "translation": "強制労働"
+      "word": "validity",
+      "translation": "正当性, 有効性"
     },
     {
-      "word": "summary court",
-      "translation": "簡易裁判所"
+      "word": "sale and purchase",
+      "translation": "売買"
     },
     {
-      "word": "regulatory violations",
-      "translation": "法規違反"
+      "word": "submitted",
+      "translation": "提出した"
+    },
+    {
+      "word": "cancellation",
+      "translation": "抹消"
     }
   ]
 }

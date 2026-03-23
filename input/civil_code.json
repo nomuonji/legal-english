@@ -27848,5 +27848,119 @@
         "translation": "売主"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Relative Invalidity",
+    "definition": "A legal concept where an act is considered invalid only in relation to certain persons, while remaining valid and effective as to others. This typically occurs in cases of fictitious declarations of intention where the invalidity cannot be asserted against a third party acting in good faith.",
+    "japaneseDefinition": "特定の権利関係者間では無効とされるが、それ以外の第三者（特に善意の第三者）に対してはその無効を主張できないという法理。",
+    "japaneseWordTranslation": "相対的無効 (そうたいてきむこう)",
+    "legalContext": "Civil Code Art. 94, Para. 2: The nullity of a declaration of intention [made in conspiracy with another party] may not be asserted against a third party in good faith.",
+    "japaneseLegalContext": "民法第94条2項：前項の規定による意思表示の無効は、善意の第三者に対抗することができない。",
+    "exampleSentence": "Under the principle of relative invalidity, the seller cannot regain the property from a bona fide purchaser even if the original transaction was a sham.",
+    "exampleTranslation": "相対的無効の原則に基づき、元の取引が虚偽表示であったとしても、売主は善意の買主から物件を取り戻すことはできない。",
+    "vocabularyList": [
+      {
+        "word": "Bona fide purchaser",
+        "translation": "善意の買主"
+      },
+      {
+        "word": "Sham transaction",
+        "translation": "虚偽の取引"
+      },
+      {
+        "word": "Assert",
+        "translation": "主張する／対抗する"
+      },
+      {
+        "word": "In conspiracy with",
+        "translation": "〜と通じて"
+      },
+      {
+        "word": "Nullity",
+        "translation": "無効"
+      },
+      {
+        "word": "Third party in good faith",
+        "translation": "善意の第三者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Partial Invalidity",
+    "definition": "A doctrine stating that if a portion of a juridical act is invalid, the remaining parts of the act remain valid, provided that the parties would have entered into the act even without the invalid portion. It serves to preserve the overall intent of the parties while striking down illegal or impossible clauses.",
+    "japaneseDefinition": "法律行為の一部が法律に違反したり不能であったりする場合に、その部分のみを無効とし、残りの部分は有効に存続させるという法理。",
+    "japaneseWordTranslation": "一部無効 (いちぶむこう)",
+    "legalContext": "While the Civil Code does not have a general provision for partial invalidity, it is recognized through judicial precedents and specific statutes like the Consumer Contract Act to ensure the stability of transactions.",
+    "japaneseLegalContext": "民法には一部無効に関する一般的規定はないが、判例や消費者契約法などの特別法を通じて、取引の安定のために認められている。",
+    "exampleSentence": "The court applied the doctrine of partial invalidity to strike down only the excessive interest clause while keeping the rest of the loan agreement intact.",
+    "exampleTranslation": "裁判所は一部無効の法理を適用し、過剰な利息条項のみを無効とする一方で、ローン契約の残りの部分は有効とした。",
+    "vocabularyList": [
+      {
+        "word": "Strike down",
+        "translation": "（条項などを）無効にする"
+      },
+      {
+        "word": "Intact",
+        "translation": "そのままの状態で"
+      },
+      {
+        "word": "Judicial precedent",
+        "translation": "判例"
+      },
+      {
+        "word": "Excessive interest",
+        "translation": "超過利息"
+      },
+      {
+        "word": "Consumer Contract Act",
+        "translation": "消費者契約法"
+      },
+      {
+        "word": "Stability of transactions",
+        "translation": "取引の安定"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Actual Knowledge",
+    "definition": "A state of awareness where a person possesses direct and clear information about a specific fact or legal circumstance. In the Civil Code, 'actual knowledge' often determines whether a party is acting in 'bad faith' (mala fide) in a legal sense.",
+    "japaneseDefinition": "ある事実や事情を現実に知っていること。民法上、特定の事実を知っていることは「悪意」として扱われ、法的な保護の範囲や責任の有無に影響する。",
+    "japaneseWordTranslation": "現実に知っていること／悪意 (あくい)",
+    "legalContext": "Civil Code Art. 101, Para. 2: If an agent had actual knowledge of a particular circumstance, the principal may not assert their own lack of knowledge regarding that circumstance.",
+    "japaneseLegalContext": "民法第101条2項：特定の法律行為をすることを委託された代理人がその行為をしたときは、本人は、自ら知っていた事情について代理人が知らなかったことを主張することができない。",
+    "exampleSentence": "Because the buyer had actual knowledge of the boundary dispute before signing the contract, they cannot later claim they were a good faith third party.",
+    "exampleTranslation": "買主は契約締結前に境界紛争の事実を現実に知っていたため、後に善意の第三者であると主張することはできない。",
+    "vocabularyList": [
+      {
+        "word": "Awareness",
+        "translation": "認識"
+      },
+      {
+        "word": "Legal circumstance",
+        "translation": "法的な事情"
+      },
+      {
+        "word": "Boundary dispute",
+        "translation": "境界紛争"
+      },
+      {
+        "word": "Mala fide",
+        "translation": "悪意の"
+      },
+      {
+        "word": "Lack of knowledge",
+        "translation": "不知（知らないこと）"
+      },
+      {
+        "word": "Principal",
+        "translation": "本人（代理における）"
+      }
+    ]
   }
 ]

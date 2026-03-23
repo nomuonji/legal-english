@@ -1,38 +1,34 @@
 {
   "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Fact-finding",
-  "definition": "The judicial process of determining the truth or falsehood of material facts alleged by the parties, based on the court’s evaluation of the submitted evidence.",
-  "japaneseDefinition": "当事者が主張する主要な事実について、提出された証拠を評価し、その真偽を確定する裁判所の作用。",
-  "japaneseWordTranslation": "事実認定 (じじつにんてい)",
-  "legalContext": "Code of Civil Procedure Art. 247 (Principle of Judicial Belief): The court shall determine the facts based on its conviction derived from a comprehensive consideration of all evidence.",
-  "japaneseLegalContext": "民事訴訟法第247条 (自由心証主義): 裁判所は、口頭弁論の全趣旨及び証拠調べの結果を総合して、自由な心証に基づき事実を認定する。",
-  "exampleSentence": "The credibility of the witness testimony was crucial for the court's final fact-finding regarding the timeline of the transaction.",
-  "exampleTranslation": "証人尋問の信用性は、取引の時系列に関する裁判所の最終的な事実認定にとって極めて重要であった。",
+  "word": "Affirmation of Facts",
+  "definition": "The formal statement or pleading submitted by a party to the court regarding the factual basis necessary to support their legal claim or defense, forming the core data upon which the court bases its judgment under the principle of party presentation.",
+  "japaneseDefinition": "当事者が自己の主張を裏付けるために裁判所に提出する、訴訟の基礎となる具体的かつ重要な事実の陳述。",
+  "japaneseWordTranslation": "事実の主張 (じじつのしゅちょう)",
+  "legalContext": "CPL Article 161 (Requirements for Preparation Documents): 'In preparatory documents, the following matters shall be stated clearly: (i) claims and defenses; (ii) affirmation of facts; and (iii) proof thereof.'",
+  "japaneseLegalContext": "民事訴訟法第161条（準備書面の記載事項）：『準備書面には、次に掲げる事項を記載しなければならない。一 請求の趣旨及びその原因となる事実並びにこれに対する答弁。二 事実の主張及びこれに関連する証拠。』",
+  "exampleSentence": "The court disregarded the legal theory presented by the defense because it lacked sufficient and specific affirmation of facts in support of the counterclaim.",
+  "exampleTranslation": "裁判所は、反訴を裏付ける具体的かつ十分な事実の主張を欠いていたため、弁護側が提示した法的理論を却下した。",
   "vocabularyList": [
     {
-      "word": "credibility",
-      "translation": "信用性"
+      "word": "counterclaim",
+      "translation": "反訴"
     },
     {
-      "word": "witness testimony",
-      "translation": "証人尋問"
+      "word": "defense",
+      "translation": "答弁 (防御方法)"
     },
     {
-      "word": "timeline",
-      "translation": "時系列"
+      "word": "pleading",
+      "translation": "準備書面"
     },
     {
-      "word": "conviction",
-      "translation": "心証"
+      "word": "legal theory",
+      "translation": "法的理論"
     },
     {
-      "word": "comprehensive consideration",
-      "translation": "総合的な考慮"
-    },
-    {
-      "word": "material facts",
-      "translation": "主要な事実"
+      "word": "disregard",
+      "translation": "却下する"
     }
   ]
 }

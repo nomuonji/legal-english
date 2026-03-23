@@ -23112,5 +23112,107 @@
         "translation": "通知"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order to Prevent Obstruction of the Field Investigation",
+    "definition": "A court order issued to prevent any acts that interfere with the investigation conducted by an official to determine the current status and value of assets subject to enforcement.",
+    "japaneseDefinition": "執行官が行う現況調査を妨害する行為を禁止するために裁判所が出す命令。不動産の適正な評価や売却手続を円滑に進めることを目的とする。",
+    "japaneseWordTranslation": "現況調査妨害防止命令 (げんきょうちょうさぼうがいぼうしめいれい)",
+    "legalContext": "Civil Execution Act Art. 57, Para. 5: If it is necessary for a status investigation, the court may, upon petition, issue an order prohibiting any person from obstructing the investigation conducted by the court official.",
+    "japaneseLegalContext": "民事執行法第57条第5項：裁判所は、現況調査のため必要があると認めるときは、差押債権者の申立てにより、何人に対しても、執行官が行う調査を妨害する行為を禁止する命令を発することができる。",
+    "exampleSentence": "The court issued an order to prevent obstruction of the field investigation after the inhabitant refused to allow the official to enter the premises.",
+    "exampleTranslation": "居住者が執行官の立ち入りを拒んだため、裁判所は現況調査妨害防止命令を発令した。",
+    "vocabularyList": [
+      {
+        "word": "Official",
+        "translation": "執行官 (しっこうかん)"
+      },
+      {
+        "word": "Premises",
+        "translation": "敷地・建物 (しきち・たてもの)"
+      },
+      {
+        "word": "Inhabitant",
+        "translation": "居住者 (きょじゅうしゃ)"
+      },
+      {
+        "word": "Obstruct",
+        "translation": "妨害する (ぼうがいする)"
+      },
+      {
+        "word": "Status investigation",
+        "translation": "現況調査 (げんきょうちょうさ)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order to Rescind the Attachment based on the Satisfaction of the Right",
+    "definition": "A judicial decision to cancel the seizure of assets when the party seeking enforcement has received full payment or the underlying right to demand payment has been satisfied.",
+    "japaneseDefinition": "債務の完済や権利の消滅により、すでに行われた財産の差押えを取り消す旨の裁判所の決定。",
+    "japaneseWordTranslation": "弁済による差押えの取消命令 (べんさいによるさしおさえのとりけしめいれい)",
+    "legalContext": "Civil Execution Act Art. 39: If a document proving that the party seeking enforcement has received payment or has granted an extension of time is submitted, the court must stay or rescind the enforcement measures.",
+    "japaneseLegalContext": "民事執行法第39条：債務を弁済したこと、または期限の猶予をしたことを証する書面が提出された場合、執行裁判所は執行処分を停止し、または取り消さなければならない。",
+    "exampleSentence": "Upon submission of the receipt proving full payment, the judge granted the order to rescind the attachment based on the satisfaction of the right.",
+    "exampleTranslation": "完済を証明する領収書の提出を受けて、裁判官は弁済による差押えの取消命令を出した。",
+    "vocabularyList": [
+      {
+        "word": "Rescind",
+        "translation": "取り消す (とりけす)"
+      },
+      {
+        "word": "Attachment",
+        "translation": "差押え (さしおさえ)"
+      },
+      {
+        "word": "Satisfaction",
+        "translation": "弁済・充足 (べんさい・じゅうそく)"
+      },
+      {
+        "word": "Receipt",
+        "translation": "領収書 (りょうしゅうしょ)"
+      },
+      {
+        "word": "Grant",
+        "translation": "許可する・発する (きょかする・はっする)"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Verification of the Identity of the Recipient of the Sale Proceeds",
+    "definition": "The procedural requirement for the court or a court official to confirm the personal identification and authority of the person who applies to receive money resulting from the sale of assets.",
+    "japaneseDefinition": "売却代金の配当や交付を受ける申請者に対し、その者が正当な受領権限を持つ本人であることを、公的な証明書等を用いて確認する手続。",
+    "japaneseWordTranslation": "売却代金受領者の本人確認 (ばいきゃくだいきんじゅりょうしゃのほんにんかくにん)",
+    "legalContext": "Civil Execution Rules Art. 28: When paying out money to a party, the court official must verify the identity of the recipient by requesting the presentation of a driver's license or other identification documents.",
+    "japaneseLegalContext": "民事執行規則第28条：金銭の交付を行う際、執行官または裁判所書記官は、運転免許証の提示を求める等の方法により、受領者の本人確認を行わなければならない。",
+    "exampleSentence": "Strict verification of the identity of the recipient of the sale proceeds is necessary to prevent the fraudulent collection of funds by a third party.",
+    "exampleTranslation": "第三者による不正な資金受領を防ぐため、売却代金受領者の本人確認は厳格に行われる必要がある。",
+    "vocabularyList": [
+      {
+        "word": "Identity",
+        "translation": "身元・本人性 (みもと・ほんにんせい)"
+      },
+      {
+        "word": "Recipient",
+        "translation": "受領者 (じゅりょうしゃ)"
+      },
+      {
+        "word": "Proceeds",
+        "translation": "代金・収益 (だいきん・しゅうえき)"
+      },
+      {
+        "word": "Fraudulent",
+        "translation": "詐欺的な (さぎてきな)"
+      },
+      {
+        "word": "Verification",
+        "translation": "確認・照合 (かくにん・しょうごう)"
+      }
+    ]
   }
 ]

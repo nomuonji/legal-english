@@ -27734,5 +27734,119 @@
         "translation": "法的責任"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Treacherous Bad Faith Third Party",
+    "definition": "A person who, despite having knowledge of a prior transaction regarding a property, actively seeks to obtain and record the title first for the purpose of harming the prior purchaser; such a person is excluded from the protection of the recording system.",
+    "japaneseDefinition": "登記がないことを主張する正当な利益を有しない、信義則に反する悪意の第三者のこと。判例上、第177条の「第三者」には含まれないとされる。",
+    "japaneseWordTranslation": "背信的悪意者 (はいしんてきあくいしゃ)",
+    "legalContext": "Civil Code Art. 177 (as interpreted by Supreme Court precedents): A person who falls under the category of a treacherous bad faith third party cannot assert the lack of recording by the prior purchaser.",
+    "japaneseLegalContext": "民法第177条（判例）：背信的悪意者は、登記の欠缺を主張する正当な利益を有する「第三者」に当たらない。",
+    "exampleSentence": "Under Japanese case law, a treacherous bad faith third party is denied the right to assert that a prior purchaser lacks a recorded title.",
+    "exampleTranslation": "日本の判例上、背信的悪意者は、第一の買主が登記を具備していないことを主張する権利を否定される。",
+    "vocabularyList": [
+      {
+        "word": "treacherous",
+        "translation": "不実な、裏切り的な"
+      },
+      {
+        "word": "third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "assert",
+        "translation": "主張する"
+      },
+      {
+        "word": "prior purchaser",
+        "translation": "第一の買主"
+      },
+      {
+        "word": "recorded title",
+        "translation": "登記された権利"
+      },
+      {
+        "word": "case law",
+        "translation": "判例法"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Portable Obligation",
+    "definition": "A type of debt or obligation where the debtor is required to bring and present the subject matter of the obligation to the current location of the creditor for discharge.",
+    "japaneseDefinition": "債務者が債権者の住所地（現在の場所）まで目的物を持参して履行しなければならない債務のこと。民法の原則的な債務の形態。",
+    "japaneseWordTranslation": "持参債務 (じさんさいむ)",
+    "legalContext": "Civil Code Art. 484: Unless a particular place of performance is identified, the delivery of a specific thing must be made at the place where the thing was located when the obligation arose, and any other performance must be made at the current location of the creditor.",
+    "japaneseLegalContext": "民法第484条：弁済をすべき場所について別段の意思表示がないときは、特定物の引渡しは債権発生の時にその物が存在した場所において、その他の弁済は債権者の現在の住所において、それぞれしなければならない。",
+    "exampleSentence": "In the absence of a specific agreement to the contrary, a monetary debt is classified as a portable obligation under the Japanese Civil Code.",
+    "exampleTranslation": "特段の合意がない限り、金銭債務は日本の民法において持参債務として分類される。",
+    "vocabularyList": [
+      {
+        "word": "portable",
+        "translation": "持参すべき"
+      },
+      {
+        "word": "debtor",
+        "translation": "債務者"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者"
+      },
+      {
+        "word": "discharge",
+        "translation": "（債務の）消滅、履行"
+      },
+      {
+        "word": "monetary debt",
+        "translation": "金銭債務"
+      },
+      {
+        "word": "subject matter",
+        "translation": "目的物"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Collectible Obligation",
+    "definition": "A type of obligation where the creditor must travel to the debtor's location to receive the performance or collect the subject matter of the debt.",
+    "japaneseDefinition": "債権者が債務者の住所地などへ出向いて履行を受けなければならない債務のこと。持参債務の対義語。",
+    "japaneseWordTranslation": "取立債務 (とりたてさいむ)",
+    "legalContext": "Civil Code Art. 484 (Refers to exceptions by agreement): While the default rule is portable obligation, the parties may agree that the debt is a collectible obligation to be picked up at the debtor's business site.",
+    "japaneseLegalContext": "民法第484条（特約による例外）：原則は持参債務であるが、当事者は債務者の営業所などで債権者が取り立てるという取立債務の合意をすることができる。",
+    "exampleSentence": "The parties modified the default rules of the Civil Code by designating the transaction as a collectible obligation to be fulfilled at the seller's warehouse.",
+    "exampleTranslation": "当事者は、売主の倉庫において履行される取立債務として取引を指定することにより、民法の原則を修正した。",
+    "vocabularyList": [
+      {
+        "word": "collectible",
+        "translation": "取立を要する"
+      },
+      {
+        "word": "warehouse",
+        "translation": "倉庫"
+      },
+      {
+        "word": "designate",
+        "translation": "指定する"
+      },
+      {
+        "word": "default rule",
+        "translation": "任意規定、原則的規則"
+      },
+      {
+        "word": "fulfill",
+        "translation": "（義務を）果たす、履行する"
+      },
+      {
+        "word": "seller",
+        "translation": "売主"
+      }
+    ]
   }
 ]

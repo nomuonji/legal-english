@@ -2,44 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Fact-finding",
-    "definition": "The judicial process of determining the truth or falsehood of material facts alleged by the parties, based on the court’s evaluation of the submitted evidence.",
-    "japaneseDefinition": "当事者が主張する主要な事実について、提出された証拠を評価し、その真偽を確定する裁判所の作用。",
-    "japaneseWordTranslation": "事実認定 (じじつにんてい)",
-    "legalContext": "Code of Civil Procedure Art. 247 (Principle of Judicial Belief): The court shall determine the facts based on its conviction derived from a comprehensive consideration of all evidence.",
-    "japaneseLegalContext": "民事訴訟法第247条 (自由心証主義): 裁判所は、口頭弁論の全趣旨及び証拠調べの結果を総合して、自由な心証に基づき事実を認定する。",
-    "exampleSentence": "The credibility of the witness testimony was crucial for the court's final fact-finding regarding the timeline of the transaction.",
-    "exampleTranslation": "証人尋問の信用性は、取引の時系列に関する裁判所の最終的な事実認定にとって極めて重要であった。",
-    "vocabularyList": [
-      {
-        "word": "credibility",
-        "translation": "信用性"
-      },
-      {
-        "word": "witness testimony",
-        "translation": "証人尋問"
-      },
-      {
-        "word": "timeline",
-        "translation": "時系列"
-      },
-      {
-        "word": "conviction",
-        "translation": "心証"
-      },
-      {
-        "word": "comprehensive consideration",
-        "translation": "総合的な考慮"
-      },
-      {
-        "word": "material facts",
-        "translation": "主要な事実"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Affirmation of Facts",
     "definition": "The formal statement or pleading submitted by a party to the court regarding the factual basis necessary to support their legal claim or defense, forming the core data upon which the court bases its judgment under the principle of party presentation.",
     "japaneseDefinition": "当事者が自己の主張を裏付けるために裁判所に提出する、訴訟の基礎となる具体的かつ重要な事実の陳述。",
@@ -24322,6 +24284,120 @@
       {
         "word": "Stationed",
         "translation": "駐在する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Request for the Transmission of Case Records",
+    "definition": "A procedural request made by a party or the court to have the physical records of a related case sent from another court or authority to be used as evidence or reference.",
+    "japaneseDefinition": "当事者の申立てまたは職権により、他の裁判所や公的機関が保管する訴訟記録等の送付を求める手続。",
+    "japaneseWordTranslation": "記録送付の嘱託 (きろくそうふのしょくたく)",
+    "legalContext": "Code of Civil Procedure Art. 226: 'A motion to provide a document may be made by a request for the person who has the document in their possession to send the document...'",
+    "japaneseLegalContext": "民事訴訟法第226条：「文書の申出は、文書の所持者にその送付を求めることを裁判所に申し立ててすることができる。…」",
+    "exampleSentence": "The plaintiff filed a request for the transmission of case records from the related criminal proceeding to support their claim for damages.",
+    "exampleTranslation": "原告は、損害賠償請求を立証するため、関連する刑事事件の記録送付の嘱託を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Related proceeding",
+        "translation": "関連手続"
+      },
+      {
+        "word": "In possession",
+        "translation": "所持している"
+      },
+      {
+        "word": "Physical record",
+        "translation": "実物の記録"
+      },
+      {
+        "word": "Support a claim",
+        "translation": "主張を裏付ける"
+      },
+      {
+        "word": "Evidence",
+        "translation": "証拠"
+      },
+      {
+        "word": "Motion",
+        "translation": "申立て"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Stay of Proceedings pending a Preliminary Ruling",
+    "definition": "A temporary suspension of the litigation process while waiting for a determination on a preliminary legal or factual issue that is essential for the case to move forward.",
+    "japaneseDefinition": "本案の審理を進める前提となる問題（先決問題）について判断が出るまで、訴訟手続を一時的に停止すること。",
+    "japaneseWordTranslation": "前提問題の解決までの停止 (ぜんていもんだいのかいけつまでのていし)",
+    "legalContext": "Code of Civil Procedure Art. 124-127 (General principles on Interruption and Stay): The court may order a stay if the suit cannot proceed until a separate ruling is finalized.",
+    "japaneseLegalContext": "民事訴訟法第124条〜127条（中断及び中止）：別件の裁判が確定するまで手続を続行できない場合、裁判所は手続の中止を命ずることができる。",
+    "exampleSentence": "The court ordered a stay of proceedings pending a preliminary ruling by the Supreme Court on the constitutionality of the statute.",
+    "exampleTranslation": "裁判所は、当該法律の違憲性に関する最高裁判所の先決的な判断が出るまで、訴訟手続の中止を命じた。",
+    "vocabularyList": [
+      {
+        "word": "Temporary suspension",
+        "translation": "一時的な停止"
+      },
+      {
+        "word": "Preliminary issue",
+        "translation": "先決問題"
+      },
+      {
+        "word": "Constitutionality",
+        "translation": "合憲性"
+      },
+      {
+        "word": "Statute",
+        "translation": "法令"
+      },
+      {
+        "word": "Essential",
+        "translation": "不可欠な"
+      },
+      {
+        "word": "Finalized",
+        "translation": "確定した"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Withdrawal of a Request for the Examination of a Witness",
+    "definition": "The act of a party revoking their prior motion to have a specific person testify before the court.",
+    "japaneseDefinition": "申し立てた証人の尋問を、尋問が実施される前に取り下げること。",
+    "japaneseWordTranslation": "証人尋問の申立ての取下げ (しょうにんじんもんのもうしたてのとりさげ)",
+    "legalContext": "Code of Civil Procedure Art. 180: 'Evidence shall be offered by specifying the facts to be proved...'",
+    "japaneseLegalContext": "民事訴訟法第180条：「証拠の申出は、証明すべき事実を特定してしなければならない。」（取下げについては、相手方の同意が必要となる場合がある）",
+    "exampleSentence": "Following the successful settlement negotiations, the defendant filed a withdrawal of a request for the examination of a witness.",
+    "exampleTranslation": "和解交渉が成立したことを受け、被告は証人尋問の申立ての取下げを提出した。",
+    "vocabularyList": [
+      {
+        "word": "Revoking",
+        "translation": "撤回する"
+      },
+      {
+        "word": "Testify",
+        "translation": "証言する"
+      },
+      {
+        "word": "Prior motion",
+        "translation": "以前の申立て"
+      },
+      {
+        "word": "Negotiations",
+        "translation": "交渉"
+      },
+      {
+        "word": "Offered",
+        "translation": "申し出られた"
+      },
+      {
+        "word": "Specifying",
+        "translation": "特定する"
       }
     ]
   }

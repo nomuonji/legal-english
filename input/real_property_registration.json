@@ -19059,5 +19059,107 @@
         "translation": "記載・登録"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right of Pledge",
+    "definition": "A security interest where a person holds an asset belonging to another as collateral to ensure the fulfillment of an obligation.",
+    "japaneseDefinition": "債務の担保として債務者または第三者（物上保証人）から受け取った物を、債務が弁済されるまで留置し、弁済がない場合にはその物から優先的に弁済を受けることができる権利。",
+    "japaneseWordTranslation": "質権 (しちけん)",
+    "legalContext": "Real Property Registration Act, Article 3, Item (viii): Registrations may be made regarding the creation, etc., of a right of pledge.",
+    "japaneseLegalContext": "不動産登記法第3条第8号：登記は、質権の設置等についてすることができる。",
+    "exampleSentence": "The lender requested the registration of a right of pledge on the land to secure the loan repayment.",
+    "exampleTranslation": "貸し手は、ローンの返済を確実にするために、土地に対する質権の設定登記を求めた。",
+    "vocabularyList": [
+      {
+        "word": "Collateral",
+        "translation": "担保物"
+      },
+      {
+        "word": "Interest",
+        "translation": "利権 / 利息"
+      },
+      {
+        "word": "Lender",
+        "translation": "貸主"
+      },
+      {
+        "word": "Repayment",
+        "translation": "返済"
+      },
+      {
+        "word": "Ensure",
+        "translation": "確実にする"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Emphyteusis",
+    "definition": "A long-term legal interest in land that grants the holder the right to use the land for cultivation or livestock grazing in exchange for a fee.",
+    "japaneseDefinition": "小作料を支払って他人の土地において耕作または牧畜をする権利。用益物権の一種。",
+    "japaneseWordTranslation": "永小作権 (えいこさくけん)",
+    "legalContext": "Real Property Registration Act, Article 3, Item (iii): Registrations may be made regarding the creation, etc., of an emphyteusis.",
+    "japaneseLegalContext": "不動産登記法第3条第3号：登記は、永小作権の設置等についてすることができる。",
+    "exampleSentence": "The farmer's emphyteusis was formally recorded in the register to protect his farming activities.",
+    "exampleTranslation": "農家の耕作活動を保護するために、その永小作権は公式に登記記録に記載された。",
+    "vocabularyList": [
+      {
+        "word": "Cultivation",
+        "translation": "耕作"
+      },
+      {
+        "word": "Livestock",
+        "translation": "家畜"
+      },
+      {
+        "word": "Grazing",
+        "translation": "放牧"
+      },
+      {
+        "word": "Grant",
+        "translation": "付与する"
+      },
+      {
+        "word": "Registry",
+        "translation": "登記所 / 登記簿"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exploitation",
+    "definition": "A specific category of registrable interest referring to the right to extract or gather materials such as earth, stone, or minerals from a site.",
+    "japaneseDefinition": "他人の土地において、土石や砂利などを採取する権利（採取権）に関連する概念。",
+    "japaneseWordTranslation": "採取権 (さいしゅけん)",
+    "legalContext": "Real Property Registration Act, Article 3: Registrations may be made regarding the creation, transfer, or modification of proprietary interests.",
+    "japaneseLegalContext": "不動産登記法第3条：登記は、財産的権利の設置、移転、変更等についてすることができる。",
+    "exampleSentence": "The company obtained an exploitation right to collect gravel from the riverbed area.",
+    "exampleTranslation": "その企業は、河川敷から砂利を採取するための採取権を取得した。",
+    "vocabularyList": [
+      {
+        "word": "Extract",
+        "translation": "抽出する / 採取する"
+      },
+      {
+        "word": "Materials",
+        "translation": "材料 / 資材"
+      },
+      {
+        "word": "Gravel",
+        "translation": "砂利"
+      },
+      {
+        "word": "Riverbed",
+        "translation": "河床"
+      },
+      {
+        "word": "Obtain",
+        "translation": "取得する"
+      }
+    ]
   }
 ]

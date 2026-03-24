@@ -23214,5 +23214,107 @@
         "translation": "確認・照合 (かくにん・しょうごう)"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Payment of Satisfaction",
+    "definition": "A procedure in which the execution court pays the collected funds directly to the judgment creditor when a formal distribution process is unnecessary, such as when there is only one claimant.",
+    "japaneseDefinition": "配当手続を要しない場合（債権者が一人である場合等）において、執行裁判所が差し押さえた金銭を直接債権者に支払う手続。",
+    "japaneseWordTranslation": "弁済金の交付 (べんさいきんのこうふ)",
+    "legalContext": "Civil Execution Act Art. 166: If there is only one obligee... the execution court shall pay the satisfaction to the obligee.",
+    "japaneseLegalContext": "民事執行法第166条：債権者が一人である場合…には、執行裁判所は、弁済金の交付を行う。",
+    "exampleSentence": "The court decided to proceed with the payment of satisfaction as no other claimants participated in the execution against the bank account.",
+    "exampleTranslation": "預金債権への執行において他に差押債権者がいなかったため、裁判所は弁済金の交付を実施することを決定した。",
+    "vocabularyList": [
+      {
+        "word": "Collected funds",
+        "translation": "回収金"
+      },
+      {
+        "word": "Judgment creditor",
+        "translation": "執行債権者"
+      },
+      {
+        "word": "Claimant",
+        "translation": "主張者／債権者"
+      },
+      {
+        "word": "Formal process",
+        "translation": "正式な手続"
+      },
+      {
+        "word": "Bypass",
+        "translation": "回避する／経由しない"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Proposed Distribution Statement",
+    "definition": "A draft document prepared by the execution court that outlines the intended allocation of funds among various creditors prior to the finalization of the distribution.",
+    "japaneseDefinition": "配当期日において配布される、各債権者への配当額や順位を記した事前の計算案。",
+    "japaneseWordTranslation": "配当表案 (はいとうひょうあん)",
+    "legalContext": "Civil Execution Act Art. 85: The execution court shall prepare a proposed distribution statement and send it to the interested parties prior to the distribution date.",
+    "japaneseLegalContext": "民事執行法第85条：執行裁判所は、配当表案を作成し、配当期日までに利害関係人に通知しなければならない。",
+    "exampleSentence": "The counsel reviewed the proposed distribution statement to ensure the priority of their client's claim was correctly reflected.",
+    "exampleTranslation": "弁護士は、クライアントの債権の優先順位が正しく反映されているか確認するため、配当表案を検討した。",
+    "vocabularyList": [
+      {
+        "word": "Draft document",
+        "translation": "草案／案"
+      },
+      {
+        "word": "Allocation of funds",
+        "translation": "資金の配分"
+      },
+      {
+        "word": "Finalization",
+        "translation": "確定"
+      },
+      {
+        "word": "Interested parties",
+        "translation": "利害関係人"
+      },
+      {
+        "word": "Reflected",
+        "translation": "反映された"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exclusion from the Distribution",
+    "definition": "The legal disqualification of a creditor from receiving a portion of the collected funds, occurring if they fail to provide requisite proof of their claim within the statutory time limit.",
+    "japaneseDefinition": "債権者が法定の期間内に債権の証明を提出しない場合に、配当手続から除外されること。",
+    "japaneseWordTranslation": "配当からの除斥 (はいとうからのじょしゃく)",
+    "legalContext": "Civil Execution Act Art. 166, Para. 4: A person who fails to prove their claim... shall be subject to exclusion from the distribution.",
+    "japaneseLegalContext": "民事執行法第166条第4項：債権を証する書面を提出しなかつた者は、配当等の受領から除斥される。",
+    "exampleSentence": "Failure to submit the certificate of the final judgment resulted in the creditor's exclusion from the distribution of the auction proceeds.",
+    "exampleTranslation": "確定判決書の提出を怠ったため、その債権者は競売代金の配当から除斥されることとなった。",
+    "vocabularyList": [
+      {
+        "word": "Disqualification",
+        "translation": "資格剥奪／除外"
+      },
+      {
+        "word": "Requisite proof",
+        "translation": "必要証拠"
+      },
+      {
+        "word": "Statutory time limit",
+        "translation": "法定期間"
+      },
+      {
+        "word": "Auction proceeds",
+        "translation": "売却代金"
+      },
+      {
+        "word": "Failure to submit",
+        "translation": "提出の懈怠"
+      }
+    ]
   }
 ]

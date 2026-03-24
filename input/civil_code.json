@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Offer and Acceptance",
-    "definition": "The fundamental procedural steps by which the consensus necessary for the establishment of an agreement or arrangement is reached, comprising a specific proposal by one party and an unequivocal agreement thereto by the other.",
-    "japaneseDefinition": "合意または取り決めの成立に必要な合致に至るための基本的な手続き上の段階。一方当事者による具体的な提案と、他方当事者によるそれに対する明確な合意から構成される。",
-    "japaneseWordTranslation": "申込と承諾 (もうしこみとしょうだく)",
-    "legalContext": "Civil Code Art. 522: A contract comes into effect when an offer and acceptance are formed regarding the content thereof.",
-    "japaneseLegalContext": "民法第522条: 契約は、その内容について当事者の合意があったときに成立する。",
-    "exampleSentence": "The dispute centered on whether the final email constituted valid *offer and acceptance* sufficient to conclude the transaction.",
-    "exampleTranslation": "紛争は、最終的な電子メールが、取引を成立させるのに十分な有効な申込と承諾を構成したかどうかを中心としていた。",
-    "vocabularyList": [
-      {
-        "word": "consensus",
-        "translation": "合意/意思の合致"
-      },
-      {
-        "word": "establishment",
-        "translation": "成立"
-      },
-      {
-        "word": "agreement",
-        "translation": "取り決め"
-      },
-      {
-        "word": "proposal",
-        "translation": "提案"
-      },
-      {
-        "word": "transaction",
-        "translation": "取引"
-      },
-      {
-        "word": "dispute",
-        "translation": "紛争"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Co-ownership",
     "definition": "A form of property ownership where an object is owned by several persons in common, each owner having an undivided share (quota) in the entire object.",
     "japaneseDefinition": "数人の者が一つの物を共同で所有する形態であり、各所有者がその物全体に対して不可分の持分（割合）を持つこと。",
@@ -27960,6 +27922,120 @@
       {
         "word": "Principal",
         "translation": "本人（代理における）"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Immediate Acquisition",
+    "definition": "A legal principle where a person who begins to hold a chattel in a state of innocence and without any carelessness regarding the seller's right to sell, acquires the legal title to that item even if the seller was not the true owner.",
+    "japaneseDefinition": "動産を占有し始めた者が、売主の処分権限について善意無過失である場合、たとえ売主に権限がなくても、その動産の権利を即座に取得するという法理。",
+    "japaneseWordTranslation": "即時取得 (そくじしゅとく)",
+    "legalContext": "Civil Code Art. 192: If a person starts to possess a chattel in a state of innocence and without any carelessness through a transaction, that person shall acquire the right that is exercised over that chattel.",
+    "japaneseLegalContext": "民法第192条：取引行為によって、平穏に、かつ、公然と動産の占有を始めた者は、善意であり、かつ、過失がないときは、即時にその動産について行使する権利を取得する。",
+    "exampleSentence": "Under the doctrine of immediate acquisition, a purchaser may obtain legal entitlement to a chattel even if the seller lacked the authority to transfer it.",
+    "exampleTranslation": "即時取得の法理に基づき、買主は売主に処分権限がなかったとしても、その動産に対する法的権利を取得することができる。",
+    "vocabularyList": [
+      {
+        "word": "Chattel",
+        "translation": "動産"
+      },
+      {
+        "word": "Innocence",
+        "translation": "善意"
+      },
+      {
+        "word": "Carelessness",
+        "translation": "過失"
+      },
+      {
+        "word": "Legal entitlement",
+        "translation": "法的権利"
+      },
+      {
+        "word": "Transferee",
+        "translation": "譲受人"
+      },
+      {
+        "word": "Authority to transfer",
+        "translation": "処分権限"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Faith and Trust",
+    "definition": "A fundamental rule in civil law requiring that parties to a legal relationship act with honesty and sincerity toward each other, respecting the reasonable expectations of the other party.",
+    "japaneseDefinition": "法的関係にある当事者が、相手方の合理的な期待を裏切らないよう、誠実かつ正直に行動すべきであるという民法上の基本原則。",
+    "japaneseWordTranslation": "信義誠実の原則 (しんぎせいじつのげんそく)",
+    "legalContext": "Civil Code Art. 1, Para. 2: The exercise of powers and the fulfillment of duties must be carried out with honesty and in accordance with the principle of faith and trust.",
+    "japaneseLegalContext": "民法第1条第2項：権利の行使及び義務の履行は、信義に従い誠実に行わなければならない。",
+    "exampleSentence": "The principle of faith and trust serves as a gap-filler to ensure fairness when a specific statutory provision does not cover a particular dispute.",
+    "exampleTranslation": "信義誠実の原則は、特定の法定条項が個別の紛争をカバーしていない場合に、公平性を確保するための補完的な役割を果たす。",
+    "vocabularyList": [
+      {
+        "word": "Honesty",
+        "translation": "誠実"
+      },
+      {
+        "word": "Sincerity",
+        "translation": "誠実さ"
+      },
+      {
+        "word": "Fulfillment of duties",
+        "translation": "義務の履行"
+      },
+      {
+        "word": "Gap-filler",
+        "translation": "（法の）補充的機能"
+      },
+      {
+        "word": "Legal dealings",
+        "translation": "法的取引"
+      },
+      {
+        "word": "Reasonable expectation",
+        "translation": "合理的な期待"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Adjudication of Disappearance",
+    "definition": "A formal court decree that treats a missing person as having died for the purposes of private law, typically issued after their whereabouts have been unknown for a period defined by law.",
+    "japaneseDefinition": "不在者の生死が一定期間不明な場合に、私法上の適用においてその者を死亡したものとみなす裁判所の正式な宣告。",
+    "japaneseWordTranslation": "失踪宣告 (しっそうせんこく)",
+    "legalContext": "Civil Code Art. 30: If it is unknown whether an individual is dead or alive for seven years, the family court may, at the request of an interested party, make an adjudication of disappearance.",
+    "japaneseLegalContext": "民法第30条：不在者の生死が七年間明らかでないときは、家庭裁判所は、利害関係人の請求により、失踪の宣告をすることができる。",
+    "exampleSentence": "Once the adjudication of disappearance becomes final, the missing person is legally presumed to have died at the expiration of the statutory period.",
+    "exampleTranslation": "失踪宣告が確定すると、行方不明者は法定期間の満了時に法的に死亡したものとみなされる。",
+    "vocabularyList": [
+      {
+        "word": "Formal decree",
+        "translation": "正式な宣告"
+      },
+      {
+        "word": "Whereabouts",
+        "translation": "所在"
+      },
+      {
+        "word": "Family court",
+        "translation": "家庭裁判所"
+      },
+      {
+        "word": "Interested party",
+        "translation": "利害関係人"
+      },
+      {
+        "word": "Dead or alive",
+        "translation": "生死"
+      },
+      {
+        "word": "Statutory period",
+        "translation": "法定期間"
       }
     ]
   }

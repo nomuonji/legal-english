@@ -1,34 +1,38 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Affirmation of Facts",
-  "definition": "The formal statement or pleading submitted by a party to the court regarding the factual basis necessary to support their legal claim or defense, forming the core data upon which the court bases its judgment under the principle of party presentation.",
-  "japaneseDefinition": "当事者が自己の主張を裏付けるために裁判所に提出する、訴訟の基礎となる具体的かつ重要な事実の陳述。",
-  "japaneseWordTranslation": "事実の主張 (じじつのしゅちょう)",
-  "legalContext": "CPL Article 161 (Requirements for Preparation Documents): 'In preparatory documents, the following matters shall be stated clearly: (i) claims and defenses; (ii) affirmation of facts; and (iii) proof thereof.'",
-  "japaneseLegalContext": "民事訴訟法第161条（準備書面の記載事項）：『準備書面には、次に掲げる事項を記載しなければならない。一 請求の趣旨及びその原因となる事実並びにこれに対する答弁。二 事実の主張及びこれに関連する証拠。』",
-  "exampleSentence": "The court disregarded the legal theory presented by the defense because it lacked sufficient and specific affirmation of facts in support of the counterclaim.",
-  "exampleTranslation": "裁判所は、反訴を裏付ける具体的かつ十分な事実の主張を欠いていたため、弁護側が提示した法的理論を却下した。",
+  "word": "Offer and Acceptance",
+  "definition": "The fundamental procedural steps by which the consensus necessary for the establishment of an agreement or arrangement is reached, comprising a specific proposal by one party and an unequivocal agreement thereto by the other.",
+  "japaneseDefinition": "合意または取り決めの成立に必要な合致に至るための基本的な手続き上の段階。一方当事者による具体的な提案と、他方当事者によるそれに対する明確な合意から構成される。",
+  "japaneseWordTranslation": "申込と承諾 (もうしこみとしょうだく)",
+  "legalContext": "Civil Code Art. 522: A contract comes into effect when an offer and acceptance are formed regarding the content thereof.",
+  "japaneseLegalContext": "民法第522条: 契約は、その内容について当事者の合意があったときに成立する。",
+  "exampleSentence": "The dispute centered on whether the final email constituted valid *offer and acceptance* sufficient to conclude the transaction.",
+  "exampleTranslation": "紛争は、最終的な電子メールが、取引を成立させるのに十分な有効な申込と承諾を構成したかどうかを中心としていた。",
   "vocabularyList": [
     {
-      "word": "counterclaim",
-      "translation": "反訴"
+      "word": "consensus",
+      "translation": "合意/意思の合致"
     },
     {
-      "word": "defense",
-      "translation": "答弁 (防御方法)"
+      "word": "establishment",
+      "translation": "成立"
     },
     {
-      "word": "pleading",
-      "translation": "準備書面"
+      "word": "agreement",
+      "translation": "取り決め"
     },
     {
-      "word": "legal theory",
-      "translation": "法的理論"
+      "word": "proposal",
+      "translation": "提案"
     },
     {
-      "word": "disregard",
-      "translation": "却下する"
+      "word": "transaction",
+      "translation": "取引"
+    },
+    {
+      "word": "dispute",
+      "translation": "紛争"
     }
   ]
 }

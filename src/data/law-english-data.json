@@ -1,38 +1,38 @@
 {
-  "category": "Real Property Registration (不動産登記法)",
+  "category": "Deposit Act (供託法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Registration Obligee",
-  "definition": "The person who acquires a right, increases their existing right, or otherwise benefits from the execution of the real property registration. This party generally cooperates with the Registration Obligor to file the application.",
-  "japaneseDefinition": "不動産登記の実行により、権利を取得し、又は既存の権利が有利になるなど、登記上利益を受ける者。",
-  "japaneseWordTranslation": "登記権利者 (とうきけんりしゃ)",
-  "legalContext": "Real Property Registration Act Art. 60 (Application by Both Parties): Registration based on the creation, transfer, or modification of a right shall be applied for jointly by the registration obligee and the registration obligor.",
-  "japaneseLegalContext": "不動産登記法第60条（共同申請）：権利の得喪及び変更に関する登記は、登記権利者及び登記義務者が共同して申請しなければならない。",
-  "exampleSentence": "When applying for the registration of a mortgage establishment, the creditor acts as the Registration Obligee, and the property owner acts as the Registration Obligor.",
-  "exampleTranslation": "抵当権設定の登記を申請する場合、債権者が登記権利者として、不動産の所有者が登記義務者として行動する。",
+  "word": "Consignment Note",
+  "definition": "The formal document filed by the consigner (depositor) with the competent authorities, detailing the grounds for consignment, the nature and amount of the consigned property, and the specific recipient (obligee) intended to receive the funds or goods.",
+  "japaneseDefinition": "供託をする者が、供託の理由、供託物の内容、受領者等、法定の事項を記載して供託所に提出する書類。",
+  "japaneseWordTranslation": "供託書 (きょうたくしょ)",
+  "legalContext": "Deposit Act Art. 4: 'A person making a consignment shall submit a consignment note containing the matters specified by Ministry of Justice Ordinance to the deposit office.'",
+  "japaneseLegalContext": "供託法第4条：「供託をしようとする者は、法務省令で定める事項を記載した供託書を供託所に提出しなければならない。」",
+  "exampleSentence": "The deposit office verified the particulars listed on the Consignment Note before officially accepting the legal tender provided for the release of debt.",
+  "exampleTranslation": "供託所は、債務の免責のために提供された法定通貨を正式に受理する前に、供託書に記載された詳細事項を確認した。",
   "vocabularyList": [
     {
-      "word": "registration obligor",
-      "translation": "登記義務者"
+      "word": "consigner (depositor)",
+      "translation": "供託者"
     },
     {
-      "word": "creditor",
-      "translation": "債権者"
+      "word": "competent authorities",
+      "translation": "権限ある当局"
     },
     {
-      "word": "mortgage establishment",
-      "translation": "抵当権設定"
+      "word": "legal tender",
+      "translation": "法定通貨"
     },
     {
-      "word": "creation of a right",
-      "translation": "権利の創設"
+      "word": "release of debt",
+      "translation": "債務の免責"
     },
     {
-      "word": "modification of a right",
-      "translation": "権利の変更"
+      "word": "particulars",
+      "translation": "詳細事項"
     },
     {
-      "word": "jointly applied for",
-      "translation": "共同申請"
+      "word": "Ministry of Justice Ordinance",
+      "translation": "法務省令"
     }
   ]
 }

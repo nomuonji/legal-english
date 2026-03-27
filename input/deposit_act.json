@@ -2,44 +2,6 @@
   {
     "category": "Deposit Act (供託法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Consignment Note",
-    "definition": "The formal document filed by the consigner (depositor) with the competent authorities, detailing the grounds for consignment, the nature and amount of the consigned property, and the specific recipient (obligee) intended to receive the funds or goods.",
-    "japaneseDefinition": "供託をする者が、供託の理由、供託物の内容、受領者等、法定の事項を記載して供託所に提出する書類。",
-    "japaneseWordTranslation": "供託書 (きょうたくしょ)",
-    "legalContext": "Deposit Act Art. 4: 'A person making a consignment shall submit a consignment note containing the matters specified by Ministry of Justice Ordinance to the deposit office.'",
-    "japaneseLegalContext": "供託法第4条：「供託をしようとする者は、法務省令で定める事項を記載した供託書を供託所に提出しなければならない。」",
-    "exampleSentence": "The deposit office verified the particulars listed on the Consignment Note before officially accepting the legal tender provided for the release of debt.",
-    "exampleTranslation": "供託所は、債務の免責のために提供された法定通貨を正式に受理する前に、供託書に記載された詳細事項を確認した。",
-    "vocabularyList": [
-      {
-        "word": "consigner (depositor)",
-        "translation": "供託者"
-      },
-      {
-        "word": "competent authorities",
-        "translation": "権限ある当局"
-      },
-      {
-        "word": "legal tender",
-        "translation": "法定通貨"
-      },
-      {
-        "word": "release of debt",
-        "translation": "債務の免責"
-      },
-      {
-        "word": "particulars",
-        "translation": "詳細事項"
-      },
-      {
-        "word": "Ministry of Justice Ordinance",
-        "translation": "法務省令"
-      }
-    ]
-  },
-  {
-    "category": "Deposit Act (供託法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Deposit for Damages Security",
     "definition": "A type of legal consignment required, typically by court order, to secure compensation for any potential damages or losses that a respondent may incur as a result of a claimant seeking or enforcing provisional remedies.",
     "japaneseDefinition": "民事保全手続などにおいて、債権者が行った保全処分により債務者に損害が生じた場合に備え、その損害賠償を担保するために積み立てる供託。",
@@ -18180,6 +18142,120 @@
       {
         "word": "Effect",
         "translation": "行う・実施する"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Formal Review by the Depositary Official",
+    "definition": "The limited power of a depositary official to examine whether a filing meets the technical requirements of the law based solely on the submitted paperwork, rather than investigating the substantive truth of the underlying claim.",
+    "japaneseDefinition": "供託官が、提出された書面のみに基づいて、申請が法的要件を満たしているかを確認する限定的な権限。実体上の請求権の存否を調査する権限は含まれない。",
+    "japaneseWordTranslation": "形式的審査権 (けいしきてきしんさけん)",
+    "legalContext": "Deposit Act Art. 1-2: The depositary official shall conduct a formal review of the application and determine its compliance with the law based on the information provided in the documentation.",
+    "japaneseLegalContext": "供託法第1条の2：供託官は、提出された書類に基づき、供託の申請が法令に適合しているかを形式的に審査し、その受理または却下を決定する。",
+    "exampleSentence": "The depositary official exercised their formal review by checking if the application matches the certified ledger entries.",
+    "exampleTranslation": "供託官は、申請書が認証された台帳の記載内容と一致しているかを確認し、形式的審査権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "Paperwork",
+        "translation": "書類手続き"
+      },
+      {
+        "word": "Substantive",
+        "translation": "実体的な"
+      },
+      {
+        "word": "Compliance",
+        "translation": "適合性"
+      },
+      {
+        "word": "Documentation",
+        "translation": "書面資料"
+      },
+      {
+        "word": "Ledger",
+        "translation": "台帳"
+      },
+      {
+        "word": "Underlying",
+        "translation": "背後にある"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Administrative Protest against a Depositary Action",
+    "definition": "A formal expression of dissatisfaction filed by a party against a specific decision or measure taken by a depositary official, such as the rejection of a filing or a refusal to allow the payout of funds.",
+    "japaneseDefinition": "供託官による申請の却下や払渡しの拒絶などの特定の処分に対し、利害関係人が不服を申し立てる手続き。",
+    "japaneseWordTranslation": "供託官の処分に対する不服申立て (きょうたくかんのしょぶんに対するふふくもうしたて)",
+    "legalContext": "Deposit Act Art. 1-4: Any person who is dissatisfied with a disposition made by a depositary official may file an administrative protest with the director of the competent Legal Affairs Bureau.",
+    "japaneseLegalContext": "供託法第1条の4：供託官の処分に不服がある者は、管轄の法務局または地方法務局の長に対し、不服申立てをすることができる。",
+    "exampleSentence": "The company filed an administrative protest against the depositary action after their request for the payout of the rent was rejected.",
+    "exampleTranslation": "賃料の払渡し請求が却下されたため、その会社は供託官の処分に対して不服申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "Dissatisfaction",
+        "translation": "不服"
+      },
+      {
+        "word": "Disposition",
+        "translation": "処分"
+      },
+      {
+        "word": "Competent",
+        "translation": "管轄の"
+      },
+      {
+        "word": "Payout",
+        "translation": "払渡し"
+      },
+      {
+        "word": "Ruling",
+        "translation": "決定"
+      },
+      {
+        "word": "Measure",
+        "translation": "措置"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Reversion of Unclaimed Assets to the State",
+    "definition": "The legal process by which the right to claim the return of deposited money or property is extinguished due to the passage of time, resulting in the ownership of those assets being transferred to the national treasury.",
+    "japaneseDefinition": "一定期間の経過により供託物の返還請求権が時効によって消滅し、その資産の所有権が国庫に移転する法的プロセス。",
+    "japaneseWordTranslation": "供託物の国庫帰属 (きょうたくぶつのこっこきぞく)",
+    "legalContext": "Deposit Act Art. 8: If the right to claim the return of the deposited assets is not exercised within the period prescribed by law, the assets shall result in reversion to the state.",
+    "japaneseLegalContext": "供託法第8条：供託物の返還を請求する権利が法律で定める期間内に行使されないときは、当該供託物は国庫に帰属する。",
+    "exampleSentence": "The funds were subject to reversion to the state because the claimant failed to initiate the retrieval process within the ten-year statutory window.",
+    "exampleTranslation": "請求者が10年の法定期間内に回収手続きを開始しなかったため、その資金は国庫に帰属することとなった。",
+    "vocabularyList": [
+      {
+        "word": "Unclaimed",
+        "translation": "未請求の"
+      },
+      {
+        "word": "Reversion",
+        "translation": "帰属"
+      },
+      {
+        "word": "Passage of time",
+        "translation": "期間の経過"
+      },
+      {
+        "word": "Extinguished",
+        "translation": "消滅した"
+      },
+      {
+        "word": "Treasury",
+        "translation": "財務/国庫"
+      },
+      {
+        "word": "Retrieve",
+        "translation": "回収する"
       }
     ]
   }

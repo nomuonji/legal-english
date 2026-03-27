@@ -1,38 +1,38 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Real Property Registration (不動産登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Minimum Sale Price",
-  "definition": "The lowest legally permissible price at which immovable property subject to compulsory auction can be sold. This price is determined by the execution court based on the property appraisal conducted by a court-appointed appraiser.",
-  "japaneseDefinition": "強制競売にかけられた不動産を売却できる法定の最低価格。この価格は、執行裁判所が選任した評価人による鑑定に基づき決定される。",
-  "japaneseWordTranslation": "買受可能価額 (かいうけかのうかがく)",
-  "legalContext": "MSL (Minji Shikkō Hō) Art. 60: Decision on the Minimum Sale Price (The execution court shall set the minimum sale price based on the appraisal value of the immovable property).",
-  "japaneseLegalContext": "民事執行法 第60条: 最低売却価額の決定 (執行裁判所は、不動産の評価額に基づいて最低売却価額を定めなければならない。)",
-  "exampleSentence": "The prospective buyer’s bid was rejected because it failed to meet the statutory **Minimum Sale Price** set by the execution court for the land and building.",
-  "exampleTranslation": "その将来の買受希望者の入札は、土地及び建物に対し執行裁判所が定めた法定の買受可能価額に達しなかったため、却下された。",
+  "word": "Registration Obligee",
+  "definition": "The person who acquires a right, increases their existing right, or otherwise benefits from the execution of the real property registration. This party generally cooperates with the Registration Obligor to file the application.",
+  "japaneseDefinition": "不動産登記の実行により、権利を取得し、又は既存の権利が有利になるなど、登記上利益を受ける者。",
+  "japaneseWordTranslation": "登記権利者 (とうきけんりしゃ)",
+  "legalContext": "Real Property Registration Act Art. 60 (Application by Both Parties): Registration based on the creation, transfer, or modification of a right shall be applied for jointly by the registration obligee and the registration obligor.",
+  "japaneseLegalContext": "不動産登記法第60条（共同申請）：権利の得喪及び変更に関する登記は、登記権利者及び登記義務者が共同して申請しなければならない。",
+  "exampleSentence": "When applying for the registration of a mortgage establishment, the creditor acts as the Registration Obligee, and the property owner acts as the Registration Obligor.",
+  "exampleTranslation": "抵当権設定の登記を申請する場合、債権者が登記権利者として、不動産の所有者が登記義務者として行動する。",
   "vocabularyList": [
     {
-      "word": "appraisal value",
-      "translation": "評価額 (ひょうかがく)"
+      "word": "registration obligor",
+      "translation": "登記義務者"
     },
     {
-      "word": "prospective buyer",
-      "translation": "買受希望者 (かいうけきぼうしゃ)"
+      "word": "creditor",
+      "translation": "債権者"
     },
     {
-      "word": "compulsory auction",
-      "translation": "強制競売 (きょうせいけいばい)"
+      "word": "mortgage establishment",
+      "translation": "抵当権設定"
     },
     {
-      "word": "execution court",
-      "translation": "執行裁判所 (しっこうさいばんしょ)"
+      "word": "creation of a right",
+      "translation": "権利の創設"
     },
     {
-      "word": "bid",
-      "translation": "入札 (にゅうさつ)"
+      "word": "modification of a right",
+      "translation": "権利の変更"
     },
     {
-      "word": "statutory",
-      "translation": "法定の (ほうていの)"
+      "word": "jointly applied for",
+      "translation": "共同申請"
     }
   ]
 }

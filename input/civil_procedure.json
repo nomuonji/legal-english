@@ -24594,5 +24594,107 @@
         "translation": "相互主義 (そうごしゅぎ)"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of the Independence of Co-litigants",
+    "definition": "A procedural rule in ordinary joint litigation stating that an act performed by one co-litigant, or a fact produced for or against one co-litigant, does not affect the other co-litigants.",
+    "japaneseDefinition": "通常共同訴訟において、各共同訴訟人の訴訟行為や、一人の共同訴訟人について生じた事由が他の共同訴訟人に影響を及ぼさないという原則。",
+    "japaneseWordTranslation": "共同訴訟独立の原則 (きょうどうそしょうどくりつのげんそく)",
+    "legalContext": "Code of Civil Procedure Art. 39: Procedural acts performed by one of the co-litigants, procedural acts performed against one of the co-litigants by the adverse party, and matters that have occurred with regard to one of the co-litigants do not affect the other co-litigants.",
+    "japaneseLegalContext": "民事訴訟法第39条：共同訴訟人の一人の訴訟行為、共同訴訟人の一人に対する相手方の訴訟行為及び共同訴訟人の一人について生じた事項は、他の共同訴訟人に影響を及ぼさない。",
+    "exampleSentence": "Under the principle of the independence of co-litigants, the confession made by one defendant does not bind the other defendants in an ordinary joint lawsuit.",
+    "exampleTranslation": "共同訴訟独立の原則に基づき、通常共同訴訟において一人の被告が行った自白は、他の被告を拘束しない。",
+    "vocabularyList": [
+      {
+        "word": "procedural act",
+        "translation": "訴訟行為"
+      },
+      {
+        "word": "adverse party",
+        "translation": "相手方"
+      },
+      {
+        "word": "joint litigation",
+        "translation": "共同訴訟"
+      },
+      {
+        "word": "bind",
+        "translation": "拘束する"
+      },
+      {
+        "word": "confession",
+        "translation": "自白"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Objection to the Withdrawal of a Suit",
+    "definition": "A formal statement made by a defendant to prevent the plaintiff from withdrawing a lawsuit after the defendant has already submitted a brief on the merits or made a statement at a hearing.",
+    "japaneseDefinition": "被告が本案について準備書面を提出し、又は弁論をした後に、原告が訴えを取り下げることに対して被告が行う反対の意思表示。",
+    "japaneseWordTranslation": "訴えの取下げに対する異議 (うったえのとりさげにたいするいぎ)",
+    "legalContext": "Code of Civil Procedure Art. 261, Para. 4: If a defendant has already submitted a brief on the merits, ... the withdrawal of the suit shall not be effective unless the defendant consents to it. However, this shall not apply if the defendant does not raise an objection to the withdrawal within two weeks.",
+    "japaneseLegalContext": "民事訴訟法第261条第4項：被告が本案について準備書面を提出し、…た後に訴えの取下げがあった場合には、被告がその取下げに同意しなければ、その効力を生じない。ただし、被告が…取下げの日から二週間以内に異議を述べないときは、取下げに同意したものとみなす。",
+    "exampleSentence": "The defendant filed an objection to the withdrawal of a suit because they wished to obtain a final judgment to clarify their legal standing.",
+    "exampleTranslation": "被告は、自らの法的地位を明確にするための終局判決を求めていたため、訴えの取下げに対して異議を述べた。",
+    "vocabularyList": [
+      {
+        "word": "withdrawal",
+        "translation": "取下げ"
+      },
+      {
+        "word": "raise an objection",
+        "translation": "異議を述べる"
+      },
+      {
+        "word": "consent",
+        "translation": "同意"
+      },
+      {
+        "word": "be effective",
+        "translation": "効力を生じる"
+      },
+      {
+        "word": "brief on the merits",
+        "translation": "本案に関する準備書面"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for the Payment of a Sanction for a False Statement",
+    "definition": "A court-ordered monetary penalty (civil fine) imposed on a party who has sworn an oath and subsequently made a false statement regarding facts in the case.",
+    "japaneseDefinition": "宣誓した当事者が虚偽の陳述をした場合に、裁判所が科す過料の決定。",
+    "japaneseWordTranslation": "虚偽の陳述に対する過料の決定 (きょぎのちんじゅつにたいするかりょうのけってい)",
+    "legalContext": "Code of Civil Procedure Art. 209, Para. 1: If a party who has sworn an oath has made a false statement, the court shall, by a ruling, punish the party by a civil fine of not more than 100,000 yen.",
+    "japaneseLegalContext": "民事訴訟法第209条第1項：宣誓した当事者が虚偽の陳述をしたときは、裁判所は、決定で、十万円以下の過料に処する。",
+    "exampleSentence": "The court issued an order for the payment of a sanction for a false statement after the plaintiff was found to have intentionally lied during the party examination.",
+    "exampleTranslation": "原告が当事者尋問において意図的に嘘をついたことが判明したため、裁判所は虚偽の陳述に対する過料の決定を下した。",
+    "vocabularyList": [
+      {
+        "word": "false statement",
+        "translation": "虚偽の陳述"
+      },
+      {
+        "word": "civil fine",
+        "translation": "過料"
+      },
+      {
+        "word": "swear an oath",
+        "translation": "宣誓する"
+      },
+      {
+        "word": "punish",
+        "translation": "処する"
+      },
+      {
+        "word": "party examination",
+        "translation": "当事者尋問"
+      }
+    ]
   }
 ]

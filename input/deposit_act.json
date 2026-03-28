@@ -18220,5 +18220,81 @@
         "translation": "回収する"
       }
     ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Lodged Assets",
+    "definition": "The specific currency or negotiable instruments that have been accepted into and are currently held within the official system governed by the Deposit Act.",
+    "japaneseDefinition": "供託法に基づき、公式なシステムの中で受理され、現在保管されている特定の通貨または有価証券のこと。",
+    "japaneseWordTranslation": "供託物 (きょうたくぶつ)",
+    "legalContext": "Deposit Act Art. 4: 'If the lodged assets are currency, they shall be stored in a secure vault within a bank or a designated institution.'",
+    "japaneseLegalContext": "供託法第4条：供託物が金銭であるときは、これを銀行又は供託所の指定した銀行に預け置くべし。",
+    "exampleSentence": "Lodged assets must be precisely recorded in the official ledger to ensure no loss of value occurs during the custody period.",
+    "exampleTranslation": "保管期間中に価値の喪失が生じないよう、供託物は公式の台帳に正確に記録されなければならない。",
+    "vocabularyList": [
+      {
+        "word": "currency",
+        "translation": "通貨"
+      },
+      {
+        "word": "precisely",
+        "translation": "正確に"
+      },
+      {
+        "word": "ledger",
+        "translation": "台帳"
+      },
+      {
+        "word": "custody",
+        "translation": "保管"
+      },
+      {
+        "word": "vault",
+        "translation": "金庫"
+      },
+      {
+        "word": "negotiable instruments",
+        "translation": "有価証券"
+      }
+    ]
+  },
+  {
+    "category": "Deposit Act (供託法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Retrieval of Lodged Assets",
+    "definition": "The procedure by which the individual who originally placed assets into lodgment requests their return, provided that the intended recipient has not yet accepted the arrangement.",
+    "japaneseDefinition": "供託した者が、相手方がまだその受諾をしていない等の場合に、供託した物を取り戻すための手続き。",
+    "japaneseWordTranslation": "供託物の取戻し (きょうたくぶつのとりもどし)",
+    "legalContext": "Deposit Act Art. 8: 'An applicant who conducted the lodgment may request the retrieval of lodged assets before the other party accepts the arrangement.'",
+    "japaneseLegalContext": "供託法第8条：供託者は、その供託を受諾した者がその供託を受諾せず（中略）供託物を取り戻すことができる。",
+    "exampleSentence": "The applicant initiated a retrieval of lodged assets after proving that the underlying reason for the storage had been resolved.",
+    "exampleTranslation": "申請者は、保管の根本的な理由が解決されたことを証明した後、供託物の取戻しを開始した。",
+    "vocabularyList": [
+      {
+        "word": "applicant",
+        "translation": "申請者"
+      },
+      {
+        "word": "retrieval",
+        "translation": "取戻し"
+      },
+      {
+        "word": "underlying",
+        "translation": "根本的な"
+      },
+      {
+        "word": "resolved",
+        "translation": "解決された"
+      },
+      {
+        "word": "arrangement",
+        "translation": "取り決め"
+      },
+      {
+        "word": "substantiation",
+        "translation": "立証"
+      }
+    ]
   }
 ]

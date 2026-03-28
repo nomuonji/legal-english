@@ -1,38 +1,38 @@
 {
-  "category": "Deposit Act (供託法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Deposit for Damages Security",
-  "definition": "A type of legal consignment required, typically by court order, to secure compensation for any potential damages or losses that a respondent may incur as a result of a claimant seeking or enforcing provisional remedies.",
-  "japaneseDefinition": "民事保全手続などにおいて、債権者が行った保全処分により債務者に損害が生じた場合に備え、その損害賠償を担保するために積み立てる供託。",
-  "japaneseWordTranslation": "損害担保供託 (そんがいたんぽきょうたく)",
-  "legalContext": "Civil Provisional Remedies Act Art. 14: 'The court may order the obligee to provide security for the execution of the provisional attachment.' (This security often takes the form of a Deposit for Damages Security)",
-  "japaneseLegalContext": "民事保全法第14条：「裁判所は、仮差押えの執行により債務者が受けるべき損害を担保させるため、債権者に担保を立てるべきことを命ずることができる。」",
-  "exampleSentence": "The claimant was mandated to make a Deposit for Damages Security to cover potential economic harm caused by the expedited provisional disposition requested.",
-  "exampleTranslation": "申立人は、要求された迅速な仮処分によって生じる可能性のある経済的損害を補償するため、損害担保供託を行うよう命じられた。",
+  "word": "Co-ownership",
+  "definition": "A form of property ownership where an object is owned by several persons in common, each owner having an undivided share (quota) in the entire object.",
+  "japaneseDefinition": "数人の者が一つの物を共同で所有する形態であり、各所有者がその物全体に対して不可分の持分（割合）を持つこと。",
+  "japaneseWordTranslation": "共有 (きょうゆう)",
+  "legalContext": "Civil Code Art. 249: Each co-owner may use the whole of the co-owned object in proportion to their share.",
+  "japaneseLegalContext": "民法第249条: 各共有者は、共有物の全部について、その持分に応じた使用をすることができる。",
+  "exampleSentence": "Due to incomplete succession procedures, the real property remained under *co-ownership* among the four surviving family members.",
+  "exampleTranslation": "相続手続きが未完了であったため、その不動産は存命する家族４人の間で共有の状態に留まった。",
   "vocabularyList": [
     {
-      "word": "provisional remedies",
-      "translation": "保全処分"
+      "word": "undivided share",
+      "translation": "不可分の持分"
     },
     {
-      "word": "claimant",
-      "translation": "債権者"
+      "word": "quota",
+      "translation": "割合"
     },
     {
-      "word": "respondent",
-      "translation": "債務者"
+      "word": "in common",
+      "translation": "共同で"
     },
     {
-      "word": "expedited",
-      "translation": "迅速な"
+      "word": "succession procedures",
+      "translation": "相続手続き"
     },
     {
-      "word": "court order",
-      "translation": "裁判所の命令"
+      "word": "real property",
+      "translation": "不動産"
     },
     {
-      "word": "compensation",
-      "translation": "賠償"
+      "word": "surviving family members",
+      "translation": "存命する家族"
     }
   ]
 }

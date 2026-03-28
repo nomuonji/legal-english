@@ -24810,5 +24810,119 @@
         "translation": "進行"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "General Venue for an Individual",
+    "definition": "The default court location where a lawsuit should be filed, typically determined by the residence or domicile of the person being sued.",
+    "japaneseDefinition": "訴えられる側の住所や居所によって決まる、原則的な裁判管轄の場所。",
+    "japaneseWordTranslation": "人の一般裁判籍 (ひと の いっぱん さいばんせき)",
+    "legalContext": "Code of Civil Procedure Art. 4: (1) A lawsuit shall be subject to the jurisdiction of the court that has jurisdiction over the location of the general venue of the defendant. (2) The general venue of an individual shall be determined by his/her domicile.",
+    "japaneseLegalContext": "民事訴訟法第4条：(1) 訴えは、被告の一般裁判籍の所在地を管轄する裁判所の管轄に属する。(2) 人の一般裁判籍は、住所により定める。",
+    "exampleSentence": "Since the defendant resides in Osaka, the general venue for an individual dictates that the Osaka District Court has jurisdiction over this case.",
+    "exampleTranslation": "被告は大阪に居住しているため、人の一般裁判籍の規定により、大阪地方裁判所が本件の管轄権を有します。",
+    "vocabularyList": [
+      {
+        "word": "Individual",
+        "translation": "個人"
+      },
+      {
+        "word": "Venue",
+        "translation": "裁判籍"
+      },
+      {
+        "word": "Reside",
+        "translation": "居住する"
+      },
+      {
+        "word": "District Court",
+        "translation": "地方裁判所"
+      },
+      {
+        "word": "Jurisdiction",
+        "translation": "管轄権"
+      },
+      {
+        "word": "Defendant",
+        "translation": "被告"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Special Venue for a Tort",
+    "definition": "A specific court location permitted for filing a lawsuit related to a tortious act, typically the place where the harmful act occurred.",
+    "japaneseDefinition": "不法行為に関する訴えにおいて、不法行為が行われた地（不法行為地）に基づく裁判管轄。",
+    "japaneseWordTranslation": "不法行為の裁判籍 (ふほうこうい の さいばんせき)",
+    "legalContext": "Code of Civil Procedure Art. 5, Item 9: A lawsuit relating to a tort may be brought before the court that has jurisdiction over the place where the tortious act was committed.",
+    "japaneseLegalContext": "民事訴訟法第5条第9号：不法行為に関する訴えは、不法行為があった地の裁判所に提起することができる。",
+    "exampleSentence": "The plaintiff chose to file the lawsuit in Tokyo because the accident occurred there, invoking the special venue for a tort.",
+    "exampleTranslation": "事故が東京で発生したため、原告は不法行為の裁判籍を根拠に、東京で訴訟を提起することを選択しました。",
+    "vocabularyList": [
+      {
+        "word": "Special Venue",
+        "translation": "特別裁判籍"
+      },
+      {
+        "word": "Tortious Act",
+        "translation": "不法行為"
+      },
+      {
+        "word": "Plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "Invoke",
+        "translation": "（規定などを）援用する"
+      },
+      {
+        "word": "Committed",
+        "translation": "（行為が）行われた"
+      },
+      {
+        "word": "File a lawsuit",
+        "translation": "訴えを提起する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Venue for a Contractual Obligation",
+    "definition": "The court location where a lawsuit concerning a contract can be filed, often determined by the place where the obligation under the contract is to be performed.",
+    "japaneseDefinition": "義務履行地（契約上の義務を果たすべき場所）に基づき認められる、契約に関する訴訟の裁判管轄。",
+    "japaneseWordTranslation": "義務履行地の裁判籍 (ぎむ りこうち の さいばんせき)",
+    "legalContext": "Code of Civil Procedure Art. 5, Item 1: A lawsuit relating to a property right may be brought before the court that has jurisdiction over the place of performance of the obligation.",
+    "japaneseLegalContext": "民事訴訟法第5条第1号：財産権上の訴えは、義務履行地の裁判所に提起することができる。",
+    "exampleSentence": "Under the terms of the agreement, the payment was to be made in Yokohama, establishing it as the venue for a contractual obligation.",
+    "exampleTranslation": "契約条件に基づき、支払いは横浜で行われることになっていたため、横浜が義務履行地の裁判籍となりました。",
+    "vocabularyList": [
+      {
+        "word": "Contractual Obligation",
+        "translation": "契約上の義務"
+      },
+      {
+        "word": "Property Right",
+        "translation": "財産権"
+      },
+      {
+        "word": "Place of performance",
+        "translation": "義務履行地"
+      },
+      {
+        "word": "Agreement",
+        "translation": "合意／契約"
+      },
+      {
+        "word": "Establish",
+        "translation": "（管轄などが）定まる"
+      },
+      {
+        "word": "Relating to",
+        "translation": "〜に関する"
+      }
+    ]
   }
 ]

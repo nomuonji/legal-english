@@ -23392,5 +23392,119 @@
         "translation": "住居"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Garnishment of Royalties",
+    "definition": "A legal process where a court directs a third party to withhold payments such as licensing fees or publishing residuals owed to a debtor in order to pay a debt.",
+    "japaneseDefinition": "債務者が有する著作権の印税や特許権の使用料などの請求権を、債務の弁済に充てるために裁判所が第三債務者に対して支払いを差し止める手続。",
+    "japaneseWordTranslation": "使用料債権の差押え (しようりょうさいけんのさしおさえ)",
+    "legalContext": "Civil Execution Act Art. 143: A seizure of a claim for the payment of money... shall be performed by an order of seizure issued by the execution court.",
+    "japaneseLegalContext": "民事執行法第143条：金銭の支払を目的とする債権の差押えは、執行裁判所の差押命令により行う。",
+    "exampleSentence": "The creditor filed a petition for the garnishment of royalties from the debtor's published works.",
+    "exampleTranslation": "債権者は、債務者の出版物から生じる印税の差押えを申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Licensing fees",
+        "translation": "ライセンス料"
+      },
+      {
+        "word": "Withhold",
+        "translation": "控除する・差し控える"
+      },
+      {
+        "word": "Residuals",
+        "translation": "印税・継続的支払い"
+      },
+      {
+        "word": "Publishing",
+        "translation": "出版"
+      },
+      {
+        "word": "Works",
+        "translation": "著作物"
+      },
+      {
+        "word": "Petition",
+        "translation": "申立て"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Certificate of Default",
+    "definition": "An official document issued to verify that a person has failed to meet their financial obligations as determined by a prior legal ruling.",
+    "japaneseDefinition": "債務者が以前の法的決定によって定められた金銭的義務を果たせなかったことを証明するために発行される公式文書。",
+    "japaneseWordTranslation": "不履行証明書 (ふりこうしょうめいしょ)",
+    "legalContext": "Civil Execution Act Art. 27: A writ of execution shall be granted only if the obligee has submitted a certificate of default or other documents proving non-performance.",
+    "japaneseLegalContext": "民事執行法第27条：執行文は、債権者が不履行証明書その他の不履行を証する文書を提出した場合に限り、付与される。",
+    "exampleSentence": "A certificate of default is required to proceed with the seizure of assets from a non-compliant party.",
+    "exampleTranslation": "不履行の当事者から資産を差し押さえる手続を進めるためには、不履行証明書が必要である。",
+    "vocabularyList": [
+      {
+        "word": "Default",
+        "translation": "不履行・債務不履行"
+      },
+      {
+        "word": "Verify",
+        "translation": "立証する・確認する"
+      },
+      {
+        "word": "Financial obligations",
+        "translation": "金銭的義務"
+      },
+      {
+        "word": "Prior",
+        "translation": "以前の"
+      },
+      {
+        "word": "Ruling",
+        "translation": "決定・裁定"
+      },
+      {
+        "word": "Non-compliant",
+        "translation": "従わない・不履行の"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Compulsory Eviction of a Subtenant",
+    "definition": "The legal removal of a person who is occupying a unit under a secondary lease agreement when the primary tenant’s right to occupy has been terminated via enforcement.",
+    "japaneseDefinition": "本居借人の占有権が強制執行により消滅した際、転貸借契約に基づきその区画を占有している者を強制的に退去させる手続。",
+    "japaneseWordTranslation": "転借人の強制退去 (てんしゃくにんのきょうせいたいきょ)",
+    "legalContext": "Civil Execution Act Art. 168: Compulsory execution of a claim for the delivery of an immovable... shall be performed by the execution officer taking possession.",
+    "japaneseLegalContext": "民事執行法第168条：不動産の引渡しの強制執行は、執行官が目的物を占有してこれを行う。",
+    "exampleSentence": "The landlord initiated the compulsory eviction of a subtenant after the main lease was nullified.",
+    "exampleTranslation": "賃貸人は、本賃貸借契約が失効した後、転借人の強制退去に着手した。",
+    "vocabularyList": [
+      {
+        "word": "Subtenant",
+        "translation": "転借人"
+      },
+      {
+        "word": "Unit",
+        "translation": "（建物の）区画・住戸"
+      },
+      {
+        "word": "Occupying",
+        "translation": "占有している"
+      },
+      {
+        "word": "Terminated",
+        "translation": "終了した"
+      },
+      {
+        "word": "Removal",
+        "translation": "除去・立ち退き"
+      },
+      {
+        "word": "Initiated",
+        "translation": "開始した"
+      }
+    ]
   }
 ]

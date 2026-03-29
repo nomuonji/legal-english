@@ -1,38 +1,38 @@
 {
   "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Mitigation of Penalty",
-  "definition": "The reduction of a legally prescribed sentence (penalty) below the minimum standard, usually due to the presence of specific legal grounds or compelling extenuating circumstances (judicial discretion).",
-  "japaneseDefinition": "法律で定められた刑罰の最低限度を超えて、刑の程度を軽くすること。法定の理由に基づく場合と、裁判官の裁量に基づく場合がある。",
-  "japaneseWordTranslation": "減軽 (げんけい)",
-  "legalContext": "Penal Code Art. 68: “If there are circumstances warranting consideration, the court may mitigate the penalty.”",
-  "japaneseLegalContext": "刑法第68条：「酌量すべき情状があるときは、その刑を減軽することができる。」",
-  "exampleSentence": "Based on the defendant's immediate confession and cooperation with the investigation, the court applied Mitigation of Penalty.",
-  "exampleTranslation": "被告人が直ちに自白し捜査に協力したことに基づき、裁判所は刑の減軽を適用した。",
+  "word": "Criminal Negligence",
+  "definition": "Failure to exercise the required standard of foresight and due care (duty of care), resulting in the commission of a crime, often applied in cases involving professional duties or vehicular accidents.",
+  "japaneseDefinition": "行為者が注意義務を怠り、結果の予見・回避を怠ったことにより、犯罪の結果を発生させてしまうこと。",
+  "japaneseWordTranslation": "過失 (かしつ)",
+  "legalContext": "Criminal Code Art. 38 (1) establishes the general requirement of intent (故意), implying that negligence is punishable only where specifically provided by law (e.g., crimes of negligence causing death or injury).",
+  "japaneseLegalContext": "刑法第38条第1項: 罪を犯す意思がない行為は、罰しない。ただし、法律に特に規定がある場合は、この限りでない。",
+  "exampleSentence": "The medical professional faced charges of criminal negligence resulting in death after failing to follow mandated surgical safety protocols.",
+  "exampleTranslation": "その医療専門家は、義務付けられた手術の安全手順に従わなかった後、業務上過失致死の罪に問われた。",
   "vocabularyList": [
     {
-      "word": "reduction of sentence",
-      "translation": "刑の減刑"
+      "word": "foresight",
+      "translation": "予見"
     },
     {
-      "word": "legally prescribed",
-      "translation": "法律で定められた"
+      "word": "due care",
+      "translation": "相当な注意義務"
     },
     {
-      "word": "legal grounds",
-      "translation": "法律上の理由"
+      "word": "commission of a crime",
+      "translation": "犯罪の実行"
     },
     {
-      "word": "extenuating circumstances",
-      "translation": "酌量すべき情状"
+      "word": "mandated safety protocols",
+      "translation": "義務付けられた安全手順"
     },
     {
-      "word": "confession",
-      "translation": "自白"
+      "word": "vehicular accidents",
+      "translation": "交通事故"
     },
     {
-      "word": "cooperation with the investigation",
-      "translation": "捜査への協力"
+      "word": "professional duties",
+      "translation": "業務上の義務"
     }
   ]
 }

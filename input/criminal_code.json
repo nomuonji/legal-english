@@ -2,44 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Mitigation of Penalty",
-    "definition": "The reduction of a legally prescribed sentence (penalty) below the minimum standard, usually due to the presence of specific legal grounds or compelling extenuating circumstances (judicial discretion).",
-    "japaneseDefinition": "法律で定められた刑罰の最低限度を超えて、刑の程度を軽くすること。法定の理由に基づく場合と、裁判官の裁量に基づく場合がある。",
-    "japaneseWordTranslation": "減軽 (げんけい)",
-    "legalContext": "Penal Code Art. 68: “If there are circumstances warranting consideration, the court may mitigate the penalty.”",
-    "japaneseLegalContext": "刑法第68条：「酌量すべき情状があるときは、その刑を減軽することができる。」",
-    "exampleSentence": "Based on the defendant's immediate confession and cooperation with the investigation, the court applied Mitigation of Penalty.",
-    "exampleTranslation": "被告人が直ちに自白し捜査に協力したことに基づき、裁判所は刑の減軽を適用した。",
-    "vocabularyList": [
-      {
-        "word": "reduction of sentence",
-        "translation": "刑の減刑"
-      },
-      {
-        "word": "legally prescribed",
-        "translation": "法律で定められた"
-      },
-      {
-        "word": "legal grounds",
-        "translation": "法律上の理由"
-      },
-      {
-        "word": "extenuating circumstances",
-        "translation": "酌量すべき情状"
-      },
-      {
-        "word": "confession",
-        "translation": "自白"
-      },
-      {
-        "word": "cooperation with the investigation",
-        "translation": "捜査への協力"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Criminal Negligence",
     "definition": "Failure to exercise the required standard of foresight and due care (duty of care), resulting in the commission of a crime, often applied in cases involving professional duties or vehicular accidents.",
     "japaneseDefinition": "行為者が注意義務を怠り、結果の予見・回避を怠ったことにより、犯罪の結果を発生させてしまうこと。",
@@ -23278,6 +23240,108 @@
       {
         "word": "Entrance",
         "translation": "入り口"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provocation",
+    "definition": "Behavior that stimulates a human being to react with anger or force.",
+    "japaneseDefinition": "ある人を怒らせたり、力を使わせたりするように刺激する振る舞い。",
+    "japaneseWordTranslation": "挑発 (ちょうはつ)",
+    "legalContext": "While not a formal excuse, such conduct often impacts the final measurement of a sanction.",
+    "japaneseLegalContext": "正式な免責事由ではないが、そのような挙動は最終的な量刑に影響を与えることが多い。",
+    "exampleSentence": "The outcome was milder because there was extreme provocation before the incident.",
+    "exampleTranslation": "出来事の前に極端な挑発があったため、結果はより軽くなった。",
+    "vocabularyList": [
+      {
+        "word": "Incite",
+        "translation": "けしかける"
+      },
+      {
+        "word": "Anger",
+        "translation": "怒り"
+      },
+      {
+        "word": "Milder",
+        "translation": "より軽い"
+      },
+      {
+        "word": "Incident",
+        "translation": "出来事"
+      },
+      {
+        "word": "Stimulates",
+        "translation": "刺激する"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Inmate",
+    "definition": "A human being who is kept inside a prison.",
+    "japaneseDefinition": "刑務所の中に収容されている人。",
+    "japaneseWordTranslation": "受刑者 (じゅけいしゃ)",
+    "legalContext": "Guidelines specify how to treat an inmate during their stay in a prison.",
+    "japaneseLegalContext": "刑務所での滞在期間中、受刑者をどのように扱うべきかについて指針が定められている。",
+    "exampleSentence": "The prison staff ensures that every inmate has food and water.",
+    "exampleTranslation": "刑務所の職員は、すべての受刑者に食べ物と水があることを確実にする。",
+    "vocabularyList": [
+      {
+        "word": "Prison",
+        "translation": "刑務所"
+      },
+      {
+        "word": "Staff",
+        "translation": "職員"
+      },
+      {
+        "word": "Ensure",
+        "translation": "確実にする"
+      },
+      {
+        "word": "Stay",
+        "translation": "滞在"
+      },
+      {
+        "word": "Treat",
+        "translation": "扱う"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Smuggling",
+    "definition": "Moving banned items across a border in a secret way.",
+    "japaneseDefinition": "禁止された品物を密かに国境を越えて移動させること。",
+    "japaneseWordTranslation": "密輸 (みつゆ)",
+    "legalContext": "Secretly moving goods across a border violates national safety rules.",
+    "japaneseLegalContext": "品物を密かに国境を越えて移動させることは、国家の安全規則に違反する。",
+    "exampleSentence": "Smuggling illegal drugs brings very heavy penalties.",
+    "exampleTranslation": "違法な薬物の密輸は、非常に重い罰則をもたらす。",
+    "vocabularyList": [
+      {
+        "word": "Border",
+        "translation": "国境"
+      },
+      {
+        "word": "Banned",
+        "translation": "禁止された"
+      },
+      {
+        "word": "Secret",
+        "translation": "秘密の"
+      },
+      {
+        "word": "Heavy",
+        "translation": "重い"
+      },
+      {
+        "word": "Goods",
+        "translation": "品物"
       }
     ]
   }

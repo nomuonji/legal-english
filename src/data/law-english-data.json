@@ -1,38 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Co-ownership",
-  "definition": "A form of property ownership where an object is owned by several persons in common, each owner having an undivided share (quota) in the entire object.",
-  "japaneseDefinition": "数人の者が一つの物を共同で所有する形態であり、各所有者がその物全体に対して不可分の持分（割合）を持つこと。",
-  "japaneseWordTranslation": "共有 (きょうゆう)",
-  "legalContext": "Civil Code Art. 249: Each co-owner may use the whole of the co-owned object in proportion to their share.",
-  "japaneseLegalContext": "民法第249条: 各共有者は、共有物の全部について、その持分に応じた使用をすることができる。",
-  "exampleSentence": "Due to incomplete succession procedures, the real property remained under *co-ownership* among the four surviving family members.",
-  "exampleTranslation": "相続手続きが未完了であったため、その不動産は存命する家族４人の間で共有の状態に留まった。",
+  "word": "Mitigation of Penalty",
+  "definition": "The reduction of a legally prescribed sentence (penalty) below the minimum standard, usually due to the presence of specific legal grounds or compelling extenuating circumstances (judicial discretion).",
+  "japaneseDefinition": "法律で定められた刑罰の最低限度を超えて、刑の程度を軽くすること。法定の理由に基づく場合と、裁判官の裁量に基づく場合がある。",
+  "japaneseWordTranslation": "減軽 (げんけい)",
+  "legalContext": "Penal Code Art. 68: “If there are circumstances warranting consideration, the court may mitigate the penalty.”",
+  "japaneseLegalContext": "刑法第68条：「酌量すべき情状があるときは、その刑を減軽することができる。」",
+  "exampleSentence": "Based on the defendant's immediate confession and cooperation with the investigation, the court applied Mitigation of Penalty.",
+  "exampleTranslation": "被告人が直ちに自白し捜査に協力したことに基づき、裁判所は刑の減軽を適用した。",
   "vocabularyList": [
     {
-      "word": "undivided share",
-      "translation": "不可分の持分"
+      "word": "reduction of sentence",
+      "translation": "刑の減刑"
     },
     {
-      "word": "quota",
-      "translation": "割合"
+      "word": "legally prescribed",
+      "translation": "法律で定められた"
     },
     {
-      "word": "in common",
-      "translation": "共同で"
+      "word": "legal grounds",
+      "translation": "法律上の理由"
     },
     {
-      "word": "succession procedures",
-      "translation": "相続手続き"
+      "word": "extenuating circumstances",
+      "translation": "酌量すべき情状"
     },
     {
-      "word": "real property",
-      "translation": "不動産"
+      "word": "confession",
+      "translation": "自白"
     },
     {
-      "word": "surviving family members",
-      "translation": "存命する家族"
+      "word": "cooperation with the investigation",
+      "translation": "捜査への協力"
     }
   ]
 }

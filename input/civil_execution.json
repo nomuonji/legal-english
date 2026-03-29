@@ -23734,5 +23734,107 @@
         "translation": "要件/必要条件"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for the Maintenance of the Property Status",
+    "definition": "A court order issued to prevent a debtor or a third party from performing acts that would change the physical condition or reduce the value of a property subject to execution, ensuring its value is preserved for auction.",
+    "japaneseDefinition": "執行目的物の物理的な状態を変更したり、価値を減少させたりする行為を禁止し、競売に向けた価値の保存を目的として裁判所が出す命令。",
+    "japaneseWordTranslation": "不動産等の現状維持命令 (ふどうさんとうのげんじょういじめいれい)",
+    "legalContext": "Civil Execution Act Art. 55: The court, upon petition by the obligee, may issue an order to prohibit acts that change the status of the property...",
+    "japaneseLegalContext": "民事執行法55条：裁判所は、差押債権者の申立てにより、不動産の現状を変更する行為を禁止し、又は一定の行為をすることを命ずることができる...",
+    "exampleSentence": "The court issued an order for the maintenance of the property status to prevent the debtor from demolishing the annex before the sale.",
+    "exampleTranslation": "裁判所は、売却前に債務者が附属建物を解体することを防ぐため、不動産の現状維持命令を発した。",
+    "vocabularyList": [
+      {
+        "word": "subject to execution",
+        "translation": "執行の対象となる"
+      },
+      {
+        "word": "deterioration",
+        "translation": "悪化、劣化"
+      },
+      {
+        "word": "demolish",
+        "translation": "取り壊す"
+      },
+      {
+        "word": "physical condition",
+        "translation": "物理的状態"
+      },
+      {
+        "word": "annex",
+        "translation": "附属建物"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Commission for the Recordation of Title Transfer",
+    "definition": "The formal request made by the execution court to the registry office to register the transfer of ownership to the successful purchaser and to delete any existing encumbrances upon payment of the purchase price.",
+    "japaneseDefinition": "買受人が代金を納付した際、執行裁判所が登記所に対し、所有権の移転登記および既存の負担の抹消を正式に依頼すること。",
+    "japaneseWordTranslation": "権利移転等の登記の嘱託 (けんりいてんとうのとうきのしょくたく)",
+    "legalContext": "Civil Execution Act Art. 82: When the purchase price has been paid, the court clerk shall commission the registration of the transfer of the right...",
+    "japaneseLegalContext": "民事執行法82条：代金の納付があったときは、裁判所書記官は、権利の移転の登記を嘱託しなければならない...",
+    "exampleSentence": "Following the payment of the auction price, the court clerk processed the commission for the recordation of title transfer.",
+    "exampleTranslation": "競売代金の納付後、裁判所書記官は権利移転の登記の嘱託の手続きを行った。",
+    "vocabularyList": [
+      {
+        "word": "registry office",
+        "translation": "登記所"
+      },
+      {
+        "word": "successful purchaser",
+        "translation": "買受人"
+      },
+      {
+        "word": "encumbrance",
+        "translation": "（ここでは）登記上の負担"
+      },
+      {
+        "word": "court clerk",
+        "translation": "裁判所書記官"
+      },
+      {
+        "word": "recordation",
+        "translation": "登記、記録"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Challenge to the Order of Priority",
+    "definition": "An objection raised by a creditor or the debtor against the ranking or amount assigned to a specific claim in the distribution list during the proceeds realization phase.",
+    "japaneseDefinition": "配当手続きにおいて、債権者または債務者が、特定の債権の配当順位や金額に対して申し立てる異議。",
+    "japaneseWordTranslation": "配当順位等に関する異議 (はいとうじゅんいとうにかんするいぎ)",
+    "legalContext": "Civil Execution Act Art. 89: An obligee or the obligor who has an objection to the distribution list may state such objection on the date of distribution.",
+    "japaneseLegalContext": "民事執行法89条：配当表に記載された配当額または配当順位に不服がある債権者または債務者は、配当期日において異議を申し立てることができる。",
+    "exampleSentence": "The junior creditor filed a challenge to the order of priority, arguing that the senior claim had already been partially satisfied.",
+    "exampleTranslation": "後順位債権者は、先順位債権が既に一部弁済されていると主張し、配当順位に関する異議を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "ranking",
+        "translation": "順位付け"
+      },
+      {
+        "word": "distribution list",
+        "translation": "配当表"
+      },
+      {
+        "word": "proceeds",
+        "translation": "売却代金、収益"
+      },
+      {
+        "word": "junior creditor",
+        "translation": "後順位債権者"
+      },
+      {
+        "word": "senior claim",
+        "translation": "先順位債権"
+      }
+    ]
   }
 ]

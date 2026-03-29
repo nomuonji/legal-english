@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Solidary Obligation",
-    "definition": "An obligation where the performance, due to its nature (indivisibility) or the parties' intent, requires each obligor to perform the entire duty, but once performed by one, the others are discharged.",
-    "japaneseDefinition": "債務の目的がその性質上または当事者の意思によって分割できない場合に、各債務者が債務の全部を履行しなければならない義務。ただし、一人の債務者が履行すれば他の債務者は債務を免れる。",
-    "japaneseWordTranslation": "不可分債務 (ふかぶんさいむ)",
-    "legalContext": "Civil Code Art. 430: If there are multiple obligors regarding an indivisible obligation, the provisions concerning joint and several obligations shall apply mutatis mutandis.",
-    "japaneseLegalContext": "民法第430条：不可分債務の債務者が数人ある場合については、第432条から第440条までの規定を準用する。",
-    "exampleSentence": "The three co-owners faced a solidary obligation to deliver the single, priceless antique vase to the buyer.",
-    "exampleTranslation": "3人の共有者は、その唯一の非常に貴重な骨董品の花瓶を買主に引き渡すという不可分債務を負った。",
-    "vocabularyList": [
-      {
-        "word": "obligor",
-        "translation": "債務者"
-      },
-      {
-        "word": "performance",
-        "translation": "履行"
-      },
-      {
-        "word": "discharged",
-        "translation": "免れる"
-      },
-      {
-        "word": "indivisible",
-        "translation": "不可分な"
-      },
-      {
-        "word": "co-owners",
-        "translation": "共有者"
-      },
-      {
-        "word": "antique vase",
-        "translation": "骨董品の花瓶"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Statutory Security Interest",
     "definition": "A proprietary right (real right) established by operation of law to secure a claim, independent of any prior contractual agreement between the parties, such as specific types of liens or legal mortgages.",
     "japaneseDefinition": "当事者間の契約に基づかず、法律の規定によって当然に発生する債権を担保するための物権（例：法定留置権や法定抵当権）。",
@@ -28862,6 +28824,108 @@
       {
         "word": "Typical",
         "translation": "典型的な"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Refusal of an Offer",
+    "definition": "A manifestation of intent by the offeree to the offeror indicating that they do not accept the offer, which results in the offer losing its effectiveness.",
+    "japaneseDefinition": "承諾者（申込者ではない方）が、契約の申し込みを受け入れない意思を表示すること。これにより、申し込みはその効力を失う。",
+    "japaneseWordTranslation": "申込みの拒絶 (もうしこみのきょぜつ)",
+    "legalContext": "Civil Code Art. 521: An offer to conclude a contract shall lose its effect if it is refused by the offeree.",
+    "japaneseLegalContext": "民法第521条：契約の申込みは、相手方がこれを拒絶したときは、その効力を失う。",
+    "exampleSentence": "The offer for the sale of the land was terminated upon the buyer's express refusal of an offer.",
+    "exampleTranslation": "買主が明示的に申込みを拒絶したことにより、その土地の売買の申込みは失効した。",
+    "vocabularyList": [
+      {
+        "word": "Offeree",
+        "translation": "被申込者（承諾者）"
+      },
+      {
+        "word": "Offeror",
+        "translation": "申込者"
+      },
+      {
+        "word": "Manifestation of intent",
+        "translation": "意思表示"
+      },
+      {
+        "word": "Lose its effect",
+        "translation": "効力を失う"
+      },
+      {
+        "word": "Terminate",
+        "translation": "終了する（効力を失わせる）"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Presumption of Fault",
+    "definition": "The legal principle under Article 415 where, in a claim for damages due to non-performance, the obligor is presumed to be at fault unless they can prove that the failure was not due to reasons attributable to them.",
+    "japaneseDefinition": "債務不履行に基づく損害賠償請求において、債務者が自らに帰責事由がないことを証明しない限り、債務者に過失があったと推定される法理。",
+    "japaneseWordTranslation": "過失の推定 (かしつのすいてい)",
+    "legalContext": "Civil Code Art. 415: An obligee may claim damages... provided, however, that this shall not apply if the failure to perform the obligation is not attributable to the obligor's grounds.",
+    "japaneseLegalContext": "民法第415条：債務者がその債務の本旨に従った履行をしないとき（中略）債権者は、これによって生じた損害の賠償を請求することができる。ただし、その債務の不履行が（中略）債務者の責めに帰することができない事由によるものであるときは、この限りでない。",
+    "exampleSentence": "Because of the presumption of fault in contract law, the defendant must prove the lack of negligence to avoid liability.",
+    "exampleTranslation": "契約法における過失の推定があるため、被告は責任を免れるために過失がなかったことを証明しなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Obligee",
+        "translation": "債権者"
+      },
+      {
+        "word": "Obligor",
+        "translation": "債務者"
+      },
+      {
+        "word": "Attributable to",
+        "translation": "〜に帰せられる（帰責する）"
+      },
+      {
+        "word": "Provide",
+        "translation": "規定する（但し書きを設ける）"
+      },
+      {
+        "word": "Avoid liability",
+        "translation": "責任を免れる"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Manifestation of Intent to Enjoy Benefits",
+    "definition": "The act by which a third party expresses their intention to accept the benefits of a contract made for their benefit, thereby causing their rights to be finalized.",
+    "japaneseDefinition": "第三者のためにする契約において、第三者がその利益を享受する意思を表示すること。これにより、第三者の権利が確定する。",
+    "japaneseWordTranslation": "受益の意思表示 (じゅえきのいしひょうじ)",
+    "legalContext": "Civil Code Art. 537, Para. 2: The right of the third party... shall arise when the third party manifests an intent to enjoy the benefit of the contract to the obligor.",
+    "japaneseLegalContext": "民法第537条2項：第三者の権利は、その第三者が債務者に対して契約の利益を享受する意思を表示した時に発生する。",
+    "exampleSentence": "The third party's right to receive the life insurance payout was established upon their manifestation of intent to enjoy benefits.",
+    "exampleTranslation": "生命保険金を受け取る第三者の権利は、受益の意思表示を行った時点で確定した。",
+    "vocabularyList": [
+      {
+        "word": "Third party",
+        "translation": "第三者"
+      },
+      {
+        "word": "Arise",
+        "translation": "（権利が）発生する"
+      },
+      {
+        "word": "Enjoy the benefit",
+        "translation": "利益を享受する"
+      },
+      {
+        "word": "Finalized",
+        "translation": "確定した"
+      },
+      {
+        "word": "Payout",
+        "translation": "支払い（保険金など）"
       }
     ]
   }

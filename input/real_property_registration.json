@@ -19123,5 +19123,119 @@
         "translation": "取得する"
       }
     ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sequential Continuity of Notations",
+    "definition": "The requirement that every update in the public log must follow a logical and unbroken chain from the previous interest holder to the current one.",
+    "japaneseDefinition": "登記簿上、現在の権利者が前の権利者から正当に権利を引き継いでいることを、一連の記載のつながりによって証明しなければならないという原則。",
+    "japaneseWordTranslation": "登記の連続性 (とうきのれんぞくせい)",
+    "legalContext": "Real Property Recordation Act, Article 25, Item 7: A filing shall be denied if the information regarding the person granting the interest does not match the existing entries in the log.",
+    "japaneseLegalContext": "不動産登記法第25条第7号：登記義務者の表示が登記簿と一致しないときは、その申請は却下される。",
+    "exampleSentence": "The Sequential Continuity of Notations ensures that the history of the asset remains verifiable and reliable for the public.",
+    "exampleTranslation": "登記の連続性により、資産の履歴が公衆にとって検証可能で信頼できるものとなることが保証される。",
+    "vocabularyList": [
+      {
+        "word": "Sequential",
+        "translation": "順次の"
+      },
+      {
+        "word": "Continuity",
+        "translation": "連続性"
+      },
+      {
+        "word": "Notations",
+        "translation": "記載事項"
+      },
+      {
+        "word": "Log",
+        "translation": "記録"
+      },
+      {
+        "word": "Unbroken",
+        "translation": "途切れない"
+      },
+      {
+        "word": "Verifiable",
+        "translation": "検証可能な"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Authority to Scrutinize Paperwork",
+    "definition": "The limited scope of power held by a bureau official to verify that a filing satisfies all formal and procedural requirements without investigating the substantive validity of the underlying agreement.",
+    "japaneseDefinition": "提出された書類が形式的な要件を満たしているかを判断する権限であり、契約の有効性などの実体的な法律関係まで調査する権限はないこと。",
+    "japaneseWordTranslation": "形式的審査権 (けいしきてきしんさけん)",
+    "legalContext": "Real Property Recordation Act, Article 25: The official must check for the presence of required documents but generally cannot investigate if the underlying transaction was truly intended by the parties.",
+    "japaneseLegalContext": "不動産登記法第25条：登記官は申請が方式に適合しているかを審査するが、原則として実体的な権利関係の存否までを調査する権限は有しない。",
+    "exampleSentence": "Due to the official's limited Authority to Scrutinize Paperwork, they cannot deny a filing based solely on a suspicion of private fraud.",
+    "exampleTranslation": "係官の権限は形式的審査権に限定されているため、私的な詐欺の疑いがあるという理由だけで申請を拒否することはできない。",
+    "vocabularyList": [
+      {
+        "word": "Scrutinize",
+        "translation": "精査する"
+      },
+      {
+        "word": "Paperwork",
+        "translation": "書類"
+      },
+      {
+        "word": "Substantive",
+        "translation": "実体的な"
+      },
+      {
+        "word": "Scope",
+        "translation": "範囲"
+      },
+      {
+        "word": "Bureau",
+        "translation": "局"
+      },
+      {
+        "word": "Suspect",
+        "translation": "疑う"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Two-Party Presentation Rule",
+    "definition": "The procedural standard requiring both the party whose interest is increased and the party whose interest is diminished to file the data together to ensure accuracy.",
+    "japaneseDefinition": "登記によって利益を得る者と、不利益を被る者が共同して申請を行わなければならないという手続上の原則。",
+    "japaneseWordTranslation": "共同申請の原則 (きょうどうしんせいのげんそく)",
+    "legalContext": "Real Property Recordation Act, Article 60: Unless otherwise provided by law, the filing shall be made by both the person entitled to the entry and the person who would lose a position because of it.",
+    "japaneseLegalContext": "不動産登記法第60条：登記の申請は、法令に別段の定めがある場合を除き、登記権利者及び登記義務者が共同してしなければならない。",
+    "exampleSentence": "The Two-Party Presentation Rule prevents one individual from secretly altering the public records without the consent of the current interest holder.",
+    "exampleTranslation": "二当事者による共同申請の原則により、現在の利害関係者の同意なしに、個人が密かに公的記録を変更することを防いでいる。",
+    "vocabularyList": [
+      {
+        "word": "Dual-Party",
+        "translation": "二当事者間の"
+      },
+      {
+        "word": "Presentation",
+        "translation": "提示・提出"
+      },
+      {
+        "word": "Diminished",
+        "translation": "減少した"
+      },
+      {
+        "word": "Accuracy",
+        "translation": "正確性"
+      },
+      {
+        "word": "Consent",
+        "translation": "同意"
+      },
+      {
+        "word": "Altering",
+        "translation": "変更する"
+      }
+    ]
   }
 ]

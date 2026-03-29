@@ -1,38 +1,38 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Civil Code (民法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Criminal Negligence",
-  "definition": "Failure to exercise the required standard of foresight and due care (duty of care), resulting in the commission of a crime, often applied in cases involving professional duties or vehicular accidents.",
-  "japaneseDefinition": "行為者が注意義務を怠り、結果の予見・回避を怠ったことにより、犯罪の結果を発生させてしまうこと。",
-  "japaneseWordTranslation": "過失 (かしつ)",
-  "legalContext": "Criminal Code Art. 38 (1) establishes the general requirement of intent (故意), implying that negligence is punishable only where specifically provided by law (e.g., crimes of negligence causing death or injury).",
-  "japaneseLegalContext": "刑法第38条第1項: 罪を犯す意思がない行為は、罰しない。ただし、法律に特に規定がある場合は、この限りでない。",
-  "exampleSentence": "The medical professional faced charges of criminal negligence resulting in death after failing to follow mandated surgical safety protocols.",
-  "exampleTranslation": "その医療専門家は、義務付けられた手術の安全手順に従わなかった後、業務上過失致死の罪に問われた。",
+  "word": "Solidary Obligation",
+  "definition": "An obligation where the performance, due to its nature (indivisibility) or the parties' intent, requires each obligor to perform the entire duty, but once performed by one, the others are discharged.",
+  "japaneseDefinition": "債務の目的がその性質上または当事者の意思によって分割できない場合に、各債務者が債務の全部を履行しなければならない義務。ただし、一人の債務者が履行すれば他の債務者は債務を免れる。",
+  "japaneseWordTranslation": "不可分債務 (ふかぶんさいむ)",
+  "legalContext": "Civil Code Art. 430: If there are multiple obligors regarding an indivisible obligation, the provisions concerning joint and several obligations shall apply mutatis mutandis.",
+  "japaneseLegalContext": "民法第430条：不可分債務の債務者が数人ある場合については、第432条から第440条までの規定を準用する。",
+  "exampleSentence": "The three co-owners faced a solidary obligation to deliver the single, priceless antique vase to the buyer.",
+  "exampleTranslation": "3人の共有者は、その唯一の非常に貴重な骨董品の花瓶を買主に引き渡すという不可分債務を負った。",
   "vocabularyList": [
     {
-      "word": "foresight",
-      "translation": "予見"
+      "word": "obligor",
+      "translation": "債務者"
     },
     {
-      "word": "due care",
-      "translation": "相当な注意義務"
+      "word": "performance",
+      "translation": "履行"
     },
     {
-      "word": "commission of a crime",
-      "translation": "犯罪の実行"
+      "word": "discharged",
+      "translation": "免れる"
     },
     {
-      "word": "mandated safety protocols",
-      "translation": "義務付けられた安全手順"
+      "word": "indivisible",
+      "translation": "不可分な"
     },
     {
-      "word": "vehicular accidents",
-      "translation": "交通事故"
+      "word": "co-owners",
+      "translation": "共有者"
     },
     {
-      "word": "professional duties",
-      "translation": "業務上の義務"
+      "word": "antique vase",
+      "translation": "骨董品の花瓶"
     }
   ]
 }

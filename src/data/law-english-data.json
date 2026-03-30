@@ -1,38 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Solidary Obligation",
-  "definition": "An obligation where the performance, due to its nature (indivisibility) or the parties' intent, requires each obligor to perform the entire duty, but once performed by one, the others are discharged.",
-  "japaneseDefinition": "債務の目的がその性質上または当事者の意思によって分割できない場合に、各債務者が債務の全部を履行しなければならない義務。ただし、一人の債務者が履行すれば他の債務者は債務を免れる。",
-  "japaneseWordTranslation": "不可分債務 (ふかぶんさいむ)",
-  "legalContext": "Civil Code Art. 430: If there are multiple obligors regarding an indivisible obligation, the provisions concerning joint and several obligations shall apply mutatis mutandis.",
-  "japaneseLegalContext": "民法第430条：不可分債務の債務者が数人ある場合については、第432条から第440条までの規定を準用する。",
-  "exampleSentence": "The three co-owners faced a solidary obligation to deliver the single, priceless antique vase to the buyer.",
-  "exampleTranslation": "3人の共有者は、その唯一の非常に貴重な骨董品の花瓶を買主に引き渡すという不可分債務を負った。",
+  "word": "Execution Officer",
+  "definition": "A public official charged with carrying out specific enforcement procedures, particularly the physical acts related to the seizure and auction of movable property, the delivery of property, and substitute execution, under the supervision of the execution court.",
+  "japaneseDefinition": "執行裁判所の指揮監督の下に、特に動産の差押えや不動産・動産の引渡し、代替執行など、強制執行の手続に関する行為を行う国家公務員。",
+  "japaneseWordTranslation": "執行官 (しっこうかん)",
+  "legalContext": "Civil Execution Act, Chapter 2, Section 2 (Execution by Execution Officer)",
+  "japaneseLegalContext": "民事執行法 第2章 第2節 (執行官による執行)",
+  "exampleSentence": "The Execution Officer posted the seizure notice on the premises after confirming the location of the assets subject to execution.",
+  "exampleTranslation": "執行官は、執行の対象となる財産の所在地を確認した後、当該物件に差押えの告知書を掲示した。",
   "vocabularyList": [
     {
-      "word": "obligor",
-      "translation": "債務者"
+      "word": "public official",
+      "translation": "国家公務員"
     },
     {
-      "word": "performance",
-      "translation": "履行"
+      "word": "supervision",
+      "translation": "指揮監督"
     },
     {
-      "word": "discharged",
-      "translation": "免れる"
+      "word": "seizure notice",
+      "translation": "差押えの告知書"
     },
     {
-      "word": "indivisible",
-      "translation": "不可分な"
+      "word": "premises",
+      "translation": "敷地／物件"
     },
     {
-      "word": "co-owners",
-      "translation": "共有者"
+      "word": "subject to execution",
+      "translation": "執行の対象となる"
     },
     {
-      "word": "antique vase",
-      "translation": "骨董品の花瓶"
+      "word": "movable property",
+      "translation": "動産"
     }
   ]
 }

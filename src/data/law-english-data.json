@@ -1,38 +1,34 @@
 {
-  "category": "Real Property Registration (不動産登記法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Certificate of Cause of Registration",
-  "definition": "A document or electronic record submitted to the Registry Office to prove the legal basis (the cause) for the creation, transfer, modification, or extinction of a registered real property right.",
-  "japaneseDefinition": "登記の原因となった事実又は行為（売買、贈与、設定契約等）を証明するために申請書に添付する情報。",
-  "japaneseWordTranslation": "登記原因証明情報 (とうきげんいんしょうめいじょうほう)",
-  "legalContext": "Real Property Registration Act Art. 61: An application for registration shall be accompanied by a certificate of the cause of registration.",
-  "japaneseLegalContext": "不動産登記法第61条：登記を申請するときは、申請情報と併せて登記原因証明情報を提供しなければならない。",
-  "exampleSentence": "The Certificate of Cause of Registration for a sale of land is typically the sales agreement or the judicial scrivener’s deed preparation confirming the transaction.",
-  "exampleTranslation": "土地の売買に関する登記原因証明情報は、通常、売買契約書または司法書士が作成した取引を確認する書面である。",
+  "word": "Non Ultra Petita Rule",
+  "definition": "The fundamental procedural principle (derived from the Principle of Demanded Relief) that restricts a court from rendering a judgment that grants relief exceeding or fundamentally different from what was specifically sought by the plaintiff.",
+  "japaneseDefinition": "裁判所は当事者によって申し立てられた範囲を超えて判決を下すことができないとする原則。訴訟物の同一性を超える判決の禁止を意味する。",
+  "japaneseWordTranslation": "不告不理の原則 (ふこくふりのげんそく)",
+  "legalContext": "CPL Article 246 (Scope of Judgment): 'A court shall render judgment only with respect to the claim requested by the parties.' This article embodies the Non Ultra Petita Rule and the Principle of Demanded Relief.",
+  "japaneseLegalContext": "民事訴訟法第246条（判決の範囲）：『裁判所は、当事者が申し立てた事項についてのみ判決をすることができる。』",
+  "exampleSentence": "Under the Non Ultra Petita Rule, the trial court could not grant specific performance when the plaintiff had only prayed for monetary damages.",
+  "exampleTranslation": "不告不理の原則に基づき、原告が金銭的損害賠償のみを求めていた場合、裁判所は特定履行を命じることはできなかった。",
   "vocabularyList": [
     {
-      "word": "Registry Office",
-      "translation": "登記所"
+      "word": "specific performance",
+      "translation": "特定履行"
     },
     {
-      "word": "legal basis",
-      "translation": "法的根拠"
+      "word": "monetary damages",
+      "translation": "金銭的損害賠償"
     },
     {
-      "word": "sales agreement",
-      "translation": "売買契約書"
+      "word": "plaintiff",
+      "translation": "原告"
     },
     {
-      "word": "extinction of a right",
-      "translation": "権利の消滅"
+      "word": "trial court",
+      "translation": "第一審裁判所"
     },
     {
-      "word": "deed preparation",
-      "translation": "書面作成"
-    },
-    {
-      "word": "application information",
-      "translation": "申請情報"
+      "word": "judgment",
+      "translation": "判決"
     }
   ]
 }

@@ -1,38 +1,38 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Real Property Registration (不動産登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Execution Officer",
-  "definition": "A public official charged with carrying out specific enforcement procedures, particularly the physical acts related to the seizure and auction of movable property, the delivery of property, and substitute execution, under the supervision of the execution court.",
-  "japaneseDefinition": "執行裁判所の指揮監督の下に、特に動産の差押えや不動産・動産の引渡し、代替執行など、強制執行の手続に関する行為を行う国家公務員。",
-  "japaneseWordTranslation": "執行官 (しっこうかん)",
-  "legalContext": "Civil Execution Act, Chapter 2, Section 2 (Execution by Execution Officer)",
-  "japaneseLegalContext": "民事執行法 第2章 第2節 (執行官による執行)",
-  "exampleSentence": "The Execution Officer posted the seizure notice on the premises after confirming the location of the assets subject to execution.",
-  "exampleTranslation": "執行官は、執行の対象となる財産の所在地を確認した後、当該物件に差押えの告知書を掲示した。",
+  "word": "Certificate of Cause of Registration",
+  "definition": "A document or electronic record submitted to the Registry Office to prove the legal basis (the cause) for the creation, transfer, modification, or extinction of a registered real property right.",
+  "japaneseDefinition": "登記の原因となった事実又は行為（売買、贈与、設定契約等）を証明するために申請書に添付する情報。",
+  "japaneseWordTranslation": "登記原因証明情報 (とうきげんいんしょうめいじょうほう)",
+  "legalContext": "Real Property Registration Act Art. 61: An application for registration shall be accompanied by a certificate of the cause of registration.",
+  "japaneseLegalContext": "不動産登記法第61条：登記を申請するときは、申請情報と併せて登記原因証明情報を提供しなければならない。",
+  "exampleSentence": "The Certificate of Cause of Registration for a sale of land is typically the sales agreement or the judicial scrivener’s deed preparation confirming the transaction.",
+  "exampleTranslation": "土地の売買に関する登記原因証明情報は、通常、売買契約書または司法書士が作成した取引を確認する書面である。",
   "vocabularyList": [
     {
-      "word": "public official",
-      "translation": "国家公務員"
+      "word": "Registry Office",
+      "translation": "登記所"
     },
     {
-      "word": "supervision",
-      "translation": "指揮監督"
+      "word": "legal basis",
+      "translation": "法的根拠"
     },
     {
-      "word": "seizure notice",
-      "translation": "差押えの告知書"
+      "word": "sales agreement",
+      "translation": "売買契約書"
     },
     {
-      "word": "premises",
-      "translation": "敷地／物件"
+      "word": "extinction of a right",
+      "translation": "権利の消滅"
     },
     {
-      "word": "subject to execution",
-      "translation": "執行の対象となる"
+      "word": "deed preparation",
+      "translation": "書面作成"
     },
     {
-      "word": "movable property",
-      "translation": "動産"
+      "word": "application information",
+      "translation": "申請情報"
     }
   ]
 }

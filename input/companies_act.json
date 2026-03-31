@@ -22540,5 +22540,107 @@
         "translation": "付与する"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action for Affirmation of the Non-existence of an Incorporation",
+    "definition": "A lawsuit seeking a judicial declaration that a company's incorporation never actually took place in reality, as opposed to an action to nullify a legally completed incorporation that has a defect.",
+    "japaneseDefinition": "会社の設立手続が実態として全く存在しないことの確認を求める訴え。設立無効の訴えとは異なり、そもそも設立行為自体が観念できない場合（例：登記のみが虚偽になされた場合）に提起される。",
+    "japaneseWordTranslation": "設立不存在確認の訴え (せつりつふそんざいかくにんのうったえ)",
+    "legalContext": "Companies Act Art. 828 (Analogous application/Legal Theory): While Art. 828 provides for the 'Action for Nullity of Incorporation,' the 'Action for Affirmation of Non-existence' is recognized by legal theory and case law for instances where the act of incorporation is completely absent.",
+    "japaneseLegalContext": "会社法第828条（類推適用・法理）：同条は「設立無効の訴え」を規定するが、設立行為が全く存在しない場合には、判例・学説上「設立不存在確認の訴え」が認められる。",
+    "exampleSentence": "The plaintiff filed an action for affirmation of the non-existence of an incorporation, asserting that the registration was made based on forged documents without any actual meeting of promoters.",
+    "exampleTranslation": "原告は、発起人の合意が全くなく、偽造書類に基づいて登記がなされたと主張して、設立不存在確認の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "Plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "Affirmation",
+        "translation": "確認"
+      },
+      {
+        "word": "Non-existence",
+        "translation": "不存在"
+      },
+      {
+        "word": "Assert",
+        "translation": "主張する"
+      },
+      {
+        "word": "Forged documents",
+        "translation": "偽造書類"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Action to Affirm the Nullity of a Board of Directors Resolution",
+    "definition": "A lawsuit based on general principles of civil law seeking to confirm that a resolution passed by the board of directors is void due to severe procedural defects or violations of laws or the articles of incorporation.",
+    "japaneseDefinition": "取締役会の決議の内容が法令若しくは定款に違反する場合、または決議手続に重大な瑕疵がある場合に、その決議が無効であることを確認する訴え。",
+    "japaneseWordTranslation": "取締役会決議無効確認の訴え (とりしまりやくかいけつぎむこうかくにんのうったえ)",
+    "legalContext": "General Civil Law Principles: Unlike shareholder resolutions, the Companies Act does not explicitly provide a specific 'Action to Nullify' board resolutions; instead, these are contested under general principles for affirming the invalidity of a legal act.",
+    "japaneseLegalContext": "民法の一般原則：株主総会決議とは異なり、会社法には取締役会決議の「無効の訴え」に関する明文規定はないが、一般的な法律行為の無効確認の訴えとして解釈上認められる。",
+    "exampleSentence": "Since the board meeting was held without notice to half of the directors, the minority shareholder brought an action to affirm the nullity of the board of directors resolution regarding the stock issuance.",
+    "exampleTranslation": "取締役の半数に対して招集通知が送られずに取締役会が開催されたため、少数株主は当該株式発行に関する取締役会決議の無効確認の訴えを提起した。",
+    "vocabularyList": [
+      {
+        "word": "Resolution",
+        "translation": "決議"
+      },
+      {
+        "word": "Void",
+        "translation": "無効な"
+      },
+      {
+        "word": "Procedural defect",
+        "translation": "手続上の瑕疵"
+      },
+      {
+        "word": "Minority shareholder",
+        "translation": "少数株主"
+      },
+      {
+        "word": "Stock issuance",
+        "translation": "株式発行"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibition of the Abuse of Voting Rights",
+    "definition": "A legal principle that prevents a shareholder from exercising their voting rights in a manner that is extremely unfair or intended solely to harm the company or other shareholders, which may lead to the rescission of a resulting resolution.",
+    "japaneseDefinition": "株主が、自己または第三者の不当な利益を図る目的で、あるいは会社や他の株主に損害を与える目的で議決権を行使することを禁じる法理。決議が著しく不当な結果をもたらす場合、決議取消事由となる（会社法831条1項3号参照）。",
+    "japaneseWordTranslation": "議決権の濫用の禁止 (ぎけつけんのらんようのきんし)",
+    "legalContext": "Companies Act Art. 831, para. (1), item (iii): A resolution may be rescinded if a shareholder with a special interest exercises a voting right and the resolution is 'extremely inappropriate.'",
+    "japaneseLegalContext": "会社法第831条1項3号：特別の利害関係を有する者が議決権を行使したことによって、「著しく不当な決議」がなされた場合に、決議を取り消すことができる。",
+    "exampleSentence": "The court found that the majority shareholder's vote constituted an abuse of voting rights because the resolution to sell company assets was intended to benefit the shareholder's private business at the expense of the company.",
+    "exampleTranslation": "会社資産を売却する決議は、会社を犠牲にして株主個人の事業に利益を与えることを目的としていたため、裁判所は過半数株主による議決権の行使を議決権の濫用にあたると判断した。",
+    "vocabularyList": [
+      {
+        "word": "Abuse",
+        "translation": "濫用"
+      },
+      {
+        "word": "Voting rights",
+        "translation": "議決権"
+      },
+      {
+        "word": "Majority shareholder",
+        "translation": "過半数株主（支配株主）"
+      },
+      {
+        "word": "At the expense of",
+        "translation": "〜を犠牲にして"
+      },
+      {
+        "word": "Inappropriate",
+        "translation": "不当な"
+      }
+    ]
   }
 ]

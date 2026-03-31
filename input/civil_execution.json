@@ -23798,5 +23798,107 @@
         "translation": "先順位債権"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mandate for the Attendance of a Household Member",
+    "definition": "An order issued by an execution officer requiring a member of the debtor's household or an employee to be present during the execution process if the debtor is absent.",
+    "japaneseDefinition": "債務者が不在の際に、執行官が執行手続きを行うにあたって、債務者の親族（同居の親族等）や使用人を立ち会わせることを指す命令。",
+    "japaneseWordTranslation": "同居の親族等の立会い命令 (どうきょのしんぞくとうのたちあいめいれい)",
+    "legalContext": "Civil Execution Act Art. 6, Para. 2: If the debtor is not at the place where the execution is to be performed, the execution officer shall have a member of the household who has attained the age of majority or an employee... be present.",
+    "japaneseLegalContext": "民事執行法第6条第2項：執行官は、人の住居に入って執行を行うにあたり、債務者に出会わないときは、その同居の親族（成年者に限る。）若しくは使用人……を立ち会わせなければならない。",
+    "exampleSentence": "The execution officer issued a mandate for the attendance of a household member to ensure the procedural integrity of the search when the debtor was found to be away.",
+    "exampleTranslation": "債務者の不在が判明したため、執行官は捜索の適正を確保するため、同居の親族の立会い命令を出した。",
+    "vocabularyList": [
+      {
+        "word": "Procedural integrity",
+        "translation": "手続きの適正"
+      },
+      {
+        "word": "Household member",
+        "translation": "同居人 / 家族"
+      },
+      {
+        "word": "Employee",
+        "translation": "使用人"
+      },
+      {
+        "word": "Present",
+        "translation": "立ち会う"
+      },
+      {
+        "word": "Aged of majority",
+        "translation": "成年者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Inquiry into the Value of a Membership Interest",
+    "definition": "A formal request by the execution court to a legal entity to state the value and existence of a member's equity share for the purpose of executing against it.",
+    "japaneseDefinition": "会員権や持分等に対して執行を行う際、執行裁判所がその法人に対し、持分の有無やその評価額について陳述するよう求める手続き。",
+    "japaneseWordTranslation": "持分等の価額の陳述要請 (もちぶんとうのかがくのちんじゅつようせい)",
+    "legalContext": "Civil Execution Act Art. 167-12: The execution court may, when it deems it necessary, request a person who is the counterparty to a member's interest to state the existence and value of such interest.",
+    "japaneseLegalContext": "民事執行法第167条の12：執行裁判所は、必要があると認めるときは、持分等の義務者に対し、当該持分等の有無及び価額について陳述することを求めることができる。",
+    "exampleSentence": "The court initiated an inquiry into the value of a membership interest to determine the potential proceeds from the liquidation of the partner's share.",
+    "exampleTranslation": "裁判所は、共同事業者の持分の換価による見込み収益を特定するため、持分価額の陳述要請を開始した。",
+    "vocabularyList": [
+      {
+        "word": "Membership interest",
+        "translation": "持分 / 会員権"
+      },
+      {
+        "word": "Equity share",
+        "translation": "出資持分"
+      },
+      {
+        "word": "Counterparty",
+        "translation": "相手方 / 義務者"
+      },
+      {
+        "word": "Liquidation",
+        "translation": "換価 / 清算"
+      },
+      {
+        "word": "Potential proceeds",
+        "translation": "見込み収益"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Command for the Preservation of the Functional State",
+    "definition": "An instruction or order given during the execution process to ensure that machinery or vessels are maintained in a condition where they remain operational and do not lose value.",
+    "japaneseDefinition": "差押えられた機械や船舶などの目的物が、売却までの間にその機能を失ったり価値が低下したりしないよう、適切に稼働可能な状態を維持させるための指図。",
+    "japaneseWordTranslation": "作動状態の維持の指図 (さどうじょうたいのいじのさしず)",
+    "legalContext": "Civil Execution Act Art. 121 (mutatis mutandis for machinery): The execution officer may give necessary instructions for the preservation of the condition of the subject matter when it is deemed necessary for the sale.",
+    "japaneseLegalContext": "民事執行法第121条（建設機械等への準用）：執行官は、売却のために必要があると認めるときは、目的物の現状を維持するために必要な指図をすることができる。",
+    "exampleSentence": "A command for the preservation of the functional state was issued to the custodian to prevent the specialized printing press from seizing up during the months-long auction wait.",
+    "exampleTranslation": "数ヶ月に及ぶ競売の待機期間中に特殊印刷機が固着してしまわないよう、保管人に対して作動状態の維持の指図が出された。",
+    "vocabularyList": [
+      {
+        "word": "Operational",
+        "translation": "稼働可能な"
+      },
+      {
+        "word": "Functional state",
+        "translation": "作動状態"
+      },
+      {
+        "word": "Printing press",
+        "translation": "印刷機"
+      },
+      {
+        "word": "Seize up",
+        "translation": "（機械などが）固着する"
+      },
+      {
+        "word": "Instruction",
+        "translation": "指図 / 命令"
+      }
+    ]
   }
 ]

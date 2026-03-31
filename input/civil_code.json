@@ -29132,5 +29132,107 @@
         "translation": "義務の遂行"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Third-party Security Provider",
+    "definition": "A person who provides their own property as collateral (such as a mortgage or pledge) to secure the debt of another person, without being the primary debtor themselves.",
+    "japaneseDefinition": "他人の債務のために、自己の財産を担保（抵当権や質権など）に供した者。主債務者ではないが、担保物件の範囲内で責任を負う。",
+    "japaneseWordTranslation": "物上保証人 (ぶつじょうほしょうにん)",
+    "legalContext": "Civil Code Art. 351, 372: A third-party security provider who has performed the obligation or lost ownership of the mortgaged property has the right of reimbursement against the debtor.",
+    "japaneseLegalContext": "民法第351条、第372条：他人の債務を担保するために抵当権を設定した者が、その債務を弁済し、又は抵当権の実行によって抵当不動産の所有権を失ったときは、保証債務に関する規定に従い、債務者に対して求償権を有する。",
+    "exampleSentence": "The bank initiated foreclosure proceedings against the assets held by the third-party security provider after the principal debtor defaulted.",
+    "exampleTranslation": "主債務者が不履行に陥ったため、銀行は物上保証人が保有する資産に対して競売手続きを開始した。",
+    "vocabularyList": [
+      {
+        "word": "Collateral",
+        "translation": "担保"
+      },
+      {
+        "word": "Principal Debtor",
+        "translation": "主債務者"
+      },
+      {
+        "word": "Foreclosure",
+        "translation": "担保権の実行（競売）"
+      },
+      {
+        "word": "Real Security",
+        "translation": "物的担保"
+      },
+      {
+        "word": "Right of Reimbursement",
+        "translation": "求償権"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Indivisible Claim",
+    "definition": "A claim where the subject matter is indivisible by its nature or by the agreement of the parties, allowing any one of the creditors to demand fulfillment of the entire obligation.",
+    "japaneseDefinition": "債権の目的がその性質上、または当事者の意思表示によって不可分である債権。各債権者は全ての債権者のために履行を請求できる。",
+    "japaneseWordTranslation": "不可分債権 (ふかぶんさいけん)",
+    "legalContext": "Civil Code Art. 428: If the subject matter of a claim is indivisible by its nature or by the declaration of intent of the parties, and there are multiple creditors, each creditor may demand performance on behalf of all creditors.",
+    "japaneseLegalContext": "民法第428条：債権の目的がその性質上又は当事者の意思表示によって不可分である場合において、債権者が数人あるときは、各債権者は、全ての債権者のために履行を請求することができる。",
+    "exampleSentence": "Since the contract involved an indivisible claim, the obligor was required to deliver the entire piece of artwork to any one of the joint owners who requested it.",
+    "exampleTranslation": "その契約は不可分債権に関わるものであったため、債務者は、請求を行った共有者のいずれか一人に対して美術品全体を引き渡す必要があった。",
+    "vocabularyList": [
+      {
+        "word": "Subject matter",
+        "translation": "目的物"
+      },
+      {
+        "word": "Fulfillment",
+        "translation": "履行"
+      },
+      {
+        "word": "Co-creditor",
+        "translation": "共同債権者"
+      },
+      {
+        "word": "Nature",
+        "translation": "性質"
+      },
+      {
+        "word": "Joint owner",
+        "translation": "共有者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Partial Performance",
+    "definition": "The fulfillment of only a portion of the overall obligation owed under a contract or legal duty.",
+    "japaneseDefinition": "債務の全体のうち、一部のみを履行すること。債務者は原則として一部履行をする権利を持たないが、債権者が受領を拒否できない場合もある。",
+    "japaneseWordTranslation": "一部履行 (いちぶりこう)",
+    "legalContext": "Civil Code Art. 412: Generally, an obligor must perform the entire obligation; however, questions of partial performance often arise regarding whether a creditor may refuse it or if it prevents total default.",
+    "japaneseLegalContext": "民法第412条等：債務者は債務の全部を履行する義務を負うが、債権者が一部の受領を拒絶できるか、あるいは一部履行によって履行遅滞が回避されるかが問題となる。",
+    "exampleSentence": "The creditor accepted the partial performance as a temporary measure but maintained the right to demand the remaining balance immediately.",
+    "exampleTranslation": "債権者は一時的な措置として一部履行を受け入れたが、残金については直ちに請求する権利を保持した。",
+    "vocabularyList": [
+      {
+        "word": "Remaining balance",
+        "translation": "残額"
+      },
+      {
+        "word": "Temporary measure",
+        "translation": "一時的な措置"
+      },
+      {
+        "word": "Refuse",
+        "translation": "拒絶する"
+      },
+      {
+        "word": "Entirety",
+        "translation": "全部"
+      },
+      {
+        "word": "Fulfill",
+        "translation": "果たす（履行する）"
+      }
+    ]
   }
 ]

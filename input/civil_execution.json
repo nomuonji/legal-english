@@ -23900,5 +23900,119 @@
         "translation": "指図 / 命令"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Subjective Expansion of the Power of Execution",
+    "definition": "The legal principle by which a title of execution becomes enforceable against persons other than the parties named in the judgment, such as successors or parties for whom the named party acted as a representative.",
+    "japaneseDefinition": "債務名義の効力が、当事者以外の承継人や当事者のために目的物を所持する者などに対しても拡張され、執行が可能になること。",
+    "japaneseWordTranslation": "執行力の主観的拡張 (しっこうりょくのしゅかんてきかくちょう)",
+    "legalContext": "Civil Execution Act Art. 23: A title of execution may be enforced against or for the benefit of successors or persons in possession of the subject matter for a party.",
+    "japaneseLegalContext": "民事執行法第23条：強制執行は、債務名義に表示された当事者のほか、承継人や当事者のために目的物を所持する者に対しても行うことができる。",
+    "exampleSentence": "The subjective expansion of the power of execution allows the creditor to enforce the judgment against the heir of the deceased debtor.",
+    "exampleTranslation": "執行力の主観的拡張により、債権者は亡くなった債務者の相続人に対して判決を執行することができる。",
+    "vocabularyList": [
+      {
+        "word": "successor",
+        "translation": "承継人"
+      },
+      {
+        "word": "enforceable",
+        "translation": "執行可能な"
+      },
+      {
+        "word": "judgment",
+        "translation": "判決"
+      },
+      {
+        "word": "heir",
+        "translation": "相続人"
+      },
+      {
+        "word": "deceased",
+        "translation": "死亡した"
+      },
+      {
+        "word": "creditor",
+        "translation": "債権者"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Principle of Non-Inquiry into Substantive Rights",
+    "definition": "A procedural principle in civil execution where the execution court or officer examines only the formal requirements of the execution title and does not investigate the validity of the underlying substantive claim.",
+    "japaneseDefinition": "執行機関が執行の可否を判断する際、債務名義の形式的有効性のみを審査し、その基礎となる実体的な権利の存否については審理しないという原則。",
+    "japaneseWordTranslation": "実体権利の非審理原則 (じったいけんりのひしんりげんそく)",
+    "legalContext": "The execution court focuses on formal validity; substantive defenses must be raised through an action to object to the claim (Art. 35).",
+    "japaneseLegalContext": "執行機関の審査権は形式的なものに限られ、実体上の異議は請求異議の訴え（35条）によって解決される。",
+    "exampleSentence": "Under the principle of non-inquiry into substantive rights, the court cannot stop the execution simply because the debtor claims the debt was already paid.",
+    "exampleTranslation": "実体権利の非審理原則に基づき、債務者が債務は弁済済みだと主張しても、裁判所はそれだけで執行を止めることはできない。",
+    "vocabularyList": [
+      {
+        "word": "substantive",
+        "translation": "実体的な"
+      },
+      {
+        "word": "validity",
+        "translation": "妥当性・有効性"
+      },
+      {
+        "word": "underlying",
+        "translation": "基礎となる"
+      },
+      {
+        "word": "procedural",
+        "translation": "手続上の"
+      },
+      {
+        "word": "inquiry",
+        "translation": "審理・調査"
+      },
+      {
+        "word": "investigate",
+        "translation": "調査する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Authority to Use Force for Entry and Search",
+    "definition": "The legal power granted to an execution official to use necessary physical force, such as opening locks, to enter the debtor's premises and search for assets subject to execution.",
+    "japaneseDefinition": "債務者の住居などに立ち入り、差押え等のために必要な場合には、施錠を開放するなどの実力を行使することができる執行官の法的権限。",
+    "japaneseWordTranslation": "立入り及び開錠のための実力行使の権限 (たちいりおよびかいじょうのためのじつりょくこうしのけんげん)",
+    "legalContext": "Civil Execution Act Art. 6: An execution official may enter the place where the debtor resides and take necessary measures to search for property.",
+    "japaneseLegalContext": "民事執行法第6条：執行官は、債務者の住居等に立ち入り、必要があるときは、閉鎖した戸を開くため必要な処分をすることができる。",
+    "exampleSentence": "The official exercised his authority to use force to open the lock when the debtor refused to grant access to the warehouse.",
+    "exampleTranslation": "債務者が倉庫への立ち入りを拒んだため、執行官は開錠のために実力を行使する権限を行使した。",
+    "vocabularyList": [
+      {
+        "word": "premises",
+        "translation": "敷地・住居"
+      },
+      {
+        "word": "physical force",
+        "translation": "実力・物理的な力"
+      },
+      {
+        "word": "assets",
+        "translation": "資産"
+      },
+      {
+        "word": "warehouse",
+        "translation": "倉庫"
+      },
+      {
+        "word": "refused",
+        "translation": "拒否した"
+      },
+      {
+        "word": "official",
+        "translation": "（ここでは）執行官"
+      }
+    ]
   }
 ]

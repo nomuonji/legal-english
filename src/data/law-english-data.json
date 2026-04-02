@@ -1,34 +1,38 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Valuation of the Subject Matter of the Suit",
-  "definition": "The judicial process of calculating the monetary value of the claim asserted in a complaint. This valuation is critical for determining the proper court jurisdiction (e.g., Summary vs. District Court) and calculating the amount of court filing fees (judicial stamps).",
-  "japaneseDefinition": "訴訟において主張されている請求の金銭的価値を算定する手続き。裁判所の管轄（簡易裁判所か地方裁判所か）の決定および訴訟費用（印紙代）の算定のために不可欠である。",
-  "japaneseWordTranslation": "訴額算定 (そがくさんてい)",
-  "legalContext": "Rules regarding the valuation of the subject matter are defined by law to ensure proper jurisdiction, particularly concerning the Summary Court’s competency threshold (Court Organization Act Art. 33).",
-  "japaneseLegalContext": "裁判所法第33条等に基づき、簡易裁判所の管轄範囲（140万円以下）を決定するために訴額算定に関する規定が定められている。",
-  "exampleSentence": "Because the claim included future lost profits, the judge required a specialized assessment to perform the accurate **Valuation of the Subject Matter of the Suit** for jurisdictional purposes.",
-  "exampleTranslation": "その請求には将来の逸失利益が含まれていたため、裁判官は管轄権の目的のために正確な訴額算定を行うための専門的な評価を要求した。",
+  "word": "Substitute Execution",
+  "definition": "A method of non-monetary execution employed when the obligor fails to perform an action which is fungible (can be performed by a third party), allowing the obligee to have a third party perform the action and recover the cost from the obligor.",
+  "japaneseDefinition": "債務者が、第三者の行為によって代替可能な行為をすべき債務を履行しない場合に、債権者が裁判所の許可を得て第三者に行為をさせ、その費用を債務者から徴収する執行方法。",
+  "japaneseWordTranslation": "代替執行 (だいたいしっこう)",
+  "legalContext": "Civil Execution Act Art. 41(2): Where the obligor's obligation is to perform an act that is fungible, the court shall, upon motion by the obligee, order that a third party be caused to perform the act at the obligor's expense.",
+  "japaneseLegalContext": "民事執行法 第41条第2項: 債務者のなすべき行為が、性質上代替可能なものであるときは、裁判所は、債権者の申立てにより、その行為を債務者の費用で第三者にさせてよい旨の決定をしなければならない。",
+  "exampleSentence": "The court granted the motion for substitute execution, allowing the obligee to hire a demolition company to dismantle the illegally constructed wall at the obligor's expense.",
+  "exampleTranslation": "裁判所は代替執行の申立てを認め、債権者が債務者の費用で違法に建設された壁を解体するために解体業者を雇うことを許可した。",
   "vocabularyList": [
     {
-      "word": "monetary value",
-      "translation": "金銭的価値"
+      "word": "fungible",
+      "translation": "代替可能な"
     },
     {
-      "word": "court filing fees",
-      "translation": "裁判所手数料（印紙代）"
+      "word": "non-monetary execution",
+      "translation": "非金銭執行"
     },
     {
-      "word": "jurisdictional purposes",
-      "translation": "管轄権の目的"
+      "word": "obligee",
+      "translation": "債権者"
     },
     {
-      "word": "lost profits",
-      "translation": "逸失利益"
+      "word": "dismantle",
+      "translation": "解体する"
     },
     {
-      "word": "competency threshold",
-      "translation": "管轄権の境界"
+      "word": "recover the cost",
+      "translation": "費用を徴収する"
+    },
+    {
+      "word": "illegally constructed",
+      "translation": "違法に建設された"
     }
   ]
 }

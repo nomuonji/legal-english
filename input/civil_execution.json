@@ -2,44 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Substitute Execution",
-    "definition": "A method of non-monetary execution employed when the obligor fails to perform an action which is fungible (can be performed by a third party), allowing the obligee to have a third party perform the action and recover the cost from the obligor.",
-    "japaneseDefinition": "債務者が、第三者の行為によって代替可能な行為をすべき債務を履行しない場合に、債権者が裁判所の許可を得て第三者に行為をさせ、その費用を債務者から徴収する執行方法。",
-    "japaneseWordTranslation": "代替執行 (だいたいしっこう)",
-    "legalContext": "Civil Execution Act Art. 41(2): Where the obligor's obligation is to perform an act that is fungible, the court shall, upon motion by the obligee, order that a third party be caused to perform the act at the obligor's expense.",
-    "japaneseLegalContext": "民事執行法 第41条第2項: 債務者のなすべき行為が、性質上代替可能なものであるときは、裁判所は、債権者の申立てにより、その行為を債務者の費用で第三者にさせてよい旨の決定をしなければならない。",
-    "exampleSentence": "The court granted the motion for substitute execution, allowing the obligee to hire a demolition company to dismantle the illegally constructed wall at the obligor's expense.",
-    "exampleTranslation": "裁判所は代替執行の申立てを認め、債権者が債務者の費用で違法に建設された壁を解体するために解体業者を雇うことを許可した。",
-    "vocabularyList": [
-      {
-        "word": "fungible",
-        "translation": "代替可能な"
-      },
-      {
-        "word": "non-monetary execution",
-        "translation": "非金銭執行"
-      },
-      {
-        "word": "obligee",
-        "translation": "債権者"
-      },
-      {
-        "word": "dismantle",
-        "translation": "解体する"
-      },
-      {
-        "word": "recover the cost",
-        "translation": "費用を徴収する"
-      },
-      {
-        "word": "illegally constructed",
-        "translation": "違法に建設された"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Execution against Vessels",
     "definition": "A specialized category of execution targeting ships and other vessels. Because vessels possess characteristics similar to immovable property (requiring registration), their enforcement procedures differ significantly from those for general movable property, often involving securing the ship's port of presence.",
     "japaneseDefinition": "船舶を目的物とする専門的な執行手続。船舶は登記・登録を要するなど不動産に類似した性質を持つため、一般の動産執行とは異なる手続きが適用され、通常、船舶の所在地を管轄する裁判所が執行を取り扱う。",
@@ -24012,6 +23974,120 @@
       {
         "word": "official",
         "translation": "（ここでは）執行官"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Seizure of an Appearance Fee",
+    "definition": "A legal process where a judgment creditor attaches the money owed to a performer (such as an actor or speaker) by a third party (such as a production company) to satisfy a debt.",
+    "japaneseDefinition": "出演者（俳優や講師など）に対して支払われるべき出演料を、債権者が債務弁済のために差し押さえる法的記述。",
+    "japaneseWordTranslation": "出演料の差押え (しゅつえんりょうのさしおさえ)",
+    "legalContext": "Civil Execution Act Art. 143: A compulsory execution for a claim for the payment of money... shall be commenced by an order of seizure issued by the execution court.",
+    "japaneseLegalContext": "民事執行法143条：金銭の支払を目的とする債権についての強制執行は、執行裁判所の差押命令により開始する。",
+    "exampleSentence": "The court issued a ruling for the seizure of an appearance fee owed to the performer to satisfy the outstanding judgment.",
+    "exampleTranslation": "裁判所は、未払いの判決債務を充当するため、その出演者に支払われる予定の出演料の差押えを命じた。",
+    "vocabularyList": [
+      {
+        "word": "Fee",
+        "translation": "料金"
+      },
+      {
+        "word": "Recipient",
+        "translation": "受取人"
+      },
+      {
+        "word": "Sum",
+        "translation": "金額"
+      },
+      {
+        "word": "To pay",
+        "translation": "支払う"
+      },
+      {
+        "word": "Notice",
+        "translation": "通知"
+      },
+      {
+        "word": "To issue",
+        "translation": "発する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Execution against a Private Pier Usage Right",
+    "definition": "The enforcement of a judgment against a non-tangible property right, specifically the contractual or licensed right to use a private docking facility for vessels.",
+    "japaneseDefinition": "船舶の私用桟橋を利用する権利という無体財産権に対する、判決に基づいた強制執行手続。",
+    "japaneseWordTranslation": "私用桟橋利用権に対する執行 (しようさんばしりようけんに対するしっこう)",
+    "legalContext": "Civil Execution Act Art. 167: Compulsory execution against property rights other than those provided for in the preceding... shall be governed by the examples of compulsory execution against claims.",
+    "japaneseLegalContext": "民事執行法167条：前節に規定する財産権以外の財産権に対する強制執行については、債権に対する強制執行の例による。",
+    "exampleSentence": "The creditor filed for execution against a private pier usage right held by the shipping company as a valuable asset.",
+    "exampleTranslation": "債権者は、海運会社が保有する資産価値のある私用桟橋利用権に対して強制執行を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Pier",
+        "translation": "桟橋"
+      },
+      {
+        "word": "Usage",
+        "translation": "利用"
+      },
+      {
+        "word": "Asset",
+        "translation": "資産"
+      },
+      {
+        "word": "Transfer",
+        "translation": "移転"
+      },
+      {
+        "word": "Right",
+        "translation": "権利"
+      },
+      {
+        "word": "Vessel",
+        "translation": "船舶"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for the Seizure of an Honorarium",
+    "definition": "A court order directing that a voluntary payment for professional services, typically given to a guest speaker or consultant, be diverted to a creditor.",
+    "japaneseDefinition": "専門的なサービス（講演やコンサルタント業務など）に対して任意で支払われる謝礼金を、債権者に振り向けるよう命じる裁判所の命令。",
+    "japaneseWordTranslation": "謝礼金の差押命令 (しゃれいきんのさしおさえめいれい)",
+    "legalContext": "Civil Execution Act Art. 145: An order of seizure shall prohibit the debtor from receiving the claim and prohibit the third party debtor from making a payment to the debtor.",
+    "japaneseLegalContext": "民事執行法145条：差押命令は、債務者に対し債権の取立てその他の処分を禁止し、かつ、第三債務者に対し債務者への弁済を禁止しなければならない。",
+    "exampleSentence": "A formal order for the seizure of an honorarium was served to the university to intercept the payment intended for the lecturer.",
+    "exampleTranslation": "講師に支払われる予定の謝礼金を差し押さえるための正式な差押命令が、大学に対して送達された。",
+    "vocabularyList": [
+      {
+        "word": "Honorarium",
+        "translation": "謝礼金"
+      },
+      {
+        "word": "To prohibit",
+        "translation": "禁止する"
+      },
+      {
+        "word": "Money",
+        "translation": "金銭"
+      },
+      {
+        "word": "Request",
+        "translation": "要請"
+      },
+      {
+        "word": "To serve",
+        "translation": "送達する"
+      },
+      {
+        "word": "Interception",
+        "translation": "捕捉"
       }
     ]
   }

@@ -21498,5 +21498,119 @@
         "translation": "既存の"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Injunction to Suspend the Effectiveness of a Resolution",
+    "definition": "A temporary court order issued to halt the legal impact of a decision made by a corporate body, such as a board or a meeting of members, until a final judgment on its validity is rendered.",
+    "japaneseDefinition": "決議の効力が確定的に判断されるまでの間、暫定的にその効力を停止させる裁判所の命令。会社法上の決議などの有効性が争われている場合に使用される。",
+    "japaneseWordTranslation": "決議の効力停止の仮処分 (けつぎのこうりょくていしのかりしょぶん)",
+    "legalContext": "Civil Preservation Act, Art. 23, Para. 2: A provisional injunction may be issued to establish a temporary status with respect to a contested legal relationship.",
+    "japaneseLegalContext": "民事保全法第23条第2項：仮処分命令は、争いがある権利関係について、債権者に生ずる著しい損害又は急迫の危険を避けるためこれを置く必要があるときに発することができる。",
+    "exampleSentence": "The court granted a provisional injunction to suspend the effectiveness of the resolution passed at the extraordinary meeting due to procedural defects.",
+    "exampleTranslation": "手続上の不備を理由に、裁判所は臨時総会で可決された決議の効力停止の仮処分を認めた。",
+    "vocabularyList": [
+      {
+        "word": "Effectiveness",
+        "translation": "効力"
+      },
+      {
+        "word": "Resolution",
+        "translation": "決議"
+      },
+      {
+        "word": "Extraordinary meeting",
+        "translation": "臨時総会"
+      },
+      {
+        "word": "Procedural defect",
+        "translation": "手続上の不備"
+      },
+      {
+        "word": "Contested",
+        "translation": "争いのある"
+      },
+      {
+        "word": "Granted",
+        "translation": "認容された"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Injunction against the Use of a Website",
+    "definition": "An interim judicial measure prohibiting a specific party from operating, updating, or accessing a web-based platform, typically used in disputes involving intellectual property or unfair competition.",
+    "japaneseDefinition": "知的財産権の侵害や不正競争防止法違反が疑われる場合に、裁判所がウェブサイトの運営や更新、アクセスを暫定的に禁止する命令。",
+    "japaneseWordTranslation": "ウェブサイトの使用禁止の仮処分 (うぇぶさいとのしようきんしのかりしょぶん)",
+    "legalContext": "Civil Preservation Act, Art. 24: The court may order such measures as it deems appropriate to achieve the objective of the provisional injunction.",
+    "japaneseLegalContext": "民事保全法第24条：裁判所は、仮処分命令の目的を達するため、債務者に特定の行為を命じ、若しくは禁止し、又は保管人に目的物を保管させる等、適当な処分をすることができる。",
+    "exampleSentence": "The plaintiff applied for a provisional injunction against the use of the website to prevent the further spread of unauthorized copies of the software.",
+    "exampleTranslation": "原告は、ソフトウェアの無断複製のさらなる拡散を防ぐため、ウェブサイトの使用禁止の仮処分を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Interim judicial measure",
+        "translation": "暫定的な司法措置"
+      },
+      {
+        "word": "Unauthorized copy",
+        "translation": "無断複製"
+      },
+      {
+        "word": "Spread",
+        "translation": "拡散"
+      },
+      {
+        "word": "Further",
+        "translation": "さらなる"
+      },
+      {
+        "word": "Prohibiting",
+        "translation": "禁止する"
+      },
+      {
+        "word": "Applied for",
+        "translation": "申し立てた"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Provisional Injunction to Restrain the Exercise of a Software License",
+    "definition": "A court-ordered temporary restraint that prevents a party from utilizing or sub-licensing a software application during the pendency of a lawsuit regarding the ownership or breach of the underlying agreement.",
+    "japaneseDefinition": "ソフトウェアのライセンス（使用権）の帰属や契約違反が争点となっている訴訟において、その権利の行使や再許諾を暫定的に禁止する裁判所の命令。",
+    "japaneseWordTranslation": "ソフトウェア使用権の行使禁止の仮処分 (そふとうぇあしようけんのこうしきんしのかりしょぶん)",
+    "legalContext": "Civil Preservation Act, Art. 23, Para. 1: A provisional injunction may be issued when it is impossible or significantly difficult to enforce a right if the status quo is altered.",
+    "japaneseLegalContext": "民事保全法第23条第1項：仮処分命令は、その執行をすることができなくなるおそれがあるとき、又はその執行をするのに著しい困難を生ずるおそれがあるときに発することができる。",
+    "exampleSentence": "The developer obtained a provisional injunction to restrain the exercise of the software license by the defendant after the termination of the development agreement.",
+    "exampleTranslation": "開発契約の終了後、デベロッパー（開発者）は被告によるソフトウェア使用権の行使を差し止める仮処分を得た。",
+    "vocabularyList": [
+      {
+        "word": "Software license",
+        "translation": "ソフトウェア使用権"
+      },
+      {
+        "word": "Restrain",
+        "translation": "差し止める"
+      },
+      {
+        "word": "Exercise",
+        "translation": "行使"
+      },
+      {
+        "word": "Developer",
+        "translation": "開発者"
+      },
+      {
+        "word": "Pendency",
+        "translation": "継続中"
+      },
+      {
+        "word": "Utilizing",
+        "translation": "利用すること"
+      }
+    ]
   }
 ]

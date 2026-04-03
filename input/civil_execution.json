@@ -24090,5 +24090,107 @@
         "translation": "捕捉"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Objection to the Distribution Schedule",
+    "definition": "A procedural challenge filed by a creditor or the debtor when they disagree with the amount or priority of the distribution of proceeds as listed in the official schedule prepared by the execution court.",
+    "japaneseDefinition": "配当期日において、執行裁判所が作成した配当表の記載内容（債権額や配当の順位）に不服がある場合に、債権者または債務者が申し立てる不服の表明。",
+    "japaneseWordTranslation": "配当表に対する異議 (はいとうひょうにたいするいぎ)",
+    "legalContext": "Civil Execution Act Art. 89: A creditor or the debtor who has an objection to the distribution schedule shall state their objection on the date of distribution.",
+    "japaneseLegalContext": "民事執行法第89条：配当表の記載に異議のある債権者又は債務者は、配当期日において、その異議を述べなければならない。",
+    "exampleSentence": "The judgment creditor filed an objection to the distribution schedule, arguing that the junior mortgagee's claim was overstated.",
+    "exampleTranslation": "執行債権者は、後順位抵当権者の債権額が過大であると主張して、配当表に対する異議を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Distribution",
+        "translation": "配当"
+      },
+      {
+        "word": "Proceeds",
+        "translation": "売得金"
+      },
+      {
+        "word": "Priority",
+        "translation": "優先順位"
+      },
+      {
+        "word": "Junior mortgagee",
+        "translation": "後順位抵当権者"
+      },
+      {
+        "word": "Overstated",
+        "translation": "過大に記載された"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Garnishment of Salaries and Wages",
+    "definition": "A type of execution against a claim where the execution court orders the debtor's employer to pay a portion of the debtor's salary directly to the creditor, subject to statutory limits on the amount that can be seized.",
+    "japaneseDefinition": "債権執行の一種であり、裁判所が債務者の勤務先（第三債務者）に対し、給与の一部を債務者に支払うことを禁じ、直接債権者に支払うよう命じる手続。差押禁止の範囲が法律で定められている。",
+    "japaneseWordTranslation": "給料の差押え (きゅうりょうのさしおさえ)",
+    "legalContext": "Civil Execution Act Art. 152: As for claims for salaries or other remuneration, the amount equivalent to three-quarters of the amount shall not be seized.",
+    "japaneseLegalContext": "民事執行法第152条：給料その他これに類する債権については、その額の四分の三に相当する部分は、差し押さえてはならない。",
+    "exampleSentence": "The court approved the garnishment of salaries and wages to satisfy the debtor's outstanding loan obligations.",
+    "exampleTranslation": "裁判所は、債務者の未払借入債務を充当するため、給料の差押えを認めた。",
+    "vocabularyList": [
+      {
+        "word": "Remuneration",
+        "translation": "報酬"
+      },
+      {
+        "word": "Outstanding",
+        "translation": "未払の"
+      },
+      {
+        "word": "Satisfy",
+        "translation": "（債務を）弁済する"
+      },
+      {
+        "word": "Directly",
+        "translation": "直接に"
+      },
+      {
+        "word": "Statutory limit",
+        "translation": "法的制限"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Compulsory Execution for the Eviction of a Building",
+    "definition": "The legal procedure used to forcibly remove an occupant and their belongings from a building and return possession to the person entitled to it, based on a court order or judgment.",
+    "japaneseDefinition": "判決などの債務名義に基づき、建物内に居住・占有する者を強制的に立ち退かせ、残置物を搬出した上で、権利者に建物の占有を移転させる強制執行の手続。",
+    "japaneseWordTranslation": "建物の明渡しの強制執行 (たてもののあけわたしのきょうせいしっこう)",
+    "legalContext": "Civil Execution Act Art. 168: Compulsory execution for the delivery or surrender of real property shall be implemented by an execution officer taking possession of the property from the obligor.",
+    "japaneseLegalContext": "民事執行法第168条：不動産の引渡し又は明渡しの強制執行は、執行官が債務者の占有を解いて債権者にその占有をさせる方法により行う。",
+    "exampleSentence": "The landlord sought compulsory execution for the eviction of a building after the tenant failed to vacate following the lease termination.",
+    "exampleTranslation": "賃貸借契約の終了後もテナントが退去しなかったため、家主は建物の明渡しの強制執行を求めた。",
+    "vocabularyList": [
+      {
+        "word": "Eviction",
+        "translation": "立ち退き"
+      },
+      {
+        "word": "Occupant",
+        "translation": "占有者"
+      },
+      {
+        "word": "Belongings",
+        "translation": "残置物"
+      },
+      {
+        "word": "Implementation",
+        "translation": "実施"
+      },
+      {
+        "word": "Surrender",
+        "translation": "明け渡し"
+      }
+    ]
   }
 ]

@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Suspensive Condition",
-    "definition": "A condition that must be fulfilled before a juridical act (such as a contract or gift) takes legal effect or becomes enforceable. The legal effect is suspended until the occurrence of the stipulated future, uncertain event.",
-    "japaneseDefinition": "法律行為の効力の発生を、将来発生するかどうか不確実な事実にかからせる条件。条件が成就するまで法律行為の効力は停止している。",
-    "japaneseWordTranslation": "停止条件 (Teishi Jōken)",
-    "legalContext": "Civil Code Art. 127 (Effect of a Suspensive Condition): 'In the case where a juridical act is subject to a suspensive condition, the juridical act shall become effective upon the fulfillment of the condition.'",
-    "japaneseLegalContext": "民法第127条（停止条件付法律行為）：停止条件付法律行為は、条件が成就した時からその効力を生ずる。",
-    "exampleSentence": "The execution of the sales agreement was made subject to a suspensive condition requiring the buyer to secure financing within thirty days.",
-    "exampleTranslation": "売買契約の履行は、買主が30日以内に融資を確保することを要求する停止条件に従うものとされた。",
-    "vocabularyList": [
-      {
-        "word": "fulfillment of the condition",
-        "translation": "条件の成就 (jōken no jōju)"
-      },
-      {
-        "word": "sales agreement",
-        "translation": "売買契約 (baibai keiyaku)"
-      },
-      {
-        "word": "enforceable",
-        "translation": "強制力のある (kyōseiryoku no aru)"
-      },
-      {
-        "word": "juridical act",
-        "translation": "法律行為 (hōritsu kōi) [Note: Used contextually only]"
-      },
-      {
-        "word": "execution",
-        "translation": "履行 (rikō)"
-      },
-      {
-        "word": "secure financing",
-        "translation": "融資を確保する (yūshi o kakuho suru)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Juridical Person",
     "definition": "An entity, other than a natural person, that the law recognizes as having legal personality, allowing it to hold rights and duties, engage in juridical acts, and be a party to litigation, such as associations and foundations.",
     "japaneseDefinition": "法令の規定に基づき、自然人以外で法律上の人格を認められた団体または財産。権利義務の主体となり、法律行為を行い、訴訟当事者となることができる。",
@@ -29474,6 +29436,108 @@
       {
         "word": "Subject matter of a sale",
         "translation": "売買の目的物"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Lapse of Right",
+    "definition": "The legal principle where a right can no longer be exercised because the holder has failed to exercise it for a long period, leading the other party to reasonably believe that the right would no longer be asserted.",
+    "japaneseDefinition": "権利者が長期間にわたって権利を行使せず、相手方がもはやその権利は行使されないだろうと期待するのが正当であると認められる場合に、その権利の行使を許さないとする法理（権利の失効）。",
+    "japaneseWordTranslation": "権利の失効 (Kenri no Shikkō)",
+    "legalContext": "Civil Code Art. 1, Para. 2: The exercise of rights and performance of duties must be done in good faith.",
+    "japaneseLegalContext": "民法第1条第2項：権利の行使及び義務の履行は、信義に則り誠実に行わなければならない。",
+    "exampleSentence": "The court applied the doctrine of lapse of right because the landlord waited ten years to enforce the non-compete clause.",
+    "exampleTranslation": "地主が競業避止義務条項の執行を10年間放置していたため、裁判所は権利の失効の法理を適用した。",
+    "vocabularyList": [
+      {
+        "word": "Doctrine",
+        "translation": "法理"
+      },
+      {
+        "word": "Assert",
+        "translation": "主張する"
+      },
+      {
+        "word": "Exercise",
+        "translation": "（権利を）行使する"
+      },
+      {
+        "word": "Reasonably believe",
+        "translation": "正当に期待する"
+      },
+      {
+        "word": "Non-compete clause",
+        "translation": "競業避止義務条項"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Revocation of a Bequest",
+    "definition": "The act of a testator cancelling or withdrawing a specific gift or legacy provided for in their will prior to their death.",
+    "japaneseDefinition": "遺言者が、自身の死前に遺言によって与えられた特定の遺贈を取り消し、または撤回する行為。",
+    "japaneseWordTranslation": "遺贈の取消し (Izō no Torikeshi)",
+    "legalContext": "Civil Code Art. 1022: A testator may at any time revoke their will in whole or in part in accordance with the formalities for a will.",
+    "japaneseLegalContext": "民法第1022条：遺言者は、いつでも、遺言の方式に従って、その遺言の全部又は一部を撤回することができる。",
+    "exampleSentence": "The revocation of a bequest must follow the same formal requirements as the creation of the original will.",
+    "exampleTranslation": "遺贈の取消しは、元の遺言の作成と同じ方式に従わなければならない。",
+    "vocabularyList": [
+      {
+        "word": "Testator",
+        "translation": "遺言者"
+      },
+      {
+        "word": "Withdraw",
+        "translation": "撤回する"
+      },
+      {
+        "word": "In part",
+        "translation": "一部"
+      },
+      {
+        "word": "Formalities",
+        "translation": "方式・要式"
+      },
+      {
+        "word": "Legacy",
+        "translation": "遺贈物"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Right to Demand the Removal of a Building",
+    "definition": "A legal claim asserted by a landowner against a person who occupies the land without a legal title, requiring the occupant to demolish and remove any structures they have built.",
+    "japaneseDefinition": "土地所有者が、正当な権原なく土地を占有している者に対し、その者が建てた建造物を解体・撤去するよう求める法的請求権。",
+    "japaneseWordTranslation": "建物収去請求権 (Tatemono Shūkyo Seikyūken)",
+    "legalContext": "Civil Code Art. 198: When a possessor is disturbed in their possession, they may file an action for maintenance of possession to demand the cessation of the disturbance.",
+    "japaneseLegalContext": "民法第198条：占有者がその占有を妨害されたときは、占有保持の訴えにより、その妨害の停止及び損害の賠償を請求することができる。",
+    "exampleSentence": "Upon the expiration of the land use agreement, the owner exercised their right to demand the removal of a building erected by the former tenant.",
+    "exampleTranslation": "土地使用契約の終了に伴い、所有者は元賃借人が建てた建物の収去請求権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "Landowner",
+        "translation": "土地所有者"
+      },
+      {
+        "word": "Occupant",
+        "translation": "占有者"
+      },
+      {
+        "word": "Demolish",
+        "translation": "解体する"
+      },
+      {
+        "word": "Erect",
+        "translation": "建立する・建てる"
+      },
+      {
+        "word": "Legal title",
+        "translation": "正当な権原"
       }
     ]
   }

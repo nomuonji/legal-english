@@ -2,44 +2,6 @@
   {
     "category": "Civil Code (民法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Statutory Security Interest",
-    "definition": "A proprietary right (real right) established by operation of law to secure a claim, independent of any prior contractual agreement between the parties, such as specific types of liens or legal mortgages.",
-    "japaneseDefinition": "当事者間の契約に基づかず、法律の規定によって当然に発生する債権を担保するための物権（例：法定留置権や法定抵当権）。",
-    "japaneseWordTranslation": "法定担保物権 (ほうていたんぽぶっけん)",
-    "legalContext": "Civil Code Art. 342: The provisions of this Section shall apply to legal hypothecs established under other laws.",
-    "japaneseLegalContext": "民法第342条：他の法律の規定により設定される法定抵当権については、この節の規定を準用する。",
-    "exampleSentence": "The builder asserted a statutory security interest over the completed structure to secure the unpaid construction costs from the property owner.",
-    "exampleTranslation": "建設業者は、不動産所有者からの未払いの建設費用を担保するために、完成した構造物に対して法定担保物権を主張した。",
-    "vocabularyList": [
-      {
-        "word": "proprietary right",
-        "translation": "物権"
-      },
-      {
-        "word": "operation of law",
-        "translation": "法律の作用"
-      },
-      {
-        "word": "claim",
-        "translation": "債権"
-      },
-      {
-        "word": "contractual agreement",
-        "translation": "契約上の合意"
-      },
-      {
-        "word": "asserted",
-        "translation": "主張した"
-      },
-      {
-        "word": "unpaid construction costs",
-        "translation": "未払いの建設費用"
-      }
-    ]
-  },
-  {
-    "category": "Civil Code (民法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Succession by Universal Title",
     "definition": "The legal mechanism by which one person (the successor) takes over the entirety of another person’s (the predecessor's) legal status, including all rights and obligations, liabilities, and assets, simultaneously.",
     "japaneseDefinition": "ある者が他の者の有する法律上の地位（債権、債務、権利、義務の全体）を区別なく包括的に承継すること。",
@@ -29448,6 +29410,108 @@
       {
         "word": "Action",
         "translation": "訴え"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Fraudulent Means",
+    "definition": "Deceptive or tricky conduct employed by a person with limited capacity to act (such as a minor) to lead another party to believe that they have full legal capacity, thereby precluding the right to rescind the act.",
+    "japaneseDefinition": "制限行為能力者が、相手方に自分は行為能力者であると信じさせるために用いる計略やあざむく行為。これが行われた場合、制限行為能力を理由とした取消しができなくなる。",
+    "japaneseWordTranslation": "詐術 (さじゅつ)",
+    "legalContext": "Civil Code Art. 21: If a person with limited capacity to act uses fraudulent means to induce another to believe that he/she is a person with capacity to act, the person with limited capacity to act may not rescind his/her act.",
+    "japaneseLegalContext": "民法第21条：制限行為能力者が、行為能力者であることを信じさせるため詐術を用いたときは、その行為を取り消すことができない。",
+    "exampleSentence": "The minor was barred from rescinding the purchase agreement because the court found that he had used fraudulent means by presenting a forged identification card.",
+    "exampleTranslation": "その未成年者は偽造された身分証を提示するという詐術を用いたと裁判所が判断したため、売買契約を取り消すことができなくなった。",
+    "vocabularyList": [
+      {
+        "word": "Deceptive conduct",
+        "translation": "欺瞞行為"
+      },
+      {
+        "word": "Induce",
+        "translation": "誘致する、～させる"
+      },
+      {
+        "word": "Forged identification card",
+        "translation": "偽造された身分証明書"
+      },
+      {
+        "word": "Barred from",
+        "translation": "禁止される、妨げられる"
+      },
+      {
+        "word": "Full legal capacity",
+        "translation": "完全な行為能力"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Eligibility for Set-off",
+    "definition": "The legal state or requirements that must be met for a party to exercise the right to set-off. This generally requires that two parties owe each other obligations of the same kind, and that both obligations are due for performance.",
+    "japaneseDefinition": "相殺ができる状態のこと。自らと相手方が互いに同種の目的を有する債務を負担し、双方の債務が弁済期にあることなどの要件を満たしている状態を指す。",
+    "japaneseWordTranslation": "相殺適状 (そうさいてきじょう)",
+    "legalContext": "Civil Code Art. 505: In cases where two persons owe obligations to each other that have the same kind of subject matter, and both obligations are due, either person may extinguish his/her obligation by set-off...",
+    "japaneseLegalContext": "民法第505条：二人が互いに同種の目的を有する債務を負担する場合において、双方の債務が弁済期にあるときは、各債務者は、その債務の額を限度として、相殺によってその債務を免れることができる。",
+    "exampleSentence": "The defendant asserted that eligibility for set-off existed prior to the filing of the lawsuit, as both mutual debts had already reached maturity.",
+    "exampleTranslation": "被告は、互いの債務がすでに弁済期に達していたため、提訴前に相殺適状にあったと主張した。",
+    "vocabularyList": [
+      {
+        "word": "Mutual debt",
+        "translation": "互いの債務"
+      },
+      {
+        "word": "Maturity",
+        "translation": "弁済期、満期"
+      },
+      {
+        "word": "Subject matter",
+        "translation": "目的物、目的"
+      },
+      {
+        "word": "Extinguish an obligation",
+        "translation": "債務を消滅させる"
+      },
+      {
+        "word": "Reach maturity",
+        "translation": "弁済期に達する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Sale of the Right of Another",
+    "definition": "A contract of sale where the subject matter is a right currently belonging to a third party. Under Japanese law, such a contract is valid, but the seller is obligated to acquire the right and transfer it to the buyer.",
+    "japaneseDefinition": "売買の目的である権利が他人に属している場合の売買。日本の民法上、このような契約も有効であるが、売主はその権利を取得して買主に移転する義務を負う。",
+    "japaneseWordTranslation": "他人の権利の売買 (たにんのけんりのばいばい)",
+    "legalContext": "Civil Code Art. 561: If the subject matter of a sale is the right of another person, the seller shall have an obligation to acquire the right and transfer it to the buyer.",
+    "japaneseLegalContext": "民法第561条：他人の権利を売買の目的としたときは、売主は、その権利を取得して買主に移転する義務を負う。",
+    "exampleSentence": "In a sale of the right of another, if the seller fails to acquire the property from the third party, the seller will be liable for non-performance of the contract.",
+    "exampleTranslation": "他人の権利の売買において、売主が第三者からその物件を取得できなかった場合、売主は契約不履行の責任を負うことになる。",
+    "vocabularyList": [
+      {
+        "word": "Acquire the right",
+        "translation": "権利を取得する"
+      },
+      {
+        "word": "Belong to a third party",
+        "translation": "第三者に属する"
+      },
+      {
+        "word": "Transfer the right",
+        "translation": "権利を移転する"
+      },
+      {
+        "word": "Obligated to",
+        "translation": "～する義務がある"
+      },
+      {
+        "word": "Subject matter of a sale",
+        "translation": "売買の目的物"
       }
     ]
   }

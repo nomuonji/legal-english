@@ -23864,5 +23864,107 @@
         "translation": "賦課・課すこと"
       }
     ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Comprehensive Offense",
+    "definition": "A legal doctrine where multiple acts that satisfy the same statutory elements of a crime are treated as a single, unified offense for the purpose of sentencing, rather than as separate concurrent crimes.",
+    "japaneseDefinition": "数個の行為が、同一の構成要件を充足する場合に、それらを一括して一個の罪として扱う法的概念。併合罪として処理されるのではなく、一罪として処罰される。",
+    "japaneseWordTranslation": "包括一罪 (ほうかついちざい)",
+    "legalContext": "While not explicitly named, it is a doctrine derived from the interpretation of 'Concurrence of Crimes' under Chapter 7 of the Penal Code. For example, repeated acts of theft from the same victim over a short period may be treated as a single comprehensive offense.",
+    "japaneseLegalContext": "刑法第7章の「罪数」に関する解釈上の概念。例えば、短期間に同一の被害者に対して繰り返された窃盗行為などは、包括一罪として扱われることがある。",
+    "exampleSentence": "The court ruled that the series of unauthorized access attempts constituted a single comprehensive offense due to the continuity of the defendant's criminal intent.",
+    "exampleTranslation": "裁判所は、被告人の犯意の継続性を理由に、一連の不正アクセス試行を単一の包括一罪と認定した。",
+    "vocabularyList": [
+      {
+        "word": "Constituent elements",
+        "translation": "構成要件"
+      },
+      {
+        "word": "Continuity",
+        "translation": "継続性"
+      },
+      {
+        "word": "Sentencing",
+        "translation": "量刑"
+      },
+      {
+        "word": "Unified offense",
+        "translation": "一個の罪"
+      },
+      {
+        "word": "Repeated acts",
+        "translation": "反復行為"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Unilateral Complicity",
+    "definition": "A form of complicity where an accessory provides aid or encouragement to the principal offender without the principal's knowledge or mutual communication of intent.",
+    "japaneseDefinition": "正犯者が幇助されていることを知らない場合に、幇助者が一方的に正犯を助ける形態の共犯。正犯と幇助者の間に意思の疎通がない場合を指す。",
+    "japaneseWordTranslation": "片面的共犯 (へんめんてききょうはん)",
+    "legalContext": "Relates to the scope of 'Accessory' under Penal Code Art. 62. Japanese scholarship debates whether an accessory can be punished if the principal is unaware of the assistance (e.g., secretly unlocking a door for a thief).",
+    "japaneseLegalContext": "刑法第62条（幇助）の範囲に関する議論。正犯が幇助の事実を知らない場合（例：窃盗犯のためにこっそりドアの鍵を開けておく等）に、幇助犯が成立するかという問題。",
+    "exampleSentence": "The debate regarding unilateral complicity centers on whether mutual intent is a prerequisite for the formation of an accessory relationship.",
+    "exampleTranslation": "片面的共犯に関する議論は、幇助関係の成立に意思の連絡（疎通）が必要かどうかに集中している。",
+    "vocabularyList": [
+      {
+        "word": "Accessory",
+        "translation": "幇助犯"
+      },
+      {
+        "word": "Principal offender",
+        "translation": "正犯者"
+      },
+      {
+        "word": "Mutual intent",
+        "translation": "意思の連絡"
+      },
+      {
+        "word": "Prerequisite",
+        "translation": "前提条件"
+      },
+      {
+        "word": "Aid and encouragement",
+        "translation": "助力および激励"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mistake of Subsumption",
+    "definition": "A specific type of mistake of law where the actor correctly perceives the facts and the existence of a law but wrongly believes that their specific conduct does not fall under (is not subsumed by) that law.",
+    "japaneseDefinition": "法律の錯誤の一種。行為者が事実を正確に把握し、かつ法律の存在も知っているが、自分の行為がその法律の適用範囲（構成要件）に該当しないと誤認すること。",
+    "japaneseWordTranslation": "包摂の錯誤 (ほうせつのさくご)",
+    "legalContext": "Governed by the principles of Penal Code Art. 38, Paragraph 3. This is often distinguished from a 'Mistake of Fact' because the error lies in the legal evaluation of the conduct rather than the perception of physical reality.",
+    "japaneseLegalContext": "刑法第38条第3項（法律の錯誤）の法理に関わる。物理的な事実の認識の誤りではなく、行為に対する法的評価の誤りであるため、事実の錯誤とは区別される。",
+    "exampleSentence": "A mistake of subsumption generally does not preclude criminal intent unless the actor lacked the consciousness of the unlawfulness of their act.",
+    "exampleTranslation": "包摂の錯誤は、行為者が自己の行為の違法性を意識していなかった場合を除き、通常は故意を阻却しない。",
+    "vocabularyList": [
+      {
+        "word": "Legal evaluation",
+        "translation": "法的評価"
+      },
+      {
+        "word": "Preclude",
+        "translation": "妨げる（阻却する）"
+      },
+      {
+        "word": "Physical reality",
+        "translation": "客観的事実"
+      },
+      {
+        "word": "Subsumed",
+        "translation": "包摂される"
+      },
+      {
+        "word": "Consciousness of unlawfulness",
+        "translation": "違法性の意識"
+      }
+    ]
   }
 ]

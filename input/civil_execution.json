@@ -24192,5 +24192,107 @@
         "translation": "明け渡し"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exequatur",
+    "definition": "A formal validation by a tribunal that makes a final ruling from another country carry the same weight as a local one.",
+    "japaneseDefinition": "外国裁判所の判決や仲裁判断について、国内での執行力を認めるために裁判所が出す判決。",
+    "japaneseWordTranslation": "執行判決 (しっこうはんけつ)",
+    "legalContext": "Civil Execution Act Art. 24: A compulsory process based on a final ruling by a tribunal of another country may be carried out only when a local tribunal has issued an exequatur.",
+    "japaneseLegalContext": "民事執行法第24条：外国裁判所の判決に基づく強制執行は、日本の裁判所が執行判決でその執行を許可したときに限り、行うことができる。",
+    "exampleSentence": "The claimant applied for an exequatur to enforce the overseas ruling against the debtor's holdings.",
+    "exampleTranslation": "債権者は、債務者の資産に対して海外の判決を執行するために、執行判決を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Tribunal",
+        "translation": "裁判所（法廷）"
+      },
+      {
+        "word": "Validation",
+        "translation": "検証・有効化"
+      },
+      {
+        "word": "Ruling",
+        "translation": "決定・裁定"
+      },
+      {
+        "word": "Overseas",
+        "translation": "海外の"
+      },
+      {
+        "word": "Holdings",
+        "translation": "保有資産"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Charging Order",
+    "definition": "A mandate from a tribunal that creates a legal bind over specific financial shares or interests to ensure future payment.",
+    "japaneseDefinition": "債務者が有する持分や権利などに対して、将来の支払いを確保するために担保権を付与する命令。",
+    "japaneseWordTranslation": "担保権設定命令 (たんぽけんせっていめいれい)",
+    "legalContext": "Civil Execution Act Art. 164: In the process of enforcement against other interests, the tribunal may issue a charging order to bind the debtor's share.",
+    "japaneseLegalContext": "民事執行法第164条：その他の財産権に対する執行において、裁判所は債務者の持分を拘束するために担保権設定命令を発することができる。",
+    "exampleSentence": "The tribunal issued a charging order against the partner's share in the venture.",
+    "exampleTranslation": "裁判所は、共同事業におけるその社員の持分に対して担保権設定命令を発した。",
+    "vocabularyList": [
+      {
+        "word": "Mandate",
+        "translation": "命令・権限"
+      },
+      {
+        "word": "Bind",
+        "translation": "拘束する"
+      },
+      {
+        "word": "Financial",
+        "translation": "金銭的な"
+      },
+      {
+        "word": "Interests",
+        "translation": "権利・利害関係"
+      },
+      {
+        "word": "Venture",
+        "translation": "事業"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Writ of Fieri Facias",
+    "definition": "A formal document used by an officer to take over and sell items belonging to a person who has failed to pay a sum.",
+    "japaneseDefinition": "金銭債務を支払わない者の動産を差し押さえ、売却するために用いられる執行動産に対する執行文書の総称。",
+    "japaneseWordTranslation": "動産執行令状 (どうさんしっこうれいじょう)",
+    "legalContext": "While the Civil Execution Act uses specific terms for seizure, a writ of fieri facias is the traditional English equivalent for an officer's authority to take items for sale.",
+    "japaneseLegalContext": "民事執行法では具体的な差押えの用語が用いられるが、動産執行令状は、執行官が売却のために物品を収受する権限を示す伝統的な英語表現である。",
+    "exampleSentence": "The officer arrived at the warehouse with a writ of fieri facias to secure the inventory.",
+    "exampleTranslation": "執行官は、在庫を確保するために動産執行令状を持って倉庫に到着した。",
+    "vocabularyList": [
+      {
+        "word": "Officer",
+        "translation": "執行官・担当官"
+      },
+      {
+        "word": "Warehouse",
+        "translation": "倉庫"
+      },
+      {
+        "word": "Inventory",
+        "translation": "在庫・目録"
+      },
+      {
+        "word": "Belonging",
+        "translation": "所有物"
+      },
+      {
+        "word": "Sum",
+        "translation": "金額"
+      }
+    ]
   }
 ]

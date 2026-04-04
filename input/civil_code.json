@@ -29540,5 +29540,119 @@
         "translation": "正当な権原"
       }
     ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Doctrine of the Destruction of the Relationship of Trust",
+    "definition": "A judicial principle in lease law stating that a lessor cannot terminate a lease contract despite a breach by the lessee (such as unauthorized subletting or non-payment of rent) unless the breach is grave enough to destroy the underlying trust between the parties.",
+    "japaneseDefinition": "賃貸借契約において、賃借人に契約上の義務違反（無断転貸や賃料不払いなど）があったとしても、賃貸人と賃借人の間の信頼関係が客観的に破壊されたと認められない限り、賃貸人は契約を解除できないとする法理。",
+    "japaneseWordTranslation": "信頼関係破壊の法理 (しんらいかんけいはかいのほうり)",
+    "legalContext": "A landmark principle developed by the Japanese Supreme Court to protect lessees, often applied as an interpretive limit to Article 612 and Article 541 of the Civil Code.",
+    "japaneseLegalContext": "民法612条（賃借権の譲渡及び転貸の制限）や541条（催告による解除）の適用を制限するために、最高裁判例によって確立された法理。",
+    "exampleSentence": "The court dismissed the landlord's claim for termination because the unauthorized minor renovation did not constitute a destruction of the relationship of trust.",
+    "exampleTranslation": "軽微な無断改装は信頼関係の破壊には当たらないとして、裁判所は大家による解除請求を棄却した。",
+    "vocabularyList": [
+      {
+        "word": "Lessor",
+        "translation": "賃貸人"
+      },
+      {
+        "word": "Lessee",
+        "translation": "賃借人"
+      },
+      {
+        "word": "Unauthorized subletting",
+        "translation": "無断転貸"
+      },
+      {
+        "word": "Grave breach",
+        "translation": "重大な違反"
+      },
+      {
+        "word": "Judicial precedent",
+        "translation": "判例"
+      },
+      {
+        "word": "Irretrievable",
+        "translation": "回復不可能な"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Exceptio Doli",
+    "definition": "A legal defense used to prevent the exercise of a right that is technically valid under strict law but is being used in a manner that violates equity or fairness in a specific case.",
+    "japaneseDefinition": "権利の行使が形式的には適法であっても、具体的な事案において正義や公平の観点から許されない場合に、その権利行使を拒絶するための抗弁。",
+    "japaneseWordTranslation": "信義則違反の抗弁 (しんぎそくいはんのこうべん)",
+    "legalContext": "Civil Code Art. 1, Para. 2: 'The exercise of rights and performance of duties must be carried out in good faith.'",
+    "japaneseLegalContext": "民法1条2項：「権利の行使及び義務の履行は、信義に従い誠実に行わなければならない。」",
+    "exampleSentence": "The defendant raised an exceptio doli, arguing that the plaintiff's sudden demand for repayment after years of silence was an unfair exercise of legal rights.",
+    "exampleTranslation": "被告は、長年の沈黙の後に突然なされた原告の返済請求は法的権利の不当な行使であると主張し、信義則違反の抗弁を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Defense",
+        "translation": "抗弁"
+      },
+      {
+        "word": "Equity",
+        "translation": "衡平／公平"
+      },
+      {
+        "word": "Bad faith",
+        "translation": "悪意"
+      },
+      {
+        "word": "Strict law",
+        "translation": "厳格法"
+      },
+      {
+        "word": "Plaintiff",
+        "translation": "原告"
+      },
+      {
+        "word": "Defendant",
+        "translation": "被告"
+      }
+    ]
+  },
+  {
+    "category": "Civil Code (民法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Option to Complete a Sale",
+    "definition": "A formative right held by one party under a preliminary contract (reservation) that, upon exercise, immediately results in the formation of a binding purchase and sale agreement without further consent from the other party.",
+    "japaneseDefinition": "売買の予約において、一方の当事者が意思表示をすることによって、相手方の承諾を待たずに売買契約を成立させる権利（形成権）。",
+    "japaneseWordTranslation": "売買の完結権 (ばいばいのかんけつけん)",
+    "legalContext": "Civil Code Art. 556: 'A promise to sell or purchase made by one party shall have the effect of a sale when the other party has manifested the intention to complete the sale.'",
+    "japaneseLegalContext": "民法556条：「売買の一方の予約は、相手方が売買を完結する意思を表示した時から、売買の効力を生ずる。」",
+    "exampleSentence": "Upon the exercise of the option to complete a sale, the ownership of the property was transferred to the buyer as specified in the reservation agreement.",
+    "exampleTranslation": "売買完結権の行使により、予約完結権の合意に基づき、当該物件の所有権が買主に移転した。",
+    "vocabularyList": [
+      {
+        "word": "Preliminary contract",
+        "translation": "予約"
+      },
+      {
+        "word": "Formative right",
+        "translation": "形成権"
+      },
+      {
+        "word": "Manifestation of intention",
+        "translation": "意思表示"
+      },
+      {
+        "word": "Binding agreement",
+        "translation": "拘束力のある合意"
+      },
+      {
+        "word": "Exercise of a right",
+        "translation": "権利の行使"
+      },
+      {
+        "word": "Transfer of title",
+        "translation": "権利移転"
+      }
+    ]
   }
 ]

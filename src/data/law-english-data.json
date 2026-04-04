@@ -1,38 +1,38 @@
 {
-  "category": "Civil Code (民法)",
+  "category": "Real Property Registration (不動産登記法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Suspensive Condition",
-  "definition": "A condition that must be fulfilled before a juridical act (such as a contract or gift) takes legal effect or becomes enforceable. The legal effect is suspended until the occurrence of the stipulated future, uncertain event.",
-  "japaneseDefinition": "法律行為の効力の発生を、将来発生するかどうか不確実な事実にかからせる条件。条件が成就するまで法律行為の効力は停止している。",
-  "japaneseWordTranslation": "停止条件 (Teishi Jōken)",
-  "legalContext": "Civil Code Art. 127 (Effect of a Suspensive Condition): 'In the case where a juridical act is subject to a suspensive condition, the juridical act shall become effective upon the fulfillment of the condition.'",
-  "japaneseLegalContext": "民法第127条（停止条件付法律行為）：停止条件付法律行為は、条件が成就した時からその効力を生ずる。",
-  "exampleSentence": "The execution of the sales agreement was made subject to a suspensive condition requiring the buyer to secure financing within thirty days.",
-  "exampleTranslation": "売買契約の履行は、買主が30日以内に融資を確保することを要求する停止条件に従うものとされた。",
+  "word": "Preliminary Registration",
+  "definition": "A type of registration executed temporarily to reserve the priority of a future full registration, especially when not all procedural conditions for the full registration (e.g., necessary permits, consent of the obligor) have been met.",
+  "japaneseDefinition": "将来行うべき本登記の順位を保全するため、あらかじめ暫定的に行われる登記。本登記が実行されれば、本登記の順位は遡及して予備登記の順位となる。",
+  "japaneseWordTranslation": "予備登記 (よびとうき)",
+  "legalContext": "Real Property Registration Act Art. 103: A preliminary registration may be filed when the necessary documents for registration are insufficient, or when the consent or permission of a third party is required.",
+  "japaneseLegalContext": "不動産登記法第103条：登記に必要な情報が不足しているとき、または第三者の承諾・許可を要するときは、予備登記をすることができる。",
+  "exampleSentence": "Since the necessary administrative permit had not yet been issued, the applicant filed a Preliminary Registration to secure their priority for the subsequent full registration of the ownership transfer.",
+  "exampleTranslation": "必要な行政許可がまだ下りていなかったので、申請者は、その後の所有権移転の本登記の順位を確保するために予備登記を申請した。",
   "vocabularyList": [
     {
-      "word": "fulfillment of the condition",
-      "translation": "条件の成就 (jōken no jōju)"
+      "word": "full registration",
+      "translation": "本登記"
     },
     {
-      "word": "sales agreement",
-      "translation": "売買契約 (baibai keiyaku)"
+      "word": "reserve priority",
+      "translation": "順位を保全する"
     },
     {
-      "word": "enforceable",
-      "translation": "強制力のある (kyōseiryoku no aru)"
+      "word": "procedural conditions",
+      "translation": "手続要件"
     },
     {
-      "word": "juridical act",
-      "translation": "法律行為 (hōritsu kōi) [Note: Used contextually only]"
+      "word": "consent",
+      "translation": "承諾"
     },
     {
-      "word": "execution",
-      "translation": "履行 (rikō)"
+      "word": "subsequent",
+      "translation": "その後の"
     },
     {
-      "word": "secure financing",
-      "translation": "融資を確保する (yūshi o kakuho suru)"
+      "word": "administrative permit",
+      "translation": "行政許可"
     }
   ]
 }

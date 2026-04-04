@@ -2,44 +2,6 @@
   {
     "category": "Real Property Registration (不動産登記法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Preliminary Registration",
-    "definition": "A type of registration executed temporarily to reserve the priority of a future full registration, especially when not all procedural conditions for the full registration (e.g., necessary permits, consent of the obligor) have been met.",
-    "japaneseDefinition": "将来行うべき本登記の順位を保全するため、あらかじめ暫定的に行われる登記。本登記が実行されれば、本登記の順位は遡及して予備登記の順位となる。",
-    "japaneseWordTranslation": "予備登記 (よびとうき)",
-    "legalContext": "Real Property Registration Act Art. 103: A preliminary registration may be filed when the necessary documents for registration are insufficient, or when the consent or permission of a third party is required.",
-    "japaneseLegalContext": "不動産登記法第103条：登記に必要な情報が不足しているとき、または第三者の承諾・許可を要するときは、予備登記をすることができる。",
-    "exampleSentence": "Since the necessary administrative permit had not yet been issued, the applicant filed a Preliminary Registration to secure their priority for the subsequent full registration of the ownership transfer.",
-    "exampleTranslation": "必要な行政許可がまだ下りていなかったので、申請者は、その後の所有権移転の本登記の順位を確保するために予備登記を申請した。",
-    "vocabularyList": [
-      {
-        "word": "full registration",
-        "translation": "本登記"
-      },
-      {
-        "word": "reserve priority",
-        "translation": "順位を保全する"
-      },
-      {
-        "word": "procedural conditions",
-        "translation": "手続要件"
-      },
-      {
-        "word": "consent",
-        "translation": "承諾"
-      },
-      {
-        "word": "subsequent",
-        "translation": "その後の"
-      },
-      {
-        "word": "administrative permit",
-        "translation": "行政許可"
-      }
-    ]
-  },
-  {
-    "category": "Real Property Registration (不動産登記法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Registration of Extinguishment",
     "definition": "The registration procedure required to formally cancel or remove an existing real property right (such as a mortgage or superficies) from the registration record when that right has expired or ceased to exist.",
     "japaneseDefinition": "既存の不動産権利（抵当権や地上権など）が消滅した場合に、登記記録からその権利を正式に抹消するために必要な登記手続き。",
@@ -19413,6 +19375,120 @@
       {
         "word": "Status",
         "translation": "状態"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of a Modification in the Repayment Schedule",
+    "definition": "The formal process of updating the public record to reflect changes made to the timeline or installments of a debt repayment associated with a registered interest.",
+    "japaneseDefinition": "登記された権利に関連する債務の返済期間や割賦金の計画に変更があった場合に、その内容を公的な記録に反映させる手続き。",
+    "japaneseWordTranslation": "弁済スケジュールの変更の登記 (べんさいすけじゅーるのへんこうのとうき)",
+    "legalContext": "Real Property Registration Act: In cases where registered matters such as the timing of performance are modified by an agreement between the parties, a registration of modification must be filed.",
+    "japaneseLegalContext": "不動産登記法：当事者間の合意により、弁済期などの登記事項に変更が生じた場合、変更の登記を申請しなければならない。",
+    "exampleSentence": "The bank required a registration of a modification in the repayment schedule after the borrower requested an extension of the loan term.",
+    "exampleTranslation": "借入人がローン期間の延長を求めたため、銀行は弁済スケジュールの変更の登記を行うよう要求した。",
+    "vocabularyList": [
+      {
+        "word": "Repayment",
+        "translation": "弁済（べんさい）"
+      },
+      {
+        "word": "Schedule",
+        "translation": "計画／スケジュール"
+      },
+      {
+        "word": "Modification",
+        "translation": "変更（へんこう）"
+      },
+      {
+        "word": "Borrower",
+        "translation": "借入人（かりいれにん）"
+      },
+      {
+        "word": "Extension",
+        "translation": "延長（えんちょう）"
+      },
+      {
+        "word": "Loan term",
+        "translation": "ローン期間（ろーんきかん）"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Notice of the Decision to Reject the Application",
+    "definition": "A formal communication issued by the registry office to the applicant stating that their request for registration has been turned down due to legal or procedural deficiencies.",
+    "japaneseDefinition": "法的または手続上の不備を理由に、登記申請が却下されたことを登記所が申請人に伝える公的な通知。",
+    "japaneseWordTranslation": "申請却下の決定の通知 (しんせいきゃっかのけっていにつうち)",
+    "legalContext": "Real Property Registration Act Art. 25: The registrar must reject an application if it falls under any of the following items, and shall provide a notice regarding such decision.",
+    "japaneseLegalContext": "不動産登記法第25条：登記官は、申請が次の各号のいずれかに該当する場合には、理由を付した決定で、その申請を却下し、その旨を通知しなければならない。",
+    "exampleSentence": "The lawyer received a notice of the decision to reject the application because the land area recorded in the documents did not match the official record.",
+    "exampleTranslation": "書類に記載された土地面積が公的な記録と一致しなかったため、弁護士は申請却下の決定の通知を受け取った。",
+    "vocabularyList": [
+      {
+        "word": "Reject",
+        "translation": "却下する（きゃっかする）"
+      },
+      {
+        "word": "Application",
+        "translation": "申請（しんせい）"
+      },
+      {
+        "word": "Decision",
+        "translation": "決定（けってい）"
+      },
+      {
+        "word": "Communication",
+        "translation": "通知／連絡（つうち／れんらく）"
+      },
+      {
+        "word": "Deficiency",
+        "translation": "不備（ふび）"
+      },
+      {
+        "word": "Procedural",
+        "translation": "手続上の（てつづきじょうの）"
+      }
+    ]
+  },
+  {
+    "category": "Real Property Registration (不動産登記法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Registration of a Modification in the Repayment Terms",
+    "definition": "The official entry into the registry that reflects changes in the specific conditions of a debt repayment, such as the method of payment or other clauses defined in the underlying contract.",
+    "japaneseDefinition": "支払方法や契約で定められたその他の条項など、債務弁済の具体的な条件に変更があった際に行われる登記記録への記載。",
+    "japaneseWordTranslation": "弁済条件の変更の登記 (べんさいじょうけんのへんこうのとうき)",
+    "legalContext": "Real Property Registration Act: Any change to the registered conditions regarding how a debt is satisfied requires a formal update to the registry to ensure the accuracy of public information.",
+    "japaneseLegalContext": "不動産登記法：債務がどのように履行されるかに関する登記上の条件に変更があった場合、公的な情報の正確性を期すために、登記の更新が必要となる。",
+    "exampleSentence": "The parties filed for a registration of a modification in the repayment terms to reflect the transition from monthly to quarterly installments.",
+    "exampleTranslation": "月払いから年4回払いへの変更を反映させるため、当事者は弁済条件の変更の登記を申請した。",
+    "vocabularyList": [
+      {
+        "word": "Terms",
+        "translation": "条件（じょうけん）"
+      },
+      {
+        "word": "Installment",
+        "translation": "分割払／割賦金（ぶんかつばらい／かっぷきん）"
+      },
+      {
+        "word": "Transition",
+        "translation": "移行（いこう）"
+      },
+      {
+        "word": "Quarterly",
+        "translation": "四半期ごとの（しはんきごとの）"
+      },
+      {
+        "word": "Accuracy",
+        "translation": "正確性（せいかくせい）"
+      },
+      {
+        "word": "Contract",
+        "translation": "契約（けいやく）"
       }
     ]
   }

@@ -1,38 +1,34 @@
 {
-  "category": "Criminal Code (刑法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Principal Offender",
-  "definition": "The person who directly executes the elements constituting a crime (direct principal) or utilizes another person lacking capacity for responsibility as a tool to commit the crime (indirect principal).",
-  "japaneseDefinition": "自ら構成要件的行為を遂行する者（直接正犯）、あるいは責任無能力者などを道具として利用し、犯罪を実行する者（間接正犯）。",
-  "japaneseWordTranslation": "正犯 (せいはん)",
-  "legalContext": "Criminal Code Art. 60 primarily defines co-principals (joint execution). The concept of the indirect principal (間接正犯) is established through judicial precedent.",
-  "japaneseLegalContext": "刑法第60条: 共同して犯罪を実行した者は、すべて正犯とする。",
-  "exampleSentence": "The defendant, though absent from the scene, was convicted as an indirect principal offender for manipulating a mentally disabled victim into committing fraud.",
-  "exampleTranslation": "その被告は、現場にはいなかったが、精神的な障害を持つ被害者を操作して詐欺を実行させたとして、間接正犯として有罪判決を受けた。",
+  "word": "Judicial Duty of Clarification",
+  "definition": "The court's duty (or power, 釈明権) to question the parties during litigation regarding unclear factual assertions or legal arguments, ensuring the scope of the dispute and the necessary evidence are properly defined.",
+  "japaneseDefinition": "裁判所が、当事者の提出する事実の主張や法律上の主張が不明確である場合、あるいは矛盾をはらむ場合に、その内容を明確にさせるために行う質問や指示の義務。",
+  "japaneseWordTranslation": "釈明義務 (しゃくめいぎむ)",
+  "legalContext": "Code of Civil Procedure (Minji Soshōhō) Art. 149: The presiding judge may question the parties concerning facts and claims or defenses, and demand that they clarify ambiguities.",
+  "japaneseLegalContext": "民事訴訟法第149条: 裁判長は、事実上及び法律上の事項に関し、当事者に質問を発し、又は立証を促すことができる。",
+  "exampleSentence": "The judge exercised the judicial duty of clarification to press the plaintiff for specifics regarding the causal link between the alleged damages and the defendant's action.",
+  "exampleTranslation": "裁判官は、原告に対し、主張された損害と被告の行為との間の因果関係に関する具体的な説明を促すため、釈明権を行使した。",
   "vocabularyList": [
     {
-      "word": "executes the elements",
-      "translation": "構成要件を実行する"
+      "word": "Presiding judge",
+      "translation": "裁判長 (さいばんちょう)"
     },
     {
-      "word": "direct principal",
-      "translation": "直接正犯"
+      "word": "Factual assertions",
+      "translation": "事実の主張 (じじつのしゅちょう)"
     },
     {
-      "word": "indirect principal",
-      "translation": "間接正犯"
+      "word": "Causal link",
+      "translation": "因果関係 (いんがかんけい)"
     },
     {
-      "word": "convicted",
-      "translation": "有罪判決を受けた"
+      "word": "Scope of the dispute",
+      "translation": "争点整理 (そうてんせいり)"
     },
     {
-      "word": "judicial precedent",
-      "translation": "判例"
-    },
-    {
-      "word": "manipulating",
-      "translation": "操作する"
+      "word": "Clarify ambiguities",
+      "translation": "不明確な点を明確にする (ふめいかくなてんをめいかくにする)"
     }
   ]
 }

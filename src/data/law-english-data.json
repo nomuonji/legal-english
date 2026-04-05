@@ -1,34 +1,38 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Judicial Duty of Clarification",
-  "definition": "The court's duty (or power, 釈明権) to question the parties during litigation regarding unclear factual assertions or legal arguments, ensuring the scope of the dispute and the necessary evidence are properly defined.",
-  "japaneseDefinition": "裁判所が、当事者の提出する事実の主張や法律上の主張が不明確である場合、あるいは矛盾をはらむ場合に、その内容を明確にさせるために行う質問や指示の義務。",
-  "japaneseWordTranslation": "釈明義務 (しゃくめいぎむ)",
-  "legalContext": "Code of Civil Procedure (Minji Soshōhō) Art. 149: The presiding judge may question the parties concerning facts and claims or defenses, and demand that they clarify ambiguities.",
-  "japaneseLegalContext": "民事訴訟法第149条: 裁判長は、事実上及び法律上の事項に関し、当事者に質問を発し、又は立証を促すことができる。",
-  "exampleSentence": "The judge exercised the judicial duty of clarification to press the plaintiff for specifics regarding the causal link between the alleged damages and the defendant's action.",
-  "exampleTranslation": "裁判官は、原告に対し、主張された損害と被告の行為との間の因果関係に関する具体的な説明を促すため、釈明権を行使した。",
+  "word": "Execution against Vessels",
+  "definition": "A specialized category of execution targeting ships and other vessels. Because vessels possess characteristics similar to immovable property (requiring registration), their enforcement procedures differ significantly from those for general movable property, often involving securing the ship's port of presence.",
+  "japaneseDefinition": "船舶を目的物とする専門的な執行手続。船舶は登記・登録を要するなど不動産に類似した性質を持つため、一般の動産執行とは異なる手続きが適用され、通常、船舶の所在地を管轄する裁判所が執行を取り扱う。",
+  "japaneseWordTranslation": "船舶執行 (せんぱくしっこう)",
+  "legalContext": "Civil Execution Act, Chapter 4 (Provisions on Execution against Vessels)",
+  "japaneseLegalContext": "民事執行法 第4章 (船舶に対する執行の規定)",
+  "exampleSentence": "Due to the outstanding maritime lien, the obligee initiated execution against vessels, resulting in the temporary immobilization of the freighter at port.",
+  "exampleTranslation": "未払いの船舶先取特権があるため、債権者は船舶執行を開始し、その結果、当該貨物船は港で一時的に動けなくなった。",
   "vocabularyList": [
     {
-      "word": "Presiding judge",
-      "translation": "裁判長 (さいばんちょう)"
+      "word": "specialized category",
+      "translation": "専門的な区分"
     },
     {
-      "word": "Factual assertions",
-      "translation": "事実の主張 (じじつのしゅちょう)"
+      "word": "maritime lien",
+      "translation": "船舶先取特権"
     },
     {
-      "word": "Causal link",
-      "translation": "因果関係 (いんがかんけい)"
+      "word": "freighter",
+      "translation": "貨物船"
     },
     {
-      "word": "Scope of the dispute",
-      "translation": "争点整理 (そうてんせいり)"
+      "word": "immobilization",
+      "translation": "動けなくすること／係留"
     },
     {
-      "word": "Clarify ambiguities",
-      "translation": "不明確な点を明確にする (ふめいかくなてんをめいかくにする)"
+      "word": "port of presence",
+      "translation": "所在地／現に存在する港"
+    },
+    {
+      "word": "registration",
+      "translation": "登記／登録"
     }
   ]
 }

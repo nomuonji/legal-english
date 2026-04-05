@@ -2,44 +2,6 @@
   {
     "category": "Civil Execution (民事執行法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Execution against Vessels",
-    "definition": "A specialized category of execution targeting ships and other vessels. Because vessels possess characteristics similar to immovable property (requiring registration), their enforcement procedures differ significantly from those for general movable property, often involving securing the ship's port of presence.",
-    "japaneseDefinition": "船舶を目的物とする専門的な執行手続。船舶は登記・登録を要するなど不動産に類似した性質を持つため、一般の動産執行とは異なる手続きが適用され、通常、船舶の所在地を管轄する裁判所が執行を取り扱う。",
-    "japaneseWordTranslation": "船舶執行 (せんぱくしっこう)",
-    "legalContext": "Civil Execution Act, Chapter 4 (Provisions on Execution against Vessels)",
-    "japaneseLegalContext": "民事執行法 第4章 (船舶に対する執行の規定)",
-    "exampleSentence": "Due to the outstanding maritime lien, the obligee initiated execution against vessels, resulting in the temporary immobilization of the freighter at port.",
-    "exampleTranslation": "未払いの船舶先取特権があるため、債権者は船舶執行を開始し、その結果、当該貨物船は港で一時的に動けなくなった。",
-    "vocabularyList": [
-      {
-        "word": "specialized category",
-        "translation": "専門的な区分"
-      },
-      {
-        "word": "maritime lien",
-        "translation": "船舶先取特権"
-      },
-      {
-        "word": "freighter",
-        "translation": "貨物船"
-      },
-      {
-        "word": "immobilization",
-        "translation": "動けなくすること／係留"
-      },
-      {
-        "word": "port of presence",
-        "translation": "所在地／現に存在する港"
-      },
-      {
-        "word": "registration",
-        "translation": "登記／登録"
-      }
-    ]
-  },
-  {
-    "category": "Civil Execution (民事執行法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Order of Granting Sale",
     "definition": "A judicial order issued by the execution court that formally approves the transfer of executed property (typically immovable property) to the successful bidder after the bidding process is completed and objections, if any, have been resolved.",
     "japaneseDefinition": "執行裁判所が、開札期日の後に、買受申出人による代金の納付を許可し、不動産の所有権をその買受人に移転させることを決定する裁判。",
@@ -24394,6 +24356,74 @@
       {
         "word": "Submission",
         "translation": "提出"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for Compulsory Mooring",
+    "definition": "A court order requiring a construction machine or similar asset to be kept at a specific location to facilitate the process of its seizure and subsequent sale.",
+    "japaneseDefinition": "建設機械等につき、その換価を容易にするために、特定の場所での留置を命じる裁判所の命令。",
+    "japaneseWordTranslation": "強制停置命令 (きょうせいていちめいれい)",
+    "legalContext": "Civil Execution Act Art. 121: The execution court may, when it finds it necessary for the execution against a construction machine, order that the machine be moored at a specific place.",
+    "japaneseLegalContext": "民事執行法121条：執行裁判所は、建設機械に対する執行のため必要があると認めるときは、当該建設機械を特定の場所に停置すべき旨を命ずることができる。",
+    "exampleSentence": "The judge issued an order for compulsory mooring to ensure the heavy equipment remained accessible for the upcoming inspection.",
+    "exampleTranslation": "裁判官は、重機が次回の検査のために確実に利用可能な状態に置かれるよう、強制停置命令を出した。",
+    "vocabularyList": [
+      {
+        "word": "Execution court",
+        "translation": "執行裁判所"
+      },
+      {
+        "word": "Construction machine",
+        "translation": "建設機械"
+      },
+      {
+        "word": "Mooring",
+        "translation": "停置"
+      },
+      {
+        "word": "Heavy equipment",
+        "translation": "重機"
+      },
+      {
+        "word": "Inspection",
+        "translation": "検査"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Prohibition of Acts Reducing Property Value",
+    "definition": "A court-ordered injunction preventing the possessor of real property from performing actions that would decrease its market worth during the process of a judicial sale.",
+    "japaneseDefinition": "不動産の競売手続において、その価値を減少させる行為を占有者等に禁じる裁判所の命令。",
+    "japaneseWordTranslation": "不動産価値減少行為の禁止命令 (ふどうさんかちげんしょうこういのきんしめいれい)",
+    "legalContext": "Civil Execution Act Art. 55: The execution court may, upon petition, issue an order prohibiting acts that significantly reduce the value of the real property.",
+    "japaneseLegalContext": "民事執行法55条：執行裁判所は、申立てにより、不動産の価値を著しく減少させる行為を禁止する命令を発することができる。",
+    "exampleSentence": "The creditor requested a prohibition of acts reducing property value to prevent the resident from stripping the fixtures before the auction.",
+    "exampleTranslation": "債権者は、競売前に居住者が備え付け品を取り外すのを防ぐため、不動産価値減少行為の禁止命令を申し立てた。",
+    "vocabularyList": [
+      {
+        "word": "Injunction",
+        "translation": "禁止命令"
+      },
+      {
+        "word": "Market worth",
+        "translation": "市場価値"
+      },
+      {
+        "word": "Judicial sale",
+        "translation": "競売"
+      },
+      {
+        "word": "Strip",
+        "translation": "剥ぎ取る・取り外す"
+      },
+      {
+        "word": "Significantly",
+        "translation": "著しく"
       }
     ]
   }

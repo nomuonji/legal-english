@@ -23120,5 +23120,107 @@
         "translation": "決議"
       }
     ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Shareholder's Right to Propose an Amendment",
+    "definition": "The right of a shareholder to propose an alternative or modified version of a resolution during a general meeting, as distinct from the right to propose a new agenda item prior to the meeting.",
+    "japaneseDefinition": "株主総会の場において、あらかじめ提出されている議案に対して、修正を加えた案（修正案）を提出する権利。",
+    "japaneseWordTranslation": "修正案の提出権 (しゅうせいあんのていしゅつけん)",
+    "legalContext": "Companies Act Art. 304: A shareholder may submit an amendment to a proposal submitted at a shareholders' meeting with respect to the matters that are the purpose of the shareholders' meeting...",
+    "japaneseLegalContext": "会社法第304条：株主は、株主総会において、当該株主総会の目的である事項につき、修正案を提出することができる。",
+    "exampleSentence": "During the general meeting, a minority shareholder exercised their right to propose an amendment to the director's remuneration proposal.",
+    "exampleTranslation": "株主総会の最中、ある少数株主が取締役の報酬案に対する修正案の提出権を行使した。",
+    "vocabularyList": [
+      {
+        "word": "Alternative",
+        "translation": "代替案"
+      },
+      {
+        "word": "Modified version",
+        "translation": "修正版"
+      },
+      {
+        "word": "Agenda item",
+        "translation": "議題"
+      },
+      {
+        "word": "Exercise a right",
+        "translation": "権利を行使する"
+      },
+      {
+        "word": "Minority shareholder",
+        "translation": "少数株主"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Liability of an Apparent Executive Officer",
+    "definition": "A legal doctrine where a company is held responsible for the actions of an individual whom it has allowed to appear as an executive officer with authority to represent the company, even if that person lacks such actual authority.",
+    "japaneseDefinition": "会社を代表する権限がある執行役であると誤認させるような名称を付した者が行った行為について、善意の第三者に対して会社が負う責任。",
+    "japaneseWordTranslation": "表見執行役の責任 (ひょうけんしっこうやくのせきにん)",
+    "legalContext": "Companies Act Art. 420, Para. 3: A Company with Three Committees shall be liable to a third party in good faith for any act performed by an executive officer whom it has given a title that is likely to cause the misunderstanding that the executive officer has the authority to represent the Company...",
+    "japaneseLegalContext": "会社法第420条第3項：指名委員会等設置会社は、代表執行役以外の執行役に社長、副社長その他会社を代表する権限を有するものと認められる名称を付したときは、当該執行役がした行為について、善意の第三者に対してその責任を負う。",
+    "exampleSentence": "The company was unable to deny liability for the contract because it had bestowed the title of 'Acting President' upon an individual, invoking the liability of an apparent executive officer.",
+    "exampleTranslation": "会社はある個人に「社長代行」の肩書きを与えていたため、表見執行役の責任が発生し、契約上の責任を否定することができなかった。",
+    "vocabularyList": [
+      {
+        "word": "Legal doctrine",
+        "translation": "法的法理"
+      },
+      {
+        "word": "Authority to represent",
+        "translation": "代表権"
+      },
+      {
+        "word": "Third party in good faith",
+        "translation": "善意の第三者"
+      },
+      {
+        "word": "Bestow a title",
+        "translation": "肩書きを付与する"
+      },
+      {
+        "word": "Invoke",
+        "translation": "援用する・発動させる"
+      }
+    ]
+  },
+  {
+    "category": "Companies Act (会社法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Duty to Prepare a Record of the Exercise of Voting Rights",
+    "definition": "The obligation of a company to create and retain a document or electronic record summarizing how voting rights were exercised (e.g., via mail or electronic means) for a period of time following a general meeting of shareholders.",
+    "japaneseDefinition": "株主総会において、書面または電磁的方法によって行使された議決権の結果を記録した書類（議決権行使書面等）を作成・備え置く義務。",
+    "japaneseWordTranslation": "議決権行使記録の作成義務 (ぎけつけんこうしきろくのさくせいぎむ)",
+    "legalContext": "Companies Act Art. 310 to 312: These articles detail the procedures for voting by proxy, in writing, and by electronic means, and require companies to keep records of such exercises for inspection by shareholders.",
+    "japaneseLegalContext": "会社法第310条〜312条：代理人による議決権の行使、書面による議決権の行使、電磁的方法による議決権の行使について規定しており、会社はこれらの記録を一定期間保存し閲覧に供する義務を負う。",
+    "exampleSentence": "A failure to fulfill the duty to prepare a record of the exercise of voting rights may lead to a challenge regarding the validity of the passed resolutions.",
+    "exampleTranslation": "議決権行使記録の作成義務を怠ると、可決された決議の有効性について異議を唱えられる可能性がある。",
+    "vocabularyList": [
+      {
+        "word": "Electronic means",
+        "translation": "電磁的方法"
+      },
+      {
+        "word": "Summarizing",
+        "translation": "要約する"
+      },
+      {
+        "word": "Retain a document",
+        "translation": "書面を保存する"
+      },
+      {
+        "word": "Fulfill an obligation",
+        "translation": "義務を果たす"
+      },
+      {
+        "word": "Passed resolution",
+        "translation": "可決された決議"
+      }
+    ]
   }
 ]

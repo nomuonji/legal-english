@@ -2,44 +2,6 @@
   {
     "category": "Criminal Code (刑法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Principal Offender",
-    "definition": "The person who directly executes the elements constituting a crime (direct principal) or utilizes another person lacking capacity for responsibility as a tool to commit the crime (indirect principal).",
-    "japaneseDefinition": "自ら構成要件的行為を遂行する者（直接正犯）、あるいは責任無能力者などを道具として利用し、犯罪を実行する者（間接正犯）。",
-    "japaneseWordTranslation": "正犯 (せいはん)",
-    "legalContext": "Criminal Code Art. 60 primarily defines co-principals (joint execution). The concept of the indirect principal (間接正犯) is established through judicial precedent.",
-    "japaneseLegalContext": "刑法第60条: 共同して犯罪を実行した者は、すべて正犯とする。",
-    "exampleSentence": "The defendant, though absent from the scene, was convicted as an indirect principal offender for manipulating a mentally disabled victim into committing fraud.",
-    "exampleTranslation": "その被告は、現場にはいなかったが、精神的な障害を持つ被害者を操作して詐欺を実行させたとして、間接正犯として有罪判決を受けた。",
-    "vocabularyList": [
-      {
-        "word": "executes the elements",
-        "translation": "構成要件を実行する"
-      },
-      {
-        "word": "direct principal",
-        "translation": "直接正犯"
-      },
-      {
-        "word": "indirect principal",
-        "translation": "間接正犯"
-      },
-      {
-        "word": "convicted",
-        "translation": "有罪判決を受けた"
-      },
-      {
-        "word": "judicial precedent",
-        "translation": "判例"
-      },
-      {
-        "word": "manipulating",
-        "translation": "操作する"
-      }
-    ]
-  },
-  {
-    "category": "Criminal Code (刑法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Capacity for Responsibility",
     "definition": "The mental and intellectual ability of an individual to understand the unlawfulness of their actions and to act according to that understanding; a fundamental prerequisite for the imposition of criminal punishment.",
     "japaneseDefinition": "行為の違法性を理解し、それに基づいて自己の行動を制御・決定する能力。刑罰を科すための前提要件。",
@@ -24180,6 +24142,120 @@
       {
         "word": "Under the age of 16",
         "translation": "16歳未満"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "The Doctrine of Transferred Intent",
+    "definition": "A legal doctrine where the intent to harm one specific person or object is transferred to the actual person or object harmed, even if the result was not the perpetrator's original goal.",
+    "japaneseDefinition": "ある対象に対して殺意や攻撃の意思（故意）を持って行為に及んだが、方法の誤りなどにより別の対象に結果が発生した場合でも、発生した結果について故意を認める法理。",
+    "japaneseWordTranslation": "打撃の錯誤 (Dageki no sakugo)",
+    "legalContext": "Criminal Code principles regarding 'Mistake of Fact' (Art. 38, Para. 2), where the law considers whether the deviation in the causal chain negates the intent to commit the crime.",
+    "japaneseLegalContext": "刑法第38条第2項（事実の錯誤）に関連する法理。実行行為者が意図した対象とは異なる対象に結果が生じた場合の故意の帰属に関する議論。",
+    "exampleSentence": "Under the doctrine of transferred intent, if A fires a gun at B but hits C instead, A is still liable for intentional assault or murder against C.",
+    "exampleTranslation": "打撃の錯誤の法理に基づき、AがBを狙って発砲したもののCに当たった場合、Aは依然としてCに対する殺人罪や傷害罪の故意責任を問われることになる。",
+    "vocabularyList": [
+      {
+        "word": "Perpetrator",
+        "translation": "加害者"
+      },
+      {
+        "word": "Causal chain",
+        "translation": "因果の流れ"
+      },
+      {
+        "word": "Deviation",
+        "translation": "逸脱"
+      },
+      {
+        "word": "Liable",
+        "translation": "法的責任がある"
+      },
+      {
+        "word": "Specific target",
+        "translation": "特定の対象"
+      },
+      {
+        "word": "Negate",
+        "translation": "否定する"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Obstructing an Inquest",
+    "definition": "The criminal act of concealing or altering a corpse before a judicial or administrative medical examination (inquest) is performed by the competent authorities.",
+    "japaneseDefinition": "検察官、検察事務官又は司法警察員による検視が行われる前に、死体を損壊し、遺棄し、若しくは隠匿し、又は犯人の罪を隠蔽する目的で変死体を変容させる罪。",
+    "japaneseWordTranslation": "検視妨害罪 (Kenshi bōgaizai)",
+    "legalContext": "Criminal Code Art. 192: A person who damages, abandons, or hides a corpse of a person who died an unnatural death, or alters such a corpse for the purpose of concealing a crime before an inquest is performed, shall be punished.",
+    "japaneseLegalContext": "刑法第192条：検察官、検察事務官又は司法警察員による検視を経ないで、変死体を損壊し、遺棄し、若しくは隠匿し、又は犯人の罪を隠蔽する目的でこれを変容させた者は、罰金に処する。",
+    "exampleSentence": "The suspect was charged with obstructing an inquest after he moved the body from the crime scene before the police could arrive to conduct a forensic examination.",
+    "exampleTranslation": "警察が法医学的調査を行うために到着する前に遺体を現場から移動させたため、容疑者は検視妨害罪で起訴された。",
+    "vocabularyList": [
+      {
+        "word": "Inquest",
+        "translation": "検視"
+      },
+      {
+        "word": "Unnatural death",
+        "translation": "変死"
+      },
+      {
+        "word": "Forensic examination",
+        "translation": "法医学的調査"
+      },
+      {
+        "word": "Competent authorities",
+        "translation": "主務官庁"
+      },
+      {
+        "word": "Crime scene",
+        "translation": "犯行現場"
+      },
+      {
+        "word": "Alter a corpse",
+        "translation": "死体を変容させる"
+      }
+    ]
+  },
+  {
+    "category": "Criminal Code (刑法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Mercy Killing",
+    "definition": "The act of ending a person's life to relieve them from incurable suffering, often discussed in the context of homicide with consent or euthanasia within Japanese criminal theory.",
+    "japaneseDefinition": "不治の病などで苦しむ者の苦痛を除去するために、その者の生命を絶つ行為。日本法では「承諾殺人罪」との関係や安楽死の許容要件として議論される。",
+    "japaneseWordTranslation": "安楽死 (Anrakushi)",
+    "legalContext": "While not explicitly named in the Code, it is prosecuted under Homicide (Art. 199) or Homicide with Consent (Art. 202). Case law (e.g., Tokai University Euthanasia Case) establishes strict requirements for legality.",
+    "japaneseLegalContext": "刑法に明文規定はないが、殺人罪（199条）や同意殺人罪（202条）として処罰される。判例（東海大学安楽死事件等）により、違法性が阻却されるための厳格な要件が示されている。",
+    "exampleSentence": "The court carefully deliberated whether the doctor's actions constituted a legally permissible mercy killing or a criminal act of consensual homicide.",
+    "exampleTranslation": "裁判所は、医師の行為が法的に許容される安楽死に該当するか、あるいは承諾殺人という犯罪行為にあたるかを慎重に審議した。",
+    "vocabularyList": [
+      {
+        "word": "Incurable suffering",
+        "translation": "不治の苦痛"
+      },
+      {
+        "word": "Permissible",
+        "translation": "許容される"
+      },
+      {
+        "word": "Consensual",
+        "translation": "合意に基づいた"
+      },
+      {
+        "word": "Explicit",
+        "translation": "明示的な"
+      },
+      {
+        "word": "Case law",
+        "translation": "判例法"
+      },
+      {
+        "word": "Relieve",
+        "translation": "和らげる・除去する"
       }
     ]
   }

@@ -1,38 +1,38 @@
 {
-  "category": "Real Property Registration (不動産登記法)",
+  "category": "Criminal Code (刑法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Preliminary Registration",
-  "definition": "A type of registration executed temporarily to reserve the priority of a future full registration, especially when not all procedural conditions for the full registration (e.g., necessary permits, consent of the obligor) have been met.",
-  "japaneseDefinition": "将来行うべき本登記の順位を保全するため、あらかじめ暫定的に行われる登記。本登記が実行されれば、本登記の順位は遡及して予備登記の順位となる。",
-  "japaneseWordTranslation": "予備登記 (よびとうき)",
-  "legalContext": "Real Property Registration Act Art. 103: A preliminary registration may be filed when the necessary documents for registration are insufficient, or when the consent or permission of a third party is required.",
-  "japaneseLegalContext": "不動産登記法第103条：登記に必要な情報が不足しているとき、または第三者の承諾・許可を要するときは、予備登記をすることができる。",
-  "exampleSentence": "Since the necessary administrative permit had not yet been issued, the applicant filed a Preliminary Registration to secure their priority for the subsequent full registration of the ownership transfer.",
-  "exampleTranslation": "必要な行政許可がまだ下りていなかったので、申請者は、その後の所有権移転の本登記の順位を確保するために予備登記を申請した。",
+  "word": "Principal Offender",
+  "definition": "The person who directly executes the elements constituting a crime (direct principal) or utilizes another person lacking capacity for responsibility as a tool to commit the crime (indirect principal).",
+  "japaneseDefinition": "自ら構成要件的行為を遂行する者（直接正犯）、あるいは責任無能力者などを道具として利用し、犯罪を実行する者（間接正犯）。",
+  "japaneseWordTranslation": "正犯 (せいはん)",
+  "legalContext": "Criminal Code Art. 60 primarily defines co-principals (joint execution). The concept of the indirect principal (間接正犯) is established through judicial precedent.",
+  "japaneseLegalContext": "刑法第60条: 共同して犯罪を実行した者は、すべて正犯とする。",
+  "exampleSentence": "The defendant, though absent from the scene, was convicted as an indirect principal offender for manipulating a mentally disabled victim into committing fraud.",
+  "exampleTranslation": "その被告は、現場にはいなかったが、精神的な障害を持つ被害者を操作して詐欺を実行させたとして、間接正犯として有罪判決を受けた。",
   "vocabularyList": [
     {
-      "word": "full registration",
-      "translation": "本登記"
+      "word": "executes the elements",
+      "translation": "構成要件を実行する"
     },
     {
-      "word": "reserve priority",
-      "translation": "順位を保全する"
+      "word": "direct principal",
+      "translation": "直接正犯"
     },
     {
-      "word": "procedural conditions",
-      "translation": "手続要件"
+      "word": "indirect principal",
+      "translation": "間接正犯"
     },
     {
-      "word": "consent",
-      "translation": "承諾"
+      "word": "convicted",
+      "translation": "有罪判決を受けた"
     },
     {
-      "word": "subsequent",
-      "translation": "その後の"
+      "word": "judicial precedent",
+      "translation": "判例"
     },
     {
-      "word": "administrative permit",
-      "translation": "行政許可"
+      "word": "manipulating",
+      "translation": "操作する"
     }
   ]
 }

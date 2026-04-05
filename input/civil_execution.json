@@ -24294,5 +24294,107 @@
         "translation": "金額"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Acceptance of the Claim by the Third-Party Debtor",
+    "definition": "A formal statement made by a third-party debtor (such as a bank or an employer) acknowledging the existence and amount of a claim that has been seized by a creditor in a garnishment proceeding.",
+    "japaneseDefinition": "債権差押手続において、第三債務者（銀行や雇用主など）が、差し押さえられた債権の存在や額を認めること。",
+    "japaneseWordTranslation": "第三債務者の債権の認諾 (だいさんさいむしゃのさいけんのにんだく)",
+    "legalContext": "Rules of Civil Execution Art. 147: When a third-party debtor has received a demand for a statement... and makes a statement acknowledging the claim, the court may record such acceptance.",
+    "japaneseLegalContext": "民事執行規則第147条：第三債務者が陳述の催告を受け、その債権を認める旨の陳述をしたときは、裁判所はその認諾を記録することができる。",
+    "exampleSentence": "The creditor filed a motion to have the acceptance of the claim by the third-party debtor recorded in the execution minutes.",
+    "exampleTranslation": "債権者は、第三債務者による債権の認諾を執行調書に記載させるための申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "Garnishment",
+        "translation": "債権差押え"
+      },
+      {
+        "word": "Proceeding",
+        "translation": "手続"
+      },
+      {
+        "word": "Acknowledgment",
+        "translation": "承認/認諾"
+      },
+      {
+        "word": "Minutes",
+        "translation": "調書"
+      },
+      {
+        "word": "Motion",
+        "translation": "申立て"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Compulsory Auction of a Foreign Vessel",
+    "definition": "The judicial process of selling a vessel registered in a foreign country to satisfy the claims of a creditor, conducted under the jurisdiction where the vessel is currently moored or anchored.",
+    "japaneseDefinition": "債権者の請求を充足させるために、外国籍の船舶を裁判所の関与のもとで売却する手続。船舶が繋留・停泊している場所の管轄裁判所で行われる。",
+    "japaneseWordTranslation": "外国船舶の強制競売 (がいこくせんぱくのきょうせいけいばい)",
+    "legalContext": "Civil Execution Act Art. 120: The provisions regarding the compulsory auction of a vessel shall apply mutatis mutandis to the compulsory auction of a foreign vessel.",
+    "japaneseLegalContext": "民事執行法第120条：船舶の強制競売に関する規定は、外国船舶の強制競売について準用する。",
+    "exampleSentence": "The court ordered the compulsory auction of a foreign vessel after the creditor proved the existence of a maritime lien.",
+    "exampleTranslation": "債権者が船舶先取特権の存在を証明したため、裁判所は外国船舶の強制競売を命じた。",
+    "vocabularyList": [
+      {
+        "word": "Vessel",
+        "translation": "船舶"
+      },
+      {
+        "word": "Jurisdiction",
+        "translation": "管轄"
+      },
+      {
+        "word": "Maritime lien",
+        "translation": "船舶先取特権"
+      },
+      {
+        "word": "Satisfy",
+        "translation": "（債務を）弁済する"
+      },
+      {
+        "word": "Moored",
+        "translation": "繋留された"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Stay of Compulsory Execution through the Submission of a Payment Record",
+    "definition": "A temporary suspension of the enforcement process granted by the court when the debtor submits a document, such as a bank transfer record or a receipt, officially evidencing that the debt has already been discharged.",
+    "japaneseDefinition": "債務者が銀行振込の記録や領収書など、債務が既に完済されたことを正式に証明する書類を提出した際に、裁判所によって認められる強制執行手続の一時停止。",
+    "japaneseWordTranslation": "弁済を証する文書の提出による強制執行の停止 (べんさいをしょうするぶんしょのていしゅつによるきょうせいしっこうのていし)",
+    "legalContext": "Civil Execution Act Art. 39, Para. 1, Item 7: Compulsory execution shall be stayed if a document proving that the obligor has made a payment or was granted an extension is submitted.",
+    "japaneseLegalContext": "民事執行法第39条第1項第7号：債務者が弁済を受け、又は猶予を得たことを証する文書を提出したときは、強制執行を停止しなければならない。",
+    "exampleSentence": "The stay of compulsory execution through the submission of a payment record was granted after the debtor provided a certified bank transfer statement.",
+    "exampleTranslation": "債務者が証明書付きの銀行振込明細を提出したため、弁済を証する文書の提出による強制執行の停止が認められた。",
+    "vocabularyList": [
+      {
+        "word": "Stay",
+        "translation": "停止"
+      },
+      {
+        "word": "Discharged",
+        "translation": "（義務が）消滅した"
+      },
+      {
+        "word": "Evidence",
+        "translation": "証明する/証拠"
+      },
+      {
+        "word": "Suspension",
+        "translation": "一時停止"
+      },
+      {
+        "word": "Submission",
+        "translation": "提出"
+      }
+    ]
   }
 ]

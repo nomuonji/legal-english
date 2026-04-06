@@ -24392,5 +24392,107 @@
         "translation": "著しく"
       }
     ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Demand for the Reporting of Information on the Debtor's Assets",
+    "definition": "A procedural request made to the court to order public agencies or financial institutions to provide information regarding the assets held by the debtor, such as employment details or bank account information.",
+    "japaneseDefinition": "公的機関や金融機関に対し、債務者の勤務先や預貯金口座などの財産に関する情報の提供を命じるよう裁判所に申し立てる手続きを指します。",
+    "japaneseWordTranslation": "財産情報の提供申立て (ざいさんじょうほうのていきょうもうしたて)",
+    "legalContext": "Civil Execution Act Art. 197: If a debtor fails to make a full disclosure in the asset disclosure procedure, the court may, upon the petition of the creditor, order public agencies to provide information.",
+    "japaneseLegalContext": "民事執行法第197条：財産開示手続において債務者が十分な開示をしない場合、債権者の申立てにより、裁判所は公的機関等に対し情報の提供を命じることができます。",
+    "exampleSentence": "The creditor filed a demand for the reporting of information on the debtor's assets to identify the debtor's current employer for the purpose of attaching wages.",
+    "exampleTranslation": "債権者は、給与を差し押さえるために債務者の現在の勤務先を特定するため、財産情報の提供申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "Public agencies",
+        "translation": "公的機関"
+      },
+      {
+        "word": "Asset disclosure",
+        "translation": "財産開示"
+      },
+      {
+        "word": "Identify",
+        "translation": "特定する"
+      },
+      {
+        "word": "Current employer",
+        "translation": "現在の勤務先"
+      },
+      {
+        "word": "Filing a petition",
+        "translation": "申立てを行う"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Stay of the Procedure for the Delivery of Residential Property",
+    "definition": "A temporary postponement of the enforcement of a court order to vacate a residence, granted under specific circumstances where immediate eviction would cause extreme hardship to the occupant.",
+    "japaneseDefinition": "居住用建物の明け渡し執行において、即時の退去が居住者に著しい困難を生じさせる場合に、特例として執行を一時的に猶予する措置を指します。",
+    "japaneseWordTranslation": "居住用建物の引渡し執行の猶予 (きょじゅうようたてもののひきわたししっこうのゆうよ)",
+    "legalContext": "Civil Execution Act Art. 83-2: In cases involving the delivery of a building used as a residence, the court may grant a stay of the procedure for a period not exceeding six months under certain conditions.",
+    "japaneseLegalContext": "民事執行法第83条の2：居住の用に供する建物の引渡しにおいて、裁判所は一定の要件下で、6か月を超えない範囲で執行の猶予を認めることができます。",
+    "exampleSentence": "Due to the occupant's severe illness, the court granted a stay of the procedure for the delivery of the residential property for three months.",
+    "exampleTranslation": "居住者の重病を理由に、裁判所は居住用建物の引渡し執行を3か月間猶予した。",
+    "vocabularyList": [
+      {
+        "word": "Postponement",
+        "translation": "猶予 / 延期"
+      },
+      {
+        "word": "Eviction",
+        "translation": "立ち退き"
+      },
+      {
+        "word": "Extreme hardship",
+        "translation": "著しい困難"
+      },
+      {
+        "word": "Occupant",
+        "translation": "居住者"
+      },
+      {
+        "word": "Severe illness",
+        "translation": "重病"
+      }
+    ]
+  },
+  {
+    "category": "Civil Execution (民事執行法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for the Forfeiture of the Bidding Deposit",
+    "definition": "A court order stating that the guarantee money paid by the highest bidder shall not be returned if the bidder fails to pay the remaining balance of the purchase price by the designated deadline.",
+    "japaneseDefinition": "最高価買受人が指定された期限までに代金を納付しなかった場合に、あらかじめ納付されていた入札保証金を没収し、返還しないことを命じる決定です。",
+    "japaneseWordTranslation": "保証金の不返還決定 (ほしょうきんのふへんかんけってい)",
+    "legalContext": "Civil Execution Act Art. 80: If the purchaser fails to pay the price, the guarantee provided shall be used to cover the costs of the subsequent auction and interest, and any surplus shall not be returned to the purchaser.",
+    "japaneseLegalContext": "民事執行法第80条：買受人が代金を支払わないときは、提供された保証は返還されず、再売却の費用や利息に充当されます。",
+    "exampleSentence": "The court issued an order for the forfeiture of the bidding deposit after the successful bidder defaulted on the final payment.",
+    "exampleTranslation": "落札者が最終的な代金の支払いを怠ったため、裁判所は入札保証金の不返還決定を下した。",
+    "vocabularyList": [
+      {
+        "word": "Default",
+        "translation": "不履行 / 怠る"
+      },
+      {
+        "word": "Remaining balance",
+        "translation": "残額"
+      },
+      {
+        "word": "Designated deadline",
+        "translation": "指定された期限"
+      },
+      {
+        "word": "Forfeiture",
+        "translation": "没収 / 不返還"
+      },
+      {
+        "word": "Successful bidder",
+        "translation": "落札者 / 買受人"
+      }
+    ]
   }
 ]

@@ -2,40 +2,6 @@
   {
     "category": "Civil Procedure (民事訴訟法)",
     "titleText": "Mastering\nJapanese Legal English",
-    "word": "Final and Binding Judgment",
-    "definition": "A judgment that has become legally definitive, meaning the period for ordinary appeals (kōso or jōkoku) has expired, or all avenues of appeal have been exhausted, granting it conclusive effect.",
-    "japaneseDefinition": "通常の不服申立て（控訴または上告）期間が経過した、またはそれらの手続が終了したことにより、もはや上級裁判所による審査を受けず、確定的な効力を持つことになった判決。",
-    "japaneseWordTranslation": "確定判決 (かくていはんけつ)",
-    "legalContext": "Code of Civil Procedure (Minji Soshōhō) Art. 114: A judgment becomes final and binding upon the lapse of the period for appeal or when the appeal proceedings are concluded.",
-    "japaneseLegalContext": "民事訴訟法第114条: 判決は、上訴期間の満了又は上訴の手続の終了により確定する。",
-    "exampleSentence": "The court issued a certificate stating that the judgment had become final and binding, thereby enabling the plaintiff to proceed with enforcement.",
-    "exampleTranslation": "裁判所は、当該判決が確定判決となった旨の証明書を発行し、これにより原告は執行手続に進むことが可能となった。",
-    "vocabularyList": [
-      {
-        "word": "Legally definitive",
-        "translation": "法律的に確定的な (ほうりつてきにかくていてきな)"
-      },
-      {
-        "word": "Lapse of the period",
-        "translation": "期間の満了 (きかんのまんりょう)"
-      },
-      {
-        "word": "Conclusive effect",
-        "translation": "終局的な効力 (しゅうきょくてきなこうりょく)"
-      },
-      {
-        "word": "Enforcement",
-        "translation": "執行 (しっこう)"
-      },
-      {
-        "word": "Certificate",
-        "translation": "証明書 (しょうめいしょ)"
-      }
-    ]
-  },
-  {
-    "category": "Civil Procedure (民事訴訟法)",
-    "titleText": "Mastering\nJapanese Legal English",
     "word": "Curing of Procedural Defects",
     "definition": "The mechanism whereby a litigation act that was initially invalid due to a formal defect (such as improper representation or lack of required documents) is subsequently validated if the defect is corrected retrospectively.",
     "japaneseDefinition": "当初、方式的な瑕疵（たとえば不適法な代理人または書類の不備）によって無効であった訴訟行為が、その瑕疵が後になって是正されることにより、遡及的に有効なものとして取り扱われること。",
@@ -25782,6 +25748,82 @@
       {
         "word": "Detailed explanation",
         "translation": "詳細な説明"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order to Produce a List of Documents",
+    "definition": "A court order requiring a person who is under an obligation to produce documents to first submit a list of the documents they possess before the actual production takes place.",
+    "japaneseDefinition": "文書提出義務を負う者に対し、文書の提出を命じる前に、まずその所持する文書の目録を提出するよう裁判所が命じること。",
+    "japaneseWordTranslation": "文書目録の提出命令 (ぶんしょもくろくのていしゅつめいれい)",
+    "legalContext": "Code of Civil Procedure Art. 222: If the court finds it necessary in order to determine whether a document production order is required, the court may order the person who has been requested to produce the document to submit a list of the documents in their possession.",
+    "japaneseLegalContext": "民事訴訟法第222条：裁判所は、文書提出命令の申立てに係る文書の提出義務の有無を判断するために必要があると認めるときは、文書の提出の申立てを受けた者に対し、その所持する文書の目録を提出することを命ずることができる。",
+    "exampleSentence": "The court issued an order to produce a list of documents to verify which corporate records were relevant to the dispute.",
+    "exampleTranslation": "裁判所は、どの企業記録が紛争に関連しているかを確認するため、文書目録の提出命令を下した。",
+    "vocabularyList": [
+      {
+        "word": "list of documents",
+        "translation": "文書目録"
+      },
+      {
+        "word": "production",
+        "translation": "提出"
+      },
+      {
+        "word": "possession",
+        "translation": "所持"
+      },
+      {
+        "word": "verify",
+        "translation": "確認する"
+      },
+      {
+        "word": "relevant",
+        "translation": "関連のある"
+      },
+      {
+        "word": "corporate records",
+        "translation": "企業記録"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order of Evidence Examination",
+    "definition": "The sequence or priority in which witnesses are questioned or documentary evidence is inspected during a trial, as determined by the court.",
+    "japaneseDefinition": "証人尋問や書証の調べなど、裁判における証拠調べの順序。裁判所が当事者の意見を聴いて決定する。",
+    "japaneseWordTranslation": "証拠調べの順序 (しょうこしらべのじゅんじょ)",
+    "legalContext": "Rules of Civil Procedure Art. 102: The order of evidence examination shall be determined by the court; provided, however, that the court shall hear the opinions of the parties in advance.",
+    "japaneseLegalContext": "民事訴訟規則第102条：証拠調べの順序は、裁判所が定める。ただし、あらかじめ、当事者の意見を聴かなければならない。",
+    "exampleSentence": "The presiding judge modified the order of evidence examination to accommodate the scheduling conflict of an expert witness.",
+    "exampleTranslation": "裁判長は、専門家証人のスケジュールの都合に合わせるため、証拠調べの順序を変更した。",
+    "vocabularyList": [
+      {
+        "word": "sequence",
+        "translation": "順序"
+      },
+      {
+        "word": "priority",
+        "translation": "優先順位"
+      },
+      {
+        "word": "documentary evidence",
+        "translation": "書証"
+      },
+      {
+        "word": "scheduling conflict",
+        "translation": "スケジュールの競合"
+      },
+      {
+        "word": "expert witness",
+        "translation": "専門家証人"
+      },
+      {
+        "word": "accommodate",
+        "translation": "対応する"
       }
     ]
   }

@@ -1,34 +1,34 @@
 {
-  "category": "Civil Execution (民事執行法)",
+  "category": "Civil Procedure (民事訴訟法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Order of Granting Sale",
-  "definition": "A judicial order issued by the execution court that formally approves the transfer of executed property (typically immovable property) to the successful bidder after the bidding process is completed and objections, if any, have been resolved.",
-  "japaneseDefinition": "執行裁判所が、開札期日の後に、買受申出人による代金の納付を許可し、不動産の所有権をその買受人に移転させることを決定する裁判。",
-  "japaneseWordTranslation": "売却許可決定 (ばいきゃくきょか けってい)",
-  "legalContext": "Civil Execution Act, Art. 69: The execution court shall, upon petition of the execution obligee, conduct the procedure for the sale of the real property by way of auction, except where the execution objection has been filed...",
-  "japaneseLegalContext": "民事執行法 第69条: 執行裁判所は、差押債権者の申立てにより、競売の方法により不動産の売却の手続を行うものとする。",
-  "exampleSentence": "The execution court issued the Order of Granting Sale immediately following the successful bidder's full payment of the purchase price.",
-  "exampleTranslation": "執行裁判所は、最高価買受申出人が購入代金の全額を支払った直後に、売却許可決定を出した。",
+  "word": "Final and Binding Judgment",
+  "definition": "A judgment that has become legally definitive, meaning the period for ordinary appeals (kōso or jōkoku) has expired, or all avenues of appeal have been exhausted, granting it conclusive effect.",
+  "japaneseDefinition": "通常の不服申立て（控訴または上告）期間が経過した、またはそれらの手続が終了したことにより、もはや上級裁判所による審査を受けず、確定的な効力を持つことになった判決。",
+  "japaneseWordTranslation": "確定判決 (かくていはんけつ)",
+  "legalContext": "Code of Civil Procedure (Minji Soshōhō) Art. 114: A judgment becomes final and binding upon the lapse of the period for appeal or when the appeal proceedings are concluded.",
+  "japaneseLegalContext": "民事訴訟法第114条: 判決は、上訴期間の満了又は上訴の手続の終了により確定する。",
+  "exampleSentence": "The court issued a certificate stating that the judgment had become final and binding, thereby enabling the plaintiff to proceed with enforcement.",
+  "exampleTranslation": "裁判所は、当該判決が確定判決となった旨の証明書を発行し、これにより原告は執行手続に進むことが可能となった。",
   "vocabularyList": [
     {
-      "word": "immovable property",
-      "translation": "不動産 (ふどうさん)"
+      "word": "Legally definitive",
+      "translation": "法律的に確定的な (ほうりつてきにかくていてきな)"
     },
     {
-      "word": "successful bidder",
-      "translation": "最高価買受申出人 (さいこうかかいうけもうしでにん)"
+      "word": "Lapse of the period",
+      "translation": "期間の満了 (きかんのまんりょう)"
     },
     {
-      "word": "purchase price",
-      "translation": "購入代金 (こうにゅうだいきん)"
+      "word": "Conclusive effect",
+      "translation": "終局的な効力 (しゅうきょくてきなこうりょく)"
     },
     {
-      "word": "execution obligee",
-      "translation": "差押債権者 (さしおさえさいけんしゃ)"
+      "word": "Enforcement",
+      "translation": "執行 (しっこう)"
     },
     {
-      "word": "bidding process",
-      "translation": "入札手続 (にゅうさつてつづき)"
+      "word": "Certificate",
+      "translation": "証明書 (しょうめいしょ)"
     }
   ]
 }

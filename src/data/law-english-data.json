@@ -1,38 +1,34 @@
 {
   "category": "Civil Execution (民事執行法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Execution against Vessels",
-  "definition": "A specialized category of execution targeting ships and other vessels. Because vessels possess characteristics similar to immovable property (requiring registration), their enforcement procedures differ significantly from those for general movable property, often involving securing the ship's port of presence.",
-  "japaneseDefinition": "船舶を目的物とする専門的な執行手続。船舶は登記・登録を要するなど不動産に類似した性質を持つため、一般の動産執行とは異なる手続きが適用され、通常、船舶の所在地を管轄する裁判所が執行を取り扱う。",
-  "japaneseWordTranslation": "船舶執行 (せんぱくしっこう)",
-  "legalContext": "Civil Execution Act, Chapter 4 (Provisions on Execution against Vessels)",
-  "japaneseLegalContext": "民事執行法 第4章 (船舶に対する執行の規定)",
-  "exampleSentence": "Due to the outstanding maritime lien, the obligee initiated execution against vessels, resulting in the temporary immobilization of the freighter at port.",
-  "exampleTranslation": "未払いの船舶先取特権があるため、債権者は船舶執行を開始し、その結果、当該貨物船は港で一時的に動けなくなった。",
+  "word": "Order of Granting Sale",
+  "definition": "A judicial order issued by the execution court that formally approves the transfer of executed property (typically immovable property) to the successful bidder after the bidding process is completed and objections, if any, have been resolved.",
+  "japaneseDefinition": "執行裁判所が、開札期日の後に、買受申出人による代金の納付を許可し、不動産の所有権をその買受人に移転させることを決定する裁判。",
+  "japaneseWordTranslation": "売却許可決定 (ばいきゃくきょか けってい)",
+  "legalContext": "Civil Execution Act, Art. 69: The execution court shall, upon petition of the execution obligee, conduct the procedure for the sale of the real property by way of auction, except where the execution objection has been filed...",
+  "japaneseLegalContext": "民事執行法 第69条: 執行裁判所は、差押債権者の申立てにより、競売の方法により不動産の売却の手続を行うものとする。",
+  "exampleSentence": "The execution court issued the Order of Granting Sale immediately following the successful bidder's full payment of the purchase price.",
+  "exampleTranslation": "執行裁判所は、最高価買受申出人が購入代金の全額を支払った直後に、売却許可決定を出した。",
   "vocabularyList": [
     {
-      "word": "specialized category",
-      "translation": "専門的な区分"
+      "word": "immovable property",
+      "translation": "不動産 (ふどうさん)"
     },
     {
-      "word": "maritime lien",
-      "translation": "船舶先取特権"
+      "word": "successful bidder",
+      "translation": "最高価買受申出人 (さいこうかかいうけもうしでにん)"
     },
     {
-      "word": "freighter",
-      "translation": "貨物船"
+      "word": "purchase price",
+      "translation": "購入代金 (こうにゅうだいきん)"
     },
     {
-      "word": "immobilization",
-      "translation": "動けなくすること／係留"
+      "word": "execution obligee",
+      "translation": "差押債権者 (さしおさえさいけんしゃ)"
     },
     {
-      "word": "port of presence",
-      "translation": "所在地／現に存在する港"
-    },
-    {
-      "word": "registration",
-      "translation": "登記／登録"
+      "word": "bidding process",
+      "translation": "入札手続 (にゅうさつてつづき)"
     }
   ]
 }

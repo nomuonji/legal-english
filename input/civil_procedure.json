@@ -25682,5 +25682,107 @@
         "translation": "回答・答弁"
       }
     ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order for the Submission of Materials on Foreign Law",
+    "definition": "A directive issued by the court requiring a party to provide documents, statutes, or expert opinions necessary for the court to interpret and apply the laws of a foreign jurisdiction in a cross-border dispute.",
+    "japaneseDefinition": "裁判所が、渉外事件等において外国法を適用・解釈するために必要な条文、文献、または鑑定意見書などの資料を提出するよう当事者に命じること。",
+    "japaneseWordTranslation": "外国法の内容に関する資料の提出命令 (がいこくほうのないようにかんするしりょうのていしゅつめいれい)",
+    "legalContext": "Generally governed by the court's power to conduct inquiries into foreign law as a part of its duty to apply the correct law, often related to the Act on General Rules for Application of Laws.",
+    "japaneseLegalContext": "法の適用に関する通則法に関連し、裁判所が職権または申立てに基づき、外国法の調査を行う権限に由来する。",
+    "exampleSentence": "The judge issued an order for the submission of materials on foreign law to clarify the inheritance statutes of the decedent's home country.",
+    "exampleTranslation": "裁判官は、被相続人の母国の相続法を明らかにするため、外国法の内容に関する資料の提出命令を出した。",
+    "vocabularyList": [
+      {
+        "word": "Foreign jurisdiction",
+        "translation": "外国の管轄権"
+      },
+      {
+        "word": "Cross-border dispute",
+        "translation": "渉外紛争"
+      },
+      {
+        "word": "Statute",
+        "translation": "成文法"
+      },
+      {
+        "word": "Directive",
+        "translation": "指示・命令"
+      },
+      {
+        "word": "Apply the law",
+        "translation": "法を適用する"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Suspension of the Action pending a Final Decision on the Representation Authority",
+    "definition": "A procedural halt in the litigation process that occurs when there is a dispute or uncertainty regarding the validity or scope of the authority of a legal representative or agent, continuing until a final determination is made.",
+    "japaneseDefinition": "法定代理人や代理人の代理権の有無、またはその範囲について争いがある場合、その確定がなされるまで訴訟手続きが一時的に停止すること。",
+    "japaneseWordTranslation": "代理権の存否の確定待ちによる訴訟手続の中止 (だいりけんのそんぴのかくていまちによるそしょうてつづきのちゅうし)",
+    "legalContext": "Code of Civil Procedure Art. 124 (modified concept): The court may stay proceedings when the validity of the representation is a prerequisite for the trial to move forward.",
+    "japaneseLegalContext": "民事訴訟法第124条等の趣旨に基づき、代理権の存否が訴訟続行の前提となる場合に、裁判所は手続を中止することができる。",
+    "exampleSentence": "The court announced a suspension of the action pending a final decision on the representation authority after the defendant challenged the power of attorney's validity.",
+    "exampleTranslation": "被告が委任状の有効性を争ったため、裁判所は代理権の存否に関する最終決定が出るまで訴訟手続の中止を発表した。",
+    "vocabularyList": [
+      {
+        "word": "Procedural halt",
+        "translation": "手続の停止"
+      },
+      {
+        "word": "Uncertainty",
+        "translation": "不確実性"
+      },
+      {
+        "word": "Validity",
+        "translation": "有効性"
+      },
+      {
+        "word": "Power of attorney",
+        "translation": "委任状"
+      },
+      {
+        "word": "Prerequisite",
+        "translation": "前提条件"
+      }
+    ]
+  },
+  {
+    "category": "Civil Procedure (民事訴訟法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Request for the Clarification of the Method of Calculation for the Claimed Interest",
+    "definition": "A formal request or inquiry from the court or the opposing party for a detailed explanation of how the interest amount (e.g., delay damages or contractual interest) sought in the litigation was computed.",
+    "japaneseDefinition": "訴訟で請求されている利息（遅延損害金や約定利息など）の金額がどのように算出されたのか、その計算方法の詳細な説明を求めること。",
+    "japaneseWordTranslation": "請求に係る利息の計算方法に関する釈明要求 (せいきゅうにかかるりそくのけいさんほうほうにかんするしゃくめいようきゅう)",
+    "legalContext": "Derived from the court's power to clarify ambiguous points in a party's statement regarding the specific amount and nature of the claims under the Code of Civil Procedure.",
+    "japaneseLegalContext": "民事訴訟法上の釈明権に基づき、当事者の主張する請求額の内訳や根拠を明確にするために行われる。",
+    "exampleSentence": "The defendant filed a request for the clarification of the method of calculation for the claimed interest, arguing that the lump sum provided was mathematically inconsistent.",
+    "exampleTranslation": "被告は、提示された一括の金額が数学的に不整合であると主張し、請求された利息の計算方法に関する釈明要求を提出した。",
+    "vocabularyList": [
+      {
+        "word": "Interest amount",
+        "translation": "利息額"
+      },
+      {
+        "word": "Computed",
+        "translation": "算出された"
+      },
+      {
+        "word": "Lump sum",
+        "translation": "一括払いの金額"
+      },
+      {
+        "word": "Mathematically inconsistent",
+        "translation": "数学的に不整合な"
+      },
+      {
+        "word": "Detailed explanation",
+        "translation": "詳細な説明"
+      }
+    ]
   }
 ]

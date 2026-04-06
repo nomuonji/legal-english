@@ -22044,5 +22044,107 @@
         "translation": "停止/中止"
       }
     ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Order of Revocation for Laches in Filing",
+    "definition": "A court order that cancels a previously granted preservation measure, such as a provisional attachment, because the creditor failed to initiate the principal lawsuit within the period mandated by the court.",
+    "japaneseDefinition": "債権者が裁判所の命じた期限内に本案の訴えを提起しなかったことを理由として、既になされた仮差押えなどの保全命令を取り消す裁判上の決定。",
+    "japaneseWordTranslation": "起訴不履行による取消決定 (きそふりこうによるとりけしけってい)",
+    "legalContext": "Civil Preservation Act Art. 37: If a creditor fails to file an action on the merits within the period ordered by the court, the court must, upon the petition of the debtor, revoke the preservation order.",
+    "japaneseLegalContext": "民事保全法第37条：債権者が裁判所の命じた期限内に本案の訴えを提起したことを証する書面を提出しないときは、裁判所は、債務者の申立てにより、保全命令を取り消さなければならない。",
+    "exampleSentence": "The debtor filed a petition for an order of revocation for laches in filing after the two-week deadline passed without the creditor initiating the main suit.",
+    "exampleTranslation": "債権者が本案の訴えを提起せずに2週間の期限が経過したため、債務者は起訴不履行による取消決定の申立てを行った。",
+    "vocabularyList": [
+      {
+        "word": "laches",
+        "translation": "懈怠（けたい）、義務を怠ること"
+      },
+      {
+        "word": "revocation",
+        "translation": "取消し"
+      },
+      {
+        "word": "principal lawsuit",
+        "translation": "本案の訴え"
+      },
+      {
+        "word": "mandated period",
+        "translation": "命じられた期間"
+      },
+      {
+        "word": "petition",
+        "translation": "申立て"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Security as a Substitute for a Prima Facie Showing",
+    "definition": "A legal mechanism where the court may grant a preservation order even if the creditor's claims are not sufficiently substantiated, provided that the creditor provides adequate collateral to cover potential damages to the debtor.",
+    "japaneseDefinition": "債権者の主張が十分に疎明されない場合であっても、債務者に生じうる損害を担保するために債権者が適切な保証金を提供することを条件として、保全命令を発することができる法的な仕組み。",
+    "japaneseWordTranslation": "疎明の代用としての担保 (そめいのだいようとしてのたんぽ)",
+    "legalContext": "Civil Preservation Act Art. 13: A preservation order may be issued even when the right to be preserved or the necessity of preservation has not been substantiated, provided that security is provided.",
+    "japaneseLegalContext": "民事保全法第13条：保全命令は、保全すべき権利又は保全の必要性が疎明されない場合であっても、担保を立てさせたときは、発することができる。",
+    "exampleSentence": "The judge allowed the provisional attachment by requiring security as a substitute for a prima facie showing regarding the urgency of the claim.",
+    "exampleTranslation": "裁判官は、請求の緊急性に関する疎明の代用として担保を提供させることにより、仮差押えを認めた。",
+    "vocabularyList": [
+      {
+        "word": "substitute",
+        "translation": "代用、代わり"
+      },
+      {
+        "word": "prima facie showing",
+        "translation": "疎明（そめい）"
+      },
+      {
+        "word": "collateral",
+        "translation": "担保"
+      },
+      {
+        "word": "substantiate",
+        "translation": "立証する、疎明する"
+      },
+      {
+        "word": "urgency",
+        "translation": "緊急性"
+      }
+    ]
+  },
+  {
+    "category": "Civil Preservation (民事保全法)",
+    "titleText": "Mastering\nJapanese Legal English",
+    "word": "Judicial Correction of a Preservation Order",
+    "definition": "A court's supplemental decision to rectify obvious clerical, mathematical, or similar errors in the text of a preservation order without altering the fundamental intent of the original ruling.",
+    "japaneseDefinition": "保全命令の正本において、決定の根本的な趣旨を変えることなく、明白な誤記や計算違い、またはこれらに類する誤りを訂正するために裁判所が行う補足的な決定。",
+    "japaneseWordTranslation": "保全命令の更正 (ほぜんめいれいのこうせい)",
+    "legalContext": "Civil Preservation Act Art. 24: Provisions of the Code of Civil Procedure regarding the correction of judgments apply mutatis mutandis to judicial decisions on preservation orders.",
+    "japaneseLegalContext": "民事保全法第24条：裁判の更正に関する民事訴訟法の規定は、保全命令に関する裁判について準用する。",
+    "exampleSentence": "A judicial correction of a preservation order was necessary because the wrong property address was typed into the provisional attachment writ.",
+    "exampleTranslation": "仮差押命令書に誤った物件の住所が記載されていたため、保全命令の更正が必要となった。",
+    "vocabularyList": [
+      {
+        "word": "judicial correction",
+        "translation": "更正の決定"
+      },
+      {
+        "word": "clerical error",
+        "translation": "誤記"
+      },
+      {
+        "word": "rectify",
+        "translation": "是正する、訂正する"
+      },
+      {
+        "word": "mutatis mutandis",
+        "translation": "準用する"
+      },
+      {
+        "word": "ruling",
+        "translation": "決定、裁定"
+      }
+    ]
   }
 ]

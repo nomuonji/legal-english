@@ -1,34 +1,38 @@
 {
-  "category": "Civil Procedure (民事訴訟法)",
+  "category": "Deposit Act (供託法)",
   "titleText": "Mastering\nJapanese Legal English",
-  "word": "Final and Binding Judgment",
-  "definition": "A judgment that has become legally definitive, meaning the period for ordinary appeals (kōso or jōkoku) has expired, or all avenues of appeal have been exhausted, granting it conclusive effect.",
-  "japaneseDefinition": "通常の不服申立て（控訴または上告）期間が経過した、またはそれらの手続が終了したことにより、もはや上級裁判所による審査を受けず、確定的な効力を持つことになった判決。",
-  "japaneseWordTranslation": "確定判決 (かくていはんけつ)",
-  "legalContext": "Code of Civil Procedure (Minji Soshōhō) Art. 114: A judgment becomes final and binding upon the lapse of the period for appeal or when the appeal proceedings are concluded.",
-  "japaneseLegalContext": "民事訴訟法第114条: 判決は、上訴期間の満了又は上訴の手続の終了により確定する。",
-  "exampleSentence": "The court issued a certificate stating that the judgment had become final and binding, thereby enabling the plaintiff to proceed with enforcement.",
-  "exampleTranslation": "裁判所は、当該判決が確定判決となった旨の証明書を発行し、これにより原告は執行手続に進むことが可能となった。",
+  "word": "Claim for Reimbursement of Consigned Property",
+  "definition": "The legal right held by the original consigner (depositor) to demand the return of the consigned property from the deposit office, applicable when the conditions for consignment are no longer valid, or if the obligee loses their right to receive the property.",
+  "japaneseDefinition": "供託をした者が、供託の原因が消滅した場合、または供託された財産を受領すべき者がその権利を失った場合に、供託所に対し供託物の返還を求める権利。",
+  "japaneseWordTranslation": "供託物取戻請求権 (きょうたくぶつとりもどしせいきゅうけん)",
+  "legalContext": "Deposit Act Art. 38: 'A person who has made a consignment may claim the reimbursement of the consigned property only in the cases specified in the Civil Code or other laws.'",
+  "japaneseLegalContext": "供託法第38条：「供託をした者は、民法その他の法律に定める場合を除いては、供託物を取り戻すことができない。」",
+  "exampleSentence": "After the underlying dispute was settled out of court, the consigner filed a Claim for Reimbursement of Consigned Property on the grounds that the reason for the original consignment had ceased to exist.",
+  "exampleTranslation": "原告は、根底にある紛争が裁判外で和解されたため、当初の供託理由が消滅したことを根拠に、供託物取戻請求権を行使した。",
   "vocabularyList": [
     {
-      "word": "Legally definitive",
-      "translation": "法律的に確定的な (ほうりつてきにかくていてきな)"
+      "word": "reimbursement",
+      "translation": "取り戻し／返還"
     },
     {
-      "word": "Lapse of the period",
-      "translation": "期間の満了 (きかんのまんりょう)"
+      "word": "underlying dispute",
+      "translation": "根底にある紛争"
     },
     {
-      "word": "Conclusive effect",
-      "translation": "終局的な効力 (しゅうきょくてきなこうりょく)"
+      "word": "settled out of court",
+      "translation": "裁判外で和解された"
     },
     {
-      "word": "Enforcement",
-      "translation": "執行 (しっこう)"
+      "word": "ceased to exist",
+      "translation": "消滅した"
     },
     {
-      "word": "Certificate",
-      "translation": "証明書 (しょうめいしょ)"
+      "word": "obligee",
+      "translation": "供託受領者／債権者"
+    },
+    {
+      "word": "grounds",
+      "translation": "根拠"
     }
   ]
 }

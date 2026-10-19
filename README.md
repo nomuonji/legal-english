@@ -66,6 +66,8 @@ PRを作ると Actions **Judicial Memory** が音声付きMP4・各場面画像�
 既存 Legal English の OAuth 接続を利用。旧ランダム英単語生成・公開投稿workflowは退役。
 新規の定期投稿は未設定。チャンネル名案・説明は `channel.json`。
 
+既存のOAuthはアップロード専用で、チャンネル情報の読み取り権限はないことを実機確認済み。権限を増やさず、アップロード応答のチャンネルID・非公開状態とStudioで照合する。チャンネル説明や公開状態の変更は、読み取り権限がなければ既存IDを使ってStudioで行う。
+
 Actions **Judicial YouTube**：
 
 - `channel-info`：既存認証のチャンネルID・名称を確認。

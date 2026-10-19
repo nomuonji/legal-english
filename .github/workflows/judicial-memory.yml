@@ -4,6 +4,11 @@ on:
     paths: ['src/**', 'lessons/**', 'scripts/memory/**', 'sources/**', 'package*.json', '.github/workflows/judicial-memory.yml']
   workflow_dispatch:
     inputs:
+      mode:
+        description: Preview layouts quickly or render a full voiced lesson
+        type: choice
+        options: [render, preview]
+        default: render
       lesson:
         description: Lesson id
         default: shareholder-proposal-numbers
@@ -35,6 +40,7 @@ jobs:
           npx eslint src/Root.tsx src/JudicialMemory
           npm run memory:check
       - name: Start Japanese voice
+        if: inputs.mode != 'preview'
         run: |
           docker run -d --name voicevox -p 127.0.0.1:50021:50021 voicevox/voicevox_engine:cpu-latest
           for i in $(seq 1 90); do
@@ -46,13 +52,27 @@ jobs:
       - name: Prepare lesson and measured voice timing
         env:
           LESSON: ${{ inputs.lesson || 'shareholder-proposal-numbers' }}
+          MODE: ${{ inputs.mode || 'render' }}
         run: |
-          npm run memory:prepare -- "$LESSON" --voice
+          if test "$MODE" = preview; then
+            npm run memory:prepare -- "$LESSON"
+          else
+            npm run memory:prepare -- "$LESSON" --voice
+          fi
           echo "LESSON=$LESSON" >> "$GITHUB_ENV"
       - run: npx remotion browser ensure
+      - name: Render layout preview
+        run: node --import tsx scripts/memory/layout-preview.ts "$LESSON"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: judicial-layout-${{ inputs.lesson || 'shareholder-proposal-numbers' }}
+          path: out/*/layout/
+          retention-days: 14
       - name: Render full lesson
+        if: inputs.mode != 'preview'
         run: npx remotion render src/index.ts JudicialMemory "out/$LESSON/video.mp4" --props="out/$LESSON/props.json" --scale=0.6666666666666666 --concurrency=2 --crf=21
       - name: Render review frames
+        if: inputs.mode != 'preview'
         run: node --import tsx scripts/memory/review-frames.ts "$LESSON"
       - uses: actions/upload-artifact@v4
         if: always()

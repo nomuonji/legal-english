@@ -9,17 +9,29 @@ auth.setCredentials({refresh_token:refreshToken});
 const yt=google.youtube({version:'v3',auth});
 const json=(p)=>JSON.parse(fs.readFileSync(p,'utf8'));
 const save=(p,d)=>{fs.mkdirSync(p.split('/').slice(0,-1).join('/'),{recursive:true});fs.writeFileSync(p,JSON.stringify(d,null,2)+'\n');};
-const result=await yt.channels.list({part:['snippet','brandingSettings','contentDetails'],mine:true});
-if(result.data.items?.length!==1) throw Error('Expected one authenticated channel');
-const channel=result.data.items[0];
-if(channel.id!==json('channel.json').channelId) throw Error('YouTube credential belongs to a different channel');
-save('out/youtube-channel.json',{id:channel.id,title:channel.snippet.title,description:channel.snippet.description});
-console.log(`Authenticated channel: ${channel.snippet.title} (${channel.id})`);
+const settings=json('channel.json');
+const isMissingReadScope=error=>error.response?.status===403 && (
+  error.response?.data?.error?.errors?.some(e=>e.reason==='insufficientPermissions') ||
+  error.response?.data?.error?.message?.includes('insufficient authentication scopes'));
+let canRead=true;
+let channel;
+try {
+  const result=await yt.channels.list({part:['snippet','brandingSettings','contentDetails'],mine:true});
+  if(result.data.items?.length!==1) throw Error('Expected one authenticated channel');
+  channel=result.data.items[0];
+  if(channel.id!==settings.channelId) throw Error('YouTube credential belongs to a different channel');
+} catch(error) {
+  if(!isMissingReadScope(error)) throw error;
+  canRead=false;
+  channel={id:settings.channelId,snippet:{title:settings.title}};
+  console.log('Existing OAuth has upload access without channel read access; channel target was verified in Studio.');
+}
+save('out/youtube-channel.json',{id:channel.id,title:channel.snippet.title,channelReadAvailable:canRead,identityEvidence:canRead?'channels.list':'YouTube Studio (see docs/channel-profile.jpg)'});
 if(mode==='channel-info') process.exit(0);
+if(!canRead && mode!=='upload-private') throw Error('This OAuth connection uploads only. Edit channel details or publish the existing video ID in YouTube Studio.');
 if(mode==='update-description') {
   const before=channel.brandingSettings??{};
   save('out/youtube-branding-before.json',before);
-  const settings=json('channel.json');
   // The API explicitly forbids changing the channel title; use Studio for the name.
   const branding={...before,channel:{...before.channel,description:settings.description,keywords:'司法書士 司法書士試験 暗記 会社法 民法 不動産登記法'}};
   delete branding.channel.title;
@@ -37,8 +49,8 @@ if(mode==='update-description') {
   let receipts=fs.existsSync('state/youtube.json')?json('state/youtube.json'):{};
   if(receipts[marker]) throw Error(`Already uploaded: ${receipts[marker].videoId}`);
   // Read the account's actual uploads, not search-indexed/public-only videos.
-  const uploads=await yt.playlistItems.list({part:['snippet'],playlistId:channel.contentDetails.relatedPlaylists.uploads,maxResults:50});
-  const duplicate=uploads.data.items?.find(v=>v.snippet?.description?.includes(marker));
+  const uploads=canRead?await yt.playlistItems.list({part:['snippet'],playlistId:channel.contentDetails.relatedPlaylists.uploads,maxResults:50}):null;
+  const duplicate=uploads?.data.items?.find(v=>v.snippet?.description?.includes(marker));
   if(duplicate) {
     receipts[marker]={videoId:duplicate.snippet.resourceId.videoId,channelId:channel.id,recovered:true};
     save('state/youtube.json',receipts);
@@ -46,11 +58,14 @@ if(mode==='update-description') {
   }
   const uploaded=await yt.videos.insert({part:['snippet','status'],requestBody:{snippet:{title:meta.title,description:`${meta.description}\n\n${marker}`,tags:meta.tags,categoryId:'27',defaultLanguage:'ja'},status:{privacyStatus:'private',selfDeclaredMadeForKids:false}},media:{body:fs.createReadStream(`${dir}/video.mp4`)}});
   if(!uploaded.data.id) throw Error('No upload ID: inspect Studio before any retry');
-  receipts[marker]={videoId:uploaded.data.id,channelId:channel.id,privacyStatus:'private',uploadedAt:new Date().toISOString()};
+  receipts[marker]={videoId:uploaded.data.id,channelId:uploaded.data.snippet?.channelId,privacyStatus:uploaded.data.status?.privacyStatus,readbackMode:canRead?'videos.list':'insert-response (verify in Studio)',uploadedAt:new Date().toISOString()};
   save('state/youtube.json',receipts);
   save('out/youtube-upload.json',receipts[marker]);
-  const rb=await yt.videos.list({id:[uploaded.data.id],part:['snippet','status']});
-  if(rb.data.items?.[0]?.status?.privacyStatus!=='private'||rb.data.items[0].snippet.channelId!==channel.id) throw Error('Private upload readback failed');
+  if(uploaded.data.status?.privacyStatus!=='private'||uploaded.data.snippet?.channelId!==settings.channelId) throw Error('Upload response does not match the expected private channel; inspect Studio before retrying');
+  if(canRead) {
+    const rb=await yt.videos.list({id:[uploaded.data.id],part:['snippet','status']});
+    if(rb.data.items?.[0]?.status?.privacyStatus!=='private'||rb.data.items[0].snippet.channelId!==channel.id) throw Error('Private upload readback failed');
+  }
   console.log(`Private pilot: https://youtu.be/${uploaded.data.id}`);
 } else if(mode==='publish') {
   if(!videoId||!/^[\w-]{11}$/.test(videoId)) throw Error('Valid existing video ID required');

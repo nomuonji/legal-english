@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import crypto from 'node:crypto';
 import {google} from 'googleapis';
+try {
 const {YOUTUBE_CLIENT_ID:clientId,YOUTUBE_CLIENT_SECRET:clientSecret,YOUTUBE_REFRESH_TOKEN:refreshToken,MODE:mode,LESSON:lesson,VIDEO_ID:videoId}=process.env;
 if(!clientId||!clientSecret||!refreshToken) throw Error('Missing existing Legal English YouTube credentials');
 const auth=new google.auth.OAuth2(clientId,clientSecret);
@@ -61,3 +62,13 @@ if(mode==='update-description') {
   if(after.data.items?.[0]?.status?.privacyStatus!=='public') throw Error('Publish readback failed');
   save('out/youtube-publish.json',{videoId,channelId:channel.id,privacyStatus:'public'});
 } else throw Error('Unknown mode');
+
+} catch (error) {
+  // Do not print Gaxios request config: refresh requests contain credentials.
+  const apiError=error.response?.data?.error;
+  const detail=error.config
+    ? (typeof apiError==='string'?apiError:apiError?.message)||'API request failed'
+    : error.message;
+  console.error(`YouTube operation failed (${error.response?.status??error.code??'unknown'}): ${detail}`);
+  process.exitCode=1;
+}

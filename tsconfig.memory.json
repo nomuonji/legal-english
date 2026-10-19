@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": { "resolveJsonModule": true, "lib": ["es2022", "dom"], "target": "ES2022" },
+  "include": ["src/Root.tsx", "src/JudicialMemory/**/*.ts", "src/JudicialMemory/**/*.tsx", "scripts/memory/**/*.ts"],
+  "exclude": []
+}

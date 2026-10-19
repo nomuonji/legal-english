@@ -1,0 +1,63 @@
+name: Judicial Memory
+on:
+  pull_request:
+    paths: ['src/**', 'lessons/**', 'scripts/memory/**', 'sources/**', 'package*.json', '.github/workflows/judicial-memory.yml']
+  workflow_dispatch:
+    inputs:
+      lesson:
+        description: Lesson id
+        default: shareholder-proposal-numbers
+        required: true
+        type: string
+permissions:
+  contents: read
+concurrency:
+  group: judicial-render-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci --no-audit --no-fund
+      - name: Install media tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg
+      - name: Validate code and recall timing
+        run: |
+          npx tsc -p tsconfig.memory.json
+          npx eslint src/Root.tsx src/JudicialMemory
+          npm run memory:check
+      - name: Start Japanese voice
+        run: |
+          docker run -d --name voicevox -p 127.0.0.1:50021:50021 voicevox/voicevox_engine:cpu-latest
+          for i in $(seq 1 90); do
+            if curl -fsS http://127.0.0.1:50021/version; then exit 0; fi
+            sleep 2
+          done
+          docker logs voicevox
+          exit 1
+      - name: Prepare lesson and measured voice timing
+        env:
+          LESSON: ${{ inputs.lesson || 'shareholder-proposal-numbers' }}
+        run: |
+          npm run memory:prepare -- "$LESSON" --voice
+          echo "LESSON=$LESSON" >> "$GITHUB_ENV"
+      - run: npx remotion browser ensure
+      - name: Render full lesson
+        run: npx remotion render src/index.ts JudicialMemory "out/$LESSON/video.mp4" --props="out/$LESSON/props.json" --scale=0.6666666666666666 --concurrency=2 --crf=21
+      - name: Render review frames
+        run: node --import tsx scripts/memory/review-frames.ts "$LESSON"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: judicial-memory-${{ inputs.lesson || 'shareholder-proposal-numbers' }}
+          path: out/
+          retention-days: 14
+          if-no-files-found: error

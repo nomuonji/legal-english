@@ -11,6 +11,7 @@ const save=(p,d)=>{fs.mkdirSync(p.split('/').slice(0,-1).join('/'),{recursive:tr
 const result=await yt.channels.list({part:['snippet','brandingSettings','contentDetails'],mine:true});
 if(result.data.items?.length!==1) throw Error('Expected one authenticated channel');
 const channel=result.data.items[0];
+if(channel.id!==json('channel.json').channelId) throw Error('YouTube credential belongs to a different channel');
 save('out/youtube-channel.json',{id:channel.id,title:channel.snippet.title,description:channel.snippet.description});
 console.log(`Authenticated channel: ${channel.snippet.title} (${channel.id})`);
 if(mode==='channel-info') process.exit(0);

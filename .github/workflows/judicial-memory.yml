@@ -51,7 +51,7 @@ jobs:
           echo "LESSON=$LESSON" >> "$GITHUB_ENV"
       - run: npx remotion browser ensure
       - name: Render full lesson
-        run: npx remotion render src/index.ts JudicialMemory "out/$LESSON/video.mp4" --props="out/$LESSON/props.json" --scale=0.667 --concurrency=2 --crf=21
+        run: npx remotion render src/index.ts JudicialMemory "out/$LESSON/video.mp4" --props="out/$LESSON/props.json" --scale=0.6666666666666666 --concurrency=2 --crf=21
       - name: Render review frames
         run: node --import tsx scripts/memory/review-frames.ts "$LESSON"
       - uses: actions/upload-artifact@v4

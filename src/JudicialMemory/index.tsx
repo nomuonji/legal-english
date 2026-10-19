@@ -1,5 +1,5 @@
-import React from 'react';
-import { AbsoluteFill, Audio, Sequence, staticFile, useCurrentFrame, interpolate } from 'remotion';
+import React, {useEffect, useState} from 'react';
+import { AbsoluteFill, Audio, Sequence, staticFile, useCurrentFrame, interpolate, delayRender, continueRender, cancelRender } from 'remotion';
 import type { VideoProps, Segment, Lesson } from './model';
 import '@fontsource/noto-sans-jp/500.css';
 import '@fontsource/noto-sans-jp/700.css';
@@ -42,4 +42,12 @@ const Scene:React.FC<{props:VideoProps;segment:Segment;index:number}>=({props,se
   </AbsoluteFill>;
 };
 
-export const JudicialMemory:React.FC<VideoProps>=(props)=><AbsoluteFill>{props.segments.map((s,i)=><Sequence key={`${i}-${s.kind}`} from={s.from} durationInFrames={s.frames}><Scene props={props} segment={s} index={i}/></Sequence>)}</AbsoluteFill>;
+export const JudicialMemory:React.FC<VideoProps>=(props)=> {
+  const [fontHandle]=useState(()=>delayRender('Load Japanese lesson fonts'));
+  const text=JSON.stringify(props.lesson);
+  useEffect(()=> {
+    Promise.all([document.fonts.load('500 32px "Noto Sans JP"',text),document.fonts.load('700 68px "Noto Sans JP"',text)])
+      .then(()=>continueRender(fontHandle)).catch(cancelRender);
+  },[fontHandle,text]);
+  return <AbsoluteFill>{props.segments.map((s,i)=><Sequence key={`${i}-${s.kind}`} from={s.from} durationInFrames={s.frames}><Scene props={props} segment={s} index={i}/></Sequence>)}</AbsoluteFill>;
+};

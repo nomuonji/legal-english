@@ -19,7 +19,7 @@ Learning OSに取り込んだ本人の学習用Markdownを、司法書士試験�
 
 GitHub connectorの `fetch_file` で得た `{path, blobSha, content}` を `.source-cache/` へ置き、
 `npm run memory:catalog -- .source-cache/*.json` で節・タグ・原本ハッシュの目録を更新する。
-原本全文をこの公開repoへコピーしない。目録は3ノート48節から開始し、全科目完了ではない。
+原本全文をこの公開repoへコピーしない。目録は11ノート1,084節。本人が苦手印を直接付けた節を優先し、親見出しへの誤伝播を避ける。全文・全添付画像の教材化が完了したという意味ではない。
 
 ## 動画の編集単位
 

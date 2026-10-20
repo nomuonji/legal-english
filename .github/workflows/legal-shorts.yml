@@ -24,14 +24,14 @@ jobs:
           node-version: '22'
           cache: npm
       - run: npm ci --no-audit --no-fund
-      - name: Install media tools and English voice (Piper, CC0 "joe")
+      - name: Install media tools and English voice (Piper "kristin", public-domain dataset)
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y ffmpeg
           pip install --quiet piper-tts==1.8.0
           mkdir -p voices
-          for f in en_US-joe-medium.onnx en_US-joe-medium.onnx.json; do
-            curl -fsSL -o "voices/$f" "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/joe/medium/$f"
+          for f in en_US-kristin-medium.onnx en_US-kristin-medium.onnx.json; do
+            curl -fsSL -o "voices/$f" "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/kristin/medium/$f"
           done
       - name: Validate against the official dictionary
         run: |

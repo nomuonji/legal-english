@@ -28,8 +28,8 @@ async function main() {
   const audio: Clip[][] = [];
   if (voiced) {
     const base = process.env.VOICEVOX_URL ?? 'http://127.0.0.1:50021';
-    const speaker = Number(process.env.VOICEVOX_SPEAKER ?? 13); // 青山龍星 ノーマル（長尺と同じ声）
-    const piperModel = process.env.PIPER_MODEL ?? 'voices/en_US-joe-medium.onnx'; // CC0 voice
+    const speaker = Number(process.env.VOICEVOX_SPEAKER ?? 14); // 冥鳴ひまり ノーマル（キャラクターに合わせた女性声）
+    const piperModel = process.env.PIPER_MODEL ?? 'voices/en_US-kristin-medium.onnx'; // public-domain dataset, female
     if (!fs.existsSync(piperModel)) throw new Error(`English voice model missing: ${piperModel}`);
     const outDir = `public/shorts-audio/${id}`;
     fs.mkdirSync(outDir, {recursive: true});
@@ -71,7 +71,7 @@ async function main() {
     '',
     '出典：日本法令外国語訳データベースシステム「法令用語日英標準対訳辞書」第19.0版（法務省）https://www.japaneselawtranslation.go.jp/',
     '翻訳は参考資料であり、法的効力を有するのは日本語の法令です。日本語の説明は当チャンネルの独自編集。',
-    '音声：VOICEVOX:青山龍星／英語音声 Piper（CC0）',
+    '音声：VOICEVOX:冥鳴ひまり／英語音声 Piper kristin（パブリックドメイン音源）',
     '',
     '#法律英語 #司法書士 #Shorts',
   ].join('\n');

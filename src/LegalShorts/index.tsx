@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import {AbsoluteFill, Audio, Sequence, staticFile, useCurrentFrame, interpolate, delayRender, continueRender, cancelRender} from 'remotion';
+import {AbsoluteFill, Audio, Img, Sequence, staticFile, useCurrentFrame, interpolate, delayRender, continueRender, cancelRender} from 'remotion';
 import type {ShortProps, ShortSegment, Short} from './model';
 import {totalFrames} from './model';
 import '@fontsource/noto-sans-jp/500.css';
@@ -18,6 +18,23 @@ const Highlighted: React.FC<{text: string; mark: string}> = ({text, mark}) => {
 
 // Content width is ~858px: size the headline so short phrases never orphan one character.
 const bigSize = (t: string) => t.length <= 5 ? 138 : t.length <= 7 ? 112 : t.length <= 9 ? 92 : 80;
+
+// The channel's teacher character narrates every line: mouth flaps only while a voice clip plays.
+const Teacher: React.FC<{s: ShortSegment}> = ({s}) => {
+  const frame = useCurrentFrame();
+  const talking = s.clips.some(c => frame >= c.from && frame < c.from + Math.ceil(c.seconds * 30));
+  const open = talking && Math.floor(frame / 4) % 2 === 0;
+  const bob = Math.sin(frame / 18) * 4;
+  return <Img className="ls-teacher" style={{transform: `translateY(${bob}px)`}} src={staticFile(open ? 'images/mouth-open.png' : 'images/mouth-closed.png')}/>;
+};
+// Subtitle bubble beside the character's chalk hand, for viewers watching with sound off.
+const Bubble: React.FC<{s: ShortSegment}> = ({s}) => {
+  const frame = useCurrentFrame();
+  const current = [...s.clips].reverse().find(c => frame >= c.from);
+  if (!current) return null;
+  const thinking = s.pause !== undefined && s.pause > 0 && frame >= s.speechFrames;
+  return <div className={`ls-bubble ${current.lang}`}>{thinking ? '…考え中' : current.lang === 'en' && current.text.length > 40 ? '英文を読み上げ中（上の条文）' : current.text}</div>;
+};
 
 const Scene: React.FC<{props: ShortProps; s: ShortSegment}> = ({props, s}) => {
   const frame = useCurrentFrame();
@@ -44,7 +61,7 @@ const Scene: React.FC<{props: ShortProps; s: ShortSegment}> = ({props, s}) => {
         <p className="ja">{short.example.ja}</p>
         <p className="src">{short.example.source}（日本法令外国語訳DB）</p>
       </div>}
-      {s.en && <div className="ls-en">{s.en.map(t => {
+      {s.en && <div className={`ls-en ${s.en.length > 2 ? 'compact' : ''}`}>{s.en.map(t => {
         const at = enShownAt(t.text);
         const o = interpolate(frame, [at, at + 5], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
         return <div key={t.text} className="ls-en-item" style={{opacity: o}}>
@@ -56,6 +73,8 @@ const Scene: React.FC<{props: ShortProps; s: ShortSegment}> = ({props, s}) => {
         <strong>{thinking ? remaining : '？'}</strong><span>{thinking ? '口に出して答える' : '問題を聞く'}</span>
       </div>}
     </main>
+    <Bubble s={s}/>
+    <Teacher s={s}/>
     <footer>出典：法令用語日英標準対訳辞書 v{short.dictVersion}（法務省）{props.voiced ? '' : '／無音プレビュー'}</footer>
   </AbsoluteFill>;
 };

@@ -2,6 +2,7 @@
   "id": "dairinin-proxy",
   "title": "「代理人」は agent だけじゃない 議決権なら proxy #法律英語 #Shorts",
   "term": "代理人",
+  "reading": "だいりにん",
   "dictVersion": "19.0",
   "queuedAt": "2026-10-20T08:33:00Z",
   "refs": [
@@ -20,6 +21,18 @@
     {
       "headword": "法定代理人",
       "en": "legal representative"
+    },
+    {
+      "headword": "復代理人",
+      "en": "subagent"
+    },
+    {
+      "headword": "無権代理",
+      "en": "unauthorized agency"
+    },
+    {
+      "headword": "表見代理",
+      "en": "apparent authority"
     }
   ],
   "example": {
@@ -138,6 +151,76 @@
           "say": "未成年者が法律行為をするには、ほうていだいりにんの同意が必要、でおなじみです。"
         }
       ]
+    },
+    {
+      "kind": "related",
+      "label": "あわせて覚える",
+      "en": [
+        {
+          "text": "subagent",
+          "tag": "復代理人"
+        },
+        {
+          "text": "unauthorized agency",
+          "tag": "無権代理"
+        }
+      ],
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "代理の論点も英語で。復代理人は、",
+          "say": "だいりの論点も英語で。ふくだいりにんは、"
+        },
+        {
+          "lang": "en",
+          "text": "subagent"
+        },
+        {
+          "lang": "ja",
+          "text": "無権代理は、",
+          "say": "むけんだいりは、"
+        },
+        {
+          "lang": "en",
+          "text": "unauthorized agency"
+        }
+      ],
+      "hold": 0.6
+    },
+    {
+      "kind": "recall",
+      "big": "表見代理",
+      "body": "では、英語で？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "では、表見代理は？",
+          "say": "では、ひょうけんだいりは？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "label": "答え",
+      "en": [
+        {
+          "text": "apparent authority"
+        }
+      ],
+      "body": "代理権があるように見える＝apparent",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "apparent authority"
+        },
+        {
+          "lang": "ja",
+          "text": "代理権があるように見える。だから、アパレントです。",
+          "say": "だいりけんがあるように見える。だから、アパレントです。"
+        }
+      ],
+      "hold": 0.6
     },
     {
       "kind": "outro",

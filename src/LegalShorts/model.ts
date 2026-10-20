@@ -9,9 +9,10 @@ const line = z.object({
   // Spoken form when it differs from the caption (kana for readings VOICEVOX gets wrong).
   say: text.optional(),
 });
-const term = z.object({ text: text.max(32), tag: text.max(10).optional() });
+const term = z.object({ text: text.max(48), tag: text.max(10).optional() });
 const beat = z.object({
-  kind: z.enum(['hook', 'reveal', 'twist', 'example', 'recall', 'answer', 'outro']),
+  // 'ending' is appended by the pipeline (recap + next-episode teaser); scripts never write it.
+  kind: z.enum(['hook', 'reveal', 'twist', 'related', 'example', 'recall', 'answer', 'outro', 'ending']),
   label: text.max(14).optional(),
   big: text.max(16).optional(),
   en: z.array(term).max(3).optional(),
@@ -19,6 +20,8 @@ const beat = z.object({
   lines: z.array(line).min(1),
   // Silent thinking time after the voice. Required for hook and recall.
   pause: z.number().min(0).max(4).optional(),
+  // Extra on-screen time after the voice without the thinking countdown (let a point land).
+  hold: z.number().min(0).max(4).optional(),
 });
 export const refSchema = z.object({
   headword: text,
@@ -30,10 +33,12 @@ export const shortSchema = z.object({
   id: z.string().regex(/^[a-z0-9-]+$/),
   title: text.max(70),
   term: text.max(16),
+  // Kana reading of the term for the closing line and next-episode teaser.
+  reading: z.string().regex(/^[ぁ-んー・]+$/).optional(),
   dictVersion: z.literal('19.0'),
   refs: z.array(refSchema).min(1),
   example: z.object({ headword: text, ja: text, en: text, source: text, highlight: text }).optional(),
-  beats: z.array(beat).min(4).max(9),
+  beats: z.array(beat).min(4).max(14),
   // Optional; defaults to the channel's licensed track. Only files listed in public/bgm/credits.json are allowed.
   bgm: z.string().regex(/^[a-z0-9-]+\.mp3$/).optional(),
   // Queue ordering (oldest first). Required for files in shorts/queue/.
@@ -44,7 +49,8 @@ export const shortSchema = z.object({
   const allowed = new Set([...s.refs.map(r => r.en)]);
   if (s.example && !s.example.en.includes(s.example.highlight)) issue('example.highlight must occur in example.en');
   if (s.beats[0].kind !== 'hook' || !(s.beats[0].pause && s.beats[0].pause >= 2)) issue('First beat must be a hook with >=2s silent thinking time');
-  if (s.beats.at(-1)!.kind !== 'outro') issue('Last beat must be the outro (loops back to the hook)');
+  if (s.beats.at(-1)!.kind !== 'outro') issue('Last beat of a script must be the outro; the ending scene is added automatically');
+  if (s.beats.some(b => b.kind === 'ending')) issue('Scripts must not contain an ending beat');
   s.beats.forEach((b, i) => {
     if (b.kind === 'recall' && !(b.pause && b.pause >= 2)) issue(`beat ${i}: recall needs >=2s pause`);
     if (b.kind === 'recall' && s.beats[i + 1]?.kind !== 'answer') issue(`beat ${i}: recall must be followed by its answer`);
@@ -59,7 +65,8 @@ export type Short = z.infer<typeof shortSchema>;
 export type ShortBeat = Short['beats'][number];
 export type Clip = { file?: string; seconds: number; lang: 'ja' | 'en'; text: string };
 export type ShortSegment = ShortBeat & { from: number; frames: number; speechFrames: number; clips: (Clip & { from: number })[] };
-export type ShortProps = { short: Short; segments: ShortSegment[]; voiced: boolean; bgm?: string };
+export type Ending = { recap: { headword: string; en: string }[]; nextTerm?: string };
+export type ShortProps = { short: Short; segments: ShortSegment[]; voiced: boolean; bgm?: string; ending?: Ending };
 
 const GAP = 0.18;
 // Silent previews estimate speech time; published renders always use measured clips.
@@ -78,7 +85,7 @@ export function buildShortTimeline(s: Short, audio: Clip[][] = [], fps = 30): Sh
       return clip;
     });
     const speechFrames = Math.ceil(at * fps);
-    const frames = Math.ceil(Math.max(2.2, at + (b.pause ?? 0) + 0.35) * fps);
+    const frames = Math.ceil(Math.max(2.2, at + (b.pause ?? 0) + (b.hold ?? 0) + 0.35) * fps);
     const seg = { ...b, from, frames, speechFrames, clips };
     from += frames;
     return seg;
@@ -118,4 +125,15 @@ export function verifyAgainstDictionary(s: Short, rows: DictRow[]) {
     if (!rows.some(x => x.headword === e.headword && x.exJa === e.ja && x.exEn === e.en && x.exSource === e.source)) problems.push(`example for ${e.headword} does not match the dictionary verbatim`);
   }
   if (problems.length) throw new Error(`Dictionary check failed:\n- ${problems.join('\n- ')}`);
+}
+
+// Closing scene appended to every script: recap card, next-episode teaser, a closing line and a slow fade.
+export function endingBeat(s: Short, next?: { term: string; reading?: string }): ShortBeat {
+  const line = (t: string, n?: string) => `今日の${t}、言えるようになりましたか？${n ? `次回は、「${n}」を英語で。` : ''}また明日、ここで会いましょう。`;
+  return { kind: 'ending', label: '今日のまとめ', lines: [{ lang: 'ja', text: line(s.term, next?.term), say: line(s.reading ?? s.term, next ? (next.reading ?? next.term) : undefined) }], hold: 3 };
+}
+export function recapOf(s: Short): Ending['recap'] {
+  // One row per headword (its first translation), at most 4, so the card fits above the speech bubble.
+  const seen = new Set<string>();
+  return s.refs.filter(r => { if (seen.has(r.headword) || seen.size >= 4) return false; seen.add(r.headword); return true; }).map(r => ({ headword: r.headword, en: r.en }));
 }

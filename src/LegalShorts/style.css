@@ -28,3 +28,8 @@
 .ls-bubble::after{content:'';position:absolute;right:-26px;top:70px;border:16px solid transparent;border-left:30px solid #f4f1e8}
 .ls-bubble.en{font-size:40px;color:#0f4f4a}
 .ls-en.compact{gap:14px}.ls-en.compact .ls-en-item{padding:12px 26px}.ls-en.compact .word{font-size:56px}.ls-en.compact .tag{font-size:28px}
+.ls-recap{display:flex;flex-direction:column;gap:12px}
+.ls-recap>div:not(.ls-next){display:flex;justify-content:space-between;align-items:baseline;gap:20px;background:#132a33;border-radius:12px;padding:12px 22px}
+.ls-recap .ja{font-size:34px;font-weight:700;color:#dbe6e3;flex:0 1 auto;max-width:48%}.ls-recap .en{font-size:34px;font-weight:700;color:#fff;text-align:right;flex:1}
+.ls-next{margin-top:10px;font-size:42px;font-weight:700;color:#f5b85c}.ls-next b{color:#fff}
+.ls-fade{position:absolute;inset:0;background:#081217;pointer-events:none}

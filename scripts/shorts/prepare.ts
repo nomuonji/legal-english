@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import crypto from 'node:crypto';
 import {execFileSync} from 'node:child_process';
-import {shortSchema, buildShortTimeline, toDictRows, verifyAgainstDictionary, totalFrames} from '../../src/LegalShorts/model';
+import {shortSchema, buildShortTimeline, toDictRows, verifyAgainstDictionary, totalFrames, endingBeat, recapOf} from '../../src/LegalShorts/model';
 import type {Clip} from '../../src/LegalShorts/model';
 
 export const DICT_PATH = 'sources/jlt/law-je-dic-19.0.csv';
@@ -28,10 +28,30 @@ const seconds = (file: string) => {
   return s;
 };
 
+// VOICEVOX in CI can accept the health check and still reset early requests while the engine warms up.
+async function fetchRetry(url: string, init: RequestInit, label: string) {
+  let last: unknown;
+  for (let attempt = 1; attempt <= 8; attempt++) {
+    try {
+      const r = await fetch(url, init);
+      if (r.ok) return r;
+      last = new Error(`${label} HTTP ${r.status}`);
+      if (r.status < 500) break;
+    } catch (e) { last = e; }
+    await new Promise(res => setTimeout(res, Math.min(30000, 2000 * attempt)));
+  }
+  throw new Error(`${label} failed after retries: ${(last as Error)?.message ?? last}`);
+}
+
 async function main() {
   const id = process.argv[2];
   if (!id) throw new Error('Usage: npm run shorts:prepare -- <short-id> [--voice]');
-  const short = loadShort(id);
+  const script = loadShort(id);
+  // The next script in the queue (oldest queuedAt after this one) becomes the teaser in the ending scene.
+  const queued = fs.existsSync('shorts/queue') ? fs.readdirSync('shorts/queue').filter(f => f.endsWith('.json')).map(f => f.replace(/\.json$/, '')).filter(x => x !== id).map(x => loadShort(x)) : [];
+  const order = (a: {queuedAt?: string; id: string}) => `${a.queuedAt ?? ''}|${a.id}`;
+  const next = queued.filter(x => order(x) > order(script)).sort((a, b) => order(a).localeCompare(order(b)))[0];
+  const short = {...script, beats: [...script.beats, endingBeat(script, next && {term: next.term, reading: next.reading})]};
   const voiced = process.argv.includes('--voice');
   const dir = `out/shorts/${id}`;
   fs.mkdirSync(dir, {recursive: true});
@@ -49,14 +69,12 @@ async function main() {
         const file = `shorts-audio/${id}/${i}-${j}.wav`;
         const spoken = l.say ?? l.text;
         if (l.lang === 'ja') {
-          const q = await fetch(`${base}/audio_query?text=${encodeURIComponent(spoken)}&speaker=${speaker}`, {method: 'POST'});
-          if (!q.ok) throw new Error(`VOICEVOX audio_query failed (${q.status})`);
+          const q = await fetchRetry(`${base}/audio_query?text=${encodeURIComponent(spoken)}&speaker=${speaker}`, {method: 'POST'}, 'VOICEVOX audio_query');
           const query = await q.json();
           query.speedScale = 1.15;
           query.prePhonemeLength = 0.05;
           query.postPhonemeLength = 0.05;
-          const r = await fetch(`${base}/synthesis?speaker=${speaker}`, {method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(query)});
-          if (!r.ok) throw new Error(`VOICEVOX synthesis failed (${r.status})`);
+          const r = await fetchRetry(`${base}/synthesis?speaker=${speaker}`, {method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(query)}, 'VOICEVOX synthesis');
           fs.writeFileSync(`public/${file}`, Buffer.from(await r.arrayBuffer()));
         } else {
           // Piper reads stdin; a slightly slower length scale keeps legal terms clear.
@@ -69,11 +87,11 @@ async function main() {
   }
   const segments = buildShortTimeline(short, audio);
   const duration = totalFrames(segments) / 30;
-  if (duration > 59) console.warn(`Warning: ${duration.toFixed(1)}s. Keep pilots under a minute so the hook-to-loop stays tight.`);
+  if (duration > 100) console.warn(`Warning: ${duration.toFixed(1)}s. Target 40-100s; trim beats that repeat a point.`);
   const credits = JSON.parse(fs.readFileSync('public/bgm/credits.json', 'utf8'));
   const bgm = short.bgm ?? 'kyoto.mp3';
   if (!credits[bgm] || !fs.existsSync(`public/bgm/${bgm}`)) throw new Error(`BGM ${bgm} is not in public/bgm/credits.json (licence unverified)`);
-  fs.writeFileSync(`${dir}/props.json`, JSON.stringify({short, segments, voiced, bgm}, null, 2));
+  fs.writeFileSync(`${dir}/props.json`, JSON.stringify({short, segments, voiced, bgm, ending: {recap: recapOf(script), nextTerm: next?.term}}, null, 2));
   const terms = [...new Set(short.refs.map(r => `${r.headword}：${r.en}`))];
   const description = [
     short.title.replace(/\s*#\S+/g, ''),

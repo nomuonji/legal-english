@@ -68,7 +68,7 @@ jobs:
         env:
           ID: ${{ steps.pick.outputs.id }}
         run: |
-          for i in $(seq 1 90); do curl -fsS http://127.0.0.1:50021/version >/dev/null && break; sleep 2; done
+          for i in $(seq 1 90); do curl -fsS http://127.0.0.1:50021/version >/dev/null && curl -fsS -X POST 'http://127.0.0.1:50021/audio_query?text=%E3%81%82&speaker=14' >/dev/null && break; sleep 2; done
           npm run shorts:prepare -- "$ID" --voice
           npx remotion render src/index.ts LegalShort "out/shorts/$ID/video.mp4" --props="out/shorts/$ID/props.json" --concurrency=2 --crf=20
           npm run shorts:review -- "$ID"

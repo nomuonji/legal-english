@@ -2,6 +2,7 @@
   "id": "saiken-obligee",
   "title": "「債権者」は creditor？ 民法の条文英訳では obligee #法律英語 #Shorts",
   "term": "債権者",
+  "reading": "さいけんしゃ",
   "dictVersion": "19.0",
   "queuedAt": "2026-10-20T08:31:00Z",
   "refs": [
@@ -20,6 +21,22 @@
     {
       "headword": "債務者",
       "en": "debtor"
+    },
+    {
+      "headword": "債権",
+      "en": "claim"
+    },
+    {
+      "headword": "債務",
+      "en": "obligation"
+    },
+    {
+      "headword": "債務",
+      "en": "debt"
+    },
+    {
+      "headword": "連帯債務者",
+      "en": "joint and several obligor"
     }
   ],
   "beats": [
@@ -127,6 +144,89 @@
           "text": "debtor"
         }
       ]
+    },
+    {
+      "kind": "related",
+      "label": "あわせて覚える",
+      "en": [
+        {
+          "text": "claim",
+          "tag": "債権"
+        },
+        {
+          "text": "obligation",
+          "tag": "債務"
+        },
+        {
+          "text": "debt",
+          "tag": "金銭債務"
+        }
+      ],
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "債権そのものは、",
+          "say": "さいけんそのものは、"
+        },
+        {
+          "lang": "en",
+          "text": "claim"
+        },
+        {
+          "lang": "ja",
+          "text": "債務は、",
+          "say": "さいむは、"
+        },
+        {
+          "lang": "en",
+          "text": "obligation"
+        },
+        {
+          "lang": "ja",
+          "text": "お金の債務なら、",
+          "say": "お金のさいむなら、"
+        },
+        {
+          "lang": "en",
+          "text": "debt"
+        }
+      ],
+      "hold": 0.6
+    },
+    {
+      "kind": "recall",
+      "big": "連帯債務者",
+      "body": "では、英語で？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "では、連帯債務者は？",
+          "say": "では、れんたいさいむしゃは？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "label": "答え",
+      "en": [
+        {
+          "text": "joint and several obligor"
+        }
+      ],
+      "body": "連帯＝joint and several",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "joint and several obligor"
+        },
+        {
+          "lang": "ja",
+          "text": "連帯は、ジョイント・アンド・セベラル。債務者は、さっきのオブリゴーです。",
+          "say": "れんたいは、ジョイント・アンド・セベラル。さいむしゃは、さっきのオブリゴーです。"
+        }
+      ],
+      "hold": 0.6
     },
     {
       "kind": "outro",

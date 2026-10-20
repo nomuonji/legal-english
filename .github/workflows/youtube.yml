@@ -4,7 +4,7 @@ on:
     inputs:
       mode:
         type: choice
-        options: [channel-info, update-description, upload-private, publish]
+        options: [channel-info, update-description, upload-private, upload-short, publish]
         default: channel-info
         required: true
       render_run_id:
@@ -13,6 +13,9 @@ on:
       lesson:
         description: Lesson id (upload-private)
         default: shareholder-proposal-numbers
+        type: string
+      short:
+        description: Short id (upload-short, private manual upload)
         type: string
       video_id:
         description: Existing verified private video ID (publish)
@@ -45,11 +48,23 @@ jobs:
           gh run view "$RENDER_RUN" --json conclusion,name,headSha > /tmp/render-run.json
           node -e "const r=require('/tmp/render-run.json');if(r.conclusion!=='success'||r.name!=='Judicial Memory')throw Error('Not a successful lesson render')"
           gh run download "$RENDER_RUN" --name "judicial-memory-$LESSON" --dir out
+      - name: Download verified short render
+        if: inputs.mode == 'upload-short'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RENDER_RUN: ${{ inputs.render_run_id }}
+          SHORT: ${{ inputs.short }}
+        run: |
+          node -e "for (const [k,v] of Object.entries({run:process.env.RENDER_RUN,short:process.env.SHORT})) if (!(k==='run'?/^[0-9]+$/:/^[a-z0-9-]+$/).test(v||'')) throw Error('Invalid '+k)"
+          gh run view "$RENDER_RUN" --json conclusion,name > /tmp/render-run.json
+          node -e "const r=require('/tmp/render-run.json');if(r.conclusion!=='success'||r.name!=='Legal Shorts')throw Error('Not a successful Legal Shorts render')"
+          gh run download "$RENDER_RUN" --name legal-shorts --dir out/shorts
       - name: Execute requested YouTube operation
         env:
           MODE: ${{ inputs.mode }}
           LESSON: ${{ inputs.lesson }}
           VIDEO_ID: ${{ inputs.video_id }}
+          SHORT: ${{ inputs.short }}
           YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
           YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
           YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
@@ -60,7 +75,7 @@ jobs:
           LESSON: ${{ inputs.lesson }}
         run: node scripts/memory/note-link.mjs "$LESSON"
       - name: Save upload receipt
-        if: always() && inputs.mode == 'upload-private'
+        if: always() && (inputs.mode == 'upload-private' || inputs.mode == 'upload-short')
         run: |
           if test -f state/youtube.json; then
             git config user.name 'github-actions[bot]'

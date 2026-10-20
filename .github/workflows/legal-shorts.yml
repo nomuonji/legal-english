@@ -1,0 +1,77 @@
+name: Legal Shorts
+on:
+  pull_request:
+    paths: ['shorts/**', 'src/LegalShorts/**', 'src/Root.tsx', 'scripts/shorts/**', 'sources/jlt/**', 'package*.json', '.github/workflows/legal-shorts.yml']
+  workflow_dispatch:
+    inputs:
+      short:
+        description: Short id (empty = all shorts)
+        type: string
+        default: ''
+permissions:
+  contents: read
+concurrency:
+  group: legal-shorts-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci --no-audit --no-fund
+      - name: Install media tools and English voice (Piper "kristin", public-domain dataset)
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg
+          pip install --quiet piper-tts==1.8.0
+          mkdir -p voices
+          for f in en_US-kristin-medium.onnx en_US-kristin-medium.onnx.json; do
+            curl -fsSL -o "voices/$f" "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/kristin/medium/$f"
+          done
+      - name: Validate against the official dictionary
+        run: |
+          npx tsc -p tsconfig.memory.json
+          npx eslint src/Root.tsx src/LegalShorts
+          npm run shorts:check
+      - name: Start Japanese voice
+        run: |
+          docker run -d --name voicevox -p 127.0.0.1:50021:50021 voicevox/voicevox_engine:cpu-latest
+          for i in $(seq 1 90); do
+            if curl -fsS http://127.0.0.1:50021/version; then exit 0; fi
+            sleep 2
+          done
+          docker logs voicevox
+          exit 1
+      - run: npx remotion browser ensure
+      - name: Voice, render, review and gate the scripts this PR adds or changes
+        env:
+          ONLY: ${{ inputs.short }}
+          BASE: ${{ github.base_ref }}
+        run: |
+          ids="$ONLY"
+          if test -z "$ids" && test -n "$BASE"; then
+            ids=$(git diff --name-only --diff-filter=AM "origin/$BASE"...HEAD -- 'shorts/queue/*.json' | xargs -rn1 basename | sed 's/\.json$//')
+          fi
+          # Template-only changes: smoke-test the next script in the queue.
+          if test -z "$ids"; then ids=$(node scripts/shorts/queue.mjs next); fi
+          if test -z "$ids"; then echo "Nothing to render"; exit 0; fi
+          for id in $ids; do
+            npm run shorts:prepare -- "$id" --voice
+            npx remotion render src/index.ts LegalShort "out/shorts/$id/video.mp4" --props="out/shorts/$id/props.json" --concurrency=2 --crf=20
+            npm run shorts:review -- "$id"
+            node scripts/shorts/gate.mjs "$id"
+          done
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: legal-shorts
+          path: out/shorts/
+          retention-days: 14
+          if-no-files-found: ignore

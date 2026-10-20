@@ -1,6 +1,6 @@
 # 情報源・制作・公開先の関係
 
-この文書は、司法書士 暗記ラボと司法書士ノートを引き継ぐエージェントの入口。旧名Legal Englishとrepo名legal-englishが残っていても、現在の用途は司法書士試験の暗記教材である。
+この文書は、司法書士 暗記ラボと司法書士ノートを引き継ぐエージェントの入口。旧名Legal Englishとrepo名legal-englishが残っていても、現在の用途は司法書士試験の暗記教材である。加えて2026-10-20から、同じチャンネルのShortsで法律英語を再開した（正本は法務省の標準対訳辞書 `sources/jlt/`、台本 `shorts/queue/<id>.json`→Actionsが毎日自動投稿→`shorts/published/`。記事との一組運用は長尺のみ。運用は docs/shorts-queue.md）。
 
 ## 役割と正本
 

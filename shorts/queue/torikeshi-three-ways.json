@@ -1,0 +1,189 @@
+{
+  "id": "torikeshi-three-ways",
+  "title": "「取消し」は英語で一語？ 契約・許可・判決で3つ #法律英語 #Shorts",
+  "term": "取消し",
+  "dictVersion": "19.0",
+  "queuedAt": "2026-10-20T08:01:00Z",
+  "refs": [
+    {
+      "headword": "取消し",
+      "en": "rescission"
+    },
+    {
+      "headword": "取消し",
+      "en": "revocation"
+    },
+    {
+      "headword": "取消し",
+      "en": "setting aside"
+    },
+    {
+      "headword": "撤回",
+      "en": "withdrawal"
+    },
+    {
+      "headword": "撤回",
+      "en": "revocation",
+      "via": "note"
+    },
+    {
+      "headword": "解除",
+      "en": "cancellation"
+    }
+  ],
+  "example": {
+    "headword": "取消し",
+    "ja": "第一審判決の取消し及び変更は、不服申立ての限度においてのみ、これをすることができる。",
+    "en": "A first-instance judgment may be set aside or modified only within the bounds of the appeal entered against it.",
+    "source": "民事訴訟法第304条",
+    "highlight": "set aside"
+  },
+  "beats": [
+    {
+      "kind": "hook",
+      "big": "取消し",
+      "body": "英語は一語で決まる？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "取消し。英語では、一つの単語で言えるでしょうか？",
+          "say": "とりけし。英語では、一つの単語で言えるでしょうか？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "label": "場面で3つ",
+      "en": [
+        {
+          "text": "rescission",
+          "tag": "契約"
+        },
+        {
+          "text": "revocation",
+          "tag": "許可・登録"
+        },
+        {
+          "text": "setting aside",
+          "tag": "判決など"
+        }
+      ],
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "答えは、場面で分かれます。契約の取消しは、",
+          "say": "答えは、場面で分かれます。契約のとりけしは、"
+        },
+        {
+          "lang": "en",
+          "text": "rescission"
+        },
+        {
+          "lang": "ja",
+          "text": "許可や登録の取消しは、",
+          "say": "許可や登録のとりけしは、"
+        },
+        {
+          "lang": "en",
+          "text": "revocation"
+        },
+        {
+          "lang": "ja",
+          "text": "判決などの取消しは、",
+          "say": "判決などのとりけしは、"
+        },
+        {
+          "lang": "en",
+          "text": "setting aside"
+        }
+      ]
+    },
+    {
+      "kind": "example",
+      "label": "条文ではこう",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "A first-instance judgment may be set aside or modified only within the bounds of the appeal entered against it."
+        },
+        {
+          "lang": "ja",
+          "text": "民事訴訟法三百四条。第一審判決の取消しは、セット・アサイドです。",
+          "say": "民事訴訟法三百四条。第一審判決のとりけしは、セット・アサイドです。"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "big": "撤回",
+      "body": "取消しとは別の語。英語で？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "では、撤回は？",
+          "say": "では、てっかいは？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "label": "答え",
+      "en": [
+        {
+          "text": "withdrawal"
+        },
+        {
+          "text": "cancellation",
+          "tag": "解除"
+        }
+      ],
+      "body": "※遺言の撤回は revocation が適切な例もある",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "撤回は、",
+          "say": "てっかいは、"
+        },
+        {
+          "lang": "en",
+          "text": "withdrawal"
+        },
+        {
+          "lang": "ja",
+          "text": "ちなみに、契約の解除は、"
+        },
+        {
+          "lang": "en",
+          "text": "cancellation"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "big": "取消し＝3つ",
+      "en": [
+        {
+          "text": "rescission",
+          "tag": "契約"
+        },
+        {
+          "text": "revocation",
+          "tag": "許可・登録"
+        },
+        {
+          "text": "setting aside",
+          "tag": "判決など"
+        }
+      ],
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "取消しは、場面で訳し分け。保存して、三日後にもう一度。",
+          "say": "とりけしは、場面で訳し分け。保存して、三日後にもう一度。"
+        }
+      ]
+    }
+  ]
+}

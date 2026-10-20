@@ -6,6 +6,15 @@
 
 Learning OSに取り込んだ本人の学習用Markdownを、司法書士試験の想起練習動画へ編集する制作・投稿リポジトリ。
 
+## 法律英語Shorts（2026-10-20再開）
+
+- 正本：法務省「法令用語日英標準対訳辞書」第19.0版（`sources/jlt/`、日本法令外国語訳データベースシステムからCSV取得。利用規約に従い引用・複製可）。
+- 台本：`shorts/queue/<id>.json`（投稿後は `shorts/published/`）。運用は [docs/shorts-queue.md](docs/shorts-queue.md)。エージェントは台本をキューに入れるまで、Actions **Legal Shorts Publish** が毎日1本を生成・投稿。英語は辞書の訳語（`via: candidate`）か、その行の注釈に出てくる語（`via: note`）だけ。用例は辞書の和文・英文・出典と完全一致。
+- 制作：`npm run shorts:prepare -- <id> [--voice]` → `npx remotion render src/index.ts LegalShort out/shorts/<id>/video.mp4 --props=out/shorts/<id>/props.json` → `npm run shorts:review -- <id>`。PRでは Actions **Legal Shorts** が追加・変更された台本を音声付きで書き出し、自動ゲートを通す。
+- 声とキャラクター：既存キャラクター（`public/images/mouth-*.png`）が右下で全台詞を口パク。日本語 VOICEVOX:冥鳴ひまり、英語 Piper `en_US-kristin-medium`（LibriVoxパブリックドメイン音源）。ryan・lessac・hfc系は非商用ライセンスのため使わない。左の吹き出しに現在の台詞（音なし視聴向け）。BGMはしゃろう「週末京都現実逃避」（台詞中は自動で音量を下げる）。
+- 画面は1080×1920。下約420px・右150pxはShortsのUIが重なるので文字を置かない。
+- 旧Legal Englishの `input/*.json`（約7,900件）はGemini生成で、存在しない訴えや条文番号の誤り・重複を確認済み。使わない。
+
 ## 元にするノート
 
 正本は private repository `nomuonji/learning-os` の

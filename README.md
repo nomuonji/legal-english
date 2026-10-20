@@ -1,5 +1,9 @@
 # 司法書士 暗記ラボ（旧 Legal English）
 
+## エージェント向けの入口
+
+[情報源・制作・公開先の関係](docs/content-relationships.md) に、原本・台本・公開記事・YouTubeチャンネル・対応表の正本を集約。[動画と記事の運用手順](docs/video-note-links.md) と併せて読む。
+
 Learning OSに取り込んだ本人の学習用Markdownを、司法書士試験の想起練習動画へ編集する制作・投稿リポジトリ。
 
 ## 元にするノート

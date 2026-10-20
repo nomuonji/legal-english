@@ -71,24 +71,28 @@ if(mode==='update-description') {
     if(rb.data.items?.[0]?.status?.privacyStatus!=='private'||rb.data.items[0].snippet.channelId!==channel.id) throw Error('Private upload readback failed');
   }
   console.log(`Private pilot: https://youtu.be/${uploaded.data.id}`);
-} else if(mode==='upload-short-private') {
+} else if(mode==='upload-short') {
   // Legal English Shorts: no review-note pairing; render must be voiced and match the current dictionary-checked script.
   const id=process.env.SHORT;
   if(!id||!/^[a-z0-9-]+$/.test(id)) throw Error('Invalid short id');
   const dir=`out/shorts/${id}`, meta=json(`${dir}/metadata.json`);
-  const hash=crypto.createHash('sha256').update(JSON.stringify(JSON.parse(fs.readFileSync(`shorts/${id}.json`,'utf8')))).digest('hex');
+  const scriptPath=['shorts/queue','shorts/published'].map(d=>`${d}/${id}.json`).find(p=>fs.existsSync(p));
+  if(!scriptPath) throw Error(`Script for ${id} not found`);
+  const hash=crypto.createHash('sha256').update(JSON.stringify(JSON.parse(fs.readFileSync(scriptPath,'utf8')))).digest('hex');
+  // The scheduled publisher posts public; manual pilot uploads stay private.
+  const privacy=process.env.PRIVACY==='public'?'public':'private';
   if(!meta.voiced||meta.shortId!==id||hash!==meta.shortHash) throw Error('Render must have voice and match the current dictionary-checked script');
   if(!fs.existsSync(`${dir}/video.mp4`)) throw Error('Rendered video missing');
   const marker=`[legal-short:${id}:${hash.slice(0,16)}]`;
   let receipts=fs.existsSync('state/youtube.json')?json('state/youtube.json'):{};
   if(receipts[marker]) throw Error(`Already uploaded: ${receipts[marker].videoId}`);
-  const uploaded=await yt.videos.insert({part:['snippet','status'],requestBody:{snippet:{title:meta.title,description:`${meta.description}\n\n${marker}`,tags:meta.tags,categoryId:'27',defaultLanguage:'ja'},status:{privacyStatus:'private',selfDeclaredMadeForKids:false}},media:{body:fs.createReadStream(`${dir}/video.mp4`)}});
+  const uploaded=await yt.videos.insert({part:['snippet','status'],requestBody:{snippet:{title:meta.title,description:`${meta.description}\n\n${marker}`,tags:meta.tags,categoryId:'27',defaultLanguage:'ja'},status:{privacyStatus:privacy,selfDeclaredMadeForKids:false}},media:{body:fs.createReadStream(`${dir}/video.mp4`)}});
   if(!uploaded.data.id) throw Error('No upload ID: inspect Studio before any retry');
-  receipts[marker]={videoId:uploaded.data.id,channelId:uploaded.data.snippet?.channelId,privacyStatus:uploaded.data.status?.privacyStatus,kind:'legal-short',readbackMode:canRead?'videos.list':'insert-response (verify in Studio)',uploadedAt:new Date().toISOString()};
+  receipts[marker]={videoId:uploaded.data.id,channelId:uploaded.data.snippet?.channelId,privacyStatus:uploaded.data.status?.privacyStatus,kind:'legal-short',shortId:id,readbackMode:canRead?'videos.list':'insert-response (verify in Studio)',uploadedAt:new Date().toISOString()};
   save('state/youtube.json',receipts);
   save('out/youtube-upload.json',receipts[marker]);
-  if(uploaded.data.status?.privacyStatus!=='private'||uploaded.data.snippet?.channelId!==settings.channelId) throw Error('Upload response does not match the expected private channel; inspect Studio before retrying');
-  console.log(`Private short: https://youtu.be/${uploaded.data.id}`);
+  if(uploaded.data.status?.privacyStatus!==privacy||uploaded.data.snippet?.channelId!==settings.channelId) throw Error('Upload response does not match the expected channel/privacy; inspect Studio before retrying');
+  console.log(`${privacy} short: https://youtu.be/${uploaded.data.id}`);
 } else if(mode==='publish') {
   if(!videoId||!/^[\w-]{11}$/.test(videoId)) throw Error('Valid existing video ID required');
   const rb=await yt.videos.list({id:[videoId],part:['snippet','status']});

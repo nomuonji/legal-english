@@ -34,6 +34,11 @@ export const shortSchema = z.object({
   refs: z.array(refSchema).min(1),
   example: z.object({ headword: text, ja: text, en: text, source: text, highlight: text }).optional(),
   beats: z.array(beat).min(4).max(9),
+  // Optional; defaults to the channel's licensed track. Only files listed in public/bgm/credits.json are allowed.
+  bgm: z.string().regex(/^[a-z0-9-]+\.mp3$/).optional(),
+  // Queue ordering (oldest first). Required for files in shorts/queue/.
+  published: z.object({ videoId: z.string(), at: z.string() }).optional(),
+  queuedAt: z.string().regex(/^\d{4}-\d{2}-\d{2}(T[\d:.]+Z?)?$/).optional(),
 }).superRefine((s, ctx) => {
   const issue = (message: string) => ctx.addIssue({ code: 'custom', message });
   const allowed = new Set([...s.refs.map(r => r.en)]);
@@ -54,7 +59,7 @@ export type Short = z.infer<typeof shortSchema>;
 export type ShortBeat = Short['beats'][number];
 export type Clip = { file?: string; seconds: number; lang: 'ja' | 'en'; text: string };
 export type ShortSegment = ShortBeat & { from: number; frames: number; speechFrames: number; clips: (Clip & { from: number })[] };
-export type ShortProps = { short: Short; segments: ShortSegment[]; voiced: boolean };
+export type ShortProps = { short: Short; segments: ShortSegment[]; voiced: boolean; bgm?: string };
 
 const GAP = 0.18;
 // Silent previews estimate speech time; published renders always use measured clips.

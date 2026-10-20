@@ -1,0 +1,121 @@
+name: Legal Shorts Publish
+# Takes the oldest script from shorts/queue/, voices, renders, checks and uploads it,
+# then moves the script to shorts/published/. Agents only add scripts to the queue.
+on:
+  schedule:
+    - cron: '17 9 * * *'   # 18:17 JST daily
+  workflow_dispatch:
+    inputs:
+      privacy:
+        description: Override privacy for this run
+        type: choice
+        options: [default, public, private]
+        default: default
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: legal-shorts-publish
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      PRIVACY: ${{ (inputs.privacy && inputs.privacy != 'default') && inputs.privacy || vars.LEGAL_SHORTS_PRIVACY || 'public' }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Pick next script
+        id: pick
+        run: |
+          id=$(node scripts/shorts/queue.mjs next)
+          echo "id=$id" >> "$GITHUB_OUTPUT"
+          echo "Queue: $(node scripts/shorts/queue.mjs count) script(s); next: ${id:-none}" >> "$GITHUB_STEP_SUMMARY"
+      - name: Report empty queue
+        if: steps.pick.outputs.id == ''
+        run: |
+          title='法律英語Shorts：キューが空です'
+          n=$(gh issue list --state open --search "$title in:title" --json number --jq '.[0].number')
+          body="shorts/queue/ に台本がないため、$(date -u +%FT%TZ) の投稿をスキップしました。docs/shorts-queue.md の手順で台本を追加してください。"
+          if test -n "$n"; then gh issue comment "$n" --body "$body"; else gh issue create --title "$title" --body "$body"; fi
+      - uses: actions/setup-node@v4
+        if: steps.pick.outputs.id != ''
+        with:
+          node-version: '22'
+          cache: npm
+      - name: Install
+        if: steps.pick.outputs.id != ''
+        run: |
+          npm ci --no-audit --no-fund
+          sudo apt-get update -qq && sudo apt-get install -y ffmpeg
+          pip install --quiet piper-tts==1.8.0
+          mkdir -p voices
+          for f in en_US-kristin-medium.onnx en_US-kristin-medium.onnx.json; do
+            curl -fsSL -o "voices/$f" "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/kristin/medium/$f"
+          done
+          docker run -d --name voicevox -p 127.0.0.1:50021:50021 voicevox/voicevox_engine:cpu-latest
+          npx remotion browser ensure
+      - name: Validate every script against the dictionary
+        if: steps.pick.outputs.id != ''
+        run: |
+          npx tsc -p tsconfig.memory.json
+          npm run shorts:check
+      - name: Voice, render and check
+        if: steps.pick.outputs.id != ''
+        env:
+          ID: ${{ steps.pick.outputs.id }}
+        run: |
+          for i in $(seq 1 90); do curl -fsS http://127.0.0.1:50021/version >/dev/null && break; sleep 2; done
+          npm run shorts:prepare -- "$ID" --voice
+          npx remotion render src/index.ts LegalShort "out/shorts/$ID/video.mp4" --props="out/shorts/$ID/props.json" --concurrency=2 --crf=20
+          npm run shorts:review -- "$ID"
+          node scripts/shorts/gate.mjs "$ID"
+      - name: Upload to YouTube
+        id: upload
+        if: steps.pick.outputs.id != ''
+        env:
+          MODE: upload-short
+          SHORT: ${{ steps.pick.outputs.id }}
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: |
+          node scripts/memory/youtube.mjs
+          echo "video=$(node -p "require('./out/youtube-upload.json').videoId")" >> "$GITHUB_OUTPUT"
+      - name: Move script to published and save receipt
+        if: always() && steps.pick.outputs.id != '' && steps.upload.outcome != 'skipped'
+        env:
+          ID: ${{ steps.pick.outputs.id }}
+          VIDEO: ${{ steps.upload.outputs.video }}
+        run: |
+          if test -n "$VIDEO"; then
+            node scripts/shorts/queue.mjs complete "$ID" "$VIDEO"
+            echo "Published https://youtu.be/$VIDEO ($PRIVACY)" >> "$GITHUB_STEP_SUMMARY"
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add shorts state/youtube.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Publish legal short ${ID} ${VIDEO:-(upload failed; receipt only)}"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push && exit 0; sleep 5; done
+          exit 1
+      - name: Ask agents to refill when the queue runs low
+        if: success() && steps.pick.outputs.id != ''
+        run: |
+          left=$(node scripts/shorts/queue.mjs count)
+          if test "$left" -lt 3; then
+            title='法律英語Shorts：キュー残りわずか'
+            n=$(gh issue list --state open --search "$title in:title" --json number --jq '.[0].number')
+            body="キュー残り ${left} 本。docs/shorts-queue.md の手順で台本を追加してください。"
+            if test -n "$n"; then gh issue comment "$n" --body "$body"; else gh issue create --title "$title" --body "$body"; fi
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always() && steps.pick.outputs.id != ''
+        with:
+          name: published-short-${{ steps.pick.outputs.id }}
+          path: out/shorts/
+          retention-days: 30
+          if-no-files-found: ignore

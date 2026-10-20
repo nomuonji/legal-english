@@ -7,7 +7,7 @@ import rawLesson from '../lessons/shareholder-proposal-numbers.json';
 import { LegalShort } from './LegalShorts';
 import { buildShortTimeline, shortSchema, totalFrames } from './LegalShorts/model';
 import type { ShortProps } from './LegalShorts/model';
-import rawShort from '../shorts/zeni-good-faith.json';
+import rawShort from '../shorts/queue/zeni-good-faith.json';
 
 const lesson=lessonSchema.parse(rawLesson);
 const defaults:VideoProps={lesson,segments:buildTimeline(lesson),voiced:false};

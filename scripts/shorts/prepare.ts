@@ -5,9 +5,19 @@ import {shortSchema, buildShortTimeline, toDictRows, verifyAgainstDictionary, to
 import type {Clip} from '../../src/LegalShorts/model';
 
 export const DICT_PATH = 'sources/jlt/law-je-dic-19.0.csv';
-export const loadShort = (id: string) => {
+// Scripts live in shorts/queue/ until published, then move to shorts/published/.
+export const SHORT_DIRS = ['shorts/queue', 'shorts/published'];
+export const shortPath = (id: string) => {
   if (!/^[a-z0-9-]+$/.test(id)) throw new Error('Invalid short id');
-  const short = shortSchema.parse(JSON.parse(fs.readFileSync(`shorts/${id}.json`, 'utf8')));
+  const found = SHORT_DIRS.map(d => `${d}/${id}.json`).filter(p => fs.existsSync(p));
+  if (found.length !== 1) throw new Error(found.length ? `Duplicate short id ${id} in queue and published` : `Short ${id} not found`);
+  return found[0];
+};
+export const allShortIds = () => SHORT_DIRS.flatMap(d => fs.existsSync(d) ? fs.readdirSync(d).filter(f => f.endsWith('.json')).map(f => f.replace(/\.json$/, '')) : []);
+export const loadShort = (id: string) => {
+  const path = shortPath(id);
+  const short = shortSchema.parse(JSON.parse(fs.readFileSync(path, 'utf8')));
+  if (path.startsWith('shorts/queue/') && !short.queuedAt) throw new Error(`${id}: queued scripts need queuedAt`);
   if (short.id !== id) throw new Error('Short id/file mismatch');
   verifyAgainstDictionary(short, toDictRows(fs.readFileSync(DICT_PATH, 'utf8')));
   return short;
@@ -60,7 +70,10 @@ async function main() {
   const segments = buildShortTimeline(short, audio);
   const duration = totalFrames(segments) / 30;
   if (duration > 59) console.warn(`Warning: ${duration.toFixed(1)}s. Keep pilots under a minute so the hook-to-loop stays tight.`);
-  fs.writeFileSync(`${dir}/props.json`, JSON.stringify({short, segments, voiced}, null, 2));
+  const credits = JSON.parse(fs.readFileSync('public/bgm/credits.json', 'utf8'));
+  const bgm = short.bgm ?? 'kyoto.mp3';
+  if (!credits[bgm] || !fs.existsSync(`public/bgm/${bgm}`)) throw new Error(`BGM ${bgm} is not in public/bgm/credits.json (licence unverified)`);
+  fs.writeFileSync(`${dir}/props.json`, JSON.stringify({short, segments, voiced, bgm}, null, 2));
   const terms = [...new Set(short.refs.map(r => `${r.headword}：${r.en}`))];
   const description = [
     short.title.replace(/\s*#\S+/g, ''),
@@ -72,11 +85,12 @@ async function main() {
     '出典：日本法令外国語訳データベースシステム「法令用語日英標準対訳辞書」第19.0版（法務省）https://www.japaneselawtranslation.go.jp/',
     '翻訳は参考資料であり、法的効力を有するのは日本語の法令です。日本語の説明は当チャンネルの独自編集。',
     '音声：VOICEVOX:冥鳴ひまり／英語音声 Piper kristin（パブリックドメイン音源）',
+    credits[bgm].credit,
     '',
     '#法律英語 #司法書士 #Shorts',
   ].join('\n');
   // Hash the script as stored (before schema defaults) so the uploader can recompute it from shorts/<id>.json.
-  const hash = crypto.createHash('sha256').update(JSON.stringify(JSON.parse(fs.readFileSync(`shorts/${id}.json`, 'utf8')))).digest('hex');
+  const hash = crypto.createHash('sha256').update(JSON.stringify(JSON.parse(fs.readFileSync(shortPath(id), 'utf8')))).digest('hex');
   fs.writeFileSync(`${dir}/metadata.json`, JSON.stringify({shortId: id, title: short.title, description, tags: ['法律英語', '司法書士', '法令英訳', short.term], defaultLanguage: 'ja', privacyStatus: 'private', voiced, shortHash: hash, durationSeconds: duration}, null, 2));
   const t = (f: number) => new Date(Math.round(f / 30 * 1000)).toISOString().slice(11, 23).replace('.', ',');
   const srt = segments.flatMap(s => s.clips.map(c => ({from: s.from + c.from, to: s.from + c.from + Math.ceil(c.seconds * 30), text: c.text}))).map((c, i) => `${i + 1}\n${t(c.from)} --> ${t(c.to)}\n${c.text}\n`).join('\n');

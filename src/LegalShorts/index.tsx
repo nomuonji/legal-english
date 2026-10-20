@@ -86,5 +86,15 @@ export const LegalShort: React.FC<ShortProps> = (props) => {
     Promise.all(['500', '700', '900'].map(w => document.fonts.load(`${w} 64px "Noto Sans JP"`, sample)))
       .then(() => continueRender(handle)).catch(cancelRender);
   }, [handle, sample]);
-  return <AbsoluteFill>{props.segments.map((s, i) => <Sequence key={i} from={s.from} durationInFrames={s.frames}><Scene props={props} s={s}/></Sequence>)}</AbsoluteFill>;
+  // Duck the music under every voice clip; let it come up during thinking pauses.
+  const speaking = props.segments.flatMap(s => s.clips.map(c => [s.from + c.from - 4, s.from + c.from + Math.ceil(c.seconds * 30) + 4] as const));
+  const total = totalFrames(props.segments);
+  const volume = (f: number) => {
+    const fadeIn = Math.min(1, f / 20), fadeOut = Math.min(1, (total - f) / 30);
+    return (speaking.some(([a, b]) => f >= a && f < b) ? 0.045 : 0.13) * Math.max(0, Math.min(fadeIn, fadeOut));
+  };
+  return <AbsoluteFill>
+    {props.bgm && <Audio src={staticFile(`bgm/${props.bgm}`)} loop volume={volume}/>}
+    {props.segments.map((s, i) => <Sequence key={i} from={s.from} durationInFrames={s.frames}><Scene props={props} s={s}/></Sequence>)}
+  </AbsoluteFill>;
 };

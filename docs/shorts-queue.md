@@ -1,0 +1,32 @@
+# 法律英語Shorts：キュー運用
+
+役割分担は固定する。
+
+| 担当 | やること |
+|---|---|
+| エージェント | 台本を `shorts/queue/<id>.json` に入れる（PR→CI合格→マージ）まで |
+| GitHub Actions **Legal Shorts Publish** | 毎日18:17 JSTにキューの最古の台本を取り、音声生成→描画→自動ゲート→YouTube投稿→`shorts/published/` へ移動→受領記録 |
+
+エージェントは描画・投稿・公開状態の変更をしない。投稿の失敗はActionsのログとIssueで分かる。
+
+## 台本を足す手順（エージェント）
+
+1. 候補を探す：`node scripts/shorts/candidates.mjs 30`。既に `shorts/queue/`・`shorts/published/` にある語は除外済み。点数は「訳し分け・注釈・用例があるか」と司法書士試験との関連。
+2. 辞書の行を全部読む：`grep '^"\?<見出し語>' sources/jlt/law-je-dic-19.0.csv`。訳語候補・使い分け基準・注釈・用例のどれを根拠にするか決める。
+3. `shorts/queue/<id>.json` を書く。形は既存の台本を写す。必須の約束：
+   - 英語（画面の `en`、英語音声行）は `refs` の訳語か、辞書の用例英文そのもの。`refs` は辞書と完全一致（`via: note` は注釈中の語）。
+   - 落とし穴は辞書の使い分け基準・注釈が根拠。辞書にない法的説明を足すときは条文で確認し、断定を控える。
+   - 構成：クイズ（2秒以上の無音）→答え→落とし穴→（用例）→逆向き・別語の再テスト（無音）→まとめ。60秒以内。
+   - 日本語音声行に英字を入れない。読み間違えそうな漢字は `say` にかな。
+   - `queuedAt` に追加日時（UTC ISO）。古い順に投稿される。
+   - `id` はローマ字の短いスラッグ。タイトルは70字以内で `#法律英語 #Shorts` を含める。
+4. `npm run shorts:check` を通す。可能なら `npm run shorts:prepare -- <id>` と `npm run shorts:review -- <id>` で無音プレビューを目視。
+5. PRを作る。CI **Legal Shorts** が追加・変更された台本だけを音声付きで描画し、自動ゲート（1080×1920、音声あり、10〜75秒、無音・音割れなし）を通す。合格したらマージしてよい。
+
+## 投稿側の設定
+
+- 公開範囲：リポジトリ変数 `LEGAL_SHORTS_PRIVACY`（未設定なら `public`）。手動実行時は入力で上書き可。
+- 頻度：`.github/workflows/legal-shorts-publish.yml` の cron（既定 1日1本）。
+- 重複防止：台本の内容ハッシュ付きマーカーを概要欄と `state/youtube.json` に記録。同じ台本は二度上げない。
+- キューが空、または残り3本未満になるとIssueを立てる（エージェントの補充の合図）。
+- BGMは `public/bgm/credits.json` に登録した曲だけ。

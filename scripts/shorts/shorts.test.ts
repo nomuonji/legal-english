@@ -2,10 +2,10 @@ import {test} from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {shortSchema, buildShortTimeline, toDictRows, verifyAgainstDictionary, totalFrames} from '../../src/LegalShorts/model';
-import {loadShort, DICT_PATH} from './prepare';
+import {loadShort, DICT_PATH, allShortIds, shortPath} from './prepare';
 
 const rows = toDictRows(fs.readFileSync(DICT_PATH, 'utf8'));
-const ids = fs.readdirSync('shorts').filter(f => f.endsWith('.json')).map(f => f.replace(/\.json$/, ''));
+const ids = allShortIds();
 
 test('Dictionary snapshot parses completely (quoted commas and line breaks)', () => {
   assert.equal(rows.length, 5248);
@@ -16,12 +16,12 @@ test('Every short passes the schema and matches the official dictionary verbatim
   for (const id of ids) assert.doesNotThrow(() => loadShort(id), id);
 });
 test('An invented translation is rejected even when it sounds plausible', () => {
-  const s = shortSchema.parse(JSON.parse(fs.readFileSync('shorts/shain-member.json', 'utf8')));
+  const s = shortSchema.parse(JSON.parse(fs.readFileSync(shortPath('shain-member'), 'utf8')));
   assert.throws(() => verifyAgainstDictionary({...s, refs: [{headword: '社員', en: 'employee', via: 'candidate'}]}, rows), /not a listed translation/);
   assert.throws(() => shortSchema.parse({...s, beats: s.beats.map((b, i) => i === 1 ? {...b, lines: [{lang: 'en', text: 'staff member'}]} : b)}), /not from the dictionary/);
 });
 test('Japanese voice lines never contain Latin text (VOICEVOX would spell it out)', () => {
-  const s = JSON.parse(fs.readFileSync('shorts/zeni-good-faith.json', 'utf8'));
+  const s = JSON.parse(fs.readFileSync(shortPath('zeni-good-faith'), 'utf8'));
   s.beats[1].lines[1] = {lang: 'ja', text: '標準対訳は in good faith です。'};
   assert.throws(() => shortSchema.parse(s), /cannot read Latin/);
 });
@@ -32,4 +32,12 @@ test('Speech never eats the thinking pause, and pilots stay under a minute', () 
     for (const seg of buildShortTimeline(s, long)) if (seg.pause) assert.ok(seg.frames - seg.speechFrames >= seg.pause * 30, `${id}/${seg.kind}`);
     assert.ok(totalFrames(buildShortTimeline(s)) / 30 < 60, `${id} estimate too long`);
   }
+});
+test('Short ids are unique across queue and published', () => {
+  assert.equal(new Set(ids).size, ids.length);
+  for (const id of ids) assert.doesNotThrow(() => shortPath(id));
+});
+test('No two scripts teach the same term', () => {
+  const terms = ids.map(id => loadShort(id).term);
+  assert.equal(new Set(terms).size, terms.length);
 });

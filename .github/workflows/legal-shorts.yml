@@ -19,6 +19,8 @@ jobs:
     timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
@@ -48,16 +50,23 @@ jobs:
           docker logs voicevox
           exit 1
       - run: npx remotion browser ensure
-      - name: Voice, render and review each short
+      - name: Voice, render, review and gate the scripts this PR adds or changes
         env:
           ONLY: ${{ inputs.short }}
+          BASE: ${{ github.base_ref }}
         run: |
           ids="$ONLY"
-          if test -z "$ids"; then ids=$(ls shorts/*.json | xargs -n1 basename | sed 's/\.json$//'); fi
+          if test -z "$ids" && test -n "$BASE"; then
+            ids=$(git diff --name-only --diff-filter=AM "origin/$BASE"...HEAD -- 'shorts/queue/*.json' | xargs -rn1 basename | sed 's/\.json$//')
+          fi
+          # Template-only changes: smoke-test the next script in the queue.
+          if test -z "$ids"; then ids=$(node scripts/shorts/queue.mjs next); fi
+          if test -z "$ids"; then echo "Nothing to render"; exit 0; fi
           for id in $ids; do
             npm run shorts:prepare -- "$id" --voice
             npx remotion render src/index.ts LegalShort "out/shorts/$id/video.mp4" --props="out/shorts/$id/props.json" --concurrency=2 --crf=20
             npm run shorts:review -- "$id"
+            node scripts/shorts/gate.mjs "$id"
           done
       - uses: actions/upload-artifact@v4
         if: always()
@@ -65,4 +74,4 @@ jobs:
           name: legal-shorts
           path: out/shorts/
           retention-days: 14
-          if-no-files-found: error
+          if-no-files-found: ignore

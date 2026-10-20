@@ -11,6 +11,9 @@ async function main() {
   const catalog=JSON.parse(fs.readFileSync('sources/catalog.json','utf8'));
   const source=catalog.sections.find((s:{id:string})=>s.id===lesson.source.sectionId);
   if(!source||source.path!==lesson.source.path||source.blobSha!==lesson.source.blobSha||source.sectionSha256!==lesson.source.sectionSha256) throw new Error('Lesson does not match original study Markdown provenance');
+  const noteLinks=JSON.parse(fs.readFileSync('sources/video-notes.json','utf8'));
+  const publicNote=noteLinks[id];
+  if(!publicNote || publicNote.publicationStatus!=='published' || !/^https:\/\/shihoshoshi\.antonbase\.com\/notes\/[a-z0-9-]+$/.test(publicNote.url)) throw new Error('Publish and link the matching review note in sources/video-notes.json before preparing a video');
   const voiced=process.argv.includes('--voice');
   const dir=`out/${id}`;
   fs.mkdirSync(dir,{recursive:true});
@@ -39,8 +42,8 @@ async function main() {
   fs.writeFileSync(`${dir}/props.json`,JSON.stringify(props,null,2));
   const stamp=(frames:number)=>{const seconds=Math.floor(frames/30);return `${Math.floor(seconds/60)}:${String(seconds%60).padStart(2,'0')}`;};
   const chapters=segments.map(s=>`${stamp(s.from)} ${s.kind.includes('question')?'問題':s.kind.includes('answer')?'答え':s.kind==='hook'?'導入':s.kind==='map'?'比較地図':'復習'}${s.cardIndex===undefined?'':`：${lesson.cards[s.cardIndex].cue}`}`);
-  const description=[lesson.promise,'', 'Learning OSに保存した学習用Markdownから、事例・図解・想起テストへ。','再生中は答えを見る前に、声に出して答えてください。','復習の目安：明日・3日後・7日後。思い出せない問題は早めに再挑戦。','',`法令確認日：${lesson.asOf}`,`前提：${lesson.conditions}`,`対象範囲：${lesson.scope}`,'',...chapters,'','根拠・確認先',...lesson.legalSources.map(s=>`${s.label}\n${s.url}（確認 ${s.checkedAt}）`),'','音声：VOICEVOX:青山龍星','問題・図解：司法書士 暗記ラボ（独自編集）','#司法書士 #司法書士試験 #暗記'].join('\n');
-  fs.writeFileSync(`${dir}/metadata.json`,JSON.stringify({lessonId:id,title:lesson.title,description,tags:['司法書士','司法書士試験','暗記',lesson.subject],defaultLanguage:'ja',privacyStatus:'private',voiced,sourceHash:source.sectionSha256,lessonHash:crypto.createHash('sha256').update(JSON.stringify(lesson)).digest('hex')},null,2));
+  const description=['📖 この動画の復習ノート（比較表・確認問題）',publicNote.url,'外部リンクが開けない場合は、URLをコピーしてブラウザで開いてください。','',lesson.promise,'', 'Learning OSに保存した学習用Markdownから、事例・図解・想起テストへ。','再生中は答えを見る前に、声に出して答えてください。','復習の目安：明日・3日後・7日後。思い出せない問題は早めに再挑戦。','',`法令確認日：${lesson.asOf}`,`前提：${lesson.conditions}`,`対象範囲：${lesson.scope}`,'',...chapters,'','根拠・確認先',...lesson.legalSources.map(s=>`${s.label}\n${s.url}（確認 ${s.checkedAt}）`),'','音声：VOICEVOX:青山龍星','問題・図解：司法書士 暗記ラボ（独自編集）','#司法書士 #司法書士試験 #暗記'].join('\n');
+  fs.writeFileSync(`${dir}/metadata.json`,JSON.stringify({lessonId:id,title:lesson.title,description,publicNoteUrl:publicNote.url,tags:['司法書士','司法書士試験','暗記',lesson.subject],defaultLanguage:'ja',privacyStatus:'private',voiced,sourceHash:source.sectionSha256,lessonHash:crypto.createHash('sha256').update(JSON.stringify(lesson)).digest('hex')},null,2));
   const srt=segments.map((s,i)=>{const t=(f:number)=>new Date(Math.round(f/30*1000)).toISOString().slice(11,23).replace('.',',');return `${i+1}\n${t(s.from)} --> ${t(s.from+s.speechFrames)}\n${s.say}\n`;}).join('\n');
   fs.writeFileSync(`${dir}/narration.srt`,srt);
   fs.writeFileSync(`${dir}/chapters.txt`,chapters.join('\n'));

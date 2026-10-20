@@ -1,5 +1,7 @@
 # 司法書士 暗記ラボ
 
+まず [情報源・制作・公開先の関係](docs/content-relationships.md) を読む。原本Markdown → 制作repo → 公開記事・固定YouTubeチャンネルの担当と、個別対応の正本をまとめている。
+
 このrepoは旧Legal Englishから転換済み。新しい法律英語の量産は行わない。
 
 - 題材正本は `nomuonji/learning-os` の `data/sources/judicial-scrivener/2026-10-10-user-notes/raw/試験勉強/` にある本人の学習用Markdown。公開済みLiving Notesやバイリンガル版を代用しない。

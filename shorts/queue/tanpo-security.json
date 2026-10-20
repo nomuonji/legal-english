@@ -1,0 +1,148 @@
+{
+  "id": "tanpo-security",
+  "title": "「担保」は英語で？ 担保を立てる・担保物で変わる #法律英語 #Shorts",
+  "term": "担保",
+  "dictVersion": "19.0",
+  "queuedAt": "2026-10-20T08:32:00Z",
+  "refs": [
+    {
+      "headword": "担保",
+      "en": "security"
+    },
+    {
+      "headword": "担保",
+      "en": "collateral"
+    },
+    {
+      "headword": "抵当権",
+      "en": "mortgage"
+    }
+  ],
+  "example": {
+    "headword": "担保",
+    "ja": "家庭裁判所は、管理人に財産の管理及び返還について相当の担保を立てさせることができる",
+    "en": "The family court may require an administrator to provide reasonable security with respect to the administration and return of the property",
+    "source": "民法第29条",
+    "highlight": "security"
+  },
+  "beats": [
+    {
+      "kind": "hook",
+      "big": "担保",
+      "body": "英語は一語で決まる？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "担保。英語では、一つの単語で言えるでしょうか？",
+          "say": "たんぽ。英語では、一つの単語で言えるでしょうか？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "label": "基本は",
+      "en": [
+        {
+          "text": "security"
+        }
+      ],
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "基本は、"
+        },
+        {
+          "lang": "en",
+          "text": "security"
+        }
+      ]
+    },
+    {
+      "kind": "example",
+      "label": "条文ではこう",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "The family court may require an administrator to provide reasonable security with respect to the administration and return of the property"
+        },
+        {
+          "lang": "ja",
+          "text": "民法二十九条。相当の担保を立てさせる、がセキュリティです。",
+          "say": "民法二十九条。相当のたんぽを立てさせる、がセキュリティです。"
+        }
+      ]
+    },
+    {
+      "kind": "twist",
+      "label": "担保物なら",
+      "en": [
+        {
+          "text": "collateral"
+        }
+      ],
+      "body": "担保に差し出す物そのもの（担保物・担保物件）",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "担保に差し出す物そのもの、担保物の意味なら、",
+          "say": "たんぽに差し出す物そのもの、たんぽぶつの意味なら、"
+        },
+        {
+          "lang": "en",
+          "text": "collateral"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "big": "抵当権",
+      "body": "では、英語で？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "では、抵当権は？",
+          "say": "では、ていとうけんは？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "label": "答え",
+      "en": [
+        {
+          "text": "mortgage"
+        }
+      ],
+      "lines": [
+        {
+          "lang": "en",
+          "text": "mortgage"
+        },
+        {
+          "lang": "ja",
+          "text": "不動産登記でおなじみの、抵当権です。",
+          "say": "不動産登記でおなじみの、ていとうけんです。"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "big": "担保＝security",
+      "en": [
+        {
+          "text": "collateral",
+          "tag": "担保物"
+        }
+      ],
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "担保はセキュリティ、担保物はコラテラル。保存して、三日後にもう一度。",
+          "say": "たんぽはセキュリティ、たんぽぶつはコラテラル。保存して、三日後にもう一度。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": "dairinin-proxy",
+  "title": "「代理人」は agent だけじゃない 議決権なら proxy #法律英語 #Shorts",
+  "term": "代理人",
+  "dictVersion": "19.0",
+  "queuedAt": "2026-10-20T08:33:00Z",
+  "refs": [
+    {
+      "headword": "代理人",
+      "en": "agent"
+    },
+    {
+      "headword": "代理人",
+      "en": "representative"
+    },
+    {
+      "headword": "代理人",
+      "en": "proxy"
+    },
+    {
+      "headword": "法定代理人",
+      "en": "legal representative"
+    }
+  ],
+  "example": {
+    "headword": "代理人",
+    "ja": "株主は、代理人によってその議決権を行使することができる",
+    "en": "A shareholder may vote by proxy",
+    "source": "会社法第310条第1項",
+    "highlight": "proxy"
+  },
+  "beats": [
+    {
+      "kind": "hook",
+      "big": "代理人",
+      "body": "英語は agent だけ？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "代理人。英語は、エージェントだけでしょうか？",
+          "say": "だいりにん。英語は、エージェントだけでしょうか？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "label": "場面で3つ",
+      "en": [
+        {
+          "text": "agent",
+          "tag": "任意代理"
+        },
+        {
+          "text": "representative",
+          "tag": "法定代理も含む"
+        },
+        {
+          "text": "proxy",
+          "tag": "議決権の代理など"
+        }
+      ],
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "任意代理の代理人は、",
+          "say": "にんいだいりのだいりにんは、"
+        },
+        {
+          "lang": "en",
+          "text": "agent"
+        },
+        {
+          "lang": "ja",
+          "text": "法定代理も含むなら、",
+          "say": "ほうていだいりも含むなら、"
+        },
+        {
+          "lang": "en",
+          "text": "representative"
+        },
+        {
+          "lang": "ja",
+          "text": "株主総会の議決権の代理なら、",
+          "say": "株主総会の議決権のだいりなら、"
+        },
+        {
+          "lang": "en",
+          "text": "proxy"
+        }
+      ]
+    },
+    {
+      "kind": "example",
+      "label": "条文ではこう",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "A shareholder may vote by proxy"
+        },
+        {
+          "lang": "ja",
+          "text": "会社法三百十条。議決権の代理行使は、プロキシーです。",
+          "say": "会社法三百十条。議決権のだいり行使は、プロキシーです。"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "big": "法定代理人",
+      "body": "では、英語で？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "では、未成年者の法定代理人は？",
+          "say": "では、未成年者のほうていだいりにんは？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "label": "答え",
+      "en": [
+        {
+          "text": "legal representative"
+        }
+      ],
+      "body": "民法5条1項：未成年者の法律行為には法定代理人の同意",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "legal representative"
+        },
+        {
+          "lang": "ja",
+          "text": "未成年者が法律行為をするには、法定代理人の同意が必要、でおなじみです。",
+          "say": "未成年者が法律行為をするには、ほうていだいりにんの同意が必要、でおなじみです。"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "big": "代理人＝3つ",
+      "en": [
+        {
+          "text": "agent",
+          "tag": "任意代理"
+        },
+        {
+          "text": "representative",
+          "tag": "法定代理も含む"
+        },
+        {
+          "text": "proxy",
+          "tag": "議決権など"
+        }
+      ],
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "代理人は、場面で訳し分け。保存して、三日後にもう一度。",
+          "say": "だいりにんは、場面で訳し分け。保存して、三日後にもう一度。"
+        }
+      ]
+    }
+  ]
+}

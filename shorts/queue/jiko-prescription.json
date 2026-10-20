@@ -1,0 +1,141 @@
+{
+  "id": "jiko-prescription",
+  "title": "「時効」は statute of limitations？ 民法ではちがう #法律英語 #Shorts",
+  "term": "時効",
+  "dictVersion": "19.0",
+  "queuedAt": "2026-10-20T08:30:00Z",
+  "refs": [
+    {
+      "headword": "時効",
+      "en": "prescription"
+    },
+    {
+      "headword": "時効",
+      "en": "statute of limitations"
+    },
+    {
+      "headword": "消滅時効",
+      "en": "extinctive prescription"
+    },
+    {
+      "headword": "取得時効",
+      "en": "acquisitive prescription"
+    }
+  ],
+  "beats": [
+    {
+      "kind": "hook",
+      "big": "時効",
+      "en": [
+        {
+          "text": "statute of limitations",
+          "tag": "？"
+        }
+      ],
+      "body": "民法の時効も、これでいい？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "時効。英語は、スタチュート・オブ・リミテーションズでいいでしょうか？",
+          "say": "じこう。英語は、スタチュート・オブ・リミテーションズでいいでしょうか？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "label": "民法の時効は",
+      "en": [
+        {
+          "text": "prescription"
+        }
+      ],
+      "body": "取得時効・消滅時効の両方を含む",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "民法の時効は、"
+        },
+        {
+          "lang": "en",
+          "text": "prescription"
+        },
+        {
+          "lang": "ja",
+          "text": "取得時効も消滅時効も、まとめてこの語です。"
+        }
+      ]
+    },
+    {
+      "kind": "twist",
+      "label": "使い分け",
+      "big": "公訴時効",
+      "en": [
+        {
+          "text": "statute of limitations"
+        }
+      ],
+      "body": "刑事訴訟法の公訴時効の場合に使う訳語",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "スタチュート・オブ・リミテーションズは、刑事訴訟法の、公訴時効の場面で使う訳語です。",
+          "say": "スタチュート・オブ・リミテーションズは、刑事訴訟法の、こうそじこうの場面で使う訳語です。"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "big": "取得時効",
+      "body": "では、英語で？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "では、取得時効は？",
+          "say": "では、しゅとくじこうは？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "label": "答え",
+      "en": [
+        {
+          "text": "acquisitive prescription"
+        },
+        {
+          "text": "extinctive prescription",
+          "tag": "消滅時効"
+        }
+      ],
+      "lines": [
+        {
+          "lang": "en",
+          "text": "acquisitive prescription"
+        },
+        {
+          "lang": "ja",
+          "text": "消滅時効なら、",
+          "say": "しょうめつじこうなら、"
+        },
+        {
+          "lang": "en",
+          "text": "extinctive prescription"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "big": "時効＝prescription",
+      "body": "公訴時効だけ statute of limitations",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "民法の時効は、プリスクリプション。保存して、三日後にもう一度。",
+          "say": "民法のじこうは、プリスクリプション。保存して、三日後にもう一度。"
+        }
+      ]
+    }
+  ]
+}

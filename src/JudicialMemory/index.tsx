@@ -15,6 +15,16 @@ const AnswerMap: React.FC<{lesson:Lesson; selected?:number; detailed?:boolean}>=
   {detailed&&<div className="memory-citation">{c.citation}</div>}
 </div>)}</div>;
 
+// Rows = rights, columns = the conditions that change the numbers. Highlights one row or one column.
+const Matrix: React.FC<{lesson:Lesson; row?:number; column?:number}>=({lesson,row,column})=> {
+  const focusCol=row===undefined?undefined:lesson.cards[row].matrixColumn;
+  const m=lesson.matrix!;
+  const dim=(r:number,c:number)=>(row!==undefined&&r!==row)||(column!==undefined&&c!==column);
+  return <table className="memory-matrix"><thead><tr><th>{m.title}</th>{m.columns.map((h,c)=><th key={h} style={{opacity:column!==undefined&&c!==column?0.35:1}}>{h}</th>)}</tr></thead>
+  <tbody>{lesson.cards.map((card,r)=><tr key={card.id}><th style={{color:panelColors[r%3],opacity:row!==undefined&&r!==row?0.35:1}}>{card.answer}</th>{m.rows[r].map((cell,c)=><td key={c} className={dim(r,c)?'dim':focusCol!==undefined?(c===focusCol?'on':''):(row!==undefined||column!==undefined)?'on':''}>{cell}</td>)}</tr>)}</tbody></table>;
+};
+const Compare: React.FC<{lesson:Lesson; row?:number; column?:number; detailed?:boolean}>=({lesson,row,column,detailed})=> lesson.matrix?<Matrix lesson={lesson} row={row} column={column}/>:<AnswerMap lesson={lesson} selected={row} detailed={detailed}/>;
+
 const Scene:React.FC<{props:VideoProps;segment:Segment;index:number}>=({props,segment:s,index})=> {
   const frame=useCurrentFrame();
   const l=props.lesson, c=s.cardIndex===undefined?undefined:l.cards[s.cardIndex];
@@ -31,9 +41,9 @@ const Scene:React.FC<{props:VideoProps;segment:Segment;index:number}>=({props,se
       <div className="memory-badge">{badge}</div>
       {s.kind==='hook'&&<><h1>{l.promise}</h1><div className="memory-cover">{l.cards.map(c=><span key={c.id}>{c.cue}</span>)}</div><p className="memory-sub">思い出す → 理由をつかむ → もう一度答える</p><p className="memory-small">{l.conditions}</p></>}
       {isQuestion&&<><h1 className="memory-question">{s.kind==='trap-question'?l.trap.question:isRecall?c?.recall.question:c?.question}</h1><div className="memory-retrieval"><span>{pauseStarted?'声に出して、答える':'問題を聞く'}</span><strong>{pauseStarted?remaining:'？'}</strong></div><p className="memory-sub">答えは、次の画面で。</p></>}
-      {s.kind==='answer'&&c&&<><h1>{c.answer}</h1><AnswerMap lesson={l} selected={s.cardIndex}/><p className="memory-reason">{c.reason}</p><div className="memory-trap">混同注意 <b>{c.distinction}</b></div></>}
-      {s.kind==='map'&&<><h1>{l.cue}</h1><AnswerMap lesson={l} detailed/><p className="memory-small">{l.conditions}</p><p className="memory-sub">次は、言い方を変えて出題します。</p></>}
-      {s.kind==='trap-answer'&&<><h1>{l.trap.answer}</h1><p className="memory-reason large">{l.trap.explanation}</p><AnswerMap lesson={l}/></>}
+      {s.kind==='answer'&&c&&<><div className="memory-name" style={{color:panelColors[(s.cardIndex??0)%3]}}>{c.answer}</div><h1>{c.verdict}</h1><Compare lesson={l} row={s.cardIndex}/><p className="memory-reason">{c.reason}</p><div className="memory-trap">混同注意 <b>{c.distinction}</b></div></>}
+      {s.kind==='map'&&<><h1 className="memory-cue">{l.cue}</h1><Compare lesson={l} detailed/>{l.matrix&&<p className="memory-small">{l.cards.map(c=>`${c.answer}：${c.citation}`).join('　')}</p>}<p className="memory-small">{l.conditions}</p><p className="memory-sub">次は、言い方を変えて出題します。</p></>}
+      {s.kind==='trap-answer'&&<><h1>{l.trap.answer}</h1><p className="memory-reason">{l.trap.explanation}</p><Compare lesson={l} column={l.trap.matrixColumn}/></>}
       {s.kind==='recall-answer'&&c&&<><h1>{c.recall.answer}</h1><p className="memory-reason large">{c.reason}</p><div className="memory-rule">{c.citation}</div><p className="memory-sub">自分の答えと、理由まで照合する。</p></>}
       {s.kind==='review'&&<><h1>何も見ずに、言える？</h1><div className="memory-cover">{l.cards.map(c=><span key={c.id}>{c.cue} → ？</span>)}</div><p className="memory-sub">言えなかった問題だけ、もう一度。</p><div className="memory-days"><span>明日</span><span>3日後</span><span>7日後</span></div><p className="memory-small">次の復習の目安。すぐ言えたら間隔をあける。根拠は概要欄。</p></>}
     </main>

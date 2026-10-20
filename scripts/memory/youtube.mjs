@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import crypto from 'node:crypto';
 import {google} from 'googleapis';
+import {withNoteLink} from './note-links.mjs';
 try {
 const {YOUTUBE_CLIENT_ID:clientId,YOUTUBE_CLIENT_SECRET:clientSecret,YOUTUBE_REFRESH_TOKEN:refreshToken,MODE:mode,LESSON:lesson,VIDEO_ID:videoId}=process.env;
 if(!clientId||!clientSecret||!refreshToken) throw Error('Missing existing Legal English YouTube credentials');
@@ -42,6 +43,9 @@ if(mode==='update-description') {
 } else if(mode==='upload-private') {
   if(!lesson||!/^[a-z0-9-]+$/.test(lesson)) throw Error('Invalid lesson id');
   const dir=`out/${lesson}`, meta=json(`${dir}/metadata.json`);
+  const note=json('sources/video-notes.json')[lesson];
+  if(!note || note.publicationStatus!=='published' || !/^https:\/\/shihoshoshi\.antonbase\.com\/notes\/[a-z0-9-]+$/.test(note.url)) throw Error('Matching published review note required');
+  const linkedDescription=withNoteLink(meta.description,note.url);
   const current=json(`lessons/${lesson}.json`);
   const hash=crypto.createHash('sha256').update(JSON.stringify(current)).digest('hex');
   if(!meta.voiced||meta.lessonId!==lesson||hash!==meta.lessonHash) throw Error('Render must have voice and match current lesson');
@@ -56,9 +60,9 @@ if(mode==='update-description') {
     save('state/youtube.json',receipts);
     throw Error(`Upload already exists: ${duplicate.snippet.resourceId.videoId}`);
   }
-  const uploaded=await yt.videos.insert({part:['snippet','status'],requestBody:{snippet:{title:meta.title,description:`${meta.description}\n\n${marker}`,tags:meta.tags,categoryId:'27',defaultLanguage:'ja'},status:{privacyStatus:'private',selfDeclaredMadeForKids:false}},media:{body:fs.createReadStream(`${dir}/video.mp4`)}});
+  const uploaded=await yt.videos.insert({part:['snippet','status'],requestBody:{snippet:{title:meta.title,description:`${linkedDescription}\n\n${marker}`,tags:meta.tags,categoryId:'27',defaultLanguage:'ja'},status:{privacyStatus:'private',selfDeclaredMadeForKids:false}},media:{body:fs.createReadStream(`${dir}/video.mp4`)}});
   if(!uploaded.data.id) throw Error('No upload ID: inspect Studio before any retry');
-  receipts[marker]={videoId:uploaded.data.id,channelId:uploaded.data.snippet?.channelId,privacyStatus:uploaded.data.status?.privacyStatus,readbackMode:canRead?'videos.list':'insert-response (verify in Studio)',uploadedAt:new Date().toISOString()};
+  receipts[marker]={videoId:uploaded.data.id,channelId:uploaded.data.snippet?.channelId,privacyStatus:uploaded.data.status?.privacyStatus,noteUrl:note.url,readbackMode:canRead?'videos.list':'insert-response (verify in Studio)',uploadedAt:new Date().toISOString()};
   save('state/youtube.json',receipts);
   save('out/youtube-upload.json',receipts[marker]);
   if(uploaded.data.status?.privacyStatus!=='private'||uploaded.data.snippet?.channelId!==settings.channelId) throw Error('Upload response does not match the expected private channel; inspect Studio before retrying');

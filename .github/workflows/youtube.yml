@@ -54,6 +54,11 @@ jobs:
           YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
           YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
         run: node scripts/memory/youtube.mjs
+      - name: Generate matching article video block
+        if: inputs.mode == 'upload-private'
+        env:
+          LESSON: ${{ inputs.lesson }}
+        run: node scripts/memory/note-link.mjs "$LESSON"
       - name: Save upload receipt
         if: always() && inputs.mode == 'upload-private'
         run: |
@@ -67,5 +72,7 @@ jobs:
         if: always()
         with:
           name: youtube-operation
-          path: out/youtube-*.json
+          path: |
+            out/youtube-*.json
+            out/*/note-link.*
           if-no-files-found: ignore

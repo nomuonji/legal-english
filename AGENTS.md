@@ -11,4 +11,6 @@
 - `Judicial Memory` が制作、`Judicial YouTube` が既存チャンネルへの投稿。認証情報をログやrepoへ出さない。新規の定期投稿や旧動画の削除・一括非公開化はユーザー指示なしに設定しない。
 - 試作は非公開で投稿する。公開は既存YouTube IDを使い、同じ動画を再アップロードしない。アップロード結果不明時はStudioを確認してから再実行する。
 
+- 動画と公開記事を一組で運用する。対応表は `sources/video-notes.json`、投稿結果は `state/youtube.json`。概要欄→記事URL、記事→同一IDの埋め込みを揃え、`node scripts/memory/note-link.mjs <id> --check` と実画面で確認する。埋め込み設置と一般読者の再生可否を混同しない。詳細手順は `docs/video-note-links.md`。
+
 詳細はREADME.md。原本の非公開状態や本人の学習履歴そのものを変更しない。

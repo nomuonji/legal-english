@@ -29,7 +29,7 @@ try {
 }
 save('out/youtube-channel.json',{id:channel.id,title:channel.snippet.title,channelReadAvailable:canRead,identityEvidence:canRead?'channels.list':'YouTube Studio (see docs/channel-profile.jpg)'});
 if(mode==='channel-info') process.exit(0);
-if(!canRead && mode!=='upload-private') throw Error('This OAuth connection uploads only. Edit channel details or publish the existing video ID in YouTube Studio.');
+if(!canRead && !['upload-private','upload-short'].includes(mode)) throw Error('This OAuth connection uploads only. Edit channel details or publish the existing video ID in YouTube Studio.');
 if(mode==='update-description') {
   const before=channel.brandingSettings??{};
   save('out/youtube-branding-before.json',before);

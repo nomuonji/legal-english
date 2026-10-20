@@ -58,7 +58,7 @@ jobs:
           node -e "for (const [k,v] of Object.entries({run:process.env.RENDER_RUN,short:process.env.SHORT})) if (!(k==='run'?/^[0-9]+$/:/^[a-z0-9-]+$/).test(v||'')) throw Error('Invalid '+k)"
           gh run view "$RENDER_RUN" --json conclusion,name > /tmp/render-run.json
           node -e "const r=require('/tmp/render-run.json');if(r.conclusion!=='success'||r.name!=='Legal Shorts')throw Error('Not a successful Legal Shorts render')"
-          gh run download "$RENDER_RUN" --name legal-shorts --dir out/shorts
+          gh run download "$RENDER_RUN" --name "legal-short-$SHORT" --dir out/shorts
       - name: Execute requested YouTube operation
         env:
           MODE: ${{ inputs.mode }}

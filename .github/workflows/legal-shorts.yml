@@ -14,13 +14,37 @@ concurrency:
   group: legal-shorts-${{ github.ref }}
   cancel-in-progress: true
 jobs:
-  render:
+  plan:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    outputs:
+      ids: ${{ steps.ids.outputs.ids }}
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - id: ids
+        env:
+          ONLY: ${{ inputs.short }}
+          BASE: ${{ github.base_ref }}
+        run: |
+          ids="$ONLY"
+          if test -z "$ids" && test -n "$BASE"; then
+            ids=$(git diff --name-only --diff-filter=AM "origin/$BASE"...HEAD -- 'shorts/queue/*.json' | xargs -rn1 basename | sed 's/\.json$//')
+          fi
+          # Template-only changes: smoke-test the next script in the queue.
+          if test -z "$ids"; then ids=$(node scripts/shorts/queue.mjs next); fi
+          echo "ids=$(printf '%s\n' $ids | jq -R . | jq -cs 'map(select(length>0))')" >> "$GITHUB_OUTPUT"
+  render:
+    needs: plan
+    if: needs.plan.outputs.ids != '[]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        id: ${{ fromJson(needs.plan.outputs.ids) }}
+    steps:
+      - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
@@ -50,28 +74,18 @@ jobs:
           docker logs voicevox
           exit 1
       - run: npx remotion browser ensure
-      - name: Voice, render, review and gate the scripts this PR adds or changes
+      - name: Voice, render, review and gate
         env:
-          ONLY: ${{ inputs.short }}
-          BASE: ${{ github.base_ref }}
+          ID: ${{ matrix.id }}
         run: |
-          ids="$ONLY"
-          if test -z "$ids" && test -n "$BASE"; then
-            ids=$(git diff --name-only --diff-filter=AM "origin/$BASE"...HEAD -- 'shorts/queue/*.json' | xargs -rn1 basename | sed 's/\.json$//')
-          fi
-          # Template-only changes: smoke-test the next script in the queue.
-          if test -z "$ids"; then ids=$(node scripts/shorts/queue.mjs next); fi
-          if test -z "$ids"; then echo "Nothing to render"; exit 0; fi
-          for id in $ids; do
-            npm run shorts:prepare -- "$id" --voice
-            npx remotion render src/index.ts LegalShort "out/shorts/$id/video.mp4" --props="out/shorts/$id/props.json" --concurrency=2 --crf=20
-            npm run shorts:review -- "$id"
-            node scripts/shorts/gate.mjs "$id"
-          done
+          npm run shorts:prepare -- "$ID" --voice
+          npx remotion render src/index.ts LegalShort "out/shorts/$ID/video.mp4" --props="out/shorts/$ID/props.json" --concurrency=2 --crf=20
+          npm run shorts:review -- "$ID"
+          node scripts/shorts/gate.mjs "$ID"
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: legal-shorts
+          name: legal-short-${{ matrix.id }}
           path: out/shorts/
           retention-days: 14
           if-no-files-found: ignore

@@ -2,6 +2,7 @@
   "id": "tanpo-security",
   "title": "「担保」は英語で？ 担保を立てる・担保物で変わる #法律英語 #Shorts",
   "term": "担保",
+  "reading": "たんぽ",
   "dictVersion": "19.0",
   "queuedAt": "2026-10-20T08:32:00Z",
   "refs": [
@@ -16,6 +17,22 @@
     {
       "headword": "抵当権",
       "en": "mortgage"
+    },
+    {
+      "headword": "質権",
+      "en": "pledge"
+    },
+    {
+      "headword": "留置権",
+      "en": "right of retention"
+    },
+    {
+      "headword": "先取特権",
+      "en": "statutory lien"
+    },
+    {
+      "headword": "根抵当権",
+      "en": "revolving mortgage"
     }
   ],
   "example": {
@@ -126,6 +143,89 @@
           "say": "不動産登記でおなじみの、ていとうけんです。"
         }
       ]
+    },
+    {
+      "kind": "related",
+      "label": "ほかの担保物権",
+      "en": [
+        {
+          "text": "pledge",
+          "tag": "質権"
+        },
+        {
+          "text": "right of retention",
+          "tag": "留置権"
+        },
+        {
+          "text": "statutory lien",
+          "tag": "先取特権"
+        }
+      ],
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "ほかの担保物権も一気に。質権は、",
+          "say": "ほかのたんぽぶっけんも一気に。しちけんは、"
+        },
+        {
+          "lang": "en",
+          "text": "pledge"
+        },
+        {
+          "lang": "ja",
+          "text": "留置権は、",
+          "say": "りゅうちけんは、"
+        },
+        {
+          "lang": "en",
+          "text": "right of retention"
+        },
+        {
+          "lang": "ja",
+          "text": "先取特権は、",
+          "say": "さきどりとっけんは、"
+        },
+        {
+          "lang": "en",
+          "text": "statutory lien"
+        }
+      ],
+      "hold": 0.6
+    },
+    {
+      "kind": "recall",
+      "big": "根抵当権",
+      "body": "登記でおなじみ。英語で？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "では、登記でおなじみの、根抵当権は？",
+          "say": "では、登記でおなじみの、ねていとうけんは？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "label": "答え",
+      "en": [
+        {
+          "text": "revolving mortgage"
+        }
+      ],
+      "body": "一定の範囲で繰り返し生じる債権を担保",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "revolving mortgage"
+        },
+        {
+          "lang": "ja",
+          "text": "一定の範囲の債権を、くり返し担保する。だから、リボルビングです。",
+          "say": "一定の範囲のさいけんを、くり返したんぽする。だから、リボルビングです。"
+        }
+      ],
+      "hold": 0.6
     },
     {
       "kind": "outro",

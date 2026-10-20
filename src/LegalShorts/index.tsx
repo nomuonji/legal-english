@@ -7,7 +7,7 @@ import '@fontsource/noto-sans-jp/700.css';
 import '@fontsource/noto-sans-jp/900.css';
 import './style.css';
 
-const KIND_LABEL: Record<ShortSegment['kind'], string> = {hook: 'クイズ', reveal: '答え', twist: 'ここが落とし穴', example: '条文の英訳', recall: 'もう1問', answer: '答え', outro: 'まとめ'};
+const KIND_LABEL: Record<ShortSegment['kind'], string> = {hook: 'クイズ', reveal: '答え', twist: 'ここが落とし穴', related: 'あわせて覚える', example: '条文の英訳', recall: 'もう1問', answer: '答え', outro: 'まとめ', ending: '今日のまとめ'};
 
 // Highlights the target phrase inside the official example sentence.
 const Highlighted: React.FC<{text: string; mark: string}> = ({text, mark}) => {
@@ -65,9 +65,16 @@ const Scene: React.FC<{props: ShortProps; s: ShortSegment}> = ({props, s}) => {
         const at = enShownAt(t.text);
         const o = interpolate(frame, [at, at + 5], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
         return <div key={t.text} className="ls-en-item" style={{opacity: o}}>
-          {t.tag && <span className="tag">{t.tag}</span>}<span className="word">{t.text}</span>
+          {t.tag && <span className="tag">{t.tag}</span>}<span className="word" style={t.text.length > 26 ? {fontSize: 54} : undefined}>{t.text}</span>
         </div>;
       })}</div>}
+      {s.kind === 'ending' && props.ending && <div className="ls-recap">
+        {props.ending.recap.map((r, i) => {
+          const o = interpolate(frame, [6 + i * 5, 12 + i * 5], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
+          return <div key={`${r.headword}-${r.en}`} style={{opacity: o}}><span className="ja">{r.headword}</span><span className="en">{r.en}</span></div>;
+        })}
+        {props.ending.nextTerm && <div className="ls-next">次回 <b>「{props.ending.nextTerm}」</b>は英語で？</div>}
+      </div>}
       {s.body && <p className="ls-body">{s.body}</p>}
       {s.pause !== undefined && s.pause > 0 && <div className={`ls-think ${thinking ? 'on' : ''}`}>
         <strong>{thinking ? remaining : '？'}</strong><span>{thinking ? '口に出して答える' : '問題を聞く'}</span>
@@ -75,6 +82,7 @@ const Scene: React.FC<{props: ShortProps; s: ShortSegment}> = ({props, s}) => {
     </main>
     <Bubble s={s}/>
     <Teacher s={s}/>
+    {s.kind === 'ending' && <div className="ls-fade" style={{opacity: interpolate(frame, [s.frames - 28, s.frames - 2], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'})}}/>}
     <footer>出典：法令用語日英標準対訳辞書 v{short.dictVersion}（法務省）{props.voiced ? '' : '／無音プレビュー'}</footer>
   </AbsoluteFill>;
 };
@@ -90,8 +98,8 @@ export const LegalShort: React.FC<ShortProps> = (props) => {
   const speaking = props.segments.flatMap(s => s.clips.map(c => [s.from + c.from - 4, s.from + c.from + Math.ceil(c.seconds * 30) + 4] as const));
   const total = totalFrames(props.segments);
   const volume = (f: number) => {
-    const fadeIn = Math.min(1, f / 20), fadeOut = Math.min(1, (total - f) / 30);
-    return (speaking.some(([a, b]) => f >= a && f < b) ? 0.045 : 0.13) * Math.max(0, Math.min(fadeIn, fadeOut));
+    const fadeIn = Math.min(1, f / 20), fadeOut = Math.min(1, (total - f) / 75);
+    return (speaking.some(([a, b]) => f >= a && f < b) ? 0.045 : 0.14) * Math.max(0, Math.min(fadeIn, fadeOut));
   };
   return <AbsoluteFill>
     {props.bgm && <Audio src={staticFile(`bgm/${props.bgm}`)} loop volume={volume}/>}

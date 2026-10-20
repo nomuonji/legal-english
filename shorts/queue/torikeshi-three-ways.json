@@ -2,6 +2,7 @@
   "id": "torikeshi-three-ways",
   "title": "「取消し」は英語で一語？ 契約・許可・判決で3つ #法律英語 #Shorts",
   "term": "取消し",
+  "reading": "とりけし",
   "dictVersion": "19.0",
   "queuedAt": "2026-10-20T08:01:00Z",
   "refs": [
@@ -29,6 +30,18 @@
     {
       "headword": "解除",
       "en": "cancellation"
+    },
+    {
+      "headword": "無効な",
+      "en": "void"
+    },
+    {
+      "headword": "追認",
+      "en": "ratification"
+    },
+    {
+      "headword": "取り消すことができる",
+      "en": "voidable"
     }
   ],
   "example": {
@@ -159,6 +172,74 @@
           "text": "cancellation"
         }
       ]
+    },
+    {
+      "kind": "related",
+      "en": [
+        {
+          "text": "void",
+          "tag": "無効"
+        },
+        {
+          "text": "ratification",
+          "tag": "追認"
+        }
+      ],
+      "body": "取消しとセットで出る2語",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "取消しとセットで覚えたい二語。無効は、",
+          "say": "とりけしとセットで覚えたい二語。むこうは、"
+        },
+        {
+          "lang": "en",
+          "text": "void"
+        },
+        {
+          "lang": "ja",
+          "text": "取り消せる行為を、あとから認める追認は、",
+          "say": "取り消せる行為を、あとから認めるついにんは、"
+        },
+        {
+          "lang": "en",
+          "text": "ratification"
+        }
+      ],
+      "hold": 0.6
+    },
+    {
+      "kind": "recall",
+      "big": "取り消すことができる",
+      "body": "形容詞で、英語は？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "では、取り消すことができる契約。英語の形容詞は？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "label": "答え",
+      "en": [
+        {
+          "text": "voidable"
+        }
+      ],
+      "body": "void＝最初から無効／voidable＝取り消されるまでは有効",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "voidable"
+        },
+        {
+          "lang": "ja",
+          "text": "ヴォイドに、エイブル。無効とは違って、取り消されるまでは有効です。"
+        }
+      ],
+      "hold": 0.8
     },
     {
       "kind": "outro",

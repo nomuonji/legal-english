@@ -2,6 +2,7 @@
   "id": "zeni-good-faith",
   "title": "「善意の第三者」を英語で？ 法律の“善意”は意味がちがう #法律英語 #Shorts",
   "term": "善意",
+  "reading": "ぜんい",
   "dictVersion": "19.0",
   "queuedAt": "2026-10-20T08:02:00Z",
   "refs": [
@@ -24,6 +25,14 @@
     {
       "headword": "悪意で",
       "en": "with knowledge"
+    },
+    {
+      "headword": "善意でかつ重大な過失がないとき",
+      "en": "in good faith and without gross negligence"
+    },
+    {
+      "headword": "善意取得",
+      "en": "good faith acquisition"
     }
   ],
   "example": {
@@ -146,6 +155,62 @@
           "text": "with knowledge"
         }
       ]
+    },
+    {
+      "kind": "related",
+      "big": "善意無重過失",
+      "en": [
+        {
+          "text": "in good faith and without gross negligence"
+        }
+      ],
+      "body": "「善意でかつ重大な過失がないとき」",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "試験で頻出の、善意でかつ重大な過失がないとき。英語では、",
+          "say": "試験で頻出の、ぜんいでかつ重大な過失がないとき。英語では、"
+        },
+        {
+          "lang": "en",
+          "text": "in good faith and without gross negligence"
+        }
+      ],
+      "hold": 0.6
+    },
+    {
+      "kind": "recall",
+      "big": "善意取得",
+      "body": "株券や手形でおなじみ。英語で？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "では、株券や手形でおなじみの、善意取得は？",
+          "say": "では、株券や手形でおなじみの、ぜんいしゅとくは？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "label": "答え",
+      "en": [
+        {
+          "text": "good faith acquisition"
+        }
+      ],
+      "lines": [
+        {
+          "lang": "en",
+          "text": "good faith acquisition"
+        },
+        {
+          "lang": "ja",
+          "text": "ここでも善意は、イン・グッド・フェイスの、グッド・フェイスです。",
+          "say": "ここでもぜんいは、イン・グッド・フェイスの、グッド・フェイスです。"
+        }
+      ],
+      "hold": 0.6
     },
     {
       "kind": "outro",

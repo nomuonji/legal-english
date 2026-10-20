@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import crypto from 'node:crypto';
 import {execFileSync} from 'node:child_process';
-import {shortSchema, buildShortTimeline, toDictRows, verifyAgainstDictionary, totalFrames} from '../../src/LegalShorts/model';
+import {shortSchema, buildShortTimeline, toDictRows, verifyAgainstDictionary, totalFrames, endingBeat, recapOf} from '../../src/LegalShorts/model';
 import type {Clip} from '../../src/LegalShorts/model';
 
 export const DICT_PATH = 'sources/jlt/law-je-dic-19.0.csv';
@@ -31,7 +31,12 @@ const seconds = (file: string) => {
 async function main() {
   const id = process.argv[2];
   if (!id) throw new Error('Usage: npm run shorts:prepare -- <short-id> [--voice]');
-  const short = loadShort(id);
+  const script = loadShort(id);
+  // The next script in the queue (oldest queuedAt after this one) becomes the teaser in the ending scene.
+  const queued = fs.existsSync('shorts/queue') ? fs.readdirSync('shorts/queue').filter(f => f.endsWith('.json')).map(f => f.replace(/\.json$/, '')).filter(x => x !== id).map(x => loadShort(x)) : [];
+  const order = (a: {queuedAt?: string; id: string}) => `${a.queuedAt ?? ''}|${a.id}`;
+  const next = queued.filter(x => order(x) > order(script)).sort((a, b) => order(a).localeCompare(order(b)))[0];
+  const short = {...script, beats: [...script.beats, endingBeat(script, next && {term: next.term, reading: next.reading})]};
   const voiced = process.argv.includes('--voice');
   const dir = `out/shorts/${id}`;
   fs.mkdirSync(dir, {recursive: true});
@@ -69,11 +74,11 @@ async function main() {
   }
   const segments = buildShortTimeline(short, audio);
   const duration = totalFrames(segments) / 30;
-  if (duration > 59) console.warn(`Warning: ${duration.toFixed(1)}s. Keep pilots under a minute so the hook-to-loop stays tight.`);
+  if (duration > 100) console.warn(`Warning: ${duration.toFixed(1)}s. Target 40-100s; trim beats that repeat a point.`);
   const credits = JSON.parse(fs.readFileSync('public/bgm/credits.json', 'utf8'));
   const bgm = short.bgm ?? 'kyoto.mp3';
   if (!credits[bgm] || !fs.existsSync(`public/bgm/${bgm}`)) throw new Error(`BGM ${bgm} is not in public/bgm/credits.json (licence unverified)`);
-  fs.writeFileSync(`${dir}/props.json`, JSON.stringify({short, segments, voiced, bgm}, null, 2));
+  fs.writeFileSync(`${dir}/props.json`, JSON.stringify({short, segments, voiced, bgm, ending: {recap: recapOf(script), nextTerm: next?.term}}, null, 2));
   const terms = [...new Set(short.refs.map(r => `${r.headword}：${r.en}`))];
   const description = [
     short.title.replace(/\s*#\S+/g, ''),

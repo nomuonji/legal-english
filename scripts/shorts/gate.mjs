@@ -12,7 +12,7 @@ const problems = [];
 if (!meta.voiced) problems.push('not voiced');
 if (!video || video.width !== 1080 || video.height !== 1920) problems.push('not 1080x1920');
 if (!audio) problems.push('no audio stream');
-if (!(seconds > 10 && seconds <= 75)) problems.push(`duration ${seconds.toFixed(1)}s outside 10-75s`);
+if (!(seconds > 10 && seconds <= 120)) problems.push(`duration ${seconds.toFixed(1)}s outside 10-120s`);
 // Silent or clipped audio means voice synthesis or mixing failed.
 const vd = spawnSync('ffmpeg', ['-hide_banner', '-i', `${dir}/video.mp4`, '-af', 'volumedetect', '-f', 'null', '-'], {encoding: 'utf8'}).stderr;
 const mean = Number(/mean_volume: (-?[\d.]+) dB/.exec(vd)?.[1]);

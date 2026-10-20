@@ -2,6 +2,7 @@
   "id": "jiko-prescription",
   "title": "「時効」は statute of limitations？ 民法ではちがう #法律英語 #Shorts",
   "term": "時効",
+  "reading": "じこう",
   "dictVersion": "19.0",
   "queuedAt": "2026-10-20T08:30:00Z",
   "refs": [
@@ -20,6 +21,10 @@
     {
       "headword": "取得時効",
       "en": "acquisitive prescription"
+    },
+    {
+      "headword": "援用",
+      "en": "invocation"
     }
   ],
   "beats": [
@@ -124,6 +129,64 @@
           "text": "extinctive prescription"
         }
       ]
+    },
+    {
+      "kind": "related",
+      "label": "あわせて覚える",
+      "big": "時効の援用",
+      "en": [
+        {
+          "text": "invocation",
+          "tag": "援用"
+        }
+      ],
+      "body": "援用しないと、裁判所は時効で裁判できない（民法145条）",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "時効は、当事者が援用しないと、裁判所はそれで裁判できません。この援用は、",
+          "say": "じこうは、当事者がえんようしないと、裁判所はそれで裁判できません。このえんようは、"
+        },
+        {
+          "lang": "en",
+          "text": "invocation"
+        }
+      ],
+      "hold": 0.6
+    },
+    {
+      "kind": "recall",
+      "big": "公訴時効",
+      "body": "もう一度。英語で？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "最後にもう一度。公訴時効は？",
+          "say": "最後にもう一度。こうそじこうは？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "label": "答え",
+      "en": [
+        {
+          "text": "statute of limitations"
+        }
+      ],
+      "body": "民法の時効は prescription、公訴時効だけこちら",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "statute of limitations"
+        },
+        {
+          "lang": "ja",
+          "text": "民法の時効と、取り違えないように。"
+        }
+      ],
+      "hold": 0.6
     },
     {
       "kind": "outro",

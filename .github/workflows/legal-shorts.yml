@@ -1,0 +1,68 @@
+name: Legal Shorts
+on:
+  pull_request:
+    paths: ['shorts/**', 'src/LegalShorts/**', 'src/Root.tsx', 'scripts/shorts/**', 'sources/jlt/**', 'package*.json', '.github/workflows/legal-shorts.yml']
+  workflow_dispatch:
+    inputs:
+      short:
+        description: Short id (empty = all shorts)
+        type: string
+        default: ''
+permissions:
+  contents: read
+concurrency:
+  group: legal-shorts-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci --no-audit --no-fund
+      - name: Install media tools and English voice (Piper, CC0 "joe")
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg
+          pip install --quiet piper-tts==1.8.0
+          mkdir -p voices
+          for f in en_US-joe-medium.onnx en_US-joe-medium.onnx.json; do
+            curl -fsSL -o "voices/$f" "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/joe/medium/$f"
+          done
+      - name: Validate against the official dictionary
+        run: |
+          npx tsc -p tsconfig.memory.json
+          npx eslint src/Root.tsx src/LegalShorts
+          npm run shorts:check
+      - name: Start Japanese voice
+        run: |
+          docker run -d --name voicevox -p 127.0.0.1:50021:50021 voicevox/voicevox_engine:cpu-latest
+          for i in $(seq 1 90); do
+            if curl -fsS http://127.0.0.1:50021/version; then exit 0; fi
+            sleep 2
+          done
+          docker logs voicevox
+          exit 1
+      - run: npx remotion browser ensure
+      - name: Voice, render and review each short
+        env:
+          ONLY: ${{ inputs.short }}
+        run: |
+          ids="$ONLY"
+          if test -z "$ids"; then ids=$(ls shorts/*.json | xargs -n1 basename | sed 's/\.json$//'); fi
+          for id in $ids; do
+            npm run shorts:prepare -- "$id" --voice
+            npx remotion render src/index.ts LegalShort "out/shorts/$id/video.mp4" --props="out/shorts/$id/props.json" --concurrency=2 --crf=20
+            npm run shorts:review -- "$id"
+          done
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: legal-shorts
+          path: out/shorts/
+          retention-days: 14
+          if-no-files-found: error

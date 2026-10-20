@@ -44,7 +44,10 @@
     "generate-input": "node -e \"throw new Error(\"Random Legal English generation is retired. Use original Learning OS Markdown.\")\"",
     "memory:prepare": "node --import tsx scripts/memory/prepare.ts",
     "memory:catalog": "node --import tsx scripts/memory/import-catalog.ts",
-    "memory:check": "node --import tsx --test scripts/memory/timeline.test.ts"
+    "memory:check": "node --import tsx --test scripts/memory/timeline.test.ts",
+    "shorts:prepare": "node --import tsx scripts/shorts/prepare.ts",
+    "shorts:check": "node --import tsx --test scripts/shorts/shorts.test.ts",
+    "shorts:review": "node --import tsx scripts/shorts/review.ts"
   },
   "sideEffects": [
     "*.css"

@@ -1,0 +1,127 @@
+{
+  "id": "shain-member",
+  "title": "合同会社の「社員」は employee？ 会社法の英語 #法律英語 #Shorts",
+  "term": "社員",
+  "dictVersion": "19.0",
+  "refs": [
+    {
+      "headword": "社員",
+      "en": "member"
+    },
+    {
+      "headword": "使用人",
+      "en": "employee"
+    }
+  ],
+  "beats": [
+    {
+      "kind": "hook",
+      "big": "合同会社の社員",
+      "en": [
+        {
+          "text": "employee",
+          "tag": "？"
+        }
+      ],
+      "body": "英語はこれでいい？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "合同会社の社員。英語は、エンプロイーでいいでしょうか？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "label": "標準対訳",
+      "en": [
+        {
+          "text": "member"
+        }
+      ],
+      "body": "会社法の社員＝出資者（会社の構成員）",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "いいえ。標準対訳は、"
+        },
+        {
+          "lang": "en",
+          "text": "member"
+        },
+        {
+          "lang": "ja",
+          "text": "会社法の社員は、会社の構成員、つまり出資者のことです。"
+        }
+      ]
+    },
+    {
+      "kind": "twist",
+      "label": "雇われて働く人は",
+      "big": "使用人",
+      "en": [
+        {
+          "text": "employee"
+        }
+      ],
+      "body": "日常語の「社員」は、会社法では使用人",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "会社に雇われて働く人は、会社法では使用人。英語では、"
+        },
+        {
+          "lang": "en",
+          "text": "employee"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "big": "逆に聞きます",
+      "en": [
+        {
+          "text": "member"
+        }
+      ],
+      "body": "会社法では、日本語で何？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "逆に聞きます。会社法の英訳で、メンバーとあったら？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "label": "答え",
+      "big": "社員",
+      "body": "持分会社（合同会社など）の出資者。従業員ではない。",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "社員。従業員ではなく、出資者です。"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "big": "社員＝member",
+      "en": [
+        {
+          "text": "employee",
+          "tag": "使用人"
+        }
+      ],
+      "body": "従業員を言うなら employee（使用人）",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "社員は、メンバー。保存して、三日後にもう一度。"
+        }
+      ]
+    }
+  ]
+}

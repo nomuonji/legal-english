@@ -2,7 +2,14 @@
 
 まず [情報源・制作・公開先の関係](docs/content-relationships.md) を読む。原本Markdown → 制作repo → 公開記事・固定YouTubeチャンネルの担当と、個別対応の正本をまとめている。
 
-このrepoは旧Legal Englishから転換済み。新しい法律英語の量産は行わない。
+このrepoは旧Legal Englishから転換済み。長尺は司法書士の暗記動画。法律英語は2026-10-20にShortsとして再開（下記）。旧ランダム生成（`input/*.json`、Gemini生成・未検証）は使わない。
+
+## 法律英語Shorts
+
+- 英語の法令用語は `sources/jlt/law-je-dic-19.0.csv`（法務省「法令用語日英標準対訳辞書」v19.0）にある訳語・注釈・用例だけを使う。台本 `shorts/<id>.json` の `refs` と `example` は辞書と完全一致が必須で、`npm run shorts:check` が検査する。AIの訳語や旧 `input/` を使わない。
+- 1本1語（または訳し分けの1セット）。クイズ→無音で考える→答え→落とし穴（使い分け基準・注釈が根拠）→条文英訳の用例→逆向きの再テスト→冒頭へ戻るまとめ。60秒以内。
+- 日本語の説明は独自編集。辞書にない法的主張を足すときは条文で確認する。日本語音声行に英字を入れない（英語は英語音声行かカタカナの say）。
+- 制作は Actions **Legal Shorts**（VOICEVOX＋Piper CC0英語音声）。投稿は **Judicial YouTube** の `upload-short-private`（非公開）。定期投稿・公開はユーザー指示があるまで設定しない。
 
 - 題材正本は `nomuonji/learning-os` の `data/sources/judicial-scrivener/2026-10-10-user-notes/raw/試験勉強/` にある本人の学習用Markdown。公開済みLiving Notesやバイリンガル版を代用しない。
 - `sources/catalog.json` で本人が直接付けた苦手印を探し、対象節の原本をGitHubで読む。目録だけから教材本文を推測しない。原本全文・埋め込み画像をこの公開repoへ転載しない。

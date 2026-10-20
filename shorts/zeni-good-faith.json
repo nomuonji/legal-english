@@ -1,0 +1,167 @@
+{
+  "id": "zeni-good-faith",
+  "title": "「善意の第三者」を英語で？ 法律の“善意”は意味がちがう #法律英語 #Shorts",
+  "term": "善意",
+  "dictVersion": "19.0",
+  "refs": [
+    {
+      "headword": "善意の第三者",
+      "en": "a third party in good faith"
+    },
+    {
+      "headword": "善意で",
+      "en": "in good faith"
+    },
+    {
+      "headword": "善意で",
+      "en": "without knowledge"
+    },
+    {
+      "headword": "悪意で",
+      "en": "in bad faith"
+    },
+    {
+      "headword": "悪意で",
+      "en": "with knowledge"
+    }
+  ],
+  "example": {
+    "headword": "善意の第三者",
+    "ja": "組合員の組合の業務を執行する権限に加えた制限は、善意の第三者に対抗することができない",
+    "en": "Restrictions on the right of a partner to execute the Partnership's businesses may not be asserted against a third party in good faith",
+    "source": "有限責任事業組合契約に関する法律第13条第3項",
+    "highlight": "a third party in good faith"
+  },
+  "beats": [
+    {
+      "kind": "hook",
+      "big": "善意の第三者",
+      "body": "英語で言える？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "善意の第三者。英語で言えますか？",
+          "say": "ぜんいの第三者。英語で言えますか？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "label": "標準対訳",
+      "en": [
+        {
+          "text": "a third party in good faith"
+        }
+      ],
+      "lines": [
+        {
+          "lang": "en",
+          "text": "a third party in good faith"
+        },
+        {
+          "lang": "ja",
+          "text": "法務省の標準対訳は、イン・グッド・フェイスです。"
+        }
+      ]
+    },
+    {
+      "kind": "twist",
+      "label": "でも意味は",
+      "big": "善意＝知らない",
+      "en": [
+        {
+          "text": "without knowledge"
+        }
+      ],
+      "body": "法律の善意は「事情を知らない」。いい人という意味ではない。",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "ただし、法律の善意は、いい人という意味ではありません。事情を知らない、という意味。直訳するなら、",
+          "say": "ただし、法律のぜんいは、いい人という意味ではありません。事情を知らない、という意味。直訳するなら、"
+        },
+        {
+          "lang": "en",
+          "text": "without knowledge"
+        },
+        {
+          "lang": "ja",
+          "text": "それでも条文の英訳では、誤解を避けて、イン・グッド・フェイスが無難とされています。"
+        }
+      ]
+    },
+    {
+      "kind": "example",
+      "label": "条文ではこう",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "Restrictions on the right of a partner to execute the Partnership's businesses may not be asserted against a third party in good faith"
+        },
+        {
+          "lang": "ja",
+          "text": "善意の第三者に対抗できない。司法書士試験でもおなじみの形です。",
+          "say": "ぜんいの第三者に対抗できない。司法書士試験でもおなじみの形です。"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "big": "悪意で",
+      "body": "では、英語で？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "では、悪意で、は？",
+          "say": "では、あくいで、は？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "label": "答え",
+      "en": [
+        {
+          "text": "in bad faith"
+        },
+        {
+          "text": "with knowledge",
+          "tag": "知っていた"
+        }
+      ],
+      "lines": [
+        {
+          "lang": "en",
+          "text": "in bad faith"
+        },
+        {
+          "lang": "ja",
+          "text": "事情を知っていた、という意味をはっきり出すなら、"
+        },
+        {
+          "lang": "en",
+          "text": "with knowledge"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "big": "善意＝知らない",
+      "en": [
+        {
+          "text": "in good faith"
+        }
+      ],
+      "body": "英訳は in good faith が無難。意味は「知らない」。",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "善意は、知らない。保存して、三日後にもう一度。",
+          "say": "ぜんいは、知らない。保存して、三日後にもう一度。"
+        }
+      ]
+    }
+  ]
+}

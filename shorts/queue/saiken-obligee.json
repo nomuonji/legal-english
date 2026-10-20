@@ -1,0 +1,150 @@
+{
+  "id": "saiken-obligee",
+  "title": "「債権者」は creditor？ 民法の条文英訳では obligee #法律英語 #Shorts",
+  "term": "債権者",
+  "dictVersion": "19.0",
+  "queuedAt": "2026-10-20T08:31:00Z",
+  "refs": [
+    {
+      "headword": "債権者",
+      "en": "obligee"
+    },
+    {
+      "headword": "債権者",
+      "en": "creditor"
+    },
+    {
+      "headword": "債務者",
+      "en": "obligor"
+    },
+    {
+      "headword": "債務者",
+      "en": "debtor"
+    }
+  ],
+  "beats": [
+    {
+      "kind": "hook",
+      "big": "債権者",
+      "en": [
+        {
+          "text": "creditor",
+          "tag": "？"
+        }
+      ],
+      "body": "民法の条文でも、これ？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "債権者。英語は、クレディターでいいでしょうか？",
+          "say": "さいけんしゃ。英語は、クレディターでいいでしょうか？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "label": "債権一般は",
+      "en": [
+        {
+          "text": "obligee"
+        },
+        {
+          "text": "creditor",
+          "tag": "金銭債権・倒産法"
+        }
+      ],
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "債権一般の債権者は、",
+          "say": "さいけんいっぱんのさいけんしゃは、"
+        },
+        {
+          "lang": "en",
+          "text": "obligee"
+        },
+        {
+          "lang": "ja",
+          "text": "クレディターは、特に金銭債権や、倒産法の場面で使います。"
+        }
+      ]
+    },
+    {
+      "kind": "twist",
+      "label": "覚え方",
+      "big": "-ee は受ける側",
+      "en": [
+        {
+          "text": "obligee"
+        }
+      ],
+      "body": "義務（obligation）を履行してもらう側",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "イーで終わる語は、受ける側。義務を果たしてもらう人、と覚えましょう。"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "big": "債務者",
+      "body": "では、英語で？",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "では、債務者は？",
+          "say": "では、さいむしゃは？"
+        }
+      ],
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "label": "答え",
+      "en": [
+        {
+          "text": "obligor"
+        },
+        {
+          "text": "debtor",
+          "tag": "金銭債権・倒産法"
+        }
+      ],
+      "lines": [
+        {
+          "lang": "en",
+          "text": "obligor"
+        },
+        {
+          "lang": "ja",
+          "text": "お金の債務や倒産法なら、",
+          "say": "お金のさいむや倒産法なら、"
+        },
+        {
+          "lang": "en",
+          "text": "debtor"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "big": "債権者＝obligee",
+      "en": [
+        {
+          "text": "obligor",
+          "tag": "債務者"
+        }
+      ],
+      "body": "金銭・倒産なら creditor／debtor",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "債権者はオブリギー、債務者はオブリゴー。保存して、三日後にもう一度。",
+          "say": "さいけんしゃはオブリギー、さいむしゃはオブリゴー。保存して、三日後にもう一度。"
+        }
+      ]
+    }
+  ]
+}

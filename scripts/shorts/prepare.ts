@@ -28,6 +28,21 @@ const seconds = (file: string) => {
   return s;
 };
 
+// VOICEVOX in CI can accept the health check and still reset early requests while the engine warms up.
+async function fetchRetry(url: string, init: RequestInit, label: string) {
+  let last: unknown;
+  for (let attempt = 1; attempt <= 8; attempt++) {
+    try {
+      const r = await fetch(url, init);
+      if (r.ok) return r;
+      last = new Error(`${label} HTTP ${r.status}`);
+      if (r.status < 500) break;
+    } catch (e) { last = e; }
+    await new Promise(res => setTimeout(res, Math.min(30000, 2000 * attempt)));
+  }
+  throw new Error(`${label} failed after retries: ${(last as Error)?.message ?? last}`);
+}
+
 async function main() {
   const id = process.argv[2];
   if (!id) throw new Error('Usage: npm run shorts:prepare -- <short-id> [--voice]');
@@ -54,14 +69,12 @@ async function main() {
         const file = `shorts-audio/${id}/${i}-${j}.wav`;
         const spoken = l.say ?? l.text;
         if (l.lang === 'ja') {
-          const q = await fetch(`${base}/audio_query?text=${encodeURIComponent(spoken)}&speaker=${speaker}`, {method: 'POST'});
-          if (!q.ok) throw new Error(`VOICEVOX audio_query failed (${q.status})`);
+          const q = await fetchRetry(`${base}/audio_query?text=${encodeURIComponent(spoken)}&speaker=${speaker}`, {method: 'POST'}, 'VOICEVOX audio_query');
           const query = await q.json();
           query.speedScale = 1.15;
           query.prePhonemeLength = 0.05;
           query.postPhonemeLength = 0.05;
-          const r = await fetch(`${base}/synthesis?speaker=${speaker}`, {method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(query)});
-          if (!r.ok) throw new Error(`VOICEVOX synthesis failed (${r.status})`);
+          const r = await fetchRetry(`${base}/synthesis?speaker=${speaker}`, {method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(query)}, 'VOICEVOX synthesis');
           fs.writeFileSync(`public/${file}`, Buffer.from(await r.arrayBuffer()));
         } else {
           // Piper reads stdin; a slightly slower length scale keeps legal terms clear.

@@ -68,7 +68,7 @@ jobs:
         run: |
           docker run -d --name voicevox -p 127.0.0.1:50021:50021 voicevox/voicevox_engine:cpu-latest
           for i in $(seq 1 90); do
-            if curl -fsS http://127.0.0.1:50021/version; then exit 0; fi
+            if curl -fsS http://127.0.0.1:50021/version && curl -fsS -X POST 'http://127.0.0.1:50021/audio_query?text=%E3%81%82&speaker=14' >/dev/null; then exit 0; fi
             sleep 2
           done
           docker logs voicevox

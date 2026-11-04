@@ -12,6 +12,7 @@
 - 日本語の説明は独自編集。辞書にない法的主張を足すときは条文で確認する。日本語音声行に英字を入れない（英語は英語音声行かカタカナの say）。
 - **エージェントの担当は台本をキュー `shorts/queue/` に入れるところまで**（手順は [docs/shorts-queue.md](docs/shorts-queue.md)）。生成から投稿は Actions **Legal Shorts Publish** が毎日自動で行う（2026-10-20 ユーザー指示）。エージェントは描画・投稿・公開状態を手で変えない。
 - 画面：既存キャラクター（`public/images/mouth-*.png`）が口パク、吹き出し字幕、VOICEVOX冥鳴ひまり＋Piper kristin、BGMは `public/bgm/credits.json` 登録曲のみ。
+- 素材・音の選択肢：BGMや効果音を足すときは **Openverse**（キー不要のCC素材検索。商用可・改変可で絞り、元ページでライセンス確認後 `public/bgm/credits.json` に登録）、仕上がりの音量・同期・聞き取りを数値で確かめるときは **earshot**（GitHubから導入。PyPIの同名パッケージは別物）が使える。測定は人の試聴の代わりではない。手順と注意は [asset-sources.md](https://github.com/nomuonji/animation-factory/blob/main/docs/asset-sources.md)。
 
 - 題材正本は `nomuonji/learning-os` の `data/sources/judicial-scrivener/2026-10-10-user-notes/raw/試験勉強/` にある本人の学習用Markdown。公開済みLiving Notesやバイリンガル版を代用しない。
 - `sources/catalog.json` で本人が直接付けた苦手印を探し、対象節の原本をGitHubで読む。目録だけから教材本文を推測しない。原本全文・埋め込み画像をこの公開repoへ転載しない。

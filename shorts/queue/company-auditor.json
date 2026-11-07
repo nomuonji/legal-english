@@ -1,0 +1,206 @@
+{
+  "id": "company-auditor",
+  "title": "監査役と会計監査人は別物｜英訳も違う #法律英語 #Shorts",
+  "term": "監査役",
+  "reading": "かんさやく",
+  "dictVersion": "19.0",
+  "refs": [
+    {
+      "headword": "監査役",
+      "en": "(company) auditor"
+    },
+    {
+      "headword": "監査役",
+      "en": "audit & supervisory board member",
+      "via": "note"
+    },
+    {
+      "headword": "会計監査人",
+      "en": "financial auditor"
+    },
+    {
+      "headword": "監査役会",
+      "en": "board of company auditors"
+    },
+    {
+      "headword": "会計参与",
+      "en": "accounting advisor"
+    }
+  ],
+  "beats": [
+    {
+      "kind": "hook",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "監査役と会計監査人。どちらも監査する人だから、同じ英語でいい？"
+        }
+      ],
+      "big": "監査役",
+      "en": [
+        {
+          "text": "(company) auditor",
+          "tag": "？"
+        }
+      ],
+      "body": "会計監査人と同じ訳でいい？",
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "監査役は、原則として"
+        },
+        {
+          "lang": "en",
+          "text": "(company) auditor"
+        },
+        {
+          "lang": "ja",
+          "text": "です。文脈から明らかなら company を省略できる、と辞書にあります。",
+          "say": "です。文脈から明らかなら カンパニー を省略できる、と辞書にあります。"
+        }
+      ],
+      "label": "監査役",
+      "en": [
+        {
+          "text": "(company) auditor"
+        }
+      ]
+    },
+    {
+      "kind": "twist",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "一方、会計監査人は"
+        },
+        {
+          "lang": "en",
+          "text": "financial auditor"
+        },
+        {
+          "lang": "ja",
+          "text": "。監査役会のない会社では誤解を招くため、"
+        },
+        {
+          "lang": "en",
+          "text": "audit & supervisory board member"
+        },
+        {
+          "lang": "ja",
+          "text": "という訳語を法令英訳では使わない、と辞書は注記しています。"
+        }
+      ],
+      "label": "会計監査人との違い",
+      "en": [
+        {
+          "text": "financial auditor"
+        },
+        {
+          "text": "audit & supervisory board member"
+        }
+      ],
+      "body": "監査役と会計監査人は訳語を分ける"
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "会計監査人。法令用語辞書の訳語は？"
+        }
+      ],
+      "big": "会計監査人",
+      "body": "英語では？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "financial auditor"
+        }
+      ],
+      "en": [
+        {
+          "text": "financial auditor"
+        }
+      ]
+    },
+    {
+      "kind": "related",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "監査役会は"
+        },
+        {
+          "lang": "en",
+          "text": "board of company auditors"
+        },
+        {
+          "lang": "ja",
+          "text": "。会計参与は"
+        },
+        {
+          "lang": "en",
+          "text": "accounting advisor"
+        }
+      ],
+      "label": "機関名も確認",
+      "en": [
+        {
+          "text": "board of company auditors",
+          "tag": "監査役会"
+        },
+        {
+          "text": "accounting advisor",
+          "tag": "会計参与"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "監査役。会計監査人ではない方の訳語は？"
+        }
+      ],
+      "big": "監査役",
+      "body": "辞書の原則訳は？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "(company) auditor"
+        }
+      ],
+      "en": [
+        {
+          "text": "(company) auditor"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "監査役は company auditor、会計監査人は financial auditor。機関の違いごと覚えましょう。",
+          "say": "監査役は カンパニー・オーディター、会計監査人は ファイナンシャル・オーディター。機関の違いごと覚えましょう。"
+        }
+      ],
+      "big": "監査役 ≠ 会計監査人",
+      "body": "company auditor / financial auditor"
+    }
+  ],
+  "queuedAt": "2026-11-07T02:30:05.000Z"
+}

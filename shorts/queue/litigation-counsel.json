@@ -1,0 +1,192 @@
+{
+  "id": "litigation-counsel",
+  "title": "訴訟代理人は counsel？ 辞書の2候補を整理 #法律英語 #Shorts",
+  "term": "訴訟代理人",
+  "reading": "そしょうだいりにん",
+  "dictVersion": "19.0",
+  "refs": [
+    {
+      "headword": "訴訟代理人",
+      "en": "counsel"
+    },
+    {
+      "headword": "訴訟代理人",
+      "en": "litigation representative"
+    },
+    {
+      "headword": "委任状",
+      "en": "power of attorney"
+    },
+    {
+      "headword": "訴状",
+      "en": "complaint"
+    }
+  ],
+  "beats": [
+    {
+      "kind": "hook",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "訴訟代理人。英語は counsel と litigation representative、どちらが正しい？",
+          "say": "訴訟代理人。英語は カウンセル と リティゲーション・レプレゼンタティブ、どちらが正しい？"
+        }
+      ],
+      "big": "訴訟代理人",
+      "en": [
+        {
+          "text": "counsel",
+          "tag": "候補1"
+        },
+        {
+          "text": "litigation representative",
+          "tag": "候補2"
+        }
+      ],
+      "body": "どちらか一つだけが正解？",
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "法令用語日英標準対訳辞書には、"
+        },
+        {
+          "lang": "en",
+          "text": "counsel"
+        },
+        {
+          "lang": "ja",
+          "text": "と"
+        },
+        {
+          "lang": "en",
+          "text": "litigation representative"
+        },
+        {
+          "lang": "ja",
+          "text": "の両方が掲載されています。"
+        }
+      ],
+      "label": "辞書の候補",
+      "en": [
+        {
+          "text": "counsel"
+        },
+        {
+          "text": "litigation representative"
+        }
+      ]
+    },
+    {
+      "kind": "twist",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "辞書の該当行には、両候補を分ける使い分け基準が示されていません。したがって、どちらかを常に誤りとする説明はできません。法令・文脈・文書内の統一を優先します。"
+        }
+      ],
+      "label": "決めつけない",
+      "body": "辞書の掲載だけで細かな使い分けを創作しない"
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "法令用語辞書に載る一つ目の候補は？"
+        }
+      ],
+      "big": "訴訟代理人",
+      "body": "辞書の候補は？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "counsel"
+        }
+      ],
+      "en": [
+        {
+          "text": "counsel"
+        }
+      ]
+    },
+    {
+      "kind": "related",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "代理権を証する委任状は"
+        },
+        {
+          "lang": "en",
+          "text": "power of attorney"
+        },
+        {
+          "lang": "ja",
+          "text": "。訴状は"
+        },
+        {
+          "lang": "en",
+          "text": "complaint"
+        }
+      ],
+      "label": "書類・訴え",
+      "en": [
+        {
+          "text": "power of attorney",
+          "tag": "委任状"
+        },
+        {
+          "text": "complaint",
+          "tag": "訴状"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "もう一つの辞書掲載候補を答えてください。"
+        }
+      ],
+      "big": "もう一つの候補",
+      "body": "訴訟代理人の訳語は？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "litigation representative"
+        }
+      ],
+      "en": [
+        {
+          "text": "litigation representative"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "訴訟代理人は counsel または litigation representative。根拠のない使い分けを作らず、文脈を確認しましょう。",
+          "say": "訴訟代理人は カウンセル または リティゲーション・レプレゼンタティブ。根拠のない使い分けを作らず、文脈を確認しましょう。"
+        }
+      ],
+      "big": "候補は2つ",
+      "body": "文脈で整える"
+    }
+  ],
+  "queuedAt": "2026-11-07T02:30:04.000Z"
+}

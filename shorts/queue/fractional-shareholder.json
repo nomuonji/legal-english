@@ -1,0 +1,169 @@
+{
+  "id": "fractional-shareholder",
+  "title": "単元未満株主は議決権を使える？ 会社法189条 #法律英語 #Shorts",
+  "term": "単元未満株主",
+  "reading": "たんげんみまんかぶぬし",
+  "dictVersion": "19.0",
+  "refs": [
+    {
+      "headword": "単元未満株主",
+      "en": "holder of share less than one (share) unit"
+    },
+    {
+      "headword": "単元未満株式",
+      "en": "share less than one unit"
+    },
+    {
+      "headword": "議決権",
+      "en": "voting rights"
+    },
+    {
+      "headword": "株主総会",
+      "en": "shareholders meeting"
+    }
+  ],
+  "beats": [
+    {
+      "kind": "hook",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "1単元に満たない株式しか持たない株主。株主総会で議決権を行使できる？"
+        }
+      ],
+      "big": "単元未満株主",
+      "body": "株主総会で議決権を使える？",
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "会社法189条1項。単元未満株式については、株主総会や種類株主総会で議決権を行使できません。"
+        }
+      ],
+      "label": "会社法189条1項",
+      "body": "その単元未満株式について議決権なし"
+    },
+    {
+      "kind": "twist",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "ただし、単元未満株主の権利が全部なくなるわけではありません。189条2項は、定款で制限できる権利と、制限できない権利を分けています。"
+        }
+      ],
+      "label": "権利が全部消える？",
+      "body": "それは違う。189条2項の例外がある"
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "単元未満株主。辞書の長い訳語を答えてください。"
+        }
+      ],
+      "big": "単元未満株主",
+      "body": "英語では？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "holder of share less than one (share) unit"
+        }
+      ],
+      "en": [
+        {
+          "text": "holder of share less than one (share) unit"
+        }
+      ]
+    },
+    {
+      "kind": "related",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "単元未満株式は"
+        },
+        {
+          "lang": "en",
+          "text": "share less than one unit"
+        },
+        {
+          "lang": "ja",
+          "text": "。議決権は"
+        },
+        {
+          "lang": "en",
+          "text": "voting rights"
+        },
+        {
+          "lang": "ja",
+          "text": "。株主総会は"
+        },
+        {
+          "lang": "en",
+          "text": "shareholders meeting"
+        }
+      ],
+      "label": "関連用語",
+      "en": [
+        {
+          "text": "share less than one unit",
+          "tag": "単元未満株式"
+        },
+        {
+          "text": "voting rights",
+          "tag": "議決権"
+        },
+        {
+          "text": "shareholders meeting",
+          "tag": "株主総会"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "株主ではなく、1単元に満たない株式そのものは？"
+        }
+      ],
+      "big": "単元未満株式",
+      "body": "英語では？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "share less than one unit"
+        }
+      ],
+      "en": [
+        {
+          "text": "share less than one unit"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "単元未満株式に議決権はない。ただし、他の権利まで一律に消えるわけではありません。"
+        }
+      ],
+      "big": "議決権は行使不可",
+      "body": "他の権利は189条2項を確認"
+    }
+  ],
+  "queuedAt": "2026-11-07T02:30:11.000Z"
+}

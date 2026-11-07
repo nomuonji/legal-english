@@ -1,0 +1,204 @@
+{
+  "id": "object-of-claim",
+  "title": "請求の趣旨は gist ではない？ 辞書の正解 #法律英語 #Shorts",
+  "term": "請求の趣旨",
+  "reading": "せいきゅうのしゅし",
+  "dictVersion": "19.0",
+  "refs": [
+    {
+      "headword": "請求の趣旨",
+      "en": "object of claim"
+    },
+    {
+      "headword": "請求の趣旨",
+      "en": "gist",
+      "via": "note"
+    },
+    {
+      "headword": "訴状",
+      "en": "complaint"
+    },
+    {
+      "headword": "請求の原因",
+      "en": "statement of claim"
+    }
+  ],
+  "beats": [
+    {
+      "kind": "hook",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "「請求の趣旨」。gist と訳せばいい？",
+          "say": "「請求の趣旨」。ジスト と訳せばいい？"
+        }
+      ],
+      "big": "請求の趣旨",
+      "en": [
+        {
+          "text": "gist",
+          "tag": "？"
+        }
+      ],
+      "body": "法令用語辞書は別の訳",
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "法令用語日英標準対訳辞書が示す訳語は、"
+        },
+        {
+          "lang": "en",
+          "text": "object of claim"
+        },
+        {
+          "lang": "ja",
+          "text": "です。"
+        }
+      ],
+      "label": "標準対訳",
+      "en": [
+        {
+          "text": "object of claim"
+        }
+      ],
+      "body": "原告が求める判決内容を示す部分"
+    },
+    {
+      "kind": "twist",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "辞書の注釈は、common law pleading の",
+          "say": "辞書の注釈は、コモンローの訴状実務 の"
+        },
+        {
+          "lang": "en",
+          "text": "gist"
+        },
+        {
+          "lang": "ja",
+          "text": "とは異なる、と明記しています。日本の民事訴訟法上の概念を、似た英単語だけで置き換えないこと。"
+        }
+      ],
+      "label": "なぜ gist ではない？",
+      "en": [
+        {
+          "text": "gist",
+          "tag": "注釈に登場"
+        }
+      ],
+      "body": "common law pleading の用語とは異なる"
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "原告が、どんな判決を求めるのか。その結論部分は？"
+        }
+      ],
+      "big": "請求の趣旨",
+      "body": "標準対訳は？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "object of claim"
+        },
+        {
+          "lang": "ja",
+          "text": "です。"
+        }
+      ],
+      "en": [
+        {
+          "text": "object of claim"
+        }
+      ]
+    },
+    {
+      "kind": "related",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "訴状は"
+        },
+        {
+          "lang": "en",
+          "text": "complaint"
+        },
+        {
+          "lang": "ja",
+          "text": "。請求の原因は"
+        },
+        {
+          "lang": "en",
+          "text": "statement of claim"
+        }
+      ],
+      "label": "訴状の中で",
+      "en": [
+        {
+          "text": "complaint",
+          "tag": "訴状"
+        },
+        {
+          "text": "statement of claim",
+          "tag": "請求の原因"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "辞書注釈に出てくる gist。これを標準訳にしてよい？",
+          "say": "辞書注釈に出てくる ジスト。これを標準訳にしてよい？"
+        }
+      ],
+      "big": "gist",
+      "body": "請求の趣旨の標準訳？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "object of claim"
+        },
+        {
+          "lang": "ja",
+          "text": "gist と混同しない。",
+          "say": "ジスト と混同しない。"
+        }
+      ],
+      "en": [
+        {
+          "text": "object of claim"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "請求の趣旨は object of claim。日本法の概念を、英米法の似た表現で雑に置き換えない。",
+          "say": "請求の趣旨は オブジェクト・オブ・クレーム。日本法の概念を、英米法の似た表現で雑に置き換えない。"
+        }
+      ],
+      "big": "請求の趣旨",
+      "body": "object of claim"
+    }
+  ],
+  "queuedAt": "2026-11-07T02:30:02.000Z"
+}

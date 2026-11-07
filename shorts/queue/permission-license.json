@@ -1,0 +1,198 @@
+{
+  "id": "permission-license",
+  "title": "許可は permission？ license？ 継続性で使い分け #法律英語 #Shorts",
+  "term": "許可",
+  "reading": "きょか",
+  "dictVersion": "19.0",
+  "refs": [
+    {
+      "headword": "許可",
+      "en": "permission"
+    },
+    {
+      "headword": "許可",
+      "en": "license"
+    },
+    {
+      "headword": "農地",
+      "en": "cropland"
+    },
+    {
+      "headword": "農地",
+      "en": "farmland"
+    }
+  ],
+  "beats": [
+    {
+      "kind": "hook",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "日本語はどちらも「許可」。permission と license の差は？",
+          "say": "日本語はどちらも「許可」。パーミッション と ライセンス の差は？"
+        }
+      ],
+      "big": "許可",
+      "en": [
+        {
+          "text": "permission",
+          "tag": "？"
+        },
+        {
+          "text": "license",
+          "tag": "？"
+        }
+      ],
+      "body": "辞書の基準は継続性",
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "辞書では、原則的な許可は"
+        },
+        {
+          "lang": "en",
+          "text": "permission"
+        },
+        {
+          "lang": "ja",
+          "text": "です。"
+        }
+      ],
+      "label": "一回的な許可",
+      "en": [
+        {
+          "text": "permission"
+        }
+      ]
+    },
+    {
+      "kind": "twist",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "一回で終わらず、継続的な事業を認める許可は"
+        },
+        {
+          "lang": "en",
+          "text": "license"
+        },
+        {
+          "lang": "ja",
+          "text": "。辞書はこの使い分け基準を載せています。"
+        }
+      ],
+      "label": "継続的な許可",
+      "en": [
+        {
+          "text": "license"
+        }
+      ],
+      "body": "事業の許可など、継続する権限"
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "個別の行為など、一回的な許可は？"
+        }
+      ],
+      "big": "一回的な許可",
+      "body": "どちら？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "permission"
+        }
+      ],
+      "en": [
+        {
+          "text": "permission"
+        }
+      ]
+    },
+    {
+      "kind": "related",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "農地法の定義語としては"
+        },
+        {
+          "lang": "en",
+          "text": "cropland"
+        },
+        {
+          "lang": "ja",
+          "text": "。辞書には"
+        },
+        {
+          "lang": "en",
+          "text": "farmland"
+        },
+        {
+          "lang": "ja",
+          "text": "も候補としてあります。"
+        }
+      ],
+      "label": "農地法の語",
+      "en": [
+        {
+          "text": "cropland",
+          "tag": "農地"
+        },
+        {
+          "text": "farmland",
+          "tag": "農地"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "事業の許可のように、継続的な許可は？"
+        }
+      ],
+      "big": "継続的な事業の許可",
+      "body": "英語では？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "license"
+        }
+      ],
+      "en": [
+        {
+          "text": "license"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "許可は permission が原則。継続的な事業の許可なら license。辞書の基準ごと覚えましょう。",
+          "say": "許可は パーミッション が原則。継続的な事業の許可なら ライセンス。辞書の基準ごと覚えましょう。"
+        }
+      ],
+      "big": "一回的＝permission",
+      "body": "継続的＝license"
+    }
+  ],
+  "queuedAt": "2026-11-07T02:30:09.000Z"
+}

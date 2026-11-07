@@ -1,0 +1,188 @@
+{
+  "id": "shareholder-meeting-inspector",
+  "title": "株主総会の検査役｜1％と6か月を区別 #法律英語 #Shorts",
+  "term": "検査役",
+  "reading": "けんさやく",
+  "dictVersion": "19.0",
+  "refs": [
+    {
+      "headword": "検査役",
+      "en": "inspector"
+    },
+    {
+      "headword": "株主総会",
+      "en": "shareholders meeting"
+    },
+    {
+      "headword": "議決権",
+      "en": "voting rights"
+    },
+    {
+      "headword": "株主",
+      "en": "shareholder"
+    }
+  ],
+  "beats": [
+    {
+      "kind": "hook",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "株主総会の招集手続や決議方法を調査するため、裁判所に選任を申し立てる人は？"
+        }
+      ],
+      "big": "検査役",
+      "body": "株主総会の手続を調べる人",
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "検査役の英語は"
+        },
+        {
+          "lang": "en",
+          "text": "inspector"
+        },
+        {
+          "lang": "ja",
+          "text": "です。"
+        }
+      ],
+      "label": "標準対訳",
+      "en": [
+        {
+          "text": "inspector"
+        }
+      ]
+    },
+    {
+      "kind": "twist",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "会社法306条。原則として、総株主の議決権の1％以上を持つ株主は、株主総会の前に裁判所へ検査役の選任を申し立てられます。定款で割合を下げることもできます。"
+        }
+      ],
+      "label": "会社法306条",
+      "body": "原則1％以上の議決権を持つ株主"
+    },
+    {
+      "kind": "twist",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "さらに、公開会社で取締役会設置会社なら、対象となる議決権を6か月前から継続して持つ要件が加わります。定款で期間を短くできます。"
+        }
+      ],
+      "label": "公開会社の取締役会設置会社",
+      "body": "6か月継続保有の追加要件"
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "株主総会の手続を調査する検査役。英語では？"
+        }
+      ],
+      "big": "検査役",
+      "body": "英語では？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "inspector"
+        }
+      ],
+      "en": [
+        {
+          "text": "inspector"
+        }
+      ]
+    },
+    {
+      "kind": "related",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "株主総会は"
+        },
+        {
+          "lang": "en",
+          "text": "shareholders meeting"
+        },
+        {
+          "lang": "ja",
+          "text": "。議決権は"
+        },
+        {
+          "lang": "en",
+          "text": "voting rights"
+        },
+        {
+          "lang": "ja",
+          "text": "。株主は"
+        },
+        {
+          "lang": "en",
+          "text": "shareholder"
+        }
+      ],
+      "label": "調査の対象",
+      "en": [
+        {
+          "text": "shareholders meeting",
+          "tag": "株主総会"
+        },
+        {
+          "text": "voting rights",
+          "tag": "議決権"
+        },
+        {
+          "text": "shareholder",
+          "tag": "株主"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "この会社類型で追加される継続保有期間は何か月？"
+        }
+      ],
+      "big": "公開会社＋取締役会設置会社",
+      "body": "継続保有期間は？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "6か月です。割合の1％と、期間の6か月を混同しない。"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "検査役は inspector。会社法306条の1％と、特定の会社類型に追加される6か月をセットで覚えましょう。",
+          "say": "検査役は インスペクター。会社法306条の1％と、特定の会社類型に追加される6か月をセットで覚えましょう。"
+        }
+      ],
+      "big": "原則1％",
+      "body": "公開会社の取締役会設置会社は6か月"
+    }
+  ],
+  "queuedAt": "2026-11-07T02:30:12.000Z"
+}

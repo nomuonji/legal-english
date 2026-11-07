@@ -1,0 +1,207 @@
+{
+  "id": "meeting-notice",
+  "title": "株主総会の招集通知｜口頭でよい会社は？ #法律英語 #Shorts",
+  "term": "招集通知",
+  "reading": "しょうしゅうつうち",
+  "dictVersion": "19.0",
+  "refs": [
+    {
+      "headword": "招集通知",
+      "en": "notice of calling"
+    },
+    {
+      "headword": "招集通知",
+      "en": "convocation notice"
+    },
+    {
+      "headword": "招集",
+      "en": "calling"
+    },
+    {
+      "headword": "通知",
+      "en": "notice"
+    },
+    {
+      "headword": "株主総会",
+      "en": "shareholders meeting"
+    },
+    {
+      "headword": "電磁的方法",
+      "en": "electronic or magnetic means"
+    }
+  ],
+  "beats": [
+    {
+      "kind": "hook",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "株主総会の招集通知。どの会社でも書面で出さないといけない？"
+        }
+      ],
+      "big": "招集通知",
+      "body": "株主総会の通知、口頭でもいい？",
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "招集通知の訳語として、辞書には"
+        },
+        {
+          "lang": "en",
+          "text": "notice of calling"
+        },
+        {
+          "lang": "ja",
+          "text": "と"
+        },
+        {
+          "lang": "en",
+          "text": "convocation notice"
+        },
+        {
+          "lang": "ja",
+          "text": "の候補が載っています。"
+        }
+      ],
+      "label": "辞書の訳語",
+      "en": [
+        {
+          "text": "notice of calling"
+        },
+        {
+          "text": "convocation notice"
+        }
+      ]
+    },
+    {
+      "kind": "twist",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "会社法299条2項。取締役会設置会社では、招集通知は書面で発しなければなりません。株主の承諾があれば、電磁的方法による通知も認められます。"
+        }
+      ],
+      "label": "会社法299条",
+      "body": "取締役会設置会社は書面通知が原則"
+    },
+    {
+      "kind": "twist",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "一方、取締役会設置会社以外では、書面投票などを認める場合を除き、書面通知は必須ではありません。口頭でも通知できます。"
+        }
+      ],
+      "label": "非取締役会設置会社",
+      "body": "書面投票等を定めない場合は口頭も可"
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "株主総会の招集通知。辞書の候補の一つは？"
+        }
+      ],
+      "big": "招集通知",
+      "body": "訳語の一つは？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "notice of calling"
+        }
+      ],
+      "en": [
+        {
+          "text": "notice of calling"
+        }
+      ]
+    },
+    {
+      "kind": "related",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "招集は"
+        },
+        {
+          "lang": "en",
+          "text": "calling"
+        },
+        {
+          "lang": "ja",
+          "text": "。通知は"
+        },
+        {
+          "lang": "en",
+          "text": "notice"
+        },
+        {
+          "lang": "ja",
+          "text": "。株主総会は"
+        },
+        {
+          "lang": "en",
+          "text": "shareholders meeting"
+        }
+      ],
+      "label": "分けて覚える",
+      "en": [
+        {
+          "text": "calling",
+          "tag": "招集"
+        },
+        {
+          "text": "notice",
+          "tag": "通知"
+        },
+        {
+          "text": "shareholders meeting",
+          "tag": "株主総会"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "取締役会設置会社が株主へ発する招集通知の方式は？"
+        }
+      ],
+      "big": "取締役会設置会社",
+      "body": "通知の方式は？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "書面が原則。株主の承諾があれば電磁的方法も可能です。"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "招集通知は notice of calling など。通知方式は、会社が取締役会設置会社かどうかで確認しましょう。",
+          "say": "招集通知は ノーティス・オブ・コーリング など。通知方式は、会社が取締役会設置会社かどうかで確認しましょう。"
+        }
+      ],
+      "big": "招集通知",
+      "body": "口頭か書面かは会社類型で判断"
+    }
+  ],
+  "queuedAt": "2026-11-07T02:30:13.000Z"
+}

@@ -1,0 +1,216 @@
+{
+  "id": "injunction",
+  "title": "新株予約権の発行を止める｜差止めは injunction #法律英語 #Shorts",
+  "term": "差止め",
+  "reading": "さしとめ",
+  "dictVersion": "19.0",
+  "refs": [
+    {
+      "headword": "差止め",
+      "en": "injunction"
+    },
+    {
+      "headword": "新株予約権",
+      "en": "share option"
+    },
+    {
+      "headword": "株主",
+      "en": "shareholder"
+    },
+    {
+      "headword": "株主総会",
+      "en": "shareholders meeting"
+    }
+  ],
+  "example": {
+    "headword": "差止め",
+    "ja": "差止請求権",
+    "en": "Right to Demand an Injunction",
+    "source": "著作権法第112条見出し",
+    "highlight": "Injunction"
+  },
+  "beats": [
+    {
+      "kind": "hook",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "違法な新株予約権の発行を止めたい。法令用語の「差止め」は？"
+        }
+      ],
+      "big": "差止め",
+      "body": "新株予約権の発行を止める請求",
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "差止めの訳語は"
+        },
+        {
+          "lang": "en",
+          "text": "injunction"
+        },
+        {
+          "lang": "ja",
+          "text": "です。"
+        }
+      ],
+      "label": "標準対訳",
+      "en": [
+        {
+          "text": "injunction"
+        }
+      ]
+    },
+    {
+      "kind": "twist",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "会社法247条では、募集新株予約権の発行が法令・定款に違反する場合、または著しく不公正な方法で行われ、株主が不利益を受けるおそれがあるとき、株主が発行をやめるよう請求できます。"
+        }
+      ],
+      "label": "会社法247条",
+      "en": [
+        {
+          "text": "share option"
+        },
+        {
+          "text": "shareholder"
+        }
+      ],
+      "body": "法令・定款違反か、著しく不公正な発行"
+    },
+    {
+      "kind": "example",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "法令用語辞書の見出し語と用例です。"
+        },
+        {
+          "lang": "en",
+          "text": "Right to Demand an Injunction"
+        }
+      ],
+      "label": "辞書の用例",
+      "en": [
+        {
+          "text": "injunction"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "差止め。標準対訳を答えてください。"
+        }
+      ],
+      "big": "差止め",
+      "body": "英語では？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "injunction"
+        }
+      ],
+      "en": [
+        {
+          "text": "injunction"
+        }
+      ]
+    },
+    {
+      "kind": "related",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "新株予約権は"
+        },
+        {
+          "lang": "en",
+          "text": "share option"
+        },
+        {
+          "lang": "ja",
+          "text": "。株主は"
+        },
+        {
+          "lang": "en",
+          "text": "shareholder"
+        },
+        {
+          "lang": "ja",
+          "text": "。株主総会は"
+        },
+        {
+          "lang": "en",
+          "text": "shareholders meeting"
+        }
+      ],
+      "label": "会社法247条",
+      "en": [
+        {
+          "text": "share option",
+          "tag": "新株予約権"
+        },
+        {
+          "text": "shareholder",
+          "tag": "株主"
+        },
+        {
+          "text": "shareholders meeting",
+          "tag": "株主総会"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "会社法247条で、発行をやめるよう請求できるのは誰？"
+        }
+      ],
+      "big": "発行停止を請求できる人",
+      "body": "会社法247条では？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "shareholder"
+        }
+      ],
+      "en": [
+        {
+          "text": "shareholder"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "差止めは injunction。会社法247条は、要件と請求できる主体をセットで覚えましょう。",
+          "say": "差止めは インジャンクション。会社法247条は、要件と請求できる主体をセットで覚えましょう。"
+        }
+      ],
+      "big": "差止め＝injunction",
+      "body": "会社法247条も確認"
+    }
+  ],
+  "queuedAt": "2026-11-07T02:30:08.000Z"
+}

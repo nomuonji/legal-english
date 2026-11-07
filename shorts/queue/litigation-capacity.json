@@ -1,0 +1,173 @@
+{
+  "id": "litigation-capacity",
+  "title": "被保佐人が訴えられたら？ 同意不要の場面 #法律英語 #Shorts",
+  "term": "訴訟能力",
+  "reading": "そしょうのうりょく",
+  "dictVersion": "19.0",
+  "refs": [
+    {
+      "headword": "訴訟能力",
+      "en": "capacity to sue or be sued"
+    },
+    {
+      "headword": "被保佐人",
+      "en": "person under curatorship"
+    },
+    {
+      "headword": "被補助人",
+      "en": "person under assistantship"
+    },
+    {
+      "headword": "保佐人",
+      "en": "curator"
+    },
+    {
+      "headword": "補助人",
+      "en": "assistant"
+    }
+  ],
+  "beats": [
+    {
+      "kind": "hook",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "被保佐人が相手から訴えられた。応訴には保佐人の同意が必要？"
+        }
+      ],
+      "big": "被保佐人",
+      "body": "相手から訴えられた。保佐人の同意は？",
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "民事訴訟法32条1項。相手方が提起した訴えや上訴に対して訴訟行為をする場合、保佐人などの同意その他の授権は要りません。"
+        }
+      ],
+      "label": "民訴法32条1項",
+      "body": "相手方が提起した訴え・上訴への対応"
+    },
+    {
+      "kind": "twist",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "「訴訟行為はいつでも同意不要」という意味ではありません。相手方の裁判を受ける権利を妨げないための、応訴に関する特則です。"
+        }
+      ],
+      "label": "ここを混同しない",
+      "body": "自分から行う行為と、相手への応訴は別"
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "被保佐人。法令用語辞書の英語は？"
+        }
+      ],
+      "big": "被保佐人",
+      "body": "英語では？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "person under curatorship"
+        }
+      ],
+      "en": [
+        {
+          "text": "person under curatorship"
+        }
+      ]
+    },
+    {
+      "kind": "related",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "被補助人は"
+        },
+        {
+          "lang": "en",
+          "text": "person under assistantship"
+        },
+        {
+          "lang": "ja",
+          "text": "。保佐人は"
+        },
+        {
+          "lang": "en",
+          "text": "curator"
+        },
+        {
+          "lang": "ja",
+          "text": "。補助人は"
+        },
+        {
+          "lang": "en",
+          "text": "assistant"
+        }
+      ],
+      "label": "似た用語",
+      "en": [
+        {
+          "text": "person under assistantship",
+          "tag": "被補助人"
+        },
+        {
+          "text": "curator",
+          "tag": "保佐人"
+        },
+        {
+          "text": "assistant",
+          "tag": "補助人"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "訴える側にも、訴えられる側にも関係する「訴訟能力」は？"
+        }
+      ],
+      "big": "訴訟能力",
+      "body": "英語では？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "capacity to sue or be sued"
+        }
+      ],
+      "en": [
+        {
+          "text": "capacity to sue or be sued"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "相手の訴えへの応訴と、自分から行う訴訟行為を区別。条文の対象を限定して覚えましょう。"
+        }
+      ],
+      "big": "応訴は同意不要",
+      "body": "民訴法32条1項"
+    }
+  ],
+  "queuedAt": "2026-11-07T02:30:03.000Z"
+}

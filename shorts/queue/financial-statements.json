@@ -1,0 +1,210 @@
+{
+  "id": "financial-statements",
+  "title": "計算書類と事業報告｜承認か報告か #法律英語 #Shorts",
+  "term": "計算書類",
+  "reading": "けいさんしょるい",
+  "dictVersion": "19.0",
+  "refs": [
+    {
+      "headword": "計算書類",
+      "en": "financial statements"
+    },
+    {
+      "headword": "事業報告",
+      "en": "business report"
+    },
+    {
+      "headword": "株主総会",
+      "en": "shareholders meeting"
+    },
+    {
+      "headword": "会計監査人",
+      "en": "financial auditor"
+    }
+  ],
+  "beats": [
+    {
+      "kind": "hook",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "定時株主総会に出す計算書類と事業報告。どちらも承認が必要？"
+        }
+      ],
+      "big": "定時株主総会",
+      "body": "計算書類と事業報告、扱いは同じ？",
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "計算書類は"
+        },
+        {
+          "lang": "en",
+          "text": "financial statements"
+        },
+        {
+          "lang": "ja",
+          "text": "。会社法438条2項では、原則として定時株主総会の承認を受けます。"
+        }
+      ],
+      "label": "計算書類",
+      "en": [
+        {
+          "text": "financial statements"
+        }
+      ]
+    },
+    {
+      "kind": "twist",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "事業報告は"
+        },
+        {
+          "lang": "en",
+          "text": "business report"
+        },
+        {
+          "lang": "ja",
+          "text": "。会社法438条3項では、その内容を定時株主総会に報告します。"
+        }
+      ],
+      "label": "事業報告",
+      "en": [
+        {
+          "text": "business report"
+        }
+      ],
+      "body": "内容を定時株主総会に報告"
+    },
+    {
+      "kind": "twist",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "ただし、会計監査人設置会社には439条の特則があり、一定の要件を満たす計算書類は、総会で承認ではなく報告となります。原則と例外を分けてください。"
+        }
+      ],
+      "label": "例外も注意",
+      "en": [
+        {
+          "text": "financial auditor"
+        }
+      ],
+      "body": "会計監査人設置会社には439条の特則"
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "定時株主総会に出す計算書類。英語では？"
+        }
+      ],
+      "big": "計算書類",
+      "body": "英語では？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "financial statements"
+        }
+      ],
+      "en": [
+        {
+          "text": "financial statements"
+        }
+      ]
+    },
+    {
+      "kind": "related",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "事業報告は"
+        },
+        {
+          "lang": "en",
+          "text": "business report"
+        },
+        {
+          "lang": "ja",
+          "text": "。株主総会は"
+        },
+        {
+          "lang": "en",
+          "text": "shareholders meeting"
+        },
+        {
+          "lang": "ja",
+          "text": "。会計監査人は"
+        },
+        {
+          "lang": "en",
+          "text": "financial auditor"
+        }
+      ],
+      "label": "株主総会で",
+      "en": [
+        {
+          "text": "business report",
+          "tag": "事業報告"
+        },
+        {
+          "text": "shareholders meeting",
+          "tag": "株主総会"
+        },
+        {
+          "text": "financial auditor",
+          "tag": "会計監査人"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "株主総会に提出し、内容を報告する事業報告。英語では？"
+        }
+      ],
+      "big": "事業報告",
+      "body": "英語では？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "business report"
+        }
+      ],
+      "en": [
+        {
+          "text": "business report"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "計算書類は原則承認、事業報告は報告。会計監査人設置会社の例外も忘れずに。"
+        }
+      ],
+      "big": "計算書類＝financial statements",
+      "body": "事業報告＝business report"
+    }
+  ],
+  "queuedAt": "2026-11-07T02:30:10.000Z"
+}

@@ -1,0 +1,182 @@
+{
+  "id": "paid-in-amount",
+  "title": "払込金額は未来か過去か｜訳語を取り違えない #法律英語 #Shorts",
+  "term": "払込金額",
+  "reading": "はらいこみきんがく",
+  "dictVersion": "19.0",
+  "refs": [
+    {
+      "headword": "払込金額",
+      "en": "amount to be paid in"
+    },
+    {
+      "headword": "払込金額",
+      "en": "paid-in amount"
+    },
+    {
+      "headword": "払込",
+      "en": "payment"
+    },
+    {
+      "headword": "払込金",
+      "en": "paid money"
+    }
+  ],
+  "beats": [
+    {
+      "kind": "hook",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "払込金額。amount to be paid in と paid-in amount、どう使い分ける？",
+          "say": "払込金額。アマウント・トゥ・ビー・ペイド・イン と ペイドイン・アマウント、どう使い分ける？"
+        }
+      ],
+      "big": "払込金額",
+      "body": "同じ漢字でも時点で訳が変わる",
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "これから払い込むべき金額なら"
+        },
+        {
+          "lang": "en",
+          "text": "amount to be paid in"
+        },
+        {
+          "lang": "ja",
+          "text": "です。"
+        }
+      ],
+      "label": "これから払う",
+      "en": [
+        {
+          "text": "amount to be paid in"
+        }
+      ]
+    },
+    {
+      "kind": "twist",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "すでに払い込まれた金額なら"
+        },
+        {
+          "lang": "en",
+          "text": "paid-in amount"
+        },
+        {
+          "lang": "ja",
+          "text": "。未来の払込か、完了した払込かを見ます。"
+        }
+      ],
+      "label": "既に払った",
+      "en": [
+        {
+          "text": "paid-in amount"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "まだ払い込んでいない、これから払う金額は？"
+        }
+      ],
+      "big": "払込前",
+      "body": "辞書の訳語は？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "amount to be paid in"
+        }
+      ],
+      "en": [
+        {
+          "text": "amount to be paid in"
+        }
+      ]
+    },
+    {
+      "kind": "related",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "払込そのものは"
+        },
+        {
+          "lang": "en",
+          "text": "payment"
+        },
+        {
+          "lang": "ja",
+          "text": "。払込金は"
+        },
+        {
+          "lang": "en",
+          "text": "paid money"
+        }
+      ],
+      "label": "関連語",
+      "en": [
+        {
+          "text": "payment",
+          "tag": "払込"
+        },
+        {
+          "text": "paid money",
+          "tag": "払込金"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "すでに払い込まれた金額を表す訳語は？"
+        }
+      ],
+      "big": "払込済み",
+      "body": "英語では？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "paid-in amount"
+        }
+      ],
+      "en": [
+        {
+          "text": "paid-in amount"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "払込金額は時点で使い分け。これから払うか、すでに払ったかを確認しましょう。"
+        }
+      ],
+      "big": "これから＝amount to be paid in",
+      "body": "払込済み＝paid-in amount"
+    }
+  ],
+  "queuedAt": "2026-11-07T02:30:06.000Z"
+}

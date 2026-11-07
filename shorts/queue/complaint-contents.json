@@ -1,0 +1,203 @@
+{
+  "id": "complaint-contents",
+  "title": "訴状は complaint｜必ず書く3つの項目 #法律英語 #Shorts",
+  "term": "訴状",
+  "reading": "そじょう",
+  "dictVersion": "19.0",
+  "refs": [
+    {
+      "headword": "訴状",
+      "en": "complaint"
+    },
+    {
+      "headword": "請求の趣旨",
+      "en": "object of claim"
+    },
+    {
+      "headword": "請求の原因",
+      "en": "statement of claim"
+    },
+    {
+      "headword": "法定代理人",
+      "en": "legal representative"
+    }
+  ],
+  "beats": [
+    {
+      "kind": "hook",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "訴状に必ず書くもの。訴訟代理人の名前も必要？"
+        }
+      ],
+      "big": "訴状",
+      "en": [
+        {
+          "text": "complaint"
+        }
+      ],
+      "body": "誰の名前を書けばいい？",
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "訴状は、英語で"
+        },
+        {
+          "lang": "en",
+          "text": "complaint"
+        },
+        {
+          "lang": "ja",
+          "text": "。民事訴訟法134条では、訴状の必要的記載事項を定めています。"
+        }
+      ],
+      "label": "英語",
+      "en": [
+        {
+          "text": "complaint"
+        }
+      ]
+    },
+    {
+      "kind": "twist",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "必須なのは、当事者と法定代理人、そして請求の趣旨と請求の原因。訴訟委任による訴訟代理人は、134条2項の列挙にありません。"
+        }
+      ],
+      "label": "必須の記載事項",
+      "en": [
+        {
+          "text": "legal representative"
+        },
+        {
+          "text": "object of claim"
+        },
+        {
+          "text": "statement of claim"
+        }
+      ],
+      "body": "当事者・法定代理人／請求の趣旨・原因"
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "裁判所に提出する訴状。英語では？"
+        }
+      ],
+      "big": "訴状",
+      "body": "英語では？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "complaint"
+        },
+        {
+          "lang": "ja",
+          "text": "です。"
+        }
+      ],
+      "en": [
+        {
+          "text": "complaint"
+        }
+      ]
+    },
+    {
+      "kind": "related",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "法定代理人は"
+        },
+        {
+          "lang": "en",
+          "text": "legal representative"
+        },
+        {
+          "lang": "ja",
+          "text": "。請求の趣旨は"
+        },
+        {
+          "lang": "en",
+          "text": "object of claim"
+        },
+        {
+          "lang": "ja",
+          "text": "。請求の原因は"
+        },
+        {
+          "lang": "en",
+          "text": "statement of claim"
+        }
+      ],
+      "label": "3つの記載事項",
+      "en": [
+        {
+          "text": "legal representative"
+        },
+        {
+          "text": "object of claim"
+        },
+        {
+          "text": "statement of claim"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "訴状に書く「請求の原因」。英語では？"
+        }
+      ],
+      "big": "請求の原因",
+      "body": "英語では？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "statement of claim"
+        },
+        {
+          "lang": "ja",
+          "text": "請求の趣旨とは別の項目です。"
+        }
+      ],
+      "en": [
+        {
+          "text": "statement of claim"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "訴状は complaint。請求の趣旨と請求の原因を、別々に覚えましょう。",
+          "say": "訴状は コンプレイント。請求の趣旨と請求の原因を、別々に覚えましょう。"
+        }
+      ],
+      "big": "訴状＝complaint",
+      "body": "趣旨と原因を分ける"
+    }
+  ],
+  "queuedAt": "2026-11-07T02:30:01.000Z"
+}

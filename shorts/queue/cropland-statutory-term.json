@@ -1,0 +1,227 @@
+{
+  "id": "cropland-statutory-term",
+  "title": "農地法の「農地」は cropland？ 辞書の定義 #法律英語 #Shorts",
+  "term": "農地",
+  "reading": "のうち",
+  "dictVersion": "19.0",
+  "refs": [
+    {
+      "headword": "農地",
+      "en": "cropland"
+    },
+    {
+      "headword": "農地",
+      "en": "farmland"
+    },
+    {
+      "headword": "農地",
+      "en": "agricultural land"
+    },
+    {
+      "headword": "許可",
+      "en": "permission"
+    }
+  ],
+  "example": {
+    "headword": "農地",
+    "ja": "この法律で「農地」とは、耕作の目的の供される土地をいう",
+    "en": "The term \"cropland\" as used in this Act means land used for cultivation",
+    "source": "農地法第2条第1項",
+    "highlight": "cropland"
+  },
+  "beats": [
+    {
+      "kind": "hook",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "農地法の「農地」。いつでも agricultural land と訳せばいい？",
+          "say": "農地法の「農地」。いつでも アグリカルチュラル・ランド と訳せばいい？"
+        }
+      ],
+      "big": "農地",
+      "en": [
+        {
+          "text": "agricultural land",
+          "tag": "？"
+        }
+      ],
+      "body": "農地法の定義語は別候補",
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "法令用語辞書は、農地法第2条1項の定義語に"
+        },
+        {
+          "lang": "en",
+          "text": "cropland"
+        },
+        {
+          "lang": "ja",
+          "text": "を対応させています。"
+        }
+      ],
+      "label": "農地法の定義",
+      "en": [
+        {
+          "text": "cropland"
+        }
+      ]
+    },
+    {
+      "kind": "example",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "辞書の農地法の用例です。"
+        },
+        {
+          "lang": "en",
+          "text": "The term \"cropland\" as used in this Act means land used for cultivation"
+        }
+      ],
+      "label": "法令の用例",
+      "en": [
+        {
+          "text": "cropland"
+        }
+      ]
+    },
+    {
+      "kind": "twist",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "辞書には"
+        },
+        {
+          "lang": "en",
+          "text": "farmland"
+        },
+        {
+          "lang": "ja",
+          "text": "や"
+        },
+        {
+          "lang": "en",
+          "text": "agricultural land"
+        },
+        {
+          "lang": "ja",
+          "text": "も載っています。どれが正解かは、農地法の定義なのか、一般的な土地の説明なのかで判断します。"
+        }
+      ],
+      "label": "一般的な文脈",
+      "en": [
+        {
+          "text": "farmland"
+        },
+        {
+          "text": "agricultural land"
+        }
+      ],
+      "body": "辞書には一般的な候補もある"
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "農地法第2条1項の用例にある英語は？"
+        }
+      ],
+      "big": "農地法の定義語",
+      "body": "辞書の用例は？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "cropland"
+        }
+      ],
+      "en": [
+        {
+          "text": "cropland"
+        }
+      ]
+    },
+    {
+      "kind": "related",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "農地の権利移動では、農地法3条の"
+        },
+        {
+          "lang": "en",
+          "text": "permission"
+        },
+        {
+          "lang": "ja",
+          "text": "が論点になります。一般語としての候補には"
+        },
+        {
+          "lang": "en",
+          "text": "farmland"
+        }
+      ],
+      "label": "農地の権利移動",
+      "en": [
+        {
+          "text": "permission",
+          "tag": "許可"
+        },
+        {
+          "text": "farmland",
+          "tag": "農地の一般語"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "法令の定義語として用いられている訳語を答えてください。"
+        }
+      ],
+      "big": "農地法の定義",
+      "body": "どの訳語を優先？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "cropland"
+        }
+      ],
+      "en": [
+        {
+          "text": "cropland"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "農地法の定義なら cropland。farmland や agricultural land と、文脈を無視して置き換えない。",
+          "say": "農地法の定義なら クロップランド。ファームランド や アグリカルチュラル・ランド と、文脈を無視して置き換えない。"
+        }
+      ],
+      "big": "農地法＝cropland",
+      "body": "一般語は文脈で選ぶ"
+    }
+  ],
+  "queuedAt": "2026-11-07T02:30:14.000Z"
+}

@@ -1,0 +1,229 @@
+{
+  "id": "mandate-delegation",
+  "title": "「委任」は mandate？ 権限を渡すなら delegation #法律英語 #Shorts",
+  "term": "委任",
+  "reading": "いにん",
+  "dictVersion": "19.0",
+  "refs": [
+    {
+      "headword": "委任",
+      "en": "mandate"
+    },
+    {
+      "headword": "委任",
+      "en": "delegation"
+    },
+    {
+      "headword": "委任事務",
+      "en": "delegated business"
+    },
+    {
+      "headword": "委任状",
+      "en": "power of attorney"
+    }
+  ],
+  "example": {
+    "headword": "委任",
+    "ja": "委任は、当事者の一方が法律行為をすることを相手方に委託し、相手方がこれを承諾することによって、その効力を生ずる。",
+    "en": "A mandate becomes effective when one of the parties mandates the other party to perform a juridical act, and the other party accepts the mandate.",
+    "source": "民法第643条",
+    "highlight": "mandate"
+  },
+  "beats": [
+    {
+      "kind": "hook",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "「委任」。契約の話と、権限を渡す話。同じ英語でいい？"
+        }
+      ],
+      "big": "委任",
+      "en": [
+        {
+          "text": "mandate",
+          "tag": "契約？"
+        },
+        {
+          "text": "delegation",
+          "tag": "権限？"
+        }
+      ],
+      "body": "同じ日本語でも英語は変わる",
+      "pause": 2.5
+    },
+    {
+      "kind": "reveal",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "民法上の委任契約は、"
+        },
+        {
+          "lang": "en",
+          "text": "mandate"
+        },
+        {
+          "lang": "ja",
+          "text": "。依頼する側と、引き受ける側の合意で成立します。"
+        }
+      ],
+      "label": "民法上の契約",
+      "en": [
+        {
+          "text": "mandate"
+        }
+      ],
+      "body": "法律行為を頼み、相手が承諾する契約"
+    },
+    {
+      "kind": "twist",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "一方、会社法で、使用人に一定の権限を委ねる意味なら、"
+        },
+        {
+          "lang": "en",
+          "text": "delegation"
+        },
+        {
+          "lang": "ja",
+          "text": "です。"
+        }
+      ],
+      "label": "権限の委任",
+      "en": [
+        {
+          "text": "delegation"
+        }
+      ],
+      "body": "権限を他者に委ねる意味"
+    },
+    {
+      "kind": "example",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "法令用語辞書に載る、民法643条の英文です。"
+        },
+        {
+          "lang": "en",
+          "text": "A mandate becomes effective when one of the parties mandates the other party to perform a juridical act, and the other party accepts the mandate."
+        }
+      ],
+      "label": "法令の用例",
+      "en": [
+        {
+          "text": "mandate"
+        }
+      ],
+      "body": "民法643条の定義"
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "法律行為を頼み、相手が承諾する契約。英語では？"
+        }
+      ],
+      "big": "委任契約",
+      "body": "民法643条の英語は？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "mandate"
+        },
+        {
+          "lang": "ja",
+          "text": "契約としての委任です。"
+        }
+      ],
+      "en": [
+        {
+          "text": "mandate"
+        }
+      ]
+    },
+    {
+      "kind": "related",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "あわせて、委任事務は"
+        },
+        {
+          "lang": "en",
+          "text": "delegated business"
+        },
+        {
+          "lang": "ja",
+          "text": "。委任状は"
+        },
+        {
+          "lang": "en",
+          "text": "power of attorney"
+        }
+      ],
+      "label": "関連語",
+      "en": [
+        {
+          "text": "delegated business",
+          "tag": "委任事務"
+        },
+        {
+          "text": "power of attorney",
+          "tag": "委任状"
+        }
+      ]
+    },
+    {
+      "kind": "recall",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "使用人などに権限を委ねる意味の「委任」は？"
+        }
+      ],
+      "big": "権限を委ねる",
+      "body": "こちらの英語は？",
+      "pause": 2.5
+    },
+    {
+      "kind": "answer",
+      "lines": [
+        {
+          "lang": "en",
+          "text": "delegation"
+        },
+        {
+          "lang": "ja",
+          "text": "契約の意味の委任とは区別します。"
+        }
+      ],
+      "en": [
+        {
+          "text": "delegation"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "lines": [
+        {
+          "lang": "ja",
+          "text": "委任契約は mandate、権限を委ねることは delegation。文脈で使い分けましょう。",
+          "say": "委任契約は マンデート、権限を委ねることは デリゲーション。文脈で使い分けましょう。"
+        }
+      ],
+      "big": "契約＝mandate",
+      "body": "権限委譲＝delegation"
+    }
+  ],
+  "queuedAt": "2026-11-07T02:30:00.000Z"
+}
